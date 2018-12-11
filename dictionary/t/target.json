@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A person, object, or place selected as the aim of an attack.",
+      "examples": [],
+      "synonyms": [
+        "prey",
+        "quarry",
+        "game",
+        "kill",
+        "bag"
+      ]
+    },
+    {
+      "description": "A small round shield or buckler.",
+      "examples": [],
+      "synonyms": [
+        "buckler"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Select as an object of attention or attack.",
+      "examples": [
+        "two men were targeted by the attackers"
+      ],
+      "synonyms": [
+        "pick out",
+        "single out",
+        "select",
+        "choose",
+        "decide on",
+        "earmark",
+        "fix on"
+      ]
+    }
+  ],
+  "phrases": [
+    "McGrath was on target with a header",
+    "the new police station is on target for a June opening",
+    "Spending by all government departments is still on target, as 680m earmarked for expenditure has not been spent yet.",
+    "He will also confound critics by claiming the economy is still on target to hit the growth forecasts he set out earlier this year.",
+    "They had precisely one shot on target, an optimistic punt from Hamed Namouchi from fully 40 yards."
+  ],
+  "origin": "Late Middle English (in target (sense 2 of the noun)): diminutive of targe. The verb dates from the early 17th century.",
+  "pronounciation": "/ˈtärɡət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/target_us_1.mp3"
+}

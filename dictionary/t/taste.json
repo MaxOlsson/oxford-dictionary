@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "The sensation of flavor perceived in the mouth and throat on contact with a substance.",
+      "examples": [
+        "the wine had a fruity taste"
+      ],
+      "synonyms": [
+        "flavour",
+        "savour",
+        "relish",
+        "tang",
+        "smack"
+      ]
+    },
+    {
+      "description": "A person's liking for particular flavors.",
+      "examples": [
+        "this pudding is too sweet for my taste"
+      ],
+      "synonyms": [
+        "palate",
+        "sense of taste",
+        "taste buds",
+        "appetite",
+        "stomach"
+      ]
+    },
+    {
+      "description": "The ability to discern what is of good quality or of a high aesthetic standard.",
+      "examples": [
+        "she has awful taste in literature"
+      ],
+      "synonyms": [
+        "judgement",
+        "discrimination",
+        "discernment",
+        "tastefulness",
+        "cultivation",
+        "culture",
+        "refinement",
+        "polish",
+        "finesse",
+        "elegance",
+        "grace",
+        "style",
+        "stylishness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perceive or experience the flavor of.",
+      "examples": [
+        "she had never tasted ice cream before"
+      ],
+      "synonyms": [
+        "perceive",
+        "discern",
+        "make out",
+        "distinguish",
+        "differentiate"
+      ]
+    }
+  ],
+  "phrases": [
+    "this incident has left a bad taste in all our mouths",
+    "Afterwards, Charles had made it all seem so reasonable, so perfectly normal, but whenever Maria recollected that scene, she experienced a bad taste in her mouth.",
+    "It was a good movie, but the whole experience left a bad taste in my mouth, because for the $15 I spent on that one flick, I could have rented three, and I already had the popcorn and soda at home.",
+    "After Shadows, experience with Hollywood left a bad taste in his mouth, so from that point forward Cassavetes either self-financed his films or worked with complete creative control.",
+    "While I'm trying not to let this show sour my entire experience, it definitely left a bad taste in my mouth and made me realize that Edmonton is not my left-wing Mecca in this right-wing province."
+  ],
+  "origin": "Middle English (also in the sense touch): from Old French tast (noun), taster (verb) touch, try, taste, perhaps based on a blend of Latin tangere to touch and gustare to taste.",
+  "pronounciation": "/tāst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/taste_us_1.mp3"
+}

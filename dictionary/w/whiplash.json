@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "The flexible part of a whip or something resembling it.",
+      "examples": []
+    },
+    {
+      "description": "Injury caused by a severe jerk to the head, typically in a motor-vehicle accident.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Jerk or jolt (someone or something) suddenly, typically so as to cause injury.",
+      "examples": [
+        "the force of impact had whiplashed the man's head"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈ(h)wɪpˌlæʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whiplash_us_1.mp3"
+}

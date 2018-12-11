@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "In a regular and even manner.",
+      "examples": [
+        "the business has been growing steadily",
+        "the mountain got steadily steeper"
+      ]
+    },
+    {
+      "description": "In a controlled or unwavering manner.",
+      "examples": [
+        "Nicholas gazed steadily at the face in the crowd"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstedəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steadily_us_1.mp3"
+}

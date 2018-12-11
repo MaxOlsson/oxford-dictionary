@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Plentiful.",
+      "examples": [
+        "the meal was astonishingly plenteous"
+      ],
+      "synonyms": [
+        "abundant",
+        "superabundant",
+        "plentiful",
+        "ample",
+        "profuse",
+        "full",
+        "extensive",
+        "considerable",
+        "substantial",
+        "generous",
+        "bumper",
+        "lavish",
+        "fulsome",
+        "liberal",
+        "bountiful",
+        "overflowing",
+        "abounding",
+        "teeming"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French plentivous, from plentif, -ive, from plente plenty. Compare with bounteous.",
+  "pronounciation": "/ˈplen(t)ēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plenteous_us_1.mp3"
+}

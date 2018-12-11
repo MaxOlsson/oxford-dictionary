@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "An estimate or forecast of a future situation or trend based on a study of present ones.",
+      "examples": [
+        "plans based on projections of slow but positive growth",
+        "population projection is essential for planning"
+      ],
+      "synonyms": [
+        "estimate",
+        "forecast",
+        "prediction",
+        "calculation",
+        "prognosis",
+        "prognostication",
+        "reckoning",
+        "expectation"
+      ]
+    },
+    {
+      "description": "The presentation of an image on a surface, especially a movie screen.",
+      "examples": [
+        "quality illustrations for overhead projection"
+      ]
+    },
+    {
+      "description": "The presentation or promotion of someone or something in a particular way.",
+      "examples": [
+        "the legal profession's projection of an image of altruism"
+      ]
+    },
+    {
+      "description": "A thing that extends outward from something else.",
+      "examples": [
+        "the particle board covered all the sharp projections"
+      ],
+      "synonyms": [
+        "protuberance",
+        "protrusion",
+        "sticking-out bit",
+        "overhang",
+        "ledge",
+        "shelf",
+        "ridge",
+        "prominence",
+        "spur",
+        "outcrop",
+        "outgrowth",
+        "jut",
+        "bulge",
+        "jag",
+        "snag"
+      ]
+    },
+    {
+      "description": "The action of projecting a figure.",
+      "examples": []
+    },
+    {
+      "description": "The representation on a plane surface of any part of the surface of the earth or a celestial sphere.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in projection (sense 6)): from Latin projectio(n-), from proicere throw forth (see project).",
+  "pronounciation": "/prəˈdʒɛkʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/projection_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A crayon made of powdered pigments bound with gum or resin.",
+      "examples": []
+    },
+    {
+      "description": "A soft and delicate shade of a color.",
+      "examples": [
+        "the subtlest of pastels and creams"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of a soft and delicate shade of color.",
+      "examples": [
+        "pastel blue curtains"
+      ],
+      "synonyms": [
+        "pale",
+        "soft",
+        "delicate",
+        "light",
+        "light-coloured",
+        "light-toned",
+        "muted",
+        "subtle",
+        "subdued",
+        "faint",
+        "soft-hued",
+        "low-key",
+        "understated"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: via French from Italian pastello, diminutive of pasta paste.",
+  "pronounciation": "/pæˈstɛl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pastel_us_1.mp3"
+}

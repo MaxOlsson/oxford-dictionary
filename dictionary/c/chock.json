@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A wedge or block placed against a wheel or rounded object, to prevent it from moving.",
+      "examples": [
+        "their aircraft stood gently shuddering against their chocks"
+      ],
+      "synonyms": [
+        "tapered block",
+        "door stop"
+      ]
+    },
+    {
+      "description": "A fitting with a gap at the top, through which a rope or line is run.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Prevent the forward movement of (a wheel or vehicle) with a chock.",
+      "examples": [
+        "the front wheel will need to be chocked"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably from an Old Northern French variant of Old French çouche, çoche block, log, of unknown ultimate origin.",
+  "pronounciation": "/tʃɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chock_us_1.mp3"
+}

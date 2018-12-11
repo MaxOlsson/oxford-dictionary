@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A magical or medicinal potion.",
+      "examples": [
+        "an elixir guaranteed to induce love"
+      ],
+      "synonyms": [
+        "potion",
+        "concoction",
+        "brew",
+        "philtre",
+        "decoction"
+      ]
+    },
+    {
+      "description": "A particular type of medicinal solution.",
+      "examples": [
+        "a cough elixir"
+      ],
+      "synonyms": [
+        "mixture",
+        "solution",
+        "potion",
+        "tincture"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via medieval Latin from Arabic al-'iksīr, from al the + 'iksīr from Greek xērion powder for drying wounds (from xēros dry).",
+  "pronounciation": "/əˈliksər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elixir_us_1.mp3"
+}

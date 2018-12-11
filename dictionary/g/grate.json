@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Reduce (something, especially food) to small shreds by rubbing it on a grater.",
+      "examples": [
+        "peel and roughly grate the carrots"
+      ],
+      "synonyms": [
+        "shred",
+        "rub into pieces",
+        "pulverize",
+        "mince",
+        "grind",
+        "granulate",
+        "crush",
+        "crumble",
+        "mash",
+        "smash",
+        "fragment",
+        "macerate"
+      ]
+    },
+    {
+      "description": "Make an unpleasant rasping sound.",
+      "examples": [
+        "the hinges of the door grated"
+      ],
+      "synonyms": [
+        "rasp",
+        "scrape",
+        "jar",
+        "scratch",
+        "grind",
+        "rub",
+        "drag",
+        "grit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The recess of a fireplace or furnace.",
+      "examples": [
+        "a small coal fire burned in the grate"
+      ]
+    },
+    {
+      "description": "A grating.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (meaning a grating): from Old French, based on Latin cratis hurdle.",
+  "pronounciation": "/ɡrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grate_us_1.mp3"
+}

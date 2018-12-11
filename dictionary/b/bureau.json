@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A chest of drawers.",
+      "examples": [],
+      "synonyms": [
+        "cabinet",
+        "cupboard",
+        "chiffonier",
+        "sideboard"
+      ]
+    },
+    {
+      "description": "An office or department for transacting particular business.",
+      "examples": [
+        "a news bureau",
+        "the London bureau of the Washington Post"
+      ],
+      "synonyms": [
+        "agency",
+        "service",
+        "office",
+        "business",
+        "company",
+        "firm",
+        "organization",
+        "operation",
+        "concern"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from French, originally baize (used to cover writing desks), from Old French burel, probably from bure dark brown, based on Greek purros red.",
+  "pronounciation": "/ˈbjʊroʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bureau_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Move in a twisting or spiraling pattern.",
+      "examples": [
+        "the smoke was swirling around him"
+      ],
+      "synonyms": [
+        "whirl",
+        "eddy",
+        "billow",
+        "spiral",
+        "wind",
+        "churn",
+        "swish",
+        "agitate",
+        "circulate",
+        "revolve",
+        "spin",
+        "twist",
+        "gyrate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quantity of something moving in a swirl.",
+      "examples": [
+        "swirls of dust swept across the floor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (originally Scots in the sense whirlpool): perhaps of Low German or Dutch origin; compare with Dutch zwirrelen to whirl.",
+  "pronounciation": "/swərl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swirl_us_1.mp3"
+}

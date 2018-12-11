@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A structure with a roof and walls, such as a house, school, store, or factory.",
+      "examples": [],
+      "synonyms": [
+        "structure",
+        "construction",
+        "edifice",
+        "erection",
+        "pile"
+      ]
+    },
+    {
+      "description": "The process or business of constructing something.",
+      "examples": [
+        "the building of highways",
+        "building materials"
+      ],
+      "synonyms": [
+        "construction",
+        "erection",
+        "putting up",
+        "raising",
+        "establishment",
+        "fabrication",
+        "production",
+        "assembly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɪldɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/building_us_1.mp3"
+}

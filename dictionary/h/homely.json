@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) unattractive in appearance.",
+      "examples": [],
+      "synonyms": [
+        "unattractive",
+        "plain",
+        "plain-featured",
+        "plain-looking",
+        "plain as a pikestaff",
+        "ordinary-looking",
+        "unprepossessing",
+        "unlovely",
+        "ill-favoured",
+        "ugly"
+      ]
+    },
+    {
+      "description": "(of a place or surroundings) simple but cozy and comfortable, as in one's own home.",
+      "examples": [
+        "a modern hotel with a homely atmosphere"
+      ],
+      "synonyms": [
+        "cosy",
+        "homelike",
+        "homey",
+        "comfortable",
+        "snug",
+        "welcoming",
+        "friendly",
+        "congenial",
+        "hospitable",
+        "informal",
+        "relaxed",
+        "intimate",
+        "warm",
+        "pleasant",
+        "cheerful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhōmlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homely_us_1.mp3"
+}

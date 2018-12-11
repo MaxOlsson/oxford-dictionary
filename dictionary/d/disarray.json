@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A state of disorganization or untidiness.",
+      "examples": [
+        "her gray hair was in disarray",
+        "his plans have been thrown into disarray"
+      ],
+      "synonyms": [
+        "disorder",
+        "confusion",
+        "chaos"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Throw (someone or something) into a state of disorganization or untidiness.",
+      "examples": [
+        "the inspection disarrayed the usual schedule"
+      ],
+      "synonyms": [
+        "disarrange",
+        "make untidy",
+        "bring into disarray",
+        "throw into disarray",
+        "bring into disorder",
+        "throw into disorder",
+        "disorganize",
+        "throw into a state of disorganization",
+        "turn upside-down",
+        "unsettle"
+      ]
+    },
+    {
+      "description": "Strip (someone) of clothing.",
+      "examples": [
+        "attendant damsels to help to disarray her"
+      ],
+      "synonyms": [
+        "take someone's clothes off",
+        "strip",
+        "unclothe",
+        "disrobe"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French dissairay.",
+  "pronounciation": "/ˌdisəˈrā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disarray_us_2.mp3"
+}

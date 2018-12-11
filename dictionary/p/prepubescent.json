@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or in the period preceding puberty.",
+      "examples": [
+        "a prepubescent girl"
+      ],
+      "synonyms": [
+        "young",
+        "teenage",
+        "teenaged",
+        "adolescent",
+        "junior",
+        "underage",
+        "pubescent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A prepubescent boy or girl.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌprēpyo͞oˈbes(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prepubescent_us_1.mp3"
+}

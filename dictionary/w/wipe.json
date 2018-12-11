@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand.",
+      "examples": [
+        "Paul wiped his face with a handkerchief",
+        "he wiped down the kitchen wall"
+      ],
+      "synonyms": [
+        "rub",
+        "clean",
+        "mop",
+        "sponge",
+        "swab"
+      ]
+    },
+    {
+      "description": "Remove or eliminate (something) completely.",
+      "examples": [
+        "things have happened to wipe the smile off Kate's face"
+      ],
+      "synonyms": [
+        "obliterate",
+        "expunge",
+        "erase",
+        "blot out",
+        "remove",
+        "remove all traces of",
+        "blank out"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of wiping.",
+      "examples": [],
+      "synonyms": [
+        "rub",
+        "clean",
+        "mop",
+        "sponge",
+        "swab",
+        "polish"
+      ]
+    },
+    {
+      "description": "A disposable cloth treated with a cleansing agent, for wiping things clean.",
+      "examples": []
+    },
+    {
+      "description": "A cinematographic effect in which an existing picture seems to be wiped out by a new one as the boundary between them moves across the screen.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "they wiped the floor with us in a 36-6 win",
+    "It wiped the floor with almost any other action scene I've ever watched.",
+    "And Mulligan had gotten humiliated enough times when Victor wiped the floor with him to know that that look in someone's eyes meant trouble.",
+    "But I'm encouraged by the fact nobody's wiped the floor with us, not even Chelsea.",
+    "Built as a summer palace in the ninth century, it predates the Alhambra of Granada - and wipes the floor with it, in my opinion.",
+    "the crash wiped 24 percent off stock prices",
+    "Troubled Manchester holiday firm MyTravel plunged deep into crisis today as millions of pounds were wiped off its value.",
+    "As previously reported, Marconi investors and shareholders today have had their first opportunity to quiz the board on its handling of the profits warning which wiped billions off the value of shares.",
+    "Five profit warnings have wiped billions off the market value of Morrison.",
+    "Scotland's homes are facing a staggering repair bill of £6.5bn in a crisis that is threatening to wipe a substantial amount off the value of the property market."
+  ],
+  "origin": "Old English wīpian, of Germanic origin; related to whip.",
+  "pronounciation": "/waɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wipe_us_1.mp3"
+}

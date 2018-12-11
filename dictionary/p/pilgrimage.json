@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A pilgrim's journey.",
+      "examples": [],
+      "synonyms": [
+        "religious journey",
+        "holy expedition",
+        "crusade",
+        "mission",
+        "trip",
+        "journey",
+        "excursion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go on a pilgrimage.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Provençal pelegrinage, from pelegrin (see pilgrim).",
+  "pronounciation": "/ˈpilɡrəmij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pilgrimage_us_1.mp3"
+}

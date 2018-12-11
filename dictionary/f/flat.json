@@ -1,0 +1,158 @@
+{
+  "adjective": [
+    {
+      "description": "Smooth and even; without marked lumps or indentations.",
+      "examples": [
+        "trim the surface of the cake to make it completely flat",
+        "a flat wall"
+      ],
+      "synonyms": [
+        "level",
+        "horizontal",
+        "levelled"
+      ]
+    },
+    {
+      "description": "Lacking interest or emotion; dull and lifeless.",
+      "examples": [
+        "“I'm sorry,” he said, in a flat voice",
+        "her drawings were flat and unimaginative"
+      ],
+      "synonyms": [
+        "monotonous",
+        "toneless",
+        "droning",
+        "boring",
+        "dull",
+        "tedious",
+        "uninteresting",
+        "unexciting",
+        "soporific"
+      ]
+    },
+    {
+      "description": "(of a sparkling drink) having lost its effervescence.",
+      "examples": [
+        "flat champagne"
+      ],
+      "synonyms": [
+        "still",
+        "dead",
+        "no longer effervescent"
+      ]
+    },
+    {
+      "description": "(of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particular cases.",
+      "examples": [
+        "a $30 flat fare"
+      ],
+      "synonyms": [
+        "fixed",
+        "set",
+        "regular",
+        "established",
+        "unchanging",
+        "unvarying",
+        "invariable",
+        "unfluctuating",
+        "consistent",
+        "constant",
+        "uniform",
+        "straight",
+        "hard and fast"
+      ]
+    },
+    {
+      "description": "(of musical sound) below true or normal pitch.",
+      "examples": []
+    },
+    {
+      "description": "Relating to flat racing.",
+      "examples": [
+        "the Flat season"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In or to a horizontal position.",
+      "examples": [
+        "he was lying flat on his back",
+        "she had been knocked flat by the blast"
+      ],
+      "synonyms": [
+        "stretched out",
+        "outstretched",
+        "spreadeagled",
+        "prone",
+        "reclining",
+        "sprawling",
+        "supine",
+        "prostrate",
+        "recumbent"
+      ]
+    },
+    {
+      "description": "Completely; absolutely.",
+      "examples": [
+        "I'm turning you down flat",
+        "she was going to be flat broke in a couple of days"
+      ],
+      "synonyms": [
+        "outright",
+        "directly",
+        "absolutely"
+      ]
+    },
+    {
+      "description": "Below the true or normal pitch of musical sound.",
+      "examples": [
+        "it wasn't a question of singing flat, but of simply singing the wrong notes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The flat part of something.",
+      "examples": [
+        "she placed the flat of her hand over her glass"
+      ]
+    },
+    {
+      "description": "An upright section of painted stage scenery mounted on a frame.",
+      "examples": []
+    },
+    {
+      "description": "A flat tire.",
+      "examples": []
+    },
+    {
+      "description": "A musical note lowered a semitone below natural pitch.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lower (a note) by a semitone.",
+      "examples": [
+        "“blue” harmony emphasizing the flatted third and seventh"
+      ]
+    },
+    {
+      "description": "Make flat; flatten.",
+      "examples": [
+        "flat the loaves down"
+      ]
+    }
+  ],
+  "phrases": [
+    "his jokes fell flat",
+    "Admittedly, most of the cast lack the comic timing to make all the jokes fly, but for every joke that does fall flat there are at least two more that work.",
+    "I was afraid that all my jokes were falling flat.",
+    "I considered cheering her up with maybe a joke or something, but my jokes always fall flat.",
+    "However, the script fails him by falling flat in the moments where you expect the most to be delivered."
+  ],
+  "origin": "Early 19th century (denoting a floor or storey): alteration of obsolete flet floor, dwelling, of Germanic origin and related to flat.",
+  "pronounciation": "/flæt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flat_us_1.mp3"
+}

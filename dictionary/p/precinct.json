@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A district of a city or town as defined for police purposes.",
+      "examples": []
+    },
+    {
+      "description": "The area within the walls or perceived boundaries of a particular building or place.",
+      "examples": [
+        "all strata of society live within these precincts",
+        "beyond the precincts of my own family, I am quite inhibited"
+      ],
+      "synonyms": [
+        "bounds",
+        "boundaries",
+        "limits",
+        "confines"
+      ]
+    },
+    {
+      "description": "An area in a town designated for specific or restricted use, especially one that is closed to traffic.",
+      "examples": [
+        "a pedestrian precinct"
+      ],
+      "synonyms": [
+        "area",
+        "zone",
+        "sector",
+        "district",
+        "section",
+        "quarter",
+        "region"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting an administrative district): from medieval Latin praecinctum, neuter past participle (used as a noun) of praecingere encircle, from prae before + cingere gird.",
+  "pronounciation": "/ˈprēsiNG(k)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precinct_us_1.mp3"
+}

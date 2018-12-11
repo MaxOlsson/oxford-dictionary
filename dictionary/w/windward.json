@@ -1,0 +1,24 @@
+{
+  "adjective &amp; adverb": [
+    {
+      "description": "Facing the wind or on the side facing the wind.",
+      "examples": [
+        "the windward side of the boat"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The side or direction from which the wind is blowing.",
+      "examples": [
+        "the ships drifted west, leaving the island quite a distance to windward"
+      ]
+    }
+  ],
+  "phrases": [
+    "I happen to have got to windward of the young woman",
+    "But I'm not going to play the fool; honor bright, I'm not; yet - by Jove! - to get to windward of the professors and Mackenzie too!"
+  ],
+  "pronounciation": "/ˈwɪn(d)wərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/windward_us_1.mp3"
+}

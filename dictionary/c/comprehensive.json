@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Complete; including all or nearly all elements or aspects of something.",
+      "examples": [
+        "a comprehensive list of sources"
+      ],
+      "synonyms": [
+        "diverse",
+        "diversified",
+        "wide",
+        "broad",
+        "broad-based",
+        "eclectic",
+        "indiscriminate"
+      ]
+    },
+    {
+      "description": "Relating to understanding.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A secondary school catering to children of all abilities from a given area.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from French compréhensif, -ive, from late Latin comprehensivus, from the verb comprehendere grasp mentally.",
+  "pronounciation": "/ˌkɑmprəˈhɛnsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comprehensive_us_1.mp3"
+}

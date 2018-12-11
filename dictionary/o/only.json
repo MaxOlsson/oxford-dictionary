@@ -1,0 +1,80 @@
+{
+  "adverb": [
+    {
+      "description": "And no one or nothing more besides; solely or exclusively.",
+      "examples": [
+        "there are only a limited number of tickets available",
+        "only their faith sustained them"
+      ],
+      "synonyms": [
+        "at most",
+        "at best",
+        "just",
+        "only just",
+        "no more than",
+        "not more than",
+        "as little as"
+      ]
+    },
+    {
+      "description": "No longer ago than.",
+      "examples": [
+        "genes that were discovered only last year"
+      ],
+      "synonyms": [
+        "at most",
+        "at best",
+        "just",
+        "only just",
+        "no more than",
+        "not more than",
+        "as little as"
+      ]
+    },
+    {
+      "description": "With the negative or unfortunate result that.",
+      "examples": [
+        "she turned into the parking car, only to find her way blocked"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Alone of its or their kind; single or solitary.",
+      "examples": [
+        "the only medal we had ever won",
+        "he was an only child"
+      ],
+      "synonyms": [
+        "sole",
+        "single",
+        "one",
+        "one and only",
+        "solitary",
+        "lone",
+        "unique",
+        "only possible",
+        "individual",
+        "exclusive"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "Except that; but for the fact that.",
+      "examples": [
+        "he is still a young man, only he seems older because of his careworn expression"
+      ]
+    }
+  ],
+  "phrases": [
+    "the building survived the earthquake, but only just",
+    "As recently as 1998 the average house price was only just over four times the cost of a Mondeo.",
+    "At the moment I'm earning a very basic wage, only just enough to keep going.",
+    "The road has been made so narrow in places that buses and lorries can only just get through.",
+    "So often you see club golfers arriving in a rush, only just in time for their tee-off."
+  ],
+  "origin": "Old English ānlic (adjective) (see one, -ly).",
+  "pronounciation": "/ˈōnlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/only_us_1.mp3"
+}

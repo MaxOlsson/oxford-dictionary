@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Help or benefit.",
+      "examples": [
+        "no amount of struggle availed Charles"
+      ],
+      "synonyms": [
+        "help",
+        "aid",
+        "assist",
+        "benefit",
+        "be of use to",
+        "be useful to",
+        "profit",
+        "be of advantage to",
+        "be of service to"
+      ]
+    },
+    {
+      "description": "Use or take advantage of (an opportunity or available resource).",
+      "examples": [
+        "you can avail discounts on food",
+        "students in the district avail of the free meal scheme in schools"
+      ],
+      "synonyms": [
+        "use",
+        "make use of",
+        "take advantage of",
+        "utilize",
+        "employ"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Use or benefit.",
+      "examples": [
+        "he begged her to reconsider, but to no avail",
+        "calls to tech support have been of no avail",
+        "Latin was of little avail in the practical affairs of life"
+      ],
+      "synonyms": [
+        "in vain",
+        "without success",
+        "unsuccessfully",
+        "vainly",
+        "with no result",
+        "fruitlessly",
+        "to no purpose"
+      ]
+    }
+  ],
+  "phrases": [
+    "this protest availed her nothing",
+    "I would suggest that his flying start to war has availed him nothing but the intensified scorn of the nation.",
+    "I'm afraid that your skills, such as they are, will avail you nothing.",
+    "It withered my heart, he wrote in his diary, but his presence could avail her nothing now.",
+    "Climbing trees or diving into water will avail you nothing with a tiger.",
+    "my daughter did not avail herself of my advice"
+  ],
+  "origin": "Middle English: from obsolete vail be of use or value (apparently on the pattern of pairs such as amount, mount), from Old French valoir, from Latin valere be strong, be of value.",
+  "pronounciation": "/əˈveɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/avail_us_1.mp3"
+}

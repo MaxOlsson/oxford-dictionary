@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "Loud and sustained or repetitive noise.",
+      "examples": [
+        "the yammer of their animated conversation",
+        "the yammer of enemy fire"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a loud, repetitive noise.",
+      "examples": [],
+      "synonyms": [
+        "chat",
+        "talk idly",
+        "chatter",
+        "prattle",
+        "prate",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "ramble",
+        "gabble",
+        "jabber",
+        "babble",
+        "blather",
+        "blether",
+        "blither",
+        "twitter",
+        "maunder",
+        "drivel",
+        "patter",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb meaning lament, cry out): alteration of earlier yomer, from Old English geōmrian to lament, suggested by Middle Dutch jammeren.",
+  "pronounciation": "/ˈyamər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yammer_us_1.mp3"
+}

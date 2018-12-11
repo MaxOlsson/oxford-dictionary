@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Swallow (drink or food) quickly or in large mouthfuls, often audibly.",
+      "examples": [
+        "he smiled and gulped his milk"
+      ],
+      "synonyms": [
+        "swallow",
+        "quaff",
+        "swill down",
+        "down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of gulping food or drink.",
+      "examples": [
+        "she swallowed the rest of the coffee with a gulp"
+      ]
+    }
+  ],
+  "phrases": [
+    "having emptied his glass at a gulp, Roger pulled out a cigar",
+    "It is a good book, and one I also devoured at a gulp.",
+    "Pressing now on the hilts, he swallows the four blades at a gulp and then he takes them out leisurely, one by one.",
+    "The girl threw one out at the door, and the giantess swallowed it at a gulp and demanded more.",
+    "This is the kind of book you take in at a gulp and, having reached the last page, put down reluctantly."
+  ],
+  "origin": "Middle English: probably from Middle Dutch gulpen, of imitative origin.",
+  "pronounciation": "/ɡəlp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gulp_us_1.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A piece of thin wire with a long center portion and two short end pieces that are driven by a stapler through sheets of paper to fasten them together.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attach or secure with a staple or staples.",
+      "examples": [
+        "Mark stapled a batch of papers together"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Main or important, especially in terms of consumption.",
+      "examples": [
+        "the staple foods of the poor",
+        "violence is the staple diet of the video generation"
+      ],
+      "synonyms": [
+        "main",
+        "principal",
+        "chief",
+        "major",
+        "primary",
+        "leading",
+        "foremost",
+        "first",
+        "most important",
+        "predominant",
+        "dominant",
+        "prominent",
+        "most prominent",
+        "key",
+        "crucial",
+        "vital",
+        "indispensable",
+        "essential",
+        "basic",
+        "fundamental",
+        "standard",
+        "critical",
+        "pivotal",
+        "prime",
+        "central",
+        "premier"
+      ]
+    }
+  ],
+  "origin": "Middle English (in staple (sense 3 of the noun)): from Old French estaple market, from Middle Low German, Middle Dutch stapel pillar, emporium; related to staple.",
+  "pronounciation": "/ˈstāpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/staple_us_1.mp3"
+}

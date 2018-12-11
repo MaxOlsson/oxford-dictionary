@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Become pregnant with (a child)",
+      "examples": [
+        "she was conceived when her father was 49"
+      ]
+    },
+    {
+      "description": "Form or devise (a plan or idea) in the mind.",
+      "examples": [
+        "the dam project was originally conceived in 1977",
+        "a brilliantly conceived and executed robbery"
+      ],
+      "synonyms": [
+        "think up",
+        "think of",
+        "come up with",
+        "dream up",
+        "draw up",
+        "devise",
+        "form",
+        "formulate",
+        "design",
+        "frame",
+        "invent",
+        "coin",
+        "originate",
+        "create",
+        "develop",
+        "evolve"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French concevoir, from Latin concipere, from com- together + capere take.",
+  "pronounciation": "/kənˈsēv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconceive_us_1.mp3"
+}

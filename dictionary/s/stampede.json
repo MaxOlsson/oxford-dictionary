@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A sudden panicked rush of a number of horses, cattle, or other animals.",
+      "examples": [],
+      "synonyms": [
+        "charge",
+        "panic",
+        "rush",
+        "flight",
+        "rout",
+        "scattering"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of horses, cattle, or other animals) rush wildly in a sudden mass panic.",
+      "examples": [
+        "the nearby sheep stampeded as if they sensed impending danger"
+      ],
+      "synonyms": [
+        "bolt",
+        "charge",
+        "rush",
+        "flee",
+        "take flight",
+        "dash",
+        "race",
+        "career",
+        "sweep",
+        "run"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: Mexican Spanish use of Spanish estampida crash, uproar, of Germanic origin; related to the verb stamp.",
+  "pronounciation": "/stamˈpēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stampede_us_1.mp3"
+}

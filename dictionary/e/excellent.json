@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely good; outstanding.",
+      "examples": [
+        "their results are excellent",
+        "a 3-bedroom house in excellent condition"
+      ],
+      "synonyms": [
+        "very good",
+        "superb",
+        "outstanding",
+        "magnificent",
+        "of high quality",
+        "of the highest quality",
+        "of the highest standard",
+        "exceptional",
+        "marvellous",
+        "wonderful",
+        "sublime",
+        "perfect",
+        "eminent",
+        "pre-eminent",
+        "matchless",
+        "peerless",
+        "supreme",
+        "first-rate",
+        "first-class",
+        "superior",
+        "superlative",
+        "splendid",
+        "admirable",
+        "worthy",
+        "sterling",
+        "fine"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to indicate approval or pleasure.",
+      "examples": [
+        "“What a lovely idea! Excellent!”"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the general sense outstanding in either a good or bad way): from Old French, from Latin excellent- being preeminent, from excellere (see excel). The current appreciatory sense dates from the early 17th century.",
+  "pronounciation": "/ˈɛks(ə)lənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excellent_us_1.mp3"
+}

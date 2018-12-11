@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Identify clearly and definitely.",
+      "examples": [
+        "the coup leader promised an election but did not specify a date"
+      ],
+      "synonyms": [
+        "state",
+        "name",
+        "identify",
+        "define",
+        "describe",
+        "set out",
+        "set down",
+        "draw up",
+        "frame",
+        "itemize",
+        "designate",
+        "detail",
+        "list",
+        "spell out",
+        "enumerate",
+        "particularize",
+        "catalogue",
+        "cite",
+        "instance",
+        "be specific about"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French specifier or late Latin specificare (see specific).",
+  "pronounciation": "/ˈspesəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/specify_us_1.mp3"
+}

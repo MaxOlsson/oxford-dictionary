@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Express the meaning of (the writer or speaker or something written or spoken) using different words, especially to achieve greater clarity.",
+      "examples": [
+        "you can either quote or paraphrase literary texts"
+      ],
+      "synonyms": [
+        "reword",
+        "rephrase",
+        "express in other words",
+        "put in other words",
+        "express in one's own words",
+        "put in one's own words",
+        "express differently",
+        "rewrite",
+        "rescript",
+        "restate",
+        "rehash",
+        "interpret",
+        "gloss"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rewording of something written or spoken by someone else.",
+      "examples": [],
+      "synonyms": [
+        "rewording",
+        "rephrasing",
+        "rewriting",
+        "rewrite",
+        "restatement",
+        "restating",
+        "rehash",
+        "rendition",
+        "rendering",
+        "version",
+        "interpretation",
+        "gloss"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a noun): via Latin from Greek paraphrasis, from paraphrazein, from para- (expressing modification) + phrazein tell.",
+  "pronounciation": "/ˈpɛrəˌfreɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paraphrase_us_1.mp3"
+}

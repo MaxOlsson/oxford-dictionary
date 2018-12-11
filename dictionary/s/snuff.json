@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Extinguish (a candle)",
+      "examples": [
+        "a breeze snuffed out the candle"
+      ],
+      "synonyms": [
+        "extinguish",
+        "put out",
+        "douse",
+        "smother",
+        "choke",
+        "stamp out",
+        "blow out",
+        "quench",
+        "stub out",
+        "turn out",
+        "dampen",
+        "damp down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The charred part of a candle wick.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Middle Dutch snuffen to snuffle. The noun dates from the late 17th century and is probably an abbreviation of Dutch snuftabak.",
+  "phrases": [
+    "they need a million dollars to get their facilities up to snuff",
+    "There are the occasional stories that on second/third/fourth look didn't hold up and I've very occasionally bought a story that I didn't think was up to snuff that I was pressured to buy for one reason or another.",
+    "So what we need to do is make sure that our health care system is up to snuff, so that if we do have that situation or any other kind of major infectious problem, we'll be able to handle it.",
+    "Coverage has been adequate, but the return game isn't up to snuff.",
+    "He predicts it will have its intended effect simply because teams will be put at a competitive disadvantage if they aren't up to snuff."
+  ],
+  "pronounciation": "/snəf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snuff_us_1.mp3"
+}

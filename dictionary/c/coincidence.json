@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A remarkable concurrence of events or circumstances without apparent causal connection.",
+      "examples": [
+        "they met by coincidence",
+        "it's no coincidence that this new burst of innovation has occurred in the free nations"
+      ],
+      "synonyms": [
+        "accident",
+        "chance",
+        "serendipity",
+        "fate",
+        "a twist of fate",
+        "destiny",
+        "fortuity",
+        "fortune",
+        "providence",
+        "freak",
+        "hazard"
+      ]
+    },
+    {
+      "description": "Correspondence in nature or in time of occurrence.",
+      "examples": [
+        "the coincidence of interest between the mining companies and certain politicians"
+      ],
+      "synonyms": [
+        "co-occurrence",
+        "coexistence",
+        "conjunction",
+        "simultaneity",
+        "simultaneousness",
+        "contemporaneity",
+        "contemporaneousness",
+        "concomitance",
+        "synchronicity",
+        "synchrony"
+      ]
+    },
+    {
+      "description": "The presence of ionizing particles or other objects in two or more detectors simultaneously, or of two or more signals simultaneously in a circuit.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (in the sense occupation of the same space): from medieval Latin coincidentia, from coincidere coincide, agree (see coincide).",
+  "pronounciation": "/kōˈinsədəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coincidence_us_1.mp3"
+}

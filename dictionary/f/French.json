@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to France or its people or language.",
+      "examples": [
+        "the French government",
+        "her accent is very French"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Romance language of France, also used in parts of Belgium, Switzerland, and Canada, in several countries of northern and western Africa and the Caribbean, and elsewhere.",
+      "examples": [
+        "I am fluent in French",
+        "French lessons"
+      ]
+    },
+    {
+      "description": "The people of France collectively.",
+      "examples": [
+        "the French, they say, live to eat"
+      ]
+    }
+  ],
+  "phrases": [
+    "Someone brought a guitar, too, and when I saw that, that's when I got the heck out of there, if you'll pardon my French.",
+    "The fact that the bill is bloody nonsense - excuse my French - should have no impact at all; we should just forget about it!",
+    "They wouldn't know an ulterior motive if it bit them on the rear end if you'll pardon my French.",
+    "You see, I don't know who sent these yet, because the chicken S.O.B., pardon my French, didn't have the guts to sign his name.",
+    "But pardon my French; Aidan was truly being a jackass in the ballroom."
+  ],
+  "origin": "Old English Frencisc, of Germanic origin, from the base of Frank.",
+  "pronounciation": "/fren(t)SH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/french_us_1.mp3"
+}

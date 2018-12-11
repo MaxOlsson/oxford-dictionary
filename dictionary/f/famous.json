@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Known about by many people.",
+      "examples": [
+        "the country is famous for its natural beauty",
+        "a famous star"
+      ],
+      "synonyms": [
+        "well known",
+        "celebrated",
+        "prominent",
+        "famed",
+        "popular",
+        "having made a name for oneself"
+      ]
+    }
+  ],
+  "phrases": [
+    "Both women are certainly easy on the eye, but both are merely famous for being famous and that is about the sum of their achievements.",
+    "In this age of Z-list celebrities who are famous for being famous, it's so refreshing to meet a real star.",
+    "That is always the way of artists, for only mere celebrities are famous for being famous and need to cultivate a profile.",
+    "Celebrities are famous for being famous; heroes change lives.",
+    "These are people who are famous for being famous, ciphers for our fantasies, cartoon characters with extravagant lives."
+  ],
+  "origin": "Late Middle English: from Old French fameus, from Latin famosus famed, from fama (see fame).",
+  "pronounciation": "/ˈfeɪməs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/famous_us_1.mp3"
+}

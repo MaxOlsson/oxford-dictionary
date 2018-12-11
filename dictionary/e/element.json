@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A part or aspect of something abstract, especially one that is essential or characteristic.",
+      "examples": [
+        "the death had all the elements of a great tabloid story",
+        "there are four elements to the proposal"
+      ],
+      "synonyms": [
+        "component",
+        "constituent",
+        "part",
+        "section",
+        "portion",
+        "piece",
+        "segment",
+        "bit"
+      ]
+    },
+    {
+      "description": "Each of more than one hundred substances that cannot be chemically interconverted or broken down into simpler substances and are primary constituents of matter. Each element is distinguished by its atomic number, i.e. the number of protons in the nuclei of its atoms.",
+      "examples": []
+    },
+    {
+      "description": "The weather, especially strong winds, heavy rain, and other kinds of bad weather.",
+      "examples": [
+        "there was no barrier against the elements"
+      ],
+      "synonyms": [
+        "the weather",
+        "the climate",
+        "meteorological conditions",
+        "atmospheric conditions",
+        "atmospheric forces"
+      ]
+    },
+    {
+      "description": "A part in an electric teapot, heater, or stove that contains a wire through which an electric current is passed to provide heat.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "she was in her element with doctors and hospitals",
+    "And so I found myself in Brighton and in my element.",
+    "The mice scattered as he approached and pounced, and before long he was in his element.",
+    "He put up world class numbers because he was in his element.",
+    "The crowd did its best to make him feel welcome, but Gibson was clearly out of his element."
+  ],
+  "origin": "Middle English (denoting fundamental constituents of the world or celestial objects): via Old French from Latin elementum principle, rudiment, translating Greek stoikheion step, component part.",
+  "pronounciation": "/ˈɛləmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/element_us_1.mp3"
+}

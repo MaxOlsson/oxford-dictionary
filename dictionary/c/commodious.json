@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of furniture or a building) roomy and comfortable.",
+      "examples": [
+        "they moved to a more commodious dwelling"
+      ],
+      "synonyms": [
+        "roomy",
+        "capacious",
+        "spacious",
+        "ample",
+        "substantial",
+        "generous",
+        "sizeable",
+        "large",
+        "big",
+        "broad",
+        "wide",
+        "extensive"
+      ]
+    },
+    {
+      "description": "Convenient.",
+      "examples": [],
+      "synonyms": [
+        "convenient",
+        "suitable",
+        "appropriate",
+        "fitting",
+        "fit",
+        "suited",
+        "agreeable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense beneficial, useful): from French commodieux or medieval Latin commodiosus, based on Latin commodus convenient.",
+  "pronounciation": "/kəˈmōdēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commodious_us_1.mp3"
+}

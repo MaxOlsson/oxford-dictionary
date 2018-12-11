@@ -1,0 +1,72 @@
+{
+  "noun": [
+    {
+      "description": "A humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect.",
+      "examples": [
+        "a Robin Hood spoof"
+      ],
+      "synonyms": [
+        "parody",
+        "pastiche",
+        "burlesque",
+        "take-off",
+        "skit",
+        "imitation"
+      ]
+    },
+    {
+      "description": "A trick played on someone as a joke.",
+      "examples": [],
+      "synonyms": [
+        "hoax",
+        "trick",
+        "joke",
+        "game"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Imitate (something) while exaggerating its characteristic features for comic effect.",
+      "examples": [
+        "it is a movie that spoofs other movies"
+      ],
+      "synonyms": [
+        "parody",
+        "take off",
+        "burlesque",
+        "pastiche",
+        "make fun of"
+      ]
+    },
+    {
+      "description": "Hoax or trick (someone)",
+      "examples": [
+        "they proceeded to spoof Western intelligence with false information"
+      ],
+      "synonyms": [
+        "deceive",
+        "delude",
+        "hoodwink",
+        "mislead",
+        "take in",
+        "dupe",
+        "fool",
+        "double-cross",
+        "cheat",
+        "defraud",
+        "swindle",
+        "outwit",
+        "outmanoeuvre",
+        "catch out",
+        "gull",
+        "hoax",
+        "bamboozle",
+        "beguile"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: coined by Arthur Roberts (1852–1933), English comedian.",
+  "pronounciation": "/spuf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spoof_us_1.mp3"
+}

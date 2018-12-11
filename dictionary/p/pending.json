@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "Awaiting decision or settlement.",
+      "examples": [
+        "nine cases were still pending"
+      ],
+      "synonyms": [
+        "unresolved",
+        "undecided",
+        "unsettled",
+        "unconcluded",
+        "uncertain",
+        "awaiting decision",
+        "awaiting action",
+        "undetermined",
+        "open",
+        "still open",
+        "hanging fire",
+        "in the air",
+        "up in the air",
+        "in limbo",
+        "in the balance",
+        "on ice",
+        "in reserve",
+        "in abeyance",
+        "ongoing",
+        "awaiting attention",
+        "outstanding",
+        "to be done",
+        "undone",
+        "not done",
+        "unattended to",
+        "unfinished",
+        "incomplete",
+        "left",
+        "remaining"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "Until (something) happens or takes place.",
+      "examples": [
+        "they were released on bail pending an appeal"
+      ],
+      "synonyms": [
+        "awaiting",
+        "waiting for",
+        "until",
+        "till",
+        "before",
+        "until there are",
+        "until there is"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: anglicized spelling of French pendant hanging.",
+  "pronounciation": "/ˈpendiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pending_us_1.mp3"
+}

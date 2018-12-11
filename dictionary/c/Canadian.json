@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of Canada or its inhabitants.",
+      "examples": [
+        "the Canadian government's economic policies",
+        "a culture that is distinctly Canadian"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Canada.",
+      "examples": [
+        "a 27-year-old Canadian from Ontario",
+        "more than four million Canadians play hockey"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈneɪdiən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canadian_us_1.mp3"
+}

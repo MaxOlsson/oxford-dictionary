@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A whirlpool.",
+      "examples": []
+    },
+    {
+      "description": "A sycophant.",
+      "examples": [],
+      "synonyms": [
+        "toady",
+        "creep",
+        "crawler",
+        "fawner",
+        "flatterer",
+        "flunkey",
+        "truckler",
+        "groveller",
+        "doormat",
+        "lickspittle",
+        "kowtower",
+        "obsequious person",
+        "minion",
+        "hanger-on",
+        "leech",
+        "puppet",
+        "spaniel",
+        "uriah heep"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Behave in a sycophantic way toward someone.",
+      "examples": [
+        "he needs to quit suckholing to the business community"
+      ],
+      "synonyms": [
+        "be obsequious to",
+        "be sycophantic to",
+        "be servile to",
+        "curry favour with",
+        "pay court to",
+        "play up to",
+        "crawl to",
+        "creep to",
+        "ingratiate oneself with",
+        "dance attendance on",
+        "fall over oneself for",
+        "kowtow to",
+        "toady to",
+        "truckle to",
+        "bow and scrape before",
+        "grovel before",
+        "cringe before",
+        "abase oneself before"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəkˌhōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suckhole_us_1.mp3"
+}

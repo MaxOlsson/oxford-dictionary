@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Take (someone) away illegally by force, typically to obtain a ransom.",
+      "examples": [],
+      "synonyms": [
+        "abduct",
+        "carry off",
+        "capture",
+        "seize",
+        "snatch",
+        "hold to ransom",
+        "take as hostage",
+        "hijack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of kidnapping someone.",
+      "examples": [
+        "they were arrested for robbery and kidnap"
+      ],
+      "synonyms": [
+        "kidnapping",
+        "kidnap",
+        "abduction",
+        "hostage-taking"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: back-formation from kidnapper, from kid + slang nap nab, seize.",
+  "pronounciation": "/ˈkidˌnap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kidnap_us_1.mp3"
+}

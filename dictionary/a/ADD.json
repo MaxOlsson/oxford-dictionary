@@ -1,0 +1,88 @@
+{
+  "verb": [
+    {
+      "description": "Join (something) to something else so as to increase the size, number, or amount.",
+      "examples": [
+        "a new wing was added to the building",
+        "some box offices now add on a handling charge",
+        "this development added to the problems facing the staff"
+      ],
+      "synonyms": [
+        "attach",
+        "build on",
+        "add on",
+        "put on",
+        "put in",
+        "append",
+        "adjoin",
+        "join",
+        "affix",
+        "connect",
+        "annex"
+      ]
+    },
+    {
+      "description": "Put in (an additional element, ingredient, etc.)",
+      "examples": [
+        "chlorine is added to the water to kill bacteria",
+        "add the flour to the eggs, stirring continuously"
+      ]
+    },
+    {
+      "description": "Put together (two or more numbers or amounts) to calculate their total value.",
+      "examples": [
+        "they added all the figures up",
+        "add the two numbers together",
+        "children learned to add and subtract quickly and accurately"
+      ],
+      "synonyms": [
+        "add up",
+        "add together",
+        "total",
+        "count",
+        "count up",
+        "figure up",
+        "compute",
+        "calculate",
+        "reckon",
+        "tally",
+        "enumerate",
+        "find the sum of"
+      ]
+    },
+    {
+      "description": "Say as a further remark.",
+      "examples": [
+        "“I hope we haven't been too much trouble,” she added politely",
+        "we would like to add our congratulations",
+        "he added that few of America's allies would support military action"
+      ],
+      "synonyms": [
+        "go on to say",
+        "state further",
+        "continue",
+        "carry on"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Analog digital digital, indicating that a music recording was made in analog format before being mastered and stored digitally.",
+      "examples": []
+    },
+    {
+      "description": "Attention deficit disorder.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "watch those air miles add up!",
+    "It takes so long and with so many short stories the cost can add up.",
+    "But don't forget interest adds up quickly on unpaid and underpaid amounts.",
+    "They all add up, and insurers have a sneaky way of increasing renewal premiums each year, banking on your apathy not to move provider.",
+    "The amount of caffeine in these tea extracts can add up quickly, and is often not listed on the label."
+  ],
+  "origin": "Late Middle English: from Latin addere, from ad- to + the base of dare put.",
+  "pronounciation": "/eɪdiːˈdiː/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/a_d_d_1_us_1_abbr.mp3"
+}

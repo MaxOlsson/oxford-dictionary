@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Directed behind or to the rear.",
+      "examples": [
+        "she left the room without a backward glance",
+        "a gradual backward movement"
+      ]
+    },
+    {
+      "description": "Having made less than normal progress.",
+      "examples": [
+        "economically backward countries"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "(of a movement) away from one's front; in the direction of one's back.",
+      "examples": [
+        "he took a step backward",
+        "Harry suddenly fell backward into a somersault"
+      ]
+    },
+    {
+      "description": "Toward or into the past.",
+      "examples": [
+        "a loving look backward at his early life"
+      ]
+    }
+  ],
+  "phrases": [
+    "I paced backward and forward",
+    "he bent over backward to be fair to the defendants",
+    "she knows the language backward and forward"
+  ],
+  "origin": "Middle English: from earlier abackward, from aback.",
+  "pronounciation": "/ˈbækwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backward_us_1.mp3"
+}

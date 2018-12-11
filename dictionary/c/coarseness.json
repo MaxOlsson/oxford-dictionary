@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being rough or harsh.",
+      "examples": [
+        "the coarseness of her hair"
+      ],
+      "synonyms": [
+        "roughness",
+        "prickliness",
+        "wiriness",
+        "bristliness",
+        "scratchiness"
+      ]
+    },
+    {
+      "description": "Rudeness; vulgarity.",
+      "examples": [
+        "he disliked the coarseness of the men around him"
+      ],
+      "synonyms": [
+        "oafishness",
+        "loutishness",
+        "boorishness",
+        "churlishness",
+        "uncouthness",
+        "rudeness",
+        "ill manners",
+        "discourteousness",
+        "ungentlemanliness",
+        "vulgarity",
+        "roughness",
+        "crassness"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkôrsnəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coarseness_us_1.mp3"
+}

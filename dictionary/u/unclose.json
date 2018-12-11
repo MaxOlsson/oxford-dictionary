@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Open.",
+      "examples": [
+        "an unclosed file"
+      ],
+      "synonyms": [
+        "unbolt",
+        "unlatch",
+        "unbar",
+        "undo",
+        "unfasten",
+        "unpick",
+        "unseal",
+        "open",
+        "free",
+        "throw open",
+        "throw wide"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈklōz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unclose_us_2.mp3"
+}

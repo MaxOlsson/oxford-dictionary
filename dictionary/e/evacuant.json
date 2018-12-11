@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of a medicine or treatment) acting to induce some kind of bodily discharge.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant",
+        "purging"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicine that induces some kind of bodily discharge, such as an emetic, a sudorific, or especially a laxative.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "enema",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from Latin evacuant- emptying (the bowels), from the verb evacuare, later in the more general sense remove (contents).",
+  "pronounciation": "/əˈvakyəwənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/evacuant_us_1.mp3"
+}

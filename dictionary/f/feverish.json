@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing the symptoms of a fever.",
+      "examples": [
+        "he suffered from feverish colds"
+      ],
+      "synonyms": [
+        "febrile",
+        "fevered",
+        "with a high temperature",
+        "hot",
+        "burning",
+        "sweating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfēv(ə)riSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feverish_us_1.mp3"
+}

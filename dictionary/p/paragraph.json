@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.",
+      "examples": [
+        "the concluding paragraph",
+        "the information set out in paragraph 3"
+      ],
+      "synonyms": [
+        "section",
+        "subdivision",
+        "part",
+        "subsection",
+        "division",
+        "portion",
+        "segment",
+        "bit",
+        "passage",
+        "clause"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange (a piece of writing) in paragraphs.",
+      "examples": [
+        "his style deploys a lack of conventional paragraphing"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French paragraphe, via medieval Latin from Greek paragraphos short stroke marking a break in sense, from para- beside + graphein write.",
+  "pronounciation": "/ˈperəˌɡraf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paragraph_us_1.mp3"
+}

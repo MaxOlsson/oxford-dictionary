@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Capable of being colored.",
+      "examples": [
+        "colorable illustrations"
+      ],
+      "synonyms": [
+        "credible",
+        "reasonable",
+        "believable",
+        "likely",
+        "feasible",
+        "probable",
+        "tenable",
+        "possible",
+        "conceivable",
+        "imaginable",
+        "within the bounds of possibility",
+        "convincing",
+        "persuasive",
+        "cogent",
+        "sound",
+        "rational",
+        "logical",
+        "acceptable",
+        "thinkable"
+      ]
+    },
+    {
+      "description": "Apparently correct or justified.",
+      "examples": [
+        "a colorable legal claim"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkələrəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colorable_us_1.mp3"
+}

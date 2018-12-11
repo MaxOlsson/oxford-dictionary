@@ -1,0 +1,91 @@
+{
+  "adjective": [
+    {
+      "description": "Added to an existing or usual amount or number.",
+      "examples": [
+        "an extra thirty-five cents an hour"
+      ],
+      "synonyms": [
+        "additional",
+        "more",
+        "added",
+        "supplementary",
+        "supplemental",
+        "further",
+        "auxiliary",
+        "ancillary",
+        "subsidiary",
+        "secondary",
+        "attendant",
+        "accessory"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To a greater extent than usual; especially.",
+      "examples": [
+        "he is trying to be extra good"
+      ],
+      "synonyms": [
+        "exceptionally",
+        "particularly",
+        "specially",
+        "especially",
+        "very",
+        "extremely",
+        "singularly",
+        "peculiarly",
+        "distinctly"
+      ]
+    },
+    {
+      "description": "In addition.",
+      "examples": [
+        "installation will cost about $60 extra"
+      ],
+      "synonyms": [
+        "in addition",
+        "additionally",
+        "as well",
+        "also",
+        "too",
+        "besides",
+        "over and above that",
+        "on top",
+        "on top of that",
+        "further",
+        "into the bargain",
+        "to boot"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An item in addition to what is usual or strictly necessary.",
+      "examples": [
+        "I had an education with all the extras"
+      ],
+      "synonyms": [
+        "addition",
+        "supplement",
+        "adjunct",
+        "addendum",
+        "add-on",
+        "bonus",
+        "accompaniment",
+        "complement",
+        "companion",
+        "additive",
+        "extension",
+        "appendage",
+        "accessory",
+        "attachment",
+        "retrofit"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as an adjective): probably a shortening of extraordinary, suggested by similar forms in French and German.",
+  "pronounciation": "/ˈɛkstrə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/extra_1_us_1.mp3"
+}

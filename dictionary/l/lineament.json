@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A distinctive feature or characteristic, especially of the face.",
+      "examples": [
+        "I recognized those haggard lineaments"
+      ],
+      "synonyms": [
+        "distinctive features",
+        "features",
+        "distinguishing characteristics",
+        "hallmarks",
+        "properties",
+        "traits"
+      ]
+    },
+    {
+      "description": "A linear feature on the earth's surface, such as a fault.",
+      "examples": [],
+      "synonyms": [
+        "silhouette",
+        "profile",
+        "figure",
+        "shape",
+        "contour",
+        "form",
+        "line",
+        "lineaments",
+        "delineation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin lineamentum, from lineare make straight, from linea a line (see line).",
+  "pronounciation": "/ˈlɪniəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lineament_us_1.mp3"
+}

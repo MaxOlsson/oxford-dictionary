@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "In a mistaken way; wrongly.",
+      "examples": [
+        "his name had been spelled incorrectly",
+        "she was incorrectly identified in a photo"
+      ]
+    },
+    {
+      "description": "Not in accordance with particular standards or rules.",
+      "examples": [
+        "this dispute was handled incorrectly by the club"
+      ]
+    }
+  ],
+  "pronounciation": "/inkəˈrektlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incorrectly_us_1.mp3"
+}

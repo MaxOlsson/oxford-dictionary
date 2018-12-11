@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "With clear and vividly explicit details.",
+      "examples": [
+        "the article graphically describes her ordeal"
+      ]
+    },
+    {
+      "description": "By means of a visual image.",
+      "examples": [
+        "our design is represented graphically in Figure 1"
+      ]
+    },
+    {
+      "description": "In the form of a graph.",
+      "examples": [
+        "clinical measurements are displayed graphically"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡræfəkli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/graphically_us_2.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Attractive or interesting.",
+      "examples": [
+        "the rural life is somehow more appealing",
+        "an appealing young woman"
+      ],
+      "synonyms": [
+        "attractive",
+        "engaging",
+        "alluring",
+        "enchanting",
+        "captivating",
+        "bewitching",
+        "fascinating",
+        "winning",
+        "winsome",
+        "likeable",
+        "lovable",
+        "charming",
+        "delightful"
+      ]
+    },
+    {
+      "description": "(of an expression or tone of voice) showing that one wants help or sympathy.",
+      "examples": [
+        "an appealing look"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpilɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appealing_us_1.mp3"
+}

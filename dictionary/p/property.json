@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A thing or things belonging to someone; possessions collectively.",
+      "examples": [
+        "she wanted Oliver and his property out of her house",
+        "the stolen property was not recovered"
+      ],
+      "synonyms": [
+        "possessions",
+        "belongings",
+        "things",
+        "goods",
+        "worldly goods",
+        "effects",
+        "personal effects",
+        "stuff",
+        "chattels",
+        "movables"
+      ]
+    },
+    {
+      "description": "An attribute, quality, or characteristic of something.",
+      "examples": [
+        "the property of heat to expand metal at uniform rates"
+      ],
+      "synonyms": [
+        "quality",
+        "attribute",
+        "characteristic",
+        "feature",
+        "power",
+        "trait",
+        "mark",
+        "hallmark"
+      ]
+    }
+  ],
+  "origin": "Middle English: from an Anglo-Norman French variant of Old French propriete, from Latin proprietas, from proprius one's own, particular (see proper).",
+  "pronounciation": "/ˈprɑpərdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/property_us_1.mp3"
+}

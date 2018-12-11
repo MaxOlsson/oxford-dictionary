@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is just good enough.",
+      "examples": [
+        "he was passably attractive"
+      ],
+      "synonyms": [
+        "quite",
+        "rather",
+        "somewhat",
+        "fairly",
+        "reasonably",
+        "moderately",
+        "comparatively",
+        "relatively",
+        "after a fashion",
+        "to a limited degree",
+        "to a limited extent",
+        "to a certain degree",
+        "to some extent",
+        "tolerably"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpasəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passably_us_1.mp3"
+}

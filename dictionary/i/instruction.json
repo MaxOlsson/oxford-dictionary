@@ -1,0 +1,64 @@
+{
+  "noun": [
+    {
+      "description": "A direction or order.",
+      "examples": [
+        "he issued instructions to the sheriff",
+        "he was acting on my instructions"
+      ],
+      "synonyms": [
+        "order",
+        "command",
+        "directive",
+        "direction",
+        "decree",
+        "edict",
+        "injunction",
+        "mandate",
+        "dictate",
+        "commandment",
+        "diktat",
+        "demand",
+        "bidding",
+        "requirement",
+        "stipulation",
+        "charge",
+        "ruling",
+        "pronouncement"
+      ]
+    },
+    {
+      "description": "Detailed information telling how something should be done, operated, or assembled.",
+      "examples": [
+        "always study the instructions supplied"
+      ],
+      "synonyms": [
+        "directions",
+        "key",
+        "guide",
+        "recipe",
+        "specification"
+      ]
+    },
+    {
+      "description": "Teaching; education.",
+      "examples": [
+        "the school offers personalized instruction in a variety of skills"
+      ],
+      "synonyms": [
+        "teaching",
+        "tuition",
+        "coaching",
+        "tutoring",
+        "education",
+        "schooling",
+        "tutelage",
+        "pedagogy",
+        "andragogy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin instructio(n-), from the verb instruere (see instruct).",
+  "pronounciation": "/inˈstrəkSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instruction_us_1.mp3"
+}

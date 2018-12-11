@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Unpleasantly rough or jarring to the senses.",
+      "examples": [
+        "drenched in a harsh white neon light",
+        "harsh guttural shouts"
+      ],
+      "synonyms": [
+        "grating",
+        "jarring",
+        "grinding",
+        "rasping",
+        "raspy",
+        "strident",
+        "raucous",
+        "brassy",
+        "jangling",
+        "metallic",
+        "ear-piercing",
+        "discordant",
+        "dissonant",
+        "disagreeable",
+        "unharmonious",
+        "cacophonous",
+        "unmelodious"
+      ]
+    },
+    {
+      "description": "Cruel or severe.",
+      "examples": [
+        "a time of harsh military discipline"
+      ],
+      "synonyms": [
+        "cruel",
+        "severe",
+        "savage",
+        "barbarous",
+        "despotic",
+        "dictatorial",
+        "tyrannical",
+        "tyrannous",
+        "ruthless",
+        "merciless",
+        "pitiless",
+        "relentless",
+        "unrelenting",
+        "hard",
+        "strict",
+        "intolerant",
+        "illiberal"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Middle Low German harsch rough, literally hairy, from haer hair.",
+  "pronounciation": "/härSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harsh_us_1.mp3"
+}

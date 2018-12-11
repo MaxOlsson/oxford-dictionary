@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Having been flogged or beaten with a whip.",
+      "examples": [
+        "a whipped dog"
+      ],
+      "synonyms": [
+        "smooth",
+        "thick",
+        "velvety",
+        "of an even consistency",
+        "rich",
+        "buttery"
+      ]
+    },
+    {
+      "description": "(of cream, eggs, or other food) beaten into a froth.",
+      "examples": [],
+      "synonyms": [
+        "whisked",
+        "stirred",
+        "mixed",
+        "blended"
+      ]
+    }
+  ],
+  "pronounciation": "/(h)wipt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whipped_us_1.mp3"
+}

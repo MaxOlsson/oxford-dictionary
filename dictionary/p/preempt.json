@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Take action in order to prevent (an anticipated event) from happening; forestall.",
+      "examples": [
+        "the government preempted a coup attempt"
+      ],
+      "synonyms": [
+        "forestall",
+        "prevent"
+      ]
+    },
+    {
+      "description": "Acquire or appropriate (something) in advance.",
+      "examples": [
+        "many tables were already preempted by family parties"
+      ],
+      "synonyms": [
+        "commandeer",
+        "take possession of",
+        "occupy",
+        "seize",
+        "arrogate",
+        "appropriate",
+        "take over",
+        "take",
+        "acquire",
+        "secure",
+        "reserve"
+      ]
+    },
+    {
+      "description": "Make a preemptive bid.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A preemptive bid.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: back-formation from preemption.",
+  "pronounciation": "/prēˈempt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preempt_us_1.mp3"
+}

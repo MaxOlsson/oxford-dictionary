@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A knife with a folding blade.",
+      "examples": []
+    },
+    {
+      "description": "A dive in which the body is first bent at the waist and then straightened.",
+      "examples": []
+    },
+    {
+      "description": "A method of assessing the variability of data by repeating a calculation on the sets of data obtained by removing one value from the complete set.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move one's body into a bent or doubled-up position.",
+      "examples": [
+        "she jackknifed into a sitting position",
+        "the Major jackknifed his thin body at the waist"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdʒækˌnaɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jackknife_us_1.mp3"
+}

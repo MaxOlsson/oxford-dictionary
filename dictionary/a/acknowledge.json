@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Accept or admit the existence or truth of.",
+      "examples": [
+        "the plight of the refugees was acknowledged by the authorities",
+        "the government acknowledged that the tax was unfair",
+        "“That's true,” she acknowledged"
+      ],
+      "synonyms": [
+        "admit",
+        "accept",
+        "grant",
+        "allow",
+        "concede",
+        "confess",
+        "own",
+        "appreciate",
+        "recognize",
+        "realize",
+        "be aware of",
+        "be conscious of"
+      ]
+    },
+    {
+      "description": "(of a body of opinion) recognize the fact or importance or quality of.",
+      "examples": [
+        "the art world has begun to acknowledge his genius",
+        "he's generally acknowledged to be the game's finest coach"
+      ]
+    },
+    {
+      "description": "Show that one has noticed or recognized (someone) by making a gesture or greeting.",
+      "examples": [
+        "she refused to acknowledge my presence"
+      ],
+      "synonyms": [
+        "greet",
+        "salute",
+        "address",
+        "hail",
+        "accost"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from the obsolete Middle English verb knowledge, influenced by obsolete acknow acknowledge, confess.",
+  "pronounciation": "/əkˈnɑlədʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acknowledge_us_1.mp3"
+}

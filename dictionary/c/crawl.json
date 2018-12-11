@@ -1,0 +1,114 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) move forward on the hands and knees or by dragging the body close to the ground.",
+      "examples": [
+        "they crawled out from under the table"
+      ],
+      "synonyms": [
+        "creep",
+        "go on all fours",
+        "move on hands and knees",
+        "inch",
+        "drag oneself along",
+        "pull oneself along",
+        "drag",
+        "trail",
+        "slither",
+        "slink",
+        "squirm",
+        "wriggle",
+        "writhe",
+        "scrabble",
+        "worm one's way",
+        "advance slowly",
+        "advance stealthily",
+        "sneak"
+      ]
+    },
+    {
+      "description": "Behave obsequiously or ingratiatingly in the hope of gaining someone's favor.",
+      "examples": [
+        "don't come crawling back to me later when you realize your mistake"
+      ],
+      "synonyms": [
+        "grovel to",
+        "be obsequious towards",
+        "ingratiate oneself with",
+        "be servile towards",
+        "be sycophantic towards",
+        "kowtow to",
+        "pander to",
+        "abase oneself to",
+        "demean oneself to",
+        "bow and scrape to",
+        "prostrate oneself before",
+        "toady to",
+        "truckle to",
+        "dance attendance on",
+        "fawn on",
+        "fawn over",
+        "curry favour with",
+        "cultivate",
+        "seek the favour of",
+        "try to win over",
+        "try to get on the good side of",
+        "make up to",
+        "play up to"
+      ]
+    },
+    {
+      "description": "Be covered or crowded with insects or people, to an extent that is disgusting or objectionable.",
+      "examples": [
+        "the place was crawling with soldiers"
+      ],
+      "synonyms": [
+        "be full of",
+        "overflow with",
+        "teem with",
+        "abound in",
+        "abound with",
+        "be packed with",
+        "be crowded with",
+        "be thronged with",
+        "be jammed with",
+        "be alive with",
+        "be overrun with",
+        "swarm with",
+        "be bristling with",
+        "be infested with",
+        "be thick with"
+      ]
+    },
+    {
+      "description": "(of a program) systematically visit (a number of web pages) in order to create an index of data.",
+      "examples": [
+        "its automated software robots crawl websites, grabbing copies of pages to index"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of moving on one's hands and knees or dragging one's body along the ground.",
+      "examples": [
+        "they began the crawl back to their own lines"
+      ]
+    },
+    {
+      "description": "A swimming stroke involving alternate overarm movements and rapid kicks of the legs.",
+      "examples": []
+    },
+    {
+      "description": "A strip or band running across the bottom of a computer or television screen, within which news headlines, public service announcements, and advertisements are continuously scrolled.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "They are the kind of parents who instantly make one's skin crawl.",
+    "No fear shone in their orange eyes, only an evil deadness that could be felt, making one's skin crawl.",
+    "Yet in one scene he overturns the balance of power between them with a single disturbing gesture, and the sleazy satisfaction on his face makes one's skin crawl."
+  ],
+  "origin": "Middle English: of unknown origin; possibly related to Swedish kravla and Danish kravle.",
+  "pronounciation": "/krôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crawl_us_1.mp3"
+}

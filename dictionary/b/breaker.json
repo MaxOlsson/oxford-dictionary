@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A heavy sea wave that breaks into white foam on the shore or a shoal.",
+      "examples": [],
+      "synonyms": [
+        "wave",
+        "roller",
+        "comber",
+        "white horse",
+        "white cap"
+      ]
+    },
+    {
+      "description": "A person or thing that breaks something.",
+      "examples": [
+        "a rule-breaker",
+        "a code-breaker"
+      ]
+    },
+    {
+      "description": "A person who interrupts the conversation of others on a Citizens' Band radio channel, indicating a wish to transmit a message.",
+      "examples": []
+    },
+    {
+      "description": "A break dancer.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbrākər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breaker_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Report another's wrongdoing.",
+      "examples": [
+        "he never tattled or told tales",
+        "I would tattle on her whenever I had hard evidence"
+      ],
+      "synonyms": [
+        "inform",
+        "report",
+        "talk",
+        "tell all",
+        "spill the beans"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Gossip; idle talk.",
+      "examples": [],
+      "synonyms": [
+        "gossip",
+        "rumour",
+        "tittle-tattle",
+        "hearsay",
+        "prattle",
+        "scandal",
+        "small talk",
+        "chit-chat"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense falter, stammer, also make meaningless sounds, referring to a small child): from Middle Flemish tatelen, tateren, of imitative origin.",
+  "pronounciation": "/ˈtadl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tattle_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Writing or written under a false name.",
+      "examples": [
+        "the pseudonymous author of this mystery"
+      ],
+      "synonyms": [
+        "false",
+        "fictitious",
+        "invented",
+        "made-up",
+        "concocted",
+        "feigned",
+        "pretended",
+        "faked",
+        "fake",
+        "bogus",
+        "sham",
+        "spurious",
+        "counterfeit",
+        "pseudo",
+        "make-believe",
+        "improvised",
+        "affected",
+        "adopted"
+      ]
+    }
+  ],
+  "pronounciation": "/suˈdɑnəməs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pseudonymous_us_1.mp3"
+}

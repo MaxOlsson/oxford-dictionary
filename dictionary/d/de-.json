@@ -1,0 +1,27 @@
+{
+  "prefix": [
+    {
+      "description": "(forming verbs and their derivatives) down; away.",
+      "examples": [
+        "descend",
+        "deduct"
+      ]
+    },
+    {
+      "description": "(added to verbs and their derivatives) denoting removal or reversal.",
+      "examples": [
+        "deaerate",
+        "de-ice"
+      ]
+    },
+    {
+      "description": "Denoting formation from.",
+      "examples": [
+        "deverbal"
+      ]
+    }
+  ],
+  "origin": "From Latin de off, from; de- (sense 2) via Old French des- from Latin dis-.",
+  "pronounciation": "/diː/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/de_1_us_1.mp3"
+}

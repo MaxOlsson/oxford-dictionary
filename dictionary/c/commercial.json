@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Concerned with or engaged in commerce.",
+      "examples": [
+        "a commercial agreement"
+      ],
+      "synonyms": [
+        "trade",
+        "trading",
+        "business",
+        "private enterprise",
+        "mercantile",
+        "merchant",
+        "sales"
+      ]
+    },
+    {
+      "description": "Making or intended to make a profit.",
+      "examples": [
+        "commercial products"
+      ],
+      "synonyms": [
+        "profit-oriented",
+        "money-oriented",
+        "commercialized",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    {
+      "description": "(of television or radio) funded by the revenue from broadcast advertisements.",
+      "examples": []
+    },
+    {
+      "description": "(of chemicals) supplied in bulk and not of the highest purity.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A television or radio advertisement.",
+      "examples": [],
+      "synonyms": [
+        "advertisement",
+        "promotion",
+        "display"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈmərSHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commercial_us_1.mp3"
+}

@@ -1,0 +1,105 @@
+{
+  "verb": [
+    {
+      "description": "Feel or manipulate with the hands.",
+      "examples": [
+        "heavy paving slabs can be difficult to handle",
+        "people who handle food"
+      ],
+      "synonyms": [
+        "hold",
+        "pick up",
+        "grasp",
+        "grip",
+        "lift"
+      ]
+    },
+    {
+      "description": "Manage (a situation or problem)",
+      "examples": [
+        "a lawyer's ability to handle a case properly"
+      ],
+      "synonyms": [
+        "administer",
+        "manage",
+        "control",
+        "conduct",
+        "direct",
+        "guide",
+        "supervise",
+        "oversee",
+        "be in charge of",
+        "take care of",
+        "look after"
+      ]
+    },
+    {
+      "description": "Drive or control (a vehicle)",
+      "examples": [
+        "where did you learn to handle a boat?"
+      ],
+      "synonyms": [
+        "control",
+        "drive",
+        "steer",
+        "operate",
+        "manoeuvre",
+        "manipulate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The part by which a thing is held, carried, or controlled.",
+      "examples": [
+        "the pan features helpful lifting handles"
+      ],
+      "synonyms": [
+        "haft",
+        "shank",
+        "stock",
+        "shaft",
+        "grip",
+        "handgrip",
+        "hilt",
+        "helve",
+        "butt"
+      ]
+    },
+    {
+      "description": "A name or nickname.",
+      "examples": [
+        "that's some handle for a baby",
+        "a former Washington DJ whose handle was Fat Daddy"
+      ],
+      "synonyms": [
+        "name",
+        "title",
+        "term",
+        "designation",
+        "epithet",
+        "label",
+        "tag",
+        "style",
+        "sobriquet",
+        "nickname",
+        "byname"
+      ]
+    },
+    {
+      "description": "The total amount of money bet over a particular time (typically at a casino) or at a particular sporting event.",
+      "examples": [
+        "the monthly handle of a couple of casinos in Las Vegas"
+      ]
+    },
+    {
+      "description": "A large bottle in which liquor is sold, typically holding one half gallon.",
+      "examples": [
+        "a handle of Jim Beam"
+      ]
+    }
+  ],
+  "origin": "Old English handle (noun), handlian (verb), from hand.",
+  "pronounciation": "/ˈhændl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handle_us_1.mp3"
+}

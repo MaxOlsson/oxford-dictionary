@@ -1,0 +1,13 @@
+{
+  "adverb": [
+    {
+      "description": "In the same source (used to save space in textual references to a quoted work which has been mentioned in a previous reference)",
+      "examples": [
+        "ibid. p. 57"
+      ]
+    }
+  ],
+  "origin": "Abbreviation of Latin ibidem in the same place.",
+  "pronounciation": "/ˈibid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ibid_1_us_2.mp3"
+}

@@ -1,0 +1,84 @@
+{
+  "verb": [
+    {
+      "description": "Direct or command someone to do something, especially as an official order.",
+      "examples": [
+        "she instructed him to wait",
+        "“Look at me,” he instructed",
+        "I instructed that she be given hot, sweet tea"
+      ],
+      "synonyms": [
+        "order",
+        "command",
+        "direct",
+        "tell",
+        "enjoin",
+        "give the order to",
+        "give orders to",
+        "give the command to",
+        "require",
+        "call on",
+        "mandate",
+        "charge"
+      ]
+    },
+    {
+      "description": "Teach (someone) a subject or skill.",
+      "examples": [
+        "he instructed them in the use of firearms",
+        "instructing electors how to record their votes"
+      ],
+      "synonyms": [
+        "teach",
+        "school",
+        "give lessons to",
+        "coach",
+        "train",
+        "ground",
+        "enlighten",
+        "illuminate",
+        "inform",
+        "verse",
+        "edify",
+        "educate",
+        "upskill",
+        "tutor",
+        "guide",
+        "prepare",
+        "prime",
+        "din something into"
+      ]
+    },
+    {
+      "description": "Inform (someone) of a fact or situation.",
+      "examples": [
+        "the bank was instructed that the money from the savings account was now held by the company"
+      ],
+      "synonyms": [
+        "inform",
+        "tell",
+        "let someone know",
+        "notify",
+        "apprise",
+        "advise",
+        "announce to",
+        "impart to",
+        "relate to",
+        "communicate to"
+      ]
+    },
+    {
+      "description": "Give a person direction, information, or authorization.",
+      "examples": [],
+      "synonyms": [
+        "employ",
+        "authorize to act for one",
+        "brief",
+        "give information to"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in instruct (sense 2)): from Latin instruct- constructed, equipped, taught, from the verb instruere, from in- upon, towards + struere pile up.",
+  "pronounciation": "/ɪnˈstrəkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instruct_us_1.mp3"
+}

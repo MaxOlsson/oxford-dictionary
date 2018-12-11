@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A person who makes very little effort at work because they are waiting to leave or retire.",
+      "examples": [
+        "giving a man job security turns him into a time-server"
+      ]
+    },
+    {
+      "description": "A person who changes their views to suit the prevailing circumstances or fashion.",
+      "examples": [
+        "they were replaced with loyal time-servers"
+      ],
+      "synonyms": [
+        "equivocator",
+        "trimmer",
+        "vicar of bray"
+      ]
+    },
+    {
+      "description": "A server that distributes synchronized time information to all members of a network.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/taɪm ˈsərvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/time_server_1_us_1.mp3"
+}

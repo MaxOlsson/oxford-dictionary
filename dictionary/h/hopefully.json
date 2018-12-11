@@ -1,0 +1,42 @@
+{
+  "adverb": [
+    {
+      "description": "In a hopeful manner.",
+      "examples": [
+        "he rode on hopefully"
+      ],
+      "synonyms": [
+        "optimistically",
+        "with hope",
+        "full of hope",
+        "confidently",
+        "expectantly",
+        "with anticipation",
+        "with assurance",
+        "buoyantly",
+        "sanguinely",
+        "bullishly"
+      ]
+    },
+    {
+      "description": "It is to be hoped that.",
+      "examples": [
+        "hopefully, it should be finished by next year"
+      ],
+      "synonyms": [
+        "all being well",
+        "it is to be hoped that",
+        "if all goes well",
+        "if everything turns out all right",
+        "god willing",
+        "most likely",
+        "with luck",
+        "probably",
+        "conceivably",
+        "feasibly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhōpfəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hopefully_us_1.mp3"
+}

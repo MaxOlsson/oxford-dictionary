@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A person employed to provide a service to the public in a particular place.",
+      "examples": [
+        "a flight attendant",
+        "a gas station attendant"
+      ],
+      "synonyms": [
+        "steward",
+        "waiter",
+        "waitress",
+        "porter",
+        "servant",
+        "menial",
+        "auxiliary",
+        "assistant",
+        "helper"
+      ]
+    },
+    {
+      "description": "A person who is present at an event, meeting, or function.",
+      "examples": [
+        "he had become a regular attendant at chapel"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Occurring with or as a result of; accompanying.",
+      "examples": [
+        "the sea and its attendant attractions",
+        "he warns against the dangers attendant on solitary life"
+      ],
+      "synonyms": [
+        "accompanying",
+        "associated",
+        "related",
+        "connected",
+        "concomitant",
+        "accessory"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): from Old French, from atendre give one's attention to (see attend).",
+  "pronounciation": "/əˈtɛndənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/attendant_us_1.mp3"
+}

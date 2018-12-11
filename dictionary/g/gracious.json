@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Courteous, kind, and pleasant.",
+      "examples": [
+        "smiling and gracious in defeat"
+      ],
+      "synonyms": [
+        "courteous",
+        "polite",
+        "civil",
+        "chivalrous",
+        "well mannered",
+        "decorous",
+        "gentlemanly",
+        "ladylike",
+        "civilized",
+        "tactful",
+        "diplomatic"
+      ]
+    },
+    {
+      "description": "(in Christian belief) showing divine grace.",
+      "examples": [
+        "I am saved by God's gracious intervention on my behalf"
+      ],
+      "synonyms": [
+        "merciful",
+        "forgiving",
+        "compassionate",
+        "kind",
+        "kindly",
+        "lenient",
+        "clement",
+        "pitying",
+        "forbearing",
+        "humane",
+        "mild",
+        "soft-hearted",
+        "tender-hearted",
+        "sympathetic"
+      ]
+    },
+    {
+      "description": "A polite epithet used of royalty or their acts.",
+      "examples": [
+        "the accession of Her present gracious Majesty"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing polite surprise.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin gratiosus, from gratia esteem, favor (see grace).",
+  "pronounciation": "/ˈɡreɪʃəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gracious_us_1.mp3"
+}

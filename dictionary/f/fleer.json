@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Laugh impudently or jeeringly.",
+      "examples": [
+        "he fleered at us"
+      ],
+      "synonyms": [
+        "mock",
+        "deride",
+        "ridicule",
+        "sneer at",
+        "be scornful about",
+        "treat contemptuously",
+        "jeer at",
+        "jibe at",
+        "make fun of",
+        "poke fun at",
+        "laugh at",
+        "scorn",
+        "laugh to scorn",
+        "dismiss",
+        "pooh-pooh",
+        "make light of",
+        "belittle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An impudent or jeering look or speech.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: probably of Scandinavian origin and related to Norwegian and Swedish dialect flira to grin.",
+  "pronounciation": "/ˈflɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fleer_us_1.mp3"
+}

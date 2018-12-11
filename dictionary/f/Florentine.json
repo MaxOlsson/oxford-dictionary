@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Florence.",
+      "examples": []
+    },
+    {
+      "description": "(of food) served or prepared on a bed of spinach.",
+      "examples": [
+        "eggs florentine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or citizen of Florence.",
+      "examples": []
+    },
+    {
+      "description": "A cookie consisting mainly of nuts and preserved fruit, coated on one side with chocolate.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a noun): from French Florentin(e) or Latin Florentinus, from Florentia Florence.",
+  "pronounciation": "/ˈflɔrəntin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/florentine_1_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The formation of clear and distinct sounds in speech.",
+      "examples": [
+        "the articulation of vowels and consonants"
+      ],
+      "synonyms": [
+        "pronunciation",
+        "intonation",
+        "enunciation",
+        "elocution",
+        "inflection",
+        "tone",
+        "modulation",
+        "cadence",
+        "timbre",
+        "utterance",
+        "manner of speaking",
+        "speech pattern",
+        "speech",
+        "diction",
+        "delivery"
+      ]
+    },
+    {
+      "description": "Clarity in the production of successive notes.",
+      "examples": [
+        "beautifully polished articulation from the violins"
+      ]
+    },
+    {
+      "description": "The state of being jointed.",
+      "examples": [
+        "the area of articulation of the lower jaw"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses joint, joining): from Latin articulatio(n-), from the verb articulare (see articulate).",
+  "pronounciation": "/ɑrˌtɪkjəˈleɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/articulation_us_1.mp3"
+}

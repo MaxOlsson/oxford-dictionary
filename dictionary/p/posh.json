@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Elegant or stylishly luxurious.",
+      "examples": [
+        "a posh Munich hotel"
+      ],
+      "synonyms": [
+        "smart",
+        "stylish",
+        "upmarket",
+        "fancy",
+        "high-class",
+        "fashionable",
+        "chic",
+        "luxurious",
+        "luxury",
+        "deluxe",
+        "exclusive",
+        "select",
+        "sumptuous",
+        "opulent",
+        "lavish",
+        "grand",
+        "rich",
+        "elegant",
+        "ornate",
+        "ostentatious",
+        "showy"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In an upper-class way.",
+      "examples": [
+        "trying to talk posh"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The quality or state of being elegant, stylish, or upper-class.",
+      "examples": [
+        "we finally bought a color TV, which seemed the height of posh"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: perhaps from slang posh, denoting a dandy. There is no evidence to support the folk etymology that posh is formed from the initials of port out starboard home (referring to the more comfortable accommodation, out of the heat of the sun, on ships between England and India).",
+  "pronounciation": "/päSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/posh_us_1.mp3"
+}

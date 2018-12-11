@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "Cessation.",
+      "examples": [
+        "he teased us without surcease"
+      ],
+      "synonyms": [
+        "interval",
+        "interlude",
+        "entr'acte",
+        "break",
+        "recess",
+        "pause",
+        "rest",
+        "respite",
+        "breathing space",
+        "lull",
+        "gap",
+        "stop",
+        "stoppage",
+        "halt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cease.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Old French sursis, past participle of Old French surseoir refrain, delay, from Latin supersedere (see supersede). The change in the ending was due to association with cease; the noun dates from the late 16th century.",
+  "pronounciation": "/sərˈsēs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surcease_us_2.mp3"
+}

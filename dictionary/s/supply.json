@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "Make (something needed or wanted) available to someone; provide.",
+      "examples": [
+        "the farm supplies apples to cider makers"
+      ],
+      "synonyms": [
+        "give",
+        "contribute",
+        "provide",
+        "furnish",
+        "donate",
+        "bestow",
+        "grant",
+        "endow",
+        "afford",
+        "impart",
+        "lay on",
+        "come up with",
+        "make available",
+        "proffer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stock of a resource from which a person or place can be provided with the necessary amount of that resource.",
+      "examples": [
+        "there were fears that the drought would limit the exhibition's water supply"
+      ],
+      "synonyms": [
+        "stock",
+        "store",
+        "reserve",
+        "reservoir",
+        "stockpile",
+        "heap",
+        "pile",
+        "mass",
+        "hoard",
+        "cache",
+        "collection",
+        "storehouse",
+        "repository"
+      ]
+    }
+  ],
+  "adverb": [],
+  "phrases": [
+    "he meant to go, but time and gas were in short supply",
+    "by the law of supply and demand the cost of health care will plummet",
+    "Just like any other goods or services, it should be subject to the forces of supply and demand, and pricing.",
+    "The only factors that can possibly influence property prices are supply and demand.",
+    "Slight movements in supply and demand can trigger rapid fluctuations in prices."
+  ],
+  "origin": "Late Middle English: from Old French soupleer, from Latin supplere fill up, from sub- from below + plere fill. The early sense of the noun was assistance, relief (chiefly a Scots use).",
+  "pronounciation": "/ˈsəp(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/supply_us_3.mp3"
+}

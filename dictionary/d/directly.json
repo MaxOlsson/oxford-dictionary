@@ -1,0 +1,74 @@
+{
+  "adverb": [
+    {
+      "description": "Without changing direction or stopping.",
+      "examples": [
+        "they went directly to the restaurant"
+      ],
+      "synonyms": [
+        "straight",
+        "right",
+        "in a straight line",
+        "as the crow flies",
+        "by a direct route",
+        "without deviation",
+        "in a beeline",
+        "by the shortest route"
+      ]
+    },
+    {
+      "description": "With nothing or no one in between.",
+      "examples": [
+        "the decisions directly affect people's health",
+        "the security forces were directly responsible for the massacre"
+      ],
+      "synonyms": [
+        "face to face",
+        "personally",
+        "in person",
+        "without an intermediary",
+        "at first hand",
+        "head on",
+        "direct",
+        "man to man"
+      ]
+    },
+    {
+      "description": "In a frank way.",
+      "examples": [
+        "she spoke simply and directly"
+      ],
+      "synonyms": [
+        "frankly",
+        "bluntly",
+        "straightforwardly",
+        "openly",
+        "candidly",
+        "outspokenly",
+        "forthrightly",
+        "without beating around the bush",
+        "point-blank",
+        "matter-of-factly",
+        "without prevarication"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "As soon as.",
+      "examples": [
+        "she fell asleep directly she got into bed"
+      ],
+      "synonyms": [
+        "as soon as",
+        "the moment",
+        "the instant",
+        "the second",
+        "once",
+        "when",
+        "immediately after"
+      ]
+    }
+  ],
+  "pronounciation": "/dīˈrektlē/"
+}

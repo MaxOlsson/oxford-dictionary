@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A person who conducts an audit.",
+      "examples": [],
+      "synonyms": [
+        "examiner",
+        "checker",
+        "scrutinizer",
+        "scrutineer",
+        "investigator",
+        "surveyor",
+        "assessor",
+        "appraiser",
+        "reviewer",
+        "analyst"
+      ]
+    },
+    {
+      "description": "A listener.",
+      "examples": [
+        "so low was Jim's voice that his auditors had to give it close attention"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French auditeur, from Latin auditor, from audire to hear.",
+  "pronounciation": "/ˈôdədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/auditor_us_1.mp3"
+}

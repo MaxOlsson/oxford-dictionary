@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Delicately small and pretty.",
+      "examples": [
+        "a dainty lace handkerchief"
+      ]
+    },
+    {
+      "description": "Fastidious or difficult to please, typically concerning food.",
+      "examples": [
+        "a dainty appetite"
+      ],
+      "synonyms": [
+        "fastidious",
+        "fussy",
+        "hard to please",
+        "finicky",
+        "finical",
+        "faddish",
+        "squeamish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something good to eat; a delicacy.",
+      "examples": [],
+      "synonyms": [
+        "delicacy",
+        "tasty morsel",
+        "titbit",
+        "fancy",
+        "luxury",
+        "treat",
+        "nibble",
+        "savoury",
+        "appetizer",
+        "bonne bouche",
+        "confection",
+        "bonbon"
+      ]
+    }
+  ],
+  "origin": "Middle English (as noun): from Old French daintie, deintie choice morsel, pleasure, from Latin dignitas worthiness or beauty, from dignus worthy.",
+  "pronounciation": "/ˈdān(t)ē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dainty_us_1.mp3"
+}

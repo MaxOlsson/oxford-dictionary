@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Affected by or associated with nausea or vomiting.",
+      "examples": [
+        "I had eaten something that didn't agree with me and I was a little bilious"
+      ],
+      "synonyms": [
+        "nauseous",
+        "sick",
+        "queasy",
+        "nauseated",
+        "green about the gills",
+        "liverish"
+      ]
+    },
+    {
+      "description": "Spiteful; bad-tempered.",
+      "examples": [
+        "outbursts of bilious misogyny"
+      ],
+      "synonyms": [
+        "bad-tempered",
+        "irritable",
+        "irascible",
+        "tetchy",
+        "testy",
+        "grumpy",
+        "grouchy",
+        "crotchety",
+        "cantankerous",
+        "curmudgeonly",
+        "ill-tempered",
+        "ill-natured",
+        "ill-humoured",
+        "peevish",
+        "fractious",
+        "disagreeable",
+        "pettish",
+        "crabbed",
+        "crabby",
+        "waspish",
+        "prickly",
+        "peppery",
+        "touchy",
+        "scratchy",
+        "crusty",
+        "splenetic",
+        "shrewish",
+        "short-tempered",
+        "hot-tempered",
+        "quick-tempered",
+        "dyspeptic",
+        "choleric",
+        "liverish",
+        "cross-grained"
+      ]
+    },
+    {
+      "description": "Relating to bile.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the sense biliary): from Latin biliosus, from bilis bile.",
+  "pronounciation": "/ˈbɪljəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bilious_us_1.mp3"
+}

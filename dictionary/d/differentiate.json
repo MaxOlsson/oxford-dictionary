@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Recognize or ascertain what makes (someone or something) different.",
+      "examples": [
+        "children can differentiate the past from the present"
+      ]
+    },
+    {
+      "description": "Make or become different in the process of growth or development.",
+      "examples": [
+        "the receptors are developed and differentiated into sense organs",
+        "the cells differentiate into a wide variety of cell types"
+      ],
+      "synonyms": [
+        "transform",
+        "metamorphose",
+        "evolve",
+        "convert",
+        "change",
+        "become different",
+        "modify",
+        "alter",
+        "adapt"
+      ]
+    },
+    {
+      "description": "Transform (a function) into its derivative.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: from medieval Latin differentiat- carried away from, from the verb differentiare, from differentia (see differentia).",
+  "pronounciation": "/ˌdifəˈren(t)SHēˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/differentiate_us_1.mp3"
+}

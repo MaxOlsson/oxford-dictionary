@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of an undertaking or a relationship) not achieving its end or not lasting; unsuccessful.",
+      "examples": [
+        "a failed coup attempt"
+      ],
+      "synonyms": [
+        "fruitless",
+        "vain",
+        "pointless"
+      ]
+    },
+    {
+      "description": "(of a mechanism) not functioning properly; broken-down.",
+      "examples": [
+        "an aircraft with a failed engine"
+      ]
+    }
+  ],
+  "pronounciation": "/feɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/failed_us_1.mp3"
+}

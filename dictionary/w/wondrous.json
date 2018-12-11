@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Inspiring a feeling of wonder or delight; marvelous.",
+      "examples": [
+        "this wondrous city"
+      ],
+      "synonyms": [
+        "marvellous",
+        "magnificent",
+        "superb",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Marvelously; wonderfully.",
+      "examples": [
+        "she is grown wondrous pretty"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: alteration of obsolete wonders (adjective and adverb), genitive of wonder, on the pattern of marvellous.",
+  "pronounciation": "/ˈwəndrəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wondrous_us_1.mp3"
+}

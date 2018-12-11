@@ -1,0 +1,41 @@
+{
+  "adjective &amp; adverb": [
+    {
+      "description": "So deep as to reach the knees.",
+      "examples": [
+        "the water was knee-deep on Main Street"
+      ],
+      "synonyms": [
+        "full of",
+        "crowded with",
+        "overrun by",
+        "overflowing with",
+        "swarming with",
+        "teeming with",
+        "alive with",
+        "crawling with",
+        "hopping with",
+        "bristling with",
+        "thronged with",
+        "packed with",
+        "rife with",
+        "well supplied with",
+        "awash with",
+        "abounding in",
+        "abundant in",
+        "knee-deep in",
+        "rolling in"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to be immersed up to the knees.",
+      "examples": [
+        "I plodded knee-deep through the mud"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌnē ˈˌdēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knee_deep_1_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Cause surprise or confusion in (someone), especially by acting against their expectations.",
+      "examples": [
+        "the inflation figure confounded economic analysts"
+      ],
+      "synonyms": [
+        "amaze",
+        "astonish",
+        "dumbfound",
+        "stagger",
+        "surprise",
+        "startle",
+        "stun",
+        "stupefy",
+        "daze",
+        "nonplus"
+      ]
+    },
+    {
+      "description": "Mix up (something) with something else so that the individual elements become difficult to distinguish.",
+      "examples": [
+        "'nuke' is now a cooking technique, as microwave radiation is confounded with nuclear radiation"
+      ],
+      "synonyms": [
+        "mix up",
+        "muddle up"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express anger or annoyance.",
+      "examples": [
+        "oh confound it, where is the thing?"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French confondre, from Latin confundere pour together, mix up. Compare with confuse.",
+  "pronounciation": "/kənˈfaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfound_us_1.mp3"
+}

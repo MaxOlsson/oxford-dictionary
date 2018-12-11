@@ -1,0 +1,25 @@
+{
+  "plural noun": [
+    {
+      "description": "News; information.",
+      "examples": [
+        "the bearer of glad tidings"
+      ],
+      "synonyms": [
+        "report",
+        "announcement",
+        "story",
+        "account"
+      ]
+    },
+    {
+      "description": "A flock of magpies.",
+      "examples": [
+        "a tiding of magpies perch in the low pines"
+      ]
+    }
+  ],
+  "origin": "Late Old English tīdung announcement, piece of news, probably from Old Norse títhindi news of events, from títhr occurring.",
+  "pronounciation": "/ˈtaɪdɪŋz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tidings_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adverb": [
+    {
+      "description": "(used especially in spoken English) very.",
+      "examples": [
+        "I'm awfully sorry to bother you so late",
+        "an awfully nice man"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "really",
+        "exceedingly",
+        "immensely",
+        "thoroughly",
+        "decidedly",
+        "terribly",
+        "frightfully",
+        "dreadfully",
+        "fearfully",
+        "exceptionally",
+        "uncommonly",
+        "remarkably",
+        "eminently",
+        "extraordinarily",
+        "most",
+        "positively",
+        "particularly"
+      ]
+    },
+    {
+      "description": "Very badly or unpleasantly.",
+      "examples": [
+        "we played awfully"
+      ],
+      "synonyms": [
+        "very badly",
+        "atrociously",
+        "terribly",
+        "dismally",
+        "dreadfully",
+        "appallingly",
+        "execrably",
+        "poorly",
+        "incompetently",
+        "inexpertly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɔf(ə)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awfully_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Involving or relating to treatment intended to restore or improve a person's appearance.",
+      "examples": [
+        "cosmetic surgery"
+      ],
+      "synonyms": [
+        "beautifying",
+        "improving",
+        "non-medical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A product applied to the body, especially the face, to improve its appearance.",
+      "examples": [],
+      "synonyms": [
+        "make-up",
+        "beauty products",
+        "beauty aids"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as a noun denoting the art of beautifying the body): from French cosmétique, from Greek kosmētikos, from kosmein arrange or adorn, from kosmos order or adornment.",
+  "pronounciation": "/käzˈmedik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cosmetic_us_2.mp3"
+}

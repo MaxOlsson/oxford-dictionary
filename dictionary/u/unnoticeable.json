@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Not easily observed or noticed.",
+      "examples": [
+        "the reverberation will be so slight as to be unnoticeable"
+      ],
+      "synonyms": [
+        "run-of-the-mill",
+        "ordinary",
+        "middle-of-the-road",
+        "average",
+        "common",
+        "commonplace",
+        "everyday",
+        "workaday",
+        "quotidian",
+        "pedestrian",
+        "suburban",
+        "mundane",
+        "mediocre",
+        "humdrum",
+        "prosaic",
+        "lacklustre",
+        "unexceptional",
+        "indifferent",
+        "forgettable",
+        "unmemorable",
+        "uninspired",
+        "unimpressive",
+        "unexciting",
+        "unspectacular",
+        "uneventful",
+        "unremarkable",
+        "inconsequential",
+        "inconspicuous",
+        "characterless",
+        "featureless",
+        "nondescript",
+        "plain",
+        "simple",
+        "fair",
+        "not bad",
+        "passable",
+        "all right",
+        "middling",
+        "moderate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈnōdəsəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unnoticeable_us_1.mp3"
+}

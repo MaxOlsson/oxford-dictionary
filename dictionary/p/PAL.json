@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A friend.",
+      "examples": [
+        "we're best pals"
+      ],
+      "synonyms": [
+        "friend",
+        "companion",
+        "comrade",
+        "intimate",
+        "familiar",
+        "confidant",
+        "alter ego",
+        "second self"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spend time with a friend.",
+      "examples": [
+        "we got acquainted but we never really palled around"
+      ],
+      "synonyms": [
+        "mix",
+        "keep company",
+        "mingle",
+        "socialize",
+        "get together",
+        "go around",
+        "rub shoulders",
+        "fraternize",
+        "consort",
+        "have dealings"
+      ]
+    }
+  ],
+  "origin": "Acronym from Phase Alternate Line (so named because the color information in alternate lines is inverted in phase).",
+  "pronounciation": "/pæl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pal_us_1.mp3"
+}

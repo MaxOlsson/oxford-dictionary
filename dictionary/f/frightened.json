@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Afraid or anxious.",
+      "examples": [
+        "a frightened child"
+      ],
+      "synonyms": [
+        "anxious",
+        "disturbed",
+        "perturbed",
+        "troubled",
+        "bothered",
+        "distressed",
+        "concerned",
+        "upset",
+        "distraught",
+        "worried sick",
+        "disquieted",
+        "uneasy",
+        "ill at ease",
+        "fretful",
+        "fretting",
+        "agitated",
+        "in a state of agitation",
+        "nervous",
+        "edgy",
+        "on edge",
+        "like a cat on a hot tin roof",
+        "tense",
+        "overwrought",
+        "worked up",
+        "keyed up",
+        "strung out",
+        "jumpy",
+        "with one's stomach in knots",
+        "stressed",
+        "under stress"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfrītnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frightened_us_1.mp3"
+}

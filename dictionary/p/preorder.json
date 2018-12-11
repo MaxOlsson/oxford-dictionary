@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "Order (an item of merchandise) before it is available, with the understanding that it will be shipped later.",
+      "examples": [
+        "click on the link below to preorder the DVD"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An order for an item that has not yet been made commercially available.",
+      "examples": [
+        "preorders have already put the book at the top of the bestseller lists"
+      ]
+    }
+  ],
+  "pronounciation": "/prēˈôrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preorder_us_1.mp3"
+}

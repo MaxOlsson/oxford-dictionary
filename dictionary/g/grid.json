@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A framework of spaced bars that are parallel to or cross each other; a grating.",
+      "examples": [
+        "the metal grids had been pulled across the foyer"
+      ],
+      "synonyms": [
+        "grating",
+        "mesh",
+        "gauze",
+        "grille",
+        "grillwork",
+        "lattice",
+        "framework",
+        "network",
+        "criss-cross"
+      ]
+    },
+    {
+      "description": "A network of lines that cross each other to form a series of squares or rectangles.",
+      "examples": [
+        "a grid of tree-lined streets"
+      ],
+      "synonyms": [
+        "matrix",
+        "network",
+        "reticulation",
+        "reticulum"
+      ]
+    },
+    {
+      "description": "A network of cables or pipes for distributing power, especially high-voltage transmission lines for electricity.",
+      "examples": [
+        "the second reactor was not connected to the grid until 1985"
+      ]
+    },
+    {
+      "description": "An electrode placed between the cathode and anode of a thermionic tube or cathode ray tube, serving to control or modulate the flow of electrons.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put into or set out as a grid.",
+      "examples": [
+        "a well-planned core of gridded streets"
+      ]
+    }
+  ],
+  "phrases": [
+    "people living off the grid had begun using wind turbines",
+    "First, I found that living off the grid wasn't very hard; it was actually quite fun.",
+    "Langer suggests building small hydro plants along fast-flowing streams to supply power to farms that are off the grid.",
+    "Jan Hopkins reports on those who were off the grid during the worst blackout in our country's history.",
+    "They are among a small, but growing, number of Americans who live \"off the grid.\""
+  ],
+  "origin": "Mid 19th century: back-formation from gridiron.",
+  "pronounciation": "/ɡrɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grid_us_1.mp3"
+}

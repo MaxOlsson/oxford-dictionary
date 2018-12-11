@@ -1,0 +1,121 @@
+{
+  "noun": [
+    {
+      "description": "An instruction, command, or duty given to a person or group of people.",
+      "examples": [
+        "he received a commission to act as an informer",
+        "his commission to redesign the building"
+      ],
+      "synonyms": [
+        "task",
+        "employment",
+        "job",
+        "work",
+        "piece of work",
+        "project",
+        "mission",
+        "assignment",
+        "undertaking",
+        "exercise",
+        "enterprise",
+        "endeavour",
+        "solution"
+      ]
+    },
+    {
+      "description": "A group of people officially charged with a particular function.",
+      "examples": [
+        "the United Nations High Commission for Refugees"
+      ],
+      "synonyms": [
+        "committee",
+        "board",
+        "board of commissioners",
+        "council",
+        "panel",
+        "directorate",
+        "advisory body",
+        "advisorate",
+        "convocation",
+        "delegation"
+      ]
+    },
+    {
+      "description": "An amount of money, typically a set percentage of the value involved, paid to an agent in a commercial transaction.",
+      "examples": [
+        "foreign banks may charge a commission",
+        "he sold cosmetics on commission"
+      ],
+      "synonyms": [
+        "percentage",
+        "brokerage",
+        "share",
+        "portion",
+        "dividend",
+        "premium",
+        "fee",
+        "consideration",
+        "bonus",
+        "gratuity",
+        "tip",
+        "honorarium"
+      ]
+    },
+    {
+      "description": "A warrant conferring the rank of officer in an army, navy, or air force.",
+      "examples": [
+        "he has resigned his commission"
+      ]
+    },
+    {
+      "description": "The action of committing a crime or offense.",
+      "examples": [
+        "use of a deadly weapon in the commission of a felony"
+      ],
+      "synonyms": [
+        "perpetration",
+        "committing",
+        "committal",
+        "execution",
+        "performance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give an order for or authorize the production of (something such as a building, piece of equipment, or work of art)",
+      "examples": [
+        "the portrait was commissioned by his widow in 1792"
+      ],
+      "synonyms": [
+        "order",
+        "put in an order for",
+        "place an order for",
+        "contract for",
+        "pay for"
+      ]
+    },
+    {
+      "description": "Bring (something newly produced, such as a factory or machine) into working condition.",
+      "examples": [
+        "we had a few hiccups getting the heating equipment commissioned"
+      ]
+    },
+    {
+      "description": "Appoint (someone) to the rank of officer in the armed services.",
+      "examples": [
+        "he was commissioned after attending midshipman school"
+      ]
+    }
+  ],
+  "phrases": [
+    "Well, we know which one that is, since the Republic has only one of those experimental ships in commission right now.",
+    "Out of the total of 451 surface warships and submarines in commission during the war, 332 had been sunk by the time Japan surrendered and only 37, or 8.2%, remained operational.",
+    "The squadron disbanded on October 10, 1945-but reformed on April 17, 1952, and has been in commission ever since.",
+    "During almost ten years in commission, the ship has steamed nearly 110,000 miles and visited 81 ports in 14 countries.",
+    "My computer is now back in commission, and that makes me happy."
+  ],
+  "origin": "Middle English: via Old French from Latin commissio(n-), from committere entrust (see commit).",
+  "pronounciation": "/kəˈmɪʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commission_us_1.mp3"
+}

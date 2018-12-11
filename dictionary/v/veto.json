@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A constitutional right to reject a decision or proposal made by a law-making body.",
+      "examples": [
+        "the legislature would have a veto over appointments to key posts"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exercise a veto against (a decision or proposal made by a law-making body)",
+      "examples": [
+        "the president vetoed the bill"
+      ],
+      "synonyms": [
+        "reject",
+        "turn down",
+        "throw out",
+        "dismiss",
+        "say no to",
+        "rule against",
+        "overrule",
+        "rule out",
+        "quash"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin, literally I forbid, used by Roman tribunes of the people when opposing measures of the Senate.",
+  "pronounciation": "/ˈvidoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/veto_us_1.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A public procession, especially one celebrating a special day or event and including marching bands and floats.",
+      "examples": [],
+      "synonyms": [
+        "procession",
+        "march",
+        "cavalcade",
+        "motorcade",
+        "carcade",
+        "cortège",
+        "ceremony",
+        "spectacle",
+        "display",
+        "pageant",
+        "concours",
+        "file",
+        "train",
+        "column"
+      ]
+    },
+    {
+      "description": "A public square or promenade.",
+      "examples": [],
+      "synonyms": [
+        "promenade",
+        "walk",
+        "walkway",
+        "esplanade",
+        "mall"
+      ]
+    },
+    {
+      "description": "A parade ground.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Walk or march in public in a formal procession or in an ostentatious or attention-seeking way.",
+      "examples": [
+        "officers will parade through the town center",
+        "carefree young men were parading the streets"
+      ],
+      "synonyms": [
+        "march",
+        "process",
+        "file",
+        "troop",
+        "go in columns",
+        "pass in formation",
+        "promenade"
+      ]
+    }
+  ],
+  "phrases": [
+    "The parade saw more than 1,500 reservists on parade watched by an audience of several thousand in the Horse Guards arena.",
+    "The recruits are on parade in their billet.",
+    "After the banner was marched into position on the parade ground, the four full guards on parade fired volleys in the ripple-effect drill movement known as Fieu de Joie or Joy of Sound.",
+    "A flag-raising ritual and presentation of wreaths were held to mark the occasion while the members of the 28th Infantry Battalion performed military drills on parade.",
+    "The dispute took its toll on the state opening of parliament with the number of troops on parade halved yesterday to 520 as soldiers were deployed on fire duties."
+  ],
+  "origin": "Mid 17th century: from French, literally a showing, from Spanish parada and Italian parata, based on Latin parare prepare, furnish.",
+  "pronounciation": "/pəˈrād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parade_us_1.mp3"
+}

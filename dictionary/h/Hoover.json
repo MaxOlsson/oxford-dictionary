@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A vacuum cleaner, properly one made by the Hoover company.",
+      "examples": [],
+      "synonyms": [
+        "vacuum cleaner"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Clean (something) with a vacuum cleaner.",
+      "examples": [
+        "he was hoovering the stairs"
+      ],
+      "synonyms": [
+        "brush",
+        "clean",
+        "scrub",
+        "wipe",
+        "mop",
+        "dust",
+        "scour",
+        "scrape",
+        "rake",
+        "buff"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A US city in north central Alabama, south of Birmingham; population 71,020 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "1920s: named after W. H. Hoover (see Hoover, William).",
+  "pronounciation": "/ˈhuvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoover_us_1.mp3"
+}

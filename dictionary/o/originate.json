@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Have a specified beginning.",
+      "examples": [
+        "the word originated as a marketing term"
+      ],
+      "synonyms": [
+        "arise",
+        "have its origin",
+        "derive",
+        "begin",
+        "start",
+        "stem",
+        "spring",
+        "emerge",
+        "develop",
+        "grow",
+        "rise",
+        "flow",
+        "emanate",
+        "issue"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin originat- caused to begin, from Latin origo, origin- source, origin.",
+  "pronounciation": "/əˈrijəˌnāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/originate_us_1.mp3"
+}

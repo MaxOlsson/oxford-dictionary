@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Insolent or impertinent.",
+      "examples": [
+        "when I protested he accused me of being lippy"
+      ],
+      "synonyms": [
+        "rude",
+        "bad-mannered",
+        "ill-mannered",
+        "unmannerly",
+        "discourteous",
+        "uncivil",
+        "disrespectful",
+        "inconsiderate",
+        "boorish",
+        "churlish",
+        "ill-bred",
+        "ungentlemanly",
+        "unladylike",
+        "ungracious",
+        "ungallant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Lipstick.",
+      "examples": [
+        "she applied some red lippy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlipē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lippy_us_1.mp3"
+}

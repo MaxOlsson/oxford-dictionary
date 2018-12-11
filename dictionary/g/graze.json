@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "(of cattle, sheep, etc.) eat grass in a field.",
+      "examples": [
+        "cattle graze on the open meadows"
+      ],
+      "synonyms": [
+        "feed",
+        "eat",
+        "crop",
+        "browse",
+        "ruminate",
+        "pasture",
+        "nibble",
+        "take nourishment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slight injury where the skin is scraped.",
+      "examples": [
+        "it'll be fine, it's only a graze"
+      ],
+      "synonyms": [
+        "scratch",
+        "scrape",
+        "abrasion",
+        "cut",
+        "injury",
+        "sore"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: perhaps a specific use of graze.",
+  "pronounciation": "/ɡreɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/graze_us_1.mp3"
+}

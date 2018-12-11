@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A person who commits an illegal act.",
+      "examples": [
+        "an institution for juvenile offenders"
+      ],
+      "synonyms": [
+        "wrongdoer",
+        "criminal",
+        "lawbreaker",
+        "malefactor",
+        "felon",
+        "delinquent",
+        "culprit",
+        "guilty party",
+        "sinner",
+        "transgressor",
+        "evil-doer",
+        "reprobate",
+        "outlaw"
+      ]
+    },
+    {
+      "description": "A person or thing that offends, does something wrong, or causes problems.",
+      "examples": [
+        "of atmospheric pollutants, the worst offender is sulfur dioxide",
+        "he himself may be an offender of the very issues he is discussing"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈfendər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/offender_us_1.mp3"
+}

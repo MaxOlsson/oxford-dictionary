@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(of food or drink) without sugar or a similar substance having been added.",
+      "examples": [
+        "unsweetened grapefruit juice"
+      ],
+      "synonyms": [
+        "sour",
+        "sharp",
+        "sharp-tasting",
+        "tangy",
+        "bitter",
+        "acid",
+        "acidic",
+        "zesty",
+        "piquant",
+        "pungent",
+        "strong",
+        "harsh",
+        "vinegary",
+        "lemony",
+        "citrus",
+        "burning",
+        "acrid",
+        "acetic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈswitnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsweetened_us_1.mp3"
+}

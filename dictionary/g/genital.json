@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the human or animal reproductive organs.",
+      "examples": [
+        "conditions of the lower genital tract"
+      ],
+      "synonyms": [
+        "generative",
+        "procreative",
+        "propagative"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or animal's external organs of reproduction.",
+      "examples": [],
+      "synonyms": [
+        "private parts",
+        "genitalia",
+        "sexual organs",
+        "reproductive organs",
+        "pudenda",
+        "nether regions",
+        "crotch",
+        "groin"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin genitalis, from genitus, past participle of gignere beget.",
+  "pronounciation": "/ˈjenədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/genital_us_1.mp3"
+}

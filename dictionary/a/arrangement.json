@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "The action, process, or result of arranging or being arranged.",
+      "examples": [
+        "the arrangement of the furniture in the room"
+      ],
+      "synonyms": [
+        "positioning",
+        "disposition",
+        "marshalling",
+        "ranging",
+        "ordering"
+      ]
+    },
+    {
+      "description": "Plans or preparations for a future event.",
+      "examples": [
+        "all the arrangements for the wedding were made"
+      ],
+      "synonyms": [
+        "arrangements",
+        "planning",
+        "plans",
+        "provision",
+        "preparatory measures",
+        "preliminaries",
+        "necessary steps",
+        "groundwork",
+        "spadework",
+        "foundation",
+        "gearing up"
+      ]
+    },
+    {
+      "description": "A composition adapted for performance with different instruments or voices than those originally specified.",
+      "examples": [
+        "Mozart's symphonies in arrangements for cello and piano"
+      ],
+      "synonyms": [
+        "adaptation",
+        "setting",
+        "scoring",
+        "orchestration",
+        "instrumentation",
+        "reduction",
+        "harmonization"
+      ]
+    },
+    {
+      "description": "A settlement of a dispute or claim.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈreɪndʒmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arrangement_us_1.mp3"
+}

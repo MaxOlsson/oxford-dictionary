@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Old.",
+      "examples": [
+        "that ole truck of my daddy's"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "A cry of approval, joy, etc.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Object linking and embedding, denoting a set of techniques for transferring an object from one application to another.",
+      "examples": []
+    }
+  ],
+  "origin": "Spanish.",
+  "pronounciation": "/ōˈlā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ole_1_us_2.mp3"
+}

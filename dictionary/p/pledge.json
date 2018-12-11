@@ -1,0 +1,92 @@
+{
+  "noun": [
+    {
+      "description": "A solemn promise or undertaking.",
+      "examples": [
+        "the conference ended with a joint pledge to limit pollution"
+      ],
+      "synonyms": [
+        "promise",
+        "undertaking",
+        "vow",
+        "word",
+        "word of honour",
+        "commitment",
+        "assurance",
+        "oath",
+        "covenant",
+        "bond",
+        "agreement",
+        "guarantee",
+        "warrant"
+      ]
+    },
+    {
+      "description": "A thing that is given as security for the fulfillment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.",
+      "examples": [],
+      "synonyms": [
+        "surety",
+        "bond",
+        "security",
+        "collateral",
+        "guarantee",
+        "deposit",
+        "pawn"
+      ]
+    },
+    {
+      "description": "The drinking to a person's health; a toast.",
+      "examples": [],
+      "synonyms": [
+        "tribute",
+        "salute",
+        "salutation"
+      ]
+    },
+    {
+      "description": "A person who has promised to join a fraternity or sorority.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Commit (a person or organization) by a solemn promise.",
+      "examples": [
+        "the government pledged itself to deal with environmental problems"
+      ]
+    },
+    {
+      "description": "Give as security on a loan.",
+      "examples": [
+        "the creditor to whom the land is pledged"
+      ],
+      "synonyms": [
+        "mortgage",
+        "put up as collateral",
+        "guarantee",
+        "pawn"
+      ]
+    },
+    {
+      "description": "Drink to the health of.",
+      "examples": [],
+      "synonyms": [
+        "pay tribute to",
+        "drink the health of",
+        "drink to the health of",
+        "drink to",
+        "salute",
+        "honour"
+      ]
+    },
+    {
+      "description": "Promise to join (a fraternity or sorority)",
+      "examples": [
+        "Francie and I pledged the same sorority"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a person acting as surety for another): from Old French plege, from medieval Latin plebium, perhaps related to the Germanic base of plight.",
+  "pronounciation": "/plej/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pledge_us_1.mp3"
+}

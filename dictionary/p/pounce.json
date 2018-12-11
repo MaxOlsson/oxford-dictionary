@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal or bird of prey) spring or swoop suddenly so as to catch prey.",
+      "examples": [
+        "the wolf pounced on the rat",
+        "she looked like a vulture waiting to pounce"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden swoop or spring.",
+      "examples": [],
+      "synonyms": [
+        "leap",
+        "spring",
+        "jump",
+        "swoop",
+        "dive",
+        "lunge",
+        "bound"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as a verb): from French poncer, based on Latin pumex pumice.",
+  "pronounciation": "/pouns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pounce_us_1.mp3"
+}

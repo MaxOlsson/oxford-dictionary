@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Deliver a speech, especially in a tedious or pompous way.",
+      "examples": [
+        "the after-dinner speechifying begins",
+        "writers should write, not speechify"
+      ],
+      "synonyms": [
+        "speak at length",
+        "talk at length",
+        "speak",
+        "talk",
+        "go on",
+        "sound off"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspēCHəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speechify_us_1.mp3"
+}

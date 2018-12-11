@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of people or human beings.",
+      "examples": [
+        "the human body"
+      ],
+      "synonyms": [
+        "anthropoid"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A human being, especially a person as distinguished from an animal or (in science fiction) an alien.",
+      "examples": [],
+      "synonyms": [
+        "person",
+        "human being",
+        "personage",
+        "mortal",
+        "member of the human race"
+      ]
+    }
+  ],
+  "origin": "Late Middle English humaine, from Old French humain(e), from Latin humanus, from homo man, human being. The present spelling became usual in the 18th century; compare with humane.",
+  "pronounciation": "/ˈ(h)jumən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/human_us_1.mp3"
+}

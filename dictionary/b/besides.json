@@ -1,0 +1,47 @@
+{
+  "preposition": [
+    {
+      "description": "In addition to; apart from.",
+      "examples": [
+        "I have no other family besides my parents",
+        "besides being a player, he was my friend"
+      ],
+      "synonyms": [
+        "apart from",
+        "other than",
+        "aside from",
+        "but for",
+        "save for",
+        "not counting",
+        "excluding",
+        "not including",
+        "except",
+        "with the exception of",
+        "excepting",
+        "bar",
+        "barring",
+        "leaving aside",
+        "beyond"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In addition; as well.",
+      "examples": [
+        "I'm capable of doing the work, and a lot more besides"
+      ],
+      "synonyms": [
+        "as well",
+        "too",
+        "in addition",
+        "also",
+        "into the bargain",
+        "on top of that",
+        "to boot"
+      ]
+    }
+  ],
+  "pronounciation": "/bəˈsīdz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/besides_us_1.mp3"
+}

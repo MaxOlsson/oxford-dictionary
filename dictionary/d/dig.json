@@ -1,0 +1,90 @@
+{
+  "verb": [
+    {
+      "description": "Break up and move earth with a tool or machine, or with hands, paws, snout, etc.",
+      "examples": [
+        "the boar had been digging for roots",
+        "she had to dig the garden",
+        "authorities cause chaos by digging up roads"
+      ],
+      "synonyms": [
+        "cultivate",
+        "till",
+        "harrow",
+        "plough",
+        "turn over",
+        "work",
+        "break up",
+        "spade"
+      ]
+    },
+    {
+      "description": "Push or poke something in or into.",
+      "examples": [
+        "he dug his hands into his pockets"
+      ],
+      "synonyms": [
+        "poke",
+        "prod",
+        "jab",
+        "stab",
+        "shove",
+        "ram",
+        "push",
+        "thrust",
+        "drive",
+        "nudge"
+      ]
+    },
+    {
+      "description": "Like, appreciate, or understand.",
+      "examples": [
+        "I really dig heavy rock"
+      ],
+      "synonyms": [
+        "like",
+        "love",
+        "adore",
+        "take great pleasure in",
+        "delight in",
+        "enjoy",
+        "appreciate",
+        "be keen on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or spell of digging.",
+      "examples": [
+        "a thorough dig of the whole plot"
+      ]
+    },
+    {
+      "description": "A push or poke with one's elbow, finger, etc.",
+      "examples": [
+        "Ginnie gave her sister a dig in the ribs"
+      ],
+      "synonyms": [
+        "poke",
+        "prod",
+        "jab",
+        "stab",
+        "shove",
+        "push",
+        "nudge",
+        "elbow"
+      ]
+    }
+  ],
+  "phrases": [
+    "he has dug in his heels and refuses to leave",
+    "The prison administration and the Ontario Ministry for Public Safety and Security dug in their heels.",
+    "A majority of the appeals court judges have dug in their heels in a way not seen since state courts resisted federal court rulings during the civil rights movement.",
+    "Both sides have dug in their heels and are in a waiting game to see who blinks first.",
+    "People will have to dig in their heels and grit their teeth."
+  ],
+  "origin": "Middle English: perhaps from Old English dīc ditch.",
+  "pronounciation": "/diɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dig_us_1.mp3"
+}

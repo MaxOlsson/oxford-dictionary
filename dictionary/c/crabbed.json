@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "(of handwriting) ill-formed and hard to decipher.",
+      "examples": [],
+      "synonyms": [
+        "cramped",
+        "bad",
+        "shaky",
+        "scribbled",
+        "spidery",
+        "laboured",
+        "illegible",
+        "unreadable",
+        "indecipherable"
+      ]
+    },
+    {
+      "description": "Ill-humored.",
+      "examples": [
+        "a crabbed, unhappy middle age"
+      ],
+      "synonyms": [
+        "irritable",
+        "fractious",
+        "fretful",
+        "cross",
+        "petulant",
+        "pettish",
+        "crabby",
+        "crotchety",
+        "cantankerous",
+        "curmudgeonly",
+        "disagreeable",
+        "miserable",
+        "morose",
+        "peppery",
+        "on edge",
+        "edgy",
+        "impatient",
+        "complaining",
+        "querulous"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense perverse, wayward): from crab, because of the crab's sideways gait and habit of snapping.",
+  "pronounciation": "/kræbd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crabbed_us_2.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of data) consisting of or presented in columns or tables.",
+      "examples": [
+        "a tabular presentation of running costs"
+      ],
+      "synonyms": [
+        "graphic",
+        "graphical",
+        "pictorial",
+        "delineative",
+        "illustrative",
+        "representational",
+        "representative",
+        "schematic"
+      ]
+    },
+    {
+      "description": "Broad and flat like the top of a table.",
+      "examples": [
+        "a huge tabular iceberg"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in tabular (sense 2)): from Latin tabularis, from tabula (see table).",
+  "pronounciation": "/ˈtabyələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tabular_us_1.mp3"
+}

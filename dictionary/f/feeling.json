@@ -1,0 +1,98 @@
+{
+  "noun": [
+    {
+      "description": "An emotional state or reaction.",
+      "examples": [
+        "a feeling of joy"
+      ],
+      "synonyms": [
+        "love",
+        "care",
+        "affection",
+        "fondness",
+        "tenderness",
+        "warmth",
+        "warmness",
+        "emotion",
+        "sentiment"
+      ]
+    },
+    {
+      "description": "A belief, especially a vague or irrational one.",
+      "examples": [
+        "he had the feeling that he was being watched"
+      ],
+      "synonyms": [
+        "suspicion",
+        "sneaking suspicion",
+        "notion",
+        "inkling",
+        "hunch",
+        "fancy",
+        "apprehension",
+        "presentiment",
+        "premonition",
+        "foreboding"
+      ]
+    },
+    {
+      "description": "The capacity to experience the sense of touch.",
+      "examples": [
+        "a loss of feeling in the hands"
+      ],
+      "synonyms": [
+        "sensory faculty",
+        "sensation",
+        "perception"
+      ]
+    },
+    {
+      "description": "A sensitivity to or intuitive understanding of.",
+      "examples": [
+        "he seems to have little feeling for art"
+      ],
+      "synonyms": [
+        "aptitude",
+        "knack",
+        "flair",
+        "bent",
+        "talent",
+        "gift",
+        "skill",
+        "art",
+        "trick",
+        "faculty",
+        "ability",
+        "propensity",
+        "inclination"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Showing emotion or sensitivity.",
+      "examples": [
+        "he had a warm and feeling heart"
+      ],
+      "synonyms": [
+        "sensitive",
+        "warm",
+        "warm-hearted",
+        "tender",
+        "tender-hearted",
+        "caring",
+        "soft-hearted",
+        "sympathetic",
+        "compassionate",
+        "understanding",
+        "empathetic",
+        "responsive",
+        "receptive",
+        "intuitive",
+        "thoughtful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfilɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feeling_us_1.mp3"
+}

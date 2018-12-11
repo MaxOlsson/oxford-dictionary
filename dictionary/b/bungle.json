@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Carry out (a task) clumsily or incompetently, leading to failure or an unsatisfactory outcome.",
+      "examples": [
+        "she had bungled every attempt to help"
+      ],
+      "synonyms": [
+        "mishandle",
+        "mismanage",
+        "mess up",
+        "make a mess of",
+        "botch",
+        "spoil",
+        "mar",
+        "ruin"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mistake or failure, typically one resulting from mismanagement or confusion.",
+      "examples": [],
+      "synonyms": [
+        "muddle",
+        "mess",
+        "tangle",
+        "jumble",
+        "entanglement",
+        "imbroglio"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: of unknown origin; compare with bumble.",
+  "pronounciation": "/ˈbəŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bungle_us_1.mp3"
+}

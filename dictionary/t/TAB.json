@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A small flap or strip of material attached to or projecting from something, used to hold or manipulate it, or for identification and information.",
+      "examples": [],
+      "synonyms": [
+        "tag",
+        "flap",
+        "loop",
+        "lappet",
+        "label"
+      ]
+    },
+    {
+      "description": "A second or further document or page that can be opened on a spreadsheet or web browser.",
+      "examples": []
+    },
+    {
+      "description": "A restaurant or bar bill.",
+      "examples": [],
+      "synonyms": [
+        "bill",
+        "invoice",
+        "account",
+        "statement",
+        "list of charges",
+        "note of charges",
+        "charge",
+        "reckoning",
+        "tally"
+      ]
+    },
+    {
+      "description": "A part of a control surface, typically hinged, that modifies the action or response of the surface.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark or identify with a projecting piece of material.",
+      "examples": [
+        "he opened the book at a page tabbed by a cloth bookmark"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Typhoid–paratyphoid A and B vaccine.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "She keeps tabs on who's checking out and who's staying on, and reports to Ross each morning.",
+    "This would enable the council's planning enforcement officers and police to keep tabs on which establishments were opening too late.",
+    "He studies draft prospects and keeps tabs on their development.",
+    "Judging and keeping tabs on who or what is cool and who is a sellout is a tremendous waste of time.",
+    "Even though I've not been directly involved, I was still keeping a tab on how it worked out."
+  ],
+  "origin": "1920s: abbreviation.",
+  "pronounciation": "/tæb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tab_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Tending to be involved in a greater than average number of accidents.",
+      "examples": [
+        "he's always been accident-prone",
+        "the accident-prone chemicals giant suffered its ninth toxic discharge"
+      ],
+      "synonyms": [
+        "awkward",
+        "uncoordinated",
+        "ungainly",
+        "graceless",
+        "ungraceful",
+        "inelegant",
+        "gawky",
+        "gauche",
+        "gangling",
+        "cloddish",
+        "blundering",
+        "lumbering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaksədəntˌprōn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accident_prone_1_us_2.mp3"
+}

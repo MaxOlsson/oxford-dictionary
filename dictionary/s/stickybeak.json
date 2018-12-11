@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "An inquisitive and prying person.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pry into other people's affairs.",
+      "examples": [
+        "I don't mean to stickybeak, but when is he going to leave?"
+      ],
+      "synonyms": [
+        "listen in",
+        "spy",
+        "intrude"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstikēˌbēk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stickybeak_us_1.mp3"
+}

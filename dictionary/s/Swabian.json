@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the medieval German duchy of Swabia or its inhabitants.",
+      "examples": [
+        "a picturesque Swabian town"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the medieval German duchy of Swabia.",
+      "examples": [
+        "an old Swabian who has a pleasant face"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈswābēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swabian_1_us_1.mp3"
+}

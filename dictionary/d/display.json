@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Make a prominent exhibition of (something) in a place where it can be easily seen.",
+      "examples": [
+        "the palace used to display a series of Flemish tapestries",
+        "a handwritten notice was displayed in the ticket office"
+      ],
+      "synonyms": [
+        "exhibit",
+        "show",
+        "put on show",
+        "put on view",
+        "expose to view",
+        "present",
+        "unveil",
+        "set forth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A performance, show, or event intended for public entertainment.",
+      "examples": [
+        "a display of fireworks"
+      ]
+    },
+    {
+      "description": "An electronic device for the visual presentation of data.",
+      "examples": [
+        "a 17-inch color display",
+        "a visual display screen"
+      ],
+      "synonyms": [
+        "measuring device",
+        "gauge",
+        "meter",
+        "measure"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense unfurl, unfold): from Old French despleier, from Latin displicare scatter, disperse (in medieval Latin unfold). Compare with deploy.",
+  "pronounciation": "/dəˈspleɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/display_us_1.mp3"
+}

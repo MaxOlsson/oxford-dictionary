@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A stupid person.",
+      "examples": [],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    },
+    {
+      "description": "A male ass or donkey.",
+      "examples": [],
+      "synonyms": [
+        "ass"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdʒækˌæs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jackass_us_1.mp3"
+}

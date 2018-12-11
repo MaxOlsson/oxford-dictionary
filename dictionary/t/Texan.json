@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the state of Texas or its inhabitants.",
+      "examples": [
+        "a Texan ranch",
+        "his Texan accent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Texas.",
+      "examples": [
+        "the Texan threw his hat in the air"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteks(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/texan_1_us_1.mp3"
+}

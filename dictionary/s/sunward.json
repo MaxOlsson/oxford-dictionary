@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Directed or moving toward the sun.",
+      "examples": [
+        "the sunward side of Mars",
+        "the sunward climb of plants"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the sun.",
+      "examples": [
+        "the northern hemisphere tilts sunward",
+        "the comet swept sunwards"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sunward_us_1.mp3"
+}

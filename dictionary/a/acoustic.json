@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to sound or the sense of hearing.",
+      "examples": [
+        "dogs have a much greater acoustic range than humans"
+      ]
+    },
+    {
+      "description": "(of popular music or musical instruments) not having electrical amplification.",
+      "examples": [
+        "a sad, gentle acoustic ballad",
+        "old-fashioned acoustic instruments"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The properties or qualities of a room or building that determine how sound is transmitted in it.",
+      "examples": [
+        "Symphony Hall has perfect acoustics"
+      ]
+    },
+    {
+      "description": "The branch of physics concerned with the properties of sound.",
+      "examples": []
+    },
+    {
+      "description": "A musical instrument without electrical amplification, typically a guitar.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from Greek akoustikos, from akouein hear.",
+  "pronounciation": "/əˈkustɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acoustic_us_1.mp3"
+}

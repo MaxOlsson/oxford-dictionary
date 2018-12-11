@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A covered walk in a convent, monastery, college, or cathedral, typically with a wall on one side and a colonnade open to a quadrangle on the other.",
+      "examples": [],
+      "synonyms": [
+        "walkway",
+        "covered walk",
+        "corridor",
+        "aisle",
+        "arcade",
+        "loggia",
+        "gallery",
+        "piazza"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Seclude or shut up in or as if in a convent or monastery.",
+      "examples": [
+        "the monastery was where the Brothers would cloister themselves to meditate",
+        "she cloisters herself at home"
+      ],
+      "synonyms": [
+        "confine",
+        "isolate",
+        "shut away",
+        "sequester",
+        "seclude",
+        "closet"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense place of religious seclusion): from Old French cloistre, from Latin claustrum, clostrum lock, enclosed place, from claudere, to close.",
+  "pronounciation": "/ˈklɔɪstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cloister_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A large, heavy motor vehicle used for transporting goods, materials, or troops.",
+      "examples": [],
+      "synonyms": [
+        "lorry",
+        "articulated lorry",
+        "heavy goods vehicle",
+        "juggernaut"
+      ]
+    },
+    {
+      "description": "An undercarriage with four to six wheels pivoted beneath the end of a railroad car.",
+      "examples": []
+    },
+    {
+      "description": "A wooden disk at the top of a ship's mast or flagstaff, with sheaves for signal halyards.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey by truck.",
+      "examples": [
+        "the food was trucked to St. Petersburg"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): probably from Old French, of unknown origin; compare with medieval Latin trocare.",
+  "phrases": [
+    "we have no truck with that style of gutter journalism",
+    "The landlord has strict ideas about customer conduct and will likely have no truck with jugglers or squads of students handing out flyers.",
+    "I have no truck with anyone who uses violence, death or destruction to advance their position.",
+    "This means, among other things, having no truck with market research, PR companies, management consultants, etc.",
+    "The junior minister had only just been telling us that she was having no truck with those that would claim ignorance at this stage of the game."
+  ],
+  "pronounciation": "/trək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/truck_us_1.mp3"
+}

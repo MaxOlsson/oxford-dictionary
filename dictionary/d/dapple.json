@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Mark with spots or rounded patches.",
+      "examples": [
+        "the floor was dappled with pale moonlight"
+      ],
+      "synonyms": [
+        "dot",
+        "spot",
+        "mark",
+        "fleck",
+        "streak",
+        "speck",
+        "speckle",
+        "bespeckle",
+        "mottle",
+        "stipple",
+        "marble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A patch or spot of color or light.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (earlier as an adjective): perhaps related to Old Norse depill spot.",
+  "pronounciation": "/ˈdæpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dapple_us_1.mp3"
+}

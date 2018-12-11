@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a population subgroup (within a larger or dominant national or cultural group) with a common national or cultural tradition.",
+      "examples": [
+        "leaders of ethnic communities"
+      ],
+      "synonyms": [
+        "racial",
+        "race-related",
+        "ethnological",
+        "genetic",
+        "inherited"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of an ethnic minority.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting a person not of the Christian or Jewish faith): via ecclesiastical Latin from Greek ethnikos heathen, from ethnos nation. Current senses date from the 19th century.",
+  "pronounciation": "/ˈeTHnik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ethnic_us_1.mp3"
+}

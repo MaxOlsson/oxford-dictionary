@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A loud wailing cry, especially one of pain or distress.",
+      "examples": [],
+      "synonyms": [
+        "howl",
+        "howling",
+        "wail",
+        "wailing",
+        "screech",
+        "screeching",
+        "shriek",
+        "shrieking",
+        "scream",
+        "screaming",
+        "bawl",
+        "bawling",
+        "cry",
+        "crying",
+        "yell",
+        "yelling",
+        "yelp",
+        "yelping",
+        "yowling",
+        "squall",
+        "squalling",
+        "whine",
+        "whining",
+        "ululating"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a loud wailing cry.",
+      "examples": [
+        "he yowled as he touched one of the hot plates"
+      ],
+      "synonyms": [
+        "howl",
+        "weep",
+        "cry",
+        "sob",
+        "moan",
+        "groan",
+        "keen",
+        "lament",
+        "yowl",
+        "blubber",
+        "snivel",
+        "whimper",
+        "whine",
+        "squall",
+        "bawl",
+        "shriek",
+        "scream",
+        "yelp",
+        "caterwaul",
+        "waul"
+      ]
+    }
+  ],
+  "origin": "Middle English: imitative.",
+  "pronounciation": "/youl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yowl_us_1.mp3"
+}

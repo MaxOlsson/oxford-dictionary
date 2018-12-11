@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Strange or eccentric.",
+      "examples": [
+        "I like kooky foreign films"
+      ],
+      "synonyms": [
+        "unusual",
+        "irregular",
+        "unorthodox",
+        "unfamiliar",
+        "uncommon",
+        "uncustomary",
+        "unwonted",
+        "rare",
+        "out of the ordinary",
+        "atypical",
+        "singular",
+        "distinctive",
+        "individual",
+        "individualistic",
+        "free-spirited",
+        "alternative",
+        "different"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkuki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kooky_us_2.mp3"
+}

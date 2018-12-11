@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A photographic copy of printed or written material produced by a process involving the action of light on a specially prepared surface.",
+      "examples": [],
+      "synonyms": [
+        "reproduction",
+        "copy",
+        "mimeograph",
+        "mimeo",
+        "facsimile",
+        "fax",
+        "duplicate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a photocopy of.",
+      "examples": [
+        "you can photocopy the entry form"
+      ],
+      "synonyms": [
+        "copy",
+        "mimeograph",
+        "mimeo",
+        "xerox",
+        "photostat",
+        "fax",
+        "duplicate",
+        "reproduce",
+        "make a xerox of"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfōdōˌkäpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/photocopy_us_1.mp3"
+}

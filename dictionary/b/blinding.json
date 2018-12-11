@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of light) very bright and likely to dazzle or temporarily blind someone.",
+      "examples": [
+        "a massive explosion with a blinding flash of light"
+      ],
+      "synonyms": [
+        "dazzling",
+        "blazing",
+        "strong",
+        "extremely bright",
+        "harsh"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process of covering a newly made road with grit to fill cracks.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈblaɪndɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blinding_us_1.mp3"
+}

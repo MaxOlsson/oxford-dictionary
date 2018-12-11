@@ -1,0 +1,68 @@
+{
+  "adjective": [
+    {
+      "description": "Making use of computers to transfer or receive information, especially by means of the Internet.",
+      "examples": [
+        "the economic arguments for getting your business wired"
+      ],
+      "synonyms": [
+        "drunk",
+        "drunken",
+        "inebriated",
+        "intoxicated",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    },
+    {
+      "description": "In a nervous, tense, or edgy state.",
+      "examples": [
+        "not much sleep lately—I'm a little wired"
+      ],
+      "synonyms": [
+        "nervous",
+        "anxious",
+        "tense",
+        "on edge",
+        "edgy",
+        "strained",
+        "stressed",
+        "agitated",
+        "apprehensive",
+        "in a state of nerves",
+        "in a state of agitation",
+        "uneasy",
+        "restless",
+        "worked up",
+        "keyed up",
+        "overwrought",
+        "wrought up",
+        "strung out",
+        "jumpy",
+        "on tenterhooks",
+        "with one's stomach in knots",
+        "fidgety",
+        "fearful",
+        "frightened",
+        "scared",
+        "with one's heart in one's mouth",
+        "like a cat on a hot tin roof",
+        "quaking",
+        "trembling",
+        "shaking",
+        "shaking in one's shoes",
+        "shaky",
+        "on pins and needles",
+        "in a cold sweat",
+        "fevered",
+        "febrile"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwī(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wired_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "Talk at length in a foolish or inconsequential way.",
+      "examples": [
+        "she began to prattle on about her visit to the dentist"
+      ],
+      "synonyms": [
+        "chatter",
+        "babble",
+        "prate",
+        "blather",
+        "blether",
+        "ramble",
+        "gabble",
+        "jabber",
+        "twitter",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "blither",
+        "maunder",
+        "drivel",
+        "patter",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Foolish or inconsequential talk.",
+      "examples": [
+        "do you intend to keep up this childish prattle?"
+      ],
+      "synonyms": [
+        "chatter",
+        "babble",
+        "talk",
+        "prating",
+        "blather",
+        "blether",
+        "rambling",
+        "gabble",
+        "jabber",
+        "drivel",
+        "palaver",
+        "tattle"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Middle Low German pratelen, from praten (see prate).",
+  "pronounciation": "/ˈpradl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prattle_us_1.mp3"
+}

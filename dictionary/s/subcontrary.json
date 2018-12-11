@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting propositions which can both be true, but cannot both be false (e.g. some X are Y and some X are not Y).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A subcontrary proposition.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from late Latin subcontrarius, translation of Greek hupenantios.",
+  "pronounciation": "/ˌsəbˈkäntrərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subcontrary_us_1.mp3"
+}

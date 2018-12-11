@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Move to and fro.",
+      "examples": [
+        "the dog wigwagged his way up the porch steps"
+      ],
+      "synonyms": [
+        "quiver",
+        "shake",
+        "tremble",
+        "quaver",
+        "waver",
+        "shiver",
+        "shudder",
+        "judder",
+        "jiggle",
+        "wobble"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: reduplication of wag.",
+  "pronounciation": "/ˈwɪɡwæɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wigwag_us_1.mp3"
+}

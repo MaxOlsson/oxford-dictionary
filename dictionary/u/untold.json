@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Too much or too many to be counted or measured.",
+      "examples": [
+        "thieves caused untold damage"
+      ],
+      "synonyms": [
+        "boundless",
+        "measureless",
+        "limitless",
+        "without limit",
+        "unlimited",
+        "unbounded",
+        "immense",
+        "vast",
+        "great",
+        "endless",
+        "unending",
+        "never-ending",
+        "without end",
+        "inexhaustible",
+        "infinite",
+        "interminable",
+        "unceasing",
+        "everlasting",
+        "immeasurable",
+        "incalculable"
+      ]
+    },
+    {
+      "description": "(of a story or event) not narrated or recounted.",
+      "examples": [
+        "no event, however boring, is left untold"
+      ],
+      "synonyms": [
+        "unreported",
+        "unrecounted",
+        "unrelated",
+        "unrevealed",
+        "undisclosed",
+        "undivulged",
+        "unpublished",
+        "secret",
+        "suppressed",
+        "unnarrated",
+        "unmentioned",
+        "unstated",
+        "unspoken"
+      ]
+    }
+  ],
+  "origin": "Old English unteald not counted (see un-, told).",
+  "pronounciation": "/ˌənˈtōld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untold_us_1.mp3"
+}

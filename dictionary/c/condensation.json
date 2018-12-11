@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "Water which collects as droplets on a cold surface when humid air is in contact with it.",
+      "examples": [],
+      "synonyms": [
+        "moisture",
+        "water droplets",
+        "steam"
+      ]
+    },
+    {
+      "description": "The conversion of a vapor or gas to a liquid.",
+      "examples": [],
+      "synonyms": [
+        "precipitation",
+        "liquefaction",
+        "deliquescence"
+      ]
+    },
+    {
+      "description": "A concise version of something, especially a text.",
+      "examples": [
+        "a readable condensation of the recent literature"
+      ],
+      "synonyms": [
+        "abridgement",
+        "summary",
+        "synopsis",
+        "precis",
+        "abstract",
+        "digest",
+        "encapsulation"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from late Latin condensatio(n-), from condensare press close together (see condense).",
+  "pronounciation": "/ˌkɑnˌdɛnˈseɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcondensation_us_1.mp3"
+}

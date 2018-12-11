@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Messy or disgusting.",
+      "examples": [
+        "yucky green-gray slushy cabbage"
+      ],
+      "synonyms": [
+        "foul",
+        "nasty",
+        "unpleasant",
+        "bad",
+        "disagreeable",
+        "horrid",
+        "horrible",
+        "dreadful",
+        "abominable",
+        "atrocious",
+        "offensive",
+        "obnoxious",
+        "odious",
+        "unsavoury",
+        "repulsive",
+        "off-putting",
+        "repellent",
+        "revolting",
+        "repugnant",
+        "disgusting",
+        "distasteful",
+        "loathsome",
+        "hateful",
+        "nauseating",
+        "sickening"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈjəki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yucky_us_1.mp3"
+}

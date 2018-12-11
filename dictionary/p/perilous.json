@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Full of danger or risk.",
+      "examples": [
+        "a perilous journey south"
+      ],
+      "synonyms": [
+        "dangerous",
+        "fraught with danger",
+        "hazardous",
+        "risky",
+        "unsafe",
+        "treacherous"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French perillous, from Latin periculosus, from periculum danger (see peril).",
+  "pronounciation": "/ˈperələs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perilous_us_1.mp3"
+}

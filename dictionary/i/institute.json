@@ -1,0 +1,94 @@
+{
+  "noun": [
+    {
+      "description": "A society or organization having a particular object or common factor, especially a scientific, educational, or social one.",
+      "examples": [
+        "a research institute",
+        "the Institute for Advanced Studies"
+      ],
+      "synonyms": [
+        "organization",
+        "establishment",
+        "institution",
+        "foundation",
+        "centre"
+      ]
+    },
+    {
+      "description": "A commentary, treatise, or summary of principles, especially concerning law.",
+      "examples": [],
+      "synonyms": [
+        "disquisition",
+        "essay",
+        "paper",
+        "work",
+        "piece of writing",
+        "exposition",
+        "discourse",
+        "dissertation",
+        "thesis",
+        "monograph",
+        "study",
+        "critique"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Set in motion or establish (something, especially a program, system, or inquiry)",
+      "examples": [
+        "the award was instituted in 1900",
+        "the Illinois Department of Conservation instituted a hunt to remove deer"
+      ],
+      "synonyms": [
+        "set in motion",
+        "put in motion",
+        "get under way",
+        "get going",
+        "get off the ground",
+        "get in operation",
+        "start",
+        "begin",
+        "initiate",
+        "launch",
+        "lay the foundations of",
+        "lay the first stone of",
+        "sow the seeds of",
+        "set up",
+        "inaugurate",
+        "found",
+        "establish",
+        "put in place",
+        "organize",
+        "get working",
+        "get functioning",
+        "activate",
+        "actuate",
+        "generate",
+        "cause",
+        "bring about"
+      ]
+    },
+    {
+      "description": "Appoint (someone) to a position, especially as a cleric.",
+      "examples": [
+        "his sons were instituted to his benefice in 1986",
+        "a testator who has instituted his daughter heir"
+      ],
+      "synonyms": [
+        "install",
+        "instate",
+        "induct",
+        "invest",
+        "inaugurate",
+        "introduce",
+        "admit into office",
+        "swear in",
+        "initiate"
+      ]
+    }
+  ],
+  "origin": "Middle English (in institute (sense 2 of the verb)): from Latin institut- established, from the verb instituere, from in- in, towards + statuere set up. The noun is from Latin institutum something designed, precept, neuter past participle of instituere; sense 1 dates from the early 19th century.",
+  "pronounciation": "/ˈɪnstəˌt(j)ut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/institute_us_1.mp3"
+}

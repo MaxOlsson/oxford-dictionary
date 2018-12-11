@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Be enough or adequate.",
+      "examples": [
+        "a quick look should suffice",
+        "two examples should suffice to prove the contention"
+      ],
+      "synonyms": [
+        "be enough",
+        "be sufficient",
+        "be adequate",
+        "do",
+        "serve",
+        "meet requirements",
+        "satisfy demands",
+        "answer one's needs",
+        "fulfil one's needs",
+        "meet one's needs",
+        "answer the purpose",
+        "serve the purpose",
+        "pass muster"
+      ]
+    }
+  ],
+  "phrases": [
+    "suffice it to say that they were not considered suitable for this project",
+    "There are many reasons why the high-rise flats of Glasgow and other cities failed, but suffice to say, people are not that fond of living in them.",
+    "This is not the week to speculate on who will go and who will stay but suffice to say that there will be a considerable number of new faces at the showgrounds next season.",
+    "In fact, I don't think it would be appropriate, but suffice to say there's now a large number of inquiries that we'll have to make.",
+    "I shall draw a discreet veil over the rest of that day but suffice it to say that a jolly time was had by all."
+  ],
+  "origin": "Middle English: from Old French suffis-, stem of suffire, from Latin sufficere put under, meet the need of, from sub- under + facere make.",
+  "pronounciation": "/səˈfīs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suffice_us_1.mp3"
+}

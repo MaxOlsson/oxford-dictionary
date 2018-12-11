@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Directed or going toward a town.",
+      "examples": [
+        "I was going in a townward direction"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward or in the direction of a town.",
+      "examples": [
+        "as they walked townward, he tried to talk",
+        "I headed townwards in search of refreshment"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtaʊnwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/townward_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Loyal, reliable, and hardworking.",
+      "examples": [
+        "he remained a stalwart supporter of the cause"
+      ],
+      "synonyms": [
+        "staunch",
+        "loyal",
+        "faithful",
+        "committed",
+        "devoted",
+        "dedicated",
+        "dependable",
+        "reliable",
+        "steady",
+        "constant",
+        "trusty",
+        "hard-working",
+        "vigorous",
+        "stable",
+        "firm",
+        "steadfast",
+        "redoubtable",
+        "resolute",
+        "unswerving",
+        "unwavering",
+        "unhesitating",
+        "unfaltering"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loyal, reliable, and hardworking supporter or participant in an organization or team.",
+      "examples": [
+        "the stalwarts of the Ladies' Auxiliary"
+      ],
+      "synonyms": [
+        "follower",
+        "supporter",
+        "upholder",
+        "defender",
+        "advocate",
+        "disciple",
+        "votary",
+        "partisan",
+        "member",
+        "friend",
+        "stalwart"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: Scots variant of obsolete stalworth, from Old English stǣl place + weorth worth.",
+  "pronounciation": "/ˈstɔlwərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stalwart_us_1.mp3"
+}

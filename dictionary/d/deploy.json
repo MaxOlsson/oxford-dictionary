@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Move (troops or equipment) into position for military action.",
+      "examples": [
+        "forces were deployed at strategic locations"
+      ],
+      "synonyms": [
+        "position",
+        "station",
+        "post",
+        "place",
+        "install",
+        "locate",
+        "situate",
+        "site",
+        "establish"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French déployer, from Latin displicare and late Latin deplicare unfold or explain, from dis-, de- un- + plicare to fold. Compare with display.",
+  "pronounciation": "/dəˈploi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deploy_us_1.mp3"
+}

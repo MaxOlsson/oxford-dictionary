@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Wholly directed to one thing; intense.",
+      "examples": [
+        "a concentrated campaign"
+      ],
+      "synonyms": [
+        "strenuous",
+        "concerted",
+        "intensive",
+        "intense",
+        "vigorous",
+        "assiduous"
+      ]
+    },
+    {
+      "description": "(of a substance or solution) present in a high proportion relative to other substances; having had water or other diluting agent removed or reduced.",
+      "examples": [
+        "concentrated fruit juice"
+      ],
+      "synonyms": [
+        "condensed",
+        "distilled",
+        "reduced",
+        "evaporated",
+        "thick",
+        "thickened",
+        "dense"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkänsənˌtrādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcentrated_us_1.mp3"
+}

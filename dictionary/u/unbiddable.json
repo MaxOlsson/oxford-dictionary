@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Not easily controlled; unruly or disobedient.",
+      "examples": [],
+      "synonyms": [
+        "badly behaved",
+        "disobedient",
+        "bad",
+        "misbehaved",
+        "misbehaving",
+        "wayward",
+        "defiant",
+        "unruly",
+        "insubordinate",
+        "wilful",
+        "self-willed",
+        "delinquent",
+        "undisciplined",
+        "unmanageable",
+        "uncontrollable",
+        "ungovernable",
+        "disorderly",
+        "disruptive",
+        "mutinous",
+        "fractious",
+        "refractory",
+        "recalcitrant",
+        "errant",
+        "wild",
+        "wicked",
+        "obstreperous",
+        "difficult",
+        "troublesome",
+        "awkward",
+        "contrary",
+        "perverse",
+        "attention-seeking",
+        "exasperating",
+        "incorrigible"
+      ]
+    },
+    {
+      "description": "Not strong enough to justify a bid.",
+      "examples": [
+        "some hands would be unbiddable if we applied that rule to them"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈbidəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbiddable_us_1.mp3"
+}

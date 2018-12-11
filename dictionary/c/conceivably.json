@@ -1,0 +1,22 @@
+{
+  "adverb": [
+    {
+      "description": "It is conceivable or imaginable that.",
+      "examples": [
+        "it may conceivably cause liver disease"
+      ],
+      "synonyms": [
+        "possibly",
+        "conceivably",
+        "feasibly",
+        "plausibly",
+        "probably",
+        "maybe",
+        "perhaps",
+        "potentially"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsēvəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconceivably_us_1.mp3"
+}

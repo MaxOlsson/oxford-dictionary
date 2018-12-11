@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Reduce to a lower grade, rank, or level of importance.",
+      "examples": [
+        "some jobs had gradually been downgraded from skilled to semiskilled"
+      ],
+      "synonyms": [
+        "demote",
+        "lower",
+        "lower in status",
+        "lower in rank",
+        "reduce in rank",
+        "reduce in importance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of reducing someone or something's rank, status, or level of importance.",
+      "examples": []
+    },
+    {
+      "description": "A downward gradient, typically on a railroad track or road.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "profits are on the downgrade",
+    "Another good bet to pick out now is Moscow Flyer in the Queen Mother - he has always convinced as a class act and also because most of his opponents are old stars on the downgrade.",
+    "Placed twice in this in the past but tailed off last year and looks on the downgrade nowadays.",
+    "Optus's parent Singtel fell three per cent on the downgrade news and Telstra was down half a per cent or two cents to $4.46."
+  ],
+  "pronounciation": "/ˈdounɡrād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downgrade_us_2.mp3"
+}

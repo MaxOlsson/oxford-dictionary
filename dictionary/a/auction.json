@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A public sale in which goods or property are sold to the highest bidder.",
+      "examples": [
+        "the books are expected to fetch a six-figure sum at tomorrow's auction",
+        "an auction sale"
+      ],
+      "synonyms": [
+        "distribution",
+        "disposal",
+        "allocation",
+        "transfer",
+        "transference",
+        "conveyance",
+        "making over",
+        "bestowal",
+        "bequest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sell or offer for sale at an auction.",
+      "examples": [
+        "his collection of vintage cars is to be auctioned off tomorrow"
+      ],
+      "synonyms": [
+        "sell",
+        "supply",
+        "provide",
+        "furnish",
+        "cater",
+        "retail",
+        "deal in",
+        "trade",
+        "carry",
+        "handle",
+        "stock",
+        "offer",
+        "have for sale",
+        "put on the market",
+        "peddle",
+        "hawk",
+        "tout",
+        "traffic in"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin auctio(n-) increase, auction, from the verb augere to increase.",
+  "pronounciation": "/ˈôkSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/auction_us_1.mp3"
+}

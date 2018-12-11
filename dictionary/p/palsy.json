@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Paralysis, especially that which is accompanied by involuntary tremors.",
+      "examples": [
+        "a kind of palsy had seized him"
+      ],
+      "synonyms": [
+        "immobility",
+        "powerlessness",
+        "lack of sensation",
+        "numbness",
+        "deadness",
+        "incapacity",
+        "debilitation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Affect with paralysis and involuntary tremors.",
+      "examples": [
+        "she feels as if the muscles on her face are palsied",
+        "the old-boy network laid its palsied hand upon the business of wealth creation"
+      ],
+      "synonyms": [
+        "disabled",
+        "having a disability",
+        "wheelchair-using"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French paralisie, from an alteration of Latin paralysis (see paralysis).",
+  "pronounciation": "/ˈpɔlzi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/palsy_us_1.mp3"
+}

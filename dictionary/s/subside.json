@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "Become less intense, violent, or severe.",
+      "examples": [
+        "I'll wait a few minutes until the storm subsides"
+      ],
+      "synonyms": [
+        "abate",
+        "let up",
+        "moderate",
+        "quieten down",
+        "calm",
+        "lull",
+        "slacken",
+        "slacken off",
+        "ease",
+        "ease up",
+        "relent",
+        "die down",
+        "die out",
+        "peter out",
+        "taper off",
+        "recede",
+        "lessen",
+        "soften",
+        "alleviate",
+        "attenuate",
+        "remit",
+        "diminish",
+        "decline",
+        "dwindle",
+        "weaken",
+        "fade",
+        "wane",
+        "ebb",
+        "still",
+        "cease",
+        "come to a stop",
+        "come to an end",
+        "terminate"
+      ]
+    },
+    {
+      "description": "(of water) go down to a lower or the normal level.",
+      "examples": [
+        "the floods subside almost as quickly as they arise"
+      ],
+      "synonyms": [
+        "recede",
+        "ebb",
+        "fall back",
+        "flow back",
+        "fall away",
+        "fall",
+        "go down",
+        "get lower",
+        "sink",
+        "sink lower"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Latin subsidere, from sub- below + sidere settle (related to sedere sit).",
+  "pronounciation": "/səbˈsīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subside_us_1.mp3"
+}

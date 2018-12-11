@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Have enough money to pay for.",
+      "examples": [
+        "the best that I could afford was a first-floor room",
+        "we could never have afforded to heat the place"
+      ],
+      "synonyms": [
+        "pay for",
+        "bear the expense of",
+        "meet the expense of",
+        "spare the price of",
+        "have the money for",
+        "be rich enough for",
+        "have the wherewithal for"
+      ]
+    },
+    {
+      "description": "Provide or supply (an opportunity or facility)",
+      "examples": [
+        "the rooftop terrace affords beautiful views",
+        "they were afforded the luxury of bed and breakfast"
+      ],
+      "synonyms": [
+        "provide",
+        "supply",
+        "present",
+        "purvey",
+        "make available",
+        "offer",
+        "give",
+        "impart",
+        "bestow",
+        "furnish",
+        "render",
+        "grant",
+        "yield",
+        "produce",
+        "bear"
+      ]
+    }
+  ],
+  "origin": "Late Old English geforthian, from ge- (prefix implying completeness) + forthian to further, from forth. The original sense was promote, perform, accomplish, later manage, be in a position to do.",
+  "pronounciation": "/əˈfôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afford_us_1.mp3"
+}

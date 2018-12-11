@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A crash involving several vehicles.",
+      "examples": [],
+      "synonyms": [
+        "crash",
+        "multiple crash",
+        "car crash",
+        "collision",
+        "multiple collision",
+        "smash",
+        "car smash",
+        "accident",
+        "car accident",
+        "road accident",
+        "traffic accident"
+      ]
+    },
+    {
+      "description": "An accumulation of a specified thing.",
+      "examples": [
+        "a massive pileup of data"
+      ],
+      "synonyms": [
+        "accumulation",
+        "logjam",
+        "pile-up",
+        "pile",
+        "heap",
+        "mountain",
+        "excess"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpaɪlˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pile_up_1_us_2.mp3"
+}

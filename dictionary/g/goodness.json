@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being morally good or virtuous.",
+      "examples": [
+        "a belief in the basic goodness of mankind"
+      ],
+      "synonyms": [
+        "virtue",
+        "virtuousness",
+        "good",
+        "righteousness",
+        "morality",
+        "ethicalness",
+        "uprightness",
+        "upstandingness",
+        "integrity",
+        "principle",
+        "dignity",
+        "rectitude",
+        "rightness"
+      ]
+    },
+    {
+      "description": "The beneficial or nourishing element of food.",
+      "examples": [],
+      "synonyms": [
+        "nutritional value",
+        "nutrition",
+        "nutrients",
+        "wholesomeness",
+        "nourishment"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "(as a substitution for “God”) expressing surprise, anger, etc.",
+      "examples": [
+        "goodness knows why she didn't go herself",
+        "my goodness, you gave me quite a fright!"
+      ]
+    }
+  ],
+  "phrases": [
+    "On the basis of the goodness of fit between models and observations, a history of stationary population size can be confidently rejected for all three sets of samples.",
+    "In addition, we tested goodness of fit of the observed frequency spectrum to that expected under the neutrality and panmixis with constant population size.",
+    "The independent variable, the aggregate environmental index, E, did not have any statistical significance and did not improve the goodness of fit of the models to the data.",
+    "The statistics of the headway distribution and the goodness of fit between the observed and detected distributions are shown in Table 2.",
+    "We used a chi-square test of goodness of fit to test the null hypothesis that usage occurs in proportion to availability, considering all habitats simultaneously."
+  ],
+  "origin": "Old English gōdnes (see good, -ness).",
+  "pronounciation": "/ˈɡʊdnəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/goodness_us_1.mp3"
+}

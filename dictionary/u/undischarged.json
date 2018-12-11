@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not discharged.",
+      "examples": [
+        "an undischarged bankrupt",
+        "an undischarged gun"
+      ],
+      "synonyms": [
+        "unsettled",
+        "outstanding",
+        "unresolved",
+        "unattended to",
+        "due",
+        "overdue",
+        "owing",
+        "owed",
+        "receivable",
+        "to be paid",
+        "payable",
+        "in arrears",
+        "in the red"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌndɪsˈtʃɑːdʒd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undischarged_gb_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Emit a belch.",
+      "examples": [
+        "they grunted and gurked with an unconcern that amazed me"
+      ],
+      "synonyms": [
+        "bring up wind"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A belch.",
+      "examples": [
+        "the silence was broken by a shattering gurk from Elspeth Paula"
+      ],
+      "synonyms": [
+        "burp",
+        "gurk"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: imitative.",
+  "pronounciation": "/ɡəːk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gurk_gb_1.mp3"
+}

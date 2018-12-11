@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A handicraft in which yarn is made up into a patterned fabric by looping yarn with a hooked needle.",
+      "examples": [
+        "a crochet hook"
+      ],
+      "synonyms": [
+        "needlework",
+        "needlepoint",
+        "needlecraft",
+        "sewing",
+        "cross stitch",
+        "tatting",
+        "crewel work"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a garment or piece of fabric) using crochet.",
+      "examples": [
+        "she had crocheted the shawl herself",
+        "her mother had stopped crocheting"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from French, diminutive of croc hook, from Old Norse krókr.",
+  "pronounciation": "/kroʊˈʃeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crochet_us_1.mp3"
+}

@@ -1,0 +1,125 @@
+{
+  "adjective": [
+    {
+      "description": "Coming after all others in time or order; final.",
+      "examples": [
+        "they caught the last bus"
+      ],
+      "synonyms": [
+        "rearmost",
+        "rear",
+        "hindmost",
+        "bringing up the rear",
+        "nearest the rear",
+        "at the end",
+        "furthest back",
+        "at the back",
+        "at the back of the queue",
+        "aftermost",
+        "endmost",
+        "furthest behind",
+        "final",
+        "ultimate",
+        "most remote",
+        "remotest",
+        "furthest",
+        "utmost",
+        "extreme"
+      ]
+    },
+    {
+      "description": "Most recent in time; latest.",
+      "examples": [
+        "last year",
+        "your letter of Sunday last"
+      ],
+      "synonyms": [
+        "previous",
+        "preceding"
+      ]
+    },
+    {
+      "description": "Only remaining.",
+      "examples": [
+        "it's our last hope"
+      ],
+      "synonyms": [
+        "final",
+        "only remaining",
+        "only one left"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "On the last occasion before the present; previously.",
+      "examples": [
+        "he looked much older than when I'd last seen him"
+      ]
+    },
+    {
+      "description": "After all others in order or sequence.",
+      "examples": [
+        "the two last-mentioned classes"
+      ]
+    },
+    {
+      "description": "(especially in enumerating points) finally; in conclusion.",
+      "examples": [
+        "and last, I'd like to thank you all for coming"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The last person or thing; the one occurring, mentioned, or acting after all others.",
+      "examples": [
+        "the last of their guests had gone",
+        "eating as if every mouthful were his last"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a process, activity, or state of things) continue for a specified period of time.",
+      "examples": [
+        "the guitar solo lasted for twenty minutes",
+        "childhood seems to last forever"
+      ],
+      "synonyms": [
+        "continue",
+        "go on",
+        "carry on",
+        "keep on",
+        "keep going",
+        "run on",
+        "proceed",
+        "be prolonged"
+      ]
+    },
+    {
+      "description": "Continue to function well or to be in good condition for a considerable or specified length of time.",
+      "examples": [
+        "the car is built to last",
+        "a lip pencil lasts longer than lipstick"
+      ],
+      "synonyms": [
+        "endure",
+        "wear well",
+        "stand up",
+        "keep going",
+        "bear up"
+      ]
+    }
+  ],
+  "phrases": [
+    "you've come back to me at last!",
+    "Coupled with the power in your house of partners, it's clear you are at last ready to settle down.",
+    "The second reason why I have confidence about the future is that, at long last, sponsors are taking a stand.",
+    "John sent back some of his first earnings from Germany to Mimi, proud that he could help her at last.",
+    "Tired but home at last, the kid jumps out of the car and gently rubs his face."
+  ],
+  "origin": "Old English lǣste, of Germanic origin, from a base meaning follow; related to Dutch leest and German Leisten.",
+  "pronounciation": "/læst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/last_us_1.mp3"
+}

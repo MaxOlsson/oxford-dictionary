@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Add (comments or supplementary information) at the end of a speech or text.",
+      "examples": [],
+      "synonyms": [
+        "attach",
+        "join",
+        "fasten",
+        "fix",
+        "affix",
+        "couple",
+        "link",
+        "bridge",
+        "secure",
+        "make fast",
+        "tie",
+        "tie up",
+        "bind",
+        "fetter",
+        "strap",
+        "rope",
+        "tether",
+        "truss",
+        "lash",
+        "hitch",
+        "moor",
+        "anchor",
+        "yoke",
+        "chain"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from obsolete French subjoindre, from Latin subjungere, from sub- in addition + jungere to join.",
+  "pronounciation": "/səbˈjoin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subjoin_us_1.mp3"
+}

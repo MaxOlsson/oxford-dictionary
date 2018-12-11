@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "(with reference to an increase) more and more rapidly.",
+      "examples": [
+        "our business has been growing exponentially"
+      ]
+    },
+    {
+      "description": "By means of or as expressed by a mathematical exponent.",
+      "examples": [
+        "values distributed exponentially according to a given time constant",
+        "the coefficients show an exponentially decaying trend"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɛkspəˈnɛn(t)ʃəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exponentially_us_1.mp3"
+}

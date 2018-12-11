@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of a verb, especially in Latin or Greek) passive or middle in form but active in meaning.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A deponent verb.",
+      "examples": [],
+      "synonyms": [
+        "attestor",
+        "testifier"
+      ]
+    },
+    {
+      "description": "A person who makes a deposition or affidavit under oath.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin deponent- laying aside, putting down (in medieval Latin testifying), from the verb deponere, from de- down + ponere place. The use in grammar arose from the notion that the verb had laid aside the passive sense (although in fact these verbs were originally reflexive).",
+  "pronounciation": "/dəˈpōnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deponent_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Give shares of (something); deal out.",
+      "examples": [
+        "information leaflets are being distributed to hotels and guest houses"
+      ],
+      "synonyms": [
+        "give out",
+        "deal out",
+        "hand out",
+        "hand round",
+        "issue",
+        "dispense",
+        "administer",
+        "pass round",
+        "dole out",
+        "dispose of"
+      ]
+    },
+    {
+      "description": "Occur throughout an area.",
+      "examples": [
+        "the birds are mainly distributed in marshes and river valleys"
+      ],
+      "synonyms": [
+        "disperse",
+        "diffuse",
+        "disseminate",
+        "scatter",
+        "spread",
+        "strew"
+      ]
+    },
+    {
+      "description": "Use (a term) to include every individual of the class to which it refers.",
+      "examples": [
+        "the middle term must be distributed, at least once, in the premises"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin distribut- divided up, from the verb distribuere, from dis- apart + tribuere assign.",
+  "pronounciation": "/dəˈstribyo͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distribute_us_1.mp3"
+}

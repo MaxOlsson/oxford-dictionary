@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Marked by a relatively high level of water vapor in the atmosphere.",
+      "examples": [
+        "a hot and humid day"
+      ],
+      "synonyms": [
+        "muggy",
+        "close",
+        "sultry",
+        "sticky",
+        "steamy",
+        "oppressive",
+        "airless",
+        "stifling",
+        "suffocating",
+        "stuffy",
+        "clammy",
+        "soupy",
+        "heavy",
+        "fuggy",
+        "like a turkish bath",
+        "like a sauna"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French humide or Latin humidus, from humere be moist.",
+  "pronounciation": "/ˈ(h)juməd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/humid_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Showing a lack of concentration on what is happening around one.",
+      "examples": [
+        "she seemed abstracted and unaware of her surroundings",
+        "an abstracted smile"
+      ],
+      "synonyms": [
+        "absent-minded",
+        "distracted",
+        "preoccupied",
+        "absorbed",
+        "engrossed",
+        "far away",
+        "somewhere else",
+        "not there",
+        "not with us",
+        "in a world of one's own",
+        "with one's head in the clouds",
+        "daydreaming",
+        "dreamy",
+        "inattentive",
+        "thoughtful",
+        "pensive",
+        "lost in thought",
+        "deep in thought",
+        "immersed in thought",
+        "wool-gathering",
+        "in a brown study",
+        "musing",
+        "brooding",
+        "absent",
+        "distrait",
+        "heedless",
+        "oblivious"
+      ]
+    }
+  ],
+  "pronounciation": "/æbˈstræktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abstracted_us_1.mp3"
+}

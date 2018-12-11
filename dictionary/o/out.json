@@ -1,0 +1,252 @@
+{
+  "adverb": [
+    {
+      "description": "Moving or appearing to move away from a particular place, especially one that is enclosed or hidden.",
+      "examples": [
+        "he walked out into the street",
+        "watch the stars come out"
+      ]
+    },
+    {
+      "description": "Situated far or at a particular distance from somewhere.",
+      "examples": [
+        "an old farmhouse right out in the middle of nowhere",
+        "they lived eight miles out of town",
+        "the team had put on a marvelous display out in Georgia"
+      ]
+    },
+    {
+      "description": "Away from home.",
+      "examples": [
+        "he's gone out"
+      ]
+    },
+    {
+      "description": "So as to be revealed or known.",
+      "examples": [
+        "find out what you can"
+      ]
+    },
+    {
+      "description": "At or to an end.",
+      "examples": [
+        "the romance fizzled out"
+      ]
+    },
+    {
+      "description": "(of a light or fire) so as to be extinguished or no longer burning.",
+      "examples": [
+        "at ten o'clock the lights went out"
+      ]
+    },
+    {
+      "description": "(of a jury) considering its verdict in secrecy.",
+      "examples": []
+    },
+    {
+      "description": "Indicating a specified distance away from the goal line or finishing line.",
+      "examples": [
+        "he scored from 70 meters out"
+      ]
+    },
+    {
+      "description": "(of a party, politician, etc.) not in office.",
+      "examples": []
+    }
+  ],
+  "preposition": [
+    {
+      "description": "Through to the outside.",
+      "examples": [
+        "he ran out the door"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not at home or at one's place of work.",
+      "examples": [
+        "if he called, she'd pretend to be out"
+      ],
+      "synonyms": [
+        "not here",
+        "not at home",
+        "not in",
+        "gone away",
+        "away",
+        "elsewhere",
+        "absent",
+        "away from one's desk"
+      ]
+    },
+    {
+      "description": "Revealed or made public.",
+      "examples": [
+        "the secret was soon out"
+      ],
+      "synonyms": [
+        "revealed",
+        "in the open",
+        "out in the open",
+        "common knowledge",
+        "public knowledge",
+        "known",
+        "disclosed",
+        "divulged",
+        "exposed"
+      ]
+    },
+    {
+      "description": "(of a flower) in bloom; open.",
+      "examples": [],
+      "synonyms": [
+        "in flower",
+        "flowering",
+        "in bloom",
+        "in full bloom",
+        "blooming",
+        "in blossom",
+        "blossoming",
+        "open"
+      ]
+    },
+    {
+      "description": "No longer alight; extinguished.",
+      "examples": [
+        "the fire was nearly out"
+      ],
+      "synonyms": [
+        "not burning",
+        "extinguished",
+        "no longer alight",
+        "quenched",
+        "doused",
+        "dead",
+        "defunct"
+      ]
+    },
+    {
+      "description": "At an end.",
+      "examples": [
+        "school was out for the summer"
+      ]
+    },
+    {
+      "description": "Not possible or worth considering.",
+      "examples": [
+        "a trip to the seaside is out"
+      ]
+    },
+    {
+      "description": "In a state of unconsciousness.",
+      "examples": [],
+      "synonyms": [
+        "unconscious",
+        "insensate",
+        "senseless",
+        "insentient",
+        "comatose",
+        "knocked out",
+        "passed out",
+        "blacked out",
+        "inert",
+        "stupefied",
+        "stunned"
+      ]
+    },
+    {
+      "description": "Mistaken; in error.",
+      "examples": [
+        "he was slightly out in his calculations"
+      ],
+      "synonyms": [
+        "mistaken",
+        "inaccurate",
+        "incorrect",
+        "wide of the mark",
+        "wrong",
+        "in error",
+        "off"
+      ]
+    },
+    {
+      "description": "(of the ball in tennis and similar games) outside the designated playing area.",
+      "examples": []
+    },
+    {
+      "description": "No longer batting or on base, having had one's turn ended by the team in the field.",
+      "examples": [
+        "the Yankees are out in the ninth",
+        "Johnson was out at second"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A way of escaping from a problem or dilemma.",
+      "examples": [
+        "he was desperately looking for an out"
+      ]
+    },
+    {
+      "description": "An act of putting a player out.",
+      "examples": []
+    },
+    {
+      "description": "The political party or politicians not in office.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reveal the sexual or gender identity of (a person).",
+      "examples": [],
+      "synonyms": [
+        "expose",
+        "unmask",
+        "uncover"
+      ]
+    },
+    {
+      "description": "Expel, reject, or dismiss.",
+      "examples": [
+        "they had outed Asquith quite easily"
+      ],
+      "synonyms": [
+        "throw out",
+        "bar",
+        "ban",
+        "debar",
+        "drum out",
+        "thrust out",
+        "push out",
+        "turn out",
+        "oust",
+        "remove",
+        "get rid of"
+      ]
+    },
+    {
+      "description": "Extinguish.",
+      "examples": [
+        "out the lamp when you're ready"
+      ]
+    },
+    {
+      "description": "Become known; emerge.",
+      "examples": [
+        "the truth will out"
+      ]
+    }
+  ],
+  "phrases": [
+    "on the outs with established political trends",
+    "Aunt Celia has kicked me out again, for being rebellious and I've been at outs with my uncle for the last 5 years or so.",
+    "But now it's foreclosure time: The show is on the outs with me.",
+    "Both were examples of buyers who bit off more than they could chew and were on the outs after less than 2 years with their combined companies.",
+    "Honey, just because we're on the outs, there's no need to bring the child into it."
+  ],
+  "origin": "Old English ūt (adverb), ūtian (verb), of Germanic origin; related to Dutch uit and German aus.",
+  "pronounciation": "/aʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/out_1_us_1.mp3"
+}

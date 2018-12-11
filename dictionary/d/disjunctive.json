@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking connection.",
+      "examples": [
+        "the novel's disjunctive detail"
+      ]
+    },
+    {
+      "description": "(of a conjunction) expressing a choice between two mutually exclusive possibilities, for example or in she asked if he was going or staying.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A disjunctive conjunction or other word.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in disjunctive (sense 2 of the adjective)): from Latin disjunctivus, from disjunct- disjoined (see disjunct).",
+  "pronounciation": "/disˈjəNGktiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disjunctive_us_1.mp3"
+}

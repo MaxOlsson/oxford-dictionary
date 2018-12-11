@@ -1,0 +1,99 @@
+{
+  "adjective": [
+    {
+      "description": "Additional to what is required for ordinary use.",
+      "examples": [
+        "few people had spare cash for inessentials"
+      ],
+      "synonyms": [
+        "extra",
+        "supplementary",
+        "additional",
+        "second",
+        "another",
+        "alternative",
+        "emergency",
+        "reserve",
+        "backup",
+        "relief",
+        "fallback",
+        "substitute",
+        "fresh",
+        "auxiliary",
+        "ancillary"
+      ]
+    },
+    {
+      "description": "With no excess fat; thin.",
+      "examples": [
+        "a spare, bearded figure"
+      ],
+      "synonyms": [
+        "slender",
+        "lean"
+      ]
+    },
+    {
+      "description": "Elegantly simple.",
+      "examples": [
+        "her clothes are smart and spare in style"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An item kept in case another item of the same type is lost, broken, or worn out.",
+      "examples": []
+    },
+    {
+      "description": "(in tenpin bowling) an act of knocking down all the pins with two consecutive rolls of the ball.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give (something of which one has enough) to (someone); afford to give to.",
+      "examples": [
+        "she asked if I could spare her a dollar or two"
+      ],
+      "synonyms": [
+        "afford",
+        "do without",
+        "manage without",
+        "get along without",
+        "dispense with",
+        "part with",
+        "give",
+        "let someone have",
+        "provide"
+      ]
+    },
+    {
+      "description": "Refrain from killing, injuring, or distressing.",
+      "examples": [
+        "there was no way the men would spare her"
+      ],
+      "synonyms": [
+        "not harm",
+        "leave uninjured",
+        "leave unhurt"
+      ]
+    },
+    {
+      "description": "Be frugal.",
+      "examples": [
+        "but some will spend, and some will spare"
+      ]
+    }
+  ],
+  "phrases": [
+    "he'd go spare if he lost the money",
+    "The garden magpies are going spare just now, burying seeds and nuts in random places.",
+    "Nine, Ten, and the ABC would go spare at that.",
+    "Your mother actually sent me up, she's going spare downstairs.",
+    "I was shocked to see that someone had been digging badgers out - I went spare and my wife had to calm me down."
+  ],
+  "origin": "Old English spær not plentiful, meager, sparian refrain from injuring, refrain from using, of Germanic origin; related to Dutch and German sparen to spare.",
+  "pronounciation": "/sper/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spare_us_1.mp3"
+}

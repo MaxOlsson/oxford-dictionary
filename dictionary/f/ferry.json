@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+      "examples": [],
+      "synonyms": [
+        "passenger boat",
+        "passenger ship",
+        "ferry boat",
+        "packet boat",
+        "packet",
+        "shuttle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey in a ferry or other ship or boat, especially across a short stretch of water.",
+      "examples": [
+        "riverboats ferried weekend picnickers to the park"
+      ],
+      "synonyms": [
+        "transport",
+        "convey",
+        "carry",
+        "bear",
+        "ship",
+        "run",
+        "chauffeur",
+        "take",
+        "bring",
+        "shuttle"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse ferja ferry boat, of Germanic origin and related to fare.",
+  "pronounciation": "/ˈfɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ferry_us_1.mp3"
+}

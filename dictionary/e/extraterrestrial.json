@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Of or from outside the earth or its atmosphere.",
+      "examples": [
+        "searches for extraterrestrial intelligence"
+      ],
+      "synonyms": [
+        "other-worldly",
+        "not of this world",
+        "supernatural",
+        "preternatural",
+        "alien"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hypothetical or fictional being from outer space, especially an intelligent one.",
+      "examples": [],
+      "synonyms": [
+        "extraterrestrial",
+        "et"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌekstrətəˈrestrēəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/extraterrestrial_us_1.mp3"
+}

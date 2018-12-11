@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Evaluate or estimate the nature, ability, or quality of.",
+      "examples": [
+        "the committee must assess the relative importance of the issues",
+        "it is difficult to assess whether this is a new trend"
+      ],
+      "synonyms": [
+        "evaluate",
+        "judge",
+        "gauge",
+        "rate",
+        "estimate",
+        "appraise",
+        "form an opinion of",
+        "check out",
+        "form an impression of",
+        "make up one's mind about",
+        "get the measure of",
+        "determine",
+        "weigh up",
+        "analyse"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French assesser, based on Latin assidere sit by (in medieval Latin levy tax), from ad- to, at + sedere sit. Compare with assize.",
+  "pronounciation": "/əˈsɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assess_us_1.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.",
+      "examples": [
+        "primitive mammals",
+        "a name corrupted from primitive German"
+      ],
+      "synonyms": [
+        "ancient",
+        "earliest",
+        "first",
+        "prehistoric",
+        "antediluvian",
+        "antique",
+        "primordial",
+        "primeval",
+        "primal",
+        "primary",
+        "lower",
+        "original",
+        "proto-",
+        "ur-"
+      ]
+    },
+    {
+      "description": "Having a quality or style that offers an extremely basic level of comfort, convenience, or efficiency.",
+      "examples": [
+        "the accommodations at the camp were a bit primitive"
+      ],
+      "synonyms": [
+        "crude",
+        "simple",
+        "rough",
+        "basic",
+        "elementary",
+        "rough-hewn",
+        "rudimentary",
+        "undeveloped",
+        "unrefined",
+        "unsophisticated",
+        "rude",
+        "rough and ready",
+        "makeshift"
+      ]
+    },
+    {
+      "description": "Not developed or derived from anything else.",
+      "examples": [
+        "the primitive material of the universe"
+      ]
+    },
+    {
+      "description": "(of a part or structure) in the first or early stage of formation or growth; rudimentary.",
+      "examples": [],
+      "synonyms": [
+        "rudimentary",
+        "undeveloped",
+        "incomplete",
+        "embryonic",
+        "immature"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person belonging to a preliterate, nonindustrial society.",
+      "examples": []
+    },
+    {
+      "description": "A pre-Renaissance painter.",
+      "examples": []
+    },
+    {
+      "description": "A word, base, or root from which another is historically derived.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense original, not derivative): from Old French primitif, -ive, from Latin primitivus first of its kind, from primus first.",
+  "pronounciation": "/ˈprɪmədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/primitive_us_1.mp3"
+}

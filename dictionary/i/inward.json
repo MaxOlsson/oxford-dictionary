@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Directed or proceeding toward the inside; coming in from outside.",
+      "examples": [
+        "a graceful inward movement of her wrist",
+        "the inward rush of air"
+      ],
+      "synonyms": [
+        "towards the inside",
+        "going in",
+        "ingoing"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the inside.",
+      "examples": [
+        "the door began to swing inward"
+      ],
+      "synonyms": [
+        "inside",
+        "towards the inside",
+        "into the interior",
+        "within"
+      ]
+    }
+  ],
+  "origin": "Old English inweard, inneweard, innanweard (see in, -ward).",
+  "pronounciation": "/ˈinwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inward_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Of the nature of, caused by, or relating to a virus or viruses.",
+      "examples": []
+    },
+    {
+      "description": "Relating to or involving an image, video, piece of information, etc., that is circulated rapidly and widely from one Internet user to another.",
+      "examples": [
+        "a viral video ad",
+        "the video went viral and was seen by millions"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An image, video, advertisement, etc., that is circulated rapidly on the Internet.",
+      "examples": [
+        "the rise of virals in online marketing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvaɪrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/viral_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "Advice or information aimed at resolving a problem or difficulty, especially as given by someone in authority.",
+      "examples": [
+        "he looked to his father for inspiration and guidance"
+      ],
+      "synonyms": [
+        "advice",
+        "counsel",
+        "direction",
+        "instruction",
+        "teaching",
+        "counselling",
+        "enlightenment",
+        "intelligence",
+        "information"
+      ]
+    },
+    {
+      "description": "The directing of the motion or position of something, especially a missile.",
+      "examples": [
+        "a surface-to-air missile guidance system"
+      ],
+      "synonyms": [
+        "direction",
+        "control",
+        "leadership",
+        "management",
+        "supervision",
+        "superintendence",
+        "government",
+        "regulation",
+        "orchestration",
+        "charge",
+        "rule",
+        "command"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡaɪdəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guidance_us_1.mp3"
+}

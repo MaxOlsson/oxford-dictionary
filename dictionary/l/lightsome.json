@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Merry and carefree.",
+      "examples": []
+    },
+    {
+      "description": "Gracefully nimble.",
+      "examples": [
+        "lightsome, high-flying dancers"
+      ],
+      "synonyms": [
+        "nimble",
+        "deft",
+        "agile",
+        "lithe",
+        "limber",
+        "lissom",
+        "flexible",
+        "supple",
+        "adroit",
+        "graceful",
+        "acrobatic",
+        "lively",
+        "active",
+        "quick",
+        "quick-moving",
+        "spry",
+        "sprightly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlītsəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lightsome_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The action of fumbling.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Doing or handling something clumsily.",
+      "examples": [
+        "she bolted the door with fumbling fingers"
+      ],
+      "synonyms": [
+        "awkward",
+        "uncoordinated",
+        "ungainly",
+        "graceless",
+        "ungraceful",
+        "inelegant",
+        "gawky",
+        "gauche",
+        "gangling",
+        "cloddish",
+        "blundering",
+        "lumbering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfəmb(ə)lɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fumbling_us_2.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Assume that something is the case on the basis of evidence or probability but without proof or certain knowledge.",
+      "examples": [
+        "I suppose I got there about half past eleven"
+      ],
+      "synonyms": [
+        "assume",
+        "dare say",
+        "take for granted",
+        "take as read",
+        "presume",
+        "expect",
+        "take it"
+      ]
+    },
+    {
+      "description": "Be required to do something because of the position one is in or an agreement one has made.",
+      "examples": [
+        "I'm supposed to be meeting someone at the airport"
+      ],
+      "synonyms": [
+        "meant",
+        "intended",
+        "expected"
+      ]
+    }
+  ],
+  "phrases": [
+    "Um, I suppose so, he answers, a bit uncertain.",
+    "Um, I suppose so, though I haven't made any plans.",
+    "Well, I suppose so, she affirmed uncertainly.",
+    "Well, yeah, I suppose so, she agreed resentfully.",
+    "Well, if you want to think of it that way, I suppose so, but never entirely."
+  ],
+  "origin": "Middle English: from Old French supposer, from Latin supponere (from sub- from below + ponere to place), but influenced by Latin suppositus set under and Old French poser to place.",
+  "pronounciation": "/səˈpoʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suppose_us_1.mp3"
+}

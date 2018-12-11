@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Characteristic of or appropriate to a girl or young woman.",
+      "examples": [
+        "girly pink paper",
+        "they liked skipping and picking flowers and doing very girly things",
+        "don't get all girly and cute"
+      ],
+      "synonyms": [
+        "womanly",
+        "womanlike",
+        "ladylike",
+        "girlish",
+        "female"
+      ]
+    },
+    {
+      "description": "Depicting or featuring nude or partially nude young women in erotic poses.",
+      "examples": [
+        "girlie magazines"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A girl or young woman (often used as a term of address)",
+      "examples": [
+        "what's your name, girlie?"
+      ],
+      "synonyms": [
+        "young woman",
+        "young lady",
+        "miss"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/girlie_us_1.mp3"
+}

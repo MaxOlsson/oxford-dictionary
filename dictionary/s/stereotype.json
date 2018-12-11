@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+      "examples": [
+        "the stereotype of the woman as the carer",
+        "sexual and racial stereotypes"
+      ],
+      "synonyms": [
+        "conventional image",
+        "standard image",
+        "received idea",
+        "cliché",
+        "hackneyed idea",
+        "formula"
+      ]
+    },
+    {
+      "description": "A relief printing plate cast in a mold made from composed type or an original plate.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "View or represent as a stereotype.",
+      "examples": [
+        "the city is too easily stereotyped as an industrial wasteland"
+      ],
+      "synonyms": [
+        "typecast",
+        "pigeonhole",
+        "conventionalize",
+        "standardize",
+        "categorize",
+        "compartmentalize",
+        "label",
+        "tag"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French stéréotype (adjective).",
+  "pronounciation": "/ˈstɛriəˌtaɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stereotype_us_1.mp3"
+}

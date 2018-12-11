@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The maximum amount that something can contain.",
+      "examples": [
+        "the capacity of the freezer is 1.1 cubic feet",
+        "the stadium's seating capacity",
+        "the room was filled to capacity"
+      ],
+      "synonyms": [
+        "volume",
+        "cubic measure"
+      ]
+    },
+    {
+      "description": "The amount that something can produce.",
+      "examples": [
+        "the company aimed to double its electricity-generating capacity",
+        "when running at full capacity, the factory will employ 450 people"
+      ],
+      "synonyms": [
+        "efficiency",
+        "production",
+        "productiveness",
+        "work rate",
+        "output",
+        "yield",
+        "productive capacity"
+      ]
+    },
+    {
+      "description": "A specified role or position.",
+      "examples": [
+        "I was engaged in a voluntary capacity",
+        "writing in his capacity as legal correspondent"
+      ],
+      "synonyms": [
+        "position",
+        "post",
+        "job",
+        "office",
+        "appointment"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French capacité, from Latin capacitas, from capax, capac- that can contain, from capere take or hold.",
+  "pronounciation": "/kəˈpæsədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/capacity_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Choose (someone) to hold public office or some other position by voting.",
+      "examples": [
+        "the members who were elected to the committee",
+        "they elected him leader"
+      ],
+      "synonyms": [
+        "vote",
+        "vote for",
+        "vote in",
+        "choose",
+        "choose by ballot",
+        "cast one's vote for"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person) chosen or singled out.",
+      "examples": [
+        "one of the century's elect"
+      ],
+      "synonyms": [
+        "the chosen",
+        "the elite",
+        "the select",
+        "the favoured"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin elect- picked out, from the verb eligere, from e- (variant of ex-) out + legere to pick.",
+  "pronounciation": "/əˈlɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elect_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Bad-tempered and irritable.",
+      "examples": [
+        "his performance as the grumpy gateman",
+        "he's grumpy because he hasn't heard from you"
+      ],
+      "synonyms": [
+        "bad-tempered",
+        "ill-tempered",
+        "short-tempered",
+        "crotchety",
+        "crabby",
+        "crabbed",
+        "tetchy",
+        "testy",
+        "waspish",
+        "prickly",
+        "peppery",
+        "touchy",
+        "irritable",
+        "irascible",
+        "crusty",
+        "cantankerous",
+        "curmudgeonly",
+        "bearish",
+        "surly",
+        "churlish",
+        "ill-natured",
+        "ill-humoured",
+        "peevish",
+        "cross",
+        "as cross as two sticks",
+        "fractious",
+        "disagreeable",
+        "pettish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡrəmpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grumpy_us_1.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The action of cutting something.",
+      "examples": [
+        "the cutting of the cake",
+        "tax-cutting"
+      ]
+    },
+    {
+      "description": "A piece cut off from something, especially what remains when something is being trimmed or prepared.",
+      "examples": [
+        "grass cuttings"
+      ],
+      "synonyms": [
+        "piece",
+        "bit",
+        "fragment",
+        "part"
+      ]
+    },
+    {
+      "description": "An open passage excavated through higher ground for a railroad, road, or canal.",
+      "examples": [],
+      "synonyms": [
+        "furrow",
+        "channel",
+        "trench",
+        "trough",
+        "canal",
+        "gouge",
+        "hollow",
+        "indentation",
+        "rut",
+        "gutter",
+        "cut",
+        "score",
+        "fissure",
+        "seam"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Capable of cutting something.",
+      "examples": [
+        "the cutting blades of the hedge trimmer"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkədiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cutting_us_1.mp3"
+}

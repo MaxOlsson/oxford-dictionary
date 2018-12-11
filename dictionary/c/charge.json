@@ -1,0 +1,194 @@
+{
+  "verb": [
+    {
+      "description": "Demand (an amount) as a price from someone for a service rendered or goods supplied.",
+      "examples": [
+        "he charged me 2 euros for the postcard",
+        "the restaurant charged $15 for dinner",
+        "museums should charge for admission"
+      ],
+      "synonyms": [
+        "ask in payment",
+        "ask",
+        "fix a charge",
+        "fix a price",
+        "impose",
+        "levy"
+      ]
+    },
+    {
+      "description": "Accuse (someone) of something, especially an offense under law.",
+      "examples": [
+        "they were charged with assault"
+      ],
+      "synonyms": [
+        "accuse of",
+        "indict for",
+        "arraign for"
+      ]
+    },
+    {
+      "description": "Entrust (someone) with a task as a duty or responsibility.",
+      "examples": [
+        "the committee was charged with reshaping the educational system"
+      ],
+      "synonyms": [
+        "entrust"
+      ]
+    },
+    {
+      "description": "Store electrical energy in (a battery or battery-operated device)",
+      "examples": [
+        "the shaver can be charged up and used while traveling"
+      ]
+    },
+    {
+      "description": "Rush forward in attack.",
+      "examples": [
+        "the plan is to charge headlong at the enemy"
+      ],
+      "synonyms": [
+        "rush",
+        "move quickly",
+        "storm",
+        "stampede",
+        "career",
+        "tear",
+        "push",
+        "plough",
+        "swoop",
+        "dive",
+        "lunge",
+        "launch oneself",
+        "throw oneself",
+        "go headlong"
+      ]
+    },
+    {
+      "description": "Place a heraldic bearing on.",
+      "examples": [
+        "a pennant argent, charged with a cross gules"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A price asked for goods or services.",
+      "examples": [
+        "an admission charge"
+      ],
+      "synonyms": [
+        "fee",
+        "price",
+        "tariff",
+        "amount",
+        "sum",
+        "figure",
+        "fare",
+        "rate",
+        "payment",
+        "toll",
+        "levy"
+      ]
+    },
+    {
+      "description": "An accusation, typically one formally made against a prisoner brought to trial.",
+      "examples": [
+        "he appeared in court on a charge of attempted murder",
+        "three people were arrested but released without charge"
+      ],
+      "synonyms": [
+        "accusation",
+        "allegation",
+        "indictment",
+        "arraignment",
+        "citation",
+        "imputation"
+      ]
+    },
+    {
+      "description": "The responsibility of taking care or control of someone or something.",
+      "examples": [
+        "the people in her charge are pupils and not experimental subjects"
+      ],
+      "synonyms": [
+        "care",
+        "protection",
+        "safe keeping",
+        "keeping",
+        "supervision",
+        "surveillance",
+        "control",
+        "handling"
+      ]
+    },
+    {
+      "description": "The property of matter that is responsible for electrical phenomena, existing in a positive or negative form.",
+      "examples": []
+    },
+    {
+      "description": "A quantity of explosive to be detonated in order to fire a gun or similar weapon.",
+      "examples": [],
+      "synonyms": [
+        "bullet",
+        "round",
+        "shell",
+        "shot",
+        "casing"
+      ]
+    },
+    {
+      "description": "A headlong rush forward, typically one made by attacking soldiers in battle.",
+      "examples": [
+        "a cavalry charge"
+      ],
+      "synonyms": [
+        "attack",
+        "assault",
+        "offensive",
+        "onslaught",
+        "offence",
+        "drive",
+        "push",
+        "thrust",
+        "onrush",
+        "sortie",
+        "sally",
+        "swoop",
+        "foray",
+        "raid",
+        "invasion",
+        "incursion",
+        "campaign"
+      ]
+    },
+    {
+      "description": "A device or bearing placed on a shield or crest.",
+      "examples": [],
+      "synonyms": [
+        "insignia",
+        "regalia",
+        "badge",
+        "emblem",
+        "ensign",
+        "device",
+        "heraldic device",
+        "coat of arms",
+        "arms",
+        "armorial bearing",
+        "escutcheon",
+        "shield"
+      ]
+    }
+  ],
+  "phrases": [
+    "This book is available free of charge to people who have used the Centre over the past decade.",
+    "That is why we wanted to make the standards available free of charge on the Internet.",
+    "All the reports will be available free of charge to anyone with access to the Internet.",
+    "A number of parking bays will also be available free of charge on Sundays to allow churchgoers to use them.",
+    "The scheme is available free of charge only to people on very low incomes with minimal capital."
+  ],
+  "origin": "Middle English (in the general senses to load and a load), from Old French charger (verb), charge (noun), from late Latin carricare, carcare to load, from Latin carrus wheeled vehicle.",
+  "pronounciation": "/CHärj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/charge_us_1.mp3"
+}

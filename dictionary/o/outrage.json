@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "An extremely strong reaction of anger, shock, or indignation.",
+      "examples": [
+        "her voice trembled with outrage"
+      ],
+      "synonyms": [
+        "indignation",
+        "fury",
+        "anger",
+        "rage",
+        "disapproval",
+        "wrath",
+        "shock",
+        "resentment",
+        "horror",
+        "disgust",
+        "amazement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arouse fierce anger, shock, or indignation in (someone)",
+      "examples": [
+        "he was outraged at this attempt to take his victory away from him"
+      ],
+      "synonyms": [
+        "enrage",
+        "infuriate",
+        "incense",
+        "anger",
+        "scandalize",
+        "offend",
+        "give offence to",
+        "make indignant",
+        "affront",
+        "be an affront to",
+        "shock",
+        "horrify",
+        "disgust",
+        "revolt",
+        "repel",
+        "appal",
+        "displease"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the senses lack of moderation and violent behavior): from Old French ou(l)trage, based on Latin ultra beyond. Sense development has been affected by the belief that the word is a compound of out and rage.",
+  "pronounciation": "/ˈaʊtˌreɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outrage_us_1.mp3"
+}

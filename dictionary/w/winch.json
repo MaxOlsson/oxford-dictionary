@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A hauling or lifting device consisting of a rope, cable, or chain winding around a horizontal rotating drum, turned by a crank or by motor or other power source; a windlass.",
+      "examples": [],
+      "synonyms": [
+        "crane",
+        "derrick",
+        "hoist",
+        "davit",
+        "windlass",
+        "tackle",
+        "block and tackle",
+        "lifting gear",
+        "hoisting gear",
+        "system of pulleys",
+        "sheave"
+      ]
+    },
+    {
+      "description": "The crank of a wheel or axle.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hoist or haul with a winch.",
+      "examples": [
+        "an attempt to winch survivors of the wreck into a helicopter"
+      ],
+      "synonyms": [
+        "raise",
+        "hoist",
+        "heave",
+        "haul up",
+        "uplift",
+        "heft",
+        "boost",
+        "raise aloft",
+        "raise up",
+        "upraise",
+        "elevate",
+        "thrust",
+        "hold high",
+        "bear aloft"
+      ]
+    }
+  ],
+  "origin": "Late Old English wince reel, pulley, of Germanic origin; related to the verb wink. The verb dates from the early 16th century.",
+  "pronounciation": "/wɪn(t)ʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/winch_us_1.mp3"
+}

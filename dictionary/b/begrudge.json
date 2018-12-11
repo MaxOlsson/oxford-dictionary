@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Envy (someone) the possession or enjoyment of (something)",
+      "examples": [
+        "she begrudged Martin his affluence"
+      ],
+      "synonyms": [
+        "envy",
+        "grudge",
+        "resent"
+      ]
+    },
+    {
+      "description": "Give reluctantly or resentfully.",
+      "examples": [
+        "nobody begrudges a single penny spent on health"
+      ],
+      "synonyms": [
+        "resent",
+        "feel aggrieved about",
+        "feel bitter about",
+        "be annoyed about",
+        "be angry about",
+        "be displeased about",
+        "be resentful of",
+        "grudge",
+        "mind",
+        "object to",
+        "take exception to",
+        "regret"
+      ]
+    }
+  ],
+  "pronounciation": "/bəˈɡrəj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/begrudge_us_2.mp3"
+}

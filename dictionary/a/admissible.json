@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Acceptable or valid, especially as evidence in a court of law.",
+      "examples": [
+        "the Court unanimously held that the hearsay was admissible",
+        "legally admissible evidence"
+      ],
+      "synonyms": [
+        "allowable",
+        "allowed",
+        "permissible",
+        "permitted",
+        "acceptable",
+        "passable",
+        "tolerable",
+        "satisfactory",
+        "justifiable",
+        "defensible",
+        "supportable",
+        "well founded",
+        "tenable",
+        "sound",
+        "sensible",
+        "reasonable"
+      ]
+    },
+    {
+      "description": "Having the right to be admitted to a place.",
+      "examples": [
+        "foreigners were admissible only as temporary workers"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from medieval Latin admissibilis, from Latin admittere (see admit).",
+  "pronounciation": "/ədˈmisəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/admissible_us_1.mp3"
+}

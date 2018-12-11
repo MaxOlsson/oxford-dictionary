@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring or done in brief, irregular bursts.",
+      "examples": [
+        "spasmodic fighting continued"
+      ],
+      "synonyms": [
+        "intermittent",
+        "fitful",
+        "irregular",
+        "sporadic",
+        "erratic",
+        "occasional",
+        "infrequent",
+        "scattered",
+        "patchy",
+        "isolated",
+        "odd",
+        "uneven",
+        "periodic",
+        "periodical",
+        "recurring",
+        "recurrent",
+        "on and off"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from modern Latin spasmodicus, from Greek spasmōdēs, from spasma (see spasm).",
+  "pronounciation": "/spazˈmädik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spasmodic_us_1.mp3"
+}

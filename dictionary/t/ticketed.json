@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of a passenger) issued with a travel ticket.",
+      "examples": [
+        "only ticketed passengers are allowed through security"
+      ]
+    },
+    {
+      "description": "Issued with an official notice of a traffic offense.",
+      "examples": [
+        "ticketed drivers should be more willing to accept their punishment and pay up"
+      ]
+    },
+    {
+      "description": "Denoting an event for which a ticket is required to attend.",
+      "examples": [
+        "a ticketed show"
+      ]
+    },
+    {
+      "description": "(of a retail product) marked with a label giving its price, size, and other details.",
+      "examples": [
+        "ticketed items"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɪkədəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ticketed_us_2.mp3"
+}

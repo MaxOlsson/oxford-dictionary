@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "Clothing.",
+      "examples": [],
+      "synonyms": [
+        "clothes",
+        "clothing",
+        "garments",
+        "dress",
+        "attire",
+        "wear",
+        "garb",
+        "wardrobe"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Clothe (someone)",
+      "examples": [
+        "all the vestments in which they used to apparel their Deities"
+      ],
+      "synonyms": [
+        "equip",
+        "kit out",
+        "fit out",
+        "fit up",
+        "rig out",
+        "supply",
+        "issue",
+        "furnish with",
+        "provide",
+        "provision",
+        "stock",
+        "arm"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb in the sense make ready or fit; as a noun furnishings, equipment): from Old French apareillier, based on Latin ad- to (expressing change) + par equal.",
+  "pronounciation": "/əˈpɛrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apparel_us_1.mp3"
+}

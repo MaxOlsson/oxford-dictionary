@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A small, thin, sharp piece of wood, glass, or similar material broken off from a larger piece.",
+      "examples": [
+        "a splinter of ice"
+      ],
+      "synonyms": [
+        "sliver",
+        "shiver",
+        "chip",
+        "shard",
+        "needle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Break or cause to break into small sharp fragments.",
+      "examples": [
+        "the soap box splintered",
+        "he crashed into a fence, splintering the wooden barricade"
+      ],
+      "synonyms": [
+        "shatter",
+        "break into tiny pieces",
+        "break into fragments",
+        "smash",
+        "smash into smithereens",
+        "fracture",
+        "split",
+        "crack",
+        "disintegrate",
+        "crumble"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Middle Dutch splinter, splenter; related to splint.",
+  "pronounciation": "/ˈsplɪn(t)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splinter_us_1.mp3"
+}

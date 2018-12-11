@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Talcum powder.",
+      "examples": []
+    },
+    {
+      "description": "A white, grey, or pale green soft mineral with a greasy feel, occurring as translucent masses or laminae and consisting of hydrated magnesium silicate.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Powder or treat (something) with talc.",
+      "examples": [
+        "he took two hours to get himself dressed for a date, oiling his black hair and talcing his face"
+      ],
+      "synonyms": [
+        "dust",
+        "cover with powder",
+        "dredge with powder",
+        "sprinkle with powder",
+        "talc"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (denoting the mineral): from medieval Latin talcum (see talcum).",
+  "pronounciation": "/talk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/talc_us_1.mp3"
+}

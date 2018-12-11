@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Decaffeinated.",
+      "examples": [
+        "a decaf cappuccino",
+        "decaf iced tea"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Decaffeinated coffee.",
+      "examples": [
+        "I've switched to decaf in the evenings"
+      ]
+    }
+  ],
+  "origin": "1950s: abbreviation.",
+  "pronounciation": "/ˈdikæf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decaf_us_2.mp3"
+}

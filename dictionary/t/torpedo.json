@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A cigar-shaped self-propelled underwater missile designed to be fired from a ship or submarine or dropped into the water from an aircraft and to explode on reaching a target.",
+      "examples": []
+    },
+    {
+      "description": "An electric ray.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack or sink (a ship) with a torpedo or torpedoes.",
+      "examples": [],
+      "synonyms": [
+        "shell",
+        "pound",
+        "blitz",
+        "strafe",
+        "pepper",
+        "fire at",
+        "fire on",
+        "bomb"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in torpedo (sense 2 of the noun)): from Latin, literally stiffness, numbness, by extension electric ray (which gives a shock causing numbness), from torpere be numb or sluggish. torpedo (sense 1 of the noun) dates from the late 18th century and first described a timed explosive device for detonation under water.",
+  "pronounciation": "/tôrˈpēdō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/torpedo_us_1.mp3"
+}

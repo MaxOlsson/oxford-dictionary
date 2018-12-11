@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Of poorer quality or lower standard; less good or desirable.",
+      "examples": [
+        "the accommodations were awful, and the food was worse"
+      ]
+    },
+    {
+      "description": "More ill or unhappy.",
+      "examples": [
+        "he felt worse, and groped his way back to bed"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Less well or skilfully.",
+      "examples": [
+        "the more famous I became the worse I painted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A more serious or unpleasant event or situation.",
+      "examples": [
+        "the small department was already stretched to the limit, but worse was to follow"
+      ]
+    }
+  ],
+  "phrases": [
+    "we were none the worse for our terrible experience",
+    "My trouser was torn and I had to go home and change into another suit, said Ring who was none the worse for the experience.",
+    "He takes the harder route, and is none the worse for it.",
+    "We have a full health and safety team in the studio and she was given immediate attention, but was none the worse for what happened.",
+    "Yet here was I, having lost at least a third of my skin, and apparently none the worse for it."
+  ],
+  "origin": "Old English wyrsa, wiersa (adjective), wiers (adverb), of Germanic origin; related to war.",
+  "pronounciation": "/wərs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/worse_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Arrange or score (music) for orchestral performance.",
+      "examples": [],
+      "synonyms": [
+        "arrange",
+        "adapt",
+        "score"
+      ]
+    },
+    {
+      "description": "Arrange or direct the elements of (a situation) to produce a desired effect, especially surreptitiously.",
+      "examples": [
+        "the developers were able to orchestrate a favorable media campaign"
+      ],
+      "synonyms": [
+        "organize",
+        "arrange",
+        "put together",
+        "plan",
+        "set up",
+        "bring about",
+        "manage",
+        "mobilize",
+        "mount",
+        "stage",
+        "stage-manage",
+        "mastermind",
+        "choreograph",
+        "coordinate",
+        "direct",
+        "engineer"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from orchestra, perhaps suggested by French orchestrer.",
+  "pronounciation": "/ˈôrkəˌstrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/orchestrate_us_1.mp3"
+}

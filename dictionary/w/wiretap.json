@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "An act of using a listening device to conduct surveillance, typically over a phone line.",
+      "examples": [
+        "illegal wiretaps of leading politicians",
+        "secret wiretap recordings"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use a listening device to conduct surveillance on.",
+      "examples": [
+        "the government illegally wiretapped the lawyers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwaɪ(ə)rˌtæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wiretap_us_1.mp3"
+}

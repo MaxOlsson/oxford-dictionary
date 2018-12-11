@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Pull with a jerk.",
+      "examples": [
+        "her hair was yanked, and she screamed",
+        "he yanked her to her feet",
+        "Liz yanked at her arm"
+      ],
+      "synonyms": [
+        "jerk",
+        "pull",
+        "tug",
+        "wrench",
+        "heave",
+        "haul",
+        "drag",
+        "tweak",
+        "twitch",
+        "pluck",
+        "snatch",
+        "seize",
+        "rip",
+        "tear",
+        "whisk",
+        "jolt",
+        "force"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden hard pull.",
+      "examples": [
+        "one of the other girls gave her ponytail a yank"
+      ],
+      "synonyms": [
+        "jerk",
+        "pull",
+        "tug",
+        "jolt",
+        "wrench",
+        "heave",
+        "tweak",
+        "twitch"
+      ]
+    }
+  ],
+  "origin": "Late 18th century (as a Scots word in the sense sudden sharp blow): of unknown origin.",
+  "pronounciation": "/jæŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yank_us_1.mp3"
+}

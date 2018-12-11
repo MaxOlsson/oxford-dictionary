@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings.",
+      "examples": [
+        "on the trenches were pieces of turf which served for camouflage",
+        "camouflage nets"
+      ],
+      "synonyms": [
+        "disguise",
+        "concealment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hide or disguise the presence of (a person, animal, or object) by means of camouflage.",
+      "examples": [
+        "the war area had to be camouflaged with mud"
+      ],
+      "synonyms": [
+        "disguise",
+        "hide",
+        "conceal",
+        "keep hidden",
+        "mask",
+        "screen",
+        "veil",
+        "cloak",
+        "cover",
+        "cover up",
+        "obscure",
+        "shroud"
+      ]
+    }
+  ],
+  "origin": "Late 19th century (in sense disguise, concealment): French, from camoufler to disguise (originally thieves' slang), from Italian camuffare disguise, deceive, perhaps by association with French camouflet whiff of smoke in the face. The military sense originated during the First World War.",
+  "pronounciation": "/ˈkaməˌflä(d)ZH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/camouflage_us_3.mp3"
+}

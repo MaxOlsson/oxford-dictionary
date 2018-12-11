@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A bicycle or motorcycle.",
+      "examples": [
+        "I'm going by bike",
+        "a bike ride"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Ride a bicycle or motorcycle.",
+      "examples": [
+        "we hope to encourage as many people as possible to bike to work",
+        "the terrain is perfect for biking"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of unknown origin; perhaps from Old English béoc, contraction of béowíc bee dwelling.",
+  "pronounciation": "/baɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bike_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A large long-handled spoon with a cup-shaped bowl, used for serving soup, stew, or sauce.",
+      "examples": [],
+      "synonyms": [
+        "spoon",
+        "scoop",
+        "dipper",
+        "bailer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Serve (soup, stew, or sauce) with a ladle.",
+      "examples": [
+        "she ladled out onion soup"
+      ],
+      "synonyms": [
+        "spoon out",
+        "scoop out",
+        "dish out",
+        "dish up",
+        "serve"
+      ]
+    }
+  ],
+  "origin": "Old English hlædel, from hladan (see lade).",
+  "pronounciation": "/ˈlādl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ladle_us_1.mp3"
+}

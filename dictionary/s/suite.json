@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A set of rooms designated for one person's or family's use or for a particular purpose.",
+      "examples": [
+        "a suite of reception rooms"
+      ],
+      "synonyms": [
+        "apartment",
+        "flat",
+        "set of rooms",
+        "suite of rooms"
+      ]
+    },
+    {
+      "description": "A set of instrumental compositions, originally in dance style, to be played in succession.",
+      "examples": []
+    },
+    {
+      "description": "A group of people in attendance on a monarch or other person of high rank.",
+      "examples": [
+        "the Royal Saloon was built for the use of the Queen and her suite"
+      ],
+      "synonyms": [
+        "retinue",
+        "entourage",
+        "train",
+        "escort",
+        "cortège",
+        "royal household",
+        "court",
+        "company",
+        "following",
+        "staff"
+      ]
+    },
+    {
+      "description": "A set of programs with a uniform design and the ability to share data.",
+      "examples": []
+    },
+    {
+      "description": "A group of minerals, rocks, or fossils occurring together and characteristic of a location or period.",
+      "examples": [
+        "potassic rock suites are a characteristic feature of the area"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from French, from Anglo-Norman French siwte (see suit).",
+  "pronounciation": "/swēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suite_us_1.mp3"
+}

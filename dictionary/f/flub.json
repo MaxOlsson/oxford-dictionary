@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Botch or bungle (something)",
+      "examples": [
+        "she glanced at her notes and flubbed her lines",
+        "don't flub again"
+      ],
+      "synonyms": [
+        "make a mess of",
+        "bungle",
+        "botch",
+        "fluff",
+        "fumble",
+        "butcher",
+        "mess up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing badly or clumsily done; a blunder.",
+      "examples": [
+        "the textbooks are littered with flubs"
+      ]
+    }
+  ],
+  "origin": "1920s: of unknown origin.",
+  "pronounciation": "/fləb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flub_us_1.mp3"
+}

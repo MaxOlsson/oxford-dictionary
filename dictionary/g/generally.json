@@ -1,0 +1,60 @@
+{
+  "adverb": [
+    {
+      "description": "In most cases; usually.",
+      "examples": [
+        "the term of a lease is generally 99 years"
+      ],
+      "synonyms": [
+        "usually",
+        "traditionally",
+        "normally",
+        "as a rule",
+        "conventionally",
+        "in the ordinary way",
+        "ordinarily",
+        "commonly"
+      ]
+    },
+    {
+      "description": "In general terms; without regard to particulars or exceptions.",
+      "examples": [
+        "a decade when France was moving generally to the left"
+      ],
+      "synonyms": [
+        "normally",
+        "in general",
+        "as a rule",
+        "as a general rule",
+        "in the general run of things",
+        "by and large",
+        "more often than not",
+        "almost always",
+        "in the main",
+        "mainly",
+        "mostly",
+        "for the most part",
+        "in most cases",
+        "most of the time",
+        "predominantly",
+        "on the whole"
+      ]
+    },
+    {
+      "description": "Widely.",
+      "examples": [
+        "the best scheme is generally reckoned to be the Canadian one"
+      ],
+      "synonyms": [
+        "widely",
+        "commonly",
+        "extensively",
+        "comprehensively",
+        "universally",
+        "popularly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdʒɛn(ə)rəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/generally_us_1.mp3"
+}

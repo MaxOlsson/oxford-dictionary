@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A space entirely devoid of matter.",
+      "examples": [],
+      "synonyms": [
+        "empty space",
+        "emptiness",
+        "void",
+        "nothingness",
+        "vacuity",
+        "vacancy"
+      ]
+    },
+    {
+      "description": "A vacuum cleaner.",
+      "examples": [],
+      "synonyms": [
+        "vacuum cleaner"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Clean with a vacuum cleaner.",
+      "examples": [
+        "the room needs to be vacuumed"
+      ],
+      "synonyms": [
+        "vacuum-clean"
+      ]
+    }
+  ],
+  "phrases": [
+    "It wasn't as though the summit occurred in a vacuum without any prior events.",
+    "Experts point out that illnesses do not occur in a vacuum but rather in the context of society.",
+    "We cannot exist in a vacuum, in isolation from what's happening in other parts of the world.",
+    "The problem is that an individual's work choices don't operate in a vacuum.",
+    "My point is that those comments were made in a certain historical era and not in a vacuum."
+  ],
+  "origin": "Mid 16th century: modern Latin, neuter of Latin vacuus empty.",
+  "pronounciation": "/ˈvækˌju(ə)m/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vacuum_us_1.mp3"
+}

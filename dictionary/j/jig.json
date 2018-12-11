@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A lively dance with leaping movements.",
+      "examples": []
+    },
+    {
+      "description": "A device that holds a piece of work and guides the tools operating on it.",
+      "examples": []
+    },
+    {
+      "description": "A type of artificial bait that is jerked up and down through the water.",
+      "examples": [],
+      "synonyms": [
+        "lure",
+        "decoy",
+        "fly",
+        "troll",
+        "jig",
+        "plug",
+        "teaser"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dance a jig.",
+      "examples": [],
+      "synonyms": [
+        "bob up and down",
+        "leap up and down",
+        "jump up and down",
+        "spring up and down",
+        "skip",
+        "hop"
+      ]
+    },
+    {
+      "description": "Equip (a factory or workshop) with a jig or jigs.",
+      "examples": []
+    },
+    {
+      "description": "Fish with a jig.",
+      "examples": [
+        "a man jigged for squid"
+      ]
+    }
+  ],
+  "phrases": [
+    "After the parade, the Céilí Mór takes place at Earlsfort Terrace with some of the country's finest traditional acts keeping everybody in jig time.",
+    "The trio did the clean-up in jig time and with smiles.",
+    "They'll be off the starting blocks in jig time on Sunday and it will be important for Ardmore to contain them in those vital early sequences.",
+    "Veteran Frankie Carroll especially was out of traps in jig time pointing a free inside a minute and landing a real beauty from play two minutes later.",
+    "There is no doubt we went mad in terms of exposing ourselves to increased debt as we dramatically caught up with the EU average on that score in jig time."
+  ],
+  "origin": "Mid 16th century: of unknown origin.",
+  "pronounciation": "/jiɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jig_us_1.mp3"
+}

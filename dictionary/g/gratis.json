@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "Without charge; free.",
+      "examples": [
+        "a monthly program was issued gratis"
+      ],
+      "synonyms": [
+        "free of charge",
+        "free",
+        "without charge",
+        "for nothing",
+        "at no cost",
+        "without payment",
+        "without paying",
+        "freely",
+        "gratuitously"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Given or done for nothing; free.",
+      "examples": [
+        "gratis copies"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin, contraction of gratiis as a kindness, from gratia grace, kindness.",
+  "pronounciation": "/ˈɡradəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gratis_us_1.mp3"
+}

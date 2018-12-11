@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Planned or meant.",
+      "examples": [
+        "the intended victim escaped"
+      ],
+      "synonyms": [
+        "deliberate",
+        "intentional",
+        "calculated",
+        "conscious",
+        "done on purpose",
+        "planned",
+        "considered",
+        "studied",
+        "knowing",
+        "wilful",
+        "wanton",
+        "purposeful",
+        "purposive",
+        "premeditated",
+        "pre-planned",
+        "thought out in advance",
+        "prearranged",
+        "preconceived",
+        "predetermined"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The person one intends to marry; one's fiancé or fiancée.",
+      "examples": [],
+      "synonyms": [
+        "fiancée",
+        "fiancé",
+        "wife-to-be",
+        "husband-to-be",
+        "bride-to-be",
+        "future husband",
+        "future wife",
+        "prospective husband",
+        "prospective wife",
+        "prospective spouse"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈtendəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intended_us_1.mp3"
+}

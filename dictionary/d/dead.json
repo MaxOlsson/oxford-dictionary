@@ -1,0 +1,87 @@
+{
+  "adjective": [
+    {
+      "description": "No longer alive.",
+      "examples": [
+        "a dead body",
+        "he was shot dead by a sniper"
+      ],
+      "synonyms": [
+        "deceased",
+        "expired",
+        "departed",
+        "gone",
+        "no more",
+        "passed on",
+        "passed away"
+      ]
+    },
+    {
+      "description": "Complete; absolute.",
+      "examples": [
+        "we sat in dead silence"
+      ],
+      "synonyms": [
+        "complete",
+        "absolute",
+        "total",
+        "entire",
+        "outright",
+        "utter",
+        "downright",
+        "out-and-out",
+        "thorough",
+        "unqualified",
+        "unmitigated"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Absolutely; completely.",
+      "examples": [
+        "you're dead right",
+        "he was dead against the idea"
+      ],
+      "synonyms": [
+        "completely",
+        "absolutely",
+        "totally",
+        "utterly",
+        "deadly",
+        "perfectly",
+        "entirely",
+        "wholly",
+        "fully",
+        "quite",
+        "thoroughly",
+        "unreservedly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Those who have died.",
+      "examples": [],
+      "synonyms": [
+        "deceased",
+        "expired",
+        "departed",
+        "gone",
+        "no more",
+        "passed on",
+        "passed away"
+      ]
+    }
+  ],
+  "phrases": [
+    "the incident is dead and buried",
+    "Soon this nation will be dead and buried unless it changes its philosophy.",
+    "Are those plans still alive or they are dead and buried?",
+    "Despite being a man down there was still belief in the players that this game was not dead and buried.",
+    "With fourteen minutes to play in normal time they looked dead and buried as they trailed by 3-1."
+  ],
+  "origin": "Old English dēad, of Germanic origin: related to Dutch dood and German tot, also to die.",
+  "pronounciation": "/ded/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dead_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Causing one to feel bored or annoyed.",
+      "examples": [
+        "weeding is a tiresome but essential job"
+      ],
+      "synonyms": [
+        "boring",
+        "dull",
+        "tedious",
+        "monotonous",
+        "humdrum",
+        "wearisome",
+        "laborious",
+        "wearing",
+        "prosaic",
+        "unexciting",
+        "uninteresting",
+        "uneventful",
+        "unvarying",
+        "unvaried",
+        "unremarkable",
+        "repetitive",
+        "repetitious",
+        "routine",
+        "ordinary",
+        "everyday",
+        "day-to-day",
+        "quotidian",
+        "run-of-the-mill",
+        "commonplace",
+        "common",
+        "workaday",
+        "usual",
+        "pedestrian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtī(ə)rsəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tiresome_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the Greek city of Thebes or its inhabitants.",
+      "examples": [
+        "the new Theban king"
+      ]
+    },
+    {
+      "description": "Relating to or characteristic of Thebes, the ancient capital of Upper Egypt.",
+      "examples": [
+        "the hermit settlements of the Theban desert"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the Greek city of Thebes.",
+      "examples": [
+        "the remains of poetry celebrating victories in games are dominated by a Theban"
+      ]
+    },
+    {
+      "description": "A native or inhabitant of Thebes, the ancient capital of Upper Egypt.",
+      "examples": [
+        "the tombs of the private Thebans"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈTHēb(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/theban_1_us_1.mp3"
+}

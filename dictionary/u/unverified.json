@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Not having been verified.",
+      "examples": [],
+      "synonyms": [
+        "unconfirmed",
+        "unsupported",
+        "uncorroborated",
+        "not backed up by evidence",
+        "unattested",
+        "unproven",
+        "not validated",
+        "untested"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈvɛrəˌfaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unverified_us_1.mp3"
+}

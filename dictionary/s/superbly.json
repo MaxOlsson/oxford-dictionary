@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "Very well; excellently.",
+      "examples": [
+        "the team played superbly",
+        "a superbly gifted writer"
+      ]
+    },
+    {
+      "description": "In an impressively splendid manner.",
+      "examples": [
+        "the tomb is superbly ornamented with fine tracery"
+      ]
+    }
+  ],
+  "pronounciation": "/so͞oˈpərblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/superbly_us_1.mp3"
+}

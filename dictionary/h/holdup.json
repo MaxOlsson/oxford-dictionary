@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A situation that causes delay, especially to a journey.",
+      "examples": [],
+      "synonyms": [
+        "delay",
+        "setback",
+        "hitch",
+        "snag",
+        "difficulty",
+        "problem",
+        "issue",
+        "trouble",
+        "wait",
+        "waiting period",
+        "stoppage"
+      ]
+    },
+    {
+      "description": "A robbery conducted with the use of threats or violence.",
+      "examples": [
+        "three dead in armored car holdup"
+      ],
+      "synonyms": [
+        "robbery",
+        "raid",
+        "armed robbery",
+        "armed raid",
+        "theft",
+        "burglary",
+        "mugging"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhōldˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/holdup_us_1.mp3"
+}

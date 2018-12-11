@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "An individual or organization that pays some or all of the costs involved in staging a sporting or artistic event in return for advertising.",
+      "examples": [],
+      "synonyms": [
+        "backer",
+        "financier",
+        "subsidizer",
+        "underwriter",
+        "guarantor",
+        "benefactor",
+        "benefactress",
+        "contributor",
+        "subscriber",
+        "donor"
+      ]
+    },
+    {
+      "description": "A person who introduces and supports a proposal for legislation.",
+      "examples": [
+        "a leading sponsor of the bill"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide funds for (a project or activity or the person carrying it out)",
+      "examples": [
+        "Joe is being sponsored by his church"
+      ],
+      "synonyms": [
+        "finance",
+        "put up the money for",
+        "fund",
+        "subsidize",
+        "underwrite",
+        "back",
+        "promote",
+        "lend one's name to",
+        "be a patron of",
+        "act as guarantor of",
+        "support"
+      ]
+    },
+    {
+      "description": "Introduce and support (a proposal) in a legislative assembly.",
+      "examples": [
+        "Senator Hardin sponsored the bill"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as a noun): from Latin, from spondere promise solemnly. The verb dates from the late 19th century.",
+  "pronounciation": "/ˈspänsər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sponsor_us_1.mp3"
+}

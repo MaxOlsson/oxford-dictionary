@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of a revolution or conflict) without violence or killing.",
+      "examples": [
+        "a bloodless coup"
+      ],
+      "synonyms": [
+        "non-violent",
+        "peaceful",
+        "peaceable",
+        "pacifistic",
+        "strife-free",
+        "conflict-free",
+        "harmonious"
+      ]
+    },
+    {
+      "description": "(of the skin or a part of the body) drained of color.",
+      "examples": [
+        "his bloodless lips"
+      ],
+      "synonyms": [
+        "anaemic",
+        "pale",
+        "wan",
+        "pallid",
+        "ashen",
+        "colourless",
+        "chalky",
+        "chalk-white",
+        "milky",
+        "waxen",
+        "white",
+        "grey"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈblədləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bloodless_us_1.mp3"
+}

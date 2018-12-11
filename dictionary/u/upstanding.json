@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Honest; respectable.",
+      "examples": [
+        "an upstanding member of the community"
+      ],
+      "synonyms": [
+        "honest",
+        "honourable",
+        "upright",
+        "respectable",
+        "reputable",
+        "high-minded",
+        "law-abiding",
+        "right-minded",
+        "worthy",
+        "moral",
+        "ethical",
+        "righteous",
+        "decent",
+        "good",
+        "virtuous",
+        "principled",
+        "high-principled",
+        "of principle",
+        "proper",
+        "correct",
+        "just",
+        "noble",
+        "incorruptible",
+        "anti-corruption",
+        "conscientious"
+      ]
+    },
+    {
+      "description": "Standing up; erect.",
+      "examples": [
+        "upstanding feathered plumes"
+      ],
+      "synonyms": [
+        "upright",
+        "erect",
+        "vertical",
+        "plumb",
+        "upended",
+        "on end",
+        "rearing",
+        "straight",
+        "straight up and down",
+        "perpendicular"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəpˈstændɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upstanding_us_1.mp3"
+}

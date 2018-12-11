@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A person who directs the performance of an orchestra or choir.",
+      "examples": [
+        "he was appointed principal conductor of the Berlin Philharmonic Orchestra"
+      ]
+    },
+    {
+      "description": "A person in charge of a train, streetcar, or other public conveyance, who collects fares and sells tickets.",
+      "examples": [],
+      "synonyms": [
+        "escort",
+        "attendant",
+        "courier",
+        "pilot",
+        "usher",
+        "chaperone"
+      ]
+    },
+    {
+      "description": "A material or device that conducts or transmits heat, electricity, or sound, especially when regarded in terms of its capacity to do this.",
+      "examples": [
+        "graphite is a reasonably good conductor of electricity"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a military leader): via Old French from Latin conductor, from conducere bring together (see conduct).",
+  "pronounciation": "/kənˈdəktər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconductor_us_1.mp3"
+}

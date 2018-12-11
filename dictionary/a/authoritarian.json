@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Favoring or enforcing strict obedience to authority, especially that of the government, at the expense of personal freedom.",
+      "examples": [
+        "the transition from an authoritarian to a democratic regime"
+      ],
+      "synonyms": [
+        "autocratic",
+        "dictatorial",
+        "totalitarian",
+        "despotic",
+        "tyrannical",
+        "autarchic",
+        "draconian",
+        "absolute",
+        "arbitrary",
+        "oppressive",
+        "repressive",
+        "illiberal",
+        "undemocratic",
+        "anti-democratic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An authoritarian person.",
+      "examples": [],
+      "synonyms": [
+        "autocrat",
+        "despot",
+        "dictator",
+        "tyrant",
+        "absolutist"
+      ]
+    }
+  ],
+  "pronounciation": "/əˌTHôrəˈterēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/authoritarian_us_1_rr.mp3"
+}

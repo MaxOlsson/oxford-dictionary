@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing experience, knowledge, and good judgment.",
+      "examples": [
+        "she seems kind and wise",
+        "a wise precaution"
+      ],
+      "synonyms": [
+        "sage",
+        "sagacious",
+        "intelligent",
+        "clever",
+        "learned",
+        "showing great knowledge",
+        "with great knowledge",
+        "knowledgeable",
+        "informed",
+        "enlightened"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become alert to or aware of something.",
+      "examples": [
+        "wise up and sort yourselves out before it's too late"
+      ]
+    },
+    {
+      "description": "Make jokes or witty remarks.",
+      "examples": [
+        "Jake and I would wise off to him"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The manner or extent of something.",
+      "examples": [
+        "he did it this wise"
+      ]
+    }
+  ],
+  "phrases": [
+    "It is easy to be wise after the event and almost impossible before it",
+    "It is so easy to be wise after the event and to condemn as negligence that which was only a misadventure.",
+    "Reflecting on the time of my involvement there were some key decisions on player contracts in 1999 that we know now were mistakes, but it's easy to be wise after the event.",
+    "While it would be easy to be wise after the event, Simon was never a player that any of us would have picked out as a future star, as a player who would go all the way to the top.",
+    "It is not being wise after the event to say Northampton's decline was predictable.",
+    "It is admitted that he did sincerely believe in the soundness of his ship; but the sincerity of his conviction can in no wise help him, because he had no right to believe on such evidence as was before him.",
+    "Him that cometh to me I will in no wise cast out .",
+    "Yes, I rule on it and my ruling is that I am in no wise disqualified from hearing the case.",
+    "The welcome signs, artfully disposed, make it clear that hospitality is merely an allusive flavor; they are in no wise meant to be taken literally.",
+    "He knows that his view is fraudulent, but that in no wise affects his ability to believe it."
+  ],
+  "origin": "Old English wīse, of Germanic origin; related to wit.",
+  "pronounciation": "/wīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wise_us_1.mp3"
+}

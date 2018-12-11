@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Predict (the future or a future event)",
+      "examples": [
+        "a seer had foretold that she would assume the throne",
+        "as he foretold, thousands lost their lives"
+      ],
+      "synonyms": [
+        "predict",
+        "forecast",
+        "foresee",
+        "anticipate",
+        "envisage",
+        "envision",
+        "see",
+        "prophesy",
+        "prognosticate",
+        "augur",
+        "divine"
+      ]
+    }
+  ],
+  "pronounciation": "/fɔrˈtɛl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foretell_us_1.mp3"
+}

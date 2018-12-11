@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) lying face upward.",
+      "examples": [],
+      "synonyms": [
+        "flat on one's back",
+        "prone",
+        "recumbent",
+        "prostrate",
+        "stretched out",
+        "spreadeagled"
+      ]
+    },
+    {
+      "description": "Failing to act or protest as a result of moral weakness or indolence.",
+      "examples": [
+        "supine in the face of racial injustice"
+      ],
+      "synonyms": [
+        "weak",
+        "spineless",
+        "yielding",
+        "enervated",
+        "effete"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A Latin verbal noun used only in the accusative and ablative cases, especially to denote purpose (e.g., dictu in mirabile dictu “wonderful to relate”).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: the adjective from Latin supinus bent backwards (related to super above); the noun from late Latin supinum, neuter of supinus.",
+  "pronounciation": "/ˈso͞oˌpīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/supine_us_1_rr.mp3"
+}

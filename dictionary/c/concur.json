@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Be of the same opinion; agree.",
+      "examples": [
+        "the authors concurred with the majority",
+        "“That's right,” the chairman concurred",
+        "they concurred in the creation of the disciplinary procedures"
+      ],
+      "synonyms": [
+        "agree",
+        "be in agreement",
+        "be in accord",
+        "be in accordance",
+        "accord",
+        "go along",
+        "fall in",
+        "be in harmony",
+        "be in sympathy"
+      ]
+    },
+    {
+      "description": "Happen or occur at the same time; coincide.",
+      "examples": [
+        "in tests, cytogenetic determination has been found to concur with enzymatic determination"
+      ],
+      "synonyms": [
+        "coincide",
+        "happen together",
+        "occur together",
+        "happen simultaneously",
+        "occur simultaneously",
+        "happen at the same time",
+        "occur at the same time",
+        "be simultaneous",
+        "be concurrent",
+        "synchronize",
+        "coexist"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the senses collide and act in combination): from Latin concurrere run together, assemble in crowds, from con- together with + currere to run.",
+  "pronounciation": "/kənˈkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcur_us_1.mp3"
+}

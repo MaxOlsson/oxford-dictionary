@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking in detail; broad and general.",
+      "examples": [
+        "the discussion was brief and undetailed"
+      ],
+      "synonyms": [
+        "broad",
+        "imprecise",
+        "inexact",
+        "rough",
+        "sweeping",
+        "overall",
+        "loose",
+        "basic",
+        "approximate",
+        "non-specific",
+        "unspecific",
+        "vague",
+        "hazy",
+        "fuzzy",
+        "woolly",
+        "ill-defined",
+        "indefinite",
+        "unfocused"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈdiːteɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undetailed_gb_1.mp3"
+}

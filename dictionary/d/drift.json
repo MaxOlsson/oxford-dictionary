@@ -1,0 +1,90 @@
+{
+  "verb": [
+    {
+      "description": "Be carried slowly by a current of air or water.",
+      "examples": [
+        "the cabin cruiser started to drift downstream",
+        "excited voices drifted down the hall"
+      ],
+      "synonyms": [
+        "be carried",
+        "be carried along",
+        "be carried away",
+        "be borne",
+        "be wafted"
+      ]
+    },
+    {
+      "description": "(especially of snow or leaves) be blown into heaps by the wind.",
+      "examples": [
+        "fallen leaves start to drift in the gutters"
+      ],
+      "synonyms": [
+        "pile up",
+        "bank up",
+        "heap up",
+        "accumulate",
+        "gather",
+        "form drifts",
+        "form heaps",
+        "amass"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A continuous slow movement from one place to another.",
+      "examples": [
+        "there was a drift to the towns"
+      ],
+      "synonyms": [
+        "movement",
+        "shift",
+        "flow",
+        "transfer",
+        "transferral",
+        "relocation",
+        "gravitation"
+      ]
+    },
+    {
+      "description": "The general intention or meaning of an argument or someone's remarks.",
+      "examples": [
+        "maybe I'm too close to the forest to see the trees, if you catch my drift",
+        "he didn't understand much Greek, but he got her drift"
+      ],
+      "synonyms": [
+        "gist",
+        "essence",
+        "core",
+        "meaning",
+        "sense",
+        "thesis",
+        "substance",
+        "significance",
+        "signification"
+      ]
+    },
+    {
+      "description": "A large mass of snow, leaves, or other material piled up or carried along by the wind.",
+      "examples": [],
+      "synonyms": [
+        "pile",
+        "heap",
+        "bank",
+        "mound",
+        "mass",
+        "accumulation",
+        "dune",
+        "ridge"
+      ]
+    },
+    {
+      "description": "A horizontal or inclined passage following a mineral vein or coal seam.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense mass of snow, leaves, etc.): originally from Old Norse drift snowdrift, something driven; in later use from Middle Dutch drift course, current, and (in drift (sense 6 of the noun)) South African Dutch drift ford; related to drive.",
+  "pronounciation": "/drift/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drift_us_1.mp3"
+}

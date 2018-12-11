@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Transfer a proton to (a molecule, group, or atom), so that a coordinate bond to the proton is formed.",
+      "examples": [
+        "the acid environment favors conversion of these anions to their protonated uncharged form"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprōtnˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/protonate_us_1.mp3"
+}

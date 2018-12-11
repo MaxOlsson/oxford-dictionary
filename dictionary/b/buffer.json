@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that prevents incompatible or antagonistic people or things from coming into contact with or harming each other.",
+      "examples": [
+        "family and friends can provide a buffer against stress"
+      ],
+      "synonyms": [
+        "cushion",
+        "bulwark"
+      ]
+    },
+    {
+      "description": "A solution that resists changes in pH when acid or alkali is added to it. Buffers typically involve a weak acid or alkali together with one of its salts.",
+      "examples": []
+    },
+    {
+      "description": "A temporary memory area in which data is stored while it is being processed or transferred, especially one used while streaming video or downloading audio.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lessen or moderate the impact of (something)",
+      "examples": [
+        "the massage helped to buffer the strain"
+      ],
+      "synonyms": [
+        "cushion",
+        "absorb",
+        "soften",
+        "lessen",
+        "diminish",
+        "moderate",
+        "mitigate",
+        "allay",
+        "deaden",
+        "muffle",
+        "stifle",
+        "shield"
+      ]
+    },
+    {
+      "description": "Treat with a chemical buffer.",
+      "examples": [
+        "add organic matter to buffer the resulting alkalinity"
+      ]
+    },
+    {
+      "description": "Store (data) in a buffer while it is being processed or transferred.",
+      "examples": [
+        "try buffering as much of the video stream as you can before you hit the 'play' button"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: probably from obsolete buff (see buffer), or from dialect buff stutter, splutter (possibly the same word). In late Middle English buffer had the sense stammerer.",
+  "pronounciation": "/ˈbəfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/buffer_us_1.mp3"
+}

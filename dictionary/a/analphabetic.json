@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Representing sounds by composite signs rather than by single letters or symbols.",
+      "examples": [
+        "Chinese has an analphabetic writing system"
+      ]
+    },
+    {
+      "description": "Completely illiterate.",
+      "examples": [],
+      "synonyms": [
+        "unable to read or write",
+        "unlettered",
+        "functionally illiterate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌænælfəˈbɛdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/analphabetic_us_1.mp3"
+}

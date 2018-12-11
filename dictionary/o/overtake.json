@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Catch up with and pass while traveling in the same direction.",
+      "examples": [
+        "the driver overtook a line of vehicles"
+      ],
+      "synonyms": [
+        "pass",
+        "get past",
+        "go past",
+        "go by",
+        "overhaul",
+        "get ahead of",
+        "pull ahead of",
+        "leave behind",
+        "outdistance",
+        "outstrip"
+      ]
+    },
+    {
+      "description": "(especially of misfortune) come suddenly or unexpectedly upon.",
+      "examples": [
+        "the pattern of economic ruin overtook them"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈtāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overtake_us_1.mp3"
+}

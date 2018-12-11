@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Milk that has naturally clotted on souring.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Curdle or cause to curdle.",
+      "examples": [
+        "she needed rainwater to clabber the milk",
+        "it had to be left to clabber before it could be churned"
+      ],
+      "synonyms": [
+        "bad",
+        "gone bad",
+        "off",
+        "gone off",
+        "turned",
+        "curdled",
+        "fermented",
+        "rancid"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: shortening of bonny clabber.",
+  "pronounciation": "/ˈklabər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clabber_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "prefix": [
+    {
+      "description": "Across; beyond.",
+      "examples": [
+        "transcontinental",
+        "transgress"
+      ]
+    },
+    {
+      "description": "Through.",
+      "examples": [
+        "transonic"
+      ]
+    },
+    {
+      "description": "Referring or relating to people whose sense of personal identity and gender does not correspond with their birth sex.",
+      "examples": [
+        "transgender",
+        "transphobia"
+      ]
+    },
+    {
+      "description": "Denoting molecules with trans arrangements of substituents.",
+      "examples": [
+        "trans-1,2-dichloroethylene"
+      ]
+    }
+  ],
+  "origin": "From Latin trans across.",
+  "pronounciation": "/træns-/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trans_1_us_2.mp3"
+}

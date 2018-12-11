@@ -1,0 +1,84 @@
+{
+  "noun": [
+    {
+      "description": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+      "examples": [
+        "both parties must sign employment contracts",
+        "a network of doctors and hospitals under contract to provide services"
+      ],
+      "synonyms": [
+        "agreement",
+        "commitment",
+        "arrangement",
+        "settlement",
+        "undertaking",
+        "understanding",
+        "compact",
+        "covenant",
+        "pact",
+        "bond"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decrease in size, number, or range.",
+      "examples": [
+        "glass contracts as it cools"
+      ],
+      "synonyms": [
+        "shrink",
+        "get smaller",
+        "become smaller"
+      ]
+    },
+    {
+      "description": "Enter into a formal and legally binding agreement.",
+      "examples": [
+        "the local authority will contract with a wide range of agencies to provide services"
+      ],
+      "synonyms": [
+        "undertake",
+        "pledge",
+        "promise",
+        "covenant",
+        "commit oneself",
+        "engage"
+      ]
+    },
+    {
+      "description": "Catch or develop (a disease or infectious agent)",
+      "examples": [
+        "three people contracted a killer virus"
+      ],
+      "synonyms": [
+        "develop",
+        "catch",
+        "get",
+        "pick up",
+        "come down with",
+        "become infected with",
+        "fall ill with",
+        "be taken ill with",
+        "be struck down with",
+        "be stricken with",
+        "succumb to"
+      ]
+    },
+    {
+      "description": "Become liable to pay (a debt)",
+      "examples": [
+        "he contracted a debt of $3,300"
+      ],
+      "synonyms": [
+        "incur",
+        "become liable to pay",
+        "acquire",
+        "fall into"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin contractus, from contract- drawn together, tightened, from the verb contrahere, from con- together + trahere draw.",
+  "pronounciation": "/ˈkäntrakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontract_us_1.mp3"
+}

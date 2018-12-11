@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) having a pleasant, distinct flavor.",
+      "examples": [
+        "a tasty snack"
+      ],
+      "synonyms": [
+        "delicious",
+        "palatable",
+        "luscious",
+        "mouth-watering",
+        "delectable",
+        "toothsome",
+        "succulent",
+        "juicy",
+        "dainty"
+      ]
+    },
+    {
+      "description": "Very attractive or appealing.",
+      "examples": [
+        "some tasty piano licks"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtāstē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tasty_us_1.mp3"
+}

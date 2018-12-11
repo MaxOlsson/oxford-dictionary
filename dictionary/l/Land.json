@@ -1,0 +1,117 @@
+{
+  "noun": [
+    {
+      "description": "The part of the earth's surface that is not covered by water, as opposed to the sea or the air.",
+      "examples": [
+        "the reptiles lay their eggs on land",
+        "after four weeks at sea we sighted land"
+      ],
+      "synonyms": [
+        "terra firma",
+        "dry land",
+        "solid ground"
+      ]
+    },
+    {
+      "description": "A country.",
+      "examples": [
+        "the valley is one of the most beautiful in the land",
+        "the lands of the Middle East",
+        "America, the land of political equality"
+      ],
+      "synonyms": [
+        "country",
+        "nation",
+        "state",
+        "nation state",
+        "fatherland",
+        "motherland",
+        "homeland",
+        "realm",
+        "kingdom",
+        "empire",
+        "republic",
+        "commonwealth",
+        "province",
+        "territory",
+        "district",
+        "region",
+        "area",
+        "domain"
+      ]
+    },
+    {
+      "description": "The space between the rifling grooves in a gun.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put (someone or something) on land from a boat.",
+      "examples": [
+        "the lifeboat landed the survivors safely ashore"
+      ]
+    },
+    {
+      "description": "Come down through the air and alight on the ground.",
+      "examples": [
+        "planes landing at the rate of two a minute"
+      ],
+      "synonyms": [
+        "touch down",
+        "alight",
+        "make a landing",
+        "come in to land",
+        "come down",
+        "come to rest",
+        "arrive"
+      ]
+    },
+    {
+      "description": "Cause someone to be in (a difficult or unwelcome situation)",
+      "examples": [
+        "his exploits always landed him in trouble"
+      ],
+      "synonyms": [
+        "bring",
+        "lead",
+        "drive",
+        "cause to be in",
+        "cause to arrive in"
+      ]
+    },
+    {
+      "description": "Inflict (a blow) on someone.",
+      "examples": [
+        "I won the fight without landing a single punch",
+        "I landed him one"
+      ],
+      "synonyms": [
+        "inflict",
+        "deal",
+        "deliver",
+        "administer",
+        "deposit",
+        "dispense",
+        "give",
+        "catch",
+        "mete out"
+      ]
+    }
+  ],
+  "phrases": [
+    "let's keep it to ourselves until we see how the land lies",
+    "He's had a hand in one long-standing magazine and one that went under, so he seemed like the perfect person to show me how the land lies in the magazine world.",
+    "Let's see how the land lies after Grafton Street opens, OK?",
+    "Your response counts, because it tells them, and the BBC how the land lies.",
+    "You know what you're doing here, you know how the land lies.",
+    "I landed up in prison",
+    "The fight got uglier when her husband and friend reached the spot and they all landed up at the police station.",
+    "Somehow the bill always lands up on the rate-payers' doormats!",
+    "They lost everything, including several houses, and ended up homeless for a while before landing up in the flat.",
+    "So - the expelled gang members became the criminal kings of the countries they landed up in."
+  ],
+  "origin": "German, literally land.",
+  "pronounciation": "/länt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/land_1_us_1.mp3"
+}

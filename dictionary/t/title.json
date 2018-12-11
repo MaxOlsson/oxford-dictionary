@@ -1,0 +1,84 @@
+{
+  "noun": [
+    {
+      "description": "The name of a book, composition, or other artistic work.",
+      "examples": [
+        "the author and title of the book"
+      ],
+      "synonyms": [
+        "name",
+        "subtitle"
+      ]
+    },
+    {
+      "description": "A name that describes someone's position or job.",
+      "examples": [
+        "Leese assumed the title of director general"
+      ]
+    },
+    {
+      "description": "The position of being the champion of a major sports competition.",
+      "examples": [
+        "Davis won the world title for the first time in 1981"
+      ],
+      "synonyms": [
+        "championship",
+        "first place",
+        "crown",
+        "belt",
+        "medal",
+        "prize",
+        "trophy",
+        "cup",
+        "shield",
+        "plate"
+      ]
+    },
+    {
+      "description": "A right or claim to the ownership of property or to a rank or throne.",
+      "examples": [
+        "a local family had title to the property",
+        "the buyer acquires a good title to the merchandise"
+      ],
+      "synonyms": [
+        "ownership of",
+        "proprietorship of",
+        "freehold of",
+        "entitlement to",
+        "right to",
+        "proprietary rights to",
+        "claim to"
+      ]
+    },
+    {
+      "description": "(in church use) a fixed sphere of work and source of income as a condition for ordination.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a name to (a book, composition, or other work)",
+      "examples": [
+        "a song titled “You Rascal, You.”"
+      ],
+      "synonyms": [
+        "call",
+        "entitle",
+        "name",
+        "dub",
+        "give something the title of",
+        "designate",
+        "label",
+        "tag",
+        "describe something as",
+        "style",
+        "term",
+        "christen",
+        "baptize"
+      ]
+    }
+  ],
+  "origin": "Old English titul, reinforced by Old French title, both from Latin titulus inscription, title. The word originally denoted a placard or inscription placed on an object, giving information about it, hence a descriptive heading in a book or other composition.",
+  "pronounciation": "/ˈtīdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/title_us_1.mp3"
+}

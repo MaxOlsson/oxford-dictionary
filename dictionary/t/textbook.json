@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A book used as a standard work for the study of a particular subject.",
+      "examples": [],
+      "synonyms": [
+        "book"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Conforming to or corresponding to a standard or type that is prescribed or widely held by theorists.",
+      "examples": [
+        "he had the presence of mind to carry out a textbook emergency descent"
+      ],
+      "synonyms": [
+        "most typical",
+        "most characteristic",
+        "representative",
+        "standard",
+        "conventional",
+        "classic",
+        "model",
+        "exemplary",
+        "quintessential",
+        "prime",
+        "copybook"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteks(t)ˌbo͝ok/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/textbook_us_1.mp3"
+}

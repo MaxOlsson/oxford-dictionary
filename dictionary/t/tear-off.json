@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting something that is removed by being torn off, typically along a perforated line.",
+      "examples": [
+        "please complete the tear-off slip"
+      ],
+      "synonyms": [
+        "unfasten",
+        "disconnect",
+        "disengage",
+        "part",
+        "separate",
+        "uncouple",
+        "remove",
+        "loose",
+        "loosen",
+        "untie",
+        "unhitch",
+        "undo",
+        "unhook",
+        "unbutton",
+        "unzip",
+        "free",
+        "sever",
+        "pull off",
+        "cut off",
+        "clip off",
+        "hack off",
+        "chop off",
+        "prune off",
+        "nip off",
+        "tear off",
+        "break off",
+        "strip off",
+        "disunite"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɛrˌɔf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tear_off_1_us_2.mp3"
+}

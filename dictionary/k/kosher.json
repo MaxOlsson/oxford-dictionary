@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "(of food, or premises in which food is sold, cooked, or eaten) satisfying the requirements of Jewish law.",
+      "examples": [
+        "a kosher kitchen"
+      ],
+      "synonyms": [
+        "allowable",
+        "allowed",
+        "permissible",
+        "permitted",
+        "acceptable",
+        "passable",
+        "tolerable",
+        "satisfactory",
+        "justifiable",
+        "defensible",
+        "supportable",
+        "well founded",
+        "tenable",
+        "sound",
+        "sensible",
+        "reasonable"
+      ]
+    },
+    {
+      "description": "Genuine and legitimate.",
+      "examples": [
+        "she consulted lawyers to make sure everything was kosher"
+      ],
+      "synonyms": [
+        "authentic",
+        "real",
+        "actual",
+        "original",
+        "pukka",
+        "bona fide",
+        "true",
+        "veritable",
+        "unfeigned",
+        "unadulterated",
+        "unalloyed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Prepare (food) according to the requirements of Jewish law.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "As an orthodox Jew, he observes Shabbat, eats kosher, and prays three times a day.",
+    "His family kept kosher, went to services and developed its community around the temple.",
+    "I worked at the Hebrew Academy Day Camp; many of the girls I dated in high school kept kosher.",
+    "He explained the rituals of eating kosher and keeping Shabbat as spiritual practices.",
+    "I figured there was no reason to mention that I now kept kosher and make a scene."
+  ],
+  "origin": "Mid 19th century: from Hebrew kāšēr proper.",
+  "pronounciation": "/ˈkoʊʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kosher_us_1.mp3"
+}

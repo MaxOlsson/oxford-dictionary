@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.",
+      "examples": [
+        "she felt a twinge of envy for the people on board"
+      ],
+      "synonyms": [
+        "jealousy",
+        "enviousness",
+        "covetousness",
+        "desire"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Desire to have a quality, possession, or other desirable attribute belonging to (someone else)",
+      "examples": [
+        "he envied people who did not have to work on weekends",
+        "I envy Jane her happiness"
+      ],
+      "synonyms": [
+        "be envious of",
+        "be jealous of"
+      ]
+    }
+  ],
+  "origin": "Middle English (also in the sense hostility, enmity): from Old French envie (noun), envier (verb), from Latin invidia, from invidere regard maliciously, grudge, from in- into + videre to see.",
+  "pronounciation": "/ˈɛnvi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/envy_us_1.mp3"
+}

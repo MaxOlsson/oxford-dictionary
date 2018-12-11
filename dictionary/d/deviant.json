@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Departing from usual or accepted standards, especially in social or sexual behavior.",
+      "examples": [
+        "deviant behavior",
+        "a deviant ideology"
+      ],
+      "synonyms": [
+        "aberrant",
+        "deviating",
+        "divergent",
+        "abnormal",
+        "atypical",
+        "untypical",
+        "non-typical",
+        "anomalous",
+        "digressive",
+        "irregular",
+        "non-standard"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A deviant person or thing.",
+      "examples": [],
+      "synonyms": [
+        "nonconformist",
+        "eccentric",
+        "maverick",
+        "individualist",
+        "exception",
+        "outsider",
+        "misfit",
+        "fish out of water",
+        "square peg in a round hole",
+        "round peg in a square hole"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin deviant- turning out of the way, from the verb deviare (see deviate).",
+  "pronounciation": "/ˈdiviənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deviant_us_1.mp3"
+}

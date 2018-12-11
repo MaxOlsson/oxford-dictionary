@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Give a brief statement of the main points of (something)",
+      "examples": [
+        "these results can be summarized in the following table",
+        "to summarize, there are three main categories"
+      ],
+      "synonyms": [
+        "sum up",
+        "abridge",
+        "condense",
+        "encapsulate",
+        "outline",
+        "give an outline of",
+        "put in a nutshell",
+        "recap",
+        "recapitulate",
+        "digest",
+        "give a summary of",
+        "make a summary of",
+        "give a synopsis of",
+        "synopsize",
+        "precis",
+        "give a precis of",
+        "give a résumé of",
+        "give an abstract of",
+        "abstract",
+        "sketch",
+        "give the main points of",
+        "give a rundown of",
+        "give the gist of",
+        "review"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəməˌrīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/summarize_us_1.mp3"
+}

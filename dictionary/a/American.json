@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the United States or its inhabitants.",
+      "examples": [
+        "the election of a new American president"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or citizen of the United States.",
+      "examples": []
+    },
+    {
+      "description": "The English language as it is used in the United States; American English.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "a workaholic lawyer who seems to be living the American dream",
+    "he could achieve the American dream only by hard work",
+    "Well, first of all, they certainly have achieved the American dream.",
+    "I believe in opportunity, a level playing field for everyone and the achievement of the American dream.",
+    "And he knew he could achieve the American dream only by hard work."
+  ],
+  "pronounciation": "/əˈmɛrəkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/american_us_1.mp3"
+}

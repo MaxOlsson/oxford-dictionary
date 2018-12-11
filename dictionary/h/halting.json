@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Slow and hesitant, especially through lack of confidence; faltering.",
+      "examples": [
+        "she speaks halting English with a heavy accent"
+      ],
+      "synonyms": [
+        "hesitant",
+        "disjointed",
+        "faltering",
+        "hesitating",
+        "stumbling",
+        "stammering",
+        "stuttering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhôltiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/halting_us_1.mp3"
+}

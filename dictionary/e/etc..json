@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "Used at the end of a list to indicate that further, similar items are included.",
+      "examples": [
+        "protect seedling from damage caused by feet, lawnmowers, pets, etc.",
+        "human beings engage in various sorts of mental activities—thinking, feeling, remembering, experiencing pain, making decisions, etc."
+      ],
+      "synonyms": [
+        "and so on",
+        "and so forth",
+        "and so on and so forth",
+        "and the rest",
+        "and the like",
+        "or the like",
+        "and suchlike",
+        "or suchlike",
+        "and more of the same",
+        "or more of the same",
+        "and similar things",
+        "or similar things",
+        "et cetera et cetera",
+        "and others",
+        "among others",
+        "et al.",
+        "etc."
+      ]
+    }
+  ],
+  "origin": "Late Middle English: short for et cetera.",
+  "pronounciation": "/ɛtˈsɛdərə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/etc_1_us_1.mp3"
+}

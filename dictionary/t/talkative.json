@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Fond of or given to talking.",
+      "examples": [
+        "the talkative driver hadn't stopped chatting"
+      ],
+      "synonyms": [
+        "chatty",
+        "loquacious",
+        "garrulous",
+        "voluble",
+        "conversational",
+        "gossipy",
+        "gossiping",
+        "chattery",
+        "chattering",
+        "babbling",
+        "blathering",
+        "gibbering",
+        "communicative"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɔkədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/talkative_us_2.mp3"
+}

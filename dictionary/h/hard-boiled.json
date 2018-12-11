@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of an egg) boiled until the white and the yolk are solid.",
+      "examples": []
+    },
+    {
+      "description": "(of a person) tough and cynical.",
+      "examples": [],
+      "synonyms": [
+        "cynical",
+        "tough",
+        "hardened",
+        "hard-bitten",
+        "hard-headed",
+        "callous",
+        "as hard as nails",
+        "unsentimental",
+        "lacking sentiment",
+        "world-weary",
+        "case-hardened",
+        "toughened by experience"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɑrd ˈˌbɔɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hard_boiled_1_us_1.mp3"
+}

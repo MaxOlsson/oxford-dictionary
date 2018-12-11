@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Fall or drop straight down at high speed.",
+      "examples": [
+        "a climber was killed when he plummeted 300 feet down an icy gully"
+      ],
+      "synonyms": [
+        "plunge",
+        "fall headlong",
+        "hurtle",
+        "nosedive",
+        "dive",
+        "drop",
+        "crash",
+        "descend rapidly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A steep and rapid fall or drop.",
+      "examples": [],
+      "synonyms": [
+        "tumble",
+        "trip",
+        "spill",
+        "topple",
+        "stumble",
+        "slip"
+      ]
+    },
+    {
+      "description": "A plumb or plumb line.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Old French plommet small sounding lead, diminutive of plomb lead. The current verb sense dates from the 1930s.",
+  "pronounciation": "/ˈpləmət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plummet_us_1.mp3"
+}

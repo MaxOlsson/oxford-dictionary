@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A short rod of wood or plastic sewn to one side of a coat or other garment, pushed through a hole or loop on the other side and twisted so as to act as a fastener.",
+      "examples": [],
+      "synonyms": [
+        "fastener",
+        "stud",
+        "link"
+      ]
+    },
+    {
+      "description": "A key or command that toggles between two modes, such as the caps lock key.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Switch from one effect, feature, or state to another by using a toggle.",
+      "examples": [
+        "the play/pause button toggles between those functions",
+        "there are a number of attributes which can be toggled on or off"
+      ]
+    },
+    {
+      "description": "Provide or fasten with a toggle or toggles.",
+      "examples": [
+        "our horses were hobbled or toggled before they were turned out to graze",
+        "a toggled coat"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (originally in nautical use): of unknown origin.",
+  "pronounciation": "/ˈtɑɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/toggle_us_1.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Grant to (someone) the use of (something) on the understanding that it shall be returned.",
+      "examples": [
+        "Stewart asked me to lend him my car",
+        "the pictures were lent to each museum in turn"
+      ],
+      "synonyms": [
+        "loan",
+        "give someone the loan of",
+        "let someone use",
+        "let someone have the use of"
+      ]
+    },
+    {
+      "description": "Contribute or add (something, especially a quality) to.",
+      "examples": [
+        "the smile lent his face a boyish charm"
+      ],
+      "synonyms": [
+        "add",
+        "impart",
+        "give",
+        "bestow",
+        "confer",
+        "provide",
+        "grant",
+        "supply",
+        "furnish",
+        "accord",
+        "offer",
+        "contribute",
+        "afford",
+        "bring",
+        "donate"
+      ]
+    },
+    {
+      "description": "Accommodate or adapt oneself to.",
+      "examples": [
+        "John stiffly lent himself to her enthusiastic embraces"
+      ]
+    }
+  ],
+  "phrases": [
+    "the Samaritans lend their ears to those in crisis",
+    "Let her know that you don't necessarily expect her to fix everything for you - you just want her to lend an ear.",
+    "Whenever I needed to talk about Aaron, which I admit was often, he always lent an ear.",
+    "He wanted to lend an ear but this wasn't part of the bargain.",
+    "But for some semblance of camaraderie, lend an ear to their tales of woe."
+  ],
+  "origin": "Old English lǣnan, of Germanic origin; related to Dutch lenen, also to loan. The addition of the final -d in late Middle English was due to association with verbs such as bend and send.",
+  "pronounciation": "/lɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lend_us_1.mp3"
+}

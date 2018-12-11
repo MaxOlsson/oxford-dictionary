@@ -1,0 +1,79 @@
+{
+  "noun": [
+    {
+      "description": "A sound as of quick light steps or taps.",
+      "examples": [
+        "the pitter-patter of tiny feet"
+      ],
+      "synonyms": [
+        "patter",
+        "tapping",
+        "pattering",
+        "drumming",
+        "drumbeat",
+        "clatter",
+        "beat",
+        "beating",
+        "tattoo",
+        "pounding",
+        "throb",
+        "pulsation",
+        "rat-a-tat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "clacketing",
+        "thrum",
+        "thrumming"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With the sound of quick light steps or taps.",
+      "examples": [
+        "footsteps that go pitter-patter"
+      ],
+      "synonyms": [
+        "palpitate",
+        "pulse",
+        "throb",
+        "vibrate",
+        "pump",
+        "undulate",
+        "surge",
+        "heave",
+        "rise and fall",
+        "ebb and flow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move with or make a pitter-patter sound.",
+      "examples": [
+        "the rain pitter-pattered on my windows"
+      ],
+      "synonyms": [
+        "patter",
+        "tap",
+        "drum",
+        "clatter",
+        "beat",
+        "pound",
+        "rattle",
+        "throb",
+        "pulsate",
+        "rat-a-tat",
+        "go pit-a-pat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "thrum"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: reduplication (expressing rhythmic repetition) of the verb patter.",
+  "pronounciation": "/ˈpidərˌpadər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pitter_patter_1_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Sully, mar, or spoil.",
+      "examples": [
+        "the land was defiled by a previous owner"
+      ],
+      "synonyms": [
+        "spoil",
+        "sully",
+        "mar",
+        "impair",
+        "debase",
+        "degrade"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A steep-sided narrow gorge or passage (originally one requiring troops to march in single file).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from French défilé (noun), défiler (verb), from dé away from + file column, file.",
+  "pronounciation": "/dəˈfīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defile_us_2.mp3"
+}

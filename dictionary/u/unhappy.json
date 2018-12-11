@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Not happy.",
+      "examples": [
+        "an unhappy marriage",
+        "Aunt Millie looked unhappy"
+      ],
+      "synonyms": [
+        "sad",
+        "miserable",
+        "sorrowful",
+        "dejected",
+        "despondent",
+        "disconsolate",
+        "morose",
+        "regretful",
+        "broken-hearted",
+        "heartbroken",
+        "down",
+        "downcast",
+        "dispirited",
+        "downhearted",
+        "heavy-hearted",
+        "crestfallen",
+        "depressed",
+        "melancholy",
+        "blue",
+        "gloomy",
+        "glum",
+        "mournful",
+        "despairing",
+        "doleful",
+        "forlorn",
+        "woebegone",
+        "woeful",
+        "tearful",
+        "long-faced",
+        "joyless",
+        "cheerless",
+        "out of sorts"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈhæpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unhappy_us_1.mp3"
+}

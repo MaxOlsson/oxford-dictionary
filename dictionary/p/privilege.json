@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A special right, advantage, or immunity granted or available only to a particular person or group.",
+      "examples": [
+        "education is a right, not a privilege",
+        "he has been accustomed all his life to wealth and privilege"
+      ],
+      "synonyms": [
+        "advantage",
+        "right",
+        "benefit",
+        "prerogative",
+        "entitlement",
+        "birthright",
+        "due"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Grant a privilege or privileges to.",
+      "examples": [
+        "English inheritance law privileged the eldest son"
+      ]
+    }
+  ],
+  "phrases": [
+    "read a book or two about racism and get out of the suburbs and check your privilege",
+    "to those who say this bill makes them feel uncomfortable, I say “Check your privilege”"
+  ],
+  "origin": "Middle English: via Old French from Latin privilegium bill or law affecting an individual, from privus private + lex, leg- law.",
+  "pronounciation": "/ˈpriv(ə)lij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/privilege_us_1.mp3"
+}

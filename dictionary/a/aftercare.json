@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Care of a patient after a stay in hospital or of a person on release from prison.",
+      "examples": [],
+      "synonyms": [
+        "maintenance",
+        "repair",
+        "repairs",
+        "service",
+        "servicing",
+        "care",
+        "preservation",
+        "conservation",
+        "running"
+      ]
+    },
+    {
+      "description": "Childcare for the period between the end of the school day and the end of a parent's working day.",
+      "examples": [
+        "an aftercare facility at the local YMCA"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaftərˌker/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aftercare_us_1.mp3"
+}

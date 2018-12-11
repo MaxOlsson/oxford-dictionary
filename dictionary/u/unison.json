@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "Simultaneous performance of action or utterance of speech.",
+      "examples": [
+        "“Yes, sir,” said the girls in unison"
+      ],
+      "synonyms": [
+        "simultaneously",
+        "at the same time",
+        "at one and the same time",
+        "at once",
+        "all at once",
+        "at the same moment",
+        "together",
+        "all together",
+        "as one",
+        "in concert",
+        "in chorus"
+      ]
+    },
+    {
+      "description": "Coincidence in pitch of sounds or notes.",
+      "examples": [
+        "the flutes play in unison with the violas"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Performed in unison.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in unison (sense 2 of the noun)): from Old French, or from late Latin unisonus, from Latin uni- one + sonus sound.",
+  "pronounciation": "/ˈyo͞onəsən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unison_us_1.mp3"
+}

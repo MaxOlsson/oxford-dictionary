@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Of or pertaining to evening.",
+      "examples": []
+    },
+    {
+      "description": "Of or pertaining to vespers.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A book containing the psalms, canticles, anthems and the like with their musical settings that are used at vespers.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈvɛspərəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vesperal_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A thing that discourages or is intended to discourage someone from doing something.",
+      "examples": [],
+      "synonyms": [
+        "disincentive",
+        "discouragement",
+        "dissuasion",
+        "damper",
+        "brake",
+        "curb",
+        "check",
+        "restraint"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Able or intended to deter.",
+      "examples": [
+        "the deterrent effect of heavy prison sentences"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Latin deterrent- deterring, from the verb deterrere (see deter).",
+  "pronounciation": "/dəˈtərənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deterrent_us_1.mp3"
+}

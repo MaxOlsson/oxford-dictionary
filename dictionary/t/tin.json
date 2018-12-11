@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A silvery-white metal, the chemical element of atomic number 50.",
+      "examples": []
+    },
+    {
+      "description": "An airtight container made of tinplate or aluminium.",
+      "examples": [
+        "Albert got out the cookie tin"
+      ],
+      "synonyms": [
+        "container",
+        "receptacle",
+        "repository",
+        "holder",
+        "carrier"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with a thin layer of tin.",
+      "examples": [
+        "the copper pans are tinned inside"
+      ],
+      "synonyms": [
+        "conserve",
+        "bottle",
+        "can",
+        "pot",
+        "chill",
+        "freeze",
+        "freeze-dry",
+        "quick-freeze",
+        "dry",
+        "desiccate",
+        "dehydrate"
+      ]
+    }
+  ],
+  "phrases": [
+    "For an antidote to the sugary Broadway show, I always wondered if at least one of the kids had a tin ear and the rhythm of a stutterer.",
+    "But our president simply has a tin ear for how to speak to people.",
+    "But when it comes to portraying certain American cultural expressions, the BBC seems to have a tin ear.",
+    "He has a tin ear for politics - no, metallurgists of the future will toil for years to discover exactly what unusual material his ears are made from.",
+    "In so many places, the lectionary seems to have a tin ear, without regard for the artistic, musical, dramatic quality of biblical texts."
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch tin and German Zinn.",
+  "pronounciation": "/tɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tin_us_1.mp3"
+}

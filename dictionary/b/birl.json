@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Spin; whirl.",
+      "examples": [
+        "my dad would have birled in his grave at the very idea"
+      ],
+      "synonyms": [
+        "rotate",
+        "turn",
+        "turn round",
+        "go round",
+        "revolve",
+        "circle",
+        "wheel",
+        "orbit",
+        "pivot",
+        "swivel",
+        "gyrate",
+        "spin",
+        "roll",
+        "twirl",
+        "pirouette"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spin or whirl.",
+      "examples": [],
+      "synonyms": [
+        "pirouette",
+        "spin",
+        "whirl",
+        "turn"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: imitative.",
+  "pronounciation": "/bərl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/birl_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "An upright pillar, typically cylindrical and made of stone or concrete, supporting an entablature, arch, or other structure or standing alone as a monument.",
+      "examples": [],
+      "synonyms": [
+        "pillar",
+        "post",
+        "pole",
+        "support",
+        "upright",
+        "vertical",
+        "baluster",
+        "pier",
+        "pile",
+        "piling",
+        "pilaster",
+        "stanchion",
+        "standard",
+        "prop",
+        "buttress"
+      ]
+    },
+    {
+      "description": "A vertical division of a page or text.",
+      "examples": []
+    },
+    {
+      "description": "One or more lines of people or vehicles moving in the same direction.",
+      "examples": [
+        "a column of tanks moved northwest",
+        "we walked in a column"
+      ],
+      "synonyms": [
+        "line",
+        "file",
+        "queue",
+        "procession",
+        "rank",
+        "row",
+        "string",
+        "chain",
+        "train",
+        "trail",
+        "progression",
+        "succession",
+        "cavalcade",
+        "parade",
+        "motorcade",
+        "carcade",
+        "cortège",
+        "convoy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: partly from Old French columpne, reinforced by its source, Latin columna pillar.",
+  "pronounciation": "/ˈkäləm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/column_us_1.mp3"
+}

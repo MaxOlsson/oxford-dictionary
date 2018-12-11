@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Study assiduously.",
+      "examples": [
+        "kids swotting for exams"
+      ],
+      "synonyms": [
+        "study",
+        "studying",
+        "education",
+        "schooling",
+        "tuition",
+        "teaching",
+        "academic work",
+        "instruction",
+        "training"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who studies hard, especially one regarded as spending too much time studying.",
+      "examples": [],
+      "synonyms": [
+        "study",
+        "get up",
+        "read up",
+        "cram"
+      ]
+    }
+  ],
+  "phrases": [
+    "teachers spend their evenings swotting up on jargon",
+    "I've always been interested in old furniture and I've swotted it up a bit"
+  ],
+  "origin": "Mid 19th century: dialect variant of sweat.",
+  "pronounciation": "/swät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swot_us_1.mp3"
+}

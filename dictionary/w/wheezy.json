@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Making the sound of a person wheezing.",
+      "examples": [
+        "a wheezy laugh"
+      ],
+      "synonyms": [
+        "out of breath",
+        "panting",
+        "puffing",
+        "gasping",
+        "gasping for breath",
+        "huffing and puffing",
+        "puffing and blowing",
+        "puffed",
+        "puffed out",
+        "gulping",
+        "gulping for breath",
+        "wheezing",
+        "choking",
+        "winded"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈ(h)wēzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wheezy_us_1.mp3"
+}

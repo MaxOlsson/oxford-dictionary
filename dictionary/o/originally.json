@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "From or in the beginning; at first.",
+      "examples": [
+        "potatoes originally came from South America"
+      ],
+      "synonyms": [
+        "at first",
+        "first",
+        "at the beginning",
+        "in the beginning",
+        "to begin with",
+        "initially",
+        "in the first place",
+        "at the start",
+        "at the outset",
+        "in the first instance",
+        "from day one"
+      ]
+    },
+    {
+      "description": "In a novel and inventive way.",
+      "examples": [
+        "suggestions so originally and persuasively outlined"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈrɪdʒ(ə)nəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/originally_us_1.mp3"
+}

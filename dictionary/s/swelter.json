@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "(of a person or the atmosphere at a particular time or place) be uncomfortably hot.",
+      "examples": [
+        "Barney sweltered in his doorman's uniform"
+      ],
+      "synonyms": [
+        "hot",
+        "stifling",
+        "suffocating",
+        "humid",
+        "steamy",
+        "sultry",
+        "sticky",
+        "muggy",
+        "close",
+        "stuffy",
+        "airless",
+        "oppressive",
+        "tropical",
+        "torrid",
+        "burning",
+        "searing",
+        "parching",
+        "like an oven",
+        "like a turkish bath",
+        "jungle-like"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An uncomfortably hot atmosphere.",
+      "examples": [
+        "the swelter of an August day"
+      ],
+      "synonyms": [
+        "hot weather",
+        "hotness",
+        "warm weather",
+        "warmth",
+        "warmness",
+        "sultriness",
+        "closeness",
+        "mugginess",
+        "humidity"
+      ]
+    }
+  ],
+  "origin": "Middle English: from the base of dialect swelt perish, of Germanic origin.",
+  "pronounciation": "/ˈswɛltər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swelter_us_1.mp3"
+}

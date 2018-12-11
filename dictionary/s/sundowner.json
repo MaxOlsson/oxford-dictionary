@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An alcoholic drink taken at sunset.",
+      "examples": []
+    },
+    {
+      "description": "A person with dementia who becomes increasingly irritable or difficult as the day progresses.",
+      "examples": []
+    },
+    {
+      "description": "A tramp arriving at a sheep station in the evening under the pretense of seeking work, so as to obtain food and shelter.",
+      "examples": [],
+      "synonyms": [
+        "tramp",
+        "drifter",
+        "down-and-out",
+        "derelict",
+        "beggar",
+        "itinerant",
+        "wanderer",
+        "nomad",
+        "wayfarer",
+        "traveller",
+        "gypsy",
+        "rover",
+        "vagabond",
+        "transient",
+        "migrant",
+        "homeless person",
+        "beachcomber",
+        "person of no fixed abode",
+        "person of no fixed address",
+        "knight of the road",
+        "bird of passage",
+        "rolling stone"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənˌdaʊnər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sundowner_us_2.mp3"
+}

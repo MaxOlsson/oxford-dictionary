@@ -1,0 +1,97 @@
+{
+  "verb": [
+    {
+      "description": "(of a person or animal) use the teeth to cut into something.",
+      "examples": [
+        "she was biting a slice of bread",
+        "the woman's arm was bitten off by an alligator",
+        "Rosa bit into a cupcake",
+        "babies learn to bite and chew about halfway through their first year"
+      ],
+      "synonyms": [
+        "sink one's teeth into",
+        "chew",
+        "munch",
+        "crunch",
+        "champ",
+        "tear at",
+        "masticate",
+        "eat"
+      ]
+    },
+    {
+      "description": "(of a tool, tire, boot, etc.) grip a surface.",
+      "examples": [
+        "once on the wet grass, my boots failed to bite"
+      ],
+      "synonyms": [
+        "grip",
+        "hold",
+        "get a purchase"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of biting something in order to eat it.",
+      "examples": [
+        "Stephen ate a hot dog in three big bites"
+      ],
+      "synonyms": [
+        "mouthful",
+        "piece",
+        "morsel",
+        "bit"
+      ]
+    },
+    {
+      "description": "A piece cut off by biting.",
+      "examples": [
+        "Robyn took a large bite out of her sandwich"
+      ]
+    },
+    {
+      "description": "A sharp or pungent flavor.",
+      "examples": [
+        "a fresh, lemony bite"
+      ],
+      "synonyms": [
+        "piquancy",
+        "pungency",
+        "spice",
+        "spiciness",
+        "saltiness",
+        "pepperiness",
+        "flavour",
+        "flavouring",
+        "savour",
+        "taste",
+        "tastiness",
+        "relish",
+        "tang",
+        "zest",
+        "sharpness",
+        "tartness",
+        "interest",
+        "edge",
+        "effect",
+        "potency"
+      ]
+    }
+  ],
+  "phrases": [
+    "Joe was bitten by the showbiz bug at the age of four",
+    "Then he got bitten by the acting bug himself.",
+    "Seems that Bob has been bitten by the sales bug after his experiences at Imvector.",
+    "In 1994, while I was a managing editor at Doubleday, I acquired my first book and was bitten by the acquisitions bug.",
+    "Have I been bitten by the Wi-Fi bug?",
+    "Melissa bit back a scathing comment",
+    "She bit the sobs back but the tears came anyway, staining her cheeks and the pillow beneath her.",
+    "He felt a pang of guilt at his deception, but bit it back.",
+    "I was going to retort with some scathing sarcasm, but I bit it back for one reason.",
+    "Toni turned surprised eyes on the uniforms and then back to Troy ready to accuse him of Gestapo tactics but bit her words back at the look of surprise mirrored in his eyes as well."
+  ],
+  "origin": "Old English bītan, of Germanic origin; related to Dutch bijten and German beissen.",
+  "pronounciation": "/baɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bite_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express a range of emotions including surprise, delight, or pain.",
+      "examples": [
+        "ooh, this is fun",
+        "ooh, my feet!"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An utterance of ooh",
+      "examples": [
+        "the oohs and aahs of the enthusiastic audience"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Utter such an exclamation.",
+      "examples": [
+        "visitors oohed and aahed at the Christmas tree"
+      ]
+    }
+  ],
+  "origin": "Natural exclamation: first recorded in English in the early 20th century.",
+  "pronounciation": "/u/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ooh_us_1.mp3"
+}

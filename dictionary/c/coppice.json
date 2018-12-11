@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An area of woodland in which the trees or shrubs are, or formerly were, periodically cut back to ground level to stimulate growth and provide firewood or timber.",
+      "examples": [],
+      "synonyms": [
+        "shrubbery",
+        "vegetation",
+        "greenery",
+        "ground cover",
+        "underwood",
+        "copsewood",
+        "brushwood",
+        "brush",
+        "scrub",
+        "underscrub",
+        "cover",
+        "covert",
+        "thicket",
+        "copse",
+        "wood",
+        "jungle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut back (a tree or shrub) to ground level periodically to stimulate growth.",
+      "examples": [
+        "the company began to coppice the woodland for conservation purposes",
+        "coppicing is sustainable and doesn't threaten the environment"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French copeiz, based on medieval Latin colpus a blow (see cope). Compare with copse.",
+  "pronounciation": "/ˈkɑpəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coppice_us_1.mp3"
+}

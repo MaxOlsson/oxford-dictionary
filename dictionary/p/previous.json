@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or occurring before in time or order.",
+      "examples": [
+        "she looked tired after her exertions of the previous evening",
+        "tickets will be sold on the same basis as in previous years"
+      ],
+      "synonyms": [
+        "foregoing",
+        "preceding",
+        "precursory",
+        "antecedent",
+        "above"
+      ]
+    },
+    {
+      "description": "Overly hasty in acting or in drawing a conclusion.",
+      "examples": [
+        "I admit I may have been a bit previous"
+      ],
+      "synonyms": [
+        "overhasty",
+        "hasty",
+        "premature",
+        "precipitate",
+        "impetuous",
+        "too early",
+        "too soon",
+        "untimely",
+        "presumptuous"
+      ]
+    }
+  ],
+  "phrases": [
+    "the month previous to publication",
+    "he seemed to have been in good health previous to the fatal injury",
+    "I have no knowledge of any of the family previous to them.",
+    "Everything he'd written previous to that was pretty much doodling.",
+    "And just to rub salt into the wounds of those envious of her, previous to joining Irish Distillers she was on the tasting panel at Guinness."
+  ],
+  "origin": "Early 17th century: from Latin praevius going before (from prae before + via way) + -ous.",
+  "pronounciation": "/ˈprēvēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/previous_us_1.mp3"
+}

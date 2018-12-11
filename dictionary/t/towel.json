@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A piece of thick absorbent cloth or paper used for drying oneself or wiping things dry.",
+      "examples": [],
+      "synonyms": [
+        "rag",
+        "dishcloth",
+        "floorcloth",
+        "wipe",
+        "sponge",
+        "duster"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wipe or dry (a person or thing) with a towel.",
+      "examples": [
+        "she toweled her hair dry",
+        "we'd towel off and dress for dinner"
+      ],
+      "synonyms": [
+        "dry off",
+        "rub"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French toaille, of Germanic origin. Sense 2 of the verb dates from the early 18th century; sense 1 from the mid 19th century.",
+  "pronounciation": "/ˈtaʊ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/towel_us_1.mp3"
+}

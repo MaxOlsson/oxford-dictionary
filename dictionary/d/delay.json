@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone or something) late or slow.",
+      "examples": [
+        "the train was delayed"
+      ],
+      "synonyms": [
+        "detain",
+        "hold up",
+        "make late",
+        "retard",
+        "keep",
+        "keep back",
+        "slow up",
+        "slow down",
+        "set back",
+        "bog down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A period of time by which something is late or postponed.",
+      "examples": [
+        "a two-hour delay",
+        "long delays in obtaining passports"
+      ],
+      "synonyms": [
+        "hold-up",
+        "wait",
+        "waiting period",
+        "detainment"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French delayer (verb).",
+  "pronounciation": "/dəˈlā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delay_us_1.mp3"
+}

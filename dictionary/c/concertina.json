@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A small musical instrument, typically polygonal in form, played by stretching and squeezing between the hands, to work a central bellows that blows air over reeds, each note being sounded by a button.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Extend, compress, or collapse in folds like those of a concertina.",
+      "examples": [
+        "big rolls of concertinaed wire",
+        "a request that the negotiations be concertinaed into a week-long session"
+      ],
+      "synonyms": [
+        "crush",
+        "squash",
+        "compact",
+        "compress"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from concert + -ina.",
+  "pronounciation": "/ˌkɑnsərˈtinə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcertina_us_1.mp3"
+}

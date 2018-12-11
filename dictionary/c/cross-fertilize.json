@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Fertilize (a plant) using pollen from another plant of the same species.",
+      "examples": [],
+      "synonyms": [
+        "hybridize",
+        "cross-breed",
+        "interbreed",
+        "cross-pollinate",
+        "intercross",
+        "mix",
+        "intermix",
+        "blend"
+      ]
+    },
+    {
+      "description": "Stimulate the development of (something) with an exchange of ideas or information.",
+      "examples": [
+        "sessions between the two groups cross-fertilize ideas and provide insights"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrɔs ˈfərdlˌaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cross_fertilize_1_us_1.mp3"
+}

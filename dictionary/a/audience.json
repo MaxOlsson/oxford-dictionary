@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting.",
+      "examples": [
+        "the orchestra was given an enthusiastic ovation from the audience"
+      ],
+      "synonyms": [
+        "spectators",
+        "listeners",
+        "viewers",
+        "onlookers",
+        "concertgoers",
+        "theatregoers",
+        "patrons"
+      ]
+    },
+    {
+      "description": "A formal interview with a person in authority.",
+      "examples": [
+        "he demanded an audience with the Pope"
+      ],
+      "synonyms": [
+        "meeting",
+        "discussion",
+        "conference",
+        "question and answer session",
+        "examination",
+        "evaluation",
+        "interrogation"
+      ]
+    },
+    {
+      "description": "Formal hearing.",
+      "examples": [],
+      "synonyms": [
+        "meeting",
+        "consultation",
+        "conference",
+        "hearing",
+        "reception",
+        "interview",
+        "question and answer session",
+        "exchange",
+        "dialogue",
+        "discussion"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin audientia, from audire hear.",
+  "pronounciation": "/ˈôdēəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/audience_us_1.mp3"
+}

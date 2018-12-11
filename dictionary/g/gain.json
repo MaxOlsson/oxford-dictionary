@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Obtain or secure (something desired, favorable, or profitable)",
+      "examples": [
+        "their blend of acoustic folk pop gained them several chart hits",
+        "a process that has gained the confidence of the industry"
+      ],
+      "synonyms": [
+        "obtain",
+        "get",
+        "acquire",
+        "come by",
+        "procure",
+        "secure",
+        "attain",
+        "achieve",
+        "earn",
+        "win",
+        "capture",
+        "clinch",
+        "pick up",
+        "carry off",
+        "reap",
+        "gather"
+      ]
+    },
+    {
+      "description": "Increase the amount or rate of (something, typically weight or speed)",
+      "examples": [
+        "I have gained weight over the years"
+      ],
+      "synonyms": [
+        "increase in",
+        "put on",
+        "add on",
+        "build up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An increase in wealth or resources.",
+      "examples": [
+        "the mayor was accused of using municipal funds for personal gain"
+      ],
+      "synonyms": [
+        "profit",
+        "earnings",
+        "income",
+        "advantage",
+        "benefit",
+        "reward",
+        "emolument",
+        "yield",
+        "return",
+        "winnings",
+        "receipts",
+        "proceeds",
+        "dividend",
+        "interest",
+        "percentage",
+        "takings"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun, originally in the sense booty): from Old French gaigne (noun), gaignier (verb), of Germanic origin.",
+  "pronounciation": "/ɡān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gain_us_1.mp3"
+}

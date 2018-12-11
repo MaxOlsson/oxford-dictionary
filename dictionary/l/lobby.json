@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A room providing a space out of which one or more other rooms or corridors lead, typically one near the entrance of a public building.",
+      "examples": [],
+      "synonyms": [
+        "entrance hall",
+        "hallway",
+        "hall",
+        "entrance",
+        "vestibule",
+        "foyer",
+        "reception area",
+        "outer room",
+        "waiting room",
+        "anteroom",
+        "antechamber",
+        "porch"
+      ]
+    },
+    {
+      "description": "A group of people seeking to influence politicians or public officials on a particular issue.",
+      "examples": [
+        "members of the anti-abortion lobby",
+        "lobby groups"
+      ],
+      "synonyms": [
+        "pressure group",
+        "interest group",
+        "interest",
+        "movement",
+        "campaign",
+        "crusade",
+        "lobbyists",
+        "supporters"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Seek to influence (a politician or public official) on an issue.",
+      "examples": [
+        "it is recommending that booksellers lobby their representatives",
+        "a group lobbying for better rail services"
+      ],
+      "synonyms": [
+        "seek to influence",
+        "try to persuade",
+        "bring pressure to bear on",
+        "importune",
+        "persuade",
+        "influence",
+        "sway"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense monastic cloister): from medieval Latin lobia, lobium covered walk, portico. The verb sense (originally US) derives from the practice of frequenting the lobby of a house of legislature to influence its members into supporting a cause.",
+  "pronounciation": "/ˈläbē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lobby_us_1.mp3"
+}

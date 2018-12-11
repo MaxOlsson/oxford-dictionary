@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Done, given, or acting of one's own free will.",
+      "examples": [
+        "we are funded by voluntary contributions"
+      ],
+      "synonyms": [
+        "optional",
+        "discretionary",
+        "at one's discretion",
+        "elective",
+        "non-compulsory",
+        "non-mandatory",
+        "not required",
+        "open",
+        "open to choice",
+        "volitional",
+        "up to the individual"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An organ solo played before, during, or after a church service.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French volontaire or Latin voluntarius, from voluntas will.",
+  "pronounciation": "/ˈvɑlənˌtɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/voluntary_us_1.mp3"
+}

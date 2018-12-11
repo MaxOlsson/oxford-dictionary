@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "With no part left out; whole.",
+      "examples": [
+        "my plans are to travel the entire world"
+      ],
+      "synonyms": [
+        "whole",
+        "complete",
+        "total",
+        "full"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An uncastrated male horse.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (formerly also as intire): from Old French entier, based on Latin integer untouched, whole, from in- not + tangere to touch.",
+  "pronounciation": "/ənˈtaɪ(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/entire_us_1.mp3"
+}

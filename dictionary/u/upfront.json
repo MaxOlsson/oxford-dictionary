@@ -1,0 +1,65 @@
+{
+  "adverb": [
+    {
+      "description": "At the front; in front.",
+      "examples": [
+        "I was sitting up front"
+      ],
+      "synonyms": [
+        "ahead",
+        "to the fore",
+        "at the fore",
+        "at the head",
+        "up ahead",
+        "at twelve o'clock",
+        "in the vanguard",
+        "in the van",
+        "in the lead",
+        "leading",
+        "coming first"
+      ]
+    },
+    {
+      "description": "(of a payment) in advance.",
+      "examples": [
+        "the salesmen are paid commission up front"
+      ],
+      "synonyms": [
+        "in advance",
+        "beforehand",
+        "ahead of time",
+        "in readiness"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Bold, honest, and frank.",
+      "examples": [
+        "he'd been upfront about his intentions"
+      ],
+      "synonyms": [
+        "honest",
+        "frank",
+        "candid",
+        "open",
+        "truthful",
+        "sincere",
+        "on the level",
+        "honest-to-goodness"
+      ]
+    },
+    {
+      "description": "(of a payment) made in advance.",
+      "examples": []
+    },
+    {
+      "description": "At the front or the most prominent position.",
+      "examples": [
+        "a literary weekly with an upfront section modeled on the New Yorker"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəpˈfrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upfront_us_1.mp3"
+}

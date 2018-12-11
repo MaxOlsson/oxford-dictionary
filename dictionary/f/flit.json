@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Move swiftly and lightly.",
+      "examples": [
+        "small birds flitted about in the branches",
+        "the idea had flitted through his mind"
+      ],
+      "synonyms": [
+        "dart",
+        "dance",
+        "skip",
+        "play",
+        "dash",
+        "trip",
+        "flick",
+        "skim",
+        "flutter",
+        "bob",
+        "bounce",
+        "spring",
+        "scoot",
+        "hop",
+        "gambol",
+        "caper",
+        "cavort",
+        "prance",
+        "frisk",
+        "scamper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of leaving one's home or moving, typically secretly so as to escape creditors or obligations.",
+      "examples": [
+        "moonlight flits from one insalubrious dwelling to another"
+      ],
+      "synonyms": [
+        "escape",
+        "breakout",
+        "break",
+        "bolt for freedom",
+        "running away",
+        "flight",
+        "bolting",
+        "absconding",
+        "decamping",
+        "fleeing",
+        "flit"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the Scots and northern English sense): from Old Norse flytja; related to fleet.",
+  "pronounciation": "/flit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flit_us_1.mp3"
+}

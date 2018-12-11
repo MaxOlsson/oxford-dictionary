@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "Bend one's head or body forward and downward.",
+      "examples": [
+        "he stooped down and reached toward the coin",
+        "Linda stooped to pick up the bottles",
+        "the man stoops his head"
+      ],
+      "synonyms": [
+        "bend down",
+        "bend",
+        "lean over",
+        "lean down",
+        "kneel",
+        "crouch down",
+        "squat down",
+        "hunker down",
+        "hunch down"
+      ]
+    },
+    {
+      "description": "Lower one's moral standards so far as to do something reprehensible.",
+      "examples": [
+        "Craig wouldn't stoop to thieving",
+        "she was unwilling to believe that anyone could stoop so low as to steal from a dead woman"
+      ],
+      "synonyms": [
+        "lower oneself",
+        "sink",
+        "descend",
+        "resort"
+      ]
+    },
+    {
+      "description": "(of a bird of prey) swoop down on a quarry.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A posture in which the head and shoulders are habitually bent forward.",
+      "examples": [
+        "a tall, thin man with a stoop"
+      ],
+      "synonyms": [
+        "hunch",
+        "droop of the shoulders",
+        "sag of the shoulders"
+      ]
+    },
+    {
+      "description": "The downward swoop of a bird of prey.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 18th century: from Dutch stoep (see stoep).",
+  "pronounciation": "/stup/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stoop_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A part or element of a larger whole, especially a part of a machine or vehicle.",
+      "examples": [
+        "stereo components"
+      ],
+      "synonyms": [
+        "part",
+        "piece",
+        "bit",
+        "constituent",
+        "element",
+        "ingredient"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Constituting part of a larger whole; constituent.",
+      "examples": [
+        "light passed through a prism breaks up into its component colors"
+      ],
+      "synonyms": [
+        "constituent",
+        "integral"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin component- putting together, from the verb componere, from com- together + ponere put. Compare with compound.",
+  "pronounciation": "/kəmˈpoʊnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/component_us_1.mp3"
+}

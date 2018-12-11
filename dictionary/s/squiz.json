@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A look or glance.",
+      "examples": [
+        "take a squiz out that window"
+      ],
+      "synonyms": [
+        "glance",
+        "observation",
+        "view",
+        "examination",
+        "study",
+        "inspection",
+        "scan",
+        "survey",
+        "sight",
+        "peep",
+        "peek",
+        "glimpse",
+        "gaze",
+        "stare",
+        "gape",
+        "ogle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Look or glance at.",
+      "examples": [
+        "the mechanic squizzed the plane's cargo"
+      ],
+      "synonyms": [
+        "take a quick look",
+        "look quickly",
+        "look briefly",
+        "peek",
+        "peep"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: probably a blend of quiz and squint.",
+  "pronounciation": "/skwɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squiz_gb_1_8.mp3"
+}

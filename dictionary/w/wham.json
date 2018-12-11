@@ -1,0 +1,31 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express the sound of a forcible impact.",
+      "examples": [
+        "the bombs landed—wham!—right on target"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Strike something forcefully.",
+      "examples": [
+        "trucks whammed into each other"
+      ],
+      "synonyms": [
+        "thump",
+        "clunk",
+        "clonk",
+        "crash",
+        "smash",
+        "smack",
+        "bang",
+        "thunder"
+      ]
+    }
+  ],
+  "origin": "1920s: imitative.",
+  "pronounciation": "/(h)wam/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wham_us_1.mp3"
+}

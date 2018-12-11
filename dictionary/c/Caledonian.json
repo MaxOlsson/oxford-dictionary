@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly in names or geographical terms) relating to Scotland or the Scottish Highlands.",
+      "examples": [
+        "the Caledonian Railway"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a mountain-forming period (orogeny) in northwestern Europe and Greenland during the Lower Palaeozoic era, especially the late Silurian.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person from Scotland.",
+      "examples": []
+    },
+    {
+      "description": "The Caledonian orogeny.",
+      "examples": []
+    }
+  ],
+  "origin": "From Caledonia, the Latin name for northern Britain, + -an.",
+  "pronounciation": "/ˌkæləˈdoʊniən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caledonian_us_1.mp3"
+}

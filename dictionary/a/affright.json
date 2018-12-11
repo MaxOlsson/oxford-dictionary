@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Frighten (someone)",
+      "examples": [
+        "ghosts could never affright her"
+      ],
+      "synonyms": [
+        "frightened",
+        "scared",
+        "scared stiff",
+        "terrified",
+        "fearful",
+        "petrified",
+        "nervous",
+        "scared to death"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Fright.",
+      "examples": [
+        "the deer gazed at us in affright"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: in early use from āfyrhted frightened in Old English; later by vague form association with fright.",
+  "pronounciation": "/əˈfrīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affright_us_1.mp3"
+}

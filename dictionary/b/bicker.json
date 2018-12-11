@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Argue about petty and trivial matters.",
+      "examples": [
+        "whenever the phone rings, they bicker over who must answer it",
+        "the constant bickering between Edgar and his mother"
+      ],
+      "synonyms": [
+        "squabble",
+        "argue"
+      ]
+    },
+    {
+      "description": "(of water) flow or fall with a gentle repetitive noise; patter.",
+      "examples": [
+        "against the glass the rain did beat and bicker"
+      ],
+      "synonyms": [
+        "pitter-patter",
+        "tap",
+        "drum",
+        "clatter",
+        "beat",
+        "pound",
+        "rattle",
+        "throb",
+        "pulsate",
+        "rat-a-tat",
+        "go pit-a-pat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "thrum"
+      ]
+    }
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/ˈbɪkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bicker_us_1.mp3"
+}

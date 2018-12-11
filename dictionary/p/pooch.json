@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A dog.",
+      "examples": [],
+      "synonyms": [
+        "hound",
+        "canine",
+        "mongrel",
+        "cur",
+        "tyke"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Protrude or cause to protrude.",
+      "examples": [
+        "a dress that made her stomach pooch out even more than usual"
+      ],
+      "synonyms": [
+        "stick out",
+        "jut",
+        "jut out",
+        "poke out",
+        "project",
+        "stand out",
+        "come through",
+        "peek",
+        "poke",
+        "stick up",
+        "hang out",
+        "loom",
+        "loom out",
+        "extend",
+        "obtrude"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from the noun pouch.",
+  "pronounciation": "/po͞oCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pooch_us_1.mp3"
+}

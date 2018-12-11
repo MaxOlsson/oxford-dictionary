@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Feel or cause to feel in need of rest or sleep.",
+      "examples": [
+        "soon the ascent grew steeper and he began to tire",
+        "the journey had tired her",
+        "the training tired us out"
+      ],
+      "synonyms": [
+        "exhausting",
+        "wearying",
+        "fatiguing",
+        "enervating",
+        "draining",
+        "sapping",
+        "stressful",
+        "wearing",
+        "trying",
+        "crushing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rubber covering, typically inflated or surrounding an inflated inner tube, placed around a wheel to form a flexible contact with the road.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century (denoting the curved pieces of iron plate with which carriage wheels were formerly shod): perhaps a variant of archaic tire, shortening of attire (because the tire was the clothing of the wheel).",
+  "pronounciation": "/ˈtaɪ(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tire_us_1.mp3"
+}

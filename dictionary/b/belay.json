@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Fix (a running rope) around a cleat, rock, pin, or other object, to secure it.",
+      "examples": []
+    },
+    {
+      "description": "Stop; enough!",
+      "examples": [
+        "“Belay that, mister. Man your post.”"
+      ],
+      "synonyms": [
+        "abstain",
+        "refrain",
+        "forbear",
+        "hold back",
+        "keep"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of belaying.",
+      "examples": [
+        "the leader may require belays to tackle more difficult sections"
+      ]
+    },
+    {
+      "description": "A spike of rock or other hard material used for belaying.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (originally in nautical use): from be- + lay, on the pattern of Dutch beleggen.",
+  "pronounciation": "/bəˈlā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/belay_us_2.mp3"
+}

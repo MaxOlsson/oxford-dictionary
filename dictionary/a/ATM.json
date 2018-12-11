@@ -1,0 +1,20 @@
+{
+  "abbreviation": [
+    {
+      "description": "Atmosphere(s), as a unit of pressure.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A machine that dispenses cash or performs other banking services when an account holder inserts a bank card.",
+      "examples": [
+        "they tried to withdraw cash from an ATM using the stolen cards",
+        "he took out $200 from an ATM machine"
+      ]
+    }
+  ],
+  "origin": "1970s: short for automated teller machine.",
+  "pronounciation": "/ˌāˌtēˈem/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/atm_us_1.mp3"
+}

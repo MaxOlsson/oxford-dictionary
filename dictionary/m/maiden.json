@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A girl or young woman, especially an unmarried one.",
+      "examples": [],
+      "synonyms": [
+        "girl",
+        "young woman",
+        "young lady",
+        "miss"
+      ]
+    },
+    {
+      "description": "An over in which no runs are scored.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a woman, especially an older one) unmarried.",
+      "examples": [
+        "a maiden aunt"
+      ],
+      "synonyms": [
+        "unmarried",
+        "spinster",
+        "unwed",
+        "unwedded",
+        "single",
+        "husbandless",
+        "spouseless",
+        "celibate"
+      ]
+    },
+    {
+      "description": "Being or involving the first attempt or act of its kind.",
+      "examples": [
+        "the ship's maiden voyage"
+      ],
+      "synonyms": [
+        "first",
+        "initial",
+        "inaugural",
+        "introductory",
+        "initiatory",
+        "proving"
+      ]
+    }
+  ],
+  "origin": "Old English mægden, from a Germanic diminutive meaning maid, virgin; related to German Mädchen, diminutive of Magd maid, from an Indo-European root shared by Old Irish mug boy, servant.",
+  "pronounciation": "/ˈmeɪdn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maiden_us_1.mp3"
+}

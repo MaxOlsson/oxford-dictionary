@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Happening by chance, unintentionally, or unexpectedly.",
+      "examples": [
+        "a verdict of accidental death",
+        "the damage might have been accidental"
+      ],
+      "synonyms": [
+        "fortuitous",
+        "chance",
+        "occurring by accident",
+        "occurring by chance",
+        "adventitious",
+        "fluky",
+        "coincidental",
+        "casual",
+        "serendipitous",
+        "random",
+        "aleatory"
+      ]
+    },
+    {
+      "description": "Incidental; subsidiary.",
+      "examples": [
+        "the location is accidental and contributes nothing to the tension between the characters in the poem"
+      ],
+      "synonyms": [
+        "incidental",
+        "unimportant",
+        "by the way",
+        "by the by",
+        "supplementary",
+        "subsidiary",
+        "subordinate",
+        "secondary",
+        "marginal",
+        "minor",
+        "lesser",
+        "accessory",
+        "peripheral",
+        "tangential",
+        "extraneous",
+        "extrinsic",
+        "parenthetical",
+        "irrelevant",
+        "immaterial",
+        "beside the point",
+        "of little account",
+        "unnecessary",
+        "non-essential",
+        "inessential"
+      ]
+    },
+    {
+      "description": "(in Aristotelian thought) relating to or denoting properties which are not essential to a thing's nature.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sign indicating a momentary departure from the key signature by raising or lowering a note.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in accidental (sense 2 of the adjective and accidental sense 3 of the adjective)): from late Latin accidentalis, from Latin accident- happening (see accident).",
+  "pronounciation": "/ˌaksəˈden(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accidental_us_1.mp3"
+}

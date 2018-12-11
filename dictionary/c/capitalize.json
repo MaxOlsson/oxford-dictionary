@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Take the chance to gain advantage from.",
+      "examples": [
+        "an attempt by the opposition to capitalize on the government's embarrassment"
+      ],
+      "synonyms": [
+        "take advantage of",
+        "profit from",
+        "turn to account",
+        "make capital out of",
+        "make the most of",
+        "exploit",
+        "benefit from",
+        "put to advantage"
+      ]
+    },
+    {
+      "description": "Provide (a company) with capital.",
+      "examples": [
+        "a highly capitalized industry"
+      ],
+      "synonyms": [
+        "finance",
+        "fund",
+        "underwrite",
+        "provide capital for",
+        "back",
+        "sponsor"
+      ]
+    },
+    {
+      "description": "Realize (the present value of an income); convert into capital.",
+      "examples": [],
+      "synonyms": [
+        "cash in",
+        "convert into cash"
+      ]
+    },
+    {
+      "description": "Write or print (a word or letter) in capital letters.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkapədlˌīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/capitalize_us_1.mp3"
+}

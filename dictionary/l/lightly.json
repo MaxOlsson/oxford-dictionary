@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "Gently, delicately or softly.",
+      "examples": [
+        "she placed her hand lightly on my shoulder"
+      ],
+      "synonyms": [
+        "softly",
+        "gently",
+        "faintly",
+        "delicately"
+      ]
+    },
+    {
+      "description": "In relatively small amounts or in low density; sparingly.",
+      "examples": [
+        "it was snowing lightly"
+      ]
+    },
+    {
+      "description": "In a way that is not serious or solemn; carelessly.",
+      "examples": [
+        "it is not something that should be taken lightly"
+      ]
+    },
+    {
+      "description": "Without severe punishment; leniently.",
+      "examples": [
+        "some people are let off lightly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlaɪtli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lightly_us_1.mp3"
+}

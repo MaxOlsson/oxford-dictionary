@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of needing or wanting to drink something.",
+      "examples": [
+        "they quenched their thirst with spring water"
+      ],
+      "synonyms": [
+        "thirstiness",
+        "dryness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person or animal) feel a need to drink something.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English thurst (noun), thyrstan (verb), of Germanic origin; related to Dutch dorst, dorsten and German Durst, dürsten.",
+  "pronounciation": "/THərst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thirst_us_1.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "(of a situation or course of action) filled with or likely to result in (something undesirable)",
+      "examples": [
+        "marketing any new product is fraught with danger"
+      ],
+      "synonyms": [
+        "full of",
+        "filled with",
+        "swarming with",
+        "rife with",
+        "thick with",
+        "bristling with",
+        "charged with",
+        "loaded with",
+        "brimful of",
+        "brimming with"
+      ]
+    },
+    {
+      "description": "Causing or affected by anxiety or stress.",
+      "examples": [
+        "there was a fraught silence",
+        "she sounded a bit fraught"
+      ],
+      "synonyms": [
+        "anxious",
+        "worried",
+        "upset",
+        "distraught",
+        "overwrought",
+        "agitated",
+        "distressed",
+        "distracted",
+        "desperate",
+        "frantic",
+        "panic-stricken",
+        "panic-struck",
+        "panicky"
+      ]
+    }
+  ],
+  "origin": "Late Middle English, laden, equipped, past participle of obsolete fraught load with cargo, from Middle Dutch vrachten, from vracht ship's cargo. Compare with freight.",
+  "pronounciation": "/frôt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fraught_us_1.mp3"
+}

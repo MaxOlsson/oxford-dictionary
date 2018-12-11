@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A person who is unduly anxious about their health.",
+      "examples": [],
+      "synonyms": [
+        "hypochondriac",
+        "neurotic",
+        "invalid",
+        "valetudinary"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Showing undue concern about one's health.",
+      "examples": [
+        "the valetudinarian English"
+      ],
+      "synonyms": [
+        "hypochondriac",
+        "self-obsessed",
+        "neurotic",
+        "obsessed with one's health"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Latin valetudinarius in ill health (from valetudo health, from valere be well) + -an.",
+  "pronounciation": "/ˌvaləˌt(y)o͞odnˈerēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/valetudinarian_us_1.mp3"
+}

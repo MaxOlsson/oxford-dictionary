@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+      "examples": [
+        "20th century popular culture"
+      ],
+      "synonyms": [
+        "the arts",
+        "the humanities"
+      ]
+    },
+    {
+      "description": "The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.",
+      "examples": [
+        "Caribbean culture",
+        "people from many different cultures"
+      ],
+      "synonyms": [
+        "civilization",
+        "society",
+        "way of life",
+        "lifestyle"
+      ]
+    },
+    {
+      "description": "The cultivation of bacteria, tissue cells, etc. in an artificial medium containing nutrients.",
+      "examples": [
+        "the cells proliferate readily in culture"
+      ]
+    },
+    {
+      "description": "The cultivation of plants.",
+      "examples": [
+        "this variety of lettuce is popular for its ease of culture"
+      ],
+      "synonyms": [
+        "cultivation",
+        "growing",
+        "farming"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Maintain (tissue cells, bacteria, etc.) in conditions suitable for growth.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (denoting a cultivated piece of land): the noun from French culture or directly from Latin cultura growing, cultivation; the verb from obsolete French culturer or medieval Latin culturare, both based on Latin colere tend, cultivate (see cultivate). In late Middle English the sense was cultivation of the soil and from this (early 16th century), arose cultivation (of the mind, faculties, or manners); culture (sense 1 of the noun) dates from the early 19th century.",
+  "pronounciation": "/ˈkəltʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_culture_1_us_1.mp3"
+}

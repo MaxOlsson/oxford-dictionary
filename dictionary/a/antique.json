@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age.",
+      "examples": [
+        "Pauline loves collecting antiques",
+        "an antique dealer"
+      ],
+      "synonyms": [
+        "collector's item",
+        "period piece",
+        "museum piece",
+        "antiquity",
+        "object of virtu"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a collectible object) having a high value because of considerable age.",
+      "examples": [
+        "an antique clock"
+      ]
+    },
+    {
+      "description": "Belonging to ancient times.",
+      "examples": [
+        "statues of antique gods"
+      ],
+      "synonyms": [
+        "ancient",
+        "of long ago"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) resemble an antique by artificial means.",
+      "examples": [
+        "sanding will change the luster of the sanded spot, especially if the finish has been antiqued",
+        "an antiqued door"
+      ]
+    },
+    {
+      "description": "Search or shop for antiques.",
+      "examples": [
+        "they went antiquing almost every weekend",
+        "I antiqued all day with my mother"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as an adjective): from Latin antiquus, anticus former, ancient, from ante before.",
+  "pronounciation": "/ænˈtik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/antique_us_1.mp3"
+}

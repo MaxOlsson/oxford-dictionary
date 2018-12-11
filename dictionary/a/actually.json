@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "As the truth or facts of a situation; really.",
+      "examples": [
+        "we must pay attention to what young people are actually doing"
+      ],
+      "synonyms": [
+        "indeed",
+        "you could say",
+        "possibly",
+        "more precisely",
+        "veritably",
+        "in truth",
+        "or rather",
+        "nay"
+      ]
+    },
+    {
+      "description": "Used to emphasize that something someone has said or done is surprising.",
+      "examples": [
+        "he actually expected me to be pleased about it!"
+      ],
+      "synonyms": [
+        "literally",
+        "to all intents and purposes",
+        "in effect"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæk(t)ʃ(u)əli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/actually_us_1.mp3"
+}

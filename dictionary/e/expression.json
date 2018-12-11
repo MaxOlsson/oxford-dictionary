@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "The process of making known one's thoughts or feelings.",
+      "examples": [
+        "she accepted his expressions of sympathy",
+        "his views found expression in his moral sermons"
+      ],
+      "synonyms": [
+        "utterance",
+        "uttering",
+        "voicing",
+        "pronouncement",
+        "declaration",
+        "articulation",
+        "verbalization",
+        "statement",
+        "proclamation",
+        "assertion",
+        "announcement",
+        "setting forth",
+        "venting",
+        "mouthing"
+      ]
+    },
+    {
+      "description": "A look on someone's face that conveys a particular emotion.",
+      "examples": [
+        "a sad expression"
+      ],
+      "synonyms": [
+        "look",
+        "appearance",
+        "air",
+        "manner",
+        "bearing",
+        "countenance",
+        "guise",
+        "cast",
+        "aspect",
+        "impression"
+      ]
+    },
+    {
+      "description": "A word or phrase, especially an idiomatic one, used to convey an idea.",
+      "examples": [
+        "nowhere is the expression “garbage in, garbage out” any truer"
+      ],
+      "synonyms": [
+        "idiom",
+        "phrase",
+        "idiomatic expression",
+        "set phrase"
+      ]
+    },
+    {
+      "description": "The production of something, especially by pressing or squeezing it out.",
+      "examples": [
+        "essential oils obtained by distillation or expression"
+      ],
+      "synonyms": [
+        "squeezing",
+        "pressing",
+        "wringing",
+        "forcing out",
+        "extraction",
+        "extracting"
+      ]
+    },
+    {
+      "description": "The appearance in a phenotype of a characteristic or effect attributed to a particular gene.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin expressio(n-), from exprimere press out, express. Compare with express.",
+  "pronounciation": "/ɪkˈsprɛʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expression_us_1.mp3"
+}

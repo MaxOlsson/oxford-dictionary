@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Low in status or importance; humble.",
+      "examples": [
+        "she was too good for her lowly position"
+      ],
+      "synonyms": [
+        "humble",
+        "low",
+        "low-born",
+        "low-bred",
+        "low-ranking",
+        "plebeian",
+        "proletarian",
+        "peasant",
+        "poor"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To a low degree; in a low manner.",
+      "examples": [
+        "lowly paid workers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlōlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lowly_us_1.mp3"
+}

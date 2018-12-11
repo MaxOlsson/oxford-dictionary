@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Act dishonestly or unfairly in order to gain an advantage, especially in a game or examination.",
+      "examples": [
+        "she always cheats at cards"
+      ]
+    },
+    {
+      "description": "Avoid (something undesirable) by luck or skill.",
+      "examples": [
+        "she cheated death in a spectacular crash"
+      ],
+      "synonyms": [
+        "avoid",
+        "escape",
+        "evade",
+        "elude",
+        "steer clear of",
+        "dodge",
+        "duck",
+        "miss",
+        "sidestep",
+        "bypass",
+        "skirt",
+        "shun",
+        "eschew"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who behaves dishonestly in order to gain an advantage.",
+      "examples": [
+        "a liar and a cheat"
+      ],
+      "synonyms": [
+        "swindler",
+        "cheater",
+        "fraudster",
+        "trickster",
+        "confidence trickster",
+        "deceiver",
+        "hoaxer",
+        "hoodwinker",
+        "double-dealer",
+        "double-crosser",
+        "sham",
+        "fraud",
+        "fake",
+        "crook",
+        "rogue",
+        "charlatan",
+        "quack",
+        "mountebank",
+        "racketeer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: shortening of escheat (the original sense).",
+  "pronounciation": "/CHēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cheat_us_1.mp3"
+}

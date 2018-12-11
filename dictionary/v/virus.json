@@ -1,0 +1,17 @@
+{
+  "noun": [
+    {
+      "description": "An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.",
+      "examples": [
+        "a virus infection"
+      ]
+    },
+    {
+      "description": "A piece of code which is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting the venom of a snake): from Latin, literally slimy liquid, poison. The earlier medical sense, superseded by the current use as a result of improved scientific understanding, was a substance produced in the body as the result of disease, especially one capable of infecting others.",
+  "pronounciation": "/ˈvīrəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/virus_us_1.mp3"
+}

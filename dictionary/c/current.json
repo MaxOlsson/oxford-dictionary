@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Belonging to the present time; happening or being used or done now.",
+      "examples": [
+        "keep abreast of current events",
+        "I started my current job last year"
+      ],
+      "synonyms": [
+        "contemporary",
+        "present-day",
+        "present",
+        "contemporaneous",
+        "ongoing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A body of water or air moving in a definite direction, especially through a surrounding body of water or air in which there is less movement.",
+      "examples": [
+        "ocean currents"
+      ],
+      "synonyms": [
+        "steady flow",
+        "stream",
+        "backdraught",
+        "slipstream"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the adjective sense running, flowing): from Old French corant running, from courre run, from Latin currere run.",
+  "pronounciation": "/ˈkərənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/current_us_1.mp3"
+}

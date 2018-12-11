@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A handheld firework that emits sparks.",
+      "examples": []
+    },
+    {
+      "description": "A gemstone, especially a diamond.",
+      "examples": [],
+      "synonyms": [
+        "gem",
+        "gemstone",
+        "precious stone",
+        "semi-precious stone",
+        "stone",
+        "brilliant"
+      ]
+    },
+    {
+      "description": "A sparkling wine.",
+      "examples": [],
+      "synonyms": [
+        "champagne",
+        "sparkling wine"
+      ]
+    },
+    {
+      "description": "A nozzle attached to the spout on a beer pump to give the beer a frothy head.",
+      "examples": [],
+      "synonyms": [
+        "nozzle",
+        "head",
+        "spray",
+        "rose",
+        "atomizer",
+        "sprinkler",
+        "sprinkler head",
+        "spout",
+        "nose"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspärk(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sparkler_us_1.mp3"
+}

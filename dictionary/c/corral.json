@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Gather together and confine (a group of people or things)",
+      "examples": [
+        "the organizers were corralling the crowd into marching formation"
+      ]
+    },
+    {
+      "description": "Put or keep (livestock) in a corral.",
+      "examples": [],
+      "synonyms": [
+        "enclose",
+        "confine",
+        "lock up",
+        "shut up",
+        "shut in",
+        "fence in",
+        "pen",
+        "pen in",
+        "rail in",
+        "wall in",
+        "cage",
+        "cage in",
+        "coop up",
+        "mew in",
+        "kettle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pen for livestock, especially cattle or horses, on a farm or ranch.",
+      "examples": [],
+      "synonyms": [
+        "enclosure",
+        "pen",
+        "fold",
+        "compound",
+        "pound",
+        "stockade",
+        "paddock"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Spanish and Old Portuguese (now curral), perhaps based on Latin currere to run. Compare with kraal.",
+  "pronounciation": "/kəˈral/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corral_us_1.mp3"
+}

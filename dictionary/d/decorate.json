@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) look more attractive by adding extra items or images to it.",
+      "examples": [],
+      "synonyms": [
+        "ornament",
+        "adorn",
+        "trim",
+        "embellish",
+        "garnish",
+        "furnish",
+        "accessorize",
+        "enhance",
+        "grace",
+        "enrich"
+      ]
+    },
+    {
+      "description": "Confer an award or medal on (a member of the armed forces)",
+      "examples": [
+        "he was decorated for outstanding bravery"
+      ],
+      "synonyms": [
+        "give a medal to",
+        "pin a medal on",
+        "honour",
+        "confer an award on"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense to grace or honor): from Latin decoratus embellished (past participle of decorare), from decus, decor- beauty, honor, or embellishment.",
+  "pronounciation": "/ˈdɛkəˌreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decorate_us_1.mp3"
+}

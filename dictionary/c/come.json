@@ -1,0 +1,130 @@
+{
+  "verb": [
+    {
+      "description": "Move or travel toward or into a place thought of as near or familiar to the speaker.",
+      "examples": [
+        "Jessica came into the kitchen",
+        "I came here on holiday with my parents",
+        "he came rushing out"
+      ],
+      "synonyms": [
+        "move nearer",
+        "move closer",
+        "approach",
+        "advance",
+        "near",
+        "draw nigh",
+        "draw close",
+        "draw closer",
+        "draw near",
+        "draw nearer"
+      ]
+    },
+    {
+      "description": "Occur; happen; take place.",
+      "examples": [
+        "twilight had not yet come",
+        "a chance like this doesn't come along every day",
+        "waiting for a crash that never came"
+      ],
+      "synonyms": [
+        "happen",
+        "occur",
+        "take place",
+        "come about",
+        "transpire",
+        "fall",
+        "present itself",
+        "crop up",
+        "materialize",
+        "arise",
+        "arrive",
+        "appear",
+        "surface",
+        "ensue",
+        "follow"
+      ]
+    },
+    {
+      "description": "Take or occupy a specified position in space, order, or priority.",
+      "examples": [
+        "prisons come far down the list of priorities",
+        "I make sure my kids come first"
+      ]
+    },
+    {
+      "description": "Pass into a specified state, especially one of separation or disunion.",
+      "examples": [
+        "his shirt had come undone"
+      ],
+      "synonyms": [
+        "break up",
+        "fall to bits",
+        "fall to pieces",
+        "come to bits",
+        "come to pieces",
+        "disintegrate",
+        "splinter",
+        "come unstuck",
+        "crumble",
+        "separate",
+        "split",
+        "tear",
+        "collapse",
+        "dissolve"
+      ]
+    },
+    {
+      "description": "Be sold, available, or found in a specified form.",
+      "examples": [
+        "the cars come with a variety of extras",
+        "they come in three sizes"
+      ],
+      "synonyms": [
+        "be available",
+        "be made",
+        "be produced",
+        "be for sale",
+        "be on offer"
+      ]
+    },
+    {
+      "description": "Have an orgasm.",
+      "examples": [],
+      "synonyms": [
+        "climax",
+        "achieve orgasm",
+        "orgasm"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "When a specified time is reached or event happens.",
+      "examples": [
+        "I don't think that they'll be far away from honors come the new season"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Semen ejaculated at an orgasm.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Smith is as tough as they come",
+    "He's everything a football player should be - he's as tough as they come.",
+    "He is as versatile as they come and he has so many quality strings to his bow that he is well tuned up in every aspect of the game.",
+    "We always knew it would be tough, but this is as tough as they come, he said.",
+    "To give a little background, the Aunt - while a wonderful woman - is as nosy and as pushy as they come.",
+    "the relative speed with which emancipation came about",
+    "This fallacy came about because of English painters during the Victorian era.",
+    "He, however, sees regime change coming about through somewhat more direct means.",
+    "This additional post came about due to the refitting of the Lincoln store.",
+    "Yet belief also comes about through direct experience."
+  ],
+  "origin": "Old English cuman, of Germanic origin; related to Dutch komen and German kommen.",
+  "pronounciation": "/kəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/come_us_1.mp3"
+}

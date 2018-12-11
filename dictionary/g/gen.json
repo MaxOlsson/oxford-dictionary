@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "Information.",
+      "examples": [
+        "you've got more gen on him than we have"
+      ],
+      "synonyms": [
+        "facts",
+        "figures",
+        "statistics",
+        "details",
+        "particulars",
+        "specifics",
+        "features"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Find out about.",
+      "examples": [
+        "we genned up on the agencies that had done the work"
+      ],
+      "synonyms": [
+        "revise",
+        "read up",
+        "go over",
+        "refresh one's memory of",
+        "relearn",
+        "cram",
+        "study",
+        "learn"
+      ]
+    }
+  ],
+  "origin": "Second World War (originally used in the armed services): perhaps from the first syllable of general information.",
+  "pronounciation": "/dʒɛn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gen_us_1.mp3"
+}

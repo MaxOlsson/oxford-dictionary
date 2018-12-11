@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be trusted as being accurate or true; reliable.",
+      "examples": [
+        "clear, authoritative information and advice",
+        "an authoritative source"
+      ],
+      "synonyms": [
+        "reliable",
+        "dependable",
+        "trustworthy",
+        "good",
+        "sound",
+        "authentic",
+        "valid",
+        "well founded",
+        "attested",
+        "certified",
+        "verifiable"
+      ]
+    },
+    {
+      "description": "Commanding and self-confident; likely to be respected and obeyed.",
+      "examples": [
+        "his voice was calm and authoritative",
+        "she had an authoritative air"
+      ],
+      "synonyms": [
+        "self-assured",
+        "assured",
+        "self-confident",
+        "confident",
+        "sure of oneself"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈTHôrəˌtādiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/authoritative_us_1_rr.mp3"
+}

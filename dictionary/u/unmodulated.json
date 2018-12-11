@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not modulated.",
+      "examples": [
+        "an unmodulated video signal"
+      ],
+      "synonyms": [
+        "dull",
+        "dry",
+        "toneless",
+        "monotonous",
+        "drab",
+        "boring",
+        "tedious",
+        "flat",
+        "static",
+        "wooden",
+        "unvarying",
+        "undemonstrative",
+        "devoid of emotion",
+        "devoid of feeling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmäjəˌlādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmodulated_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Not knowing or aware.",
+      "examples": [
+        "the lions moved stealthily toward their unknowing victims"
+      ],
+      "synonyms": [
+        "fortuitous",
+        "chance",
+        "occurring by accident",
+        "occurring by chance",
+        "adventitious",
+        "fluky",
+        "coincidental",
+        "casual",
+        "serendipitous",
+        "random",
+        "aleatory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Lack of awareness or knowledge.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈnoʊɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unknowing_us_4.mp3"
+}

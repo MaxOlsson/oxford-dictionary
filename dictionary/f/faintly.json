@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "In a faint manner; indistinctly.",
+      "examples": [
+        "she smiled faintly"
+      ],
+      "synonyms": [
+        "slightly",
+        "vaguely",
+        "somewhat",
+        "quite",
+        "fairly",
+        "rather",
+        "a little",
+        "a bit",
+        "a little bit",
+        "a touch",
+        "a shade"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfeɪntli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faintly_us_1.mp3"
+}

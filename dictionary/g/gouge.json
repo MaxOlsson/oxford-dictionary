@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A chisel with a concave blade, used in carpentry, sculpture, and surgery.",
+      "examples": []
+    },
+    {
+      "description": "An indentation or groove made by gouging.",
+      "examples": [],
+      "synonyms": [
+        "furrow",
+        "channel",
+        "trench",
+        "trough",
+        "canal",
+        "gouge",
+        "hollow",
+        "indentation",
+        "rut",
+        "gutter",
+        "cutting",
+        "cut",
+        "score",
+        "fissure",
+        "seam"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a groove, hole, or indentation) with or as if with a gouge.",
+      "examples": [
+        "the channel had been gouged out by the ebbing water"
+      ],
+      "synonyms": [
+        "scoop out",
+        "burrow",
+        "burrow out",
+        "hollow out",
+        "excavate"
+      ]
+    },
+    {
+      "description": "Overcharge; swindle.",
+      "examples": [
+        "the airline ends up gouging the very passengers it is supposed to assist"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from late Latin gubia, gulbia, perhaps of Celtic origin; compare with Old Irish gulba beak and Welsh gylf beak, pointed instrument.",
+  "pronounciation": "/ɡaʊdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gouge_us_1.mp3"
+}

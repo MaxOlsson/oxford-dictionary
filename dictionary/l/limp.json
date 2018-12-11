@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Walk with difficulty, typically because of a damaged or stiff leg or foot.",
+      "examples": [
+        "he limped heavily as he moved",
+        "he limped off during Saturday's game",
+        "the conversation limped on for half an hour"
+      ],
+      "synonyms": [
+        "hobble",
+        "walk with a limp",
+        "walk with difficulty",
+        "walk lamely",
+        "walk haltingly",
+        "walk unevenly",
+        "falter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tendency to limp; a gait impeded by injury or stiffness.",
+      "examples": [
+        "he walked with a limp"
+      ],
+      "synonyms": [
+        "lameness",
+        "hobble",
+        "uneven gait",
+        "shuffle"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lacking internal strength or structure; not stiff or firm.",
+      "examples": [
+        "she let her whole body go limp",
+        "the flags hung limp and still"
+      ],
+      "synonyms": [
+        "soft",
+        "flaccid",
+        "loose",
+        "slack",
+        "lacking firmness",
+        "lax",
+        "unfirm",
+        "pliable",
+        "not taut",
+        "relaxed"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: of unknown origin; perhaps related to limp, having the basic sense hanging loose.",
+  "pronounciation": "/lɪmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/limp_us_1.mp3"
+}

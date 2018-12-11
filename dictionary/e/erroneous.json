@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Wrong; incorrect.",
+      "examples": [
+        "employers sometimes make erroneous assumptions"
+      ],
+      "synonyms": [
+        "wrong",
+        "incorrect",
+        "mistaken",
+        "in error",
+        "inaccurate",
+        "not accurate",
+        "inexact",
+        "not exact",
+        "imprecise",
+        "invalid",
+        "untrue",
+        "false",
+        "fallacious",
+        "wide of the mark",
+        "off target"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin erroneus (from erro(n-) vagabond, from errare to stray, err) + -ous.",
+  "pronounciation": "/əˈroʊniəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/erroneous_us_1.mp3"
+}

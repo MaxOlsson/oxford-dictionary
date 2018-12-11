@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Tired of or disgusted with something.",
+      "examples": [
+        "I'm a little chocker with this place"
+      ],
+      "synonyms": [
+        "well supplied with",
+        "replete with",
+        "overflowing with",
+        "bursting with",
+        "brimful with",
+        "brimming with",
+        "loaded with",
+        "overloaded with",
+        "abounding in",
+        "well provided with",
+        "well stocked with",
+        "rich in",
+        "abundant in",
+        "rife with"
+      ]
+    },
+    {
+      "description": "Full.",
+      "examples": [
+        "the church was chocker with flowers"
+      ],
+      "synonyms": [
+        "filled",
+        "full",
+        "well stocked",
+        "well supplied",
+        "well provided",
+        "crammed",
+        "crowded",
+        "packed",
+        "jammed",
+        "stuffed",
+        "teeming",
+        "overflowing",
+        "bursting",
+        "brimful",
+        "brimming",
+        "loaded",
+        "overloaded",
+        "thick",
+        "solid",
+        "charged",
+        "abounding"
+      ]
+    }
+  ],
+  "origin": "Second World War (originally naval slang): from chock-a-block.",
+  "pronounciation": "/ˈtʃɒkə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chocker_gb_1_8.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling or consisting of pulp; mushy.",
+      "examples": [
+        "simmer gently until the fruit is very soft and pulpy"
+      ],
+      "synonyms": [
+        "mushy",
+        "soft",
+        "semi-liquid",
+        "pappy",
+        "slushy",
+        "sloppy",
+        "spongy",
+        "squashy",
+        "squelchy",
+        "squishy"
+      ]
+    },
+    {
+      "description": "(of writing) sensationalist and of poor quality; trashy.",
+      "examples": [
+        "pulpy detective novels"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpəlpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pulpy_us_1.mp3"
+}

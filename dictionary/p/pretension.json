@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A claim or assertion of a claim to something.",
+      "examples": [
+        "we cannot tolerate pretension to infallibility",
+        "their pretensions to culture"
+      ],
+      "synonyms": [
+        "aspiration",
+        "claim",
+        "assertion",
+        "pretence",
+        "profession",
+        "purporting"
+      ]
+    },
+    {
+      "description": "The use of affectation to impress; ostentatiousness.",
+      "examples": [
+        "he spoke simply, without pretension"
+      ],
+      "synonyms": [
+        "pretentiousness",
+        "affectation",
+        "affectedness",
+        "ostentation",
+        "ostentatiousness",
+        "artificiality",
+        "attitudinizing",
+        "airs",
+        "posing",
+        "posturing",
+        "showing off",
+        "hypocrisy",
+        "snobbery",
+        "show",
+        "flashiness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply tension to (an object) during manufacture or prior to some other process.",
+      "examples": [
+        "the safety system pretensions the seat belts"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin praetensio(n-), from praetens- alleged, from the verb praetendere (see pretend).",
+  "pronounciation": "/prēˈten(t)SHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pretension_us_2.mp3"
+}

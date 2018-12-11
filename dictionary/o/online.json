@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Controlled by or connected to another computer or to a network.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "While so connected or under computer control.",
+      "examples": []
+    },
+    {
+      "description": "In or into operation or existence.",
+      "examples": [
+        "the town's new high-tech power plant is expected to go online this month",
+        "the company has additional production capacity coming online later this year"
+      ]
+    }
+  ],
+  "pronounciation": "/ɑnˈlaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/online_us_1.mp3"
+}

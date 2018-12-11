@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Reveal secrets by indiscreet talk.",
+      "examples": [
+        "she blabbed to the press",
+        "there's no need to blab the whole story"
+      ],
+      "synonyms": [
+        "talk",
+        "give the game away",
+        "give the show away",
+        "open one's mouth",
+        "tell"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who blabs.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a noun): probably of Germanic origin; ultimately imitative.",
+  "pronounciation": "/blæb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blab_us_1.mp3"
+}

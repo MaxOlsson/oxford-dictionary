@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Naturally accompanying or associated.",
+      "examples": [
+        "she loved travel, with all its concomitant worries",
+        "concomitant with his obsession with dirt was a desire for order"
+      ],
+      "synonyms": [
+        "attendant",
+        "accompanying",
+        "associated",
+        "collateral",
+        "related",
+        "connected",
+        "linked"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A phenomenon that naturally accompanies or follows something.",
+      "examples": [
+        "some of us look on pain and illness as concomitants of the stresses of living"
+      ],
+      "synonyms": [
+        "result",
+        "consequence",
+        "outcome",
+        "out-turn",
+        "sequel",
+        "effect",
+        "reaction",
+        "repercussion",
+        "reverberations",
+        "ramification",
+        "end",
+        "end result",
+        "conclusion",
+        "termination",
+        "culmination",
+        "denouement",
+        "corollary",
+        "concomitant",
+        "aftermath",
+        "fruit",
+        "fruits",
+        "product",
+        "produce",
+        "by-product"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from late Latin concomitant- accompanying, from concomitari, from con- together with + comitari, from Latin comes companion.",
+  "pronounciation": "/kənˈkɑmədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcomitant_us_1.mp3"
+}

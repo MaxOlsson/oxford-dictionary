@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Apply or bring to bear (a force, influence, or quality)",
+      "examples": [
+        "the moon exerts a force on the Earth",
+        "exerting influence over the next generation"
+      ],
+      "synonyms": [
+        "bring to bear",
+        "apply",
+        "bring into play",
+        "exercise",
+        "employ",
+        "use",
+        "make use of",
+        "utilize",
+        "deploy"
+      ]
+    },
+    {
+      "description": "Make a physical or mental effort.",
+      "examples": [
+        "he needs to exert himself to try to find an answer"
+      ],
+      "synonyms": [
+        "make an effort",
+        "try hard",
+        "strive",
+        "endeavour",
+        "apply oneself",
+        "do one's best",
+        "do all one can",
+        "do one's utmost",
+        "give one's all",
+        "make every effort",
+        "spare no effort",
+        "be at pains",
+        "put oneself out"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense perform, practice): from Latin exserere put forth, from ex- out + serere bind.",
+  "pronounciation": "/iɡˈzərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exert_us_1.mp3"
+}

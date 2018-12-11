@@ -1,0 +1,72 @@
+{
+  "noun": [
+    {
+      "description": "A particular form of something differing in certain respects from an earlier form or other forms of the same type of thing.",
+      "examples": [
+        "a revised version of the paper was produced for a later meeting",
+        "they produce yachts in both standard and master versions"
+      ],
+      "synonyms": [
+        "sort",
+        "kind",
+        "type",
+        "variety",
+        "genre",
+        "class",
+        "category",
+        "style",
+        "form",
+        "brand",
+        "make",
+        "model",
+        "design"
+      ]
+    },
+    {
+      "description": "An account of a matter from a particular person's point of view.",
+      "examples": [
+        "he told her his version of events"
+      ],
+      "synonyms": [
+        "report",
+        "statement",
+        "description",
+        "record",
+        "account",
+        "story",
+        "tale",
+        "history",
+        "chronicle",
+        "narrative",
+        "narration",
+        "rendition",
+        "rendering",
+        "interpretation",
+        "explanation",
+        "construction",
+        "construal",
+        "analysis",
+        "understanding",
+        "reading",
+        "impression",
+        "side",
+        "view"
+      ]
+    },
+    {
+      "description": "The manual turning of a fetus in the uterus to make delivery easier.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Create a new version of.",
+      "examples": [
+        "it's the software for you if you need versioning and group editing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense translation): from French, or from medieval Latin versio(n-), from Latin vertere to turn.",
+  "pronounciation": "/ˈvərZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/version_us_1.mp3"
+}

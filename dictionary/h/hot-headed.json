@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Having an impetuous or quick-tempered nature.",
+      "examples": [
+        "a hot-headed youth"
+      ],
+      "synonyms": [
+        "impetuous",
+        "impulsive",
+        "headstrong",
+        "reckless",
+        "rash",
+        "irresponsible",
+        "foolhardy",
+        "madcap",
+        "wild",
+        "excitable",
+        "volatile",
+        "precipitate",
+        "overhasty",
+        "unruly",
+        "fiery",
+        "hot-tempered",
+        "quick-tempered"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhɒtˈhɛdɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hot_headed_1_gb_1.mp3"
+}

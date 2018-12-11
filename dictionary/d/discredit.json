@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Harm the good reputation of (someone or something)",
+      "examples": [
+        "his remarks were taken out of context in an effort to discredit him"
+      ],
+      "synonyms": [
+        "disgrace",
+        "dishonour",
+        "bring into disrepute",
+        "damage someone's reputation",
+        "blacken someone's name",
+        "destroy someone's credibility",
+        "drag through the mire",
+        "drag through the mud",
+        "put in a bad light",
+        "show in a bad light",
+        "reflect badly on",
+        "compromise",
+        "give someone a bad name",
+        "bring into disfavour"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Loss or lack of reputation or respect.",
+      "examples": [
+        "they committed crimes that brought discredit upon the administration"
+      ],
+      "synonyms": [
+        "dishonour",
+        "disrepute",
+        "ill repute",
+        "loss of reputation",
+        "loss of respect",
+        "disgrace",
+        "shame",
+        "humiliation",
+        "ignominy",
+        "infamy",
+        "notoriety"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from dis- (expressing reversal) + credit, on the pattern of Italian ( di)scredito (noun), ( di)screditare (verb), and French discrédit (noun), discréditer (verb).",
+  "pronounciation": "/dɪsˈkrɛdət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discredit_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Depressing; dreary.",
+      "examples": [
+        "the dismal weather made the late afternoon seem like evening"
+      ],
+      "synonyms": [
+        "dingy",
+        "dim",
+        "dark",
+        "gloomy",
+        "sombre",
+        "dreary",
+        "drab",
+        "dull",
+        "desolate",
+        "bleak",
+        "cheerless",
+        "comfortless",
+        "depressing",
+        "grim",
+        "funereal",
+        "inhospitable",
+        "uninviting",
+        "unwelcoming"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from earlier dismal (noun), denoting the two days in each month which in medieval times were believed to be unlucky, from Anglo-Norman French dis mal, from medieval Latin dies mali evil days.",
+  "pronounciation": "/ˈdɪzməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dismal_us_1.mp3"
+}

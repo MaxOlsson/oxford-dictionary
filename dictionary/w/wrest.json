@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Forcibly pull (something) from a person's grasp.",
+      "examples": [
+        "Leila tried to wrest her arm from his hold"
+      ],
+      "synonyms": [
+        "wrench",
+        "snatch",
+        "seize",
+        "grab",
+        "take by force",
+        "remove by force",
+        "force",
+        "prise",
+        "peel",
+        "pluck",
+        "tear",
+        "rip",
+        "heave",
+        "twist",
+        "tug",
+        "pull",
+        "jerk",
+        "dislodge"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A key for tuning a harp or piano.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English wrǣstan twist, tighten, of Germanic origin; related to Danish vriste, also to wrist.",
+  "pronounciation": "/rest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wrest_us_1.mp3"
+}

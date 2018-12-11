@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A short, light sleep, especially during the day.",
+      "examples": [
+        "he settled in the grass for a snooze"
+      ],
+      "synonyms": [
+        "sleep",
+        "nap",
+        "doze",
+        "rest",
+        "siesta",
+        "drowse",
+        "catnap"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a short, light sleep.",
+      "examples": [
+        "the children play beach games while the adults snooze in the sun"
+      ],
+      "synonyms": [
+        "sleep",
+        "be asleep",
+        "doze",
+        "rest",
+        "take a siesta",
+        "nap",
+        "take a nap",
+        "catnap",
+        "drowse"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: of unknown origin.",
+  "pronounciation": "/snuz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snooze_us_1.mp3"
+}

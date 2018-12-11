@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Producing many sounds simultaneously; many-voiced.",
+      "examples": [
+        "a 64-voice polyphonic sound module"
+      ],
+      "synonyms": [
+        "tuneful",
+        "melodious",
+        "melodic",
+        "sweet-sounding",
+        "pleasant-sounding",
+        "sweet-toned",
+        "mellifluous",
+        "dulcet",
+        "lyrical"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from Greek poluphōnos (from polu- many + phōnē voice, sound) + -ic.",
+  "pronounciation": "/ˌpɑliˈfɑnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/polyphonic_us_1.mp3"
+}

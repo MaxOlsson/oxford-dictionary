@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A cobblestone.",
+      "examples": [
+        "the sound of horses' hooves on the cobbles"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Roughly assemble or put together something from available parts or elements.",
+      "examples": [
+        "the mayor cobbled together a budget"
+      ],
+      "synonyms": [
+        "prepare hastily",
+        "prepare roughly",
+        "make hastily",
+        "make roughly",
+        "put together hastily",
+        "put together roughly",
+        "scribble",
+        "improvise",
+        "devise",
+        "contrive",
+        "rig",
+        "rig up",
+        "patch together",
+        "jerry-build"
+      ]
+    },
+    {
+      "description": "Repair (shoes).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: back-formation from cobbler.",
+  "pronounciation": "/ˈkɑbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cobble_us_1.mp3"
+}

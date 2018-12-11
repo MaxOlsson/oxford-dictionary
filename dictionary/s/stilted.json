@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(of a manner of talking or writing) stiff and self-conscious or unnatural.",
+      "examples": [
+        "we made stilted conversation"
+      ],
+      "synonyms": [
+        "strained",
+        "forced",
+        "contrived",
+        "constrained",
+        "laboured",
+        "laborious",
+        "stiff",
+        "self-conscious",
+        "awkward",
+        "unnatural",
+        "wooden",
+        "unrelaxed"
+      ]
+    },
+    {
+      "description": "Standing on stilts.",
+      "examples": [
+        "villages of stilted houses"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstiltəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stilted_us_1.mp3"
+}

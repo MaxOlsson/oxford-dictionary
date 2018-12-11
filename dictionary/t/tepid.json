@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a liquid) only slightly warm; lukewarm.",
+      "examples": [
+        "she soaked a flannel in the tepid water"
+      ],
+      "synonyms": [
+        "lukewarm",
+        "warmish",
+        "slightly warm"
+      ]
+    },
+    {
+      "description": "Showing little enthusiasm.",
+      "examples": [
+        "the applause was tepid"
+      ],
+      "synonyms": [
+        "unenthusiastic",
+        "apathetic",
+        "half-hearted",
+        "indifferent",
+        "cool",
+        "lukewarm",
+        "uninterested",
+        "unconcerned",
+        "offhand",
+        "perfunctory",
+        "desultory",
+        "limp",
+        "listless"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin tepidus, from tepere be warm.",
+  "pronounciation": "/ˈtepəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tepid_us_1.mp3"
+}

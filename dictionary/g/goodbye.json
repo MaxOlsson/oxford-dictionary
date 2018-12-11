@@ -1,0 +1,27 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express good wishes when parting or at the end of a conversation.",
+      "examples": [],
+      "synonyms": [
+        "farewell",
+        "adieu"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of saying “goodbye”; a parting.",
+      "examples": [
+        "a final goodbye"
+      ],
+      "synonyms": [
+        "goodbye",
+        "farewell"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: contraction of God be with you!, with good substituted on the pattern of phrases such as good morning.",
+  "pronounciation": "/ɡʊdˈbaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/goodbye_us_1.mp3"
+}

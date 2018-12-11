@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A retailer's order for a product that is temporarily out of stock with the supplier.",
+      "examples": [
+        "the phone I wanted was on backorder"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place an order for (a product) that is temporarily out of stock.",
+      "examples": [
+        "the item was backordered by our distributor",
+        "the taps can be backordered and take up to three months for delivery"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbakˌôrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backorder_us_1.mp3"
+}

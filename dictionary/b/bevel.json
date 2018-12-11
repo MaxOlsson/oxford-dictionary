@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A slope from the horizontal or vertical in carpentry and stonework; a sloping surface or edge.",
+      "examples": [],
+      "synonyms": [
+        "slope",
+        "slant",
+        "angle",
+        "cant",
+        "chamfer",
+        "mitre",
+        "oblique",
+        "diagonal",
+        "tilt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reduce (a square edge on an object) to a sloping edge.",
+      "examples": [
+        "a beveled mirror"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as an adjective in the sense oblique): from an Old French diminutive of baif open-mouthed, from baer to gape (see bay).",
+  "pronounciation": "/ˈbɛvəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bevel_us_1.mp3"
+}

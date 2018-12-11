@@ -1,0 +1,122 @@
+{
+  "adjective": [
+    {
+      "description": "With little or no light.",
+      "examples": [
+        "it's too dark to see much"
+      ],
+      "synonyms": [
+        "black",
+        "pitch-black",
+        "pitch-dark",
+        "inky",
+        "jet-black",
+        "unlit",
+        "unlighted",
+        "unilluminated",
+        "ill-lit",
+        "poorly lit"
+      ]
+    },
+    {
+      "description": "(of a color or object) not reflecting much light; approaching black in shade.",
+      "examples": [
+        "dark green"
+      ]
+    },
+    {
+      "description": "(of a period of time or situation) characterized by tragedy, unhappiness, or unpleasantness.",
+      "examples": [
+        "the dark days of the war"
+      ],
+      "synonyms": [
+        "tragic",
+        "disastrous",
+        "calamitous",
+        "catastrophic",
+        "cataclysmic",
+        "ruinous",
+        "devastating"
+      ]
+    },
+    {
+      "description": "Hidden from knowledge; mysterious.",
+      "examples": [
+        "a dark secret"
+      ],
+      "synonyms": [
+        "mysterious",
+        "secret",
+        "hidden",
+        "concealed",
+        "veiled",
+        "unrevealed",
+        "covert",
+        "clandestine"
+      ]
+    },
+    {
+      "description": "Denoting a velarized form of the sound of the letter l as it sounds at the end of a word or before another consonant (as in full or bulk in most accents of English).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The absence of light in a place.",
+      "examples": [
+        "Carolyn was sitting in the dark",
+        "he's scared of the dark"
+      ],
+      "synonyms": [
+        "darkness",
+        "blackness",
+        "absence of light",
+        "gloom",
+        "gloominess",
+        "dimness",
+        "dullness",
+        "murk",
+        "murkiness",
+        "shadowiness",
+        "shadow",
+        "shade",
+        "shadiness",
+        "dusk",
+        "twilight",
+        "gloaming"
+      ]
+    },
+    {
+      "description": "A dark color or shade, especially in a painting.",
+      "examples": [],
+      "synonyms": [
+        "darkness",
+        "blackness",
+        "absence of light",
+        "gloom",
+        "gloominess",
+        "dimness",
+        "dullness",
+        "murk",
+        "murkiness",
+        "shadowiness",
+        "shadow",
+        "shade",
+        "shadiness",
+        "dusk",
+        "twilight",
+        "gloaming"
+      ]
+    }
+  ],
+  "phrases": [
+    "My theme was that the darkest hour is just before the dawn, and though it does seem to be the darkest hour, we have to have some Resurrection hope and keep learning from our partners and walking forwards.",
+    "They say that the darkest hour is just before the dawn and in this case it is true.",
+    "She understood that the harshest suffering precedes the redemption, that the darkest hour is just before the dawn.",
+    "So take heart, the darkest hour is just before the dawn.",
+    "Remember that the darkest hour is just before the dawn."
+  ],
+  "origin": "Old English deorc, of Germanic origin, probably distantly related to German tarnen conceal.",
+  "pronounciation": "/därk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dark_us_1.mp3"
+}

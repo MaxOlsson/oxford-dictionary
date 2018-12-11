@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Apply quantum theory to, especially form into quanta, in particular restrict the number of possible values of (a quantity) or states of (a system) so that certain variables can assume only certain discrete magnitudes.",
+      "examples": [
+        "light is quantized into packets of energy"
+      ]
+    },
+    {
+      "description": "Approximate (a continuously varying signal) by one whose amplitude is restricted to a prescribed set of values.",
+      "examples": [
+        "distortion is caused when very low-level audio signals are quantized"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkwänˌtīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quantize_us_1.mp3"
+}

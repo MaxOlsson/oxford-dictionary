@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Showing willingness to allow the existence of opinions or behavior that one does not necessarily agree with.",
+      "examples": [
+        "we must be tolerant of others",
+        "a more tolerant attitude toward other religions"
+      ],
+      "synonyms": [
+        "open-minded",
+        "forbearing",
+        "liberal",
+        "unprejudiced",
+        "unbiased",
+        "unbigoted"
+      ]
+    },
+    {
+      "description": "(of a plant, animal, or machine) able to endure specified conditions or treatment.",
+      "examples": [
+        "rye is reasonably tolerant of drought",
+        "fault-tolerant computer systems"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French tolérant, present participle of tolérer, from Latin tolerare (see tolerate). Compare with earlier intolerant.",
+  "pronounciation": "/ˈtɑl(ə)rənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tolerant_us_1.mp3"
+}

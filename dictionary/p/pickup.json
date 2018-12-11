@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A small truck with an enclosed cab and open back.",
+      "examples": [],
+      "synonyms": [
+        "pickup truck",
+        "utility truck",
+        "utility vehicle"
+      ]
+    },
+    {
+      "description": "An act of collecting a person or goods, especially in a vehicle.",
+      "examples": [
+        "travel by bus from your local pickup point to your hotel",
+        "curbside pickup"
+      ]
+    },
+    {
+      "description": "A casual encounter with someone, with a view to having sexual intercourse.",
+      "examples": []
+    },
+    {
+      "description": "An improvement in an economic indicator.",
+      "examples": [
+        "signs of a pickup in demand"
+      ],
+      "synonyms": [
+        "improvement",
+        "recovery",
+        "revival",
+        "upturn",
+        "upswing",
+        "rally",
+        "comeback",
+        "resurgence",
+        "renewal",
+        "reinvigoration",
+        "advancement",
+        "betterment"
+      ]
+    },
+    {
+      "description": "A device that produces an electrical signal in response to some other kind of signal or change.",
+      "examples": []
+    },
+    {
+      "description": "The reception of signals, especially interference or noise, by electrical apparatus.",
+      "examples": []
+    },
+    {
+      "description": "A series of introductory notes leading into the opening part of a tune.",
+      "examples": []
+    },
+    {
+      "description": "A semicircular loop of metal for guiding the line back on to the spool as it is reeled in.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Informal and spontaneous.",
+      "examples": [
+        "six players had started a full-court pickup basketball game"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɪkˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pick_up_1_us_2.mp3"
+}

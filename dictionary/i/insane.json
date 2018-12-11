@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "In a state of mind which prevents normal perception, behavior, or social interaction; seriously mentally ill.",
+      "examples": [
+        "he had gone insane",
+        "certifying patients as clinically insane"
+      ],
+      "synonyms": [
+        "mentally ill",
+        "severely mentally disordered",
+        "of unsound mind",
+        "certifiable",
+        "psychotic",
+        "schizophrenic"
+      ]
+    },
+    {
+      "description": "Shocking; outrageous.",
+      "examples": [
+        "they were making insane amounts of money"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin insanus, from in- not + sanus healthy.",
+  "pronounciation": "/ɪnˈseɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insane_us_1.mp3"
+}

@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "A roughly cylindrical open container, typically made of metal or plastic, with a handle, used to hold and carry liquids or other material.",
+      "examples": [],
+      "synonyms": [
+        "pail",
+        "scuttle",
+        "can",
+        "tub",
+        "pitcher",
+        "vessel"
+      ]
+    },
+    {
+      "description": "A unit of data that can be transferred from secondary storage in a single operation.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rain heavily.",
+      "examples": [
+        "it was still bucketing down"
+      ],
+      "synonyms": [
+        "rain heavily",
+        "rain cats and dogs",
+        "rain hard",
+        "pour",
+        "pelt",
+        "lash",
+        "teem",
+        "stream",
+        "tip",
+        "beat",
+        "sheet"
+      ]
+    },
+    {
+      "description": "(of a vehicle) move quickly and jerkily.",
+      "examples": [
+        "the car came bucketing out of a side road"
+      ],
+      "synonyms": [
+        "speed",
+        "hurry",
+        "race",
+        "run",
+        "sprint",
+        "dash",
+        "bolt",
+        "dart",
+        "rush",
+        "hasten",
+        "hurtle",
+        "career",
+        "streak",
+        "shoot",
+        "whizz",
+        "zoom",
+        "go like lightning",
+        "go hell for leather",
+        "spank along",
+        "bowl along",
+        "rattle along",
+        "whirl",
+        "whoosh",
+        "buzz",
+        "swoop",
+        "flash",
+        "blast",
+        "charge",
+        "stampede",
+        "gallop",
+        "sweep",
+        "hare",
+        "fly",
+        "wing",
+        "scurry",
+        "scud",
+        "scutter",
+        "scramble"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French buquet tub, pail, perhaps from Old English būc belly, pitcher.",
+  "pronounciation": "/ˈbəkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bucket_us_1.mp3"
+}

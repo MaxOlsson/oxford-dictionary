@@ -1,0 +1,73 @@
+{
+  "adverb": [
+    {
+      "description": "At some unspecified or unknown time.",
+      "examples": [
+        "you must come and have supper sometime",
+        "sometime after six everybody left"
+      ],
+      "synonyms": [
+        "some day",
+        "one day",
+        "one of these days",
+        "at some point in the future",
+        "at some time in the future",
+        "at a future date",
+        "at a future time",
+        "one of these fine days",
+        "sooner or later",
+        "by and by",
+        "in due course",
+        "in the fullness of time",
+        "in the long run"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Former.",
+      "examples": [
+        "the sometime editor of the paper"
+      ],
+      "synonyms": [
+        "former",
+        "past",
+        "previous",
+        "prior",
+        "foregoing",
+        "late",
+        "erstwhile",
+        "one-time",
+        "as was",
+        "ex-"
+      ]
+    },
+    {
+      "description": "Occasional.",
+      "examples": [
+        "a sometime contributor"
+      ],
+      "synonyms": [
+        "infrequent",
+        "intermittent",
+        "irregular",
+        "periodic",
+        "sporadic",
+        "odd",
+        "random",
+        "casual",
+        "desultory",
+        "incidental",
+        "uncommon",
+        "episodic",
+        "few and far between",
+        "fitful",
+        "spasmodic",
+        "isolated",
+        "rare"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəmˌtīm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sometime_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(in Christian belief) condemned by God to suffer eternal punishment in hell.",
+      "examples": [
+        "the spirits of the damned"
+      ],
+      "synonyms": [
+        "cursed",
+        "accursed",
+        "doomed",
+        "lost",
+        "condemned to hell",
+        "execrated"
+      ]
+    },
+    {
+      "description": "Used for emphasis, especially to express anger or frustration.",
+      "examples": [
+        "it's none of your damned business",
+        "she's too damned arrogant",
+        "you can damned well tell him yourself!"
+      ],
+      "synonyms": [
+        "blasted",
+        "damn",
+        "flaming",
+        "precious",
+        "confounded",
+        "pestilential",
+        "rotten",
+        "wretched"
+      ]
+    }
+  ],
+  "phrases": [
+    "I'm going to spend the next few months trying my damnedest to tiptoe through the mine fields of other people's political passions.",
+    "I will try my damnedest to capture the look on Alex's face when she lays eyes on one of these.",
+    "And I tried my damnedest to spoil my bride for a week.",
+    "I know they will be doing their damnedest to win the game, but it's not going to be easy.",
+    "We tried our damnedest to make it special entertainment, but I'll admit I'm a contributor to the decline in TV standards."
+  ],
+  "pronounciation": "/damd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/damned_us_1.mp3"
+}

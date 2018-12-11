@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not noticed.",
+      "examples": [
+        "a deliberate kick that went unnoticed by the referee"
+      ],
+      "synonyms": [
+        "unobtrusive",
+        "unnoticeable",
+        "unremarkable",
+        "unspectacular",
+        "unostentatious",
+        "unimposing",
+        "undistinguished",
+        "unexceptional",
+        "modest",
+        "unassuming",
+        "discreet",
+        "hidden",
+        "concealed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈnōdəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unnoticed_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Done or occurring quickly.",
+      "examples": [
+        "a speedy recovery"
+      ],
+      "synonyms": [
+        "rapid",
+        "swift",
+        "quick",
+        "fast",
+        "prompt",
+        "immediate",
+        "expeditious",
+        "express",
+        "brisk",
+        "sharp",
+        "unhesitating"
+      ]
+    },
+    {
+      "description": "Moving quickly.",
+      "examples": [
+        "a speedy center fielder"
+      ],
+      "synonyms": [
+        "fast",
+        "fast-moving",
+        "high-speed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspidi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speedy_us_1.mp3"
+}

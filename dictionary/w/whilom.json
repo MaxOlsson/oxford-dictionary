@@ -1,0 +1,48 @@
+{
+  "adverb": [
+    {
+      "description": "Formerly; in the past.",
+      "examples": [
+        "the wistful eyes which whilom glanced down upon the fields"
+      ],
+      "synonyms": [
+        "formerly",
+        "previously",
+        "in the past",
+        "at one time",
+        "at one point",
+        "once upon a time",
+        "on a former occasion",
+        "on one occasion",
+        "one time",
+        "in one case",
+        "time was when",
+        "in days gone by",
+        "in times gone by",
+        "back in the day",
+        "in times past",
+        "in the old days",
+        "in the good old days",
+        "long ago"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Former; erstwhile.",
+      "examples": [
+        "a whilom circus acrobat"
+      ],
+      "synonyms": [
+        "one-time",
+        "erstwhile",
+        "sometime",
+        "late",
+        "as was"
+      ]
+    }
+  ],
+  "origin": "Old English hwīlum at times, dative plural of hwīl (see while).",
+  "pronounciation": "/ˈ(h)waɪləm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whilom_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "Lineal descent from an ancestor; ancestry or pedigree.",
+      "examples": [],
+      "synonyms": [
+        "ancestry",
+        "family",
+        "parentage",
+        "birth"
+      ]
+    },
+    {
+      "description": "A sequence of species each of which is considered to have evolved from its predecessor.",
+      "examples": [
+        "the chimpanzee and gorilla lineages"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French lignage, from Latin linea a line (see line).",
+  "pronounciation": "/ˈlɪniɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lineage_us_1.mp3"
+}

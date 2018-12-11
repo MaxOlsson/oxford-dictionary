@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A mass of snow, ice, and rocks falling rapidly down a mountainside.",
+      "examples": [],
+      "synonyms": [
+        "snowslide",
+        "snow slip"
+      ]
+    },
+    {
+      "description": "A sudden arrival or occurrence of something in overwhelming quantities.",
+      "examples": [
+        "we have had an avalanche of applications"
+      ],
+      "synonyms": [
+        "barrage",
+        "volley"
+      ]
+    },
+    {
+      "description": "A cumulative process in which a fast-moving ion or electron generates further ions and electrons by collision.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a mass of snow, ice, and rocks) descend rapidly down a mountainside.",
+      "examples": []
+    },
+    {
+      "description": "Undergo a rapid increase in conductivity due to an avalanche process.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: from French, alteration of the Alpine dialect word lavanche (of unknown origin), influenced by avaler descend; compare with Italian valanga.",
+  "pronounciation": "/ˈævəˌlæn(t)ʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/avalanche_us_1.mp3"
+}

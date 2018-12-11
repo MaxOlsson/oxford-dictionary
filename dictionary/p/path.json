@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A way or track laid down for walking or made by continual treading.",
+      "examples": [],
+      "synonyms": [
+        "footpath",
+        "pathway",
+        "footway",
+        "pavement",
+        "track",
+        "jogging track",
+        "trail",
+        "trackway",
+        "bridleway",
+        "bridle path",
+        "ride",
+        "riding",
+        "towpath",
+        "walk",
+        "walkway",
+        "promenade",
+        "esplanade",
+        "avenue",
+        "lane",
+        "alley",
+        "alleyway",
+        "passage",
+        "passageway",
+        "byway",
+        "sidetrack",
+        "berm",
+        "causeway",
+        "right of way"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially in computing and railroad contexts) allocate a path.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English pæth, of West Germanic origin; related to Dutch pad, German Pfad, of unknown ultimate origin.",
+  "pronounciation": "/pæθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/path_us_1.mp3"
+}

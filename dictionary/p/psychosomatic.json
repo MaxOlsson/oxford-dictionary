@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of a physical illness or other condition) caused or aggravated by a mental factor such as internal conflict or stress.",
+      "examples": [
+        "her doctor was convinced that most of Edith's problems were psychosomatic"
+      ],
+      "synonyms": [
+        "in the mind",
+        "all in the mind",
+        "psychological",
+        "irrational",
+        "stress-related",
+        "stress-induced",
+        "subjective",
+        "subconscious",
+        "unconscious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsaɪkoʊsəˈmædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psychosomatic_us_1.mp3"
+}

@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "The pipe taking the smoke and gases from a stove up through a roof or to a chimney.",
+      "examples": []
+    },
+    {
+      "description": "An information conduit that traverses vertical levels efficiently but does not disperse widely.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transmit (information) directly through levels of a hierarchy.",
+      "examples": [
+        "they stovepiped lies straight up to the White House"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstōvpīp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stovepipe_us_1.mp3"
+}

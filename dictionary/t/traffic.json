@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "Vehicles moving on a road or public highway.",
+      "examples": [
+        "a stream of heavy traffic"
+      ],
+      "synonyms": [
+        "vehicles",
+        "cars",
+        "lorries",
+        "trucks"
+      ]
+    },
+    {
+      "description": "The messages or signals transmitted through a communications system.",
+      "examples": [
+        "data traffic between remote workstations"
+      ]
+    },
+    {
+      "description": "The action of dealing or trading in something illegal.",
+      "examples": [
+        "the traffic in stolen cattle"
+      ],
+      "synonyms": [
+        "trade",
+        "trading",
+        "trafficking",
+        "dealing",
+        "commerce",
+        "business",
+        "peddling",
+        "buying and selling"
+      ]
+    },
+    {
+      "description": "Dealings or communication between people.",
+      "examples": [],
+      "synonyms": [
+        "dealings",
+        "association",
+        "contact",
+        "communication",
+        "connection",
+        "relations",
+        "intercourse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deal or trade in something illegal.",
+      "examples": [
+        "the government will vigorously pursue individuals who traffic in drugs"
+      ],
+      "synonyms": [
+        "trade",
+        "deal",
+        "do business",
+        "peddle",
+        "bargain"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (denoting commercial transportation of merchandise or passengers): from French traffique, Spanish tráfico, or Italian traffico, of unknown origin. Sense 1 dates from the early 19th century.",
+  "pronounciation": "/ˈtrafik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/traffic_us_1.mp3"
+}

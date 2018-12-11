@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Render obscure, unclear, or unintelligible.",
+      "examples": [
+        "the spelling changes will deform some familiar words and obfuscate their etymological origins"
+      ],
+      "synonyms": [
+        "obscure",
+        "confuse",
+        "make obscure",
+        "make unclear",
+        "blur",
+        "muddle",
+        "jumble",
+        "complicate",
+        "garble",
+        "muddy",
+        "cloud",
+        "befog"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin obfuscat- darkened, from the verb obfuscare, based on Latin fuscus dark.",
+  "pronounciation": "/ˈäbfəˌskāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/obfuscate_us_1.mp3"
+}

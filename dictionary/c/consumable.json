@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of an item for sale) intended to be used up and then replaced.",
+      "examples": [],
+      "synonyms": [
+        "edible",
+        "safe to eat",
+        "fit to eat",
+        "fit to be eaten",
+        "fit for human consumption"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A commodity that is intended to be used up relatively quickly.",
+      "examples": [
+        "drugs and other medical consumables"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsuməb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsumable_us_1.mp3"
+}

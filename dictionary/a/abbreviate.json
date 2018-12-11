@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Shorten (a word, phrase, or text)",
+      "examples": [
+        "the business of artists and repertory, commonly abbreviated to A&R"
+      ],
+      "synonyms": [
+        "shorten",
+        "reduce",
+        "cut",
+        "cut down",
+        "cut short",
+        "contract",
+        "condense",
+        "compress",
+        "abridge",
+        "truncate",
+        "clip",
+        "crop",
+        "pare down",
+        "prune",
+        "shrink",
+        "constrict",
+        "telescope",
+        "curtail"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin abbreviat- shortened, from the verb abbreviare, from Latin brevis short.",
+  "pronounciation": "/əˈbriviˌeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abbreviate_us_1.mp3"
+}

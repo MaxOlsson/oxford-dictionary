@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "(of a sight, smell, or sound) barely perceptible.",
+      "examples": [
+        "the faint murmur of voices"
+      ],
+      "synonyms": [
+        "indistinct",
+        "vague",
+        "unclear",
+        "indefinite",
+        "ill-defined",
+        "obscure",
+        "imperceptible",
+        "hardly noticeable",
+        "hardly detectable",
+        "unobtrusive"
+      ]
+    },
+    {
+      "description": "Weak and dizzy; close to losing consciousness.",
+      "examples": [
+        "the heat made him feel faint"
+      ],
+      "synonyms": [
+        "dizzy",
+        "giddy",
+        "light-headed",
+        "muzzy",
+        "weak",
+        "weak at the knees",
+        "unsteady",
+        "shaky",
+        "wobbly",
+        "off-balance",
+        "reeling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lose consciousness for a short time because of a temporarily insufficient supply of oxygen to the brain.",
+      "examples": [],
+      "synonyms": [
+        "pass out",
+        "lose consciousness",
+        "fall unconscious",
+        "black out",
+        "collapse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden loss of consciousness.",
+      "examples": [
+        "she hit the floor in a dead faint"
+      ],
+      "synonyms": [
+        "blackout",
+        "fainting fit",
+        "loss of consciousness",
+        "collapse"
+      ]
+    }
+  ],
+  "phrases": [
+    "I haven't the faintest what it means",
+    "Believe me, we want to talk with you, but we don't have the faintest idea how to accomplish that.",
+    "So, uh, I guess it was a good movie, though I don't have the faintest idea what it was about.",
+    "You don't have the faintest idea what has happened, do you?",
+    "Iago's final silence was a speaking one; I don't have the faintest idea how to read Hermione's silence."
+  ],
+  "origin": "Middle English (in the sense feigned, also feeble, cowardly, surviving in faint heart): from Old French faint, past participle of faindre (see feign). Compare with feint.",
+  "pronounciation": "/fānt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faint_us_1.mp3"
+}

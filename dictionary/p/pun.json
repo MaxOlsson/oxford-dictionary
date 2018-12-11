@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A joke exploiting the different possible meanings of a word or the fact that there are words which sound alike but have different meanings.",
+      "examples": [
+        "the pigs were a squeal (if you'll forgive the pun)"
+      ],
+      "synonyms": [
+        "play on words",
+        "wordplay",
+        "double entendre",
+        "double meaning",
+        "innuendo",
+        "witticism",
+        "quip"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a joke exploiting the different possible meanings of a word.",
+      "examples": [
+        "his first puzzle punned on composers, with answers like “Handel with care” and “Haydn go seek”",
+        "a punning riddle"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: dialect variant of pound.",
+  "pronounciation": "/pən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pun_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) worthless.",
+      "examples": [
+        "his good-for-nothing son"
+      ],
+      "synonyms": [
+        "useless",
+        "worthless",
+        "incompetent",
+        "inefficient",
+        "inept",
+        "ne'er-do-well"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A worthless person.",
+      "examples": [],
+      "synonyms": [
+        "ne'er-do-well",
+        "layabout",
+        "do-nothing",
+        "idler",
+        "loafer",
+        "slob",
+        "lounger",
+        "sluggard",
+        "laggard",
+        "slugabed",
+        "malingerer",
+        "shirker"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡʊd fər ˌnəθɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/good_for_nothing_1_us_1.mp3"
+}

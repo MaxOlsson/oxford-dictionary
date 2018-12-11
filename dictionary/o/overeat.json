@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Eat too much.",
+      "examples": [
+        "the effect of overeating is weight gain"
+      ],
+      "synonyms": [
+        "eat too much",
+        "be greedy",
+        "eat like a horse",
+        "gorge",
+        "gorge oneself",
+        "overindulge",
+        "overindulge oneself",
+        "surfeit",
+        "guzzle",
+        "feast"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overeat_us_1.mp3"
+}

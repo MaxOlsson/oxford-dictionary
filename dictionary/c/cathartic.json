@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Providing psychological relief through the open expression of strong emotions; causing catharsis.",
+      "examples": [
+        "crying is a cathartic release"
+      ],
+      "synonyms": [
+        "purgative",
+        "purging",
+        "purifying",
+        "cleansing",
+        "cleaning",
+        "releasing",
+        "relieving",
+        "freeing",
+        "delivering",
+        "exorcising",
+        "ridding"
+      ]
+    },
+    {
+      "description": "(chiefly of a drug) purgative.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A purgative drug.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "enema",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in medical use): via late Latin from Greek kathartikos, from katharsis cleansing (see catharsis).",
+  "pronounciation": "/kəˈTHärdik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cathartic_us_1.mp3"
+}

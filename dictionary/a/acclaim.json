@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Praise enthusiastically and publicly.",
+      "examples": [
+        "the conference was acclaimed as a considerable success",
+        "he was acclaimed a great painter"
+      ],
+      "synonyms": [
+        "celebrated",
+        "admired",
+        "highly rated",
+        "lionized",
+        "revered",
+        "honoured",
+        "esteemed",
+        "exalted",
+        "lauded",
+        "vaunted",
+        "much touted",
+        "well thought of",
+        "well received",
+        "acknowledged"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Enthusiastic and public praise.",
+      "examples": [
+        "she has won acclaim for her commitment to democracy"
+      ],
+      "synonyms": [
+        "praise",
+        "applause",
+        "cheers",
+        "ovation",
+        "tribute",
+        "accolade",
+        "acclamation",
+        "salutes",
+        "plaudits"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the sense express approval): from Latin acclamare, from ad- to + clamare to shout. The change in the ending was due to association with claim. Current senses date from the 17th century.",
+  "pronounciation": "/əˈkleɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acclaim_us_1.mp3"
+}

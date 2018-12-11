@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Make a harsh, raucous sound when laughing.",
+      "examples": [
+        "she cackled with laughter",
+        "“Ah ha!” he cackled"
+      ],
+      "synonyms": [
+        "laugh loudly",
+        "laugh uproariously",
+        "guffaw",
+        "crow",
+        "chortle",
+        "chuckle",
+        "giggle",
+        "tee-hee"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A harsh laugh resembling the cry of a hen or goose.",
+      "examples": [
+        "her delighted cackle"
+      ],
+      "synonyms": [
+        "rasp",
+        "wheeze",
+        "gasp",
+        "bark",
+        "hack",
+        "cough"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably from Middle Low German kākelen, partly imitative, reinforced by kāke jaw, cheek.",
+  "pronounciation": "/ˈkæk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cackle_us_1.mp3"
+}

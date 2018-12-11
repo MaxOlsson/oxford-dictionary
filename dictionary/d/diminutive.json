@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely or unusually small.",
+      "examples": [
+        "a diminutive figure dressed in black"
+      ],
+      "synonyms": [
+        "tiny",
+        "small",
+        "little",
+        "petite",
+        "minute",
+        "miniature",
+        "mini",
+        "minuscule",
+        "microscopic",
+        "nanoscopic",
+        "small-scale",
+        "compact",
+        "pocket",
+        "toy",
+        "midget",
+        "undersized",
+        "short",
+        "stubby",
+        "elfin",
+        "dwarfish",
+        "dwarf",
+        "pygmy",
+        "bantam",
+        "homuncular",
+        "lilliputian"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A diminutive word or suffix.",
+      "examples": [],
+      "synonyms": [
+        "shortened form",
+        "short form",
+        "contraction",
+        "elision",
+        "acronym",
+        "initialism",
+        "symbol",
+        "diminutive"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a grammatical term): from Old French diminutif, -ive, from late Latin diminutivus, from Latin deminut- diminished, from the verb deminuere (see diminish).",
+  "pronounciation": "/dəˈminyədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diminutive_us_1.mp3"
+}

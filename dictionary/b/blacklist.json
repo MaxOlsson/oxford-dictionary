@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A list of people or things that are regarded as unacceptable or untrustworthy and should be excluded or avoided.",
+      "examples": [
+        "he was placed on a blacklist which meant he was unable to get credit",
+        "a blacklist of blocked websites"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put on a blacklist.",
+      "examples": [
+        "workers were blacklisted after being quoted in the newspaper",
+        "blacklisted books"
+      ],
+      "synonyms": [
+        "boycott",
+        "ostracize",
+        "avoid",
+        "embargo",
+        "place an embargo on",
+        "put an embargo on",
+        "consider undesirable",
+        "steer clear of",
+        "ignore"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from black + list.",
+  "pronounciation": "/ˈblækˌlɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blacklist_us_1.mp3"
+}

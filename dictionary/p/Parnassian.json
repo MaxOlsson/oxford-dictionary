@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to poetry; poetic.",
+      "examples": [],
+      "synonyms": [
+        "in verse",
+        "verse",
+        "metrical",
+        "rhythmical"
+      ]
+    },
+    {
+      "description": "Relating to a group of French poets of the late 19th century who emphasized strictness of form, named from the anthology Le Parnasse contemporain (1866)",
+      "examples": [
+        "the Parnassian movement"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of the Parnassian group of French poets.",
+      "examples": [
+        "the poetic values of the Parnassians"
+      ],
+      "synonyms": [
+        "poet",
+        "versifier",
+        "verse-maker",
+        "rhymester",
+        "rhymer",
+        "sonneteer",
+        "lyricist",
+        "lyrist",
+        "elegist"
+      ]
+    }
+  ],
+  "pronounciation": "/pärˈnasēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parnassian_1_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of an event or act) happening or done at an unsuitable time.",
+      "examples": [
+        "Dave's untimely return"
+      ],
+      "synonyms": [
+        "ill-timed",
+        "badly timed",
+        "mistimed"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At a time that is unsuitable or premature.",
+      "examples": [
+        "the moment was very untimely chosen"
+      ],
+      "synonyms": [
+        "rashly",
+        "overhastily",
+        "hastily",
+        "too soon",
+        "too early",
+        "precipitately",
+        "precipitously"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtaɪmli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untimely_us_1.mp3"
+}

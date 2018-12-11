@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not organized.",
+      "examples": [
+        "a sea of unorganized data"
+      ],
+      "synonyms": [
+        "careless",
+        "lackadaisical",
+        "slapdash",
+        "disorganized",
+        "haphazard",
+        "hit-or-miss",
+        "last-minute",
+        "untidy",
+        "messy",
+        "unsystematic",
+        "unmethodical",
+        "casual",
+        "offhand",
+        "thoughtless",
+        "heedless",
+        "negligent",
+        "neglectful",
+        "remiss",
+        "lax",
+        "slack",
+        "slovenly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈôrɡəˌnīzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unorganized_us_1.mp3"
+}

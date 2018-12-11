@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "Radioactive particles that are carried into the atmosphere after a nuclear explosion or accident and gradually fall back as dust or in precipitation.",
+      "examples": [],
+      "synonyms": [
+        "adverse reaction",
+        "adverse response",
+        "counteraction",
+        "counterblast",
+        "comeback",
+        "recoil"
+      ]
+    },
+    {
+      "description": "The adverse side effects or results of a situation.",
+      "examples": [
+        "almost as dramatic as the financial scale of the mess is the growing political fallout"
+      ],
+      "synonyms": [
+        "repercussions",
+        "after-effects",
+        "by-product",
+        "backwash",
+        "trail",
+        "wake",
+        "corollary"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɔlˌaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fall_out_1_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A person or business that buys and sells goods.",
+      "examples": [
+        "a car dealer"
+      ],
+      "synonyms": [
+        "trader",
+        "tradesman",
+        "tradesperson",
+        "merchant",
+        "salesman",
+        "saleswoman",
+        "salesperson",
+        "seller",
+        "buyer",
+        "buyer and seller",
+        "marketeer",
+        "merchandiser",
+        "distributor",
+        "supplier",
+        "vendor",
+        "shopkeeper",
+        "retailer",
+        "wholesaler",
+        "purveyor",
+        "marketer",
+        "trafficker",
+        "pedlar",
+        "hawker"
+      ]
+    },
+    {
+      "description": "The player who distributes the cards at the start of a game or hand.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈdilər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dealer_us_1.mp3"
+}

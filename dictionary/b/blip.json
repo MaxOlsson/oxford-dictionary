@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "An unexpected, minor, and typically temporary deviation from a general trend.",
+      "examples": [
+        "an upward blip in house prices"
+      ]
+    },
+    {
+      "description": "A short high-pitched sound made by an electronic device.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an electronic device) make a short high-pitched sound or succession of sounds.",
+      "examples": []
+    },
+    {
+      "description": "Open (the throttle of a motor vehicle) momentarily.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century (denoting a sudden rap or tap): imitative; the noun sense unexpected deviation dates from the 1970s.",
+  "pronounciation": "/blɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blip_us_1.mp3"
+}

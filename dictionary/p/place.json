@@ -1,0 +1,116 @@
+{
+  "noun": [
+    {
+      "description": "A particular position or point in space.",
+      "examples": [
+        "the monastery was a peaceful place",
+        "that street was no place for a lady",
+        "there were still some remote places in the world"
+      ],
+      "synonyms": [
+        "location",
+        "site",
+        "spot",
+        "scene",
+        "setting",
+        "position",
+        "point",
+        "situation",
+        "area",
+        "region",
+        "whereabouts",
+        "locale"
+      ]
+    },
+    {
+      "description": "A portion of space available or designated for or being used by someone.",
+      "examples": [
+        "they hurried to their places at the table",
+        "he was watching from his place across the room"
+      ],
+      "synonyms": [
+        "seat",
+        "chair",
+        "position",
+        "space"
+      ]
+    },
+    {
+      "description": "A position in a sequence or series, typically one ordered on the basis of merit.",
+      "examples": []
+    },
+    {
+      "description": "(in place names) a square or a short street.",
+      "examples": [
+        "our new restaurant is in Hilliard Place"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put in a particular position.",
+      "examples": [
+        "a newspaper had been placed beside my plate"
+      ],
+      "synonyms": [
+        "put down",
+        "put",
+        "set",
+        "set down",
+        "lay down",
+        "deposit",
+        "position",
+        "plant",
+        "rest",
+        "stand",
+        "sit",
+        "settle",
+        "station",
+        "situate",
+        "leave",
+        "stow",
+        "prop",
+        "lean"
+      ]
+    },
+    {
+      "description": "Find a home or employment for.",
+      "examples": [
+        "the children were placed with foster parents",
+        "the agency had placed 3,000 people in full-time jobs"
+      ],
+      "synonyms": [
+        "find employment for",
+        "find a job for"
+      ]
+    },
+    {
+      "description": "Identify or classify as being of a specified type or as holding a specified position in a sequence or hierarchy.",
+      "examples": [
+        "a survey placed the company 13th for achievement"
+      ],
+      "synonyms": [
+        "rank",
+        "order",
+        "put in order",
+        "grade",
+        "group",
+        "arrange",
+        "sort",
+        "class",
+        "classify",
+        "categorize"
+      ]
+    }
+  ],
+  "phrases": [
+    "we've been all over the place looking for you",
+    "the government is all over the place on this",
+    "The present school-house will soon give place to a more extensive and pretentious one, to be built on a more elevated situation.",
+    "Plows had to give place to politics for the next four years, so it was not until the end of 1793, when he was on the brink of retirement from George Washington's cabinet, that Jefferson took measures to test his theory.",
+    "By the 1930s, however, these approaches were already giving place to a very different estimate of the play's artistic success."
+  ],
+  "origin": "Middle English: from Old French, from an alteration of Latin platea open space, from Greek plateia (hodos) broad (way).",
+  "pronounciation": "/plās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/place_us_1.mp3"
+}

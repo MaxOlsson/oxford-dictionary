@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Belonging to or forming the outer surface or structure of something.",
+      "examples": [
+        "the external walls"
+      ],
+      "synonyms": [
+        "outer",
+        "outside",
+        "outermost",
+        "outward",
+        "exterior",
+        "surface",
+        "superficial"
+      ]
+    },
+    {
+      "description": "Coming or derived from a source outside the subject affected.",
+      "examples": [
+        "for many people the church was a symbol of external authority"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The outward features of something.",
+      "examples": [
+        "the place has all the appropriate externals, such as chimneys choked with ivy and windows with jasmine"
+      ],
+      "synonyms": [
+        "outside",
+        "outside surface",
+        "outer surface",
+        "external surface",
+        "outward appearance",
+        "outward aspect",
+        "externals",
+        "facade",
+        "front"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin, from Latin exter outer.",
+  "pronounciation": "/ɪkˈstərnl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/external_us_1.mp3"
+}

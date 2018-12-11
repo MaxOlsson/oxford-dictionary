@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Excessively talkative, especially on trivial matters.",
+      "examples": [
+        "Polonius is portrayed as a foolish, garrulous old man"
+      ],
+      "synonyms": [
+        "talkative",
+        "loquacious",
+        "voluble",
+        "verbose",
+        "long-winded",
+        "chatty",
+        "chattery",
+        "chattering",
+        "gossipy",
+        "gossiping",
+        "babbling",
+        "blathering",
+        "prattling",
+        "prating",
+        "jabbering",
+        "gushing",
+        "effusive",
+        "expansive",
+        "forthcoming",
+        "conversational",
+        "communicative"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin garrulus (from garrire to chatter, prattle) + -ous.",
+  "pronounciation": "/ˈɡer(y)ələs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/garrulous_us_1.mp3"
+}

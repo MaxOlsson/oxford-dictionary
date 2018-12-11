@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An excessively abundant supply of something.",
+      "examples": [
+        "there is a glut of cars on the market"
+      ],
+      "synonyms": [
+        "surplus",
+        "excess",
+        "surfeit",
+        "superfluity",
+        "overabundance",
+        "superabundance",
+        "oversupply",
+        "mountain"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Supply or fill to excess.",
+      "examples": [
+        "the factories for recycling paper are glutted",
+        "he was glutting himself on junk food"
+      ],
+      "synonyms": [
+        "cram full",
+        "fill to excess",
+        "overfill",
+        "overload",
+        "oversupply",
+        "saturate",
+        "supersaturate",
+        "flood",
+        "inundate",
+        "deluge",
+        "swamp"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably via Old French from Latin gluttire to swallow; related to glutton.",
+  "pronounciation": "/ɡlət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glut_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A point at which goods are paid for in a supermarket or other store.",
+      "examples": [
+        "packaging that is scanned at the checkout counter"
+      ],
+      "synonyms": [
+        "cash register",
+        "cash box",
+        "cash drawer",
+        "strongbox"
+      ]
+    },
+    {
+      "description": "The administrative procedure followed when a guest leaves a hotel at the end of a stay.",
+      "examples": [
+        "checkout time"
+      ],
+      "synonyms": [
+        "worktop",
+        "work surface",
+        "worktable",
+        "table",
+        "bench",
+        "buffet",
+        "top",
+        "horizontal surface"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃɛkˌaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/checkout_us_2.mp3"
+}

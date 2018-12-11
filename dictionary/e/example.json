@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A thing characteristic of its kind or illustrating a general rule.",
+      "examples": [
+        "it's a good example of how European action can produce results",
+        "some of these carpets are among the finest examples of the period"
+      ],
+      "synonyms": [
+        "specimen",
+        "sample",
+        "exemplar",
+        "exemplification",
+        "instance",
+        "case",
+        "representative case",
+        "typical case",
+        "case in point",
+        "illustration"
+      ]
+    },
+    {
+      "description": "A person or thing regarded in terms of their fitness to be imitated or the likelihood of their being imitated.",
+      "examples": [
+        "it is vitally important that parents should set an example",
+        "she followed her brother's example and deserted her family"
+      ],
+      "synonyms": [
+        "precedent",
+        "lead",
+        "guide",
+        "model",
+        "pattern",
+        "blueprint",
+        "template",
+        "paradigm",
+        "exemplar",
+        "ideal",
+        "standard"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be illustrated or exemplified.",
+      "examples": [
+        "the extent of Allied naval support is exampled by the navigational specialists provided"
+      ]
+    }
+  ],
+  "phrases": [
+    "many, like Helen, for example, come from very poor backgrounds",
+    "There they have been disguised in many cunning ways, for example inside garden sheds.",
+    "When a firm is taken over, for example, there is no obligation on the new owner to shore up a fund in deficit.",
+    "Take, for example, the shutting of a small girl in a locker by three older girls.",
+    "This time last season, for example, Burnley hit a similar run of form having got off to a bad start."
+  ],
+  "origin": "Late Middle English: from Old French, from Latin exemplum, from eximere take out, from ex- out + emere take. Compare with sample.",
+  "pronounciation": "/iɡˈzampəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/example_us_3.mp3"
+}

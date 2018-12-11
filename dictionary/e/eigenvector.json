@@ -1,0 +1,10 @@
+{
+  "noun": [
+    {
+      "description": "A vector which when operated on by a given operator gives a scalar multiple of itself.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈīɡənˌvektər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eigenvector_us_1.mp3"
+}

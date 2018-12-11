@@ -1,0 +1,132 @@
+{
+  "noun": [
+    {
+      "description": "A report or description of an event or experience.",
+      "examples": [
+        "a detailed account of what has been achieved"
+      ],
+      "synonyms": [
+        "description",
+        "report",
+        "version",
+        "story",
+        "narration",
+        "narrative",
+        "statement",
+        "news",
+        "explanation",
+        "exposition",
+        "interpretation",
+        "communiqué",
+        "recital",
+        "rendition",
+        "sketch",
+        "delineation",
+        "portrayal",
+        "tale"
+      ]
+    },
+    {
+      "description": "A record or statement of financial expenditure and receipts relating to a particular period or purpose.",
+      "examples": [
+        "the ledger contains all the income and expense accounts",
+        "he submitted a quarterly account"
+      ],
+      "synonyms": [
+        "financial record",
+        "book",
+        "ledger",
+        "journal",
+        "balance sheet",
+        "financial statement",
+        "results"
+      ]
+    },
+    {
+      "description": "An arrangement by which a body holds funds on behalf of a client or supplies goods or services to the client on credit.",
+      "examples": [
+        "a bank account",
+        "I began buying things on account",
+        "charge it to my account",
+        "I wanted to get some money from the ATM and check my account"
+      ],
+      "synonyms": [
+        "bank account"
+      ]
+    },
+    {
+      "description": "An arrangement by which a user is given personalized access to a computer, website, or application, typically by entering a username and password.",
+      "examples": [
+        "we've reset your password to prevent others from accessing your account"
+      ]
+    },
+    {
+      "description": "Importance.",
+      "examples": [
+        "money was of no account to her"
+      ],
+      "synonyms": [
+        "importance",
+        "import",
+        "significance",
+        "consequence",
+        "moment",
+        "momentousness",
+        "substance",
+        "note",
+        "mark",
+        "prominence",
+        "value",
+        "weightiness",
+        "weight",
+        "concern",
+        "interest",
+        "gravity",
+        "seriousness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Consider or regard in a specified way.",
+      "examples": [
+        "her visit could not be accounted a success",
+        "he accounted himself the unluckiest man alive"
+      ],
+      "synonyms": [
+        "consider",
+        "regard as",
+        "reckon",
+        "hold to be",
+        "think",
+        "think of as",
+        "look on as",
+        "view as",
+        "see as",
+        "take for",
+        "judge",
+        "adjudge",
+        "count",
+        "deem",
+        "rate",
+        "gauge",
+        "interpret as"
+      ]
+    }
+  ],
+  "phrases": [
+    "by all accounts he is a pretty nice guy",
+    "And from all accounts, there have been several such fatalities.",
+    "And from all accounts, many of the residents there have chosen to leave that area.",
+    "This, from all accounts, may be an annual event and everyone who attended had a ball.",
+    "However, from all accounts, our Juvenile athletes appear to be in splendid form.",
+    "I'm going to be more disciplined about my spending habits, and instead of wasting money, I'll account for everything that I spend.",
+    "The money collected was not accounted for but collection was done on a daily basis.",
+    "National has no problem in theory with devolving the management of community programmes and assets to the community itself as long as government money is accounted for.",
+    "However, the ESB must account for all the money it spends.",
+    "The court also indicated that the defendants' fiduciary duty included a responsibility to account for property and money entrusted to them."
+  ],
+  "origin": "Middle English (in the sense counting, to count): from Old French acont (noun), aconter (verb), based on conter to count.",
+  "pronounciation": "/əˈkaʊnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/account_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Ugly or disgusting to look at.",
+      "examples": [
+        "his smile made him look more hideous than ever"
+      ],
+      "synonyms": [
+        "ugly",
+        "unsightly",
+        "repulsive",
+        "repellent",
+        "revolting",
+        "gruesome",
+        "disgusting",
+        "grotesque",
+        "monstrous",
+        "grim",
+        "ghastly",
+        "macabre",
+        "misshapen",
+        "misproportioned",
+        "reptilian"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French hidos, hideus, from hide, hisde fear, of unknown origin.",
+  "pronounciation": "/ˈhidēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hideous_us_1.mp3"
+}

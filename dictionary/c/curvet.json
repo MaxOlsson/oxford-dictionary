@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of a horse) perform a series of jumps on the hind legs.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A graceful or energetic leap.",
+      "examples": [
+        "he sprang from the ice in a swift, frisky curvet"
+      ],
+      "synonyms": [
+        "leap",
+        "jump",
+        "spring",
+        "bounce",
+        "hop",
+        "vault",
+        "hurdle"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Italian corvetta, diminutive of corva, earlier form of curva a curve, from Latin curvus bent.",
+  "pronounciation": "/kərˈvet/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/curvet_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A garland or wreath for a person's head.",
+      "examples": [],
+      "synonyms": [
+        "festoon",
+        "lei",
+        "wreath",
+        "chain",
+        "loop",
+        "ring",
+        "circle",
+        "swathe",
+        "swag"
+      ]
+    },
+    {
+      "description": "A string of 55 beads (one third of the rosary number) for counting prayers, or as a necklace.",
+      "examples": [],
+      "synonyms": [
+        "strand",
+        "rope",
+        "necklace",
+        "rosary"
+      ]
+    },
+    {
+      "description": "A metal support for the core of a hollow casting mold.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French chapelet, diminutive of chapel hat, based on late Latin cappa cap.",
+  "pronounciation": "/ˈCHaplət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chaplet_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is secure and reliable.",
+      "examples": [
+        "their houses were soundly built"
+      ]
+    },
+    {
+      "description": "In a way that is based on valid reason or good judgment.",
+      "examples": [
+        "there is soundly based reason for optimism",
+        "soundly deduced scientific research"
+      ]
+    },
+    {
+      "description": "(with reference to sleep) deeply and without disturbance.",
+      "examples": [
+        "I slept soundly for the first time since I've been here"
+      ]
+    },
+    {
+      "description": "In a thorough or decisive manner.",
+      "examples": [
+        "Jim was soundly defeated by his old opponent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsaʊn(d)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soundly_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Make or cause to make a light, clear ringing sound.",
+      "examples": [
+        "cool water tinkled in the stone fountains",
+        "the maid tinkled a bell"
+      ],
+      "synonyms": [
+        "ring",
+        "jingle",
+        "jangle",
+        "chime",
+        "peal",
+        "ding",
+        "ping",
+        "clink",
+        "chink"
+      ]
+    },
+    {
+      "description": "Urinate.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A light, clear ringing sound.",
+      "examples": [
+        "the distant tinkle of a cowbell"
+      ],
+      "synonyms": [
+        "ring",
+        "chime",
+        "peal",
+        "ding",
+        "ping",
+        "clink",
+        "chink",
+        "jingle",
+        "jangle"
+      ]
+    },
+    {
+      "description": "An act of urinating.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (also in the sense tingle): frequentative of obsolete tink to chink or clink, of imitative origin.",
+  "pronounciation": "/ˈtiNGk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tinkle_us_1.mp3"
+}

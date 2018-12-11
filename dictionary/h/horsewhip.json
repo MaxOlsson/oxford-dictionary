@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A long whip used for driving and controlling horses.",
+      "examples": [],
+      "synonyms": [
+        "whip",
+        "horsewhip",
+        "bullwhip",
+        "switch",
+        "scourge",
+        "flagellum",
+        "cat-o'-nine-tails",
+        "cat",
+        "thong",
+        "flail",
+        "strap",
+        "birch",
+        "cane"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Beat with a horsewhip.",
+      "examples": [
+        "she would horsewhip them mercilessly"
+      ],
+      "synonyms": [
+        "beating",
+        "thrashing",
+        "thumping",
+        "pounding",
+        "pummelling",
+        "drubbing",
+        "slapping",
+        "smacking",
+        "hammering",
+        "hitting",
+        "striking",
+        "punching",
+        "knocking",
+        "thwacking",
+        "cuffing",
+        "buffeting",
+        "battering",
+        "boxing",
+        "mauling",
+        "pelting",
+        "lambasting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhôrsˌ(h)wip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/horsewhip_us_1.mp3"
+}

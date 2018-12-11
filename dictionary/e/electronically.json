@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "By means of electronic equipment or devices.",
+      "examples": [
+        "the information can be recorded electronically",
+        "electronically controlled access gates",
+        "online services that can be accessed electronically"
+      ]
+    },
+    {
+      "description": "In a way that relates to electrons.",
+      "examples": [
+        "molecules that can accept energy to form electronically excited states"
+      ]
+    }
+  ],
+  "pronounciation": "/əˌlekˈtränəklē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/electronically_us_2.mp3"
+}

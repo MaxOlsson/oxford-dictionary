@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A flat surface on which a straight line joining any two points on it would wholly lie.",
+      "examples": [
+        "the horizontal plane"
+      ],
+      "synonyms": [
+        "flat surface",
+        "level surface"
+      ]
+    },
+    {
+      "description": "A level of existence, thought, or development.",
+      "examples": [
+        "everything is connected on the spiritual plane"
+      ],
+      "synonyms": [
+        "level",
+        "stage",
+        "degree",
+        "standard",
+        "stratum"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Completely level or flat.",
+      "examples": [],
+      "synonyms": [
+        "flat",
+        "level",
+        "horizontal",
+        "even",
+        "flush",
+        "levelled",
+        "true"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a bird or an airborne object) soar without moving the wings; glide.",
+      "examples": [
+        "a bird planed down toward the water below"
+      ],
+      "synonyms": [
+        "soar",
+        "glide",
+        "float",
+        "drift",
+        "wheel"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin platanus, from Greek platanos, from platus broad.",
+  "pronounciation": "/plān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3"
+}

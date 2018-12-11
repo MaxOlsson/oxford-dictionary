@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Suffering from disease.",
+      "examples": [
+        "all the diseased cattle have been removed"
+      ],
+      "synonyms": [
+        "unhealthy",
+        "ill",
+        "sick",
+        "unwell",
+        "ailing",
+        "infirm",
+        "sickly",
+        "unsound",
+        "unwholesome",
+        "infected",
+        "septic",
+        "contaminated",
+        "blighted",
+        "rotten",
+        "bad",
+        "abnormal"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈzizd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diseased_us_1.mp3"
+}

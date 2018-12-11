@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A disease caused by an uncontrolled division of abnormal cells in a part of the body.",
+      "examples": [
+        "he's got cancer",
+        "smoking is the major cause of lung cancer"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A constellation (the Crab), said to represent a crab crushed under the foot of Hercules. It is most noted for the globular star cluster of Praesepe (the Beehive cluster).",
+      "examples": []
+    },
+    {
+      "description": "The fourth sign of the zodiac, which the sun enters at the northern summer solstice (about June 21).",
+      "examples": []
+    }
+  ],
+  "origin": "Latin.",
+  "pronounciation": "/ˈkansər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cancer_us_1.mp3"
+}

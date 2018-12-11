@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Become or make more intense.",
+      "examples": [
+        "the dispute began to intensify",
+        "they had intensified their military campaign"
+      ],
+      "synonyms": [
+        "escalate",
+        "step up",
+        "boost",
+        "increase",
+        "raise",
+        "sharpen",
+        "strengthen",
+        "augment",
+        "add to",
+        "concentrate",
+        "reinforce"
+      ]
+    },
+    {
+      "description": "Increase the opacity of (a negative) using a chemical.",
+      "examples": [
+        "the negative may be intensified with bichloride"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: coined by Coleridge.",
+  "pronounciation": "/inˈtensəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intensify_us_1.mp3"
+}

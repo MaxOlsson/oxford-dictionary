@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A person's buttocks or anus.",
+      "examples": [],
+      "synonyms": [
+        "backside",
+        "behind",
+        "seat",
+        "rump",
+        "rear",
+        "rear end"
+      ]
+    },
+    {
+      "description": "A stupid, irritating, or contemptible person.",
+      "examples": [],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Behave in a stupid way; waste time.",
+      "examples": []
+    },
+    {
+      "description": "Make a botched attempt at something.",
+      "examples": []
+    },
+    {
+      "description": "Not want to do something because one has no interest in or enthusiasm for it.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he felt disoriented: everything seemed to be arse about face"
+  ],
+  "origin": "Old English ærs, of Germanic origin; related to Dutch aars and German Arsch. See also ass.",
+  "pronounciation": "/ärs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arse_us_2.mp3"
+}

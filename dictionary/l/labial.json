@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the lips.",
+      "examples": []
+    },
+    {
+      "description": "(of a consonant) requiring complete or partial closure of the lips (e.g., p, b, f, v, m, w), or (of a vowel) requiring rounded lips (e.g., oo in moon).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A labial sound.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from medieval Latin labialis, from Latin labium lip.",
+  "pronounciation": "/ˈleɪbiəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/labial_us_1.mp3"
+}

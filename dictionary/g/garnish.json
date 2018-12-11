@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Decorate or embellish (something, especially food)",
+      "examples": [
+        "salad garnished with an orange slice"
+      ],
+      "synonyms": [
+        "decorate",
+        "adorn",
+        "trim",
+        "dress",
+        "ornament",
+        "embellish",
+        "enhance",
+        "grace",
+        "beautify",
+        "prettify",
+        "brighten up",
+        "set off",
+        "add the finishing touch to"
+      ]
+    },
+    {
+      "description": "Serve with a garnishment.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A decoration or embellishment for something, especially food.",
+      "examples": [],
+      "synonyms": [
+        "decoration",
+        "adornment",
+        "trim",
+        "trimming",
+        "ornament",
+        "ornamentation",
+        "embellishment",
+        "enhancement",
+        "beautification",
+        "finishing touch"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense equip, arm): from Old French garnir, probably of Germanic origin and related to warn. garnish (sense 1 of the verb) dates from the late 17th century.",
+  "pronounciation": "/ˈɡɑrnɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/garnish_us_1.mp3"
+}

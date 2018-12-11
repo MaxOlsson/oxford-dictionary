@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Crush (a hard or brittle foodstuff) with the teeth, making a loud but muffled grinding sound.",
+      "examples": [
+        "she paused to crunch a ginger snap"
+      ],
+      "synonyms": [
+        "munch",
+        "chew noisily",
+        "chomp",
+        "champ",
+        "bite",
+        "gnaw",
+        "masticate"
+      ]
+    },
+    {
+      "description": "Process large amounts of information or perform operations of great complexity, especially by computer.",
+      "examples": [
+        "computers crunch data from real-world observations"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loud muffled grinding sound made when crushing, moving over, or hitting something.",
+      "examples": [
+        "Marco's fist struck Brian's nose with a crunch"
+      ]
+    },
+    {
+      "description": "A crucial point or situation, typically one at which a decision with important consequences must be made.",
+      "examples": [
+        "when it comes to the crunch you chicken out"
+      ],
+      "synonyms": [
+        "moment of truth",
+        "critical point",
+        "crux",
+        "crisis",
+        "decision time",
+        "zero hour",
+        "point of no return"
+      ]
+    },
+    {
+      "description": "A physical exercise designed to strengthen the abdominal muscles; a sit-up.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century (as a verb): variant of 17th-century cranch (probably imitative), by association with crush and munch.",
+  "pronounciation": "/krən(t)SH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crunch_us_1.mp3"
+}

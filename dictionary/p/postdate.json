@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Affix or assign a date later than the actual one to (a document or event)",
+      "examples": [
+        "a postdated check"
+      ]
+    },
+    {
+      "description": "Occur or come at a later date than.",
+      "examples": [
+        "Stonehenge was presumed to postdate these structures"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpoʊs(t)ˈdeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/post_date_1_us_3.mp3"
+}

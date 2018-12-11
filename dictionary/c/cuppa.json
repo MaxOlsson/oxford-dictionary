@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A cup of tea.",
+      "examples": [
+        "a good strong cuppa"
+      ]
+    }
+  ],
+  "contraction": [
+    {
+      "description": "Cup of.",
+      "examples": [
+        "let's have another cuppa coffee"
+      ],
+      "synonyms": [
+        "beverage",
+        "drinkable liquid",
+        "potable liquid",
+        "liquid refreshment",
+        "thirst quencher"
+      ]
+    }
+  ],
+  "origin": "1920s: alteration.",
+  "pronounciation": "/ˈkəpə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cuppa_us_1.mp3"
+}

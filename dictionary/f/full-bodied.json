@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Rich and satisfying in flavor or sound.",
+      "examples": [
+        "a spicy, full-bodied white wine"
+      ],
+      "synonyms": [
+        "full-flavoured",
+        "flavourful",
+        "flavoursome",
+        "full of flavour",
+        "rich",
+        "intense",
+        "fruity",
+        "deep",
+        "heavy",
+        "strong",
+        "robust",
+        "bold",
+        "warm",
+        "mellow",
+        "redolent",
+        "well-matured"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌfo͝olˈbädēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/full_bodied_1_us_1.mp3"
+}

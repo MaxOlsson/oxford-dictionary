@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Not logical or reasonable.",
+      "examples": [
+        "irrational feelings of hostility"
+      ],
+      "synonyms": [
+        "unreasonable",
+        "illogical",
+        "groundless",
+        "baseless",
+        "unfounded",
+        "unjustifiable",
+        "unsound"
+      ]
+    },
+    {
+      "description": "(of a number, quantity, or expression) not expressible as a ratio of two integers, and having an infinite and nonrecurring expansion when expressed as a decimal. Examples of irrational numbers are the number π and the square root of 2.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An irrational number.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin irrationalis, from in- not + rationalis (see rational).",
+  "pronounciation": "/ɪ(r)ˈræʃ(ə)nəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irrational_us_1.mp3"
+}

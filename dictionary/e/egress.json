@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The action of going out of or leaving a place.",
+      "examples": [
+        "direct means of access and egress for passengers"
+      ],
+      "synonyms": [
+        "departure",
+        "leaving",
+        "exit",
+        "withdrawal",
+        "retreat",
+        "pull-out",
+        "exodus",
+        "issue"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go out of or leave (a place)",
+      "examples": [
+        "they'd egress the area by heading southwest"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin egressus gone out, from the verb egredi, from ex- out + gradi to step.",
+  "pronounciation": "/ˈēˌɡres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/egress_us_1.mp3"
+}

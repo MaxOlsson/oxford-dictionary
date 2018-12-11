@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of four parts or elements.",
+      "examples": [
+        "a quadruple murder"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Increase or be increased fourfold.",
+      "examples": [
+        "oil prices quadrupled in the 1970s"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quadruple thing, number, or amount.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): via French from Latin quadruplus, from quadru- four + -plus as in duplus (see duple).",
+  "pronounciation": "/kwäˈdro͞opəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quadruple_us_2.mp3"
+}

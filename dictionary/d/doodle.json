@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Scribble absentmindedly.",
+      "examples": [
+        "he was only doodling in the margin"
+      ],
+      "synonyms": [
+        "write hurriedly",
+        "write untidily",
+        "write illegibly",
+        "scratch",
+        "scrawl",
+        "dash off",
+        "jot",
+        "jot down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rough drawing made absentmindedly.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (originally as a noun denoting a fool, later as a verb in the sense make a fool of, cheat): from Low German dudeltopf, dudeldopp simpleton. Current senses date from the 1930s.",
+  "pronounciation": "/ˈdo͞odl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doodle_us_1.mp3"
+}

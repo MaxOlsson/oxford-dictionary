@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "Subject to further confirmation; for the time being.",
+      "examples": [
+        "the institute has provisionally approved the study"
+      ],
+      "synonyms": [
+        "subject to confirmation",
+        "in an acting capacity",
+        "as a fill-in",
+        "short-term",
+        "pro tem",
+        "temporarily",
+        "for the interim",
+        "for the present",
+        "for the time being",
+        "for now",
+        "for the nonce"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈviZH(ə)n(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/provisionally_us_1.mp3"
+}

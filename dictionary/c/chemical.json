@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to chemistry, or the interactions of substances as studied in chemistry.",
+      "examples": [
+        "the chemical composition of the atmosphere"
+      ],
+      "synonyms": [
+        "technological",
+        "technical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A compound or substance that has been purified or prepared, especially artificially.",
+      "examples": [
+        "never mix disinfectant with other chemicals",
+        "controversy arose over treatment of apples with this chemical"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French chimique or modern Latin chimicus, chymicus, from medieval Latin alchymicus, from alchimia (see alchemy).",
+  "pronounciation": "/ˈkemək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chemical_us_1.mp3"
+}

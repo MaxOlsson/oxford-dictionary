@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A weakness, especially in character; a shortcoming.",
+      "examples": [
+        "pride is a terrible failing"
+      ],
+      "synonyms": [
+        "fault",
+        "shortcoming",
+        "weakness",
+        "weak point",
+        "weak spot",
+        "imperfection",
+        "defect",
+        "flaw",
+        "blemish",
+        "frailty",
+        "infirmity",
+        "foible",
+        "quirk",
+        "idiosyncrasy",
+        "vice"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "In default of; in the absence of.",
+      "examples": [
+        "she longed to be with him and, failing that, to be on her own"
+      ],
+      "synonyms": [
+        "in the absence of",
+        "in default of",
+        "lacking",
+        "wanting",
+        "notwithstanding"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfeɪlɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/failing_us_1.mp3"
+}

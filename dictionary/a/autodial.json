@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "(of a device) automatically dial a phone number or establish a connection with a computer.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A facility incorporated into a phone, computer, etc., that enables the device to dial and establish a connection with a particular number stored in its memory, either automatically or when activated by a simple command.",
+      "examples": [
+        "have a telephone with autodial by your bed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɔdoʊˌdaɪ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/autodial_us_1.mp3"
+}

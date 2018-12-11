@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a fabric) treated so as to be nonflammable.",
+      "examples": [],
+      "synonyms": [
+        "non-flammable",
+        "non-inflammable",
+        "flame-resistant",
+        "fire-resistant",
+        "flame-retardant",
+        "incombustible",
+        "uninflammable",
+        "unburnable"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) flameproof.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfleɪmˌpruf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flameproof_us_1.mp3"
+}

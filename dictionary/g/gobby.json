@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) tending to talk too loudly and in a blunt or opinionated way.",
+      "examples": [
+        "a gobby Glaswegian"
+      ],
+      "synonyms": [
+        "talkative",
+        "loquacious",
+        "voluble",
+        "verbose",
+        "long-winded",
+        "chatty",
+        "chattery",
+        "chattering",
+        "gossipy",
+        "gossiping",
+        "babbling",
+        "blathering",
+        "prattling",
+        "prating",
+        "jabbering",
+        "gushing",
+        "effusive",
+        "expansive",
+        "forthcoming",
+        "conversational",
+        "communicative"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡɒbi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gobby_gb_1.mp3"
+}

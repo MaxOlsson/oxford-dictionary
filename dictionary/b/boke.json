@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Vomit.",
+      "examples": [
+        "he's just boked all over me!"
+      ],
+      "synonyms": [
+        "be sick",
+        "spew",
+        "spew up",
+        "fetch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance or episode of vomiting.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English bolke; related to belch. Compare with bolk.",
+  "pronounciation": "/bəʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boke_gb_1.mp3"
+}

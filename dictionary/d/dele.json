@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Delete or mark (a part of a text) for deletion.",
+      "examples": [],
+      "synonyms": [
+        "remove",
+        "cut out",
+        "take out",
+        "edit out",
+        "expunge",
+        "excise",
+        "eradicate",
+        "cancel",
+        "unpublish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A proofreader's sign indicating matter to be deleted.",
+      "examples": []
+    }
+  ],
+  "origin": "Latin, blot out! efface!, imperative of delere.",
+  "pronounciation": "/ˈdili/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dele_us_1.mp3"
+}

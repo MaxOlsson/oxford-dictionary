@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A decline in economic, business, or other activity.",
+      "examples": [
+        "a downturn in the housing market"
+      ],
+      "synonyms": [
+        "setbacks",
+        "upsets",
+        "reverses",
+        "reversals",
+        "reversals of fortune",
+        "downturns",
+        "mishaps",
+        "strokes of ill luck",
+        "strokes of bad luck",
+        "accidents",
+        "shocks",
+        "vicissitudes",
+        "crises",
+        "catastrophes",
+        "tragedies",
+        "calamities",
+        "trials",
+        "crosses",
+        "knocks",
+        "burdens",
+        "blows",
+        "buffets"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn (something) downward.",
+      "examples": [
+        "his downturned mouth"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdaʊnˌtərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downturn_us_1.mp3"
+}

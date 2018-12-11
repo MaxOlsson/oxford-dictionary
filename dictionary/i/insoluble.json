@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Impossible to solve.",
+      "examples": [
+        "the problem is not insoluble"
+      ],
+      "synonyms": [
+        "unsolvable",
+        "insolvable",
+        "unable to be solved",
+        "without a solution",
+        "unanswerable",
+        "unresolvable"
+      ]
+    },
+    {
+      "description": "(of a substance) incapable of being dissolved.",
+      "examples": [
+        "once dry, the paints become insoluble in water"
+      ],
+      "synonyms": [
+        "not soluble",
+        "indissoluble",
+        "incapable of dissolving"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin insolubilis, from in- not + solubilis (see soluble).",
+  "pronounciation": "/ɪnˈsɑljəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insoluble_us_1.mp3"
+}

@@ -1,0 +1,94 @@
+{
+  "noun": [
+    {
+      "description": "A thing said, written, or done to deal with or as a reaction to a question, statement, or situation.",
+      "examples": [
+        "he knocked and entered without waiting for an answer"
+      ],
+      "synonyms": [
+        "reply",
+        "response",
+        "rejoinder",
+        "return",
+        "reaction"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Say or write something to deal with or as a reaction to someone or something.",
+      "examples": [
+        "“Of course I can,” she answered",
+        "she answered that she would take nothing but the ring",
+        "she tried to answer his questions truthfully",
+        "Steve was about to answer, but Hazel spoke first",
+        "I didn't answer him"
+      ],
+      "synonyms": [
+        "reply",
+        "respond",
+        "say in response",
+        "speak in response",
+        "make a rejoinder",
+        "rejoin"
+      ]
+    },
+    {
+      "description": "Act in reaction to (a sound such as a telephone ringing or a knock or ring on a door)",
+      "examples": [
+        "David answered the door",
+        "she called Edward's house, hoping he would answer"
+      ]
+    },
+    {
+      "description": "Be responsible or report to (someone)",
+      "examples": [
+        "I answer to the assistant commissioner"
+      ],
+      "synonyms": [
+        "report",
+        "be accountable",
+        "be answerable",
+        "be responsible"
+      ]
+    },
+    {
+      "description": "Defend oneself against (a charge, accusation, or criticism)",
+      "examples": [
+        "he said he would return to Spain to answer all charges"
+      ],
+      "synonyms": [
+        "rebut",
+        "refute",
+        "defend oneself against"
+      ]
+    },
+    {
+      "description": "Be suitable for fulfilling (a need); satisfy.",
+      "examples": [
+        "entrepreneurship is necessary to answer the needs of national and international markets",
+        "nothing short of that would answer"
+      ],
+      "synonyms": [
+        "satisfy",
+        "meet",
+        "fulfil",
+        "fill",
+        "serve",
+        "suit",
+        "measure up to",
+        "match up to"
+      ]
+    }
+  ],
+  "phrases": [
+    "he answers the description of being slightly taller than his two supposed companions",
+    "I have a number of documents in my possession which answer the description of the documents described in the subpoena.",
+    "Beat officers were alerted, and asked to look out for any car answering the description of the one in the area at the times reported.",
+    "One can postulate that a person who is born here, has lived here all their life, has parents who are citizens, may well be a person who could not possibly answer the description of an alien.",
+    "He answers the description of the murder suspect."
+  ],
+  "origin": "Old English andswaru (noun), andswarian (verb), of Germanic origin; from a base shared by swear.",
+  "pronounciation": "/ˈænsər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/answer_us_1.mp3"
+}

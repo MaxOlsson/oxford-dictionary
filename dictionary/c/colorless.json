@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a gas or liquid) without color.",
+      "examples": [],
+      "synonyms": [
+        "uncoloured",
+        "white",
+        "bleached",
+        "faded",
+        "washed out"
+      ]
+    },
+    {
+      "description": "Lacking distinctive character or interest; dull.",
+      "examples": [
+        "the book is rather colorless, like its author"
+      ],
+      "synonyms": [
+        "uninteresting",
+        "dull",
+        "boring",
+        "tedious",
+        "monotonous",
+        "dry",
+        "drab",
+        "dreary",
+        "wearisome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkələrləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colorless_us_2.mp3"
+}

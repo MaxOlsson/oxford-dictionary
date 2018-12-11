@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "Accept or act in accordance with (a rule, decision, or recommendation)",
+      "examples": [
+        "I said I would abide by their decision"
+      ],
+      "synonyms": [
+        "comply with",
+        "obey",
+        "observe",
+        "follow",
+        "keep to",
+        "hold to",
+        "conform to",
+        "adhere to",
+        "stick to",
+        "stand by",
+        "act in accordance with",
+        "uphold",
+        "heed",
+        "pay attention to",
+        "agree to",
+        "agree with",
+        "consent to",
+        "accede to",
+        "accept",
+        "acquiesce in",
+        "go along with",
+        "acknowledge",
+        "respect",
+        "defer to"
+      ]
+    },
+    {
+      "description": "Be unable to tolerate (someone or something)",
+      "examples": [
+        "if there is one thing I cannot abide it is a lack of discipline"
+      ],
+      "synonyms": [
+        "tolerate",
+        "bear",
+        "stand",
+        "put up with",
+        "endure",
+        "suffer",
+        "accept",
+        "cope with",
+        "live with",
+        "brook",
+        "support",
+        "take",
+        "countenance",
+        "face",
+        "handle"
+      ]
+    },
+    {
+      "description": "(of a feeling or memory) continue without fading or being lost.",
+      "examples": [],
+      "synonyms": [
+        "continue",
+        "remain",
+        "survive",
+        "last",
+        "persist",
+        "stay",
+        "hold on",
+        "live on"
+      ]
+    }
+  ],
+  "origin": "Old English ābīdan wait, from ā- onwards + bīdan (see bide).",
+  "pronounciation": "/əˈbaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abide_us_1.mp3"
+}

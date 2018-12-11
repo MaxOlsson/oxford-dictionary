@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Obtain in exchange for payment.",
+      "examples": [
+        "he had been able to buy up hundreds of acres",
+        "he bought me a new dress",
+        "we had to find some money to buy a house",
+        "had no interest in buying into an entertainment company"
+      ],
+      "synonyms": [
+        "purchase",
+        "make a purchase of",
+        "make the purchase of",
+        "acquire",
+        "obtain",
+        "get",
+        "pick up",
+        "snap up"
+      ]
+    },
+    {
+      "description": "Accept the truth of.",
+      "examples": [
+        "I am not prepared to buy the claim that the ends justify the means",
+        "I hate to buy into stereotypes"
+      ],
+      "synonyms": [
+        "accept",
+        "agree to",
+        "consent to",
+        "assent to",
+        "acquiesce in",
+        "concur in",
+        "accede to",
+        "give one's blessing to",
+        "bless",
+        "give one's seal of approval to",
+        "give one's stamp of approval to",
+        "rubber-stamp",
+        "say yes to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A purchase.",
+      "examples": [
+        "the wine is a good buy at $3.49"
+      ],
+      "synonyms": [
+        "purchase",
+        "deal",
+        "bargain",
+        "investment",
+        "acquisition",
+        "addition",
+        "gain",
+        "asset",
+        "possession",
+        "holding"
+      ]
+    }
+  ],
+  "phrases": [
+    "his friends had bought it in the jungle",
+    "There's always hope that talks will lead to some collateral benefit - such as buying time for policy-makers without any new ideas.",
+    "Or is he buying time to deal with his detractors and re-emerge?",
+    "But the suspension buys time, if only a few months, and raises the stakes for a resumption.",
+    "Clearly, both parties in the process are, in the main, buying time, and there is little by way of a concrete strategy for resolution."
+  ],
+  "origin": "Old English bycgan, of Germanic origin.",
+  "pronounciation": "/bī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/buy_us_1.mp3"
+}

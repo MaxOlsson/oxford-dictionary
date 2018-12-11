@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Forming, situated on, or relating to the outside of something.",
+      "examples": [
+        "exterior and interior walls"
+      ],
+      "synonyms": [
+        "outer",
+        "outside",
+        "outermost",
+        "outward",
+        "external",
+        "surface",
+        "superficial",
+        "extrinsic",
+        "visible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The outer surface or structure of something.",
+      "examples": [
+        "a jar with floral designs on the exterior"
+      ],
+      "synonyms": [
+        "surface",
+        "lamination",
+        "overlay",
+        "facing",
+        "covering",
+        "coat",
+        "finish",
+        "finishing coat",
+        "layer",
+        "decorative layer",
+        "protective layer",
+        "cladding"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin, comparative of exter outer.",
+  "pronounciation": "/ˌikˈstirēər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exterior_us_1.mp3"
+}

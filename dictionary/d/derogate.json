@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "Detract from.",
+      "examples": [
+        "this does not derogate from his duty to act honestly and faithfully"
+      ],
+      "synonyms": [
+        "detract from",
+        "devalue",
+        "diminish"
+      ]
+    },
+    {
+      "description": "Deviate from (a set of rules or agreed form of behavior)",
+      "examples": [
+        "one country has derogated from the Rome Convention"
+      ],
+      "synonyms": [
+        "deviate",
+        "diverge",
+        "depart",
+        "take away",
+        "digress",
+        "veer",
+        "swerve",
+        "drift",
+        "stray"
+      ]
+    },
+    {
+      "description": "Disparage (someone or something)",
+      "examples": [
+        "it is typical of Pirandello to derogate the powers of reason"
+      ],
+      "synonyms": [
+        "disparage",
+        "denigrate",
+        "belittle",
+        "diminish",
+        "deprecate",
+        "downplay",
+        "detract from",
+        "deflate",
+        "decry",
+        "discredit",
+        "cast aspersions on",
+        "downgrade",
+        "slight",
+        "run down",
+        "criticize",
+        "defame",
+        "vilify",
+        "abuse",
+        "insult",
+        "attack",
+        "speak ill of",
+        "speak evil of",
+        "pour scorn on"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin derogat- abrogated, from the verb derogare, from de- aside, away + rogare ask.",
+  "pronounciation": "/ˈderəˌɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/derogate_us_1.mp3"
+}

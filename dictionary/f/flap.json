@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "(of a bird) move (its wings) up and down when flying or preparing to fly.",
+      "examples": [
+        "a pheasant flapped its wings",
+        "gulls flapped around uttering their strange cries"
+      ],
+      "synonyms": [
+        "beat",
+        "flutter",
+        "move up and down",
+        "agitate",
+        "wave",
+        "wag",
+        "waggle",
+        "shake",
+        "swing",
+        "twitch"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of something thin, such as cloth, paper, or metal, hinged or attached only on one side, that covers an opening or hangs down from something.",
+      "examples": [
+        "the flap of the envelope",
+        "he pushed through the tent flap"
+      ],
+      "synonyms": [
+        "fold",
+        "overhang",
+        "overlap",
+        "covering"
+      ]
+    },
+    {
+      "description": "A movement of a wing or an arm from side to side or up and down.",
+      "examples": [
+        "the surviving bird made a few final despairing flaps"
+      ],
+      "synonyms": [
+        "flutter",
+        "fluttering",
+        "beat",
+        "beating",
+        "waving",
+        "shaking",
+        "flailing"
+      ]
+    },
+    {
+      "description": "A state of agitation; a panic.",
+      "examples": [
+        "they're in a flap over who's going to take Henry's lectures"
+      ],
+      "synonyms": [
+        "panic",
+        "fluster",
+        "state of agitation",
+        "state of panic"
+      ]
+    },
+    {
+      "description": "A large broad mushroom.",
+      "examples": []
+    },
+    {
+      "description": "A type of consonant produced by allowing the tip of the tongue to strike the alveolar ridge very briefly.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: probably imitative.",
+  "pronounciation": "/flap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flap_us_1.mp3"
+}

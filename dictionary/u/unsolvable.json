@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be solved.",
+      "examples": [],
+      "synonyms": [
+        "inexplicable",
+        "unexplainable",
+        "insoluble",
+        "incomprehensible",
+        "beyond comprehension",
+        "beyond understanding",
+        "unfathomable",
+        "impenetrable",
+        "puzzling",
+        "perplexing",
+        "baffling",
+        "bewildering",
+        "mystifying",
+        "mysterious",
+        "arcane",
+        "inscrutable",
+        "peculiar",
+        "unusual",
+        "curious",
+        "strange",
+        "freak",
+        "freakish",
+        "unparalleled",
+        "queer",
+        "odd",
+        "bizarre",
+        "extraordinary",
+        "astonishing",
+        "obscure",
+        "abstruse",
+        "enigmatic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsɑlvəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsolvable_us_1.mp3"
+}

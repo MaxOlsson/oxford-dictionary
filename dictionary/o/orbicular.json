@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having the shape of a flat ring or disk.",
+      "examples": []
+    },
+    {
+      "description": "Having a rounded convex or globular shape.",
+      "examples": [],
+      "synonyms": [
+        "round",
+        "bulbous",
+        "spherical"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin orbicularis, from Latin orbiculus, diminutive of orbis ring.",
+  "pronounciation": "/ɔrˈbɪkjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/orbicular_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "(of a vehicle or boat) move slowly with engine making regular muffled explosive sounds.",
+      "examples": [
+        "a cabin cruiser was chugging down the river"
+      ],
+      "synonyms": [
+        "move laboriously",
+        "strain",
+        "struggle",
+        "drag oneself",
+        "fight one's way",
+        "labour"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A muffled explosive sound or sounds.",
+      "examples": [
+        "the chug of a motorboat"
+      ]
+    }
+  ],
+  "origin": "1950s: imitative.",
+  "pronounciation": "/CHəɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chug_us_1.mp3"
+}

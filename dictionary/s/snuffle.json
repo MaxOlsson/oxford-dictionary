@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Breathe noisily through the nose due to a cold or crying.",
+      "examples": [
+        "Alice was weeping quietly, snuffling a little"
+      ],
+      "synonyms": [
+        "inhale",
+        "snuffle",
+        "breathe in",
+        "snuff",
+        "snuff up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sniff or sniffing sound.",
+      "examples": [
+        "a silence broken only by the faint snuffles of the dogs"
+      ],
+      "synonyms": [
+        "snuffle"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: probably from Low German and Dutch snuffelen; compare with snuff and snivel.",
+  "pronounciation": "/ˈsnəfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snuffle_us_1.mp3"
+}

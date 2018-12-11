@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not properly planned and controlled.",
+      "examples": [
+        "the campaign was hopelessly disorganized"
+      ],
+      "synonyms": [
+        "disorderly",
+        "disordered",
+        "unorganized",
+        "mixed up",
+        "jumbled",
+        "muddled",
+        "untidy",
+        "messy",
+        "cluttered",
+        "chaotic",
+        "confused",
+        "topsy-turvy",
+        "haphazard",
+        "random"
+      ]
+    }
+  ],
+  "pronounciation": "/dɪsˈɔrɡəˌnaɪzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disorganized_us_1.mp3"
+}

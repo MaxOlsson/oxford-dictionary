@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "A ship's allotted place at a wharf or dock.",
+      "examples": [],
+      "synonyms": [
+        "docking site",
+        "anchorage",
+        "mooring"
+      ]
+    },
+    {
+      "description": "A fixed bed or bunk on a ship, train, or other means of transport.",
+      "examples": [],
+      "synonyms": [
+        "bunk",
+        "bed",
+        "bunk bed",
+        "cot",
+        "couch",
+        "hammock"
+      ]
+    },
+    {
+      "description": "(often in a sports context) a situation or position in an organization or event.",
+      "examples": [
+        "today's victory clinched a berth for the Orioles in the playoffs"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Moor (a ship) in its allotted place.",
+      "examples": [
+        "these modern ships can almost berth themselves"
+      ],
+      "synonyms": [
+        "moor",
+        "harbour",
+        "be at anchor",
+        "tie up"
+      ]
+    },
+    {
+      "description": "(of a passenger ship) provide a sleeping place for (someone).",
+      "examples": [],
+      "synonyms": [
+        "accommodate",
+        "sleep",
+        "provide beds for",
+        "put up",
+        "house",
+        "shelter",
+        "lodge"
+      ]
+    }
+  ],
+  "phrases": [
+    "ships are advised to give a wide berth to the Outer Banks",
+    "Give a wide berth to the foaming surf, and hug these cliffs, or before you can stop her the ship may take us over there and we'll be wrecked.",
+    "The anchor was weighed, the sails set and with the canoe in tow the little vessel bounded merrily over the waters, gave a wide berth to the reef, against whose frowning rocks the sea still lashed itself to foam, and kept away from the cove, where the English ship unconsciously awaited us.",
+    "Recreational boaters are advised to give a wide berth to the massive cruise ships Queen Mary 2 and Queen Elizabeth 2 when they visit Sydney Harbour tomorrow.",
+    "When they neared Barbers Point they too saw a large column of Army planes and so gave them a wide berth and continued on toward Ford Island."
+  ],
+  "origin": "Early 17th century (in the sense adequate sea room): probably from a nautical use of bear + -th.",
+  "pronounciation": "/bərθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/berth_us_1.mp3"
+}

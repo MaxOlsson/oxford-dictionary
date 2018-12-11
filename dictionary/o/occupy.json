@@ -1,0 +1,67 @@
+{
+  "verb": [
+    {
+      "description": "Reside or have one's place of business in (a building)",
+      "examples": [
+        "the apartment she occupies in Manhattan"
+      ],
+      "synonyms": [
+        "inhabited",
+        "lived-in",
+        "tenanted",
+        "settled"
+      ]
+    },
+    {
+      "description": "Fill or preoccupy (the mind or thoughts)",
+      "examples": [
+        "her mind was occupied with alarming questions"
+      ],
+      "synonyms": [
+        "engage",
+        "busy",
+        "employ",
+        "distract",
+        "absorb",
+        "engross",
+        "preoccupy",
+        "hold",
+        "hold the attention of",
+        "immerse",
+        "interest",
+        "involve",
+        "entertain",
+        "divert",
+        "amuse",
+        "beguile"
+      ]
+    },
+    {
+      "description": "Take control of (a place, especially a country) by military conquest or settlement.",
+      "examples": [
+        "the region was occupied by Britain during World War I"
+      ],
+      "synonyms": [
+        "capture",
+        "seize",
+        "take possession of",
+        "conquer",
+        "invade",
+        "overrun",
+        "take over",
+        "colonize",
+        "garrison",
+        "annex",
+        "dominate",
+        "subjugate",
+        "hegemonize",
+        "hold",
+        "commandeer",
+        "requisition"
+      ]
+    }
+  ],
+  "origin": "Middle English: formed irregularly from Old French occuper, from Latin occupare seize. A now obsolete vulgar sense have sexual relations with seems to have led to the general avoidance of the word in the 17th and most of the 18th century.",
+  "pronounciation": "/ˈäkyəˌpī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/occupy_us_1.mp3"
+}

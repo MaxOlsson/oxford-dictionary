@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Most important, powerful, or influential.",
+      "examples": [
+        "they are now in an even more dominant position in the market"
+      ],
+      "synonyms": [
+        "presiding",
+        "ruling",
+        "governing",
+        "controlling",
+        "commanding",
+        "ascendant",
+        "supreme",
+        "authoritative",
+        "most influential",
+        "most powerful",
+        "superior"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dominant trait or gene.",
+      "examples": []
+    },
+    {
+      "description": "The fifth note of the diatonic scale of any key, or the key based on this, considered in relation to the key of the tonic.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin dominant- ruling, governing, from the verb dominari (see dominate).",
+  "pronounciation": "/ˈdɑmənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dominant_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Not fixed in a definite place or position; unfastened or loose.",
+      "examples": [
+        "the green cloth cover had become unfixed in a dozen places"
+      ],
+      "synonyms": [
+        "in motion",
+        "operating",
+        "operational",
+        "working",
+        "going",
+        "on the move",
+        "active"
+      ]
+    },
+    {
+      "description": "Uncertain or variable.",
+      "examples": [
+        "motives in that play seem unfixed"
+      ],
+      "synonyms": [
+        "variable",
+        "inconstant",
+        "varying",
+        "changing",
+        "shifting",
+        "fluctuating",
+        "irregular",
+        "erratic",
+        "wavering",
+        "vacillating",
+        "inconsistent",
+        "fluid",
+        "floating",
+        "unsteady",
+        "uneven",
+        "unstable",
+        "unsettled",
+        "turbulent",
+        "movable",
+        "mutable",
+        "chameleon-like"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfikst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfixed_us_1.mp3"
+}

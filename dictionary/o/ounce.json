@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A unit of weight of one sixteenth of a pound avoirdupois (approximately 28 grams).",
+      "examples": []
+    },
+    {
+      "description": "A very small amount of something.",
+      "examples": [
+        "Robin summoned up every ounce of strength"
+      ],
+      "synonyms": [
+        "particle",
+        "scrap",
+        "bit",
+        "speck",
+        "iota",
+        "whit",
+        "jot",
+        "trace",
+        "atom",
+        "shred",
+        "crumb",
+        "fragment",
+        "grain",
+        "drop",
+        "spot",
+        "mite",
+        "tittle",
+        "jot or tittle",
+        "modicum"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French once, earlier lonce (the l- being misinterpreted as the definite article), based on Latin lynx, lync- (see lynx).",
+  "pronounciation": "/aʊns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ounce_us_1.mp3"
+}

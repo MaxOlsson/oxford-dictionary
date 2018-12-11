@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of a locking mechanism or switch) operated by a key.",
+      "examples": [
+        "keyed locks for windows",
+        "executive floors with private keyed elevator access"
+      ]
+    },
+    {
+      "description": "Produced by pressing keys on a computer keyboard, telephone pad, etc.",
+      "examples": [
+        "keyed data",
+        "keyed passages"
+      ]
+    },
+    {
+      "description": "(of a map, table, etc.) having an explanatory list of symbols.",
+      "examples": [
+        "a keyed map"
+      ]
+    }
+  ],
+  "pronounciation": "/kid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/keyed_us_1.mp3"
+}

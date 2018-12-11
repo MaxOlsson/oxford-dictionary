@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "Causing or meant to cause laughter.",
+      "examples": [
+        "comic and fantastic exaggeration"
+      ],
+      "synonyms": [
+        "humorous",
+        "funny",
+        "droll",
+        "amusing",
+        "entertaining",
+        "diverting",
+        "absurd",
+        "ridiculous",
+        "comical",
+        "chucklesome",
+        "farcical",
+        "silly",
+        "slapstick",
+        "hilarious",
+        "uproarious",
+        "hysterical",
+        "hysterically funny",
+        "zany"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A comedian, especially a professional one.",
+      "examples": [
+        "a stand-up comic"
+      ],
+      "synonyms": [
+        "comedian",
+        "comedienne",
+        "funny man",
+        "funny woman",
+        "comedy actor",
+        "comedy actress",
+        "humorist",
+        "wit",
+        "wag",
+        "quipster"
+      ]
+    },
+    {
+      "description": "Comic strips.",
+      "examples": [],
+      "synonyms": [
+        "cartoon paper",
+        "comic paper",
+        "funny magazine",
+        "comic book",
+        "graphic novel"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: via Latin from Greek kōmikos, from kōmos revel.",
+  "pronounciation": "/ˈkämik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comic_us_1.mp3"
+}

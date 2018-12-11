@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Talk incessantly; chatter.",
+      "examples": [
+        "dear old Betty was yattering at me on Sunday"
+      ],
+      "synonyms": [
+        "chat",
+        "talk idly",
+        "chatter",
+        "prattle",
+        "prate",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "ramble",
+        "gabble",
+        "jabber",
+        "babble",
+        "blather",
+        "blether",
+        "blither",
+        "twitter",
+        "maunder",
+        "drivel",
+        "patter",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Incessant talk.",
+      "examples": [
+        "there is no place like home for random yatter"
+      ],
+      "synonyms": [
+        "prattle",
+        "chatter",
+        "twitter",
+        "babble",
+        "talk",
+        "prating",
+        "gabble",
+        "jabber",
+        "blether",
+        "rambling"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: imitative, perhaps suggested by yammer and chatter.",
+  "pronounciation": "/ˈyadər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yatter_us_1.mp3"
+}

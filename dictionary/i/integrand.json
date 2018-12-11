@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A function that is to be integrated.",
+      "examples": [],
+      "synonyms": [
+        "component",
+        "constituent",
+        "part",
+        "section",
+        "portion",
+        "piece",
+        "segment",
+        "bit"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from Latin integrandus, gerundive of integrare (see integrate).",
+  "pronounciation": "/ˈin(t)əɡrənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/integrand_us_1.mp3"
+}

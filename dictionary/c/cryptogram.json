@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "A text written in code.",
+      "examples": [],
+      "synonyms": [
+        "symbols",
+        "signs",
+        "ciphers",
+        "code"
+      ]
+    },
+    {
+      "description": "A symbol or figure with secret or occult significance.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkriptəˌɡram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cryptogram_us_1.mp3"
+}

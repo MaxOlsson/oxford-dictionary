@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Personal belongings packed in suitcases for traveling; luggage.",
+      "examples": [],
+      "synonyms": [
+        "luggage",
+        "suitcases",
+        "cases",
+        "bags",
+        "trunks"
+      ]
+    },
+    {
+      "description": "Past experiences or long-held ideas regarded as burdens and impediments.",
+      "examples": [
+        "the emotional baggage I'm hauling around",
+        "the party jettisoned its traditional ideological baggage"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French bagage (from baguer tie up), or bagues bundles; perhaps related to bag.",
+  "pronounciation": "/ˈbaɡij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baggage_us_1.mp3"
+}

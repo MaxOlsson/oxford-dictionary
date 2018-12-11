@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Three times as great or as numerous.",
+      "examples": [
+        "a threefold increase in the number of stolen cars"
+      ],
+      "synonyms": [
+        "three-way",
+        "tripartite"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "By three times; to three times the number or amount.",
+      "examples": [
+        "the aftershocks intensify threefold each time"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈTHrēˌfōld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/threefold_us_1_rr.mp3"
+}

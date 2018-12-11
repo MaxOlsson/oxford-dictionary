@@ -1,0 +1,133 @@
+{
+  "preposition": [
+    {
+      "description": "In the time following (an event or another period of time)",
+      "examples": [
+        "after a while he returned",
+        "shortly after Christmas",
+        "there's only one thing to do after an experience like that"
+      ],
+      "synonyms": [
+        "following",
+        "subsequent to",
+        "succeeding",
+        "at the close of",
+        "at the end of",
+        "in the wake of",
+        "later than"
+      ]
+    },
+    {
+      "description": "Behind.",
+      "examples": [
+        "she went out, shutting the door after her"
+      ],
+      "synonyms": [
+        "behind",
+        "following",
+        "in the rear of"
+      ]
+    },
+    {
+      "description": "In pursuit or quest of.",
+      "examples": [
+        "chasing after something you can't have",
+        "most of them are after money",
+        "Jenny still yearned after him"
+      ],
+      "synonyms": [
+        "in pursuit of",
+        "in someone's direction",
+        "following",
+        "on the track of",
+        "in the tracks of",
+        "in someone's footsteps"
+      ]
+    },
+    {
+      "description": "Next to and following in order or importance.",
+      "examples": [
+        "in their order of priorities health comes after housing",
+        "x comes after y in the series"
+      ],
+      "synonyms": [
+        "next to",
+        "beside",
+        "besides",
+        "following",
+        "nearest to",
+        "below",
+        "immediately inferior to"
+      ]
+    },
+    {
+      "description": "In allusion to (someone or something with the same or a related name)",
+      "examples": [
+        "they named her Pauline, after Barbara's mother"
+      ],
+      "synonyms": [
+        "in honour of",
+        "as a tribute to",
+        "as a mark of respect to",
+        "the same as"
+      ]
+    },
+    {
+      "description": "Concerning or about.",
+      "examples": [
+        "she has asked after Iris's mother"
+      ]
+    }
+  ],
+  "adverb &amp; conjunction": [
+    {
+      "description": "During the period of time following (an event)",
+      "examples": [
+        "bath time ended in a flood after the taps were left running",
+        "Duke Frederick died soon after"
+      ],
+      "synonyms": [
+        "later",
+        "following",
+        "afterwards",
+        "after that",
+        "after this",
+        "subsequently"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Later.",
+      "examples": [
+        "he was sorry in after years"
+      ],
+      "synonyms": [
+        "subsequent",
+        "following",
+        "succeeding",
+        "future",
+        "upcoming",
+        "to come",
+        "ensuing",
+        "next"
+      ]
+    },
+    {
+      "description": "Nearer the stern of a ship.",
+      "examples": [
+        "the after cabin"
+      ]
+    }
+  ],
+  "phrases": [
+    "I called and told her I couldn't come after all",
+    "you are my counselor, after all",
+    "Who, after all, had set the standards for good English to which we should all aspire?",
+    "Perhaps the house will be granted a touch of her theatrical design flair, after all.",
+    "It would have been so easy, after all, simply to leak his name if that's what they wanted."
+  ],
+  "origin": "Old English æfter, of Germanic origin; related to Dutch achter.",
+  "pronounciation": "/ˈæftər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/after_1_us_1.mp3"
+}

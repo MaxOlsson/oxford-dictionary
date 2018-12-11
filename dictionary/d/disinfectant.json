@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A chemical liquid that destroys bacteria.",
+      "examples": [],
+      "synonyms": [
+        "bactericide",
+        "germicide",
+        "antiseptic",
+        "sterilizer",
+        "sanitizer",
+        "cleaning agent",
+        "cleansing agent",
+        "cleanser",
+        "decontaminant"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Causing the destruction of bacteria.",
+      "examples": [
+        "cleansing and disinfectant products"
+      ],
+      "synonyms": [
+        "disinfectant",
+        "germicidal",
+        "bactericidal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdɪsənˈfɛktənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disinfectant_us_1.mp3"
+}

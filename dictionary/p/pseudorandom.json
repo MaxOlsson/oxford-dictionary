@@ -1,0 +1,13 @@
+{
+  "adjective": [
+    {
+      "description": "(of a number, a sequence of numbers, or any digital data) satisfying one or more statistical tests for randomness but produced by a definite mathematical procedure.",
+      "examples": [
+        "most computers have built-in functions which will generate sequences of pseudorandom numbers",
+        "pseudorandom noise"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌso͞odōˈrandəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pseudorandom_us_2.mp3"
+}

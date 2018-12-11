@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Press against (something) lightly with a piece of absorbent material in order to clean or dry it.",
+      "examples": [
+        "he dabbed his mouth with his napkin",
+        "she dabbed at her eyes with a handkerchief"
+      ],
+      "synonyms": [
+        "pat",
+        "press",
+        "touch",
+        "blot",
+        "mop",
+        "swab",
+        "smudge"
+      ]
+    },
+    {
+      "description": "Aim at or strike with a light blow.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small amount of something.",
+      "examples": [
+        "she licked a dab of chocolate from her finger"
+      ],
+      "synonyms": [
+        "drop",
+        "dash",
+        "spot",
+        "smear",
+        "dribble",
+        "trickle",
+        "splash",
+        "sprinkle",
+        "speck",
+        "taste",
+        "lick",
+        "trace",
+        "touch",
+        "hint",
+        "suggestion",
+        "soupçon",
+        "particle",
+        "bit",
+        "modicum"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Digital audio broadcasting.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 21st century: possibly related to dab (noun) in the sense a small portion of cannabis oil or resin.",
+  "pronounciation": "/ˌdiˌeɪˈbi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dab_1_us_1_abbr.mp3"
+}

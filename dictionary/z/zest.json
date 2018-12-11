@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "Great enthusiasm and energy.",
+      "examples": [
+        "they campaigned with zest and intelligence",
+        "she had a great zest for life"
+      ],
+      "synonyms": [
+        "enthusiasm",
+        "gusto",
+        "relish",
+        "zestfulness",
+        "appetite",
+        "eagerness",
+        "keenness",
+        "avidity",
+        "zeal",
+        "fervour",
+        "ardour",
+        "passion",
+        "love",
+        "enjoyment",
+        "joy",
+        "delight",
+        "excitement"
+      ]
+    },
+    {
+      "description": "The outer colored part of the peel of citrus fruit, used as flavoring.",
+      "examples": [],
+      "synonyms": [
+        "rind",
+        "peel",
+        "skin",
+        "covering",
+        "outer layer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Scrape off the outer colored part of the peel of (a piece of citrus fruit) for use as flavoring.",
+      "examples": [
+        "zest the orange and lemon, taking care to discard all of the white pith"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French zeste orange or lemon peel, of unknown origin.",
+  "pronounciation": "/zest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zest_us_1.mp3"
+}

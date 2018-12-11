@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "The ability to acquire and apply knowledge and skills.",
+      "examples": [
+        "an eminent man of great intelligence",
+        "they underestimated her intelligence"
+      ],
+      "synonyms": [
+        "intellectual capacity",
+        "mental capacity",
+        "intellect",
+        "mind",
+        "brain",
+        "brains",
+        "brainpower",
+        "powers of reasoning",
+        "judgement",
+        "reason",
+        "reasoning",
+        "understanding",
+        "comprehension",
+        "acumen",
+        "wit",
+        "sense",
+        "insight",
+        "perceptiveness",
+        "perception",
+        "perspicaciousness",
+        "perspicacity",
+        "penetration",
+        "discernment",
+        "sharpness",
+        "quickness of mind",
+        "quick-wittedness",
+        "smartness",
+        "canniness",
+        "astuteness",
+        "intuition",
+        "acuity",
+        "alertness",
+        "cleverness",
+        "brilliance",
+        "aptness",
+        "ability",
+        "giftedness",
+        "talent"
+      ]
+    },
+    {
+      "description": "The collection of information of military or political value.",
+      "examples": [
+        "the chief of military intelligence",
+        "the intelligence department"
+      ],
+      "synonyms": [
+        "information gathering",
+        "surveillance",
+        "observation",
+        "reconnaissance",
+        "spying",
+        "espionage",
+        "undercover work",
+        "infiltration",
+        "elint",
+        "cyberespionage",
+        "humint"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin intelligentia, from intelligere understand (see intelligent).",
+  "pronounciation": "/ɪnˈtɛlədʒəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intelligence_us_1.mp3"
+}

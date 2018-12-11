@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Say something in a solemn and emphatic manner.",
+      "examples": [
+        "“I was under too much pressure,” he declared",
+        "he declared that he never revises his prose"
+      ],
+      "synonyms": [
+        "proclaim",
+        "announce",
+        "make known",
+        "state",
+        "communicate",
+        "reveal",
+        "divulge",
+        "mention",
+        "talk about",
+        "raise",
+        "moot",
+        "air",
+        "bring into the open",
+        "voice",
+        "articulate",
+        "pronounce",
+        "express",
+        "vent",
+        "set forth",
+        "make public",
+        "publicize",
+        "disseminate",
+        "circulate",
+        "publish",
+        "broadcast",
+        "promulgate",
+        "trumpet",
+        "blazon"
+      ]
+    },
+    {
+      "description": "Acknowledge possession of (taxable income or dutiable goods).",
+      "examples": []
+    },
+    {
+      "description": "Announce that one holds (certain combinations of cards) in a card game.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "She gave me a funny look… I do declare, dear readers, that she thought it was me!",
+    "Well, I do declare, it's my job to see if any of these poor folks need any old thing, Brown said.",
+    "Biche is more me and my friends fluff, the everyday adventures of a British journalist in Paris written by - well, I declare - a British journalist in Paris.",
+    "Why Ms. Faun, I do declare that sounds like a half baked attempt at seducing me.",
+    "George, I do declare that you have started to blush!"
+  ],
+  "origin": "Middle English: from Latin declarare, from de- thoroughly + clarare make clear (from clarus clear).",
+  "pronounciation": "/dɪˈklɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/declare_us_1.mp3"
+}

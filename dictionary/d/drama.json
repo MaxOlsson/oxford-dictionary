@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A play for theater, radio, or television.",
+      "examples": [
+        "a gritty urban drama about growing up in Harlem"
+      ],
+      "synonyms": [
+        "play",
+        "show",
+        "piece",
+        "theatrical work",
+        "spectacle",
+        "dramatization"
+      ]
+    },
+    {
+      "description": "An exciting, emotional, or unexpected series of events or set of circumstances.",
+      "examples": [
+        "a hostage drama",
+        "an afternoon of high drama at Fenway Park"
+      ],
+      "synonyms": [
+        "catastrophe",
+        "calamity",
+        "cataclysm",
+        "emergency",
+        "disaster"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: via late Latin from Greek drama, from dran do, act.",
+  "pronounciation": "/ˈdrɑmə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drama_us_1.mp3"
+}

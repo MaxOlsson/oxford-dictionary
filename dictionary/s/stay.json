@@ -1,0 +1,113 @@
+{
+  "verb": [
+    {
+      "description": "Remain in the same place.",
+      "examples": [
+        "you stay here and I'll be back soon",
+        "Jenny decided to stay at home with their young child",
+        "he stayed with the firm as a consultant"
+      ]
+    },
+    {
+      "description": "Remain in a specified state or position.",
+      "examples": [
+        "her ability to stay calm",
+        "tactics used to stay in power",
+        "I managed to stay out of trouble"
+      ],
+      "synonyms": [
+        "remain",
+        "remain behind",
+        "stay behind",
+        "stay put"
+      ]
+    },
+    {
+      "description": "(of a person) live somewhere temporarily as a visitor or guest.",
+      "examples": [
+        "the girls had gone to stay with friends",
+        "Minton invited him to stay the night"
+      ],
+      "synonyms": [
+        "visit"
+      ]
+    },
+    {
+      "description": "Stop, delay, or prevent (something), in particular suspend or postpone (judicial proceedings) or refrain from pressing (charges).",
+      "examples": [],
+      "synonyms": [
+        "postpone",
+        "put off",
+        "delay",
+        "defer",
+        "put back",
+        "hold off",
+        "hold over",
+        "carry over",
+        "reschedule",
+        "do later",
+        "shelve",
+        "stand over",
+        "pigeonhole",
+        "hold in abeyance",
+        "put in abeyance",
+        "mothball"
+      ]
+    },
+    {
+      "description": "Support or prop up.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A period of staying somewhere, in particular of living somewhere temporarily as a visitor or guest.",
+      "examples": [
+        "an overnight stay at a luxury hotel"
+      ],
+      "synonyms": [
+        "visit",
+        "stop",
+        "stop-off",
+        "stopover",
+        "break",
+        "holiday",
+        "rest"
+      ]
+    },
+    {
+      "description": "A curb or check.",
+      "examples": [
+        "there is likely to be a good public library as a stay against boredom"
+      ]
+    },
+    {
+      "description": "A device used as a brace or support.",
+      "examples": []
+    },
+    {
+      "description": "Power of endurance.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the Internet is here to stay",
+    "It has been accepted and has come to stay as a necessary facility of life.",
+    "But coal is here to stay, because it is abundant and the alternatives are generally more expensive.",
+    "The organisation yesterday warned high oil prices were here to stay.",
+    "The private sector is here to stay, but can it be altered sufficiently to become of net positive value to society?",
+    "75 percent of sixteen-year-olds stay on in full-time education",
+    "Ruth now has to decide whether she wants to stay on with the police or continue her studies to become a lawyer.",
+    "Talks to be held during the next seven days could decide whether he stays on at Kendal Town.",
+    "The new deputy leader and former DL TD Liz McManus stays on as health spokeswoman.",
+    "The government says it wants people to stay on at school and study for A-levels.",
+    "By making short tacks, however, the Theseus brought her guns to bear with such effect that the fort fired only an occasional gun when the ship was in stays.",
+    "The breeze was fresh, the ship was in stays.",
+    "The flapping of the sails while the boat was in stays awoke my companion, who sat up and, in a weak and husky voice, asked me what was the matter.",
+    "A boat that's heading dead into the wind is said to be in stays or in irons.",
+    "For those boats which have a tendency to be in stays, it is useful not to ease the Genova sheet until the boat turns fully to the opposite tack."
+  ],
+  "origin": "Old English stæg, of Germanic origin; related to Dutch stag, from a base meaning be firm.",
+  "pronounciation": "/steɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stay_us_1.mp3"
+}

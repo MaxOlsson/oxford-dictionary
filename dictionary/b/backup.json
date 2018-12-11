@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Help or support.",
+      "examples": [
+        "no police backup could be expected"
+      ],
+      "synonyms": [
+        "help",
+        "support",
+        "assistance",
+        "aid"
+      ]
+    },
+    {
+      "description": "An extra copy of data from a computer.",
+      "examples": []
+    },
+    {
+      "description": "An overflow caused by a stoppage, as in water or automobile traffic.",
+      "examples": [
+        "there are long backups on all routes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbækˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backup_us_1.mp3"
+}

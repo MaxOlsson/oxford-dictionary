@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of lines) tend to meet at a point.",
+      "examples": [
+        "a pair of lines of longitude are parallel at the equator but converge toward the poles"
+      ],
+      "synonyms": [
+        "meet",
+        "intersect",
+        "cross",
+        "come together",
+        "connect",
+        "link up",
+        "coincide"
+      ]
+    },
+    {
+      "description": "(of a series) approximate in the sum of its terms toward a definite limit.",
+      "examples": [
+        "the powers of e therefore converge very slowly"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from late Latin convergere, from con- together + Latin vergere incline.",
+  "pronounciation": "/kənˈvərdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconverge_us_1.mp3"
+}

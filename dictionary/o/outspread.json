@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Fully extended or expanded.",
+      "examples": [
+        "outspread arms"
+      ],
+      "synonyms": [
+        "fully extended",
+        "outstretched",
+        "stretched out",
+        "spread out",
+        "fanned out",
+        "splayed out",
+        "expanded",
+        "unfolded",
+        "unfurled",
+        "open",
+        "open wide",
+        "wide open",
+        "opened out"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spread out.",
+      "examples": [
+        "that eagle outspreading his wings for flight"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌaʊtˈsprɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outspread_us_1.mp3"
+}

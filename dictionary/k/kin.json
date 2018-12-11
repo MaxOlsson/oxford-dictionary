@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "One's family and relations.",
+      "examples": [
+        "he is expected to make a payment to his wife's kin"
+      ],
+      "synonyms": [
+        "relatives",
+        "relations",
+        "family",
+        "family members",
+        "kindred",
+        "connections",
+        "clan",
+        "tribe",
+        "kith and kin",
+        "one's own flesh and blood",
+        "nearest and dearest"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Related.",
+      "examples": [
+        "he was kin to the brothers"
+      ],
+      "synonyms": [
+        "related",
+        "akin",
+        "allied",
+        "close",
+        "connected with",
+        "cognate with"
+      ]
+    }
+  ],
+  "origin": "Old English cynn, of Germanic origin; related to Dutch kunne, from an Indo-European root meaning give birth to, shared by Greek genos and Latin genus race.",
+  "pronounciation": "/kɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kin_us_1.mp3"
+}

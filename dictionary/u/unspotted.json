@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not marked with spots.",
+      "examples": [
+        "it has an unspotted white throat"
+      ],
+      "synonyms": [
+        "washed",
+        "scrubbed",
+        "cleansed",
+        "cleaned",
+        "polished"
+      ]
+    },
+    {
+      "description": "Unnoticed.",
+      "examples": [
+        "the network of avian enthusiasts ensures that no rarity goes unspotted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈspädəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unspotted_us_1.mp3"
+}

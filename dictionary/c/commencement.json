@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A beginning or start.",
+      "examples": [
+        "at the commencement of training"
+      ],
+      "synonyms": [
+        "beginning",
+        "start",
+        "starting point",
+        "opening",
+        "outset",
+        "onset",
+        "launch",
+        "initiation",
+        "inception",
+        "birth",
+        "dawn",
+        "origin"
+      ]
+    },
+    {
+      "description": "A ceremony in which degrees or diplomas are conferred on graduating students.",
+      "examples": [
+        "a commencement address"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from the verb commencier (see commence).",
+  "pronounciation": "/kəˈmensmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commencement_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of a woman or female mammal) about to give birth; in labor.",
+      "examples": [
+        "hospitalized parturient women"
+      ],
+      "synonyms": [
+        "expecting a baby",
+        "having a baby",
+        "with a baby on the way",
+        "having a child",
+        "expectant",
+        "carrying a child"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A parturient woman.",
+      "examples": [
+        "anesthesia for the parturient"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin parturient- being in labor, from the verb parturire, inceptive of parere bring forth.",
+  "pronounciation": "/pärˈt(y)o͝orēənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parturient_us_1.mp3"
+}

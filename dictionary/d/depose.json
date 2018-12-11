@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Remove from office suddenly and forcefully.",
+      "examples": [
+        "he had been deposed by a military coup"
+      ],
+      "synonyms": [
+        "overthrow",
+        "overturn",
+        "topple",
+        "bring down",
+        "remove from office",
+        "remove",
+        "unseat",
+        "dethrone",
+        "supplant",
+        "displace"
+      ]
+    },
+    {
+      "description": "Testify to or give (evidence) on oath, typically in a written statement.",
+      "examples": [
+        "every affidavit shall state which of the facts deposed to are within the deponent's knowledge"
+      ],
+      "synonyms": [
+        "swear",
+        "testify",
+        "attest",
+        "undertake",
+        "assert",
+        "declare",
+        "profess",
+        "aver",
+        "submit",
+        "claim"
+      ]
+    },
+    {
+      "description": "Question (a witness) in deposition.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French deposer, from Latin deponere (see deponent), but influenced by Latin depositus and Old French poser to place.",
+  "pronounciation": "/dəˈpoʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/depose_us_1.mp3"
+}

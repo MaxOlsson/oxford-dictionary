@@ -1,0 +1,93 @@
+{
+  "verb": [
+    {
+      "description": "(of an event, action, or process) come to an end; cease to happen.",
+      "examples": [
+        "his laughter stopped as quickly as it had begun",
+        "the rain had stopped and the clouds had cleared"
+      ],
+      "synonyms": [
+        "come to an end",
+        "come to a stop",
+        "cease",
+        "end",
+        "finish",
+        "draw to a close",
+        "be over",
+        "conclude",
+        "terminate",
+        "come to a standstill"
+      ]
+    },
+    {
+      "description": "Cause (an action, process, or event) to come to an end.",
+      "examples": [
+        "this harassment has got to be stopped"
+      ],
+      "synonyms": [
+        "put an end to",
+        "put a stop to",
+        "bring to an end",
+        "end",
+        "bring to a stop",
+        "halt",
+        "bring to a halt"
+      ]
+    },
+    {
+      "description": "Block or close up (a hole or leak)",
+      "examples": [
+        "he tried to stop the hole with the heel of his boot",
+        "the drain has been stopped up"
+      ],
+      "synonyms": [
+        "block",
+        "block up",
+        "plug",
+        "close",
+        "close up",
+        "fill",
+        "fill up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cessation of movement or operation.",
+      "examples": [
+        "all business came to a stop",
+        "there were constant stops and changes of pace"
+      ],
+      "synonyms": [
+        "halt",
+        "end",
+        "finish",
+        "close",
+        "standstill"
+      ]
+    },
+    {
+      "description": "A set of organ pipes of a particular tone and range of pitch.",
+      "examples": []
+    },
+    {
+      "description": "The effective diameter of a lens.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the director pulled out all the stops to meet the impossible deadline",
+    "But while the government is pulling out all the stops to promote parental involvement in their children's education, it clearly does not intend to hand over responsibility wholesale.",
+    "It is a very serious offence and we are pulling out all the stops to trace them.",
+    "However, he is fearful that the new clause may be delayed, unless the Department of Health pulls out all the stops to make sure the new legislation is written in time.",
+    "People are pulling out all the stops, and though there are several hurdles still to cross, it is all looking very positive.",
+    "Matt had called her to tell her that he was going to stop by and drop off a demo track for her to critique.",
+    "In his four years of high school he never passed up a chance to stop in my room for a game or two.",
+    "Our Beijing guide Max arranged for us to stop in and visit a hutong family and drink a cup of tea with them.",
+    "One can only wonder what conversation is like around the dinner table in their household when Mary stops by for a visit.",
+    "I think there's a home health nurse who stops by to see him daily."
+  ],
+  "origin": "Old English (for)stoppian block up (an aperture), of West Germanic origin; related to German stopfen, from late Latin stuppare to stuff.",
+  "pronounciation": "/stäp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stop_us_1.mp3"
+}

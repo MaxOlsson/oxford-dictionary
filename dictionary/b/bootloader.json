@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "A program that loads an operating system when a computer is turned on.",
+      "examples": [
+        "Linux's GRUB bootloader can be used to select which operating system you'd like to boot into"
+      ]
+    }
+  ],
+  "origin": "1970s: from boot (sense 4 of the noun) + loader.",
+  "pronounciation": "/ˈbo͞otˌlōdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bootloader_us_1.mp3"
+}

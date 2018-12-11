@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "An act of traveling from one place to another.",
+      "examples": [
+        "she went on a long journey"
+      ],
+      "synonyms": [
+        "trip",
+        "expedition",
+        "period of travelling",
+        "tour",
+        "trek",
+        "voyage",
+        "cruise",
+        "safari",
+        "ride",
+        "drive",
+        "transfer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel somewhere.",
+      "examples": [
+        "they journeyed south"
+      ],
+      "synonyms": [
+        "travel",
+        "go",
+        "voyage",
+        "sail",
+        "cruise",
+        "fly",
+        "hike",
+        "trek",
+        "ride",
+        "drive",
+        "make one's way",
+        "wend one's way"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French jornee day, a day's travel, a day's work (the earliest senses in English), based on Latin diurnum daily portion, from diurnus (see diurnal).",
+  "pronounciation": "/ˈjərnē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/journey_us_1.mp3"
+}

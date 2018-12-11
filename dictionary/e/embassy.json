@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "The official residence or offices of an ambassador.",
+      "examples": [
+        "the Chilean embassy in Moscow"
+      ],
+      "synonyms": [
+        "consulate",
+        "legation",
+        "ministry"
+      ]
+    },
+    {
+      "description": "A deputation or mission sent by one ruler or state to another.",
+      "examples": [],
+      "synonyms": [
+        "envoy",
+        "representative",
+        "legate",
+        "delegate",
+        "emissary"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (originally also as ambassy denoting the position of ambassador): from Old French ambasse, based on Latin ambactus servant. Compare with ambassador.",
+  "pronounciation": "/ˈembəsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/embassy_us_1.mp3"
+}

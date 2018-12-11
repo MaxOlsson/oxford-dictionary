@@ -1,0 +1,40 @@
+{
+  "preposition": [
+    {
+      "description": "From side to side of; across.",
+      "examples": [
+        "a long counter thrown athwart the entranceway"
+      ]
+    },
+    {
+      "description": "In opposition to; counter to.",
+      "examples": [
+        "these statistics run sharply athwart conventional presumptions"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Across from side to side; transversely.",
+      "examples": [
+        "one table running athwart was all the room would hold"
+      ],
+      "synonyms": [
+        "transversely",
+        "crossways",
+        "sideways",
+        "athwart",
+        "on the cross"
+      ]
+    },
+    {
+      "description": "So as to be perverse or contradictory.",
+      "examples": [
+        "our words ran athwart and we ended up at cross purposes"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from a- on + thwart.",
+  "pronounciation": "/əˈθwɔrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/athwart_us_1.mp3"
+}

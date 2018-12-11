@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "(of people) gather together in one place for a common purpose.",
+      "examples": [
+        "a crowd had assembled outside the gates"
+      ],
+      "synonyms": [
+        "come together",
+        "get together",
+        "gather",
+        "collect",
+        "meet",
+        "muster",
+        "rally",
+        "congregate",
+        "convene",
+        "flock together"
+      ]
+    },
+    {
+      "description": "Fit together the separate component parts of (a machine or other object)",
+      "examples": [
+        "a factory that assembled parts for trucks"
+      ],
+      "synonyms": [
+        "construct",
+        "build",
+        "fabricate",
+        "manufacture",
+        "erect",
+        "set up",
+        "join up",
+        "fit together",
+        "put together",
+        "piece together",
+        "connect",
+        "join",
+        "unite",
+        "patch up",
+        "sew",
+        "sew up"
+      ]
+    },
+    {
+      "description": "Translate (a program) from a higher-level programming language into machine code.",
+      "examples": [
+        "assemble the program and produce a file suitable to input to the simulator"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French asembler, based on Latin ad- to + simul together.",
+  "pronounciation": "/əˈsembəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assemble_us_1.mp3"
+}

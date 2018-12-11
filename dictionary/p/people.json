@@ -1,0 +1,75 @@
+{
+  "plural noun": [
+    {
+      "description": "Human beings in general or considered collectively.",
+      "examples": [
+        "the earthquake killed 30,000 people"
+      ],
+      "synonyms": [
+        "human beings",
+        "persons",
+        "individuals",
+        "humans",
+        "mankind",
+        "humankind",
+        "the human race",
+        "homo sapiens",
+        "humanity",
+        "the human species",
+        "mortals",
+        "souls",
+        "living souls",
+        "personages",
+        "men",
+        "women",
+        "and children"
+      ]
+    },
+    {
+      "description": "The men, women, and children of a particular nation, community, or ethnic group.",
+      "examples": [
+        "the native peoples of Canada"
+      ],
+      "synonyms": [
+        "race",
+        "tribe",
+        "clan",
+        "ethnic group",
+        "strain",
+        "stock",
+        "caste",
+        "nation",
+        "country",
+        "population",
+        "populace"
+      ]
+    },
+    {
+      "description": "The supporters or employees of a person in a position of power or authority.",
+      "examples": [
+        "I've had my people watching the house for some time now"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a particular group of people) inhabit (an area or place)",
+      "examples": [
+        "an arid mountain region peopled by warring clans"
+      ],
+      "synonyms": [
+        "populate",
+        "settle",
+        "settle in",
+        "colonize",
+        "establish oneself in",
+        "inhabit",
+        "live in",
+        "occupy"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French poeple, from Latin populus populace.",
+  "pronounciation": "/ˈpipəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/people_us_2.mp3"
+}

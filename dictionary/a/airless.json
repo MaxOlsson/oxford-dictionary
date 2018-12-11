@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Stuffy; not ventilated.",
+      "examples": [
+        "a dusty, airless basement"
+      ],
+      "synonyms": [
+        "stuffy",
+        "close",
+        "stifling",
+        "suffocating",
+        "breathless",
+        "sultry",
+        "muggy",
+        "fuggy",
+        "stale",
+        "humid",
+        "oppressive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈerləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/airless_us_1.mp3"
+}

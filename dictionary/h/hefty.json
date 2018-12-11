@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Large, heavy, and powerful.",
+      "examples": [
+        "a hefty young chap"
+      ],
+      "synonyms": [
+        "burly",
+        "heavy",
+        "sturdy",
+        "strapping",
+        "bulky",
+        "brawny",
+        "husky",
+        "strong",
+        "muscular",
+        "large",
+        "big",
+        "massive",
+        "weighty",
+        "solid",
+        "well built",
+        "solidly built",
+        "powerfully built"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɛfti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hefty_us_1.mp3"
+}

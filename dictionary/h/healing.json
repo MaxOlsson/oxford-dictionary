@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "The process of making or becoming sound or healthy again.",
+      "examples": [
+        "the gift of healing"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Tending to heal; therapeutic.",
+      "examples": [
+        "a healing experience",
+        "the healing process"
+      ],
+      "synonyms": [
+        "alleviate",
+        "assuage",
+        "palliate",
+        "relieve",
+        "ameliorate",
+        "ease",
+        "help",
+        "soften",
+        "lessen",
+        "mitigate",
+        "attenuate",
+        "allay",
+        "salve"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhilɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/healing_us_1.mp3"
+}

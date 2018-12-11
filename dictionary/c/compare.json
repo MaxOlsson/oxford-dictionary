@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Estimate, measure, or note the similarity or dissimilarity between.",
+      "examples": [
+        "individual schools compared their facilities with those of others in the area",
+        "the survey compares prices in different countries",
+        "total attendance figures were 28,000, compared to 40,000 at last year's event"
+      ],
+      "synonyms": [
+        "contrast",
+        "set side by side",
+        "juxtapose",
+        "collate",
+        "differentiate",
+        "weigh up",
+        "balance",
+        "balance the differences between",
+        "measure the differences between",
+        "weigh the differences between"
+      ]
+    },
+    {
+      "description": "Form the comparative and superlative degrees of (an adjective or an adverb)",
+      "examples": [
+        "words of one syllable are usually compared by “-er” and “-est.”"
+      ]
+    }
+  ],
+  "phrases": [
+    "In the course of casual conversation, they compare notes, share information, and swap impressions about business conditions.",
+    "Meet, greet, pump for information and meet outside to compare notes.",
+    "The exchange has allowed them to compare notes and learn from each other.",
+    "They've been exchanging opinions and comparing notes since the early 1980s.",
+    "Subject matter experts from each nation paired off to compare notes in areas such as maintenance, fire prevention and weapons storage."
+  ],
+  "origin": "Late Middle English: from Old French comparer, from Latin comparare, from compar like, equal, from com- with + par equal.",
+  "pronounciation": "/kəmˈpɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compare_us_1.mp3"
+}

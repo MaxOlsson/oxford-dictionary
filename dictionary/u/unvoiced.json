@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Not expressed in words; unuttered.",
+      "examples": [
+        "a person's unvoiced thoughts"
+      ],
+      "synonyms": [
+        "unstated",
+        "unexpressed",
+        "unuttered",
+        "unsaid",
+        "unmentioned",
+        "unarticulated",
+        "undeclared",
+        "unavowed",
+        "not spelt out",
+        "mute",
+        "silent",
+        "wordless",
+        "voiceless"
+      ]
+    },
+    {
+      "description": "(of a speech sound) uttered without vibration of the vocal cords.",
+      "examples": [],
+      "synonyms": [
+        "tacit",
+        "implicit",
+        "silent",
+        "implied",
+        "taken for granted",
+        "accepted",
+        "recognized",
+        "understood",
+        "unrecorded"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈvoist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unvoiced_us_1.mp3"
+}

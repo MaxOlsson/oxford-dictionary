@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Shake involuntarily, typically as a result of anxiety, excitement, or frailty.",
+      "examples": [
+        "Isobel was trembling with excitement"
+      ],
+      "synonyms": [
+        "shake",
+        "shake like a leaf",
+        "quiver",
+        "twitch",
+        "palpitate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A trembling feeling, movement, or sound.",
+      "examples": [
+        "there was a slight tremble in his voice"
+      ],
+      "synonyms": [
+        "tremor",
+        "shake",
+        "shakiness",
+        "trembling",
+        "quiver",
+        "twitch",
+        "twitchiness"
+      ]
+    },
+    {
+      "description": "A physical or emotional condition marked by trembling.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a verb): from Old French trembler, from medieval Latin tremulare, from Latin tremulus (see tremulous).",
+  "pronounciation": "/ˈtrembəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tremble_us_1.mp3"
+}

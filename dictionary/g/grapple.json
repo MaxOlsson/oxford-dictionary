@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Engage in a close fight or struggle without weapons; wrestle.",
+      "examples": [
+        "passersby grappled with the man after the knife attack"
+      ],
+      "synonyms": [
+        "wrestle",
+        "struggle",
+        "tussle"
+      ]
+    },
+    {
+      "description": "Seize or hold with a grapnel.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of grappling.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a noun denoting a grappling hook): from Old French grapil, from Provençal, diminutive of grapa hook, of Germanic origin; related to grape. The verb dates from the mid 16th century.",
+  "pronounciation": "/ˈɡræpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grapple_us_1.mp3"
+}

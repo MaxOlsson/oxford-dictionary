@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Pay no attention to; ignore.",
+      "examples": [
+        "the body of evidence is too substantial to disregard"
+      ],
+      "synonyms": [
+        "ignore",
+        "take no notice of",
+        "take no account of",
+        "pay no attention to",
+        "pay no heed to",
+        "refuse to acknowledge"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action or state of disregarding or ignoring something.",
+      "examples": [
+        "blatant disregard for the law"
+      ],
+      "synonyms": [
+        "indifference",
+        "non-observance"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdisrəˈɡärd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disregard_us_1.mp3"
+}

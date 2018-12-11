@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Characteristic of or relating to a class or group of things; not specific.",
+      "examples": [
+        "chèvre is a generic term for all goat's milk cheese"
+      ],
+      "synonyms": [
+        "general",
+        "common",
+        "collective",
+        "non-specific",
+        "inclusive",
+        "all-inclusive",
+        "all-encompassing",
+        "broad",
+        "comprehensive",
+        "blanket",
+        "umbrella",
+        "sweeping",
+        "universal",
+        "cross-disciplinary",
+        "interdisciplinary",
+        "multidisciplinary"
+      ]
+    },
+    {
+      "description": "Relating to a genus.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A consumer product having no brand name or registered trademark.",
+      "examples": [
+        "substituting generics for brand-name drugs"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from French générique, from Latin genus, gener- stock, race.",
+  "pronounciation": "/dʒəˈnɛrɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/generic_us_1.mp3"
+}

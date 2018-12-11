@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is not directly caused by something; incidentally.",
+      "examples": [
+        "the losses indirectly affect us all"
+      ],
+      "synonyms": [
+        "incidentally",
+        "accidentally",
+        "secondarily",
+        "concomitantly",
+        "contingently",
+        "consequentially"
+      ]
+    },
+    {
+      "description": "Without having had direct experience; at second hand.",
+      "examples": [
+        "I heard of the damage indirectly"
+      ]
+    },
+    {
+      "description": "Through implication; obliquely.",
+      "examples": [
+        "both writers refer, if only indirectly, to a wealth of other art"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌindəˈrektlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indirectly_us_1.mp3"
+}

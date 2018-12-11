@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "An object of spiral or helical shape.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of the form of a helix or helicoid.",
+      "examples": [],
+      "synonyms": [
+        "coiled",
+        "helical",
+        "helix-shaped",
+        "corkscrew",
+        "curling",
+        "winding",
+        "twisting",
+        "whorled",
+        "scrolled"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Greek helikoeidēs of spiral form, from helix, helik- (see helix).",
+  "pronounciation": "/ˈhɛləˌkɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/helicoid_us_1.mp3"
+}

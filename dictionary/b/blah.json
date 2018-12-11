@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "Used to refer to something which is boring or without meaningful content.",
+      "examples": [
+        "the first 20 pages are a lot of blah about budgets and stuff like that"
+      ],
+      "synonyms": [
+        "nonsense",
+        "twaddle",
+        "claptrap",
+        "balderdash",
+        "gibberish",
+        "rubbish",
+        "mumbo jumbo"
+      ]
+    },
+    {
+      "description": "Depression.",
+      "examples": [
+        "he battled a case of the blahs",
+        "the winter blahs"
+      ],
+      "synonyms": [
+        "depression",
+        "melancholy",
+        "gloom",
+        "gloominess",
+        "glumness",
+        "downheartedness",
+        "dejection",
+        "despondency",
+        "dispiritedness",
+        "heavy-heartedness",
+        "heartache",
+        "unhappiness",
+        "sadness",
+        "misery",
+        "woe",
+        "dismalness",
+        "despair",
+        "pessimism",
+        "hopelessness"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Dull or unexciting.",
+      "examples": [
+        "the game has been very blah"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to substitute for actual words in contexts where they are felt to be too tedious or lengthy to give in full.",
+      "examples": [
+        "the typical kid, going out every night, blah, blah, blah"
+      ]
+    }
+  ],
+  "origin": "Early 20th century (originally US): imitative.",
+  "pronounciation": "/blä/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blah_us_1.mp3"
+}

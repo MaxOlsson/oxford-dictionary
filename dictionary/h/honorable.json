@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Bringing or worthy of honor.",
+      "examples": [
+        "this is the only honorable course",
+        "a decent and honorable man"
+      ],
+      "synonyms": [
+        "morally correct",
+        "honest",
+        "moral",
+        "ethical",
+        "principled",
+        "righteous",
+        "right-minded",
+        "full of integrity"
+      ]
+    },
+    {
+      "description": "Used as a title indicating eminence or distinction, given especially to judges and certain high officials.",
+      "examples": [
+        "the Honorable Richard Morris Esquire, chief justice of the supreme court of our state"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin honorabilis, from honor honor.",
+  "pronounciation": "/ˈɑnərəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/honorable_us_1.mp3"
+}

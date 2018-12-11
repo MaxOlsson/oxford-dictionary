@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Push (something or someone) suddenly or violently in the specified direction.",
+      "examples": [
+        "she thrust her hands into her pockets",
+        "Howard was thrust into the limelight",
+        "he thrust at his opponent with his sword"
+      ],
+      "synonyms": [
+        "shove",
+        "push",
+        "propel",
+        "impel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden or violent lunge with a pointed weapon or a bodily part.",
+      "examples": [
+        "he drove the blade upward with one powerful thrust"
+      ],
+      "synonyms": [
+        "shove",
+        "push",
+        "ram",
+        "prod",
+        "poke",
+        "stab",
+        "jab",
+        "lunge",
+        "drive",
+        "barge",
+        "bump",
+        "bang",
+        "jolt",
+        "butt",
+        "knock",
+        "nudge"
+      ]
+    },
+    {
+      "description": "The propulsive force of a jet or rocket engine.",
+      "examples": [],
+      "synonyms": [
+        "force",
+        "motive force",
+        "propulsive force",
+        "propulsion",
+        "drive",
+        "driving force",
+        "actuation",
+        "impetus",
+        "impulse",
+        "impulsion",
+        "momentum",
+        "push",
+        "pressure",
+        "power"
+      ]
+    },
+    {
+      "description": "A reverse fault of low angle, with older strata displaced horizontally over younger.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a verb): from Old Norse thrýsta; perhaps related to Latin trudere to thrust. The noun is first recorded (early 16th century) in the sense act of pressing.",
+  "pronounciation": "/THrəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thrust_us_1.mp3"
+}

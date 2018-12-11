@@ -1,0 +1,37 @@
+{
+  "adverb": [
+    {
+      "description": "Used to emphasize the speaker's firm belief that what they are saying is true and often their surprise that there is any doubt of this.",
+      "examples": [
+        "if there is no will, then surely the house goes automatically to you"
+      ],
+      "synonyms": [
+        "it must be the case that",
+        "i believe that",
+        "assuredly",
+        "without question"
+      ]
+    },
+    {
+      "description": "With assurance or confidence.",
+      "examples": [
+        "no one knows how to move the economy quickly and surely in that direction"
+      ],
+      "synonyms": [
+        "firmly",
+        "steadily",
+        "confidently",
+        "solidly",
+        "securely",
+        "unhesitatingly",
+        "unfalteringly",
+        "unswervingly",
+        "determinedly",
+        "doggedly",
+        "assuredly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHo͝orlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surely_us_1_rr.mp3"
+}

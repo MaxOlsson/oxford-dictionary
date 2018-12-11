@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A whip with a long heavy lash.",
+      "examples": [],
+      "synonyms": [
+        "whip",
+        "horsewhip",
+        "switch",
+        "scourge",
+        "flagellum",
+        "cat-o'-nine-tails",
+        "cat",
+        "thong",
+        "flail",
+        "strap",
+        "birch",
+        "cane"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Strike or thrash with a bullwhip.",
+      "examples": [
+        "he was suspected of bullwhipping a fellow to death"
+      ],
+      "synonyms": [
+        "beating",
+        "thrashing",
+        "thumping",
+        "pounding",
+        "pummelling",
+        "drubbing",
+        "slapping",
+        "smacking",
+        "hammering",
+        "hitting",
+        "striking",
+        "punching",
+        "knocking",
+        "thwacking",
+        "cuffing",
+        "buffeting",
+        "battering",
+        "boxing",
+        "mauling",
+        "pelting",
+        "lambasting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbʊlˌ(h)wɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bullwhip_us_1.mp3"
+}

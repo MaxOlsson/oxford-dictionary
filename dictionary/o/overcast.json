@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "(of the sky or weather) marked by a covering of gray clouds; dull.",
+      "examples": [
+        "a chilly, overcast day"
+      ],
+      "synonyms": [
+        "cloudy",
+        "clouded",
+        "clouded over",
+        "overclouded",
+        "sunless",
+        "darkened",
+        "dark",
+        "grey",
+        "black",
+        "leaden",
+        "heavy",
+        "dull",
+        "murky",
+        "dirty",
+        "misty",
+        "hazy",
+        "foggy",
+        "louring",
+        "threatening",
+        "menacing",
+        "promising rain",
+        "dismal",
+        "dreary",
+        "cheerless",
+        "sombre"
+      ]
+    },
+    {
+      "description": "(in sewing) edged with stitching to prevent fraying.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Clouds covering a large part of the sky.",
+      "examples": [
+        "the sky was leaden with overcast"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with clouds or shade.",
+      "examples": [
+        "the pebbled beach, overcast with the shadows of the high cliffs"
+      ]
+    },
+    {
+      "description": "Stitch over (an unfinished edge) to prevent fraying.",
+      "examples": [
+        "finish off the raw edge of the hem by overcasting it"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈkast/"
+}

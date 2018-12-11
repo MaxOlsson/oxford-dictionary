@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Twisted; crooked.",
+      "examples": [
+        "a slightly thrawn neck"
+      ],
+      "synonyms": [
+        "twisted",
+        "bent",
+        "arthritic",
+        "misshapen"
+      ]
+    },
+    {
+      "description": "Perverse; ill-tempered.",
+      "examples": [
+        "your mother's looking a bit thrawn this morning"
+      ],
+      "synonyms": [
+        "bad-tempered",
+        "ill-tempered",
+        "irritable",
+        "grumpy",
+        "cantankerous",
+        "truculent",
+        "sulky",
+        "sullen",
+        "awkward",
+        "uncooperative",
+        "unhelpful",
+        "recalcitrant",
+        "refractory",
+        "difficult",
+        "perverse",
+        "contrary",
+        "confrontational",
+        "argumentative",
+        "quarrelsome",
+        "obstreperous",
+        "choleric"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: Scots form of thrown (see throw), in the obsolete sense twisted, wrung.",
+  "pronounciation": "/THrôn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thrawn_us_1.mp3"
+}

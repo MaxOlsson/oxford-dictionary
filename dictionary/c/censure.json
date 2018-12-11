@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Express severe disapproval of (someone or something), especially in a formal statement.",
+      "examples": [
+        "a judge was censured in 1983 for a variety of types of injudicious conduct"
+      ],
+      "synonyms": [
+        "criticize",
+        "condemn",
+        "castigate",
+        "chastise",
+        "lambaste",
+        "pillory",
+        "savage",
+        "find fault with",
+        "fulminate against",
+        "abuse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The expression of formal disapproval.",
+      "examples": [
+        "angry delegates offered a resolution of censure against the offenders",
+        "they paid the price in social ostracism and family censure"
+      ],
+      "synonyms": [
+        "condemnation",
+        "criticism",
+        "attack",
+        "abuse",
+        "revilement",
+        "disapproval"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense judicial sentence): from Old French censurer (verb), censure (noun), from Latin censura judgement, assessment, from censere assess.",
+  "pronounciation": "/ˈsɛn(t)ʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/censure_us_1.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Shut and open the eyes quickly.",
+      "examples": [
+        "he blinked his eyes nervously",
+        "she blinked, momentarily blinded"
+      ],
+      "synonyms": [
+        "shut and open",
+        "flutter",
+        "flicker",
+        "wink",
+        "bat"
+      ]
+    },
+    {
+      "description": "(of a light or light source) shine intermittently or unsteadily.",
+      "examples": [
+        "the icon for his email was blinking"
+      ],
+      "synonyms": [
+        "flash",
+        "flicker",
+        "twinkle",
+        "waver",
+        "wink",
+        "scintillate",
+        "glint",
+        "glimmer",
+        "glitter",
+        "shine",
+        "shine intermittently"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of shutting and opening the eyes quickly.",
+      "examples": [
+        "he was observing her every blink"
+      ]
+    },
+    {
+      "description": "A momentary gleam of light.",
+      "examples": [],
+      "synonyms": [
+        "sparkle",
+        "twinkle",
+        "glint",
+        "gleam",
+        "shimmer",
+        "glimmer",
+        "flicker",
+        "blink",
+        "flash"
+      ]
+    }
+  ],
+  "phrases": [
+    "At only 55 minutes, the album's twelve tracks go by in the blink of an eye.",
+    "The ball began to grow and then, suddenly, in the blink of an eye, it disappeared.",
+    "Dinner went by reasonably quickly, and in the blink of an eye, they were fast asleep, except for one.",
+    "He had come this close to death in the blink of an eye, and just as quickly it was taken away.",
+    "He looks like a picture, frozen in time, one instant that happened in the blink of an eye, unnoticed and uncared for by the rest of the universe."
+  ],
+  "origin": "Middle English: from blenk, Scots variant of blench, reinforced by Middle Dutch blinken to shine. Early senses included deceive, flinch (compare with blench), and also open the eyes after sleep: hence blink (sense 1 of the verb) (mid 16th century).",
+  "pronounciation": "/blɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blink_us_1.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A porous device for removing impurities or solid particles from a liquid or gas passed through it.",
+      "examples": [
+        "an oil filter"
+      ],
+      "synonyms": [
+        "strainer",
+        "sifter"
+      ]
+    },
+    {
+      "description": "An arrangement whereby vehicles may turn left (or right) while other traffic waiting to go straight ahead or turn right (or left) is stopped by a red light.",
+      "examples": [
+        "a filter lane"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pass (a liquid, gas, light, or sound) through a device to remove unwanted material.",
+      "examples": [
+        "the patient is hooked up to a dialysis machine twice a week to filter out the cholesterol in the blood"
+      ],
+      "synonyms": [
+        "sieve",
+        "strain",
+        "sift",
+        "filtrate",
+        "riddle"
+      ]
+    },
+    {
+      "description": "Move slowly or in small quantities or numbers through something or in a specified direction.",
+      "examples": [
+        "people filtered out of the concert during the last set"
+      ],
+      "synonyms": [
+        "seep",
+        "percolate",
+        "leak",
+        "trickle",
+        "ooze",
+        "dribble",
+        "bleed",
+        "flow"
+      ]
+    },
+    {
+      "description": "(of information) gradually become known.",
+      "examples": [
+        "the news began to filter in from the hospital"
+      ]
+    }
+  ],
+  "phrases": [
+    "I have no filter and I do say things that I probably shouldn't say"
+  ],
+  "origin": "Late Middle English (denoting a piece of felt): from French filtre, from medieval Latin filtrum felt used as a filter, of West Germanic origin and related to felt.",
+  "pronounciation": "/ˈfɪltər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filter_us_1.mp3"
+}

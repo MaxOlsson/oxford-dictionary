@@ -1,0 +1,98 @@
+{
+  "adjective": [
+    {
+      "description": "Happening or coming immediately.",
+      "examples": [
+        "the offense justified instant dismissal"
+      ],
+      "synonyms": [
+        "immediate",
+        "instantaneous",
+        "on-the-spot",
+        "prompt",
+        "direct",
+        "swift",
+        "speedy",
+        "rapid",
+        "quick",
+        "expeditious",
+        "express",
+        "lightning",
+        "sudden",
+        "precipitate",
+        "abrupt"
+      ]
+    },
+    {
+      "description": "Urgent; pressing.",
+      "examples": [
+        "an instant desire to blame others when things go wrong"
+      ],
+      "synonyms": [
+        "current",
+        "present",
+        "existing",
+        "existent",
+        "actual",
+        "extant"
+      ]
+    },
+    {
+      "description": "(in business letters) of the current month.",
+      "examples": [
+        "your letter of the 6th instant"
+      ]
+    },
+    {
+      "description": "Of the present moment.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A precise moment of time.",
+      "examples": [
+        "come here this instant!",
+        "at that instant the sun came out"
+      ],
+      "synonyms": [
+        "moment",
+        "time",
+        "point in time",
+        "moment in time",
+        "minute",
+        "second",
+        "hour"
+      ]
+    },
+    {
+      "description": "A very short space of time; a moment.",
+      "examples": [
+        "for an instant the moon disappeared"
+      ],
+      "synonyms": [
+        "short time",
+        "little while",
+        "bit",
+        "moment",
+        "minute",
+        "second",
+        "split second",
+        "trice",
+        "twinkling",
+        "twinkling of an eye",
+        "flash",
+        "no time",
+        "less than no time",
+        "no time at all"
+      ]
+    },
+    {
+      "description": "Instant coffee.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in instant (sense 2 of the adjective, instant sense 3 of the adjective, instant sense 4 of the adjective)): via Old French from Latin instant- being at hand, from the verb instare, from in- in, at + stare to stand.",
+  "pronounciation": "/ˈɪnstənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instant_us_1.mp3"
+}

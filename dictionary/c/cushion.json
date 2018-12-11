@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A pillow or pad stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.",
+      "examples": [],
+      "synonyms": [
+        "pillow",
+        "bolster",
+        "headrest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Soften the effect of an impact on.",
+      "examples": [
+        "the bag cushions equipment from inevitable knocks"
+      ],
+      "synonyms": [
+        "soften",
+        "lessen",
+        "diminish",
+        "decrease",
+        "mitigate",
+        "temper",
+        "allay",
+        "alleviate",
+        "reduce the effect of",
+        "take the edge off",
+        "dull",
+        "blunt",
+        "deaden",
+        "absorb",
+        "muffle",
+        "stifle"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French cuissin, based on a Latin word meaning cushion for the hip, from coxa hip, thigh. The Romans also had a word cubital elbow cushion, from cubitus elbow.",
+  "pronounciation": "/ˈkʊʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cushion_us_1.mp3"
+}

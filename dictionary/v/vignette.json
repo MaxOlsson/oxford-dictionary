@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A brief evocative description, account, or episode.",
+      "examples": [
+        "a classic vignette of embassy life"
+      ],
+      "synonyms": [
+        "description",
+        "portrayal",
+        "representation",
+        "depiction",
+        "impression",
+        "account",
+        "story",
+        "chronicle"
+      ]
+    },
+    {
+      "description": "A small illustration or portrait photograph which fades into its background without a definite border.",
+      "examples": [],
+      "synonyms": [
+        "photograph",
+        "photo",
+        "studio portrait",
+        "picture",
+        "shot",
+        "study",
+        "still",
+        "snap",
+        "snapshot"
+      ]
+    },
+    {
+      "description": "A small ornamental design filling a space in a book or carving, typically based on foliage.",
+      "examples": [],
+      "synonyms": [
+        "picture",
+        "design",
+        "engraving",
+        "etching",
+        "lithograph",
+        "silk screen",
+        "linocut",
+        "monoprint",
+        "plate",
+        "cut",
+        "woodcut"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Portray (someone) in the style of a vignette.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in vignette (sense 3 of the noun); also as an architectural term denoting a carved representation of a vine): from French, diminutive of vigne vine.",
+  "pronounciation": "/vɪnˈjɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vignette_us_1.mp3"
+}

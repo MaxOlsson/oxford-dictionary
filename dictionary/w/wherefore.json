@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "For what reason.",
+      "examples": [
+        "she took an ill turn, but wherefore I cannot say"
+      ],
+      "synonyms": [
+        "therefore",
+        "for that reason",
+        "consequently",
+        "so",
+        "as a result",
+        "as a consequence",
+        "in consequence",
+        "hence",
+        "thus",
+        "then",
+        "that being so",
+        "that being the case",
+        "on that account"
+      ]
+    }
+  ],
+  "conjunction &amp; relative adverb": [
+    {
+      "description": "As a result of which.",
+      "examples": [
+        "truly he cared for me, wherefore I title him with all respect"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈ(h)wɛrˌfɔr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wherefore_us_1.mp3"
+}

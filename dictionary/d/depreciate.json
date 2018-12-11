@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Diminish in value over a period of time.",
+      "examples": [
+        "the pound is expected to depreciate against the dollar"
+      ],
+      "synonyms": [
+        "decrease in value",
+        "lose value",
+        "decline in price",
+        "drop in price",
+        "fall in price",
+        "cheapen",
+        "devalue"
+      ]
+    },
+    {
+      "description": "Disparage or belittle (something)",
+      "examples": [
+        "she was already depreciating her own aesthetic taste"
+      ],
+      "synonyms": [
+        "belittle",
+        "disparage",
+        "denigrate",
+        "decry",
+        "deprecate",
+        "make light of",
+        "treat lightly",
+        "discredit",
+        "underrate",
+        "undervalue",
+        "underestimate",
+        "deflate",
+        "detract from",
+        "diminish",
+        "minimize",
+        "trivialize",
+        "run down",
+        "traduce",
+        "defame"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in depreciate (sense 2)): from late Latin depreciat- lowered in price, undervalued, from the verb depreciare, from Latin de- down + pretium price.",
+  "pronounciation": "/dəˈprēSHēˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/depreciate_us_1.mp3"
+}

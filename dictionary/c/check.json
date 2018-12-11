@@ -1,0 +1,146 @@
+{
+  "verb": [
+    {
+      "description": "Examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
+      "examples": [
+        "customs officers have the right to check all luggage",
+        "a simple blood test to check for anemia"
+      ],
+      "synonyms": [
+        "examine",
+        "inspect",
+        "look at",
+        "look over",
+        "scrutinize",
+        "scan",
+        "survey"
+      ]
+    },
+    {
+      "description": "Stop or slow down the progress of (something undesirable)",
+      "examples": [
+        "efforts were made to check the disease"
+      ],
+      "synonyms": [
+        "halt",
+        "stop",
+        "arrest",
+        "bring to a standstill",
+        "cut short"
+      ]
+    },
+    {
+      "description": "(of a passenger) consign (baggage) to the care of the transport provider with whom they are traveling.",
+      "examples": [
+        "I checked my bag and got my boarding pass"
+      ]
+    },
+    {
+      "description": "Mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.",
+      "examples": [
+        "users who want privacy should check the box that prevents your files from being shared"
+      ]
+    },
+    {
+      "description": "Move a piece or pawn so that (the opposing king) is under attack.",
+      "examples": []
+    },
+    {
+      "description": "(in poker) choose not to make a bet when called upon, allowing the action to move to another player.",
+      "examples": []
+    },
+    {
+      "description": "(of a hound) pause to make sure of or regain a scent.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An examination to test or ascertain accuracy, quality, or satisfactory condition.",
+      "examples": [
+        "a campaign calling for regular checks on gas appliances",
+        "a health check"
+      ],
+      "synonyms": [
+        "examination",
+        "inspection",
+        "scrutiny",
+        "scrutinization",
+        "check-up",
+        "perusal",
+        "study",
+        "investigation",
+        "probe",
+        "dissection",
+        "analysis",
+        "assessment",
+        "enquiry"
+      ]
+    },
+    {
+      "description": "A stopping or slowing of progress.",
+      "examples": [
+        "there was no check to the expansion of the market"
+      ]
+    },
+    {
+      "description": "A move by which a piece or pawn directly attacks the opponent's king. If the defending player cannot counter the attack, the king is checkmated.",
+      "examples": []
+    },
+    {
+      "description": "A written order to a bank to pay a stated sum from the drawer's account.",
+      "examples": [
+        "he was awarded a check for $1,000"
+      ]
+    },
+    {
+      "description": "A token of identification for left luggage.",
+      "examples": []
+    },
+    {
+      "description": "A counter used as a stake in a gambling game.",
+      "examples": []
+    },
+    {
+      "description": "A part of a piano that catches the hammer and prevents it from retouching the strings.",
+      "examples": []
+    },
+    {
+      "description": "A crack or flaw in timber.",
+      "examples": []
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing assent or agreement.",
+      "examples": []
+    },
+    {
+      "description": "Used by a chess player to announce that the opponent's king has been placed in check.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having a pattern of small squares.",
+      "examples": [
+        "a blue check T-shirt"
+      ]
+    }
+  ],
+  "phrases": [
+    "a way of keeping inflation in check",
+    "But she was going to have to keep her temper in check if she was going to make the best of this situation.",
+    "Jim felt his rage surfacing and held it in check just enough to maintain control.",
+    "Competition from imported goods may keep inflation in check, some economists say.",
+    "Fiber also keeps blood insulin levels in check, which is a big factor in controlling body fat.",
+    "you must check in at least one hour before take-off",
+    "And since check-out time is usually around noon, the tour agencies can actually save a day's room rate by checking them in after noontime.",
+    "We stopped at the main desk of the dingy motel and waited while Jimmy registered and checked us in.",
+    "After checking us in, he motions for me to follow him.",
+    "The guys took care of checking us in while I said goodbye to my aunt."
+  ],
+  "origin": "Late Middle English: probably from chequer (sense 1 of the noun).",
+  "pronounciation": "/CHek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/check_us_1.mp3"
+}

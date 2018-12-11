@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Speak in a slow, lazy way with prolonged vowel sounds.",
+      "examples": [
+        "“Suits me fine,” he drawled"
+      ],
+      "synonyms": [
+        "say slowly",
+        "speak slowly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slow, lazy way of speaking or an accent with unusually prolonged vowel sounds.",
+      "examples": [
+        "a Texas drawl"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: probably originally slang, from Low German or Dutch dralen delay, linger.",
+  "pronounciation": "/drôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drawl_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A projecting piece of wood made for insertion into a mortise in another piece.",
+      "examples": [
+        "a mortise and tenon joint"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Join by means of a tenon.",
+      "examples": [
+        "the rail was tenoned into oak stiles"
+      ],
+      "synonyms": [
+        "joint",
+        "join",
+        "fit together",
+        "link",
+        "interlock",
+        "splice",
+        "mortise"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, from tenir to hold, from Latin tenere.",
+  "pronounciation": "/ˈtɛnən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tenon_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "abbreviation": [
+    {
+      "description": "Water closet.",
+      "examples": [],
+      "synonyms": [
+        "lavatory",
+        "wc",
+        "water closet",
+        "convenience",
+        "public convenience",
+        "facilities",
+        "urinal",
+        "privy",
+        "latrine",
+        "outhouse",
+        "earth closet",
+        "jakes"
+      ]
+    },
+    {
+      "description": "(of a region) west central.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌdəbəlju ˈsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wc_us_1.mp3"
+}

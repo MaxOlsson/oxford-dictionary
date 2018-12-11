@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Carry out or put into effect (a plan, order, or course of action)",
+      "examples": [
+        "the corporation executed a series of financial deals"
+      ],
+      "synonyms": [
+        "carry out",
+        "accomplish",
+        "perform",
+        "implement",
+        "effect",
+        "bring off",
+        "bring about",
+        "achieve",
+        "carry off",
+        "carry through",
+        "complete",
+        "enact",
+        "enforce",
+        "put into effect",
+        "put into practice",
+        "do",
+        "discharge",
+        "prosecute",
+        "engineer",
+        "administer",
+        "attain",
+        "realize",
+        "fulfil"
+      ]
+    },
+    {
+      "description": "Carry out a sentence of death on (a legally condemned person)",
+      "examples": [
+        "he was convicted of treason and executed"
+      ],
+      "synonyms": [
+        "put to death",
+        "carry out a sentence of death on",
+        "kill"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French executer, from medieval Latin executare, from Latin exsequi follow up, punish, from ex- out + sequi follow.",
+  "pronounciation": "/ˈɛksəˌkjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/execute_us_1.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "Grass and the surface layer of earth held together by its roots.",
+      "examples": [
+        "they walked across the springy turf"
+      ],
+      "synonyms": [
+        "grass",
+        "lawn",
+        "sod"
+      ]
+    },
+    {
+      "description": "Horse racing or racecourses generally.",
+      "examples": [
+        "he spent his money gambling on the turf"
+      ],
+      "synonyms": [
+        "horse racing",
+        "racing",
+        "the racing world"
+      ]
+    },
+    {
+      "description": "An area regarded as someone's personal territory; one's home ground.",
+      "examples": [
+        "the team will play Canada on their home turf this summer"
+      ],
+      "synonyms": [
+        "area of influence",
+        "sphere of influence",
+        "area of activity",
+        "sphere of activity",
+        "territory",
+        "domain",
+        "province",
+        "preserve"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Force (someone) to leave somewhere.",
+      "examples": [
+        "they were turfed off the bus"
+      ],
+      "synonyms": [
+        "throw out",
+        "remove",
+        "eject",
+        "expel",
+        "turn out",
+        "fling out",
+        "force out",
+        "drive out",
+        "evict",
+        "dislodge",
+        "oust"
+      ]
+    },
+    {
+      "description": "Cover (a patch of ground) with turf.",
+      "examples": [
+        "a turfed lawn"
+      ],
+      "synonyms": [
+        "grass over",
+        "lay grass on"
+      ]
+    }
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch turf and German Torf, from an Indo-European root shared by Sanskrit darbha tuft of grass.",
+  "pronounciation": "/tərf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/turf_us_1.mp3"
+}

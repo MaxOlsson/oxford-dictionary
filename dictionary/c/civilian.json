@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A person not in the armed services or the police force.",
+      "examples": [],
+      "synonyms": [
+        "non-military person",
+        "non-combatant",
+        "ordinary citizen",
+        "private citizen"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of, denoting, or relating to a person not belonging to the armed services or police.",
+      "examples": [
+        "military agents in civilian clothes"
+      ],
+      "synonyms": [
+        "non-military",
+        "non-combatant",
+        "civil"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a practitioner of civil law): from Old French civilien, in the phrase droit civilien civil law. The current sense arose in the early 19th century.",
+  "pronounciation": "/səˈvilyən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/civilian_us_1.mp3"
+}

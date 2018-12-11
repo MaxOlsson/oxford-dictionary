@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Use force in order to move, move apart, or open (something)",
+      "examples": [
+        "I tried to prise Joe's fingers away from the stick",
+        "using a screwdriver, he prised open the window"
+      ],
+      "synonyms": [
+        "lever",
+        "force",
+        "wrench",
+        "pull",
+        "wrest",
+        "twist"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from dialect prise lever, from Old French prise grasp, taking hold. Compare with pry.",
+  "pronounciation": "/praɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prise_us_1.mp3"
+}

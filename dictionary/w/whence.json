@@ -1,0 +1,21 @@
+{
+  "adverb": [
+    {
+      "description": "From what place or source.",
+      "examples": [
+        "whence does Congress derive this power?"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "From which; from where.",
+      "examples": [
+        "the Ural mountains, whence the ore is procured"
+      ]
+    }
+  ],
+  "origin": "Middle English whennes, from earlier whenne (from Old English hwanon, of Germanic origin) + -s (later respelled -ce to denote the unvoiced sound).",
+  "pronounciation": "/(h)wɛns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whence_us_1.mp3"
+}

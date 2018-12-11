@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "Something given free to a needy person or organization.",
+      "examples": [
+        "hundreds of thousands of refugees subsist on international handouts"
+      ],
+      "synonyms": [
+        "charity",
+        "aid",
+        "benefit",
+        "financial support",
+        "gifts of money",
+        "gifts of food",
+        "subsidies",
+        "payments",
+        "donations"
+      ]
+    },
+    {
+      "description": "Printed information provided free of charge, especially to accompany a lecture or advertise something.",
+      "examples": [
+        "she was shocked when she saw a one-page handout condemning her campaign"
+      ],
+      "synonyms": [
+        "leaflet",
+        "pamphlet",
+        "brochure",
+        "bulletin"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhandˌout/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hand_out_1_us_1.mp3"
+}

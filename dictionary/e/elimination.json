@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The complete removal or destruction of something.",
+      "examples": [
+        "the elimination of extreme poverty is a key objective",
+        "a global commitment to the elimination of nuclear weapons"
+      ]
+    },
+    {
+      "description": "The expulsion of waste matter from the body.",
+      "examples": [
+        "the treatment promotes the elimination of toxins"
+      ]
+    },
+    {
+      "description": "The removal of a variable from an equation, typically by substituting another which is shown by another equation to be equivalent.",
+      "examples": [
+        "Bezout's method of elimination"
+      ]
+    },
+    {
+      "description": "The generation of a simple substance as a product in the course of a reaction involving larger molecules.",
+      "examples": [
+        "a condensation reaction can link together two monosaccharide sugars to form a disaccharide with the elimination of water"
+      ]
+    }
+  ],
+  "pronounciation": "/əˌlɪməˈneɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elimination_us_2.mp3"
+}

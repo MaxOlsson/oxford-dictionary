@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "Having all the necessary or appropriate parts.",
+      "examples": [
+        "a complete list of courses offered by the college",
+        "no wardrobe is complete this year without culottes"
+      ]
+    },
+    {
+      "description": "(often used for emphasis) to the greatest extent or degree; total.",
+      "examples": [
+        "a complete ban on smoking",
+        "their marriage came as a complete surprise to me"
+      ],
+      "synonyms": [
+        "absolute",
+        "out-and-out",
+        "utter",
+        "total",
+        "real",
+        "outright",
+        "downright",
+        "thoroughgoing",
+        "thorough",
+        "positive",
+        "proper",
+        "veritable",
+        "prize",
+        "perfect",
+        "consummate",
+        "unqualified",
+        "unmitigated",
+        "sheer",
+        "rank"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Finish making or doing.",
+      "examples": [
+        "he completed his Ph.D. in 1983"
+      ],
+      "synonyms": [
+        "finished",
+        "ended",
+        "concluded",
+        "completed",
+        "finalized",
+        "accomplished",
+        "achieved",
+        "fulfilled",
+        "discharged",
+        "settled",
+        "done"
+      ]
+    },
+    {
+      "description": "Make (something) whole or perfect.",
+      "examples": [
+        "he only needed one thing to complete his happiness",
+        "more recent box cameras complete the collection"
+      ],
+      "synonyms": [
+        "finish off",
+        "round off",
+        "top off",
+        "make perfect",
+        "perfect",
+        "crown",
+        "cap",
+        "complement",
+        "add the finishing touch to",
+        "add the final touch to"
+      ]
+    }
+  ],
+  "phrases": [
+    "the detachable keyboard comes complete with numeric keypad"
+  ],
+  "origin": "Late Middle English: from Old French complet or Latin completus, past participle of complere fill up, finish, fulfill, from com- (expressing intensive force) + plere fill.",
+  "pronounciation": "/kəmˈplit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/complete_us_1.mp3"
+}

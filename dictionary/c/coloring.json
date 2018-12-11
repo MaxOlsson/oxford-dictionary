@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The process or skill of applying a substance to something so as to change its original color.",
+      "examples": [],
+      "synonyms": [
+        "dye",
+        "colourant",
+        "colouring",
+        "wash"
+      ]
+    },
+    {
+      "description": "Appearance with regard to color.",
+      "examples": [
+        "the toad's colouring blended perfectly with its surroundings"
+      ],
+      "synonyms": [
+        "skin colour",
+        "skin colouring",
+        "skin tone",
+        "complexion",
+        "colouring",
+        "pigmentation"
+      ]
+    },
+    {
+      "description": "A substance used to give a particular color to something, especially food.",
+      "examples": [],
+      "synonyms": [
+        "added ingredient",
+        "addition",
+        "extra",
+        "add-on",
+        "supplement",
+        "accompaniment"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkələriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coloring_us_2.mp3"
+}

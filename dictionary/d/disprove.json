@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Prove that (something) is false.",
+      "examples": [
+        "he has given the Department of Transportation two months to disprove the allegation"
+      ],
+      "synonyms": [
+        "refute",
+        "prove false",
+        "show to be false",
+        "give the lie to",
+        "rebut",
+        "deny",
+        "falsify",
+        "debunk",
+        "negate",
+        "invalidate",
+        "contradict",
+        "confound",
+        "be at odds with",
+        "demolish",
+        "discredit"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French desprover.",
+  "pronounciation": "/disˈpro͞ov/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disprove_us_1.mp3"
+}

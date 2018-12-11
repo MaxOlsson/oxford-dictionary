@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A number of people or things that are located close together or are considered or classed together.",
+      "examples": [
+        "these bodies fall into four distinct groups"
+      ],
+      "synonyms": [
+        "category",
+        "class",
+        "classification",
+        "grouping",
+        "set",
+        "lot",
+        "batch",
+        "bracket",
+        "type",
+        "sort",
+        "kind",
+        "variety",
+        "family",
+        "species",
+        "genus",
+        "breed",
+        "style"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put together or place in a group or groups.",
+      "examples": [
+        "three wooden chairs were grouped around a dining table"
+      ],
+      "synonyms": [
+        "assemble",
+        "collect",
+        "gather together",
+        "mass",
+        "amass",
+        "cluster",
+        "clump",
+        "bunch"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from French groupe, from Italian gruppo, of Germanic origin; related to crop.",
+  "pronounciation": "/ɡrup/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/group_us_1.mp3"
+}

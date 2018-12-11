@@ -1,0 +1,100 @@
+{
+  "adjective": [
+    {
+      "description": "Not firmly or tightly fixed in place; detached or able to be detached.",
+      "examples": [
+        "a loose tooth",
+        "the truck's trailer came loose"
+      ],
+      "synonyms": [
+        "not fixed in place",
+        "not secure",
+        "insecure",
+        "unsecured",
+        "unattached"
+      ]
+    },
+    {
+      "description": "(of a garment) not fitting tightly or closely.",
+      "examples": [
+        "she slipped into a loose T-shirt and shorts"
+      ],
+      "synonyms": [
+        "baggy",
+        "loose-fitting",
+        "easy-fitting",
+        "generously cut",
+        "slack",
+        "roomy",
+        "boyfriend"
+      ]
+    },
+    {
+      "description": "Not close or compact in structure.",
+      "examples": [
+        "a loose weave"
+      ]
+    },
+    {
+      "description": "Not strict or exact.",
+      "examples": [
+        "a loose interpretation"
+      ],
+      "synonyms": [
+        "vague",
+        "indefinite",
+        "inexact",
+        "imprecise",
+        "ill-defined",
+        "unrigorous",
+        "unmeticulous"
+      ]
+    },
+    {
+      "description": "Engaging in casual sexual encounters or relationships.",
+      "examples": [
+        "she ran the risk of being called a loose woman"
+      ],
+      "synonyms": [
+        "promiscuous",
+        "sexually indiscriminate",
+        "of easy virtue",
+        "fast",
+        "wanton",
+        "no better than one should be",
+        "unchaste",
+        "immoral",
+        "impure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Set free; release.",
+      "examples": [
+        "the hounds have been loosed"
+      ],
+      "synonyms": [
+        "free",
+        "set free",
+        "unloose",
+        "turn loose",
+        "set loose",
+        "let loose",
+        "let go",
+        "release",
+        "liberate"
+      ]
+    }
+  ],
+  "phrases": [
+    "hang loose, baby!",
+    "Hopefully this will restore my good humour: I need to hang loose and laugh for an hour or so.",
+    "Besides, I figured I could do more good if I stayed loose.",
+    "Some enjoy jabbering to everyone in sight, listening to music, and staying loose.",
+    "The key I believe is to stay loose and just write whatever pops into your head."
+  ],
+  "origin": "Middle English loos free from bonds, from Old Norse lauss, of Germanic origin; related to Dutch and German los.",
+  "pronounciation": "/lus/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loose_us_1.mp3"
+}

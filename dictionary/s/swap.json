@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Take part in an exchange of.",
+      "examples": [
+        "we swapped phone numbers",
+        "I'd swap places with you any day",
+        "I was wondering if you'd like to swap with me"
+      ],
+      "synonyms": [
+        "bandy",
+        "exchange",
+        "trade",
+        "reciprocate",
+        "pass back and forth",
+        "give and take"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of exchanging one thing for another.",
+      "examples": [
+        "let's do a swap"
+      ],
+      "synonyms": [
+        "exchange",
+        "interchange",
+        "trade",
+        "barter",
+        "switch",
+        "trade-off",
+        "substitution"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense throw forcibly): probably imitative of a resounding blow. Current senses have arisen from an early use meaning strike hands as a token of agreement.",
+  "pronounciation": "/swɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swap_us_1.mp3"
+}

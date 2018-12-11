@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting an animal or animals preying naturally on others.",
+      "examples": [
+        "predatory birds"
+      ],
+      "synonyms": [
+        "predacious",
+        "carnivorous",
+        "hunting",
+        "raptorial",
+        "ravening"
+      ]
+    },
+    {
+      "description": "Seeking to exploit or oppress others.",
+      "examples": [
+        "a life destroyed by predatory biographers and yellow journalists"
+      ],
+      "synonyms": [
+        "exploitative",
+        "wolfish",
+        "rapacious",
+        "greedy",
+        "acquisitive",
+        "avaricious",
+        "vulturine"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense relating to plundering): from Latin praedatorius, from praedator plunderer (see predator).",
+  "pronounciation": "/ˈprɛdəˌtɔri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/predatory_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A low-pitched, resonant sound such as made by a large bell.",
+      "examples": [
+        "the clock had struck the hour and it was only three bongs"
+      ],
+      "synonyms": [
+        "reverberation",
+        "ringing",
+        "ring",
+        "ding-dong",
+        "bong",
+        "peal",
+        "chime",
+        "toll"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially of a bell) emit a low-pitched, resonant sound.",
+      "examples": [],
+      "synonyms": [
+        "ring",
+        "ring out",
+        "chime",
+        "chime out",
+        "clang",
+        "toll"
+      ]
+    }
+  ],
+  "origin": "1960s: probably imitative.",
+  "pronounciation": "/bäNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bong_us_1_rr.mp3"
+}

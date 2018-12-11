@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Deviating from what is normal or usual, typically in a way that is undesirable or worrying.",
+      "examples": [
+        "the illness is recognizable from the patient's abnormal behavior"
+      ],
+      "synonyms": [
+        "unusual",
+        "uncommon",
+        "atypical",
+        "untypical",
+        "non-typical",
+        "unrepresentative",
+        "rare",
+        "isolated",
+        "irregular",
+        "anomalous",
+        "deviant",
+        "deviating",
+        "divergent",
+        "wayward",
+        "aberrant",
+        "freak",
+        "freakish"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: alteration (by association with Latin abnormis monstrous) of 16th-century anormal, from French, variant of anomal, via Latin from Greek anōmalos (see anomalous).",
+  "pronounciation": "/æbˈnɔrməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abnormal_us_1.mp3"
+}

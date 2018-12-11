@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by strong and turbulent or conflicting emotion.",
+      "examples": [
+        "he had a reckless and tempestuous streak"
+      ],
+      "synonyms": [
+        "turbulent",
+        "stormy",
+        "tumultuous",
+        "violent",
+        "wild",
+        "lively",
+        "heated",
+        "explosive",
+        "uncontrolled",
+        "unrestrained",
+        "feverish",
+        "hysterical",
+        "frenetic",
+        "frenzied",
+        "frantic"
+      ]
+    },
+    {
+      "description": "Very stormy.",
+      "examples": [
+        "a tempestuous wind"
+      ],
+      "synonyms": [
+        "stormy",
+        "blustery",
+        "squally",
+        "wild",
+        "turbulent",
+        "windy",
+        "gusty",
+        "blowy",
+        "rainy",
+        "thundery",
+        "rough",
+        "choppy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin tempestuosus, from Latin tempestas (see tempest).",
+  "pronounciation": "/tɛmˈpɛstʃ(u)əs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tempestuous_us_1.mp3"
+}

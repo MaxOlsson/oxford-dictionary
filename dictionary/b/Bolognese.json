@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Bologna or its people.",
+      "examples": [
+        "the Bolognese painters of the 17th century"
+      ]
+    },
+    {
+      "description": "Denoting a sauce of ground beef, tomato, onion, and herbs, typically served with pasta.",
+      "examples": [
+        "ravioli with bolognese sauce",
+        "pasta bolognese"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Bologna.",
+      "examples": [
+        "the Bolognese invented tagliatelle, tortellini, and lasagna"
+      ]
+    },
+    {
+      "description": "A pasta dish made with bolognese sauce, in particular spaghetti bolognese, or the sauce itself.",
+      "examples": [
+        "I offered to cook a bolognese for lunch"
+      ]
+    }
+  ],
+  "origin": "Italian; the form bolognaise is via French.",
+  "pronounciation": "/bɑləˈneɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bolognese_1_us_1.mp3"
+}

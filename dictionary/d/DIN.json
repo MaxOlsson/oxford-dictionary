@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A loud, unpleasant, and prolonged noise.",
+      "examples": [
+        "the fans made an awful din"
+      ],
+      "synonyms": [
+        "uproar",
+        "racket",
+        "loud noise",
+        "confused noise",
+        "commotion",
+        "cacophony",
+        "babel",
+        "hubbub",
+        "tumult",
+        "fracas",
+        "clangour",
+        "crash",
+        "clatter",
+        "clash"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) learn or remember something by constant repetition.",
+      "examples": [
+        "the doctrine that has been dinned into all our heads"
+      ],
+      "synonyms": [
+        "instil",
+        "drive",
+        "drum",
+        "hammer",
+        "drill",
+        "implant",
+        "ingrain",
+        "inculcate"
+      ]
+    },
+    {
+      "description": "Make a loud, unpleasant, and prolonged noise.",
+      "examples": [
+        "the sound dinning in my ears was the telephone ringing"
+      ],
+      "synonyms": [
+        "blare",
+        "blast",
+        "clang",
+        "clatter",
+        "crash",
+        "clamour"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: acronym from Deutsche Industrie-Norm German Industrial Standard (as laid down by the Deutsches Institut für Normung German Institute for Standards).",
+  "pronounciation": "/din/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/din_us_1.mp3"
+}

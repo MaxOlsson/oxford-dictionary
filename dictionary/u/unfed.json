@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Not having been fed.",
+      "examples": [],
+      "synonyms": [
+        "very hungry",
+        "ravenous",
+        "starving",
+        "starving to death",
+        "starved",
+        "dying of hunger",
+        "faint from lack of food",
+        "deprived of food",
+        "empty"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfed_us_1.mp3"
+}

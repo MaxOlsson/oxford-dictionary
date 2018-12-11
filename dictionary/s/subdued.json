@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their manner) quiet and rather reflective or depressed.",
+      "examples": [
+        "I felt strangely subdued as I drove home"
+      ],
+      "synonyms": [
+        "sombre",
+        "low-spirited",
+        "downcast",
+        "sad",
+        "dejected",
+        "depressed",
+        "low",
+        "gloomy",
+        "despondent",
+        "dispirited",
+        "disheartened",
+        "forlorn",
+        "woebegone"
+      ]
+    },
+    {
+      "description": "(of color or lighting) soft and restrained.",
+      "examples": [
+        "a subdued plaid shirt"
+      ],
+      "synonyms": [
+        "dim",
+        "muted",
+        "toned down",
+        "softened",
+        "soft",
+        "lowered",
+        "shaded",
+        "low-key",
+        "subtle",
+        "unobtrusive",
+        "understated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsəbˈd(y)o͞od/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subdued_us_1.mp3"
+}

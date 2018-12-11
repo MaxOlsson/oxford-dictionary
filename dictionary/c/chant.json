@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A repeated rhythmic phrase, typically one shouted or sung in unison by a crowd.",
+      "examples": [],
+      "synonyms": [
+        "shout",
+        "cry",
+        "slogan",
+        "rallying call",
+        "war cry",
+        "chorus",
+        "chanting"
+      ]
+    },
+    {
+      "description": "A short musical passage in two or more phrases used for singing unmetrical words; a psalm or canticle sung to such music.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Say or shout repeatedly in a singsong tone.",
+      "examples": [
+        "protesters were chanting slogans",
+        "the crowd chanted, “No violence!”"
+      ],
+      "synonyms": [
+        "shout",
+        "sing",
+        "chorus",
+        "carol"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense sing): from Old French chanter sing, from Latin cantare, frequentative of canere sing.",
+  "pronounciation": "/CHant/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chant_us_1.mp3"
+}

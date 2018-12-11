@@ -1,0 +1,74 @@
+{
+  "adjective": [
+    {
+      "description": "Existing only in part; incomplete.",
+      "examples": [
+        "a question to which we have only partial answers"
+      ],
+      "synonyms": [
+        "incomplete",
+        "limited",
+        "qualified",
+        "restricted",
+        "imperfect",
+        "fragmentary",
+        "unfinished"
+      ]
+    },
+    {
+      "description": "Favoring one side in a dispute above the other; biased.",
+      "examples": [
+        "the paper gave a distorted and very partial view of the situation"
+      ],
+      "synonyms": [
+        "biased",
+        "prejudiced",
+        "partisan",
+        "one-sided",
+        "slanted",
+        "skewed",
+        "coloured",
+        "interested",
+        "parti pris",
+        "discriminatory",
+        "preferential",
+        "jaundiced"
+      ]
+    },
+    {
+      "description": "Having a liking for.",
+      "examples": [
+        "you know I'm partial to bacon and eggs"
+      ],
+      "synonyms": [
+        "like",
+        "love",
+        "enjoy",
+        "have a liking for",
+        "be fond of",
+        "be keen on",
+        "have a fondness for",
+        "have a weakness for",
+        "have a soft spot for",
+        "have a taste for",
+        "be taken with",
+        "care for",
+        "have a penchant for",
+        "have a predilection for",
+        "have a proclivity for",
+        "be enamoured of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A component of a musical sound; an overtone or harmonic.",
+      "examples": [
+        "the upper partials of the string"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in partial (sense 2 of the adjective)): from Old French parcial ( partial (sense 2 of the adjective)), French partiel ( partial (sense 1 of the adjective)), from late Latin partialis, from pars, part- part.",
+  "pronounciation": "/ˈpärSHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/partial_us_1.mp3"
+}

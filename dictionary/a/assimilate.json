@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Take in (information, ideas, or culture) and understand fully.",
+      "examples": [
+        "Marie tried to assimilate the week's events"
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend",
+        "work out",
+        "fathom out",
+        "make sense of",
+        "grasp",
+        "catch",
+        "follow",
+        "perceive",
+        "make out",
+        "penetrate",
+        "divine",
+        "search out",
+        "ferret out",
+        "puzzle out",
+        "take in",
+        "absorb",
+        "get to the bottom of"
+      ]
+    },
+    {
+      "description": "Cause (something) to resemble; liken.",
+      "examples": [
+        "philosophers had assimilated thought to perception"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin assimilat- absorbed, incorporated, from the verb assimilare, from ad- to + similis like.",
+  "pronounciation": "/əˈsiməˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assimilate_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A standard or point of reference against which things may be compared or assessed.",
+      "examples": [
+        "a benchmark case"
+      ],
+      "synonyms": [
+        "standard",
+        "point of reference",
+        "basis",
+        "gauge",
+        "criterion",
+        "specification",
+        "canon",
+        "convention",
+        "guide",
+        "guideline",
+        "guiding principle",
+        "norm",
+        "touchstone",
+        "yardstick",
+        "test",
+        "litmus test",
+        "barometer",
+        "indicator",
+        "measure",
+        "model",
+        "exemplar",
+        "classic example",
+        "pattern",
+        "paradigm",
+        "archetype",
+        "prototype",
+        "ideal"
+      ]
+    },
+    {
+      "description": "A surveyor's mark cut in a wall, pillar, or building and used as a reference point in measuring altitudes.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Evaluate or check (something) by comparison with a standard.",
+      "examples": [
+        "we are benchmarking our performance against external criteria",
+        "we continue to benchmark against the competition"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɛn(t)ʃmɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/benchmark_us_1.mp3"
+}

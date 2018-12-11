@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "Damaged and showing lines on the surface from having split without coming apart.",
+      "examples": [
+        "the old pipes were cracked and leaking"
+      ],
+      "synonyms": [
+        "split",
+        "broken",
+        "fissured",
+        "fractured",
+        "ruptured",
+        "splintered",
+        "cleft",
+        "slit"
+      ]
+    },
+    {
+      "description": "Crazy; insane.",
+      "examples": [
+        "you must think my family is cracked"
+      ],
+      "synonyms": [
+        "mad",
+        "insane",
+        "mentally ill",
+        "certifiable",
+        "deranged",
+        "demented",
+        "of unsound mind",
+        "out of one's mind",
+        "not in one's right mind",
+        "sick in the head",
+        "not together",
+        "crazy",
+        "crazed",
+        "lunatic",
+        "non compos mentis",
+        "unbalanced",
+        "unhinged",
+        "unstable",
+        "disturbed",
+        "distracted",
+        "stark mad",
+        "manic",
+        "frenzied",
+        "raving",
+        "distraught",
+        "frantic",
+        "hysterical",
+        "delirious",
+        "psychotic",
+        "psychopathic",
+        "mad as a hatter",
+        "mad as a march hare",
+        "away with the fairies",
+        "foaming at the mouth"
+      ]
+    }
+  ],
+  "pronounciation": "/krakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cracked_us_1.mp3"
+}

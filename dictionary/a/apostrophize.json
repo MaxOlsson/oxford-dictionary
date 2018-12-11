@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Address an exclamatory passage in a speech or poem to (someone or something).",
+      "examples": []
+    },
+    {
+      "description": "Punctuate (a word) with an apostrophe.",
+      "examples": [
+        "pupils claimed that had been taught to apostrophize plurals"
+      ],
+      "synonyms": [
+        "add punctuation to",
+        "put punctuation marks in",
+        "dot"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpɑstrəˌfaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apostrophize_us_1.mp3"
+}

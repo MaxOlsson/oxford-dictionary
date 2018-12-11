@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Destroy or damage (metal, stone, or other materials) slowly by chemical action.",
+      "examples": [
+        "acid rain poisons fish and corrodes buildings"
+      ],
+      "synonyms": [
+        "wear away",
+        "wear down",
+        "eat away",
+        "eat away at",
+        "gnaw away",
+        "gnaw away at",
+        "bite into",
+        "burn into",
+        "burn through",
+        "erode",
+        "abrade",
+        "consume",
+        "dissolve"
+      ]
+    },
+    {
+      "description": "Destroy or weaken (something) gradually.",
+      "examples": [
+        "the self-centered climate corrodes ideals and concerns about social justice"
+      ],
+      "synonyms": [
+        "wear away",
+        "wear down",
+        "abrade",
+        "scrape away",
+        "grind down",
+        "crumble",
+        "dissolve",
+        "weather"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin corrodere, from cor- (expressing intensive force) + rodere gnaw.",
+  "pronounciation": "/kəˈrōd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corrode_us_1.mp3"
+}

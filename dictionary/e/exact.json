@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not approximated in any way; precise.",
+      "examples": [
+        "the exact details were still being worked out"
+      ],
+      "synonyms": [
+        "definite",
+        "fixed",
+        "settled",
+        "decided",
+        "established",
+        "confirmed",
+        "agreed",
+        "clear-cut",
+        "concrete",
+        "hard and fast"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Demand and obtain (something, especially a payment) from someone.",
+      "examples": [
+        "tributes exacted from the Slavic peoples",
+        "William's advisers exacted an oath of obedience from the clergy"
+      ],
+      "synonyms": [
+        "demand",
+        "require",
+        "insist on",
+        "command",
+        "call for",
+        "impose",
+        "request",
+        "ask for",
+        "expect",
+        "look for"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Latin exact- completed, ascertained, enforced, from the verb exigere, from ex- thoroughly + agere perform. The adjective dates from the mid 16th century and reflects the Latin exactus precise.",
+  "pronounciation": "/ɪɡˈzækt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exact_us_1.mp3"
+}

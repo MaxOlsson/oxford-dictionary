@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to worldly as opposed to spiritual affairs; secular.",
+      "examples": [
+        "the Church did not imitate the secular rulers who thought only of temporal gain"
+      ],
+      "synonyms": [
+        "secular",
+        "non-spiritual",
+        "worldly",
+        "profane",
+        "material",
+        "mundane",
+        "earthly",
+        "terrestrial"
+      ]
+    },
+    {
+      "description": "Relating to time.",
+      "examples": [
+        "the spatial and temporal dimensions of human interference in complex ecosystems"
+      ],
+      "synonyms": [
+        "of time",
+        "time-related"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin temporalis, from tempora the temples (see temple).",
+  "pronounciation": "/ˈtemp(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/temporal_us_1.mp3"
+}

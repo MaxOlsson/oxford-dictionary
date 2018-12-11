@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "At a later or future time; subsequently.",
+      "examples": [
+        "the offender was arrested shortly afterwards"
+      ],
+      "synonyms": [
+        "later",
+        "later on",
+        "subsequently",
+        "then",
+        "after",
+        "after that",
+        "after this",
+        "following that",
+        "following this",
+        "at a later date",
+        "at a later time",
+        "next",
+        "eventually",
+        "after a period of time",
+        "in due course"
+      ]
+    }
+  ],
+  "origin": "Old English æftewearde, from æftan aft + -wards, influenced by after.",
+  "pronounciation": "/ˈaftərwərdz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afterwards_us_1.mp3"
+}

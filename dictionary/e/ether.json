@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A pleasant-smelling colorless volatile liquid that is highly flammable. It is used as an anesthetic and as a solvent or intermediate in industrial processes.",
+      "examples": []
+    },
+    {
+      "description": "The clear sky; the upper regions of air beyond the clouds.",
+      "examples": [
+        "nasty gases and smoke disperse into the ether"
+      ],
+      "synonyms": [
+        "sky",
+        "heavens"
+      ]
+    },
+    {
+      "description": "A very rarefied and highly elastic substance formerly believed to permeate all space, including the interstices between the particles of matter, and to be the medium whose vibrations constituted light and other electromagnetic radiation.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or via Latin from Greek aithēr upper air, from the base of aithein burn, shine. Originally the word denoted a substance believed to occupy space beyond the sphere of the moon. ether (sense 3) arose in the mid 17th century and ether (sense 1) in the mid 18th century.",
+  "pronounciation": "/ˈēTHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ether_us_1.mp3"
+}

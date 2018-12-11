@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An accredited diplomat sent by a country as its official representative to a foreign country.",
+      "examples": [
+        "the French ambassador to Portugal"
+      ],
+      "synonyms": [
+        "envoy",
+        "diplomat",
+        "ambassador extraordinary",
+        "ambassador plenipotentiary",
+        "plenipotentiary",
+        "consul",
+        "attaché",
+        "chargé d'affaires",
+        "emissary",
+        "legate",
+        "nuncio",
+        "papal nuncio",
+        "representative",
+        "deputy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French ambassadeur, from Italian ambasciator, based on Latin ambactus servant.",
+  "pronounciation": "/amˈbasədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ambassador_us_1_rr.mp3"
+}

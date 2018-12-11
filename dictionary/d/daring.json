@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or action) adventurous or audaciously bold.",
+      "examples": [
+        "a daring crime"
+      ],
+      "synonyms": [
+        "bold",
+        "audacious",
+        "adventurous",
+        "intrepid",
+        "venturesome",
+        "fearless",
+        "brave",
+        "unafraid",
+        "unshrinking",
+        "undaunted",
+        "dauntless",
+        "valiant",
+        "valorous",
+        "heroic",
+        "dashing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Adventurous courage.",
+      "examples": [
+        "the zeal and daring of climbers"
+      ],
+      "synonyms": [
+        "boldness",
+        "audacity",
+        "temerity",
+        "audaciousness",
+        "fearlessness",
+        "intrepidity",
+        "bravery",
+        "courage",
+        "courageousness",
+        "valour",
+        "valorousness",
+        "heroism",
+        "pluck"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɛrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/daring_us_1.mp3"
+}

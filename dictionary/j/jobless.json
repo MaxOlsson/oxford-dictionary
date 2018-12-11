@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Unemployed.",
+      "examples": [
+        "thousands of jobless youngsters"
+      ],
+      "synonyms": [
+        "unemployed",
+        "out of work",
+        "without work",
+        "out of a job",
+        "without paid employment",
+        "unwaged",
+        "workless",
+        "between jobs",
+        "redundant",
+        "laid off"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈjäbləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jobless_us_1.mp3"
+}

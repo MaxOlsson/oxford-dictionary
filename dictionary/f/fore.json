@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Situated or placed in front.",
+      "examples": [
+        "the fore and hind pairs of wings"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The front part of something, especially a ship.",
+      "examples": []
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Called out as a warning to people in the path of a golf ball.",
+      "examples": [],
+      "synonyms": [
+        "be on your guard",
+        "watch out",
+        "look out",
+        "mind out",
+        "be wary",
+        "be careful",
+        "be cautious",
+        "be on the lookout",
+        "be on the alert",
+        "keep your eyes open",
+        "keep a sharp lookout",
+        "be on the qui vive"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "his persistent effort brought this issue to the fore",
+    "They are brought to the fore only on rare occasions like when you make a trip back home.",
+    "It is important that we not only recognise but celebrate our heritage and this is just way of bringing it to the fore.",
+    "At no time in history has the issue of human rights come to the fore as in the current era.",
+    "Already the Italian has ridden to the fore in major World Cup races in the current campaign."
+  ],
+  "origin": "Old English (as a preposition, also in the sense before in time, previously): of Germanic origin; related to Dutch voor and German vor. The adjective and noun represent the prefix fore- used independently (late 15th century).",
+  "pronounciation": "/fôr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fore_us_1.mp3"
+}

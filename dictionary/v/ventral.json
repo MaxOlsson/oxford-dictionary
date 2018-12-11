@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Of, on, or relating to the underside of an animal or plant; abdominal.",
+      "examples": [
+        "a ventral nerve cord",
+        "the ventral part of the head"
+      ],
+      "synonyms": [
+        "enteric",
+        "gastroenteric",
+        "duodenal",
+        "coeliac",
+        "gastric",
+        "stomach",
+        "abdominal",
+        "visceral"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin venter, ventr- belly + -al.",
+  "pronounciation": "/ˈvɛntrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ventral_us_1.mp3"
+}

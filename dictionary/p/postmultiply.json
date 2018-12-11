@@ -1,0 +1,10 @@
+{
+  "verb": [
+    {
+      "description": "Multiply (a vector, matrix, or element of a group) non-commutatively by a following factor.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌpəʊstˈmʌltɪplʌɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/postmultiply_gb_1.mp3"
+}

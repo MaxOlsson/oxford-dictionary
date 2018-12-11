@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Remove (someone) from a place of danger to a safer place.",
+      "examples": [
+        "several families were evacuated from their homes"
+      ],
+      "synonyms": [
+        "remove",
+        "clear",
+        "move out",
+        "shift",
+        "take away",
+        "turn out",
+        "expel",
+        "evict"
+      ]
+    },
+    {
+      "description": "Remove air, water, or other contents from (a container)",
+      "examples": [
+        "when it springs a leak, evacuate the pond",
+        "an evacuated bulb"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense clear the contents of): from Latin evacuat- (of the bowels) emptied, from the verb evacuare, from e- (variant of ex-) out of + vacuus empty.",
+  "pronounciation": "/iˈvakyəˌwāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/evacuate_us_2.mp3"
+}

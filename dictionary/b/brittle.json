@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Hard but liable to break or shatter easily.",
+      "examples": [
+        "her bones became fragile and brittle"
+      ],
+      "synonyms": [
+        "breakable",
+        "splintery",
+        "shatterable",
+        "fragile",
+        "frail",
+        "delicate",
+        "frangible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A candy made from nuts and set melted sugar.",
+      "examples": [
+        "peanut brittle"
+      ]
+    }
+  ],
+  "origin": "Late Middle English, ultimately of Germanic origin and related to Old English brēotan break up.",
+  "pronounciation": "/ˈbridl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brittle_us_1.mp3"
+}

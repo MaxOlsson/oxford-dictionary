@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "By some chance; perhaps.",
+      "examples": [
+        "I may percase use less diligence to serve and gain more quietness next"
+      ],
+      "synonyms": [
+        "maybe",
+        "for all i know",
+        "for all you know",
+        "it could be",
+        "it could be that",
+        "it may be",
+        "it may be that",
+        "it is possible",
+        "it is possible that",
+        "possibly",
+        "conceivably",
+        "feasibly"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French par cas by chance.",
+  "pronounciation": "/pəˈkeɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/percase_gb_1.mp3"
+}

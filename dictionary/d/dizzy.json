@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Having or involving a sensation of spinning around and losing one's balance.",
+      "examples": [
+        "Jonathan had begun to suffer dizzy spells",
+        "he looked around, dizzy with happiness"
+      ],
+      "synonyms": [
+        "giddy",
+        "light-headed",
+        "faint",
+        "weak",
+        "weak at the knees",
+        "unsteady",
+        "shaky",
+        "wobbly",
+        "off-balance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) feel unsteady, confused, or amazed.",
+      "examples": [
+        "the dizzying rate of change",
+        "her nearness dizzied him"
+      ]
+    }
+  ],
+  "origin": "Old English dysig foolish, of West Germanic origin; related to Low German dusig, dösig giddy and Old High German tusic foolish, weak.",
+  "pronounciation": "/ˈdɪzi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dizzy_us_1.mp3"
+}

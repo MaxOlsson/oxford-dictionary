@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a device or attack) designed to cause fires.",
+      "examples": [
+        "incendiary grenades"
+      ],
+      "synonyms": [
+        "combustible",
+        "flammable",
+        "inflammable",
+        "fire-producing",
+        "fire-raising"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An incendiary bomb or device.",
+      "examples": [],
+      "synonyms": [
+        "explosive",
+        "bomb",
+        "incendiary device"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin incendiarius, from incendium conflagration, from incendere set fire to.",
+  "pronounciation": "/inˈsendēˌerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incendiary_us_1.mp3"
+}

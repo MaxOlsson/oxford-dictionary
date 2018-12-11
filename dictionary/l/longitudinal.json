@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Running lengthwise rather than across.",
+      "examples": [
+        "longitudinal muscles",
+        "longitudinal stripes",
+        "longitudinal extent"
+      ]
+    },
+    {
+      "description": "Relating to longitude; measured from east to west.",
+      "examples": [
+        "longitudinal positions"
+      ]
+    },
+    {
+      "description": "(of research or data) involving information about an individual or group gathered over a long period of time.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌlänjəˈt(y)o͞od(ə)nəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/longitudinal_us_2.mp3"
+}

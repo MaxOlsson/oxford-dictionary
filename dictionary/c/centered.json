@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Placed or situated in the center.",
+      "examples": []
+    },
+    {
+      "description": "Having the specified subject as the focal element.",
+      "examples": [
+        "a computer-centered industry"
+      ]
+    },
+    {
+      "description": "Having a center or filling of a specified type.",
+      "examples": [
+        "a soft-centered chocolate"
+      ]
+    },
+    {
+      "description": "(of a person) well balanced and confident or serene.",
+      "examples": [],
+      "synonyms": [
+        "calm",
+        "composed",
+        "collected",
+        "cool",
+        "calm",
+        "and collected",
+        "as cool as a cucumber",
+        "tranquil",
+        "peaceful",
+        "at peace",
+        "pacific",
+        "untroubled",
+        "relaxed",
+        "at ease",
+        "poised",
+        "self-possessed",
+        "unperturbed",
+        "imperturbable",
+        "undisturbed",
+        "unruffled",
+        "unworried",
+        "unexcitable",
+        "placid",
+        "equable",
+        "even-tempered"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɛn(t)ərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/centered_us_1.mp3"
+}

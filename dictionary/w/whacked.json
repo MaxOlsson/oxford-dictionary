@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Completely exhausted.",
+      "examples": [
+        "I'm not staying long—I'm whacked"
+      ],
+      "synonyms": [
+        "tired out",
+        "worn out",
+        "weary",
+        "dog-tired",
+        "bone-tired",
+        "bone-weary",
+        "ready to drop",
+        "on one's last legs",
+        "asleep on one's feet",
+        "drained",
+        "fatigued",
+        "enervated",
+        "debilitated",
+        "spent"
+      ]
+    }
+  ],
+  "pronounciation": "/(h)wakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whacked_us_1.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that starts in a specified way.",
+      "examples": [
+        "I'm just a slow starter",
+        "he was a late starter in photography"
+      ],
+      "synonyms": [
+        "novice",
+        "beginner",
+        "tyro",
+        "neophyte",
+        "new recruit",
+        "raw recruit",
+        "fledgling",
+        "new boy",
+        "new girl",
+        "novitiate"
+      ]
+    },
+    {
+      "description": "An automatic device for starting a machine, especially the engine of a vehicle.",
+      "examples": []
+    },
+    {
+      "description": "The first course of a meal; an appetizer.",
+      "examples": [],
+      "synonyms": [
+        "canapé",
+        "first course",
+        "finger food",
+        "titbit",
+        "savoury",
+        "snack"
+      ]
+    },
+    {
+      "description": "A bacterial culture used to initiate souring in making yogurt, cheese, or butter.",
+      "examples": [],
+      "synonyms": [
+        "novice",
+        "learner",
+        "student",
+        "pupil",
+        "trainee",
+        "apprentice",
+        "probationer"
+      ]
+    }
+  ],
+  "phrases": [
+    "Well, for starters, some red wine always helps to mellow the evening.",
+    "But, for starters, the metal and glass front has to go and the ancient walls properly replaced.",
+    "Well, for starters, it's going to be hard to bring home all your stuff from Wal-Mart now.",
+    "So burgers, wool, zoos and safe medicine are out, for starters.",
+    "He praised Secretary Rice for starters, saying he thought her trip had gone quite well."
+  ],
+  "pronounciation": "/ˈstärdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/starter_us_1.mp3"
+}

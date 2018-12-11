@@ -1,0 +1,132 @@
+{
+  "verb": [
+    {
+      "description": "Strike a surface noisily to attract attention, especially when waiting to be let in through a door.",
+      "examples": [
+        "I knocked on the kitchen door"
+      ],
+      "synonyms": [
+        "bang",
+        "tap",
+        "rap",
+        "thump",
+        "pound",
+        "hammer"
+      ]
+    },
+    {
+      "description": "Collide with (someone or something), giving them a hard blow.",
+      "examples": [
+        "he deliberately ran into her, knocking her shoulder",
+        "he knocked into an elderly man"
+      ],
+      "synonyms": [
+        "collide with",
+        "bump into",
+        "bang into",
+        "knock against",
+        "hit",
+        "strike",
+        "be in collision with",
+        "run into",
+        "crash into",
+        "smash into",
+        "plough into",
+        "slam into",
+        "dash against",
+        "ram",
+        "jolt"
+      ]
+    },
+    {
+      "description": "Talk disparagingly about; criticize.",
+      "examples": [],
+      "synonyms": [
+        "criticize",
+        "find fault with",
+        "run down",
+        "disparage",
+        "belittle",
+        "depreciate",
+        "deprecate",
+        "detract from",
+        "give a bad press to",
+        "cast aspersions on",
+        "scoff at",
+        "deride",
+        "jeer at",
+        "carp at",
+        "cavil at"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden short sound caused by a blow, especially on a door to attract attention or gain entry.",
+      "examples": [],
+      "synonyms": [
+        "tap",
+        "rap",
+        "rat-tat",
+        "rat-tat-tat",
+        "knocking",
+        "bang",
+        "banging",
+        "beating",
+        "pounding",
+        "hammering",
+        "drumming",
+        "thump",
+        "thud"
+      ]
+    },
+    {
+      "description": "A blow or collision.",
+      "examples": [
+        "the casing is tough enough to withstand knocks"
+      ],
+      "synonyms": [
+        "bump",
+        "blow",
+        "bang",
+        "striking",
+        "beating",
+        "jolt",
+        "jar",
+        "jarring",
+        "shock"
+      ]
+    },
+    {
+      "description": "A critical comment.",
+      "examples": [],
+      "synonyms": [
+        "criticism",
+        "disparagement",
+        "stricture",
+        "fault-finding",
+        "denigration",
+        "censure",
+        "reproach",
+        "reproval",
+        "condemnation",
+        "lambasting"
+      ]
+    }
+  ],
+  "phrases": [
+    "I get home from school a few days later and my mother is looking like she wants to knock my block off.",
+    "The young man turned to look at me, and for a second there, I thought he was going to knock my block off.",
+    "If I were that age - I'd knock his block off if I were his so-called teammate.",
+    "In fact, I scared one of them half to death when I walked through the door; she tried to knock my block off with a mop as she thought I was an intruder!",
+    "I'd like to see it myself, except that someone would probably recognize me and try to knock my block off.",
+    "By the time you reach your 30's, you've been knocked around a bit, but you've made some mistakes and learned a little more about yourself.",
+    "Turbulence was knocking around our noisy little twin-prop plane like a beach ball in a hurricane.",
+    "A week in Adelaide with her had knocked Mum around fairly badly on an emotional level.",
+    "Violent men, who I'm told quite often want sex after they've knocked their wives about, no doubt also classify as frigid the women who don't regard a black eye as acceptable foreplay.",
+    "Your father was knocked about by the Depression, as nearly every man was, I suppose."
+  ],
+  "origin": "Old English cnocian, of imitative origin.",
+  "pronounciation": "/näk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knock_us_1.mp3"
+}

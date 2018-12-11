@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Abstaining from marriage and sexual relations, typically for religious reasons.",
+      "examples": [
+        "a celibate priest"
+      ],
+      "synonyms": [
+        "virginal",
+        "virgin",
+        "intact",
+        "maidenly",
+        "maiden",
+        "unmarried",
+        "unwed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who abstains from marriage and sexual relations.",
+      "examples": [],
+      "synonyms": [
+        "abstainer",
+        "recluse",
+        "hermit",
+        "solitary",
+        "anchorite",
+        "anchoress",
+        "desert saint",
+        "celibate",
+        "puritan",
+        "nun",
+        "monk"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (earlier ( mid 17th century) as celibacy): from French célibat or Latin caelibatus unmarried state + -ate.",
+  "pronounciation": "/ˈsɛləbət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/celibate_us_1.mp3"
+}

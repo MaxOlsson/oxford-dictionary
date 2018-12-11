@@ -1,0 +1,132 @@
+{
+  "noun": [
+    {
+      "description": "The property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light.",
+      "examples": [
+        "the lights flickered and changed color"
+      ],
+      "synonyms": [
+        "hue",
+        "shade",
+        "tint",
+        "tone",
+        "tinge",
+        "cast",
+        "tincture"
+      ]
+    },
+    {
+      "description": "Pigmentation of the skin, especially as an indication of someone's race.",
+      "examples": [
+        "discrimination on the basis of color"
+      ],
+      "synonyms": [
+        "skin colour",
+        "skin colouring",
+        "skin tone",
+        "complexion",
+        "colouring",
+        "pigmentation"
+      ]
+    },
+    {
+      "description": "Vividness of visual appearance resulting from the presence of brightly colored things.",
+      "examples": [
+        "for color, plant groups of winter-flowering pansies"
+      ]
+    },
+    {
+      "description": "An item or items of a particular color or combination of colors worn to identify an individual or a member of a school, group, or organization.",
+      "examples": [],
+      "synonyms": [
+        "clothes",
+        "clothing",
+        "rig",
+        "outfit",
+        "dress",
+        "costume",
+        "garments",
+        "attire",
+        "garb"
+      ]
+    },
+    {
+      "description": "A shade of meaning.",
+      "examples": [
+        "many events in her past had taken on a different color"
+      ]
+    },
+    {
+      "description": "A quantized property of quarks which can take three values (designated blue, green, and red) for each flavor.",
+      "examples": []
+    },
+    {
+      "description": "A particle of gold remaining in a mining pan after most of the mud and gravel have been washed away.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Change the color of (something) by painting, dyeing, or shading it.",
+      "examples": [],
+      "synonyms": [
+        "tint",
+        "dye",
+        "tinge",
+        "shade",
+        "pigment",
+        "stain",
+        "colour-wash",
+        "colour in",
+        "paint"
+      ]
+    },
+    {
+      "description": "(of a person or their skin) show embarrassment or shame by becoming red; blush.",
+      "examples": [
+        "everyone stared at him, and he colored slightly"
+      ],
+      "synonyms": [
+        "blush",
+        "redden",
+        "go pink",
+        "go red",
+        "turn crimson",
+        "turn red",
+        "turn scarlet",
+        "flush",
+        "crimson"
+      ]
+    },
+    {
+      "description": "Influence, especially in a negative way; distort.",
+      "examples": [
+        "the experiences had colored her whole existence"
+      ],
+      "synonyms": [
+        "influence",
+        "affect",
+        "slant",
+        "taint",
+        "pervert",
+        "warp",
+        "twist",
+        "skew",
+        "distort",
+        "bias",
+        "prejudice",
+        "poison"
+      ]
+    }
+  ],
+  "phrases": [
+    "this lent color and credibility to his defense",
+    "The rule of a such a prime minister will always give colour to the image of the prime minister as all-powerful.",
+    "The timing of his remarks appears to lend color to the interpretation that his move was reactive rather than proactive.",
+    "His high cylindrical crown, triple-wound knotted girdle and long, thin nose lend colour to the suggestion that they were of Iranian origin.",
+    "This helped to explain what would otherwise have been inexplicable, and hence lent colour to her evidence about the state of her belief."
+  ],
+  "origin": "Middle English: from Old French colour (noun), colourer (verb), from Latin color (noun), colorare (verb).",
+  "pronounciation": "/ˈkələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/color_us_2.mp3"
+}

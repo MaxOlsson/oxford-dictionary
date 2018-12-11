@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not moving; still.",
+      "examples": [
+        "Claudia sat unmoving behind her desk"
+      ],
+      "synonyms": [
+        "motionless",
+        "parked",
+        "halted",
+        "stopped",
+        "immobilized",
+        "immobile",
+        "still",
+        "static",
+        "stock-still",
+        "at a standstill",
+        "at rest",
+        "not moving"
+      ]
+    },
+    {
+      "description": "Not stirring any emotion.",
+      "examples": [],
+      "synonyms": [
+        "expressionless",
+        "glazed",
+        "blank",
+        "empty",
+        "vacant",
+        "fixed",
+        "motionless",
+        "emotionless",
+        "fishy",
+        "impassive",
+        "lifeless",
+        "wooden",
+        "dull",
+        "vacuous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmuvɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmoving_us_1.mp3"
+}

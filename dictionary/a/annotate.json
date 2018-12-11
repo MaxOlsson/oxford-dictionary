@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Add notes to (a text or diagram) giving explanation or comment.",
+      "examples": [
+        "documentation should be annotated with explanatory notes"
+      ],
+      "synonyms": [
+        "comment on",
+        "add footnotes to",
+        "add notes to",
+        "gloss"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin annotat- marked, from the verb annotare, from ad- to + nota a mark.",
+  "pronounciation": "/ˈænəˌteɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/annotate_us_1.mp3"
+}

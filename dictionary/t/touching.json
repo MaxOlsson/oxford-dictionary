@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Arousing strong feelings of sympathy, appreciation, or gratitude.",
+      "examples": [
+        "your loyalty is very touching",
+        "a touching reconciliation scene"
+      ],
+      "synonyms": [
+        "moving",
+        "affecting",
+        "stirring",
+        "warming",
+        "heart-warming",
+        "impressive"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "Concerning; about.",
+      "examples": [
+        "evidence touching the facts of Roger's case"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a preposition): from French touchant, present participle of toucher to touch; the adjective ( early 16th century) is from touch + -ing.",
+  "pronounciation": "/ˈtətʃɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/touching_us_5.mp3"
+}

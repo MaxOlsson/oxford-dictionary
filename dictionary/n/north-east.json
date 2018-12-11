@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The direction towards the point of the horizon midway between north and east.",
+      "examples": [
+        "I pointed to the north-east"
+      ]
+    },
+    {
+      "description": "The north-eastern part of a country, region, or town.",
+      "examples": [
+        "the north-east of Scotland"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lying towards, near, or facing the north-east.",
+      "examples": [
+        "a seaside resort on the north-east coast of Kent"
+      ]
+    },
+    {
+      "description": "Of or denoting the north-eastern part of a specified country, region, or town.",
+      "examples": [
+        "north-east London"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To or towards the north-east.",
+      "examples": [
+        "the ship sailed north-east",
+        "the north-east-facing slopes"
+      ]
+    }
+  ],
+  "pronounciation": "/nɔːθˈiːst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/north_east_1_gb_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A short journey or trip, especially one engaged in as a leisure activity.",
+      "examples": [
+        "an excursion to Mount Etna",
+        "an excursion into theology"
+      ],
+      "synonyms": [
+        "trip",
+        "outing",
+        "jaunt",
+        "expedition",
+        "journey",
+        "tour"
+      ]
+    },
+    {
+      "description": "A deviation from a regular pattern, path, or level of operation.",
+      "examples": []
+    },
+    {
+      "description": "An instance of the movement of something along a path or through an angle.",
+      "examples": []
+    },
+    {
+      "description": "A military sortie.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (in the sense act of running out, also sortie in the phrase alarums and excursions (see alarum): from Latin excursio(n-), from the verb excurrere run out, from ex- out + currere to run.",
+  "pronounciation": "/ɪkˈskərʒən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excursion_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of reverential respect mixed with fear or wonder.",
+      "examples": [
+        "they gazed in awe at the small mountain of diamonds",
+        "the sight filled me with awe",
+        "his staff members are in awe of him"
+      ],
+      "synonyms": [
+        "wonder",
+        "wonderment",
+        "amazement",
+        "astonishment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Inspire with awe.",
+      "examples": [
+        "they were both awed by the vastness of the forest"
+      ],
+      "synonyms": [
+        "filled with wonder",
+        "wonderstruck",
+        "awestruck",
+        "amazed",
+        "filled with amazement",
+        "astonished",
+        "filled with astonishment",
+        "lost for words",
+        "open-mouthed"
+      ]
+    }
+  ],
+  "origin": "Old English ege terror, dread, awe, replaced in Middle English by forms related to Old Norse agi.",
+  "pronounciation": "/ɔ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awe_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Having, done for, or marked by a good or legitimate reason.",
+      "examples": [
+        "the doctors were justified in treating her"
+      ],
+      "synonyms": [
+        "valid",
+        "sound",
+        "well founded",
+        "well grounded",
+        "justifiable",
+        "warranted",
+        "warrantable",
+        "defensible",
+        "defendable",
+        "legitimate",
+        "reasonable",
+        "logical"
+      ]
+    },
+    {
+      "description": "Declared or made righteous in the sight of God.",
+      "examples": []
+    },
+    {
+      "description": "Having been adjusted so that the print fills a space evenly or forms a straight line at one or both margins.",
+      "examples": [
+        "the text is left-justified"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈjəstəˌfīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/justified_us_1.mp3"
+}

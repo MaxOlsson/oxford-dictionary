@@ -1,0 +1,49 @@
+{
+  "adverb": [
+    {
+      "description": "For all future time; for always.",
+      "examples": [
+        "she would love him forever"
+      ],
+      "synonyms": [
+        "for ever",
+        "for all time",
+        "for ever and ever",
+        "for always",
+        "once and for all",
+        "for good",
+        "for good and all",
+        "permanently",
+        "in perpetuity"
+      ]
+    },
+    {
+      "description": "Continually.",
+      "examples": [
+        "she was forever pushing her hair out of her eyes"
+      ],
+      "synonyms": [
+        "continually",
+        "continuously",
+        "constantly",
+        "perpetually",
+        "incessantly",
+        "endlessly",
+        "persistently",
+        "repeatedly",
+        "regularly"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lasting or permanent.",
+      "examples": [
+        "these puppies need a forever home",
+        "parenting is a forever job"
+      ]
+    }
+  ],
+  "pronounciation": "/fəˈrevər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forever_us_2.mp3"
+}

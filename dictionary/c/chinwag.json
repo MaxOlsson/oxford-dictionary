@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A chat.",
+      "examples": [
+        "it was time they got together for a good old chinwag"
+      ],
+      "synonyms": [
+        "discussion",
+        "talk",
+        "chat",
+        "gossip",
+        "tête-à-tête",
+        "heart-to-heart",
+        "head-to-head",
+        "exchange",
+        "dialogue",
+        "parley",
+        "consultation",
+        "conference"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a chat.",
+      "examples": [
+        "he sent her to chinwag with the chiefs"
+      ],
+      "synonyms": [
+        "chat",
+        "talk",
+        "gossip",
+        "chit-chat",
+        "chitter-chatter",
+        "patter",
+        "jabbering",
+        "jabber",
+        "prattling",
+        "prattle",
+        "babbling",
+        "babble",
+        "tittle-tattle",
+        "tattle",
+        "blathering",
+        "blather",
+        "blethering",
+        "blether",
+        "rambling",
+        "gibbering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃɪnˌwæɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chinwag_us_1.mp3"
+}

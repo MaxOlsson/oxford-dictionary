@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A momentary or partial view.",
+      "examples": [
+        "she caught a glimpse of the ocean",
+        "a glimpse into the world of the wealthy"
+      ],
+      "synonyms": [
+        "brief look",
+        "quick look"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "See or perceive briefly or partially.",
+      "examples": [
+        "he glimpsed a figure standing in the shade"
+      ],
+      "synonyms": [
+        "catch sight of",
+        "catch a glimpse of",
+        "get a glimpse of",
+        "see briefly",
+        "get a sight of",
+        "notice",
+        "discern",
+        "spot",
+        "spy",
+        "sight",
+        "note",
+        "pick out",
+        "make out"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense shine faintly): probably of Germanic origin; related to Middle High German glimsen, also to glimmer.",
+  "pronounciation": "/ɡlim(p)s/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glimpse_us_1.mp3"
+}

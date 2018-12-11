@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) using money and other resources carefully and not wastefully.",
+      "examples": [
+        "he had been brought up to be thrifty and careful"
+      ],
+      "synonyms": [
+        "careful with money",
+        "provident",
+        "prudent",
+        "canny",
+        "economical",
+        "frugal",
+        "energy-efficient",
+        "energy-saving",
+        "fuel-efficient",
+        "fuel-saving",
+        "sparing",
+        "scrimping",
+        "abstemious",
+        "parsimonious",
+        "penny-pinching",
+        "miserly"
+      ]
+    },
+    {
+      "description": "(of livestock or plants) strong and healthy.",
+      "examples": [
+        "the sheep are vigorous and thrifty"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈTHriftē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thrifty_us_1.mp3"
+}

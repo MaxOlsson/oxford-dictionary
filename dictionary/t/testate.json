@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Having made a valid will before one dies.",
+      "examples": [
+        "he desired to die testate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who has died leaving a will.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Latin testatus testified, witnessed, past participle of testari, from testis a witness.",
+  "pronounciation": "/ˈtestāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/testate_us_1.mp3"
+}

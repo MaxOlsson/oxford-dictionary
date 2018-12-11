@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The ability of an object or material to resume its normal shape after being stretched or compressed; stretchiness.",
+      "examples": [
+        "aging can decrease the elasticity of your skin"
+      ],
+      "synonyms": [
+        "stretchiness",
+        "flexibility",
+        "pliancy",
+        "suppleness",
+        "rubberiness",
+        "plasticity",
+        "resilience",
+        "springiness"
+      ]
+    },
+    {
+      "description": "Ability to change and adapt; adaptability.",
+      "examples": []
+    },
+    {
+      "description": "The degree to which a demand or supply is sensitive to changes in price or income.",
+      "examples": [
+        "the price elasticity of electricity demand"
+      ]
+    }
+  ],
+  "pronounciation": "/iˌlæˈstɪsədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elasticity_us_2_rr.mp3"
+}

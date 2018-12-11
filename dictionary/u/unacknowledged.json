@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or having taken place but not accepted, recognized, or admitted to.",
+      "examples": [
+        "her unacknowledged feelings"
+      ],
+      "synonyms": [
+        "dormant",
+        "quiescent",
+        "inactive",
+        "untapped",
+        "unused"
+      ]
+    },
+    {
+      "description": "(of a person or their work) deserving but not receiving praise or recognition.",
+      "examples": [],
+      "synonyms": [
+        "unnamed",
+        "unidentified",
+        "anonymous",
+        "incognito",
+        "unspecified",
+        "uncredited"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəkˈnɑlɪdʒd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unacknowledged_us_1.mp3"
+}

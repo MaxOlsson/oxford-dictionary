@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Satisfying one's conception of what is perfect; most suitable.",
+      "examples": [
+        "the swimming pool is ideal for a quick dip",
+        "this is an ideal opportunity to save money"
+      ],
+      "synonyms": [
+        "perfect",
+        "best possible",
+        "consummate",
+        "supreme",
+        "absolute",
+        "complete",
+        "copybook",
+        "flawless",
+        "faultless",
+        "without fault",
+        "exemplary",
+        "classic",
+        "archetypal",
+        "model",
+        "ultimate",
+        "quintessential"
+      ]
+    },
+    {
+      "description": "Existing only in the imagination; desirable or perfect but not likely to become a reality.",
+      "examples": [
+        "in an ideal world, we might have made a different decision"
+      ],
+      "synonyms": [
+        "unattainable",
+        "unachievable",
+        "impracticable",
+        "unworkable",
+        "unfeasible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing regarded as perfect.",
+      "examples": [
+        "you're my ideal of how a man should be"
+      ],
+      "synonyms": [
+        "perfection",
+        "paragon",
+        "epitome",
+        "ne plus ultra",
+        "beau idéal",
+        "nonpareil",
+        "crème de la crème",
+        "the last word",
+        "the ultimate",
+        "a dream"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a term in Platonic philosophy, in the sense existing as an archetype): from late Latin idealis, from Latin idea (see idea).",
+  "pronounciation": "/aɪˈdi(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ideal_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Sharpen the blade of (a tool or weapon)",
+      "examples": [
+        "she took out her dagger and began to whet its blade in even, rhythmic strokes"
+      ],
+      "synonyms": [
+        "sharpen",
+        "hone",
+        "put an edge on",
+        "strop",
+        "grind",
+        "file"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that stimulates appetite or desire.",
+      "examples": [
+        "he swallowed his two dozen oysters as a whet"
+      ]
+    }
+  ],
+  "origin": "Old English hwettan, of Germanic origin; related to German wetzen, based on an adjective meaning sharp.",
+  "pronounciation": "/(h)wɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whet_us_1.mp3"
+}

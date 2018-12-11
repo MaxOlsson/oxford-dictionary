@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The path followed by a projectile flying or an object moving under the action of given forces.",
+      "examples": [
+        "the missile's trajectory was preset",
+        "the rapid upward trajectory of Rich's career"
+      ],
+      "synonyms": [
+        "course",
+        "route",
+        "path",
+        "track",
+        "line",
+        "orbit",
+        "flight",
+        "flight path",
+        "ambit",
+        "direction",
+        "bearing",
+        "orientation",
+        "way",
+        "tack",
+        "approach"
+      ]
+    },
+    {
+      "description": "A curve or surface cutting a family of curves or surfaces at a constant angle.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from modern Latin trajectoria (feminine), from Latin traject- thrown across, from the verb traicere, from trans- across + jacere to throw.",
+  "pronounciation": "/trəˈdʒɛkt(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trajectory_us_1.mp3"
+}

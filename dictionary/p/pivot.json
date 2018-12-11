@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The central point, pin, or shaft on which a mechanism turns or oscillates.",
+      "examples": [],
+      "synonyms": [
+        "central shaft",
+        "fulcrum",
+        "axis",
+        "axle",
+        "swivel",
+        "pin",
+        "hub",
+        "spindle",
+        "hinge",
+        "pintle",
+        "kingpin",
+        "gudgeon",
+        "trunnion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn on or as if on a pivot.",
+      "examples": [
+        "he swung around, pivoting on his heel",
+        "the sail pivots around the axis of a virtually static mast"
+      ],
+      "synonyms": [
+        "rotate",
+        "turn",
+        "revolve",
+        "spin",
+        "swivel",
+        "twirl",
+        "whirl",
+        "wheel",
+        "oscillate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, probably from the root of dialect pue tooth of a comb and Spanish pu(y)a point. The verb dates from the mid 19th century.",
+  "pronounciation": "/ˈpɪvət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pivot_us_1.mp3"
+}

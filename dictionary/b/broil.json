@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Cook (meat or fish) by exposure to direct, intense radiant heat.",
+      "examples": [
+        "he broiled a wedge of sea bass",
+        "a broiled sirloin steak"
+      ],
+      "synonyms": [
+        "grill",
+        "toast",
+        "barbecue",
+        "cook",
+        "fry",
+        "bake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quarrel or commotion.",
+      "examples": [
+        "the dark interior was a broil of fighting men"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from obsolete broil to muddle. Compare with embroil.",
+  "pronounciation": "/brɔɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broil_us_1.mp3"
+}

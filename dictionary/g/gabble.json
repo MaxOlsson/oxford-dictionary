@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Talk rapidly and unintelligibly; utter meaningless sounds.",
+      "examples": [
+        "he gabbled on in a panicky way until he was dismissed"
+      ],
+      "synonyms": [
+        "jabber",
+        "babble",
+        "prattle",
+        "rattle",
+        "blabber",
+        "gibber",
+        "cackle",
+        "blab",
+        "drivel",
+        "twitter",
+        "splutter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Rapid unintelligible talk.",
+      "examples": [],
+      "synonyms": [
+        "jabbering",
+        "babbling",
+        "chattering",
+        "gibbering",
+        "babble",
+        "chatter",
+        "rambling"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Dutch gabbelen, of imitative origin.",
+  "pronounciation": "/ˈɡæbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gabble_us_1.mp3"
+}

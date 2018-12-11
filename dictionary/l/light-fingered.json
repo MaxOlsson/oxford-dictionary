@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Prone to steal.",
+      "examples": [
+        "light-fingered shoplifters"
+      ],
+      "synonyms": [
+        "thieving",
+        "thievish",
+        "stealing",
+        "pilfering",
+        "shoplifting",
+        "pocket-picking"
+      ]
+    },
+    {
+      "description": "Having or showing delicate skill with the hands.",
+      "examples": [
+        "it is played with an irresistibly light-fingered spontaneity"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlaɪt ˈˌfɪŋɡərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/light_fingered_1_us_1.mp3"
+}

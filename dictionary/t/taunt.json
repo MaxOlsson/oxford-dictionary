@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A remark made in order to anger, wound, or provoke someone.",
+      "examples": [],
+      "synonyms": [
+        "jeer",
+        "gibe",
+        "sneer",
+        "insult",
+        "barb",
+        "catcall",
+        "brickbat",
+        "scoff",
+        "slap in the face"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provoke or challenge (someone) with insulting remarks.",
+      "examples": [
+        "students began taunting her about her weight"
+      ],
+      "synonyms": [
+        "jeer at",
+        "gibe at",
+        "sneer at",
+        "scoff at",
+        "poke fun at",
+        "make fun of",
+        "get at",
+        "insult",
+        "tease",
+        "chaff",
+        "torment",
+        "provoke",
+        "goad",
+        "ridicule",
+        "deride",
+        "mock",
+        "heckle"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from French tant pour tant like for like, tit for tat, from tant so much, from Latin tantum, neuter of tantus. An early use of the verb was exchange banter.",
+  "pronounciation": "/tɔnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/taunt_us_1_rr.mp3"
+}

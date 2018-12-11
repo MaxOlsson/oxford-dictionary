@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Seize and hold firmly.",
+      "examples": [
+        "she grasped the bottle"
+      ],
+      "synonyms": [
+        "grip",
+        "clutch",
+        "clasp",
+        "hold",
+        "clench",
+        "lay hold of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A firm hold or grip.",
+      "examples": [
+        "the child slipped from her grasp"
+      ],
+      "synonyms": [
+        "grip",
+        "hold"
+      ]
+    }
+  ],
+  "phrases": [
+    "The problems facing it will only get worse until someone grasps the nettle.",
+    "Still, grasping the nettle like this is probably his only chance, slim though it is.",
+    "He said: I am pleased that the Prime Minister is now re-examining my proposals but we shall see whether the Government really grasps the nettle regarding this issue.",
+    "The new parish council is grasping the nettle to deal with vandalism.",
+    "He warned the country could be facing another crisis unless the next Government grasps the nettle of public spending."
+  ],
+  "origin": "Late Middle English: perhaps related to grope.",
+  "pronounciation": "/ɡrasp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grasp_us_1.mp3"
+}

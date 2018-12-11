@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Farthest from the center.",
+      "examples": [
+        "the outermost layer of the earth"
+      ],
+      "synonyms": [
+        "outside",
+        "outward",
+        "exterior",
+        "external",
+        "surface",
+        "superficial"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "The one that is farthest from the center.",
+      "examples": [
+        "the orbit of the outermost of these eight planets"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊdərˌmoʊst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outermost_us_1.mp3"
+}

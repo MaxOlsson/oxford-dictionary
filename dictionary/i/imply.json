@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Strongly suggest the truth or existence of (something not expressly stated)",
+      "examples": [
+        "the salesmen who uses jargon to imply his superior knowledge",
+        "the report implies that two million jobs might be lost"
+      ],
+      "synonyms": [
+        "insinuate",
+        "suggest",
+        "hint",
+        "intimate",
+        "implicate",
+        "say indirectly",
+        "indicate",
+        "give someone to understand",
+        "give someone to believe",
+        "convey the impression",
+        "signal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French emplier, from Latin implicare, from in- in + plicare to fold. The original sense was entwine; in the 16th and 17th centuries the word also meant employ. Compare with employ and implicate.",
+  "pronounciation": "/ɪmˈplaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imply_us_1.mp3"
+}

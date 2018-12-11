@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a garment or pair of shoes that is put on by being stepped into and has no need for fasteners.",
+      "examples": [
+        "a step-in sports bra",
+        "step-in shoes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pair of step-in shoes; slip-ons.",
+      "examples": []
+    },
+    {
+      "description": "A pair of women's panties.",
+      "examples": [
+        "pink rayon step-ins",
+        "combination all-in-one silk vests and step-ins"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstepˌin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/step_in_1_us_1.mp3"
+}

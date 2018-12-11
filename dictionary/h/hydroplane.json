@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A light, fast motorboat designed to skim over the surface of water.",
+      "examples": []
+    },
+    {
+      "description": "A movable horizontal attachment that enables a moving submarine to rise or fall in the water.",
+      "examples": []
+    },
+    {
+      "description": "A seaplane.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a vehicle) slide uncontrollably on the wet surface of a road.",
+      "examples": [
+        "a motorist whose car hydroplaned and crashed into a tree"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhaɪdrəˌpleɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hydroplane_us_1.mp3"
+}

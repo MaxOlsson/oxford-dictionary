@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Not memorable.",
+      "examples": [],
+      "synonyms": [
+        "run-of-the-mill",
+        "ordinary",
+        "middle-of-the-road",
+        "average",
+        "common",
+        "commonplace",
+        "everyday",
+        "workaday",
+        "quotidian",
+        "pedestrian",
+        "suburban",
+        "mundane",
+        "mediocre",
+        "humdrum",
+        "prosaic",
+        "lacklustre",
+        "unexceptional",
+        "indifferent",
+        "forgettable",
+        "uninspired",
+        "unimpressive",
+        "unexciting",
+        "unspectacular",
+        "uneventful",
+        "unremarkable",
+        "inconsequential",
+        "unnoticeable",
+        "inconspicuous",
+        "characterless",
+        "featureless",
+        "nondescript",
+        "plain",
+        "simple",
+        "fair",
+        "not bad",
+        "passable",
+        "all right",
+        "middling",
+        "moderate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmem(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmemorable_us_1.mp3"
+}

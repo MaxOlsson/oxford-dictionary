@@ -1,0 +1,82 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a willingness to act dishonestly in return for money or personal gain.",
+      "examples": [
+        "unscrupulous logging companies assisted by corrupt officials"
+      ],
+      "synonyms": [
+        "dishonest",
+        "dishonourable",
+        "unscrupulous",
+        "unprincipled",
+        "amoral",
+        "untrustworthy",
+        "underhand",
+        "deceitful",
+        "double-dealing",
+        "disreputable",
+        "discreditable",
+        "shameful",
+        "scandalous"
+      ]
+    },
+    {
+      "description": "(of a text or a computer database or program) made unreliable by errors or alterations.",
+      "examples": []
+    },
+    {
+      "description": "(of organic or inorganic matter) in a state of decay; rotten or putrid.",
+      "examples": [
+        "a corrupt and rotting corpse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to act dishonestly in return for money or personal gain.",
+      "examples": [
+        "there is a continuing fear of firms corrupting politicians in the search for contracts"
+      ],
+      "synonyms": [
+        "bribe",
+        "suborn",
+        "buy",
+        "buy off",
+        "pay off"
+      ]
+    },
+    {
+      "description": "Change or debase by making errors or unintentional alterations.",
+      "examples": [
+        "Epicurus's teachings have since been much corrupted"
+      ],
+      "synonyms": [
+        "alter",
+        "falsify",
+        "manipulate",
+        "tamper with",
+        "interfere with",
+        "tinker with",
+        "doctor",
+        "distort"
+      ]
+    },
+    {
+      "description": "Infect; contaminate.",
+      "examples": [
+        "the corrupting smell of death"
+      ],
+      "synonyms": [
+        "bribe",
+        "suborn",
+        "buy",
+        "buy off",
+        "pay off"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin corruptus, past participle of corrumpere mar, bribe, destroy, from cor- altogether + rumpere to break.",
+  "pronounciation": "/kəˈrəpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corrupt_us_1.mp3"
+}

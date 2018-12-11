@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "The strength and vitality required for sustained physical or mental activity.",
+      "examples": [
+        "changes in the levels of vitamins can affect energy and well-being"
+      ],
+      "synonyms": [
+        "vitality",
+        "vigour",
+        "life",
+        "liveliness",
+        "animation",
+        "vivacity",
+        "spirit",
+        "spiritedness",
+        "fire",
+        "passion",
+        "ardour",
+        "zeal",
+        "verve",
+        "enthusiasm",
+        "zest",
+        "vibrancy",
+        "spark",
+        "sparkle",
+        "effervescence",
+        "exuberance",
+        "buoyancy",
+        "perkiness",
+        "sprightliness"
+      ]
+    },
+    {
+      "description": "Power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.",
+      "examples": [],
+      "synonyms": [
+        "power"
+      ]
+    },
+    {
+      "description": "The property of matter and radiation which is manifest as a capacity to perform work (such as causing motion or the interaction of molecules)",
+      "examples": [
+        "a collision in which no energy is transferred"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting force or vigor of expression): from French énergie, or via late Latin from Greek energeia, from en- in, within + ergon work.",
+  "pronounciation": "/ˈɛnərdʒi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/energy_us_1.mp3"
+}

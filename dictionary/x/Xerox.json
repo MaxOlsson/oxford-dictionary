@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A xerographic copying process.",
+      "examples": [
+        "printing methods include acrylic printing and color Xerox",
+        "a Xerox machine"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Copy (a document) using a xerographic process.",
+      "examples": [
+        "I shall have the typescript xeroxed today",
+        "a xeroxed newspaper article"
+      ],
+      "synonyms": [
+        "photocopy",
+        "copy",
+        "duplicate",
+        "replicate",
+        "make a replica of",
+        "make a facsimile of",
+        "reproduce",
+        "photostat",
+        "mimeograph",
+        "mimeo",
+        "print",
+        "run off"
+      ]
+    }
+  ],
+  "origin": "1950s: an invented name, based on xerography.",
+  "pronounciation": "/ˈzɪrˌɑks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xerox_us_1.mp3"
+}

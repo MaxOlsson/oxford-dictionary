@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A formal statement admitting that one is guilty of a crime.",
+      "examples": [
+        "he signed a confession to the murders"
+      ],
+      "synonyms": [
+        "admission",
+        "owning up",
+        "acceptance of blame",
+        "acceptance of responsibility",
+        "acknowledgement",
+        "profession",
+        "revelation",
+        "disclosure",
+        "divulgence",
+        "exposure",
+        "avowal",
+        "unbosoming"
+      ]
+    },
+    {
+      "description": "A statement setting out essential religious doctrine.",
+      "examples": [],
+      "synonyms": [
+        "declaration",
+        "affirmation",
+        "statement",
+        "announcement",
+        "proclamation",
+        "assertion",
+        "avowal",
+        "vow",
+        "claim",
+        "allegation",
+        "protestation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin confessio(n-), from confiteri acknowledge (see confess).",
+  "pronounciation": "/kənˈfeSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfession_us_1.mp3"
+}

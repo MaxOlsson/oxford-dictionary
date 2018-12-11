@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Fish with a trawl net or seine.",
+      "examples": [
+        "the boats trawled for flounder"
+      ],
+      "synonyms": [
+        "angling",
+        "trawling",
+        "catching fish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of fishing with a trawl net.",
+      "examples": [
+        "they had caught two trout on the lazy trawl"
+      ],
+      "synonyms": [
+        "tug",
+        "towing",
+        "haul",
+        "pull",
+        "drawing",
+        "drag",
+        "trailing",
+        "trawl"
+      ]
+    },
+    {
+      "description": "An act of sifting through something as part of a search.",
+      "examples": [
+        "a constant trawl for information",
+        "we did a trawl of supermarkets and health-food stores"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a verb): probably from Middle Dutch traghelen to drag (related to traghel dragnet), perhaps from Latin tragula dragnet.",
+  "pronounciation": "/trôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trawl_us_1.mp3"
+}

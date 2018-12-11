@@ -1,0 +1,40 @@
+{
+  "adverb": [
+    {
+      "description": "Away from the correct path or direction.",
+      "examples": [
+        "we went astray but a man redirected us"
+      ],
+      "synonyms": [
+        "off target",
+        "wide of the mark",
+        "wide",
+        "awry"
+      ]
+    },
+    {
+      "description": "Into error or morally questionable behavior.",
+      "examples": [
+        "he was led astray by boozy colleagues"
+      ],
+      "synonyms": [
+        "into wrongdoing",
+        "into error",
+        "into sin",
+        "into iniquity",
+        "away from the straight and narrow",
+        "away from the path of righteousness"
+      ]
+    }
+  ],
+  "phrases": [
+    "the money had gone astray",
+    "The community council insists that the boundary details were delivered to the inspector's address before the deadline but somehow went astray.",
+    "Eventually, as the crowd drifts away, you realise that your suitcases have gone astray.",
+    "Around 60 election staff were there to work through the ballots but they were held up at one point when a box of last-minute postal votes went astray.",
+    "Furthermore, they claim that if the money goes astray, it is only after it passes through European and American banks."
+  ],
+  "origin": "Middle English (in the sense distant from the correct path): from an Anglo-Norman French variant of Old French estraie, past participle of estraier, based on Latin extra out of bounds + vagari wander.",
+  "pronounciation": "/əˈstrā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/astray_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting an action or event preceding or done in preparation for something fuller or more important.",
+      "examples": [
+        "the discussions were seen as preliminary to the policy paper",
+        "preliminary talks"
+      ],
+      "synonyms": [
+        "preparatory",
+        "introductory",
+        "initial",
+        "opening",
+        "prefatory",
+        "prior",
+        "preceding",
+        "lead-in",
+        "initiatory",
+        "precursory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An action or event preceding or preparing for something fuller or more important.",
+      "examples": [
+        "the bombardment was resumed as a preliminary to an infantry attack"
+      ],
+      "synonyms": [
+        "prelude",
+        "preparation",
+        "preliminary measure",
+        "preparatory measure",
+        "preliminary action",
+        "overture",
+        "groundwork",
+        "first round"
+      ]
+    }
+  ],
+  "phrases": [
+    "It's merely a preliminary to the long and painful efforts to undo the damage, which have no guarantee of success.",
+    "This was clearly preliminary to a renewed attempt to expand into Scotland, and by AD 142-3 southern Scotland was reoccupied by the Roman forces.",
+    "The Miss Universe Zambia is the official preliminary to the Miss Universe pageant held every year.",
+    "The archaeological excavation is a necessary preliminary to that work, and pipe laying cannot take place until the archaeology has been completed.",
+    "More dramatically, we looked over the house that Venice in Peril have had surveyed as a preliminary to the city repairing it and dividing it up."
+  ],
+  "origin": "Mid 17th century: from modern Latin praeliminaris or French préliminaire, from Latin prae before + limen, limin- threshold.",
+  "pronounciation": "/prəˈlɪməˌnɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preliminary_us_1.mp3"
+}

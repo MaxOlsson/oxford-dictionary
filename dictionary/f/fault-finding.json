@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Continual criticism, typically concerning trivial things.",
+      "examples": [
+        "the traditional manager will attempt to get results by fault-finding"
+      ],
+      "synonyms": [
+        "criticism",
+        "captiousness",
+        "cavilling",
+        "quibbling",
+        "niggling",
+        "pedantry",
+        "hair-splitting"
+      ]
+    },
+    {
+      "description": "The investigation of the cause of malfunction in machinery, especially electronic equipment.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/fôlt ˈfīndiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fault_finding_1_us_1.mp3"
+}

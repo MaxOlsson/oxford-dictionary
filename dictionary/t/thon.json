@@ -1,0 +1,21 @@
+{
+  "determiner": [
+    {
+      "description": "That or those.",
+      "examples": [
+        "I can't take thon licenses"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "That person or thing.",
+      "examples": [
+        "look at the state of thon"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: alteration of yon.",
+  "pronounciation": "/ðɒn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thon_gb_1.mp3"
+}

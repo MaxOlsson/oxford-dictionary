@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Unintelligent and foolish.",
+      "examples": [
+        "why did they promote that empty-headed man?"
+      ],
+      "synonyms": [
+        "stupid",
+        "unintelligent",
+        "idiotic",
+        "foolish",
+        "silly",
+        "brainless",
+        "half-witted",
+        "witless",
+        "vacuous",
+        "vapid",
+        "hare-brained",
+        "feather-brained",
+        "birdbrained",
+        "pea-brained",
+        "scatterbrained",
+        "scatty",
+        "giddy",
+        "skittish",
+        "flighty",
+        "frivolous",
+        "thoughtless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɛm(p)tiˈhɛdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/empty_headed_1_us_1.mp3"
+}

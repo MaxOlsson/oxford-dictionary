@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of a problem, need, or situation) requiring quick or immediate action or attention.",
+      "examples": [
+        "inflation was the most pressing problem",
+        "he had pressing business in Albany"
+      ],
+      "synonyms": [
+        "urgent",
+        "critical",
+        "crucial",
+        "acute",
+        "desperate",
+        "serious",
+        "grave",
+        "dire",
+        "drastic",
+        "burning",
+        "extreme",
+        "life-and-death"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A phonograph record or other object made by the application of force or weight.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈpresiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pressing_us_1.mp3"
+}

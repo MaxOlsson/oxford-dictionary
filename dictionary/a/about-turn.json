@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "(chiefly in military contexts) a turn made so as to face the opposite direction.",
+      "examples": [
+        "he did an about-turn and marched out of the tent"
+      ],
+      "synonyms": [
+        "about-face",
+        "volte-face",
+        "turnaround",
+        "turnround",
+        "turnabout",
+        "u-turn",
+        "rowback"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn so as to face the opposite direction.",
+      "examples": [
+        "suddenly he about-turned and saluted again"
+      ],
+      "synonyms": [
+        "about-face",
+        "turn around",
+        "turn round",
+        "turn about",
+        "do a u-turn",
+        "reverse",
+        "row back"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "A military command to make an about-turn.",
+      "examples": [],
+      "synonyms": [
+        "change",
+        "move"
+      ]
+    }
+  ],
+  "origin": "Late 19th century (originally as a military command): shortening of right about turn.",
+  "pronounciation": "/əbaʊtˈtɛːn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/about_turn_1_gb_1.mp3"
+}

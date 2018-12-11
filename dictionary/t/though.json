@@ -1,0 +1,52 @@
+{
+  "conjunction": [
+    {
+      "description": "Despite the fact that; although.",
+      "examples": [
+        "though they were speaking in undertones, Philip could hear them"
+      ],
+      "synonyms": [
+        "although",
+        "in spite of the fact that",
+        "despite the fact that",
+        "even though",
+        "for all that"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "However (indicating that a factor qualifies or imposes restrictions on what was said previously)",
+      "examples": [
+        "I was hunting for work. Jobs were scarce though"
+      ],
+      "synonyms": [
+        "nevertheless",
+        "nonetheless",
+        "even so",
+        "however",
+        "be that as it may",
+        "for all that",
+        "in spite of everything",
+        "in spite of that",
+        "despite everything",
+        "despite that",
+        "after everything",
+        "having said that",
+        "just the same",
+        "all the same",
+        "at the same time",
+        "in any event",
+        "come what may",
+        "at any rate",
+        "notwithstanding",
+        "regardless",
+        "anyway",
+        "anyhow"
+      ]
+    }
+  ],
+  "origin": "Old English thēah, of Germanic origin; related to Dutch and German doch; superseded in Middle English by forms from Old Norse thó, thau.",
+  "pronounciation": "/T͟Hō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/though_us_1.mp3"
+}

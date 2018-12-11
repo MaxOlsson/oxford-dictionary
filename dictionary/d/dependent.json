@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Contingent on or determined by.",
+      "examples": [
+        "the various benefits will be dependent on length of service"
+      ],
+      "synonyms": [
+        "conditional on",
+        "contingent on",
+        "based on",
+        "depending on",
+        "resting on",
+        "hanging on",
+        "hingeing on"
+      ]
+    },
+    {
+      "description": "Requiring someone or something for financial, emotional, or other support.",
+      "examples": [
+        "an economy heavily dependent on oil exports",
+        "households with dependent children"
+      ],
+      "synonyms": [
+        "reliant on",
+        "relying on",
+        "counting on",
+        "leaning on"
+      ]
+    },
+    {
+      "description": "(of a clause, phrase, or word) subordinate to another clause, phrase, or word.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who relies on another, especially a family member, for financial support.",
+      "examples": [
+        "a single man with no dependents"
+      ]
+    }
+  ],
+  "origin": "Late Middle English dependant hanging down, from Old French, present participle of dependre (see depend). The spelling change in the 16th century was due to association with the Latin participial stem dependent-.",
+  "pronounciation": "/dəˈpendənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dependent_us_1.mp3"
+}

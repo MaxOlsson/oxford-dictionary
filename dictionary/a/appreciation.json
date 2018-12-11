@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "Recognition and enjoyment of the good qualities of someone or something.",
+      "examples": [
+        "I smiled in appreciation",
+        "she shows a fine appreciation of obscure thinkers"
+      ],
+      "synonyms": [
+        "valuing",
+        "respect",
+        "prizing",
+        "cherishing",
+        "treasuring",
+        "admiration",
+        "regard",
+        "esteem",
+        "high opinion"
+      ]
+    },
+    {
+      "description": "A full understanding of a situation.",
+      "examples": [
+        "the bank's lack of appreciation of their problems",
+        "they have an appreciation of the needs of users"
+      ],
+      "synonyms": [
+        "acknowledgement",
+        "recognition",
+        "realization",
+        "knowledge"
+      ]
+    },
+    {
+      "description": "Increase in monetary value.",
+      "examples": [
+        "the appreciation of the franc against the dollar"
+      ],
+      "synonyms": [
+        "increase",
+        "gain",
+        "growth",
+        "rise",
+        "mounting",
+        "inflation",
+        "escalation"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French appréciation, from late Latin appretiatio(n-), from the verb appretiare set at a price, appraise (see appreciate).",
+  "pronounciation": "/əˌpriʃiˈeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appreciation_us_1.mp3"
+}

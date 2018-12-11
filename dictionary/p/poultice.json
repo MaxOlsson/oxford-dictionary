@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A soft, moist mass of material, typically of plant material or flour, applied to the body to relieve soreness and inflammation and kept in place with a cloth.",
+      "examples": [],
+      "synonyms": [
+        "ointment",
+        "cream",
+        "salve",
+        "balm",
+        "rub",
+        "emollient",
+        "moisturizer",
+        "lubricant",
+        "unguent",
+        "liniment",
+        "embrocation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply a poultice to.",
+      "examples": [
+        "he poulticed the wound"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin pultes (plural), from puls, pult- pottage, pap.",
+  "pronounciation": "/ˈpōltəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/poultice_us_1.mp3"
+}

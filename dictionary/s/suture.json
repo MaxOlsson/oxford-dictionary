@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A stitch or row of stitches holding together the edges of a wound or surgical incision.",
+      "examples": [],
+      "synonyms": [
+        "join",
+        "stitching",
+        "joint",
+        "junction",
+        "closure",
+        "line"
+      ]
+    },
+    {
+      "description": "An immovable junction between two bones, such as those of the skull.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Stitch up (a wound or incision) with a suture.",
+      "examples": [
+        "the small incision was sutured"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, or from Latin sutura, from suere sew.",
+  "pronounciation": "/ˈsutʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suture_us_1.mp3"
+}

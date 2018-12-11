@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Allocate (a job or duty)",
+      "examples": [
+        "Congress assigned the task to the agency",
+        "his leader assigned him this mission"
+      ],
+      "synonyms": [
+        "allocate",
+        "allot",
+        "give",
+        "set"
+      ]
+    },
+    {
+      "description": "Designate or set (something) aside for a specific purpose.",
+      "examples": [
+        "managers happily assign large sums of money to travel budgets"
+      ],
+      "synonyms": [
+        "earmark",
+        "appropriate",
+        "designate",
+        "set aside",
+        "set apart",
+        "keep",
+        "reserve"
+      ]
+    },
+    {
+      "description": "Transfer (legal rights or liabilities)",
+      "examples": [
+        "they will ask you to assign your rights against the airline"
+      ],
+      "synonyms": [
+        "transfer",
+        "make over",
+        "give",
+        "pass",
+        "hand over",
+        "hand down",
+        "convey",
+        "consign",
+        "alienate"
+      ]
+    }
+  ],
+  "noun": [],
+  "origin": "Middle English: from Old French asigner, assiner, from Latin assignare, from ad- to + signare to sign.",
+  "pronounciation": "/əˈsaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assign_us_1.mp3"
+}

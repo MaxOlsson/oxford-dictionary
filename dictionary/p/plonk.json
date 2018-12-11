@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Set down heavily or carelessly.",
+      "examples": [
+        "she plonked her glass on the table"
+      ],
+      "synonyms": [
+        "put",
+        "place",
+        "put down",
+        "lay",
+        "lay down",
+        "deposit",
+        "position",
+        "settle",
+        "station"
+      ]
+    },
+    {
+      "description": "Play on a musical instrument laboriously or unskillfully.",
+      "examples": [
+        "people plonking around on expensive instruments"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sound as of something being set down heavily.",
+      "examples": [
+        "he sat down with a plonk"
+      ],
+      "synonyms": [
+        "put down",
+        "set down",
+        "place down",
+        "deposit",
+        "drop",
+        "station",
+        "leave",
+        "rest"
+      ]
+    }
+  ],
+  "origin": "1930s (originally Australian): probably an alteration of blanc in French vin blanc white wine.",
+  "pronounciation": "/pläNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plonk_us_1.mp3"
+}

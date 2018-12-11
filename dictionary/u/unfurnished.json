@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a house or apartment) without furniture, especially available to be rented without furniture.",
+      "examples": [
+        "an unfurnished apartment"
+      ],
+      "synonyms": [
+        "empty",
+        "emptied",
+        "vacant",
+        "clear",
+        "cleared",
+        "free",
+        "stark",
+        "austere",
+        "spartan",
+        "unadorned",
+        "unembellished",
+        "unornamented",
+        "unfussy",
+        "plain"
+      ]
+    },
+    {
+      "description": "Not supplied.",
+      "examples": [
+        "he is unfurnished with the ideas of justice"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfərnɪʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfurnished_us_1.mp3"
+}

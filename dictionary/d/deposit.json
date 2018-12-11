@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "A sum of money placed or kept in a bank account, usually to gain interest.",
+      "examples": []
+    },
+    {
+      "description": "A sum payable as a first installment on the purchase of something or as a pledge for a contract, the balance being payable later.",
+      "examples": [
+        "we've saved enough for a deposit on a house"
+      ],
+      "synonyms": [
+        "down payment",
+        "part payment",
+        "advance payment",
+        "prepayment",
+        "instalment",
+        "security",
+        "retainer",
+        "pledge",
+        "stake"
+      ]
+    },
+    {
+      "description": "A layer or body of accumulated matter.",
+      "examples": [
+        "the deposits of salt on the chrome"
+      ],
+      "synonyms": [
+        "accumulation",
+        "sediment",
+        "sublimate"
+      ]
+    },
+    {
+      "description": "The action of placing something in a specified place.",
+      "examples": [
+        "the deposit of a thesis in a library gives no guarantee of copyright protection",
+        "I'd like to make a deposit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put or set down (something or someone) in a specific place, typically unceremoniously.",
+      "examples": [
+        "he deposited a pile of schoolbooks on the kitchen table"
+      ],
+      "synonyms": [
+        "put",
+        "put down",
+        "place",
+        "lay",
+        "lay down",
+        "set",
+        "set down",
+        "unload",
+        "rest",
+        "settle",
+        "sit"
+      ]
+    },
+    {
+      "description": "Store or entrust with someone for safekeeping.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (especially in the phrases in deposit or on deposit): from Latin depositum (noun), medieval Latin depositare (verb), both from Latin deposit- laid aside, from the verb deponere.",
+  "pronounciation": "/dəˈpɑzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deposit_us_1.mp3"
+}

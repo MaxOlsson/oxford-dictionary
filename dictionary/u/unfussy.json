@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not fussy.",
+      "examples": [
+        "a simple unfussy design"
+      ],
+      "synonyms": [
+        "plain",
+        "unadorned",
+        "undecorated",
+        "unembellished",
+        "unornamented",
+        "without ornament",
+        "without ornamentation",
+        "unelaborate",
+        "unpretentious",
+        "unostentatious",
+        "no-nonsense",
+        "basic",
+        "modest",
+        "unsophisticated",
+        "penny plain",
+        "without frills",
+        "honest",
+        "homely",
+        "homespun",
+        "everyday",
+        "workaday"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfəsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfussy_us_1.mp3"
+}

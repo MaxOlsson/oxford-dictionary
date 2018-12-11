@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "(of a time or place) decided on beforehand; designated.",
+      "examples": [
+        "she arrived at the appointed time"
+      ],
+      "synonyms": [
+        "scheduled",
+        "arranged",
+        "prearranged",
+        "specified",
+        "decided",
+        "agreed",
+        "determined",
+        "assigned",
+        "designated",
+        "allotted",
+        "set",
+        "fixed",
+        "chosen",
+        "established",
+        "settled",
+        "preordained",
+        "authorized",
+        "ordained",
+        "prescribed",
+        "decreed"
+      ]
+    },
+    {
+      "description": "(of a building or room) equipped or furnished in a specified way or to a specified standard.",
+      "examples": [
+        "a luxuriously appointed lobby"
+      ],
+      "synonyms": [
+        "furnished",
+        "decorated",
+        "outfitted",
+        "fitted out",
+        "rigged out",
+        "provided",
+        "supplied"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpoin(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appointed_us_1.mp3"
+}

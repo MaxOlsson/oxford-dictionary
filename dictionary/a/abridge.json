@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Shorten (a piece of writing) without losing the sense.",
+      "examples": [
+        "the introduction is abridged from the author's afterword to the novel"
+      ],
+      "synonyms": [
+        "shorten",
+        "cut",
+        "cut down",
+        "cut short",
+        "curtail",
+        "truncate",
+        "lessen",
+        "trim",
+        "crop",
+        "clip",
+        "pare down",
+        "prune"
+      ]
+    },
+    {
+      "description": "Curtail (a right or privilege)",
+      "examples": [
+        "even the right to free speech can be abridged"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense deprive of): from Old French abregier, from late Latin abbreviare cut short (see abbreviate).",
+  "pronounciation": "/əˈbrɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abridge_us_1.mp3"
+}

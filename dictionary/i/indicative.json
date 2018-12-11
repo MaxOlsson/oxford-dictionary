@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Serving as a sign or indication of something.",
+      "examples": [
+        "having recurrent dreams is not necessarily indicative of any psychological problem"
+      ],
+      "synonyms": [
+        "symptomatic",
+        "expressive",
+        "suggestive",
+        "evocative",
+        "typical",
+        "characteristic",
+        "representative",
+        "symbolic",
+        "emblematic"
+      ]
+    },
+    {
+      "description": "Denoting a mood of verbs expressing simple statement of a fact.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A verb in the indicative mood.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French indicatif, -ive, from late Latin indicativus, from the verb indicare (see indicate).",
+  "pronounciation": "/inˈdikədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indicative_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Growing thickly into or so as to resemble a bush.",
+      "examples": [
+        "a dense, bushy plant",
+        "his eyebrows were thick and bushy"
+      ],
+      "synonyms": [
+        "thick",
+        "shaggy",
+        "unruly",
+        "fuzzy",
+        "rough",
+        "bristling",
+        "bristly",
+        "fluffy",
+        "woolly",
+        "luxuriant",
+        "exuberant",
+        "spreading"
+      ]
+    },
+    {
+      "description": "Covered with bush or bushes.",
+      "examples": [
+        "bushy desert areas"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who lives in the bush (as distinct from in a town), typically regarded as uncultured or unsophisticated.",
+      "examples": [
+        "cultural wonders that bushies like me were despised for not having"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbo͝oSHē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bushy_us_2.mp3"
+}

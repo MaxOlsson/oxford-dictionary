@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "Gas, smoke, or vapor that smells strongly or is dangerous to inhale.",
+      "examples": [
+        "clouds of exhaust fumes spewed by cars"
+      ],
+      "synonyms": [
+        "smoke",
+        "vapour",
+        "gas",
+        "exhalation",
+        "exhaust",
+        "effluvium",
+        "pollution"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Feel, show, or express great anger.",
+      "examples": [
+        "\"We simply cannot have this,\" she fumed",
+        "the minister reportedly fumed at officials of the department"
+      ],
+      "synonyms": [
+        "be furious",
+        "be enraged",
+        "be angry",
+        "seethe",
+        "smoulder",
+        "simmer",
+        "boil",
+        "be livid",
+        "be incensed",
+        "bristle",
+        "be beside oneself",
+        "spit",
+        "chafe"
+      ]
+    },
+    {
+      "description": "Emit gas, smoke, or vapor.",
+      "examples": [
+        "fragments of lava hit the ground, fuming and sizzling"
+      ],
+      "synonyms": [
+        "emit smoke",
+        "emit gas",
+        "smoke"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French fumer (verb), from Latin fumare to smoke.",
+  "pronounciation": "/fyo͞om/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fume_us_1.mp3"
+}

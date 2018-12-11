@@ -1,0 +1,132 @@
+{
+  "adjective": [
+    {
+      "description": "Of first importance; main.",
+      "examples": [
+        "her prime concern is the well-being of the patient"
+      ],
+      "synonyms": [
+        "main",
+        "chief",
+        "key",
+        "primary",
+        "central",
+        "principal",
+        "foremost",
+        "first",
+        "most important",
+        "paramount",
+        "major",
+        "dominant",
+        "supreme",
+        "overriding",
+        "cardinal",
+        "pre-eminent",
+        "ultimate"
+      ]
+    },
+    {
+      "description": "Of the best possible quality; excellent.",
+      "examples": [
+        "prime cuts of meat",
+        "a prime site in the center of Indianapolis"
+      ],
+      "synonyms": [
+        "top-quality",
+        "highest quality",
+        "top",
+        "top-tier",
+        "best",
+        "first-class",
+        "first-rate",
+        "high-grade",
+        "grade a",
+        "superior",
+        "supreme",
+        "flawless",
+        "choice",
+        "select",
+        "finest",
+        "superlative",
+        "peak",
+        "optimal",
+        "model"
+      ]
+    },
+    {
+      "description": "(of a number) evenly divisible only by itself and one (e.g., 2, 3, 5, 7, 11).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state or time of greatest strength, vigor, or success in a person's life.",
+      "examples": [
+        "you're in the prime of life",
+        "he wasn't elderly, but clearly past his prime"
+      ],
+      "synonyms": [
+        "heyday",
+        "best days",
+        "best years",
+        "day",
+        "time",
+        "prime of one's life",
+        "maturity"
+      ]
+    },
+    {
+      "description": "A service forming part of the Divine Office, traditionally said (or chanted) at the first hour of the day (i.e., 6 a.m.), but now little used.",
+      "examples": []
+    },
+    {
+      "description": "A prime number.",
+      "examples": []
+    },
+    {
+      "description": "A symbol (ʹ) written after a letter or symbol as a distinguishing mark or after a figure as a symbol for minutes or feet.",
+      "examples": []
+    },
+    {
+      "description": "The first of eight standard parrying positions.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) ready for use or action.",
+      "examples": []
+    },
+    {
+      "description": "Prepare (someone) for a situation or task, typically by supplying them with relevant information.",
+      "examples": [
+        "the sentries had been primed to admit him without challenge"
+      ],
+      "synonyms": [
+        "brief",
+        "give information to",
+        "fill in",
+        "prepare",
+        "supply with facts",
+        "put in the picture",
+        "inform",
+        "advise",
+        "notify",
+        "tell",
+        "instruct",
+        "coach",
+        "drill"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense fill, load): origin uncertain; probably based on Latin primus first, since the sense expressed is a first operation prior to something else.",
+  "phrases": [
+    "capital from overseas that helps prime the US economic pump",
+    "First party has to do the heavy lifting to prime the pump so the publishers can follow suit.",
+    "You prime the pump by running it without actually powering up the whole system.",
+    "Yet the current government, overzealous to prime the pump, seems unable to resist the temptation to interfere in credit assessments, prodding state banks to lend to particular projects or businesses it accords high priority.",
+    "MHI needs an editorial team for an online newspaper targeting teenagers and is offering Sony Mini Disc Recorders to prime the pump in a contest closing on June 25, 2004."
+  ],
+  "pronounciation": "/prīm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prime_us_1.mp3"
+}

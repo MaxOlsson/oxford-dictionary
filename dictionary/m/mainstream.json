@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The ideas, attitudes, or activities that are regarded as normal or conventional; the dominant trend in opinion, fashion, or the arts.",
+      "examples": [
+        "companies that are bringing computers to the mainstream of American life"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Belonging to or characteristic of the mainstream.",
+      "examples": [
+        "mainstream politics",
+        "a mixture of mainstream and avant-garde artists"
+      ],
+      "synonyms": [
+        "normal",
+        "conventional",
+        "ordinary",
+        "orthodox",
+        "conformist",
+        "accepted",
+        "established",
+        "recognized",
+        "common",
+        "usual",
+        "prevailing",
+        "popular"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring (something) into the mainstream.",
+      "examples": [
+        "vegetarianism has been mainstreamed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmeɪnˌstrim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mainstream_us_1.mp3"
+}

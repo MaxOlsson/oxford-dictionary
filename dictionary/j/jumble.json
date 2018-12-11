@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An untidy collection or pile of things.",
+      "examples": [
+        "the books were in a chaotic jumble"
+      ],
+      "synonyms": [
+        "untidy heap",
+        "confused heap",
+        "clutter",
+        "muddle",
+        "mess",
+        "confusion",
+        "welter",
+        "disarray",
+        "disarrangement",
+        "tangle",
+        "litter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mix up in a confused or untidy way.",
+      "examples": [
+        "a drawer full of letters jumbled together"
+      ],
+      "synonyms": [
+        "mix up",
+        "muddle up",
+        "disarrange",
+        "disorganize",
+        "disorder",
+        "confuse",
+        "put in disarray",
+        "throw into chaos",
+        "make a shambles of"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: probably symbolic.",
+  "pronounciation": "/ˈdʒəmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jumble_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling or consisting of small grains or particles.",
+      "examples": [],
+      "synonyms": [
+        "powder",
+        "powdered",
+        "powdery",
+        "grainy",
+        "granulated",
+        "gritty",
+        "sandy"
+      ]
+    },
+    {
+      "description": "Characterized by a high level of granularity.",
+      "examples": [
+        "a granular database"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from late Latin granulum (see granule) + -ar.",
+  "pronounciation": "/ˈɡrænjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/granular_us_1.mp3"
+}

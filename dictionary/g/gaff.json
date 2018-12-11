@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A stick with a hook or barbed spear, for landing large fish.",
+      "examples": []
+    },
+    {
+      "description": "A spar to which the head of a fore-and-aft sail is bent.",
+      "examples": [
+        "a gaff-rigged cutter"
+      ],
+      "synonyms": [
+        "spar",
+        "boom",
+        "yard",
+        "foremast",
+        "mainmast",
+        "topmast",
+        "mizzenmast",
+        "mizzen",
+        "royal mast"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Seize or impale with a gaff.",
+      "examples": [
+        "the whales are gaffed, speared, or knifed to death"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (in sense a fair): of unknown origin.",
+  "pronounciation": "/ɡaf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gaff_us_1.mp3"
+}

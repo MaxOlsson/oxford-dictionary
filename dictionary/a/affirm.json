@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "State as a fact; assert strongly and publicly.",
+      "examples": [
+        "he affirmed the country's commitment to peace",
+        "he affirmed that she was, indeed, a good editor",
+        "“Pessimism,” she affirmed, “is the most rational view.”"
+      ],
+      "synonyms": [
+        "declare",
+        "state",
+        "assert",
+        "aver",
+        "proclaim",
+        "pronounce",
+        "attest",
+        "swear",
+        "avow",
+        "vow",
+        "guarantee",
+        "promise",
+        "certify",
+        "pledge",
+        "give one's word",
+        "give an undertaking"
+      ]
+    },
+    {
+      "description": "Offer (someone) emotional support or encouragement.",
+      "examples": [
+        "there are five common ways parents fail to affirm their children",
+        "good teachers know that students need to be both affirmed and challenged"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense make firm): via Old French from Latin affirmare, from ad- to + firmus strong.",
+  "pronounciation": "/əˈfərm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affirm_us_1.mp3"
+}

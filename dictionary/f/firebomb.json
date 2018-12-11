@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A bomb designed to cause a fire.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack or destroy (something) with a bomb which causes a fire.",
+      "examples": [
+        "he suspects that someone firebombed his business"
+      ],
+      "synonyms": [
+        "incendiarism",
+        "pyromania",
+        "firebombing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfī(ə)rˌbäm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/firebomb_us_1.mp3"
+}

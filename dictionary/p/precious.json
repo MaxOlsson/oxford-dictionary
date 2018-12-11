@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "(of an object, substance, or resource) of great value; not to be wasted or treated carelessly.",
+      "examples": [
+        "precious works of art",
+        "my time is precious"
+      ],
+      "synonyms": [
+        "valuable",
+        "costly",
+        "expensive",
+        "high-priced",
+        "dear"
+      ]
+    },
+    {
+      "description": "Affectedly concerned with elegant or refined behavior, language, or manners.",
+      "examples": [
+        "his exaggerated, precious manner"
+      ],
+      "synonyms": [
+        "affected",
+        "over-refined",
+        "artificial",
+        "studied",
+        "pretentious",
+        "chichi",
+        "flowery",
+        "mannered",
+        "contrived",
+        "effete"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Used as a term of address for a beloved person.",
+      "examples": [
+        "don't be frightened, my precious"
+      ],
+      "synonyms": [
+        "darling",
+        "dearest",
+        "love",
+        "beloved",
+        "loved one",
+        "sweetheart",
+        "sweet",
+        "precious",
+        "treasure"
+      ]
+    }
+  ],
+  "phrases": [
+    "police still know precious little about the dead man",
+    "you'll find precious few attractions open outside of the tourist season",
+    "In 80 minutes of solid endeavour, there was precious little grunt and grind.",
+    "That leaves precious little time to settle in and be ready for the big end of year holiday when the whole country takes three to four weeks off.",
+    "When what was to become York's prime rugby league club was first founded it had precious little money and no permanent home."
+  ],
+  "origin": "Middle English: from Old French precios, from Latin pretiosus of great value, from pretium price.",
+  "pronounciation": "/ˈpreSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precious_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The state or feeling, often pleasant, of tiredness or inertia.",
+      "examples": [
+        "he remembered the languor and warm happiness of those golden afternoons"
+      ],
+      "synonyms": [
+        "lassitude",
+        "lethargy",
+        "listlessness",
+        "tiredness",
+        "torpor",
+        "fatigue",
+        "weariness"
+      ]
+    },
+    {
+      "description": "An oppressive stillness of the air.",
+      "examples": [
+        "the afternoon was hot, quiet, and heavy with languor"
+      ],
+      "synonyms": [
+        "stillness",
+        "tranquillity",
+        "calm",
+        "calmness",
+        "lull",
+        "silence",
+        "windlessness",
+        "oppressiveness",
+        "heaviness"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin, from languere (see languish). The original sense was illness, distress, later faintness, lassitude; current senses date from the 18th century, when such lassitude became associated with a romantic yearning.",
+  "pronounciation": "/ˈlaNG(ɡ)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/languor_us_1.mp3"
+}

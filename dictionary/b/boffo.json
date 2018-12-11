@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a theatrical production or movie, or a review of one) very successful or wholeheartedly commendatory.",
+      "examples": [
+        "a boffo box-office certainty"
+      ],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    },
+    {
+      "description": "(of a laugh) deep and unrestrained.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A success.",
+      "examples": [
+        "the finale is a genuine boffo"
+      ]
+    }
+  ],
+  "origin": "1940s: from US boff roaring success + -o.",
+  "pronounciation": "/ˈbäfō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boffo_us_1.mp3"
+}

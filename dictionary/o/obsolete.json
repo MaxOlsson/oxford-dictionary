@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "No longer produced or used; out of date.",
+      "examples": [
+        "the disposal of old and obsolete machinery",
+        "the phrase was obsolete after 1625"
+      ],
+      "synonyms": [
+        "out of date",
+        "outdated",
+        "outmoded",
+        "old-fashioned"
+      ]
+    },
+    {
+      "description": "(of a part or characteristic of an organism) less developed than formerly or in a related species; rudimentary; vestigial.",
+      "examples": [],
+      "synonyms": [
+        "rudimentary",
+        "undeveloped",
+        "incomplete",
+        "embryonic",
+        "immature"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (a product or idea) to be or become obsolete by replacing it with something new.",
+      "examples": [
+        "we're trying to stimulate the business by obsoleting last year's designs"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin obsoletus grown old, worn out, past participle of obsolescere fall into disuse.",
+  "pronounciation": "/ˌɑbsəˈlit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/obsolete_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "Any of a class of adhesives, plastics, or other materials that are polymers of epoxides.",
+      "examples": [],
+      "synonyms": [
+        "adhesive",
+        "glue",
+        "fixative",
+        "gum",
+        "paste",
+        "bonding",
+        "binder",
+        "sealer",
+        "sealant"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Consisting of epoxy.",
+      "examples": [
+        "epoxy cement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Glue (something) using epoxy resin.",
+      "examples": [
+        "the wire is epoxied to the top of the nut"
+      ],
+      "synonyms": [
+        "stick",
+        "gum",
+        "paste"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from epi- in addition + oxy-.",
+  "pronounciation": "/ɪˈpɑksi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/epoxy_us_1.mp3"
+}

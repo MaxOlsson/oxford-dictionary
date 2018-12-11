@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking strong emotion; unemotional.",
+      "examples": [
+        "the voice is passionless, monotone"
+      ],
+      "synonyms": [
+        "unemotional",
+        "cold",
+        "cold-blooded",
+        "emotionless",
+        "frigid",
+        "cool",
+        "unfeeling",
+        "unloving",
+        "unresponsive",
+        "undemonstrative",
+        "impassive",
+        "withdrawn",
+        "unapproachable",
+        "aloof",
+        "detached",
+        "distant",
+        "dispassionate",
+        "remote"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpæʃ(ə)nləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passionless_us_1.mp3"
+}

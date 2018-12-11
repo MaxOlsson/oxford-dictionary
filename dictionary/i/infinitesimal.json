@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely small.",
+      "examples": [
+        "an infinitesimal pause"
+      ],
+      "synonyms": [
+        "minute",
+        "tiny",
+        "minuscule",
+        "extremely small",
+        "very small"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An indefinitely small quantity; a value approaching zero.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin infinitesimus, from Latin infinitus (see infinite), on the pattern of centesimal.",
+  "pronounciation": "/ˌɪnfɪnəˈtɛs(ə)m(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/infinitesimal_us_1.mp3"
+}

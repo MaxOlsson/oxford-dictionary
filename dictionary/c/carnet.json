@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A book of tickets for use on public transport in some countries.",
+      "examples": [],
+      "synonyms": [
+        "voucher",
+        "token",
+        "ticket",
+        "document",
+        "certificate"
+      ]
+    },
+    {
+      "description": "A customs permit allowing a motor vehicle to be taken across an international border for a limited period.",
+      "examples": [],
+      "synonyms": [
+        "authorization",
+        "licence",
+        "pass",
+        "voucher",
+        "ticket",
+        "warrant",
+        "document",
+        "certification"
+      ]
+    }
+  ],
+  "origin": "1920s: from French, notebook.",
+  "pronounciation": "/kärˈnā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/carnet_us_1.mp3"
+}

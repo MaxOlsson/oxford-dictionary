@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Fasten; join.",
+      "examples": [
+        "he made certain that the trailer was securely attached to the van"
+      ],
+      "synonyms": [
+        "fasten",
+        "fix",
+        "affix",
+        "join",
+        "connect",
+        "couple",
+        "link",
+        "secure",
+        "make fast",
+        "tie",
+        "tie up",
+        "bind",
+        "fetter",
+        "strap",
+        "rope",
+        "tether",
+        "truss",
+        "lash",
+        "hitch",
+        "moor",
+        "anchor",
+        "yoke",
+        "chain"
+      ]
+    },
+    {
+      "description": "Attribute importance or value to.",
+      "examples": [
+        "he doesn't attach too much importance to radical ideas"
+      ],
+      "synonyms": [
+        "lay",
+        "pin",
+        "place",
+        "impose",
+        "fix"
+      ]
+    },
+    {
+      "description": "Seize (a person's property) by legal authority.",
+      "examples": [
+        "the court attached his wages for child support"
+      ],
+      "synonyms": [
+        "seize",
+        "confiscate",
+        "commandeer",
+        "requisition",
+        "appropriate",
+        "expropriate",
+        "take possession of",
+        "take away",
+        "take",
+        "sequester",
+        "sequestrate"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense seize by legal authority): from Old French atachier or estachier fasten, fix, based on an element of Germanic origin related to stake; compare with attack.",
+  "pronounciation": "/əˈtætʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/attach_us_1.mp3"
+}

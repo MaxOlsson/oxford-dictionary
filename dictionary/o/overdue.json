@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Not having arrived, happened, or been done by the expected time.",
+      "examples": [
+        "the rent was nearly three months overdue",
+        "overdue bills"
+      ],
+      "synonyms": [
+        "late",
+        "not on time",
+        "behind schedule",
+        "behindhand",
+        "behind time",
+        "long-overdue",
+        "long-delayed",
+        "delayed",
+        "belated",
+        "tardy",
+        "unpunctual"
+      ]
+    },
+    {
+      "description": "Having been needed for some time.",
+      "examples": [
+        "reform is now overdue"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈd(j)u/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overdue_us_1.mp3"
+}

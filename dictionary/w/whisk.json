@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Take or move (someone or something) in a particular direction suddenly and quickly.",
+      "examples": [
+        "his jacket was whisked away for dry cleaning"
+      ],
+      "synonyms": [
+        "speed",
+        "hurry",
+        "rush",
+        "catapult"
+      ]
+    },
+    {
+      "description": "Beat or stir (a substance, especially cream or eggs) with a light, rapid movement.",
+      "examples": [],
+      "synonyms": [
+        "whip",
+        "beat",
+        "mix vigorously",
+        "stir vigorously"
+      ]
+    },
+    {
+      "description": "Brush with a whisk broom.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A utensil for whipping eggs or cream.",
+      "examples": [],
+      "synonyms": [
+        "beater",
+        "mixer",
+        "blender",
+        "swizzle stick"
+      ]
+    },
+    {
+      "description": "A bunch of grass, twigs, or bristles for removing dust or flies.",
+      "examples": []
+    },
+    {
+      "description": "A brief, rapid action or movement.",
+      "examples": [
+        "a whisk around St. Basil's cathedral"
+      ],
+      "synonyms": [
+        "flick",
+        "twitch",
+        "wave",
+        "sweep",
+        "swipe"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of Scandinavian origin.",
+  "pronounciation": "/(h)wisk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whisk_us_1.mp3"
+}

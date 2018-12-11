@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "(of a boat) overturn in the water.",
+      "examples": [
+        "the craft capsized in heavy seas",
+        "gale-force gusts capsized the dinghies"
+      ],
+      "synonyms": [
+        "overturn",
+        "turn over",
+        "turn upside down",
+        "upset",
+        "upend",
+        "knock over",
+        "flip over",
+        "tip over",
+        "topple over",
+        "invert",
+        "keel over",
+        "turn turtle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of capsizing.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: perhaps based on Spanish capuzar sink (a ship) by the head, from cabo head + chapuzar to dive or duck.",
+  "pronounciation": "/ˈkapˌsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/capsize_us_1_rr.mp3"
+}

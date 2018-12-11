@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "The branch of mathematics that deals with the finding and properties of derivatives and integrals of functions, by methods originally based on the summation of infinitesimal differences. The two main types are differential calculus and integral calculus.",
+      "examples": []
+    },
+    {
+      "description": "A particular method or system of calculation or reasoning.",
+      "examples": []
+    },
+    {
+      "description": "A concretion of minerals formed within the body, especially in the kidney or gallbladder.",
+      "examples": [
+        "biliary calculi"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin, literally small pebble (as used on an abacus).",
+  "pronounciation": "/ˈkalkyələs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/calculus_us_1.mp3"
+}

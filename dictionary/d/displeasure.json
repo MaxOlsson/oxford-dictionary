@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of annoyance or disapproval.",
+      "examples": [
+        "his grin turns into thin-lipped displeasure"
+      ],
+      "synonyms": [
+        "annoyance",
+        "irritation",
+        "crossness",
+        "infuriation",
+        "anger",
+        "vexation",
+        "wrath",
+        "pique",
+        "chagrin",
+        "rancour",
+        "resentment",
+        "indignation",
+        "exasperation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Annoy; displease.",
+      "examples": [
+        "not for worlds would I do aught that might displeasure thee"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French desplaisir (see displease), influenced by pleasure.",
+  "pronounciation": "/dɪsˈplɛʒər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/displeasure_us_1.mp3"
+}

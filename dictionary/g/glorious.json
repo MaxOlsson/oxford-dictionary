@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Having, worthy of, or bringing fame or admiration.",
+      "examples": [
+        "the most glorious victory of all time"
+      ],
+      "synonyms": [
+        "illustrious",
+        "celebrated",
+        "famous",
+        "famed",
+        "renowned",
+        "acclaimed",
+        "distinguished",
+        "honoured",
+        "eminent",
+        "excellent",
+        "outstanding",
+        "great",
+        "magnificent",
+        "splendid",
+        "impressive",
+        "noble",
+        "supreme",
+        "sublime",
+        "triumphant"
+      ]
+    },
+    {
+      "description": "Having a striking beauty or splendor that evokes feelings of delighted admiration.",
+      "examples": [
+        "a glorious autumn day"
+      ],
+      "synonyms": [
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "sublime",
+        "spectacular",
+        "lovely",
+        "excellent",
+        "fine",
+        "delightful",
+        "enjoyable",
+        "pleasurable"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French glorieus, from Latin gloriosus, from gloria glory.",
+  "pronounciation": "/ˈɡlôrēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glorious_us_1.mp3"
+}

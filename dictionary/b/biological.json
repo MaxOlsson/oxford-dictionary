@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to biology or living organisms.",
+      "examples": [],
+      "synonyms": [
+        "biotic",
+        "biologic",
+        "organic",
+        "living"
+      ]
+    },
+    {
+      "description": "(of a member of a person's family) genetically related; related by blood.",
+      "examples": [
+        "the rights of the biological father"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A therapeutic substance, such as a vaccine or drug, derived from biological sources.",
+      "examples": [
+        "an international biotechnology company with interests in biologicals, agriculture, and pharmaceutical products"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌbīəˈläjək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/biological_us_1.mp3"
+}

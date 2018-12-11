@@ -1,0 +1,98 @@
+{
+  "verb": [
+    {
+      "description": "Lift or haul (a heavy thing) with great effort.",
+      "examples": [
+        "she heaved the sofa back into place",
+        "he heaved himself out of bed"
+      ],
+      "synonyms": [
+        "haul",
+        "pull",
+        "lug",
+        "manhandle",
+        "drag",
+        "draw",
+        "tug"
+      ]
+    },
+    {
+      "description": "Produce (a sigh)",
+      "examples": [
+        "he heaved a euphoric sigh of relief"
+      ],
+      "synonyms": [
+        "let out",
+        "breathe",
+        "give",
+        "sigh",
+        "gasp",
+        "emit",
+        "utter"
+      ]
+    },
+    {
+      "description": "Rise and fall rhythmically or spasmodically.",
+      "examples": [
+        "his shoulders heaved as he panted"
+      ],
+      "synonyms": [
+        "rise and fall",
+        "roll",
+        "swell",
+        "surge",
+        "churn",
+        "boil",
+        "seethe",
+        "swirl",
+        "billow"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of heaving, especially a strong pull.",
+      "examples": [],
+      "synonyms": [
+        "yank",
+        "tug",
+        "pull",
+        "wrench",
+        "snatch",
+        "heave",
+        "drag",
+        "tweak",
+        "twitch"
+      ]
+    },
+    {
+      "description": "A sideways displacement in a fault.",
+      "examples": []
+    },
+    {
+      "description": "A case of retching or vomiting.",
+      "examples": [
+        "waiting for the heaves to subside"
+      ]
+    },
+    {
+      "description": "A disease of horses, with labored breathing.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the three canoes hove into view",
+    "Today's revelations of the American meetings, the anger of Boyce and the faltering Labour lead in the polls will ensure that those around Blair continue to bite their nails as the last 96 hours of the campaign hove into view.",
+    "It is said, too, that sailors, beating up against the wind in the Gulf of Finland, sometimes see a strange sail heave in sight astern and overhaul them hand over hand.",
+    "As his arrival date hove into view, I assembled a labour soundtrack.",
+    "Soon the shining titanium flanks of the museum hove into view.",
+    "he hove to and dropped anchor",
+    "The ship was hove to and the men in charge of patching were swung over in rope slings.",
+    "The boat heaves to under power and waits, the skipper aware of the half-mile visibility in haze.",
+    "You will also practise being captain of your own ship, repairing the engine and heaving to in a storm, she said.",
+    "As they approached the coast of Western Australia the wind blew too heavily for the ship to make landfall and they had to heave to with close reefed topsails."
+  ],
+  "origin": "Old English hebban, of Germanic origin; related to Dutch heffen and German heben lift up.",
+  "pronounciation": "/hēv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heave_us_1.mp3"
+}

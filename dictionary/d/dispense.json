@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Distribute or provide (a service or information) to a number of people.",
+      "examples": [
+        "he dispensed a gentle pat on Claude's back"
+      ],
+      "synonyms": [
+        "distribute",
+        "pass round",
+        "pass out",
+        "hand out",
+        "deal out",
+        "dole out",
+        "share out",
+        "divide out",
+        "parcel out",
+        "allocate",
+        "allot",
+        "apportion",
+        "assign",
+        "bestow",
+        "confer",
+        "supply",
+        "disburse"
+      ]
+    },
+    {
+      "description": "Manage without or get rid of.",
+      "examples": [
+        "let's dispense with the formalities, shall we?"
+      ],
+      "synonyms": [
+        "waive",
+        "omit",
+        "drop",
+        "leave out",
+        "forgo",
+        "give up",
+        "relinquish",
+        "renounce"
+      ]
+    }
+  ],
+  "phrases": [
+    "When Kenneth Williams, 58, returned to his Horsforth home from holiday last summer to find a letter from his employer dispensing with his services, he thought his working life was over.",
+    "He would make certain that, in future, any group or artist he managed never had the power to dispense with his services.",
+    "Eames was sacked late on Wednesday night after a disciplinary hearing found him guilty of gross misconduct, concluding he deliberately misled three employees when dispensing with their services.",
+    "I put it to him that if someone else were head coach he, as chief executive, would surely consider whether to dispense with their services.",
+    "If he did, I would have dispensed with his services and gone it alone and won."
+  ],
+  "origin": "Late Middle English: via Old French from Latin dispensare continue to weigh out or disburse, from the verb dispendere, based on pendere weigh.",
+  "pronounciation": "/dəˈspens/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dispense_us_1.mp3"
+}

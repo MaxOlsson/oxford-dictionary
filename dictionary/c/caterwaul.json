@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Make a shrill howling or wailing noise like that of a cat.",
+      "examples": [
+        "he seems to think that singing soulfully is to whine and caterwaul tunelessly",
+        "the caterwauling of a pair of bobcats",
+        "a caterwauling guitar"
+      ],
+      "synonyms": [
+        "howl",
+        "howling",
+        "wail",
+        "wailing",
+        "screech",
+        "screeching",
+        "shriek",
+        "shrieking",
+        "scream",
+        "screaming",
+        "bawl",
+        "bawling",
+        "cry",
+        "crying",
+        "yell",
+        "yelling",
+        "yelp",
+        "yelping",
+        "yowl",
+        "yowling",
+        "squall",
+        "squalling",
+        "whine",
+        "whining",
+        "ululating"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shrill howling or wailing noise.",
+      "examples": [
+        "the song ended in a caterwaul of feedback"
+      ],
+      "synonyms": [
+        "yell",
+        "cry",
+        "call",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "clamour",
+        "bay",
+        "cheer",
+        "yawp",
+        "yelp",
+        "wail",
+        "squawk",
+        "shriek",
+        "scream",
+        "screech",
+        "squeal",
+        "squall",
+        "caterwaul",
+        "whoop"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from cat + imitative waul.",
+  "pronounciation": "/ˈkadərˌwôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caterwaul_us_1.mp3"
+}

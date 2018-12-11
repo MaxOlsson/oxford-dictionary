@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Crowd together; nestle closely.",
+      "examples": [
+        "they huddled together for warmth"
+      ],
+      "synonyms": [
+        "crowd",
+        "gather",
+        "throng",
+        "flock",
+        "herd",
+        "pile",
+        "bunch",
+        "cluster",
+        "collect",
+        "group",
+        "congregate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A crowded or confused mass of people or things.",
+      "examples": [
+        "a huddle of barns and outbuildings"
+      ],
+      "synonyms": [
+        "crowd",
+        "gathering",
+        "throng",
+        "flock",
+        "herd",
+        "swarm",
+        "press",
+        "pack"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense conceal): perhaps of Low German origin.",
+  "pronounciation": "/ˈhədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/huddle_us_1.mp3"
+}

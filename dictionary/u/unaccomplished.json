@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Showing little skill.",
+      "examples": [
+        "an unaccomplished poet"
+      ],
+      "synonyms": [
+        "inexpert",
+        "unskilful",
+        "unskilled",
+        "without finesse",
+        "incompetent",
+        "incapable",
+        "talentless",
+        "amateur",
+        "amateurish",
+        "unqualified",
+        "untrained",
+        "dilettante",
+        "maladroit",
+        "blundering"
+      ]
+    },
+    {
+      "description": "Not carried out.",
+      "examples": [],
+      "synonyms": [
+        "uncompleted",
+        "incomplete",
+        "unfinished",
+        "undone",
+        "half-done",
+        "unperformed",
+        "unexecuted",
+        "undeveloped",
+        "unfulfilled",
+        "neglected"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəˈkɑmplɪʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unaccomplished_us_1.mp3"
+}

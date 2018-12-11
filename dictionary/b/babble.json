@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "Talk rapidly and continuously in a foolish, excited, or incomprehensible way.",
+      "examples": [
+        "they babbled on about their vacation"
+      ],
+      "synonyms": [
+        "prattle",
+        "rattle on",
+        "gabble",
+        "chatter",
+        "jabber",
+        "twitter",
+        "go on",
+        "run on",
+        "prate",
+        "ramble",
+        "burble",
+        "blather",
+        "blether",
+        "blither",
+        "maunder",
+        "drivel",
+        "patter",
+        "yap",
+        "jibber-jabber"
+      ]
+    },
+    {
+      "description": "(of a flowing water) make a continuous murmuring sound.",
+      "examples": [
+        "the shallow river babbled over smooth rocks"
+      ],
+      "synonyms": [
+        "burble",
+        "murmur",
+        "gurgle",
+        "purl",
+        "tinkle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sound of people talking simultaneously.",
+      "examples": [
+        "the answers were difficult to hear amid the babble of conversation",
+        "a confused babble of voices"
+      ],
+      "synonyms": [
+        "clamour",
+        "din",
+        "racket",
+        "confused noise",
+        "tumult",
+        "uproar",
+        "hubbub"
+      ]
+    },
+    {
+      "description": "The continuous murmuring sound of flowing water.",
+      "examples": [
+        "the babble of a brook"
+      ],
+      "synonyms": [
+        "burble",
+        "purl",
+        "lap"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Middle Low German babbelen, or an independent English formation, as a frequentative based on the repeated syllable ba, typical of a child's early speech.",
+  "pronounciation": "/ˈbabəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/babble_us_1.mp3"
+}

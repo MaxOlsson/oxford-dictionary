@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Anticipate with great apprehension or fear.",
+      "examples": [
+        "Jane was dreading the party",
+        "I dread to think what Russell will say"
+      ],
+      "synonyms": [
+        "fear",
+        "be afraid of",
+        "worry about",
+        "be anxious about",
+        "have forebodings about",
+        "feel apprehensive about"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Great fear or apprehension.",
+      "examples": [
+        "the thought of returning to New Jersey filled her with dread",
+        "I used to have a dread of Sunday afternoons"
+      ],
+      "synonyms": [
+        "fear",
+        "fearfulness",
+        "apprehension",
+        "trepidation",
+        "anxiety",
+        "worry",
+        "concern",
+        "foreboding",
+        "disquiet",
+        "disquietude",
+        "unease",
+        "uneasiness",
+        "angst"
+      ]
+    },
+    {
+      "description": "A person with dreadlocks.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Greatly feared; dreadful.",
+      "examples": [
+        "he was stricken with the dread disease and died"
+      ],
+      "synonyms": [
+        "awful",
+        "feared",
+        "frightening",
+        "alarming",
+        "terrifying",
+        "frightful",
+        "terrible",
+        "horrible",
+        "dreadful",
+        "dire"
+      ]
+    }
+  ],
+  "origin": "Old English ādrǣdan, ondrǣdan, of West Germanic origin; related to Old High German intrātan.",
+  "pronounciation": "/dred/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dread_us_1.mp3"
+}

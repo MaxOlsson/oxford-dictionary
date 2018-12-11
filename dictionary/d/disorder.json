@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A state of confusion.",
+      "examples": [
+        "tiresome days of mess and disorder"
+      ],
+      "synonyms": [
+        "untidiness",
+        "disorderliness",
+        "mess",
+        "disarray",
+        "disorganization",
+        "chaos",
+        "confusion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Disrupt the systematic functioning or neat arrangement of.",
+      "examples": [
+        "she went to comb her disordered hair",
+        "his sleep is disordered"
+      ],
+      "synonyms": [
+        "untidy",
+        "unkempt",
+        "messy",
+        "in a mess",
+        "disarranged",
+        "uncombed",
+        "unbrushed",
+        "ungroomed",
+        "tousled",
+        "tangled",
+        "tangly",
+        "knotted",
+        "knotty",
+        "matted",
+        "shaggy",
+        "straggly",
+        "windswept",
+        "windblown",
+        "wild"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a verb): alteration, influenced by order, of earlier disordain, from Old French desordener, ultimately based on Latin ordinare ordain.",
+  "pronounciation": "/ˌdisˈôrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disorder_us_1.mp3"
+}

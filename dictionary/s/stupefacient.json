@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly of a drug) causing semiconsciousness.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stupefacient drug.",
+      "examples": [],
+      "synonyms": [
+        "drug",
+        "narcotic",
+        "mind-altering drug",
+        "sedative",
+        "tranquillizer",
+        "depressant",
+        "sleeping pill",
+        "soporific",
+        "anaesthetic",
+        "painkiller",
+        "analgesic",
+        "anodyne"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin stupefacient- stupefying, from the verb stupefacere.",
+  "pronounciation": "/ˌst(y)o͞opəˈfāSHənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stupefacient_us_1.mp3"
+}

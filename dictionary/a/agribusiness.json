@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "Agriculture conducted on commercial principles, especially using advanced technology.",
+      "examples": [],
+      "synonyms": [
+        "farm management",
+        "farming",
+        "agriculture",
+        "land management",
+        "agronomy",
+        "agronomics",
+        "cultivation",
+        "tillage"
+      ]
+    },
+    {
+      "description": "The group of industries dealing with agricultural produce and services required in farming.",
+      "examples": [],
+      "synonyms": [
+        "farming",
+        "cultivation",
+        "tillage",
+        "tilling",
+        "husbandry",
+        "land management",
+        "farm management",
+        "crofting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaɡrəˌbiznəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agribusiness_us_1.mp3"
+}

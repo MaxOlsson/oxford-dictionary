@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is composed of two or more separate elements; a mixture.",
+      "examples": [
+        "the air smelled like a compound of diesel and gasoline fumes"
+      ],
+      "synonyms": [
+        "amalgam",
+        "amalgamation",
+        "combination",
+        "composite",
+        "blend",
+        "mixture",
+        "mix",
+        "admixture",
+        "meld",
+        "fusion",
+        "synthesis",
+        "consolidation"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Made up or consisting of two or more existing parts or elements.",
+      "examples": [
+        "a compound noun"
+      ],
+      "synonyms": [
+        "composite",
+        "complex"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make up (a composite whole); constitute.",
+      "examples": [
+        "a dialect compounded of Spanish and Dutch"
+      ],
+      "synonyms": [
+        "be composed of",
+        "be made up of",
+        "be constituted of",
+        "be formed from"
+      ]
+    },
+    {
+      "description": "Make (something bad) worse; intensify the negative aspects of.",
+      "examples": [
+        "I compounded the problem by trying to make wrong things right"
+      ],
+      "synonyms": [
+        "aggravate",
+        "worsen",
+        "make worse",
+        "add to",
+        "augment",
+        "exacerbate",
+        "intensify",
+        "heighten",
+        "increase",
+        "magnify"
+      ]
+    },
+    {
+      "description": "Forbear from prosecuting (a felony) in exchange for money or other consideration.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century (referring to such an area in SE Asia): from Portuguese campon or Dutch kampoeng, from Malay kampong enclosure, hamlet; compare with kampong.",
+  "pronounciation": "/ˈkɑmˌpaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compound_us_3_rr.mp3"
+}

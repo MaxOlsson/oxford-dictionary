@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Move along slowly, typically in a small irregular group, so as to remain some distance behind the person or people in front.",
+      "examples": [
+        "half the men were already straggling back into the building"
+      ],
+      "synonyms": [
+        "trail",
+        "lag",
+        "dawdle",
+        "amble",
+        "wander",
+        "walk slowly",
+        "meander",
+        "drift"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An untidy or irregularly arranged mass or group.",
+      "examples": [
+        "a straggle of cottages"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps from dialect strake go.",
+  "pronounciation": "/ˈstraɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/straggle_us_1.mp3"
+}

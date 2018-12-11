@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An introduction or preamble which allows one to move smoothly on to the next part of something.",
+      "examples": [
+        "the lead-in note"
+      ],
+      "synonyms": [
+        "introduction",
+        "opening remarks",
+        "preliminary remarks",
+        "preparatory remarks",
+        "opening statement",
+        "preliminary statement",
+        "preparatory statement",
+        "preliminaries",
+        "preface",
+        "overture",
+        "prologue"
+      ]
+    },
+    {
+      "description": "A wire leading in from outside, especially from an antenna to a receiver or transmitter.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈlidɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lead_in_1_us_1.mp3"
+}

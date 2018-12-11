@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's hair) fine and difficult to control.",
+      "examples": [
+        "the gel is designed to smooth down flyaway hair"
+      ],
+      "synonyms": [
+        "thin",
+        "light",
+        "delicate",
+        "wispy",
+        "floaty",
+        "feathery"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fine strand of hair that sticks out or does not lie smoothly against the rest of the hair; a stray hair.",
+      "examples": [
+        "pin the ends and any flyaways into place"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflaɪəˌweɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flyaway_us_1.mp3"
+}

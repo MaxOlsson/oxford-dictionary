@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Substitute a randomly generated identifier for (a sensitive piece of data) in order to prevent unauthorized access.",
+      "examples": [
+        "sensitive data has been tokenized or strongly encrypted",
+        "tokenized payment systems"
+      ]
+    },
+    {
+      "description": "Break (text) into individual linguistic units.",
+      "examples": [
+        "our text gets tokenized into terms",
+        "check if words are tokenized and normalized correctly"
+      ]
+    },
+    {
+      "description": "Treat (a member of a minority group) as if they have been chosen by way of tokenism.",
+      "examples": [
+        "there was immense diversity and no one was tokenized"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtoʊkəˌnaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tokenize_us_1.mp3"
+}

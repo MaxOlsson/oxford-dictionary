@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) traveling on foot.",
+      "examples": [
+        "a wayfaring stranger"
+      ],
+      "synonyms": [
+        "travelling",
+        "journeying",
+        "walking",
+        "hiking",
+        "rambling",
+        "touring"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of traveling by foot.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwāˌferiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wayfaring_us_1.mp3"
+}

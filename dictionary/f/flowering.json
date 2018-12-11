@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(of a plant) in bloom.",
+      "examples": [
+        "a basket of flowering plants"
+      ],
+      "synonyms": [
+        "prime",
+        "peak",
+        "pinnacle",
+        "zenith",
+        "acme",
+        "height",
+        "ascendancy",
+        "climax",
+        "culmination",
+        "crowning point",
+        "perfection",
+        "heyday",
+        "springtime",
+        "bloom",
+        "flowering",
+        "salad days"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of producing flowers.",
+      "examples": [
+        "the clematis can be grown to coincide with the flowering of the roses"
+      ]
+    },
+    {
+      "description": "The attainment of an optimum stage of development.",
+      "examples": [
+        "the flowering of Viennese intellectual life"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflou(ə)riNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flowering_us_1.mp3"
+}

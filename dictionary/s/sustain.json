@@ -1,0 +1,95 @@
+{
+  "verb": [
+    {
+      "description": "Strengthen or support physically or mentally.",
+      "examples": [
+        "this thought had sustained him throughout the years"
+      ],
+      "synonyms": [
+        "comfort",
+        "help",
+        "assist",
+        "encourage",
+        "succour",
+        "support",
+        "give strength to",
+        "be a source of strength to",
+        "be a tower of strength to",
+        "buoy up",
+        "carry",
+        "cheer up",
+        "hearten",
+        "see someone through"
+      ]
+    },
+    {
+      "description": "Undergo or suffer (something unpleasant, especially an injury)",
+      "examples": [
+        "he died after sustaining severe head injuries"
+      ],
+      "synonyms": [
+        "undergo",
+        "experience",
+        "go through",
+        "suffer",
+        "endure"
+      ]
+    },
+    {
+      "description": "Cause to continue or be prolonged for an extended period or without interruption.",
+      "examples": [
+        "he cannot sustain a normal conversation"
+      ],
+      "synonyms": [
+        "continuous",
+        "ongoing",
+        "steady",
+        "continual",
+        "continuing",
+        "constant",
+        "running",
+        "prolonged",
+        "persistent",
+        "non-stop",
+        "perpetual",
+        "unfaltering",
+        "unremitting",
+        "unabating",
+        "unrelenting",
+        "relentless",
+        "unrelieved",
+        "unbroken",
+        "never-ending",
+        "unending",
+        "incessant",
+        "unceasing",
+        "ceaseless",
+        "round the clock"
+      ]
+    },
+    {
+      "description": "Uphold, affirm, or confirm the justice or validity of.",
+      "examples": [
+        "the allegations of discrimination were sustained"
+      ],
+      "synonyms": [
+        "uphold",
+        "validate",
+        "ratify",
+        "vindicate",
+        "confirm",
+        "endorse",
+        "approve"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An effect or facility on a keyboard or electronic instrument whereby a note can be sustained after the key is released.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French soustenir, from Latin sustinere, from sub- from below + tenere hold.",
+  "pronounciation": "/səˈsteɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sustain_us_1.mp3"
+}

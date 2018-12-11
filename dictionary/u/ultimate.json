@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Being or happening at the end of a process; final.",
+      "examples": [
+        "their ultimate aim was to force his resignation"
+      ],
+      "synonyms": [
+        "eventual",
+        "last",
+        "final",
+        "concluding",
+        "conclusive",
+        "terminal",
+        "end",
+        "endmost",
+        "furthest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The best achievable or imaginable of its kind.",
+      "examples": [
+        "the ultimate in decorative luxury"
+      ],
+      "synonyms": [
+        "utmost",
+        "optimum",
+        "last word",
+        "very limit",
+        "height",
+        "epitome",
+        "peak",
+        "pinnacle",
+        "acme",
+        "apex",
+        "apogee",
+        "zenith",
+        "culmination",
+        "perfection",
+        "nonpareil",
+        "extreme",
+        "extremity"
+      ]
+    },
+    {
+      "description": "A final or fundamental fact or principle.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from late Latin ultimatus, past participle of ultimare come to an end.",
+  "pronounciation": "/ˈəltəmət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ultimate_us_1.mp3"
+}

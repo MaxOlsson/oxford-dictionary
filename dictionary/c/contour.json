@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An outline, especially one representing or bounding the shape or form of something.",
+      "examples": [
+        "she traced the contours of his face with her finger",
+        "the contours of American life"
+      ],
+      "synonyms": [
+        "outline",
+        "shape",
+        "form"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mold into a specific shape, especially one designed to fit into something else.",
+      "examples": [
+        "the compartment has been contoured with smooth rounded corners"
+      ],
+      "synonyms": [
+        "shaped",
+        "contoured",
+        "fitting tightly",
+        "fitting well"
+      ]
+    },
+    {
+      "description": "Mark (a map or diagram) with contour lines.",
+      "examples": [
+        "a variety of different data sources have been compiled to contour the maps"
+      ]
+    },
+    {
+      "description": "(of a road or railroad) follow the outline of (a topographical feature), especially along a contour line.",
+      "examples": [
+        "the road contours the hillside"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French, from Italian contorno, from contornare draw in outline, from con- together + tornare to turn.",
+  "pronounciation": "/ˈkɑnˌtʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontour_us_1.mp3"
+}

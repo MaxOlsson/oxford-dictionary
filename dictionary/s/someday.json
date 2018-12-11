@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "At some time in the future.",
+      "examples": [
+        "I know someday my whole family will be together and happy"
+      ],
+      "synonyms": [
+        "some day",
+        "one day",
+        "one of these days",
+        "at some point in the future",
+        "at some time in the future",
+        "at a future date",
+        "at a future time",
+        "one of these fine days",
+        "sooner or later",
+        "by and by",
+        "in due course",
+        "in the fullness of time",
+        "in the long run"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəmˌdā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/someday_us_1.mp3"
+}

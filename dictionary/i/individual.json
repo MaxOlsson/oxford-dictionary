@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Single; separate.",
+      "examples": [
+        "individual tiny flowers"
+      ],
+      "synonyms": [
+        "single",
+        "separate",
+        "discrete",
+        "independent"
+      ]
+    },
+    {
+      "description": "Of or for a particular person.",
+      "examples": [
+        "the individual needs of the children"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A single human being as distinct from a group, class, or family.",
+      "examples": [
+        "boat trips for parties and individuals"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense indivisible): from medieval Latin individualis, from Latin individuus, from in- not + dividuus divisible (from dividere to divide).",
+  "pronounciation": "/ˌɪndəˈvɪdʒ(u)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/individual_us_2.mp3"
+}

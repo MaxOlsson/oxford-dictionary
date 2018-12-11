@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "In a manner that is not relaxed or friendly.",
+      "examples": [
+        "they stiffly shook hands",
+        "she sits stiffly beside him and says he's just a friend"
+      ]
+    },
+    {
+      "description": "In a severe or strong manner.",
+      "examples": [
+        "stiffly worded letters of complaint",
+        "defendants were always convicted and stiffly sentenced"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstɪfli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stiffly_us_1.mp3"
+}

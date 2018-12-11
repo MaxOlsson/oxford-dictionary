@@ -1,0 +1,81 @@
+{
+  "noun": [
+    {
+      "description": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.",
+      "examples": [],
+      "synonyms": [
+        "herb",
+        "flower",
+        "vegetable",
+        "shrub",
+        "weed"
+      ]
+    },
+    {
+      "description": "A place where an industrial or manufacturing process takes place.",
+      "examples": [
+        "the company has 30 plants in Mexico"
+      ],
+      "synonyms": [
+        "factory",
+        "works",
+        "foundry",
+        "mill",
+        "workshop",
+        "shop",
+        "yard",
+        "industrial unit",
+        "business unit"
+      ]
+    },
+    {
+      "description": "A person placed in a group as a spy or informer.",
+      "examples": [
+        "we thought he was a CIA plant spreading disinformation"
+      ],
+      "synonyms": [
+        "spy",
+        "informant",
+        "informer",
+        "undercover agent",
+        "secret agent",
+        "agent",
+        "mole",
+        "infiltrator",
+        "operative"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place (a seed, bulb, or plant) in the ground so that it can grow.",
+      "examples": [],
+      "synonyms": [
+        "sow",
+        "scatter",
+        "seed",
+        "put in the ground"
+      ]
+    },
+    {
+      "description": "Place or fix in a specified position.",
+      "examples": [
+        "she planted a kiss on his cheek"
+      ],
+      "synonyms": [
+        "put",
+        "place",
+        "set",
+        "position",
+        "station",
+        "situate",
+        "settle",
+        "stick",
+        "fix"
+      ]
+    }
+  ],
+  "origin": "Old English plante seedling, plantian (verb), from Latin planta sprout, cutting (later influenced by French plante) and plantare plant, fix in a place.",
+  "pronounciation": "/plant/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plant_us_1.mp3"
+}

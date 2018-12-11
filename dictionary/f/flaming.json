@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Burning fiercely and emitting flames.",
+      "examples": [
+        "they dragged her away from the flaming car"
+      ],
+      "synonyms": [
+        "blazing",
+        "ablaze",
+        "burning",
+        "on fire",
+        "afire",
+        "in flames",
+        "aflame"
+      ]
+    },
+    {
+      "description": "Used for emphasis to express annoyance.",
+      "examples": [
+        "weeds can become a flaming nuisance"
+      ],
+      "synonyms": [
+        "wretched",
+        "unspeakable",
+        "rotten",
+        "hellish",
+        "cursed",
+        "accursed"
+      ]
+    },
+    {
+      "description": "(of a gay man) having a manner or appearance regarded as stereotypically homosexual.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfleɪmɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flaming_us_1.mp3"
+}

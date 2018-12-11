@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "An iron bar with a flattened end, used as a lever.",
+      "examples": [],
+      "synonyms": [
+        "bar",
+        "handspike",
+        "jemmy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use a crowbar to open (something)",
+      "examples": [
+        "he crowbarred the box open"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrōˌbär/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crowbar_us_1.mp3"
+}

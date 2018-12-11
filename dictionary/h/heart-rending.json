@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Causing great sadness or distress.",
+      "examples": [
+        "a heart-rending story"
+      ],
+      "synonyms": [
+        "distressing",
+        "upsetting",
+        "disturbing",
+        "heartbreaking",
+        "sad",
+        "tragic",
+        "painful",
+        "saddening",
+        "traumatic",
+        "agonizing",
+        "desolate",
+        "harrowing",
+        "excruciating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhärtˌrendiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heart_rending_1_us_2.mp3"
+}

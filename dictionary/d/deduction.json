@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The action of deducting or subtracting something.",
+      "examples": [
+        "the dividend will be paid without deduction of tax"
+      ],
+      "synonyms": [
+        "subtraction",
+        "taking away",
+        "taking off",
+        "withdrawal",
+        "abstraction",
+        "removal",
+        "debit",
+        "docking",
+        "discounting"
+      ]
+    },
+    {
+      "description": "The inference of particular instances by reference to a general law or principle.",
+      "examples": [
+        "the detective must uncover the murderer by deduction from facts",
+        "we do not yet know if these deductions are correct"
+      ],
+      "synonyms": [
+        "conclusion",
+        "inference",
+        "supposition",
+        "hypothesis",
+        "thesis",
+        "assumption",
+        "presumption",
+        "suspicion",
+        "conviction",
+        "belief"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin deductio(n-), from the verb deducere (see deduce).",
+  "pronounciation": "/dəˈdəkʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deduction_us_1.mp3"
+}

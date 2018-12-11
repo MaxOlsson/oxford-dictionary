@@ -1,0 +1,36 @@
+{
+  "": [
+    {
+      "description": "The chemical element cobalt.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Colorado (in official postal use).",
+      "examples": []
+    },
+    {
+      "description": "Commanding Officer.",
+      "examples": [],
+      "synonyms": [
+        "leader",
+        "head",
+        "headman",
+        "boss",
+        "chief",
+        "director",
+        "manager",
+        "overseer",
+        "controller",
+        "master"
+      ]
+    },
+    {
+      "description": "Conscientious objector.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌsiˈoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/co_abbrev_1_us_3_abbr.mp3"
+}

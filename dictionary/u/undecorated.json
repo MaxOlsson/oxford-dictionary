@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Not adorned or decorated.",
+      "examples": [
+        "the walls were completely undecorated"
+      ],
+      "synonyms": [
+        "plain",
+        "unadorned",
+        "unembellished",
+        "unornamented",
+        "without ornament",
+        "without ornamentation",
+        "unelaborate",
+        "unpretentious",
+        "unostentatious",
+        "unfussy",
+        "no-nonsense",
+        "basic",
+        "modest",
+        "unsophisticated",
+        "penny plain",
+        "without frills",
+        "honest",
+        "homely",
+        "homespun",
+        "everyday",
+        "workaday"
+      ]
+    },
+    {
+      "description": "(of a member of the armed forces) not honored with an award.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈdekəˌrādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undecorated_us_1.mp3"
+}

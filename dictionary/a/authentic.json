@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Of undisputed origin; genuine.",
+      "examples": [
+        "the letter is now accepted as an authentic document",
+        "authentic 14th-century furniture"
+      ],
+      "synonyms": [
+        "genuine",
+        "original",
+        "real",
+        "actual",
+        "pukka",
+        "bona fide",
+        "true",
+        "veritable"
+      ]
+    },
+    {
+      "description": "(of a church mode) comprising the notes lying between the principal note or final and the note an octave higher.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin authenticus, from Greek authentikos principal, genuine.",
+  "pronounciation": "/ôˈTHen(t)ik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/authentic_us_1.mp3"
+}

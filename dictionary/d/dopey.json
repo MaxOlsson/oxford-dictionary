@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Stupefied by sleep or a drug.",
+      "examples": [
+        "she was under sedation and a bit dopey"
+      ],
+      "synonyms": [
+        "dazed",
+        "confused",
+        "muddled",
+        "befuddled",
+        "bewildered",
+        "disoriented",
+        "disorientated",
+        "stupefied",
+        "groggy",
+        "dizzy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdoʊpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dopey_us_1.mp3"
+}

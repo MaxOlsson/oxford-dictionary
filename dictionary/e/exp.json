@@ -1,0 +1,36 @@
+{
+  "abbreviation": [
+    {
+      "description": "Experience (usually in the context of job advertisements)",
+      "examples": [
+        "previous exp an advantage"
+      ]
+    },
+    {
+      "description": "Experimental (in titles of periodicals)",
+      "examples": [
+        "J. Exp. Biol"
+      ]
+    },
+    {
+      "description": "Expiry.",
+      "examples": [
+        "exp date"
+      ]
+    },
+    {
+      "description": "The exponential function raising e to the power of the given quantity.",
+      "examples": [
+        "it is reduced by exp (−U)"
+      ]
+    },
+    {
+      "description": "Exposures.",
+      "examples": [
+        "£4.45 for 24 exp"
+      ]
+    }
+  ],
+  "pronounciation": "/ɛksp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exp_gb_1.mp3"
+}

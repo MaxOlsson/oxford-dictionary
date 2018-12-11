@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "Mild illness.",
+      "examples": [
+        "she was chiefly confined by indisposition to her bedroom",
+        "due to an indisposition, Herr Gesner will not be able to continue his performance"
+      ],
+      "synonyms": [
+        "illness",
+        "ailment",
+        "disorder",
+        "sickness",
+        "affliction",
+        "malady",
+        "infirmity",
+        "malaise",
+        "disease",
+        "infection",
+        "upset"
+      ]
+    },
+    {
+      "description": "Lack of enthusiasm or inclination; reluctance.",
+      "examples": [
+        "indisposition to motion, exertion, or change",
+        "an utter indisposition to do anything whatever"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌindispəˈziSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indisposition_us_1.mp3"
+}

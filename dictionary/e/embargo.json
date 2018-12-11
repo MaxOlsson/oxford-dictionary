@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "An official ban on trade or other commercial activity with a particular country.",
+      "examples": [
+        "an embargo on grain sales",
+        "the oil embargo of 1973"
+      ],
+      "synonyms": [
+        "ban",
+        "bar",
+        "veto",
+        "moratorium",
+        "prohibition",
+        "proscription",
+        "interdict",
+        "injunction",
+        "sanction",
+        "restriction",
+        "barrier"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Impose an official ban on (trade or a country or commodity)",
+      "examples": [
+        "the country has been virtually embargoed by most of the noncommunist world"
+      ],
+      "synonyms": [
+        "boycott",
+        "ostracize",
+        "avoid",
+        "place an embargo on",
+        "put an embargo on",
+        "consider undesirable",
+        "steer clear of",
+        "ignore"
+      ]
+    },
+    {
+      "description": "Seize (a ship or goods) for state service.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Spanish, from embargar arrest, based on Latin in- in, within + barra a bar.",
+  "pronounciation": "/əmˈbɑrɡoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/embargo_us_1.mp3"
+}

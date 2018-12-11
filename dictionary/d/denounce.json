@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Publicly declare to be wrong or evil.",
+      "examples": [
+        "the Assembly denounced the use of violence",
+        "he was widely denounced as a traitor"
+      ],
+      "synonyms": [
+        "condemn",
+        "criticize",
+        "attack",
+        "censure",
+        "castigate",
+        "decry",
+        "revile",
+        "vilify",
+        "besmirch",
+        "discredit",
+        "damn",
+        "reject",
+        "proscribe"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense proclaim, also proclaim someone to be wicked, a rebel, etc.): from Old French denoncier, from Latin denuntiare give official information, based on nuntius messenger.",
+  "pronounciation": "/dəˈnaʊns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/denounce_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Causing great physical or mental pain.",
+      "examples": [
+        "an agonizing death",
+        "there is an agonizing choice to make"
+      ],
+      "synonyms": [
+        "excruciating",
+        "harrowing",
+        "racking",
+        "painful",
+        "acute",
+        "severe",
+        "intense",
+        "extreme",
+        "grievous",
+        "hellish",
+        "killing",
+        "searing",
+        "torturous",
+        "tormenting",
+        "piercing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæɡəˌnaɪzɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agonizing_us_1.mp3"
+}

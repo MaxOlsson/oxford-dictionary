@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characterized by industry.",
+      "examples": [
+        "a small industrial town"
+      ],
+      "synonyms": [
+        "manufacturing",
+        "factory"
+      ]
+    },
+    {
+      "description": "Very great in extent or amount.",
+      "examples": [
+        "we are seeing tax avoidance on an industrial scale",
+        "they quaff industrial quantities of beer"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a type of harsh, uncompromising rock music incorporating sounds resembling those produced by industrial machinery.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Shares in industrial companies.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from industry + -al; in later use influenced by French industriel.",
+  "pronounciation": "/inˈdəstrēəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/industrial_us_1.mp3"
+}

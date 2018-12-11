@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A woman's or girl's dress.",
+      "examples": [],
+      "synonyms": [
+        "dress",
+        "gown",
+        "robe",
+        "shift"
+      ]
+    },
+    {
+      "description": "A long gown with flowing sleeves worn by monks, priests, or clergy.",
+      "examples": []
+    },
+    {
+      "description": "A field laborer's smock.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide with or dress in a frock.",
+      "examples": [
+        "he frocked himself in the most spectacular garb"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French froc, of Germanic origin. The sense priest's or monk's gown is preserved in defrock.",
+  "pronounciation": "/frɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frock_us_1.mp3"
+}

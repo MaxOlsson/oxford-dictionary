@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Demonstrate the truth or existence of (something) by evidence or argument.",
+      "examples": [
+        "the concept is difficult to prove"
+      ],
+      "synonyms": [
+        "demonstrate",
+        "show",
+        "show beyond doubt",
+        "show to be true",
+        "manifest",
+        "produce proof",
+        "submit proof",
+        "produce evidence",
+        "submit evidence",
+        "establish evidence",
+        "evince"
+      ]
+    },
+    {
+      "description": "Demonstrate to be the specified thing by evidence or argument.",
+      "examples": [
+        "innocent until proven guilty"
+      ]
+    },
+    {
+      "description": "(of bread dough) become aerated by the action of yeast; rise.",
+      "examples": []
+    },
+    {
+      "description": "Subject (a gun or other item) to a testing process.",
+      "examples": []
+    },
+    {
+      "description": "(in homeopathy) demonstrate the action of (a remedy) by seeing what effect it produces in a healthy individual.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French prover, from Latin probare test, approve, demonstrate, from probus good.",
+  "pronounciation": "/pruv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prove_us_1.mp3"
+}

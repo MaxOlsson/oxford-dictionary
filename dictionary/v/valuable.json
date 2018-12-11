@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Worth a great deal of money.",
+      "examples": [
+        "a valuable antique"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is of great worth, especially a small item of personal property.",
+      "examples": [
+        "put all your valuables in the hotel safe"
+      ],
+      "synonyms": [
+        "precious items",
+        "costly articles",
+        "prized possessions",
+        "personal effects",
+        "treasures"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvaly(o͞o)əb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/valuable_us_1.mp3"
+}

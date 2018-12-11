@@ -1,0 +1,72 @@
+{
+  "noun": [
+    {
+      "description": "A person who has defeated or surpassed all rivals in a competition, especially in sports.",
+      "examples": [
+        "a champion hurdler"
+      ],
+      "synonyms": [
+        "winner",
+        "title-holder",
+        "defending champion",
+        "gold medallist"
+      ]
+    },
+    {
+      "description": "A person who fights or argues for a cause or on behalf of someone else.",
+      "examples": [
+        "a champion of women's rights"
+      ],
+      "synonyms": [
+        "advocate",
+        "proponent",
+        "promoter",
+        "proposer",
+        "supporter",
+        "standard-bearer",
+        "torch-bearer",
+        "defender",
+        "protector",
+        "upholder",
+        "backer",
+        "exponent",
+        "patron",
+        "sponsor",
+        "prime mover"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Support the cause of; defend.",
+      "examples": [
+        "priests who championed human rights"
+      ],
+      "synonyms": [
+        "advocate",
+        "promote",
+        "plead for",
+        "hold a torch for",
+        "defend",
+        "protect",
+        "uphold",
+        "support",
+        "back",
+        "espouse",
+        "ally oneself with",
+        "stand behind",
+        "stand up for",
+        "take someone's part",
+        "campaign for",
+        "lobby for",
+        "fight for",
+        "battle for",
+        "crusade for",
+        "take up the cudgels for"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a fighting man): from Old French, from medieval Latin campio(n-) fighter, from Latin campus (see camp).",
+  "pronounciation": "/ˈtʃæmpiən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/champion_us_1.mp3"
+}

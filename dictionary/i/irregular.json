@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Not even or balanced in shape or arrangement.",
+      "examples": [
+        "his strong, irregular features"
+      ],
+      "synonyms": [
+        "asymmetrical",
+        "non-uniform",
+        "uneven",
+        "crooked",
+        "misshapen",
+        "lopsided",
+        "contorted",
+        "twisted"
+      ]
+    },
+    {
+      "description": "Contrary to the rules or to that which is normal or established.",
+      "examples": [
+        "they were questioned about their involvement in irregular financial dealings"
+      ],
+      "synonyms": [
+        "against the rules",
+        "contrary to the rules",
+        "out of order",
+        "improper",
+        "incorrect",
+        "illegitimate",
+        "unscrupulous",
+        "unethical",
+        "unprofessional"
+      ]
+    },
+    {
+      "description": "(of a verb or other word) having inflections that do not conform to the usual rules.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of an irregular military force.",
+      "examples": [],
+      "synonyms": [
+        "guerrilla",
+        "underground fighter"
+      ]
+    },
+    {
+      "description": "An imperfect piece of merchandise sold at a reduced price.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense not conforming to rule (especially that of the Church)): via Old French from medieval Latin irregularis, from in- not + regularis (see regular).",
+  "pronounciation": "/əˈrɛɡjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irregular_us_1.mp3"
+}

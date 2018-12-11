@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "In accordance with the rules of convention or etiquette.",
+      "examples": [
+        "he was formally attired"
+      ]
+    },
+    {
+      "description": "Officially.",
+      "examples": [
+        "the mayor will formally open the new railroad station"
+      ]
+    },
+    {
+      "description": "In outward form or appearance; in theory.",
+      "examples": [
+        "the theorems in question are formally true"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɔrməli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/formally_us_1.mp3"
+}

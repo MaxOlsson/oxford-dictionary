@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "An act of going or coming in.",
+      "examples": [
+        "the door was locked, but he forced an entry"
+      ],
+      "synonyms": [
+        "appearance",
+        "arrival",
+        "entrance",
+        "ingress",
+        "coming",
+        "coming in",
+        "going in",
+        "approach",
+        "introduction",
+        "materialization"
+      ]
+    },
+    {
+      "description": "An item written or printed in a diary, list, ledger, or reference book.",
+      "examples": [],
+      "synonyms": [
+        "item",
+        "record",
+        "statement",
+        "note",
+        "listing",
+        "jotting"
+      ]
+    },
+    {
+      "description": "A person or thing competing in a race or competition.",
+      "examples": [
+        "from the hundreds of entries we received, twelve winners were finally chosen"
+      ],
+      "synonyms": [
+        "contestant",
+        "competitor",
+        "contender",
+        "challenger",
+        "entrant",
+        "participant",
+        "player",
+        "candidate",
+        "applicant"
+      ]
+    },
+    {
+      "description": "The forward part of a ship's hull below the waterline, considered in terms of breadth or narrowness.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French entree, based on Latin intrata, feminine past participle of intrare (see enter).",
+  "pronounciation": "/ˈentrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/entry_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A sharp twist or curve in something that is otherwise straight.",
+      "examples": [
+        "a kink in the road"
+      ],
+      "synonyms": [
+        "curl",
+        "crimp",
+        "twist",
+        "twirl",
+        "ringlet",
+        "wave",
+        "frizz"
+      ]
+    },
+    {
+      "description": "A stiffness in the neck, back, etc.; crick.",
+      "examples": [
+        "it takes the kinks out of stiff necks"
+      ],
+      "synonyms": [
+        "cramp",
+        "spasm",
+        "muscle spasm",
+        "muscular contraction",
+        "rick",
+        "twinge",
+        "pang",
+        "pain",
+        "shooting pain",
+        "ache"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form or cause to form a sharp twist or curve.",
+      "examples": [
+        "the river kinks violently in a right angle",
+        "when the spine gets kinked, the muscles react with pain"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Middle Low German kinke, probably from Dutch kinken to kink.",
+  "pronounciation": "/kɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kink_us_1.mp3"
+}

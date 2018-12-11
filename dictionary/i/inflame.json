@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Provoke or intensify (strong feelings, especially anger) in someone.",
+      "examples": [
+        "high fines further inflamed public feelings"
+      ],
+      "synonyms": [
+        "incite",
+        "arouse",
+        "rouse",
+        "provoke",
+        "animate",
+        "stir up",
+        "work up",
+        "whip up",
+        "kindle",
+        "fire",
+        "ignite",
+        "touch off",
+        "foment",
+        "actuate",
+        "inspire"
+      ]
+    },
+    {
+      "description": "Cause inflammation in (a part of the body)",
+      "examples": [
+        "the finger joints were inflamed with rheumatoid arthritis"
+      ],
+      "synonyms": [
+        "swollen",
+        "puffed up"
+      ]
+    },
+    {
+      "description": "Light up with or as if with flames.",
+      "examples": [
+        "the torches inflame the night to the eastward"
+      ]
+    }
+  ],
+  "origin": "Middle English enflaume, inflaume, from Old French enflammer, from Latin inflammare, from in- into + flamma flame.",
+  "pronounciation": "/inˈflām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inflame_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Double-edged.",
+      "examples": [
+        "a two-edged sword"
+      ],
+      "synonyms": [
+        "ambiguous",
+        "indefinite",
+        "non-committal",
+        "vague",
+        "indeterminate",
+        "imprecise",
+        "inexact",
+        "indistinct",
+        "inexplicit",
+        "blurry",
+        "hazy",
+        "foggy",
+        "nebulous",
+        "borderline"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈto͞o ˈˌejd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/two_edged_1_us_1.mp3"
+}

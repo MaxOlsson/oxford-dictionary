@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A part added to the end of a story or piece of writing.",
+      "examples": [
+        "there was a tailpiece to the article"
+      ],
+      "synonyms": [
+        "afterword",
+        "postscript",
+        "ps",
+        "coda",
+        "codicil",
+        "appendix",
+        "supplement",
+        "addendum",
+        "postlude",
+        "rider",
+        "back matter"
+      ]
+    },
+    {
+      "description": "The piece at the base of a violin or other stringed instrument to which the strings are attached.",
+      "examples": [],
+      "synonyms": [
+        "hindmost part",
+        "back end",
+        "appendage"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteɪlˌpis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tailpiece_us_1.mp3"
+}

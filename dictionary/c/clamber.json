@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet.",
+      "examples": [
+        "I clambered out of the trench"
+      ],
+      "synonyms": [
+        "scramble",
+        "climb",
+        "scrabble",
+        "move awkwardly",
+        "claw one's way"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An awkward and laborious climb or movement.",
+      "examples": [
+        "a clamber up the cliff path"
+      ],
+      "synonyms": [
+        "climb",
+        "scaling",
+        "conquest",
+        "scramble",
+        "clamber",
+        "trek"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably from clamb, obsolete past tense of climb.",
+  "pronounciation": "/ˈklambər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clamber_us_1.mp3"
+}

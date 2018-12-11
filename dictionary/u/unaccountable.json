@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be explained.",
+      "examples": [
+        "a strange and unaccountable fact"
+      ],
+      "synonyms": [
+        "inexplicable",
+        "unexplainable",
+        "insoluble",
+        "unsolvable",
+        "incomprehensible",
+        "beyond comprehension",
+        "beyond understanding",
+        "unfathomable",
+        "impenetrable",
+        "puzzling",
+        "perplexing",
+        "baffling",
+        "bewildering",
+        "mystifying",
+        "mysterious",
+        "arcane",
+        "inscrutable",
+        "peculiar",
+        "unusual",
+        "curious",
+        "strange",
+        "freak",
+        "freakish",
+        "unparalleled",
+        "queer",
+        "odd",
+        "bizarre",
+        "extraordinary",
+        "astonishing",
+        "obscure",
+        "abstruse",
+        "enigmatic"
+      ]
+    },
+    {
+      "description": "(of a person, organization, or institution) not required or expected to justify actions or decisions; not responsible for results or consequences.",
+      "examples": [],
+      "synonyms": [
+        "not responsible",
+        "unanswerable",
+        "not answerable",
+        "not liable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəˈkaʊn(t)əb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unaccountable_us_1.mp3"
+}

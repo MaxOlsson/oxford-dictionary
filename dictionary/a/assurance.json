@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A positive declaration intended to give confidence; a promise.",
+      "examples": [
+        "he gave an assurance that work would not recommence until Wednesday"
+      ],
+      "synonyms": [
+        "word of honour",
+        "word",
+        "guarantee",
+        "promise",
+        "pledge",
+        "vow",
+        "avowal",
+        "oath",
+        "bond",
+        "affirmation",
+        "undertaking",
+        "commitment"
+      ]
+    },
+    {
+      "description": "Confidence or certainty in one's own abilities.",
+      "examples": [
+        "she drove with assurance"
+      ],
+      "synonyms": [
+        "self-confidence",
+        "confidence",
+        "self-assurance",
+        "belief in oneself",
+        "faith in oneself",
+        "positiveness",
+        "assertiveness",
+        "self-possession",
+        "self-reliance",
+        "nerve",
+        "poise",
+        "aplomb",
+        "presence of mind",
+        "phlegm",
+        "level-headedness",
+        "cool-headedness"
+      ]
+    },
+    {
+      "description": "Insurance, specifically life insurance.",
+      "examples": [],
+      "synonyms": [
+        "insurance",
+        "indemnity",
+        "indemnification",
+        "protection",
+        "security",
+        "surety",
+        "cover",
+        "coverage"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in assurance (sense 2)): from Old French, from assurer assure.",
+  "pronounciation": "/əˈʃʊrəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assurance_us_1.mp3"
+}

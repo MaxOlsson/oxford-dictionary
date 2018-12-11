@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Confused; disorderly.",
+      "examples": [
+        "a spirit of careless frivolity where all was hugger-mugger"
+      ],
+      "synonyms": [
+        "disorderly",
+        "confused",
+        "disorganized",
+        "chaotic",
+        "muddled",
+        "haphazard",
+        "in a mess",
+        "in a shambles",
+        "in disarray",
+        "topsy-turvy",
+        "at sixes and sevens"
+      ]
+    },
+    {
+      "description": "Secret; clandestine.",
+      "examples": [],
+      "synonyms": [
+        "clandestine",
+        "secret",
+        "covert",
+        "furtive",
+        "cloak-and-dagger",
+        "hole-in-the-corner",
+        "behind-the-scenes",
+        "under-the-table",
+        "sneaky",
+        "sly",
+        "underhand"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Confusion; muddle.",
+      "examples": []
+    },
+    {
+      "description": "Secrecy.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century (in hugger-mugger (sense 2 of the noun)): probably related to huddle and to dialect mucker hoard money, conceal. This is one of a number of similar formations from late Middle English to the 16th century, including hucker-mucker and hudder-mudder, with the basic sense secrecy, concealment.",
+  "pronounciation": "/ˈhəɡərˌməɡər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hugger_mugger_1_us_1.mp3"
+}

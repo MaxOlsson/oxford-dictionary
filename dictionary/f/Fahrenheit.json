@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Of or denoting a scale of temperature on which water freezes at 32° and boils at 212° under standard conditions.",
+      "examples": [
+        "the temperature was steady at 65° Fahrenheit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Fahrenheit scale of temperature.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 18th century: named after Gabriel Daniel Fahrenheit (1686–1736), German physicist.",
+  "pronounciation": "/ˈfɛrənˌhaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fahrenheit_us_1.mp3"
+}

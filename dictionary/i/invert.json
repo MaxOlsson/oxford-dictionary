@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Put upside down or in the opposite position, order, or arrangement.",
+      "examples": [
+        "invert the mousse onto a serving plate"
+      ],
+      "synonyms": [
+        "turn upside down",
+        "upturn",
+        "upend",
+        "turn around",
+        "turn about",
+        "turn inside out",
+        "turn back to front",
+        "reverse",
+        "flip",
+        "flip over",
+        "transpose"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An arch constructed in an upside-down position to provide lateral support, e.g. in a tunnel.",
+      "examples": []
+    },
+    {
+      "description": "A person showing sexual inversion; a homosexual.",
+      "examples": []
+    },
+    {
+      "description": "A postage stamp printed with an error such that part of its design is upside down.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the sense turn back to front): from Latin invertere, literally turn inside out, from in- into + vertere to turn.",
+  "pronounciation": "/ˈinvərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/invert_us_2.mp3"
+}

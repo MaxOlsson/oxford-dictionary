@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "Practical contact with and observation of facts or events.",
+      "examples": [
+        "he had already learned his lesson by painful experience",
+        "he spoke from experience"
+      ],
+      "synonyms": [
+        "involvement in",
+        "participation in"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Encounter or undergo (an event or occurrence)",
+      "examples": [
+        "the company is experiencing difficulties"
+      ],
+      "synonyms": [
+        "undergo",
+        "encounter",
+        "meet",
+        "have experience of",
+        "come into contact with",
+        "run into",
+        "come across",
+        "come up against",
+        "face",
+        "be faced with",
+        "confront",
+        "be forced to contend with"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin experientia, from experiri try. Compare with experiment and expert.",
+  "pronounciation": "/ˌikˈspirēəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/experience_us_1.mp3"
+}

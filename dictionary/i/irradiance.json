@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The flux of radiant energy per unit area (normal to the direction of flow of radiant energy through a medium).",
+      "examples": [],
+      "synonyms": [
+        "radiance",
+        "light",
+        "brightness",
+        "luminosity",
+        "shine",
+        "gleam",
+        "glimmer",
+        "incandescence",
+        "phosphorescence",
+        "luminescence"
+      ]
+    },
+    {
+      "description": "The fact of shining brightly.",
+      "examples": [],
+      "synonyms": [
+        "light",
+        "shining",
+        "brightness",
+        "brilliance",
+        "luminosity",
+        "radiation",
+        "beams",
+        "rays",
+        "illumination",
+        "blaze",
+        "glow",
+        "luminousness",
+        "gleam",
+        "lustre",
+        "glitter",
+        "sparkle",
+        "flash",
+        "dazzle",
+        "shimmer",
+        "glare"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪˈreɪdiəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irradiance_us_1.mp3"
+}

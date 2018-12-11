@@ -1,0 +1,99 @@
+{
+  "verb": [
+    {
+      "description": "Move (something) into a different position with a jerk.",
+      "examples": [
+        "she hitched the blanket around him",
+        "he hitched his pants up"
+      ],
+      "synonyms": [
+        "pull",
+        "jerk",
+        "hike",
+        "lift",
+        "raise"
+      ]
+    },
+    {
+      "description": "Travel by hitchhiking.",
+      "examples": [],
+      "synonyms": [
+        "hitch-hike"
+      ]
+    },
+    {
+      "description": "Fasten or tether with a rope.",
+      "examples": [
+        "he returned to where he had hitched his horse"
+      ],
+      "synonyms": [
+        "harness",
+        "yoke",
+        "couple",
+        "fasten",
+        "connect",
+        "attach",
+        "tie",
+        "tether",
+        "bind"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A temporary interruption or problem.",
+      "examples": [
+        "everything went without a hitch"
+      ],
+      "synonyms": [
+        "problem",
+        "difficulty",
+        "issue",
+        "snag",
+        "setback",
+        "catch",
+        "hindrance",
+        "obstacle",
+        "obstruction",
+        "complication",
+        "impediment",
+        "barrier",
+        "stumbling block",
+        "block",
+        "trouble"
+      ]
+    },
+    {
+      "description": "A knot used for fastening a rope to another rope or something else.",
+      "examples": []
+    },
+    {
+      "description": "An act of hitchhiking.",
+      "examples": [],
+      "synonyms": [
+        "car ride",
+        "ride",
+        "run",
+        "drive",
+        "transportation",
+        "journey"
+      ]
+    },
+    {
+      "description": "A period of service.",
+      "examples": [
+        "his 12-year hitch in the navy"
+      ]
+    }
+  ],
+  "phrases": [
+    "The pair met on the set of her latest film, Sugar And Spice and got hitched three weeks ago in Northern California.",
+    "Last weekend, for example, my friends Josh and Heather got hitched.",
+    "The soaring cost of getting married has inspired a council to help couples get hitched on the cheap.",
+    "Two friends of mine got hitched at this year's Glastonbury Festival - it helps when you know the guy on stage and he does the asking.",
+    "As she knocked back the booze she told pals it was only a matter of time until she got hitched to the Babyshambles frontman."
+  ],
+  "origin": "Middle English (in hitch (sense 1 of the verb)): of unknown origin.",
+  "pronounciation": "/hɪtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hitch_us_1.mp3"
+}

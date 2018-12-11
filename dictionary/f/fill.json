@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Put someone or something into (a space or container) so that it is completely or almost completely full.",
+      "examples": [
+        "I filled up the bottle with water",
+        "the office was filled with reporters"
+      ],
+      "synonyms": [
+        "become full",
+        "make full",
+        "fill up",
+        "fill to the brim",
+        "fill to overflowing",
+        "top up",
+        "charge",
+        "load",
+        "load up",
+        "pack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An amount of something which is as much as one wants or can bear.",
+      "examples": [
+        "we have eaten our fill",
+        "I've had my fill of surprises for one day"
+      ],
+      "synonyms": [
+        "enough",
+        "sufficient",
+        "plenty",
+        "ample",
+        "as much as necessary",
+        "all one wants",
+        "a sufficiency",
+        "an abundance",
+        "as much as one can take",
+        "more than enough"
+      ]
+    },
+    {
+      "description": "An amount of something which will occupy all the space in a container.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "There are a couple kids who can fill their shoes.",
+    "Anyone can become a pop idol these days, but the number of genuine legends is shrinking and it is debatable who can fill their shoes.",
+    "Nevertheless, anyone filling your shoes will find it a hard act to follow.",
+    "I decided to move on, and I'm sure there are plenty of good, young guys capable of filling my shoes.",
+    "He would not be happy at Winston Peters filling his shoes.",
+    "my producer will have to have someone standing by to fill in for me",
+    "As Cross's beautiful assistant, Monica Potter fills in for Ashley Judd, who didn't return from the first one.",
+    "He filled in as a vocalist on a few of their earlier albums, but they've got a new guy for this one.",
+    "With Brooks absent because of a knock, the little-used Frost filled in at left-back.",
+    "In the absence of first-hand testimony, conjecture fills in."
+  ],
+  "origin": "Old English fyllan (verb), fyllu (noun) of Germanic origin; related to Dutch vullen and German füllen (verbs), Fülle (noun), also to full.",
+  "pronounciation": "/fil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fill_us_1.mp3"
+}

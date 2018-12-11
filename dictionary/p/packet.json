@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A paper or cardboard container, typically one in which goods are packed to be sold.",
+      "examples": [
+        "sow seeds 2 to 3 inches apart or as recommended on the seed packets"
+      ],
+      "synonyms": [
+        "pack",
+        "carton",
+        "box",
+        "cardboard box",
+        "container",
+        "case",
+        "package",
+        "parcel",
+        "padded bag"
+      ]
+    },
+    {
+      "description": "A ship traveling at regular intervals between two ports, originally for the conveyance of mail.",
+      "examples": [],
+      "synonyms": [
+        "passenger boat",
+        "passenger ship",
+        "ferry boat",
+        "packet boat",
+        "shuttle"
+      ]
+    },
+    {
+      "description": "A block of data transmitted across a network.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make up into or wrap up in a packet.",
+      "examples": [
+        "packet a basket of take-out and head for Gooseberry Beach"
+      ],
+      "synonyms": [
+        "tie",
+        "tie up",
+        "tie together",
+        "do up",
+        "pack",
+        "pack up",
+        "pack together",
+        "package",
+        "parcel",
+        "parcel up",
+        "packet",
+        "wrap",
+        "wrap up",
+        "roll",
+        "roll up",
+        "wind up",
+        "fold",
+        "fold up",
+        "furl",
+        "bind",
+        "bind up",
+        "fasten together",
+        "bale",
+        "truss",
+        "truss up"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: diminutive of pack, perhaps from Anglo-Norman French; compare with Anglo-Latin paccettum.",
+  "pronounciation": "/ˈpakət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/packet_us_1.mp3"
+}

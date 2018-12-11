@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to seeing or sight.",
+      "examples": [
+        "visual perception"
+      ],
+      "synonyms": [
+        "optical",
+        "seeing",
+        "optic",
+        "ocular",
+        "eye"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A picture, piece of film, or display used to illustrate or accompany something.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (originally describing a beam imagined to proceed from the eye and make vision possible): from late Latin visualis, from Latin visus sight, from videre to see. The current noun sense dates from the 1950s.",
+  "pronounciation": "/ˈviZH(o͞o)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/visual_us_1.mp3"
+}

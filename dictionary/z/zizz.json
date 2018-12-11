@@ -1,0 +1,79 @@
+{
+  "noun": [
+    {
+      "description": "A whizzing or buzzing sound.",
+      "examples": [
+        "there's a nasty zizz from the engine"
+      ],
+      "synonyms": [
+        "hum",
+        "humming",
+        "buzzing",
+        "murmur",
+        "drone",
+        "whir",
+        "whirring",
+        "fizz",
+        "fizzing",
+        "fuzz",
+        "hiss",
+        "singing",
+        "whisper"
+      ]
+    },
+    {
+      "description": "A short sleep.",
+      "examples": [
+        "Philip's having a zizz"
+      ],
+      "synonyms": [
+        "nap",
+        "doze",
+        "rest",
+        "siesta",
+        "drowse",
+        "catnap"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a whizzing or buzzing sound.",
+      "examples": [
+        "the crane whirred and zizzed"
+      ],
+      "synonyms": [
+        "hum",
+        "drone",
+        "bumble",
+        "whir",
+        "fizz",
+        "fuzz",
+        "hiss",
+        "sing",
+        "murmur",
+        "whisper"
+      ]
+    },
+    {
+      "description": "Doze; sleep.",
+      "examples": [
+        "when everyone inside the building had zizzed off he sneaked inside"
+      ],
+      "synonyms": [
+        "sleep",
+        "be asleep",
+        "doze",
+        "rest",
+        "take a siesta",
+        "nap",
+        "take a nap",
+        "catnap",
+        "drowse"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: imitative.",
+  "pronounciation": "/zɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zizz_us_1.mp3"
+}

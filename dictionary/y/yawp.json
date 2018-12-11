@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A harsh or hoarse cry or yelp.",
+      "examples": [
+        "the cur did not bark, other than a single yawp"
+      ],
+      "synonyms": [
+        "sob",
+        "weep",
+        "crying fit",
+        "fit of crying"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shout or exclaim hoarsely.",
+      "examples": [
+        "the fans screeched, yawped, and pounded their palms"
+      ],
+      "synonyms": [
+        "call",
+        "shout",
+        "exclaim",
+        "sing out",
+        "yell",
+        "shriek",
+        "scream",
+        "screech",
+        "bawl",
+        "bellow",
+        "roar",
+        "whoop"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): imitative. The noun dates from the early 19th century.",
+  "pronounciation": "/jɔp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yawp_us_1.mp3"
+}

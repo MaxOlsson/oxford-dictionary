@@ -1,0 +1,158 @@
+{
+  "preposition": [
+    {
+      "description": "At or to the far side of (something), typically so as to be hidden by it.",
+      "examples": [
+        "the recording machinery was kept behind screens",
+        "the sun came out from behind a cloud"
+      ],
+      "synonyms": [
+        "at the back of",
+        "at the rear of",
+        "beyond",
+        "on the other side of",
+        "on the far side of",
+        "on the further side of"
+      ]
+    },
+    {
+      "description": "In a line or procession, following or further back than (another member of the line or procession)",
+      "examples": [
+        "stuck behind a slow-moving tractor"
+      ],
+      "synonyms": [
+        "at the back of",
+        "at the rear of",
+        "beyond",
+        "on the other side of",
+        "on the far side of",
+        "on the further side of"
+      ]
+    },
+    {
+      "description": "In support of or giving guidance to (someone else)",
+      "examples": [
+        "whatever you decide to do, I'll be behind you",
+        "the power behind the throne"
+      ],
+      "synonyms": [
+        "supporting",
+        "backing",
+        "for",
+        "on the side of",
+        "in agreement with"
+      ]
+    },
+    {
+      "description": "After the departure or death of (the person referred to)",
+      "examples": [
+        "he left behind him a manuscript that was subsequently published"
+      ]
+    },
+    {
+      "description": "Less advanced than (someone else) in achievement or development.",
+      "examples": [
+        "the government admitted it is ten years behind the West in PC technology"
+      ],
+      "synonyms": [
+        "less advanced than",
+        "slower than",
+        "weaker than",
+        "inferior to"
+      ]
+    },
+    {
+      "description": "Having a lower score than (another competitor)",
+      "examples": [
+        "Woodnam moved to ten under par, five shots behind Fred Couples"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At or to the far side or the back side of something.",
+      "examples": [
+        "Campbell grabbed him from behind",
+        "as I looked behind, my feet crashed into a basket"
+      ]
+    },
+    {
+      "description": "Remaining after someone or something is gone.",
+      "examples": [
+        "don't leave me behind",
+        "blocks of ice left behind by a retreating glacier"
+      ],
+      "synonyms": [
+        "afterwards",
+        "remaining after departure"
+      ]
+    },
+    {
+      "description": "Further back than other members of a group.",
+      "examples": [
+        "Bill led the way, with the others a short distance behind"
+      ],
+      "synonyms": [
+        "after",
+        "afterwards",
+        "at the back",
+        "in the rear",
+        "in the wake",
+        "at the end",
+        "at six o'clock"
+      ]
+    },
+    {
+      "description": "(in a game or contest) having a score lower than that of the opposition.",
+      "examples": [
+        "polls showed him as much as 50 points behind"
+      ]
+    },
+    {
+      "description": "Slow or late in accomplishing a task.",
+      "examples": [
+        "getting behind with my work",
+        "things were falling behind"
+      ],
+      "synonyms": [
+        "running late",
+        "late",
+        "behind schedule",
+        "behindhand",
+        "delayed",
+        "not on time",
+        "behind time"
+      ]
+    },
+    {
+      "description": "In a place or time already past.",
+      "examples": [
+        "the adventure lay behind them"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The buttocks.",
+      "examples": [
+        "sitting on her behind"
+      ],
+      "synonyms": [
+        "buttocks",
+        "cheeks",
+        "hindquarters",
+        "haunches",
+        "rump",
+        "rear end",
+        "seat"
+      ]
+    },
+    {
+      "description": "A one-point score made by kicking the ball between the outer set of two sets of goalposts (the behind line), or by touching the ball, causing it to pass between the inner posts (goalposts).",
+      "examples": []
+    }
+  ],
+  "origin": "Old English behindan, bihindan, from bi by + hindan from behind.",
+  "pronounciation": "/bəˈhīnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/behind_us_1.mp3"
+}

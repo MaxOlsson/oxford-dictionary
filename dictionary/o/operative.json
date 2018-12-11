@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Functioning or having effect.",
+      "examples": [
+        "the transmitter is operative",
+        "the mining ban would remain operative"
+      ],
+      "synonyms": [
+        "in force",
+        "in operation",
+        "effective",
+        "in effect",
+        "valid"
+      ]
+    },
+    {
+      "description": "Relating to surgery.",
+      "examples": [
+        "they had wounds needing operative treatment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A worker, especially a skilled one in a manufacturing industry.",
+      "examples": [],
+      "synonyms": [
+        "machinist",
+        "operator",
+        "machine operator",
+        "mechanic",
+        "engineer",
+        "driver",
+        "worker",
+        "workman",
+        "hand",
+        "factory hand",
+        "artisan",
+        "craftsman",
+        "craftswoman",
+        "blue-collar worker"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin operativus, from Latin operat- done by labor, from the verb operari (see operate).",
+  "pronounciation": "/ˈɑp(ə)rədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/operative_us_1_rr.mp3"
+}

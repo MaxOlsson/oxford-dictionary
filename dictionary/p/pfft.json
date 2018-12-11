@@ -1,0 +1,18 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to represent a brief sound such as that made by the passage of a bullet or that of a small, muffled explosion.",
+      "examples": [
+        "Pfft! Pfft! Pfft! Bullets ricocheted around the room"
+      ]
+    }
+  ],
+  "phrases": [
+    "this is the kind of data load that would make all but the most expensive software go pfft",
+    "So, our Internet connection just went pfft (we had DSL), and I'm not sure how long it'll take to get fixed, but meanwhile we have no Internet at home.",
+    "Sometimes I think people get the wrong impression of me: that I seem however on first impression, but when they date me or once they get to know me, it all goes pfft.",
+    "I gradually progressed to solid state, but I enjoyed the valve era more, at least with valves you had time to switch it off before the thing went PFFT!"
+  ],
+  "pronounciation": "/ft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pfft_us_1.mp3"
+}

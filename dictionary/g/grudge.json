@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A persistent feeling of ill will or resentment resulting from a past insult or injury.",
+      "examples": [
+        "she held a grudge against her former boss"
+      ],
+      "synonyms": [
+        "grievance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be resentfully unwilling to give, grant, or allow (something)",
+      "examples": [
+        "he grudged the work and time that the meeting involved"
+      ],
+      "synonyms": [
+        "begrudge",
+        "resent",
+        "feel aggrieved about",
+        "feel bitter about",
+        "be annoyed about",
+        "be angry about",
+        "be displeased about",
+        "be resentful of",
+        "mind",
+        "object to",
+        "take exception to",
+        "regret"
+      ]
+    }
+  ],
+  "phrases": [
+    "I hope you will not bear me a grudge",
+    "perhaps Maria bears a grudge against him for that very reason"
+  ],
+  "origin": "Late Middle English: variant of obsolete grutch complain, murmur, grumble, from Old French grouchier, of unknown origin. Compare with grouch.",
+  "pronounciation": "/ɡrədʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grudge_us_1.mp3"
+}

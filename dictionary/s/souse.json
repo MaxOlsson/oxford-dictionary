@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Soak in or drench with liquid.",
+      "examples": [
+        "souse the quilts in warm suds until thoroughly clean"
+      ],
+      "synonyms": [
+        "drench",
+        "soak",
+        "steep",
+        "douse",
+        "saturate",
+        "plunge",
+        "immerse",
+        "dip",
+        "submerge",
+        "sink",
+        "dunk"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Liquid, typically salted, used for pickling.",
+      "examples": []
+    },
+    {
+      "description": "A drunkard.",
+      "examples": [],
+      "synonyms": [
+        "drinker",
+        "serious drinker",
+        "hard drinker",
+        "problem drinker",
+        "alcoholic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting pickled meat): from Old French sous pickle, of Germanic origin; related to salt.",
+  "pronounciation": "/saʊs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/souse_us_1.mp3"
+}

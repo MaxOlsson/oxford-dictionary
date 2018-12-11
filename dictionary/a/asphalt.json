@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A mixture of dark bituminous pitch with sand or gravel, used for surfacing roads, flooring, roofing, etc.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with asphalt.",
+      "examples": [],
+      "synonyms": [
+        "cover",
+        "surface",
+        "floor",
+        "top",
+        "finish",
+        "concrete",
+        "concrete over",
+        "flag",
+        "tile",
+        "tar",
+        "tarmac",
+        "metal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French asphalte, based on late Latin asphalton, asphaltum, from Greek asphalton.",
+  "pronounciation": "/ˈasfôlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/asphalt_us_1.mp3"
+}

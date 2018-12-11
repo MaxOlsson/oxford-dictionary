@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "(of something wet or greasy) shine; glitter.",
+      "examples": [
+        "his cheeks glistened with tears"
+      ],
+      "synonyms": [
+        "shine",
+        "sparkle",
+        "twinkle",
+        "glint",
+        "glitter",
+        "catch the light",
+        "glimmer",
+        "shimmer",
+        "glow",
+        "flicker",
+        "blink",
+        "wink",
+        "flash"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sparkling light reflected from something wet.",
+      "examples": [
+        "there was a glisten of perspiration across her top lip"
+      ],
+      "synonyms": [
+        "light",
+        "brightness",
+        "gleam",
+        "glow",
+        "glint",
+        "glimmer",
+        "sparkle",
+        "twinkle",
+        "flicker",
+        "glitter",
+        "glisten",
+        "shimmer",
+        "flash",
+        "dazzle",
+        "beam",
+        "flare",
+        "glare",
+        "radiance",
+        "illumination",
+        "luminescence",
+        "luminosity",
+        "incandescence",
+        "phosphorescence",
+        "fluorescence"
+      ]
+    }
+  ],
+  "origin": "Old English glisnian, of Germanic origin; related to Middle Low German glisen. The noun dates from the mid 19th century.",
+  "pronounciation": "/ˈɡlis(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glisten_us_1.mp3"
+}

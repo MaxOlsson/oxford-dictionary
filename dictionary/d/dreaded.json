@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Regarded with great fear or apprehension.",
+      "examples": [
+        "the dreaded news came that Joe had been wounded",
+        "the dreaded fax machine"
+      ],
+      "synonyms": [
+        "awful",
+        "feared",
+        "frightening",
+        "alarming",
+        "terrifying",
+        "frightful",
+        "terrible",
+        "horrible",
+        "dreadful",
+        "dire"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrɛdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dreaded_us_1.mp3"
+}

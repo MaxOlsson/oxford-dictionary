@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Admit that something is true or valid after first denying or resisting it.",
+      "examples": [
+        "I had to concede that I'd overreacted",
+        "that principle now seems to have been conceded"
+      ],
+      "synonyms": [
+        "admit",
+        "acknowledge",
+        "accept",
+        "allow",
+        "grant",
+        "recognize",
+        "own",
+        "confess"
+      ]
+    },
+    {
+      "description": "Surrender or yield (something that one possesses)",
+      "examples": [
+        "to concede all the territory he'd won"
+      ],
+      "synonyms": [
+        "surrender",
+        "yield",
+        "give up",
+        "relinquish",
+        "cede",
+        "hand over",
+        "turn over",
+        "part with",
+        "deliver up"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French concéder or Latin concedere, from con- completely + cedere yield.",
+  "pronounciation": "/kənˈsid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcede_us_1.mp3"
+}

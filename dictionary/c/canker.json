@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A destructive fungal disease of apple and other trees that results in damage to the bark.",
+      "examples": [],
+      "synonyms": [
+        "fungal disease",
+        "fungal rot",
+        "plant rot"
+      ]
+    },
+    {
+      "description": "An ulcerous condition or disease of a human or animal.",
+      "examples": [],
+      "synonyms": [
+        "ulcer",
+        "ulceration",
+        "infection",
+        "sore",
+        "running sore",
+        "lesion",
+        "abscess",
+        "chancre"
+      ]
+    },
+    {
+      "description": "A malign and corrupting influence that is difficult to eradicate.",
+      "examples": [
+        "racism remains a canker at the heart of the nation"
+      ],
+      "synonyms": [
+        "blight",
+        "evil",
+        "scourge",
+        "poison",
+        "cancer",
+        "sickness",
+        "disease",
+        "pestilence",
+        "plague"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of woody plant tissue) become infected with canker.",
+      "examples": [
+        "we found some cankering of the wood"
+      ]
+    },
+    {
+      "description": "Infected with a pervasive and corrupting bitterness.",
+      "examples": [
+        "he hated her with a cankered, shameful abhorrence"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a tumor): from Old French chancre, from Latin cancer crab (see cancer).",
+  "pronounciation": "/ˈkaNGkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canker_us_1.mp3"
+}

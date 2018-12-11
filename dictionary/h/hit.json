@@ -1,0 +1,163 @@
+{
+  "verb": [
+    {
+      "description": "Bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully.",
+      "examples": [
+        "I hit out with my stick",
+        "the woman hit the mugger with her umbrella",
+        "use your words, but do not hit"
+      ],
+      "synonyms": [
+        "strike",
+        "slap",
+        "smack",
+        "cuff",
+        "punch",
+        "beat",
+        "thrash",
+        "thump",
+        "batter",
+        "belabour",
+        "drub",
+        "hook",
+        "pound",
+        "smash",
+        "slam",
+        "welt",
+        "pummel",
+        "hammer",
+        "bang",
+        "knock",
+        "swat",
+        "whip",
+        "flog",
+        "cane",
+        "sucker-punch",
+        "rain blows on",
+        "give someone a beating",
+        "give someone a drubbing",
+        "give someone a good beating",
+        "give someone a good drubbing",
+        "box someone's ears"
+      ]
+    },
+    {
+      "description": "(of a missile or a person aiming one) strike (a target)",
+      "examples": [
+        "the sniper fired and hit a third man"
+      ]
+    },
+    {
+      "description": "Cause harm or distress to.",
+      "examples": [
+        "the area has been badly hit by business closures"
+      ],
+      "synonyms": [
+        "affect badly",
+        "devastate",
+        "damage",
+        "harm",
+        "hurt",
+        "ruin",
+        "leave a mark on",
+        "have a negative effect on",
+        "have a negative impact on",
+        "do harm to",
+        "impinge on"
+      ]
+    },
+    {
+      "description": "Reach (a particular level, point, or figure)",
+      "examples": [
+        "his career hit rock bottom"
+      ],
+      "synonyms": [
+        "reach",
+        "attain",
+        "touch",
+        "arrive at",
+        "get to",
+        "rise to",
+        "climb to"
+      ]
+    },
+    {
+      "description": "Propel (a ball) with a bat, racket, stick, etc., to score or attempt to score runs or points in a game.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of striking or being struck.",
+      "examples": [
+        "few structures can withstand a hit from a speeding car"
+      ],
+      "synonyms": [
+        "blow",
+        "thump",
+        "punch",
+        "knock",
+        "bang",
+        "thwack",
+        "box",
+        "cuff",
+        "slap",
+        "smack",
+        "spank",
+        "tap",
+        "crack",
+        "stroke",
+        "welt"
+      ]
+    },
+    {
+      "description": "An instance of striking the target aimed at.",
+      "examples": [
+        "one of the bombers had scored a direct hit"
+      ]
+    },
+    {
+      "description": "A successful venture, especially a film, pop record, or song.",
+      "examples": [
+        "he was the director of many big hits",
+        "a hit comedy"
+      ],
+      "synonyms": [
+        "success",
+        "box-office success",
+        "sell-out",
+        "winner",
+        "triumph",
+        "sensation"
+      ]
+    },
+    {
+      "description": "A dose of a psychoactive drug.",
+      "examples": [],
+      "synonyms": [
+        "amount",
+        "quantity",
+        "measure",
+        "portion",
+        "dosage",
+        "drench",
+        "draught"
+      ]
+    }
+  ],
+  "phrases": [
+    "The bout turned nasty in the fourth, when Johnson - for the second time in the fight - hit Ruiz below the belt with a hard left hook.",
+    "He described Dube as a dirty boxer who was always hitting him below the belt and throwing punches after the bell.",
+    "Then Machimane hit Nel below the belt and the fight was temporarily stopped to give the champion time to recover.",
+    "If all of them are forced to pay royalty for every song they sing, they will be hit below the belt.",
+    "To top it all off, Walter's sudden fierceness hit her below the belt, and her legs suddenly went wobbly with desire.",
+    "she hit on a novel idea for fund-raising",
+    "The Cigar Club of Ireland has also hit upon a novel form of protest.",
+    "One of the leading lubricant-manufacturing companies hit upon a novel idea to attract its customers.",
+    "He had hit upon one of the original graves and was too freaked out to go anywhere near the hole.",
+    "Once you hit upon the perfect design you can race your creation against competitors from all over the world."
+  ],
+  "origin": "Late Old English hittan (in the sense come upon, find), from Old Norse hitta come upon, meet with, of unknown origin.",
+  "pronounciation": "/hɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hit_us_1.mp3"
+}

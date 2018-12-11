@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "An advertisement.",
+      "examples": [],
+      "synonyms": [
+        "notice",
+        "announcement",
+        "bulletin"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Refer to in speaking or writing.",
+      "examples": [
+        "he had failed to advert to the consequences that his conduct was having"
+      ],
+      "synonyms": [
+        "mention",
+        "make mention of",
+        "make reference to",
+        "allude to",
+        "touch on",
+        "speak about",
+        "speak of",
+        "talk about",
+        "talk of",
+        "write about",
+        "cite",
+        "name",
+        "comment on",
+        "deal with",
+        "go into",
+        "treat",
+        "treat of",
+        "note",
+        "point out",
+        "call attention to",
+        "bring up",
+        "raise",
+        "broach",
+        "introduce"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French avertire, from Latin advertere turn towards (see adverse). The original sense was turn one's attention to, later bring to someone's attention.",
+  "pronounciation": "/ˈædˌvərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/advert_us_1.mp3"
+}

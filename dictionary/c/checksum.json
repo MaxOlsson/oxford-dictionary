@@ -1,0 +1,10 @@
+{
+  "noun": [
+    {
+      "description": "A digit representing the sum of the correct digits in a piece of stored or transmitted digital data, against which later comparisons can be made to detect errors in the data.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈCHekˌsəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/checksum_us_2.mp3"
+}

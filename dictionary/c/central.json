@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "Of, at, or forming the center.",
+      "examples": [
+        "the station has a central courtyard"
+      ],
+      "synonyms": [
+        "middle",
+        "centre",
+        "halfway",
+        "midway",
+        "mid",
+        "median",
+        "medial",
+        "mean",
+        "middling",
+        "intermediate",
+        "intermedial"
+      ]
+    },
+    {
+      "description": "Of the greatest importance; principal or essential.",
+      "examples": [
+        "his preoccupation with American history is central to his work",
+        "the rising crime rate remained the central campaign issue"
+      ],
+      "synonyms": [
+        "main",
+        "chief",
+        "principal",
+        "primary",
+        "leading",
+        "foremost",
+        "first",
+        "most important",
+        "predominant",
+        "dominant",
+        "prominent",
+        "most prominent",
+        "key",
+        "crucial",
+        "vital",
+        "essential",
+        "basic",
+        "fundamental",
+        "core",
+        "staple",
+        "critical",
+        "pivotal",
+        "salient",
+        "prime",
+        "focal",
+        "premier",
+        "paramount",
+        "major",
+        "ruling",
+        "master",
+        "supreme",
+        "overriding",
+        "cardinal",
+        "capital",
+        "pre-eminent",
+        "ultimate",
+        "uppermost",
+        "highest",
+        "utmost",
+        "top",
+        "topmost",
+        "arch-"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A place with a high concentration of a specified type of person or thing.",
+      "examples": [
+        "you're in workaholic central here"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French, or from Latin centralis, from centrum (see center).",
+  "pronounciation": "/ˈsentrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/central_us_1.mp3"
+}

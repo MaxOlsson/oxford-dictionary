@@ -1,0 +1,103 @@
+{
+  "adjective": [
+    {
+      "description": "Not valid or legally binding.",
+      "examples": [
+        "the contract was void"
+      ],
+      "synonyms": [
+        "invalid",
+        "null and void",
+        "null",
+        "nullified",
+        "cancelled",
+        "revoked",
+        "rescinded",
+        "abolished",
+        "inoperative",
+        "ineffective",
+        "not binding",
+        "not in force",
+        "non-viable",
+        "useless",
+        "worthless",
+        "nugatory"
+      ]
+    },
+    {
+      "description": "Completely empty.",
+      "examples": [
+        "void spaces surround the tanks"
+      ],
+      "synonyms": [
+        "empty",
+        "emptied",
+        "vacant",
+        "without contents",
+        "containing nothing",
+        "blank",
+        "bare",
+        "clear",
+        "free",
+        "unfilled",
+        "unoccupied",
+        "uninhabited",
+        "desolate",
+        "barren"
+      ]
+    },
+    {
+      "description": "(in bridge and whist) having been dealt no cards in a particular suit.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A completely empty space.",
+      "examples": [
+        "the black void of space"
+      ],
+      "synonyms": [
+        "gap",
+        "empty space",
+        "space",
+        "blank space",
+        "blank",
+        "vacuum",
+        "lacuna",
+        "hole",
+        "cavity",
+        "chasm",
+        "abyss",
+        "gulf",
+        "pit",
+        "hiatus"
+      ]
+    },
+    {
+      "description": "(in bridge and whist) a suit in which a player is dealt no cards.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Declare that (something) is not valid or legally binding.",
+      "examples": [
+        "the Supreme court voided the statute"
+      ],
+      "synonyms": [
+        "invalidate",
+        "render invalid",
+        "annul",
+        "nullify"
+      ]
+    },
+    {
+      "description": "Discharge or drain away (water, gases, etc.).",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense unoccupied): from a dialect variant of Old French vuide; related to Latin vacare vacate; the verb partly a shortening of avoid, reinforced by Old French voider.",
+  "pronounciation": "/vɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/void_us_1.mp3"
+}

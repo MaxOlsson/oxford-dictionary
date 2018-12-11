@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A person who buys and sells goods or assets for others.",
+      "examples": [],
+      "synonyms": [
+        "dealer",
+        "broker-dealer",
+        "agent",
+        "negotiator",
+        "trafficker"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange or negotiate (a settlement, deal, or plan)",
+      "examples": [
+        "fighting continued despite attempts to broker a ceasefire"
+      ],
+      "synonyms": [
+        "arrange",
+        "organize",
+        "orchestrate",
+        "work out",
+        "thrash out",
+        "hammer out",
+        "settle",
+        "clinch",
+        "contract",
+        "pull off",
+        "bring about",
+        "bring off"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a retailer or pedlar): from Anglo-Norman French brocour, of unknown ultimate origin.",
+  "pronounciation": "/ˈbroʊkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broker_us_1.mp3"
+}

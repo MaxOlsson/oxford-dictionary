@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Well known for some bad quality or deed.",
+      "examples": [
+        "an infamous war criminal"
+      ],
+      "synonyms": [
+        "notorious",
+        "disreputable",
+        "ill-famed",
+        "of ill-repute"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin infamosus, from Latin infamis (based on fama fame).",
+  "pronounciation": "/ˈinfəməs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/infamous_us_1.mp3"
+}

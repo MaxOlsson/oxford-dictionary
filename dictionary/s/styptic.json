@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of a substance) capable of causing bleeding to stop when it is applied to a wound.",
+      "examples": [],
+      "synonyms": [
+        "constricting",
+        "contracting",
+        "constrictive",
+        "constringent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance capable of stopping bleeding when applied to a wound.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Latin from Greek stuptikos, from stuphein to contract.",
+  "pronounciation": "/ˈstɪptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/styptic_us_1.mp3"
+}

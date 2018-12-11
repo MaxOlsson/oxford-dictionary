@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not meant or intended.",
+      "examples": [
+        "an unmeant threat"
+      ],
+      "synonyms": [
+        "fortuitous",
+        "chance",
+        "occurring by accident",
+        "occurring by chance",
+        "adventitious",
+        "fluky",
+        "coincidental",
+        "casual",
+        "serendipitous",
+        "random",
+        "aleatory"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈmɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmeant_gb_1_8.mp3"
+}

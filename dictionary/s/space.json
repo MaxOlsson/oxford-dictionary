@@ -1,0 +1,143 @@
+{
+  "noun": [
+    {
+      "description": "A continuous area or expanse which is free, available, or unoccupied.",
+      "examples": [
+        "a table took up much of the space",
+        "we shall all be living together in a small space",
+        "he backed out of the parking space",
+        "the space between a wall and a utility pipe"
+      ],
+      "synonyms": [
+        "room",
+        "expanse",
+        "extent",
+        "capacity",
+        "area",
+        "volume",
+        "spaciousness",
+        "scope",
+        "latitude",
+        "expansion",
+        "margin",
+        "leeway",
+        "play",
+        "clearance"
+      ]
+    },
+    {
+      "description": "The dimensions of height, depth, and width within which all things exist and move.",
+      "examples": [
+        "the work gives the sense of a journey in space and time"
+      ]
+    },
+    {
+      "description": "An interval of time (often used to suggest that the time is short considering what has happened or been achieved in it)",
+      "examples": [
+        "both their cars were stolen in the space of three days"
+      ],
+      "synonyms": [
+        "period",
+        "span",
+        "time",
+        "duration",
+        "stretch",
+        "course",
+        "interval",
+        "season",
+        "term"
+      ]
+    },
+    {
+      "description": "The portion of a text or document available or needed to write about a subject.",
+      "examples": [
+        "there is no space to give further details"
+      ]
+    },
+    {
+      "description": "The freedom and scope to live, think, and develop in a way that suits one.",
+      "examples": [
+        "a teenager needing her own space"
+      ],
+      "synonyms": [
+        "freedom",
+        "scope",
+        "a free hand",
+        "leeway",
+        "latitude",
+        "elbow room",
+        "space",
+        "room",
+        "flexibility",
+        "liberty",
+        "independence",
+        "play",
+        "slack",
+        "free play",
+        "leisure",
+        "licence",
+        "room to manoeuvre",
+        "scope for initiative",
+        "freedom of action",
+        "freedom from restriction",
+        "indulgence",
+        "laxity",
+        "margin"
+      ]
+    },
+    {
+      "description": "One of two possible states of a signal in certain systems.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Position (two or more items) at a distance from one another.",
+      "examples": [
+        "the houses are spaced out"
+      ],
+      "synonyms": [
+        "place at intervals",
+        "separate",
+        "place",
+        "position",
+        "arrange",
+        "line up",
+        "range",
+        "order",
+        "array",
+        "dispose",
+        "lay out",
+        "deploy",
+        "locate",
+        "settle",
+        "situate",
+        "set",
+        "stand",
+        "station"
+      ]
+    },
+    {
+      "description": "Be or become distracted, euphoric, or disoriented, especially from taking drugs; cease to be aware of one's surroundings.",
+      "examples": [
+        "I was so tired that I began to feel totally spaced out",
+        "I kind of space out for a few minutes"
+      ],
+      "synonyms": [
+        "stupefied",
+        "insensible",
+        "befuddled"
+      ]
+    }
+  ],
+  "phrases": [
+    "A special gig to launch this anti-war movement will take place shortly; watch this space for further developments.",
+    "More details should follow soon, so watch this space!",
+    "For further information on the band's progress, including gigs, watch this space.",
+    "A lot more information will be provided in the coming weeks, so watch this space.",
+    "Many more interests will be catered for, so watch this space for more information."
+  ],
+  "origin": "Middle English: shortening of Old French espace, from Latin spatium. Current verb senses date from the late 17th century.",
+  "pronounciation": "/spās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/space_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Intended to prevent disease.",
+      "examples": [
+        "prophylactic measures"
+      ],
+      "synonyms": [
+        "preventive",
+        "preventative",
+        "precautionary",
+        "protective",
+        "disease-preventing",
+        "pre-emptive",
+        "counteractive",
+        "preclusive",
+        "anticipatory",
+        "inhibitory",
+        "deterrent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicine or course of action used to prevent disease.",
+      "examples": [
+        "I took malaria prophylactics"
+      ],
+      "synonyms": [
+        "preventive measure",
+        "precaution",
+        "safeguard",
+        "safety measure"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French prophylactique, from Greek prophulaktikos, from pro before + phulassein to guard.",
+  "pronounciation": "/ˌproʊfəˈlæktɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prophylactic_us_1.mp3"
+}

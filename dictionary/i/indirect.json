@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Not directly caused by or resulting from something.",
+      "examples": [
+        "full employment would have an indirect effect on wage levels"
+      ],
+      "synonyms": [
+        "incidental",
+        "accidental",
+        "unintended",
+        "secondary",
+        "subordinate",
+        "ancillary",
+        "collateral",
+        "concomitant",
+        "accompanying",
+        "contingent",
+        "resulting",
+        "resultant",
+        "consequential",
+        "derived",
+        "derivative"
+      ]
+    },
+    {
+      "description": "(of a route) not straight; not following the shortest way.",
+      "examples": [],
+      "synonyms": [
+        "roundabout",
+        "circuitous",
+        "deviant",
+        "divergent",
+        "wandering",
+        "meandering",
+        "serpentine",
+        "winding",
+        "curving",
+        "tortuous",
+        "zigzag"
+      ]
+    },
+    {
+      "description": "Avoiding direct mention or exposition of a subject.",
+      "examples": [
+        "an indirect attack on the Senator"
+      ],
+      "synonyms": [
+        "oblique",
+        "inexplicit",
+        "roundabout",
+        "circuitous"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense not in full grammatical concord): from medieval Latin indirectus, from in- not + directus (see direct).",
+  "pronounciation": "/ˌɪndəˈrɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indirect_us_1.mp3"
+}

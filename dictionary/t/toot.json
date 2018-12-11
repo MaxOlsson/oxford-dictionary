@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A short, sharp sound made by a horn, trumpet, or similar instrument.",
+      "examples": [],
+      "synonyms": [
+        "blast",
+        "blare",
+        "sound",
+        "beep",
+        "meep",
+        "honk",
+        "toot"
+      ]
+    },
+    {
+      "description": "A snort of a drug, especially cocaine.",
+      "examples": []
+    },
+    {
+      "description": "A spell of drinking and lively enjoyment; a spree.",
+      "examples": [
+        "a sales manager on a toot"
+      ],
+      "synonyms": [
+        "drinking bout",
+        "debauch"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sound (a horn or similar instrument) with a short, sharp sound.",
+      "examples": [
+        "behind us an impatient driver tooted a horn"
+      ],
+      "synonyms": [
+        "operate",
+        "set off"
+      ]
+    },
+    {
+      "description": "Snort (cocaine).",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: probably from Middle Low German tūten, but possibly an independent imitative formation.",
+  "pronounciation": "/to͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/toot_us_1.mp3"
+}

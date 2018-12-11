@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Impossible to understand.",
+      "examples": [
+        "dolphin sounds are unintelligible to humans"
+      ],
+      "synonyms": [
+        "incomprehensible",
+        "indiscernible",
+        "meaningless",
+        "unfathomable",
+        "obscure",
+        "cryptic",
+        "inscrutable",
+        "enigmatic",
+        "mumbled",
+        "indistinct",
+        "unclear",
+        "slurred",
+        "inarticulate",
+        "incoherent",
+        "confused",
+        "garbled",
+        "scrambled",
+        "muddled",
+        "jumbled",
+        "senseless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənənˈteləjəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unintelligible_us_1.mp3"
+}

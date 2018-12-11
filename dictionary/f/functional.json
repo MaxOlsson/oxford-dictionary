@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Of or having a special activity, purpose, or task; relating to the way in which something works or operates.",
+      "examples": [
+        "there are important functional differences between left and right brain"
+      ]
+    },
+    {
+      "description": "Designed to be practical and useful, rather than attractive.",
+      "examples": [
+        "she had assumed the apartment would be functional and simple"
+      ],
+      "synonyms": [
+        "practical",
+        "useful",
+        "utilitarian",
+        "utility",
+        "workaday",
+        "serviceable"
+      ]
+    },
+    {
+      "description": "Working or operating.",
+      "examples": [
+        "the museum will be fully functional from the opening of the festival"
+      ],
+      "synonyms": [
+        "working",
+        "in working order",
+        "functioning",
+        "effective",
+        "usable",
+        "in service",
+        "in use"
+      ]
+    },
+    {
+      "description": "Relating to a variable quantity whose value depends upon one or more other variables.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfəŋ(k)ʃ(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/functional_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Forming an essential foundation or starting point; fundamental.",
+      "examples": [
+        "certain basic rules must be obeyed",
+        "the laying down of arms is basic to the agreement"
+      ],
+      "synonyms": [
+        "fundamental",
+        "rudimentary",
+        "primary",
+        "principal",
+        "cardinal",
+        "chief",
+        "elementary",
+        "elemental",
+        "root"
+      ]
+    },
+    {
+      "description": "Having the properties of a base, or containing a base; having a pH greater than 7.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The essential facts or principles of a subject or skill.",
+      "examples": [
+        "learning the basics of the business",
+        "storytelling has re-emerged as people have turned back to basics"
+      ],
+      "synonyms": [
+        "fundamentals",
+        "essentials",
+        "rudiments",
+        "principles",
+        "first principles",
+        "foundations",
+        "preliminaries",
+        "groundwork"
+      ]
+    }
+  ],
+  "origin": "1960s: acronym from Beginners' All-purpose Symbolic Instruction Code.",
+  "pronounciation": "/ˈbāsik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/basic_us_1.mp3"
+}

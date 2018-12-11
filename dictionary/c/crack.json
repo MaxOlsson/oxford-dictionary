@@ -1,0 +1,215 @@
+{
+  "noun": [
+    {
+      "description": "A line on the surface of something along which it has split without breaking into separate parts.",
+      "examples": [
+        "a hairline crack down the middle of the glass"
+      ],
+      "synonyms": [
+        "split",
+        "fissure",
+        "crevice",
+        "break",
+        "fracture",
+        "rupture",
+        "breach",
+        "rift",
+        "cleft",
+        "slit",
+        "chink",
+        "gap",
+        "cranny",
+        "interstice"
+      ]
+    },
+    {
+      "description": "A sudden sharp or explosive noise.",
+      "examples": [
+        "a loud crack of thunder"
+      ],
+      "synonyms": [
+        "bang",
+        "report",
+        "explosion",
+        "detonation",
+        "clap",
+        "pop",
+        "snap",
+        "crackle",
+        "knock",
+        "tap",
+        "clash",
+        "crash",
+        "smash",
+        "smack"
+      ]
+    },
+    {
+      "description": "A joke, typically a critical or unkind one.",
+      "examples": [],
+      "synonyms": [
+        "joke",
+        "witticism",
+        "funny remark",
+        "witty remark",
+        "jest",
+        "quip",
+        "pun",
+        "sally",
+        "pleasantry",
+        "epigram",
+        "aphorism"
+      ]
+    },
+    {
+      "description": "An attempt to gain or achieve something.",
+      "examples": [
+        "I thought I had a crack at winning"
+      ],
+      "synonyms": [
+        "attempt",
+        "try",
+        "effort",
+        "endeavour",
+        "venture"
+      ]
+    },
+    {
+      "description": "A hard, crystalline form of cocaine broken into small pieces and smoked.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Break or cause to break without a complete separation of the parts.",
+      "examples": [
+        "the ice all over the lake had cracked",
+        "a stone cracked the headlight glass on his car"
+      ],
+      "synonyms": [
+        "split",
+        "fracture",
+        "fissure",
+        "rupture",
+        "break",
+        "snap",
+        "cleave"
+      ]
+    },
+    {
+      "description": "Make or cause to make a sudden sharp or explosive sound.",
+      "examples": [
+        "a shot cracked across the ridge",
+        "he cracked his whip and galloped away"
+      ],
+      "synonyms": [
+        "go bang",
+        "bang",
+        "pop",
+        "snap",
+        "crackle",
+        "crash",
+        "thud",
+        "thump",
+        "boom",
+        "ring out",
+        "clap"
+      ]
+    },
+    {
+      "description": "Find a solution to; decipher or interpret.",
+      "examples": [
+        "a hacker cracked the codes used in Internet software"
+      ],
+      "synonyms": [
+        "solve",
+        "find an answer to",
+        "find the answer to",
+        "find a solution to",
+        "find the solution to",
+        "resolve",
+        "work out",
+        "puzzle out",
+        "fathom",
+        "find the key to",
+        "decipher",
+        "decode",
+        "break",
+        "clear up",
+        "interpret",
+        "translate",
+        "straighten out",
+        "get to the bottom of",
+        "make head or tail of",
+        "unravel",
+        "disentangle",
+        "untangle",
+        "unfold",
+        "piece together",
+        "elucidate"
+      ]
+    },
+    {
+      "description": "Tell (a joke)",
+      "examples": [
+        "he cracked jokes which she didn't find very funny"
+      ]
+    },
+    {
+      "description": "Decompose (hydrocarbons) by heat and pressure with or without a catalyst to produce lighter hydrocarbons, especially in oil refining.",
+      "examples": [
+        "catalytic cracking"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Very good, especially at a specified activity or in a specified role.",
+      "examples": [
+        "he is a crack shot",
+        "crack troops"
+      ],
+      "synonyms": [
+        "expert",
+        "skilled",
+        "skilful",
+        "masterly",
+        "virtuoso",
+        "master",
+        "consummate",
+        "proficient",
+        "accomplished",
+        "talented",
+        "gifted",
+        "adept",
+        "adroit",
+        "deft",
+        "dexterous",
+        "able",
+        "good",
+        "competent",
+        "capable",
+        "efficient",
+        "experienced",
+        "seasoned",
+        "trained",
+        "practised"
+      ]
+    }
+  ],
+  "phrases": [
+    "Relax in a hammock, crack a book under a tree, drink iced tea on the front porch.",
+    "Most physics professors have never cracked a book on learning theory and don't understand different learning styles.",
+    "There are cheat codes to the universe, as anyone who's cracked a book on differential calculus can tell you.",
+    "It creates an immersive world that might actually lead some audience members to crack a book.",
+    "If you plan on studying only one topic, getting into IT, and then never cracking a book again, you're entering the wrong field.",
+    "we need to crack down hard on workplaces that break safety regulations",
+    "The government has cracked down on more complex tax-avoidance schemes.",
+    "Police are cracking down on crime in Bradford and have secured reductions in the rates of burglary, robbery and car crime.",
+    "Where these are not cracked down on immediately then further, and worse, anti-social behaviour usually follows.",
+    "The Executive has introduced measures through the police bill to crack down on knife culture."
+  ],
+  "origin": "Old English cracian make an explosive noise; of Germanic origin; related to Dutch kraken and German krachen. crack (sense 4 of the noun) is from Irish craic entertaining conversation.",
+  "pronounciation": "/krak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crack_us_1.mp3"
+}

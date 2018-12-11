@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "In the process of coming into being or becoming prominent.",
+      "examples": [
+        "the emergent democracies of eastern Europe"
+      ],
+      "synonyms": [
+        "emerging",
+        "beginning",
+        "coming out",
+        "arising",
+        "dawning"
+      ]
+    },
+    {
+      "description": "Of or denoting a plant which is taller than the surrounding vegetation, especially a tall tree in a forest.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An emergent property.",
+      "examples": []
+    },
+    {
+      "description": "An emergent tree or other plant.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense occurring unexpectedly): from Latin emergent- arising from, from the verb emergere (see emerge).",
+  "pronounciation": "/əˈmərjənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/emergent_us_2.mp3"
+}

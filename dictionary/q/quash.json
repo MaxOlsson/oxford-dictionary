@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Reject or void, especially by legal procedure.",
+      "examples": [
+        "his conviction was quashed on appeal"
+      ],
+      "synonyms": [
+        "cancel",
+        "reverse",
+        "rescind",
+        "repeal",
+        "revoke",
+        "retract",
+        "countermand",
+        "withdraw",
+        "take back",
+        "rule against",
+        "disallow",
+        "overturn",
+        "override",
+        "overrule",
+        "veto",
+        "set aside",
+        "overthrow",
+        "repudiate",
+        "annul",
+        "nullify",
+        "declare null and void",
+        "invalidate",
+        "render invalid",
+        "negate",
+        "void",
+        "abrogate"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French quasser annul, from late Latin cassare ( medieval Latin also quassare), from cassus null, void. Compare with squash.",
+  "pronounciation": "/kwäSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quash_us_1.mp3"
+}

@@ -1,0 +1,87 @@
+{
+  "verb": [
+    {
+      "description": "(of a structure) fall down or in; give way.",
+      "examples": [
+        "the roof collapsed on top of me"
+      ],
+      "synonyms": [
+        "cave in",
+        "fall in",
+        "subside",
+        "fall down",
+        "sag",
+        "slump",
+        "settle",
+        "give",
+        "give way",
+        "crumble",
+        "crumple",
+        "disintegrate",
+        "fall to pieces",
+        "come apart"
+      ]
+    },
+    {
+      "description": "(of a person) fall down and become unconscious, typically through illness or injury.",
+      "examples": [
+        "he collapsed from loss of blood"
+      ],
+      "synonyms": [
+        "faint",
+        "pass out",
+        "black out",
+        "lose consciousness",
+        "fall unconscious",
+        "keel over"
+      ]
+    },
+    {
+      "description": "(of an institution or undertaking) fail suddenly and completely.",
+      "examples": [
+        "in the face of such resolve his opposition finally collapsed"
+      ],
+      "synonyms": [
+        "break down",
+        "fail",
+        "fall through",
+        "fold",
+        "founder",
+        "fall flat",
+        "miscarry",
+        "go wrong",
+        "come to nothing",
+        "come to grief",
+        "be frustrated",
+        "be unsuccessful",
+        "not succeed",
+        "disintegrate"
+      ]
+    },
+    {
+      "description": "Fold or be folded to fit into a small space.",
+      "examples": [
+        "some cots collapse down to fit into a bag"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of a structure falling down or in.",
+      "examples": [
+        "the collapse of a railroad bridge",
+        "the church roof is in danger of collapse"
+      ],
+      "synonyms": [
+        "cave-in",
+        "giving way",
+        "subsidence",
+        "crumbling",
+        "disintegration"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as collapsed): from medical Latin collapsus, past participle of collabi, from col- together + labi to slip.",
+  "pronounciation": "/kəˈlaps/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collapse_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Any of five tendons at the back of a person's knee.",
+      "examples": [
+        "he pulled a hamstring"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cripple (a person or animal) by cutting their hamstrings.",
+      "examples": [],
+      "synonyms": [
+        "cripple",
+        "lame",
+        "hock",
+        "disable",
+        "handicap",
+        "injure"
+      ]
+    }
+  ],
+  "origin": "16th century: from ham + string.",
+  "pronounciation": "/ˈhæmˌstrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hamstring_us_1.mp3"
+}

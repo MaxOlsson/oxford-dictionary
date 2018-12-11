@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Twist together into a confused mass.",
+      "examples": [
+        "the broom somehow got tangled up in my long skirt"
+      ],
+      "synonyms": [
+        "ravelled",
+        "entangled",
+        "snarled",
+        "snarled up",
+        "entwined",
+        "intertwisted",
+        "twisted",
+        "knotted",
+        "knotty",
+        "enmeshed",
+        "coiled",
+        "matted",
+        "tangly",
+        "messy",
+        "muddled"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A confused mass of something twisted together.",
+      "examples": [
+        "a tangle of golden hair"
+      ],
+      "synonyms": [
+        "snarl",
+        "mass",
+        "mat",
+        "cluster",
+        "knot",
+        "mesh",
+        "disorder",
+        "thatch",
+        "web"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: probably from Norwegian tongul.",
+  "pronounciation": "/ˈtæŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tangle_us_1.mp3"
+}

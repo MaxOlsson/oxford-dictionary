@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Assert or confirm as a result of one's own experience that something is true or accurately so described.",
+      "examples": [
+        "they say New York is the city that never sleeps, and I can certainly vouch for that"
+      ],
+      "synonyms": [
+        "attest to",
+        "confirm",
+        "affirm",
+        "verify",
+        "swear to",
+        "testify to",
+        "bear witness to",
+        "bear out",
+        "back up",
+        "support",
+        "corroborate",
+        "substantiate",
+        "prove",
+        "uphold",
+        "show the truth of",
+        "give substance to",
+        "give credence to",
+        "second",
+        "endorse",
+        "certify",
+        "warrant",
+        "validate",
+        "give assurance of"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a legal term in the sense summon a person to court to prove title to property): from Old French voucher summon, based on Latin vocare to call.",
+  "pronounciation": "/vouCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vouch_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Think carefully about (something), typically before making a decision.",
+      "examples": [
+        "each application is considered on its merits"
+      ],
+      "synonyms": [
+        "think about",
+        "contemplate",
+        "give thought to",
+        "reflect on",
+        "examine",
+        "appraise",
+        "review"
+      ]
+    }
+  ],
+  "phrases": [
+    "She was taking it very well, all things considered.",
+    "Still, I don't think it's looking too bad, all things considered.",
+    "And if you decide, all things considered, to stay in and watch telly, you're in for a slow night - there isn't any.",
+    "It's not been a bad week, all things considered.",
+    "I don't think I fared too badly, all things considered."
+  ],
+  "origin": "Late Middle English: from Old French considerer, from Latin considerare examine, perhaps based on sidus, sider- star.",
+  "pronounciation": "/kənˈsɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsider_us_1.mp3"
+}

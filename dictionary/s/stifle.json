@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) unable to breathe properly; suffocate.",
+      "examples": [
+        "those in the streets were stifled by the fumes"
+      ],
+      "synonyms": [
+        "very hot",
+        "sweltering"
+      ]
+    },
+    {
+      "description": "Restrain (a reaction) or stop oneself acting on (an emotion)",
+      "examples": [
+        "she stifled a giggle",
+        "she stifled a desire to turn and flee",
+        "she gave a stifled cry of disappointment"
+      ],
+      "synonyms": [
+        "suppress",
+        "smother",
+        "restrain",
+        "keep back",
+        "hold back",
+        "hold in",
+        "fight back",
+        "choke back",
+        "gulp back",
+        "withhold",
+        "check",
+        "keep in check",
+        "swallow",
+        "muffle",
+        "quench",
+        "curb",
+        "silence",
+        "contain",
+        "bottle up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A joint in the legs of horses, dogs, and other animals, equivalent to the knee in humans.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/ˈstīfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stifle_us_1.mp3"
+}

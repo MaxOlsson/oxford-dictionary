@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Curving or extending around at the edges or sides.",
+      "examples": [
+        "wraparound sunglasses"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A wraparound garment.",
+      "examples": []
+    },
+    {
+      "description": "A facility by which a linear sequence of memory locations or screen positions is treated as a continuous circular series.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈrapəˌround/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wraparound_us_1.mp3"
+}

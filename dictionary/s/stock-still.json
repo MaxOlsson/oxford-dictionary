@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "Without any movement; completely still.",
+      "examples": [
+        "he stood stock-still"
+      ],
+      "synonyms": [
+        "unmoving",
+        "still",
+        "stationary",
+        "at a standstill",
+        "immobile",
+        "immovable",
+        "static",
+        "at rest",
+        "halted",
+        "stopped",
+        "not moving a muscle",
+        "rooted to the spot",
+        "transfixed",
+        "paralysed",
+        "frozen",
+        "inert",
+        "inanimate",
+        "quiescent",
+        "lifeless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstäk ˈstil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stock_still_1_us_1.mp3"
+}

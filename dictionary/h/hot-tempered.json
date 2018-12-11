@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Easily angered; quick-tempered.",
+      "examples": [
+        "she was nothing more than a hot-tempered child with a woman's body"
+      ],
+      "synonyms": [
+        "irascible",
+        "quick-tempered",
+        "short-tempered",
+        "irritable",
+        "fiery",
+        "impatient",
+        "huffy",
+        "brusque",
+        "ill-tempered",
+        "bad-tempered",
+        "ill-natured",
+        "ill-humoured",
+        "touchy",
+        "volatile",
+        "testy",
+        "tetchy",
+        "fractious",
+        "snarling",
+        "waspish",
+        "prickly",
+        "crusty",
+        "peppery",
+        "bilious",
+        "liverish",
+        "dyspeptic",
+        "splenetic",
+        "choleric"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhɑtˈtɛmpərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hot_tempered_1_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Just good enough to be acceptable; satisfactory.",
+      "examples": [
+        "he spoke passable English"
+      ],
+      "synonyms": [
+        "adequate",
+        "all right",
+        "fairly good",
+        "acceptable",
+        "sufficiently good",
+        "sufficient",
+        "satisfactory",
+        "moderately good",
+        "not bad",
+        "not too bad",
+        "average",
+        "tolerable",
+        "fair",
+        "decent",
+        "respectable",
+        "presentable",
+        "admissible",
+        "allowable"
+      ]
+    },
+    {
+      "description": "(of a route or road) clear of obstacles and able to be traveled along or on.",
+      "examples": [
+        "the road was passable with care"
+      ],
+      "synonyms": [
+        "navigable",
+        "traversable",
+        "negotiable",
+        "crossable",
+        "able to be travelled along",
+        "able to be travelled on",
+        "unblocked",
+        "unobstructed",
+        "open",
+        "clear",
+        "usable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from passer to pass.",
+  "pronounciation": "/ˈpæsəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passable_us_1.mp3"
+}

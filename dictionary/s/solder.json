@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A low-melting alloy, especially one based on lead and tin or (for higher temperatures) on brass or silver, used for joining less fusible metals.",
+      "examples": [
+        "remove the fitting using a blowtorch to melt the solder",
+        "the Roman silversmith did indeed use several different solders"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Join with solder.",
+      "examples": [
+        "the wires to this clip are soldered to the circuit board",
+        "the soldered terminal joints"
+      ],
+      "synonyms": [
+        "attach",
+        "join",
+        "fasten",
+        "fix",
+        "affix",
+        "couple",
+        "link",
+        "bridge",
+        "secure",
+        "make fast",
+        "tie",
+        "tie up",
+        "bind",
+        "fetter",
+        "strap",
+        "rope",
+        "tether",
+        "truss",
+        "lash",
+        "hitch",
+        "moor",
+        "anchor",
+        "yoke",
+        "chain"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French soudure, from the verb souder, from Latin solidare fasten together, from solidus solid.",
+  "pronounciation": "/ˈsɑdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solder_us_1.mp3"
+}

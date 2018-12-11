@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "Perhaps; possibly.",
+      "examples": [
+        "maybe I won't go back",
+        "maybe she'd been wrong to accept this job"
+      ],
+      "synonyms": [
+        "perhaps",
+        "possibly",
+        "conceivably",
+        "it could be",
+        "it could be that",
+        "it is possible",
+        "it is possible that",
+        "for all one knows"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mere possibility or probability.",
+      "examples": [
+        "no ifs, buts, or maybes"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from the phrase it may be (that).",
+  "pronounciation": "/ˈmeɪbi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maybe_us_1.mp3"
+}

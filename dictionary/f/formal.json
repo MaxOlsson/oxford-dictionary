@@ -1,0 +1,66 @@
+{
+  "adjective": [
+    {
+      "description": "Done in accordance with rules of convention or etiquette; suitable for or constituting an official or important situation or occasion.",
+      "examples": [
+        "a formal dinner party"
+      ],
+      "synonyms": [
+        "ceremonial",
+        "ceremonious",
+        "ritualistic",
+        "ritual",
+        "conventional",
+        "traditional",
+        "orthodox",
+        "prescribed",
+        "fixed",
+        "set"
+      ]
+    },
+    {
+      "description": "Officially sanctioned or recognized.",
+      "examples": [
+        "a formal complaint"
+      ],
+      "synonyms": [
+        "official",
+        "legal",
+        "authorized",
+        "approved",
+        "validated",
+        "certified",
+        "endorsed",
+        "documented",
+        "sanctioned",
+        "licensed",
+        "recognized",
+        "authoritative",
+        "accepted",
+        "verified",
+        "legitimate",
+        "lawful",
+        "valid",
+        "bona fide",
+        "proper",
+        "prescribed",
+        "pro forma"
+      ]
+    },
+    {
+      "description": "Of or concerned with outward form or appearance, especially as distinct from content or matter.",
+      "examples": [
+        "I don't know enough about art to appreciate the purely formal qualities"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An evening gown.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin formalis, from forma shape, mold (see form).",
+  "pronounciation": "/ˈfôrməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/formal_us_1.mp3"
+}

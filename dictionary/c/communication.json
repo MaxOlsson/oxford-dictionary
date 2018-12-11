@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "The imparting or exchanging of information or news.",
+      "examples": [
+        "at the moment I am in communication with London",
+        "direct communication between the two countries will produce greater understanding"
+      ],
+      "synonyms": [
+        "transmission",
+        "imparting",
+        "conveying",
+        "reporting",
+        "presenting",
+        "passing on",
+        "handing on",
+        "relay",
+        "conveyance",
+        "divulgence",
+        "divulgation",
+        "disclosure"
+      ]
+    },
+    {
+      "description": "Means of sending or receiving information, such as telephone lines or computers.",
+      "examples": [
+        "satellite communications",
+        "a communications network"
+      ]
+    },
+    {
+      "description": "The means of traveling or of transporting goods, such as roads or railroads.",
+      "examples": [
+        "a city providing excellent road and rail communications"
+      ],
+      "synonyms": [
+        "links",
+        "connections",
+        "services",
+        "routes"
+      ]
+    }
+  ],
+  "phrases": [
+    "The Resistance forces moved quickly and in a well-organized manner to carry out the orders on guarding roads and protecting lines of communication.",
+    "The U.S. force operated with minimal reliance on ground lines of communication for sustainment.",
+    "The garrison troops manning the regional bases of operation will facilitate local stability, maintain the lines of communication, and provide logistical support.",
+    "The complex organization, which equipped and supplied the army, and maintaining lines of communication, was the real basis of its success.",
+    "Another frustrating aspect of Germany's security efforts was the susceptibility of German lines of communication to partisan attack."
+  ],
+  "origin": "Late Middle English: from Old French comunicacion, from Latin communicatio(n-), from the verb communicare to share (see communicate).",
+  "pronounciation": "/kəˌmjunəˈkeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/communication_us_1.mp3"
+}

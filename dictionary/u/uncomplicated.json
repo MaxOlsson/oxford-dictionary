@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Simple or straightforward.",
+      "examples": [
+        "he was an extraordinarily uncomplicated man"
+      ],
+      "synonyms": [
+        "simple",
+        "not difficult",
+        "straightforward",
+        "clear",
+        "accessible",
+        "direct",
+        "undemanding",
+        "unexacting",
+        "unchallenging",
+        "unsophisticated",
+        "trouble-free",
+        "painless",
+        "effortless",
+        "easy",
+        "facile",
+        "elementary",
+        "idiot-proof",
+        "plain sailing",
+        "a five-finger exercise",
+        "nothing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkɑmpləˌkeɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncomplicated_us_1.mp3"
+}

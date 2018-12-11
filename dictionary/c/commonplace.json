@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "Not unusual; ordinary.",
+      "examples": [
+        "unemployment was commonplace in his profession"
+      ],
+      "synonyms": [
+        "ordinary",
+        "run-of-the-mill",
+        "middle-of-the-road",
+        "mainstream",
+        "unremarkable",
+        "unexceptional",
+        "undistinguished",
+        "uninspired",
+        "unexciting",
+        "unmemorable",
+        "forgettable",
+        "indifferent",
+        "average",
+        "so-so",
+        "mediocre",
+        "pedestrian",
+        "prosaic",
+        "lacklustre",
+        "dull",
+        "bland",
+        "uninteresting",
+        "mundane",
+        "everyday",
+        "quotidian",
+        "humdrum",
+        "hackneyed",
+        "trite",
+        "banal",
+        "clichéd",
+        "predictable",
+        "overused",
+        "overdone",
+        "overworked",
+        "stale",
+        "worn out",
+        "time-worn",
+        "tired",
+        "unoriginal",
+        "derivative"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A usual or ordinary thing.",
+      "examples": [
+        "bombing has become almost a commonplace of public life there"
+      ],
+      "synonyms": [
+        "everyday event",
+        "everyday thing"
+      ]
+    },
+    {
+      "description": "A notable quotation copied into a commonplace book.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (originally common place): translation of Latin locus communis, rendering Greek koinos topos general theme.",
+  "pronounciation": "/ˈkämənˌplās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commonplace_us_1.mp3"
+}

@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Move with a hissing or rushing sound.",
+      "examples": [
+        "a car swished by"
+      ],
+      "synonyms": [
+        "whirl",
+        "eddy",
+        "billow",
+        "spiral",
+        "wind",
+        "churn",
+        "agitate",
+        "circulate",
+        "revolve",
+        "spin",
+        "twist",
+        "gyrate"
+      ]
+    },
+    {
+      "description": "Sink (a shot) without the ball touching the backboard or rim.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hissing or rustling sound.",
+      "examples": [
+        "he could hear the swish of a distant car"
+      ],
+      "synonyms": [
+        "swish",
+        "swishing",
+        "whisper",
+        "whispering",
+        "rustling"
+      ]
+    },
+    {
+      "description": "A shot that goes through the basket without touching the backboard or rim.",
+      "examples": []
+    },
+    {
+      "description": "An effeminate male homosexual.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Impressively smart and fashionable.",
+      "examples": [
+        "dinner at a swish hotel"
+      ],
+      "synonyms": [
+        "stylish",
+        "smart",
+        "elegant",
+        "chic",
+        "crisp",
+        "dapper",
+        "spruce",
+        "trim",
+        "debonair",
+        "well dressed",
+        "well groomed",
+        "well turned out",
+        "smartly dressed"
+      ]
+    },
+    {
+      "description": "(of a man) effeminate.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 18th century: imitative.",
+  "pronounciation": "/swiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swish_us_1.mp3"
+}

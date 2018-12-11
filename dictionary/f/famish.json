@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Reduce (someone) to extreme hunger.",
+      "examples": [
+        "they had famished the city into surrender"
+      ],
+      "synonyms": [
+        "dying of hunger",
+        "dying from lack of food",
+        "faint from lack of food",
+        "deprived of food",
+        "undernourished",
+        "malnourished",
+        "starved",
+        "half-starved",
+        "unfed"
+      ]
+    }
+  ],
+  "origin": "Middle English: from obsolete fame starve, famish, from Old French afamer, based on Latin fames hunger.",
+  "pronounciation": "/ˈfamɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/famish_gb_1.mp3"
+}

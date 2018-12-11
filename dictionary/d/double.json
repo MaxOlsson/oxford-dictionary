@@ -1,0 +1,167 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of two equal, identical, or similar parts or things.",
+      "examples": [
+        "the double doors"
+      ],
+      "synonyms": [
+        "dual",
+        "duplex",
+        "twin",
+        "binary",
+        "duplicate",
+        "matched",
+        "matching",
+        "paired",
+        "in pairs",
+        "complementary",
+        "coupled",
+        "twofold"
+      ]
+    },
+    {
+      "description": "Lower in pitch by an octave.",
+      "examples": []
+    }
+  ],
+  "predeterminer": [
+    {
+      "description": "Twice as much or as many.",
+      "examples": [
+        "the jail now houses almost double the number of prisoners it was designed for",
+        "I'll pay double what I paid last time"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At or to twice the amount or extent.",
+      "examples": [
+        "you have to be careful, and this counts double for older people"
+      ],
+      "synonyms": [
+        "twice",
+        "twice over",
+        "twice the amount",
+        "doubly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing which is twice as large as usual or is made up of two standard units or things.",
+      "examples": [
+        "join the two sleeping bags together to make a double"
+      ]
+    },
+    {
+      "description": "A person who looks exactly like another.",
+      "examples": [
+        "you could pass yourself off as his double"
+      ],
+      "synonyms": [
+        "lookalike",
+        "twin",
+        "clone",
+        "duplicate",
+        "perfect likeness",
+        "exact likeness",
+        "replica",
+        "copy",
+        "facsimile",
+        "imitation",
+        "picture",
+        "image",
+        "living image",
+        "mirror image",
+        "counterpart",
+        "match",
+        "mate",
+        "fellow"
+      ]
+    },
+    {
+      "description": "(especially in tennis and badminton) a game or competition involving sides made up of two players.",
+      "examples": [
+        "the semifinals of the doubles"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "A number or amount which is twice as large as a contrasting or usual number or amount.",
+      "examples": [
+        "he paid double and had a room all to himself"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become twice as much or as many.",
+      "examples": [
+        "profits doubled in one year"
+      ],
+      "synonyms": [
+        "multiply by two",
+        "increase twofold",
+        "enlarge",
+        "magnify",
+        "repeat"
+      ]
+    },
+    {
+      "description": "Fold or bend (paper, cloth, or other material) over on itself.",
+      "examples": [
+        "the muslin is doubled and then laid in a sieve over the bowl"
+      ],
+      "synonyms": [
+        "fold",
+        "fold back",
+        "fold down",
+        "fold over",
+        "fold under",
+        "fold up",
+        "turn back",
+        "turn down",
+        "turn over",
+        "turn under",
+        "turn up",
+        "tuck back",
+        "tuck down",
+        "tuck under",
+        "tuck up",
+        "bend back",
+        "bend over",
+        "crease"
+      ]
+    },
+    {
+      "description": "Be used in or play another, different role.",
+      "examples": [
+        "a laser printer doubles as a photocopier"
+      ],
+      "synonyms": [
+        "function",
+        "do",
+        "serve",
+        "also serve"
+      ]
+    }
+  ],
+  "phrases": [
+    "he disappeared on the double",
+    "We're ushered through at the double and there is little time to appreciate the metaphysical ambience.",
+    "Weren't they supposed to come running on the double, like on television?",
+    "Hawks began at the double and applied themselves to the task at hand with vim and vigour, taking all the early ball and constructing an effortless try in the process.",
+    "Time had to be made up, and the procession proceeded at the double.",
+    "he had to double back to pick them up",
+    "Chris faked one direction and doubled back in the other, catching Selina by the arm and pulling her into him.",
+    "Don't double back like we did, doubting your map reading skills and silently cursing under your breath which by now is laboured from the constant up and down of your confused meander across the fields filled with cow pats.",
+    "I turn down whatever roads strike my fancy arbitrarily, trying not to double back, no direct U turns, but like any game you make up for yourself, there isn't much guilt when I have to break a rule.",
+    "The most impressive section was undoubtedly over Tower Bridge, with streams of yellow athletes crossing to the north side before doubling back to return to Bermondsey for the muscle-sapping final leg."
+  ],
+  "origin": "Middle English: via Old French from Latin duplus (see duple). The verb is from Old French dobler, from late Latin duplare, from duplus.",
+  "pronounciation": "/ˈdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/double_us_1.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Confess to be true or to be the case, typically with reluctance.",
+      "examples": [
+        "the office finally admitted that several prisoners had been injured",
+        "“I am feeling pretty tired,” Jan admitted",
+        "I have to admit I was relieved when he left",
+        "she admitted her terror of physical contact"
+      ],
+      "synonyms": [
+        "acknowledge",
+        "confess",
+        "reveal",
+        "make known",
+        "disclose",
+        "divulge",
+        "make public",
+        "avow",
+        "declare",
+        "profess",
+        "own up to",
+        "make a clean breast of",
+        "bring into the open",
+        "bring to light",
+        "give away",
+        "blurt out",
+        "leak"
+      ]
+    },
+    {
+      "description": "Allow (someone) to enter a place.",
+      "examples": [
+        "senior citizens are admitted free to the museum"
+      ],
+      "synonyms": [
+        "let in",
+        "allow entry",
+        "permit entry",
+        "grant entrance to",
+        "give right of entry to",
+        "give access to",
+        "give admission to",
+        "accept",
+        "take in",
+        "usher in",
+        "show in",
+        "receive",
+        "welcome"
+      ]
+    },
+    {
+      "description": "Accept as valid.",
+      "examples": [
+        "the courts can refuse to admit police evidence that has been illegally obtained"
+      ]
+    },
+    {
+      "description": "Allow the possibility of.",
+      "examples": [
+        "the need to inform him was too urgent to admit of further delay"
+      ],
+      "synonyms": [
+        "allow",
+        "permit",
+        "authorize",
+        "sanction",
+        "condone",
+        "indulge",
+        "agree to",
+        "accede to",
+        "approve of"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin admittere, from ad- to + mittere send.",
+  "pronounciation": "/ədˈmɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/admit_us_1.mp3"
+}

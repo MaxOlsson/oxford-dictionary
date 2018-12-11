@@ -1,0 +1,37 @@
+{
+  "adverb": [
+    {
+      "description": "Consciously and intentionally; on purpose.",
+      "examples": [
+        "the fire was started deliberately"
+      ],
+      "synonyms": [
+        "intentionally",
+        "on purpose",
+        "purposely",
+        "by design",
+        "knowingly",
+        "wittingly",
+        "consciously",
+        "purposefully"
+      ]
+    },
+    {
+      "description": "In a careful and unhurried way.",
+      "examples": [
+        "slowly and deliberately he rose from the armchair"
+      ],
+      "synonyms": [
+        "careful",
+        "cautious",
+        "unhurried",
+        "measured",
+        "regular",
+        "even",
+        "steady"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈlɪb(ə)rətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deliberately_us_1.mp3"
+}

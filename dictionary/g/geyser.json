@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A hot spring in which water intermittently boils, sending a tall column of water and steam into the air.",
+      "examples": [],
+      "synonyms": [
+        "well head"
+      ]
+    },
+    {
+      "description": "A gas-fired water heater through which water flows as it is rapidly heated.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially of water or steam) gush or burst out with great force.",
+      "examples": [
+        "yellow smoke geysered upward"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from Icelandic Geysir, the name of a particular spring in Iceland; related to geysa to gush.",
+  "pronounciation": "/ˈɡīzər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/geyser_us_1.mp3"
+}

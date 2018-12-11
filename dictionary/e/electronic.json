@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of a device) having or operating with the aid of many small components, especially microchips and transistors, that control and direct an electric current.",
+      "examples": [
+        "an electronic calculator"
+      ],
+      "synonyms": [
+        "mechanized",
+        "mechanical",
+        "automated",
+        "push-button",
+        "preprogrammed",
+        "computerized",
+        "robotic",
+        "unmanned"
+      ]
+    },
+    {
+      "description": "Relating to electrons.",
+      "examples": []
+    },
+    {
+      "description": "Carried out or accessed by means of a computer or other electronic device, especially over a network.",
+      "examples": [
+        "electronic banking"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from electron + -ic.",
+  "pronounciation": "/əˌlekˈtränik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/electronic_us_3.mp3"
+}

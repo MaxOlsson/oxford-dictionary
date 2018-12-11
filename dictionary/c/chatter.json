@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Talk rapidly or incessantly about trivial matters.",
+      "examples": [
+        "the kids chattered and splashed at the edge of the lagoon"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Incessant trivial talk.",
+      "examples": [
+        "a stream of idle chatter"
+      ],
+      "synonyms": [
+        "chat",
+        "talk",
+        "gossip",
+        "chit-chat",
+        "chitter-chatter",
+        "patter",
+        "jabbering",
+        "jabber",
+        "prattling",
+        "prattle",
+        "babbling",
+        "babble",
+        "tittle-tattle",
+        "tattle",
+        "blathering",
+        "blather",
+        "blethering",
+        "blether",
+        "rambling",
+        "gibbering"
+      ]
+    },
+    {
+      "description": "A series of quick high-pitched sounds.",
+      "examples": [
+        "the chatter of a typewriter"
+      ]
+    }
+  ],
+  "phrases": [
+    "Some call them the chattering classes, I call them the middle class in denial.",
+    "Speaking in his shiny new office, Kehoe says he is confident that the chattering classes of Dublin will be knocked sideways by the strength of his party's showing.",
+    "Generally most of us don't think much of the chattering classes because we remember them as runny nose kids who couldn't find the right end of the broom when something practical like sweeping the steps had to be done.",
+    "Now what would otherwise have been a uninviting troglodytic restaurant is transformed into what promises to become a popular meeting place for the city's chattering classes.",
+    "This preoccupation with what the neighbours think is a classic example of the middle class morality that the chattering classes claim to despise."
+  ],
+  "origin": "Middle English: imitative.",
+  "pronounciation": "/ˈtʃædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chatter_us_1.mp3"
+}

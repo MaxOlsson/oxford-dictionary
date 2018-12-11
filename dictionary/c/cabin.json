@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A private room or compartment on a ship.",
+      "examples": [],
+      "synonyms": [
+        "berth",
+        "stateroom",
+        "compartment",
+        "room",
+        "deckhouse",
+        "sleeping quarters"
+      ]
+    },
+    {
+      "description": "A small shelter or house, made of wood and situated in a wild or remote area.",
+      "examples": [],
+      "synonyms": [
+        "hut",
+        "log cabin",
+        "shanty",
+        "shack",
+        "shed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Confine within narrow bounds.",
+      "examples": [
+        "once loosed, the idea of equality is not easily cabined"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French cabane, from Provençal cabana, from late Latin capanna, cavanna.",
+  "pronounciation": "/ˈkabən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cabin_us_1.mp3"
+}

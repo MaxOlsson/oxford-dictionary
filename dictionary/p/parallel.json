@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "(of lines, planes, surfaces, or objects) side by side and having the same distance continuously between them.",
+      "examples": [
+        "parallel lines never meet",
+        "the road runs parallel to the Ottawa River"
+      ],
+      "synonyms": [
+        "side by side",
+        "aligned",
+        "collateral",
+        "equidistant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that is similar or analogous to another.",
+      "examples": [
+        "a challenge that has no parallel in peacetime this century"
+      ],
+      "synonyms": [
+        "counterpart",
+        "analogue",
+        "equivalent",
+        "likeness",
+        "correspondent",
+        "match",
+        "twin",
+        "duplicate",
+        "equal",
+        "coequal",
+        "mirror"
+      ]
+    },
+    {
+      "description": "Each of the imaginary parallel circles of constant latitude on the earth's surface.",
+      "examples": [],
+      "synonyms": [
+        "grid line"
+      ]
+    },
+    {
+      "description": "Two parallel lines (‖) as a reference mark.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of something extending in a line) be side by side with (something extending in a line), always keeping the same distance.",
+      "examples": [
+        "a big concrete gutter that paralleled the road"
+      ]
+    }
+  ],
+  "phrases": [
+    "Mass media and popular culture developed in parallel to the Jazz Age in the West.",
+    "There are a number of special insights developed in parallel to the main analysis.",
+    "In the examples so far discussed, the analysis of a word into its component morphemes takes place in parallel at the phonological and the semantic levels.",
+    "It can more easily afford to develop next-generation plant in parallel with older lines.",
+    "Thus, it seems that an altered respiratory function develops in parallel with duration of cold exposure."
+  ],
+  "origin": "Mid 16th century: from French parallèle, via Latin from Greek parallēlos, from para- alongside + allēlos one another.",
+  "pronounciation": "/ˈpɛrəˌlɛl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parallel_us_2.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Repeal or do away with (a law, right, or formal agreement)",
+      "examples": [
+        "a proposal to abrogate temporarily the right to strike"
+      ],
+      "synonyms": [
+        "repudiate",
+        "revoke",
+        "repeal",
+        "rescind",
+        "overturn",
+        "overrule",
+        "override",
+        "do away with",
+        "annul",
+        "cancel",
+        "break off",
+        "invalidate",
+        "nullify",
+        "void",
+        "negate",
+        "dissolve",
+        "countermand",
+        "veto",
+        "declare null and void",
+        "discontinue"
+      ]
+    },
+    {
+      "description": "Evade (a responsibility or duty)",
+      "examples": [
+        "we believe the board is abrogating its responsibilities to its shareholders"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin abrogat- repealed, from the verb abrogare, from ab- away, from + rogare propose a law.",
+  "pronounciation": "/ˈabrəˌɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abrogate_us_1.mp3"
+}

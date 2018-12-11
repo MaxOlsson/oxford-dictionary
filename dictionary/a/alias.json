@@ -1,0 +1,42 @@
+{
+  "adverb": [
+    {
+      "description": "Used to indicate that a named person is also known or more familiar under another specified name.",
+      "examples": [
+        "Eric Blair, alias George Orwell"
+      ],
+      "synonyms": [
+        "also known as",
+        "aka",
+        "also called",
+        "otherwise known as",
+        "otherwise"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A false or assumed identity.",
+      "examples": [
+        "a spy operating under the alias Barsad"
+      ],
+      "synonyms": [
+        "assumed name",
+        "false name",
+        "pseudonym",
+        "sobriquet",
+        "incognito",
+        "nickname"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Misidentify (a signal frequency), introducing distortion or error.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin, at another time, otherwise.",
+  "pronounciation": "/ˈeɪliəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alias_us_1_rr.mp3"
+}

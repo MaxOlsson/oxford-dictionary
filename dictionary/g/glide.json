@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Move with a smooth continuous motion, typically with little noise.",
+      "examples": [
+        "a few gondolas glided past"
+      ],
+      "synonyms": [
+        "slide",
+        "move smoothly",
+        "slip",
+        "sail",
+        "float",
+        "drift",
+        "flow"
+      ]
+    },
+    {
+      "description": "Make an unpowered flight, either in a glider or in an aircraft with engine failure.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A smooth continuous movement.",
+      "examples": []
+    },
+    {
+      "description": "A sound produced as the vocal organs move toward or away from articulation of a vowel or consonant, for example /y/ in mute /myo͞ot/.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English glīdan, of Germanic origin; related to Dutch glijden and German gleiten.",
+  "pronounciation": "/ɡlaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glide_us_1.mp3"
+}

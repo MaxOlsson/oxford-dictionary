@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is intended to be private or secret; privately.",
+      "examples": [
+        "all queries will be treated confidentially"
+      ],
+      "synonyms": [
+        "privately",
+        "in private",
+        "in confidence",
+        "between ourselves",
+        "between themselves",
+        "between yourselves",
+        "off the record",
+        "quietly",
+        "secretly",
+        "in secret",
+        "behind closed doors",
+        "in camera"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkänfəˈden(t)SHəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfidentially_us_1.mp3"
+}

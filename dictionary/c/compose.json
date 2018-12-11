@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Write or create (a work of art, especially music or poetry)",
+      "examples": [
+        "he composed the First Violin Sonata four years earlier"
+      ],
+      "synonyms": [
+        "write",
+        "create",
+        "devise",
+        "make up",
+        "think up",
+        "frame",
+        "formulate",
+        "fashion",
+        "produce",
+        "originate",
+        "invent",
+        "contrive",
+        "concoct"
+      ]
+    },
+    {
+      "description": "(of elements) constitute or make up (a whole)",
+      "examples": [
+        "the system is composed of a group of machines"
+      ],
+      "synonyms": [
+        "make up",
+        "constitute",
+        "form",
+        "comprise"
+      ]
+    },
+    {
+      "description": "Calm or settle (oneself or one's features or thoughts)",
+      "examples": [
+        "she tried to compose herself"
+      ],
+      "synonyms": [
+        "calm down",
+        "settle down",
+        "control oneself",
+        "recover one's composure",
+        "regain one's composure",
+        "pull oneself together",
+        "get control of oneself",
+        "collect oneself",
+        "steady oneself",
+        "keep one's head",
+        "simmer down"
+      ]
+    },
+    {
+      "description": "Prepare (a text) for printing by manually, mechanically, or electronically setting up the letters and other characters in the order to be printed.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the general sense put together, construct): from Old French composer, from Latin componere (see component), but influenced by Latin compositus composed and Old French poser to place.",
+  "pronounciation": "/kəmˈpōz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compose_us_1.mp3"
+}

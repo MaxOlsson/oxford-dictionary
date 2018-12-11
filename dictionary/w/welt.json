@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "A leather rim sewn around the edge of a shoe upper to which the sole is attached.",
+      "examples": []
+    },
+    {
+      "description": "A red, swollen mark left on flesh by a blow or pressure.",
+      "examples": [],
+      "synonyms": [
+        "wound",
+        "lesion",
+        "swelling"
+      ]
+    },
+    {
+      "description": "A heavy blow.",
+      "examples": [],
+      "synonyms": [
+        "blow",
+        "hit",
+        "thump",
+        "thwack",
+        "punch",
+        "slap",
+        "smack",
+        "cuff",
+        "box",
+        "knock",
+        "rap",
+        "buffet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide with a welt.",
+      "examples": [],
+      "synonyms": [
+        "flogging",
+        "whipping",
+        "beating",
+        "scourging",
+        "lashing",
+        "birching",
+        "switching",
+        "tanning",
+        "strapping",
+        "belting",
+        "caning",
+        "thrashing",
+        "flailing",
+        "flaying",
+        "welting",
+        "horsewhipping",
+        "spanking"
+      ]
+    },
+    {
+      "description": "Strike (someone or something) hard and heavily.",
+      "examples": [
+        "I could have welted her"
+      ],
+      "synonyms": [
+        "hit",
+        "slap",
+        "smack",
+        "beat",
+        "thrash",
+        "spank",
+        "thump",
+        "thwack",
+        "punch",
+        "cuff",
+        "crack",
+        "swat",
+        "knock",
+        "rap"
+      ]
+    },
+    {
+      "description": "Develop a raised scar.",
+      "examples": [
+        "his lip was beginning to thicken and welt from the blow"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/wɛlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/welt_us_1.mp3"
+}

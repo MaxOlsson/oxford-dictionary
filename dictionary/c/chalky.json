@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of or rich in chalk.",
+      "examples": [
+        "a chalky, powdery soil"
+      ]
+    },
+    {
+      "description": "Resembling chalk in texture or paleness of color.",
+      "examples": [
+        "patches of creamy or chalky white"
+      ],
+      "synonyms": [
+        "pale",
+        "bloodless",
+        "pallid",
+        "colourless",
+        "wan",
+        "ashen",
+        "white"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHôkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chalky_us_1.mp3"
+}

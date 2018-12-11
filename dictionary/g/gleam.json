@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Shine brightly, especially with reflected light.",
+      "examples": [
+        "light gleamed on the china cats",
+        "her eyes gleamed with satisfaction"
+      ],
+      "synonyms": [
+        "shine",
+        "glimmer",
+        "glint",
+        "catch the light",
+        "glitter",
+        "shimmer",
+        "glow",
+        "sparkle",
+        "twinkle",
+        "flicker",
+        "blink",
+        "wink",
+        "glisten",
+        "flash",
+        "flare",
+        "beam",
+        "fluoresce"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A faint or brief light, especially one reflected from something.",
+      "examples": [
+        "the gleam of a silver tray"
+      ],
+      "synonyms": [
+        "glimmer",
+        "glint",
+        "shimmer",
+        "glow",
+        "twinkle",
+        "sparkle",
+        "flicker",
+        "blink",
+        "spark",
+        "flash",
+        "flare"
+      ]
+    }
+  ],
+  "origin": "Old English glǣm brilliant light, of Germanic origin.",
+  "pronounciation": "/ɡlim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gleam_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The line at which the earth's surface and the sky appear to meet.",
+      "examples": [
+        "the sun rose above the horizon"
+      ],
+      "synonyms": [
+        "skyline",
+        "range of vision",
+        "field of view",
+        "vista",
+        "view"
+      ]
+    },
+    {
+      "description": "The limit of a person's mental perception, experience, or interest.",
+      "examples": [
+        "she wanted to leave home and broaden her horizons"
+      ],
+      "synonyms": [
+        "range of experience",
+        "outlook",
+        "perspective",
+        "scope",
+        "perception",
+        "compass",
+        "sphere",
+        "ambit",
+        "orbit",
+        "purview"
+      ]
+    },
+    {
+      "description": "A layer of soil or rock, or a set of strata, with particular characteristics.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "trouble could be on the horizon",
+    "There are dark clouds on the horizon, but unfortunately they are not carrying rain.",
+    "For economists, even when the sun is shining there's always a cloud on the horizon.",
+    "He added there were no major clouds on the horizon and no question of a housing market crash.",
+    "Today, the greatest threat of pandemic yet to appear in modern times is on the horizon."
+  ],
+  "origin": "Late Middle English: via Old French from late Latin horizon, from Greek horizōn (kuklos) limiting (circle).",
+  "pronounciation": "/həˈraɪzən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/horizon_us_1.mp3"
+}

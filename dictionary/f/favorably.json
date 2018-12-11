@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "With approval.",
+      "examples": [
+        "the audience responded very favorably"
+      ],
+      "synonyms": [
+        "positively",
+        "approvingly",
+        "well",
+        "sympathetically",
+        "agreeably",
+        "enthusiastically",
+        "appreciatively",
+        "admiringly"
+      ]
+    },
+    {
+      "description": "To the advantage of someone or something.",
+      "examples": [
+        "the deal will work out favorably for the company"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfāv(ə)rəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/favorably_us_1.mp3"
+}

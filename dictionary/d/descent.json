@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "An action of moving downward, dropping, or falling.",
+      "examples": [
+        "the plane had gone into a steep descent"
+      ],
+      "synonyms": [
+        "going down",
+        "coming down"
+      ]
+    },
+    {
+      "description": "The origin or background of a person in terms of family or nationality.",
+      "examples": [
+        "American families of Hungarian descent"
+      ],
+      "synonyms": [
+        "ancestry",
+        "parentage",
+        "ancestors",
+        "family"
+      ]
+    },
+    {
+      "description": "A sudden violent attack.",
+      "examples": [
+        "a descent on the enemy airstrip"
+      ],
+      "synonyms": [
+        "attack",
+        "assault",
+        "raid",
+        "onslaught",
+        "charge",
+        "thrust",
+        "push",
+        "drive",
+        "incursion",
+        "foray",
+        "sortie",
+        "sally",
+        "storming",
+        "assailing"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French descente, from descendre to descend (see descend).",
+  "pronounciation": "/dəˈsent/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/descent_us_1.mp3"
+}

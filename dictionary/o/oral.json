@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "By word of mouth; spoken rather than written.",
+      "examples": [
+        "they had reached an oral agreement"
+      ],
+      "synonyms": [
+        "spoken",
+        "verbal",
+        "unwritten",
+        "by mouth",
+        "vocal",
+        "viva voce",
+        "uttered",
+        "said"
+      ]
+    },
+    {
+      "description": "Relating to the mouth.",
+      "examples": [
+        "oral hygiene"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spoken examination or test.",
+      "examples": [
+        "a French oral",
+        "he was preparing for his orals"
+      ],
+      "synonyms": [
+        "oral examination"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from late Latin oralis, from Latin os, or- mouth.",
+  "pronounciation": "/ˈɔrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oral_us_1.mp3"
+}

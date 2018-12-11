@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to movies or cinematography.",
+      "examples": [
+        "he has reconceived the stage production in filmic terms"
+      ],
+      "synonyms": [
+        "realistic",
+        "true to life",
+        "representational",
+        "faithful",
+        "authentic",
+        "exact",
+        "precise",
+        "detailed",
+        "vivid",
+        "graphic",
+        "natural",
+        "naturalistic",
+        "convincing",
+        "undistorted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɪlmɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filmic_us_1.mp3"
+}

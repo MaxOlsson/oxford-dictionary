@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "(in Christian belief) be condemned by God to suffer eternal punishment in hell.",
+      "examples": [
+        "be forever damned with Lucifer"
+      ]
+    },
+    {
+      "description": "Condemn, especially by the public expression of disapproval.",
+      "examples": [
+        "intellectuals whom he damns as rigid doctrinaire idealists"
+      ],
+      "synonyms": [
+        "condemn",
+        "censure",
+        "criticize",
+        "attack",
+        "denounce",
+        "deplore",
+        "decry",
+        "revile",
+        "inveigh against"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing anger, surprise, or frustration.",
+      "examples": [
+        "Damn! I completely forgot!"
+      ],
+      "synonyms": [
+        "damn",
+        "damnation",
+        "blast",
+        "hell",
+        "heck",
+        "gordon bennett"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Used for emphasis, especially to express anger or frustration.",
+      "examples": [
+        "turn that damn thing off!",
+        "don't be so damn silly!"
+      ]
+    }
+  ],
+  "phrases": [
+    "“Glory be damned!”",
+    "Strategy be damned because we do not have secret proceedings in this country.",
+    "However, there are times when I want to be able to enter a bar and have a highball and a ciggy, health concerns be damned.",
+    "They'll look for some way to use the power of the state to their advantage, the truth be damned.",
+    "We all know, directly or otherwise, how possible is it to get a great nightlife in the city and restrictions be damned."
+  ],
+  "origin": "Middle English: from Old French dam(p)ner, from Latin dam(p)nare inflict loss on, from damnum loss, damage.",
+  "pronounciation": "/dam/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/damn_us_1.mp3"
+}

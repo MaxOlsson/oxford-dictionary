@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A number of people or things sharing a specified characteristic and following one after the other.",
+      "examples": [
+        "she had been secretary to a succession of board directors"
+      ],
+      "synonyms": [
+        "sequence",
+        "series",
+        "progression",
+        "course",
+        "chain",
+        "cycle",
+        "round",
+        "string",
+        "train",
+        "line",
+        "line-up",
+        "run",
+        "continuation",
+        "flow",
+        "stream"
+      ]
+    },
+    {
+      "description": "The action or process of inheriting a title, office, property, etc.",
+      "examples": [
+        "the new king was already elderly at the time of his succession"
+      ],
+      "synonyms": [
+        "accession",
+        "elevation"
+      ]
+    }
+  ],
+  "phrases": [
+    "Several girls' schools opened in rapid succession.",
+    "In the middle of the century, one assassinated emperor followed another in rapid succession as army officers changed their allegiances.",
+    "The light-heavy weights, heavy weights, and super heavy weights followed in rapid succession.",
+    "This was followed in rapid succession by a letter informing me that the card had been cancelled due to non-payment.",
+    "Numerous other hit songs were to follow in rapid succession."
+  ],
+  "origin": "Middle English (denoting legal transmission of an estate or the throne to another, also in the sense successors, heirs): from Old French, or from Latin successio(n-), from the verb succedere (see succeed).",
+  "pronounciation": "/səkˈseSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/succession_us_1.mp3"
+}

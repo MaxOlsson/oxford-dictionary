@@ -1,0 +1,112 @@
+{
+  "noun": [
+    {
+      "description": "Pressure or tension exerted on a material object.",
+      "examples": [
+        "the distribution of stress is uniform across the bar"
+      ],
+      "synonyms": [
+        "pressure",
+        "tension",
+        "strain",
+        "tightness",
+        "tautness"
+      ]
+    },
+    {
+      "description": "A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances.",
+      "examples": [
+        "he's obviously under a lot of stress",
+        "stress-related illnesses"
+      ],
+      "synonyms": [
+        "strain",
+        "pressure",
+        "tension",
+        "nervous tension",
+        "worry",
+        "anxiety",
+        "nervousness"
+      ]
+    },
+    {
+      "description": "Physiological disturbance or damage caused to an organism by adverse circumstances.",
+      "examples": [
+        "in many areas irrigation is warranted to avoid plant stress"
+      ]
+    },
+    {
+      "description": "Particular emphasis or importance.",
+      "examples": [
+        "he has started to lay greater stress on the government's role in industry"
+      ],
+      "synonyms": [
+        "emphasis",
+        "importance",
+        "weight",
+        "force",
+        "insistence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give particular emphasis or importance to (a point, statement, or idea) made in speech or writing.",
+      "examples": [
+        "they stressed the need for reform",
+        "she was anxious to stress that her daughter's safety was her only concern",
+        "“I want it done very, very neatly,” she stressed"
+      ],
+      "synonyms": [
+        "emphasize",
+        "draw attention to",
+        "focus attention on",
+        "underline",
+        "underscore",
+        "point up",
+        "place emphasis on",
+        "lay stress on",
+        "highlight",
+        "spotlight",
+        "turn the spotlight on",
+        "bring to the fore",
+        "foreground",
+        "accentuate",
+        "press home",
+        "impress on someone",
+        "make a point of",
+        "dwell on",
+        "harp on",
+        "belabour",
+        "insist on",
+        "rub in"
+      ]
+    },
+    {
+      "description": "Subject to pressure or tension.",
+      "examples": [
+        "this type of workout does stress the shoulder and knee joints"
+      ]
+    },
+    {
+      "description": "Cause mental or emotional strain or tension in.",
+      "examples": [
+        "I avoid many of the things that used to stress me before"
+      ],
+      "synonyms": [
+        "overstretch",
+        "overtax",
+        "push to the limit",
+        "pressurize",
+        "pressure",
+        "burden",
+        "make tense",
+        "cause to feel emotional strain",
+        "cause to feel mental strain"
+      ]
+    }
+  ],
+  "origin": "Acronym from str(uctural) e(ngineering) s(ystems) s(olver).",
+  "pronounciation": "/stres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stress_us_1.mp3"
+}

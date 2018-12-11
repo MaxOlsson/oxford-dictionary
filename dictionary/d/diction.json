@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "The choice and use of words and phrases in speech or writing.",
+      "examples": [
+        "Wordsworth campaigned against exaggerated poetic diction"
+      ],
+      "synonyms": [
+        "phraseology",
+        "phrasing",
+        "turn of phrase",
+        "choice of words",
+        "wording",
+        "language",
+        "parlance",
+        "usage",
+        "vocabulary",
+        "terminology",
+        "expression",
+        "idiom",
+        "style",
+        "locution"
+      ]
+    },
+    {
+      "description": "The style of enunciation in speaking or singing.",
+      "examples": [
+        "she began imitating his careful diction"
+      ],
+      "synonyms": [
+        "enunciation",
+        "articulation",
+        "elocution",
+        "locution",
+        "pronunciation",
+        "speech",
+        "speech pattern",
+        "manner of speaking",
+        "intonation",
+        "inflection"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting a word or phrase): from Latin dictio(n-), from dicere to say.",
+  "pronounciation": "/ˈdɪkʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diction_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) liable to unreasonable changes of mood.",
+      "examples": [],
+      "synonyms": [
+        "volatile",
+        "excitable",
+        "emotional",
+        "overemotional",
+        "mercurial",
+        "capricious",
+        "erratic",
+        "unpredictable",
+        "changeable",
+        "inconsistent",
+        "unstable",
+        "hot-headed",
+        "fiery",
+        "explosive",
+        "hot-tempered",
+        "short-tempered",
+        "quick-tempered",
+        "irritable",
+        "irascible",
+        "impatient",
+        "petulant",
+        "prima donna-ish",
+        "melodramatic"
+      ]
+    },
+    {
+      "description": "Relating to a person's temperament.",
+      "examples": [
+        "they were firm friends in spite of temperamental differences"
+      ],
+      "synonyms": [
+        "inherent",
+        "innate",
+        "natural",
+        "inborn",
+        "constitutional",
+        "deep-rooted",
+        "ingrained",
+        "congenital"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌtɛmp(ə)rəˈmɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/temperamental_us_1.mp3"
+}

@@ -1,0 +1,185 @@
+{
+  "verb": [
+    {
+      "description": "Clean (an area) by brushing away dirt or litter.",
+      "examples": [
+        "I've swept the floor",
+        "Greg swept out the kitchen"
+      ],
+      "synonyms": [
+        "brush",
+        "clean",
+        "scrub",
+        "wipe",
+        "mop",
+        "dust",
+        "scour",
+        "scrape",
+        "rake",
+        "buff"
+      ]
+    },
+    {
+      "description": "Move swiftly and smoothly.",
+      "examples": [
+        "a large black car swept past the open windows",
+        "a wave of sympathy swept over him"
+      ],
+      "synonyms": [
+        "glide",
+        "sail",
+        "dash",
+        "charge",
+        "rush",
+        "streak",
+        "speed",
+        "fly",
+        "zoom",
+        "swoop",
+        "whizz",
+        "hurtle"
+      ]
+    },
+    {
+      "description": "Search (an area) for something.",
+      "examples": [
+        "the detective swept the room for hair and fingerprints"
+      ],
+      "synonyms": [
+        "search",
+        "probe",
+        "check",
+        "explore",
+        "hunt through",
+        "look through",
+        "delve in",
+        "go through",
+        "sift through",
+        "scour",
+        "comb",
+        "go through with a fine-tooth comb",
+        "leave no stone unturned in"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of sweeping something with a brush.",
+      "examples": [
+        "I was giving the floor a quick sweep"
+      ],
+      "synonyms": [
+        "clean",
+        "wipe",
+        "dust",
+        "mop"
+      ]
+    },
+    {
+      "description": "A long, swift curving movement.",
+      "examples": [
+        "a grandiose sweep of his hand"
+      ],
+      "synonyms": [
+        "gesture",
+        "movement",
+        "move",
+        "action",
+        "stroke",
+        "wave"
+      ]
+    },
+    {
+      "description": "A procedure for inducing labor in a pregnant woman, in which a medical practitioner moves a finger around within the opening of the cervix to detach the amniotic membranes.",
+      "examples": [
+        "I went in for a sweep at 41 weeks",
+        "she asked if I wanted a membrane sweep to get labor going"
+      ]
+    },
+    {
+      "description": "A comprehensive search or survey of a place or area.",
+      "examples": [
+        "the police finished their sweep through the woods"
+      ],
+      "synonyms": [
+        "search",
+        "hunt",
+        "exploration",
+        "probe",
+        "forage",
+        "pursuit",
+        "quest"
+      ]
+    },
+    {
+      "description": "A long, typically curved stretch of road, river, country, etc.",
+      "examples": [
+        "we could see a wide sweep of country perhaps a hundred miles across"
+      ],
+      "synonyms": [
+        "expanse",
+        "tract",
+        "stretch",
+        "space",
+        "plain",
+        "extent",
+        "vastness",
+        "vista"
+      ]
+    },
+    {
+      "description": "A sweepstake.",
+      "examples": [],
+      "synonyms": [
+        "lottery",
+        "draw",
+        "prize draw",
+        "sweepstake",
+        "tombola",
+        "ballot"
+      ]
+    },
+    {
+      "description": "An instance of winning every event, award, or place in a contest.",
+      "examples": [
+        "a World Series sweep"
+      ]
+    },
+    {
+      "description": "A long, heavy oar used to row a barge or other vessel.",
+      "examples": [
+        "a big, heavy sweep oar"
+      ],
+      "synonyms": [
+        "oar",
+        "scull",
+        "blade",
+        "spoon",
+        "spade"
+      ]
+    },
+    {
+      "description": "A sail of a windmill.",
+      "examples": []
+    },
+    {
+      "description": "A long pole mounted as a lever for raising buckets from a well.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The BBC soap swept the board at this weekend's British Soap Awards, taking 10 of the 16 prizes, including the evening's top award for Best Soap.",
+    "American Beauty swept the board, a triumph of thoughtful, provocative cinema over Hollywood's usual predictable bilge.",
+    "A thrilled young champion has swept the board at a national sports contest after overcoming his difficulties.",
+    "Students from George Ward School in Melksham swept the board with a successful company selling personalised t-shirts.",
+    "Manchester has swept the board at a prestigious design awards, winning eight out of nine honours for stunning new buildings across the whole of the north west.",
+    "Nahum's smile swept away the air of apprehensive gloom",
+    "He put a new deal for cities on the table for all Canadians just last year and then, quicker than one could have imagined, he swept it away.",
+    "But then he grew weary, and in one swift blow he swept the small city away with the back of his hand.",
+    "Although the task of finding bodies continues and hundreds of thousands of survivors are still traumatised by the monstrous waves that swept their world away, officials said it was time to rebuild.",
+    "The DC Circuit Court also ignored the long history of battlefield reporting in its decision, sweeping it away with a concluding statement that such a history does not really exist."
+  ],
+  "origin": "Old English swāpan (verb), of Germanic origin; related to German schweifen sweep in a curve.",
+  "pronounciation": "/swip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sweep_us_1.mp3"
+}

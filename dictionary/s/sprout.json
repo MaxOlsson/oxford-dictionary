@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "(of a plant) put forth shoots.",
+      "examples": [
+        "the weeds begin to sprout"
+      ],
+      "synonyms": [
+        "germinate",
+        "put forth shoots",
+        "bud"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shoot of a plant.",
+      "examples": [],
+      "synonyms": [
+        "sprout",
+        "offshoot",
+        "scion",
+        "sucker",
+        "bud",
+        "spear",
+        "runner",
+        "tendril",
+        "sprig",
+        "cutting"
+      ]
+    }
+  ],
+  "origin": "Middle English: of West Germanic origin; related to Dutch spruiten and German spriessen.",
+  "pronounciation": "/sprout/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sprout_us_1.mp3"
+}

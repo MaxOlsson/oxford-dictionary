@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A cosmic source of powerful short-lived bursts of X-rays or other radiation.",
+      "examples": []
+    },
+    {
+      "description": "A violent gale.",
+      "examples": [],
+      "synonyms": [
+        "storm",
+        "tempest",
+        "squall",
+        "hurricane",
+        "tornado",
+        "cyclone",
+        "typhoon",
+        "whirlwind",
+        "superstorm"
+      ]
+    },
+    {
+      "description": "A machine which separates continuous stationery into single sheets.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbərstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burster_us_1.mp3"
+}

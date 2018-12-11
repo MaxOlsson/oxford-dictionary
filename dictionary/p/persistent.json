@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Continuing firmly or obstinately in a course of action in spite of difficulty or opposition.",
+      "examples": [
+        "one of the government's most persistent critics"
+      ],
+      "synonyms": [
+        "tenacious",
+        "persevering",
+        "determined",
+        "resolute",
+        "purposeful",
+        "dogged",
+        "single-minded",
+        "tireless",
+        "indefatigable",
+        "pertinacious",
+        "patient",
+        "diligent",
+        "assiduous",
+        "sedulous",
+        "unflagging",
+        "untiring",
+        "unwavering",
+        "insistent",
+        "importunate",
+        "relentless",
+        "unrelenting"
+      ]
+    },
+    {
+      "description": "Continuing to exist or endure over a prolonged period.",
+      "examples": [
+        "persistent rain will affect many areas",
+        "persistent reports of human rights abuses by the military"
+      ],
+      "synonyms": [
+        "continuing",
+        "constant",
+        "continual",
+        "continuous",
+        "non-stop",
+        "lasting",
+        "never-ending",
+        "steady",
+        "uninterrupted",
+        "unbroken",
+        "interminable",
+        "incessant",
+        "unceasing",
+        "endless",
+        "unending",
+        "perpetual",
+        "unremitting",
+        "unrelenting",
+        "relentless",
+        "unrelieved",
+        "sustained"
+      ]
+    },
+    {
+      "description": "(of a part of an animal or plant, such as a horn, leaf, etc.) remaining attached instead of falling off in the normal manner.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/pərˈsist(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/persistent_us_1.mp3"
+}

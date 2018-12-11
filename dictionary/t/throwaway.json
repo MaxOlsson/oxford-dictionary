@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting or relating to products that are intended to be discarded after being used once or a few times.",
+      "examples": [
+        "a throwaway camera",
+        "we live in a throwaway society"
+      ],
+      "synonyms": [
+        "disposable",
+        "expendable",
+        "one-use",
+        "non-returnable",
+        "one-way",
+        "single-trip"
+      ]
+    },
+    {
+      "description": "(of a remark) expressed in a casual or understated way.",
+      "examples": [
+        "some people overreacted to a few throwaway lines"
+      ],
+      "synonyms": [
+        "casual",
+        "passing",
+        "careless",
+        "unthinking",
+        "unstudied",
+        "unconsidered",
+        "ill-considered",
+        "parenthetical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing intended or destined to be discarded after brief use or appeal.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈTHrōəˌwā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/throwaway_us_1.mp3"
+}

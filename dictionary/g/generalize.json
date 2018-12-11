@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make a general or broad statement by inferring from specific cases.",
+      "examples": [
+        "it is not easy to generalize about the poor",
+        "it is tempting to generalize from these conclusions"
+      ],
+      "synonyms": [
+        "imprecise",
+        "inexact",
+        "rough",
+        "approximate",
+        "inexplicit",
+        "non-specific",
+        "loose",
+        "ill-defined",
+        "generalized",
+        "ambiguous",
+        "equivocal",
+        "hazy",
+        "woolly"
+      ]
+    },
+    {
+      "description": "(of a disease) affecting much or all of the body; not localized.",
+      "examples": [
+        "a generalized rash and fever"
+      ]
+    },
+    {
+      "description": "Make (something) more widespread or common.",
+      "examples": [
+        "attempts to generalize an elite education"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense reduce to a general statement): from general + -ize.",
+  "pronounciation": "/ˈjen(ə)rəˌlīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/generalize_us_1.mp3"
+}

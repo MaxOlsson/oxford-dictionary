@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Succeed in persuading or influencing (someone) to do something.",
+      "examples": [
+        "the pickets induced many workers to stay away"
+      ],
+      "synonyms": [
+        "persuade",
+        "convince",
+        "prevail upon",
+        "get",
+        "make",
+        "prompt",
+        "move",
+        "inspire",
+        "instigate",
+        "influence",
+        "exert influence on",
+        "press",
+        "urge",
+        "incite",
+        "encourage",
+        "impel",
+        "actuate",
+        "motivate"
+      ]
+    },
+    {
+      "description": "Bring about or give rise to.",
+      "examples": [
+        "none of these measures induced a change of policy"
+      ],
+      "synonyms": [
+        "bring about",
+        "bring on",
+        "cause",
+        "be the cause of",
+        "produce",
+        "effect",
+        "create",
+        "give rise to",
+        "generate",
+        "originate",
+        "instigate",
+        "engender",
+        "occasion",
+        "set in motion",
+        "develop",
+        "lead to",
+        "result in",
+        "have as a consequence",
+        "have as a result",
+        "trigger off",
+        "spark off",
+        "whip up",
+        "stir up",
+        "kindle",
+        "arouse",
+        "rouse",
+        "foster",
+        "promote",
+        "encourage"
+      ]
+    },
+    {
+      "description": "Bring on (the birth of a baby) artificially, typically by the use of drugs.",
+      "examples": []
+    },
+    {
+      "description": "Derive by inductive reasoning.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (formerly also as enduce): from Latin inducere lead in, from in- into + ducere to lead, or from French enduire. Compare with endue.",
+  "pronounciation": "/ɪnˈd(j)us/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/induce_us_1.mp3"
+}

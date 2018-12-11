@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "About to happen.",
+      "examples": [
+        "they were in imminent danger of being swept away"
+      ],
+      "synonyms": [
+        "impending",
+        "at hand",
+        "close",
+        "near",
+        "approaching",
+        "fast approaching",
+        "coming",
+        "forthcoming",
+        "on the way",
+        "about to happen",
+        "upon us",
+        "in store",
+        "in the offing",
+        "in the pipeline",
+        "on the horizon",
+        "in the air",
+        "in the wind",
+        "brewing",
+        "looming",
+        "looming large"
+      ]
+    },
+    {
+      "description": "Overhanging.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin imminent- overhanging, impending, from the verb imminere, from in- upon, towards + minere to project.",
+  "pronounciation": "/ˈimənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imminent_us_1.mp3"
+}

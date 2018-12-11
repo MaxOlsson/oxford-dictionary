@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that accumulates something.",
+      "examples": [
+        "he's a voracious accumulator of economic facts and data",
+        "rugs are the greatest accumulators of dust and dirt in every house"
+      ],
+      "synonyms": [
+        "penny-pincher",
+        "pinchpenny",
+        "niggard",
+        "cheese-parer",
+        "scrooge"
+      ]
+    },
+    {
+      "description": "A register used to contain the results of an arithmetical or logical operation.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈkjum(j)əˌleɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accumulator_us_1.mp3"
+}

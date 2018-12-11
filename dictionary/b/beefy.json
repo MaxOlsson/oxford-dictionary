@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Muscular or robust.",
+      "examples": [
+        "he shrugged his beefy shoulders"
+      ],
+      "synonyms": [
+        "muscular",
+        "brawny",
+        "hefty",
+        "burly",
+        "strapping",
+        "well built",
+        "thickset",
+        "solid",
+        "strong",
+        "powerful",
+        "heavy",
+        "robust",
+        "sturdy",
+        "stocky"
+      ]
+    },
+    {
+      "description": "Tasting like beef.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbifi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beefy_us_1.mp3"
+}

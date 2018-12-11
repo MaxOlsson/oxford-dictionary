@@ -1,0 +1,84 @@
+{
+  "adjective": [
+    {
+      "description": "Of or constituting a limit.",
+      "examples": [
+        "the cutoff date to register is July 2"
+      ]
+    },
+    {
+      "description": "(of a device) producing an interruption or cessation of a power or fuel supply.",
+      "examples": [
+        "a cutoff valve"
+      ]
+    },
+    {
+      "description": "(of an item of clothing) having been cut short.",
+      "examples": [
+        "a cutoff T-shirt"
+      ]
+    },
+    {
+      "description": "(of a person) isolated from or no longer having access to someone or something.",
+      "examples": [
+        "aid to the cutoff troops in the north"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A point or level that is a designated limit of something.",
+      "examples": [
+        "1 p.m. is the cutoff for being out of the woods"
+      ],
+      "synonyms": [
+        "isolated",
+        "remote",
+        "out of the way",
+        "outlying",
+        "off the beaten track",
+        "in the depths of …",
+        "hard to find",
+        "lonely",
+        "in the back of beyond",
+        "in the hinterlands",
+        "off the map",
+        "in the middle of nowhere",
+        "godforsaken",
+        "obscure",
+        "inaccessible",
+        "cut-off",
+        "tucked away",
+        "unreachable"
+      ]
+    },
+    {
+      "description": "An act of stopping or interrupting the supply or provision of something.",
+      "examples": [
+        "a cutoff of aid would be a disaster"
+      ],
+      "synonyms": [
+        "interruption",
+        "interval",
+        "gap",
+        "hiatus",
+        "lapse of time",
+        "lacuna"
+      ]
+    },
+    {
+      "description": "Shorts made by cutting off the legs of a pair of jeans or other trousers above or at the knee and leaving the edges unhemmed.",
+      "examples": []
+    },
+    {
+      "description": "A shortcut.",
+      "examples": []
+    },
+    {
+      "description": "A pattern of a meandering stream in which a channel cuts a new course to bypass a meander bend.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkədäf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cutoff_us_2.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "Not in or to any place; not anywhere.",
+      "examples": [
+        "plants and animals found nowhere else in the world",
+        "Andrea is nowhere to be found"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "No place.",
+      "examples": [
+        "there was nowhere for her to sit",
+        "there's nowhere better to experience the wonders of the Rockies"
+      ]
+    },
+    {
+      "description": "A place that is remote, uninteresting, or nondescript.",
+      "examples": [
+        "a stretch of road between nowhere and nowhere",
+        "the town is a particularly American nowhere"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having no prospect of progress or success.",
+      "examples": [
+        "she's involved in a nowhere affair with a married executive"
+      ]
+    }
+  ],
+  "phrases": [
+    "he materialized a taxi out of nowhere",
+    "One day the lad was walking through the forest when a strange man appeared out of nowhere.",
+    "Such plant life seems to appear out of nowhere when the snow and ice recede.",
+    "Every town has a few black spots where rubbish seems to appear from nowhere.",
+    "Some photographers appeared from nowhere and fired off a load of shots."
+  ],
+  "origin": "Old English nāhwǣr (see no, where).",
+  "pronounciation": "/ˈnoʊˌ(h)wɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nowhere_us_1.mp3"
+}

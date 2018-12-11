@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Crazy or silly.",
+      "examples": [
+        "the author comes across as a bit loopy"
+      ],
+      "synonyms": [
+        "foolish",
+        "stupid",
+        "unintelligent",
+        "idiotic",
+        "brainless",
+        "mindless",
+        "witless",
+        "imbecilic",
+        "imbecile",
+        "doltish"
+      ]
+    },
+    {
+      "description": "Having many loops.",
+      "examples": [
+        "a big, loopy signature"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlo͞opē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loopy_us_1.mp3"
+}

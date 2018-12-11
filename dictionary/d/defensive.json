@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Used or intended to defend or protect.",
+      "examples": [
+        "troops in defensive positions"
+      ],
+      "synonyms": [
+        "defending",
+        "guarding",
+        "safeguarding",
+        "protecting",
+        "protective",
+        "shielding",
+        "screening"
+      ]
+    },
+    {
+      "description": "Very anxious to challenge or avoid criticism.",
+      "examples": [
+        "he was very defensive about that side of his life"
+      ],
+      "synonyms": [
+        "self-justifying",
+        "oversensitive",
+        "thin-skinned",
+        "easily offended",
+        "prickly",
+        "paranoid",
+        "neurotic"
+      ]
+    }
+  ],
+  "phrases": [
+    "the forces have remained on the defensive",
+    "That showed how a minority party can make news and put the majority party on the defensive.",
+    "They held up his reform programme and kept him on the defensive by mounting attacks on his closest associates.",
+    "The Germans mostly remained on the defensive in the west in 1915, while chasing the Russians out of Poland.",
+    "Avoid responding to them in kind and attacking them to put them on the defensive."
+  ],
+  "origin": "Late Middle English: from Old French défensif, -ive, from medieval Latin defensivus, from Latin defens- warded off, from the verb defendere (see defend).",
+  "pronounciation": "/dəˈfɛnsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defensive_us_2.mp3"
+}

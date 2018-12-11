@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "Hamper or hinder (someone or something)",
+      "examples": [
+        "they were cumbered with greatcoats and swords"
+      ],
+      "synonyms": [
+        "hamper",
+        "be a hindrance to",
+        "obstruct",
+        "impede",
+        "inhibit",
+        "retard",
+        "baulk",
+        "thwart",
+        "foil",
+        "baffle",
+        "curb",
+        "delay",
+        "arrest",
+        "interfere with",
+        "set back",
+        "slow down",
+        "hold back",
+        "hold up",
+        "forestall",
+        "stop",
+        "halt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hindrance, obstruction, or burden.",
+      "examples": [
+        "a cumber of limestone rocks"
+      ],
+      "synonyms": [
+        "impediment",
+        "obstacle",
+        "barrier",
+        "bar",
+        "obstruction",
+        "handicap",
+        "block",
+        "check",
+        "curb",
+        "brake",
+        "hurdle",
+        "restraint",
+        "restriction",
+        "limitation",
+        "encumbrance",
+        "deterrent",
+        "complication",
+        "delay",
+        "interruption",
+        "stoppage"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense overthrow, destroy): probably from encumber.",
+  "pronounciation": "/ˈkəmbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cumber_us_1.mp3"
+}

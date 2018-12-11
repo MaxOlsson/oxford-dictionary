@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely hungry.",
+      "examples": [
+        "I'm famished—is there anything to eat?",
+        "the evacuees were famished, having had no food for 12 hours"
+      ],
+      "synonyms": [
+        "very hungry",
+        "ravenous",
+        "starving",
+        "starving to death",
+        "starved",
+        "dying of hunger",
+        "faint from lack of food",
+        "deprived of food",
+        "empty"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: past participle of the verb famish, from Middle English fame starve, from Old French afamer, based on Latin fames hunger.",
+  "pronounciation": "/ˈfamiSHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/famished_us_1.mp3"
+}

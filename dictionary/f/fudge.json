@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A soft candy made from sugar, butter, and milk or cream.",
+      "examples": [],
+      "synonyms": [
+        "chewy sweet",
+        "toffee"
+      ]
+    },
+    {
+      "description": "An instance of faking or ambiguity.",
+      "examples": [
+        "the new settlement is a fudge rushed out to win cheers at the conference"
+      ],
+      "synonyms": [
+        "compromise",
+        "cover-up",
+        "halfway house"
+      ]
+    },
+    {
+      "description": "A piece of late news inserted in a newspaper page.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Present or deal with (something) in a vague, noncommittal, or inadequate way, especially so as to conceal the truth or mislead.",
+      "examples": [
+        "a temptation to fudge the issue and nudge grades up"
+      ],
+      "synonyms": [
+        "evade",
+        "dodge",
+        "skirt",
+        "avoid",
+        "duck",
+        "shift ground about"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Nonsense! (expressing disbelief or annoyance).",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: probably an alteration of obsolete fadge to fit. Early usage was as a verb in the sense turn out as expected, also merge together: this probably gave rise to its use in confectionery. In the late 17th century the verb came to mean fit together in a clumsy or underhand manner, which included facts or figures being cobbled together in a superficially convincing way: this led to the exclamation fudge! and to noun fudge (sense 3 of the noun).",
+  "pronounciation": "/fədʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fudge_us_1.mp3"
+}

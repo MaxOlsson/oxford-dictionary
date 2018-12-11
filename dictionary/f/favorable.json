@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Expressing approval.",
+      "examples": [
+        "the book received highly favorable reviews"
+      ],
+      "synonyms": [
+        "approving",
+        "commendatory",
+        "commending",
+        "praising",
+        "complimentary",
+        "flattering",
+        "glowing",
+        "appreciative",
+        "enthusiastic"
+      ]
+    },
+    {
+      "description": "To the advantage of someone or something.",
+      "examples": [
+        "they made a settlement favorable to the unions"
+      ],
+      "synonyms": [
+        "advantageous",
+        "beneficial",
+        "of benefit",
+        "in one's favour",
+        "on one's side",
+        "helpful",
+        "good",
+        "right",
+        "conducive",
+        "convenient",
+        "suitable",
+        "fit",
+        "fitting",
+        "appropriate"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin favorabilis, from favor (see favor).",
+  "pronounciation": "/ˈfāv(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/favorable_us_1.mp3"
+}

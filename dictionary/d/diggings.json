@@ -1,0 +1,26 @@
+{
+  "plural noun": [
+    {
+      "description": "A site such as a mine or goldfield that has been excavated.",
+      "examples": [
+        "hills scarred with peat diggings"
+      ]
+    },
+    {
+      "description": "Lodgings.",
+      "examples": [],
+      "synonyms": [
+        "home",
+        "house",
+        "place of habitation",
+        "place of residence",
+        "accommodation",
+        "habitat",
+        "base",
+        "seat"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdiɡiNGz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diggings_us_1.mp3"
+}

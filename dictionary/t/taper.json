@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Diminish or reduce in thickness toward one end.",
+      "examples": [
+        "the tail tapers to a rounded tip",
+        "David asked my dressmaker to taper his trousers"
+      ],
+      "synonyms": [
+        "narrow",
+        "thin",
+        "thin out",
+        "become narrow",
+        "become narrower",
+        "become thin",
+        "become thinner",
+        "come to a point",
+        "attenuate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slender candle.",
+      "examples": [],
+      "synonyms": [
+        "candle",
+        "spill",
+        "wick",
+        "night light"
+      ]
+    },
+    {
+      "description": "A gradual narrowing.",
+      "examples": [
+        "the current industry standard taper of 5 degrees"
+      ]
+    }
+  ],
+  "origin": "Old English (denoting any wax candle), dissimilated form (by alteration of p- to t-) of Latin papyrus (see papyrus), the pith of which was used for candle wicks.",
+  "pronounciation": "/ˈteɪpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/taper_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "(of a horse) move with high springy steps.",
+      "examples": [
+        "the pony was prancing around the paddock"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of prancing.",
+      "examples": [],
+      "synonyms": [
+        "jump",
+        "bound",
+        "bounce",
+        "prance",
+        "leap",
+        "spring",
+        "skip",
+        "gambol"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): of unknown origin.",
+  "pronounciation": "/prans/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prance_us_1.mp3"
+}

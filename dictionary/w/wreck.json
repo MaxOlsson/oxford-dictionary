@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "The destruction of a ship at sea; a shipwreck.",
+      "examples": [
+        "the survivors of the wreck"
+      ],
+      "synonyms": [
+        "destruction",
+        "sinking",
+        "wrecking"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause the destruction of (a ship) by sinking or breaking up.",
+      "examples": [
+        "he was drowned when his ship was wrecked"
+      ],
+      "synonyms": [
+        "shipwreck",
+        "sink",
+        "capsize",
+        "run aground",
+        "break up"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a legal term denoting wreckage washed ashore): from Anglo-Norman French wrec, from the base of Old Norse reka to drive; related to wreak.",
+  "pronounciation": "/rɛk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wreck_us_1.mp3"
+}

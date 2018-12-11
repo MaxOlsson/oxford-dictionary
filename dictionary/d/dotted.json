@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Marked with or in the form of dots.",
+      "examples": [
+        "a dotted background",
+        "a geometric maze of dotted patterns"
+      ]
+    },
+    {
+      "description": "(of a note or rest) written with a dot after it to show that the time value is increased by half.",
+      "examples": [
+        "a dotted quarter note"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdädəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dotted_us_2.mp3"
+}

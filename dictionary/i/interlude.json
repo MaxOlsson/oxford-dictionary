@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An intervening period of time.",
+      "examples": [
+        "enjoying a lunchtime interlude"
+      ],
+      "synonyms": [
+        "interval",
+        "intermission",
+        "break",
+        "recess",
+        "pause",
+        "respite",
+        "rest",
+        "breathing space",
+        "halt",
+        "gap",
+        "stop",
+        "stoppage",
+        "hiatus",
+        "lull"
+      ]
+    },
+    {
+      "description": "Something performed during a theater intermission.",
+      "examples": [
+        "an orchestral interlude"
+      ]
+    },
+    {
+      "description": "A piece of music played between other pieces or between the verses of a hymn.",
+      "examples": []
+    },
+    {
+      "description": "A temporary amusement or source of entertainment that contrasts with what goes before or after.",
+      "examples": [
+        "the romantic interlude withered rapidly once he was back in town"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally denoting a light dramatic entertainment): from medieval Latin interludium, from inter- between + ludus play.",
+  "pronounciation": "/ˈɪn(t)ərˌlud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interlude_us_1.mp3"
+}

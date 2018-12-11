@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A person who practices or studies law; an attorney or a counselor.",
+      "examples": [],
+      "synonyms": [
+        "legal practitioner",
+        "attorney",
+        "legal officer",
+        "legal adviser",
+        "legal representative",
+        "legal executive",
+        "agent",
+        "member of the bar"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Practice law; work as a lawyer.",
+      "examples": [
+        "lawyering is a craft that takes a long time to become proficient at"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈloiər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lawyer_us_1_rr.mp3"
+}

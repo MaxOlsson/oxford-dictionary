@@ -1,0 +1,198 @@
+{
+  "noun": [
+    {
+      "description": "A horizontal plane or line with respect to the distance above or below a given point.",
+      "examples": []
+    },
+    {
+      "description": "A position on a real or imaginary scale of amount, quantity, extent, or quality.",
+      "examples": [
+        "a high level of unemployment",
+        "debt rose to unprecedented levels"
+      ],
+      "synonyms": [
+        "quantity",
+        "amount",
+        "extent",
+        "measure",
+        "degree",
+        "volume",
+        "size"
+      ]
+    },
+    {
+      "description": "(in a video game) each of a series of stages of increasing difficulty through which a player may progress, completing one stage in order to reach the next.",
+      "examples": [
+        "I've now reached level 106 on Candy Crush Saga"
+      ]
+    },
+    {
+      "description": "A device consisting of a sealed glass tube partially filled with alcohol or other liquid, containing an air bubble whose position reveals whether a surface is perfectly level or plumb.",
+      "examples": []
+    },
+    {
+      "description": "A flat tract of land.",
+      "examples": [
+        "flooded levels"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having a flat and even surface without slopes or bumps.",
+      "examples": [
+        "we had reached level ground"
+      ],
+      "synonyms": [
+        "flat",
+        "smooth",
+        "even",
+        "uniform",
+        "plane",
+        "flush",
+        "plumb",
+        "regular",
+        "true"
+      ]
+    },
+    {
+      "description": "At the same height as someone or something else.",
+      "examples": [
+        "his eyes were level with hers"
+      ],
+      "synonyms": [
+        "aligned",
+        "on the same level as",
+        "on a level",
+        "at the same height as",
+        "in line",
+        "balanced"
+      ]
+    },
+    {
+      "description": "Having the same relative position; not in front of or behind.",
+      "examples": [
+        "the car braked suddenly, then backed rapidly until it was level with me"
+      ],
+      "synonyms": [
+        "aligned",
+        "on the same level as",
+        "on a level",
+        "at the same height as",
+        "in line",
+        "balanced"
+      ]
+    },
+    {
+      "description": "Calm and steady.",
+      "examples": [
+        "“Adrian,” she said in her most level voice"
+      ],
+      "synonyms": [
+        "unchanging",
+        "steady",
+        "unvarying",
+        "stable",
+        "even",
+        "uniform",
+        "regular",
+        "consistent",
+        "constant"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a flat and even surface to.",
+      "examples": [
+        "contractors started leveling the ground for the new power station"
+      ],
+      "synonyms": [
+        "make level",
+        "level out",
+        "level off",
+        "make even",
+        "even off",
+        "even out",
+        "make flat",
+        "flatten",
+        "smooth",
+        "smooth out",
+        "plane",
+        "make uniform",
+        "make regular",
+        "regularize"
+      ]
+    },
+    {
+      "description": "Begin to fly horizontally after climbing or diving.",
+      "examples": []
+    },
+    {
+      "description": "Make (something, especially a score in sport) equal or similar.",
+      "examples": [
+        "Woods sliced the ball into the net to level the score"
+      ],
+      "synonyms": [
+        "equalize",
+        "make equal",
+        "equal",
+        "even",
+        "even up",
+        "make level"
+      ]
+    },
+    {
+      "description": "Aim (a weapon)",
+      "examples": [
+        "he leveled a long-barreled pistol at us"
+      ],
+      "synonyms": [
+        "aim",
+        "point",
+        "direct",
+        "train",
+        "sight",
+        "focus",
+        "turn",
+        "beam",
+        "zero in on",
+        "draw a bead on"
+      ]
+    },
+    {
+      "description": "Be frank or honest with (someone)",
+      "examples": [
+        "when are you going to level with me?"
+      ],
+      "synonyms": [
+        "be frank",
+        "be open",
+        "be honest",
+        "be above board",
+        "tell the truth",
+        "tell all",
+        "hide nothing",
+        "keep nothing back",
+        "be straightforward",
+        "put all one's cards on the table"
+      ]
+    },
+    {
+      "description": "Ascertain differences in the height of (land).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Everyone here did their level best to meet productivity levels to international standards and beyond.",
+    "But when you're in the final, you want to win it and we'll be doing our level best.",
+    "Do not worry, we are doing our level best to find him and we will.",
+    "As journalists, we do our level best to cover all sides, all issues in any situation, in a timely, accurate and fair way.",
+    "He does his level best to form correct opinions about the issues of the day.",
+    "you can collect runes and use them as you level up to increase the power of your weapons",
+    "build your army, level up your hero, purchase equipment, and challenge your friends to massive battles"
+  ],
+  "origin": "Middle English (denoting an instrument to determine whether a surface is horizontal): from Old French livel, based on Latin libella, diminutive of libra scales, balance.",
+  "pronounciation": "/ˈlevəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/level_us_1.mp3"
+}

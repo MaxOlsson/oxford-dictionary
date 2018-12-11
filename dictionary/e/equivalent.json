@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Equal in value, amount, function, meaning, etc.",
+      "examples": [
+        "one unit is equivalent to one glass of wine"
+      ],
+      "synonyms": [
+        "equal",
+        "identical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that is equal to or corresponds with another in value, amount, function, meaning, etc.",
+      "examples": [
+        "the French equivalent of the FBI"
+      ],
+      "synonyms": [
+        "counterpart",
+        "parallel",
+        "alternative",
+        "match",
+        "complement",
+        "analogue",
+        "double",
+        "twin",
+        "opposite number"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (describing persons who were equal in power or rank): via Old French from late Latin aequivalent- being of equal worth, from the verb aequivalere, from aequi- equally + valere be worth.",
+  "pronounciation": "/əˈkwɪv(ə)lənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/equivalent_us_1.mp3"
+}

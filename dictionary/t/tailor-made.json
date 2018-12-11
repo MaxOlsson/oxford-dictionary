@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of clothes) made by a tailor for a particular customer.",
+      "examples": [
+        "tailor-made suits"
+      ],
+      "synonyms": [
+        "appropriate to",
+        "suited to",
+        "befitting",
+        "congruous with",
+        "in keeping with",
+        "in character with",
+        "custom-made"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A garment that has been specially made for a particular customer.",
+      "examples": [
+        "a lady in a red tailor-made"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌteɪlər ˈmeɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tailor_made_1_us_1.mp3"
+}

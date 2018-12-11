@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "An unintentional failure to notice or do something.",
+      "examples": [
+        "was the mistake due to oversight?",
+        "he said his failure to pay for the tickets was an oversight"
+      ],
+      "synonyms": [
+        "mistake",
+        "error",
+        "fault",
+        "failure",
+        "omission",
+        "lapse",
+        "inaccuracy",
+        "slip",
+        "blunder",
+        "faux pas",
+        "miscalculation"
+      ]
+    },
+    {
+      "description": "The action of overseeing something.",
+      "examples": [
+        "effective oversight of the financial reporting process"
+      ],
+      "synonyms": [
+        "supervision",
+        "surveillance",
+        "superintendence",
+        "inspection",
+        "charge",
+        "care",
+        "administration",
+        "management",
+        "government",
+        "direction",
+        "control",
+        "command",
+        "handling",
+        "custody"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈoʊvərˌsaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oversight_us_1.mp3"
+}

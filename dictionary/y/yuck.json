@@ -1,0 +1,38 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express strong distaste or disgust.",
+      "examples": [
+        "“Raw herrings! Yuck!”"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something messy or disgusting.",
+      "examples": [
+        "I can't bear the sight of blood and yuck"
+      ],
+      "synonyms": [
+        "dirt",
+        "muck",
+        "grime",
+        "mud",
+        "mire",
+        "sludge",
+        "slime",
+        "ooze",
+        "foul matter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Laugh heartily.",
+      "examples": []
+    }
+  ],
+  "origin": "1930s (theatrical slang): probably imitative.",
+  "pronounciation": "/jək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yuck_us_1.mp3"
+}

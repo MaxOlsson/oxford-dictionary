@@ -1,0 +1,89 @@
+{
+  "verb": [
+    {
+      "description": "Give (someone) money that is due for work done, goods received, or a debt incurred.",
+      "examples": [
+        "he paid the locals to pick his coffee beans",
+        "TV licenses can be paid for by direct debit"
+      ],
+      "synonyms": [
+        "reward",
+        "reimburse",
+        "recompense",
+        "give payment to",
+        "settle up with",
+        "remunerate",
+        "tip",
+        "indemnify"
+      ]
+    },
+    {
+      "description": "Suffer a loss or other misfortune as a consequence of an action.",
+      "examples": [
+        "the destroyer responsible for these atrocities would have to pay with his life"
+      ],
+      "synonyms": [
+        "suffer",
+        "suffer the consequences",
+        "be punished",
+        "pay a penalty",
+        "atone",
+        "make atonement",
+        "pay the price",
+        "get one's deserts",
+        "take one's medicine"
+      ]
+    },
+    {
+      "description": "Give or bestow (attention, respect, or a compliment) on (someone)",
+      "examples": [
+        "no one paid them any attention"
+      ],
+      "synonyms": [
+        "bestow",
+        "present",
+        "grant",
+        "give",
+        "hand out",
+        "extend",
+        "offer",
+        "proffer",
+        "render",
+        "afford"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The money paid to someone for regular work.",
+      "examples": [
+        "those working on contract may receive higher rates of pay",
+        "showing up and collecting your pay"
+      ],
+      "synonyms": [
+        "salary",
+        "wages",
+        "wage",
+        "take-home pay",
+        "gross pay",
+        "net pay",
+        "payment"
+      ]
+    }
+  ],
+  "phrases": [
+    "As a long-time exile in the pay of the CIA, he was always a strong candidate in Washington and US officials were clearly involved in steering the choice.",
+    "In 1419, a Genoan captain in the pay of Prince Henry struck Madeira.",
+    "Yes, he was a willing mercenary in the pay of the government of Canada and a Crown corporation.",
+    "And he's been in the pay of the British for around 30 years.",
+    "His timely rescue of London from a retreating force of Frankish mercenaries who had been in the pay of Allectus was a huge propaganda victory.",
+    "a regular amount was deducted from my wages to pay her back",
+    "My sister paid the wages of the funeral, so I have to pay her back.",
+    "If I can't make the moolah, how am I going to pay you back for my education?",
+    "Oh, and next time you pay her back on a loan ask for a receipt nicely.",
+    "The Irishman pays him back with interest in his own money."
+  ],
+  "origin": "Early 17th century: from Old Northern French peier, from Latin picare, from pix, pic- pitch.",
+  "pronounciation": "/pā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pay_us_1.mp3"
+}

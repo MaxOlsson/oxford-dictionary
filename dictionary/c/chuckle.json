@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Laugh quietly or inwardly.",
+      "examples": [
+        "I chuckled at the astonishment on her face",
+        "“That's a bit strong, isn't it?” he chuckled"
+      ],
+      "synonyms": [
+        "chortle",
+        "giggle",
+        "titter",
+        "laugh quietly",
+        "tee-hee",
+        "snicker",
+        "snigger"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quiet or suppressed laugh.",
+      "examples": [],
+      "synonyms": [
+        "chuckle",
+        "chortle",
+        "guffaw",
+        "giggle",
+        "titter",
+        "ha-ha",
+        "tee-hee",
+        "snigger",
+        "roar of laughter",
+        "hoot of laughter",
+        "shriek of laughter",
+        "peal of laughter",
+        "belly laugh"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense laugh convulsively): from chuck meaning to cluck in late Middle English.",
+  "pronounciation": "/ˈtʃək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chuckle_us_1.mp3"
+}

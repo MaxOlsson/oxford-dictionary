@@ -1,0 +1,97 @@
+{
+  "adjective": [
+    {
+      "description": "Covered or saturated with water or another liquid.",
+      "examples": [
+        "she followed, slipping on the wet rock"
+      ],
+      "synonyms": [
+        "damp",
+        "dampened",
+        "moist",
+        "moistened"
+      ]
+    },
+    {
+      "description": "Showing a lack of forcefulness or strength of character; feeble.",
+      "examples": [
+        "they thought the cadets were a bit wet"
+      ],
+      "synonyms": [
+        "feeble",
+        "silly",
+        "weak",
+        "foolish",
+        "inept",
+        "ineffective",
+        "ineffectual",
+        "effete",
+        "soft",
+        "namby-pamby",
+        "timid",
+        "timorous",
+        "spiritless",
+        "cowardly",
+        "spineless"
+      ]
+    },
+    {
+      "description": "(of a country or region or of its legislation) allowing the sale of alcoholic beverages.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover or touch with liquid; moisten.",
+      "examples": [
+        "he wet a finger and flicked through the pages"
+      ],
+      "synonyms": [
+        "dampen",
+        "damp",
+        "moisten",
+        "humidify"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Liquid that makes something damp.",
+      "examples": [
+        "I could feel the wet of his tears"
+      ],
+      "synonyms": [
+        "wetness",
+        "damp",
+        "dampness",
+        "moisture",
+        "moistness"
+      ]
+    },
+    {
+      "description": "A person lacking forcefulness or strength of character.",
+      "examples": [],
+      "synonyms": [
+        "namby-pamby",
+        "weakling",
+        "milksop",
+        "milquetoast",
+        "baby"
+      ]
+    },
+    {
+      "description": "A person opposed to the prohibition of alcoholic beverages.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "You don't have to be a Biblical scholar to know that what you wrote was all wet.",
+    "Your discussion of the intellectual property debate is all wet.",
+    "Their publishers are all wet about copyright.",
+    "I suppose we could just thank our lucky stars that all the negative prognostications were all wet and leave it at that.",
+    "Since I'm not an economist, I might be all wet about this."
+  ],
+  "origin": "Old English wǣt (adjective and noun), wǣtan (verb); related to water.",
+  "pronounciation": "/wɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wet_us_1.mp3"
+}

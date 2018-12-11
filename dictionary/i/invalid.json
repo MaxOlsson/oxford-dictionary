@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A person made weak or disabled by illness or injury.",
+      "examples": [
+        "an invalid husband"
+      ],
+      "synonyms": [
+        "sick person",
+        "case",
+        "sufferer",
+        "victim"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Remove (someone) from active service in the armed forces because of injury or illness.",
+      "examples": [
+        "he was badly wounded and invalided out of the infantry"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of an official document or procedure) not legally recognized and therefore void because contravening a regulation or law.",
+      "examples": [
+        "the vote was declared invalid due to a technicality"
+      ],
+      "synonyms": [
+        "void",
+        "legally void",
+        "null",
+        "null and void",
+        "unenforceable",
+        "not binding",
+        "inoperative",
+        "worthless"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (earlier than valid): from Latin invalidus, from in- not + validus strong (see valid).",
+  "pronounciation": "/inˈvaləd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/invalid_us_1.mp3"
+}

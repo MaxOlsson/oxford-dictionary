@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Make (an argument, statement, or theory) unsound or erroneous.",
+      "examples": [],
+      "synonyms": [
+        "disprove",
+        "prove to be false",
+        "show to be false",
+        "refute",
+        "explode",
+        "contradict",
+        "rebut",
+        "negate",
+        "gainsay",
+        "belie",
+        "give the lie to",
+        "discredit",
+        "expose",
+        "debunk",
+        "knock the bottom out of",
+        "drive a coach and horses through"
+      ]
+    },
+    {
+      "description": "Deprive (an official document or procedure) of legal efficacy because of contravention of a regulation or law.",
+      "examples": [
+        "a technical flaw in her papers invalidated her nomination"
+      ],
+      "synonyms": [
+        "render invalid",
+        "void",
+        "nullify",
+        "annul",
+        "negate",
+        "cancel",
+        "quash",
+        "veto",
+        "overturn",
+        "overrule",
+        "override",
+        "undo",
+        "reverse"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin invalidat- annulled, from the verb invalidare (based on Latin validus strong).",
+  "pronounciation": "/inˈvaləˌdāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/invalidate_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The process of growing old.",
+      "examples": [
+        "the external signs of aging",
+        "the aging process"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person) growing old; elderly.",
+      "examples": [
+        "an aging population",
+        "looking after aging relatives"
+      ],
+      "synonyms": [
+        "aged",
+        "old",
+        "mature",
+        "older",
+        "senior",
+        "ancient",
+        "venerable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈeɪdʒɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aging_us_2.mp3"
+}

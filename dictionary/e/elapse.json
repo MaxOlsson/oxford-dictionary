@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "(of time) pass or go by.",
+      "examples": [
+        "weeks elapsed before anyone was charged with the attack",
+        "a display tells you which track is playing and its elapsed time"
+      ],
+      "synonyms": [
+        "pass",
+        "go by",
+        "go past",
+        "proceed",
+        "progress",
+        "advance",
+        "wear on",
+        "march on",
+        "slip away",
+        "slip by",
+        "slip past",
+        "roll by",
+        "roll past",
+        "glide by",
+        "glide past",
+        "slide by",
+        "slide past",
+        "steal by",
+        "steal past",
+        "tick by",
+        "tick past"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense slip away): from Latin elaps- slipped away, from the verb elabi, from e- (variant of ex-) out, away + labi to glide, slip.",
+  "pronounciation": "/əˈlæps/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elapse_us_1.mp3"
+}

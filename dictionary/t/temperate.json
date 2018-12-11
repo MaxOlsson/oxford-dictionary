@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting a region or climate characterized by mild temperatures.",
+      "examples": [],
+      "synonyms": [
+        "mild",
+        "clement",
+        "pleasant",
+        "agreeable",
+        "benign"
+      ]
+    },
+    {
+      "description": "Showing moderation or self-restraint.",
+      "examples": [
+        "Charles was temperate in his consumption of both food and drink"
+      ],
+      "synonyms": [
+        "self-restrained",
+        "restrained",
+        "moderate",
+        "self-controlled",
+        "controlled",
+        "disciplined"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense not affected by passion or emotion): from Latin temperatus mingled, restrained, from the verb temperare.",
+  "pronounciation": "/ˈtɛmp(ə)rət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/temperate_us_1.mp3"
+}

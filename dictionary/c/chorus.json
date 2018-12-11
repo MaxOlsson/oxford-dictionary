@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "A part of a song that is repeated after each verse, typically by more than one singer.",
+      "examples": [],
+      "synonyms": [
+        "refrain",
+        "burden",
+        "strain"
+      ]
+    },
+    {
+      "description": "A large organized group of singers, especially one that performs together with an orchestra or opera company.",
+      "examples": [],
+      "synonyms": [
+        "choir",
+        "ensemble",
+        "choral group",
+        "choristers",
+        "vocalists",
+        "singers",
+        "group of singers"
+      ]
+    },
+    {
+      "description": "A simultaneous utterance of something by many people.",
+      "examples": [
+        "a growing chorus of complaint",
+        "“Good morning,” we replied in chorus"
+      ],
+      "synonyms": [
+        "in unison",
+        "together",
+        "simultaneously",
+        "at the same time",
+        "as one"
+      ]
+    },
+    {
+      "description": "(in ancient Greek tragedy) a group of performers who comment on the main action, typically speaking and moving together.",
+      "examples": []
+    },
+    {
+      "description": "A device used with an amplified musical instrument to give the impression that more than one instrument is being played.",
+      "examples": [
+        "a chorus pedal"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a group of people) say the same thing at the same time.",
+      "examples": [
+        "“Morning, Father,” the children chorused",
+        "they chorused a noisy amen"
+      ],
+      "synonyms": [
+        "chant",
+        "intone",
+        "croon",
+        "carol",
+        "chorus",
+        "warble",
+        "trill",
+        "pipe",
+        "quaver"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting a character speaking the prolog of a play): from Latin, from Greek khoros.",
+  "pronounciation": "/ˈkôrəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chorus_us_1.mp3"
+}

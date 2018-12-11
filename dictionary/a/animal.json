@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+      "examples": [
+        "wild animals adapt badly to a caged life",
+        "humans are the only animals who weep",
+        "animals such as spiders"
+      ],
+      "synonyms": [
+        "beast",
+        "brute"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of animals.",
+      "examples": [
+        "a wide range of animal species",
+        "animal welfare"
+      ]
+    }
+  ],
+  "origin": "Middle English: the noun from Latin animal, based on Latin animalis having breath from anima breath; the adjective via Old French from Latin animalis.",
+  "pronounciation": "/ˈanəməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/animal_us_1.mp3"
+}

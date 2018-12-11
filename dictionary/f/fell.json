@@ -1,0 +1,53 @@
+{
+  "": [],
+  "verb": [
+    {
+      "description": "Cut down (a tree).",
+      "examples": [],
+      "synonyms": [
+        "cut down",
+        "chop down",
+        "hack down",
+        "saw down",
+        "knock down",
+        "hew",
+        "demolish",
+        "tear down",
+        "bring down",
+        "raze",
+        "level",
+        "clear"
+      ]
+    },
+    {
+      "description": "Stitch down (the edge of a seam) to lie flat.",
+      "examples": [
+        "a flat-felled seam"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An amount of timber cut.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of terrible evil or ferocity; deadly.",
+      "examples": [
+        "sorcerers use spells to achieve their fell ends"
+      ]
+    }
+  ],
+  "origin": "Old English fel, fell, of Germanic origin; related to Dutch vel and German Fell, from an Indo-European root shared by Latin pellis and Greek pella skin.",
+  "phrases": [
+    "nothing can topple the government in one fell swoop",
+    "In one fell swoop, professional regulation has been radically and disturbingly transformed.",
+    "In one fell swoop, it gets new customers for its existing products and new products for its existing customers.",
+    "In one fell swoop they are increasing the amount of traffic on the roads.",
+    "Freedom and privacy rarely, if ever, disappear in one fell swoop."
+  ],
+  "pronounciation": "/fel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fell_us_1.mp3"
+}

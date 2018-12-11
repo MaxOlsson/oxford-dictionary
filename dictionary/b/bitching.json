@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Excellent.",
+      "examples": [
+        "a bitching new album"
+      ],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extremely.",
+      "examples": [
+        "it's bitchin' hot, ain't it?"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "vastly",
+        "hugely"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbiCHiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bitching_us_1.mp3"
+}

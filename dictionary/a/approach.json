@@ -1,0 +1,118 @@
+{
+  "verb": [
+    {
+      "description": "Come near or nearer to (someone or something) in distance or time.",
+      "examples": [
+        "the train approached the main line",
+        "she hadn't heard him approach"
+      ],
+      "synonyms": [
+        "proceed towards",
+        "come towards",
+        "go towards",
+        "advance towards",
+        "go near",
+        "go nearer",
+        "come near",
+        "come nearer",
+        "draw near",
+        "draw nearer",
+        "come close",
+        "come closer",
+        "go close",
+        "go closer",
+        "draw close",
+        "draw closer",
+        "move near",
+        "move nearer",
+        "edge near",
+        "edge nearer",
+        "near"
+      ]
+    },
+    {
+      "description": "Speak to (someone) for the first time about something, typically with a proposal or request.",
+      "examples": [
+        "the department had been approached about funding"
+      ],
+      "synonyms": [
+        "speak to",
+        "talk to",
+        "make conversation with",
+        "engage in conversation"
+      ]
+    },
+    {
+      "description": "Start to deal with (something) in a certain way.",
+      "examples": [
+        "one must approach the matter with caution"
+      ],
+      "synonyms": [
+        "set about",
+        "tackle",
+        "begin",
+        "start",
+        "commence",
+        "embark on",
+        "make a start on",
+        "address oneself to",
+        "undertake",
+        "get down to",
+        "launch into",
+        "go about",
+        "get to grips with"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A way of dealing with something.",
+      "examples": [
+        "we need a whole new approach to the job"
+      ],
+      "synonyms": [
+        "attitude",
+        "slant",
+        "perspective",
+        "point of view",
+        "viewpoint",
+        "outlook",
+        "line of attack",
+        "line of action"
+      ]
+    },
+    {
+      "description": "An act of speaking to someone for the first time about something, typically a proposal or request.",
+      "examples": [
+        "the landowner made an approach to the developer"
+      ],
+      "synonyms": [
+        "proposal",
+        "proposition",
+        "submission",
+        "motion",
+        "offer",
+        "application",
+        "appeal",
+        "plea"
+      ]
+    },
+    {
+      "description": "The action of coming near or nearer to someone or something in distance or time.",
+      "examples": [
+        "the approach of winter"
+      ],
+      "synonyms": [
+        "advance",
+        "coming near",
+        "coming nearer",
+        "coming",
+        "nearing",
+        "advent"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French aprochier, aprocher, from ecclesiastical Latin appropiare draw near, from ad- to + propius (comparative of prope near).",
+  "pronounciation": "/əˈproʊtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/approach_us_1.mp3"
+}

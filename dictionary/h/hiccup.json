@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "An involuntary spasm of the diaphragm and respiratory organs, with a sudden closure of the glottis and a characteristic sound like that of a cough.",
+      "examples": [],
+      "synonyms": [
+        "fluctuation",
+        "flutter",
+        "waver",
+        "flicker",
+        "falter",
+        "quiver",
+        "tremor",
+        "tremble"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Suffer from or make the sound of a hiccup or series of hiccups.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: imitative; the form hiccough arose by association with cough.",
+  "pronounciation": "/ˈhɪkəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hiccup_us_1.mp3"
+}

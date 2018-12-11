@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Primary or basic.",
+      "examples": [
+        "elemental features from which all other structures are compounded"
+      ],
+      "synonyms": [
+        "basic",
+        "primary",
+        "principal",
+        "fundamental",
+        "essential",
+        "elementary",
+        "radical",
+        "root",
+        "underlying"
+      ]
+    },
+    {
+      "description": "Related to or embodying the powers of nature.",
+      "examples": [
+        "a thunderstorm is the inevitable outcome of battling elemental forces"
+      ],
+      "synonyms": [
+        "natural",
+        "atmospheric",
+        "meteorological",
+        "environmental"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A supernatural entity or force thought to be physically manifested by occult means.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from medieval Latin elementalis, from elementum principle, rudiment (see element).",
+  "pronounciation": "/ˌeləˈmen(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elemental_us_1.mp3"
+}

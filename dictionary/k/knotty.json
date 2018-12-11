@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Full of knots.",
+      "examples": [
+        "the room was paneled in knotty pine"
+      ],
+      "synonyms": [
+        "gnarled",
+        "knotted",
+        "knurled",
+        "nodular",
+        "knobbly",
+        "lumpy",
+        "bumpy",
+        "rugged",
+        "rough",
+        "coarse"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnɑdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knotty_us_1.mp3"
+}

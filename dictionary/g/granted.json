@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "Admittedly; it is true (used to introduce a factor which is opposed to the main line of argument but is not regarded as so strong as to invalidate it)",
+      "examples": [
+        "granted, sitting around the house may not be your idea of the perfect retirement, but what's your choice when inflation is eroding the value of your nest egg?"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "Even assuming that.",
+      "examples": [
+        "granted that officers were used to making decisions, they still couldn't be expected to understand"
+      ],
+      "synonyms": [
+        "self-evident",
+        "unquestionable",
+        "undeniable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡran(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/granted_us_1.mp3"
+}

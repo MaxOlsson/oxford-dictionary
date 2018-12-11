@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "Worthy of attention or notice; remarkable.",
+      "examples": [
+        "the gardens are notable for their collection of magnolias and camellias",
+        "the results, with one notable exception, have been superb"
+      ],
+      "synonyms": [
+        "noteworthy",
+        "remarkable",
+        "outstanding",
+        "important",
+        "significant",
+        "momentous",
+        "headline",
+        "memorable",
+        "unforgettable",
+        "pronounced",
+        "marked",
+        "striking",
+        "glaring",
+        "obvious",
+        "impressive",
+        "uncommon",
+        "unusual",
+        "particular",
+        "special",
+        "extraordinary",
+        "exceptional",
+        "conspicuous",
+        "rare",
+        "signal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A famous or important person.",
+      "examples": [
+        "businessmen and local notables"
+      ],
+      "synonyms": [
+        "celebrity",
+        "public figure",
+        "important person",
+        "vip",
+        "personality",
+        "personage",
+        "notability",
+        "dignitary",
+        "leading light",
+        "star",
+        "superstar",
+        "name",
+        "big name",
+        "famous name",
+        "household name",
+        "lion",
+        "worthy",
+        "grandee",
+        "luminary",
+        "panjandrum"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin notabilis worthy of note, from the verb notare to note, mark.",
+  "pronounciation": "/ˈnoʊdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/notable_us_1.mp3"
+}

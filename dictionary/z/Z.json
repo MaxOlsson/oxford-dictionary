@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The twenty-sixth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital Z.",
+      "examples": [
+        "the same old Z-shaped crack in the paving stone"
+      ]
+    },
+    {
+      "description": "Used in repeated form to represent the sound of buzzing or snoring.",
+      "examples": [
+        "I'm being overcome with weariness as I write … zzzzz, zzzzz"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Zambia (international vehicle registration).",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "Atomic number.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I'll go back to the hotel and catch some Zs",
+    "Why is it whenever I try to catch some Zs all I can hear is you two squawking?",
+    "I was catching a few Zs on the lower bunk in our call room."
+  ],
+  "pronounciation": "/zi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/z_us_1.mp3"
+}

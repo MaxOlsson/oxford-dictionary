@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's complexion or appearance) pale and giving the impression of illness or exhaustion.",
+      "examples": [
+        "she was looking wan and bleary-eyed"
+      ],
+      "synonyms": [
+        "pale",
+        "pallid",
+        "ashen",
+        "white",
+        "white as a sheet",
+        "grey"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Wide area network.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English wann dark, black, of unknown origin.",
+  "pronounciation": "/wæn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wan_us_1.mp3"
+}

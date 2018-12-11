@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The state or fact of being likely or liable to be influenced or harmed by a particular thing.",
+      "examples": [
+        "lack of exercise increases susceptibility to disease"
+      ],
+      "synonyms": [
+        "vulnerability",
+        "sensitivity",
+        "openness",
+        "defencelessness",
+        "receptiveness",
+        "responsiveness"
+      ]
+    },
+    {
+      "description": "A person's feelings, typically considered as being easily hurt.",
+      "examples": [
+        "I was so careful not to offend their susceptibilities"
+      ],
+      "synonyms": [
+        "feelings",
+        "emotions",
+        "finer feelings",
+        "delicate sensitivity",
+        "sensitivities",
+        "susceptibilities",
+        "moral sense",
+        "sense of outrage"
+      ]
+    },
+    {
+      "description": "The ratio of magnetization to a magnetizing force.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/səˌsɛptəˈbɪlədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/susceptibility_us_1.mp3"
+}

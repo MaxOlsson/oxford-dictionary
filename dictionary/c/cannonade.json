@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A period of continuous heavy gunfire.",
+      "examples": [],
+      "synonyms": [
+        "bombardment",
+        "shelling",
+        "gunfire",
+        "artillery fire",
+        "barrage",
+        "battery",
+        "attack",
+        "pounding"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Discharge heavy guns continuously.",
+      "examples": [
+        "the daily cannonading continued"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French, from Italian cannonata, from cannone (see cannon).",
+  "pronounciation": "/ˌkanəˈnād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cannonade_us_1.mp3"
+}

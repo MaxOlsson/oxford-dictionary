@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a hyperbola.",
+      "examples": []
+    },
+    {
+      "description": "(of language) exaggerated; hyperbolical.",
+      "examples": [],
+      "synonyms": [
+        "overstated",
+        "overemphasized",
+        "inflated",
+        "magnified",
+        "amplified",
+        "aggrandized",
+        "excessive",
+        "over-elaborate",
+        "overdone",
+        "overripe",
+        "overplayed",
+        "overdramatized",
+        "theatrical",
+        "dramatic",
+        "actorly",
+        "highly coloured",
+        "extravagant",
+        "melodramatic",
+        "sensational",
+        "sensationalist",
+        "sensationalistic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhaɪpərˈbɑlɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hyperbolic_us_1.mp3"
+}

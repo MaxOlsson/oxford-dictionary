@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Bite at or nibble something persistently.",
+      "examples": [
+        "watching a dog gnaw at a big bone"
+      ],
+      "synonyms": [
+        "chew",
+        "bite",
+        "nibble",
+        "munch",
+        "crunch",
+        "champ",
+        "chomp",
+        "masticate"
+      ]
+    },
+    {
+      "description": "Cause persistent and wearing distress or anxiety.",
+      "examples": [
+        "the doubts continued to gnaw at me"
+      ],
+      "synonyms": [
+        "prey on someone's mind",
+        "nag",
+        "plague",
+        "torment",
+        "torture",
+        "trouble",
+        "distress",
+        "worry",
+        "haunt",
+        "oppress",
+        "weigh heavily on someone's mind",
+        "be a weight on someone's mind",
+        "burden",
+        "hang over",
+        "harry",
+        "bother",
+        "exercise",
+        "fret"
+      ]
+    }
+  ],
+  "origin": "Old English gnagen, of Germanic origin; related to German nagen, ultimately imitative.",
+  "pronounciation": "/nô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gnaw_us_1.mp3"
+}

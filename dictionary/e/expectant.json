@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing an excited feeling that something is about to happen, especially something pleasant and interesting.",
+      "examples": [
+        "an expectant conference crowd"
+      ],
+      "synonyms": [
+        "eager",
+        "excited",
+        "agog",
+        "waiting with bated breath",
+        "breathless",
+        "waiting",
+        "anticipatory",
+        "hopeful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who anticipates receiving something, especially high office.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin exspectant- expecting, from the verb exspectare (see expect).",
+  "pronounciation": "/ikˈspektənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expectant_us_1.mp3"
+}

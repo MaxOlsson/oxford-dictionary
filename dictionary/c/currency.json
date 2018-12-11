@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A system of money in general use in a particular country.",
+      "examples": [
+        "the dollar was a strong currency",
+        "travelers checks in foreign currency",
+        "he was rich in the currency of love"
+      ],
+      "synonyms": [
+        "money",
+        "legal tender",
+        "medium of exchange",
+        "cash",
+        "banknotes",
+        "notes",
+        "paper money",
+        "coins",
+        "coinage"
+      ]
+    },
+    {
+      "description": "The fact or quality of being generally accepted or in use.",
+      "examples": [
+        "the term gained currency during the second half of the 20th century"
+      ],
+      "synonyms": [
+        "prevalence",
+        "circulation",
+        "dissemination",
+        "publicity",
+        "exposure"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkərənsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/currency_us_1.mp3"
+}

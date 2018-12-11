@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Grasp or seize suddenly and roughly.",
+      "examples": [
+        "she grabbed him by the shirt collar",
+        "she grabbed her keys and rushed out"
+      ],
+      "synonyms": [
+        "seize",
+        "grasp",
+        "snatch",
+        "seize hold of",
+        "grab hold of",
+        "take hold of",
+        "catch hold of",
+        "lay hold of",
+        "lay hands on",
+        "lay one's hands on",
+        "get one's hands on",
+        "take a grip of",
+        "fasten round",
+        "grapple",
+        "grip",
+        "clasp",
+        "clutch"
+      ]
+    },
+    {
+      "description": "Attract the attention of; make an impression on.",
+      "examples": [
+        "how does that grab you?"
+      ],
+      "synonyms": [
+        "make an impression on",
+        "have an impact on",
+        "influence",
+        "affect",
+        "leave a mark on",
+        "move",
+        "stir",
+        "rouse",
+        "excite",
+        "inspire",
+        "galvanize"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quick sudden clutch or attempt to seize.",
+      "examples": [
+        "he made a grab at the pistol"
+      ],
+      "synonyms": [
+        "lunge for",
+        "attempt to grab"
+      ]
+    },
+    {
+      "description": "A mechanical device for clutching, lifting, and moving things, especially materials in bulk.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "great prizes up for grabs",
+    "Heaps of prizes are up for grabs, and it is open to all ages and styles for soloists, duos and bands.",
+    "There are some fantastic prizes up for grabs so get dressed up and come along.",
+    "A winner will be drawn at each meeting and there are a variety of attractive prizes up for grabs.",
+    "There is a top prize of £100 up for grabs for the best amateur photograph of the festival."
+  ],
+  "origin": "Late 16th century: from Middle Low German and Middle Dutch grabben; perhaps related to grip, gripe, and grope.",
+  "pronounciation": "/ɡræb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grab_us_1.mp3"
+}

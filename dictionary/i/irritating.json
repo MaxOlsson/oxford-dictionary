@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Causing annoyance, impatience, or mild anger.",
+      "examples": [
+        "an irritating child"
+      ],
+      "synonyms": [
+        "annoying",
+        "infuriating",
+        "exasperating",
+        "maddening",
+        "trying",
+        "tiresome",
+        "vexing",
+        "vexatious",
+        "irksome",
+        "galling",
+        "troublesome",
+        "bothersome",
+        "provoking",
+        "displeasing"
+      ]
+    },
+    {
+      "description": "Causing irritation to a body part.",
+      "examples": [
+        "the substance may be irritating to eyes and skin"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪrɪˌteɪdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irritating_us_1.mp3"
+}

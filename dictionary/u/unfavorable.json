@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Expressing or showing a lack of approval or support.",
+      "examples": [
+        "single mothers are often the target of unfavorable press attention"
+      ],
+      "synonyms": [
+        "adverse",
+        "critical",
+        "hostile",
+        "inimical",
+        "unfriendly",
+        "antagonistic",
+        "unsympathetic",
+        "negative"
+      ]
+    },
+    {
+      "description": "Adverse; inauspicious.",
+      "examples": [
+        "it would be unwise to sell the company while the economic circumstances are so unfavorable"
+      ],
+      "synonyms": [
+        "disadvantageous",
+        "adverse",
+        "inauspicious",
+        "unpropitious",
+        "unfortunate",
+        "unlucky",
+        "unhappy",
+        "detrimental",
+        "bad",
+        "gloomy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfāv(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfavorable_us_1.mp3"
+}

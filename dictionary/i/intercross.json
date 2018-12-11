@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "(with reference to animals or plants of different breeds or varieties) interbreed or cause to interbreed.",
+      "examples": [
+        "all the forms intercross readily and produce fertile offspring"
+      ],
+      "synonyms": [
+        "hybridize",
+        "cross-breed",
+        "interbreed",
+        "cross-fertilize",
+        "cross-pollinate",
+        "mix",
+        "intermix",
+        "blend"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of intercrossing of animals or plants.",
+      "examples": [
+        "intercrosses between heterozygous mice gave rise to homozygous mutant mice at the expected frequency"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌin(t)ərˈkrôs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intercross_us_1.mp3"
+}

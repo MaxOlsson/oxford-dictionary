@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Breed specimens of (a plant or animal) by natural processes from the parent stock.",
+      "examples": [
+        "try propagating your own houseplants from cuttings"
+      ],
+      "synonyms": [
+        "breed",
+        "grow",
+        "cultivate",
+        "generate"
+      ]
+    },
+    {
+      "description": "Spread and promote (an idea, theory, etc.) widely.",
+      "examples": [
+        "the French propagated the idea that the English were violent and gluttonous drunkards"
+      ],
+      "synonyms": [
+        "spread",
+        "disseminate",
+        "communicate",
+        "pass on",
+        "put about",
+        "make known",
+        "promulgate",
+        "circulate",
+        "transmit",
+        "distribute",
+        "broadcast",
+        "publish",
+        "publicize",
+        "proclaim",
+        "preach",
+        "promote"
+      ]
+    },
+    {
+      "description": "(with reference to motion, light, sound, etc.) transmit or be transmitted in a particular direction or through a medium.",
+      "examples": [
+        "electromagnetic effects can be propagated at a finite velocity only through material substances",
+        "a hydraulic fracture is generally expected to propagate in a vertical plane",
+        "a propagated electrical signal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin propagat- multiplied from layers or shoots, from the verb propagare; related to propago young shoot (from a base meaning fix).",
+  "pronounciation": "/ˈpräpəˌɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/propagate_us_1.mp3"
+}

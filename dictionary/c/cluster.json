@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A group of similar things or people positioned or occurring closely together.",
+      "examples": [
+        "clusters of creamy-white flowers",
+        "a cluster of antique shops"
+      ],
+      "synonyms": [
+        "bunch",
+        "clump",
+        "collection",
+        "mass",
+        "knot",
+        "group",
+        "clutch",
+        "bundle",
+        "nest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be or come into a cluster or close group; congregate.",
+      "examples": [
+        "the children clustered around her skirts"
+      ],
+      "synonyms": [
+        "congregate",
+        "gather",
+        "collect",
+        "group",
+        "come together",
+        "assemble"
+      ]
+    }
+  ],
+  "origin": "Old English clyster; probably related to clot.",
+  "pronounciation": "/ˈkləstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cluster_us_1.mp3"
+}

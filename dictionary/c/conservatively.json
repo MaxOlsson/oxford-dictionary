@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "In a sober and conventional way.",
+      "examples": [
+        "they've been dressing more conservatively at the office",
+        "an upscale living room, conservatively furnished"
+      ]
+    },
+    {
+      "description": "In a cautious way that seeks to avoid potential risks.",
+      "examples": [
+        "she conservatively estimates a supply shortfall of $8 million this year"
+      ]
+    },
+    {
+      "description": "In a way that is intended to control symptoms rather than eliminate a condition.",
+      "examples": [
+        "the frostbite injury was treated conservatively"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsərvədivlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconservatively_us_2.mp3"
+}

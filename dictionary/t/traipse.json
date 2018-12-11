@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Walk or move wearily or reluctantly.",
+      "examples": [
+        "students had to traipse all over Washington to attend lectures"
+      ],
+      "synonyms": [
+        "trudge",
+        "trek",
+        "tramp",
+        "trail",
+        "hike",
+        "plod",
+        "shuffle",
+        "slouch",
+        "drag oneself",
+        "drag one's feet",
+        "clump",
+        "slog",
+        "wade",
+        "footslog"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tedious or tiring journey on foot.",
+      "examples": [],
+      "synonyms": [
+        "walk",
+        "trek",
+        "tramp",
+        "trudge",
+        "traipse",
+        "slog",
+        "footslog",
+        "plod",
+        "march",
+        "journey on foot"
+      ]
+    },
+    {
+      "description": "A slovenly woman.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (as a verb): of unknown origin. The noun is first recorded in traipse (sense 2 of the noun) in the late 17th century.",
+  "pronounciation": "/trāps/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/traipse_us_1.mp3"
+}

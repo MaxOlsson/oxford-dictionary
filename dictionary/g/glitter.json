@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Shine with a bright, shimmering reflected light.",
+      "examples": [
+        "trees and grass glittered with dew"
+      ],
+      "synonyms": [
+        "shine",
+        "sparkle",
+        "twinkle",
+        "glint",
+        "gleam",
+        "shimmer",
+        "glimmer",
+        "flicker",
+        "blink",
+        "wink",
+        "catch the light",
+        "flash",
+        "spangle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bright, shimmering reflected light.",
+      "examples": [
+        "the blue glitter of the sea"
+      ],
+      "synonyms": [
+        "sparkle",
+        "twinkle",
+        "glint",
+        "gleam",
+        "shimmer",
+        "glimmer",
+        "flicker",
+        "blink",
+        "flash"
+      ]
+    },
+    {
+      "description": "Tiny pieces of sparkling material used for decoration.",
+      "examples": [
+        "sneakers trimmed with sequins and glitter"
+      ]
+    },
+    {
+      "description": "An attractive and exciting but superficial quality.",
+      "examples": [
+        "he avoids the glitter of show business"
+      ],
+      "synonyms": [
+        "glamour",
+        "excitement",
+        "thrills",
+        "attractions",
+        "appeal"
+      ]
+    }
+  ],
+  "phrases": [
+    "Yet, in many cases, all that glitters is not gold.",
+    "Some of the actions of the party administration are beginning to show that all that glitters is not gold.",
+    "He is still young and the opportunities might look lucrative, but he should be reminded that all that glitters is not gold.",
+    "But all that glitters is not gold and even as the models flash the latest trends, scratch the surface and the glamour, gloss and glaze is replaced by hard-core business and hard work.",
+    "But in show business, all that glitters is not gold."
+  ],
+  "origin": "Late Middle English: from Old Norse glitra.",
+  "pronounciation": "/ˈɡlɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glitter_us_1.mp3"
+}

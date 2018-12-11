@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of synthetic resins and textile fibers) made from polymers of acrylic acid or acrylates.",
+      "examples": [
+        "a red acrylic sweater"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An acrylic textile fiber.",
+      "examples": [
+        "a sweater in four-ply acrylic"
+      ]
+    },
+    {
+      "description": "An acrylic paint.",
+      "examples": [
+        "washes of white acrylic"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from the liquid aldehyde acrolein (from Latin acer, acri- pungent + ol(eum) oil + -in)+ -yl + -ic.",
+  "pronounciation": "/əˈkrɪlɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acrylic_us_1.mp3"
+}

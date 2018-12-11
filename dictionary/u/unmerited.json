@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Not deserved or merited.",
+      "examples": [
+        "an unmerited insult"
+      ],
+      "synonyms": [
+        "unneeded",
+        "needless",
+        "inessential",
+        "non-essential",
+        "not required",
+        "uncalled for",
+        "gratuitous",
+        "useless",
+        "unwarranted",
+        "unwanted",
+        "undesired",
+        "dispensable",
+        "avoidable",
+        "peripheral",
+        "cosmetic",
+        "unimportant",
+        "trivial",
+        "incidental",
+        "optional",
+        "extraneous",
+        "expendable",
+        "disposable",
+        "redundant",
+        "pointless",
+        "purposeless",
+        "to no purpose",
+        "to no avail"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmerədəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmerited_us_1.mp3"
+}

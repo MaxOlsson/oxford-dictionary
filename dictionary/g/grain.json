@@ -1,0 +1,100 @@
+{
+  "noun": [
+    {
+      "description": "Wheat or any other cultivated cereal crop used as food.",
+      "examples": [],
+      "synonyms": [
+        "cereal",
+        "cereal crops"
+      ]
+    },
+    {
+      "description": "A single fruit or seed of a cereal.",
+      "examples": [
+        "a few grains of corn"
+      ],
+      "synonyms": [
+        "kernel",
+        "seed",
+        "grist",
+        "fruit"
+      ]
+    },
+    {
+      "description": "The smallest unit of weight in the troy and avoirdupois systems, equal to 1/5760 of a pound troy and 1/7000 of a pound avoirdupois (approximately 0.0648 grams).",
+      "examples": []
+    },
+    {
+      "description": "The longitudinal arrangement or pattern of fibers in wood, paper, etc.",
+      "examples": [
+        "he scored along the grain of the table with the knife"
+      ],
+      "synonyms": [
+        "texture",
+        "intertexture",
+        "surface",
+        "finish",
+        "feel"
+      ]
+    },
+    {
+      "description": "A person's character or natural tendency.",
+      "examples": [],
+      "synonyms": [
+        "personality",
+        "nature",
+        "disposition",
+        "temperament",
+        "temper",
+        "mentality",
+        "turn of mind",
+        "psychology",
+        "psyche",
+        "constitution",
+        "make-up",
+        "make",
+        "stamp",
+        "mould",
+        "cast"
+      ]
+    },
+    {
+      "description": "Kermes or cochineal, or dye made from either of these.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a rough surface or texture to.",
+      "examples": [
+        "her fingers were grained with chalk dust"
+      ]
+    },
+    {
+      "description": "Paint (especially furniture or interior surfaces) in imitation of the grain of wood or marble.",
+      "examples": [
+        "the art of graining and marbling"
+      ]
+    },
+    {
+      "description": "Remove hair from (a hide)",
+      "examples": [
+        "the boots were of best grained leather"
+      ]
+    },
+    {
+      "description": "Feed (a horse) on grain.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "it goes against the grain to tell outright lies",
+    "For an estate agent, having to talk a house down instead of up goes against the grain, admits Craig Grantham.",
+    "Much as it goes against the grain to praise the legal profession in any way, I was reminded earlier this week of one of the benefits of the profession.",
+    "But helping the poor directly would go against the grain of the ruling party's old guard.",
+    "When did you last hear a politician genuinely appeal to our higher nature, go against the grain because what they believed in was simply the right thing to do?"
+  ],
+  "origin": "Middle English (originally in the sense seed, grain of corn): from Old French grain, from Latin granum.",
+  "pronounciation": "/ɡreɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grain_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Talk in a friendly and informal way.",
+      "examples": [
+        "she chatted to her mother on the phone every day"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An informal conversation.",
+      "examples": [
+        "he dropped in for a chat",
+        "the perfect place for loads of cocktails and plenty of chat"
+      ],
+      "synonyms": [
+        "talk",
+        "conversation",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "heart-to-heart",
+        "tête-à-tête",
+        "powwow",
+        "blether",
+        "blather"
+      ]
+    }
+  ],
+  "phrases": [
+    "And they're not chatting you up because they think you're attractive.",
+    "When she chatted me up, I thought she was taking the mickey.",
+    "My friend goes over to speak to her, and starts chatting her up.",
+    "I'm sure that the pharmacist was chatting me up.",
+    "He wouldn't let her go out for meals because she might be chatted up by other people or she might chat them up, he explained."
+  ],
+  "origin": "Late 17th century: probably imitative of its call.",
+  "pronounciation": "/tʃæt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chat_us_1.mp3"
+}

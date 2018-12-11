@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "Soldiers or armed forces.",
+      "examples": [
+        "UN peacekeeping troops",
+        "troop withdrawals"
+      ],
+      "synonyms": [
+        "soldiers",
+        "armed forces",
+        "service men",
+        "men",
+        "service women"
+      ]
+    },
+    {
+      "description": "A group of soldiers, especially a cavalry unit commanded by a captain, or an airborne unit.",
+      "examples": []
+    },
+    {
+      "description": "A group of people or animals of a particular kind.",
+      "examples": [
+        "a troop of musicians"
+      ],
+      "synonyms": [
+        "group",
+        "party",
+        "band",
+        "gang",
+        "bevy",
+        "body",
+        "company",
+        "troupe",
+        "assemblage",
+        "gathering",
+        "crowd",
+        "throng",
+        "horde",
+        "pack",
+        "drove",
+        "flock",
+        "swarm",
+        "stream",
+        "multitude",
+        "host",
+        "army",
+        "cohort"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a group of people) come or go together or in large numbers.",
+      "examples": [
+        "the girls trooped in for dinner"
+      ],
+      "synonyms": [
+        "walk",
+        "march",
+        "file",
+        "straggle"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French troupe, back-formation from troupeau, diminutive of medieval Latin troppus flock, probably of Germanic origin.",
+  "pronounciation": "/tro͞op/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/troop_us_1.mp3"
+}

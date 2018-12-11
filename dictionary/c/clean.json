@@ -1,0 +1,112 @@
+{
+  "adjective": [
+    {
+      "description": "Free from dirt, marks, or stains.",
+      "examples": [
+        "the room was spotlessly clean",
+        "keep the wound clean"
+      ],
+      "synonyms": [
+        "washed",
+        "scrubbed",
+        "cleansed",
+        "cleaned",
+        "polished"
+      ]
+    },
+    {
+      "description": "Morally uncontaminated; pure; innocent.",
+      "examples": [
+        "clean living"
+      ],
+      "synonyms": [
+        "virtuous",
+        "good",
+        "upright",
+        "upstanding"
+      ]
+    },
+    {
+      "description": "Free from irregularities; having a smooth edge or surface.",
+      "examples": [
+        "a clean fracture of the leg"
+      ]
+    },
+    {
+      "description": "(of a taste, sound, or smell) giving a clear and distinctive impression to the senses; sharp and fresh.",
+      "examples": [
+        "clean, fresh, natural flavors"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to be free from dirt, marks, or unwanted matter.",
+      "examples": [
+        "the room had been washed clean"
+      ]
+    },
+    {
+      "description": "Used to emphasize the completeness of a reported action, condition, or experience.",
+      "examples": [
+        "he was knocked clean off his feet",
+        "I clean forgot her birthday"
+      ],
+      "synonyms": [
+        "completely",
+        "entirely",
+        "totally",
+        "fully",
+        "wholly",
+        "thoroughly",
+        "altogether",
+        "quite",
+        "utterly",
+        "absolutely"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something or someone) free of dirt, marks, or mess, especially by washing, wiping, or brushing.",
+      "examples": [
+        "clean your teeth properly after meals",
+        "chair covers should be easy to clean",
+        "we cleaned Uncle Jim up and made him presentable",
+        "he always expected other people to clean up after him"
+      ],
+      "synonyms": [
+        "wash",
+        "cleanse",
+        "wipe",
+        "sponge",
+        "scrub",
+        "mop",
+        "rinse",
+        "scour",
+        "swab",
+        "hose down",
+        "sluice",
+        "sluice down",
+        "flush",
+        "polish",
+        "disinfect"
+      ]
+    }
+  ],
+  "phrases": [
+    "he went wild and cleaned everybody's clock down there in the dugout",
+    "Then, when they meet a skilled person who is really trying to clean their clock, they may be disappointed in what they can actually pull out of their training.",
+    "I tried talking to him, he had nothin but mumbles, so I cleaned his clock with a solid left.",
+    "Maybe I should invest in a hemp shirt reading Don't knock my smock, or I'll clean your clock.",
+    "And I don't think they saw him there, and they cleaned his clock.",
+    "they were cleaned out by the Englishman at the baccarat table",
+    "Although you might question the appeal of visiting a town dedicated to cleaning you out, you shouldn't write off Las Vegas.",
+    "We cleaned them out at midfield but missed four goal chances.",
+    "They also took some electrical equipment that I'd got for my birthday and cleaned me out of all my gold.",
+    "I had five dollars in my pocket when I sat down at the table and they cleaned me out."
+  ],
+  "origin": "Old English clǣne, of West Germanic origin; related to Dutch and German klein small.",
+  "pronounciation": "/klin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clean_us_1.mp3"
+}

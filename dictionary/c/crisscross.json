@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A pattern of intersecting straight lines or paths.",
+      "examples": [
+        "the crisscross of wrinkles on his face"
+      ],
+      "synonyms": [
+        "grid",
+        "latticework",
+        "fretwork",
+        "open framework",
+        "openwork",
+        "trellis",
+        "trelliswork",
+        "network",
+        "mesh",
+        "web",
+        "webbing",
+        "netting",
+        "net",
+        "tracery",
+        "interlacing",
+        "reticulation",
+        "reticulum",
+        "grate",
+        "grating",
+        "grille",
+        "grillwork",
+        "criss-cross",
+        "matrix"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a pattern) containing a number of straight lines or paths that intersect each other.",
+      "examples": [
+        "the streets ran in a regular crisscross pattern"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a pattern of intersecting straight lines.",
+      "examples": [
+        "the swords were strung crisscross on his back"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form a pattern of intersecting lines or paths on (a place)",
+      "examples": [
+        "the green hill was crisscrossed with a network of sheep tracks",
+        "the smaller streets criss-crossed in a grid pattern"
+      ],
+      "synonyms": [
+        "cross",
+        "criss-cross"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (denoting a figure of a cross preceding the alphabet in a hornbook): from Christ-cross (in the same sense in late Middle English), from Christ's cross. The form was later treated as a reduplication of cross.",
+  "pronounciation": "/ˈkriskrôs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crisscross_us_1.mp3"
+}

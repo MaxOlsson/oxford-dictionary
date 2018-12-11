@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A large basket with a lid used for laundry.",
+      "examples": [
+        "a laundry hamper"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hinder or impede the movement or progress of.",
+      "examples": [
+        "their work is hampered by lack of funds"
+      ],
+      "synonyms": [
+        "hinder",
+        "obstruct",
+        "impede",
+        "inhibit",
+        "retard",
+        "baulk",
+        "thwart",
+        "foil",
+        "curb",
+        "delay",
+        "set back",
+        "slow down",
+        "hold back",
+        "hold up",
+        "interfere with"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense shackle, entangle, catch): perhaps related to German hemmen restrain.",
+  "pronounciation": "/ˈhæmpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hamper_us_1.mp3"
+}

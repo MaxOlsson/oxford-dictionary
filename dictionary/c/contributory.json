@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Playing a part in bringing something about.",
+      "examples": [
+        "smoking may be a contributory cause of lung cancer"
+      ],
+      "synonyms": [
+        "involved",
+        "active",
+        "influential"
+      ]
+    },
+    {
+      "description": "(relating to a pension or insurance plan) operated by means of a fund into which people pay.",
+      "examples": [
+        "contributory benefits"
+      ],
+      "synonyms": [
+        "ancillary",
+        "subordinate",
+        "secondary",
+        "supportive"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense contributing to a fund): from medieval Latin contributorius, from Latin contribut- added (see contribution).",
+  "pronounciation": "/kənˈtrɪbjəˌtɔri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontributory_us_1.mp3"
+}

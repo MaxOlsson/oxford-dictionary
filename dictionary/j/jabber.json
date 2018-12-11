@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Talk rapidly and excitedly but with little sense.",
+      "examples": [
+        "he jabbered away to his friends"
+      ],
+      "synonyms": [
+        "prattle",
+        "babble",
+        "chatter",
+        "twitter",
+        "prate",
+        "gabble",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "yap",
+        "jibber-jabber",
+        "patter",
+        "blather",
+        "maunder",
+        "ramble",
+        "drivel",
+        "blab"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Fast, excited talk that makes little sense.",
+      "examples": [
+        "stop your jabber"
+      ],
+      "synonyms": [
+        "prattle",
+        "babble",
+        "chatter",
+        "chattering",
+        "twitter",
+        "twittering",
+        "prating",
+        "gabble",
+        "jibber-jabber",
+        "patter",
+        "blather",
+        "rambling",
+        "twaddle",
+        "drivel"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: imitative.",
+  "pronounciation": "/ˈjabər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jabber_us_1.mp3"
+}

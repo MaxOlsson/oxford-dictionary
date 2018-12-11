@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The way in which a word is pronounced.",
+      "examples": [
+        "spelling does not determine pronunciation",
+        "similar pronunciations are heard in Brooklyn"
+      ],
+      "synonyms": [
+        "accent",
+        "manner of speaking",
+        "speech pattern",
+        "speech",
+        "diction",
+        "delivery",
+        "elocution",
+        "intonation",
+        "modulation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin pronuntiatio(n-), from the verb pronuntiare (see pronounce).",
+  "pronounciation": "/prəˌnənsiˈeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pronunciation_us_1.mp3"
+}

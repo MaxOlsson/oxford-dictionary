@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Unnatural or mysterious, especially in a disturbing way.",
+      "examples": [
+        "unearthly quiet"
+      ],
+      "synonyms": [
+        "other-worldly",
+        "not of this world",
+        "supernatural",
+        "preternatural",
+        "extraterrestrial",
+        "alien"
+      ]
+    },
+    {
+      "description": "Unreasonably early or inconvenient.",
+      "examples": [
+        "a job that involves getting up at an unearthly hour"
+      ],
+      "synonyms": [
+        "unreasonable",
+        "preposterous",
+        "abnormal",
+        "extraordinary",
+        "absurd",
+        "ridiculous",
+        "horrendous",
+        "outrageous",
+        "unheard of",
+        "out of the ordinary"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈərTHlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unearthly_us_1.mp3"
+}

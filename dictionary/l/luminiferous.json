@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Producing or transmitting light.",
+      "examples": [
+        "luminiferous ether"
+      ],
+      "synonyms": [
+        "shining",
+        "bright",
+        "brilliant",
+        "radiant",
+        "dazzling",
+        "glowing",
+        "gleaming",
+        "coruscating",
+        "scintillating",
+        "lustrous",
+        "luminescent",
+        "phosphorescent",
+        "incandescent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌlo͞oməˈnif(ə)rəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/luminiferous_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) using the left hand more naturally than the right.",
+      "examples": [
+        "a left-handed batter"
+      ],
+      "synonyms": [
+        "sinistral"
+      ]
+    },
+    {
+      "description": "(of a screw) advanced by turning counterclockwise.",
+      "examples": []
+    },
+    {
+      "description": "Perverse.",
+      "examples": [
+        "we take a left-handed pleasure in our errors"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With the left hand.",
+      "examples": [
+        "a significant number play the game left-handed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌleftˈhandəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/left_handed_1_us_1.mp3"
+}

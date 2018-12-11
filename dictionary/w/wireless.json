@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Using radio, microwaves, etc. (as opposed to wires or cables) to transmit signals.",
+      "examples": [
+        "wireless broadband"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Broadcasting, computer networking, or other communication using radio signals, microwaves, etc.",
+      "examples": []
+    },
+    {
+      "description": "A radio receiving set.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwaɪ(ə)rləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wireless_us_2.mp3"
+}

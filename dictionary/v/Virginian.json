@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the US state of Virginia or its inhabitants.",
+      "examples": [
+        "a Virginian family"
+      ]
+    },
+    {
+      "description": "Relating to or made from a type of tobacco grown and manufactured in Virginia.",
+      "examples": [
+        "his favorite blend of Virginian tobacco",
+        "the scent of a Virginian cigarette was wafted to them"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the US state of Virginia.",
+      "examples": [
+        "a Virginian who did social work"
+      ]
+    },
+    {
+      "description": "A type of tobacco grown and manufactured in Virginia.",
+      "examples": [
+        "he was the sort of type that would only appreciate and only smoke Virginian"
+      ]
+    }
+  ],
+  "pronounciation": "/vərˈjinyən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/virginian_1_us_2.mp3"
+}

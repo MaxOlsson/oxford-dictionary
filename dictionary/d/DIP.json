@@ -1,0 +1,152 @@
+{
+  "verb": [
+    {
+      "description": "Put or let something down quickly or briefly in or into (liquid)",
+      "examples": [
+        "he dipped a brush in the paint"
+      ],
+      "synonyms": [
+        "immerse",
+        "submerge",
+        "plunge",
+        "duck",
+        "dunk",
+        "lower",
+        "sink"
+      ]
+    },
+    {
+      "description": "Put a hand or tool into (a bag or container) in order to take something out.",
+      "examples": [
+        "Ian dipped into his briefcase and pulled out a photograph"
+      ],
+      "synonyms": [
+        "reach into",
+        "put one's hand into"
+      ]
+    },
+    {
+      "description": "Sink, drop, or slope downward.",
+      "examples": [
+        "the sun had dipped below the horizon",
+        "swallows dipped and soared"
+      ],
+      "synonyms": [
+        "sink",
+        "set",
+        "drop",
+        "drop down",
+        "go down",
+        "fall",
+        "descend"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A brief swim.",
+      "examples": [
+        "she went for a dip in a pool"
+      ],
+      "synonyms": [
+        "swim",
+        "bathe",
+        "dive",
+        "plunge",
+        "splash",
+        "paddle"
+      ]
+    },
+    {
+      "description": "A thick sauce in which pieces of food are dunked before eating.",
+      "examples": [
+        "tasty garlic dip"
+      ],
+      "synonyms": [
+        "sauce",
+        "dressing",
+        "relish",
+        "creamy mixture"
+      ]
+    },
+    {
+      "description": "A brief downward slope followed by an upward one.",
+      "examples": [
+        "the road's precipitous dips and turns"
+      ],
+      "synonyms": [
+        "slope",
+        "incline",
+        "decline",
+        "slant",
+        "descent",
+        "cant"
+      ]
+    },
+    {
+      "description": "The extent to which something is angled downward from the horizontal.",
+      "examples": []
+    },
+    {
+      "description": "Powdered or finely cut tobacco that is held in the mouth, typically between the gums and lip, rather than smoked.",
+      "examples": [
+        "he threw out all of his cans of dip and swore off tobacco"
+      ]
+    },
+    {
+      "description": "A stupid or foolish person.",
+      "examples": [],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    },
+    {
+      "description": "A pickpocket.",
+      "examples": []
+    },
+    {
+      "description": "A candle made by immersing a wick repeatedly in hot wax.",
+      "examples": [],
+      "synonyms": [
+        "candle",
+        "spill",
+        "wick",
+        "night light"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Document image processing, a system for the digital storage and retrieval of documents as scanned images.",
+      "examples": []
+    },
+    {
+      "description": "Dual in-line package, a package for an integrated circuit consisting of a rectangular sealed unit with two parallel rows of downward-pointing pins.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I'm not going to go in right now, just wanted to dip my toe in the water and see how it felt.",
+    "Norway was shimmering in unusually high summer temperatures during our stay but dipping a toe into the fjord was still enough to send me straight into the hotel's indoor heated pool!",
+    "Steve slipped off one of his sandals and dipped his toe into the water.",
+    "She dipped her toe in the water to feel the temperature, and realized it was fairly warm.",
+    "This is something that I can't get my head around, as I need to have the water around tepid tea temps before I can pluck up the courage to dip my toe in."
+  ],
+  "origin": "Old English dyppan, of Germanic origin; related to deep.",
+  "pronounciation": "/ˌdiˌaɪˈpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/d_i_p_1_us_1_abbr.mp3"
+}

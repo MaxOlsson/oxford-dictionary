@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Subject (a quantity) to exponentiation.",
+      "examples": [
+        "the mean transform was exponentiated to estimate the geometric mean"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɛkspəˈnɛnʃiˌeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exponentiate_us_1.mp3"
+}

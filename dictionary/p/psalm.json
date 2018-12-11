@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A sacred song or hymn, in particular any of those contained in the biblical Book of Psalms and used in Christian and Jewish worship.",
+      "examples": [
+        "a delightful setting of Psalm 150"
+      ],
+      "synonyms": [
+        "sacred song",
+        "hymn",
+        "song of praise",
+        "religious song",
+        "anthem",
+        "carol",
+        "chant",
+        "plainsong",
+        "canticle",
+        "antiphon",
+        "introit",
+        "prayer"
+      ]
+    }
+  ],
+  "origin": "Old English (p)sealm, via ecclesiastical Latin from Greek psalmos song sung to harp music, from psallein to pluck.",
+  "pronounciation": "/sɑ(l)m/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psalm_us_1.mp3"
+}

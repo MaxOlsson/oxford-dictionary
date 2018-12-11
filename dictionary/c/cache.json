@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A collection of items of the same type stored in a hidden or inaccessible place.",
+      "examples": [
+        "an arms cache",
+        "a cache of gold coins"
+      ],
+      "synonyms": [
+        "hoard",
+        "store",
+        "stockpile",
+        "stock",
+        "supply",
+        "collection",
+        "accumulation",
+        "reserve",
+        "fund"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Store away in hiding or for future use.",
+      "examples": [],
+      "synonyms": [
+        "store",
+        "stow",
+        "pack",
+        "load",
+        "cache",
+        "garner",
+        "hide",
+        "conceal",
+        "secrete"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French, from cacher to hide.",
+  "pronounciation": "/kæʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cache_us_1.mp3"
+}

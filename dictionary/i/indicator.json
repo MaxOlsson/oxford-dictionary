@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A thing, especially a trend or fact, that indicates the state or level of something.",
+      "examples": [
+        "car ownership is frequently used as an indicator of affluence"
+      ],
+      "synonyms": [
+        "measure",
+        "gauge",
+        "barometer",
+        "index",
+        "mark",
+        "sign",
+        "signal"
+      ]
+    },
+    {
+      "description": "A gauge or meter of a specified kind.",
+      "examples": [
+        "a speed indicator"
+      ],
+      "synonyms": [
+        "meter",
+        "measuring instrument",
+        "measuring device",
+        "measure",
+        "gauge",
+        "dial",
+        "display",
+        "scale",
+        "index"
+      ]
+    },
+    {
+      "description": "A compound that changes color at a specific pH value or in the presence of a particular substance, and can be used to monitor acidity, alkalinity, or the progress of a reaction.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɪndəˌkeɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indicator_us_1.mp3"
+}

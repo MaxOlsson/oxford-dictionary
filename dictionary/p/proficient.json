@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Competent or skilled in doing or using something.",
+      "examples": [
+        "I was proficient at my job",
+        "she felt reasonably proficient in Italian"
+      ],
+      "synonyms": [
+        "skilled",
+        "skilful",
+        "expert",
+        "accomplished",
+        "experienced",
+        "practised",
+        "trained",
+        "seasoned",
+        "well versed",
+        "adept",
+        "adroit",
+        "deft",
+        "dexterous",
+        "able",
+        "capable",
+        "competent",
+        "professional",
+        "effective",
+        "apt",
+        "handy",
+        "talented",
+        "gifted",
+        "masterly",
+        "consummate",
+        "master"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is proficient.",
+      "examples": [
+        "he became a proficient in Latin and Greek"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin proficient- advancing, from the verb proficere, from pro- on behalf of + facere do, make.",
+  "pronounciation": "/prəˈfiSHənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/proficient_us_1.mp3"
+}

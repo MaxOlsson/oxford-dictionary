@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "An individual article or unit, especially one that is part of a list, collection, or set.",
+      "examples": [
+        "the items on the agenda",
+        "an item of clothing"
+      ],
+      "synonyms": [
+        "thing",
+        "article",
+        "object",
+        "unit",
+        "module",
+        "artefact",
+        "piece",
+        "commodity",
+        "product",
+        "bit"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used to introduce each item in a list.",
+      "examples": [
+        "item two statute books … item two drums"
+      ]
+    }
+  ],
+  "phrases": [
+    "They co-starred in Beatty's 1991 film Bugsy, and by the time shooting was over, they were an item.",
+    "They were an item for a time, but she quickly grew tired of his philandering.",
+    "The couple, who've been an item for 12 years, have their musical roots in Long Island.",
+    "Not, of course, that Jack and Kim were an item, she insists: That's the most untrue thing that I've ever heard in my life.",
+    "We were an item but it wasn't an all-consuming relationship and some people may have wondered how interested he really was."
+  ],
+  "origin": "Late Middle English (as an adverb): from Latin, in like manner, also. The noun sense arose (late 16th century) from the use of the adverb to introduce each statement in a list.",
+  "pronounciation": "/ˈaɪdəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/item_us_1.mp3"
+}

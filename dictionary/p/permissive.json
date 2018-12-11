@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Allowing or characterized by great or excessive freedom of behavior.",
+      "examples": [
+        "the permissive society of the 60s and 70s",
+        "I was not a permissive parent"
+      ],
+      "synonyms": [
+        "liberal",
+        "broad-minded",
+        "open-minded",
+        "non-restrictive",
+        "free",
+        "free and easy",
+        "easy-going",
+        "live-and-let-live",
+        "latitudinarian",
+        "laissez-faire",
+        "libertarian",
+        "unprescriptive",
+        "unrestricted",
+        "tolerant",
+        "forbearing",
+        "indulgent",
+        "lenient"
+      ]
+    },
+    {
+      "description": "Allowed but not obligatory; optional.",
+      "examples": [
+        "the Hague Convention was permissive, not mandatory"
+      ]
+    },
+    {
+      "description": "Allowing a biological or biochemical process to occur.",
+      "examples": [
+        "the mutants grow well at the permissive temperature"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense tolerated, allowed): from Old French, or from medieval Latin permissivus, from permiss- allowed, from the verb permittere (see permit).",
+  "pronounciation": "/pərˈmisiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/permissive_us_1.mp3"
+}

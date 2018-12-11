@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Made up of various parts or elements.",
+      "examples": [],
+      "synonyms": [
+        "compound",
+        "complex"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a classical order of architecture consisting of elements of the Ionic and Corinthian orders.",
+      "examples": []
+    },
+    {
+      "description": "Relating to or denoting plants of the daisy family (Compositae).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing made up of several parts or elements.",
+      "examples": [
+        "the English legal system is a composite of legislation and judicial precedent"
+      ],
+      "synonyms": [
+        "amalgamation",
+        "amalgam",
+        "combination",
+        "compound",
+        "fusion",
+        "synthesis",
+        "mixture",
+        "blend",
+        "meld",
+        "admixture",
+        "conglomeration"
+      ]
+    },
+    {
+      "description": "A plant of the daisy family (Compositae).",
+      "examples": []
+    },
+    {
+      "description": "The Composite order of architecture.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Combine (two or more images) to make a single picture, especially electronically.",
+      "examples": [
+        "photographic compositing by computer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (describing a number having more than one digit): via French from Latin compositus, past participle of componere put together.",
+  "pronounciation": "/kəmˈpɑzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/composite_us_1.mp3"
+}

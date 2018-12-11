@@ -1,0 +1,59 @@
+{
+  "adverb": [
+    {
+      "description": "In or to a foreign country or countries.",
+      "examples": [
+        "we usually go abroad for a week in May",
+        "competition from companies at home and abroad"
+      ],
+      "synonyms": [
+        "overseas",
+        "out of the country",
+        "in foreign parts",
+        "to foreign parts",
+        "in a foreign country",
+        "in a foreign land",
+        "to a foreign country",
+        "to a foreign land",
+        "over the sea",
+        "beyond the seas"
+      ]
+    },
+    {
+      "description": "In different directions; over a wide area.",
+      "examples": [
+        "millions of seeds are annually scattered abroad"
+      ],
+      "synonyms": [
+        "widely",
+        "far and wide",
+        "everywhere",
+        "here",
+        "there",
+        "and everywhere",
+        "in all directions"
+      ]
+    },
+    {
+      "description": "Out of doors.",
+      "examples": [
+        "few people ventured abroad from their warm houses"
+      ]
+    },
+    {
+      "description": "Wide of the mark; in error.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Foreign countries considered collectively.",
+      "examples": [
+        "servicemen returning from abroad"
+      ]
+    }
+  ],
+  "origin": "Middle English: from a- on + broad.",
+  "pronounciation": "/əˈbrɔd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abroad_us_1.mp3"
+}

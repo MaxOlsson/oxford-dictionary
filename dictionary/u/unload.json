@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Remove goods from (a vehicle, ship, container, etc.)",
+      "examples": [
+        "she hadn't finished unloading the car"
+      ],
+      "synonyms": [
+        "unpack",
+        "empty",
+        "unburden",
+        "disburden"
+      ]
+    },
+    {
+      "description": "Remove (ammunition) from a gun or (film) from a camera.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈlōd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unload_us_2.mp3"
+}

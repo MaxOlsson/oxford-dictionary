@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.",
+      "examples": [
+        "“It stands to reason,” she argued",
+        "defense attorneys argue that the police lacked “probable cause” to arrest the driver"
+      ],
+      "synonyms": [
+        "contend",
+        "assert",
+        "declare",
+        "maintain",
+        "state",
+        "proclaim",
+        "advance",
+        "insist",
+        "hold",
+        "claim",
+        "aver",
+        "avow",
+        "reason",
+        "attest",
+        "expostulate",
+        "testify",
+        "swear",
+        "certify"
+      ]
+    },
+    {
+      "description": "Exchange or express diverging or opposite views, typically in a heated or angry way.",
+      "examples": [
+        "I wasn't going to argue with a gun",
+        "she was too tired to argue the point",
+        "don't argue with me"
+      ],
+      "synonyms": [
+        "quarrel",
+        "disagree",
+        "row",
+        "squabble",
+        "bicker",
+        "fight",
+        "wrangle",
+        "dispute",
+        "feud",
+        "have a row",
+        "bandy words",
+        "have words",
+        "cross swords",
+        "lock horns",
+        "be at each other's throats"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French arguer, from Latin argutari prattle, frequentative of arguere make clear, prove, accuse.",
+  "pronounciation": "/ˈärɡyo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/argue_us_1.mp3"
+}

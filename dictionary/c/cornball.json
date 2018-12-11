@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Trite and sentimental.",
+      "examples": [
+        "a cornball movie"
+      ],
+      "synonyms": [
+        "ordinary",
+        "run-of-the-mill",
+        "middle-of-the-road",
+        "mainstream",
+        "unremarkable",
+        "unexceptional",
+        "undistinguished",
+        "uninspired",
+        "unexciting",
+        "unmemorable",
+        "forgettable",
+        "indifferent",
+        "average",
+        "so-so",
+        "mediocre",
+        "pedestrian",
+        "prosaic",
+        "lacklustre",
+        "dull",
+        "bland",
+        "uninteresting",
+        "mundane",
+        "everyday",
+        "quotidian",
+        "humdrum",
+        "hackneyed",
+        "trite",
+        "banal",
+        "clichéd",
+        "predictable",
+        "overused",
+        "overdone",
+        "overworked",
+        "stale",
+        "worn out",
+        "time-worn",
+        "tired",
+        "unoriginal",
+        "derivative"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with trite or sentimental ideas.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkôrnbôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cornball_us_1.mp3"
+}

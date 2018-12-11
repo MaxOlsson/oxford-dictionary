@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "Notice taken of someone or something; the regarding of someone or something as interesting or important.",
+      "examples": [
+        "he drew attention to three spelling mistakes",
+        "you've never paid that much attention to her opinions"
+      ],
+      "synonyms": [
+        "awareness",
+        "notice",
+        "observation",
+        "consciousness",
+        "heed",
+        "recognition",
+        "regard",
+        "scrutiny",
+        "surveillance",
+        "attentiveness"
+      ]
+    },
+    {
+      "description": "The action of dealing with or taking special care of someone or something.",
+      "examples": [
+        "the business needed her attention",
+        "he failed to give the patient adequate medical attention"
+      ],
+      "synonyms": [
+        "observation",
+        "attentiveness",
+        "intentness",
+        "notice",
+        "concentration",
+        "heed",
+        "heedfulness",
+        "mindfulness",
+        "regard",
+        "scrutiny"
+      ]
+    },
+    {
+      "description": "A position assumed by a soldier, standing very straight with the heels together and the arms straight down the sides of the body.",
+      "examples": [
+        "the squadron stood to attention when we arrived",
+        "midshipmen standing at attention"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin attentio(n-), from the verb attendere (see attend).",
+  "pronounciation": "/əˈten(t)SH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/attention_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Fine, outstanding, or excellent.",
+      "examples": [],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An excellent or notable person or thing.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century: from the given name Jim (pet form of James) + dandy.",
+  "pronounciation": "/ˌjim ˈdandē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jim_dandy_1_us_1.mp3"
+}

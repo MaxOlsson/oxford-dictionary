@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Deprived of the power of sensation.",
+      "examples": [
+        "my feet were numb with cold"
+      ],
+      "synonyms": [
+        "deprived of sensation",
+        "without feeling",
+        "numbed",
+        "benumbed",
+        "dead",
+        "deadened",
+        "desensitized",
+        "insensible",
+        "insensate",
+        "senseless",
+        "unfeeling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deprive of feeling or responsiveness.",
+      "examples": [
+        "the cold had numbed her senses"
+      ],
+      "synonyms": [
+        "deadening",
+        "desensitizing",
+        "benumbing",
+        "anaesthetizing",
+        "anaesthetic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English nome(n), past participle of obsolete nim take.",
+  "pronounciation": "/nəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/numb_us_1.mp3"
+}

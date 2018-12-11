@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Come into sight; become visible or noticeable, typically without visible agent or apparent cause.",
+      "examples": [
+        "smoke appeared on the horizon"
+      ],
+      "synonyms": [
+        "become visible",
+        "come into view",
+        "come into sight",
+        "materialize",
+        "take shape"
+      ]
+    },
+    {
+      "description": "Seem; give the impression of being.",
+      "examples": [
+        "she appeared not to know what was happening",
+        "it appears unlikely that interest rates will fall",
+        "he appeared unaware of the rebuke"
+      ],
+      "synonyms": [
+        "seem",
+        "look",
+        "give the impression of being",
+        "have the air of being",
+        "have the appearance of being",
+        "come across as being",
+        "look as though one is",
+        "look to be",
+        "strike someone as"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French apareir, from Latin apparere, from ad- towards + parere come into view.",
+  "pronounciation": "/əˈpɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appear_us_1.mp3"
+}

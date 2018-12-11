@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Too embarrassing, offensive, or shocking to be spoken about.",
+      "examples": [
+        "the unmentionable subject of incontinence"
+      ],
+      "synonyms": [
+        "taboo",
+        "censored",
+        "forbidden",
+        "banned",
+        "interdicted",
+        "proscribed",
+        "prohibited",
+        "not to be spoken of",
+        "ineffable",
+        "unspeakable",
+        "unutterable",
+        "unprintable",
+        "indescribable",
+        "out of bounds",
+        "beyond the pale",
+        "off limits",
+        "that dare not speak its name",
+        "disapproved of",
+        "frowned on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that is too shocking or embarrassing to be mentioned by name.",
+      "examples": [
+        "wearing nothing but fig leaves over their unmentionables"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmɛn(t)ʃ(ə)nəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmentionable_us_1.mp3"
+}

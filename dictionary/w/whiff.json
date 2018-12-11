@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A smell that is only smelled briefly or faintly.",
+      "examples": [
+        "I caught a whiff of peachy perfume"
+      ],
+      "synonyms": [
+        "faint smell",
+        "brief smell",
+        "trace",
+        "sniff",
+        "scent",
+        "odour",
+        "aroma"
+      ]
+    },
+    {
+      "description": "A puff or breath of air or smoke.",
+      "examples": [],
+      "synonyms": [
+        "puff",
+        "gust",
+        "blast",
+        "rush",
+        "flurry",
+        "gale",
+        "breath",
+        "draught",
+        "waft"
+      ]
+    },
+    {
+      "description": "(chiefly in baseball or golf) an unsuccessful attempt to hit the ball.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Get a brief or faint smell of.",
+      "examples": [
+        "he screwed up his nose as if he'd whiffed Limburger"
+      ]
+    },
+    {
+      "description": "(chiefly in baseball or golf) try unsuccessfully to hit the ball.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: perhaps from whiff.",
+  "pronounciation": "/(h)wɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whiff_us_1.mp3"
+}

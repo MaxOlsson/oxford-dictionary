@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Musical instruments played by striking with the hand or with a handheld or pedal-operated stick or beater, or by shaking, including drums, cymbals, xylophones, gongs, bells, and rattles.",
+      "examples": [
+        "percussion instruments",
+        "the percussion section"
+      ]
+    },
+    {
+      "description": "The striking of one solid object with or against another with some degree of force.",
+      "examples": [
+        "the clattering percussion of objects striking the walls and the shutters"
+      ],
+      "synonyms": [
+        "crash",
+        "bang",
+        "smash",
+        "clash",
+        "bump",
+        "thump",
+        "thwack",
+        "whack"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin percussio(n-), from the verb percutere to strike forcibly (see percuss).",
+  "pronounciation": "/pərˈkəSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/percussion_us_1.mp3"
+}

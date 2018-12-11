@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Determine (the amount or number of something) mathematically.",
+      "examples": [
+        "Japanese land value was calculated at 2.5 times that of the U.S",
+        "he calculated that Texas would gain four new seats in the House of Representatives"
+      ],
+      "synonyms": [
+        "compute",
+        "work out",
+        "reckon",
+        "figure",
+        "enumerate",
+        "determine",
+        "evaluate",
+        "quantify",
+        "assess",
+        "cost",
+        "put a figure on"
+      ]
+    },
+    {
+      "description": "Intend (an action) to have a particular effect.",
+      "examples": [
+        "his last words were calculated to wound her"
+      ],
+      "synonyms": [
+        "intend",
+        "mean",
+        "design",
+        "plan",
+        "aim"
+      ]
+    },
+    {
+      "description": "Suppose or believe.",
+      "examples": [],
+      "synonyms": [
+        "suppose",
+        "presume",
+        "think it likely",
+        "think",
+        "believe",
+        "imagine",
+        "assume",
+        "conjecture",
+        "surmise",
+        "judge"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin calculat- counted, from the verb calculare, from calculus a small pebble (as used on an abacus).",
+  "pronounciation": "/ˈkalkyəˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/calculate_us_1.mp3"
+}

@@ -1,0 +1,92 @@
+{
+  "adjective": [
+    {
+      "description": "Arranged neatly and in order.",
+      "examples": [
+        "his scrupulously tidy apartment",
+        "the lives they lead don't fit into tidy patterns"
+      ],
+      "synonyms": [
+        "neat",
+        "neat and tidy",
+        "as neat as a new pin",
+        "orderly",
+        "well ordered",
+        "in order",
+        "in good order",
+        "well kept",
+        "shipshape",
+        "shipshape and bristol fashion",
+        "in apple-pie order",
+        "immaculate",
+        "spick and span",
+        "uncluttered",
+        "organized",
+        "well organized",
+        "well arranged",
+        "sorted out",
+        "straight",
+        "straightened out",
+        "trim",
+        "spruce"
+      ]
+    },
+    {
+      "description": "(of an amount, especially of money) considerable.",
+      "examples": [
+        "the book will bring in a tidy sum"
+      ],
+      "synonyms": [
+        "large",
+        "sizeable",
+        "considerable",
+        "substantial",
+        "significant",
+        "appreciable",
+        "handsome",
+        "generous",
+        "ample",
+        "respectable",
+        "largish",
+        "biggish",
+        "fair",
+        "decent",
+        "decent-sized",
+        "healthy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A receptacle for holding small objects or waste scraps.",
+      "examples": [
+        "a cable tidy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring order to; arrange neatly.",
+      "examples": [
+        "the boys have finally tidied their bedroom",
+        "the Bill is intended to tidy up the law on this matter",
+        "I'll just go and tidy up"
+      ],
+      "synonyms": [
+        "put in order",
+        "clear up",
+        "sort out",
+        "put to rights",
+        "straighten",
+        "straighten out",
+        "make shipshape",
+        "clean",
+        "clean up",
+        "spruce up"
+      ]
+    }
+  ],
+  "origin": "Middle English: from the noun tide + -y. The original meaning was timely, opportune; it later had various senses expressing approval, usually of a person, including attractive, healthy, and skillful; the sense orderly, neat dates from the early 18th century.",
+  "pronounciation": "/ˈtīdē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tidy_us_1.mp3"
+}

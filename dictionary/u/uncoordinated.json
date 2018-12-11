@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Badly organized.",
+      "examples": [
+        "expensive mistakes resulting from uncoordinated manufacturing strategies"
+      ],
+      "synonyms": [
+        "unmethodical",
+        "undirected",
+        "disorganized",
+        "unarranged",
+        "unplanned",
+        "unpremeditated",
+        "indiscriminate"
+      ]
+    },
+    {
+      "description": "(of a person or their movements) clumsy.",
+      "examples": [],
+      "synonyms": [
+        "clumsy",
+        "awkward",
+        "blundering",
+        "bumbling",
+        "lumbering",
+        "shambling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkōˈôrdnˌādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncoordinated_us_1.mp3"
+}

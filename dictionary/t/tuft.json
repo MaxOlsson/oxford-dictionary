@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A bunch or collection of threads, grass, hair, etc., held or growing together at the base.",
+      "examples": [
+        "scrubby tufts of grass"
+      ],
+      "synonyms": [
+        "clump",
+        "bunch",
+        "knot",
+        "cluster",
+        "tussock",
+        "tuffet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (something) with a tuft or tufts.",
+      "examples": []
+    },
+    {
+      "description": "Make depressions at regular intervals in (a mattress or cushion) by passing a thread through it.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: probably from Old French tofe, of unknown origin. The final -t is typical of phonetic confusion between -f and -ft at the end of words; compare with graft.",
+  "pronounciation": "/təft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tuft_us_1.mp3"
+}

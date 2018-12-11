@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Offer suggestions about the best course of action to someone.",
+      "examples": [
+        "I advised him to go home",
+        "he advised caution",
+        "we advise against sending cash by mail",
+        "“Go to Paris,” he advised"
+      ],
+      "synonyms": [
+        "counsel",
+        "give counsel",
+        "give counselling",
+        "give guidance",
+        "guide",
+        "make recommendations",
+        "offer suggestions",
+        "offer opinions",
+        "give hints",
+        "give tips",
+        "give pointers",
+        "direct",
+        "give direction",
+        "give directions",
+        "instruct",
+        "give instruction",
+        "illuminate",
+        "educate"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French aviser, based on Latin ad- to + visere, frequentative of videre to see. The original senses included look at and consider, hence consult with others.",
+  "pronounciation": "/ədˈvīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/advise_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A papal decree concerning a point of canon law.",
+      "examples": [],
+      "synonyms": [
+        "decree",
+        "order",
+        "command",
+        "commandment",
+        "mandate",
+        "proclamation",
+        "pronouncement",
+        "dictum",
+        "dictate",
+        "fiat",
+        "promulgation",
+        "precept"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of the nature of a decree.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from late Latin decretale, neuter of decretalis (adjective), from Latin decret- decided, from the verb decernere.",
+  "pronounciation": "/dəˈkrēdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decretal_us_1.mp3"
+}

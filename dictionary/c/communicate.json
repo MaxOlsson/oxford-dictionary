@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Share or exchange information, news, or ideas.",
+      "examples": [
+        "the prisoner was forbidden to communicate with his family"
+      ],
+      "synonyms": [
+        "liaise",
+        "be in touch",
+        "be in contact",
+        "be in communication",
+        "make contact",
+        "have dealings",
+        "interface",
+        "commune",
+        "meet",
+        "meet up"
+      ]
+    },
+    {
+      "description": "Pass on (an infectious disease) to another person or animal.",
+      "examples": [],
+      "synonyms": [
+        "transmit",
+        "transfer",
+        "spread",
+        "carry",
+        "pass on",
+        "hand on",
+        "convey"
+      ]
+    },
+    {
+      "description": "(of two rooms) have a common connecting door.",
+      "examples": [
+        "he went into the communicating room to pick up the phone"
+      ],
+      "synonyms": [
+        "connect with",
+        "be connected to",
+        "join up with",
+        "link up with",
+        "open on to",
+        "lead into",
+        "give access to"
+      ]
+    },
+    {
+      "description": "Receive Holy Communion.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: from Latin communicat- shared, from the verb communicare, from communis (see common).",
+  "pronounciation": "/kəˈmyo͞onəˌkāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/communicate_us_1.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not contested.",
+      "examples": [
+        "these claims have not gone uncontested"
+      ],
+      "synonyms": [
+        "unquestionable",
+        "sure",
+        "definite",
+        "beyond question",
+        "not in question",
+        "not in doubt",
+        "beyond doubt",
+        "unequivocal",
+        "indubitable",
+        "undeniable",
+        "irrefutable",
+        "indisputable",
+        "incontrovertible",
+        "incontestable",
+        "obvious",
+        "patent",
+        "manifest",
+        "evident",
+        "plain",
+        "clear",
+        "transparent",
+        "palpable",
+        "unmistakable",
+        "conclusive",
+        "recognized",
+        "confirmed",
+        "accepted",
+        "acknowledged",
+        "undisputed",
+        "undoubted",
+        "unquestioned",
+        "unchallenged"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkənˈtɛstəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncontested_us_1.mp3"
+}

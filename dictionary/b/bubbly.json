@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Containing bubbles.",
+      "examples": [
+        "bake until the top is crisp and bubbly"
+      ],
+      "synonyms": [
+        "sparkling",
+        "fizzy",
+        "carbonated",
+        "aerated",
+        "effervescent",
+        "gassy",
+        "frothy",
+        "foamy",
+        "bubbling"
+      ]
+    },
+    {
+      "description": "(of a person) full of cheerful high spirits.",
+      "examples": [
+        "a bright and bubbly personality"
+      ],
+      "synonyms": [
+        "vivacious",
+        "animated",
+        "ebullient",
+        "lively",
+        "full of life",
+        "spirited",
+        "high-spirited",
+        "scintillating",
+        "vibrant",
+        "zestful",
+        "energetic",
+        "dynamic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Champagne.",
+      "examples": [],
+      "synonyms": [
+        "champagne",
+        "sparkling wine"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbəb(ə)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bubbly_us_1.mp3"
+}

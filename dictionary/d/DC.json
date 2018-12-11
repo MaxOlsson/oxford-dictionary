@@ -1,0 +1,33 @@
+{
+  "abbreviation": [
+    {
+      "description": "Da capo.",
+      "examples": []
+    },
+    {
+      "description": "Direct current.",
+      "examples": []
+    },
+    {
+      "description": "District of Columbia.",
+      "examples": [
+        "Washington DC"
+      ]
+    },
+    {
+      "description": "Doctor of Chiropractic.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person's child (particularly used in online forums)",
+      "examples": [
+        "my eldest DC is starting kindergarten tomorrow"
+      ]
+    }
+  ],
+  "origin": "Early 21st century: abbreviation of darling child or dear child.",
+  "pronounciation": "/ˈdi ˈsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dc_us_1.mp3"
+}

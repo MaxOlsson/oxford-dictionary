@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that carries or holds something.",
+      "examples": [
+        "a flag-bearer",
+        "I'm sorry to be the bearer of bad tidings"
+      ],
+      "synonyms": [
+        "messenger",
+        "agent",
+        "conveyor",
+        "emissary",
+        "carrier",
+        "provider"
+      ]
+    },
+    {
+      "description": "A person who presents a check or other order to pay money.",
+      "examples": [
+        "promissory notes payable to the bearer"
+      ],
+      "synonyms": [
+        "holder",
+        "possessor",
+        "owner",
+        "payee",
+        "consignee",
+        "beneficiary"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈberər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bearer_us_1.mp3"
+}

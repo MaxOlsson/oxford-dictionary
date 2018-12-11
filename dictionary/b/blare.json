@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Make or cause to make a loud, harsh sound.",
+      "examples": [
+        "the ambulance arrived outside, siren blaring",
+        "the radio was blaring out organ music"
+      ],
+      "synonyms": [
+        "blast",
+        "sound loudly",
+        "trumpet",
+        "clamour",
+        "boom",
+        "roar",
+        "thunder",
+        "bellow",
+        "resound",
+        "honk",
+        "toot",
+        "shriek",
+        "screech"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loud, harsh sound.",
+      "examples": [
+        "a blare of trumpets"
+      ],
+      "synonyms": [
+        "blast",
+        "blasting",
+        "clamour",
+        "boom",
+        "booming",
+        "roar",
+        "roaring",
+        "thunder",
+        "thundering",
+        "bellow",
+        "bellowing",
+        "resounding",
+        "honk",
+        "honking",
+        "shriek",
+        "shrieking",
+        "screech"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense roar, bellow): from Middle Dutch blaren, bleren, or Low German blaren, of imitative origin. Current senses date from the late 18th century.",
+  "pronounciation": "/blɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blare_us_1.mp3"
+}

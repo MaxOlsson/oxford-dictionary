@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not safe or robust; in poor condition.",
+      "examples": [
+        "the tower is structurally unsound"
+      ],
+      "synonyms": [
+        "rickety",
+        "flimsy",
+        "shaky",
+        "wobbly",
+        "unstable",
+        "tottery",
+        "defective",
+        "disintegrating",
+        "crumbling",
+        "decaying",
+        "broken",
+        "broken-down",
+        "damaged",
+        "rotten",
+        "ramshackle",
+        "insubstantial",
+        "jerry-built",
+        "unsafe",
+        "unreliable",
+        "dangerous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsound_us_1.mp3"
+}

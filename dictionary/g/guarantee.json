@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A formal promise or assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality and durability.",
+      "examples": [
+        "we offer a 10-year guarantee against rusting"
+      ],
+      "synonyms": [
+        "warranty",
+        "warrant",
+        "contract",
+        "covenant",
+        "bond",
+        "assurance",
+        "promise"
+      ]
+    },
+    {
+      "description": "A formal pledge to pay another person's debt or to perform another person's obligation in the case of default.",
+      "examples": [],
+      "synonyms": [
+        "contract",
+        "agreement",
+        "covenant",
+        "compact",
+        "bond",
+        "pledge",
+        "promise",
+        "warrant",
+        "undertaking",
+        "commitment",
+        "settlement",
+        "arrangement",
+        "understanding"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide a formal assurance or promise, especially that certain conditions shall be fulfilled relating to a product, service, or transaction.",
+      "examples": [
+        "the con artist guarantees that the dirt pile will yield at least 20 ounces of gold"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (in the sense guarantor): perhaps from Spanish garante, corresponding to French garant (see warrant), later influenced by French garantie guaranty.",
+  "pronounciation": "/ˌɡerənˈtē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guarantee_us_1.mp3"
+}

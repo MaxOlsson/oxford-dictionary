@@ -1,0 +1,77 @@
+{
+  "noun": [
+    {
+      "description": "A regular stopping place on a public transportation route, especially one on a railroad line with a platform and often one or more buildings.",
+      "examples": [],
+      "synonyms": [
+        "stopping place",
+        "stop",
+        "halt",
+        "station stop",
+        "stage"
+      ]
+    },
+    {
+      "description": "A place or building where a specified activity or service is based.",
+      "examples": [
+        "a research station in the rainforest",
+        "coastal radar stations"
+      ],
+      "synonyms": [
+        "establishment",
+        "base",
+        "base camp",
+        "camp"
+      ]
+    },
+    {
+      "description": "A company involved in broadcasting of a specified kind.",
+      "examples": [
+        "a radio station"
+      ],
+      "synonyms": [
+        "channel",
+        "broadcasting organization"
+      ]
+    },
+    {
+      "description": "The place where someone or something stands or is placed on military or other duty.",
+      "examples": [
+        "the lookout resumed his station in the bow"
+      ],
+      "synonyms": [
+        "assigned position",
+        "post",
+        "area of duty",
+        "place",
+        "situation",
+        "location"
+      ]
+    },
+    {
+      "description": "A site at which a particular species, especially an interesting or rare one, grows or is found.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put in or assign to a specified place for a particular purpose, especially a military one.",
+      "examples": [
+        "troops were stationed in the town",
+        "a young girl had stationed herself by the door"
+      ],
+      "synonyms": [
+        "put on duty",
+        "post",
+        "position",
+        "place",
+        "set",
+        "locate",
+        "site"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun): via Old French from Latin statio(n-), from stare to stand. Early use referred generally to position, especially position in life, status, and specifically, in ecclesiastical use, to a holy place of pilgrimage (visited as one of a succession). The verb dates from the late 16th century.",
+  "pronounciation": "/ˈstāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/station_us_1.mp3"
+}

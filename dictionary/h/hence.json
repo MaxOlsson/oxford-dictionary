@@ -1,0 +1,40 @@
+{
+  "adverb": [
+    {
+      "description": "As a consequence; for this reason.",
+      "examples": [
+        "a stiff breeze and hence a high windchill"
+      ],
+      "synonyms": [
+        "in consequence",
+        "consequently",
+        "as a consequence",
+        "for this reason",
+        "therefore",
+        "thus",
+        "so",
+        "accordingly",
+        "as a result",
+        "because of that",
+        "that being so",
+        "that being the case",
+        "on that account"
+      ]
+    },
+    {
+      "description": "In the future (used after a period of time)",
+      "examples": [
+        "two years hence they might say something quite different"
+      ]
+    },
+    {
+      "description": "From here.",
+      "examples": [
+        "hence, be gone"
+      ]
+    }
+  ],
+  "origin": "Middle English hennes (in hence (sense 3)): from earlier henne (from Old English heonan, of Germanic origin, related to he)+ -s (later respelled -ce to denote the unvoiced sound).",
+  "pronounciation": "/hens/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hence_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A pit or hollow in which liquid collects, especially one in the floor of a mine or basement.",
+      "examples": [],
+      "synonyms": [
+        "marsh",
+        "marshland",
+        "swamp",
+        "swampland",
+        "mire",
+        "quagmire",
+        "quag",
+        "morass",
+        "slough",
+        "fen",
+        "fenland",
+        "wetland",
+        "carr"
+      ]
+    },
+    {
+      "description": "The base of an internal combustion engine, which serves as a reservoir of oil for the lubrication system.",
+      "examples": [],
+      "synonyms": [
+        "receptacle",
+        "container",
+        "holder",
+        "repository",
+        "tank"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense marsh): from Middle Dutch or Low German sump, or (in the mining sense) from German Sumpf; related to swamp.",
+  "pronounciation": "/səmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sump_us_1.mp3"
+}

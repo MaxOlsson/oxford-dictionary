@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "An adhesive substance used for sticking objects or materials together.",
+      "examples": [],
+      "synonyms": [
+        "adhesive",
+        "fixative",
+        "gum",
+        "paste",
+        "cement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or join with or as if with glue.",
+      "examples": [
+        "the wood is cut up into small pieces which are then glued together"
+      ],
+      "synonyms": [
+        "stick",
+        "gum",
+        "paste"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French glu (noun), gluer (verb), from late Latin glus, glut-, from Latin gluten.",
+  "pronounciation": "/ɡlo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glue_us_1.mp3"
+}

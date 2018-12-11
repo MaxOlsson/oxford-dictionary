@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or using a system of numerical notation that has 8 rather than 10 as a base.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The octal system; octal notation.",
+      "examples": [
+        "the calculation should be done in binary or octal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈäktl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/octal_us_1.mp3"
+}

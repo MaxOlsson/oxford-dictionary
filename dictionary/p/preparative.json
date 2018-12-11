@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Preparatory.",
+      "examples": [
+        "months of preparative work"
+      ],
+      "synonyms": [
+        "preliminary",
+        "initial",
+        "prior",
+        "introductory",
+        "prefatory",
+        "opening",
+        "basic",
+        "elementary",
+        "fundamental",
+        "rudimentary",
+        "precursory",
+        "initiatory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A preparatory act, procedure, or circumstance.",
+      "examples": [
+        "parents send children to these schools as a preparative for worldly success"
+      ]
+    }
+  ],
+  "pronounciation": "/priˈpɛrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preparative_us_1.mp3"
+}

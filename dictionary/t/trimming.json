@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "Small pieces trimmed off something.",
+      "examples": [
+        "hedge trimmings"
+      ],
+      "synonyms": [
+        "cuttings",
+        "clippings",
+        "parings",
+        "shavings",
+        "ends"
+      ]
+    },
+    {
+      "description": "Decoration, especially for clothing.",
+      "examples": [
+        "a party dress with lace trimming"
+      ],
+      "synonyms": [
+        "decoration",
+        "trim",
+        "ornamentation",
+        "adornment",
+        "passementerie",
+        "embroidery",
+        "frou-frou"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtrimiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trimming_us_1.mp3"
+}

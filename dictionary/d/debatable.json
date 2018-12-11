@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Open to discussion or argument.",
+      "examples": [
+        "it is debatable whether the country is coming out of recession"
+      ],
+      "synonyms": [
+        "arguable",
+        "disputable",
+        "questionable",
+        "open to question",
+        "open to debate",
+        "subject to debate",
+        "controversial",
+        "contentious",
+        "doubtful",
+        "open to doubt",
+        "in doubt",
+        "dubious",
+        "uncertain",
+        "unsure",
+        "unclear",
+        "vague",
+        "borderline",
+        "inconclusive",
+        "moot",
+        "unsettled",
+        "unresolved",
+        "unconfirmed",
+        "undetermined",
+        "undecided",
+        "unknown",
+        "up in the air",
+        "not yet established"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈbādəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/debatable_us_1.mp3"
+}

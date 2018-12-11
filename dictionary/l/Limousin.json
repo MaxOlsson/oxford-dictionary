@@ -1,0 +1,30 @@
+{
+  "proper noun": [
+    {
+      "description": "A region and former province of central France, centred on Limoges.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Limousin.",
+      "examples": []
+    },
+    {
+      "description": "The French dialect of Limousin.",
+      "examples": []
+    },
+    {
+      "description": "An animal of a French breed of beef cattle.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to the Limousins or their dialect.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈlɪmʊzã/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/limousin_1_gb_1_4.mp3"
+}

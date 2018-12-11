@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Hit; fight with.",
+      "examples": [
+        "get out of that car while I stoush you"
+      ],
+      "synonyms": [
+        "fight",
+        "skirmish",
+        "scuffle",
+        "tussle",
+        "exchange blows",
+        "come to blows",
+        "struggle",
+        "grapple",
+        "wrestle",
+        "scrimmage"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A brawl or other fight.",
+      "examples": [
+        "the prospect of the game deteriorating into a stoush always kept me hooked"
+      ],
+      "synonyms": [
+        "fight",
+        "fist fight",
+        "skirmish",
+        "scuffle",
+        "tussle",
+        "fracas",
+        "scrimmage",
+        "fray",
+        "melee",
+        "rumpus",
+        "altercation",
+        "wrangle",
+        "clash",
+        "free-for-all",
+        "scrum",
+        "brouhaha",
+        "commotion",
+        "uproar"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: of unknown origin.",
+  "pronounciation": "/staʊʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stoush_gb_1_8.mp3"
+}

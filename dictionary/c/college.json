@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "An educational institution or establishment, in particular one providing higher education or specialized professional or vocational training.",
+      "examples": [
+        "I'm at college, studying graphic design",
+        "my brother wanted to go to college"
+      ],
+      "synonyms": [
+        "educational institution",
+        "training establishment",
+        "centre of learning",
+        "seat of learning"
+      ]
+    },
+    {
+      "description": "An organized group of professional people with particular aims, duties, and privileges.",
+      "examples": [
+        "the electoral college"
+      ],
+      "synonyms": [
+        "association",
+        "society",
+        "club",
+        "group",
+        "band",
+        "circle",
+        "fellowship",
+        "body",
+        "guild",
+        "lodge",
+        "order",
+        "fraternity",
+        "confraternity",
+        "brotherhood",
+        "sisterhood",
+        "sorority",
+        "league",
+        "union",
+        "alliance",
+        "affiliation",
+        "institution",
+        "coterie",
+        "federation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin collegium partnership, from collega partner in office, from col- together with + legare depute.",
+  "pronounciation": "/ˈkälij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/college_us_1.mp3"
+}

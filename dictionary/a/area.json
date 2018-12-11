@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A region or part of a town, a country, or the world.",
+      "examples": [
+        "rural areas of New Jersey",
+        "people living in the area are at risk"
+      ],
+      "synonyms": [
+        "district",
+        "region",
+        "zone",
+        "sector",
+        "quarter"
+      ]
+    },
+    {
+      "description": "The extent or measurement of a surface or piece of land.",
+      "examples": [
+        "the area of a triangle",
+        "the room is twelve square feet in area"
+      ],
+      "synonyms": [
+        "expanse",
+        "extent",
+        "size",
+        "scope",
+        "compass"
+      ]
+    },
+    {
+      "description": "A subject or range of activity or interest.",
+      "examples": [
+        "the key areas of science"
+      ],
+      "synonyms": [
+        "domain",
+        "sector",
+        "department",
+        "province",
+        "territory",
+        "compartment",
+        "line"
+      ]
+    },
+    {
+      "description": "A sunken enclosure giving access to the basement of a building.",
+      "examples": [
+        "a bicycle padlocked to the area railing"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense space allocated for a specific purpose): from Latin, literally vacant piece of level ground.",
+  "pronounciation": "/ˈerēə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/area_us_1.mp3"
+}

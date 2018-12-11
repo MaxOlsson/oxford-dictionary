@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The action of drawing or pulling something over a surface, especially a road or track.",
+      "examples": [
+        "a primitive vehicle used in animal traction"
+      ]
+    },
+    {
+      "description": "The grip of a tire on a road or a wheel on a rail.",
+      "examples": [
+        "his car hit a patch of ice and lost traction"
+      ],
+      "synonyms": [
+        "grip",
+        "friction",
+        "adhesion",
+        "purchase",
+        "resistance"
+      ]
+    },
+    {
+      "description": "The extent to which a product, idea, etc., gains popularity or acceptance.",
+      "examples": [
+        "analysts predicted that the technology would rapidly gain traction in the corporate market",
+        "if a film got a little traction, a wider release could be negotiated"
+      ]
+    },
+    {
+      "description": "The application of a sustained pull on a limb or muscle, especially in order to maintain the position of a fractured bone or to correct a deformity.",
+      "examples": [
+        "his leg is in traction"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting contraction, such as that of a muscle): from French, or from medieval Latin tractio(n-), from Latin trahere draw, pull. Current senses date from the early 19th century.",
+  "pronounciation": "/ˈtrækʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/traction_us_1.mp3"
+}

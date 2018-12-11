@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Let air or gas out of (a tire, balloon, or similar object)",
+      "examples": [
+        "he deflated one of the tires"
+      ],
+      "synonyms": [
+        "let down",
+        "empty the air out of",
+        "collapse",
+        "flatten",
+        "void"
+      ]
+    },
+    {
+      "description": "Cause (someone) to suddenly lose confidence or feel less important.",
+      "examples": [
+        "his response deflated me"
+      ],
+      "synonyms": [
+        "subdue",
+        "humble",
+        "cow",
+        "humiliate",
+        "mortify",
+        "chasten",
+        "chagrin",
+        "dispirit",
+        "dismay",
+        "discourage",
+        "dishearten"
+      ]
+    },
+    {
+      "description": "Bring about a general reduction of price levels in (an economy).",
+      "examples": [],
+      "synonyms": [
+        "reduce",
+        "slow down",
+        "make less active",
+        "diminish",
+        "lessen",
+        "lower"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from de- (expressing reversal) + -flate (as in inflate).",
+  "pronounciation": "/dəˈfleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deflate_us_1.mp3"
+}

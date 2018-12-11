@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A rejection or refusal.",
+      "examples": [
+        "no idea should meet a flat turndown if there's a chance of a pay-off"
+      ],
+      "synonyms": [
+        "rejection",
+        "refusal",
+        "rebuff",
+        "dismissal",
+        "spurning",
+        "repudiation",
+        "repulse",
+        "discouragement"
+      ]
+    },
+    {
+      "description": "A decline in something; a downturn.",
+      "examples": [
+        "the company has suffered a dramatic turndown after a storm of bad publicity"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a collar) turned down.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtərnˌdaʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/turndown_us_1.mp3"
+}

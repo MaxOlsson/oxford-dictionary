@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Belch.",
+      "examples": [],
+      "synonyms": [
+        "bring up wind"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A belch.",
+      "examples": [],
+      "synonyms": [
+        "burp",
+        "gurk"
+      ]
+    }
+  ],
+  "origin": "Middle English bolke; related to German bolken roar, bawl and Dutch bulken bellow. Compare with belch and boke.",
+  "pronounciation": "/bōk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bolk_us_1.mp3"
+}

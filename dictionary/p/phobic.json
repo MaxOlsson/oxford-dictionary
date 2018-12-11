@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Having or involving an extreme or irrational fear of or aversion to something.",
+      "examples": [
+        "she's phobic about spiders",
+        "treatment for phobic anxiety"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with an extreme or irrational fear of or aversion to something.",
+      "examples": [
+        "a snake phobic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfoʊbɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_phobic_1_us_1.mp3"
+}

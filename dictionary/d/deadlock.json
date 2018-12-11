@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A situation, typically one involving opposing parties, in which no progress can be made.",
+      "examples": [
+        "an attempt to break the deadlock"
+      ],
+      "synonyms": [
+        "stalemate",
+        "impasse",
+        "checkmate",
+        "stand-off"
+      ]
+    },
+    {
+      "description": "A type of lock requiring a key to open and close it, as distinct from a spring lock; a deadbolt.",
+      "examples": [],
+      "synonyms": [
+        "bolt",
+        "lock",
+        "latch",
+        "catch",
+        "fastening",
+        "fastener"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (a situation or opposing parties) to come to a point where no progress can be made because of fundamental disagreement.",
+      "examples": [
+        "the jurors were deadlocked on six charges"
+      ],
+      "synonyms": [
+        "tie",
+        "draw",
+        "dead heat"
+      ]
+    },
+    {
+      "description": "Secure (a door) with a deadlock.",
+      "examples": [],
+      "synonyms": [
+        "bolt",
+        "lock",
+        "fasten",
+        "padlock",
+        "secure",
+        "latch",
+        "deadlock",
+        "block",
+        "barricade",
+        "obstruct"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdedˌläk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deadlock_us_1.mp3"
+}

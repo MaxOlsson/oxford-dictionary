@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Give authorization or consent to (someone) to do something.",
+      "examples": [
+        "the law permits councils to monitor any factory emitting smoke",
+        "he would not permit anybody access to the library"
+      ],
+      "synonyms": [
+        "allow",
+        "let",
+        "authorize",
+        "give someone authorization",
+        "give someone leave",
+        "give someone permission",
+        "sanction",
+        "grant",
+        "grant someone the right",
+        "license",
+        "empower",
+        "enable",
+        "entitle",
+        "qualify"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An official document giving someone authorization to do something.",
+      "examples": [
+        "he is only in Britain on a work permit"
+      ],
+      "synonyms": [
+        "authorization",
+        "licence",
+        "pass",
+        "voucher",
+        "ticket",
+        "warrant",
+        "document",
+        "certification"
+      ]
+    }
+  ],
+  "phrases": [
+    "permit me to correct you",
+    "If your Honours will permit me to question all or any of these earlier decisions, I will undertake to advance a sensible argument.",
+    "Sir, permit me to observe that the use of force alone is but temporary.",
+    "So, while it's still a bit early, permit me to be the first to wish this special astronaut a good journey.",
+    "If you will permit me, even though I am a retired politician I would like to say just a word about domestic politics."
+  ],
+  "origin": "Alteration of Spanish palometa little dove.",
+  "pronounciation": "/ˈpərmɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/permit_us_2.mp3"
+}

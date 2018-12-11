@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried.",
+      "examples": [],
+      "synonyms": [
+        "plasterwork",
+        "stucco"
+      ]
+    },
+    {
+      "description": "An adhesive strip of material for covering cuts and wounds.",
+      "examples": [],
+      "synonyms": [
+        "sticking plaster",
+        "adhesive dressing",
+        "dressing",
+        "bandage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover (a wall, ceiling, or other structure) with plaster.",
+      "examples": [],
+      "synonyms": [
+        "cover thickly",
+        "smother",
+        "spread",
+        "smear",
+        "cake",
+        "coat",
+        "daub",
+        "bedaub",
+        "overlay"
+      ]
+    }
+  ],
+  "origin": "Old English, denoting a bandage spread with a curative substance, from medieval Latin plastrum (shortening of Latin emplastrum, from Greek emplastron daub, salve), later reinforced by the Old French noun plastre. Sense 1 dates from late Middle English.",
+  "pronounciation": "/ˈplæstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plaster_us_1.mp3"
+}

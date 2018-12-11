@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Foolish or stupid.",
+      "examples": [
+        "a half-witted proposal"
+      ],
+      "synonyms": [
+        "stupid",
+        "unintelligent",
+        "ignorant",
+        "dense",
+        "brainless",
+        "mindless",
+        "foolish",
+        "dull-witted",
+        "dull",
+        "slow-witted",
+        "witless",
+        "slow",
+        "dunce-like",
+        "simple-minded",
+        "empty-headed",
+        "vacuous",
+        "vapid",
+        "idiotic",
+        "moronic",
+        "imbecilic",
+        "imbecile",
+        "obtuse",
+        "doltish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhɑːfˈwɪtɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/half_witted_1_gb_1.mp3"
+}

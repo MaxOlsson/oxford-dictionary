@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of a building, seat, etc.) being used by someone.",
+      "examples": [
+        "only the first floor is fully occupied"
+      ],
+      "synonyms": [
+        "in use",
+        "full",
+        "engaged",
+        "taken",
+        "unavailable"
+      ]
+    },
+    {
+      "description": "Busy and active.",
+      "examples": [
+        "tasks that kept her occupied for the remainder of the afternoon"
+      ],
+      "synonyms": [
+        "busy",
+        "engaged",
+        "working",
+        "employed",
+        "at work",
+        "on the job",
+        "hard-pressed",
+        "active"
+      ]
+    },
+    {
+      "description": "(of a place, especially a country) taken control of by military conquest or settlement.",
+      "examples": [
+        "the occupied territories"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈäkyəˌpīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/occupied_us_2.mp3"
+}

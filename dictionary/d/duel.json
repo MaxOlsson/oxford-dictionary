@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A contest with deadly weapons arranged between two people in order to settle a point of honor.",
+      "examples": [],
+      "synonyms": [
+        "affair of honour",
+        "mano-a-mano",
+        "single combat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fight a duel or duels.",
+      "examples": [
+        "dueling had been forbidden for serving officers"
+      ],
+      "synonyms": [
+        "fight a duel"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin duellum, archaic and literary form of bellum war, used in medieval Latin with the meaning combat between two persons, partly influenced by dualis of two. The original sense was single combat used to decide a judicial dispute; the sense contest to decide a point of honor dates from the early 17th century.",
+  "pronounciation": "/ˈd(y)o͞oəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/duel_us_1.mp3"
+}

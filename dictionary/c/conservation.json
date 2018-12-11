@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Prevention of wasteful use of a resource.",
+      "examples": [
+        "the government must take action to promote energy conservation"
+      ],
+      "synonyms": [
+        "careful management",
+        "good housekeeping",
+        "economy",
+        "thrift",
+        "thriftiness",
+        "frugality"
+      ]
+    },
+    {
+      "description": "The principle by which the total value of a physical quantity or parameter (such as energy, mass, linear or angular momentum) remains constant in a system which is not subject to external influence.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin conservatio(n-), from the verb conservare (see conserve).",
+  "pronounciation": "/ˌkɑnsərˈveɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconservation_us_1.mp3"
+}

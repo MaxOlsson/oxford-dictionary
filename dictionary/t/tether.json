@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Tie (an animal) with a rope or chain so as to restrict its movement.",
+      "examples": [
+        "the horse had been tethered to a post"
+      ],
+      "synonyms": [
+        "tie",
+        "tie up",
+        "hitch",
+        "rope",
+        "chain"
+      ]
+    },
+    {
+      "description": "Use (a smartphone) in order to connect a computer or other device to the Internet.",
+      "examples": [
+        "one prediction is that tethering will cost around $30 per month, probably with some cap on the amount of data transfer allowed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rope or chain with which an animal is tied to restrict its movement.",
+      "examples": [],
+      "synonyms": [
+        "rope",
+        "chain",
+        "cord",
+        "lead",
+        "leash"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old Norse tjóthr, from a Germanic base meaning fasten.",
+  "pronounciation": "/ˈteT͟Hər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tether_us_1.mp3"
+}

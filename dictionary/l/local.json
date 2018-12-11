@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Belonging or relating to a particular area or neighborhood, typically exclusively so.",
+      "examples": [
+        "researching local history",
+        "the local post office"
+      ],
+      "synonyms": [
+        "community",
+        "district",
+        "neighbourhood",
+        "regional",
+        "city",
+        "town",
+        "municipal",
+        "provincial",
+        "village",
+        "parish",
+        "parish-pump",
+        "parochial"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inhabitant of a particular area or neighborhood.",
+      "examples": [
+        "the street was full of locals and tourists"
+      ],
+      "synonyms": [
+        "local person",
+        "native",
+        "inhabitant",
+        "resident",
+        "parishioner",
+        "citizen"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin localis, from Latin locus place.",
+  "pronounciation": "/ˈloʊk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/local_us_1.mp3"
+}

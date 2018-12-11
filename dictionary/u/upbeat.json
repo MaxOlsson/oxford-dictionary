@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "(in music) an unaccented beat preceding an accented beat.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Cheerful; optimistic.",
+      "examples": [
+        "he was upbeat about the company's future"
+      ],
+      "synonyms": [
+        "cheerful",
+        "cheery",
+        "positive",
+        "confident",
+        "hopeful",
+        "sanguine",
+        "bullish",
+        "buoyant",
+        "bright"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəpˌbēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upbeat_us_1.mp3"
+}

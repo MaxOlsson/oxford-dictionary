@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "In, at, or to some other place or other places.",
+      "examples": [
+        "he is seeking employment elsewhere"
+      ],
+      "synonyms": [
+        "somewhere else",
+        "at another place",
+        "in another place",
+        "to another place",
+        "at a different place",
+        "in a different place",
+        "to a different place"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Some other place.",
+      "examples": [
+        "all Hawaiian plants originally came from elsewhere"
+      ]
+    }
+  ],
+  "origin": "Old English elles hwǣr (see else, where).",
+  "pronounciation": "/ˌelsˈ(h)wer/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elsewhere_us_1.mp3"
+}

@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Extract (a modulating signal) from its carrier.",
+      "examples": [
+        "the signal is passed through a filter at 300 kHz and demodulated"
+      ]
+    }
+  ],
+  "pronounciation": "/dēˈmäjəˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demodulate_us_1.mp3"
+}

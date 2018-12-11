@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Write or carve (words or symbols) on something, especially as a formal or permanent record.",
+      "examples": [
+        "his name was inscribed on the new silver trophy"
+      ],
+      "synonyms": [
+        "carve",
+        "write",
+        "engrave",
+        "etch",
+        "cut",
+        "chisel",
+        "chase",
+        "score",
+        "incise"
+      ]
+    },
+    {
+      "description": "Draw (a figure) within another so that their boundaries touch but do not intersect.",
+      "examples": [
+        "a regular polygon inscribed in a circle"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin inscribere, from in- into + scribere write.",
+  "pronounciation": "/inˈskrīb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inscribe_us_1.mp3"
+}

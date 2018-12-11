@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Growing dark or characterized by darkness.",
+      "examples": [
+        "the darkling sky"
+      ],
+      "synonyms": [
+        "indistinct",
+        "faint",
+        "vague",
+        "ill-defined",
+        "unclear",
+        "blurred",
+        "blurry",
+        "misty",
+        "hazy",
+        "foggy",
+        "veiled",
+        "cloudy",
+        "clouded",
+        "nebulous",
+        "fuzzy"
+      ]
+    }
+  ],
+  "origin": "Middle English: from dark + -ling.",
+  "pronounciation": "/ˈdärkliNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/darkling_us_1.mp3"
+}

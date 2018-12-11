@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a quality) definite; unquestionable.",
+      "examples": [
+        "the sunshine is a decided improvement"
+      ],
+      "synonyms": [
+        "distinct",
+        "clear",
+        "clear-cut",
+        "marked",
+        "pronounced",
+        "obvious",
+        "striking",
+        "noticeable",
+        "unmistakable",
+        "patent",
+        "manifest",
+        "express",
+        "definite",
+        "certain",
+        "positive",
+        "absolute",
+        "emphatic",
+        "categorical",
+        "unambiguous",
+        "undeniable",
+        "unequivocal",
+        "indisputable",
+        "undisputed",
+        "unquestionable",
+        "assured",
+        "guaranteed"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈsaɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decided_us_1.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "An outdoor overgarment, typically sleeveless, that hangs loosely from the shoulders.",
+      "examples": [],
+      "synonyms": [
+        "cape",
+        "mantle",
+        "robe"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dress in a cloak.",
+      "examples": [
+        "she cloaked herself in black"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French cloke, dialect variant of cloche bell, cloak (from its bell shape), from medieval Latin clocca bell. Compare with clock.",
+  "pronounciation": "/kloʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cloak_us_1.mp3"
+}

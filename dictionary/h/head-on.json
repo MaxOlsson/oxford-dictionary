@@ -1,0 +1,29 @@
+{
+  "adjective &amp; adverb": [
+    {
+      "description": "With or involving the front of a vehicle.",
+      "examples": [
+        "a head-on collision",
+        "they hit a bus head-on"
+      ],
+      "synonyms": [
+        "direct",
+        "involving the front of a vehicle",
+        "front-to-front"
+      ]
+    },
+    {
+      "description": "With or involving direct confrontation.",
+      "examples": [
+        "trying to avoid a head-on clash"
+      ],
+      "synonyms": [
+        "direct",
+        "face to face",
+        "personal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhed ˈˌän/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/head_on_1_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "An additional charge or payment.",
+      "examples": [
+        "we guarantee that no surcharges will be added to the cost of your trip"
+      ],
+      "synonyms": [
+        "addition",
+        "increase"
+      ]
+    },
+    {
+      "description": "A mark printed on a postage stamp changing its value.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exact an additional charge or payment from.",
+      "examples": [
+        "retailers will be able to surcharge credit-card users"
+      ]
+    },
+    {
+      "description": "Mark (a postage stamp) with a surcharge.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Old French surcharger (see sur-, charge). The early sense of the noun (late 15th century) was excessive load.",
+  "pronounciation": "/ˈsərˌCHärj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surcharge_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "abbreviation": [
+    {
+      "description": "Page.",
+      "examples": []
+    },
+    {
+      "description": "Para-",
+      "examples": [
+        "p-xylene"
+      ]
+    },
+    {
+      "description": "Penny or pence.",
+      "examples": []
+    },
+    {
+      "description": "Piano (softly).",
+      "examples": []
+    },
+    {
+      "description": "(in units of measurement) pico- (10¹²)",
+      "examples": [
+        "a 220 pf capacitor"
+      ]
+    },
+    {
+      "description": "Denoting electrons and orbitals possessing one unit of angular momentum.",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "Pressure.",
+      "examples": []
+    },
+    {
+      "description": "Probability.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sixteenth letter of the alphabet.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/pē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/p_us_1.mp3"
+}

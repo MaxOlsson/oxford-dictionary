@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "An instrument or device for measuring the magnitude, amount, or contents of something, typically with a visual display of such information.",
+      "examples": [],
+      "synonyms": [
+        "measuring instrument",
+        "measuring device",
+        "meter",
+        "measure"
+      ]
+    },
+    {
+      "description": "The thickness, size, or capacity of something, especially as a standard measure.",
+      "examples": [],
+      "synonyms": [
+        "size",
+        "measure",
+        "extent",
+        "degree",
+        "scope",
+        "capacity",
+        "magnitude"
+      ]
+    },
+    {
+      "description": "The position of a sailing vessel to windward (weather gage) or leeward (lee gage) of another.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Estimate or determine the magnitude, amount, or volume of.",
+      "examples": [
+        "astronomers can gauge the star's intrinsic brightness"
+      ],
+      "synonyms": [
+        "compute",
+        "calculate",
+        "work out"
+      ]
+    },
+    {
+      "description": "Measure the dimensions of (an object) with a gauge.",
+      "examples": [
+        "when dry, the assemblies can be gauged exactly and planed to width"
+      ],
+      "synonyms": [
+        "measure",
+        "calculate",
+        "compute",
+        "work out",
+        "determine",
+        "ascertain"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a standard measure): from Old French gauge (noun), gauger (verb), variant of Old Northern French jauge (noun), jauger (verb), of unknown origin.",
+  "pronounciation": "/ɡeɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gauge_us_1.mp3"
+}

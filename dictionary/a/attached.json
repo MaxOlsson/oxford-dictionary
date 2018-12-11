@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Joined, fastened, or connected to something.",
+      "examples": [
+        "please complete the attached form",
+        "a ground-floor bedroom with a bathroom attached"
+      ]
+    },
+    {
+      "description": "Full of affection or fondness.",
+      "examples": [
+        "during his visit, Mark became increasingly attached to Tara"
+      ],
+      "synonyms": [
+        "fond of",
+        "devoted to",
+        "full of regard for",
+        "full of admiration for"
+      ]
+    },
+    {
+      "description": "(of a person) appointed to an organization or group for special or temporary duties.",
+      "examples": [
+        "he was attached to Military Intelligence"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈtaCHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/attached_us_1.mp3"
+}

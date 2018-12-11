@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "A theater.",
+      "examples": [
+        "the Oxford Playhouse"
+      ],
+      "synonyms": [
+        "auditorium",
+        "amphitheatre",
+        "hippodrome",
+        "coliseum"
+      ]
+    },
+    {
+      "description": "A toy house for children to play in.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈplāˌhous/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/playhouse_us_1.mp3"
+}

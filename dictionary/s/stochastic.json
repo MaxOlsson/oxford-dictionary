@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.",
+      "examples": [],
+      "synonyms": [
+        "unsystematic",
+        "arbitrary",
+        "unmethodical",
+        "haphazard",
+        "unarranged",
+        "unplanned",
+        "undirected",
+        "casual",
+        "indiscriminate",
+        "non-specific",
+        "stray",
+        "erratic"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Greek stokhastikos, from stokhazesthai aim at, guess, from stokhos aim.",
+  "pronounciation": "/stəˈkæstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stochastic_us_1.mp3"
+}

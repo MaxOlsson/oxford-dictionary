@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A subtle difference in or shade of meaning, expression, or sound.",
+      "examples": [
+        "the nuances of facial expression and body language"
+      ],
+      "synonyms": [
+        "fine distinction",
+        "subtle difference",
+        "subtle distinction",
+        "shade",
+        "shading",
+        "gradation",
+        "variation",
+        "modulation",
+        "degree"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give nuances to.",
+      "examples": [
+        "the effect of the music is nuanced by the social situation of listeners"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French, shade, subtlety, from nuer to shade, based on Latin nubes cloud.",
+  "pronounciation": "/ˈn(j)uˌɑns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nuance_us_1.mp3"
+}

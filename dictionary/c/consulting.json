@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Engaged in the business of giving expert advice to people working in a professional or technical field.",
+      "examples": [
+        "a consulting engineer",
+        "an environmental consulting company"
+      ],
+      "synonyms": [
+        "independent",
+        "consultant",
+        "hired",
+        "temporary",
+        "freelance",
+        "casual",
+        "visiting",
+        "non-resident",
+        "external",
+        "extramural",
+        "peripatetic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The business of giving expert advice to other professionals, typically in financial and business matters.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/kənˈsəltɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsulting_us_1.mp3"
+}

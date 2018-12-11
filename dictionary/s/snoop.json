@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Investigate or look around furtively in an attempt to find out something, especially information about someone's private affairs.",
+      "examples": [
+        "your sister might find the ring if she goes snooping around"
+      ],
+      "synonyms": [
+        "pry",
+        "enquire impertinently",
+        "be inquisitive",
+        "be inquisitive about",
+        "enquire",
+        "do some detective work"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A furtive investigation.",
+      "examples": [
+        "I could go back to her cottage and have another snoop"
+      ],
+      "synonyms": [
+        "search",
+        "nose",
+        "look",
+        "prowl",
+        "ferret",
+        "poke",
+        "exploration",
+        "investigation"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Dutch snœpen eat on the sly.",
+  "pronounciation": "/sno͞op/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snoop_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "Houses and apartments considered collectively.",
+      "examples": [
+        "a housing development",
+        "affordable housing"
+      ],
+      "synonyms": [
+        "homes",
+        "houses",
+        "places of residence",
+        "buildings"
+      ]
+    },
+    {
+      "description": "A rigid casing that encloses and protects a piece of moving or delicate equipment.",
+      "examples": [],
+      "synonyms": [
+        "casing",
+        "covering",
+        "case",
+        "cover",
+        "encasement",
+        "container",
+        "enclosure",
+        "holder",
+        "sheath",
+        "jacket",
+        "shell",
+        "capsule"
+      ]
+    },
+    {
+      "description": "A recess or groove cut in one piece of wood to allow another piece to be attached to it.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the general sense covering): from Old French houce, from medieval Latin hultia, of Germanic origin.",
+  "pronounciation": "/ˈhouziNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/housing_us_1.mp3"
+}

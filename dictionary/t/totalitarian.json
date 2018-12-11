@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a system of government that is centralized and dictatorial and requires complete subservience to the state.",
+      "examples": [
+        "a totalitarian regime"
+      ],
+      "synonyms": [
+        "authoritarian",
+        "autocratic",
+        "autarchic",
+        "dictatorial",
+        "tyrannical",
+        "oppressive",
+        "repressive",
+        "one-party",
+        "monocratic",
+        "absolute",
+        "absolutist",
+        "undemocratic",
+        "anti-democratic",
+        "illiberal",
+        "despotic",
+        "fascist",
+        "fascistic",
+        "nazi",
+        "neo-nazi",
+        "stalinist"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person advocating a totalitarian system of government.",
+      "examples": [],
+      "synonyms": [
+        "authoritarian",
+        "autocrat",
+        "dictator",
+        "tyrant",
+        "absolutist",
+        "despot",
+        "fascist",
+        "nazi",
+        "neo-nazi",
+        "stalinist"
+      ]
+    }
+  ],
+  "pronounciation": "/toʊˌtæləˈtɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/totalitarian_us_1.mp3"
+}

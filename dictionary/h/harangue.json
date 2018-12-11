@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A lengthy and aggressive speech.",
+      "examples": [],
+      "synonyms": [
+        "tirade",
+        "lecture",
+        "diatribe",
+        "homily",
+        "polemic",
+        "rant",
+        "fulmination",
+        "broadside",
+        "verbal attack",
+        "verbal onslaught",
+        "invective"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lecture (someone) at length in an aggressive and critical manner.",
+      "examples": [
+        "the kind of guy who harangued total strangers about PCB levels in whitefish"
+      ],
+      "synonyms": [
+        "deliver a tirade to",
+        "rant at",
+        "lecture",
+        "hold forth to",
+        "preach to",
+        "pontificate to",
+        "sermonize to",
+        "spout to",
+        "declaim to",
+        "give a lecture to"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French arenge, from medieval Latin harenga, perhaps of Germanic origin. The spelling was later altered to conform with French harangue (noun), haranguer (verb).",
+  "pronounciation": "/həˈraNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harangue_us_1.mp3"
+}

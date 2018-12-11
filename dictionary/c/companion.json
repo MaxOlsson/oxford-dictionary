@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A person or animal with whom one spends a lot of time or with whom one travels.",
+      "examples": [
+        "his traveling companion",
+        "fear became my constant companion"
+      ],
+      "synonyms": [
+        "associate",
+        "partner",
+        "escort",
+        "consort",
+        "colleague",
+        "workmate",
+        "co-worker",
+        "compatriot",
+        "confederate",
+        "ally"
+      ]
+    },
+    {
+      "description": "One of a pair of things intended to complement or match each other.",
+      "examples": [
+        "a companion volume"
+      ],
+      "synonyms": [
+        "complement",
+        "counterpart",
+        "fellow",
+        "mate",
+        "twin",
+        "other half",
+        "match"
+      ]
+    },
+    {
+      "description": "A member of the lowest grade of certain orders of knighthood.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Accompany.",
+      "examples": [
+        "he is companioned by a pageboy"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from obsolete Dutch kompanje (earlier form of kampanje) quarterdeck, from Old French compagne, from Italian (camera della) compagna (storeroom for) provisions.",
+  "pronounciation": "/kəmˈpænjən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/companion_us_1.mp3"
+}

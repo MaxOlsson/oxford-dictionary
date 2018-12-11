@@ -1,0 +1,100 @@
+{
+  "noun": [
+    {
+      "description": "A person's way of standing or moving.",
+      "examples": [
+        "a man of precise military bearing"
+      ],
+      "synonyms": [
+        "posture",
+        "comportment",
+        "carriage",
+        "gait",
+        "stance"
+      ]
+    },
+    {
+      "description": "Relation; relevance.",
+      "examples": [
+        "the case has no direct bearing on the issues"
+      ],
+      "synonyms": [
+        "relevance",
+        "relevancy",
+        "significance",
+        "pertinence",
+        "connection",
+        "relation",
+        "aptness",
+        "appositeness",
+        "germaneness",
+        "importance",
+        "import",
+        "application"
+      ]
+    },
+    {
+      "description": "The level to which something bad can be tolerated.",
+      "examples": [
+        "school was bad enough, but now it's past bearing"
+      ],
+      "synonyms": [
+        "endurance",
+        "endurability",
+        "tolerance",
+        "tolerability",
+        "acceptance",
+        "acceptability",
+        "sufferance",
+        "manageability"
+      ]
+    },
+    {
+      "description": "A part of a machine that bears friction, especially between a rotating part and its housing.",
+      "examples": []
+    },
+    {
+      "description": "The direction or position of something, or the direction of movement, relative to a fixed point. It is usually measured in degrees, typically with magnetic north as zero.",
+      "examples": [
+        "the Point is on a bearing of 015°"
+      ],
+      "synonyms": [
+        "direction",
+        "orientation",
+        "course",
+        "trajectory",
+        "heading",
+        "tack",
+        "path",
+        "line",
+        "run"
+      ]
+    },
+    {
+      "description": "A device or charge.",
+      "examples": [
+        "armorial bearings"
+      ],
+      "synonyms": [
+        "insignia",
+        "regalia",
+        "badge",
+        "emblem",
+        "ensign",
+        "device",
+        "heraldic device",
+        "coat of arms",
+        "arms",
+        "armorial bearing",
+        "escutcheon",
+        "shield"
+      ]
+    },
+    {
+      "description": "A structural part that supports weight, such as a wall that supports a beam.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbɛrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bearing_us_1.mp3"
+}

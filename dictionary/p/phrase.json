@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A small group of words standing together as a conceptual unit, typically forming a component of a clause.",
+      "examples": [],
+      "synonyms": [
+        "expression",
+        "group of words",
+        "word group",
+        "construction",
+        "clause",
+        "locution",
+        "wording",
+        "term",
+        "turn of phrase",
+        "idiom",
+        "idiomatic expression",
+        "set phrase",
+        "phrasal idiom",
+        "phrasal verb"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put into a particular form of words.",
+      "examples": [
+        "it's important to phrase the question correctly"
+      ],
+      "synonyms": [
+        "express",
+        "put into words",
+        "put",
+        "word",
+        "style",
+        "formulate",
+        "couch",
+        "frame",
+        "set forth",
+        "utter",
+        "say",
+        "tell",
+        "articulate",
+        "verbalize",
+        "communicate",
+        "convey",
+        "get across",
+        "put across"
+      ]
+    }
+  ],
+  "phrases": [
+    "an awkward turn of phrase",
+    "Very little (apart from a good man, a good cup of coffee, or a good piece of steak) gives me as much pleasure as a nice turn of phrase, an unexpected pun, or any other clever wordplay.",
+    "You have as much chance of hearing an unusual turn of phrase from a politician as you would from a player interview on Football Focus.",
+    "For the international market, Sagnier also brings an excellent turn of phrase in English with a sexy accent.",
+    "Merchant - his real name was Dennis Williams - who wrote the lyrics to many of Ray's compositions, had an elegant turn of phrase, a genuine concern for his fellow man, and endless energy."
+  ],
+  "origin": "Mid 16th century (in the sense style or manner of expression): via late Latin from Greek phrasis, from phrazein declare, tell.",
+  "pronounciation": "/frāz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/phrase_us_1.mp3"
+}

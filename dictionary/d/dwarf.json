@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "(in folklore or fantasy literature) a member of a mythical race of short, stocky humanlike creatures who are generally skilled in mining and metalworking.",
+      "examples": [],
+      "synonyms": [
+        "gnome",
+        "goblin",
+        "hobgoblin",
+        "troll",
+        "imp",
+        "elf",
+        "brownie",
+        "kelpie",
+        "leprechaun",
+        "fairy",
+        "pixie",
+        "sprite"
+      ]
+    },
+    {
+      "description": "A star of relatively small size and low luminosity, including the majority of main sequence stars.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to seem small or insignificant in comparison.",
+      "examples": [
+        "the buildings surround and dwarf All Saints church"
+      ],
+      "synonyms": [
+        "dominate",
+        "tower above",
+        "tower over",
+        "loom over",
+        "overlook",
+        "overshadow",
+        "overtop"
+      ]
+    }
+  ],
+  "origin": "Old English dweorg, dweorh, of Germanic origin; related to Dutch dwerg and German Zwerg.",
+  "pronounciation": "/dwôrf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dwarf_us_1.mp3"
+}

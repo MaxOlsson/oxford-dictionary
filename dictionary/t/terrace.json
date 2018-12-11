@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A level paved area or platform next to a building; a patio or veranda.",
+      "examples": [
+        "breakfast is served on the terrace"
+      ]
+    },
+    {
+      "description": "Each of a series of flat areas made on a slope, used for cultivation.",
+      "examples": []
+    },
+    {
+      "description": "A block of row houses.",
+      "examples": [
+        "an attractive Regency terrace"
+      ],
+      "synonyms": [
+        "road",
+        "thoroughfare",
+        "way"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or form (sloping land) into a number of level flat areas resembling a series of steps.",
+      "examples": [
+        "the slope had to be terraced"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (denoting an open gallery, later a platform or balcony in a theater): from Old French, literally rubble, platform, based on Latin terra earth.",
+  "pronounciation": "/ˈterəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terrace_us_1.mp3"
+}

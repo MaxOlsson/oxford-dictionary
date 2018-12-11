@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Decorate (cloth) by sewing patterns on it with thread.",
+      "examples": [
+        "she was teaching one of the girls how to embroider",
+        "she had already embroidered a dozen little nighties for the babies"
+      ],
+      "synonyms": [
+        "decorate",
+        "adorn",
+        "ornament",
+        "embellish"
+      ]
+    },
+    {
+      "description": "Add fictitious or exaggerated details to (an account) to make it more interesting.",
+      "examples": [
+        "she embroidered her stories with colorful detail"
+      ],
+      "synonyms": [
+        "elaborate",
+        "embellish",
+        "colour",
+        "enlarge on",
+        "exaggerate",
+        "catastrophize"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French enbrouder, from en- in, on + Old French brouder, broisder decorate with embroidery, of Germanic origin.",
+  "pronounciation": "/əmˈbroidər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/embroider_us_1.mp3"
+}

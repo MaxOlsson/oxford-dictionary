@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or situated on the edge or periphery of something.",
+      "examples": [
+        "the peripheral areas of Europe"
+      ],
+      "synonyms": [
+        "outlying",
+        "outer",
+        "on the edge",
+        "on the outskirts",
+        "outermost",
+        "fringe",
+        "border",
+        "surrounding"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A peripheral device.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/pəˈrɪf(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peripheral_us_1.mp3"
+}

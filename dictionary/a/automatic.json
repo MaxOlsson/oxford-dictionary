@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "(of a device or process) working by itself with little or no direct human control.",
+      "examples": [
+        "an automatic kettle that switches itself off when it boils",
+        "calibration is fully automatic"
+      ],
+      "synonyms": [
+        "mechanized",
+        "mechanical",
+        "automated",
+        "push-button",
+        "preprogrammed",
+        "computerized",
+        "electronic",
+        "robotic",
+        "unmanned"
+      ]
+    },
+    {
+      "description": "Done or occurring spontaneously, without conscious thought or intention.",
+      "examples": [
+        "automatic physical functions such as breathing",
+        "“Nice to meet you,” he said, with automatic politeness"
+      ],
+      "synonyms": [
+        "instinctive",
+        "involuntary",
+        "unconscious",
+        "reflex",
+        "knee-jerk",
+        "reflexive",
+        "instinctual",
+        "subconscious",
+        "unconditioned"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A gun that continues firing until the ammunition is exhausted or the pressure on the trigger is released.",
+      "examples": []
+    },
+    {
+      "description": "A vehicle with automatic transmission.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 18th century: from Greek automatos acting of itself (see automaton) + -ic.",
+  "pronounciation": "/ˌôdəˈmadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/automatic_us_1.mp3"
+}

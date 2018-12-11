@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A tall recess or wardrobe with a door, used for storage.",
+      "examples": [],
+      "synonyms": [
+        "cupboard",
+        "wardrobe",
+        "cabinet",
+        "locker"
+      ]
+    },
+    {
+      "description": "Used to refer to a state of secrecy or concealment, especially about one's homosexuality.",
+      "examples": [
+        "his brother's decision to come out of the closet",
+        "she tries to have a relationship with another woman while remaining in the closet"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Secret; covert.",
+      "examples": [
+        "a closet alcoholic"
+      ],
+      "synonyms": [
+        "secret",
+        "covert",
+        "unrevealed",
+        "undisclosed",
+        "private",
+        "hidden",
+        "concealed",
+        "surreptitious",
+        "clandestine",
+        "underground",
+        "furtive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shut (someone) away, especially in private conference or study.",
+      "examples": [
+        "he was closeted with the king",
+        "he returned home and closeted himself in his room"
+      ],
+      "synonyms": [
+        "shut away",
+        "sequester",
+        "seclude",
+        "cloister",
+        "insulate",
+        "confine",
+        "isolate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a private or small room): from Old French, diminutive of clos closed (see close).",
+  "pronounciation": "/ˈkläzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/closet_us_1.mp3"
+}

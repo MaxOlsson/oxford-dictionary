@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "Magnetic tape for recording and reproducing visual images and sound.",
+      "examples": [],
+      "synonyms": [
+        "recording",
+        "cassette",
+        "tape recording"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a video recording of (an event or broadcast)",
+      "examples": [
+        "his arrest was videotaped"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvidēōˌtāp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/videotape_us_1.mp3"
+}

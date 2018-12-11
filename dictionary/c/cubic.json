@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Having the shape of a cube.",
+      "examples": [
+        "a cubic room"
+      ],
+      "synonyms": [
+        "quadrilateral",
+        "rectangular",
+        "oblong",
+        "right-angled",
+        "at right angles",
+        "perpendicular"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cubic equation, or a curve described by one.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century (in the sense involving the cube (and no higher power)): from Old French cubique, or via Latin from Greek kubikos, from kobos cube.",
+  "pronounciation": "/ˈkyo͞obik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cubic_us_1.mp3"
+}

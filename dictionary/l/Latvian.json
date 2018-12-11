@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Latvia, its people, or its language.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or citizen of Latvia, or a person of Latvian descent.",
+      "examples": []
+    },
+    {
+      "description": "The Baltic language of Latvia.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈlætviən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/latvian_1_us_2.mp3"
+}

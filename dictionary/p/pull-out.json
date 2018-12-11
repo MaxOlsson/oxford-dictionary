@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a section of a magazine, newspaper, or other publication) designed to be detached and kept.",
+      "examples": [
+        "the figures are presented in a pull-out annual report"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pull-out section of a magazine or newspaper.",
+      "examples": [
+        "don't miss Monday's 8-page Games pull-out"
+      ],
+      "synonyms": [
+        "magazine section",
+        "insert",
+        "special-feature section"
+      ]
+    },
+    {
+      "description": "A withdrawal, especially from military involvement or participation in a commercial venture.",
+      "examples": [
+        "the peace plan was based on a pull-out from the occupied territory"
+      ],
+      "synonyms": [
+        "departure",
+        "exit",
+        "exodus",
+        "evacuation",
+        "retirement",
+        "retreat",
+        "disengagement"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpʊlaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pull_out_1_gb_2.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Give out steady light without flame.",
+      "examples": [
+        "the tips of their cigarettes glowed in the dark"
+      ],
+      "synonyms": [
+        "radiate heat",
+        "burn without flames",
+        "smoulder"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A steady radiance of light or heat.",
+      "examples": [
+        "the setting sun cast a deep red glow over the city"
+      ],
+      "synonyms": [
+        "radiance",
+        "light",
+        "brightness",
+        "luminosity",
+        "shine",
+        "gleam",
+        "glimmer",
+        "incandescence",
+        "phosphorescence",
+        "luminescence"
+      ]
+    }
+  ],
+  "origin": "Old English glōwan, of Germanic origin; related to Dutch gloeien and German glühen.",
+  "pronounciation": "/ɡlō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glow_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "Something of extremely poor quality.",
+      "examples": []
+    },
+    {
+      "description": "Excrement.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Defecate.",
+      "examples": []
+    },
+    {
+      "description": "Talk at length in a foolish or boring way.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Extremely poor in quality.",
+      "examples": [],
+      "synonyms": [
+        "substandard",
+        "poor",
+        "inferior",
+        "second-rate",
+        "second-class",
+        "unsatisfactory",
+        "inadequate",
+        "unacceptable",
+        "not up to scratch",
+        "not up to par",
+        "deficient",
+        "imperfect",
+        "defective",
+        "faulty",
+        "shoddy",
+        "amateurish",
+        "careless",
+        "negligent"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from craps.",
+  "pronounciation": "/kræp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crap_us_2.mp3"
+}

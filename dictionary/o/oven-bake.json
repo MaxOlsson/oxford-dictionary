@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Bake (food or a dish) in an oven.",
+      "examples": [
+        "crack open an egg into the centre of your pizza before oven-baking it"
+      ],
+      "synonyms": [
+        "cook",
+        "dry-roast",
+        "roast",
+        "spit-roast",
+        "pot-roast"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəv(ə)nbāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oven_bake_1_us_1.mp3"
+}

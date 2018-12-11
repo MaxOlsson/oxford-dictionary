@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A tax or duty to be paid on a particular class of imports or exports.",
+      "examples": [],
+      "synonyms": [
+        "tax",
+        "duty",
+        "toll",
+        "excise",
+        "levy",
+        "assessment",
+        "imposition",
+        "impost",
+        "charge",
+        "rate",
+        "fee",
+        "exaction"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fix the price of (something) according to a tariff.",
+      "examples": [
+        "these services are tariffed by volume"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (also denoting an arithmetical table): via French from Italian tariffa, based on Arabic arrafa notify.",
+  "pronounciation": "/ˈtɛrəf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tariff_us_1.mp3"
+}

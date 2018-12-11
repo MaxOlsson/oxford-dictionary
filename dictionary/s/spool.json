@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound; a reel.",
+      "examples": [
+        "spools of electrical cable"
+      ],
+      "synonyms": [
+        "recording",
+        "cassette",
+        "tape recording"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wind (magnetic tape, thread, etc.) on to a spool.",
+      "examples": [
+        "he was trying to spool his tapes back into the cassettes with a pencil eraser"
+      ]
+    },
+    {
+      "description": "Send (data that is intended for printing or processing on a peripheral device) to an intermediate store.",
+      "examples": [
+        "users can set which folder they wish to spool files to"
+      ]
+    },
+    {
+      "description": "(of an engine) increase its speed of rotation, typically to that required for operation.",
+      "examples": [
+        "a jet engine can take up to six seconds to spool up"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a spool for thread): shortening of Old French espole or from Middle Low German spōle, of West Germanic origin; related to Dutch spoel and German Spule. The verb dates from the early 17th century.",
+  "pronounciation": "/spul/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spool_us_1.mp3"
+}

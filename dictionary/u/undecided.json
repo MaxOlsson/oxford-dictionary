@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) not having made a decision.",
+      "examples": [
+        "the jury remained undecided"
+      ],
+      "synonyms": [
+        "unsure",
+        "uncertain",
+        "doubtful",
+        "dubious",
+        "unresolved",
+        "indecisive",
+        "irresolute",
+        "hesitant",
+        "tentative",
+        "wavering",
+        "vacillating",
+        "oscillating",
+        "equivocating",
+        "dithering",
+        "uncommitted",
+        "floating",
+        "shilly-shallying",
+        "wobbling",
+        "vague",
+        "hazy",
+        "unclear",
+        "ambivalent",
+        "in two minds",
+        "torn",
+        "split"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who has not decided how they are going to vote in an election.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌəndəˈsaɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undecided_us_1.mp3"
+}

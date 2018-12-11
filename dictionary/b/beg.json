@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Ask (someone) earnestly or humbly for something.",
+      "examples": [
+        "she begged me to say nothing to her father",
+        "I must beg of you not to act impulsively",
+        "I begged him for mercy"
+      ],
+      "synonyms": [
+        "beseech",
+        "entreat",
+        "implore",
+        "adjure",
+        "plead with",
+        "appeal to",
+        "pray to"
+      ]
+    },
+    {
+      "description": "Ask for something, typically food or money, as charity or a gift.",
+      "examples": [
+        "a young woman was begging in the street",
+        "they had to beg for food"
+      ],
+      "synonyms": [
+        "ask for money",
+        "solicit money",
+        "seek charity",
+        "seek alms"
+      ]
+    }
+  ],
+  "phrases": [
+    "Better were it for us to beg our bread and clothe ourselves in rags, than to part with Christian simplicity and frankness.",
+    "She had even to beg her bread on the streets; for who wanted to help the woman who wasted wheat?",
+    "He was a boy of nine years old when he buried first his father and then his mother, and he had no other resource than to beg his bread from door to door.",
+    "Face flushing a deep red with anger, Lisette was of a mind to box Bess ears soundly then send her away to beg her bread as a vagrant along the roads.",
+    "By this unlucky accident, he that had seen so much of the world for such a length of time was reduced to the most indigent state, and at length forced to beg his bread.",
+    "asked to name her favorites from her films, Hepburn begs off"
+  ],
+  "origin": "Middle English: probably from Old English bedecian, of Germanic origin; related to bid.",
+  "pronounciation": "/beɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beg_us_1.mp3"
+}

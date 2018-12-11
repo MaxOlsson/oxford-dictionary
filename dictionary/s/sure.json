@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Confident in what one thinks or knows; having no doubt that one is right.",
+      "examples": [
+        "I'm sure I've seen that dress before",
+        "she had to check her diary to be sure of the day of the week"
+      ],
+      "synonyms": [
+        "certain",
+        "positive",
+        "convinced",
+        "definite",
+        "confident",
+        "decided",
+        "assured",
+        "secure",
+        "satisfied",
+        "persuaded",
+        "easy in one's mind",
+        "free from doubt"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Certainly (used for emphasis)",
+      "examples": [
+        "Texas sure was a great place to grow up"
+      ],
+      "synonyms": [
+        "yes",
+        "all right",
+        "of course",
+        "indeed",
+        "certainly",
+        "absolutely",
+        "agreed"
+      ]
+    }
+  ],
+  "phrases": [
+    "be sure to drop by",
+    "be sure that you know what is required",
+    "If you decide to visit Ren or a similar bar be sure to have accompaniment of the best kind.",
+    "I can't say for sure what George really wanted",
+    "Whether that is a problem of this production or whether of the opera itself I can't say for sure."
+  ],
+  "origin": "Middle English: from Old French sur, from Latin securus free from care.",
+  "pronounciation": "/SHo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sure_us_1.mp3"
+}

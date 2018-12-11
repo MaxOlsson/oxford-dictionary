@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Make a journey, typically of some length or abroad.",
+      "examples": [
+        "the vessel had been traveling from Libya to Ireland",
+        "we traveled thousands of miles"
+      ]
+    },
+    {
+      "description": "(of an object or radiation) move, typically in a constant or predictable way.",
+      "examples": [
+        "light travels faster than sound"
+      ],
+      "synonyms": [
+        "move",
+        "proceed",
+        "progress",
+        "advance"
+      ]
+    },
+    {
+      "description": "Take more than the allowed number of steps (typically two) while holding the ball without dribbling it.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of traveling, typically abroad.",
+      "examples": [
+        "I have a job that involves a lot of travel"
+      ]
+    }
+  ],
+  "origin": "Middle English: a variant of travail, and originally in the same sense.",
+  "pronounciation": "/ˈtrævəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/travel_us_1.mp3"
+}

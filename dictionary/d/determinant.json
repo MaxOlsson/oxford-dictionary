@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A factor which decisively affects the nature or outcome of something.",
+      "examples": [
+        "pure force of will was the main determinant of his success"
+      ],
+      "synonyms": [
+        "factor",
+        "issue",
+        "point",
+        "concern",
+        "item",
+        "matter",
+        "element",
+        "detail",
+        "aspect",
+        "facet",
+        "feature"
+      ]
+    },
+    {
+      "description": "A quantity obtained by the addition of products of the elements of a square matrix according to a given rule.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Serving to determine or decide something.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Latin determinant- determining, from the verb determinare (see determine).",
+  "pronounciation": "/dəˈtərmənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/determinant_us_1.mp3"
+}

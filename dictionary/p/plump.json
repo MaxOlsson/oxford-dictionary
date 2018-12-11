@@ -1,0 +1,68 @@
+{
+  "adjective": [
+    {
+      "description": "Having a full rounded shape.",
+      "examples": [
+        "the berries were plump and sweet"
+      ],
+      "synonyms": [
+        "chubby",
+        "fat",
+        "stout",
+        "rotund",
+        "buxom",
+        "well upholstered",
+        "well covered",
+        "well padded",
+        "of ample proportions",
+        "ample",
+        "roly-poly",
+        "round",
+        "rounded",
+        "well rounded",
+        "full",
+        "fattish",
+        "dumpy",
+        "chunky",
+        "broad in the beam",
+        "portly",
+        "overweight",
+        "fleshy",
+        "paunchy",
+        "bulky",
+        "corpulent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shake or pat (a cushion or pillow) to adjust its stuffing and make it rounded and soft.",
+      "examples": [
+        "she plumped up her pillows"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An abrupt plunge; a heavy fall.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a sudden or heavy fall.",
+      "examples": [
+        "she sat down plump on the bed"
+      ]
+    },
+    {
+      "description": "Directly and bluntly.",
+      "examples": [
+        "he must tell her plump and plain that he was collecting unemployment"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in sense group of people): of uncertain origin; possibly related to clump and lump.",
+  "pronounciation": "/pləmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plump_us_1.mp3"
+}

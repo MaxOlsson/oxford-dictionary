@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Bring together or into contact so that a real or notional link is established.",
+      "examples": [
+        "the electrodes were connected to a recording device",
+        "a modem connects computers over a telephone line"
+      ],
+      "synonyms": [
+        "attach",
+        "join",
+        "fasten",
+        "fix",
+        "affix",
+        "couple",
+        "link",
+        "bridge",
+        "secure",
+        "make fast",
+        "tie",
+        "tie up",
+        "bind",
+        "fetter",
+        "strap",
+        "rope",
+        "tether",
+        "truss",
+        "lash",
+        "hitch",
+        "moor",
+        "anchor",
+        "yoke",
+        "chain"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense be united physically; rare before the 18th century): from Latin connectere, from con- together + nectere bind.",
+  "pronounciation": "/kəˈnekt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconnect_us_1.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Walk heavily or noisily.",
+      "examples": [
+        "he tramped around the room"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who travels from place to place on foot in search of work or as a vagrant or beggar.",
+      "examples": [],
+      "synonyms": [
+        "vagrant",
+        "vagabond",
+        "homeless person",
+        "derelict",
+        "down-and-out"
+      ]
+    },
+    {
+      "description": "The sound of heavy steps, typically of several people.",
+      "examples": [
+        "the tramp of marching feet"
+      ],
+      "synonyms": [
+        "footstep",
+        "step",
+        "footfall",
+        "tread",
+        "stamp",
+        "stomp",
+        "stomping"
+      ]
+    },
+    {
+      "description": "A long walk, typically a tiring one.",
+      "examples": [
+        "they start off on a tramp from Roxbury to New York"
+      ],
+      "synonyms": [
+        "trek",
+        "trudge",
+        "slog",
+        "hike",
+        "march",
+        "walk",
+        "constitutional",
+        "ramble",
+        "roam",
+        "wander"
+      ]
+    },
+    {
+      "description": "A cargo vessel that carries goods among many different ports rather than sailing a fixed route.",
+      "examples": [
+        "a tramp steamer"
+      ]
+    },
+    {
+      "description": "A woman who has many casual sexual encounters or relationships.",
+      "examples": [],
+      "synonyms": [
+        "slut",
+        "promiscuous woman",
+        "prostitute",
+        "whore"
+      ]
+    },
+    {
+      "description": "A metal plate protecting the sole of a boot.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): probably of Low German origin. The noun dates from the mid 17th century.",
+  "pronounciation": "/tramp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tramp_us_1.mp3"
+}

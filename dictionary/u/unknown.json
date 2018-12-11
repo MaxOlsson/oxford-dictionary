@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Not known or familiar.",
+      "examples": [
+        "exploration into unknown territory",
+        "his whereabouts are unknown to his family"
+      ],
+      "synonyms": [
+        "undisclosed",
+        "unrevealed",
+        "undivulged",
+        "untold",
+        "unspecified",
+        "secret",
+        "mysterious",
+        "dark",
+        "hidden",
+        "concealed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unknown person or thing.",
+      "examples": [
+        "she is a relative unknown"
+      ]
+    }
+  ],
+  "phrases": [
+    "unknown to Miller the police had taped their telephone conversation",
+    "When an infant comes near, her arms extend from her body to hold it, even if it is unknown to her.",
+    "Clearly this delicate juggling process runs into trouble if games are moved around unknown to us.",
+    "Nick manages to lock himself in it, his whereabouts unknown to anyone.",
+    "Sadly, the world has been feuding for many years and unknown to her, the dispute is because of her."
+  ],
+  "pronounciation": "/ˌənˈnoʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unknown_us_2.mp3"
+}

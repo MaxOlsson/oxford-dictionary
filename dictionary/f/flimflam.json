@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "Nonsensical or insincere talk.",
+      "examples": [
+        "I suppose that you suspect me of pseudointellectual flimflam"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Swindle (someone) with a confidence game.",
+      "examples": [
+        "the tribe was flimflammed out of its land"
+      ],
+      "synonyms": [
+        "swindle",
+        "cheat",
+        "defraud",
+        "deceive",
+        "trick",
+        "dupe",
+        "hoodwink",
+        "double-cross",
+        "gull"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: symbolic reduplication.",
+  "pronounciation": "/ˈflimˌflam/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flimflam_us_1.mp3"
+}

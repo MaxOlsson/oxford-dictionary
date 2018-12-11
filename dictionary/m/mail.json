@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "Letters and packages conveyed by the postal system.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send (a letter or package) using the postal system.",
+      "examples": [
+        "if you will mail the coupon, we'll send you a free trial package"
+      ],
+      "synonyms": [
+        "send",
+        "post",
+        "send by mail",
+        "send by post",
+        "dispatch",
+        "direct",
+        "forward",
+        "remit",
+        "transmit",
+        "email",
+        "airmail"
+      ]
+    }
+  ],
+  "origin": "Middle English (also denoting the individual metal elements composing mail armor): from Old French maille, from Latin macula spot or mesh.",
+  "phrases": [
+    "Soft talk or big stick, carrot and stick, accept the velvet glove or face the mailed fist.",
+    "The balance of the country's history - before and after independence - is overwhelmingly weighted in favour of the mailed fist rather than the velvet glove.",
+    "Those original six are represented on the squadron's badge - the mailed fist apparently symbolises the first CO Lt Cdr R.F. Walker (apparent a robust individual) and five clouds stand in for those five pilots.",
+    "Inside the velvet glove is always the mailed fist.",
+    "In 1992, the squadron's insignia was officially changed from the Green Pawn to the mailed fist and lighting bolt previously used by Attack Squadron 176."
+  ],
+  "pronounciation": "/māl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mail_us_1.mp3"
+}

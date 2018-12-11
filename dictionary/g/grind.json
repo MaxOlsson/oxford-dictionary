@@ -1,0 +1,89 @@
+{
+  "verb": [
+    {
+      "description": "Reduce (something) to small particles or powder by crushing it.",
+      "examples": [
+        "grind some black pepper over the salad",
+        "they grind up fish for fertilizer"
+      ],
+      "synonyms": [
+        "crush",
+        "pound",
+        "pulverize",
+        "mill",
+        "powder",
+        "granulate",
+        "grate",
+        "mince",
+        "shred",
+        "crumble",
+        "pestle",
+        "mash",
+        "smash",
+        "press",
+        "fragment",
+        "kibble"
+      ]
+    },
+    {
+      "description": "Rub or cause to rub together gratingly.",
+      "examples": [
+        "tectonic plates that inexorably grind against each other",
+        "he keeps me awake at night, grinding his teeth"
+      ],
+      "synonyms": [
+        "rub",
+        "grate",
+        "scrape",
+        "rasp"
+      ]
+    },
+    {
+      "description": "(of a dancer) rotate the hips.",
+      "examples": [
+        "go-go girls grinding to blaring disco"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A crushing or grating sound or motion.",
+      "examples": [
+        "the crunch and grind of bulldozers",
+        "the slow grind of the US legal system"
+      ]
+    },
+    {
+      "description": "Hard dull work.",
+      "examples": [
+        "relief from the daily grind"
+      ],
+      "synonyms": [
+        "chore",
+        "slog",
+        "travail"
+      ]
+    },
+    {
+      "description": "A dancer's rotary movement of the hips.",
+      "examples": [
+        "a bump and grind"
+      ]
+    }
+  ],
+  "phrases": [
+    "Motorists are concerned that city centre traffic could grind to a halt when the street is closed from October 31.",
+    "We breezed into the airport, got our tickets, cleared customs - and came to a grinding halt at immigration.",
+    "The bus then slowly ground to a halt.",
+    "Less than an hour before, traffic ground to a halt when a truck had a blow-out.",
+    "By the time they drove two more blocks, traffic had ground to a halt.",
+    "It's going to take a bunch of us grinding away at it full-time to make this stuff work.",
+    "It's quite depressing for the kind of writers who grind away at it for years sort of honing their craft and then do the book.",
+    "It really is encouraging to the guys who have been here grinding away.",
+    "He has continued to grind away at the project to which he dedicated himself more than a decade ago.",
+    "Keeping up the illusion of grinding away at the same old job isn't enough, however."
+  ],
+  "origin": "Old English grindan, probably of Germanic origin. Although no cognates are known, it may be distantly related to Latin frendere rub away, gnash.",
+  "pronounciation": "/ɡraɪnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grind_us_1.mp3"
+}

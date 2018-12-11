@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "A person without a settled home or regular work who wanders from place to place and lives by begging.",
+      "examples": [],
+      "synonyms": [
+        "tramp",
+        "drifter",
+        "down-and-out",
+        "derelict",
+        "beggar",
+        "itinerant",
+        "wanderer",
+        "nomad",
+        "wayfarer",
+        "traveller",
+        "gypsy",
+        "rover",
+        "vagabond",
+        "transient",
+        "migrant",
+        "homeless person",
+        "beachcomber",
+        "person of no fixed abode",
+        "person of no fixed address",
+        "knight of the road",
+        "bird of passage",
+        "rolling stone"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Characteristic relating to or living the life of a vagrant.",
+      "examples": [
+        "vagrant beggars"
+      ],
+      "synonyms": [
+        "homeless",
+        "drifting",
+        "transient",
+        "roving",
+        "roaming",
+        "floating",
+        "unsettled",
+        "footloose",
+        "itinerant",
+        "wandering",
+        "nomadic",
+        "travelling",
+        "ambulatory",
+        "mobile",
+        "on the move",
+        "journeying",
+        "rambling",
+        "touring",
+        "vagabond",
+        "migrant",
+        "migrating",
+        "migratory",
+        "rootless"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French vagarant wandering about, from the verb vagrer.",
+  "pronounciation": "/ˈvāɡrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vagrant_us_1.mp3"
+}

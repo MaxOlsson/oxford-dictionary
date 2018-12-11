@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The state of having, owning, or controlling something.",
+      "examples": [
+        "he had taken possession of one of the sofas",
+        "the book came into my possession",
+        "are you in possession of any items over $500 in value?"
+      ],
+      "synonyms": [
+        "ownership",
+        "proprietorship",
+        "control",
+        "hands",
+        "keeping",
+        "care",
+        "custody",
+        "charge",
+        "hold",
+        "title",
+        "guardianship"
+      ]
+    },
+    {
+      "description": "An item of property; something belonging to one.",
+      "examples": [
+        "I was alone with no money or possessions",
+        "that photograph was Bert's most precious possession"
+      ],
+      "synonyms": [
+        "asset",
+        "thing",
+        "article",
+        "item owned",
+        "chattel"
+      ]
+    },
+    {
+      "description": "The state of being controlled by a demon or spirit.",
+      "examples": [
+        "they prayed for protection against demonic possession"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin possessio(n-), from the verb possidere (see possess).",
+  "pronounciation": "/pəˈzɛʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/possession_us_1.mp3"
+}

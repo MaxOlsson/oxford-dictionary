@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a voice) rough and low in pitch.",
+      "examples": [
+        "she spoke with a gruff, masculine voice"
+      ],
+      "synonyms": [
+        "rough",
+        "hoarse",
+        "harsh",
+        "guttural",
+        "throaty",
+        "husky",
+        "croaking",
+        "rasping",
+        "raspy",
+        "gravelly",
+        "growly",
+        "growling"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense coarse-grained): from Flemish and Dutch grof coarse, rude, of West Germanic origin.",
+  "pronounciation": "/ɡrəf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gruff_us_1.mp3"
+}

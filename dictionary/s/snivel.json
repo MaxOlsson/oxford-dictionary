@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Cry and sniff in a feeble or fretful way.",
+      "examples": [
+        "Kate started to snivel, looking sad and stunned"
+      ],
+      "synonyms": [
+        "sniffle",
+        "snuffle",
+        "run at the nose",
+        "have a running nose",
+        "have a runny nose"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of snivelling.",
+      "examples": [
+        "Lucy's torrent of howls weakened to a snivel"
+      ]
+    }
+  ],
+  "origin": "Late Old English (recorded only in the verbal noun snyflung mucus), from snofl, in the same sense; compare with snuffle.",
+  "pronounciation": "/ˈsnivəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snivel_us_1.mp3"
+}

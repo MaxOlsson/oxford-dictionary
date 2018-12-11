@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "An apparatus using or applying mechanical power and having several parts, each with a definite function and together performing a particular task.",
+      "examples": [
+        "a fax machine",
+        "a shredding machine"
+      ],
+      "synonyms": [
+        "apparatus",
+        "appliance",
+        "instrument",
+        "tool",
+        "utensil",
+        "device",
+        "unit",
+        "contraption",
+        "contrivance",
+        "gadget",
+        "mechanism",
+        "engine",
+        "motor",
+        "lever",
+        "pulley"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially in manufacturing) make or operate on with a machine.",
+      "examples": [
+        "the cylinder covers are waiting to be machined"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (originally denoting a structure): from French, via Latin from Doric Greek makhana ( Greek mēkhanē, from mēkhos contrivance).",
+  "pronounciation": "/məˈʃin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/machine_us_1.mp3"
+}

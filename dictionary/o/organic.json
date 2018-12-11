@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or derived from living matter.",
+      "examples": [
+        "organic soils"
+      ],
+      "synonyms": [
+        "living",
+        "live",
+        "animate",
+        "biological",
+        "natural"
+      ]
+    },
+    {
+      "description": "(of food or farming methods) produced or involving production without the use of chemical fertilizers, pesticides, or other artificial agents.",
+      "examples": [],
+      "synonyms": [
+        "pesticide-free",
+        "additive-free",
+        "chemical-free",
+        "non-chemical",
+        "natural"
+      ]
+    },
+    {
+      "description": "Relating to a bodily organ or organs.",
+      "examples": []
+    },
+    {
+      "description": "Denoting a relation between elements of something such that they fit together harmoniously as necessary parts of a whole.",
+      "examples": [
+        "the organic unity of the integral work of art"
+      ],
+      "synonyms": [
+        "structured",
+        "organized",
+        "coherent",
+        "integrated",
+        "coordinated",
+        "ordered",
+        "systematic",
+        "systematized",
+        "methodical",
+        "orderly",
+        "consistent",
+        "harmonious",
+        "methodized"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Latin from Greek organikos relating to an organ or instrument.",
+  "pronounciation": "/ôrˈɡanik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/organic_us_1.mp3"
+}

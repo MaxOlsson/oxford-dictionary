@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A submarine.",
+      "examples": []
+    },
+    {
+      "description": "A subscription.",
+      "examples": []
+    },
+    {
+      "description": "A substitute.",
+      "examples": [],
+      "synonyms": [
+        "replacement",
+        "deputy",
+        "relief",
+        "proxy",
+        "reserve",
+        "surrogate",
+        "cover",
+        "fill-in",
+        "stand-in",
+        "standby",
+        "locum",
+        "locum tenens",
+        "understudy",
+        "stopgap",
+        "alternative",
+        "ancillary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as a substitute for someone.",
+      "examples": [
+        "he subbed for Scott as weatherman"
+      ],
+      "synonyms": [
+        "deputize",
+        "act as deputy",
+        "act as a substitute",
+        "fill in",
+        "sit in",
+        "stand in",
+        "act as stand-in",
+        "cover",
+        "act as locum",
+        "be a proxy",
+        "hold the fort"
+      ]
+    }
+  ],
+  "pronounciation": "/səb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sub_1_us_1.mp3"
+}

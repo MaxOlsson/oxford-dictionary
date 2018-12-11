@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Humorous in a playful, mischievous, or facetious manner.",
+      "examples": [
+        "a waggish riposte"
+      ],
+      "synonyms": [
+        "playful",
+        "roguish",
+        "impish",
+        "mischievous",
+        "puckish",
+        "joking",
+        "jokey",
+        "jesting",
+        "jocular",
+        "jolly",
+        "merry",
+        "in fun",
+        "in jest",
+        "facetious",
+        "witty",
+        "amusing",
+        "entertaining",
+        "funny",
+        "droll",
+        "comic",
+        "comical",
+        "chucklesome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwaɡiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/waggish_us_1.mp3"
+}

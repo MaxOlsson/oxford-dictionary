@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Convert (a coded message) into intelligible language.",
+      "examples": [],
+      "synonyms": [
+        "decipher",
+        "decrypt",
+        "unravel",
+        "untangle",
+        "work out",
+        "sort out",
+        "piece together",
+        "solve",
+        "interpret",
+        "translate",
+        "construe",
+        "explain",
+        "understand",
+        "comprehend",
+        "apprehend",
+        "grasp"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A translation of a coded message.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/diˈkoʊd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decode_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Full of life or excitement; lively.",
+      "examples": [
+        "an animated conversation"
+      ],
+      "synonyms": [
+        "lively",
+        "spirited",
+        "high-spirited",
+        "energetic",
+        "full of life",
+        "excited",
+        "enthusiastic",
+        "eager",
+        "alive",
+        "active",
+        "vigorous",
+        "vibrant",
+        "vital",
+        "vivacious",
+        "buoyant",
+        "exuberant",
+        "ebullient",
+        "effervescent",
+        "bouncy",
+        "bubbly",
+        "perky",
+        "sparkling",
+        "sprightly",
+        "zestful"
+      ]
+    },
+    {
+      "description": "(of a movie or image) made using animation techniques.",
+      "examples": [
+        "an animated version of the classic fairy tale"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈænəˌmeɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/animated_us_1.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "State or assert that something is the case, typically without providing evidence or proof.",
+      "examples": [
+        "he claimed that he came from a wealthy, educated family",
+        "“I'm entitled to be conceited,” he claimed",
+        "these sunblocks claim protection factors as high as 34"
+      ],
+      "synonyms": [
+        "assert",
+        "declare",
+        "profess",
+        "maintain",
+        "state",
+        "hold",
+        "affirm",
+        "avow",
+        "aver",
+        "protest",
+        "insist",
+        "swear",
+        "attest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An assertion of the truth of something, typically one that is disputed or in doubt.",
+      "examples": [
+        "he was dogged by the claim that he had CIA links",
+        "history belies statesmen's claims to be in charge of events"
+      ],
+      "synonyms": [
+        "assertion",
+        "declaration",
+        "profession",
+        "affirmation",
+        "avowal",
+        "averment",
+        "protestation",
+        "representation"
+      ]
+    },
+    {
+      "description": "A demand or request for something considered one's due.",
+      "examples": [
+        "the court had denied their claims to asylum"
+      ],
+      "synonyms": [
+        "request",
+        "application"
+      ]
+    }
+  ],
+  "phrases": [
+    "his claim to fame was bringing Garbo to Hollywood",
+    "One of the claims to fame at Royal St George's is that it was recast as Royal St Mark's by Ian Fleming, and used as the setting for James Bond's epic match in Goldfinger.",
+    "Among its claims to fame, Soweto includes the one street in the world that can boast the former homes of two Nobel Peace Prize winners.",
+    "Tuskegee has another claim to fame - it is the birthplace of the late Rosa Parks.",
+    "Seven years later, he was in charge of the Dunblane branch, and it is one of his claims to fame that, at 23, he was the youngest bank manager in Scotland."
+  ],
+  "origin": "Middle English: from Old French claime (noun), clamer (verb), from Latin clamare call out.",
+  "pronounciation": "/klām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/claim_us_1.mp3"
+}

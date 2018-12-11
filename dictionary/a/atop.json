@@ -1,0 +1,26 @@
+{
+  "preposition": [
+    {
+      "description": "On the top of.",
+      "examples": [
+        "the weathervane is perched atop the barn"
+      ],
+      "synonyms": [
+        "over",
+        "higher than",
+        "higher up than",
+        "overlooking"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "On the top.",
+      "examples": [
+        "the air raid siren atop of the courthouse"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈtäp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/atop_us_1.mp3"
+}

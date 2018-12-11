@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Sexually attracted not exclusively to people of one particular gender; attracted to both men and women.",
+      "examples": [],
+      "synonyms": [
+        "ambisexual"
+      ]
+    },
+    {
+      "description": "(of a flower) having both stamens and pistils; hermaphrodite.",
+      "examples": [],
+      "synonyms": [
+        "hermaphrodite",
+        "hermaphroditic"
+      ]
+    },
+    {
+      "description": "(of a species) having two distinct sexes.",
+      "examples": [
+        "in mainland Europe there are eleven bisexual species of this genus"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is sexually attracted not exclusively to people of one particular gender.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌbaɪˈsɛkʃ(u)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bisexual_us_1.mp3"
+}

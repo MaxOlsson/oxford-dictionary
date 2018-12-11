@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) which can be fertilized by male gametes.",
+      "examples": [
+        "a herd of female deer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A female person, animal, or plant.",
+      "examples": [],
+      "synonyms": [
+        "woman",
+        "lady",
+        "member of the fair sex",
+        "member of the gentle sex"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French femelle, from Latin femella, diminutive of femina a woman. The change in the ending was due to association with male, but the words male and female are not linked etymologically.",
+  "pronounciation": "/ˈfēˌmāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/female_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "An animal of a large race of the brown bear native to North America.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Gray or gray-haired.",
+      "examples": [
+        "a grizzly beard"
+      ],
+      "synonyms": [
+        "grey",
+        "greying",
+        "greyish",
+        "silver",
+        "silvery",
+        "snowy",
+        "snowy-white",
+        "white",
+        "whitish",
+        "hoary",
+        "hoar",
+        "salt-and-pepper"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as adjective): from grizzle. The noun dates from the early 19th century.",
+  "pronounciation": "/ˈɡrɪzli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grizzly_us_1.mp3"
+}

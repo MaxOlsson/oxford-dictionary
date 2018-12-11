@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A puree of stewed apples, typically sweetened.",
+      "examples": []
+    },
+    {
+      "description": "Nonsense.",
+      "examples": [
+        "Equal Opportunity for All—Elmer says that's all applesauce"
+      ],
+      "synonyms": [
+        "prattle",
+        "chatter",
+        "twitter",
+        "babble",
+        "talk",
+        "prating",
+        "gabble",
+        "jabber",
+        "blether",
+        "rambling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈapəlˌsôs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/applesauce_us_1.mp3"
+}

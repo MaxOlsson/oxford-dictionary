@@ -1,0 +1,32 @@
+{
+  "": [
+    {
+      "description": "The chemical element cerium.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Chemical Engineer.",
+      "examples": []
+    },
+    {
+      "description": "Church of England.",
+      "examples": []
+    },
+    {
+      "description": "Civil engineer.",
+      "examples": []
+    },
+    {
+      "description": "Common Era.",
+      "examples": []
+    },
+    {
+      "description": "Corps of Engineers.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/siːˈiː/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ce_us_1.mp3"
+}

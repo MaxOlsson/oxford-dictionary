@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Be a perfect example of.",
+      "examples": [
+        "Hearst's newspapers epitomized bare-knuckle yellow journalism"
+      ],
+      "synonyms": [
+        "embody",
+        "give form to",
+        "give shape to",
+        "incorporate"
+      ]
+    },
+    {
+      "description": "Give a summary of (a written work).",
+      "examples": [],
+      "synonyms": [
+        "summarize",
+        "abstract",
+        "synopsize",
+        "precis",
+        "make a outline of",
+        "make a résumé of",
+        "digest",
+        "encapsulate",
+        "recapitulate",
+        "sum up",
+        "put in a nutshell"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpɪdəˌmaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/epitomize_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to old people, especially with regard to their healthcare.",
+      "examples": [
+        "a geriatric hospital"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An old person, especially one receiving special care.",
+      "examples": [
+        "a rest home for geriatrics"
+      ],
+      "synonyms": [
+        "retired person",
+        "pensioner",
+        "old-age pensioner",
+        "oap"
+      ]
+    }
+  ],
+  "origin": "1920s: from Greek gēras old age + iatros doctor, on the pattern of paediatric.",
+  "pronounciation": "/ˌjerēˈatrik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/geriatric_us_1.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Dangerously high or steep.",
+      "examples": [
+        "the precipitous cliffs of the North Atlantic coast"
+      ],
+      "synonyms": [
+        "steep",
+        "sheer",
+        "high",
+        "perpendicular",
+        "abrupt",
+        "sharp",
+        "dizzy",
+        "vertiginous",
+        "vertical",
+        "bluff"
+      ]
+    },
+    {
+      "description": "(of an action) done suddenly and without careful consideration.",
+      "examples": [
+        "precipitous intervention"
+      ],
+      "synonyms": [
+        "reckless",
+        "impetuous",
+        "impulsive",
+        "hasty",
+        "overhasty",
+        "foolhardy",
+        "incautious",
+        "precipitate",
+        "premature",
+        "careless",
+        "heedless",
+        "thoughtless",
+        "imprudent",
+        "foolish",
+        "headstrong",
+        "adventurous",
+        "over-adventurous",
+        "hot-headed",
+        "daredevil",
+        "devil-may-care",
+        "overbold",
+        "audacious",
+        "indiscreet"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from obsolete French précipiteux, from Latin praeceps, praecip(it)- steep, headlong (see precipitate).",
+  "pronounciation": "/prəˈsipədəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precipitous_us_1.mp3"
+}

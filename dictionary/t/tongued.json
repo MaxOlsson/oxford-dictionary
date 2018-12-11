@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Having a specified kind of tongue.",
+      "examples": [
+        "the blue-tongued lizard"
+      ]
+    },
+    {
+      "description": "(in carpentry) constructed using a tongue.",
+      "examples": [
+        "the tongued boards of the ceiling"
+      ]
+    },
+    {
+      "description": "(of a note) played by tonguing.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/təNGd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tongued_us_1.mp3"
+}

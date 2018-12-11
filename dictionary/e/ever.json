@@ -1,0 +1,73 @@
+{
+  "adverb": [
+    {
+      "description": "At any time.",
+      "examples": [
+        "nothing ever seemed to ruffle her",
+        "don't you ever regret giving up all that money?"
+      ],
+      "synonyms": [
+        "at any time",
+        "at any point",
+        "on any occasion",
+        "under any circumstances",
+        "on any account"
+      ]
+    },
+    {
+      "description": "At all times; always.",
+      "examples": [
+        "ever the man of action, he was impatient with intellectuals",
+        "they lived happily ever after",
+        "he toyed with his ever-present cigar",
+        "it remains as popular as ever"
+      ],
+      "synonyms": [
+        "always",
+        "forever",
+        "at all times",
+        "eternally",
+        "until the end of time"
+      ]
+    },
+    {
+      "description": "Increasingly; constantly.",
+      "examples": [
+        "having to borrow ever larger sums"
+      ],
+      "synonyms": [
+        "continually",
+        "constantly",
+        "perpetually",
+        "perennially",
+        "always",
+        "forever",
+        "invariably",
+        "eternally",
+        "persistently"
+      ]
+    },
+    {
+      "description": "Used for emphasis in questions and other remarks, expressing astonishment or outrage.",
+      "examples": [
+        "who ever heard of a grown man being frightened of the dark?",
+        "don't you ever forget it!"
+      ],
+      "synonyms": [
+        "at all",
+        "in any way",
+        "on earth"
+      ]
+    }
+  ],
+  "phrases": [
+    "ever and anon the stillness is rent by the scream of a gibbon",
+    "Meantime, Fedellah was calmly eyeing the right whale's head, and ever and anon glancing from the deep wrinkles there to the lines in his own hand.",
+    "The government continues ever and anon, as slow as snail.",
+    "she had lived alone ever since her husband died",
+    "She has been there ever since and insists she will remain until her daughter is freed."
+  ],
+  "origin": "Old English ǣfre, of unknown origin.",
+  "pronounciation": "/ˈevər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ever_us_1.mp3"
+}

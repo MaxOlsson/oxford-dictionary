@@ -1,0 +1,29 @@
+{
+  "exclamation": [
+    {
+      "description": "A huntsman's cry to the hounds on sighting a fox.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cry of tally-ho",
+      "examples": [
+        "with a final tally-ho, they began wading forward"
+      ]
+    },
+    {
+      "description": "A fast horse-drawn coach.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Utter a cry of “tallyho”.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: apparently an alteration of French taïaut, of unknown origin.",
+  "pronounciation": "/ˌtæliˈhoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tallyho_us_1.mp3"
+}

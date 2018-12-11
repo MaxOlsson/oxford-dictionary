@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A book bound in stiff paper or flexible cardboard.",
+      "examples": [
+        "the shelves were stacked with well-thumbed paperbacks"
+      ],
+      "synonyms": [
+        "book",
+        "volume",
+        "hardback",
+        "title",
+        "work",
+        "tome",
+        "opus",
+        "treatise",
+        "manual",
+        "register",
+        "almanac",
+        "yearbook",
+        "compendium"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a book) bound in stiff paper or flexible cardboard.",
+      "examples": [
+        "the paperback edition of her biography"
+      ]
+    }
+  ],
+  "phrases": [
+    "the novel is now available in paperback",
+    "First published in hardback in 2003, the book is now available in paperback.",
+    "Let's hope for a quicker-to-read, smaller and cheaper reprinting in paperback.",
+    "This week's book review was published this year in paperback after its initial publication in hard cover last year.",
+    "This set him off on the idea of publishing literature in paperback, making it available cheaply and widely."
+  ],
+  "pronounciation": "/ˈpāpərˌbak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paperback_us_1.mp3"
+}

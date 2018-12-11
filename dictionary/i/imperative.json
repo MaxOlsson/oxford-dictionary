@@ -1,0 +1,84 @@
+{
+  "adjective": [
+    {
+      "description": "Of vital importance; crucial.",
+      "examples": [
+        "immediate action was imperative",
+        "it is imperative that standards be maintained"
+      ],
+      "synonyms": [
+        "vitally important",
+        "of vital importance",
+        "all-important",
+        "vital",
+        "crucial",
+        "critical",
+        "essential",
+        "of the essence",
+        "a matter of life and death",
+        "of great consequence",
+        "necessary",
+        "indispensable",
+        "exigent",
+        "pressing",
+        "urgent"
+      ]
+    },
+    {
+      "description": "Giving an authoritative command; peremptory.",
+      "examples": [
+        "the bell pealed again, a final imperative call"
+      ],
+      "synonyms": [
+        "peremptory",
+        "commanding",
+        "imperious",
+        "authoritative",
+        "masterful",
+        "lordly",
+        "magisterial",
+        "autocratic",
+        "dictatorial",
+        "domineering",
+        "overbearing",
+        "assertive",
+        "firm",
+        "insistent",
+        "bossy",
+        "high-handed",
+        "overweening"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An essential or urgent thing.",
+      "examples": [
+        "free movement of labor was an economic imperative"
+      ],
+      "synonyms": [
+        "necessary condition",
+        "precondition",
+        "condition",
+        "essential",
+        "requirement",
+        "requisite",
+        "necessity",
+        "proviso",
+        "qualification",
+        "imperative",
+        "basic",
+        "rudiment",
+        "obligation",
+        "duty"
+      ]
+    },
+    {
+      "description": "A verb or phrase in the imperative mood.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a grammatical term): from late Latin imperativus (literally specially ordered, translating Greek prostatikē enklisis imperative mood), from imperare to command, from in- towards + parare make ready.",
+  "pronounciation": "/əmˈpɛrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imperative_us_1.mp3"
+}

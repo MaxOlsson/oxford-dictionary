@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "State or describe exactly the nature, scope, or meaning of.",
+      "examples": [
+        "the contract will seek to define the client's obligations"
+      ],
+      "synonyms": [
+        "explain",
+        "expound",
+        "interpret",
+        "elucidate",
+        "explicate",
+        "describe",
+        "clarify"
+      ]
+    },
+    {
+      "description": "Mark out the boundary or limits of.",
+      "examples": [
+        "the river defines the park's boundary"
+      ],
+      "synonyms": [
+        "determine",
+        "establish",
+        "fix",
+        "specify",
+        "designate",
+        "decide",
+        "stipulate",
+        "settle",
+        "set out",
+        "mark out",
+        "mark off"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense bring to an end): from Old French definer, from a variant of Latin definire, from de- (expressing completion) + finire finish (from finis end).",
+  "pronounciation": "/dəˈfaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/define_us_1.mp3"
+}

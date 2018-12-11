@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Imperfect or faulty.",
+      "examples": [
+        "complaints over defective goods"
+      ],
+      "synonyms": [
+        "faulty",
+        "flawed",
+        "imperfect",
+        "shoddy",
+        "inoperative",
+        "not working",
+        "not functioning",
+        "non-functioning",
+        "malfunctioning",
+        "out of order",
+        "unsound"
+      ]
+    },
+    {
+      "description": "Having mental disabilities.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with mental disabilities.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/dəˈfektiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defective_us_2.mp3"
+}

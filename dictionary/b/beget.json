@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "(typically of a man, sometimes of a man and a woman) bring (a child) into existence by the process of reproduction.",
+      "examples": [
+        "they hoped that the King might beget an heir by his new queen"
+      ],
+      "synonyms": [
+        "father",
+        "sire",
+        "engender",
+        "generate",
+        "spawn",
+        "create",
+        "give life to",
+        "bring into being",
+        "bring into the world",
+        "have"
+      ]
+    },
+    {
+      "description": "Give rise to; bring about.",
+      "examples": [
+        "success begets further success"
+      ],
+      "synonyms": [
+        "cause",
+        "give rise to",
+        "lead to",
+        "result in",
+        "bring about",
+        "create",
+        "produce",
+        "generate",
+        "engender",
+        "spawn",
+        "occasion",
+        "effect",
+        "bring to pass",
+        "bring on",
+        "precipitate",
+        "prompt",
+        "provoke",
+        "kindle",
+        "trigger",
+        "spark off",
+        "touch off",
+        "stir up",
+        "whip up",
+        "induce",
+        "inspire",
+        "promote",
+        "foster"
+      ]
+    }
+  ],
+  "origin": "Old English begietan get, obtain by effort (see be-, get).",
+  "pronounciation": "/bəˈɡɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beget_us_1.mp3"
+}

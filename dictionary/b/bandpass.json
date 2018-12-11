@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "(of a filter) transmitting only a set range of frequencies.",
+      "examples": [
+        "a 1–40 Hz bandpass filter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The range of frequencies transmitted through a bandpass.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbandpas/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bandpass_us_1.mp3"
+}

@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "A system of words, letters, figures, or other symbols substituted for other words, letters, etc., especially for the purposes of secrecy.",
+      "examples": [
+        "the Americans cracked their diplomatic code",
+        "sending messages in code"
+      ],
+      "synonyms": [
+        "cipher",
+        "secret language",
+        "secret writing",
+        "set of symbols",
+        "key",
+        "hieroglyphics"
+      ]
+    },
+    {
+      "description": "Program instructions.",
+      "examples": [
+        "assembly code",
+        "hundreds of lines of code"
+      ]
+    },
+    {
+      "description": "A systematic collection of laws or regulations.",
+      "examples": [
+        "the criminal code"
+      ],
+      "synonyms": [
+        "law",
+        "laws",
+        "body of law",
+        "rules",
+        "regulations",
+        "constitution",
+        "system",
+        "charter",
+        "canon",
+        "jurisprudence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convert (the words of a message) into a particular code in order to convey a secret meaning.",
+      "examples": [
+        "only Mitch knew how to read the message—even the name was coded"
+      ]
+    },
+    {
+      "description": "Write code for (a computer program)",
+      "examples": [
+        "most developers code C + + like C",
+        "I no longer actively code in PHP"
+      ]
+    },
+    {
+      "description": "Specify the genetic sequence for (an amino acid or protein)",
+      "examples": [
+        "genes that code for human growth hormone"
+      ]
+    }
+  ],
+  "phrases": [
+    "You will probably have to bring the home up to code if you undertake a remodeling.",
+    "Workers replaced the windows, cleaned the brick and brought the building up to code with ramps and elevators.",
+    "He warns that bringing the building up to code would be extravagantly expensive.",
+    "We didn't have to bring the bathrooms up to code and compliance because we didn't change the existing structure; instead, we cosmetically cleaned them up.",
+    "If your older deck was built this way, bring it up to code."
+  ],
+  "origin": "Middle English: via Old French from Latin codex, codic- (see codex). The term originally denoted a systematic collection of statutes made by Justinian or another of the later Roman emperors; compare with code (sense 3 of the noun) (mid 18th century), the earliest modern sense.",
+  "pronounciation": "/koʊd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/code_us_1.mp3"
+}

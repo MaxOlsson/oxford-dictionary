@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Having a displeasingly thin, metallic sound.",
+      "examples": [
+        "tinny music played in the background"
+      ],
+      "synonyms": [
+        "jangling",
+        "jangly",
+        "jingling",
+        "jingly",
+        "plinky",
+        "thin",
+        "metallic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɪni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tinny_us_1.mp3"
+}

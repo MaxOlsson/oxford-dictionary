@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Hinder, restrain, or prevent (an action or process)",
+      "examples": [
+        "cold inhibits plant growth"
+      ],
+      "synonyms": [
+        "impede",
+        "hinder",
+        "hamper",
+        "hold back",
+        "discourage",
+        "interfere with",
+        "obstruct",
+        "put a brake on",
+        "slow",
+        "slow down",
+        "retard"
+      ]
+    },
+    {
+      "description": "Make (someone) self-conscious and unable to act in a relaxed and natural way.",
+      "examples": [
+        "his mother's strictures would always inhibit him"
+      ]
+    },
+    {
+      "description": "(in ecclesiastical law) forbid (a member of the clergy) to exercise clerical functions.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense forbid (a person) to do something): from Latin inhibere hinder, from in- in + habere hold.",
+  "pronounciation": "/ɪnˈhɪbɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inhibit_us_1.mp3"
+}

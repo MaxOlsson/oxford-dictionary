@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Cause (someone) to become motionless with horror, wonder, or astonishment.",
+      "examples": [
+        "he was transfixed by the pain in her face",
+        "she stared at him, transfixed"
+      ],
+      "synonyms": [
+        "mesmerize",
+        "hypnotize",
+        "spellbind",
+        "bewitch",
+        "captivate",
+        "entrance",
+        "enthral",
+        "fascinate",
+        "engross",
+        "enrapture",
+        "stun",
+        "stupefy",
+        "astound",
+        "grip",
+        "root someone to the spot",
+        "stop someone dead",
+        "stop someone in their tracks"
+      ]
+    },
+    {
+      "description": "Pierce with a sharp implement or weapon.",
+      "examples": [
+        "a field mouse is transfixed by the curved talons of an owl"
+      ],
+      "synonyms": [
+        "impale",
+        "stab",
+        "spear",
+        "pierce",
+        "spike",
+        "skewer",
+        "stick",
+        "gore",
+        "pin",
+        "bayonet",
+        "harpoon",
+        "lance",
+        "run through",
+        "puncture",
+        "perforate"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in transfix (sense 2)): from Latin transfix- pierced through, from the verb transfigere, from trans- across + figere fix, fasten.",
+  "pronounciation": "/tran(t)sˈfiks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/transfix_us_1.mp3"
+}

@@ -1,0 +1,72 @@
+{
+  "adjective": [
+    {
+      "description": "(of a disease or poison) extremely severe or harmful in its effects.",
+      "examples": [],
+      "synonyms": [
+        "poisonous",
+        "toxic",
+        "venomous",
+        "noxious",
+        "deadly",
+        "lethal",
+        "fatal",
+        "mortal",
+        "terminal",
+        "death-dealing",
+        "life-threatening",
+        "dangerous",
+        "harmful",
+        "injurious",
+        "pernicious",
+        "damaging",
+        "destructive",
+        "unsafe"
+      ]
+    },
+    {
+      "description": "Bitterly hostile.",
+      "examples": [
+        "a virulent attack on liberalism"
+      ],
+      "synonyms": [
+        "vitriolic",
+        "malicious",
+        "malevolent",
+        "malignant",
+        "malign",
+        "evil-intentioned",
+        "resentful",
+        "hostile",
+        "spiteful",
+        "venomous",
+        "vicious",
+        "vindictive",
+        "bitter",
+        "rancorous",
+        "acrimonious",
+        "mordant",
+        "astringent",
+        "incisive",
+        "cutting",
+        "biting",
+        "scathing",
+        "caustic",
+        "stinging",
+        "blistering",
+        "searing",
+        "withering",
+        "abusive",
+        "mean",
+        "nasty",
+        "aggressive",
+        "savage",
+        "harsh",
+        "devastating"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (originally describing a poisoned wound): from Latin virulentus, from virus poison (see virus).",
+  "pronounciation": "/ˈvir(y)ələnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/virulent_us_2.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a young person) big and strong.",
+      "examples": [
+        "they had three strapping sons"
+      ],
+      "synonyms": [
+        "big",
+        "strong",
+        "well built",
+        "sturdily built",
+        "sturdy",
+        "brawny",
+        "burly",
+        "broad-shouldered",
+        "muscular",
+        "muscly",
+        "well muscled",
+        "robust",
+        "rugged",
+        "lusty",
+        "herculean"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Adhesive plaster for binding injured parts of the body.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈstræpɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strapping_us_1.mp3"
+}

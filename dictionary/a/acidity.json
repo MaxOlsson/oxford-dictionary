@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The level of acid in substances such as water, soil, or wine.",
+      "examples": []
+    },
+    {
+      "description": "The bitterness or sharpness of a person's remarks or tone.",
+      "examples": [
+        "the cutting acidity in his voice"
+      ],
+      "synonyms": [
+        "harshness",
+        "sharpness",
+        "roughness",
+        "abrasiveness",
+        "severity",
+        "acerbity",
+        "astringency",
+        "bitterness",
+        "tartness",
+        "edge",
+        "acrimony",
+        "virulence",
+        "sarcasm"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈsidədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acidity_us_1.mp3"
+}

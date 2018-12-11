@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "Importance requiring swift action.",
+      "examples": [
+        "the discovery of the ozone hole gave urgency to the issue of CFCs"
+      ],
+      "synonyms": [
+        "importance",
+        "top priority",
+        "imperativeness",
+        "weight",
+        "weightiness",
+        "gravity",
+        "necessity",
+        "exigency",
+        "seriousness",
+        "momentousness",
+        "cruciality",
+        "extremity",
+        "hurry",
+        "haste"
+      ]
+    },
+    {
+      "description": "An earnest and persistent quality; insistence.",
+      "examples": [
+        "Emilia heard the urgency in his voice"
+      ],
+      "synonyms": [
+        "insistence",
+        "persistence",
+        "determination",
+        "resolution",
+        "tenacity",
+        "obstinacy",
+        "doggedness"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈərdʒənsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/urgency_us_1.mp3"
+}

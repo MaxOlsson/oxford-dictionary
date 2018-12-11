@@ -1,0 +1,89 @@
+{
+  "verb": [
+    {
+      "description": "Take (another person's property) without permission or legal right and without intending to return it.",
+      "examples": [
+        "thieves stole her bicycle",
+        "stolen goods",
+        "she was found guilty of stealing from her employers"
+      ],
+      "synonyms": [
+        "theft",
+        "thieving",
+        "thievery",
+        "robbery",
+        "larceny",
+        "burglary",
+        "shoplifting",
+        "pilfering",
+        "pilferage",
+        "looting",
+        "appropriation",
+        "misappropriation"
+      ]
+    },
+    {
+      "description": "Move somewhere quietly or surreptitiously.",
+      "examples": [
+        "he stole down to the kitchen",
+        "a delicious languor was stealing over her"
+      ],
+      "synonyms": [
+        "creep",
+        "sneak",
+        "slink",
+        "slip",
+        "slither",
+        "slide",
+        "glide",
+        "sidle",
+        "slope",
+        "edge",
+        "move furtively",
+        "tiptoe",
+        "pussyfoot",
+        "pad",
+        "prowl"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bargain.",
+      "examples": [
+        "for $5 it was a steal"
+      ],
+      "synonyms": [
+        "good buy",
+        "cheap buy"
+      ]
+    },
+    {
+      "description": "An act of stealing something.",
+      "examples": [
+        "New York's biggest art steal"
+      ],
+      "synonyms": [
+        "theft",
+        "robbery",
+        "raid",
+        "ram raid",
+        "burglary",
+        "larceny",
+        "thievery",
+        "break-in",
+        "hold-up"
+      ]
+    }
+  ],
+  "phrases": [
+    "Still, almost every week, various baddies steal Jimmy blind and threaten to bring down plague.",
+    "I'd better get back on the floor before those raccoons steal me blind.",
+    "But again, the staff of the hotel didn't merely steal me blind.",
+    "Even as the bandits and kidnappers find creatively hideous ways of earning a better living, we have among us corporate crooks who are stealing us blind.",
+    "The fear he inspires is not that he will steal you blind and corrupt your morals."
+  ],
+  "origin": "Old English stelan (verb), of Germanic origin; related to Dutch stelen and German stehlen.",
+  "pronounciation": "/stil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steal_us_1.mp3"
+}

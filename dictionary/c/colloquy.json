@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A conversation.",
+      "examples": [
+        "they broke off their colloquy at once",
+        "an evening of sophisticated colloquy"
+      ],
+      "synonyms": [
+        "conversation",
+        "talk",
+        "communication",
+        "interchange",
+        "discourse",
+        "argument"
+      ]
+    },
+    {
+      "description": "A gathering for discussion of theological questions.",
+      "examples": [],
+      "synonyms": [
+        "meeting",
+        "assembly",
+        "gathering",
+        "conference",
+        "seminar",
+        "convention",
+        "convocation",
+        "congress",
+        "rally",
+        "council",
+        "symposium",
+        "conclave",
+        "congregation",
+        "synod",
+        "diet"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin colloquium conversation.",
+  "pronounciation": "/ˈkɑləˌkwi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colloquy_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "adverb": [
+    {
+      "description": "(with reference to something unpleasant or unwelcome) intensely.",
+      "examples": [
+        "the whole situation was acutely embarrassing",
+        "Elizabeth felt Jane's distress acutely"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceedingly",
+        "very",
+        "markedly",
+        "severely",
+        "intensely",
+        "in the extreme",
+        "deeply",
+        "profoundly",
+        "keenly",
+        "sharply",
+        "painfully",
+        "desperately",
+        "awfully",
+        "terribly",
+        "tremendously",
+        "enormously",
+        "thoroughly",
+        "heartily"
+      ]
+    },
+    {
+      "description": "In a way that shows a perceptive understanding or insight.",
+      "examples": [
+        "we are all acutely aware of the fragility of our world"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈkjutli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acutely_us_1.mp3"
+}

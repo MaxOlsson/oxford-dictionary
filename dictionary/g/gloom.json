@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "Partial or total darkness.",
+      "examples": [
+        "he strained his eyes peering into the gloom"
+      ],
+      "synonyms": [
+        "darkness",
+        "semi-darkness",
+        "dark",
+        "gloominess",
+        "dimness",
+        "blackness",
+        "murkiness",
+        "murk",
+        "shadows",
+        "shade",
+        "shadiness",
+        "obscurity"
+      ]
+    },
+    {
+      "description": "A state of depression or despondency.",
+      "examples": [
+        "a year of economic gloom for the car industry",
+        "his gloom deepened"
+      ],
+      "synonyms": [
+        "despondency",
+        "depression",
+        "dejection",
+        "downheartedness",
+        "dispiritedness",
+        "heavy-heartedness",
+        "melancholy",
+        "melancholia",
+        "unhappiness",
+        "sadness",
+        "glumness",
+        "gloominess",
+        "low spirits",
+        "dolefulness",
+        "misery",
+        "sorrow",
+        "sorrowfulness",
+        "forlornness",
+        "woefulness",
+        "woe",
+        "wretchedness",
+        "lugubriousness",
+        "moroseness",
+        "mirthlessness",
+        "cheerlessness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a dark or somber appearance.",
+      "examples": [
+        "the black gibbet glooms beside the way"
+      ]
+    },
+    {
+      "description": "Be or look depressed or despondent.",
+      "examples": [
+        "Charles was always glooming about money"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): of unknown origin.",
+  "pronounciation": "/ɡlum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gloom_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "noun": [
+    {
+      "description": "An electronic document in which data is arranged in the rows and columns of a grid and can be manipulated and used in calculations.",
+      "examples": [
+        "we have a color-coded Excel spreadsheet of all of our trip expenses",
+        "William spent most of the day updating the Risk Assessment spreadsheet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use or create a spreadsheet.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈspredˌSHēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spreadsheet_us_1.mp3"
+}

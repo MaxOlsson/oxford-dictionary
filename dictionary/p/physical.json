@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the body as opposed to the mind.",
+      "examples": [
+        "a whole range of physical and mental challenges"
+      ],
+      "synonyms": [
+        "bodily",
+        "corporeal",
+        "corporal",
+        "fleshly",
+        "in the flesh"
+      ]
+    },
+    {
+      "description": "Relating to things perceived through the senses as opposed to the mind; tangible or concrete.",
+      "examples": [
+        "pleasant physical environments",
+        "physical assets such as houses or cars"
+      ],
+      "synonyms": [
+        "material",
+        "substantial",
+        "solid",
+        "concrete",
+        "tangible",
+        "palpable",
+        "visible",
+        "real",
+        "actual"
+      ]
+    },
+    {
+      "description": "Relating to physics or the operation of natural forces generally.",
+      "examples": [
+        "physical laws"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medical examination to determine a person's bodily fitness.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "They fought over the controller for a good 20 minutes until their mom's had to separate them because they were getting physical.",
+    "They even joked about what would happen if their competition got physical.",
+    "Or maybe it was fortunate for Bryant that he's smart enough to let words fuel the fire and not get physical with Shaq.",
+    "It got physical soon enough and I watched him beat my mother ruthlessly.",
+    "The newspaper followed up on the death of a black club patron who was suffocated by a white bouncer when a dispute over the club's dress code got physical."
+  ],
+  "origin": "Late Middle English (in the sense relating to medicine): from medieval Latin physicalis, from Latin physica things relating to nature (see physic). Sense 2 dates from the late 16th century and sense 1 from the late 18th century.",
+  "pronounciation": "/ˈfɪzɪk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/physical_us_1.mp3"
+}

@@ -1,0 +1,119 @@
+{
+  "adjective": [
+    {
+      "description": "Doing something or taking place after the expected, proper, or usual time.",
+      "examples": [
+        "his late arrival",
+        "she was half an hour late for her lunch appointment"
+      ],
+      "synonyms": [
+        "behind time",
+        "behind schedule",
+        "behind",
+        "behindhand"
+      ]
+    },
+    {
+      "description": "Belonging or taking place near the end of a particular time or period.",
+      "examples": [
+        "they won the game with a late goal"
+      ]
+    },
+    {
+      "description": "(of a specified person) no longer alive.",
+      "examples": [
+        "her late husband's grave",
+        "the late William Jennings Bryan"
+      ],
+      "synonyms": [
+        "dead",
+        "deceased",
+        "departed",
+        "lamented",
+        "passed away",
+        "passed on",
+        "lost",
+        "expired",
+        "gone",
+        "extinct",
+        "perished"
+      ]
+    },
+    {
+      "description": "Of recent date.",
+      "examples": [
+        "the latest news"
+      ],
+      "synonyms": [
+        "most recent",
+        "newest",
+        "brand new",
+        "just out",
+        "just released",
+        "fresh",
+        "present-day",
+        "up to date",
+        "up to the minute",
+        "state-of-the-art",
+        "current",
+        "modern",
+        "contemporary",
+        "modernistic",
+        "fashionable",
+        "in fashion",
+        "in vogue",
+        "voguish",
+        "bang up to date",
+        "in"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "After the expected, proper, or usual time.",
+      "examples": [
+        "she arrived late"
+      ],
+      "synonyms": [
+        "behind schedule",
+        "behind time",
+        "behindhand",
+        "unpunctually",
+        "belatedly",
+        "tardily",
+        "at the last minute",
+        "at the tail end"
+      ]
+    },
+    {
+      "description": "Far on in time; toward the end of a period.",
+      "examples": [
+        "it happened late in 1984"
+      ]
+    },
+    {
+      "description": "Formerly but not now living or working in a specified place or institution.",
+      "examples": [
+        "Captain Falconer, late of the British army"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The most recent news or fashion.",
+      "examples": [
+        "have you heard the latest?"
+      ]
+    }
+  ],
+  "phrases": [
+    "all new cars will be required to meet this standard by 1997 at the latest",
+    "Once a customer fulfills all the prerequisites the credit is approved within five days at the latest.",
+    "Any remaining fraction of a share will be paid in cash when the distribution is made by November 7 at the latest.",
+    "If the army is to be ready for action before the Iraqi summer arrives, troops will need to be in the region by February at the latest.",
+    "Due to the failure on the deal, the Cabinet announcement would likely be made by next Thursday at the latest."
+  ],
+  "origin": "Old English læt (adjective; also in the sense slow, tardy), late (adverb), of Germanic origin; related to German lass, from an Indo-European root shared by Latin lassus weary, let, and let.",
+  "pronounciation": "/lāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/late_us_1.mp3"
+}

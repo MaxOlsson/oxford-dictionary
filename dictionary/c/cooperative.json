@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Involving mutual assistance in working toward a common goal.",
+      "examples": [
+        "every member has clearly defined tasks in a cooperative enterprise"
+      ],
+      "synonyms": [
+        "collaborative",
+        "collective",
+        "communal",
+        "combined",
+        "common",
+        "joint",
+        "shared",
+        "mutual",
+        "united",
+        "unified",
+        "allied",
+        "cross-party",
+        "pooled",
+        "mass",
+        "concerted",
+        "coordinated",
+        "interactive",
+        "unanimous",
+        "harmonious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A farm, business, or other organization which is owned and run jointly by its members, who share the profits or benefits.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from late Latin cooperativus, from Latin cooperat- worked together, from the verb cooperari (see cooperate).",
+  "pronounciation": "/kōˈäp(ə)rədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cooperative_us_1.mp3"
+}

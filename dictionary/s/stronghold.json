@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A place that has been fortified so as to protect it against attack.",
+      "examples": [],
+      "synonyms": [
+        "fortress",
+        "fort",
+        "castle",
+        "citadel",
+        "garrison",
+        "keep",
+        "tower",
+        "hold",
+        "donjon",
+        "bunker"
+      ]
+    },
+    {
+      "description": "A place where a particular cause or belief is strongly defended or upheld.",
+      "examples": [
+        "a Republican stronghold"
+      ],
+      "synonyms": [
+        "bastion",
+        "centre",
+        "refuge",
+        "hotbed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstrɔŋˌhoʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stronghold_us_1.mp3"
+}

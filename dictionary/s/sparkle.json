@@ -1,0 +1,110 @@
+{
+  "verb": [
+    {
+      "description": "Shine brightly with flashes of light.",
+      "examples": [
+        "her earrings sparkled as she turned her head"
+      ],
+      "synonyms": [
+        "glitter",
+        "glint",
+        "glisten",
+        "twinkle",
+        "flicker",
+        "flash",
+        "blink",
+        "wink",
+        "shimmer",
+        "dance",
+        "shine",
+        "gleam",
+        "glow"
+      ]
+    },
+    {
+      "description": "Be vivacious and witty.",
+      "examples": [
+        "after a glass of wine, she began to sparkle"
+      ],
+      "synonyms": [
+        "be lively",
+        "be vivacious",
+        "be animated",
+        "be ebullient",
+        "be exuberant",
+        "be bubbly",
+        "be effervescent",
+        "be sparkling",
+        "be witty",
+        "be brilliant",
+        "be enthusiastic",
+        "be full of life"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A glittering flash of light.",
+      "examples": [
+        "there was a sparkle in his eyes"
+      ],
+      "synonyms": [
+        "glitter",
+        "glint",
+        "twinkle",
+        "twinkling",
+        "flicker",
+        "flickering",
+        "shimmer",
+        "flash",
+        "flashing",
+        "blinking",
+        "winking",
+        "dancing",
+        "shine",
+        "gleam",
+        "glow"
+      ]
+    },
+    {
+      "description": "Vivacity and wit.",
+      "examples": [
+        "she's got a kind of sparkle"
+      ],
+      "synonyms": [
+        "vivacity",
+        "animation",
+        "liveliness",
+        "vitality",
+        "life",
+        "verve",
+        "high spirits",
+        "exuberance",
+        "zest",
+        "buoyancy",
+        "effervescence",
+        "enthusiasm",
+        "ardour",
+        "energy",
+        "vigour",
+        "go",
+        "elan",
+        "gusto",
+        "brio",
+        "bounce",
+        "spirit",
+        "spiritedness",
+        "dynamism",
+        "activity",
+        "fire",
+        "panache",
+        "colour",
+        "dash",
+        "drive"
+      ]
+    }
+  ],
+  "origin": "Middle English: frequentative (verb) or diminutive (noun) of spark.",
+  "pronounciation": "/ˈspärk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sparkle_us_1.mp3"
+}

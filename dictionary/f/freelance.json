@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Working for different companies at different times rather than being permanently employed by one company.",
+      "examples": [
+        "a freelance journalist"
+      ],
+      "synonyms": [
+        "hired",
+        "paid",
+        "bought",
+        "professional",
+        "venal",
+        "hireling"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Earning one's living as a freelance.",
+      "examples": [
+        "I work freelance from home"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A freelance worker.",
+      "examples": [],
+      "synonyms": [
+        "writer",
+        "feature writer",
+        "columnist",
+        "correspondent",
+        "reporter",
+        "journalist",
+        "penman"
+      ]
+    },
+    {
+      "description": "A medieval mercenary.",
+      "examples": [],
+      "synonyms": [
+        "soldier of fortune",
+        "professional soldier",
+        "hired soldier",
+        "hireling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Earn one's living as a freelance.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century (denoting a mercenary): originally as two words.",
+  "pronounciation": "/ˈfriˌlæns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/freelance_us_1.mp3"
+}

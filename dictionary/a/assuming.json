@@ -1,0 +1,43 @@
+{
+  "conjunction": [
+    {
+      "description": "Used for the purpose of argument to indicate a premise on which a statement can be based.",
+      "examples": [
+        "assuming that the treaty is ratified, what is its relevance?"
+      ],
+      "synonyms": [
+        "considering",
+        "taking into consideration",
+        "taking into account",
+        "in view of",
+        "bearing in mind",
+        "giving consideration to",
+        "keeping in mind",
+        "in the light of"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Arrogant or presumptuous.",
+      "examples": [],
+      "synonyms": [
+        "bold",
+        "brazen",
+        "brazen-faced",
+        "barefaced",
+        "brash",
+        "shameless",
+        "immodest",
+        "audacious",
+        "daring",
+        "presumptuous",
+        "presuming",
+        "familiar",
+        "overfamiliar"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈsumɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assuming_us_1.mp3"
+}

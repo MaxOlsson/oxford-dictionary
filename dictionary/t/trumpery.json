@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Attractive articles of little value or use.",
+      "examples": [],
+      "synonyms": [
+        "trinkets",
+        "baubles",
+        "cheap finery",
+        "knick-knacks",
+        "ornaments",
+        "bibelots",
+        "gewgaws",
+        "gimcracks"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Showy but worthless.",
+      "examples": [
+        "trumpery jewelry"
+      ],
+      "synonyms": [
+        "showy",
+        "gaudy",
+        "garish",
+        "vulgar",
+        "tasteless"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting trickery): from Old French tromperie, from tromper deceive.",
+  "pronounciation": "/ˈtrəmp(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trumpery_us_1.mp3"
+}

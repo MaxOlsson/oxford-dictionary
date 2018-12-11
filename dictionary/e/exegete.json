@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "An expounder or textual interpreter, especially of scripture.",
+      "examples": [],
+      "synonyms": [
+        "commentator",
+        "observer",
+        "monitor",
+        "pundit",
+        "expert",
+        "authority",
+        "arbiter",
+        "interpreter",
+        "exponent",
+        "expounder"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Expound or interpret (a text, especially scripture)",
+      "examples": [
+        "I am able to exegete the scriptures in ways that make sense"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from Greek exēgētēs, from exēgeisthai interpret.",
+  "pronounciation": "/ˈɛksəˌdʒit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exegete_us_1.mp3"
+}

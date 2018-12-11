@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "An Old World songbird with a long tail, short rounded wings, and a loud, discordant or musical voice.",
+      "examples": []
+    },
+    {
+      "description": "A person who babbles.",
+      "examples": [
+        "no one could accuse him of being a quiet man—in fact he's a babbler"
+      ],
+      "synonyms": [
+        "talker",
+        "chatterer",
+        "jabberer",
+        "prattler",
+        "blatherer",
+        "prater"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbab(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/babbler_us_1.mp3"
+}

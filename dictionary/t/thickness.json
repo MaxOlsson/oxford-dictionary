@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The distance between opposite sides of something.",
+      "examples": [
+        "the gateway is several feet in thickness",
+        "paving slabs can be obtained in varying thicknesses"
+      ],
+      "synonyms": [
+        "width",
+        "breadth",
+        "depth",
+        "diameter",
+        "extent"
+      ]
+    },
+    {
+      "description": "The state or quality of being thick.",
+      "examples": [
+        "he gave his eyes time to adjust to the thickness of the fog",
+        "the thickness of his hair"
+      ],
+      "synonyms": [
+        "density",
+        "denseness",
+        "heaviness",
+        "opacity",
+        "opaqueness",
+        "impenetrability",
+        "soupiness",
+        "murkiness"
+      ]
+    }
+  ],
+  "origin": "Old English thicness (see thick, -ness).",
+  "pronounciation": "/ˈTHiknəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thickness_us_1.mp3"
+}

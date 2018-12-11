@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of flowing or flowing out.",
+      "examples": [
+        "the flux of men and women moving back and forth",
+        "a localized flux of calcium into the cell"
+      ],
+      "synonyms": [
+        "outflow",
+        "outpouring",
+        "outflowing",
+        "outrush",
+        "rush",
+        "current",
+        "flood",
+        "deluge",
+        "emission",
+        "discharge",
+        "issue"
+      ]
+    },
+    {
+      "description": "An abnormal discharge of blood or other matter from or within the body.",
+      "examples": [],
+      "synonyms": [
+        "discharge",
+        "outflowing",
+        "outpouring",
+        "outrush",
+        "rush",
+        "flood",
+        "deluge",
+        "issue",
+        "spurt",
+        "jet",
+        "cascade",
+        "stream",
+        "torrent",
+        "gush",
+        "outburst"
+      ]
+    },
+    {
+      "description": "Continuous change.",
+      "examples": [
+        "since the fall of the wall Berlin has been a city in flux",
+        "the whole political system is in a state of flux"
+      ],
+      "synonyms": [
+        "continuous change",
+        "changeability",
+        "changeableness",
+        "variability",
+        "inconstancy",
+        "fluidity",
+        "instability",
+        "unsteadiness",
+        "unpredictability",
+        "irregularity",
+        "fitfulness",
+        "unreliability",
+        "fickleness"
+      ]
+    },
+    {
+      "description": "A substance mixed with a solid to lower its melting point, used especially in soldering and brazing metals or to promote vitrification in glass or ceramics.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Treat (a metal object) with a flux to promote melting.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin fluxus, from fluere to flow.",
+  "pronounciation": "/fləks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flux_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "In some way; by some means.",
+      "examples": [
+        "somehow I managed to get the job done"
+      ],
+      "synonyms": [
+        "by some means",
+        "by any means",
+        "by any means whatsoever",
+        "in some way",
+        "one way or another",
+        "in one way or another",
+        "no matter how",
+        "somehow or other",
+        "by fair means or foul",
+        "by hook or by crook",
+        "come what may",
+        "come hell or high water"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəmˌhou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/somehow_us_1.mp3"
+}

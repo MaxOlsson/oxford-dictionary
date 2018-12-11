@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "First in importance, order, or position; leading.",
+      "examples": [
+        "Germany's premier rock band",
+        "the premier national publication"
+      ],
+      "synonyms": [
+        "leading",
+        "foremost",
+        "chief",
+        "principal",
+        "head",
+        "top-ranking",
+        "top",
+        "top-tier",
+        "prime",
+        "primary",
+        "first",
+        "highest",
+        "second to none",
+        "pre-eminent",
+        "main",
+        "senior",
+        "outstanding",
+        "master"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A prime minister or other head of government.",
+      "examples": [],
+      "synonyms": [
+        "head of government",
+        "prime minister",
+        "pm",
+        "president",
+        "chief minister",
+        "chancellor"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French, first, from Latin primarius principal.",
+  "pronounciation": "/prəˈmir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/premier_us_1.mp3"
+}

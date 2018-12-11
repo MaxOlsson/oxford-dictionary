@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Used to express feelings of annoyance, surprise, or pleasure.",
+      "examples": [
+        "now just a doggone minute",
+        "it's doggone good to be home"
+      ],
+      "synonyms": [
+        "complete",
+        "total",
+        "utter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Used to express surprise, irritation, or anger.",
+      "examples": [
+        "from that moment, doggone it if I didn't see a motivation in Joey!",
+        "I'll be doggoned if every fourth kid is affected"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: probably from dog on it, euphemism for God damn it.",
+  "pronounciation": "/ˈdä(ɡ)ɡôn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doggone_us_1.mp3"
+}

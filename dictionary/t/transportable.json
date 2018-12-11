@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be carried or moved.",
+      "examples": [
+        "the first transportable phones"
+      ],
+      "synonyms": [
+        "mobile",
+        "portable",
+        "movable",
+        "manoeuvrable",
+        "light",
+        "lightweight"
+      ]
+    },
+    {
+      "description": "(of an offender or an offense) punishable by transportation.",
+      "examples": [],
+      "synonyms": [
+        "travelling",
+        "transferable",
+        "portable",
+        "movable",
+        "locomotive",
+        "manoeuvrable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A large portable computer or telephone.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/tranˈspôrdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/transportable_us_2.mp3"
+}

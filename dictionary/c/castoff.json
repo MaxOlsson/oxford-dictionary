@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "No longer wanted; abandoned or discarded.",
+      "examples": [
+        "a pile of castoff clothes"
+      ],
+      "synonyms": [
+        "worn",
+        "worn out",
+        "shabby",
+        "threadbare",
+        "holey",
+        "torn",
+        "frayed",
+        "patched",
+        "tattered",
+        "moth-eaten",
+        "ragged",
+        "yellowed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something, especially a garment, that is no longer wanted.",
+      "examples": [
+        "I'm not going out in her castoffs!"
+      ],
+      "synonyms": [
+        "useless things",
+        "discarded things",
+        "rubbish",
+        "clutter",
+        "stuff",
+        "odds and ends",
+        "bits and pieces",
+        "bric-a-brac",
+        "oddments",
+        "flotsam and jetsam",
+        "white elephants"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkæstɑf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/castoff_us_1.mp3"
+}

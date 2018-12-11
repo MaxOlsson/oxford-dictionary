@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Flatten by pressure; squeeze or press.",
+      "examples": [
+        "the skirt can be folded and compressed into a small bag"
+      ],
+      "synonyms": [
+        "flatten"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pad of absorbent material pressed onto part of the body to relieve inflammation or stop bleeding.",
+      "examples": [
+        "a cold compress"
+      ],
+      "synonyms": [
+        "bandage",
+        "covering",
+        "plaster",
+        "gauze",
+        "lint",
+        "compress",
+        "ligature",
+        "swathe",
+        "poultice",
+        "salve"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French compresser or late Latin compressare, frequentative of Latin comprimere, from com- together + premere to press; or directly from compress- pressed together, from the verb comprimere.",
+  "pronounciation": "/kəmˈpres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compress_us_1.mp3"
+}

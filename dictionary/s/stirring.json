@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Causing great excitement or strong emotion; rousing.",
+      "examples": [
+        "stirring songs"
+      ],
+      "synonyms": [
+        "exciting",
+        "thrilling",
+        "action-packed",
+        "gripping",
+        "riveting",
+        "dramatic",
+        "rousing",
+        "spirited",
+        "stimulating",
+        "moving",
+        "inspiring",
+        "inspirational",
+        "electrifying",
+        "passionate",
+        "impassioned",
+        "emotive",
+        "emotional",
+        "emotion-charged",
+        "heady",
+        "soul-stirring"
+      ]
+    },
+    {
+      "description": "Moving briskly; active.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An initial sign of activity, movement, or emotion.",
+      "examples": [
+        "the first stirrings of anger"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstəriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stirring_us_1.mp3"
+}

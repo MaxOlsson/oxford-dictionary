@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A sauce for salads, typically one consisting of oil and vinegar mixed together with herbs or other flavorings.",
+      "examples": [
+        "vinaigrette dressing"
+      ],
+      "synonyms": [
+        "sauce",
+        "relish",
+        "condiment",
+        "dip",
+        "flavouring"
+      ]
+    },
+    {
+      "description": "A piece of material placed on a wound to protect it.",
+      "examples": [
+        "an antiseptic dressing"
+      ],
+      "synonyms": [
+        "bandage",
+        "covering",
+        "plaster",
+        "gauze",
+        "lint",
+        "compress",
+        "ligature",
+        "swathe",
+        "poultice",
+        "salve"
+      ]
+    },
+    {
+      "description": "Size or stiffening used in the finishing of fabrics.",
+      "examples": []
+    },
+    {
+      "description": "A fertilizing substance such as compost or manure spread over or plowed into land.",
+      "examples": [],
+      "synonyms": [
+        "fertilizer",
+        "mulch"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrɛsɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dressing_us_3.mp3"
+}

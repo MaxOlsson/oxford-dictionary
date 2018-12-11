@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Able to make a way into or through something.",
+      "examples": [
+        "the gunpowder weapons have extra penetrative power"
+      ],
+      "synonyms": [
+        "shrewd",
+        "discerning",
+        "perceptive",
+        "probing",
+        "searching",
+        "observant",
+        "penetrating",
+        "sharp",
+        "keen",
+        "alert",
+        "intent",
+        "inquisitive"
+      ]
+    },
+    {
+      "description": "Having or showing deep understanding and insight.",
+      "examples": [
+        "a remarkably thorough and penetrative survey of the organization's work"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpenəˌtrādiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/penetrative_us_2.mp3"
+}

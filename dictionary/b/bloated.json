@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of part of the body) swollen with fluid or gas.",
+      "examples": [
+        "he had a bloated, unshaven face"
+      ],
+      "synonyms": [
+        "swollen",
+        "puffed out",
+        "puffed up",
+        "blown up",
+        "distended",
+        "inflated",
+        "enlarged",
+        "expanded",
+        "dilated",
+        "tumefied",
+        "bulging",
+        "ballooning",
+        "ballooning out",
+        "ballooning up",
+        "pumped out",
+        "pumped up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbloʊdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bloated_us_1.mp3"
+}

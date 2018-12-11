@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Water brought or affected by tides.",
+      "examples": [],
+      "synonyms": [
+        "tidal flow",
+        "ebb and flow",
+        "flood",
+        "water",
+        "tide race",
+        "ebb",
+        "surge",
+        "current",
+        "stream",
+        "movement"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "Coastal regions of eastern Virginia where tidal water flows up the Potomac, Rappahannock, York, James, and smaller rivers. Early-17th-century British settlement was focused here.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtaɪdwɔtər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tidewater_us_1.mp3"
+}

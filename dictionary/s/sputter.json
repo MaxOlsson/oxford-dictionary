@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault.",
+      "examples": [
+        "the engine sputtered and stopped"
+      ],
+      "synonyms": [
+        "hiss",
+        "hissing",
+        "buzz",
+        "buzzing",
+        "crackle",
+        "crackling",
+        "sputter",
+        "sputtering",
+        "crack",
+        "cracking",
+        "white noise"
+      ]
+    },
+    {
+      "description": "Deposit (metal) on a surface by using fast ions to eject particles of it from a target.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A series of soft explosive sounds, typically produced by an engine or by something heating or burning.",
+      "examples": [
+        "the sputter of the motor died away"
+      ],
+      "synonyms": [
+        "hiss",
+        "hissing",
+        "buzz",
+        "buzzing",
+        "crackle",
+        "crackling",
+        "sputter",
+        "sputtering",
+        "crack",
+        "cracking",
+        "white noise"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as a verb): from Dutch sputteren, of imitative origin.",
+  "pronounciation": "/ˈspədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sputter_us_1.mp3"
+}

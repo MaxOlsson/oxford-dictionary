@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling, associated with, or fond of wine.",
+      "examples": [
+        "a vinous smell"
+      ],
+      "synonyms": [
+        "alcoholic",
+        "intoxicating",
+        "inebriating",
+        "hard",
+        "heady",
+        "potent",
+        "stiff",
+        "spirituous",
+        "intoxicant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin vinum wine + -ous.",
+  "pronounciation": "/ˈvaɪnəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vinous_us_1.mp3"
+}

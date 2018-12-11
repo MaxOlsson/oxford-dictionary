@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Walk in a specified way.",
+      "examples": [
+        "the administration had to tread carefully so as not to offend the judiciary",
+        "he trod lightly, trying to make as little contact with the mud as possible"
+      ],
+      "synonyms": [
+        "walk",
+        "step",
+        "stride",
+        "pace",
+        "go"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A manner or the sound of someone walking.",
+      "examples": [
+        "I heard the heavy tread of Dad's boots"
+      ],
+      "synonyms": [
+        "step",
+        "footstep",
+        "footfall",
+        "tramp"
+      ]
+    },
+    {
+      "description": "The top surface of a step or stair.",
+      "examples": []
+    },
+    {
+      "description": "The thick molded part of a vehicle tire that grips the road.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "As Trey notes, to be certified for diving you have to swim two hundred yards and tread water for ten minutes.",
+    "As part of his basic training Kevin had to swim 200 metres and tread water for two minutes.",
+    "She emerged from her dive and started treading water as she turned herself around to look at the room.",
+    "The skipper treads water as a Navy diver waits for a line to be thrown from the Oryx helicopter.",
+    "He had been swimming and had started treading water when he started getting into difficulties."
+  ],
+  "origin": "Old English tredan (as a verb), of West Germanic origin; related to Dutch treden and German treten.",
+  "pronounciation": "/tred/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tread_us_1.mp3"
+}

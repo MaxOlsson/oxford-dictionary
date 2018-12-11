@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Not give enough food to.",
+      "examples": [
+        "some breeders intentionally underfeed their pups to keep them small"
+      ],
+      "synonyms": [
+        "thinness",
+        "boniness",
+        "scrawniness",
+        "skinniness",
+        "scragginess"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈfēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underfeed_us_1.mp3"
+}

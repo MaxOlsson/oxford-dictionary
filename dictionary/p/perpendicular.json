@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "At an angle of 90° to a given line, plane, or surface.",
+      "examples": [
+        "dormers and gables that extend perpendicular to the main roofline"
+      ],
+      "synonyms": [
+        "at right angles",
+        "at 90 degrees",
+        "square"
+      ]
+    },
+    {
+      "description": "Denoting the latest stage of English Gothic church architecture, prevalent from the late 14th to mid 16th centuries and characterized by broad arches, elaborate fan vaulting, and large windows with vertical tracery.",
+      "examples": [
+        "the handsome Perpendicular church of St. Andrew"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A straight line at an angle of 90° to a given line, plane, or surface.",
+      "examples": [
+        "at each division draw a perpendicular representing the surface line"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adverb meaning at right angles): via Old French from Latin perpendicularis, from perpendiculum plumb line, from per- through + pendere to hang.",
+  "pronounciation": "/ˌpərpənˈdɪkjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perpendicular_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly of a drug) reducing functional or nervous activity.",
+      "examples": [],
+      "synonyms": [
+        "tranquillizing",
+        "calming",
+        "depressant",
+        "soothing",
+        "calmative",
+        "relaxing",
+        "soporific"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A depressant drug.",
+      "examples": [],
+      "synonyms": [
+        "sedative",
+        "tranquillizer",
+        "calmative",
+        "sleeping pill",
+        "soporific",
+        "opiate",
+        "hypnotic"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈprɛs(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/depressant_us_1.mp3"
+}

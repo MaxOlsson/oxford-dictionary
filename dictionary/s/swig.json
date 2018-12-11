@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Drink in large gulps.",
+      "examples": [
+        "Dave swigged the wine in five gulps",
+        "old men swigged from bottles of plum brandy"
+      ],
+      "synonyms": [
+        "drink",
+        "swallow",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "slurp",
+        "attack",
+        "down",
+        "drink down",
+        "drink up",
+        "force down",
+        "get down",
+        "finish off",
+        "polish off",
+        "drain",
+        "empty",
+        "imbibe",
+        "have",
+        "take",
+        "partake of",
+        "ingest",
+        "consume",
+        "sup",
+        "sip",
+        "lap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A large draft of drink.",
+      "examples": [
+        "he took a swig of tea"
+      ],
+      "synonyms": [
+        "alcoholic drink",
+        "strong drink",
+        "drink",
+        "liquor",
+        "intoxicant"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a noun in the obsolete sense liquor): of unknown origin.",
+  "pronounciation": "/swɪɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swig_us_1.mp3"
+}

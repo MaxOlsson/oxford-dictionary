@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "In a closely compacted or crowded manner; thickly.",
+      "examples": [
+        "a densely populated country",
+        "densely packed layers",
+        "the best way to keep weeds at bay is to plant densely"
+      ]
+    },
+    {
+      "description": "In a manner that is hard to understand because of its complexity.",
+      "examples": [
+        "densely plotted historical fiction"
+      ]
+    },
+    {
+      "description": "In a stupid manner.",
+      "examples": [
+        "staff can be surly should they decide a customer is behaving densely",
+        "he is densely ignorant and primitive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɛnsli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/densely_us_1.mp3"
+}

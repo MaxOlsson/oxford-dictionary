@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of Dacia, an ancient country of southeastern Europe, or its people or language.",
+      "examples": [
+        "the Dacian kingdom"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Dacia, an ancient country of southeastern Europe.",
+      "examples": [
+        "the Dacians became a united nation under a single ruler"
+      ]
+    },
+    {
+      "description": "The language of Dacia, an ancient country of southeastern Europe.",
+      "examples": [
+        "no lengthy texts in Dacian exist"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdāSH(ē)ən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dacian_1_us_1.mp3"
+}

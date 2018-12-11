@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A man who has magical powers, especially in legends and fairy tales.",
+      "examples": [],
+      "synonyms": [
+        "sorcerer",
+        "warlock",
+        "male witch",
+        "magus",
+        "magician",
+        "black magician",
+        "necromancer",
+        "occultist",
+        "enchanter"
+      ]
+    },
+    {
+      "description": "A help feature of a software package that automates complex tasks by asking the user a series of easy-to-answer questions.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Wonderful; excellent.",
+      "examples": [],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense philosopher, sage): from wise + -ard.",
+  "pronounciation": "/ˈwizərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wizard_us_1.mp3"
+}

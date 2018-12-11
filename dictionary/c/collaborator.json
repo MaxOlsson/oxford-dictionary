@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A person who works jointly on an activity or project; an associate.",
+      "examples": [
+        "his collaborator on the book"
+      ],
+      "synonyms": [
+        "co-worker",
+        "fellow worker",
+        "associate",
+        "colleague",
+        "partner",
+        "co-partner",
+        "confederate",
+        "ally",
+        "teammate"
+      ]
+    },
+    {
+      "description": "A person who cooperates traitorously with an enemy; a defector.",
+      "examples": [
+        "he was a collaborator during the occupation"
+      ],
+      "synonyms": [
+        "quisling",
+        "fraternizer",
+        "collaborationist",
+        "colluder",
+        "sympathizer",
+        "enemy sympathizer",
+        "conspirator"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈlæbəˌreɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collaborator_us_2.mp3"
+}

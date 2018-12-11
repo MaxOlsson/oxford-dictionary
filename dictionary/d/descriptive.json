@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Serving or seeking to describe.",
+      "examples": [
+        "the text contains some good descriptive passages"
+      ],
+      "synonyms": [
+        "illustrative",
+        "expressive",
+        "pictorial",
+        "depictive",
+        "graphic",
+        "picturesque",
+        "vivid",
+        "striking"
+      ]
+    },
+    {
+      "description": "Describing or classifying in an objective and nonjudgmental way.",
+      "examples": [],
+      "synonyms": [
+        "explaining",
+        "describing",
+        "illustrative",
+        "illuminative",
+        "elucidative",
+        "elucidatory",
+        "explicative",
+        "evaluative",
+        "interpretive",
+        "expository",
+        "revelatory",
+        "by way of explanation"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from late Latin descriptivus, from descript- written down, from the verb describere (see describe).",
+  "pronounciation": "/dəˈskriptiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/descriptive_us_1.mp3"
+}

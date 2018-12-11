@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Have a particular opinion, belief, or idea about someone or something.",
+      "examples": [
+        "she thought that nothing would be the same again",
+        "it's thought he may have collapsed from shock",
+        "up to 300 people were thought to have died"
+      ],
+      "synonyms": [
+        "believe",
+        "be of the opinion",
+        "have as one's opinion",
+        "be of the view",
+        "be under the impression"
+      ]
+    },
+    {
+      "description": "Direct one's mind toward someone or something; use one's mind actively to form connected ideas.",
+      "examples": [
+        "he was thinking about Colin",
+        "Jack thought for a moment",
+        "any writer who so rarely produces a book is not thinking deep thoughts"
+      ],
+      "synonyms": [
+        "ponder",
+        "reflect",
+        "deliberate",
+        "meditate",
+        "contemplate",
+        "muse",
+        "cogitate",
+        "ruminate",
+        "be lost in thought",
+        "be in a brown study",
+        "brood"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of thinking.",
+      "examples": [
+        "I went for a walk to have a think"
+      ],
+      "synonyms": [
+        "ponder",
+        "muse",
+        "period of contemplation",
+        "period of deliberation",
+        "period of reflection",
+        "spell of contemplation",
+        "spell of deliberation",
+        "spell of reflection"
+      ]
+    }
+  ],
+  "phrases": [
+    "if they think I'm going to do physical exercises, they've got another think coming",
+    "If we think - despite what I've said about us being better than last year - if we think even for a moment that we are good enough with the present squad to win the championship next season, then we will have another think coming.",
+    "Any woman still thinking that men are like buses and there'll be another one along in a minute has another think coming.",
+    "Those who may think so have another think coming.",
+    "But if someone thinks we are going to be driven away they have another think coming.",
+    "I keep thinking back to school",
+    "As I was throwing my last bag into our car, I started thinking back on this past year.",
+    "When rugby fans think back on past Lions tours, there is invariably one moment that sticks in the mind.",
+    "Just think back to this past summer and the drama surrounding Taylor's decision to step down.",
+    "Kelly thought back now on the events that had set them all on this catastrophic course."
+  ],
+  "origin": "Old English thencan, of Germanic origin; related to Dutch and German denken.",
+  "pronounciation": "/θɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_think_1_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The fact of being who or what a person or thing is.",
+      "examples": [
+        "he knows the identity of the bombers",
+        "she believes she is the victim of mistaken identity"
+      ],
+      "synonyms": [
+        "name"
+      ]
+    },
+    {
+      "description": "A close similarity or affinity.",
+      "examples": [
+        "the initiative created an identity between the city and the suburbs"
+      ],
+      "synonyms": [
+        "identicalness",
+        "sameness",
+        "selfsameness",
+        "oneness",
+        "congruity",
+        "congruence",
+        "indistinguishability",
+        "interchangeability"
+      ]
+    },
+    {
+      "description": "A transformation that leaves an object unchanged.",
+      "examples": []
+    },
+    {
+      "description": "The equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. (x + 1)² = x² + 2x + 1.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (in the sense quality of being identical): from late Latin identitas, from Latin idem same.",
+  "pronounciation": "/ˌīˈden(t)ədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/identity_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Having much or varied color; bright.",
+      "examples": [
+        "a colorful array of fruit"
+      ],
+      "synonyms": [
+        "brightly coloured",
+        "bright-coloured",
+        "deep-coloured",
+        "brilliant",
+        "glowing",
+        "radiant",
+        "vivid",
+        "rich",
+        "vibrant"
+      ]
+    },
+    {
+      "description": "Full of interest; lively and exciting.",
+      "examples": [
+        "a controversial and colorful character",
+        "a colorful account of the meeting"
+      ],
+      "synonyms": [
+        "vivid",
+        "graphic",
+        "lively",
+        "animated",
+        "dramatic",
+        "striking",
+        "arresting",
+        "picturesque",
+        "interesting",
+        "stimulating",
+        "fascinating",
+        "scintillating",
+        "rich",
+        "evocative",
+        "detailed",
+        "highly coloured"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkələrfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colorful_us_2.mp3"
+}

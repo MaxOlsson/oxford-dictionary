@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals.",
+      "examples": [
+        "a telephone call"
+      ]
+    },
+    {
+      "description": "A game in which a sentence or phrase becomes distorted by being passed along to the next person in a whisper.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Contact (someone) using the telephone.",
+      "examples": [
+        "he telephoned his wife at 9.30"
+      ],
+      "synonyms": [
+        "phone",
+        "call",
+        "get someone on the phone",
+        "get on the phone to",
+        "get",
+        "reach",
+        "dial",
+        "make a call to",
+        "place a call to"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from tele- + -phone.",
+  "pronounciation": "/ˈtɛləˌfoʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/telephone_us_1.mp3"
+}

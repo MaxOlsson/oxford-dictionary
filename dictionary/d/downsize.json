@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) smaller.",
+      "examples": [
+        "I downsized the rear wheel to 26 inches"
+      ],
+      "synonyms": [
+        "reduce",
+        "cut",
+        "cut down",
+        "decrease",
+        "lessen",
+        "retrench",
+        "trim",
+        "prune",
+        "slim down",
+        "scale down",
+        "salami-slice"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdaʊnˌsaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downsize_us_1.mp3"
+}

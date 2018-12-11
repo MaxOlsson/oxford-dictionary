@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Capable of passing through a filter.",
+      "examples": []
+    },
+    {
+      "description": "Capable of being separated out by a filter.",
+      "examples": [
+        "filterable solids",
+        "filterable virus"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfiltərəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filterable_us_1.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "Intention or purpose.",
+      "examples": [
+        "with alarm she realized his intent",
+        "a real intent to cut back on social programs"
+      ],
+      "synonyms": [
+        "aim",
+        "purpose",
+        "intention",
+        "objective",
+        "object",
+        "goal",
+        "target",
+        "end"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Resolved or determined to do (something)",
+      "examples": [
+        "the administration was intent on achieving greater efficiency"
+      ],
+      "synonyms": [
+        "bent",
+        "set",
+        "determined",
+        "insistent",
+        "fixed",
+        "resolved",
+        "hell-bent",
+        "keen"
+      ]
+    },
+    {
+      "description": "(especially of a look) showing earnest and eager attention.",
+      "examples": [
+        "a curiously intent look on her face"
+      ],
+      "synonyms": [
+        "enthusiastic",
+        "avid",
+        "eager",
+        "ardent",
+        "passionate",
+        "fervent",
+        "fervid",
+        "impassioned",
+        "wholehearted",
+        "zestful",
+        "zealous",
+        "driven"
+      ]
+    }
+  ],
+  "phrases": [
+    "a man who was to all intents and purposes illiterate",
+    "It is, to all intents and purposes, an attempt to rebrand Egypt.",
+    "But to all intents and purposes that is exactly what the government initially did.",
+    "His career, to all intents and purposes, was already over.",
+    "And that, folks, is it, to all intents and purposes."
+  ],
+  "origin": "Middle English: from Old French entent, entente, based on Latin intendere (see intend). The adjective is from Latin intentus, past participle of intendere.",
+  "pronounciation": "/inˈtent/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intent_us_1.mp3"
+}

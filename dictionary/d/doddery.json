@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Slow and unsteady in movement because of weakness in old age.",
+      "examples": [
+        "he's a bit doddery on his legs and doesn't get about much"
+      ],
+      "synonyms": [
+        "tottering",
+        "tottery",
+        "teetering",
+        "doddering",
+        "staggering",
+        "shuffling",
+        "shambling",
+        "faltering",
+        "shaking",
+        "shaky",
+        "unsteady",
+        "wobbly",
+        "wobbling",
+        "trembling",
+        "trembly",
+        "quivering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɑd(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doddery_us_2.mp3"
+}

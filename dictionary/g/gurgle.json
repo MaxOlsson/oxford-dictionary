@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Make a hollow bubbling sound like that made by water running out of a bottle.",
+      "examples": [
+        "my stomach gurgled"
+      ],
+      "synonyms": [
+        "babble",
+        "burble",
+        "tinkle",
+        "bubble",
+        "ripple",
+        "murmur",
+        "purl",
+        "lap",
+        "trickle",
+        "splash"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A gurgling sound.",
+      "examples": [
+        "Catherine gave a gurgle of laughter"
+      ],
+      "synonyms": [
+        "babble",
+        "babbling",
+        "tinkle",
+        "bubbling",
+        "ripple",
+        "rippling",
+        "trickling",
+        "murmur",
+        "murmuring",
+        "purling",
+        "splashing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative, or directly from Dutch gorgelen, German gurgeln, or medieval Latin gurgulare, all from Latin gurgulio gullet.",
+  "pronounciation": "/ˈɡərɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gurgle_us_1.mp3"
+}

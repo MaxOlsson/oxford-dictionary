@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A short story, typically with animals as characters, conveying a moral.",
+      "examples": [],
+      "synonyms": [
+        "moral tale",
+        "parable",
+        "apologue",
+        "allegory",
+        "bestiary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Tell fictitious tales.",
+      "examples": [
+        "I do not dream nor fable"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French fable (noun), from Latin fabula story, from fari speak.",
+  "pronounciation": "/ˈfeɪbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fable_us_1.mp3"
+}

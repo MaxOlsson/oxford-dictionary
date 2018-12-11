@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A postmortem examination to discover the cause of death or the extent of disease.",
+      "examples": [
+        "an autopsy report"
+      ],
+      "synonyms": [
+        "post-mortem",
+        "pm",
+        "necropsy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perform a postmortem examination on (a body or organ)",
+      "examples": [
+        "an autopsied brain"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense personal observation): from French autopsie or modern Latin autopsia, from Greek, from autoptēs eyewitness, from autos self + optos seen.",
+  "pronounciation": "/ˈôˌtäpsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/autopsy_us_1.mp3"
+}

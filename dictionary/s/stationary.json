@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not moving or not intended to be moved.",
+      "examples": [
+        "a car collided with a stationary vehicle"
+      ],
+      "synonyms": [
+        "motionless",
+        "parked",
+        "halted",
+        "stopped",
+        "immobilized",
+        "immobile",
+        "unmoving",
+        "still",
+        "static",
+        "stock-still",
+        "at a standstill",
+        "at rest",
+        "not moving"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin stationarius (originally in the sense belonging to a military station), from statio(n-) standing (see station).",
+  "pronounciation": "/ˈsteɪʃəˌnɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stationary_us_1.mp3"
+}

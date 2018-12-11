@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Necessary for (someone) as a duty or responsibility.",
+      "examples": [
+        "it is incumbent on all decent people to concentrate on destroying this evil"
+      ],
+      "synonyms": [
+        "binding",
+        "obligatory",
+        "mandatory",
+        "necessary",
+        "compulsory",
+        "required",
+        "requisite",
+        "essential",
+        "imperative"
+      ]
+    },
+    {
+      "description": "(of an official or regime) currently holding office.",
+      "examples": [
+        "the incumbent president had been defeated"
+      ],
+      "synonyms": [
+        "current",
+        "existing",
+        "present",
+        "in office",
+        "in power"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The holder of an office or post.",
+      "examples": [],
+      "synonyms": [
+        "holder",
+        "bearer",
+        "occupant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Anglo-Latin incumbens, incumbent-, from Latin incumbere lie or lean on, from in- upon + a verb related to cubare lie.",
+  "pronounciation": "/inˈkəmbənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incumbent_us_1.mp3"
+}

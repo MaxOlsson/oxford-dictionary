@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Totally bewilder or perplex.",
+      "examples": [
+        "an unexplained occurrence that baffled everyone"
+      ],
+      "synonyms": [
+        "puzzling",
+        "bewildering",
+        "perplexing",
+        "mystifying",
+        "bemusing",
+        "confusing",
+        "unclear",
+        "difficult to understand",
+        "hard to understand",
+        "beyond one",
+        "above one's head"
+      ]
+    },
+    {
+      "description": "Restrain or regulate (a fluid, sound, etc.)",
+      "examples": [
+        "to baffle the noise further, I pad the gunwales"
+      ],
+      "synonyms": [
+        "thwart",
+        "frustrate",
+        "foil",
+        "baulk",
+        "check",
+        "block",
+        "hinder",
+        "obstruct",
+        "bar",
+        "prevent",
+        "deflect",
+        "divert"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A device used to restrain the flow of a fluid, gas, or loose material or to prevent the spreading of sound or light in a particular direction.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (in the sense cheat, deceive): perhaps related to French bafouer ridicule or obsolete French beffer mock, deceive.",
+  "pronounciation": "/ˈbæfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baffle_us_1.mp3"
+}

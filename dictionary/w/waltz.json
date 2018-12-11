@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A dance in triple time performed by a couple, who as a pair turn rhythmically around and around as they progress around the dance floor.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dance a waltz.",
+      "examples": [
+        "I waltzed across the floor with the lieutenant"
+      ],
+      "synonyms": [
+        "run lightly",
+        "skip",
+        "dance",
+        "prance",
+        "bound",
+        "spring",
+        "hop",
+        "gambol",
+        "caper",
+        "frisk",
+        "scamper"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from German Walzer, from walzen revolve.",
+  "pronounciation": "/wôlts/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/waltz_us_1.mp3"
+}

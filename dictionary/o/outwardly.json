@@ -1,0 +1,34 @@
+{
+  "adverb": [
+    {
+      "description": "On the surface.",
+      "examples": [
+        "an outwardly normal life",
+        "outwardly she seemed no different"
+      ],
+      "synonyms": [
+        "externally",
+        "on the outside",
+        "on the surface",
+        "superficially",
+        "on the face of it",
+        "at first glance",
+        "at first sight",
+        "from all appearances",
+        "to all appearances",
+        "to the casual eye",
+        "to the casual observer",
+        "as far as one can judge",
+        "as far as one can see",
+        "as far as one can tell",
+        "to all intents and purposes",
+        "apparently",
+        "ostensibly",
+        "seemingly",
+        "evidently"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊtwərdli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outwardly_us_1.mp3"
+}

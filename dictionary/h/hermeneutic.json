@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Concerning interpretation, especially of the Bible or literary texts.",
+      "examples": [],
+      "synonyms": [
+        "explaining",
+        "descriptive",
+        "describing",
+        "illustrative",
+        "illuminative",
+        "elucidative",
+        "elucidatory",
+        "explicative",
+        "evaluative",
+        "interpretive",
+        "expository",
+        "revelatory",
+        "by way of explanation"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A method or theory of interpretation.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from Greek hermēneutikos, from hermēneuein interpret.",
+  "pronounciation": "/ˌhərməˈn(j)udɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hermeneutic_us_1.mp3"
+}

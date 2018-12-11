@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Give an unofficial name or nickname to (someone or something)",
+      "examples": [
+        "the media dubbed anorexia “the slimming disease.”"
+      ],
+      "synonyms": [
+        "nickname",
+        "call",
+        "name",
+        "give a name",
+        "label",
+        "christen",
+        "term",
+        "tag",
+        "entitle",
+        "style"
+      ]
+    },
+    {
+      "description": "Dress (an artificial fishing fly) with strands of fur or wool or with other material.",
+      "examples": []
+    },
+    {
+      "description": "Smear (leather) with grease.",
+      "examples": []
+    },
+    {
+      "description": "Trim or make smooth (wood) with an adze.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of dubbing sound effects or music.",
+      "examples": [
+        "the level of the dub can be controlled manually"
+      ]
+    },
+    {
+      "description": "A style of popular music originating from the remixing of recorded music (especially reggae), typically with the removal of some vocals and instruments and the exaggeration of bass guitar.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: of unknown origin.",
+  "pronounciation": "/dəb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dub_us_1.mp3"
+}

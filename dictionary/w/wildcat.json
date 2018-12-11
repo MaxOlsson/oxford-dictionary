@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A small native Eurasian and African cat that is typically gray with black markings and a bushy tail, noted for its ferocity.",
+      "examples": [],
+      "synonyms": [
+        "feline"
+      ]
+    },
+    {
+      "description": "An exploratory oil well.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a strike) sudden and unofficial.",
+      "examples": [
+        "legislation to curb wildcat strikes"
+      ],
+      "synonyms": [
+        "unofficial",
+        "unsanctioned",
+        "uncertified",
+        "unaccredited",
+        "unlicensed",
+        "unwarranted",
+        "unapproved"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Prospect for oil.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwaɪl(d)kæt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wildcat_us_1.mp3"
+}

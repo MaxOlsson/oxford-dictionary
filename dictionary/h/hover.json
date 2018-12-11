@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Remain in one place in the air.",
+      "examples": [
+        "Army helicopters hovered overhead"
+      ],
+      "synonyms": [
+        "be suspended",
+        "be poised",
+        "hang",
+        "float",
+        "levitate",
+        "drift",
+        "fly",
+        "flutter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of remaining in the air in one place.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from archaic hove hover, linger, of unknown origin.",
+  "pronounciation": "/ˈhəvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hover_us_1.mp3"
+}

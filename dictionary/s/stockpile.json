@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A large accumulated stock of goods or materials, especially one held in reserve for use at a time of shortage or other emergency.",
+      "examples": [],
+      "synonyms": [
+        "stock",
+        "store",
+        "supply",
+        "accumulation",
+        "collection",
+        "reserve",
+        "hoard",
+        "cache"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Accumulate a large stock of (goods or materials)",
+      "examples": [
+        "he claimed that the weapons were being stockpiled"
+      ],
+      "synonyms": [
+        "store up",
+        "amass",
+        "accumulate",
+        "hoard",
+        "cache",
+        "collect",
+        "gather",
+        "pile up",
+        "heap up",
+        "lay in",
+        "put away",
+        "put aside",
+        "set aside",
+        "put down",
+        "put by",
+        "put away for a rainy day",
+        "stow away",
+        "keep",
+        "keep in reserve",
+        "save"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstäkˌpīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stockpile_us_1.mp3"
+}

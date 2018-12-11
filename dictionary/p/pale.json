@@ -1,0 +1,106 @@
+{
+  "adjective": [
+    {
+      "description": "Light in color or having little color.",
+      "examples": [
+        "choose pale floral patterns for walls"
+      ],
+      "synonyms": [
+        "light",
+        "light-coloured",
+        "pastel",
+        "neutral",
+        "light-toned",
+        "muted",
+        "subtle",
+        "soft",
+        "low-key",
+        "restrained"
+      ]
+    },
+    {
+      "description": "Feeble and unimpressive.",
+      "examples": [
+        "unconvincing rock that came across as a pale imitation of Bruce Springsteen"
+      ],
+      "synonyms": [
+        "inferior",
+        "poor",
+        "feeble",
+        "weak",
+        "insipid",
+        "wishy-washy",
+        "vapid",
+        "bland",
+        "puny",
+        "flat",
+        "inadequate",
+        "ineffectual",
+        "ineffective",
+        "half-hearted"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become pale in one's face from shock or fear.",
+      "examples": [
+        "I paled at the thought of what she might say"
+      ],
+      "synonyms": [
+        "go white",
+        "turn white",
+        "become pale",
+        "grow pale",
+        "turn pale",
+        "blanch",
+        "blench",
+        "lose colour"
+      ]
+    },
+    {
+      "description": "Seem less impressive or important.",
+      "examples": [
+        "all else pales by comparison",
+        "his own problems paled into insignificance compared to the plight of this child"
+      ],
+      "synonyms": [
+        "decrease in importance",
+        "lose significance",
+        "pale into insignificance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A wooden stake or post used as an upright along with others to form a fence.",
+      "examples": [],
+      "synonyms": [
+        "stake",
+        "post",
+        "pole",
+        "paling",
+        "picket",
+        "upright"
+      ]
+    },
+    {
+      "description": "An area within determined bounds, or subject to a particular jurisdiction.",
+      "examples": []
+    },
+    {
+      "description": "A broad vertical stripe down the middle of a shield.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French pal, from Latin palus stake.",
+  "phrases": [
+    "the language my father used was beyond the pale",
+    "Now I know I've been using my camera a lot since last Wednesday but for my own camera to tell me it's exhausted is beyond the pale.",
+    "A tragic necessity, perhaps - but it's not beyond the pale to ask whether it hurts more than it helps.",
+    "And telling other people, particularly in print, what you have not told the players themselves is pretty much beyond the pale.",
+    "But second-best in the city of Milan proved beyond the pale."
+  ],
+  "pronounciation": "/pāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pale_us_1.mp3"
+}

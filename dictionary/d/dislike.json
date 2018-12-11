@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Feel distaste for or hostility toward.",
+      "examples": [
+        "he was not distressed by the death of a man he had always disliked"
+      ],
+      "synonyms": [
+        "hate",
+        "detest",
+        "loathe",
+        "abominate",
+        "abhor",
+        "despise",
+        "scorn",
+        "shun",
+        "execrate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A feeling of distaste or hostility.",
+      "examples": [
+        "they had taken a dislike to each other",
+        "despite her dislike of publicity, she was quite a celebrated figure"
+      ],
+      "synonyms": [
+        "aversion",
+        "distaste",
+        "disfavour",
+        "disapproval",
+        "disapprobation",
+        "disesteem",
+        "enmity",
+        "animosity",
+        "hostility",
+        "animus",
+        "antipathy",
+        "antagonism"
+      ]
+    }
+  ],
+  "pronounciation": "/disˈlīk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dislike_us_1.mp3"
+}

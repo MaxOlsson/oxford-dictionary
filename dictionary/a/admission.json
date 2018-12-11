@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A statement acknowledging the truth of something.",
+      "examples": [
+        "an admission of guilt",
+        "a tacit admission that things had gone wrong",
+        "a man who, by his own admission, fell in love easily"
+      ],
+      "synonyms": [
+        "acknowledgement",
+        "acceptance",
+        "recognition",
+        "concession",
+        "profession",
+        "expression",
+        "declaration",
+        "confession",
+        "revelation",
+        "disclosure",
+        "divulgence",
+        "avowal",
+        "claim",
+        "unbosoming",
+        "owning up"
+      ]
+    },
+    {
+      "description": "The process or fact of entering or being allowed to enter a place, organization, or institution.",
+      "examples": [
+        "the country's admission to the UN",
+        "I had some difficulty securing admission to the embassy",
+        "her condition required frequent hospital admissions",
+        "the university admissions office"
+      ],
+      "synonyms": [
+        "admittance",
+        "entry",
+        "entrance",
+        "right of entry",
+        "permission to enter",
+        "access",
+        "means of entry",
+        "ingress",
+        "entrée",
+        "acceptance"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin admissio(n-), from the verb admittere (see admit).",
+  "pronounciation": "/ədˈmɪʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/admission_us_1.mp3"
+}

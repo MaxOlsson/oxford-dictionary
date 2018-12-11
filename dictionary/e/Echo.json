@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "A sound or series of sounds caused by the reflection of sound waves from a surface back to the listener.",
+      "examples": [
+        "the walls threw back the echoes of his footsteps"
+      ],
+      "synonyms": [
+        "reverberation",
+        "reverberating",
+        "reflection",
+        "resounding",
+        "ringing",
+        "repetition",
+        "repeat",
+        "reiteration",
+        "answer"
+      ]
+    },
+    {
+      "description": "A close parallel or repetition of an idea, feeling, style, or event.",
+      "examples": [
+        "his love for her found an echo in her own feelings"
+      ],
+      "synonyms": [
+        "duplicate",
+        "copy",
+        "replica",
+        "facsimile",
+        "reproduction",
+        "imitation",
+        "close likeness",
+        "exact likeness",
+        "mirror image",
+        "twin",
+        "double",
+        "clone",
+        "match",
+        "mate",
+        "fellow",
+        "counterpart",
+        "parallel"
+      ]
+    },
+    {
+      "description": "A person who slavishly repeats the words or opinions of another.",
+      "examples": []
+    },
+    {
+      "description": "A play by a defender of a higher card in a suit followed by a lower one in a subsequent trick, used as a signal to request a further lead of that suit by their partner.",
+      "examples": []
+    },
+    {
+      "description": "A code word representing the letter E, used in radio communication.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a sound) be repeated or reverberate after the original sound has stopped.",
+      "examples": [
+        "their footsteps echoed on the metal catwalks"
+      ]
+    },
+    {
+      "description": "(of an object, movement, or event) be reminiscent of or have shared characteristics with.",
+      "examples": [
+        "a blue suit that echoed the color of her eyes"
+      ]
+    },
+    {
+      "description": "Send a copy of (an input signal or character) back to its source or to a screen for display.",
+      "examples": [
+        "for security reasons, the password will not be echoed to the screen"
+      ]
+    },
+    {
+      "description": "(of a defender) play a higher card followed by a lower one in the same suit, as a signal to request one's partner to lead that suit.",
+      "examples": []
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A nymph deprived of speech by Hera in order to stop her chatter, and left able only to repeat what others had said.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French or Latin, from Greek ēkhō, related to ēkhē a sound.",
+  "pronounciation": "/ˈɛkoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/echo_us_1.mp3"
+}

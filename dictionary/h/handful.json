@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A quantity that fills the hand.",
+      "examples": [
+        "a small handful of fresh cilantro"
+      ],
+      "synonyms": [
+        "a small number",
+        "a small amount",
+        "a small quantity",
+        "a sprinkling",
+        "a smattering",
+        "a scattering",
+        "a trickle"
+      ]
+    },
+    {
+      "description": "A person who is very difficult to deal with or control.",
+      "examples": [
+        "the kids could be such a handful"
+      ],
+      "synonyms": [
+        "nuisance",
+        "problem",
+        "bother",
+        "irritant",
+        "source of annoyance",
+        "thorn in someone's flesh",
+        "thorn in someone's side",
+        "bugbear"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhæn(d)ˌfʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handful_us_1.mp3"
+}

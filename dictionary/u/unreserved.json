@@ -1,0 +1,77 @@
+{
+  "adjective": [
+    {
+      "description": "Without reservations; complete.",
+      "examples": [
+        "he has had their unreserved support"
+      ],
+      "synonyms": [
+        "unconditional",
+        "unqualified",
+        "without reservations",
+        "unlimited",
+        "unrestricted",
+        "categorical",
+        "unequivocal",
+        "unambiguous",
+        "positive",
+        "unadulterated",
+        "undiluted",
+        "unalloyed",
+        "unvarnished",
+        "unstinting"
+      ]
+    },
+    {
+      "description": "Frank and open.",
+      "examples": [
+        "a tall, unreserved young man"
+      ],
+      "synonyms": [
+        "uninhibited",
+        "liberated",
+        "extrovert",
+        "outgoing",
+        "unrestrained",
+        "expressive",
+        "open",
+        "affable",
+        "talkative",
+        "effusive",
+        "demonstrative",
+        "unconstrained",
+        "unselfconscious",
+        "bold",
+        "communicative",
+        "expansive",
+        "ebullient",
+        "exuberant",
+        "gushing",
+        "outspoken",
+        "frank",
+        "candid",
+        "warm"
+      ]
+    },
+    {
+      "description": "Not set apart for a particular purpose or booked in advance.",
+      "examples": [
+        "unreserved grandstand seats"
+      ],
+      "synonyms": [
+        "unbooked",
+        "unhired",
+        "unallocated",
+        "unchartered",
+        "unoccupied",
+        "untaken",
+        "free",
+        "empty",
+        "vacant",
+        "spare"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənrəˈzərvd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unreserved_us_1.mp3"
+}

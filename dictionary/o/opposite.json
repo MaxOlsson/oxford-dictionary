@@ -1,0 +1,95 @@
+{
+  "adjective": [
+    {
+      "description": "Having a position on the other or further side of something; facing something, especially something of the same type.",
+      "examples": [
+        "a crowd gathered on the opposite side of the street"
+      ],
+      "synonyms": [
+        "facing",
+        "face to face with",
+        "across from"
+      ]
+    },
+    {
+      "description": "Diametrically different; of a contrary kind.",
+      "examples": [
+        "a word that is opposite in meaning to another",
+        "currents flowing in opposite directions"
+      ],
+      "synonyms": [
+        "conflicting",
+        "contrasting",
+        "incompatible",
+        "irreconcilable",
+        "inconsistent",
+        "antithetical",
+        "converse",
+        "contradictory",
+        "clashing",
+        "contrary",
+        "at variance",
+        "at odds",
+        "different",
+        "differing",
+        "divergent",
+        "dissimilar",
+        "unlike",
+        "unalike",
+        "disagreeing",
+        "opposed",
+        "opposing",
+        "poles apart",
+        "polar",
+        "obverse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that is totally different from or the reverse of someone or something else.",
+      "examples": [
+        "we were opposites in temperament",
+        "the literal is the opposite of the figurative"
+      ],
+      "synonyms": [
+        "reverse",
+        "converse",
+        "antithesis",
+        "contrary",
+        "inverse",
+        "obverse",
+        "contradiction"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a position facing a specified or implied subject.",
+      "examples": [
+        "she was sitting almost opposite"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "In a position on the other side of a specific area from; facing.",
+      "examples": [
+        "they sat opposite one another"
+      ]
+    },
+    {
+      "description": "(of a leading actor) in a complementary role to (another)",
+      "examples": [
+        "the star was a young man playing opposite an older woman"
+      ]
+    }
+  ],
+  "phrases": [
+    "clearly, opposites attract, but fortunately, the film doesn't follow typical romantic movie conventions",
+    "would such opposites attract, or would these two conflicting musical spirits lock horns and fight it out?"
+  ],
+  "origin": "Late Middle English: via Old French from Latin oppositus, past participle of opponere set against.",
+  "pronounciation": "/ˈäpəzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/opposite_us_1_rr.mp3"
+}

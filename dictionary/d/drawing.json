@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A picture or diagram made with a pencil, pen, or crayon rather than paint.",
+      "examples": [
+        "a series of charcoal drawings on white paper"
+      ],
+      "synonyms": [
+        "sketch",
+        "picture",
+        "illustration",
+        "representation",
+        "portrayal",
+        "delineation",
+        "depiction",
+        "composition",
+        "study",
+        "diagram",
+        "outline",
+        "design",
+        "plan",
+        "artist's impression"
+      ]
+    },
+    {
+      "description": "An instance of selecting the winner or winners in a lottery or raffle.",
+      "examples": [
+        "entrants need not be present at the drawing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrɔɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drawing_us_1.mp3"
+}

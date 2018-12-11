@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "(of a person or animal) hold on tightly to.",
+      "examples": [
+        "she clung to Joe's arm",
+        "they clung together",
+        "she clung onto life"
+      ],
+      "synonyms": [
+        "hold on to",
+        "clutch",
+        "grip",
+        "grasp",
+        "clasp",
+        "attach oneself to",
+        "hang on to",
+        "hold tightly",
+        "clench"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A clingstone peach.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English clingan stick together, of Germanic origin; related to Middle Dutch klingen adhere, Middle High German klingen climb, also to clench.",
+  "pronounciation": "/klɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cling_us_1.mp3"
+}

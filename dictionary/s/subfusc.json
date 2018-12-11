@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Dull; gloomy.",
+      "examples": [
+        "the light was subfusc and aqueous"
+      ],
+      "synonyms": [
+        "dark",
+        "ill-lit",
+        "poorly lit",
+        "shadowy",
+        "sunless",
+        "dim",
+        "sombre",
+        "dingy",
+        "frowzy",
+        "drab",
+        "dismal",
+        "dreary",
+        "murky",
+        "depressing",
+        "unwelcoming",
+        "uninviting",
+        "cheerless",
+        "joyless",
+        "comfortless",
+        "funereal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The formal clothing worn for examinations and formal occasions at some universities.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: from Latin subfuscus, from sub- somewhat + fuscus dark brown.",
+  "pronounciation": "/ˌsəbˈfəsk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subfusc_us_2.mp3"
+}

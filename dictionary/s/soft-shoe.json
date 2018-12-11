@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A kind of tap dance performed in soft-soled shoes.",
+      "examples": [
+        "he could dance a jig or a soft-shoe",
+        "a soft-shoe shuffle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perform a soft-shoe dance.",
+      "examples": [],
+      "synonyms": [
+        "creep",
+        "move stealthily",
+        "tiptoe",
+        "pad",
+        "steal",
+        "sneak",
+        "nose",
+        "sidle",
+        "stalk",
+        "prowl",
+        "slink",
+        "skulk",
+        "tread warily"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɔft ˈʃu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soft_shoe_1_us_1.mp3"
+}

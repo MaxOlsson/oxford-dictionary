@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Courageous and determined.",
+      "examples": [
+        "a spunky performance"
+      ],
+      "synonyms": [
+        "brave",
+        "fearless",
+        "courageous",
+        "valorous",
+        "plucky",
+        "intrepid",
+        "heroic",
+        "stout-hearted",
+        "lionhearted",
+        "manly",
+        "manful",
+        "bold",
+        "daring",
+        "audacious",
+        "gallant",
+        "confident",
+        "spirited",
+        "stout",
+        "undaunted",
+        "dauntless",
+        "doughty",
+        "mettlesome",
+        "unalarmed",
+        "unflinching",
+        "unshrinking",
+        "unblenching",
+        "unabashed",
+        "undismayed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspəŋki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spunky_us_1.mp3"
+}

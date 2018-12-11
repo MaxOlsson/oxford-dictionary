@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Cook too much or for too long.",
+      "examples": [
+        "don't overcook the vegetables",
+        "ensure that the food doesn't overcook during reheating"
+      ],
+      "synonyms": [
+        "overcooked",
+        "overbaked",
+        "dried out",
+        "burnt",
+        "burnt to a cinder",
+        "burnt to a crisp"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈko͝ok/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overcook_us_1.mp3"
+}

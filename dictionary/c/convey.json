@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Transport or carry to a place.",
+      "examples": [
+        "pipes were laid to convey water to the house"
+      ],
+      "synonyms": [
+        "transport",
+        "carry",
+        "bring",
+        "take",
+        "fetch",
+        "bear",
+        "move",
+        "ferry",
+        "shuttle",
+        "shift",
+        "transfer"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense escort; compare with convoy): from Old French conveier, from medieval Latin conviare, from con- together + Latin via way.",
+  "pronounciation": "/kənˈvā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvey_us_1.mp3"
+}

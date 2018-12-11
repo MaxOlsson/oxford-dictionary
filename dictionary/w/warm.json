@@ -1,0 +1,89 @@
+{
+  "adjective": [
+    {
+      "description": "Of or at a fairly or comfortably high temperature.",
+      "examples": [
+        "a warm September evening",
+        "I walked quickly to keep warm"
+      ],
+      "synonyms": [
+        "hot",
+        "warming"
+      ]
+    },
+    {
+      "description": "Having, showing, or expressive of enthusiasm, affection, or kindness.",
+      "examples": [
+        "they exchanged warm, friendly smiles",
+        "a warm welcome"
+      ],
+      "synonyms": [
+        "friendly",
+        "comradely",
+        "affable",
+        "amiable",
+        "genial",
+        "cordial",
+        "kindly",
+        "kind",
+        "pleasant",
+        "sympathetic",
+        "affectionate",
+        "warm-hearted",
+        "good-natured",
+        "loving",
+        "tender",
+        "fond"
+      ]
+    },
+    {
+      "description": "(of a color) containing red, yellow, or orange tones.",
+      "examples": [
+        "her fair coloring suited soft, warm shades"
+      ]
+    },
+    {
+      "description": "(of a scent or trail) fresh; strong.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become warm.",
+      "examples": [
+        "I stamped my feet to warm them up",
+        "the film warmed our hearts",
+        "it's a bit chilly in here, but it'll soon warm up"
+      ],
+      "synonyms": [
+        "heat",
+        "heat up",
+        "become warm",
+        "make warm",
+        "become hot",
+        "make hot",
+        "raise the temperature of",
+        "increase in temperature",
+        "thaw",
+        "thaw out",
+        "melt",
+        "take the chill off"
+      ]
+    }
+  ],
+  "phrases": [
+    "babies require a lot of attention, not just momentary warm fuzzies",
+    "The company's putting on a nice public face, but the degree of insider sales by senior officers does not make one feel warm and fuzzy inside.",
+    "Is this real journalism or a kind of a form of cheerleading, where everybody benefits, because it's all soft and warm and fuzzy?",
+    "I long for the days when comics weren't so treacly and warm and fuzzy.",
+    "The tax analogy may not be warm and fuzzy, but it's close to the truth - spending a few minutes every few years voting is the part of the price we pay to live in a democracy.",
+    "To warm down you have to wait until you loose the pump of your last exercise.",
+    "You can warm down physically by walking around or doing lighter (using less energy) exercises.",
+    "He finished the challenge with a 25-length warm down.",
+    "An adequate warm up, the selection of safe exercises and movement patterns, regular monitoring of body alignment and exercise intensity, and an appropriate warm down are important.",
+    "Basically adequate warm up, warm down, stretching, correct training, good diet and when possible, correcting bio mechanical problems are the best buffers against injuries."
+  ],
+  "origin": "Old English wearm (adjective), werman, wearmian (verb), of Germanic origin; related to Dutch and German warm, from an Indo-European root shared by Latin formus warm and Greek thermos hot.",
+  "pronounciation": "/wôrm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/warm_us_1.mp3"
+}

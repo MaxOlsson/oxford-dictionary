@@ -1,0 +1,68 @@
+{
+  "verb": [
+    {
+      "description": "Make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.",
+      "examples": []
+    },
+    {
+      "description": "Unite or cause to unite.",
+      "examples": [
+        "disparate regions had begun to knit together under the king",
+        "a closely knit family",
+        "he knitted together a squad of players other clubs had disregarded"
+      ],
+      "synonyms": [
+        "unite",
+        "become united",
+        "unify",
+        "become unified",
+        "become one",
+        "come together",
+        "become closer",
+        "band together",
+        "bond",
+        "combine",
+        "coalesce",
+        "merge",
+        "meld",
+        "blend",
+        "amalgamate",
+        "league"
+      ]
+    },
+    {
+      "description": "Tighten (one's brow or eyebrows) in a frown of concentration, disapproval, or anxiety.",
+      "examples": [],
+      "synonyms": [
+        "furrow",
+        "tighten",
+        "contract",
+        "gather",
+        "draw in",
+        "wrinkle",
+        "pucker",
+        "knot",
+        "screw up",
+        "crease",
+        "scrunch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A knitted fabric.",
+      "examples": [
+        "a machine-washable knit"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting or relating to a type of knitting stitch produced by putting the needle through the front of each stitch from left to right.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English cnyttan, of West Germanic origin; related to German dialect knütten, also to knot. The original sense was tie in or with a knot, hence join, unite ( knit (sense 2 of the verb)); an obsolete Middle English sense knot string to make a net gave rise to knit (sense 1 of the verb).",
+  "pronounciation": "/nɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knit_us_1.mp3"
+}

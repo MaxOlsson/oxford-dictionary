@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "The branch of metaphysics dealing with the nature of being.",
+      "examples": []
+    },
+    {
+      "description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+      "examples": [
+        "what's new about our ontology is that it is created automatically from large datasets",
+        "we're using ontologies to capture and analyze some of the knowledge in our department"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from modern Latin ontologia, from Greek ōn, ont- being + -logy.",
+  "pronounciation": "/ɑnˈtɑlədʒi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ontology_us_1.mp3"
+}

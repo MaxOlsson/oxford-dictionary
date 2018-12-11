@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Comfort or consolation in a time of distress or sadness.",
+      "examples": [
+        "she sought solace in her religion"
+      ],
+      "synonyms": [
+        "comfort",
+        "consolation",
+        "cheer",
+        "support",
+        "relief"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give solace to.",
+      "examples": [],
+      "synonyms": [
+        "comfort",
+        "give solace to",
+        "console",
+        "cheer",
+        "support",
+        "relieve",
+        "soothe",
+        "calm"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French solas (noun), solacier (verb), based on Latin solari to console.",
+  "pronounciation": "/ˈsäləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solace_us_1.mp3"
+}

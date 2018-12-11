@@ -1,0 +1,135 @@
+{
+  "verb": [
+    {
+      "description": "(of a person's skin, face, etc.) become red and hot, typically as the result of illness or strong emotion.",
+      "examples": [
+        "Mr. Cunningham flushed angrily"
+      ],
+      "synonyms": [
+        "red",
+        "pink",
+        "ruddy",
+        "glowing",
+        "reddish",
+        "pinkish",
+        "florid",
+        "high-coloured",
+        "healthy-looking",
+        "aglow",
+        "burning",
+        "flaming",
+        "feverish",
+        "rubicund",
+        "roseate",
+        "rosy"
+      ]
+    },
+    {
+      "description": "Cleanse (something, especially a toilet) by causing large quantities of water to pass through it.",
+      "examples": [
+        "the nurse flushed out the catheter",
+        "flush the toilet"
+      ]
+    },
+    {
+      "description": "Drive (a bird, especially a game bird, or an animal) from its cover.",
+      "examples": [
+        "the grouse were flushed from the woods"
+      ],
+      "synonyms": [
+        "drive",
+        "send up",
+        "chase",
+        "force",
+        "dislodge",
+        "expel",
+        "frighten",
+        "scare"
+      ]
+    },
+    {
+      "description": "(of a plant) send out fresh shoots.",
+      "examples": [
+        "the plant had started to flush by late March"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reddening of the face, skin, etc., typically caused by illness or strong emotion.",
+      "examples": [
+        "a flush of embarrassment rose to her cheeks"
+      ],
+      "synonyms": [
+        "blush",
+        "reddening",
+        "high colour",
+        "colour",
+        "rosiness",
+        "pinkness",
+        "ruddiness",
+        "bloom"
+      ]
+    },
+    {
+      "description": "A sudden rush of intense emotion.",
+      "examples": [
+        "I was carried away in a flush of enthusiasm"
+      ]
+    },
+    {
+      "description": "An act of cleansing something, especially a toilet, with a sudden flow of water.",
+      "examples": [
+        "an old-fashioned toilet uses six or seven gallons per flush",
+        "leave the hose running to give the system a good flush out"
+      ]
+    },
+    {
+      "description": "The action of driving a game bird from its cover.",
+      "examples": [
+        "the dogs retrieve the birds after the flush"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Completely level or even with another surface.",
+      "examples": [
+        "the gates are flush with the adjoining fencing"
+      ]
+    },
+    {
+      "description": "Having plenty of something, especially money.",
+      "examples": [
+        "the banks are flush with funds"
+      ],
+      "synonyms": [
+        "well supplied with",
+        "replete with",
+        "overflowing with",
+        "bursting with",
+        "brimful with",
+        "brimming with",
+        "loaded with",
+        "overloaded with",
+        "abounding in",
+        "well provided with",
+        "well stocked with",
+        "rich in",
+        "abundant in",
+        "rife with"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to be level or even.",
+      "examples": [
+        "the screw must fit flush with the surface"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense marshy place): variant of flash.",
+  "pronounciation": "/fləʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flush_us_1.mp3"
+}

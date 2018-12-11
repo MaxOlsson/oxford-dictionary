@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "(of an action) convenient and practical although possibly improper or immoral.",
+      "examples": [
+        "either side could break the agreement if it were expedient to do so"
+      ],
+      "synonyms": [
+        "convenient",
+        "advantageous",
+        "in one's own interests",
+        "to one's own advantage",
+        "useful",
+        "of use",
+        "of service",
+        "beneficial",
+        "of benefit",
+        "profitable",
+        "gainful",
+        "effective",
+        "helpful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A means of attaining an end, especially one that is convenient but considered improper or immoral.",
+      "examples": [
+        "the current policy is a political expedient"
+      ],
+      "synonyms": [
+        "measure",
+        "means",
+        "method",
+        "stratagem",
+        "scheme",
+        "plan",
+        "course of action",
+        "solution",
+        "move",
+        "tactic",
+        "manoeuvre",
+        "recourse",
+        "resource",
+        "device",
+        "tool",
+        "contrivance",
+        "ploy",
+        "plot",
+        "machination",
+        "trick",
+        "ruse",
+        "artifice",
+        "invention"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin expedient- extricating, putting in order, from the verb expedire (see expedite).",
+  "pronounciation": "/ɪkˈspidiənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expedient_us_1.mp3"
+}

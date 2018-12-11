@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting drugs that affect a person's mental state.",
+      "examples": [
+        "a psychotropic drug",
+        "myristicin has psychotropic properties"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A psychotropic drug.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌsīkəˈtrōpik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psychotropic_us_3.mp3"
+}

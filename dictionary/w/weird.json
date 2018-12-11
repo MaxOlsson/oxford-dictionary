@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Suggesting something supernatural; uncanny.",
+      "examples": [
+        "the weird crying of a seal"
+      ],
+      "synonyms": [
+        "uncanny",
+        "eerie",
+        "unnatural",
+        "preternatural",
+        "supernatural",
+        "unearthly",
+        "other-worldly",
+        "unreal",
+        "ghostly",
+        "mysterious",
+        "mystifying",
+        "strange",
+        "abnormal",
+        "unusual"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person's destiny.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Induce a sense of disbelief or alienation in someone.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English wyrd destiny, of Germanic origin. The adjective ( late Middle English) originally meant having the power to control destiny, and was used especially in the Weird Sisters, originally referring to the Fates, later the witches in Shakespeare's Macbeth; the latter use gave rise to the sense unearthly (early 19th century).",
+  "pronounciation": "/wɪrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weird_us_1.mp3"
+}

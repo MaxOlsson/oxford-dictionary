@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by abrupt stops and starts.",
+      "examples": [
+        "shallow, jerky, irregular breathing"
+      ],
+      "synonyms": [
+        "convulsive",
+        "spasmodic",
+        "fitful",
+        "twitchy",
+        "paroxysmal",
+        "shaking",
+        "shaky",
+        "tremulous",
+        "uncontrolled",
+        "uncontrollable"
+      ]
+    },
+    {
+      "description": "Contemptibly foolish.",
+      "examples": [
+        "he makes mischief with his jerky pals"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Meat that has been cured by being cut into long, thin strips and dried.",
+      "examples": [
+        "beef jerky"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from American Spanish charqui, from Quechua.",
+  "pronounciation": "/ˈdʒərki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jerky_us_1.mp3"
+}

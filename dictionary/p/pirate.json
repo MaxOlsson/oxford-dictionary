@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A person who attacks and robs ships at sea.",
+      "examples": [],
+      "synonyms": [
+        "freebooter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use or reproduce (another's work) for profit without permission, usually in contravention of patent or copyright.",
+      "examples": [
+        "he sold pirated tapes of Hollywood blockbusters",
+        "a competing company cannot pirate its intellectual achievements"
+      ],
+      "synonyms": [
+        "reproduce illegally",
+        "infringe the copyright of",
+        "copy illegally",
+        "plagiarize",
+        "poach",
+        "steal",
+        "appropriate",
+        "bootleg"
+      ]
+    },
+    {
+      "description": "Rob or plunder (a ship).",
+      "examples": [],
+      "synonyms": [
+        "pillage",
+        "loot",
+        "rob",
+        "raid",
+        "ransack",
+        "strip",
+        "fleece",
+        "ravage",
+        "lay waste",
+        "devastate",
+        "maraud",
+        "sack",
+        "rape"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin pirata, from Greek peiratēs, from peirein to attempt, attack (from peira an attempt).",
+  "pronounciation": "/ˈpīrət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pirate_us_1.mp3"
+}

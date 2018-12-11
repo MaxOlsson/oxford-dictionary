@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Illuminated by direct light from the sun.",
+      "examples": [
+        "clear sunlit waters"
+      ],
+      "synonyms": [
+        "fine",
+        "dry",
+        "bright",
+        "clear",
+        "sunny",
+        "sunshiny",
+        "cloudless",
+        "without a cloud in the sky"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənˌlɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sunlit_us_1.mp3"
+}

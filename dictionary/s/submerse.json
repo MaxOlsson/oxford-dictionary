@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Submerge.",
+      "examples": [
+        "pellets were then submersed in agar"
+      ],
+      "synonyms": [
+        "immerse",
+        "steep",
+        "submerge",
+        "dip",
+        "sink",
+        "dunk",
+        "bathe",
+        "wet",
+        "rinse",
+        "douse",
+        "marinate",
+        "souse",
+        "pickle",
+        "ret"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting or characteristic of a plant growing entirely underwater.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin submers- plunged below, from the verb submergere (see submerge).",
+  "pronounciation": "/səbˈmərs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/submerse_us_1.mp3"
+}

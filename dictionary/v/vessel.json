@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A ship or large boat.",
+      "examples": [],
+      "synonyms": [
+        "boat",
+        "sailing boat",
+        "ship",
+        "yacht",
+        "craft",
+        "watercraft"
+      ]
+    },
+    {
+      "description": "A hollow container, especially one used to hold liquid, such as a bowl or cask.",
+      "examples": [],
+      "synonyms": [
+        "container",
+        "receptacle",
+        "repository",
+        "holder",
+        "carrier"
+      ]
+    },
+    {
+      "description": "A duct or canal holding or conveying blood or other fluid.",
+      "examples": [],
+      "synonyms": [
+        "duct",
+        "tube",
+        "channel",
+        "passage",
+        "pipe"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French vessel(e), from late Latin vascellum, diminutive of vas vessel.",
+  "pronounciation": "/ˈvɛsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vessel_us_1.mp3"
+}

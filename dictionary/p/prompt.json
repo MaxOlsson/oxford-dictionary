@@ -1,0 +1,84 @@
+{
+  "verb": [
+    {
+      "description": "(of an event or fact) cause or bring about (an action or feeling)",
+      "examples": [
+        "his death has prompted an industry-wide investigation of safety violations"
+      ],
+      "synonyms": [
+        "give rise to",
+        "bring about",
+        "cause",
+        "occasion",
+        "result in",
+        "lead to",
+        "elicit",
+        "produce",
+        "bring on",
+        "engender",
+        "induce",
+        "call forth",
+        "evoke",
+        "precipitate",
+        "trigger",
+        "spark off",
+        "provoke",
+        "instigate"
+      ]
+    },
+    {
+      "description": "Assist or encourage (a hesitating speaker) to say something.",
+      "examples": [
+        "“And the picture?” he prompted"
+      ],
+      "synonyms": [
+        "remind",
+        "cue",
+        "give someone a cue",
+        "help out",
+        "coach",
+        "feed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of assisting or encouraging a hesitating speaker.",
+      "examples": [
+        "with barely a prompt, Barbara talked on"
+      ]
+    },
+    {
+      "description": "The time limit for the payment of an account, as stated on a prompt note.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done without delay; immediate.",
+      "examples": [
+        "the owner would have died but for the prompt action of two paramedics"
+      ],
+      "synonyms": [
+        "quick",
+        "swift",
+        "rapid",
+        "speedy",
+        "fast",
+        "direct",
+        "immediate",
+        "instant",
+        "instantaneous",
+        "expeditious",
+        "early",
+        "punctual",
+        "in good time",
+        "on time",
+        "timely"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): based on Old French prompt or Latin promptus brought to light, also prepared, ready, past participle of promere to produce, from pro- out, forth + emere take.",
+  "pronounciation": "/prɑm(p)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prompt_us_1.mp3"
+}

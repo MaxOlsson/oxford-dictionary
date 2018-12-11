@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "Serious and immediate danger.",
+      "examples": [
+        "a setback to the state could present a peril to the regime",
+        "his family was in peril"
+      ],
+      "synonyms": [
+        "danger",
+        "jeopardy",
+        "risk",
+        "riskiness",
+        "hazard",
+        "insecurity",
+        "uncertainty",
+        "menace",
+        "threat",
+        "perilousness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Expose to danger; threaten.",
+      "examples": [
+        "Jonathon periled his life for love of David"
+      ],
+      "synonyms": [
+        "threaten",
+        "endanger",
+        "imperil",
+        "menace",
+        "risk",
+        "put at risk",
+        "expose to risk",
+        "put in danger",
+        "expose to danger",
+        "put in jeopardy",
+        "put on the line"
+      ]
+    }
+  ],
+  "phrases": [
+    "neglect our advice at your peril",
+    "For all that talk of intellectual mastery, there is another dimension that we're not in control of, and we neglect it at our peril.",
+    "You risk missing this deadline at your peril, as this article from last week explains!",
+    "Now you step on it at your peril, and with risk of severe damage to the grass.",
+    "We neglect this aspect of religion at our peril."
+  ],
+  "origin": "Middle English: from Old French, from Latin peric(u)lum danger, from the base of experiri to try.",
+  "pronounciation": "/ˈpɛrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peril_us_1.mp3"
+}

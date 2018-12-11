@@ -1,0 +1,33 @@
+{
+  "pronoun": [
+    {
+      "description": "What or which person or people.",
+      "examples": [
+        "who is that woman?",
+        "I wonder who that letter was from"
+      ]
+    },
+    {
+      "description": "Used to introduce a clause giving further information about a person or people previously mentioned.",
+      "examples": [
+        "Joan Fontaine plays the mouse who married the playboy"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "World Health Organization.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he meekly bowed to him, as who should say “Proceed.”",
+    "The Greeks called them Anticheir, as who should say, another hand.",
+    "One day he saw me and signed to me with his hand, as who should say, What is that?",
+    "Mr. Snagsby addresses an explanatory cough to Mrs. Snagsby, as who should say, My dear, a customer!",
+    "All the characters and all the incidents in the play have been devised for the glorification of Cyrano, and are but, as who should say, so many rays of lime-light converging upon him alone."
+  ],
+  "origin": "Old English hwā, of Germanic origin; related to Dutch wie and German wer.",
+  "pronounciation": "/ˌdəblyo͞oˌāCHˈō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/w_h_o_1_us_1_abbr.mp3"
+}

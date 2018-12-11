@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Be half asleep; doze intermittently.",
+      "examples": [
+        "he was beginning to drowse in his chair"
+      ],
+      "synonyms": [
+        "doze",
+        "sleep",
+        "sleep lightly",
+        "nap",
+        "take a nap",
+        "catnap",
+        "take a siesta",
+        "rest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A light sleep; a condition of being half asleep.",
+      "examples": [],
+      "synonyms": [
+        "doze",
+        "light sleep",
+        "nap",
+        "catnap",
+        "siesta",
+        "lie-down",
+        "rest"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: back-formation from drowsy.",
+  "pronounciation": "/draʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drowse_us_1.mp3"
+}

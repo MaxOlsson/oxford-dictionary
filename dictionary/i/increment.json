@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "An increase or addition, especially one of a series on a fixed scale.",
+      "examples": [
+        "the inmates' pay can escalate in five-cent increments to a maximum of 90 cents an hour"
+      ],
+      "synonyms": [
+        "increase",
+        "addition",
+        "gain",
+        "augmentation",
+        "step up",
+        "supplement",
+        "addendum",
+        "adjunct",
+        "accretion",
+        "accrual"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause a discrete increase in (a numerical quantity).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin incrementum, from the stem of increscere grow (see increase).",
+  "pronounciation": "/ˈɪŋkrəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/increment_us_1.mp3"
+}

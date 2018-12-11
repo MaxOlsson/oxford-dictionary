@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Not disposed towards war or hostilities.",
+      "examples": [
+        "many insisted that such an unwarlike people could never make good soldiers"
+      ],
+      "synonyms": [
+        "peace-loving",
+        "non-belligerent",
+        "non-violent",
+        "non-combative",
+        "non-aggressive",
+        "conflict-free",
+        "easy",
+        "easy-going",
+        "placid",
+        "gentle",
+        "meek",
+        "mild",
+        "inoffensive",
+        "good-natured",
+        "even-tempered",
+        "amiable",
+        "amicable",
+        "friendly",
+        "affable",
+        "genial",
+        "civil",
+        "cooperative",
+        "conciliatory",
+        "pacific",
+        "pacifist",
+        "anti-war",
+        "dovelike",
+        "dovish"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈwɔːlʌɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unwarlike_gb_1_8.mp3"
+}

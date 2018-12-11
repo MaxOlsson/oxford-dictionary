@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial.",
+      "examples": [],
+      "synonyms": [
+        "simplistic",
+        "superficial",
+        "oversimple",
+        "oversimplified",
+        "schematic",
+        "black and white"
+      ]
+    },
+    {
+      "description": "(especially of success in sports) easily achieved; effortless.",
+      "examples": [
+        "a facile victory",
+        "he was revealed to be a facile liar"
+      ],
+      "synonyms": [
+        "effortless",
+        "easy",
+        "undemanding",
+        "unexacting",
+        "painless",
+        "trouble-free",
+        "unchallenged"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense easily accomplished): from French, or from Latin facilis easy, from facere do, make.",
+  "pronounciation": "/ˈfæsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/facile_us_1.mp3"
+}

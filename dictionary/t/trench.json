@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A long, narrow ditch.",
+      "examples": [],
+      "synonyms": [
+        "ditch",
+        "channel",
+        "trough",
+        "excavation",
+        "pit",
+        "furrow",
+        "rut",
+        "conduit",
+        "cut",
+        "drain",
+        "waterway",
+        "watercourse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dig a trench or trenches in (the ground)",
+      "examples": [
+        "she trenched the terrace to a depth of 6 feet"
+      ]
+    },
+    {
+      "description": "Border closely on; encroach on.",
+      "examples": [
+        "this would surely trench very far on the dignity and liberty of citizens"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses track cut through a wood and sever by cutting): from Old French trenche (noun), trenchier (verb), based on Latin truncare (see truncate).",
+  "pronounciation": "/trɛn(t)ʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trench_us_1.mp3"
+}

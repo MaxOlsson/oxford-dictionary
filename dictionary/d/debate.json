@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward.",
+      "examples": [],
+      "synonyms": [
+        "discussion",
+        "exchange of views",
+        "discourse",
+        "parley"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Argue about (a subject), especially in a formal manner.",
+      "examples": [
+        "the board debated his proposal",
+        "the date when people first entered America is hotly debated"
+      ],
+      "synonyms": [
+        "discuss",
+        "confer about",
+        "talk over",
+        "talk through",
+        "talk about",
+        "exchange views on",
+        "exchange views about",
+        "thrash out",
+        "argue",
+        "argue about",
+        "argue the pros and cons of",
+        "dispute",
+        "wrangle over",
+        "bandy words concerning",
+        "contend over",
+        "contest",
+        "controvert",
+        "moot"
+      ]
+    }
+  ],
+  "phrases": [
+    "The significance of this fact is open to debate.",
+    "Whether women are less ambitious than men is open to debate.",
+    "The penalty decision which followed is open to debate for the initial challenge took place outside the box, with the momentum of both players carrying them into the area.",
+    "Whether this is because O-levels are harder or they needed longer to prepare is open to debate.",
+    "How one goes about implementing that ideology is open to debate."
+  ],
+  "origin": "Middle English: via Old French from Latin dis- (expressing reversal) + battere to fight.",
+  "pronounciation": "/dəˈbāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/debate_us_1.mp3"
+}

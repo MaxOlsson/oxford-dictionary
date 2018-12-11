@@ -1,0 +1,92 @@
+{
+  "verb": [
+    {
+      "description": "Rest or move on or near the surface of a liquid without sinking.",
+      "examples": [
+        "she relaxed, floating gently in the water"
+      ],
+      "synonyms": [
+        "stay afloat",
+        "stay on the surface",
+        "be buoyant",
+        "be buoyed up"
+      ]
+    },
+    {
+      "description": "Move or hover slowly and lightly in a liquid or the air; drift.",
+      "examples": [
+        "clouds floated across a brilliant blue sky",
+        "through the open window floated the sound of traffic"
+      ],
+      "synonyms": [
+        "hover",
+        "levitate",
+        "be suspended",
+        "hang",
+        "defy gravity"
+      ]
+    },
+    {
+      "description": "Put forward (an idea) as a suggestion or test of reactions.",
+      "examples": [],
+      "synonyms": [
+        "suggest",
+        "put forward",
+        "come up with",
+        "submit",
+        "raise",
+        "moot",
+        "propose",
+        "advance",
+        "offer",
+        "proffer",
+        "posit",
+        "present",
+        "table",
+        "test the popularity of"
+      ]
+    },
+    {
+      "description": "(of a currency) fluctuate freely in value in accordance with supply and demand in the financial markets.",
+      "examples": [
+        "a policy of letting the pound float"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is buoyant in water.",
+      "examples": []
+    },
+    {
+      "description": "A platform mounted on a truck and carrying a display in a parade.",
+      "examples": [
+        "a carnival float"
+      ]
+    },
+    {
+      "description": "A hand tool with a rectangular blade used for smoothing plaster or concrete.",
+      "examples": []
+    },
+    {
+      "description": "A soft drink with a scoop of ice cream floating in it.",
+      "examples": [
+        "root-beer floats"
+      ]
+    },
+    {
+      "description": "(in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Kevin doesn't exactly float her boat",
+    "If that's what floats your boat, go for it, but it leads us nowhere fast.",
+    "Listen, if wearing pantyhose floats your boat and everyone is happy, good for you.",
+    "Personally, I didn't like heavy metal bands, but hey, like I always said, Whatever floats your boat and sinks your ship.",
+    "Whatever floats your boat, sweetheart, he said nonchalantly."
+  ],
+  "origin": "Old English flotian (verb), of Germanic origin and related to fleet, reinforced in Middle English by Old French floter, also from Germanic.",
+  "pronounciation": "/floʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/float_us_1.mp3"
+}

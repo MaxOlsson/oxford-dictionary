@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Of exceptional strength, size, or power.",
+      "examples": [
+        "a series of titanic explosions"
+      ],
+      "synonyms": [
+        "colossal",
+        "gigantic",
+        "monumental",
+        "massive",
+        "enormous",
+        "terrific",
+        "tremendous",
+        "fantastic",
+        "towering",
+        "immense",
+        "vast",
+        "cosmic",
+        "giant",
+        "mammoth",
+        "elephantine",
+        "gargantuan",
+        "prodigious",
+        "huge",
+        "very large",
+        "great",
+        "substantial",
+        "mighty",
+        "herculean",
+        "brobdingnagian"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A British passenger liner, the largest ship in the world when it was built and supposedly unsinkable, that struck an iceberg in the North Atlantic on its maiden voyage in April 1912 and sank with the loss of 1,490 lives.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: from titanium + -ic.",
+  "pronounciation": "/tīˈtanik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/titanic_us_2.mp3"
+}

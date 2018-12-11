@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Certain to happen; unavoidable.",
+      "examples": [
+        "war was inevitable"
+      ],
+      "synonyms": [
+        "unavoidable",
+        "inescapable",
+        "bound to happen",
+        "sure to happen",
+        "inexorable",
+        "unpreventable",
+        "assured",
+        "certain",
+        "for sure",
+        "sure",
+        "fated",
+        "predestined",
+        "predetermined",
+        "preordained",
+        "ineluctable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A situation that is unavoidable.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin inevitabilis, from in- not + evitabilis avoidable (from evitare avoid).",
+  "pronounciation": "/inˈevidəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inevitable_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of food or drink) resembling or containing fruit.",
+      "examples": [
+        "fruity cocktails",
+        "a light and fruity Beaujolais"
+      ],
+      "synonyms": [
+        "tasting of fruit",
+        "containing fruit"
+      ]
+    },
+    {
+      "description": "(of a voice or sound) mellow, deep, and rich.",
+      "examples": [
+        "Jeff had a wonderfully fruity voice"
+      ],
+      "synonyms": [
+        "resonant",
+        "deep",
+        "rich",
+        "full",
+        "full-toned",
+        "full-bodied"
+      ]
+    },
+    {
+      "description": "Relating to or associated with homosexuals.",
+      "examples": []
+    },
+    {
+      "description": "Eccentric or crazy.",
+      "examples": [
+        "a kind of fruity professor"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfro͞odē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fruity_us_2.mp3"
+}

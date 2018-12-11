@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A quantity or consignment of goods produced at one time.",
+      "examples": [
+        "a batch of cookies",
+        "the company undertakes thirty-six separate quality control checks on every batch"
+      ],
+      "synonyms": [
+        "delivery",
+        "shipment",
+        "load",
+        "containerload",
+        "shipload",
+        "boatload",
+        "lorryload",
+        "truckload",
+        "cargo"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange (things) in sets or groups.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century (in the senses process of baking, quantity produced at one baking): based on an Old English word related to bacan (see bake). Current senses date from the early 18th century.",
+  "pronounciation": "/baCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/batch_us_1.mp3"
+}

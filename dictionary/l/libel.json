@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "A published false statement that is damaging to a person's reputation; a written defamation.",
+      "examples": [],
+      "synonyms": [
+        "defamation",
+        "defamation of character",
+        "character assassination",
+        "calumny",
+        "misrepresentation",
+        "scandalmongering"
+      ]
+    },
+    {
+      "description": "(in admiralty and ecclesiastical law) a plaintiff's written declaration.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Defame (someone) by publishing a libel.",
+      "examples": [
+        "she alleged the magazine had libeled her"
+      ],
+      "synonyms": [
+        "defame",
+        "malign",
+        "slander",
+        "give someone a bad name",
+        "blacken someone's name",
+        "sully someone's reputation",
+        "speak evil of",
+        "speak ill of",
+        "write false reports about",
+        "traduce",
+        "smear",
+        "cast aspersions on",
+        "fling mud at",
+        "drag someone's name through the mire",
+        "drag someone's name through the mud",
+        "besmirch",
+        "tarnish",
+        "taint",
+        "do a hatchet job on",
+        "tell lies about",
+        "spread tales about",
+        "spread scandal about",
+        "stain",
+        "vilify",
+        "calumniate",
+        "denigrate",
+        "disparage",
+        "run down",
+        "derogate",
+        "stigmatize",
+        "discredit",
+        "slight"
+      ]
+    },
+    {
+      "description": "(in admiralty and ecclesiastical law) bring a suit against.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the general sense a document, a written statement): via Old French from Latin libellus, diminutive of liber book.",
+  "pronounciation": "/ˈlībəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/libel_us_1.mp3"
+}

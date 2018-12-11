@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A ghost.",
+      "examples": []
+    },
+    {
+      "description": "A spy.",
+      "examples": [
+        "a CIA spook"
+      ],
+      "synonyms": [
+        "secret agent",
+        "undercover agent",
+        "enemy agent",
+        "foreign agent",
+        "secret service agent",
+        "intelligence agent",
+        "double agent",
+        "counterspy",
+        "industrial spy",
+        "fifth columnist",
+        "mole",
+        "plant",
+        "scout"
+      ]
+    },
+    {
+      "description": "A black person.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Frighten; unnerve.",
+      "examples": [
+        "they spooked a couple of grizzly bears"
+      ],
+      "synonyms": [
+        "appal",
+        "horrify",
+        "shock",
+        "shake",
+        "shake up"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Dutch, of unknown origin.",
+  "pronounciation": "/spuk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spook_us_1.mp3"
+}

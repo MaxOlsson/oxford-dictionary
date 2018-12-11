@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Determine the limits or boundaries of.",
+      "examples": [
+        "agreements delimiting fishing zones"
+      ],
+      "synonyms": [
+        "determine",
+        "establish",
+        "set",
+        "fix",
+        "mark",
+        "mark off",
+        "mark out",
+        "demarcate",
+        "bound",
+        "define",
+        "delineate"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from French délimiter, from Latin delimitare, from de- down, completely + limitare (from limes, limit- boundary, limit).",
+  "pronounciation": "/diˈlɪmɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delimit_us_1.mp3"
+}

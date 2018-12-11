@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A design plan or other technical drawing.",
+      "examples": [],
+      "synonyms": [
+        "plan",
+        "design",
+        "draft",
+        "diagram",
+        "drawing",
+        "scale drawing",
+        "outline",
+        "sketch",
+        "pattern",
+        "map",
+        "layout",
+        "representation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Draw up (a plan or model)",
+      "examples": [
+        "the landscape architect blueprinted a ten-year plan for regeneration of the magnificent formal gardens"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from the original process in which prints were composed of white lines on a blue ground or of blue lines on a white ground.",
+  "pronounciation": "/ˈbluˌprɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blueprint_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or causing someone to feel uncomfortably confined or hemmed in by lack of space.",
+      "examples": [
+        "the staff had to work in cramped conditions"
+      ],
+      "synonyms": [
+        "restricted",
+        "confined",
+        "constricted"
+      ]
+    },
+    {
+      "description": "Suffering from a cramp.",
+      "examples": [
+        "cramped muscles"
+      ]
+    }
+  ],
+  "pronounciation": "/kræm(p)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cramped_us_1.mp3"
+}

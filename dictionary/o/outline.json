@@ -1,0 +1,79 @@
+{
+  "noun": [
+    {
+      "description": "A line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.",
+      "examples": [
+        "fill in the outlines with color"
+      ],
+      "synonyms": [
+        "silhouette",
+        "profile",
+        "figure",
+        "shape",
+        "contour",
+        "form",
+        "line",
+        "lineaments",
+        "delineation"
+      ]
+    },
+    {
+      "description": "A general description or plan giving the essential features of something but not the detail.",
+      "examples": [
+        "an outline of the theory of evolution",
+        "a course outline"
+      ],
+      "synonyms": [
+        "rough idea",
+        "thumbnail sketch",
+        "rundown",
+        "quick rundown",
+        "abbreviated version",
+        "summary",
+        "synopsis",
+        "résumé",
+        "precis",
+        "abridgement",
+        "abstract",
+        "reduction",
+        "digest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Draw, trace, or define the outer edge or shape of (something)",
+      "examples": [
+        "her large eyes were darkly outlined with eyeliner"
+      ],
+      "synonyms": [
+        "silhouette",
+        "define",
+        "demarcate",
+        "delimit",
+        "mark off"
+      ]
+    },
+    {
+      "description": "Give a summary of (something)",
+      "examples": [
+        "she outlined the case briefly"
+      ],
+      "synonyms": [
+        "rough out",
+        "sketch out",
+        "block out",
+        "indicate",
+        "touch on",
+        "draft",
+        "give a thumbnail sketch of",
+        "give a rough idea of",
+        "give a quick rundown on",
+        "summarize",
+        "precis"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈoutˌlīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outline_us_1.mp3"
+}

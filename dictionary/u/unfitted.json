@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) not fitted or suited for a particular task or vocation.",
+      "examples": [
+        "he seemed to know he was unfitted for such a role"
+      ],
+      "synonyms": [
+        "incompetent",
+        "inept",
+        "lacking ability",
+        "no good",
+        "inadequate",
+        "not good enough",
+        "leaving much to be desired",
+        "inexpert",
+        "unproficient",
+        "unskilful",
+        "ineffective",
+        "ineffectual",
+        "inefficacious",
+        "feeble",
+        "unfit",
+        "unqualified",
+        "inferior"
+      ]
+    },
+    {
+      "description": "(of furniture) not fitted.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈfidəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfitted_us_1.mp3"
+}

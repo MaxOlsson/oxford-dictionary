@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Having exact and discernible limits or form.",
+      "examples": [
+        "the phrase has lost any determinate meaning"
+      ],
+      "synonyms": [
+        "fixed",
+        "settled",
+        "specified",
+        "quantified",
+        "established",
+        "defined",
+        "explicit",
+        "known",
+        "determined",
+        "definitive",
+        "conclusive",
+        "express",
+        "precise",
+        "final",
+        "ultimate",
+        "absolute",
+        "categorical",
+        "positive",
+        "definite"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin determinatus limited, determined, past participle of determinare (see determine).",
+  "pronounciation": "/dəˈtərmənət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/determinate_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Remove the nucleus from (a cell)",
+      "examples": [
+        "replication will occur in enucleated cells"
+      ]
+    },
+    {
+      "description": "Surgically remove (a tumor or gland, or the eyeball) intact from its surrounding capsule.",
+      "examples": [
+        "when an eyeball is enucleated, as much of the optic nerve as possible should be removed"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a cell) lacking a nucleus.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the sense clarify, explain): from Latin enucleat- extracted, made clear, from the verb enucleare, from e- (variant of ex-) out of + nucleus kernel (see nucleus).",
+  "pronounciation": "/əˈn(y)o͞oklēˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enucleate_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The expression of or the ability to express thoughts and feelings by articulate sounds.",
+      "examples": [
+        "he was born deaf and without the power of speech"
+      ],
+      "synonyms": [
+        "speaking",
+        "talking",
+        "verbal communication",
+        "verbal expression",
+        "articulation"
+      ]
+    },
+    {
+      "description": "A formal address or discourse delivered to an audience.",
+      "examples": [
+        "the headmistress made a speech about how much they would miss her"
+      ],
+      "synonyms": [
+        "talk",
+        "address",
+        "lecture",
+        "discourse",
+        "oration",
+        "disquisition",
+        "peroration",
+        "declamation",
+        "deliverance",
+        "presentation"
+      ]
+    }
+  ],
+  "origin": "Old English sprǣc, sprēc, later spēc, of West Germanic origin: related to Dutch spraak, German Sprache, also to speak.",
+  "pronounciation": "/spitʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speech_us_1.mp3"
+}

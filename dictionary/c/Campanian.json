@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the Italian region of Campania or its inhabitants.",
+      "examples": [
+        "the bright light and heat of Campanian high summer"
+      ]
+    },
+    {
+      "description": "Denoting a subdivision of the Late Cretaceous period.",
+      "examples": [
+        "both faunas are late Campanian"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the Italian region of Campania.",
+      "examples": [
+        "Octavian settled Campanians at Knossos"
+      ]
+    },
+    {
+      "description": "The Campanian period or the system of rocks deposited during it.",
+      "examples": [
+        "increases in carnivore richness and abundance occurred before the Campanian"
+      ]
+    }
+  ],
+  "pronounciation": "/kämˈpänēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/campanian_1_us_1.mp3"
+}

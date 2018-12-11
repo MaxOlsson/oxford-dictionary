@@ -1,0 +1,166 @@
+{
+  "verb": [
+    {
+      "description": "Grasp, carry, or support with one's arms or hands.",
+      "examples": [
+        "she was holding a brown leather suitcase",
+        "he held onto the back of a chair"
+      ],
+      "synonyms": [
+        "clasp",
+        "hold on to",
+        "clutch",
+        "grasp",
+        "grip",
+        "clench",
+        "cling to",
+        "have in one's hand"
+      ]
+    },
+    {
+      "description": "Keep or detain (someone)",
+      "examples": [
+        "the police were holding him on a murder charge",
+        "she was held prisoner for two days"
+      ],
+      "synonyms": [
+        "detain",
+        "hold in custody",
+        "imprison",
+        "lock up",
+        "shut up",
+        "put behind bars",
+        "put in prison",
+        "put in jail",
+        "incarcerate",
+        "keep under lock and key",
+        "confine",
+        "impound",
+        "immure",
+        "intern",
+        "constrain",
+        "keep under constraint"
+      ]
+    },
+    {
+      "description": "Remain secure, intact, or in position without breaking or giving way.",
+      "examples": [
+        "the boat's anchor would not hold"
+      ]
+    },
+    {
+      "description": "Contain or be capable of containing (a specified amount)",
+      "examples": [
+        "the tank held twenty-four gallons"
+      ],
+      "synonyms": [
+        "have a capacity of",
+        "take",
+        "have room for",
+        "have space for",
+        "contain",
+        "comprise"
+      ]
+    },
+    {
+      "description": "Have in one's possession.",
+      "examples": [
+        "the managing director still holds fifty shares in the company"
+      ],
+      "synonyms": [
+        "possess",
+        "have",
+        "own",
+        "bear",
+        "carry",
+        "be the owner of",
+        "have in one's possession",
+        "be in possession of",
+        "have to one's name"
+      ]
+    },
+    {
+      "description": "Keep or reserve for someone.",
+      "examples": [
+        "a reservation can be held for twenty-four hours"
+      ],
+      "synonyms": [
+        "put to one side",
+        "put aside",
+        "set aside",
+        "lay aside",
+        "keep back"
+      ]
+    },
+    {
+      "description": "Prevent from going ahead or occurring.",
+      "examples": [
+        "hold your fire!"
+      ]
+    },
+    {
+      "description": "Arrange and take part in (a meeting or conversation)",
+      "examples": [
+        "a meeting was held at the church"
+      ],
+      "synonyms": [
+        "convene",
+        "call",
+        "assemble",
+        "summon"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or manner of grasping something; a grip.",
+      "examples": [
+        "he caught hold of her arm",
+        "he lost his hold and fell"
+      ],
+      "synonyms": [
+        "grip",
+        "grasp",
+        "clasp",
+        "clutch"
+      ]
+    },
+    {
+      "description": "Power or control.",
+      "examples": [
+        "he discovered that Tom had some kind of hold over his father",
+        "military forces tightened their hold on the capital"
+      ],
+      "synonyms": [
+        "influence",
+        "power",
+        "control",
+        "dominance",
+        "pull",
+        "sway",
+        "mastery",
+        "authority",
+        "leverage"
+      ]
+    },
+    {
+      "description": "A fortress.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Everyone agrees that it shouldn't have happened but no one wants to be left holding the baby.",
+    "There is little room for sympathy when chief executives screw up, particularly if shareholders, employees and customers are left holding the baby.",
+    "I don't think Craven District Council should be left holding the baby on its own, he said.",
+    "When the bubble burst, their shareholders were left holding the bag.",
+    "When the steady market increases came to a halt, and the dishonesty of some in corporate America came to light, shareholders were often left holding the bag.",
+    "he knew that if he failed her, she would hold it against him forever",
+    "It was a mark of his good nature that he did not hold it against you.",
+    "Failure to give evidence on its own cannot prove guilt, but depending on the circumstances, you may hold his failure against him when deciding whether he is guilty.",
+    "We have been told, for instance, that there is a blame culture, where officers are afraid of making mistakes because they think any mistake will be held against them for the rest of their career.",
+    "If we forgive someone we must let go of anger or blame for whatever they have done, stop holding it against them, and act with love towards them from now on."
+  ],
+  "origin": "Late 16th century: from obsolete holl, from Old English hol (see hole). The addition of -d was due to association with hold.",
+  "pronounciation": "/hoʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hold_us_1.mp3"
+}

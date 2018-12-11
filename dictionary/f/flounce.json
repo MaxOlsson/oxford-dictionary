@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Go or move in an exaggeratedly impatient or angry manner.",
+      "examples": [
+        "he stood up in a fury and flounced out"
+      ],
+      "synonyms": [
+        "storm",
+        "stride angrily",
+        "sweep",
+        "stomp",
+        "stamp",
+        "march",
+        "strut",
+        "stalk"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An exaggerated action, typically intended to express one's annoyance or impatience.",
+      "examples": [
+        "she left the room with a flounce"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from an alteration of obsolete frounce a fold or pleat, from Old French fronce, of Germanic origin; related to ruck.",
+  "pronounciation": "/flouns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flounce_us_1.mp3"
+}

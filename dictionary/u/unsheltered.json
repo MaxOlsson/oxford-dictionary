@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not sheltered or protected.",
+      "examples": [
+        "I'm standing in the freezing rain at an unsheltered bus stop"
+      ],
+      "synonyms": [
+        "bare",
+        "exposed",
+        "desolate",
+        "stark",
+        "arid",
+        "desert",
+        "denuded",
+        "lunar",
+        "open",
+        "empty",
+        "windswept"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈSHeltərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsheltered_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "(of an event or circumstance) portend a good or bad outcome.",
+      "examples": [
+        "the end of the cold war seemed to augur well",
+        "the return to the gold standard augured badly for industry"
+      ],
+      "synonyms": [
+        "bode"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in ancient Rome) a religious official who observed natural signs, especially the behavior of birds, interpreting these as an indication of divine approval or disapproval of a proposed action.",
+      "examples": [],
+      "synonyms": [
+        "seer",
+        "soothsayer",
+        "fortune teller",
+        "crystal gazer",
+        "clairvoyant",
+        "psychic",
+        "visionary",
+        "prognosticator",
+        "diviner",
+        "prophesier",
+        "prophet",
+        "prophetess",
+        "oracle",
+        "sibyl",
+        "sage",
+        "wise man",
+        "wise woman"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Latin, diviner.",
+  "pronounciation": "/ˈôɡər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/augur_us_1.mp3"
+}

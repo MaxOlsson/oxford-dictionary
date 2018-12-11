@@ -1,0 +1,96 @@
+{
+  "preposition": [
+    {
+      "description": "Extending or directly below.",
+      "examples": [
+        "the streams that ran under the melting glaciers",
+        "vast stores of oil under Alaska"
+      ]
+    },
+    {
+      "description": "At a lower level than.",
+      "examples": [
+        "the room under his study"
+      ]
+    },
+    {
+      "description": "Lower than (a specified amount, rate, norm, or age)",
+      "examples": [
+        "they averaged just under 2.8 percent"
+      ],
+      "synonyms": [
+        "less than",
+        "lower than",
+        "smaller than",
+        "not so much as",
+        "not as much as",
+        "below"
+      ]
+    },
+    {
+      "description": "Controlled, managed, or governed by.",
+      "examples": [
+        "the country is now under martial law",
+        "I was under his spell"
+      ]
+    },
+    {
+      "description": "Undergoing (a process)",
+      "examples": [
+        "under construction"
+      ],
+      "synonyms": [
+        "undergoing",
+        "in the process of",
+        "receiving"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extending or directly below something.",
+      "examples": [
+        "weaving the body through the crossbars, over and under, over and under"
+      ],
+      "synonyms": [
+        "down",
+        "downward",
+        "lower",
+        "below",
+        "underneath",
+        "beneath"
+      ]
+    },
+    {
+      "description": "Under water.",
+      "examples": [
+        "he was floating for some time but suddenly went under"
+      ],
+      "synonyms": [
+        "down",
+        "downward",
+        "lower",
+        "below",
+        "underneath",
+        "beneath"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting the lowest part or surface of something; on the underside.",
+      "examples": [
+        "the under part of the shell is concave"
+      ]
+    },
+    {
+      "description": "Unconscious, typically as a result of general anesthesia.",
+      "examples": [
+        "the operation was quick—she was only under for 15 minutes"
+      ]
+    }
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch onder and German unter.",
+  "pronounciation": "/ˈəndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/under_1_us_1.mp3"
+}

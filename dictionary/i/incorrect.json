@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Not in accordance with fact; wrong.",
+      "examples": [
+        "the doctor gave you incorrect advice"
+      ],
+      "synonyms": [
+        "wrong",
+        "mistaken",
+        "in error",
+        "erroneous",
+        "inaccurate",
+        "not accurate",
+        "inexact",
+        "not exact",
+        "imprecise",
+        "invalid",
+        "untrue",
+        "false",
+        "fallacious",
+        "wide of the mark",
+        "off target"
+      ]
+    },
+    {
+      "description": "Not in accordance with particular standards or rules.",
+      "examples": [
+        "strictly speaking, the form of address was incorrect"
+      ],
+      "synonyms": [
+        "inappropriate",
+        "wrong",
+        "unsuitable",
+        "inapt",
+        "inapposite",
+        "undesirable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin incorrectus, from in- not + correctus made straight, amended (see correct). Originally in the general sense uncorrected, the word was later applied specifically to a book containing many errors because it had not been corrected for the press; hence incorrect (sense 2) (late 17th century).",
+  "pronounciation": "/ˌinkəˈrekt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incorrect_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the North or South Pole.",
+      "examples": [
+        "the polar regions"
+      ],
+      "synonyms": [
+        "arctic",
+        "antarctic"
+      ]
+    },
+    {
+      "description": "Having electrical or magnetic polarity.",
+      "examples": []
+    },
+    {
+      "description": "Directly opposite in character or tendency.",
+      "examples": [
+        "depression and its polar opposite, mania"
+      ],
+      "synonyms": [
+        "opposite",
+        "opposed",
+        "opposing",
+        "oppositional",
+        "diametrically opposed",
+        "extreme",
+        "contrary",
+        "contradictory",
+        "antithetical",
+        "antagonistic",
+        "conflicting",
+        "counterbalancing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The straight line joining the two points at which tangents from a fixed point touch a conic section.",
+      "examples": []
+    },
+    {
+      "description": "A variable binary star which emits strongly polarized light, one component being a strongly magnetic white dwarf.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from medieval Latin polaris heavenly, from Latin polus end of an axis (see pole).",
+  "pronounciation": "/ˈpōlər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/polar_us_1.mp3"
+}

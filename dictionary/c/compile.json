@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Produce (something, especially a list, report, or book) by assembling information collected from other sources.",
+      "examples": [
+        "the local authority must compile a list of taxpayers"
+      ],
+      "synonyms": [
+        "assemble",
+        "put together",
+        "make up",
+        "collate",
+        "compose",
+        "marshal",
+        "organize",
+        "arrange",
+        "sort out",
+        "systematize",
+        "systemize",
+        "anthologize"
+      ]
+    },
+    {
+      "description": "(of a computer) convert (a program) into a machine-code or lower-level form in which the program can be executed.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French compiler or its apparent source, Latin compilare plunder or plagiarize.",
+  "pronounciation": "/kəmˈpaɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compile_us_1.mp3"
+}

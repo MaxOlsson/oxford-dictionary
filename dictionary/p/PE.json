@@ -1,0 +1,21 @@
+{
+  "abbreviation": [
+    {
+      "description": "Physical education.",
+      "examples": [],
+      "synonyms": [
+        "physical activity",
+        "movement",
+        "exertion",
+        "effort",
+        "work"
+      ]
+    },
+    {
+      "description": "Prince Edward Island (in official postal use).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌpē ˈē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pe_us_1.mp3"
+}

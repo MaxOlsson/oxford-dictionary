@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Subject (data) to preliminary processing.",
+      "examples": [
+        "some preprocessing of the concordances is a desirable prerequisite to editing"
+      ]
+    }
+  ],
+  "pronounciation": "/prēˈpräsəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preprocess_us_1.mp3"
+}

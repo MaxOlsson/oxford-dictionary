@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "Whether one likes it or not.",
+      "examples": [
+        "he would be forced to collaborate willy-nilly"
+      ],
+      "synonyms": [
+        "whether one likes it or not",
+        "of necessity",
+        "necessarily"
+      ]
+    },
+    {
+      "description": "Without direction or planning; haphazardly.",
+      "examples": [
+        "politicians expanded spending programs willy-nilly"
+      ],
+      "synonyms": [
+        "haphazardly",
+        "at random",
+        "randomly",
+        "without planning",
+        "without method"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: later spelling of will I, nill I I am willing, I am unwilling.",
+  "pronounciation": "/ˌwilēˈnilē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/willy_nilly_1_us_1.mp3"
+}

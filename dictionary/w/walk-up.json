@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of a building) allowing access to the upper floors by stairs only; having no elevator.",
+      "examples": [
+        "a walk-up hotel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A building allowing access to the upper floors by stairs only.",
+      "examples": [],
+      "synonyms": [
+        "ascend",
+        "mount",
+        "scale",
+        "scramble up",
+        "clamber up",
+        "shin up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwôk ˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/walk_up_1_us_1.mp3"
+}

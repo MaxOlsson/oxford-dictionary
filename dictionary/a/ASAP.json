@@ -1,0 +1,40 @@
+{
+  "abbreviation": [
+    {
+      "description": "As soon as possible.",
+      "examples": [
+        "fill in your form and send it to us ASAP"
+      ],
+      "synonyms": [
+        "immediately",
+        "at once",
+        "instantly",
+        "directly",
+        "right away",
+        "straight away",
+        "now",
+        "that minute",
+        "this minute",
+        "that very minute",
+        "this very minute",
+        "that instant",
+        "this instant",
+        "then and there",
+        "there and then",
+        "here and now",
+        "in a flash",
+        "like a flash",
+        "instantaneously",
+        "by return",
+        "post-haste",
+        "without delay",
+        "without further ado",
+        "without more ado",
+        "without hesitation",
+        "unhesitatingly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈeɪsæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/asap_us_3.mp3"
+}

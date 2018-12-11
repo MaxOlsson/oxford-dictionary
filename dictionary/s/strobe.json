@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A stroboscope.",
+      "examples": []
+    },
+    {
+      "description": "An electronic flash for a camera.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Flash intermittently.",
+      "examples": [
+        "the light of the fireworks strobed around the room"
+      ]
+    },
+    {
+      "description": "Exhibit or give rise to strobing.",
+      "examples": [
+        "he explained that the stripes I was wearing would strobe"
+      ]
+    }
+  ],
+  "origin": "1940s: abbreviation of stroboscopic (see stroboscope).",
+  "pronounciation": "/stroʊb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strobe_us_1.mp3"
+}

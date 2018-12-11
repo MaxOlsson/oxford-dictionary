@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Spotted or stained.",
+      "examples": [],
+      "synonyms": [
+        "mottled",
+        "dappled",
+        "dapple",
+        "pied",
+        "piebald",
+        "brindled",
+        "brindle",
+        "speckled",
+        "speckly",
+        "flecked",
+        "specked",
+        "stippled"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with a spot or spots; stain.",
+      "examples": [
+        "a dirty white T-shirt maculated with barbecue sauce"
+      ],
+      "synonyms": [
+        "mottled",
+        "dappled",
+        "dapple",
+        "pied",
+        "piebald",
+        "brindled",
+        "brindle",
+        "speckled",
+        "speckly",
+        "flecked",
+        "specked",
+        "stippled"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Latin maculat- spotted, from maculare to spot, from macula spot.",
+  "pronounciation": "/ˈmakyəˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maculate_us_1.mp3"
+}

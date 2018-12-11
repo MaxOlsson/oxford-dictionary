@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) flow in a small stream.",
+      "examples": [
+        "a solitary tear trickled down her cheek",
+        "a trickling brook"
+      ],
+      "synonyms": [
+        "drip",
+        "dribble",
+        "drizzle",
+        "flow",
+        "run",
+        "spill"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small flow of liquid.",
+      "examples": [
+        "a trickle of blood"
+      ],
+      "synonyms": [
+        "dribble",
+        "drip",
+        "thin stream",
+        "rivulet",
+        "runnel"
+      ]
+    }
+  ],
+  "phrases": [
+    "I'm just hoping that performance and cost benefits will trickle down to the consumer more readily.",
+    "No longer applicable, then, is the old theory of material benefits trickling down to the poor as the economy flies.",
+    "There is also some debate regarding the benefits of the reforms trickling down to the lowest strata of Indian society.",
+    "The widening gap between rich and poor didn't matter because wealth trickled down.",
+    "In many cases, there is little trickle down benefit to the wider population in these countries."
+  ],
+  "origin": "Middle English (as a verb): imitative.",
+  "pronounciation": "/ˈtrik(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trickle_us_1.mp3"
+}

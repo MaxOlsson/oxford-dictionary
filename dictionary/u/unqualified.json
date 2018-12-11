@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) not officially recognized as a practitioner of a particular profession or activity through having satisfied the relevant conditions or requirements.",
+      "examples": [],
+      "synonyms": [
+        "uncertificated",
+        "unlicensed",
+        "unchartered",
+        "untrained",
+        "inexperienced"
+      ]
+    },
+    {
+      "description": "Without reservation or limitation; total.",
+      "examples": [
+        "the experiment was not an unqualified success"
+      ],
+      "synonyms": [
+        "unconditional",
+        "unreserved",
+        "unlimited",
+        "without reservations",
+        "categorical",
+        "unequivocal",
+        "unambiguous",
+        "unrestricted",
+        "wholehearted",
+        "positive",
+        "unmitigated",
+        "unadulterated",
+        "undiluted",
+        "unalloyed",
+        "unvarnished",
+        "unstinting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkwäləˌfīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unqualified_us_1.mp3"
+}

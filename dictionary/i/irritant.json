@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A substance that causes slight inflammation or other discomfort to the body.",
+      "examples": []
+    },
+    {
+      "description": "A thing that is continually annoying or distracting.",
+      "examples": [
+        "in 1966 Vietnam was becoming an irritant to the government"
+      ],
+      "synonyms": [
+        "annoyance",
+        "irritation",
+        "source of irritation",
+        "source of vexation",
+        "source of annoyance",
+        "thorn in someone's flesh",
+        "thorn in someone's side",
+        "pinprick",
+        "pest",
+        "bother",
+        "trial",
+        "torment",
+        "plague",
+        "inconvenience",
+        "nuisance",
+        "menace"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Causing slight inflammation or other discomfort to the body.",
+      "examples": [],
+      "synonyms": [
+        "causing inflammation",
+        "causing swelling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪrədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irritant_us_1.mp3"
+}

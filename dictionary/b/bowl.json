@@ -1,0 +1,118 @@
+{
+  "noun": [
+    {
+      "description": "A round, deep dish or basin used for food or liquid.",
+      "examples": [
+        "a mixing bowl",
+        "a sugar bowl"
+      ],
+      "synonyms": [
+        "dish",
+        "basin",
+        "pan",
+        "pot",
+        "crock",
+        "crucible",
+        "mortar"
+      ]
+    },
+    {
+      "description": "A natural basin.",
+      "examples": [],
+      "synonyms": [
+        "hollow",
+        "valley",
+        "dip",
+        "depression",
+        "indentation",
+        "well",
+        "trough",
+        "crater",
+        "cavity",
+        "concavity",
+        "sinkhole",
+        "hole",
+        "pit",
+        "excavation"
+      ]
+    },
+    {
+      "description": "A stadium for sporting or musical events.",
+      "examples": [
+        "the Hollywood Bowl"
+      ],
+      "synonyms": [
+        "stadium",
+        "arena",
+        "amphitheatre",
+        "coliseum",
+        "colosseum"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Roll (a ball or hoop) along the ground.",
+      "examples": [
+        "she snatched her hat off and bowled it ahead of her like a hoop"
+      ]
+    },
+    {
+      "description": "(of a bowler) propel (the ball) with a straight arm towards the batsman, typically in such a way that the ball bounces once.",
+      "examples": [
+        "Lillee bowled another bouncer",
+        "Sobers bowled to Willis"
+      ],
+      "synonyms": [
+        "pitch",
+        "throw",
+        "propel",
+        "hurl",
+        "toss",
+        "lob",
+        "loft",
+        "fling",
+        "launch",
+        "let fly",
+        "shy",
+        "cast",
+        "project",
+        "send",
+        "deliver"
+      ]
+    },
+    {
+      "description": "Move rapidly and smoothly in a specified direction.",
+      "examples": [
+        "they bowled along the country roads"
+      ],
+      "synonyms": [
+        "hurtle",
+        "speed",
+        "career",
+        "shoot",
+        "streak",
+        "sweep",
+        "hare",
+        "fly",
+        "wing"
+      ]
+    },
+    {
+      "description": "Play the game of bowling.",
+      "examples": [
+        "I usually bowl Tuesday nights"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the general sense ball): from Old French boule, from Latin bulla bubble.",
+  "phrases": [
+    "Jennifer jumped to the ground as her father bowled the man over.",
+    "I gathered my legs beneath me and leapt from the tree, bowling Sara to the ground in a single motion.",
+    "I raced from my room as soon as I heard it, bowling my small, round father over in the process.",
+    "The spectre shoved the corpse into a nearby gathering of troops, surprising them briefly when he charged into them, bowling them to the ground.",
+    "Aligore dove forward, throwing his bulk against Tom and the children, bowling them to the ground."
+  ],
+  "pronounciation": "/boʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bowl_us_1.mp3"
+}

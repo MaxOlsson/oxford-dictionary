@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Breathe in (air, gas, smoke, etc.)",
+      "examples": [
+        "they were taken to the hospital after inhaling fumes",
+        "she inhaled deeply on another cigarette"
+      ],
+      "synonyms": [
+        "breathe in",
+        "draw in",
+        "suck in",
+        "sniff in",
+        "gasp",
+        "gulp",
+        "inspire",
+        "drink in"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Latin inhalare breathe in, from in- in + halare breathe.",
+  "pronounciation": "/ɪnˈheɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inhale_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "(for fresh water at sea level) at 212°F (100°C).",
+      "examples": [],
+      "synonyms": [
+        "at boiling point",
+        "at 100 degrees celsius",
+        "at 100 degrees centigrade"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of bringing a liquid to the temperature at which it bubbles and turns to vapor.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbɔɪlɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boiling_us_1.mp3"
+}

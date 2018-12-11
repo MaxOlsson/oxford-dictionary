@@ -1,0 +1,39 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is free from outside control or influence.",
+      "examples": [
+        "the government must prove its ability to govern independently",
+        "the independently run museum receives no public funding",
+        "the figures have been independently audited"
+      ],
+      "synonyms": [
+        "alone",
+        "all alone",
+        "on one's own",
+        "in a solitary state",
+        "separately",
+        "singly",
+        "solitarily",
+        "unaccompanied",
+        "solo"
+      ]
+    },
+    {
+      "description": "Without outside help; unaided.",
+      "examples": [
+        "disabled people living independently in their own homes",
+        "information for those who are travelling independently"
+      ]
+    },
+    {
+      "description": "In a way that is not connected with another; individually.",
+      "examples": [
+        "decisions are made independently of consumers",
+        "why should each of us independently spend time creating the same course?"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌindəˈpendəntlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/independently_us_1.mp3"
+}

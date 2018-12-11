@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Poor; needy.",
+      "examples": [
+        "a charity for the relief of indigent artists"
+      ],
+      "synonyms": [
+        "poor",
+        "impecunious",
+        "destitute",
+        "penniless",
+        "impoverished",
+        "poverty-stricken",
+        "down and out",
+        "pauperized",
+        "without a penny to one's name",
+        "without two farthings to rub together",
+        "without two pennies to rub together"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A needy person.",
+      "examples": [],
+      "synonyms": [
+        "poor person",
+        "pauper",
+        "indigent",
+        "bankrupt",
+        "insolvent"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin indigent- lacking, from the verb indigere, from indi- (strengthened form of in- into) + egere to need.",
+  "pronounciation": "/ˈɪndədʒənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indigent_us_1.mp3"
+}

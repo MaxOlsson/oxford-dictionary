@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "According to or ordered by canon law.",
+      "examples": [
+        "the canonical rites of the Roman Church"
+      ]
+    },
+    {
+      "description": "Included in the list of sacred books officially accepted as genuine.",
+      "examples": [
+        "the canonical Gospels of the New Testament"
+      ]
+    },
+    {
+      "description": "Relating to a cathedral chapter or a member of it.",
+      "examples": []
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "The prescribed official dress of the clergy.",
+      "examples": [
+        "Cardinal Bea in full canonicals"
+      ],
+      "synonyms": [
+        "vestment",
+        "surplice",
+        "cassock",
+        "rochet",
+        "alb",
+        "dalmatic",
+        "chasuble"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈnänək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canonical_us_1.mp3"
+}

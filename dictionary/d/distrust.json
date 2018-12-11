@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The feeling that someone or something cannot be relied upon.",
+      "examples": [
+        "his distrust of his mother's new suitor"
+      ],
+      "synonyms": [
+        "mistrust",
+        "suspicion",
+        "wariness",
+        "chariness",
+        "lack of trust",
+        "lack of confidence",
+        "lack of faith"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Doubt the honesty or reliability of; regard with suspicion.",
+      "examples": [
+        "like a skillful gambler, Dave distrusted a sure thing"
+      ],
+      "synonyms": [
+        "mistrust",
+        "be suspicious of",
+        "be chary of",
+        "be wary of",
+        "regard with suspicion",
+        "suspect",
+        "look askance at",
+        "have no confidence in",
+        "have no faith in"
+      ]
+    }
+  ],
+  "pronounciation": "/dɪsˈtrəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distrust_us_1.mp3"
+}

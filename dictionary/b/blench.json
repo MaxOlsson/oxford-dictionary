@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Make a sudden flinching movement out of fear or pain.",
+      "examples": [
+        "he blenched and struggled to regain his composure",
+        "Lord Ralph blenched at the very idea of working from dawn until dusk"
+      ],
+      "synonyms": [
+        "flinch",
+        "start",
+        "shy",
+        "shy away",
+        "recoil",
+        "shrink",
+        "pull back",
+        "back away",
+        "draw back",
+        "cringe",
+        "wince",
+        "quiver",
+        "shudder",
+        "shiver",
+        "tremble",
+        "quake",
+        "shake",
+        "quail",
+        "cower",
+        "waver",
+        "falter",
+        "hesitate",
+        "get cold feet",
+        "blanch"
+      ]
+    },
+    {
+      "description": "Become pale.",
+      "examples": [
+        "a shudder shook the boy's frame and his face blenched"
+      ]
+    }
+  ],
+  "origin": "Old English blencan deceive, of Germanic origin; later influenced by blink. blench (sense 2) is a variant of blanch, although in practice the two senses are very difficult to disambiguate.",
+  "pronounciation": "/blen(t)SH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blench_us_1.mp3"
+}

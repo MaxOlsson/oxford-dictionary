@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or producing yawning.",
+      "examples": [
+        "I am incredibly tired and yawny",
+        "all the material is very yawny"
+      ],
+      "synonyms": [
+        "sleepy",
+        "half asleep",
+        "dozy",
+        "dozing",
+        "heavy",
+        "heavy-eyed",
+        "yawning",
+        "nodding",
+        "groggy",
+        "somnolent",
+        "ready for bed",
+        "hardly able to keep one's eyes open"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈyônē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yawny_us_1.mp3"
+}

@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Praise formally or officially.",
+      "examples": [
+        "he was commended by the judge for his courageous actions"
+      ],
+      "synonyms": [
+        "praise",
+        "compliment",
+        "congratulate",
+        "applaud",
+        "clap",
+        "cheer",
+        "toast",
+        "salute",
+        "admire",
+        "honour",
+        "glorify",
+        "extol",
+        "eulogize",
+        "sing the praises of",
+        "praise to the skies",
+        "heap praise on",
+        "go into raptures about",
+        "wax lyrical about",
+        "speak highly of",
+        "look on with favour",
+        "pay homage to",
+        "pay tribute to",
+        "take one's hat off to",
+        "pat on the back"
+      ]
+    },
+    {
+      "description": "Present as suitable for approval or acceptance; recommend.",
+      "examples": [
+        "I commend her to you without reservation"
+      ],
+      "synonyms": [
+        "recommend",
+        "suggest",
+        "put forward",
+        "propose",
+        "advance"
+      ]
+    },
+    {
+      "description": "Entrust someone or something to.",
+      "examples": [
+        "I commend them to your care"
+      ],
+      "synonyms": [
+        "entrust",
+        "trust",
+        "deliver",
+        "commit",
+        "hand over",
+        "give",
+        "give over",
+        "turn over",
+        "consign",
+        "assign"
+      ]
+    }
+  ],
+  "phrases": [
+    "commend me to my son, and bid him rule better than I"
+  ],
+  "origin": "Middle English: from Latin commendare, from com- (expressing intensive force) + mandare commit, entrust. Compare with command.",
+  "pronounciation": "/kəˈmɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commend_us_1.mp3"
+}

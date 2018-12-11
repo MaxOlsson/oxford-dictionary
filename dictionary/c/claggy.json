@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Tending to form clots; sticky.",
+      "examples": [
+        "claggy mud"
+      ],
+      "synonyms": [
+        "sticky",
+        "sticking",
+        "adhering",
+        "adherent",
+        "clinging",
+        "tacky",
+        "gluey",
+        "gummy",
+        "gummed",
+        "cohesive",
+        "viscous",
+        "viscid",
+        "glutinous",
+        "mucilaginous"
+      ]
+    },
+    {
+      "description": "(of weather) damp and overcast or misty.",
+      "examples": [
+        "a classic claggy day in the mountains spent getting soaked and not seeing anything"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from clag + -y.",
+  "pronounciation": "/ˈklaɡi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/claggy_gb_1.mp3"
+}

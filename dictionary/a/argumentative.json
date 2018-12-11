@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Given to expressing divergent or opposite views.",
+      "examples": [
+        "an argumentative child"
+      ],
+      "synonyms": [
+        "quarrelsome",
+        "disputatious",
+        "bickering",
+        "wrangling",
+        "captious",
+        "contrary",
+        "cantankerous",
+        "contentious",
+        "litigious",
+        "dissentient",
+        "polemical"
+      ]
+    },
+    {
+      "description": "Using or characterized by systematic reasoning.",
+      "examples": [
+        "the highest standards of argumentative rigor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French argumentatif, -ive or late Latin argumentativus, from argumentari conduct an argument.",
+  "pronounciation": "/ˌɑrɡjəˈmɛn(t)ədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/argumentative_us_1.mp3"
+}

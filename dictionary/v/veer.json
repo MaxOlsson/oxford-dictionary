@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Change direction suddenly.",
+      "examples": [
+        "an oil tanker that had veered off course"
+      ],
+      "synonyms": [
+        "swerve",
+        "career",
+        "skew",
+        "swing",
+        "sheer",
+        "weave",
+        "wheel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden change of direction.",
+      "examples": []
+    },
+    {
+      "description": "An offensive play using a modified T-formation with a split backfield, which allows the quarterback the option of passing to the fullback, pitching to a running back, or running with the ball.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Middle Dutch vieren.",
+  "pronounciation": "/vɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/veer_us_1.mp3"
+}

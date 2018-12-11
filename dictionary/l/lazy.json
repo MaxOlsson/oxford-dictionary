@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Unwilling to work or use energy.",
+      "examples": [
+        "he was too lazy to cook",
+        "I'm very lazy by nature"
+      ],
+      "synonyms": [
+        "idle",
+        "indolent",
+        "slothful",
+        "work-shy",
+        "shiftless",
+        "loafing",
+        "inactive",
+        "inert",
+        "sluggish",
+        "lethargic",
+        "languorous",
+        "listless",
+        "torpid",
+        "enervated",
+        "slow-moving",
+        "slow",
+        "heavy",
+        "dull",
+        "plodding"
+      ]
+    },
+    {
+      "description": "(of a livestock brand) placed on its side rather than upright.",
+      "examples": [
+        "a logo with a lazy E"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: perhaps related to Low German lasich languid, idle.",
+  "pronounciation": "/ˈleɪzi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lazy_us_1.mp3"
+}

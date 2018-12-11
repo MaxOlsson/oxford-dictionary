@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Knitted by hand rather than by using a machine.",
+      "examples": [
+        "an intricate hand-knit sweater",
+        "hand-knitted baby clothes"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Knit (a garment) by hand.",
+      "examples": [
+        "socks were available ready-made, but many women continued to hand-knit them as well",
+        "the cardigans were hand-knitted by my mother"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A garment that has been knitted by hand.",
+      "examples": [
+        "as the trend for novelty knitwear continues to prevail, the popularity of hand-knits is on the rise"
+      ]
+    }
+  ],
+  "pronounciation": "/hæn(d)ˈnɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hand_knit_1_us_1.mp3"
+}

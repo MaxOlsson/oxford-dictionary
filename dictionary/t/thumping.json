@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Pounding or throbbing in a heavy, continuous way.",
+      "examples": [
+        "the thumping beat of her heart",
+        "thumping basslines",
+        "a thumping headache"
+      ]
+    },
+    {
+      "description": "Of an impressive size, extent, or amount.",
+      "examples": [
+        "a thumping 64 percent majority",
+        "a thumping great lie"
+      ],
+      "synonyms": [
+        "enormous",
+        "huge",
+        "massive",
+        "vast",
+        "very great",
+        "tremendous",
+        "substantial",
+        "goodly",
+        "prodigious",
+        "gigantic",
+        "giant",
+        "terrific",
+        "fantastic",
+        "colossal",
+        "immense",
+        "mammoth",
+        "monumental",
+        "stupendous",
+        "gargantuan",
+        "elephantine",
+        "titanic",
+        "mountainous",
+        "monstrous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈθəmpɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thumping_us_1.mp3"
+}

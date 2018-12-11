@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The year or place in which wine, especially wine of high quality, was produced.",
+      "examples": [],
+      "synonyms": [
+        "year"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or denoting wine of high quality.",
+      "examples": [
+        "vintage claret"
+      ],
+      "synonyms": [
+        "high-quality",
+        "quality",
+        "prime",
+        "choice",
+        "select",
+        "superior",
+        "best"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: alteration (influenced by vintner) of earlier vendage, from Old French vendange, from Latin vindemia (from vinum wine + demere remove).",
+  "pronounciation": "/ˈvɪn(t)ɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vintage_us_1.mp3"
+}

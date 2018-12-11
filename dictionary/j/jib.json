@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A triangular staysail set forward of the forwardmost mast.",
+      "examples": []
+    },
+    {
+      "description": "The projecting arm of a crane.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an animal, especially a horse) stop and refuse to go on.",
+      "examples": [
+        "he jibbed at the final fence"
+      ],
+      "synonyms": [
+        "stop at",
+        "stop short at",
+        "baulk at",
+        "shy at",
+        "retreat from"
+      ]
+    }
+  ],
+  "phrases": [
+    "I like the cut of your jib, young fellow",
+    "He liked the cut of my jib, and I also went out of my way to prove myself as an intrepid reporter.",
+    "You can tell a man's character by the cut of his jib.",
+    "He is reputedly a fan of Western films and, going by the cut of his jib, country-and-western music.",
+    "Sir, I like the cut of your jib."
+  ],
+  "origin": "Early 19th century: perhaps related to French regimber (earlier regiber) to buck, rear; compare with gibe.",
+  "pronounciation": "/dʒɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jib_us_1.mp3"
+}

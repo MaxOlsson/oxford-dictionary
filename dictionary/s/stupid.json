@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a great lack of intelligence or common sense.",
+      "examples": [
+        "I was stupid enough to think she was perfect"
+      ],
+      "synonyms": [
+        "unintelligent",
+        "ignorant",
+        "dense",
+        "brainless",
+        "mindless",
+        "foolish",
+        "dull-witted",
+        "dull",
+        "slow-witted",
+        "witless",
+        "slow",
+        "dunce-like",
+        "simple-minded",
+        "empty-headed",
+        "vacuous",
+        "vapid",
+        "half-witted",
+        "idiotic",
+        "moronic",
+        "imbecilic",
+        "imbecile",
+        "obtuse",
+        "doltish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stupid person (often used as a term of address)",
+      "examples": [
+        "you're not a coward, stupid!"
+      ],
+      "synonyms": [
+        "fool",
+        "nincompoop",
+        "dunce",
+        "dullard",
+        "ignoramus"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French stupide or Latin stupidus, from stupere be amazed or stunned.",
+  "pronounciation": "/ˈst(j)upəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stupid_us_1.mp3"
+}

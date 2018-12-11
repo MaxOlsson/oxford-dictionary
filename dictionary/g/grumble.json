@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Complain or protest about something in a bad-tempered but typically muted way.",
+      "examples": [
+        "his father was grumbling that he hadn't heard a word from him",
+        "he grumbled something about the decision being unnecessary"
+      ],
+      "synonyms": [
+        "complain",
+        "moan",
+        "groan",
+        "whine",
+        "mutter",
+        "grouse",
+        "bleat",
+        "carp",
+        "cavil",
+        "protest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A complaint.",
+      "examples": [
+        "the main grumble is that he spends too much time away"
+      ],
+      "synonyms": [
+        "complaint",
+        "moan",
+        "groan",
+        "whine",
+        "muttering",
+        "grievance",
+        "objection",
+        "protest",
+        "protestation",
+        "cavil",
+        "quibble",
+        "criticism",
+        "charge",
+        "accusation"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from obsolete grumme (probably of Germanic origin and related to Dutch grommen) + -le.",
+  "pronounciation": "/ˈɡrəmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grumble_us_1.mp3"
+}

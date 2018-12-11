@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Have or express a different opinion.",
+      "examples": [
+        "no one was willing to disagree with him",
+        "historians often disagree"
+      ],
+      "synonyms": [
+        "fail to agree",
+        "be in contention",
+        "be in dispute",
+        "be at odds",
+        "be at variance",
+        "not see eye to eye",
+        "differ from",
+        "dissent from",
+        "diverge from"
+      ]
+    },
+    {
+      "description": "(of statements or accounts) be inconsistent or fail to correspond.",
+      "examples": [
+        "results that disagree with the findings reported so far"
+      ],
+      "synonyms": [
+        "differ",
+        "be dissimilar",
+        "be unlike",
+        "be different",
+        "vary"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in disagree (sense 2), also in the sense refuse to agree to): from Old French desagreer.",
+  "pronounciation": "/ˌdisəˈɡrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disagree_us_3.mp3"
+}

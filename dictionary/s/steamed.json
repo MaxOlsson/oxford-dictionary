@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Having been cooked by steaming.",
+      "examples": [
+        "a cornucopia of steamed dumplings"
+      ]
+    },
+    {
+      "description": "Extremely angry.",
+      "examples": [
+        "you're simply steamed about some editor's bad treatment of you"
+      ],
+      "synonyms": [
+        "upset",
+        "angry",
+        "annoyed",
+        "cross",
+        "angered",
+        "furious",
+        "enraged",
+        "in a temper",
+        "bothered",
+        "vexed",
+        "displeased",
+        "disgruntled",
+        "dissatisfied",
+        "indignant",
+        "exasperated",
+        "irritated",
+        "galled",
+        "irked",
+        "put out",
+        "aggrieved",
+        "offended",
+        "affronted",
+        "resentful",
+        "piqued",
+        "nettled",
+        "ruffled",
+        "in high dudgeon"
+      ]
+    }
+  ],
+  "pronounciation": "/stimd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steamed_us_1.mp3"
+}

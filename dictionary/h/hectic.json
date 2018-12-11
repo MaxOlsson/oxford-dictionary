@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Full of incessant or frantic activity.",
+      "examples": [
+        "a hectic business schedule"
+      ],
+      "synonyms": [
+        "frantic",
+        "frenetic",
+        "frenzied",
+        "feverish",
+        "manic",
+        "restless",
+        "very busy",
+        "very active",
+        "fast and furious"
+      ]
+    },
+    {
+      "description": "Relating to, affected by, or denoting a regularly recurrent fever typically accompanying tuberculosis, with flushed cheeks and hot, dry skin.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hectic fever or flush.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English etik, via Old French from late Latin hecticus, from Greek hektikos habitual, from hexis habit, state of mind or body. The original association with the symptoms of tuberculosis ( hectic fever) gave rise to sense 1 in the early 20th century.",
+  "pronounciation": "/ˈhɛktɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hectic_us_1.mp3"
+}

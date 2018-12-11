@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A thing said or done for amusement; a joke.",
+      "examples": [
+        "it was said in jest",
+        "there are jests about administrative gaffes"
+      ],
+      "synonyms": [
+        "joke",
+        "witticism",
+        "funny remark",
+        "gag",
+        "quip",
+        "sally",
+        "pun",
+        "play on words"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Speak or act in a joking manner.",
+      "examples": [
+        "you jest, surely?",
+        "“I don't know about maturing,” jests William"
+      ],
+      "synonyms": [
+        "joke",
+        "crack",
+        "quip",
+        "gag",
+        "sally",
+        "pun"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from earlier gest, from Old French geste, from Latin gesta actions, exploits, from gerere do. The original sense was heroic deed, hence a narrative of such deeds; later the term denoted an idle tale, hence a joke.",
+  "pronounciation": "/jest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jest_us_1.mp3"
+}

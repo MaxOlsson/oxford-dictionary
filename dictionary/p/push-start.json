@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "Start (a motor vehicle) by pushing it and putting it in gear in order to make the engine turn.",
+      "examples": [
+        "the bus had been push-started once by the passengers"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of push-starting a motor vehicle.",
+      "examples": [
+        "a push start is required to get some of the veteran motorbikes going"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpʊʃstɑrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/push_start_1_us_1.mp3"
+}

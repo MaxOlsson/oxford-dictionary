@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of an area) densely covered by houses or other buildings.",
+      "examples": [],
+      "synonyms": [
+        "town",
+        "city",
+        "inner-city",
+        "densely populated",
+        "townified",
+        "citified",
+        "metropolitan",
+        "suburban",
+        "non-rural"
+      ]
+    },
+    {
+      "description": "Increased in height by the addition of parts.",
+      "examples": [
+        "shoes with built-up heels"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌbɪltˈəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/built_up_1_us_1.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a part of the body) swollen.",
+      "examples": [
+        "a tumid belly"
+      ],
+      "synonyms": [
+        "expanded",
+        "distended",
+        "bulging",
+        "inflamed",
+        "inflated",
+        "enlarged",
+        "dilated",
+        "bloated",
+        "blown-up",
+        "puffed up",
+        "puffy",
+        "ballooning",
+        "protruding",
+        "prominent",
+        "stretched",
+        "tumescent"
+      ]
+    },
+    {
+      "description": "(especially of language or literary style) pompous or bombastic.",
+      "examples": [
+        "tumid oratory"
+      ],
+      "synonyms": [
+        "bombastic",
+        "pompous",
+        "turgid",
+        "overblown",
+        "overripe",
+        "inflated",
+        "high-flown",
+        "affected",
+        "pretentious",
+        "grandiose",
+        "florid",
+        "flowery",
+        "ornate",
+        "magniloquent",
+        "grandiloquent",
+        "rhetorical",
+        "oratorical",
+        "orotund"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin tumidus, from tumere to swell.",
+  "pronounciation": "/ˈt(j)uməd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tumid_us_1.mp3"
+}

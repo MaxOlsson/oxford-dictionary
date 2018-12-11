@@ -1,0 +1,149 @@
+{
+  "verb": [
+    {
+      "description": "Open out (something) so as to extend its surface area, width, or length.",
+      "examples": [
+        "I spread a towel on the sand and sat down",
+        "she helped Chris to spread out the map"
+      ],
+      "synonyms": [
+        "lay out",
+        "open out",
+        "unfurl",
+        "unroll",
+        "roll out",
+        "shake out"
+      ]
+    },
+    {
+      "description": "Extend over a large or increasing area.",
+      "examples": [
+        "she stood at the window looking at the town spread out below"
+      ],
+      "synonyms": [
+        "grow",
+        "increase",
+        "escalate",
+        "advance",
+        "develop",
+        "broaden",
+        "expand",
+        "widen",
+        "proliferate",
+        "mushroom"
+      ]
+    },
+    {
+      "description": "Apply (a substance) to an object or surface in an even layer.",
+      "examples": [
+        "he sighed, spreading jam on a croissant"
+      ],
+      "synonyms": [
+        "smear",
+        "daub",
+        "plaster",
+        "slather",
+        "lather",
+        "apply",
+        "put"
+      ]
+    },
+    {
+      "description": "Lay (a table) for a meal.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The fact or process of spreading over an area.",
+      "examples": [
+        "warmer temperatures could help reduce the spread of the disease",
+        "the spread of the urban population into rural areas"
+      ],
+      "synonyms": [
+        "expansion",
+        "proliferation",
+        "extension",
+        "growth",
+        "mushrooming",
+        "increase",
+        "escalation",
+        "buildout",
+        "advance",
+        "advancement",
+        "development"
+      ]
+    },
+    {
+      "description": "The extent, width, or area covered by something.",
+      "examples": [
+        "the male's antlers can attain a spread of six feet"
+      ],
+      "synonyms": [
+        "span",
+        "width",
+        "extent",
+        "stretch",
+        "reach"
+      ]
+    },
+    {
+      "description": "The range or variety of something.",
+      "examples": [
+        "a wide spread of ages"
+      ],
+      "synonyms": [
+        "range",
+        "span",
+        "spectrum",
+        "sweep"
+      ]
+    },
+    {
+      "description": "A soft paste that can be applied in a layer to bread or other food.",
+      "examples": [],
+      "synonyms": [
+        "pâté"
+      ]
+    },
+    {
+      "description": "An article or advertisement covering several columns or pages of a newspaper or magazine, especially one on two facing pages.",
+      "examples": [
+        "a double-page spread"
+      ]
+    },
+    {
+      "description": "A large and impressively elaborate meal.",
+      "examples": [],
+      "synonyms": [
+        "elaborate meal",
+        "large meal",
+        "feast",
+        "banquet",
+        "repast"
+      ]
+    },
+    {
+      "description": "A bedspread.",
+      "examples": [],
+      "synonyms": [
+        "bedspread",
+        "bedcover",
+        "cover",
+        "coverlet",
+        "throw",
+        "afghan"
+      ]
+    }
+  ],
+  "phrases": [
+    "We were able to meet the needs of a customer without bringing on more employees, spreading ourselves too thin or charging too much.",
+    "But I'm reading scripts all the time, because it is something that I would like to do, but I'm aware of spreading myself too thin.",
+    "Do you worry about spreading yourself too thin?",
+    "If morale and motivation are poor, consider the possibility that you are simply spreading yourself too thin.",
+    "As awesome as it is to be the girl who does it all, spreading yourself too thin will only leave you overstressed and underproductive."
+  ],
+  "origin": "Old English -sprǣdan (used in combinations), of West Germanic origin; related to Dutch spreiden and German spreiten.",
+  "pronounciation": "/spred/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spread_us_1.mp3"
+}

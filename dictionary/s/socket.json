@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A natural or artificial hollow into which something fits or in which something revolves.",
+      "examples": [
+        "the eye socket"
+      ],
+      "synonyms": [
+        "space",
+        "chamber",
+        "hollow",
+        "hole",
+        "pocket",
+        "pouch"
+      ]
+    },
+    {
+      "description": "An electrical device receiving a plug or light bulb to make a connection.",
+      "examples": [],
+      "synonyms": [
+        "aperture",
+        "opening",
+        "outlet",
+        "inlet",
+        "vent",
+        "passage",
+        "porthole",
+        "trap",
+        "embrasure",
+        "door",
+        "gate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place in or fit with a socket.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense head of a spear, resembling a plowshare): from an Anglo-Norman French diminutive of Old French soc plowshare, probably of Celtic origin.",
+  "pronounciation": "/ˈsäkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/socket_us_1.mp3"
+}

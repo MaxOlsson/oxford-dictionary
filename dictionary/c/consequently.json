@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "As a result.",
+      "examples": [
+        "flexible workers find themselves in great demand, and consequently earn high salaries"
+      ],
+      "synonyms": [
+        "as a result",
+        "as a consequence",
+        "in consequence",
+        "so",
+        "that being so",
+        "thus",
+        "therefore",
+        "accordingly",
+        "hence",
+        "for that reason",
+        "for this reason",
+        "because of that",
+        "because of this",
+        "on that account",
+        "on this account"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkänsəkwəntlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsequently_us_2_rr.mp3"
+}

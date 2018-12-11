@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not stated clearly or exactly.",
+      "examples": [
+        "an unspecified number of people"
+      ],
+      "synonyms": [
+        "unnamed",
+        "unstated",
+        "unidentified",
+        "unquantified",
+        "undesignated",
+        "undefined",
+        "unfixed",
+        "undecided",
+        "undetermined",
+        "uncertain",
+        "uncounted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈspɛsəˌfaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unspecified_us_1.mp3"
+}

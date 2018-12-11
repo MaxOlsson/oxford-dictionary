@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Form (something) into grains or particles.",
+      "examples": [
+        "granulated sugar"
+      ],
+      "synonyms": [
+        "powder",
+        "crush",
+        "crumble",
+        "pulverize",
+        "grind",
+        "pound",
+        "mince",
+        "shred",
+        "grate",
+        "mash",
+        "smash",
+        "fragment"
+      ]
+    },
+    {
+      "description": "(of a wound or lesion) form a grainy surface as part of the healing process.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɡrænjəˌleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/granulate_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) active or operative.",
+      "examples": [
+        "fumes from cooking are enough to activate the alarm"
+      ],
+      "synonyms": [
+        "operate",
+        "switch on",
+        "turn on",
+        "start",
+        "start off",
+        "start up",
+        "set going",
+        "get going",
+        "trigger off",
+        "trigger",
+        "trip",
+        "set in motion",
+        "actuate",
+        "initiate",
+        "initialize",
+        "energize",
+        "animate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæktəˌveɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/activate_us_1.mp3"
+}

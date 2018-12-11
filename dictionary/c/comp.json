@@ -1,0 +1,85 @@
+{
+  "noun": [
+    {
+      "description": "A compilation.",
+      "examples": []
+    },
+    {
+      "description": "A complimentary ticket or voucher.",
+      "examples": [],
+      "synonyms": [
+        "voucher",
+        "token",
+        "ticket",
+        "document",
+        "certificate",
+        "carnet"
+      ]
+    },
+    {
+      "description": "Compensation.",
+      "examples": [],
+      "synonyms": [
+        "recompense",
+        "repayment",
+        "payment",
+        "reimbursement",
+        "remuneration",
+        "requital",
+        "indemnification",
+        "indemnity",
+        "redress",
+        "satisfaction"
+      ]
+    },
+    {
+      "description": "A composition.",
+      "examples": []
+    },
+    {
+      "description": "A musical accompaniment.",
+      "examples": [],
+      "synonyms": [
+        "backing",
+        "support",
+        "background",
+        "soundtrack"
+      ]
+    },
+    {
+      "description": "A comprehensive examination.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Play music as an accompaniment, especially in jazz or blues.",
+      "examples": [
+        "he comps with an open, jangly sound",
+        "if someone is comping chord changes, there are more textured harmonies"
+      ]
+    },
+    {
+      "description": "Give (something) away free, especially as part of a promotion.",
+      "examples": [
+        "the management did graciously comp our wine selection"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Complimentary; free.",
+      "examples": [
+        "the average fan was unable to get comp press tickets"
+      ],
+      "synonyms": [
+        "free",
+        "free of charge",
+        "gratis",
+        "for nothing"
+      ]
+    }
+  ],
+  "pronounciation": "/kɑmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comp_us_1.mp3"
+}

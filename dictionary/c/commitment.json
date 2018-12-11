@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The state or quality of being dedicated to a cause, activity, etc.",
+      "examples": [
+        "the company's commitment to quality"
+      ],
+      "synonyms": [
+        "dedication",
+        "devotion",
+        "allegiance",
+        "loyalty",
+        "faithfulness",
+        "fidelity",
+        "bond",
+        "adherence",
+        "attentiveness"
+      ]
+    },
+    {
+      "description": "An engagement or obligation that restricts freedom of action.",
+      "examples": [
+        "business commitments",
+        "young people delay major commitments including marriage and children"
+      ],
+      "synonyms": [
+        "responsibility",
+        "obligation",
+        "duty",
+        "tie",
+        "charge",
+        "liability",
+        "burden",
+        "pressure"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈmɪtmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commitment_us_1.mp3"
+}

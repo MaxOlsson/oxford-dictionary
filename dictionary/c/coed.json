@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A female student at a co-educational institution.",
+      "examples": [
+        "three Iowa State coeds"
+      ],
+      "synonyms": [
+        "undergraduate",
+        "postgraduate",
+        "scholar",
+        "tutee"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of an institution or system) co-educational.",
+      "examples": [
+        "they're going coed in September",
+        "a coed comprehensive school"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkoʊˌɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coed_us_2_rr.mp3"
+}

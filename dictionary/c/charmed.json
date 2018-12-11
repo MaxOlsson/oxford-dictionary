@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's life) unusually lucky or happy as though protected by magic.",
+      "examples": [
+        "I felt that I had a charmed life"
+      ],
+      "synonyms": [
+        "fortunate",
+        "in luck",
+        "blessed",
+        "blessed with good luck",
+        "favoured",
+        "born under a lucky star"
+      ]
+    },
+    {
+      "description": "(of a particle) possessing the property charm.",
+      "examples": [
+        "a charmed quark"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing polite pleasure at an introduction.",
+      "examples": [
+        "charmed, I'm sure"
+      ]
+    }
+  ],
+  "pronounciation": "/CHärmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/charmed_us_1.mp3"
+}

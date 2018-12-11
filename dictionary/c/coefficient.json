@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "A numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g. 4 in 4xy).",
+      "examples": []
+    },
+    {
+      "description": "A multiplier or factor that measures some property.",
+      "examples": [
+        "the drag coefficient",
+        "coefficients of elasticity"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense cooperating to produce a result): from modern Latin coefficient-, from com- together + efficient- accomplishing (see efficient).",
+  "pronounciation": "/ˌkoʊəˈfɪʃənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coefficient_us_1.mp3"
+}

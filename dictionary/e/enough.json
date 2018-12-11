@@ -1,0 +1,49 @@
+{
+  "pronoun &amp; determiner": [
+    {
+      "description": "As much or as many as required.",
+      "examples": [
+        "too much work and not enough people to do it",
+        "there was just enough room for two cars",
+        "getting enough of the right things to eat",
+        "there will be time enough to tell you when we meet",
+        "they ordered more than enough for five people"
+      ],
+      "synonyms": [
+        "sufficient",
+        "adequate",
+        "ample",
+        "abundant",
+        "as much … as necessary",
+        "the necessary"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To the required degree or extent (used after an adjective, adverb, or verb)",
+      "examples": [
+        "before he was old enough to shave",
+        "you're not big enough for basketball"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express an impatient desire for the cessation of undesirable behavior or speech.",
+      "examples": [
+        "Enough! After six years of your arguing, I've had it!"
+      ]
+    }
+  ],
+  "phrases": [
+    "It is quite obvious that this council will try to get more tax from us each and every year, unless we say enough is enough and flatly refuse to pay any extra.",
+    "But we also know when enough is enough and we have got to change direction.",
+    "The British people are very tolerant but there comes a time when enough is enough.",
+    "Our communities have to unite against this sort of unacceptable behaviour and surely it is time to say enough is enough.",
+    "We, as a community, must stand together and say enough is enough and that we are not prepared to accept anti-social behaviour."
+  ],
+  "origin": "Old English genōg, of Germanic origin; related to Dutch genoeg and German genug.",
+  "pronounciation": "/ɪˈnəf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enough_us_1.mp3"
+}

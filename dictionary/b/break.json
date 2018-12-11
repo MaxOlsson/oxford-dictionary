@@ -1,0 +1,187 @@
+{
+  "verb": [
+    {
+      "description": "Separate or cause to separate into pieces as a result of a blow, shock, or strain.",
+      "examples": [
+        "the rope broke with a loud snap",
+        "windows in the street were broken by the blast",
+        "the slate fell from my hand and broke in two on the hard floor",
+        "break the chocolate into pieces"
+      ],
+      "synonyms": [
+        "shatter",
+        "smash",
+        "smash to smithereens",
+        "crack",
+        "snap",
+        "fracture",
+        "fragment",
+        "splinter"
+      ]
+    },
+    {
+      "description": "Interrupt (a continuity, sequence, or course)",
+      "examples": [
+        "the new government broke the pattern of growth",
+        "his concentration was broken by a sound"
+      ],
+      "synonyms": [
+        "interrupt",
+        "disturb",
+        "interfere with"
+      ]
+    },
+    {
+      "description": "Fail to observe (a law, regulation, or agreement)",
+      "examples": [
+        "the district attorney says she will prosecute retailers who break the law",
+        "a legally binding contract that can only be broken by mutual consent"
+      ],
+      "synonyms": [
+        "contravene",
+        "violate",
+        "fail to comply with",
+        "fail to observe",
+        "disobey",
+        "infringe",
+        "breach",
+        "commit a breach of",
+        "transgress against"
+      ]
+    },
+    {
+      "description": "Crush the emotional strength, spirit, or resistance of.",
+      "examples": [
+        "the idea was to better the prisoners, not to break them"
+      ]
+    },
+    {
+      "description": "(of the weather) change suddenly.",
+      "examples": [
+        "the weather broke and thunder rumbled through a leaden sky"
+      ],
+      "synonyms": [
+        "change",
+        "undergo a change",
+        "alter",
+        "shift",
+        "metamorphose"
+      ]
+    },
+    {
+      "description": "(of news or a scandal) suddenly become public.",
+      "examples": [
+        "since the news broke I've received thousands of wonderful letters"
+      ],
+      "synonyms": [
+        "erupt",
+        "burst out",
+        "break out"
+      ]
+    },
+    {
+      "description": "(chiefly of an attacking player or team, or of a military force) make a rush or dash in a particular direction.",
+      "examples": [
+        "the flight broke to the right and formed a defensive circle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An interruption of continuity or uniformity.",
+      "examples": [
+        "the magazine has been published without a break since 1950"
+      ],
+      "synonyms": [
+        "interruption",
+        "interval",
+        "gap",
+        "hiatus",
+        "lapse of time",
+        "lacuna"
+      ]
+    },
+    {
+      "description": "A pause in work or during an activity or event.",
+      "examples": [
+        "I need a break from mental activity",
+        "those returning to work after a career break",
+        "they take long coffee breaks"
+      ],
+      "synonyms": [
+        "rest",
+        "respite",
+        "interval",
+        "breathing space",
+        "lull",
+        "recess"
+      ]
+    },
+    {
+      "description": "A gap or opening.",
+      "examples": [
+        "he stopped to wait for a break in the traffic",
+        "the spectacular vistas occasionally offered by a break in the rainforest"
+      ],
+      "synonyms": [
+        "gap",
+        "opening",
+        "space",
+        "hole",
+        "breach",
+        "chink",
+        "crack",
+        "fissure",
+        "cleft",
+        "rift",
+        "chasm"
+      ]
+    },
+    {
+      "description": "An instance of breaking something, or the point where something is broken.",
+      "examples": [
+        "a break in the valve was being repaired"
+      ]
+    },
+    {
+      "description": "A rush or dash in a particular direction, especially by an attacking player or team.",
+      "examples": [
+        "he made a bounce pass for a basket on the break in the second quarter"
+      ]
+    },
+    {
+      "description": "An opportunity or chance, especially one leading to professional success.",
+      "examples": [
+        "he got his break as an entertainer on a TV music hall show"
+      ],
+      "synonyms": [
+        "opportunity",
+        "stroke of luck",
+        "chance",
+        "opening",
+        "foot in the door"
+      ]
+    },
+    {
+      "description": "A consecutive series of successful shots, scoring a specified number of points.",
+      "examples": [
+        "a break of 83 put him in front for the first time"
+      ]
+    }
+  ],
+  "phrases": [
+    "we've broken the back of the problem",
+    "They broke the back of their task with an opening stand of 111 in only 18 overs.",
+    "My belief would be that three or four weeks of intensive work would break the back of it and make sure that people started to think about things differently.",
+    "They broke the back of the task by adding 81 runs in 16 overs for the first wicket.",
+    "The grants from broke the back of the funding but raising the rest was still a real challenge.",
+    "You need sleep, I said, breaking away from him and opening the door.",
+    "He broke away abruptly and held her arms so she couldn't move away.",
+    "He broke away from Conor and raced into the bushes, fading into the shadows.",
+    "I broke away, eyes opening slowly to see what damage had truly been done.",
+    "She was too stunned to move for a moment before she broke away from him."
+  ],
+  "origin": "Mid 19th century: perhaps from 16th-century brake cage, later framework, of unknown origin.",
+  "pronounciation": "/breɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/break_us_1.mp3"
+}

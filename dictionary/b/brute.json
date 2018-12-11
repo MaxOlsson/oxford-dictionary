@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A savagely violent person or animal.",
+      "examples": [
+        "he was a cold-blooded brute"
+      ],
+      "synonyms": [
+        "savage",
+        "beast",
+        "monster",
+        "animal",
+        "sadist",
+        "barbarian",
+        "devil",
+        "demon",
+        "fiend",
+        "ogre"
+      ]
+    },
+    {
+      "description": "An animal as opposed to a human being.",
+      "examples": [
+        "we, unlike dumb brutes, can reflect upon our impulses"
+      ],
+      "synonyms": [
+        "animal",
+        "beast",
+        "wild animal",
+        "wild beast",
+        "creature"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Characterized by an absence of reasoning or intelligence.",
+      "examples": [
+        "a brute struggle for social superiority"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): from Old French brut(e), from Latin brutus dull, stupid.",
+  "pronounciation": "/bro͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brute_us_1.mp3"
+}

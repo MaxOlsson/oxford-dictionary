@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Very complicated or detailed.",
+      "examples": [
+        "an intricate network of canals"
+      ],
+      "synonyms": [
+        "complex",
+        "complicated",
+        "convoluted",
+        "tangled",
+        "entangled",
+        "ravelled",
+        "twisted",
+        "knotty",
+        "maze-like",
+        "labyrinthine",
+        "winding",
+        "serpentine",
+        "circuitous",
+        "sinuous"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin intricat- entangled, from the verb intricare, from in- into + tricae tricks, perplexities.",
+  "pronounciation": "/ˈintrəkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intricate_us_1.mp3"
+}

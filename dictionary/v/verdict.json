@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A decision on a disputed issue in a civil or criminal case or an inquest.",
+      "examples": [
+        "the jury returned a verdict of not guilty."
+      ],
+      "synonyms": [
+        "judgement",
+        "adjudication",
+        "adjudgement",
+        "decision",
+        "finding",
+        "ruling",
+        "resolution",
+        "pronouncement",
+        "decree",
+        "order",
+        "settlement",
+        "result",
+        "conclusion",
+        "opinion",
+        "prognosis",
+        "conviction",
+        "assumption",
+        "presumption"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French verdit, from Old French veir true (from Latin verus) + dit (from Latin dictum saying).",
+  "pronounciation": "/ˈvərdikt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verdict_us_1.mp3"
+}

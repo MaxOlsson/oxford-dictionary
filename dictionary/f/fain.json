@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Pleased or willing under the circumstances.",
+      "examples": [
+        "the traveler was fain to proceed"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With pleasure; gladly.",
+      "examples": [
+        "I am weary and would fain get a little rest"
+      ],
+      "synonyms": [
+        "with pleasure",
+        "happily",
+        "cheerfully"
+      ]
+    }
+  ],
+  "origin": "Old English fægen happy, well pleased, of Germanic origin, from a base meaning rejoice; related to fawn.",
+  "pronounciation": "/feɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fain_us_1.mp3"
+}

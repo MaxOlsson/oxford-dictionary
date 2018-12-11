@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Sharing in the knowledge of (something secret or private)",
+      "examples": [
+        "he was no longer privy to her innermost thoughts"
+      ],
+      "synonyms": [
+        "aware of",
+        "acquainted with",
+        "in on",
+        "informed of",
+        "advised of",
+        "apprised of",
+        "in the know about",
+        "cognizant of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A toilet located in a small shed outside a house or other building; an outhouse.",
+      "examples": []
+    },
+    {
+      "description": "A person having a part or interest in any action, matter, or thing.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (originally in the sense belonging to one's own private circle): from Old French prive private (also used as a noun meaning private place and familiar friend), from Latin privatus withdrawn from public life (see private).",
+  "pronounciation": "/ˈprivē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/privy_us_1.mp3"
+}

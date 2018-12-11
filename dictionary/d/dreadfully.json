@@ -1,0 +1,44 @@
+{
+  "adverb": [
+    {
+      "description": "Extremely.",
+      "examples": [
+        "you're dreadfully thin",
+        "I'm dreadfully sorry!"
+      ],
+      "synonyms": [
+        "extremely",
+        "very",
+        "really",
+        "frightfully",
+        "fearfully",
+        "exceedingly",
+        "immensely",
+        "terribly",
+        "exceptionally",
+        "uncommonly",
+        "remarkably",
+        "extraordinarily"
+      ]
+    },
+    {
+      "description": "Very badly.",
+      "examples": [
+        "the company has performed dreadfully"
+      ],
+      "synonyms": [
+        "terribly",
+        "awfully",
+        "very badly",
+        "atrociously",
+        "dismally",
+        "appallingly",
+        "abominably",
+        "execrably",
+        "poorly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdredfəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dreadfully_us_1.mp3"
+}

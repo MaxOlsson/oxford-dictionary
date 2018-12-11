@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A sign forming one of a series used to mark out a route, especially a footpath or bridle path.",
+      "examples": [],
+      "synonyms": [
+        "notice",
+        "signpost",
+        "signboard",
+        "warning sign",
+        "road sign",
+        "traffic sign"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Identify (a route) with a waymark.",
+      "examples": [
+        "the trail is waymarked with blue arrows"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈweɪmɑːk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/waymark_gb_1.mp3"
+}

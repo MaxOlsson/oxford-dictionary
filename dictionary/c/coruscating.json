@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Flashing; sparkling.",
+      "examples": [
+        "a coruscating kaleidoscope of colors"
+      ],
+      "synonyms": [
+        "sparkling",
+        "shining",
+        "bright",
+        "brilliant",
+        "gleaming",
+        "glittering",
+        "twinkling",
+        "scintillating",
+        "flashing",
+        "shimmering",
+        "shimmery"
+      ]
+    },
+    {
+      "description": "Severely critical; scathing.",
+      "examples": [
+        "his coruscating attack on the Prime Minister",
+        "a coruscating denunciation of political opportunism"
+      ],
+      "synonyms": [
+        "devastating",
+        "withering",
+        "blistering",
+        "extremely critical",
+        "searing",
+        "scorching",
+        "fierce",
+        "ferocious",
+        "savage",
+        "severe",
+        "stinging",
+        "biting",
+        "cutting",
+        "mordant",
+        "trenchant",
+        "virulent",
+        "caustic",
+        "vitriolic",
+        "scornful",
+        "sharp",
+        "bitter",
+        "acid",
+        "harsh",
+        "unsparing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkôrəˌskādiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coruscating_us_3.mp3"
+}

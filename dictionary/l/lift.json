@@ -1,0 +1,191 @@
+{
+  "verb": [
+    {
+      "description": "Raise to a higher position or level.",
+      "examples": [
+        "he lifted his trophy over his head"
+      ],
+      "synonyms": [
+        "raise",
+        "hoist",
+        "heave",
+        "haul up",
+        "uplift",
+        "heft",
+        "boost",
+        "raise aloft",
+        "raise up",
+        "upraise",
+        "elevate",
+        "thrust",
+        "hold high",
+        "bear aloft"
+      ]
+    },
+    {
+      "description": "Pick up and move to a different position.",
+      "examples": [
+        "he lifted her down from the pony's back"
+      ],
+      "synonyms": [
+        "pick up",
+        "grab",
+        "scoop up",
+        "gather up",
+        "snatch up",
+        "swoop up"
+      ]
+    },
+    {
+      "description": "Raise (a person's spirits or confidence); encourage or cheer.",
+      "examples": [
+        "we heard inspiring talks that lifted our spirits"
+      ],
+      "synonyms": [
+        "boost",
+        "raise",
+        "buoy up",
+        "elevate",
+        "give a lift to",
+        "cheer up",
+        "perk up",
+        "enliven",
+        "uplift",
+        "brighten up",
+        "lighten",
+        "ginger up",
+        "gladden",
+        "encourage",
+        "stimulate",
+        "arouse",
+        "revive",
+        "restore"
+      ]
+    },
+    {
+      "description": "Formally remove or end (a legal restriction, decision, or ban)",
+      "examples": [
+        "the European Community lifted its oil embargo against South Africa"
+      ],
+      "synonyms": [
+        "cancel",
+        "raise",
+        "remove",
+        "withdraw",
+        "revoke",
+        "rescind",
+        "annul",
+        "void",
+        "discontinue",
+        "countermand",
+        "relax",
+        "end",
+        "stop",
+        "terminate"
+      ]
+    },
+    {
+      "description": "Use (a person's work or ideas) without permission or acknowledgment; plagiarize.",
+      "examples": [
+        "this is a hackneyed adventure lifted straight from a vintage Lassie episode"
+      ],
+      "synonyms": [
+        "plagiarize",
+        "pirate",
+        "copy",
+        "reproduce",
+        "poach",
+        "steal",
+        "borrow"
+      ]
+    },
+    {
+      "description": "Steal (something, especially a minor item of property)",
+      "examples": [
+        "he had been caught lifting a coat from a department store"
+      ],
+      "synonyms": [
+        "steal",
+        "thieve",
+        "rob",
+        "pilfer",
+        "purloin",
+        "pocket",
+        "snatch",
+        "take",
+        "appropriate",
+        "abstract",
+        "help oneself to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A device incorporating a moving cable for carrying people, typically skiers, up or down a mountain.",
+      "examples": []
+    },
+    {
+      "description": "An act of lifting.",
+      "examples": [
+        "weightlifters attempting a particularly heavy lift"
+      ],
+      "synonyms": [
+        "push",
+        "hoist",
+        "heave",
+        "thrust",
+        "shove",
+        "uplift",
+        "a helping hand"
+      ]
+    },
+    {
+      "description": "A free ride in another person's vehicle.",
+      "examples": [
+        "Miss Green is giving me a lift back to school"
+      ],
+      "synonyms": [
+        "car ride",
+        "ride",
+        "run",
+        "drive",
+        "transportation",
+        "journey"
+      ]
+    },
+    {
+      "description": "A feeling of encouragement or increased cheerfulness.",
+      "examples": [
+        "winning this game has given everyone on the team a lift"
+      ],
+      "synonyms": [
+        "boost",
+        "fillip",
+        "pick-me-up",
+        "stimulus",
+        "impetus",
+        "encouragement",
+        "spur",
+        "reassurance",
+        "aid",
+        "help",
+        "push"
+      ]
+    }
+  ],
+  "phrases": [
+    "he never once lifted a finger to get Jimmy released from prison",
+    "Indeed, for a mere $100,000 a year, your bathroom can be immaculately cleaned without ever lifting a finger.",
+    "You can play this song and think of politicians, or officialdom, or your favourite target of hatred - its strength lies in its subtlety, its ability to point at decaying humanity without ever lifting a finger.",
+    "Can all of those who are opposed to the sale of the local amenity say with their hand on their heart that they ever lifted a finger to try to make a success of it?",
+    "Because if you see the frantic, almost hysterical, run-up to a Christmas Day blow-out as just one big hassle, there is a whole host of exciting options on hand to give you the very best Yuletide - without lifting a finger!",
+    "As the aircraft lifts off, put in a slow, steady, forward elevator pressure - just enough to keep it from climbing, but not so much that you descend back onto the runway.",
+    "The report says that as the aging helicopter lifted off the deck of HMCS Iroquois, the pilot gave the aircraft too much power.",
+    "They can improve current systems, or develop new products, like a rocket that lifts off on invisible laser beams.",
+    "Witnesses said the takeoff roll was long and the airplane went almost the entire length of the runway before lifting off.",
+    "Finally, when the airplane has less than 20 feet of runway left, there is a sudden change in the pitch of the shouts as everyone screams at once, and at the very last moment the airplane lifts off and is airborne."
+  ],
+  "origin": "Middle English: from Old Norse lypta, of Germanic origin; related to loft.",
+  "pronounciation": "/lɪft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lift_us_1.mp3"
+}

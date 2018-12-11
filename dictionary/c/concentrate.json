@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Focus one's attention or mental effort on a particular object or activity.",
+      "examples": [
+        "she couldn't concentrate on the movie"
+      ],
+      "synonyms": [
+        "focus",
+        "direct",
+        "centre",
+        "centralize",
+        "bring to bear"
+      ]
+    },
+    {
+      "description": "Gather (people or things) together in numbers or in a mass.",
+      "examples": [
+        "wealth was concentrated in the hands of the governing elite"
+      ]
+    },
+    {
+      "description": "Increase the strength or proportion of (a substance or solution) by removing or reducing the water or any other diluting agent or by selective accumulation of atoms or molecules.",
+      "examples": [],
+      "synonyms": [
+        "condense",
+        "boil down",
+        "reduce",
+        "distil",
+        "thicken",
+        "compress"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance made by removing water or other diluting agent; a concentrated form of something, especially food.",
+      "examples": [
+        "apple juice concentrate"
+      ],
+      "synonyms": [
+        "distillation",
+        "essence",
+        "extract"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense bring towards a center): Latinized form of concenter, or from French concentrer to concentrate. concentrate (sense 1 of the verb) dates from the early 20th century.",
+  "pronounciation": "/ˈkɑnsənˌtreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcentrate_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "All of the people born and living at about the same time, regarded collectively.",
+      "examples": [
+        "one of his generation's finest songwriters"
+      ],
+      "synonyms": [
+        "crop",
+        "batch",
+        "wave",
+        "type",
+        "range"
+      ]
+    },
+    {
+      "description": "The production of something.",
+      "examples": [
+        "methods of electricity generation",
+        "the generation of wealth"
+      ],
+      "synonyms": [
+        "creation",
+        "causing",
+        "causation",
+        "making",
+        "engendering",
+        "spawning",
+        "production",
+        "initiation",
+        "origination",
+        "inception",
+        "occasioning",
+        "prompting",
+        "kindling",
+        "triggering",
+        "inspiration"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin generatio(n-), from the verb generare (see generate).",
+  "pronounciation": "/ˌdʒɛnəˈreɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/generation_us_1.mp3"
+}

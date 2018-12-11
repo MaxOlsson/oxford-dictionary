@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Drink too much alcohol.",
+      "examples": [],
+      "synonyms": [
+        "drink",
+        "swallow",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "slurp",
+        "attack",
+        "down",
+        "drink down",
+        "drink up",
+        "force down",
+        "get down",
+        "finish off",
+        "polish off",
+        "drain",
+        "empty",
+        "imbibe",
+        "have",
+        "take",
+        "partake of",
+        "ingest",
+        "consume",
+        "sup",
+        "sip",
+        "lap"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈdriNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overdrink_us_1.mp3"
+}

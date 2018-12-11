@@ -1,0 +1,98 @@
+{
+  "noun": [
+    {
+      "description": "A violent confrontation.",
+      "examples": [
+        "there have been minor clashes with security forces"
+      ],
+      "synonyms": [
+        "confrontation",
+        "skirmish",
+        "brush",
+        "encounter",
+        "engagement",
+        "collision",
+        "incident",
+        "conflict",
+        "fight",
+        "battle"
+      ]
+    },
+    {
+      "description": "A mismatch of colors.",
+      "examples": [
+        "a clash of tweeds and a striped shirt"
+      ],
+      "synonyms": [
+        "mismatch",
+        "discordance",
+        "discord",
+        "lack of harmony",
+        "incompatibility",
+        "jarring"
+      ]
+    },
+    {
+      "description": "A loud jarring sound made by or resembling that made by metal objects being struck together.",
+      "examples": [
+        "a clash of cymbals"
+      ],
+      "synonyms": [
+        "striking",
+        "bang",
+        "clang",
+        "crash",
+        "clatter",
+        "clank"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Meet and come into violent conflict.",
+      "examples": [
+        "protesters demanding self-rule clashed with police"
+      ],
+      "synonyms": [
+        "fight",
+        "skirmish",
+        "contend",
+        "come to blows",
+        "be in conflict",
+        "come into conflict",
+        "engage",
+        "war",
+        "grapple"
+      ]
+    },
+    {
+      "description": "(of colors) appear discordant or ugly when placed close to each other.",
+      "examples": [
+        "the yellow shirt clashed with her purple skirt"
+      ],
+      "synonyms": [
+        "be incompatible",
+        "not match",
+        "not go",
+        "be discordant",
+        "jar"
+      ]
+    },
+    {
+      "description": "Strike (cymbals) together, producing a loud discordant sound.",
+      "examples": [],
+      "synonyms": [
+        "bang",
+        "strike",
+        "clang",
+        "crash",
+        "smash",
+        "clank",
+        "clatter"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: imitative.",
+  "pronounciation": "/klaSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clash_us_1.mp3"
+}

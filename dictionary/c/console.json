@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Comfort (someone) at a time of grief or disappointment.",
+      "examples": [
+        "she tried to console him but he pushed her gently away",
+        "you can console yourself with the thought that you did your best"
+      ],
+      "synonyms": [
+        "comfort",
+        "solace",
+        "condole with",
+        "give condolences to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A panel or unit accommodating a set of controls for electronic or mechanical equipment.",
+      "examples": [],
+      "synonyms": [
+        "control panel",
+        "instrument panel",
+        "dashboard",
+        "keyboard",
+        "keypad"
+      ]
+    },
+    {
+      "description": "An ornamented bracket with scrolls or corbel supporting a cornice, shelf, or tabletop.",
+      "examples": []
+    },
+    {
+      "description": "A support between the seats of an automobile that has indentations for holding small items.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (in console (sense 2)): from French, perhaps from consolider, from Latin consolidare (see consolidate).",
+  "pronounciation": "/ˈkɑnˌsoʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsole_us_1.mp3"
+}

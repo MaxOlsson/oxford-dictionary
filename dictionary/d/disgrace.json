@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "Loss of reputation or respect as the result of a dishonorable action.",
+      "examples": [
+        "he left the army in disgrace",
+        "if he'd gone back it would have brought disgrace on the family"
+      ],
+      "synonyms": [
+        "dishonour",
+        "shame",
+        "ignominy",
+        "discredit",
+        "degradation",
+        "disrepute",
+        "ill-repute",
+        "infamy",
+        "scandal",
+        "stigma",
+        "odium",
+        "opprobrium",
+        "obloquy",
+        "condemnation",
+        "vilification",
+        "contempt",
+        "disrespect",
+        "disapproval",
+        "disfavour",
+        "disapprobation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring shame or discredit on (someone or something)",
+      "examples": [
+        "you have disgraced the family name",
+        "John stiffened his jaw so he wouldn't disgrace himself by crying"
+      ],
+      "synonyms": [
+        "bring shame on",
+        "shame",
+        "dishonour",
+        "discredit",
+        "bring into disrepute",
+        "degrade",
+        "debase",
+        "defame",
+        "stigmatize",
+        "taint",
+        "sully",
+        "tarnish",
+        "besmirch",
+        "stain",
+        "blacken",
+        "drag through the mire",
+        "drag through the mud",
+        "give a bad name to",
+        "put in a bad light",
+        "reflect badly on"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a verb): via French from Italian disgrazia (noun), disgraziare (verb), from dis- (expressing reversal) + Latin gratia grace.",
+  "pronounciation": "/disˈɡrās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disgrace_us_1.mp3"
+}

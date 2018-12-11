@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring or done in an instant or instantly.",
+      "examples": [
+        "modern methods of instantaneous communication",
+        "her reaction was almost instantaneous"
+      ],
+      "synonyms": [
+        "immediate",
+        "instant",
+        "on-the-spot",
+        "prompt",
+        "direct",
+        "swift",
+        "speedy",
+        "rapid",
+        "quick",
+        "expeditious",
+        "express",
+        "lightning"
+      ]
+    },
+    {
+      "description": "Existing or measured at a particular instant.",
+      "examples": [
+        "measurement of the instantaneous velocity"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin instantaneus, from Latin instant- being at hand (from the verb instare), on the pattern of ecclesiastical Latin momentaneus.",
+  "pronounciation": "/ˌinstənˈtānēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instantaneous_us_1.mp3"
+}

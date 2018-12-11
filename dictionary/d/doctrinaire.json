@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Seeking to impose a doctrine in all circumstances without regard to practical considerations.",
+      "examples": [
+        "a doctrinaire conservative"
+      ],
+      "synonyms": [
+        "dogmatic",
+        "rigid",
+        "inflexible",
+        "uncompromising",
+        "unyielding",
+        "holding fixed views",
+        "adamant",
+        "insistent",
+        "pontifical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who seeks to impose a doctrine without regard to practical considerations.",
+      "examples": [],
+      "synonyms": [
+        "pedant",
+        "precisionist",
+        "perfectionist",
+        "formalist",
+        "literalist",
+        "stickler",
+        "traditionalist",
+        "doctrinaire",
+        "quibbler",
+        "hair-splitter",
+        "dogmatist",
+        "casuist",
+        "sophist",
+        "fault-finder",
+        "caviller",
+        "carper",
+        "pettifogger"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from French, from doctrine (see doctrine).",
+  "pronounciation": "/ˌdäktrəˈner/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doctrinaire_us_1.mp3"
+}

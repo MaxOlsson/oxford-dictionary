@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "On or in the course of this present day.",
+      "examples": [
+        "she's thirty today",
+        "he will appear in court today"
+      ],
+      "synonyms": [
+        "this day",
+        "this very day",
+        "before tomorrow",
+        "this morning",
+        "this afternoon",
+        "this evening"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "This present day.",
+      "examples": [
+        "today is a day of rest",
+        "today's game against the Blue Jays"
+      ],
+      "synonyms": [
+        "this day",
+        "this very day"
+      ]
+    }
+  ],
+  "origin": "Old English tō dæg on (this) day. Compare with tomorrow and tonight.",
+  "pronounciation": "/təˈdeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/today_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Living forever; never dying or decaying.",
+      "examples": [
+        "our mortal bodies are inhabited by immortal souls"
+      ],
+      "synonyms": [
+        "undying",
+        "never dying",
+        "deathless",
+        "eternal",
+        "ever living",
+        "everlasting",
+        "never-ending",
+        "endless",
+        "perpetual",
+        "lasting",
+        "enduring",
+        "constant",
+        "abiding"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An immortal being, especially a god of ancient Greece or Rome.",
+      "examples": [],
+      "synonyms": [
+        "god",
+        "goddess",
+        "deity",
+        "divine being",
+        "immortal being",
+        "celestial being",
+        "supreme being",
+        "divinity"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin immortalis, from in- not + mortalis (see mortal).",
+  "pronounciation": "/i(m)ˈmôrdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/immortal_us_1.mp3"
+}

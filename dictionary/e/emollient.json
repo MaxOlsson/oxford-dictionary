@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Having the quality of softening or soothing the skin.",
+      "examples": [
+        "an emollient cream"
+      ],
+      "synonyms": [
+        "moisturizing",
+        "palliative",
+        "balsamic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A preparation that softens the skin.",
+      "examples": [
+        "formulated with rich emollients"
+      ],
+      "synonyms": [
+        "moisturizer",
+        "cream",
+        "oil",
+        "ointment",
+        "rub",
+        "lotion",
+        "salve",
+        "unguent",
+        "balsam"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin emollient- making soft, from the verb emollire, from e- (variant of ex- out) + mollis soft.",
+  "pronounciation": "/əˈmälyənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/emollient_us_2.mp3"
+}

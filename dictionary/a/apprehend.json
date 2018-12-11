@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Arrest (someone) for a crime.",
+      "examples": [
+        "a warrant was issued but he has not been apprehended"
+      ],
+      "synonyms": [
+        "arrest",
+        "catch",
+        "capture",
+        "seize"
+      ]
+    },
+    {
+      "description": "Understand or perceive.",
+      "examples": [
+        "great art invites us to apprehend beauty"
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend",
+        "realize",
+        "recognize",
+        "appreciate",
+        "discern",
+        "perceive",
+        "fathom",
+        "penetrate",
+        "catch",
+        "follow",
+        "grasp",
+        "make out",
+        "take in"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (originally in the sense grasp, get hold of (physically or mentally)): from French appréhender or Latin apprehendere, from ad- towards + prehendere lay hold of.",
+  "pronounciation": "/ˌæprəˈhɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apprehend_us_1.mp3"
+}

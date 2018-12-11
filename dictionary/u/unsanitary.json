@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not sanitary.",
+      "examples": [
+        "the unsanitary conditions in the orphanage"
+      ],
+      "synonyms": [
+        "unhygienic",
+        "insanitary",
+        "dirty",
+        "filthy",
+        "unclean",
+        "impure",
+        "contaminated",
+        "unhealthy",
+        "unwholesome",
+        "germ-ridden",
+        "germy",
+        "disease-ridden",
+        "infested"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsanəˌterē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsanitary_us_1.mp3"
+}

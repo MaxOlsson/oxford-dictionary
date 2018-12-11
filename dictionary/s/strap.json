@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A strip of leather, cloth, or other flexible material, often with a buckle, used to fasten, secure, or carry something or to hold onto something.",
+      "examples": [
+        "her bra strap",
+        "the strap of his shoulder bag"
+      ],
+      "synonyms": [
+        "thong",
+        "tie",
+        "cord",
+        "band",
+        "belt",
+        "tape"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or secure in a specified place or position with a strap or seat belt.",
+      "examples": [
+        "I had to strap the bag to my bicycle",
+        "the children were strapped into their car seats"
+      ],
+      "synonyms": [
+        "fasten",
+        "secure",
+        "tie",
+        "bind",
+        "make fast",
+        "lash"
+      ]
+    },
+    {
+      "description": "Beat (someone) with a strip of leather.",
+      "examples": [
+        "I expected when my dad walked in that he'd strap him"
+      ],
+      "synonyms": [
+        "beat",
+        "flog",
+        "whip",
+        "leather",
+        "belt",
+        "thrash",
+        "lash",
+        "horsewhip",
+        "birch",
+        "cane",
+        "strike",
+        "hit",
+        "clout"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (denoting a trap for birds, also a piece of timber fastening two objects together): dialect form of strop.",
+  "pronounciation": "/strap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strap_us_1.mp3"
+}

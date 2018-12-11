@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Known about by many people; renowned.",
+      "examples": [
+        "he is famed for his eccentricities"
+      ],
+      "synonyms": [
+        "famous",
+        "celebrated",
+        "well known",
+        "prominent",
+        "noted",
+        "notable",
+        "renowned",
+        "distinguished",
+        "esteemed",
+        "respected",
+        "acclaimed",
+        "honoured",
+        "exalted",
+        "remarkable",
+        "legendary",
+        "lionized",
+        "much publicized"
+      ]
+    }
+  ],
+  "origin": "Middle English: past participle of archaic fame (verb), from Old French famer, from Latin fama.",
+  "pronounciation": "/fāmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/famed_us_1.mp3"
+}

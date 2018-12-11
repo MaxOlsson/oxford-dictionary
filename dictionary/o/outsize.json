@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Exceptionally large.",
+      "examples": [
+        "an outsize bed",
+        "her outsized glasses"
+      ],
+      "synonyms": [
+        "huge",
+        "oversized",
+        "enormous",
+        "gigantic",
+        "very big",
+        "very large",
+        "great",
+        "giant",
+        "colossal",
+        "massive",
+        "mammoth",
+        "vast",
+        "immense",
+        "tremendous",
+        "monumental",
+        "prodigious",
+        "mountainous",
+        "monstrous",
+        "elephantine",
+        "king-sized",
+        "king-size",
+        "gargantuan",
+        "herculean",
+        "brobdingnagian",
+        "substantial",
+        "extensive",
+        "hefty",
+        "bulky",
+        "weighty",
+        "heavy",
+        "gross"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An exceptionally large person or thing, especially a garment made to measurements larger than the standard.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌoutˈsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outsize_us_2.mp3"
+}

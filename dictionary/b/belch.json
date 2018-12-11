@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Emit gas noisily from the stomach through the mouth.",
+      "examples": [],
+      "synonyms": [
+        "bring up wind"
+      ]
+    },
+    {
+      "description": "(especially of a chimney) send (smoke or flames) out or up.",
+      "examples": [
+        "a factory chimney belches out smoke"
+      ],
+      "synonyms": [
+        "emit",
+        "issue",
+        "vent",
+        "gush",
+        "discharge",
+        "eject",
+        "expel",
+        "empty",
+        "evacuate",
+        "give off",
+        "give out",
+        "pour out",
+        "disgorge",
+        "spew out",
+        "spit out",
+        "vomit",
+        "cough up",
+        "throw up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of belching.",
+      "examples": [
+        "he gave a loud belch"
+      ],
+      "synonyms": [
+        "burp",
+        "gurk"
+      ]
+    }
+  ],
+  "origin": "Old English belcettan, probably imitative.",
+  "pronounciation": "/belCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/belch_us_1.mp3"
+}

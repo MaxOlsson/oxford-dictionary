@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Well chosen or suited to the circumstances.",
+      "examples": [
+        "a felicitous phrase"
+      ],
+      "synonyms": [
+        "apt",
+        "well chosen",
+        "well expressed",
+        "well put",
+        "choice",
+        "fitting",
+        "suitable",
+        "appropriate",
+        "apposite",
+        "pertinent",
+        "germane",
+        "to the point",
+        "relevant",
+        "congruous",
+        "apropos"
+      ]
+    }
+  ],
+  "pronounciation": "/fəˈlisədəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/felicitous_us_1.mp3"
+}

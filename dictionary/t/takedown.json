@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A wrestling maneuver in which an opponent is swiftly brought to the mat from a standing position.",
+      "examples": []
+    },
+    {
+      "description": "The removal of a website, web page, or file from the Internet, typically in response to a formal request.",
+      "examples": [
+        "a copyright takedown notice can result in your channel getting deleted"
+      ]
+    },
+    {
+      "description": "Denoting a firearm with the capacity to have the barrel and magazine detached from the stock.",
+      "examples": []
+    },
+    {
+      "description": "A police raid or arrest.",
+      "examples": [],
+      "synonyms": [
+        "raid",
+        "surprise search"
+      ]
+    },
+    {
+      "description": "An instance of overwhelmingly defeating or severely criticizing someone or something.",
+      "examples": [
+        "a takedown of the self-help movement",
+        "a vicious takedown of celebrities who are famous for being famous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteɪkˌdaʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/take_down_1_us_1.mp3"
+}

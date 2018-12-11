@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to ordinary citizens and their concerns, as distinct from military or ecclesiastical matters.",
+      "examples": [
+        "civil aviation"
+      ],
+      "synonyms": [
+        "secular",
+        "non-religious",
+        "lay"
+      ]
+    },
+    {
+      "description": "Courteous and polite.",
+      "examples": [
+        "we tried to be civil to him"
+      ],
+      "synonyms": [
+        "polite",
+        "courteous",
+        "well mannered",
+        "well bred",
+        "gentlemanly",
+        "chivalrous",
+        "gallant",
+        "ladylike",
+        "gracious",
+        "respectful"
+      ]
+    },
+    {
+      "description": "(of time measurement or a point in time) fixed by custom or law rather than being natural or astronomical.",
+      "examples": [
+        "civil twilight starts at sunset"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin civilis, from civis citizen.",
+  "pronounciation": "/ˈsɪv(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/civil_us_1.mp3"
+}

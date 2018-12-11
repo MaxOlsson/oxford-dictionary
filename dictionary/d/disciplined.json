@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Showing a controlled form of behavior or way of working.",
+      "examples": [
+        "a disciplined approach to management"
+      ],
+      "synonyms": [
+        "well mannered",
+        "polite",
+        "civil",
+        "courteous",
+        "respectful",
+        "deferential",
+        "obedient",
+        "gentlemanly",
+        "chivalrous",
+        "gallant",
+        "ladylike",
+        "genteel",
+        "cultivated",
+        "gracious",
+        "obliging",
+        "considerate",
+        "thoughtful",
+        "urbane",
+        "civilized",
+        "well spoken",
+        "formal",
+        "proper",
+        "decorous",
+        "refined",
+        "polished",
+        "well brought up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɪsəˌplɪnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disciplined_us_2.mp3"
+}

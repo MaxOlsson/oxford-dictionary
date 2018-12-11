@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of goods) having had two previous owners.",
+      "examples": [
+        "a thirdhand dinner suit"
+      ]
+    },
+    {
+      "description": "(of information) acquired from or via several intermediate sources and consequently not authoritative or reliable.",
+      "examples": [
+        "the accounts are third-hand, told years after the event"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "From or via several intermediate sources.",
+      "examples": [
+        "I heard about the case thirdhand"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌθərdˈhænd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/third_hand_1_us_1.mp3"
+}

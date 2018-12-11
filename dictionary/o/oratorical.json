@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the art or practice of public speaking.",
+      "examples": [
+        "oratorical skills"
+      ],
+      "synonyms": [
+        "rhetorical",
+        "grandiloquent",
+        "magniloquent",
+        "high-flown",
+        "high-sounding",
+        "sonorous",
+        "lofty",
+        "orotund",
+        "bombastic",
+        "grandiose",
+        "pompous",
+        "pretentious",
+        "overblown",
+        "overripe",
+        "turgid",
+        "extravagant",
+        "flowery",
+        "florid",
+        "declamatory",
+        "ciceronian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌôrəˈtôrək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oratorical_us_1.mp3"
+}

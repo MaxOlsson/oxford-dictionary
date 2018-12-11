@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A popular trend, especially in styles of dress and ornament or manners of behavior.",
+      "examples": [
+        "his hair is cut in the latest fashion"
+      ],
+      "synonyms": [
+        "vogue",
+        "trend",
+        "craze",
+        "rage",
+        "mania",
+        "mode",
+        "fad",
+        "fancy",
+        "passing fancy"
+      ]
+    },
+    {
+      "description": "A manner of doing something.",
+      "examples": [
+        "the work is done in a rather casual fashion"
+      ],
+      "synonyms": [
+        "manner",
+        "way",
+        "style",
+        "method",
+        "mode"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make into a particular or the required form.",
+      "examples": [
+        "the bottles were fashioned from green glass"
+      ],
+      "synonyms": [
+        "construct",
+        "build",
+        "manufacture",
+        "make",
+        "create",
+        "fabricate",
+        "contrive"
+      ]
+    }
+  ],
+  "phrases": [
+    "he could read after a fashion",
+    "It is sly, clever after a fashion, and undeniably effective.",
+    "Some of these people I call friends and indeed we still are friends after a fashion.",
+    "They toyed with them after a fashion, and then got back on the bus.",
+    "Strangers think they know you - and they do, after a fashion."
+  ],
+  "origin": "Middle English (in the sense make, shape, appearance, also a particular make or style): from Old French façon, from Latin factio(n-), from facere do, make.",
+  "pronounciation": "/ˈfaSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fashion_us_1.mp3"
+}

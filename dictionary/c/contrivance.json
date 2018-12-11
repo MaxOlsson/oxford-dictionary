@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The use of skill to bring something about or create something.",
+      "examples": [
+        "the requirements of the system, by happy chance and some contrivance, can be summed up in an acronym"
+      ],
+      "synonyms": [
+        "scheme",
+        "stratagem",
+        "tactic",
+        "manoeuvre",
+        "move",
+        "course of action",
+        "line of action",
+        "plan",
+        "ploy",
+        "gambit",
+        "device",
+        "wile"
+      ]
+    },
+    {
+      "description": "A device, especially in literary or artistic composition, which gives a sense of artificiality.",
+      "examples": [
+        "the often tiresome contrivances of historical fiction"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈtrīvəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontrivance_us_1.mp3"
+}

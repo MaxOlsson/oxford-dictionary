@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Fry or grill with a sizzling noise.",
+      "examples": [
+        "Elsie had the fat frizzling in the frying pan"
+      ],
+      "synonyms": [
+        "sizzle",
+        "crackle",
+        "fizz",
+        "hiss",
+        "spit",
+        "sputter",
+        "crack",
+        "snap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sound or act of frying.",
+      "examples": [
+        "the frizzle of the pan"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from frizz + -le.",
+  "pronounciation": "/ˈfrɪzəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frizzle_us_1.mp3"
+}

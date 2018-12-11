@@ -1,0 +1,106 @@
+{
+  "noun": [
+    {
+      "description": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+      "examples": [
+        "the care of the elderly",
+        "the child is safe in the care of her grandparents",
+        "health care"
+      ],
+      "synonyms": [
+        "safe keeping",
+        "supervision",
+        "custody",
+        "charge",
+        "protection",
+        "keeping",
+        "keep",
+        "control",
+        "management",
+        "ministration",
+        "guidance",
+        "superintendence",
+        "tutelage",
+        "aegis",
+        "responsibility"
+      ]
+    },
+    {
+      "description": "Serious attention or consideration applied to doing something correctly or to avoid damage or risk.",
+      "examples": [
+        "he planned his departure with great care"
+      ],
+      "synonyms": [
+        "caution",
+        "carefulness",
+        "wariness",
+        "awareness",
+        "heedfulness",
+        "heed",
+        "attention",
+        "attentiveness",
+        "alertness",
+        "watchfulness",
+        "vigilance",
+        "circumspection",
+        "prudence",
+        "guardedness",
+        "observance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Feel concern or interest; attach importance to something.",
+      "examples": [
+        "they don't care about human life",
+        "I don't care what she says"
+      ],
+      "synonyms": [
+        "be concerned",
+        "worry",
+        "worry oneself",
+        "trouble oneself",
+        "bother",
+        "mind"
+      ]
+    },
+    {
+      "description": "Look after and provide for the needs of.",
+      "examples": [
+        "he has numerous animals to care for"
+      ],
+      "synonyms": [
+        "look after",
+        "take care of",
+        "tend",
+        "attend to",
+        "mind",
+        "minister to",
+        "take charge of",
+        "nurse",
+        "provide for",
+        "foster",
+        "protect",
+        "watch",
+        "guard"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Cooperative for American Relief Everywhere, a large private organization that provides emergency and long-term assistance to people in need throughout the world.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "write to me care of Anne",
+    "If you are having similar problems do write to me care of Scotland on Sunday.",
+    "Eager suitors are invited to write Rowland care of her maximum security penitentiary.",
+    "he couldn't care less about football",
+    "Sadly, it didn't matter, since my friends and mother couldn't care less which one it was."
+  ],
+  "origin": "Old English caru (noun), carian (verb), of Germanic origin; related to Old High German chara grief, lament, charon grieve, and Old Norse kǫr sickbed.",
+  "pronounciation": "/ker/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/care_1_us_1.mp3"
+}

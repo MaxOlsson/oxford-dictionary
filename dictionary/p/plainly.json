@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "Able to be perceived easily.",
+      "examples": [
+        "a light was plainly visible",
+        "she could plainly hear footsteps behind her"
+      ]
+    },
+    {
+      "description": "In a style that is not elaborate or luxurious; simply.",
+      "examples": [
+        "he lived plainly and worked hard",
+        "she is plainly dressed in a T-shirt and trousers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈplānlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plainly_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having the appearance or consistency of soup.",
+      "examples": [
+        "a soupy stew"
+      ],
+      "synonyms": [
+        "misty",
+        "smoggy",
+        "hazy",
+        "overcast",
+        "murky",
+        "gloomy",
+        "grey",
+        "dark",
+        "dim",
+        "dingy",
+        "dull"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈso͞opē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soupy_us_1.mp3"
+}

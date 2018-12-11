@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Speak and act so as to make it appear that something is the case when in fact it is not.",
+      "examples": [
+        "I closed my eyes and pretended I was asleep",
+        "she turned the pages and pretended to read"
+      ],
+      "synonyms": [
+        "make as if",
+        "profess",
+        "affect"
+      ]
+    },
+    {
+      "description": "Lay claim to (a quality or title)",
+      "examples": [
+        "he cannot pretend to sophistication"
+      ],
+      "synonyms": [
+        "lay claim to",
+        "say that one owns",
+        "assert ownership of",
+        "formally request"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not really what it is represented as being; used in a game or deception.",
+      "examples": [
+        "the children are pouring out pretend tea for the dolls"
+      ],
+      "synonyms": [
+        "imaginary",
+        "imagined",
+        "pretended",
+        "make-believe",
+        "made-up",
+        "fantasy",
+        "fantasized",
+        "fancied",
+        "dream",
+        "dreamed-up",
+        "unreal",
+        "fanciful",
+        "invented",
+        "fictitious",
+        "fictive",
+        "mythical",
+        "feigned",
+        "fake",
+        "mock",
+        "imitative",
+        "sham",
+        "simulated",
+        "artificial",
+        "ersatz",
+        "dummy",
+        "false",
+        "faux",
+        "spurious",
+        "bogus",
+        "counterfeit",
+        "fraudulent",
+        "forged",
+        "pseudo"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin praetendere stretch forth, claim, from prae before + tendere stretch. The adjective dates from the early 20th century.",
+  "pronounciation": "/prəˈtend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pretend_us_1.mp3"
+}

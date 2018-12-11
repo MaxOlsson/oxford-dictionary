@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Overturn.",
+      "examples": [
+        "he jumped up and overset the canoe"
+      ],
+      "synonyms": [
+        "overturn",
+        "turn over",
+        "tip over",
+        "roll over",
+        "upturn",
+        "capsize",
+        "turn topsy-turvy"
+      ]
+    },
+    {
+      "description": "Upset emotionally.",
+      "examples": [
+        "the small kindness nearly overset her again"
+      ],
+      "synonyms": [
+        "upset",
+        "overturn",
+        "topple over",
+        "turn over",
+        "throw over",
+        "knock over",
+        "push over",
+        "knock down",
+        "upend",
+        "invert",
+        "capsize",
+        "turn topsy-turvy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈsɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overset_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "Dirt ingrained on the surface of something.",
+      "examples": [
+        "the windows were thick with grime"
+      ],
+      "synonyms": [
+        "dirt",
+        "smut",
+        "soot",
+        "dust",
+        "mud",
+        "filth",
+        "mire",
+        "sludge",
+        "dross",
+        "pollution"
+      ]
+    },
+    {
+      "description": "A genre of popular music influenced by UK garage, typically characterized by a minimal, prominent rhythm, a very low-pitched bassline, and vocals by an MC.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Blacken or make dirty with grime.",
+      "examples": [
+        "the beaches are grimed with a foul foam"
+      ],
+      "synonyms": [
+        "begrime",
+        "blacken",
+        "dirty",
+        "make grimy",
+        "make dirty",
+        "make sooty",
+        "stain",
+        "soil",
+        "befoul",
+        "defile"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Middle Low German and Middle Dutch.",
+  "pronounciation": "/ɡraɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grime_us_1.mp3"
+}

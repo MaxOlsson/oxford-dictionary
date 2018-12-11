@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "Leave of absence, especially that granted to a member of the armed services.",
+      "examples": [
+        "a civil servant home on furlough",
+        "a six-week furlough in Australia"
+      ],
+      "synonyms": [
+        "break",
+        "rest",
+        "period of leave",
+        "day off",
+        "week off",
+        "month off",
+        "recess",
+        "school holiday",
+        "half-term"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Grant leave of absence to.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Dutch verlof, modeled on German Verlaub, of West Germanic origin and related to leave.",
+  "pronounciation": "/ˈfərlō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/furlough_us_1.mp3"
+}

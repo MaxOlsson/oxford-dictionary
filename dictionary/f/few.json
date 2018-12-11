@@ -1,0 +1,60 @@
+{
+  "pronoun, determiner, &amp; adjective": [
+    {
+      "description": "A small number of.",
+      "examples": [
+        "may I ask a few questions?",
+        "I will recount a few of the stories told me",
+        "many believe it but only a few are prepared to say"
+      ],
+      "synonyms": [
+        "not many",
+        "hardly any",
+        "scarcely any"
+      ]
+    },
+    {
+      "description": "Used to emphasize how small a number of people or things is.",
+      "examples": [
+        "he had few friends",
+        "few thought to challenge these assumptions",
+        "very few of the titles have any literary merit",
+        "a population of fewer than two million",
+        "sewing was one of her few pleasures",
+        "ask which products have the fewest complaints",
+        "one of the few who survived"
+      ],
+      "synonyms": [
+        "not many",
+        "hardly any",
+        "scarcely any"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The minority of people; the elect.",
+      "examples": [
+        "a world that increasingly belongs to the few"
+      ],
+      "synonyms": [
+        "a small number",
+        "a handful",
+        "a sprinkling",
+        "one or two",
+        "a couple",
+        "two or three"
+      ]
+    }
+  ],
+  "phrases": [
+    "she visits every few weeks",
+    "She also hopes to visit Britain every few months to attend council meetings.",
+    "The emphasis was moving away from local struggles to big protests once every few months.",
+    "You've got to understand that he and I only talk once every few months on the phone.",
+    "With a bulk shop online once every few weeks you can top up on all basic foodstuffs and household items."
+  ],
+  "origin": "Old English fēawe, fēawa, of Germanic origin; related to Old High German fao, from an Indo-European root shared by Latin paucus and Greek pauros small.",
+  "pronounciation": "/fju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/few_us_1.mp3"
+}

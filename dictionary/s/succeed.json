@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Achieve the desired aim or result.",
+      "examples": [
+        "he succeeded in winning a pardon",
+        "a mission which could not possibly succeed"
+      ],
+      "synonyms": [
+        "triumph",
+        "be victorious",
+        "achieve success",
+        "be successful",
+        "be a success",
+        "do well",
+        "make good",
+        "prosper",
+        "flourish",
+        "thrive",
+        "advance"
+      ]
+    },
+    {
+      "description": "Take over a throne, inheritance, office, or other position from.",
+      "examples": [
+        "he would succeed Hawke as Prime Minister"
+      ],
+      "synonyms": [
+        "replace",
+        "take the place of",
+        "take over from",
+        "come after",
+        "follow",
+        "supersede",
+        "supplant",
+        "displace",
+        "oust",
+        "remove",
+        "unseat",
+        "usurp"
+      ]
+    }
+  ],
+  "phrases": [
+    "After all, if it works, and nothing succeeds like success, go with the flow.",
+    "You know that saying, nothing succeeds like success?",
+    "Well, its an old saying and a true one: nothing succeeds like success.",
+    "She is a pioneer in the business, she put out a great magazine, and nothing succeeds like success.",
+    "But in America, nothing succeeds like success."
+  ],
+  "origin": "Late Middle English: from Old French succeder or Latin succedere come close after, from sub- close to + cedere go.",
+  "pronounciation": "/səkˈsid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/succeed_us_1.mp3"
+}

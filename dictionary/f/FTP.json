@@ -1,0 +1,23 @@
+{
+  "abbreviation": [
+    {
+      "description": "File transfer protocol, a standard for the exchange of program and data files across a network.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transfer (a file) from one computer or system to another, especially on the Internet.",
+      "examples": [
+        "there is plenty of info to be FTPed"
+      ],
+      "synonyms": [
+        "transmit",
+        "convey",
+        "communicate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌɛf ˈˌti ˈpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ftp_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "(of land or a climate) having little or no rain; too dry or barren to support vegetation.",
+      "examples": [
+        "hot and arid conditions"
+      ],
+      "synonyms": [
+        "dry",
+        "dried up",
+        "waterless",
+        "as dry as a bone",
+        "moistureless",
+        "parched",
+        "scorched",
+        "baked",
+        "thirsty"
+      ]
+    },
+    {
+      "description": "Lacking in interest, excitement, or meaning.",
+      "examples": [
+        "his arid years in suburbia"
+      ],
+      "synonyms": [
+        "dreary",
+        "dull",
+        "drab",
+        "dry",
+        "sterile",
+        "banal",
+        "colourless",
+        "monochrome",
+        "unstimulating",
+        "uninspiring",
+        "flat",
+        "boring",
+        "uninteresting",
+        "monotonous",
+        "lifeless",
+        "tedious",
+        "vapid",
+        "jejune",
+        "soul-destroying"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French aride or Latin aridus, from arere be dry or parched.",
+  "pronounciation": "/ˈɛrəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arid_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Not controlled.",
+      "examples": [
+        "some uncontrolled children rather marred the proceedings",
+        "in mice, the growth was uncontrolled and resembled cancer"
+      ],
+      "synonyms": [
+        "unrestrained",
+        "unconstrained",
+        "unrestricted",
+        "unchecked",
+        "unbridled",
+        "uncurbed",
+        "unlimited",
+        "unfettered",
+        "untrammelled",
+        "uninhibited",
+        "unconfined",
+        "unimpeded",
+        "unhampered",
+        "unbounded",
+        "unsuppressed",
+        "undisciplined",
+        "out of control",
+        "out of hand",
+        "rampant",
+        "wild",
+        "runaway",
+        "incontinent",
+        "immoderate",
+        "intemperate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkənˈtroʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncontrolled_us_1.mp3"
+}

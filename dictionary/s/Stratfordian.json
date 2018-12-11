@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the English town of Stratford or its inhabitants.",
+      "examples": []
+    },
+    {
+      "description": "Relating to the view that William Shakespeare was the author of the plays typically attributed to him.",
+      "examples": [
+        "the classic Stratfordian position"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the English town of Stratford.",
+      "examples": [
+        "she was one of 21 Stratfordians who were reported to the ecclesiastical court"
+      ]
+    },
+    {
+      "description": "A supporter of the view that William Shakespeare was the author of the plays typically attributed to him.",
+      "examples": [
+        "the Stratfordians remained unmoved from their position"
+      ]
+    }
+  ],
+  "pronounciation": "/stratˈfôrdēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stratfordian_1_us_1.mp3"
+}

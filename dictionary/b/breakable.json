@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Capable of breaking or being broken easily.",
+      "examples": [
+        "breakable ornaments",
+        "an encrypted password isn't easily breakable"
+      ],
+      "synonyms": [
+        "fragile",
+        "delicate",
+        "easily broken",
+        "easily damaged",
+        "destructible",
+        "frangible",
+        "frail",
+        "flimsy",
+        "insubstantial"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Things which are fragile and easily broken.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbrākəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breakable_us_1.mp3"
+}

@@ -1,0 +1,157 @@
+{
+  "verb": [
+    {
+      "description": "Attach or fasten (someone or something) with string or similar cord.",
+      "examples": [
+        "they tied Max to a chair",
+        "her long hair was tied back in a bow"
+      ],
+      "synonyms": [
+        "bind",
+        "tie up",
+        "tether",
+        "hitch",
+        "strap",
+        "truss",
+        "fetter",
+        "rope",
+        "chain",
+        "make fast",
+        "moor",
+        "lash",
+        "attach",
+        "fasten",
+        "fix",
+        "secure",
+        "join",
+        "connect",
+        "link",
+        "couple"
+      ]
+    },
+    {
+      "description": "Restrict or limit (someone) to a particular situation, occupation, or place.",
+      "examples": [
+        "she didn't want to be like her mother, tied to a feckless man"
+      ],
+      "synonyms": [
+        "restrict",
+        "restrain",
+        "limit",
+        "constrain",
+        "confine",
+        "cramp"
+      ]
+    },
+    {
+      "description": "Connect; link.",
+      "examples": [
+        "self-respect is closely tied up with the esteem in which one is held by one's peers"
+      ],
+      "synonyms": [
+        "link",
+        "couple",
+        "connect",
+        "relate",
+        "join",
+        "marry",
+        "wed"
+      ]
+    },
+    {
+      "description": "Achieve the same score or ranking as another competitor or team.",
+      "examples": [
+        "he tied for second in the league",
+        "Toronto tied the score in the fourth inning"
+      ],
+      "synonyms": [
+        "draw",
+        "be equal",
+        "be even",
+        "be level",
+        "be neck and neck"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of string, cord, or the like used for fastening or tying something.",
+      "examples": [
+        "he tightened the tie of his robe"
+      ],
+      "synonyms": [
+        "lace",
+        "string",
+        "cord",
+        "ligature",
+        "wire",
+        "bond",
+        "fetter",
+        "link",
+        "fastening",
+        "fastener"
+      ]
+    },
+    {
+      "description": "A rod or beam holding parts of a structure together.",
+      "examples": []
+    },
+    {
+      "description": "A thing that unites or links people.",
+      "examples": [
+        "it is important that we keep family ties strong"
+      ],
+      "synonyms": [
+        "bond",
+        "connection",
+        "link",
+        "liaison",
+        "attachment",
+        "association",
+        "kinship",
+        "affiliation",
+        "allegiance",
+        "friendship",
+        "cords",
+        "union",
+        "relationship",
+        "relatedness",
+        "interdependence"
+      ]
+    },
+    {
+      "description": "A strip of material worn around the collar and tied in a knot at the front with the ends hanging down, typically forming part of a man's business or formal outfit; a necktie.",
+      "examples": [],
+      "synonyms": [
+        "necktie"
+      ]
+    },
+    {
+      "description": "A result in a game or other competitive situation in which two or more competitors or teams have the same score or ranking; a draw.",
+      "examples": [
+        "there was a tie for first place"
+      ],
+      "synonyms": [
+        "draw",
+        "dead heat",
+        "deadlock",
+        "stalemate"
+      ]
+    }
+  ],
+  "phrases": [
+    "The smart thing to do is to control your drinking and if you have to tie one on, do it on your dime, after the party.",
+    "He must have really tied one on last night, though he couldn't remember the details.",
+    "I really must have tied one on, he thought groggily.",
+    "I don't drink but I feel like I tied one on the previous night.",
+    "Not every night is a great night for tying one on and staying out till dawn.",
+    "her husband is able to tie in his shifts with hers at the hospital",
+    "she may have developed ideas that don't necessarily tie in with mine",
+    "He has an interesting piece on the affair at History News Network, and ties it in to broader issues having to do with politics and the academy.",
+    "Anyone who ties it in with football is deluding themselves.",
+    "In Orkney it is tying a strength in archaeology to that subject's importance to local tourism."
+  ],
+  "origin": "Old English tīgan (verb), tēah (noun), of Germanic origin.",
+  "pronounciation": "/taɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tie_us_1.mp3"
+}

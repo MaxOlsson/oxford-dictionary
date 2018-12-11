@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Make no longer connected.",
+      "examples": [
+        "all three loops are linked, but cutting any one unlinks the other two"
+      ],
+      "synonyms": [
+        "unfasten",
+        "unbutton",
+        "unhook",
+        "untie",
+        "unlace"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈlɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlink_us_2.mp3"
+}

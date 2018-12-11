@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Using or expressing dry, especially mocking, humor.",
+      "examples": [
+        "a wry smile",
+        "wry comments"
+      ],
+      "synonyms": [
+        "ironic",
+        "sardonic",
+        "satirical",
+        "mocking",
+        "scoffing",
+        "sneering",
+        "derisive",
+        "scornful",
+        "sarcastic",
+        "double-edged",
+        "dry",
+        "droll",
+        "witty",
+        "humorous"
+      ]
+    },
+    {
+      "description": "(of a person's face or features) twisted into an expression of disgust, disappointment, or annoyance.",
+      "examples": [],
+      "synonyms": [
+        "disgusted",
+        "displeased",
+        "discontented",
+        "offended",
+        "unimpressed",
+        "annoyed",
+        "irritated",
+        "irked",
+        "vexed",
+        "piqued",
+        "nettled",
+        "put out",
+        "disgruntled"
+      ]
+    },
+    {
+      "description": "(of the neck or features) distorted or turned to one side.",
+      "examples": [
+        "a remedy for wry necks"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense contorted): from Old English wrīgian tend, incline, in Middle English deviate, swerve, contort.",
+  "pronounciation": "/rī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wry_us_1.mp3"
+}

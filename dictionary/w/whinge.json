@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Complain persistently and in a peevish or irritating way.",
+      "examples": [
+        "stop whingeing and get on with it!"
+      ],
+      "synonyms": [
+        "complain",
+        "grouse",
+        "grouch",
+        "grumble",
+        "whine",
+        "moan",
+        "carp",
+        "mutter",
+        "murmur",
+        "whisper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of complaining.",
+      "examples": [],
+      "synonyms": [
+        "complaint",
+        "grouse",
+        "moan",
+        "grouch",
+        "grumble",
+        "whine",
+        "carp",
+        "mutter",
+        "murmur",
+        "whisper"
+      ]
+    }
+  ],
+  "origin": "Late Old English hwinsian, of Germanic origin; related to German winseln; compare with whine.",
+  "pronounciation": "/(h)wɪndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whinge_us_2.mp3"
+}

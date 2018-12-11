@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A medicine taken or given to counteract a particular poison.",
+      "examples": [],
+      "synonyms": [
+        "antitoxin",
+        "antiserum"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Counteract or cancel with an antidote.",
+      "examples": [
+        "What remedy will antidote henbane?"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Latin, from Greek antidoton, neuter of antidotos given against, from anti- against + didonai give.",
+  "pronounciation": "/ˈan(t)iˌdōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/antidote_us_1.mp3"
+}

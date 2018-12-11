@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The authority to represent someone else, especially in voting.",
+      "examples": [
+        "they may register to vote by proxy"
+      ],
+      "synonyms": [
+        "deputy",
+        "representative",
+        "substitute",
+        "delegate",
+        "agent",
+        "surrogate",
+        "stand-in",
+        "attorney",
+        "ambassador",
+        "emissary",
+        "go-between",
+        "envoy",
+        "frontman"
+      ]
+    },
+    {
+      "description": "A figure that can be used to represent the value of something in a calculation.",
+      "examples": [
+        "the use of a US wealth measure as a proxy for the true worldwide measure"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: contraction of procuracy.",
+  "pronounciation": "/ˈpräksē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/proxy_us_1.mp3"
+}

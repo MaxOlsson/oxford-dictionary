@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Full of or covered with nasal mucus.",
+      "examples": [
+        "a snotty nose"
+      ],
+      "synonyms": [
+        "contemptuous",
+        "disdainful",
+        "scornful",
+        "sneering",
+        "snide",
+        "scathing",
+        "disparaging",
+        "negative",
+        "unenthusiastic",
+        "offhand",
+        "perfunctory"
+      ]
+    },
+    {
+      "description": "Having or showing a superior or conceited attitude.",
+      "examples": [
+        "a snotty letter"
+      ],
+      "synonyms": [
+        "haughty",
+        "conceited",
+        "hubristic",
+        "self-important",
+        "opinionated",
+        "egotistic",
+        "full of oneself",
+        "superior"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsnädē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snotty_us_2.mp3"
+}

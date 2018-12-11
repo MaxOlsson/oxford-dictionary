@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Act in an excessively subservient manner.",
+      "examples": [
+        "she didn't have to kowtow to a boss"
+      ],
+      "synonyms": [
+        "grovel",
+        "behave obsequiously",
+        "be obsequious",
+        "be servile",
+        "be sycophantic",
+        "fawn on",
+        "bow and scrape",
+        "toady",
+        "truckle",
+        "abase oneself",
+        "humble oneself",
+        "prostrate oneself"
+      ]
+    },
+    {
+      "description": "Kneel and touch the ground with the forehead in worship or submission as part of Chinese custom.",
+      "examples": [],
+      "synonyms": [
+        "prostrate oneself",
+        "bow",
+        "bow down before",
+        "genuflect",
+        "do obeisance",
+        "make obeisance",
+        "fall on one's knees before",
+        "get down on one's knees before",
+        "kneel before"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of kowtowing as part of Chinese custom.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: from Chinese kētóu, from kē knock + tóu head.",
+  "pronounciation": "/ˌkouˈtou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kowtow_us_1.mp3"
+}

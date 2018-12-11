@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "In a deliberate and positive way.",
+      "examples": [
+        "the company is actively looking for a buyer"
+      ]
+    },
+    {
+      "description": "In an energetic or vigorous way.",
+      "examples": [
+        "they were actively engaged in supporting the war effort",
+        "actively growing weeds"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæktɪvli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/actively_us_1.mp3"
+}

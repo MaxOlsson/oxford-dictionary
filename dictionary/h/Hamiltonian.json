@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or invented by the mathematician Sir W. R. Hamilton, especially denoting concepts employed in the wave-mechanical description of particles.",
+      "examples": [
+        "Hamiltonian mechanics",
+        "Hamiltonian circuit"
+      ]
+    },
+    {
+      "description": "Relating to the American statesman Alexander Hamilton or his doctrines.",
+      "examples": [
+        "the Hamiltonian North"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A Hamiltonian operator or function.",
+      "examples": []
+    },
+    {
+      "description": "A follower or adherent of Alexander Hamilton or his doctrines.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌhaməlˈtōnēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hamiltonian_1_us_1.mp3"
+}

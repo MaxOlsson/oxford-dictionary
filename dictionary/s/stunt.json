@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Prevent from growing or developing properly.",
+      "examples": [
+        "some weeds produce chemicals that stunt the plant's growth",
+        "the recovery of our industries is stunted by lack of funds"
+      ],
+      "synonyms": [
+        "small",
+        "little",
+        "tiny",
+        "undersized",
+        "undersize",
+        "diminutive",
+        "dwarf",
+        "dwarfish",
+        "pygmy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An action displaying spectacular skill and daring.",
+      "examples": [],
+      "synonyms": [
+        "feat",
+        "exploit",
+        "trick",
+        "antic",
+        "caper"
+      ]
+    }
+  ],
+  "origin": "Late 19th century (originally US college slang): of unknown origin.",
+  "pronounciation": "/stənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stunt_us_1.mp3"
+}

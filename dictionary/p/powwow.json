@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A North American Indian ceremony involving feasting, singing and dancing.",
+      "examples": []
+    },
+    {
+      "description": "A conference or meeting for discussion, especially among friends or colleagues.",
+      "examples": [],
+      "synonyms": [
+        "discussion",
+        "talk",
+        "chat",
+        "gossip",
+        "tête-à-tête",
+        "heart-to-heart",
+        "head-to-head",
+        "exchange",
+        "dialogue",
+        "parley",
+        "consultation",
+        "conference"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hold a powwow; confer.",
+      "examples": [
+        "news squads powwowed nervously"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Narragansett powah, powwaw magician (literally he dreams).",
+  "pronounciation": "/ˈpouˌwou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/powwow_us_1.mp3"
+}

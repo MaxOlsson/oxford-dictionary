@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The period between childhood and adult age.",
+      "examples": [
+        "he had been a keen sportsman in his youth"
+      ],
+      "synonyms": [
+        "early years",
+        "early life",
+        "young days",
+        "teens",
+        "teenage years",
+        "adolescence",
+        "young adulthood",
+        "boyhood",
+        "girlhood",
+        "childhood"
+      ]
+    },
+    {
+      "description": "A young man.",
+      "examples": [
+        "he was attacked by a gang of youths"
+      ],
+      "synonyms": [
+        "young man",
+        "boy",
+        "lad",
+        "youngster",
+        "juvenile",
+        "teenager",
+        "adolescent",
+        "junior",
+        "minor",
+        "young one"
+      ]
+    }
+  ],
+  "origin": "Old English geoguth, of Germanic origin; related to Dutch jeugd, German Jugend, also to young.",
+  "pronounciation": "/juːθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/youth_gb_1.mp3"
+}

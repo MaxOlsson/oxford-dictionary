@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Give work to (someone) and pay them for it.",
+      "examples": [
+        "the firm employs 150 people",
+        "temps can be employed to do much of the work"
+      ],
+      "synonyms": [
+        "hire",
+        "engage",
+        "recruit",
+        "take on",
+        "take into employment",
+        "secure the services of",
+        "sign up",
+        "sign",
+        "put on the payroll",
+        "enrol",
+        "appoint",
+        "commission",
+        "enlist"
+      ]
+    },
+    {
+      "description": "Make use of.",
+      "examples": [
+        "the methods they have employed to collect the data"
+      ],
+      "synonyms": [
+        "use",
+        "utilize",
+        "make use of",
+        "avail oneself of",
+        "put into service"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The state or fact of being employed for wages or a salary.",
+      "examples": [
+        "I started work in the employ of a grocer and wine merchant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (formerly also as imploy): from Old French employer, based on Latin implicari be involved in or attached to, passive form of implicare (see imply). In the 16th and 17th century the word also had the senses enfold, entangle and imply, derived directly from Latin; compare with implicate.",
+  "pronounciation": "/əmˈplɔɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/employ_us_1.mp3"
+}

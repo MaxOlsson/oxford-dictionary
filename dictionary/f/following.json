@@ -1,0 +1,60 @@
+{
+  "preposition": [
+    {
+      "description": "Coming after or as a result of.",
+      "examples": [
+        "police are hunting for two men following a spate of robberies in the area"
+      ],
+      "synonyms": [
+        "on account of",
+        "as a result of",
+        "as a consequence of",
+        "owing to",
+        "by reason of",
+        "on grounds of",
+        "by dint of",
+        "due to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A body of supporters or admirers.",
+      "examples": [
+        "he attracted a worldwide following"
+      ],
+      "synonyms": [
+        "body of support",
+        "backing",
+        "patronage"
+      ]
+    },
+    {
+      "description": "What follows or comes next.",
+      "examples": [
+        "the following are both grammatically correct sentences"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Next in time.",
+      "examples": [
+        "the following day there was a ceremony in St. Peter's Square"
+      ],
+      "synonyms": [
+        "next",
+        "ensuing",
+        "succeeding",
+        "subsequent",
+        "successive"
+      ]
+    },
+    {
+      "description": "(of a wind or sea) blowing or moving in the same direction as the course of a vehicle or vessel.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfɑloʊɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/following_us_1.mp3"
+}

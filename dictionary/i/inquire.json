@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Ask for information from someone.",
+      "examples": [
+        "“How well do you know Berlin?” he inquired of Hencke",
+        "I inquired where he lived",
+        "he inquired about cottages for sale"
+      ]
+    },
+    {
+      "description": "Investigate; look into.",
+      "examples": [
+        "the task of political sociology is to inquire into the causes of political events"
+      ]
+    }
+  ],
+  "origin": "Middle English enquere (later inquere), from Old French enquerre, from a variant of Latin inquirere, based on quaerere seek. The spelling with in-, influenced by Latin, dates from the 15th century.",
+  "pronounciation": "/ɪnˈkwaɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inquire_us_2.mp3"
+}

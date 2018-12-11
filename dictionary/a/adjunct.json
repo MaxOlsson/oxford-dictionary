@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A thing added to something else as a supplementary rather than an essential part.",
+      "examples": [
+        "computer technology is an adjunct to learning"
+      ],
+      "synonyms": [
+        "supplement",
+        "addition",
+        "accompaniment",
+        "complement",
+        "companion",
+        "extra",
+        "add-on",
+        "additive",
+        "accessory",
+        "appurtenance"
+      ]
+    },
+    {
+      "description": "A word or phrase used to amplify or modify the meaning of another word or words in a sentence.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Connected or added to something, typically in an auxiliary way.",
+      "examples": [
+        "other alternative or adjunct therapies include immunotherapy"
+      ],
+      "synonyms": [
+        "additional",
+        "supplementary",
+        "supplemental",
+        "extra",
+        "reserve",
+        "backup",
+        "emergency",
+        "fallback",
+        "spare",
+        "substitute",
+        "other"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (as an adjective meaning joined on, subordinate): from Latin adjunctus, past participle of adjungere (see adjoin).",
+  "pronounciation": "/ˈæˌdʒəŋkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/adjunct_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Express dissatisfaction or annoyance about something.",
+      "examples": [
+        "local authorities complained that they lacked sufficient resources",
+        "You never listen to me, Larry complained",
+        "we all complained bitterly about the food"
+      ],
+      "synonyms": [
+        "protest",
+        "grumble",
+        "moan",
+        "whine",
+        "bleat",
+        "carp",
+        "cavil",
+        "lodge a complaint",
+        "make a complaint",
+        "make a fuss"
+      ]
+    },
+    {
+      "description": "State that one is suffering from (a pain or other symptom of illness)",
+      "examples": [
+        "her husband began to complain of headaches"
+      ]
+    },
+    {
+      "description": "(of a structure or mechanism) groan or creak under strain.",
+      "examples": [],
+      "synonyms": [
+        "squeak",
+        "groan",
+        "grate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French complaindre, from medieval Latin complangere bewail, from Latin com- (expressing intensive force) + plangere to lament.",
+  "pronounciation": "/kəmˈpleɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/complain_us_1.mp3"
+}

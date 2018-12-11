@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "The nature of something's ingredients or constituents; the way in which a whole or mixture is made up.",
+      "examples": [
+        "the social composition of villages"
+      ],
+      "synonyms": [
+        "make-up",
+        "constitution",
+        "configuration",
+        "structure",
+        "construction",
+        "conformation",
+        "formation",
+        "form",
+        "framework",
+        "fabric",
+        "anatomy",
+        "arrangement",
+        "organization",
+        "format",
+        "layout"
+      ]
+    },
+    {
+      "description": "A work of music, literature, or art.",
+      "examples": [
+        "Chopin's most romantic compositions"
+      ],
+      "synonyms": [
+        "work of art",
+        "work",
+        "creation",
+        "artistic work",
+        "literary work",
+        "musical work",
+        "opus",
+        "oeuvre",
+        "piece",
+        "arrangement"
+      ]
+    },
+    {
+      "description": "The preparing of text for printing by setting up the characters in order.",
+      "examples": []
+    },
+    {
+      "description": "A legal agreement to pay an amount of money in lieu of a larger debt or other obligation.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin compositio(n-), from componere put together.",
+  "pronounciation": "/ˌkämpəˈziSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/composition_us_1.mp3"
+}

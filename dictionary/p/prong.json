@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "Each of two or more projecting pointed parts at the end of a fork.",
+      "examples": [],
+      "synonyms": [
+        "tine",
+        "point",
+        "tip",
+        "spike",
+        "projection"
+      ]
+    },
+    {
+      "description": "Each of the separate parts of an attack or operation.",
+      "examples": [
+        "the three main prongs of the new government's program"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pierce or stab with a fork.",
+      "examples": [
+        "pronging the bread with a fondue fork"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (denoting a forked implement): perhaps related to Middle Low German prange pinching instrument. The verb dates from the mid 19th century.",
+  "pronounciation": "/prôNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prong_us_1_rr.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adverb": [
+    {
+      "description": "In a confused, rushed, or disorderly manner.",
+      "examples": [
+        "the contents of the sacks were thrown pell-mell to the ground"
+      ],
+      "synonyms": [
+        "helter-skelter",
+        "headlong",
+        "full tilt",
+        "at full tilt",
+        "hotfoot",
+        "post-haste",
+        "hurriedly",
+        "hastily"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Recklessly hasty or disorganized; headlong.",
+      "examples": [
+        "steering the pell-mell development of Europe onto a new and more gradual course"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state of affairs or collection of things characterized by haste or confusion.",
+      "examples": [
+        "the pell-mell of ascending gables and roof tiles"
+      ],
+      "synonyms": [
+        "bedlam",
+        "mayhem",
+        "chaos",
+        "pandemonium",
+        "babel",
+        "uproar",
+        "turmoil",
+        "wild disarray",
+        "disorder",
+        "hurly-burly"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French pêle-mêle, from earlier pesle mesle, mesle pesle, reduplication from mesler to mix.",
+  "pronounciation": "/pelˈmel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pell_mell_1_us_1.mp3"
+}

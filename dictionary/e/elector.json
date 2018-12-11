@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A person who has the right to vote in an election.",
+      "examples": [],
+      "synonyms": [
+        "voter",
+        "member of the electorate",
+        "enfranchised person",
+        "constituent",
+        "member of a constituency",
+        "selector"
+      ]
+    },
+    {
+      "description": "A German prince entitled to take part in the election of the Holy Roman Emperor.",
+      "examples": [
+        "the Elector of Brandenburg"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈlektər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elector_us_1_rr.mp3"
+}

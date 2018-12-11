@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of hair) fair or pale yellow.",
+      "examples": [
+        "short-cropped blond hair",
+        "her hair was dyed blond"
+      ],
+      "synonyms": [
+        "fair",
+        "light",
+        "light-coloured",
+        "light-toned",
+        "yellow",
+        "flaxen",
+        "tow-coloured",
+        "strawberry blonde",
+        "yellowish",
+        "golden",
+        "silver",
+        "silvery",
+        "platinum",
+        "ash blonde"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with fair or pale yellow hair (typically used of a woman).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from French blond, blonde, from medieval Latin blundus yellow, perhaps from Germanic.",
+  "pronounciation": "/bländ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blond_us_1.mp3"
+}

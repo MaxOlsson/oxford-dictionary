@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Giving a feeling of comfort, warmth, and relaxation.",
+      "examples": [
+        "a cozy cabin tucked away in the trees"
+      ],
+      "synonyms": [
+        "snug",
+        "comfortable",
+        "warm",
+        "restful",
+        "homelike",
+        "homey",
+        "homely",
+        "cheerful",
+        "welcoming",
+        "pleasant",
+        "agreeable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft covering to keep a teapot, boiled egg, etc., hot.",
+      "examples": [
+        "a photograph of Smith pouring tea from a pot with a knitted cozy",
+        "mug cozies are simple to make"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give (someone) a feeling of comfort or complacency.",
+      "examples": [
+        "she cozied him, pretending to find him irresistibly attractive"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (originally Scots): of unknown origin.",
+  "pronounciation": "/ˈkōzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cozy_us_1.mp3"
+}

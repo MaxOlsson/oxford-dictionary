@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or carried on between states.",
+      "examples": [
+        "interstate travel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "One of a system of expressways covering the 48 contiguous states.",
+      "examples": [
+        "a picnic area just off the interstate",
+        "Interstate 65 runs generally parallel to Route 31"
+      ],
+      "synonyms": [
+        "street",
+        "road",
+        "roadway",
+        "avenue",
+        "boulevard",
+        "way"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪn(t)ərˌsteɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interstate_us_4.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Impressively beautiful, elaborate, or extravagant; striking.",
+      "examples": [
+        "a dramatic landscape of magnificent mountains",
+        "the interior layout is magnificent"
+      ],
+      "synonyms": [
+        "splendid",
+        "spectacular",
+        "impressive",
+        "striking",
+        "glorious",
+        "superb",
+        "majestic",
+        "awesome",
+        "awe-inspiring",
+        "breathtaking"
+      ]
+    },
+    {
+      "description": "Very good; excellent.",
+      "examples": [
+        "she paid tribute to their magnificent efforts"
+      ],
+      "synonyms": [
+        "admirable",
+        "fine",
+        "great",
+        "wonderful",
+        "notable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin magnificent- making great, based on magnus great.",
+  "pronounciation": "/maɡˈnifəsənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/magnificent_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Serving a useful purpose; tending to build up.",
+      "examples": [
+        "constructive criticism"
+      ],
+      "synonyms": [
+        "positive",
+        "useful",
+        "of use",
+        "helpful",
+        "encouraging"
+      ]
+    },
+    {
+      "description": "Derived by inference; implied by operation of law; not obvious or explicit.",
+      "examples": [
+        "constructive liability"
+      ]
+    },
+    {
+      "description": "Relating to, based on, or denoting mathematical proofs which show how an entity may in principle be constructed or arrived at in a finite number of steps.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (in constructive (sense 2)): from late Latin constructivus, from Latin construct- heap together, from the verb construere (see construct).",
+  "pronounciation": "/kənˈstrəktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstructive_us_1.mp3"
+}

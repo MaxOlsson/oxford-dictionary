@@ -1,0 +1,23 @@
+{
+  "exclamation": [
+    {
+      "description": "A word said by magicians when performing a magic trick.",
+      "examples": [],
+      "synonyms": [
+        "hocus-pocus",
+        "open sesame"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Language, typically in the form of gibberish, used to give the impression of arcane knowledge or power.",
+      "examples": [
+        "I get so fed up with all the mumbo jumbo and abracadabra"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (as a mystical word engraved and used as a charm to ward off illness): from Latin, first recorded in a 2nd-century poem by Q. Serenus Sammonicus, from a Greek base.",
+  "pronounciation": "/ˌabrəkəˈdabrə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abracadabra_us_1.mp3"
+}

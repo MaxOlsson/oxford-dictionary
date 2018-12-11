@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A woman who has lost her spouse by death and has not remarried.",
+      "examples": []
+    },
+    {
+      "description": "A last word or short last line of a paragraph falling at the top of a page or column and considered undesirable.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make into a widow or widower.",
+      "examples": [
+        "she had to care for her widowed mother"
+      ],
+      "synonyms": [
+        "unmarried",
+        "single",
+        "unwed",
+        "unwedded"
+      ]
+    }
+  ],
+  "origin": "Old English widewe, from an Indo-European root meaning be empty; compare with Sanskrit vidh be destitute, Latin viduus bereft, widowed, and Greek ēitheos unmarried man.",
+  "pronounciation": "/ˈwidō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/widow_us_2.mp3"
+}

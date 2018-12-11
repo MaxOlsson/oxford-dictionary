@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing holding a position or performing a function that corresponds to that of another person or thing in another place.",
+      "examples": [
+        "the minister held talks with his French counterpart"
+      ],
+      "synonyms": [
+        "equivalent",
+        "opposite number",
+        "peer",
+        "equal",
+        "parallel",
+        "complement",
+        "match",
+        "twin",
+        "mate",
+        "fellow",
+        "brother",
+        "sister",
+        "analogue",
+        "correlative"
+      ]
+    },
+    {
+      "description": "One of two or more copies of a legal document.",
+      "examples": [],
+      "synonyms": [
+        "copy",
+        "carbon copy",
+        "carbon",
+        "photocopy",
+        "facsimile",
+        "mimeo",
+        "mimeograph",
+        "reprint"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkaʊn(t)ərˌpɑrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterpart_us_1.mp3"
+}

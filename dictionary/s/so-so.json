@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Neither very good nor very bad.",
+      "examples": [
+        "a happy ending to a so-so season",
+        "“How are you?” “So-so.”"
+      ],
+      "synonyms": [
+        "mediocre",
+        "indifferent",
+        "average",
+        "middle-of-the-road",
+        "middling",
+        "medium",
+        "moderate",
+        "everyday",
+        "workaday",
+        "ordinary",
+        "tolerable",
+        "passable",
+        "adequate",
+        "fair"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsoʊ ˈˌsoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/so_so_1_us_1.mp3"
+}

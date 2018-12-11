@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Preferred before all others of the same kind.",
+      "examples": [
+        "their favorite Italian restaurant"
+      ],
+      "synonyms": [
+        "best-loved",
+        "most-liked",
+        "favoured",
+        "dearest",
+        "treasured",
+        "pet",
+        "special",
+        "closest to one's heart"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that is especially popular or particularly well liked by someone.",
+      "examples": [
+        "the song is still a favorite after 20 years"
+      ],
+      "synonyms": [
+        "first choice",
+        "choice",
+        "pick",
+        "preference",
+        "pet",
+        "beloved",
+        "darling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record the address of (a website or other data) to enable quick access in future.",
+      "examples": [
+        "you can see who else favorited the same pictures"
+      ]
+    }
+  ],
+  "phrases": [
+    "Green Bay's favorite son is equal parts laid-back and hot-blooded",
+    "His adopted hometown of Santa Barbara actually welcomed back its favorite son with a parade this afternoon.",
+    "I still get confused: was he Donegal's favourite son or was he from Cork?",
+    "He's the favorite son of the day, but he's not very exciting, is he?",
+    "Yes, the favourite son of American liberalism is back in the news."
+  ],
+  "origin": "Late 16th century (as a noun): from obsolete French favorit, from Italian favorito, past participle of favorire to favor, from Latin favor (see favor).",
+  "pronounciation": "/ˈfāv(ə)rət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/favorite_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A tube or pipe that is wide at the top and narrow at the bottom, used for guiding liquid or powder into a small opening.",
+      "examples": [],
+      "synonyms": [
+        "tube",
+        "pipe",
+        "channel",
+        "conduit"
+      ]
+    },
+    {
+      "description": "A metal chimney on a ship or steam engine.",
+      "examples": [],
+      "synonyms": [
+        "chimney",
+        "flue",
+        "vent",
+        "shaft"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Guide or channel (something) through or as if through a funnel.",
+      "examples": [
+        "some $12.8 billion was funneled through the Marshall Plan"
+      ],
+      "synonyms": [
+        "channel",
+        "guide",
+        "feed",
+        "direct",
+        "convey",
+        "move",
+        "pass"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: apparently via Old French from Provençal fonilh, from late Latin fundibulum, from Latin infundibulum, from infundere, from in- into + fundere pour.",
+  "pronounciation": "/ˈfənl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/funnel_us_1.mp3"
+}

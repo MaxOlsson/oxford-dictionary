@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the ancient region of Lydia in western Asia Minor or its inhabitants.",
+      "examples": [
+        "a Lydian girl who is an excellent weaver"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the ancient region of Lydia in western Asia Minor.",
+      "examples": [
+        "they were conquered in the sixth century by Lydians"
+      ]
+    },
+    {
+      "description": "The Anatolian language of the Lydians, of which some inscriptions and other texts have survived in a version of the Greek alphabet.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈlidēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lydian_1_us_1.mp3"
+}

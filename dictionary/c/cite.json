@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Quote (a passage, book, or author) as evidence for or justification of an argument or statement, especially in a scholarly work.",
+      "examples": [],
+      "synonyms": [
+        "quote",
+        "reproduce"
+      ]
+    },
+    {
+      "description": "Praise (someone, typically a member of the armed forces) for a courageous act in an official dispatch.",
+      "examples": [],
+      "synonyms": [
+        "commend",
+        "pay tribute to",
+        "praise",
+        "recognize",
+        "give recognition to"
+      ]
+    },
+    {
+      "description": "Summon (someone) to appear in a court of law.",
+      "examples": [
+        "the summons cited four of the defendants"
+      ],
+      "synonyms": [
+        "summon",
+        "summons",
+        "serve with a summons",
+        "subpoena",
+        "serve with a writ",
+        "call"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A citation.",
+      "examples": [],
+      "synonyms": [
+        "citation",
+        "quote",
+        "reference",
+        "mention",
+        "allusion",
+        "excerpt",
+        "extract",
+        "selection",
+        "passage",
+        "line",
+        "cutting",
+        "clip",
+        "clipping",
+        "snippet",
+        "reading",
+        "section",
+        "piece",
+        "part",
+        "fragment",
+        "portion",
+        "paragraph",
+        "verse",
+        "stanza",
+        "canto",
+        "sentence",
+        "phrase"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in cite (sense 3 of the verb), originally with reference to a court of ecclesiastical law): from Old French citer, from Latin citare, from ciere, cire to call.",
+  "pronounciation": "/sīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cite_us_1.mp3"
+}

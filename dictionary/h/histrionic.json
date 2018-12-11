@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Overly theatrical or melodramatic in character or style.",
+      "examples": [
+        "a histrionic outburst"
+      ],
+      "synonyms": [
+        "melodramatic",
+        "theatrical",
+        "affected",
+        "dramatic",
+        "exaggerated",
+        "actorly",
+        "actressy",
+        "stagy",
+        "showy",
+        "artificial",
+        "overacted",
+        "overdone",
+        "unnatural",
+        "mannered",
+        "stilted",
+        "unreal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Exaggerated dramatic behavior designed to attract attention.",
+      "examples": [
+        "discussions around the issue have been based as much in histrionics as in history"
+      ],
+      "synonyms": [
+        "dramatics",
+        "drama",
+        "theatrics",
+        "theatricality",
+        "tantrums"
+      ]
+    },
+    {
+      "description": "An actor.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (in the sense dramatically exaggerated, hypocritical): from late Latin histrionicus, from Latin histrio(n-) actor.",
+  "pronounciation": "/ˌhistrēˈänik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/histrionic_us_1.mp3"
+}

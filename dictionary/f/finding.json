@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The action of finding someone or something.",
+      "examples": [
+        "a local doctor reported the finding of numerous dead rats"
+      ],
+      "synonyms": [
+        "discovery",
+        "location",
+        "locating",
+        "detection",
+        "detecting",
+        "uncovering",
+        "unearthing"
+      ]
+    },
+    {
+      "description": "A conclusion reached as a result of an inquiry, investigation, or trial.",
+      "examples": [
+        "experimental findings"
+      ],
+      "synonyms": [
+        "conclusion",
+        "inference",
+        "supposition",
+        "hypothesis",
+        "thesis",
+        "assumption",
+        "presumption",
+        "suspicion",
+        "conviction",
+        "belief"
+      ]
+    },
+    {
+      "description": "Small articles or tools used in making garments, shoes, or jewelry.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfaɪndɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/finding_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Available or situated on a ship, aircraft, or other vehicle.",
+      "examples": []
+    },
+    {
+      "description": "Denoting or controlled from a facility or feature incorporated into the main circuit board of a computer or computerized device.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go through procedures to effectively integrate (a new employee) into an organization or familiarize (a new customer or client) with one's products or services.",
+      "examples": [
+        "this data has tremendous value in helping to onboard new hires and manage their performance",
+        "my focus has been restructuring how we do things when we onboard a client"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɑn ˈˌbɔ(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/on_board_1_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not melodious; discordant.",
+      "examples": [
+        "an unmelodious chorus of horns"
+      ],
+      "synonyms": [
+        "grating",
+        "jarring",
+        "grinding",
+        "rasping",
+        "raspy",
+        "strident",
+        "raucous",
+        "brassy",
+        "jangling",
+        "metallic",
+        "ear-piercing",
+        "discordant",
+        "dissonant",
+        "disagreeable",
+        "unharmonious",
+        "cacophonous"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnmɪˈləʊdɪəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmelodious_gb_1_8.mp3"
+}

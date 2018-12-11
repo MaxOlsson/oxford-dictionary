@@ -1,0 +1,115 @@
+{
+  "noun": [
+    {
+      "description": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "examples": [
+        "your support is of great value"
+      ],
+      "synonyms": [
+        "merit",
+        "worth",
+        "usefulness",
+        "use",
+        "utility",
+        "practicality",
+        "advantage",
+        "desirability",
+        "benefit",
+        "gain",
+        "profit",
+        "good",
+        "service",
+        "help",
+        "helpfulness",
+        "assistance",
+        "effectiveness",
+        "efficacy",
+        "avail",
+        "importance",
+        "significance",
+        "point",
+        "sense"
+      ]
+    },
+    {
+      "description": "A person's principles or standards of behavior; one's judgment of what is important in life.",
+      "examples": [
+        "they internalize their parents' rules and values"
+      ],
+      "synonyms": [
+        "principles",
+        "moral principles",
+        "ethics",
+        "moral code",
+        "morals",
+        "moral values",
+        "standards",
+        "moral standards",
+        "code of behaviour",
+        "rules of conduct",
+        "standards of behaviour"
+      ]
+    },
+    {
+      "description": "The numerical amount denoted by an algebraic term; a magnitude, quantity, or number.",
+      "examples": [
+        "the mean value of x",
+        "an accurate value for the mass of Venus"
+      ]
+    },
+    {
+      "description": "The relative duration of the sound signified by a note.",
+      "examples": []
+    },
+    {
+      "description": "The meaning of a word or other linguistic unit.",
+      "examples": []
+    },
+    {
+      "description": "The relative degree of lightness or darkness of a particular color.",
+      "examples": [
+        "the artist has used adjacent color values as the landscape recedes"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Estimate the monetary worth of (something)",
+      "examples": [
+        "his estate was valued at $45,000"
+      ],
+      "synonyms": [
+        "evaluate",
+        "assess",
+        "estimate",
+        "appraise",
+        "assay",
+        "rate",
+        "price",
+        "put a price on",
+        "set a price on",
+        "cost",
+        "cost out"
+      ]
+    },
+    {
+      "description": "Consider (someone or something) to be important or beneficial; have a high opinion of.",
+      "examples": [
+        "she had come to value her privacy and independence"
+      ],
+      "synonyms": [
+        "cherished",
+        "treasured",
+        "dear",
+        "prized",
+        "favourite",
+        "precious",
+        "worth its weight in gold",
+        "worth one's weight in gold"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, feminine past participle of valoir be worth, from Latin valere.",
+  "pronounciation": "/ˈvælju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/value_us_1.mp3"
+}

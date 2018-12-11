@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water.",
+      "examples": []
+    },
+    {
+      "description": "The evergreen shrub or small tree that produces tea leaves, native to South and eastern Asia and grown as a major cash crop.",
+      "examples": []
+    },
+    {
+      "description": "A light afternoon meal consisting typically of tea to drink, sandwiches, and cakes.",
+      "examples": [],
+      "synonyms": [
+        "meal",
+        "lunch",
+        "dinner",
+        "supper",
+        "repast"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: probably via Malay from Chinese ( Min dialect) te; related to Mandarin chá. Compare with char.",
+  "pronounciation": "/ti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tea_us_1.mp3"
+}

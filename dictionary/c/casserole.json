@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A kind of stew or side dish that is cooked slowly in an oven.",
+      "examples": [
+        "a chicken casserole"
+      ],
+      "synonyms": [
+        "casserole"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cook (food) slowly in a casserole.",
+      "examples": [
+        "casseroled chicken"
+      ],
+      "synonyms": [
+        "braise",
+        "casserole",
+        "fricassee",
+        "simmer",
+        "boil"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from French, diminutive of casse spoon-like container, from Old Provençal casa, from late Latin cattia ladle, pan, from Greek kuathion, diminutive of kuathos cup.",
+  "pronounciation": "/ˈkæsəˌroʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/casserole_us_1.mp3"
+}

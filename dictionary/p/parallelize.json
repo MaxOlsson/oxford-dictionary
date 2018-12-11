@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Adapt (a program) for running on a parallel processing system.",
+      "examples": [
+        "special software parallelizes C-based programs"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈparələlˌīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parallelize_us_1.mp3"
+}

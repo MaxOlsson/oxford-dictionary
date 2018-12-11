@@ -1,0 +1,44 @@
+{
+  "abbreviation": [
+    {
+      "description": "Part.",
+      "examples": [
+        "pt 1 of the Consumer Protection Act 1987"
+      ]
+    },
+    {
+      "description": "Payment.",
+      "examples": []
+    },
+    {
+      "description": "Pint; pints.",
+      "examples": []
+    },
+    {
+      "description": "Point.",
+      "examples": []
+    },
+    {
+      "description": "Point (as a unit of measurement)",
+      "examples": [
+        "12 pt type"
+      ]
+    },
+    {
+      "description": "(denoting a side of a ship or aircraft) port.",
+      "examples": []
+    },
+    {
+      "description": "Preterit.",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element platinum.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/piːˈtiː/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pt_1_us_1.mp3"
+}

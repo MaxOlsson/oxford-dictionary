@@ -1,0 +1,145 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) neat or of the required size or form by cutting away irregular or unwanted parts.",
+      "examples": [
+        "trim the grass using a sharp mower"
+      ],
+      "synonyms": [
+        "cut",
+        "barber",
+        "crop",
+        "bob",
+        "shorten",
+        "clip",
+        "snip",
+        "shear"
+      ]
+    },
+    {
+      "description": "Decorate (something), typically with contrasting items or pieces of material.",
+      "examples": [
+        "a pair of black leather gloves trimmed with fake fur"
+      ],
+      "synonyms": [
+        "decorate",
+        "adorn",
+        "ornament",
+        "embellish"
+      ]
+    },
+    {
+      "description": "Adjust (sails) to take best advantage of the wind.",
+      "examples": []
+    },
+    {
+      "description": "Get the better of (someone), typically by cheating them out of money.",
+      "examples": []
+    },
+    {
+      "description": "Rebuke (someone) angrily.",
+      "examples": [],
+      "synonyms": [
+        "rebuke",
+        "reprimand",
+        "reproach",
+        "reprove",
+        "admonish",
+        "remonstrate with",
+        "chastise",
+        "chide",
+        "upbraid",
+        "take to task",
+        "pull up",
+        "castigate",
+        "lambaste",
+        "read someone the riot act",
+        "give someone a piece of one's mind",
+        "go on at",
+        "haul over the coals",
+        "criticize",
+        "censure"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Additional decoration, typically along the edges of something and in contrasting color or material.",
+      "examples": [
+        "we painted the buildings off-white with a blue trim",
+        "suede sandals with gold trim"
+      ],
+      "synonyms": [
+        "decoration",
+        "trimming",
+        "ornamentation",
+        "adornment",
+        "embellishment"
+      ]
+    },
+    {
+      "description": "An act of cutting off part of something in order to neaten it.",
+      "examples": [
+        "his hair needs a trim"
+      ],
+      "synonyms": [
+        "haircut",
+        "cut",
+        "barbering",
+        "clip",
+        "snip"
+      ]
+    },
+    {
+      "description": "The state of being in good order or condition.",
+      "examples": [
+        "no one had been there for months—everything was out of trim"
+      ],
+      "synonyms": [
+        "shape",
+        "fitness",
+        "physical fitness",
+        "health",
+        "state of health"
+      ]
+    },
+    {
+      "description": "The degree to which an aircraft can be maintained at a constant altitude without any control forces being present.",
+      "examples": [
+        "the pilot's only problem was the need to constantly readjust the trim"
+      ]
+    },
+    {
+      "description": "The difference between a vessel's forward and after drafts, especially as it affects its navigability.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Neat and smart in appearance; in good order.",
+      "examples": [
+        "his face was freshly shaved, his clothes neat and trim",
+        "a trim little villa"
+      ],
+      "synonyms": [
+        "smart",
+        "stylish",
+        "chic",
+        "spruce",
+        "dapper",
+        "elegant",
+        "crisp"
+      ]
+    }
+  ],
+  "phrases": [
+    "Shepherd, older brother of former European super-featherweight title contender Charles, keeps in trim by running every day on the sands close to his Silloth home.",
+    "There was a graduated scale of different exercises, designed to keep the muscles in trim, as well as giving the heart a little exercise as well.",
+    "I am feeling very fit and have kept in trim by bowling and training with the Australian Academy over the past few weeks.",
+    "It's good mentally because you have to be alert the whole time and it's great physically because it really keeps your figure in trim.",
+    "Such a desire to get/keep in trim results in you doing active things: gardening; going for walks; joining a gym; buying a bike."
+  ],
+  "origin": "Old English trymman, trymian make firm, arrange, of which the adjective appears to be a derivative. The word's history is obscure; current verb senses date from the early 16th century when usage became frequent and served many purposes: this is possibly explained by spoken or dialect use in the Middle English period not recorded in extant literature.",
+  "pronounciation": "/trim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trim_us_1.mp3"
+}

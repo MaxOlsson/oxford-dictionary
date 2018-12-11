@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.",
+      "examples": [
+        "they danced and caroused until the drink ran out"
+      ],
+      "synonyms": [
+        "drink and make merry",
+        "go on a drinking bout",
+        "go on a binge",
+        "binge",
+        "binge-drink",
+        "overindulge",
+        "drink freely",
+        "drink heavily",
+        "go on a pub crawl",
+        "go on a spree"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A noisy, lively drinking party.",
+      "examples": [
+        "corporate carouses"
+      ],
+      "synonyms": [
+        "social gathering",
+        "gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée",
+        "social"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: originally as an adverb meaning right out, completely in the phrase drink carouse, from German gar aus trinken; hence drink heavily, have a drinking bout.",
+  "pronounciation": "/kəˈraʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/carouse_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "An official inspection of an individual's or organization's accounts, typically by an independent body.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Conduct an official financial examination of (an individual's or organization's accounts)",
+      "examples": [
+        "companies must have their accounts audited"
+      ],
+      "synonyms": [
+        "inspect",
+        "examine",
+        "survey",
+        "look over",
+        "go over",
+        "go through",
+        "scrutinize",
+        "probe",
+        "vet",
+        "investigate",
+        "look into",
+        "enquire into",
+        "check",
+        "check into",
+        "assess",
+        "appraise",
+        "evaluate",
+        "review",
+        "analyse",
+        "study",
+        "pore over",
+        "peruse",
+        "sift",
+        "dissect",
+        "go over with a fine-tooth comb",
+        "delve into",
+        "dig into"
+      ]
+    },
+    {
+      "description": "Attend (a class) informally, not for academic credit.",
+      "examples": [],
+      "synonyms": [
+        "attend",
+        "be present at",
+        "be an observer at",
+        "observe",
+        "watch"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin auditus hearing, from audire hear, in medieval Latin auditus (compoti) audit (of an account), an audit originally being presented orally.",
+  "pronounciation": "/ˈɔdət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/audit_us_1.mp3"
+}

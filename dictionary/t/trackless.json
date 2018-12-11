@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "(of land) having no paths or tracks on it.",
+      "examples": [
+        "leading travelers into trackless wastelands"
+      ],
+      "synonyms": [
+        "uninhabited",
+        "unpopulated",
+        "uncultivated",
+        "unfarmed",
+        "unmanaged",
+        "virgin"
+      ]
+    },
+    {
+      "description": "(of a vehicle or component) not running on a track or tracks.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtrakləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trackless_us_1.mp3"
+}

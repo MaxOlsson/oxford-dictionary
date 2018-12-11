@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Done, produced, or occurring every day or every weekday.",
+      "examples": [
+        "a daily newspaper",
+        "daily flights to Prague"
+      ],
+      "synonyms": [
+        "done every day",
+        "occurring every day",
+        "produced every day",
+        "everyday",
+        "day-to-day",
+        "quotidian"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Every day.",
+      "examples": [
+        "the museum is open daily"
+      ],
+      "synonyms": [
+        "every day",
+        "seven days a week"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A newspaper published every day except Sunday.",
+      "examples": [],
+      "synonyms": [
+        "periodical",
+        "publication",
+        "magazine",
+        "gazette",
+        "digest",
+        "professional organ",
+        "review",
+        "newsletter",
+        "news-sheet",
+        "bulletin"
+      ]
+    },
+    {
+      "description": "A woman who is employed to clean someone's house each day.",
+      "examples": [],
+      "synonyms": [
+        "attendant",
+        "retainer"
+      ]
+    },
+    {
+      "description": "The first prints from cinematographic takes, made rapidly for movie producers or editors; the rushes.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "It is true that people take their cues from what they see and experience in daily life.",
+    "Sharon grew up in an area where musicianship and song are integral facets of daily life.",
+    "Sometimes you step back from your routines of daily life and think about your life as a whole.",
+    "Gambling is a fundamental part of human nature - we all take risks in daily life.",
+    "It's more a story about problems within us and dealing with daily life in a city like this."
+  ],
+  "origin": "Late Middle English: from day + -ly, -ly.",
+  "pronounciation": "/ˈdeɪli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/daily_us_1.mp3"
+}

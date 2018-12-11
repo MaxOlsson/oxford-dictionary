@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A statement or theory that is put forward as a premise to be maintained or proved.",
+      "examples": [
+        "his central thesis is that psychological life is not part of the material world"
+      ],
+      "synonyms": [
+        "theory",
+        "contention",
+        "argument",
+        "line of argument",
+        "proposal",
+        "proposition",
+        "premise",
+        "assumption",
+        "presumption",
+        "hypothesis",
+        "postulation",
+        "surmise",
+        "supposition"
+      ]
+    },
+    {
+      "description": "A long essay or dissertation involving personal research, written by a candidate for a college degree.",
+      "examples": [
+        "a doctoral thesis"
+      ],
+      "synonyms": [
+        "dissertation",
+        "essay",
+        "paper",
+        "treatise",
+        "disquisition",
+        "composition",
+        "monograph",
+        "study",
+        "piece of writing"
+      ]
+    },
+    {
+      "description": "An unstressed syllable or part of a metrical foot in Greek or Latin verse.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in thesis (sense 3)): via late Latin from Greek, literally placing, a proposition, from the root of tithenai to place.",
+  "pronounciation": "/ˈTHēsis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thesis_us_1.mp3"
+}

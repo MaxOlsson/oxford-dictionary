@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Grind or chop (beans, grain, etc.) coarsely.",
+      "examples": [
+        "a high protein legume such as kibbled beans"
+      ],
+      "synonyms": [
+        "crush",
+        "pound",
+        "pulverize",
+        "mill",
+        "powder",
+        "granulate",
+        "grate",
+        "mince",
+        "shred",
+        "crumble",
+        "pestle",
+        "mash",
+        "smash",
+        "press",
+        "fragment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Ground meal shaped into pellets, especially for pet food.",
+      "examples": [
+        "a bowl of kibble"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Middle High German kübel, from medieval Latin cupellus corn measure, diminutive of cuppa cup.",
+  "pronounciation": "/ˈkɪbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kibble_us_1.mp3"
+}

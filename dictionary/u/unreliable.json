@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be relied upon.",
+      "examples": [
+        "he's lazy and unreliable",
+        "unreliable information"
+      ],
+      "synonyms": [
+        "undependable",
+        "untrustworthy",
+        "irresponsible",
+        "reckless",
+        "fickle",
+        "capricious",
+        "irregular",
+        "erratic",
+        "unpredictable",
+        "inconstant",
+        "mutable",
+        "faithless",
+        "untrue",
+        "flighty",
+        "slippery"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənrəˈlīəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unreliable_us_1.mp3"
+}

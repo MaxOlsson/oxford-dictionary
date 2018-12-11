@@ -1,0 +1,40 @@
+{
+  "": [],
+  "adjective": [
+    {
+      "description": "Situated at the greatest distance from a specified or understood point.",
+      "examples": [
+        "the farthest door led to a kitchen"
+      ],
+      "synonyms": [
+        "most distant",
+        "most remote",
+        "remotest",
+        "farthest away",
+        "furthest away",
+        "furthermost",
+        "farthermost"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At or by the greatest distance (used to indicate how far one thing or person is or becomes distant from another)",
+      "examples": [
+        "the bed farthest from the window"
+      ]
+    },
+    {
+      "description": "Over the greatest distance or area.",
+      "examples": [
+        "his group probably had farthest to ride"
+      ]
+    }
+  ],
+  "phrases": [
+    "the Allied line had been pushed forward, at the farthest, about one mile"
+  ],
+  "origin": "Late Middle English: formed as a superlative of further.",
+  "pronounciation": "/ˈfɑrðɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/farthest_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "pronoun": [
+    {
+      "description": "Every person.",
+      "examples": [
+        "everyone needs time to unwind",
+        "he knew everyone in the business"
+      ],
+      "synonyms": [
+        "everybody",
+        "every person",
+        "each person",
+        "each one",
+        "each and every one",
+        "all",
+        "one and all",
+        "all and sundry",
+        "the whole world",
+        "the world at large",
+        "the public",
+        "the general public",
+        "people everywhere"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈevrēˌwən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/everyone_us_1.mp3"
+}

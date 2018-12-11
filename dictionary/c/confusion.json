@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "Lack of understanding; uncertainty.",
+      "examples": [
+        "there seems to be some confusion about which system does what",
+        "he cleared up the confusion over the party's policy"
+      ],
+      "synonyms": [
+        "uncertainty",
+        "lack of certainty",
+        "unsureness",
+        "indecision",
+        "hesitation",
+        "hesitancy",
+        "scepticism",
+        "doubt",
+        "ignorance"
+      ]
+    },
+    {
+      "description": "The state of being bewildered or unclear in one's mind about something.",
+      "examples": [
+        "she looked about her in confusion"
+      ],
+      "synonyms": [
+        "bewilderment",
+        "bafflement",
+        "perplexity",
+        "puzzlement",
+        "mystification",
+        "stupefaction",
+        "disorientation",
+        "befuddlement",
+        "muddle"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin confusio(n-), from the verb confundere mingle together (see confuse).",
+  "pronounciation": "/kənˈfjuʒən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfusion_us_1.mp3"
+}

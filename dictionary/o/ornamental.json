@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Serving or intended as an ornament; decorative.",
+      "examples": [
+        "an ornamental fountain"
+      ],
+      "synonyms": [
+        "decorative",
+        "fancy",
+        "ornate",
+        "attractive",
+        "pretty",
+        "artistic",
+        "ornamented",
+        "showy",
+        "gingerbread",
+        "for show",
+        "non-functional"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A plant or tree grown for its attractive appearance.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌɔrnəˈmɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ornamental_us_1.mp3"
+}

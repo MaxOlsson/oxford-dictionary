@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a vehicle) not having gears or gearing.",
+      "examples": [],
+      "synonyms": [
+        "financially sound",
+        "able to pay one's debts",
+        "debt-free",
+        "not in debt",
+        "out of debt",
+        "in the black",
+        "in funds",
+        "in credit",
+        "creditworthy",
+        "of good financial standing",
+        "solid",
+        "secure",
+        "profit-making"
+      ]
+    },
+    {
+      "description": "(of a company or its balance sheet) having or showing no debt.",
+      "examples": [
+        "the balance sheet is almost ungeared"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈɡɪəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ungeared_gb_1.mp3"
+}

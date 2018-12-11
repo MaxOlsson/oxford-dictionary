@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Having a castle.",
+      "examples": [
+        "its castled hills and the air of romance"
+      ]
+    },
+    {
+      "description": "(of the king) moved from its original square two squares along the back rank toward the corner square of a rook, which has been transferred to the square passed over by the king.",
+      "examples": [
+        "an attack against a castled king is a very important part of the middle game"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkasəld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/castled_us_1.mp3"
+}

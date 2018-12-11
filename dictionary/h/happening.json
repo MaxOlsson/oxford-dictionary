@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "An event or occurrence.",
+      "examples": [
+        "altogether it was an eerie happening"
+      ],
+      "synonyms": [
+        "occurrence",
+        "event",
+        "incident",
+        "scene",
+        "affair",
+        "circumstance",
+        "phenomenon",
+        "episode",
+        "adventure",
+        "experience",
+        "occasion",
+        "action",
+        "activity",
+        "development",
+        "eventuality",
+        "accident",
+        "case",
+        "business",
+        "thing"
+      ]
+    },
+    {
+      "description": "A partly improvised or spontaneous piece of theatrical or other artistic performance, typically involving audience participation.",
+      "examples": [
+        "a multimedia happening"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Fashionable; trendy.",
+      "examples": [
+        "nightclubs for the young are the happening thing"
+      ],
+      "synonyms": [
+        "fashionable",
+        "modern",
+        "popular",
+        "new",
+        "latest",
+        "up to date",
+        "up to the minute",
+        "in fashion",
+        "in vogue"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhap(ə)niNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/happening_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A wheel with a grooved rim around which a cord passes. It acts to change the direction of a force applied to the cord and is chiefly used (typically in combination) to raise heavy weights.",
+      "examples": [],
+      "synonyms": [
+        "lifting gear",
+        "crane",
+        "winch",
+        "tackle",
+        "block and tackle",
+        "windlass",
+        "davit",
+        "derrick"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hoist with a pulley.",
+      "examples": [
+        "the tree house was built on the ground and pulleyed into the branches"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French polie, probably from a medieval Greek diminutive of polos pivot, axis.",
+  "pronounciation": "/ˈpʊli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pulley_us_1.mp3"
+}

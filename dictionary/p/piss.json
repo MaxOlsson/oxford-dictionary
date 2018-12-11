@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Urinate.",
+      "examples": [],
+      "synonyms": [
+        "pass water",
+        "go to the loo",
+        "go to the toilet",
+        "go to the lavatory",
+        "relieve oneself"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Urine.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French pisser, probably of imitative origin.",
+  "pronounciation": "/pis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/piss_us_1.mp3"
+}

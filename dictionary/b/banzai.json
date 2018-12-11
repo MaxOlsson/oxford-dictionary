@@ -1,0 +1,23 @@
+{
+  "exclamation": [
+    {
+      "description": "A Japanese battle cry.",
+      "examples": []
+    },
+    {
+      "description": "A form of greeting used to the Japanese emperor.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(especially of Japanese troops) attacking fiercely and recklessly.",
+      "examples": [
+        "a banzai charge"
+      ]
+    }
+  ],
+  "origin": "Japanese, literally ten thousand years (of life to you).",
+  "pronounciation": "/ˈbanzī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/banzai_us_1.mp3"
+}

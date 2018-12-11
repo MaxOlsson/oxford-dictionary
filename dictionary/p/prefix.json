@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A word, letter, or number placed before another.",
+      "examples": [
+        "add the prefix 83 to the extension number"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Add (something) at the beginning as a prefix or introduction.",
+      "examples": [
+        "a preface is prefixed to the book"
+      ],
+      "synonyms": [
+        "precede",
+        "introduce",
+        "begin",
+        "open",
+        "start",
+        "launch",
+        "lead up to",
+        "lead into"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a verb): from Old French prefixer, from Latin praefixus fixed in front, from the verb praefigere, from prae before + figere to fix. The noun is from modern Latin praefixum, neuter (used as a noun) of praefixus, and dates from the mid 17th century.",
+  "pronounciation": "/ˈprēˌfiks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prefix_us_1.mp3"
+}

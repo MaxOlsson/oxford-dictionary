@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Cause to feel completely exhausted; wear out.",
+      "examples": [
+        "a frazzled parent"
+      ],
+      "synonyms": [
+        "tired out",
+        "worn out",
+        "weary",
+        "dog-tired",
+        "bone-tired",
+        "bone-weary",
+        "ready to drop",
+        "on one's last legs",
+        "asleep on one's feet",
+        "drained",
+        "fatigued",
+        "enervated",
+        "debilitated",
+        "spent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The state of being completely exhausted or worn out.",
+      "examples": [
+        "I'm tired, worn to a frazzle"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: perhaps a blend of fray and obsolete fazle ravel out, of Germanic origin. The word was originally East Anglian dialect; it came into standard British English via the US.",
+  "pronounciation": "/ˈfræzəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frazzle_us_1.mp3"
+}

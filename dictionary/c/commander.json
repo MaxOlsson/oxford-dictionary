@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A person in authority, especially over a body of troops or a military operation.",
+      "examples": [
+        "the commander of a paratroop regiment"
+      ],
+      "synonyms": [
+        "leader",
+        "head",
+        "headman",
+        "boss",
+        "chief",
+        "director",
+        "manager",
+        "overseer",
+        "controller",
+        "master"
+      ]
+    },
+    {
+      "description": "A member of a higher class in some orders of knighthood.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French comandeor, from late Latin commandare (see command).",
+  "pronounciation": "/kəˈmændər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commander_us_1.mp3"
+}

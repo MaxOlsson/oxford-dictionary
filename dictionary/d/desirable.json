@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Wanted or wished for as being an attractive, useful, or necessary course of action.",
+      "examples": [
+        "it is desirable to exercise some social control over technology"
+      ],
+      "synonyms": [
+        "advantageous",
+        "advisable",
+        "wise",
+        "sensible",
+        "prudent",
+        "recommendable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A desirable person, thing, or quality.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French, suggested by Latin desiderabilis, from desiderare to desire (see desiderate).",
+  "pronounciation": "/dəˈzaɪrəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/desirable_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "Any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood toward the heart.",
+      "examples": []
+    },
+    {
+      "description": "A fracture in rock containing a deposit of minerals or ore and typically having an extensive course underground.",
+      "examples": [],
+      "synonyms": [
+        "layer",
+        "lode",
+        "seam",
+        "stratum",
+        "stratification",
+        "bed",
+        "deposit",
+        "accumulation"
+      ]
+    },
+    {
+      "description": "A distinctive quality, style, or tendency.",
+      "examples": [
+        "he closes his article in a somewhat humorous vein"
+      ],
+      "synonyms": [
+        "mood",
+        "humour",
+        "temper",
+        "temperament",
+        "disposition",
+        "frame of mind",
+        "state of mind",
+        "attitude",
+        "inclination",
+        "tendency",
+        "tenor",
+        "tone",
+        "key",
+        "spirit",
+        "character",
+        "stamp",
+        "feel",
+        "feeling",
+        "flavour",
+        "quality",
+        "atmosphere"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French veine, from Latin vena. The earliest senses were blood vessel and small natural underground channel of water.",
+  "pronounciation": "/veɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vein_us_1.mp3"
+}

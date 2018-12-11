@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.",
+      "examples": [
+        "an ascetic life of prayer, fasting, and manual labor",
+        "a narrow, humorless, ascetic face"
+      ],
+      "synonyms": [
+        "austere",
+        "self-denying",
+        "abstinent",
+        "abstemious",
+        "non-indulgent",
+        "self-disciplined",
+        "frugal",
+        "simple",
+        "rigorous",
+        "strict",
+        "severe",
+        "hair-shirt",
+        "spartan",
+        "monastic",
+        "monkish",
+        "nunlike"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who practices severe self-discipline and abstention.",
+      "examples": [],
+      "synonyms": [
+        "abstainer",
+        "recluse",
+        "hermit",
+        "solitary",
+        "anchorite",
+        "anchoress",
+        "desert saint",
+        "celibate",
+        "puritan",
+        "nun",
+        "monk"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin asceticus or Greek askētikos, from askētēs monk, from askein to exercise.",
+  "pronounciation": "/əˈsedik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ascetic_us_2.mp3"
+}

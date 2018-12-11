@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A person who believes in or tries to bring about anarchy.",
+      "examples": [],
+      "synonyms": [
+        "nihilist",
+        "insurgent",
+        "agitator",
+        "subversive",
+        "guerrilla",
+        "terrorist",
+        "bioterrorist",
+        "narcoterrorist",
+        "ecoterrorist",
+        "cyberterrorist",
+        "agroterrorist",
+        "freedom fighter",
+        "resistance fighter",
+        "rebel",
+        "revolutionary",
+        "revolutionist",
+        "bolshevik",
+        "mutineer"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or supporting anarchy or anarchists.",
+      "examples": [
+        "an anarchist newspaper"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Greek anarkhos without a chief (see anarchy) + -ist; later influenced by French anarchiste.",
+  "pronounciation": "/ˈænərkəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anarchist_us_1.mp3"
+}

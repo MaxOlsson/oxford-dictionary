@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the Goths or their extinct East Germanic language, which provides the earliest manuscript evidence of any Germanic language (4th–6th centuries AD).",
+      "examples": []
+    },
+    {
+      "description": "Of or in the style of architecture prevalent in western Europe in the 12th–16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery.",
+      "examples": []
+    },
+    {
+      "description": "Belonging to or redolent of the Dark Ages; portentously gloomy or horrifying.",
+      "examples": [
+        "19th-century Gothic horror"
+      ]
+    },
+    {
+      "description": "(of lettering) of or derived from the angular style of handwriting with broad vertical downstrokes used in western Europe from the 13th century, including Fraktur and black-letter typefaces.",
+      "examples": []
+    },
+    {
+      "description": "Relating to goths or their rock music.",
+      "examples": [],
+      "synonyms": [
+        "ornate",
+        "exotic",
+        "imaginative",
+        "creative",
+        "fancy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The language of the Goths.",
+      "examples": []
+    },
+    {
+      "description": "The Gothic style of architecture.",
+      "examples": []
+    },
+    {
+      "description": "Gothic type.",
+      "examples": []
+    }
+  ],
+  "origin": "From French gothique or late Latin gothicus, from Gothi (see Goth). It was used in the 17th and 18th centuries to mean not classical (i.e. not Greek or Roman), and hence to refer to medieval architecture which did not follow classical models ( Gothic (sense 2 of the adjective)) and a typeface based on medieval handwriting ( Gothic (sense 4 of the adjective)).",
+  "pronounciation": "/ˈɡɑθɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gothic_us_1.mp3"
+}

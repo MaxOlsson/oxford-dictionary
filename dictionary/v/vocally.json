@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "Using the voice.",
+      "examples": [
+        "the performers did not project vocally as well they might have done",
+        "females vocally interacted with their mates"
+      ]
+    },
+    {
+      "description": "In a way that relates to singing.",
+      "examples": [
+        "it's amazing how singers can be so vocally and musically disciplined"
+      ]
+    },
+    {
+      "description": "By expressing opinions or feelings freely or loudly.",
+      "examples": [
+        "he vocally opposed the war",
+        "Mary campaigned vocally for his release"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvōk(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vocally_us_1.mp3"
+}

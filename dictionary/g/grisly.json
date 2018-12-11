@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Causing horror or disgust.",
+      "examples": [
+        "the town was shaken by a series of grisly crimes"
+      ],
+      "synonyms": [
+        "gruesome",
+        "ghastly",
+        "frightful",
+        "horrid",
+        "horrifying",
+        "fearful",
+        "hideous",
+        "macabre",
+        "spine-chilling",
+        "horrible",
+        "horrendous",
+        "grim",
+        "awful",
+        "dire",
+        "dreadful",
+        "terrible",
+        "horrific"
+      ]
+    }
+  ],
+  "origin": "Old English grislic terrifying, of Germanic origin; related to Dutch griezelig.",
+  "pronounciation": "/ˈɡrɪzli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grisly_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Present and explain (a theory or idea) systematically and in detail.",
+      "examples": [
+        "he was expounding a powerful argument",
+        "he declined to expound on his decision"
+      ],
+      "synonyms": [
+        "present",
+        "put forward",
+        "set forth",
+        "proffer",
+        "offer",
+        "advance",
+        "propose",
+        "propound",
+        "frame",
+        "give an account of",
+        "recount"
+      ]
+    }
+  ],
+  "origin": "Middle English expoune (in the sense explain (what is difficult)): from Old French espon-, present tense stem of espondre, from Latin exponere expose, publish, explain, from ex- out + ponere put. The origin of the final -d (recorded from the Middle English period) is uncertain.",
+  "pronounciation": "/ikˈspound/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expound_us_1.mp3"
+}

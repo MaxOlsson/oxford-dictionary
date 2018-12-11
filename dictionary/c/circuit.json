@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A roughly circular line, route, or movement that starts and finishes at the same place.",
+      "examples": [
+        "I ran a circuit of the village"
+      ],
+      "synonyms": [
+        "lap",
+        "turn",
+        "tour",
+        "round",
+        "circle",
+        "orbit",
+        "revolution",
+        "loop"
+      ]
+    },
+    {
+      "description": "An established itinerary of events or venues used for a particular activity, typically involving public performance.",
+      "examples": [
+        "the alternative cabaret circuit"
+      ]
+    },
+    {
+      "description": "A complete and closed path around which a circulating electric current can flow.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move all the way around (a place or thing)",
+      "examples": [
+        "the trains will follow the Northern line, circuiting the capital"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin circuitus, from circuire, variant of circumire go round, from circum around + ire go.",
+  "pronounciation": "/ˈsərkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/circuit_us_1.mp3"
+}

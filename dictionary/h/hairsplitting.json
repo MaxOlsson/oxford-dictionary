@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or fond of small and overfine distinctions.",
+      "examples": [
+        "legal experts have a particularly hairsplitting mentality"
+      ],
+      "synonyms": [
+        "quibbling",
+        "fault-finding",
+        "niggling",
+        "cavilling",
+        "carping",
+        "captious",
+        "critical",
+        "criticizing",
+        "disapproving",
+        "censorious",
+        "judgemental",
+        "overcritical",
+        "hypercritical",
+        "pedantic",
+        "punctilious",
+        "pettifogging"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of making small and overfine distinctions; quibbling.",
+      "examples": [],
+      "synonyms": [
+        "dogmatism",
+        "purism",
+        "literalism",
+        "formalism"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈherˌsplidiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hairsplitting_us_1.mp3"
+}

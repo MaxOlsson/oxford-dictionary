@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Causing the contraction of body tissues, typically of the skin.",
+      "examples": [
+        "an astringent skin lotion"
+      ],
+      "synonyms": [
+        "constricting",
+        "contracting",
+        "constrictive",
+        "constringent",
+        "styptic"
+      ]
+    },
+    {
+      "description": "Sharp or severe in manner or style.",
+      "examples": [
+        "her astringent words had their effect"
+      ],
+      "synonyms": [
+        "severe",
+        "sharp",
+        "stern",
+        "harsh",
+        "rough",
+        "acerbic",
+        "austere",
+        "caustic",
+        "mordant",
+        "trenchant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance that causes the contraction of body tissues, typically used to protect the skin and to reduce bleeding from minor abrasions.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from French, from Latin astringent- pulling tight, from the verb astringere, from ad- towards + stringere bind, pull tight.",
+  "pronounciation": "/əˈstrɪndʒənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/astringent_us_1.mp3"
+}

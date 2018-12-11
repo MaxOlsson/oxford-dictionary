@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "The height of an object or point in relation to sea level or ground level.",
+      "examples": [
+        "flight data including airspeed and altitude",
+        "flying at altitudes over 15,000 feet"
+      ],
+      "synonyms": [
+        "height",
+        "elevation",
+        "distance above the ground",
+        "distance above the sea"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin altitudo, from altus high.",
+  "pronounciation": "/ˈæltəˌt(j)ud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/altitude_us_1.mp3"
+}

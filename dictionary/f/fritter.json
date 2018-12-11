@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Waste time, money, or energy on trifling matters.",
+      "examples": [
+        "I wish we hadn't frittered the money away so easily"
+      ],
+      "synonyms": [
+        "squander",
+        "waste",
+        "misuse",
+        "misspend",
+        "spend unwisely",
+        "throw away",
+        "dissipate",
+        "make poor use of"
+      ]
+    },
+    {
+      "description": "Divide (something) into small pieces.",
+      "examples": [
+        "they become frittered into minute tatters"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of fruit, vegetable, or meat that is coated in batter and deep-fried.",
+      "examples": [
+        "banana fritters"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French friture, based on Latin frigere (see fry). Compare with frittata.",
+  "pronounciation": "/ˈfridər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fritter_us_2.mp3"
+}

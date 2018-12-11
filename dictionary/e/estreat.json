@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Enforce the forfeit of (a surety for bail or other recognizance)",
+      "examples": [
+        "the Court may order the recognizance to be estreated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A copy of a court record for use in the enforcement of a fine or forfeiture of a recognizance.",
+      "examples": [
+        "new calendars were introduced to record estreats"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French estraite, feminine past participle of estraire, from Latin extrahere draw out (see extract).",
+  "pronounciation": "/əsˈtrit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/estreat_us_1.mp3"
+}

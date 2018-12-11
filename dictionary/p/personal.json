@@ -1,0 +1,62 @@
+{
+  "adjective": [
+    {
+      "description": "Of, affecting, or belonging to a particular person rather than to anyone else.",
+      "examples": [
+        "her personal fortune was recently estimated at $37 million"
+      ],
+      "synonyms": [
+        "distinctive",
+        "characteristic",
+        "unique",
+        "individual",
+        "one's own",
+        "particular",
+        "private",
+        "peculiar",
+        "exclusive",
+        "idiosyncratic",
+        "individualized",
+        "personalized"
+      ]
+    },
+    {
+      "description": "Of or concerning one's private life, relationships, and emotions rather than matters connected with one's public or professional career.",
+      "examples": [
+        "the book describes his acting career and gives little information about his personal life"
+      ],
+      "synonyms": [
+        "private",
+        "confidential",
+        "one's own business",
+        "intimate",
+        "secret"
+      ]
+    },
+    {
+      "description": "Relating to a person's body.",
+      "examples": [
+        "personal hygiene"
+      ]
+    },
+    {
+      "description": "Of or denoting one of the three persons.",
+      "examples": []
+    },
+    {
+      "description": "Existing as a self-aware entity, not as an abstraction or an impersonal force.",
+      "examples": [
+        "he rejected the notion of a personal God"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An advertisement or message in the personal column of a newspaper; personal ad.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin personalis of a person, from persona (see person).",
+  "pronounciation": "/ˈpərs(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/personal_us_1.mp3"
+}

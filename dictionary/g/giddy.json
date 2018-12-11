@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having a sensation of whirling and a tendency to fall or stagger; dizzy.",
+      "examples": [
+        "Luke felt almost giddy with relief",
+        "I felt giddy and had to steady myself"
+      ],
+      "synonyms": [
+        "dizzy",
+        "light-headed",
+        "faint",
+        "weak",
+        "weak at the knees",
+        "unsteady",
+        "shaky",
+        "wobbly",
+        "off balance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) feel excited to the point of disorientation.",
+      "examples": [
+        "the giddying speed of the revolving doors"
+      ]
+    }
+  ],
+  "origin": "Old English gidig insane, literally possessed by a god, from the base of God. Current senses date from late Middle English.",
+  "pronounciation": "/ˈɡidē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/giddy_us_1.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Cause physical pain or injury to.",
+      "examples": [
+        "Ow! You're hurting me!",
+        "does acupuncture hurt?"
+      ],
+      "synonyms": [
+        "injure",
+        "wound",
+        "damage",
+        "disable",
+        "incapacitate",
+        "impair",
+        "maim",
+        "mutilate",
+        "cause injury to",
+        "cause pain to"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Physically injured.",
+      "examples": [
+        "he complained of a hurt leg and asked his trainer to stop the fight",
+        "dogs and cats with hurt paws"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Physical injury; harm.",
+      "examples": [],
+      "synonyms": [
+        "harm",
+        "injury",
+        "wounding",
+        "pain",
+        "suffering",
+        "discomfort",
+        "soreness",
+        "aching",
+        "smarting",
+        "stinging",
+        "throbbing",
+        "pangs"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the senses to strike and a blow): from Old French hurter (verb), hurt (noun), perhaps ultimately of Germanic origin.",
+  "pronounciation": "/hərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hurt_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A factual written account of important or historical events in the order of their occurrence.",
+      "examples": [],
+      "synonyms": [
+        "record",
+        "written account",
+        "history",
+        "annals",
+        "archive",
+        "archives",
+        "register"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record (a related series of events) in a factual and detailed way.",
+      "examples": [
+        "his work chronicles 20th-century displacement and migration"
+      ],
+      "synonyms": [
+        "record",
+        "put on record",
+        "write down",
+        "set down",
+        "document",
+        "register",
+        "report",
+        "enter"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French cronicle, variant of Old French cronique, via Latin from Greek khronika annals, from khronikos (see chronic).",
+  "pronounciation": "/ˈkrɑnək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chronicle_us_1.mp3"
+}

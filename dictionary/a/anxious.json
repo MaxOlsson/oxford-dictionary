@@ -1,0 +1,68 @@
+{
+  "adjective": [
+    {
+      "description": "Experiencing worry, unease, or nervousness, typically about an imminent event or something with an uncertain outcome.",
+      "examples": [
+        "she was extremely anxious about her exams"
+      ],
+      "synonyms": [
+        "worried",
+        "concerned",
+        "apprehensive",
+        "fearful",
+        "uneasy",
+        "ill at ease",
+        "perturbed",
+        "troubled",
+        "disquieted",
+        "bothered",
+        "disturbed",
+        "distressed",
+        "fretful",
+        "fretting",
+        "agitated",
+        "in a state of agitation",
+        "nervous",
+        "in a state of nerves",
+        "edgy",
+        "on edge",
+        "tense",
+        "overwrought",
+        "worked up",
+        "keyed up",
+        "strung out",
+        "jumpy",
+        "afraid",
+        "worried sick",
+        "with one's stomach in knots",
+        "with one's heart in one's mouth",
+        "on pins and needles",
+        "stressed",
+        "under stress",
+        "in suspense",
+        "flurried"
+      ]
+    },
+    {
+      "description": "Wanting something very much, typically with a feeling of unease.",
+      "examples": [
+        "the company was anxious to avoid any trouble",
+        "my parents were anxious that I get an education"
+      ],
+      "synonyms": [
+        "eager",
+        "keen",
+        "desirous",
+        "impatient",
+        "itching",
+        "longing",
+        "yearning",
+        "aching",
+        "dying"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin anxius (from angere to choke) + -ous.",
+  "pronounciation": "/ˈaNG(k)SHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anxious_us_1.mp3"
+}

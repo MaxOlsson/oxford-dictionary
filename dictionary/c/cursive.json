@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Written with the characters joined.",
+      "examples": [
+        "cursive script"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Cursive writing.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: from medieval Latin cursivus, from Latin curs- run, from the verb currere.",
+  "pronounciation": "/ˈkərsiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cursive_us_1.mp3"
+}

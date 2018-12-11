@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Excessively bold.",
+      "examples": [],
+      "synonyms": [
+        "reckless",
+        "impetuous",
+        "impulsive",
+        "hasty",
+        "overhasty",
+        "foolhardy",
+        "incautious",
+        "precipitate",
+        "precipitous",
+        "premature",
+        "careless",
+        "heedless",
+        "thoughtless",
+        "imprudent",
+        "foolish",
+        "headstrong",
+        "adventurous",
+        "over-adventurous",
+        "hot-headed",
+        "daredevil",
+        "devil-may-care",
+        "audacious",
+        "indiscreet"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈboʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overbold_us_1.mp3"
+}

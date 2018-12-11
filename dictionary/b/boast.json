@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Talk with excessive pride and self-satisfaction about one's achievements, possessions, or abilities.",
+      "examples": [
+        "she boasted about her many conquests",
+        "he boasted that he had taken part in the crime",
+        "Ted used to boast, “I manage ten people”"
+      ],
+      "synonyms": [
+        "brag",
+        "crow",
+        "swagger",
+        "swank",
+        "gloat",
+        "show off",
+        "blow one's own trumpet",
+        "sing one's own praises",
+        "congratulate oneself",
+        "pat oneself on the back"
+      ]
+    },
+    {
+      "description": "(of a person, place, or thing) possess (a feature that is a source of pride)",
+      "examples": [
+        "the hotel boasts high standards of comfort"
+      ],
+      "synonyms": [
+        "possess",
+        "have",
+        "own",
+        "enjoy",
+        "pride itself on",
+        "pride oneself on",
+        "be the proud owner of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of talking with excessive pride and self-satisfaction.",
+      "examples": [
+        "I said I would score, and it wasn't an idle boast"
+      ],
+      "synonyms": [
+        "brag",
+        "self-praise"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: perhaps from French bosse denoting a rounded projection in the wall of a court for real tennis.",
+  "pronounciation": "/boʊst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boast_us_1.mp3"
+}

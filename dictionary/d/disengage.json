@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Separate or release (someone or something) from something to which they are attached or connected.",
+      "examples": [
+        "I disengaged his hand from mine",
+        "they clung together for a moment, then she disengaged herself"
+      ],
+      "synonyms": [
+        "remove",
+        "detach",
+        "disentangle",
+        "extricate",
+        "separate",
+        "release",
+        "loosen",
+        "loose",
+        "disconnect",
+        "unfasten",
+        "unclasp",
+        "uncouple",
+        "decouple",
+        "undo",
+        "unhook",
+        "unloose",
+        "unhitch",
+        "untie",
+        "unyoke",
+        "disentwine"
+      ]
+    },
+    {
+      "description": "Remove (troops) from an area of conflict.",
+      "examples": [
+        "the ceasefire gave the commanders a chance to disengage their forces",
+        "his true intent is to disengage from the messy conflict"
+      ],
+      "synonyms": [
+        "withdraw",
+        "leave",
+        "pull out of",
+        "move out of",
+        "quit",
+        "retreat from",
+        "retire from",
+        "delink from"
+      ]
+    },
+    {
+      "description": "Pass the point of one's sword over or under the opponent's sword to change the line of attack.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌdɪsənˈɡeɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disengage_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Drive or force (a liquid, especially a drug or vaccine) into a person or animal's body with a syringe or similar device.",
+      "examples": [
+        "the doctor injected a painkilling drug"
+      ],
+      "synonyms": [
+        "administer",
+        "introduce"
+      ]
+    },
+    {
+      "description": "Introduce (something) into a passage, cavity, or solid material under pressure.",
+      "examples": [
+        "inject the foam and allow it to expand"
+      ],
+      "synonyms": [
+        "insert",
+        "introduce",
+        "place",
+        "push",
+        "force",
+        "drive",
+        "shoot",
+        "feed"
+      ]
+    },
+    {
+      "description": "Introduce (a new or different element) into something, especially as a boost or interruption.",
+      "examples": [
+        "she tried to inject scorn into her tone"
+      ],
+      "synonyms": [
+        "introduce",
+        "instil",
+        "bring in",
+        "infuse",
+        "imbue",
+        "inculcate",
+        "breathe"
+      ]
+    },
+    {
+      "description": "Place (a spacecraft or other object) into an orbit or trajectory.",
+      "examples": [
+        "many meteoroids are injected into hyperbolic orbits"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense throw or cast on something): from Latin inject- thrown in, from the verb inicere, from in- into + jacere throw.",
+  "pronounciation": "/ɪnˈdʒɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inject_us_1.mp3"
+}

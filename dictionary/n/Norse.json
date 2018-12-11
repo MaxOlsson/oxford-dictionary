@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The Norwegian language, especially in its medieval form.",
+      "examples": []
+    },
+    {
+      "description": "Norwegians or Scandinavians, especially in medieval times.",
+      "examples": [
+        "he spent a lifetime fighting against the Norse"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to medieval Norway or Scandinavia, or their inhabitants or language.",
+      "examples": [
+        "Loki was the Norse god of evil",
+        "Norse settlements in Ireland",
+        "Keld is a Norse word meaning “a spring”"
+      ]
+    }
+  ],
+  "origin": "From Dutch noor(d)sch, from noord north; compare with Swedish, Danish, and Norwegian Norsk.",
+  "pronounciation": "/nɔrs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/norse_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Influenced or touched by an external factor.",
+      "examples": [
+        "apply moist heat to the affected area"
+      ]
+    },
+    {
+      "description": "Artificial, pretentious, and designed to impress.",
+      "examples": [
+        "the gesture appeared both affected and stagy"
+      ],
+      "synonyms": [
+        "pretentious",
+        "high-flown",
+        "ostentatious",
+        "pompous",
+        "grandiose",
+        "over-elaborate",
+        "overblown",
+        "overripe",
+        "overworked",
+        "overdone"
+      ]
+    },
+    {
+      "description": "Disposed or inclined in a specified way.",
+      "examples": [
+        "you might become differently affected toward him"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈfektəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affected_us_1.mp3"
+}

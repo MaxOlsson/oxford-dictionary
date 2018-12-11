@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "State a fact or belief confidently and forcefully.",
+      "examples": [
+        "the company asserts that the cuts will not affect development",
+        "he asserted his innocence",
+        "“I don't know why she came,” he asserted"
+      ],
+      "synonyms": [
+        "declare",
+        "maintain",
+        "contend",
+        "argue",
+        "state",
+        "claim",
+        "propound",
+        "submit",
+        "posit",
+        "postulate",
+        "adduce",
+        "move",
+        "advocate",
+        "venture",
+        "volunteer",
+        "aver",
+        "proclaim",
+        "announce",
+        "pronounce",
+        "attest",
+        "affirm",
+        "protest",
+        "profess",
+        "swear",
+        "insist",
+        "avow"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin asserere claim, affirm, from ad- to + serere to join.",
+  "pronounciation": "/əˈsərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assert_us_1.mp3"
+}

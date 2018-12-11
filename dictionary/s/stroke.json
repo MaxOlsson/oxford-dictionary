@@ -1,0 +1,122 @@
+{
+  "noun": [
+    {
+      "description": "An act of hitting or striking someone or something; a blow.",
+      "examples": [
+        "he received three strokes of the cane"
+      ],
+      "synonyms": [
+        "blow",
+        "hit",
+        "thump",
+        "thwack",
+        "punch",
+        "slap",
+        "smack",
+        "welt",
+        "cuff",
+        "box",
+        "knock",
+        "rap",
+        "buffet"
+      ]
+    },
+    {
+      "description": "A mark made by drawing a pen, pencil, or paintbrush in one direction across paper or canvas.",
+      "examples": [
+        "the paint had been applied in careful, regular strokes"
+      ],
+      "synonyms": [
+        "mark",
+        "line",
+        "slash",
+        "solidus",
+        "virgule"
+      ]
+    },
+    {
+      "description": "An act of moving one's hand across a surface with gentle pressure.",
+      "examples": [
+        "massage the cream into your skin using light upward strokes"
+      ],
+      "synonyms": [
+        "press",
+        "tap",
+        "pat",
+        "nudge",
+        "prod",
+        "poke",
+        "push",
+        "glance",
+        "flick"
+      ]
+    },
+    {
+      "description": "A movement, especially one of a series, in which something moves out of its position and back into it; a beat.",
+      "examples": [
+        "the ray swam with effortless strokes of its huge wings"
+      ],
+      "synonyms": [
+        "movement",
+        "action",
+        "motion",
+        "move"
+      ]
+    },
+    {
+      "description": "A sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis.",
+      "examples": [],
+      "synonyms": [
+        "thrombosis",
+        "embolism",
+        "cerebral vascular accident",
+        "cva",
+        "cerebral haemorrhage",
+        "ictus",
+        "seizure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move one's hand with gentle pressure over (a surface, especially hair, fur, or skin), typically repeatedly; caress.",
+      "examples": [
+        "he put his hand on her hair and stroked it"
+      ],
+      "synonyms": [
+        "caress",
+        "fondle",
+        "pat",
+        "pet",
+        "touch",
+        "brush",
+        "rub",
+        "massage",
+        "knead",
+        "soothe"
+      ]
+    },
+    {
+      "description": "Act as the stroke of (a boat or crew)",
+      "examples": [
+        "he stroked Penn's rowing eight to victory"
+      ]
+    },
+    {
+      "description": "Hit or kick (a ball) smoothly and deliberately.",
+      "examples": [
+        "Miller calmly stroked three-pointers throughout the tournament"
+      ]
+    }
+  ],
+  "phrases": [
+    "attitudes cannot be changed at one stroke",
+    "This more than doubled Artemis's size at a stroke, as well as giving it a much stronger marketing platform on which to build.",
+    "Local residents have been stunned by the plans, which would double the size of the local population at a stroke.",
+    "It was, in truth, a compromise, and the working arrangement suddenly threatens to come crashing down at a stroke.",
+    "That would do it, world peace at one stroke of the cheque book."
+  ],
+  "origin": "Old English strācian caress lightly, of Germanic origin; related to Dutch streek a stroke, German streichen to stroke, also to strike. The earliest noun sense blow is first recorded in Middle English.",
+  "pronounciation": "/strōk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stroke_us_1.mp3"
+}

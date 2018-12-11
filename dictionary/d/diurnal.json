@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of or during the day.",
+      "examples": [],
+      "synonyms": [
+        "active during the day",
+        "non-nocturnal"
+      ]
+    },
+    {
+      "description": "Daily; of each day.",
+      "examples": [
+        "diurnal rhythms"
+      ],
+      "synonyms": [
+        "daily",
+        "everyday",
+        "day-to-day",
+        "quotidian"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a term in astronomy): from late Latin diurnalis, from Latin diurnus daily, from dies day.",
+  "pronounciation": "/dīˈərnl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diurnal_us_1.mp3"
+}

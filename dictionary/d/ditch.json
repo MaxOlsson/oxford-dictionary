@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A narrow channel dug in the ground, typically used for drainage alongside a road or the edge of a field.",
+      "examples": [],
+      "synonyms": [
+        "trench",
+        "trough",
+        "channel",
+        "dyke",
+        "drain",
+        "gutter",
+        "gully",
+        "moat",
+        "duct",
+        "watercourse",
+        "conduit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide with ditches.",
+      "examples": [
+        "he was praised for ditching the coastal areas"
+      ],
+      "synonyms": [
+        "dig a ditch in",
+        "provide with ditches",
+        "trench",
+        "excavate",
+        "drain"
+      ]
+    },
+    {
+      "description": "Get rid of or give up.",
+      "examples": [
+        "plans for the road were ditched following a public inquiry",
+        "it crossed her mind to ditch her shoes and run"
+      ],
+      "synonyms": [
+        "throw out",
+        "throw away",
+        "discard",
+        "get rid of",
+        "dispose of",
+        "do away with",
+        "shed"
+      ]
+    },
+    {
+      "description": "Bring (an aircraft) down on water in an emergency.",
+      "examples": [
+        "he was picked up by a frigate after ditching his plane in the Mediterranean"
+      ]
+    }
+  ],
+  "origin": "Old English dīc, of Germanic origin; related to Dutch dijk ditch, dyke and German Teich pond, pool, also to dyke.",
+  "pronounciation": "/dɪtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ditch_us_1.mp3"
+}

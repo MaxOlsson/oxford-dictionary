@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A garment or other item that has been passed on from another person.",
+      "examples": [],
+      "synonyms": [
+        "second-hand",
+        "used",
+        "nearly new",
+        "handed-down",
+        "passed-on",
+        "cast-off",
+        "worn",
+        "old",
+        "pre-owned"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a garment or other item) passed on from another person.",
+      "examples": [
+        "he ran in the cold with no mittens and a hand-me-down coat"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhænd mi ˌdaʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hand_me_down_1_us_1.mp3"
+}

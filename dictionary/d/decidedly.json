@@ -1,0 +1,38 @@
+{
+  "adverb": [
+    {
+      "description": "Undoubtedly; undeniably.",
+      "examples": [
+        "he looked decidedly uncomfortable"
+      ],
+      "synonyms": [
+        "distinctly",
+        "clearly",
+        "markedly",
+        "obviously",
+        "noticeably",
+        "unmistakably",
+        "patently",
+        "manifestly",
+        "expressly",
+        "emphatically",
+        "definitely",
+        "certainly",
+        "positively",
+        "absolutely",
+        "downright",
+        "undeniably",
+        "unquestionably",
+        "indisputably"
+      ]
+    },
+    {
+      "description": "In a decisive and confident way.",
+      "examples": [
+        "“No,” Donna said decidedly"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈsaɪdədli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decidedly_us_1.mp3"
+}

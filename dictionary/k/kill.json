@@ -1,0 +1,111 @@
+{
+  "verb": [
+    {
+      "description": "Cause the death of (a person, animal, or other living thing)",
+      "examples": [
+        "her father was killed in a car crash",
+        "a robber armed with a shotgun who kills in cold blood"
+      ],
+      "synonyms": [
+        "murder",
+        "cause the death of",
+        "end the life of",
+        "take the life of",
+        "do away with",
+        "make away with",
+        "assassinate",
+        "do to death",
+        "eliminate",
+        "terminate",
+        "dispatch",
+        "finish off",
+        "put to death",
+        "execute"
+      ]
+    },
+    {
+      "description": "Put an end to or cause the failure or defeat of (something)",
+      "examples": [
+        "the committee voted to kill the project"
+      ],
+      "synonyms": [
+        "destroy",
+        "put an end to",
+        "bring to an end",
+        "be the end of",
+        "end",
+        "extinguish",
+        "dash",
+        "quell",
+        "quash",
+        "ruin",
+        "wreck",
+        "shatter",
+        "smash",
+        "crush",
+        "scotch"
+      ]
+    },
+    {
+      "description": "Overwhelm (someone) with an emotion.",
+      "examples": [
+        "the suspense is killing me"
+      ],
+      "synonyms": [
+        "overwhelm",
+        "take someone's breath away",
+        "leave speechless",
+        "shake",
+        "move",
+        "stir",
+        "stun",
+        "amaze",
+        "astonish",
+        "stagger",
+        "dumbfound"
+      ]
+    },
+    {
+      "description": "Pass (time, or a specified amount of it), typically while waiting for a particular event.",
+      "examples": [
+        "when he reached the station he found he actually had an hour to kill"
+      ],
+      "synonyms": [
+        "while away",
+        "use up",
+        "fill up",
+        "fill in",
+        "fill",
+        "occupy",
+        "beguile",
+        "pass",
+        "spend",
+        "expend"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of killing, especially of one animal by another.",
+      "examples": [
+        "a lion has made a kill"
+      ],
+      "synonyms": [
+        "death blow",
+        "killing",
+        "act of killing",
+        "dispatch"
+      ]
+    }
+  ],
+  "phrases": [
+    "He's courageous, fast, tireless and certainly not squeamish about being in at the kill.",
+    "In that event, it seems quite possible the French jackal will be in at the kill as well.",
+    "One side of politics finds a hint of weakness in the other side and goes in for the kill.",
+    "As Watson went in for the kill, a desperate Eubank caught him with a right hand and took the ascendancy.",
+    "Like the bloodhounds they are, they must have sniffed the overpowering scent of money mixed with a human rights issue, and went in for the kill."
+  ],
+  "origin": "Mid 17th century: from Dutch kil, from Middle Dutch kille riverbed, channel.",
+  "pronounciation": "/kil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kill_us_1.mp3"
+}

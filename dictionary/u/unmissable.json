@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "So good that it should not be missed.",
+      "examples": [
+        "the special effects make this an unmissable treat"
+      ]
+    },
+    {
+      "description": "So clear or obvious that it cannot be missed.",
+      "examples": [],
+      "synonyms": [
+        "obvious",
+        "conspicuous",
+        "plain to see",
+        "unmistakable",
+        "obtrusive",
+        "striking",
+        "flagrant",
+        "blatant",
+        "staring someone in the face",
+        "as plain as a pikestaff",
+        "as plain as day",
+        "inescapable",
+        "outrageous",
+        "gross"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmisəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmissable_us_1.mp3"
+}

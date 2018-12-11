@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Covered with fur.",
+      "examples": [
+        "furry creatures in fields"
+      ],
+      "synonyms": [
+        "covered with fur",
+        "hairy",
+        "long-haired",
+        "downy",
+        "fleecy",
+        "soft",
+        "fluffy",
+        "fuzzy",
+        "woolly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An enthusiast for animal characters with human characteristics, in particular a person who dresses up in costume as such a character or uses one as an avatar online.",
+      "examples": [
+        "a growing community of furries",
+        "the furry fandom"
+      ]
+    },
+    {
+      "description": "A small fur-covered animal, typically a rodent.",
+      "examples": [
+        "the cats get more cuddles and the small furries get extra treats too"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfəri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/furry_us_1.mp3"
+}

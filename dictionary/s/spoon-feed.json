@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Feed (someone) by using a spoon.",
+      "examples": [
+        "he is spoon-feeding the chimpanzee as one might feed a baby"
+      ],
+      "synonyms": [
+        "pamper",
+        "spoil",
+        "overindulge",
+        "coddle",
+        "mollycoddle",
+        "cosset",
+        "nanny",
+        "nursemaid",
+        "mother",
+        "baby",
+        "pet",
+        "feather-bed",
+        "wrap in cotton wool",
+        "overparent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspo͞onˌfēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spoon_feed_1_us_1.mp3"
+}

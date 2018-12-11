@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "So shocked or surprised as to be unable to speak.",
+      "examples": [
+        "he was dumbstruck with terror"
+      ],
+      "synonyms": [
+        "amazed",
+        "filled with astonishment",
+        "filled with amazement",
+        "astounded",
+        "staggered",
+        "surprised",
+        "startled",
+        "stunned",
+        "thunderstruck",
+        "aghast",
+        "taken aback",
+        "confounded",
+        "dumbfounded",
+        "stupefied",
+        "dazed",
+        "nonplussed",
+        "open-mouthed",
+        "agape",
+        "lost for words",
+        "wide-eyed",
+        "awed",
+        "filled with awe",
+        "filled with wonder",
+        "awestruck",
+        "wonderstruck"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdəmˌstrək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dumbstruck_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Make a bleating sound.",
+      "examples": [],
+      "synonyms": [
+        "baa",
+        "maa",
+        "cry",
+        "call"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bleat or similar noise.",
+      "examples": [
+        "the blat of Jack's horn"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: imitative.",
+  "pronounciation": "/blat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blat_us_1.mp3"
+}

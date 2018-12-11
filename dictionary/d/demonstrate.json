@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed)",
+      "examples": [
+        "computerized design methods will be demonstrated",
+        "he demonstrated how to make his favorite hotdog"
+      ],
+      "synonyms": [
+        "give a demonstration of",
+        "show how something is done",
+        "show how something works"
+      ]
+    },
+    {
+      "description": "Clearly show the existence or truth of (something) by giving proof or evidence.",
+      "examples": [
+        "their shameful silence demonstrates their ineptitude"
+      ],
+      "synonyms": [
+        "reveal",
+        "bespeak",
+        "indicate",
+        "signify",
+        "signal",
+        "denote",
+        "show",
+        "display",
+        "exhibit",
+        "express",
+        "manifest",
+        "evince",
+        "evidence",
+        "be evidence of",
+        "be an indication of",
+        "bear witness to",
+        "testify to"
+      ]
+    },
+    {
+      "description": "Take part in a public demonstration.",
+      "examples": [
+        "thousands demonstrated in favor of the government"
+      ],
+      "synonyms": [
+        "protest",
+        "rally",
+        "hold a rally",
+        "march",
+        "parade"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense point out): from Latin demonstrat- pointed out, from the verb demonstrare.",
+  "pronounciation": "/ˈdɛmənˌstreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demonstrate_us_1.mp3"
+}

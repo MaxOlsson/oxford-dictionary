@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing no emotion or intensity.",
+      "examples": [
+        "a flat, unimpassioned voice"
+      ],
+      "synonyms": [
+        "apathetic",
+        "passive",
+        "unenthusiastic",
+        "lifeless",
+        "listless",
+        "lacking in vitality",
+        "weak",
+        "feeble",
+        "spineless",
+        "droopy",
+        "limp",
+        "languid",
+        "bloodless",
+        "insipid",
+        "characterless",
+        "submissive",
+        "meek",
+        "irresolute",
+        "indecisive"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnɪmˈpaʃ(ə)nd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unimpassioned_gb_1_8.mp3"
+}

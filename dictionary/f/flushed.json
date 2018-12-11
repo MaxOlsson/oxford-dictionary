@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's skin) red and hot, typically as the result of illness or strong emotion.",
+      "examples": [
+        "her flushed cheeks"
+      ]
+    },
+    {
+      "description": "(of a person) excited or elated by something.",
+      "examples": [
+        "flushed with success, I was getting into my stride"
+      ],
+      "synonyms": [
+        "elated",
+        "thrilled",
+        "exhilarated",
+        "happy",
+        "delighted",
+        "overjoyed",
+        "joyous",
+        "gleeful",
+        "excited",
+        "animated",
+        "jubilant",
+        "exultant",
+        "ecstatic",
+        "euphoric",
+        "rapturous",
+        "in raptures",
+        "enraptured",
+        "intoxicated",
+        "beside oneself",
+        "transported",
+        "carried away",
+        "impassioned",
+        "in a frenzy",
+        "delirious",
+        "hysterical",
+        "wild",
+        "frenzied"
+      ]
+    }
+  ],
+  "pronounciation": "/fləʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flushed_us_1.mp3"
+}

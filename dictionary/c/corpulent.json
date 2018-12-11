@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) fat.",
+      "examples": [
+        "a short, somewhat corpulent man"
+      ],
+      "synonyms": [
+        "fat",
+        "fattish",
+        "obese",
+        "overweight",
+        "plump",
+        "portly",
+        "stout",
+        "chubby",
+        "paunchy",
+        "beer-bellied",
+        "thickset",
+        "hefty",
+        "heavy",
+        "heavyset",
+        "burly",
+        "bulky",
+        "chunky",
+        "well padded",
+        "well covered",
+        "well upholstered",
+        "meaty",
+        "fleshy",
+        "rotund",
+        "round",
+        "well rounded",
+        "broad",
+        "broad in the beam",
+        "of ample proportions",
+        "big",
+        "large",
+        "gargantuan",
+        "elephantine"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin corpulentus, from corpus body.",
+  "pronounciation": "/ˈkɔrpjələnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corpulent_us_1.mp3"
+}

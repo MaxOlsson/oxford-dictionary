@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A short curved tube for a swimmer to breathe through while keeping the face under water.",
+      "examples": []
+    },
+    {
+      "description": "A type of hydraulically elevated platform for firefighting.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Swim using a snorkel.",
+      "examples": [
+        "the sea is incredibly clear, which is ideal for snorkeling",
+        "snorkel around the unspoiled coral reefs"
+      ],
+      "synonyms": [
+        "bathe",
+        "go swimming",
+        "take a dip",
+        "dip",
+        "splash around"
+      ]
+    }
+  ],
+  "origin": "1940s: from German Schnorchel.",
+  "pronounciation": "/ˈsnôrk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snorkel_us_1.mp3"
+}

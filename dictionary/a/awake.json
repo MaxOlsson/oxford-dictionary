@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Stop sleeping; wake from sleep.",
+      "examples": [
+        "she awoke to find the streets covered in snow"
+      ],
+      "synonyms": [
+        "wake",
+        "wake up",
+        "awaken",
+        "stir",
+        "come to",
+        "come round",
+        "bestir oneself",
+        "show signs of life",
+        "return to the land of the living"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not asleep.",
+      "examples": [
+        "the noise might keep you awake at night"
+      ],
+      "synonyms": [
+        "wakeful",
+        "sleepless",
+        "wide awake",
+        "conscious"
+      ]
+    }
+  ],
+  "origin": "Old English āwæcnan, āwacian, both used in the sense come out of sleep (see a-, wake).",
+  "pronounciation": "/əˈwāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awake_us_1.mp3"
+}

@@ -1,0 +1,88 @@
+{
+  "noun": [
+    {
+      "description": "The action of delivering letters, packages, or ordered goods.",
+      "examples": [
+        "allow up to 28 days for delivery",
+        "there will be around 15 deliveries a week"
+      ],
+      "synonyms": [
+        "conveyance",
+        "carriage",
+        "transportation",
+        "transporting",
+        "transport",
+        "distribution"
+      ]
+    },
+    {
+      "description": "The process of giving birth.",
+      "examples": [
+        "injuries sustained during delivery",
+        "practically all deliveries take place in a hospital",
+        "the delivery room"
+      ],
+      "synonyms": [
+        "birth",
+        "childbirth"
+      ]
+    },
+    {
+      "description": "An act of throwing or bowling a ball or striking a blow.",
+      "examples": [
+        "a quick, compact delivery that sent the ball zinging"
+      ],
+      "synonyms": [
+        "ball bowled",
+        "throw",
+        "bowl",
+        "lob",
+        "pitch"
+      ]
+    },
+    {
+      "description": "The manner or style of giving a speech.",
+      "examples": [
+        "her delivery was stilted"
+      ],
+      "synonyms": [
+        "manner of speaking",
+        "speech",
+        "pronunciation",
+        "enunciation",
+        "articulation",
+        "intonation",
+        "elocution"
+      ]
+    },
+    {
+      "description": "The supply or provision of something.",
+      "examples": [
+        "delivery of electricity at a specified price"
+      ],
+      "synonyms": [
+        "supplying",
+        "supply",
+        "providing",
+        "purveying",
+        "furnishing",
+        "equipping",
+        "giving",
+        "donation",
+        "allocation",
+        "distribution",
+        "presentation"
+      ]
+    }
+  ],
+  "phrases": [
+    "we took delivery of the software in February",
+    "He was presented with the jacket at a ceremony as other members of the team took delivery of 28 new gas-powered water flotation devices.",
+    "He said that at the present time every family in Ireland was taking delivery of two small orange boxes.",
+    "Members of the parish council heard that the chamber of trade took delivery of 5,000 discs in October and was told that due to budget restrictions this would be the last batch.",
+    "He will also be taking delivery of rather large amounts of a local product."
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French delivree, feminine past participle of delivrer (see deliver).",
+  "pronounciation": "/dəˈlɪv(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delivery_us_1.mp3"
+}

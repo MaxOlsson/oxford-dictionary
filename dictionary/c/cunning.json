@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing skill in achieving one's ends by deceit or evasion.",
+      "examples": [
+        "a cunning look came into his eyes"
+      ],
+      "synonyms": [
+        "crafty",
+        "wily",
+        "artful",
+        "guileful",
+        "devious",
+        "sly",
+        "knowing",
+        "scheming",
+        "designing",
+        "tricky",
+        "slippery",
+        "slick",
+        "manipulative",
+        "machiavellian",
+        "deceitful",
+        "deceptive",
+        "duplicitous",
+        "janus-faced"
+      ]
+    },
+    {
+      "description": "Attractive or quaint.",
+      "examples": [
+        "the baby will look cunning in that pink print"
+      ],
+      "synonyms": [
+        "picturesque",
+        "charming",
+        "sweet",
+        "attractive",
+        "pleasantly old-fashioned",
+        "old-fashioned",
+        "old-world",
+        "toytown"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Skill in achieving one's ends by deceit.",
+      "examples": [
+        "a statesman to whom cunning had come as second nature"
+      ],
+      "synonyms": [
+        "guile",
+        "craftiness",
+        "wiliness",
+        "artfulness",
+        "deviousness",
+        "slyness",
+        "trickery",
+        "trickiness",
+        "duplicity",
+        "deceitfulness",
+        "deceit",
+        "chicanery"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps from Old Norse kunnandi knowledge, from kunna know (related to can), or perhaps from Middle English cunne, an obsolete variant of can. The original sense was (possessing) erudition or skill and had no implication of deceit; the sense deceitfulness dates from late Middle English.",
+  "pronounciation": "/ˈkənɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cunning_us_1.mp3"
+}

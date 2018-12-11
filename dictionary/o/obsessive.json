@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Of the nature of an obsession.",
+      "examples": [
+        "people dogged by obsessive jealousy"
+      ],
+      "synonyms": [
+        "all-consuming",
+        "consuming",
+        "compulsive",
+        "dominating",
+        "controlling",
+        "obsessional",
+        "addictive",
+        "fanatical",
+        "fanatic",
+        "neurotic",
+        "excessive",
+        "besetting",
+        "gripping",
+        "haunting",
+        "tormenting",
+        "inescapable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is affected by an obsession.",
+      "examples": [
+        "an online store for garage-rock obsessives"
+      ]
+    }
+  ],
+  "pronounciation": "/əbˈsesiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/obsessive_us_1.mp3"
+}

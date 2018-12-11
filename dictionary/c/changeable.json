@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Irregular; inconstant.",
+      "examples": [
+        "the weather will be changeable with rain at times"
+      ],
+      "synonyms": [
+        "variable",
+        "inconstant",
+        "varying",
+        "changing",
+        "shifting",
+        "fluctuating",
+        "irregular",
+        "erratic",
+        "wavering",
+        "vacillating",
+        "inconsistent",
+        "fluid",
+        "floating",
+        "unsteady",
+        "unfixed",
+        "uneven",
+        "unstable",
+        "unsettled",
+        "turbulent",
+        "movable",
+        "mutable",
+        "chameleon-like"
+      ]
+    },
+    {
+      "description": "Able to change or be changed.",
+      "examples": [],
+      "synonyms": [
+        "alterable",
+        "adjustable",
+        "modifiable",
+        "variable",
+        "convertible",
+        "mutable",
+        "permutable",
+        "exchangeable",
+        "interchangeable",
+        "replaceable",
+        "transposable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHānjəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/changeable_us_1.mp3"
+}

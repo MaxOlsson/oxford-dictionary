@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.",
+      "examples": [
+        "we all need several glasses of fluid a day",
+        "a cleaning fluid"
+      ],
+      "synonyms": [
+        "flowing substance"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a substance) able to flow easily.",
+      "examples": [
+        "the paint is more fluid than tube watercolors",
+        "a fluid medium"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): from French fluide or Latin fluidus, from fluere to flow.",
+  "pronounciation": "/ˈfluɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fluid_us_1.mp3"
+}

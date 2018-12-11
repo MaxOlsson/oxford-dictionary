@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "Cautious and surreptitious action or movement.",
+      "examples": [
+        "the silence and stealth of a hungry cat",
+        "why did you slip away by stealth like this?"
+      ],
+      "synonyms": [
+        "furtiveness",
+        "secretiveness",
+        "secrecy",
+        "surreptitiousness",
+        "sneakiness",
+        "slyness",
+        "covertness",
+        "stealthiness",
+        "clandestineness"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(chiefly of aircraft) designed in accordance with technology that makes detection by radar or sonar difficult.",
+      "examples": [
+        "a stealth bomber"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense theft): probably representing an Old English word related to steal, + -th.",
+  "pronounciation": "/stelTH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stealth_us_1.mp3"
+}

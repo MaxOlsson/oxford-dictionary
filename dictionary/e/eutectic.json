@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting a mixture of substances (in fixed proportions) that melts and solidifies at a single temperature that is lower than the melting points of the separate constituents or of any other mixture of them.",
+      "examples": [
+        "the eutectic mixture melts at 183°C",
+        "silver and copper form a eutectic system"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A eutectic mixture.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century: from Greek eutēktos easily melting, from eu well, easily + tēkein melt.",
+  "pronounciation": "/juˈtɛktɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eutectic_us_1.mp3"
+}

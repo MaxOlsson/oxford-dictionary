@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Of considerable importance, size, or worth.",
+      "examples": [
+        "a substantial amount of cash"
+      ],
+      "synonyms": [
+        "considerable",
+        "real",
+        "material",
+        "weighty",
+        "solid",
+        "sizeable",
+        "meaningful",
+        "significant",
+        "important",
+        "notable",
+        "major",
+        "marked",
+        "valuable",
+        "useful",
+        "worthwhile"
+      ]
+    },
+    {
+      "description": "Concerning the essentials of something.",
+      "examples": [
+        "there was substantial agreement on changing policies"
+      ],
+      "synonyms": [
+        "fundamental",
+        "essential",
+        "basic"
+      ]
+    },
+    {
+      "description": "Real and tangible rather than imaginary.",
+      "examples": [
+        "spirits are shadowy, human beings substantial"
+      ],
+      "synonyms": [
+        "real",
+        "true",
+        "actual",
+        "existing"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French substantiel or Christian Latin substantialis, from substantia being, essence (see substance).",
+  "pronounciation": "/səbˈstæn(t)ʃəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/substantial_us_1.mp3"
+}

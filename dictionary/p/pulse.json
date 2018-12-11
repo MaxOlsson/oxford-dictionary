@@ -1,0 +1,83 @@
+{
+  "noun": [
+    {
+      "description": "A rhythmical throbbing of the arteries as blood is propelled through them, typically as felt in the wrists or neck.",
+      "examples": [
+        "the doctor found a faint pulse",
+        "the idea was enough to set my pulse racing"
+      ],
+      "synonyms": [
+        "heartbeat",
+        "pulsation",
+        "pulsing",
+        "throb",
+        "throbbing",
+        "vibration",
+        "pounding",
+        "thudding",
+        "thud",
+        "thumping",
+        "thump",
+        "drumming"
+      ]
+    },
+    {
+      "description": "A single vibration or short burst of sound, electric current, light, or other wave.",
+      "examples": [
+        "a pulse generator",
+        "radio pulses"
+      ],
+      "synonyms": [
+        "burst",
+        "blast",
+        "spurt",
+        "eruption",
+        "impulse",
+        "surge"
+      ]
+    },
+    {
+      "description": "The central point of energy and organization in an area or activity.",
+      "examples": [
+        "those close to the financial and economic pulse maintain that there have been fundamental changes"
+      ]
+    },
+    {
+      "description": "A measured amount of an isotopic label given to a culture of cells.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Throb rhythmically; pulsate.",
+      "examples": [
+        "a knot of muscles at the side of his jaw pulsed"
+      ],
+      "synonyms": [
+        "throb",
+        "pulsate",
+        "vibrate",
+        "palpitate",
+        "beat",
+        "pound",
+        "thud",
+        "thump",
+        "hammer",
+        "drum",
+        "thrum",
+        "oscillate",
+        "reverberate"
+      ]
+    }
+  ],
+  "phrases": [
+    "a nurse came in and took his pulse",
+    "Or if you feel the pulse of this person, it is not pulsating.",
+    "he hopped around the country to visit stores and take the pulse of consumers",
+    "I was hoping to get a feel for the flow of the votes, to take the pulse of the beating heart that is the life force of American Democracy.",
+    "This is a dark, complex, layered film that takes the pulse of modern marriage and finds it racing both with misdirected lust and barely stifled anger."
+  ],
+  "origin": "Middle English: from Old French pols, from Latin puls porridge of meal or pulse; related to pollen.",
+  "pronounciation": "/pəls/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pulse_us_1.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Jump or dive quickly and energetically.",
+      "examples": [
+        "our daughters whooped as they plunged into the sea"
+      ],
+      "synonyms": [
+        "jump",
+        "dive",
+        "hurl oneself",
+        "throw oneself",
+        "fling oneself",
+        "launch oneself",
+        "catapult oneself",
+        "cast oneself",
+        "pitch oneself"
+      ]
+    },
+    {
+      "description": "Push or thrust quickly.",
+      "examples": [
+        "he plunged his hands into his pockets"
+      ],
+      "synonyms": [
+        "thrust",
+        "stick",
+        "ram",
+        "drive",
+        "jab",
+        "stab",
+        "push",
+        "shove",
+        "force",
+        "sink"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of jumping or diving into water.",
+      "examples": [
+        "we went straight from the sauna to take a cold plunge"
+      ],
+      "synonyms": [
+        "jump",
+        "dive"
+      ]
+    }
+  ],
+  "phrases": [
+    "I put it off two years in a row - because it would take too much time away from golf, or so I said - and then last spring I finally took the plunge.",
+    "For a number of years, Anne cooked at the restaurant in the heritage centre but last year took the plunge and opened her own restaurant and delicatessen.",
+    "But before you take the plunge, make sure you're ready to commit for the long haul.",
+    "There was a lot of positive feed back on the course from all the participants with at least two taking the plunge to sell at markets as a result of the training.",
+    "He's been practising for five years and is finally taking the plunge and starting a course in Sheffield before beginning his circus act."
+  ],
+  "origin": "Late Middle English: from Old French plungier thrust down, based on Latin plumbum lead, plummet.",
+  "pronounciation": "/plənj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plunge_us_1.mp3"
+}

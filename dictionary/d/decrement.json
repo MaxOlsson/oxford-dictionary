@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A reduction or diminution.",
+      "examples": [
+        "relaxation produces a decrement in sympathetic nervous activity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause a discrete reduction in (a numerical quantity)",
+      "examples": [
+        "the instruction decrements the accumulator by one"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as a noun): from Latin decrementum diminution, from the stem of decrescere to decrease.",
+  "pronounciation": "/ˈdɛkrəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decrement_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A person making a humble plea to someone in power or authority.",
+      "examples": [],
+      "synonyms": [
+        "petitioner",
+        "pleader",
+        "beseecher",
+        "supplicant",
+        "beggar",
+        "appellant",
+        "suitor",
+        "applicant",
+        "claimant"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Making or expressing a plea, especially to someone in power or authority.",
+      "examples": [
+        "their faces were suppliant"
+      ],
+      "synonyms": [
+        "pleading",
+        "begging",
+        "beseeching",
+        "imploring",
+        "entreating",
+        "supplicating",
+        "craving",
+        "on bended knee"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from French, beseeching, present participle of supplier, from Latin supplicare (see supplicate).",
+  "pronounciation": "/ˈsəplēənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suppliant_us_1.mp3"
+}

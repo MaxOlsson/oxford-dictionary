@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Connected with weeping or tears.",
+      "examples": []
+    },
+    {
+      "description": "Concerned with the secretion of tears.",
+      "examples": [
+        "lacrimal cells"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small bone forming part of the eye socket.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in lachrymal (sense 2 of the adjective)): from medieval Latin lachrymalis, from Latin lacrima tear.",
+  "pronounciation": "/ˈlækrəməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lachrymal_us_2.mp3"
+}

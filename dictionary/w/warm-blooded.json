@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting animals (chiefly mammals and birds) which maintain a constant body temperature, typically above that of the surroundings, by metabolic means; homeothermic.",
+      "examples": [
+        "some theories suggest that the dinosaurs were warm-blooded"
+      ],
+      "synonyms": [
+        "homeothermic",
+        "homeothermal"
+      ]
+    },
+    {
+      "description": "Ardent; passionate.",
+      "examples": [
+        "the warm-blooded sailor who sets out to win a girl"
+      ],
+      "synonyms": [
+        "passionate",
+        "ardent",
+        "red-blooded",
+        "hot-blooded",
+        "fervid",
+        "impetuous",
+        "emotional",
+        "intense",
+        "lively",
+        "spirited",
+        "fiery",
+        "tempestuous",
+        "hot",
+        "sultry",
+        "torrid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌwôrm ˈblədəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/warm_blooded_1_us_1.mp3"
+}

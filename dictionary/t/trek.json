@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A long arduous journey, especially one made on foot.",
+      "examples": [
+        "a trek to the South Pole"
+      ],
+      "synonyms": [
+        "journey",
+        "trip",
+        "expedition",
+        "safari",
+        "odyssey"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go on a long arduous journey, typically on foot.",
+      "examples": [
+        "we trekked through the jungle"
+      ],
+      "synonyms": [
+        "hike",
+        "tramp",
+        "march",
+        "slog",
+        "footslog",
+        "trudge",
+        "traipse",
+        "walk"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from South African Dutch trek (noun), trekken (verb) pull, travel.",
+  "pronounciation": "/trek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trek_us_1.mp3"
+}

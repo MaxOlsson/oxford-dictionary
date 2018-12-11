@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Walk in a leisurely way.",
+      "examples": [
+        "I strolled around the city"
+      ],
+      "synonyms": [
+        "saunter",
+        "amble",
+        "wander",
+        "meander",
+        "ramble",
+        "dawdle",
+        "promenade",
+        "walk",
+        "go for a walk",
+        "take a walk",
+        "roam",
+        "traipse",
+        "stretch one's legs",
+        "get some exercise",
+        "get some air",
+        "take the air"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short leisurely walk.",
+      "examples": [],
+      "synonyms": [
+        "saunter",
+        "amble",
+        "wander",
+        "walk",
+        "turn",
+        "promenade",
+        "airing",
+        "breather"
+      ]
+    },
+    {
+      "description": "A victory or objective that is easily achieved.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (in the sense roam as a vagrant): probably from German strollen, strolchen, from Strolch vagabond, of unknown ultimate origin.",
+  "pronounciation": "/stroʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stroll_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A student or trainee who works, sometimes without pay, at a trade or occupation in order to gain work experience.",
+      "examples": [],
+      "synonyms": [
+        "trainee",
+        "apprentice",
+        "probationer",
+        "student",
+        "novice",
+        "learner",
+        "beginner"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Confine (someone) as a prisoner, especially for political or military reasons.",
+      "examples": [
+        "the family were interned for the duration of the war as enemy aliens"
+      ],
+      "synonyms": [
+        "imprison",
+        "incarcerate",
+        "impound",
+        "jail",
+        "put in jail",
+        "put behind bars",
+        "detain",
+        "take into custody",
+        "hold in custody",
+        "hold captive",
+        "hold",
+        "lock up",
+        "keep under lock and key",
+        "confine"
+      ]
+    },
+    {
+      "description": "Serve as an intern.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century (as an adjective in the sense internal): from French interne (adjective), interner (verb), from Latin internus inward, internal. Current senses date from the 19th century.",
+  "pronounciation": "/ˈinˌtərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intern_us_2.mp3"
+}

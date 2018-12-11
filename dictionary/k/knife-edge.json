@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The edge of a knife.",
+      "examples": [],
+      "synonyms": [
+        "thrilling",
+        "exhilarating",
+        "stirring",
+        "rousing",
+        "stimulating",
+        "intoxicating",
+        "electrifying",
+        "invigorating",
+        "moving",
+        "inspiring"
+      ]
+    },
+    {
+      "description": "A very tense or dangerous situation.",
+      "examples": [
+        "worried investors could be living on a knife-edge for the next twelve months"
+      ],
+      "synonyms": [
+        "tense",
+        "charged",
+        "highly charged",
+        "overwrought"
+      ]
+    },
+    {
+      "description": "A sharp mountain ridge; an arête.",
+      "examples": []
+    },
+    {
+      "description": "A steel wedge on which a pendulum or other device oscillates or is balanced.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈnʌɪfɛdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knife_edge_1_gb_1.mp3"
+}

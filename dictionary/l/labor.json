@@ -1,0 +1,114 @@
+{
+  "noun": [
+    {
+      "description": "Work, especially hard physical work.",
+      "examples": [
+        "the price of repairs includes labor and parts",
+        "manual labor"
+      ],
+      "synonyms": [
+        "task",
+        "job",
+        "chore",
+        "undertaking",
+        "mission",
+        "commission",
+        "assignment"
+      ]
+    },
+    {
+      "description": "(in the UK or Canada) the Labour Party.",
+      "examples": []
+    },
+    {
+      "description": "The process of childbirth, especially the period from the start of uterine contractions to delivery.",
+      "examples": [
+        "his wife is in labor"
+      ],
+      "synonyms": [
+        "childbirth",
+        "birth",
+        "birthing",
+        "delivery",
+        "nativity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work hard; make great effort.",
+      "examples": [
+        "they labored from dawn to dusk",
+        "she was patiently laboring over her sketchbooks"
+      ],
+      "synonyms": [
+        "work",
+        "work hard",
+        "toil",
+        "slave",
+        "slave away",
+        "grub away",
+        "plod away",
+        "grind away",
+        "sweat away",
+        "struggle",
+        "strive",
+        "exert oneself",
+        "overwork",
+        "work one's fingers to the bone",
+        "work like a dog",
+        "work like a slave",
+        "work like a trojan",
+        "keep one's nose to the grindstone"
+      ]
+    },
+    {
+      "description": "Have difficulty in doing something despite working hard.",
+      "examples": [
+        "Coley labored against confident opponents"
+      ],
+      "synonyms": [
+        "strive",
+        "struggle",
+        "endeavour",
+        "work",
+        "try hard",
+        "make every effort",
+        "do one's best",
+        "do one's utmost",
+        "do all one can",
+        "give one's all",
+        "give it one's all",
+        "give something one's all",
+        "go all out",
+        "fight",
+        "push",
+        "be at pains",
+        "put oneself out",
+        "apply oneself",
+        "exert oneself"
+      ]
+    },
+    {
+      "description": "(of a woman in childbirth) be in labor.",
+      "examples": [
+        "she labored very well and comfortably because she was relaxed"
+      ]
+    }
+  ],
+  "phrases": [
+    "It was a labour of love, and he liked to keep his mind busy.",
+    "Ian, a former factory worker, said: It took me a while but it's a labour of love really.",
+    "Yes, some sites are probably close enough to labours of love, created by people who have genuine day jobs who don't appear to be too interested in branching out on their own.",
+    "These and the other films scheduled have all been labours of love.",
+    "They are labours of love with a strong sense of purpose.",
+    "you've been laboring under a misapprehension",
+    "I think they are laboring under the belief that the state has put up everything they've got to show, that Amber's the icing on the cake.",
+    "He hoped they were laboring under that belief because there was something he had to get before he could leave town.",
+    "Chances are you've been laboring under the misguided belief that you're an artist.",
+    "Many individuals labor under the mistaken assumption that they already know a great deal about film, television, and the other mass media simply because they view and use them all the time."
+  ],
+  "origin": "Middle English: from Old French labour (noun), labourer (verb), both from Latin labor toil, trouble.",
+  "pronounciation": "/ˈlābər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/labor_us_2.mp3"
+}

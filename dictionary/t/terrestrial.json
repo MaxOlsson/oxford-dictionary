@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Of, on, or relating to the earth.",
+      "examples": [
+        "increased ultraviolet radiation may disrupt terrestrial ecosystems"
+      ],
+      "synonyms": [
+        "earthly",
+        "worldly",
+        "mundane",
+        "earthbound"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inhabitant of the earth.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense temporal, worldly, mundane): from Latin terrestris (from terra earth) + -al.",
+  "pronounciation": "/təˈrɛstriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terrestrial_us_1.mp3"
+}

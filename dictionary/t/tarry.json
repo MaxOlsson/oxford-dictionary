@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Of, like, or covered with tar.",
+      "examples": [
+        "a length of tarry rope"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Stay longer than intended; delay leaving a place.",
+      "examples": [
+        "she could tarry a bit and not get home until four"
+      ],
+      "synonyms": [
+        "wait around",
+        "stay",
+        "remain",
+        "stay put",
+        "wait"
+      ]
+    }
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/ˈtɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tarry_us_1.mp3"
+}

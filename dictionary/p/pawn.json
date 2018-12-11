@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A chess piece of the smallest size and value. A pawn moves one square forward along its file if unobstructed (or two on the first move), or one square diagonally forward when making a capture. Each player begins with eight pawns on the second rank, and can promote a pawn to become any other piece (typically a queen) if it reaches the opponent's end of the board.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deposit (an object) with a pawnbroker as security for money lent.",
+      "examples": [
+        "I pawned the necklace to cover the loan"
+      ],
+      "synonyms": [
+        "pledge",
+        "deposit with a pawnbroker",
+        "put in pawn",
+        "give as security",
+        "put up as collateral",
+        "put up as security",
+        "use as collateral",
+        "mortgage"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun): from Old French pan pledge, security, of West Germanic origin; related to Dutch pand and German Pfand.",
+  "phrases": [
+    "all our money was gone and everything was in pawn",
+    "A forty-dollar shovel will net you less than six bucks in pawn.",
+    "Unfortunately, his guitar is in pawn down at the local hock shop because he can't pay his bills on time.",
+    "She can't afford to pay off the money all at once and must leave her things in pawn.",
+    "newly industrialized economies are racing to pawn off old processes on poorer countries",
+    "You don't have the inclination or technical wits to employ the older machine as part of a home network, nor a young kid to pawn it off on.",
+    "It's beyond me why they even make such insubstantial little hook and wire gizmos and pawn them off as security devices.",
+    "Instead, they pawn it off on the Province's tightfistedness.",
+    "People could've died, and they'd just pawn it off as a tragic accident."
+  ],
+  "pronounciation": "/pɔn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pawn_us_1.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "A group of players forming one side in a competitive game or sport.",
+      "examples": [],
+      "synonyms": [
+        "group",
+        "squad",
+        "side",
+        "band",
+        "bunch",
+        "company",
+        "party",
+        "gang",
+        "selection",
+        "crew",
+        "troupe",
+        "set",
+        "line-up",
+        "array"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Come together as a team to achieve a common goal.",
+      "examples": [
+        "he teamed up with the band to produce the album"
+      ],
+      "synonyms": [
+        "join",
+        "join up",
+        "join forces",
+        "collaborate",
+        "get together",
+        "come together",
+        "band together",
+        "work together"
+      ]
+    },
+    {
+      "description": "Match or coordinate a garment with (another)",
+      "examples": [
+        "a pinstripe suit teamed with a crisp white shirt"
+      ],
+      "synonyms": [
+        "match",
+        "coordinate",
+        "complement",
+        "pair up"
+      ]
+    },
+    {
+      "description": "Harness (animals, especially horses) together to pull a vehicle.",
+      "examples": [
+        "the horses are teamed in pairs"
+      ],
+      "synonyms": [
+        "harness",
+        "yoke",
+        "saddle",
+        "bridle",
+        "hitch up",
+        "couple"
+      ]
+    }
+  ],
+  "phrases": [
+    "I took one for the team by naming myself the designated driver",
+    "Sometimes you have to take one for the team, especially when your team is the Human Race.",
+    "Someday soon I hope we won't have to make that kind of choice, but for now, in the interest of improving visibility for women overall, we should be more than willing to take this one for the team.",
+    "There is a balance between striking out as an individual and taking one for the team.",
+    "If public workers are willing to take one for the team, so to speak, they'll garner considerably more goodwill."
+  ],
+  "origin": "Old English tēam team of draft animals, of Germanic origin; related to German Zaum bridle, also to teem and tow, from an Indo-European root shared by Latin ducere to lead.",
+  "pronounciation": "/tim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/team_us_1.mp3"
+}

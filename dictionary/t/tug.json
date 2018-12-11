@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Pull (something) hard or suddenly.",
+      "examples": [
+        "she tugged off her boots",
+        "he tugged at Tom's coat sleeve"
+      ],
+      "synonyms": [
+        "pull",
+        "pluck"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hard or sudden pull.",
+      "examples": [
+        "another tug and it came loose",
+        "an overwhelming tug of attraction"
+      ],
+      "synonyms": [
+        "pull",
+        "jerk",
+        "wrench",
+        "heave"
+      ]
+    },
+    {
+      "description": "A loop from a horse's saddle which supports a shaft or trace.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from the base of tow. The noun is first recorded ( late Middle English) in tug (sense 3 of the noun).",
+  "pronounciation": "/təɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tug_us_1.mp3"
+}

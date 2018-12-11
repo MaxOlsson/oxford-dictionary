@@ -1,0 +1,82 @@
+{
+  "verb": [
+    {
+      "description": "Put (things) in a neat, attractive, or required order.",
+      "examples": [
+        "she had just finished arranging the flowers",
+        "the columns are arranged in 12 rows"
+      ],
+      "synonyms": [
+        "put in order",
+        "order",
+        "set out",
+        "lay out",
+        "spread out",
+        "array",
+        "present",
+        "put out",
+        "display",
+        "exhibit",
+        "group",
+        "sort",
+        "organize",
+        "tidy",
+        "position",
+        "dispose"
+      ]
+    },
+    {
+      "description": "Organize or make plans for (a future event)",
+      "examples": [
+        "they hoped to arrange a meeting",
+        "my aunt arranged for the furniture to be stored",
+        "we've arranged the funeral for Saturday"
+      ],
+      "synonyms": [
+        "organize",
+        "fix",
+        "plan",
+        "schedule",
+        "pencil in",
+        "devise",
+        "contrive"
+      ]
+    },
+    {
+      "description": "Adapt (a composition) for performance with instruments or voices other than those originally specified.",
+      "examples": [
+        "songs arranged for viola and piano"
+      ],
+      "synonyms": [
+        "adapt",
+        "set",
+        "score",
+        "orchestrate",
+        "instrument",
+        "harmonize"
+      ]
+    },
+    {
+      "description": "Settle (a dispute or claim)",
+      "examples": [
+        "the quarrel, partly by the interference of the Crown Prince, was arranged"
+      ],
+      "synonyms": [
+        "put in order",
+        "sort out",
+        "straighten out",
+        "tidy up",
+        "order",
+        "organize",
+        "adjust",
+        "clear up",
+        "set to rights",
+        "regulate",
+        "systematize"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French arangier, from a- (from Latin ad to, at) + rangier put in order (see range).",
+  "pronounciation": "/əˈreɪndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arrange_us_1.mp3"
+}

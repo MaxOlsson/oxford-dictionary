@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+      "examples": [
+        "they were celebrating their wedding anniversary at a restaurant",
+        "she celebrated with a glass of champagne"
+      ],
+      "synonyms": [
+        "commemorate",
+        "observe",
+        "honour",
+        "mark",
+        "salute",
+        "recognize",
+        "acknowledge",
+        "remember",
+        "memorialize",
+        "keep",
+        "drink to",
+        "toast",
+        "drink a toast to"
+      ]
+    },
+    {
+      "description": "Perform (a religious ceremony) publicly and duly, in particular officiate at (the Eucharist)",
+      "examples": [
+        "he celebrated holy communion"
+      ],
+      "synonyms": [
+        "perform",
+        "observe",
+        "officiate at",
+        "preside at",
+        "solemnize",
+        "ceremonialize"
+      ]
+    },
+    {
+      "description": "Honor or praise publicly.",
+      "examples": [
+        "a film celebrating the actor's career"
+      ],
+      "synonyms": [
+        "acclaimed",
+        "admired",
+        "highly rated",
+        "lionized",
+        "revered",
+        "honoured",
+        "esteemed",
+        "exalted",
+        "lauded",
+        "vaunted",
+        "much touted",
+        "well thought of",
+        "well received",
+        "acknowledged"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in celebrate (sense 2)): from Latin celebrat- celebrated, from the verb celebrare, from celeber, celebr- frequented or honored.",
+  "pronounciation": "/ˈseləˌbrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/celebrate_us_1.mp3"
+}

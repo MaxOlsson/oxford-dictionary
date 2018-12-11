@@ -1,0 +1,69 @@
+{
+  "verb": [
+    {
+      "description": "Maintain (something) in its original or existing state.",
+      "examples": [
+        "all records of the past were zealously preserved"
+      ],
+      "synonyms": [
+        "conserve",
+        "protect",
+        "maintain",
+        "care for",
+        "take care of",
+        "look after",
+        "save",
+        "safeguard",
+        "keep"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Food made with fruit preserved in sugar, such as jam or marmalade.",
+      "examples": [
+        "home-made preserves"
+      ],
+      "synonyms": [
+        "jam",
+        "jelly",
+        "marmalade",
+        "conserve",
+        "confection"
+      ]
+    },
+    {
+      "description": "A sphere of activity regarded as being reserved for a particular person or group.",
+      "examples": [
+        "the civil service became the preserve of the educated middle class"
+      ],
+      "synonyms": [
+        "domain",
+        "area",
+        "field",
+        "sphere",
+        "orbit",
+        "arena",
+        "realm",
+        "province",
+        "speciality",
+        "specialism",
+        "territory",
+        "department"
+      ]
+    },
+    {
+      "description": "A place where game is protected and kept for private hunting or shooting.",
+      "examples": [],
+      "synonyms": [
+        "sanctuary",
+        "reserve",
+        "reservation",
+        "game reserve"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense keep safe from harm): from Old French preserver, from late Latin praeservare, from prae- before, in advance + servare to keep.",
+  "pronounciation": "/prəˈzərv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preserve_us_1.mp3"
+}

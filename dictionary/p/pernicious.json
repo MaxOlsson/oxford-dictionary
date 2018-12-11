@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Having a harmful effect, especially in a gradual or subtle way.",
+      "examples": [
+        "the pernicious influences of the mass media"
+      ],
+      "synonyms": [
+        "harmful",
+        "damaging",
+        "destructive",
+        "injurious",
+        "hurtful",
+        "detrimental",
+        "deleterious",
+        "dangerous",
+        "adverse",
+        "inimical",
+        "unhealthy",
+        "unfavourable",
+        "bad",
+        "evil",
+        "baleful",
+        "wicked",
+        "malign",
+        "malevolent",
+        "malignant",
+        "noxious",
+        "poisonous",
+        "cancerous",
+        "corrupting",
+        "ruinous",
+        "deadly",
+        "lethal",
+        "fatal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin perniciosus destructive, from pernicies ruin, based on nex, nec- death.",
+  "pronounciation": "/pərˈniSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pernicious_us_1.mp3"
+}

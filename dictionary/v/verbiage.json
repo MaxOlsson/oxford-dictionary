@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "Speech or writing that uses too many words or excessively technical expressions.",
+      "examples": [],
+      "synonyms": [
+        "verbosity",
+        "verboseness",
+        "padding",
+        "wordiness",
+        "prolixity",
+        "prolixness",
+        "superfluity",
+        "redundancy",
+        "long-windedness",
+        "lengthiness",
+        "protractedness",
+        "discursiveness",
+        "expansiveness",
+        "digressiveness",
+        "convolution",
+        "circumlocution",
+        "circuitousness",
+        "rambling",
+        "wandering",
+        "meandering"
+      ]
+    },
+    {
+      "description": "The way in which something is expressed; wording or diction.",
+      "examples": [
+        "we need to look at how the rule should be applied, based on the verbiage"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from French, from obsolete verbeier to chatter, from verbe word (see verb).",
+  "pronounciation": "/ˈvərbiɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verbiage_us_1.mp3"
+}

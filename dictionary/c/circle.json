@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A round plane figure whose boundary (the circumference) consists of points equidistant from a fixed point (the center).",
+      "examples": []
+    },
+    {
+      "description": "A group of people with shared professions, interests, or acquaintances.",
+      "examples": [
+        "she did not normally move in such exalted circles"
+      ],
+      "synonyms": [
+        "group",
+        "set",
+        "ring",
+        "company",
+        "body",
+        "coterie",
+        "clique"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move all the way around (someone or something), especially more than once.",
+      "examples": [
+        "we circled around the island",
+        "the two dogs circle each other with hackles raised"
+      ],
+      "synonyms": [
+        "wheel",
+        "move round",
+        "move round in circles",
+        "revolve",
+        "rotate",
+        "whirl",
+        "spiral",
+        "gyrate"
+      ]
+    }
+  ],
+  "phrases": [
+    "what do you do when your business starts to circle the drain?",
+    "The establishment's response has been to circle the wagons.",
+    "The Cuban people continue to circle the wagons around him in response to efforts to bring down his government.",
+    "We all went through some tough times together, but we really circled the wagons.",
+    "They want to circle the wagons and say there's no problem."
+  ],
+  "origin": "Old English, from Old French cercle, from Latin circulus small ring, diminutive of circus ring.",
+  "pronounciation": "/ˈsərk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/circle_us_1.mp3"
+}

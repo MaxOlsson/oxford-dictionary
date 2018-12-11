@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Causing laughter or amusement; humorous.",
+      "examples": [
+        "a funny story",
+        "the play is hilariously funny"
+      ],
+      "synonyms": [
+        "amusing",
+        "humorous",
+        "comic",
+        "comical",
+        "droll",
+        "laughable",
+        "chucklesome"
+      ]
+    },
+    {
+      "description": "Difficult to explain or understand; strange or odd.",
+      "examples": [
+        "I had a funny feeling you'd be around",
+        "the funny thing is I can't remember much about it",
+        "that's funny!—that vase of flowers has been moved"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Comic strips in newspapers.",
+      "examples": [
+        "I read the sports page, funnies, and editorial"
+      ]
+    },
+    {
+      "description": "A joke or witty remark.",
+      "examples": [
+        "I was trying to make a funny, but failed miserably",
+        "he regaled his hosts with a few funnies"
+      ]
+    }
+  ],
+  "phrases": [
+    "His willingness to help everyone and his inspiring wit and ability to see the funny side of all situations was a trait of his personality that was very special to all.",
+    "I suggest cultivating the ability to see the funny side of this situation, it's there if you look hard enough.",
+    "He was always the first to see the funny side of any situation and his smile lit up any room he entered.",
+    "Gerry was a wonderful conversationalist and always had the ability to see the funny side of any situation, and was well able to talk on a variety of topics with authority.",
+    "Those who laugh out loud and see the funny side of difficult situations are far less likely to have a heart attack than humourless individuals, researchers found."
+  ],
+  "pronounciation": "/ˈfəni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/funny_us_1.mp3"
+}

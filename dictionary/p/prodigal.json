@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Spending money or resources freely and recklessly; wastefully extravagant.",
+      "examples": [
+        "prodigal habits die hard"
+      ],
+      "synonyms": [
+        "wasteful",
+        "extravagant",
+        "spendthrift",
+        "improvident",
+        "imprudent",
+        "immoderate",
+        "profligate",
+        "thriftless",
+        "excessive",
+        "intemperate",
+        "irresponsible",
+        "self-indulgent",
+        "reckless",
+        "wanton"
+      ]
+    },
+    {
+      "description": "Having or giving something on a lavish scale.",
+      "examples": [
+        "the dessert was crunchy with brown sugar and prodigal with whipped cream"
+      ],
+      "synonyms": [
+        "generous",
+        "lavish",
+        "liberal",
+        "unstinting",
+        "unsparing",
+        "bountiful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who spends money in a recklessly extravagant way.",
+      "examples": [],
+      "synonyms": [
+        "profligate",
+        "prodigal",
+        "squanderer",
+        "waster"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin prodigalis, from Latin prodigus lavish.",
+  "pronounciation": "/ˈprɑdəɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prodigal_us_1.mp3"
+}

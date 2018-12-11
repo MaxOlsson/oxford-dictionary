@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A structure extending alongshore or out from the shore into a body of water, to which boats may be moored.",
+      "examples": [
+        "the gangplank was lowered to the dock"
+      ]
+    },
+    {
+      "description": "A device in which a laptop computer, smartphone, or other mobile device may be placed for charging, providing access to a power supply and to peripheral devices or auxiliary features; a docking station.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a ship) tie up at a dock, especially in order to load or unload passengers or cargo.",
+      "examples": [
+        "the ship docked at San Francisco"
+      ],
+      "synonyms": [
+        "moor",
+        "berth",
+        "land",
+        "beach",
+        "anchor",
+        "drop anchor",
+        "put in",
+        "tie up"
+      ]
+    }
+  ],
+  "origin": "Old English docce, of Germanic origin; related to Dutch dialect dokke.",
+  "pronounciation": "/dɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dock_us_1.mp3"
+}

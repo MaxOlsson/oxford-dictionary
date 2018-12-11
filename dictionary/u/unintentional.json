@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Not done on purpose.",
+      "examples": [
+        "the translation added a layer of unintentional comedy"
+      ],
+      "synonyms": [
+        "unintended",
+        "accidental",
+        "inadvertent",
+        "involuntary",
+        "unwitting",
+        "unthinking",
+        "unmeant",
+        "unplanned",
+        "unpremeditated",
+        "unexpected",
+        "unforeseen",
+        "fortuitous",
+        "chance",
+        "coincidental",
+        "serendipitous",
+        "unconscious",
+        "subconscious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənɪnˈtɛn(t)ʃ(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unintentional_us_1.mp3"
+}

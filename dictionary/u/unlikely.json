@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not likely to happen, be done, or be true; improbable.",
+      "examples": [
+        "an unlikely explanation",
+        "it is unlikely that they will ever be used",
+        "the change is unlikely to affect many people"
+      ],
+      "synonyms": [
+        "improbable",
+        "not likely",
+        "doubtful",
+        "dubious",
+        "unexpected",
+        "beyond belief",
+        "implausible"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈlaɪkli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlikely_us_2.mp3"
+}

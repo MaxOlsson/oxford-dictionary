@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "An abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
+      "examples": [
+        "I would take aspirin to help me with the pain and reduce the fever",
+        "African equine fever"
+      ],
+      "synonyms": [
+        "feverishness",
+        "high temperature",
+        "febricity",
+        "febrility"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring about a high body temperature or a state of nervous excitement in (someone)",
+      "examples": [
+        "a heart which sin has fevered"
+      ]
+    }
+  ],
+  "origin": "Old English fēfor, from Latin febris; reinforced in Middle English by Old French fievre, also from febris.",
+  "pronounciation": "/ˈfēvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fever_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be seen through; not transparent.",
+      "examples": [
+        "the windows were opaque with steam"
+      ],
+      "synonyms": [
+        "non-transparent",
+        "cloudy",
+        "filmy",
+        "blurred",
+        "smeared",
+        "hazy",
+        "misty",
+        "dirty",
+        "dingy",
+        "muddy",
+        "muddied",
+        "grimy",
+        "smeary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An opaque thing or substance.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English opake, from Latin opacus darkened. The current spelling (rare before the 19th century) has been influenced by the French form.",
+  "pronounciation": "/ōˈpāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/opaque_us_1.mp3"
+}

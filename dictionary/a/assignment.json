@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "A task or piece of work assigned to someone as part of a job or course of study.",
+      "examples": [
+        "a homework assignment"
+      ],
+      "synonyms": [
+        "task",
+        "piece of work",
+        "piece of business",
+        "job",
+        "duty",
+        "chore",
+        "charge",
+        "labour",
+        "function",
+        "commission",
+        "mission",
+        "errand",
+        "engagement",
+        "occupation",
+        "undertaking",
+        "exercise",
+        "business",
+        "office",
+        "responsibility",
+        "detail",
+        "endeavour",
+        "enterprise"
+      ]
+    },
+    {
+      "description": "The attribution of someone or something as belonging.",
+      "examples": [
+        "the assignment of individuals to particular social positions"
+      ],
+      "synonyms": [
+        "allocation",
+        "allotment",
+        "issuing",
+        "issuance",
+        "awarding",
+        "grant",
+        "granting",
+        "administration",
+        "earmarking",
+        "designation",
+        "setting aside",
+        "budgeting"
+      ]
+    },
+    {
+      "description": "An act of making a legal transfer of a right, property, or liability.",
+      "examples": [
+        "an assignment of leasehold property"
+      ],
+      "synonyms": [
+        "transfer",
+        "making over",
+        "giving",
+        "passing on",
+        "handing down",
+        "conveyance",
+        "consignment",
+        "alienation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French assignement, from medieval Latin assignamentum, from Latin assignare allot (see assign).",
+  "pronounciation": "/əˈsaɪnmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assignment_us_1.mp3"
+}

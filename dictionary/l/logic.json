@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Reasoning conducted or assessed according to strict principles of validity.",
+      "examples": [
+        "experience is a better guide to this than deductive logic",
+        "the logic of the argument is faulty",
+        "he explains his move with simple logic"
+      ],
+      "synonyms": [
+        "science of reasoning",
+        "science of deduction",
+        "science of thought",
+        "dialectics",
+        "argumentation",
+        "ratiocination"
+      ]
+    },
+    {
+      "description": "A system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French logique and late Latin logica from Greek logikē (tekhnē) (art) of reason, from logos word, reason.",
+  "pronounciation": "/ˈläjik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/logic_us_1.mp3"
+}

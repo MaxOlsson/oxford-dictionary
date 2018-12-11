@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Making a harsh, high-pitched sound when being moved or when pressure or weight is applied.",
+      "examples": [
+        "he boards a creaking wooden boat"
+      ]
+    },
+    {
+      "description": "Showing weakness or frailty under strain.",
+      "examples": [
+        "they have to rely on a creaking transport system"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Harsh, high-pitched noise made when something is being moved or when pressure or weight is applied to it.",
+      "examples": [
+        "we could hear the creaking of the deteriorating wood"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrikɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/creaking_us_2.mp3"
+}

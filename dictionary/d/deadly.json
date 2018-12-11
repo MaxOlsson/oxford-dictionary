@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Causing or able to cause death.",
+      "examples": [
+        "a deadly weapon"
+      ],
+      "synonyms": [
+        "fatal",
+        "lethal",
+        "mortal",
+        "death-dealing",
+        "life-threatening"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a way resembling or suggesting death; as if dead.",
+      "examples": [
+        "her skin was deadly pale"
+      ],
+      "synonyms": [
+        "deathly",
+        "deathlike",
+        "ashen",
+        "ghostly",
+        "white",
+        "pallid",
+        "wan",
+        "pale",
+        "ghastly"
+      ]
+    }
+  ],
+  "origin": "Old English dēadlīc mortal, in danger of death (see dead, -ly).",
+  "pronounciation": "/ˈdɛdli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deadly_us_1.mp3"
+}

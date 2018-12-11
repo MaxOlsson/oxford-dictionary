@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "(of a thing) not of the necessary quality or standard to meet a particular purpose.",
+      "examples": [
+        "the land is unfit for food crops"
+      ],
+      "synonyms": [
+        "unsuitable for",
+        "unsuited to",
+        "inappropriate to",
+        "ill-suited to",
+        "ill-adapted to",
+        "unequipped for",
+        "inadequate for",
+        "unprepared for",
+        "unfitted for",
+        "not designed for",
+        "ineligible for",
+        "unworthy of"
+      ]
+    },
+    {
+      "description": "(of a person) not in good physical condition, typically as a result of failure to exercise regularly.",
+      "examples": [],
+      "synonyms": [
+        "unhealthy",
+        "out of condition",
+        "out of shape",
+        "in poor condition",
+        "in poor shape",
+        "flabby",
+        "debilitated",
+        "weak",
+        "infirm",
+        "decrepit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something or someone) unsuitable; disqualify.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈfɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfit_us_1.mp3"
+}

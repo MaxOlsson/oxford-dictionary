@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Not disputed or called in question; accepted.",
+      "examples": [
+        "the undisputed heavyweight champion of the world",
+        "the claim is undisputed"
+      ],
+      "synonyms": [
+        "undoubted",
+        "uncontested",
+        "unchallenged",
+        "unquestioned",
+        "not in question",
+        "unquestionable",
+        "indubitable",
+        "not in doubt",
+        "incontrovertible",
+        "incontestable",
+        "unequivocal",
+        "undeniable",
+        "irrefutable",
+        "unmistakable",
+        "sure",
+        "certain",
+        "clear",
+        "clear-cut",
+        "manifest",
+        "decided",
+        "definite",
+        "confirmed",
+        "absolute",
+        "accepted",
+        "acknowledged",
+        "recognized",
+        "positive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndəˈspyo͞odəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undisputed_us_1.mp3"
+}

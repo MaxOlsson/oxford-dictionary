@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "Magnetic tape on which sound can be recorded.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record (sound) on tape.",
+      "examples": [
+        "each interview was audiotaped and transcribed"
+      ],
+      "synonyms": [
+        "recording",
+        "cassette",
+        "tape recording"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈôdēōˌtāp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/audiotape_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Agreeing with a statement or to a request.",
+      "examples": [
+        "an affirmative answer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A statement of agreement with an assertion or request.",
+      "examples": [
+        "he accepted her reply as an affirmative"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing agreement with a statement or request; yes.",
+      "examples": [],
+      "synonyms": [
+        "all right",
+        "alright",
+        "very well",
+        "of course",
+        "by all means",
+        "sure",
+        "certainly",
+        "absolutely",
+        "indeed",
+        "affirmative",
+        "in the affirmative",
+        "agreed",
+        "roger"
+      ]
+    }
+  ],
+  "phrases": [
+    "he answered the question in the affirmative",
+    "Maybe fewer than half of modern people can answer in the affirmative, due to their busy work schedules.",
+    "She tapped a few keys to confirm the reservations, and replied to the e-mail request in the affirmative.",
+    "On one level, the last question can be answered in the affirmative.",
+    "However, I would answer that question also in the affirmative."
+  ],
+  "origin": "Late Middle English (in the sense assertive, positive): via Old French from late Latin affirmativus, from affirmare assert (see affirm).",
+  "pronounciation": "/əˈfərmədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affirmative_us_1.mp3"
+}

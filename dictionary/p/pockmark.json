@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A pitted scar or mark on the skin left by a pustule or pimple.",
+      "examples": [],
+      "synonyms": [
+        "pimple",
+        "pustule",
+        "blemish",
+        "blackhead",
+        "boil",
+        "swelling",
+        "eruption",
+        "wen",
+        "sty"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover or disfigure with pockmarks.",
+      "examples": [
+        "the area is pockmarked by gravel pits"
+      ],
+      "synonyms": [
+        "irrelevant",
+        "inapplicable",
+        "inapposite",
+        "inappropriate",
+        "inapt",
+        "immaterial",
+        "not to the point",
+        "beside the point",
+        "off the subject",
+        "extraneous",
+        "neither here nor there"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɑkˌmɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pockmark_us_1.mp3"
+}

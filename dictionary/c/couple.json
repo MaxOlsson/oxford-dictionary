@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "Two individuals of the same sort considered together.",
+      "examples": [
+        "a couple of girls were playing marbles"
+      ],
+      "synonyms": [
+        "pair",
+        "duo",
+        "duology",
+        "twosome",
+        "set of two",
+        "match"
+      ]
+    },
+    {
+      "description": "Two people who are married, engaged, or otherwise closely associated romantically or sexually.",
+      "examples": [],
+      "synonyms": [
+        "husband and wife",
+        "twosome"
+      ]
+    },
+    {
+      "description": "An indefinite small number.",
+      "examples": [
+        "he hoped she'd be better in a couple of days",
+        "we got some eggs—would you like a couple?",
+        "just a couple more questions",
+        "clean the stains with a couple squirts of dishwashing liquid"
+      ],
+      "synonyms": [
+        "a few",
+        "two or three",
+        "a small number of"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Combine.",
+      "examples": [
+        "a sense of hope is coupled with a palpable sense of loss"
+      ],
+      "synonyms": [
+        "combine",
+        "integrate",
+        "mix",
+        "incorporate",
+        "accompany",
+        "link",
+        "team",
+        "associate",
+        "connect",
+        "ally"
+      ]
+    },
+    {
+      "description": "Mate or have sexual intercourse.",
+      "examples": [],
+      "synonyms": [
+        "mate",
+        "breed"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French cople (noun), copler (verb), from Latin copula (noun), copulare (verb), from co- together + apere fasten. Compare with copula and copulate.",
+  "pronounciation": "/ˈkəpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/couple_us_1.mp3"
+}

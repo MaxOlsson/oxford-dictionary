@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Having become or been made hard or harder.",
+      "examples": [
+        "hardened steel"
+      ],
+      "synonyms": [
+        "firm",
+        "solid",
+        "dense",
+        "rigid",
+        "stiff",
+        "resistant",
+        "unbreakable",
+        "inflexible",
+        "unpliable",
+        "impenetrable",
+        "unyielding",
+        "solidified",
+        "compact",
+        "compacted",
+        "steely",
+        "tough",
+        "strong",
+        "stony",
+        "rock-like",
+        "flinty",
+        "close-packed",
+        "compressed",
+        "as hard as iron",
+        "as hard as stone"
+      ]
+    },
+    {
+      "description": "Experienced in a particular job or activity and therefore not easily upset by its more unpleasant aspects.",
+      "examples": [
+        "hardened police officers",
+        "a battle-hardened veteran"
+      ],
+      "synonyms": [
+        "inured",
+        "desensitized",
+        "deadened",
+        "accustomed",
+        "habituated",
+        "acclimatized",
+        "used"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhärdnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hardened_us_1.mp3"
+}

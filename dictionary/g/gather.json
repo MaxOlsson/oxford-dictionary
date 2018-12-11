@@ -1,0 +1,115 @@
+{
+  "verb": [
+    {
+      "description": "Come together; assemble or accumulate.",
+      "examples": [
+        "a crowd gathered in the square"
+      ],
+      "synonyms": [
+        "congregate",
+        "convene",
+        "assemble",
+        "meet",
+        "collect",
+        "come together",
+        "get together",
+        "muster",
+        "rally",
+        "converge"
+      ]
+    },
+    {
+      "description": "Bring together and take in from scattered places or sources.",
+      "examples": [
+        "we have gathered the information"
+      ],
+      "synonyms": [
+        "collect",
+        "get together",
+        "put together",
+        "accumulate",
+        "amass",
+        "assemble",
+        "garner"
+      ]
+    },
+    {
+      "description": "Develop a higher degree of.",
+      "examples": [
+        "the green movement is gathering pace"
+      ]
+    },
+    {
+      "description": "Infer; understand.",
+      "examples": [
+        "her clients were, I gathered, a prosperous group"
+      ],
+      "synonyms": [
+        "understand",
+        "be given to understand",
+        "believe",
+        "be led to believe",
+        "think",
+        "conclude",
+        "come to the conclusion",
+        "deduce",
+        "infer",
+        "draw the inference",
+        "assume",
+        "surmise",
+        "fancy"
+      ]
+    },
+    {
+      "description": "Summon up (a mental or physical attribute such as one's thoughts or strength) for a purpose.",
+      "examples": [
+        "he lay gathering his thoughts together",
+        "he gathered himself for a tremendous leap"
+      ],
+      "synonyms": [
+        "summon",
+        "summon up",
+        "call together",
+        "bring together",
+        "assemble",
+        "convene",
+        "rally",
+        "round up"
+      ]
+    },
+    {
+      "description": "Draw and hold together (fabric or a part of a garment) by running thread through it.",
+      "examples": [
+        "the front is gathered at the waist"
+      ],
+      "synonyms": [
+        "pleat",
+        "shirr",
+        "pucker",
+        "tuck",
+        "fold",
+        "corrugate",
+        "ruffle",
+        "crimp",
+        "crease",
+        "scrunch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A part of a garment that is gathered or drawn in.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The moment the engine is speeded up the clutch comes in, backward movement is checked and the car gathers way up the hill.",
+    "The U-boat then gathered way and disappeared into the darkness.",
+    "Gradually the two battleships gathered way and proceeded to head down the river abreast of each other.",
+    "Then with a casual twist she pirouetted and now bows-on to the scene of impending carnage, quietly, almost innocently, began to gather way once more.",
+    "If the Alps were strongly manned, the movement for independence would gather way and the Gallic provinces decide the limits of their dominion at will."
+  ],
+  "origin": "Old English gaderian, of West Germanic origin; related to Dutch gaderen, also to together.",
+  "pronounciation": "/ˈɡæðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gather_us_1.mp3"
+}

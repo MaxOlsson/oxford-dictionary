@@ -1,0 +1,72 @@
+{
+  "noun": [
+    {
+      "description": "An unattractive or unsatisfactory feature, especially in a piece of work or in a person's character.",
+      "examples": [
+        "my worst fault is impatience"
+      ],
+      "synonyms": [
+        "flaw",
+        "failing",
+        "deficiency",
+        "weakness",
+        "weak point",
+        "weak spot",
+        "shortcoming",
+        "fallibility",
+        "frailty",
+        "infirmity",
+        "foible",
+        "inadequacy",
+        "limitation"
+      ]
+    },
+    {
+      "description": "Responsibility for an accident or misfortune.",
+      "examples": [
+        "it was his fault she had died",
+        "an ordinary man thrust into peril through no fault of his own"
+      ],
+      "synonyms": [
+        "responsibility",
+        "liability",
+        "culpability",
+        "blameworthiness",
+        "guilt"
+      ]
+    },
+    {
+      "description": "An extended break in a body of rock, marked by the relative displacement and discontinuity of strata on either side of a particular surface.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Criticize for inadequacy or mistakes.",
+      "examples": [
+        "her colleagues and superiors could not fault her dedication to the job",
+        "you cannot fault him for the professionalism of his approach"
+      ],
+      "synonyms": [
+        "find fault with",
+        "find lacking"
+      ]
+    },
+    {
+      "description": "(of a rock formation) be broken by a fault or faults.",
+      "examples": [
+        "rift valleys where the crust has been stretched and faulted"
+      ]
+    }
+  ],
+  "phrases": [
+    "we recover compensation from the person at fault",
+    "Let's just hope we eventually have a clear picture of went wrong and who was at fault.",
+    "It is not always the players who are at fault and referees must he accountable.",
+    "It is wrong, and the person committing the crime is entirely at fault.",
+    "Meanwhile, the officials at fault try to discharge their public duty by denying responsibility."
+  ],
+  "origin": "Middle English faut(e) lack, failing, from Old French, based on Latin fallere deceive. The -l- was added (in French and English) in the 15th century to conform with the Latin word, but did not become standard in English until the 17th century, remaining silent in pronunciation until well into the 18th.",
+  "pronounciation": "/fôlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fault_us_1.mp3"
+}

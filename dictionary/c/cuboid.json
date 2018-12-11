@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "More or less cubic in shape.",
+      "examples": [
+        "the school was a hideous cuboid erection of brick and glass"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A solid which has six rectangular faces at right angles to each other.",
+      "examples": []
+    },
+    {
+      "description": "A squat tarsal bone on the outer side of the foot, articulating with the heel bone and the fourth and fifth metatarsals.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: from modern Latin cuboides, from Greek kuboeidēs, from kubos (see cube).",
+  "pronounciation": "/ˈkjubɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cuboid_us_1.mp3"
+}

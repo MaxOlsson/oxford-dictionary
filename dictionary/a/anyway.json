@@ -1,0 +1,63 @@
+{
+  "adverb": [
+    {
+      "description": "Used to confirm or support a point or idea just mentioned.",
+      "examples": [
+        "I told you, it's all right, and anyway, it was my fault",
+        "it's too late now anyway"
+      ],
+      "synonyms": [
+        "anyway",
+        "in any case",
+        "in any event",
+        "at any rate",
+        "at all events",
+        "no matter what",
+        "regardless"
+      ]
+    },
+    {
+      "description": "Used to end a conversation, to change the subject, or to resume a subject after interruption.",
+      "examples": [
+        "Anyway, Dot, I must go",
+        "How she lives with him is beyond me. Anyway, I really like her"
+      ]
+    },
+    {
+      "description": "Used to indicate that something happened or will happen in spite of something else.",
+      "examples": [
+        "nobody invited Miss Honey to sit down so she sat down anyway"
+      ],
+      "synonyms": [
+        "in spite of everything",
+        "in spite of that",
+        "nonetheless",
+        "even so",
+        "however",
+        "but",
+        "still",
+        "yet",
+        "though",
+        "be that as it may",
+        "for all that",
+        "despite everything",
+        "despite that",
+        "after everything",
+        "having said that",
+        "that said",
+        "just the same",
+        "all the same",
+        "at the same time",
+        "in any event",
+        "come what may",
+        "at any rate",
+        "notwithstanding",
+        "regardless",
+        "anyway",
+        "anyhow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈenēˌwā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anyway_us_1.mp3"
+}

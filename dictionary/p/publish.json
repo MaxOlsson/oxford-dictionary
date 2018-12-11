@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "(of an author or company) prepare and issue (a book, journal, piece of music, or other work) for public sale.",
+      "examples": [
+        "we publish practical reference books",
+        "the pressures on researchers to publish"
+      ],
+      "synonyms": [
+        "issue",
+        "bring out",
+        "produce",
+        "print"
+      ]
+    },
+    {
+      "description": "Communicate (a libel) to a third party.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense make generally known): from the stem of Old French puplier, from Latin publicare make public, from publicus (see public).",
+  "pronounciation": "/ˈpəblɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/publish_us_1.mp3"
+}

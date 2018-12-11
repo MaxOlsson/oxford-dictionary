@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A small wooden peg or spigot for stopping a cask.",
+      "examples": [],
+      "synonyms": [
+        "stopper",
+        "stop",
+        "plug",
+        "bung",
+        "peg",
+        "spigot",
+        "seal"
+      ]
+    },
+    {
+      "description": "A large, heavy timber driven into the ground to support a superstructure.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Broach (a cask) with a peg in order to draw off liquid.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: from Middle Dutch, Middle Low German, wooden peg; in spile (sense 2 of the noun) apparently an alteration of pile.",
+  "pronounciation": "/spīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spile_us_1.mp3"
+}

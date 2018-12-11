@@ -1,0 +1,25 @@
+{
+  "plural noun": [
+    {
+      "synonyms": [
+        "lather",
+        "foam",
+        "froth",
+        "bubbles",
+        "soap",
+        "soapiness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lather, cover, or wash in soapy water.",
+      "examples": [
+        "Martha sudsed my back"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: of uncertain sense development but perhaps originally denoting the floodwater of the fens; compare with Middle Low German sudde, Middle Dutch sudse marsh, bog; probably related to seethe.",
+  "pronounciation": "/sədz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suds_us_1.mp3"
+}

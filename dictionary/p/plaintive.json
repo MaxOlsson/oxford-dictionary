@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Sounding sad and mournful.",
+      "examples": [
+        "a plaintive cry"
+      ],
+      "synonyms": [
+        "mournful",
+        "sad",
+        "wistful",
+        "doleful",
+        "pathetic",
+        "pitiful",
+        "piteous",
+        "melancholy",
+        "melancholic",
+        "sorrowful",
+        "unhappy",
+        "wretched",
+        "woeful",
+        "grief-stricken",
+        "broken-hearted",
+        "heartbroken",
+        "desolate",
+        "heart-rending",
+        "forlorn",
+        "woebegone",
+        "disconsolate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French plaintif, -ive, from plainte lamentation (see plaint).",
+  "pronounciation": "/ˈplān(t)iv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plaintive_us_1.mp3"
+}

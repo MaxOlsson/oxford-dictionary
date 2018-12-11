@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "One's family and relations.",
+      "examples": [],
+      "synonyms": [
+        "family",
+        "relatives",
+        "relations",
+        "kin",
+        "family members",
+        "connections",
+        "kith and kin",
+        "one's own flesh and blood",
+        "clan",
+        "tribe",
+        "house",
+        "lineage"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Similar in kind; related.",
+      "examples": [
+        "books on kindred subjects"
+      ],
+      "synonyms": [
+        "related",
+        "allied",
+        "connected",
+        "closely connected",
+        "closely related",
+        "comparable",
+        "similar",
+        "like",
+        "alike",
+        "parallel",
+        "associated",
+        "corresponding",
+        "cognate",
+        "analogous",
+        "interconnected",
+        "affiliated"
+      ]
+    }
+  ],
+  "origin": "Middle English: from kin + -red (from Old English rǣden condition), with insertion of -d- in the modern spelling through phonetic development (as in thunder).",
+  "pronounciation": "/ˈkindrəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kindred_us_1.mp3"
+}

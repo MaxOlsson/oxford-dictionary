@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Warm and friendly.",
+      "examples": [
+        "the atmosphere was cordial and relaxed"
+      ],
+      "synonyms": [
+        "friendly",
+        "warm",
+        "genial",
+        "affable",
+        "amiable",
+        "pleasant",
+        "fond",
+        "affectionate",
+        "warm-hearted",
+        "good-natured",
+        "gracious",
+        "hospitable",
+        "welcoming"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "synonyms": [
+        "liqueur"
+      ]
+    },
+    {
+      "description": "A comforting or pleasant-tasting medicine.",
+      "examples": [],
+      "synonyms": [
+        "stimulant",
+        "restorative",
+        "refresher"
+      ]
+    }
+  ],
+  "origin": "Middle English (also in the sense belonging to the heart): from medieval Latin cordialis, from Latin cor, cord- heart.",
+  "pronounciation": "/ˈkɔrdʒəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cordial_us_1.mp3"
+}

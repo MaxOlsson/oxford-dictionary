@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "(typically of a small bird or an insect) utter a short, sharp, high-pitched sound.",
+      "examples": [
+        "outside, the crickets chirped monotonously"
+      ],
+      "synonyms": [
+        "tweet",
+        "twitter",
+        "chirrup",
+        "cheep",
+        "peep",
+        "chitter",
+        "chatter",
+        "chirr"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short, sharp, high-pitched sound.",
+      "examples": [],
+      "synonyms": [
+        "trill",
+        "trilling",
+        "song",
+        "birdsong",
+        "cry",
+        "warbling",
+        "chirp",
+        "chirping",
+        "chirrup",
+        "chirruping",
+        "chirr",
+        "chirring",
+        "cheep",
+        "cheeping",
+        "twitter",
+        "twittering",
+        "tweet",
+        "tweeting",
+        "whistle",
+        "whistling",
+        "chatter",
+        "chattering",
+        "squeak",
+        "squeaking",
+        "pipe",
+        "piping",
+        "peep",
+        "peeping",
+        "call",
+        "calling"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative.",
+  "pronounciation": "/CHərp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chirp_us_1.mp3"
+}

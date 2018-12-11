@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Look steadily and intently, especially in admiration, surprise, or thought.",
+      "examples": [
+        "he could only gaze at her in astonishment"
+      ],
+      "synonyms": [
+        "stare",
+        "look fixedly",
+        "look vacantly",
+        "look",
+        "take a good look",
+        "gape",
+        "goggle",
+        "peer",
+        "leer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A steady intent look.",
+      "examples": [
+        "he turned, following her gaze",
+        "offices screened from the public gaze"
+      ],
+      "synonyms": [
+        "stare",
+        "fixed look",
+        "intent look",
+        "gape",
+        "eye"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps related to obsolete gaw (see gawk).",
+  "pronounciation": "/ɡeɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gaze_us_1.mp3"
+}

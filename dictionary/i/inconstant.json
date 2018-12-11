@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Frequently changing; variable or irregular.",
+      "examples": [
+        "their exact dimensions aren't easily measured since they are inconstant"
+      ],
+      "synonyms": [
+        "variable",
+        "varying",
+        "changeable",
+        "changing",
+        "irregular",
+        "shifting",
+        "fluctuating",
+        "inconsistent",
+        "not constant",
+        "unsettled",
+        "unfixed",
+        "mutable",
+        "unstable",
+        "unsteady"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin inconstant-, from in- not + constant- standing firm (see constant).",
+  "pronounciation": "/inˈkänstənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inconstant_us_1.mp3"
+}

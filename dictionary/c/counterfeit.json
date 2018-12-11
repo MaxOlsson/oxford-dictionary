@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Made in exact imitation of something valuable or important with the intention to deceive or defraud.",
+      "examples": [
+        "two men were remanded on bail on a charge of passing counterfeit $10 bills"
+      ],
+      "synonyms": [
+        "fake",
+        "faked",
+        "copied",
+        "forged",
+        "feigned",
+        "simulated",
+        "sham",
+        "spurious",
+        "bogus",
+        "imitation",
+        "substitute",
+        "dummy",
+        "ersatz"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fraudulent imitation of something else; a forgery.",
+      "examples": [
+        "he knew the tapes to be counterfeits"
+      ],
+      "synonyms": [
+        "fake",
+        "forgery",
+        "copy",
+        "reproduction",
+        "replica",
+        "imitation",
+        "likeness",
+        "lookalike",
+        "mock-up",
+        "dummy",
+        "substitute",
+        "fraud",
+        "sham"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Imitate fraudulently.",
+      "examples": [
+        "my signature is extremely hard to counterfeit"
+      ],
+      "synonyms": [
+        "fake",
+        "forge",
+        "copy",
+        "reproduce",
+        "replicate",
+        "imitate",
+        "simulate",
+        "feign",
+        "falsify",
+        "sham"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): from Anglo-Norman French countrefeter, from Old French contrefait, past participle of contrefaire, from Latin contra- in opposition + facere make.",
+  "pronounciation": "/ˈkaʊn(t)ərˌfɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterfeit_us_1.mp3"
+}

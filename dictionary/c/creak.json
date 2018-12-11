@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "(of an object or structure, typically a wooden one) make a harsh, high-pitched sound when being moved or when pressure or weight is applied.",
+      "examples": [
+        "the stairs creaked as she went up them",
+        "the garden gate creaked open"
+      ],
+      "synonyms": [
+        "squeak",
+        "groan",
+        "grate"
+      ]
+    },
+    {
+      "description": "Show weakness or frailty under strain.",
+      "examples": [
+        "stock prices creaked to a mixed finish today"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A harsh scraping or squeaking sound.",
+      "examples": [
+        "the creak of a floorboard broke the silence"
+      ],
+      "synonyms": [
+        "grate",
+        "grating",
+        "creak",
+        "creaking",
+        "grind",
+        "grinding",
+        "jar",
+        "jarring",
+        "rasp",
+        "rasping",
+        "scratch",
+        "scratching",
+        "rub",
+        "rubbing",
+        "squeak",
+        "squeaking",
+        "screech",
+        "screeching"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb in the sense croak): imitative.",
+  "pronounciation": "/krik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/creak_us_1.mp3"
+}

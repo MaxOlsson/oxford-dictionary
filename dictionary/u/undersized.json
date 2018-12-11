@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Of less than the usual size.",
+      "examples": [
+        "the undersized cubs may not survive the winter"
+      ],
+      "synonyms": [
+        "underdeveloped",
+        "stunted",
+        "small",
+        "short",
+        "little",
+        "tiny",
+        "petite",
+        "small-boned",
+        "slight",
+        "compact",
+        "minuscule",
+        "miniature",
+        "mini",
+        "diminutive",
+        "dwarfish",
+        "elfin",
+        "bantam",
+        "runtish",
+        "puny"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈsīzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undersized_us_1.mp3"
+}

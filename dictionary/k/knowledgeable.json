@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Intelligent and well informed.",
+      "examples": [
+        "she is very knowledgeable about livestock and pedigrees"
+      ],
+      "synonyms": [
+        "well informed",
+        "informed",
+        "learned",
+        "with great knowledge",
+        "well read",
+        "well educated",
+        "educated",
+        "widely read",
+        "erudite",
+        "scholarly",
+        "cultured",
+        "cultivated",
+        "enlightened",
+        "aware"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnäləjəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knowledgeable_us_1.mp3"
+}

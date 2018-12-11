@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "Failure to fulfill an obligation, especially to repay a loan or appear in a court of law.",
+      "examples": [
+        "it will have to restructure its debts to avoid default",
+        "the deteriorating economy pushed defaults to almost $20 billion"
+      ],
+      "synonyms": [
+        "non-payment",
+        "failure to pay",
+        "non-remittance"
+      ]
+    },
+    {
+      "description": "A preselected option adopted by a computer program or other mechanism when no alternative is specified by the user or programmer.",
+      "examples": [
+        "the default is fifty lines",
+        "default settings"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fail to fulfill an obligation, especially to repay a loan or to appear in a court of law.",
+      "examples": [
+        "some had defaulted on student loans"
+      ],
+      "synonyms": [
+        "fail to pay",
+        "not pay",
+        "renege",
+        "fail to honour",
+        "back out",
+        "backtrack",
+        "backslide"
+      ]
+    },
+    {
+      "description": "(of a computer program or other mechanism) revert automatically to (a preselected option)",
+      "examples": [
+        "when you start a fresh letter the system will default to its own style"
+      ],
+      "synonyms": [
+        "revert"
+      ]
+    }
+  ],
+  "phrases": [
+    "they won the last election by default",
+    "The opposite, by default, must then be the definition of an anti-politician.",
+    "Efforts to support an uprising around a weak opposition fail and strengthen him by default.",
+    "Perhaps they will be re-elected in the next elections by default, with no-one having voted!",
+    "The movement was partially empowered by default of serious opposition."
+  ],
+  "origin": "Middle English: from Old French defaut, from defaillir to fail, based on Latin fallere disappoint, deceive.",
+  "pronounciation": "/dəˈfôlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/default_us_3.mp3"
+}

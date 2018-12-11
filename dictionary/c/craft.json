@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "An activity involving skill in making things by hand.",
+      "examples": [
+        "the craft of bookbinding",
+        "pewter craft"
+      ],
+      "synonyms": [
+        "activity",
+        "pursuit",
+        "occupation",
+        "work",
+        "line",
+        "line of work",
+        "profession",
+        "job",
+        "business",
+        "line of business",
+        "trade",
+        "employment",
+        "position",
+        "post",
+        "situation",
+        "career",
+        "métier",
+        "vocation",
+        "calling",
+        "skill",
+        "field",
+        "province",
+        "walk of life"
+      ]
+    },
+    {
+      "description": "Skill used in deceiving others.",
+      "examples": [
+        "her cousin was not her equal in guile and evasive craft"
+      ],
+      "synonyms": [
+        "cunning",
+        "craftiness",
+        "guile",
+        "wiliness",
+        "artfulness",
+        "deviousness",
+        "slyness",
+        "trickery",
+        "trickiness"
+      ]
+    },
+    {
+      "description": "A boat or ship.",
+      "examples": [
+        "sailing craft"
+      ],
+      "synonyms": [
+        "boat",
+        "sailing boat",
+        "ship",
+        "yacht",
+        "watercraft"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exercise skill in making (something)",
+      "examples": [
+        "he crafted the chair lovingly",
+        "a beautifully crafted object"
+      ]
+    }
+  ],
+  "origin": "Old English cræft strength, skill, of Germanic origin; related to Dutch kracht, German Kraft, and Swedish kraft strength. craft (sense 3 of the noun), originally in the expression small craft small trading vessels, may be elliptical, referring to vessels requiring a small amount of craft or skill to handle, as opposed to large oceangoing ships.",
+  "pronounciation": "/kræft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/craft_us_1.mp3"
+}

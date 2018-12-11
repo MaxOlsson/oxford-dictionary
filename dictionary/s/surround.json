@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Be all around (someone or something)",
+      "examples": [
+        "the hotel is surrounded by its own gardens",
+        "he loves to surround himself with family and friends"
+      ],
+      "synonyms": [
+        "neighbouring",
+        "nearby",
+        "near",
+        "neighbourhood",
+        "local"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that forms a border or edging around an object.",
+      "examples": [
+        "an oak fireplace surround"
+      ],
+      "synonyms": [
+        "border",
+        "edging",
+        "edge",
+        "perimeter",
+        "boundary",
+        "margin",
+        "skirting",
+        "skirt",
+        "fringe"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense overflow): from Old French souronder, from late Latin superundare, from super- over + undare to flow (from unda a wave); later associated with round. Current senses of the noun date from the late 19th century.",
+  "pronounciation": "/səˈraʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surround_us_1.mp3"
+}

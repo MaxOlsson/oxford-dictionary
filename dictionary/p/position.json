@@ -1,0 +1,120 @@
+{
+  "noun": [
+    {
+      "description": "A place where someone or something is located or has been put.",
+      "examples": [
+        "the distress call had given the ship's position",
+        "Mrs. Snell had taken up her position on the bottom step of the stairs"
+      ],
+      "synonyms": [
+        "location",
+        "place",
+        "situation",
+        "spot",
+        "site",
+        "locality",
+        "locale",
+        "scene",
+        "setting",
+        "area",
+        "point"
+      ]
+    },
+    {
+      "description": "A particular way in which someone or something is placed or arranged.",
+      "examples": [
+        "he moved himself into a reclining position",
+        "a cramp forced her to change position"
+      ],
+      "synonyms": [
+        "posture",
+        "stance",
+        "attitude",
+        "pose"
+      ]
+    },
+    {
+      "description": "A situation or set of circumstances, especially one that affects one's power to act.",
+      "examples": [
+        "the company's financial position is grim",
+        "we felt we were not in a position to judge the merits of the case"
+      ],
+      "synonyms": [
+        "situation",
+        "state",
+        "condition",
+        "circumstances",
+        "set of circumstances",
+        "state of affairs",
+        "case"
+      ]
+    },
+    {
+      "description": "A person's point of view or attitude toward something.",
+      "examples": [
+        "Ill never accept his position on censorship"
+      ],
+      "synonyms": [
+        "point of view",
+        "viewpoint",
+        "opinion",
+        "way of thinking",
+        "outlook",
+        "attitude",
+        "stand",
+        "standpoint",
+        "stance",
+        "posture",
+        "angle",
+        "perspective",
+        "approach",
+        "slant",
+        "thinking",
+        "policy",
+        "thoughts",
+        "ideas",
+        "sentiments",
+        "feelings"
+      ]
+    },
+    {
+      "description": "An investor's net holdings in one or more markets at a particular time; the status of an individual or institutional trader's open contracts.",
+      "examples": [
+        "traders were covering short positions"
+      ]
+    },
+    {
+      "description": "A proposition laid down or asserted; a tenet or assertion.",
+      "examples": [],
+      "synonyms": [
+        "argument",
+        "claim",
+        "plea",
+        "submission",
+        "allegation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put or arrange (someone or something) in a particular place or way.",
+      "examples": [
+        "he pulled out a chair and positioned it between them",
+        "she positioned herself on a bench"
+      ],
+      "synonyms": [
+        "put",
+        "place",
+        "locate",
+        "situate",
+        "set",
+        "site",
+        "stand",
+        "station"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin positio(n-), from ponere to place. The current sense of the verb dates from the early 19th century.",
+  "pronounciation": "/pəˈziSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/position_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Melt or thaw.",
+      "examples": [
+        "the warm weather helped unthaw the rail lines"
+      ],
+      "synonyms": [
+        "melt",
+        "unfreeze",
+        "soften",
+        "liquefy",
+        "dissolve"
+      ]
+    },
+    {
+      "description": "Still frozen; unmelted.",
+      "examples": [
+        "it could not explain how future science might revive the unthawed dead"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈTHô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unthaw_us_1.mp3"
+}

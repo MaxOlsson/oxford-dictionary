@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "As far as one knows or can see.",
+      "examples": [
+        "the child nodded, apparently content with the promise"
+      ],
+      "synonyms": [
+        "seemingly",
+        "evidently",
+        "it seems",
+        "it seems that",
+        "it would seem",
+        "it would seem that",
+        "it appears",
+        "it appears that",
+        "it would appear",
+        "it would appear that",
+        "as far as one knows",
+        "by all accounts",
+        "so it seems"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈperəntlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apparently_us_1.mp3"
+}

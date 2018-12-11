@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "(of a hen) make a short, guttural sound.",
+      "examples": [],
+      "synonyms": [
+        "screech",
+        "squeal",
+        "shriek",
+        "scream",
+        "croak",
+        "crow",
+        "caw",
+        "cluck",
+        "clack",
+        "cackle",
+        "hoot",
+        "cry",
+        "call"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The characteristic short, guttural sound made by a hen.",
+      "examples": [],
+      "synonyms": [
+        "screech",
+        "squeal",
+        "shriek",
+        "scream",
+        "croak",
+        "crow",
+        "caw",
+        "cluck",
+        "clack",
+        "cackle",
+        "hoot",
+        "cry",
+        "call"
+      ]
+    },
+    {
+      "description": "A stupid or foolish person.",
+      "examples": [
+        "a cluck too lazy to put up a clothesline"
+      ],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: imitative, corresponding to Danish klukke, Swedish klucka.",
+  "pronounciation": "/klək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cluck_us_1.mp3"
+}

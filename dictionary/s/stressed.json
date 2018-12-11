@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Experiencing mental or emotional strain or tension.",
+      "examples": [
+        "stressed workers reported smoking more",
+        "she should see a doctor if she is feeling particularly stressed out"
+      ]
+    },
+    {
+      "description": "(of a syllable) pronounced with stress.",
+      "examples": [
+        "elision after a stressed syllable"
+      ]
+    },
+    {
+      "description": "Strengthened by the application of stress during manufacture; prestressed.",
+      "examples": [
+        "stressed concrete walls"
+      ]
+    }
+  ],
+  "pronounciation": "/strɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stressed_us_3.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "An ornamental cloth covering hung or held up over something, especially a throne or bed.",
+      "examples": [
+        "a romantic four-poster bed complete with drapes and a canopy",
+        "a full moon and a canopy of stars"
+      ],
+      "synonyms": [
+        "awning",
+        "shade",
+        "sunshade",
+        "cover",
+        "covering"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover or provide with a canopy.",
+      "examples": [
+        "a canopied bed",
+        "the river was canopied by overhanging trees"
+      ],
+      "synonyms": [
+        "envelop",
+        "surround",
+        "swathe",
+        "enfold",
+        "cover",
+        "cover up",
+        "conceal",
+        "hide",
+        "secrete",
+        "camouflage",
+        "disguise",
+        "mask",
+        "screen",
+        "shield",
+        "cloak",
+        "blanket",
+        "shroud",
+        "enwrap",
+        "canopy",
+        "overlay"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin canopeum ceremonial canopy, alteration of Latin conopeum mosquito net over a bed, from Greek kōnōpeion couch with mosquito curtains, from kōnōps mosquito.",
+  "pronounciation": "/ˈkænəpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canopy_us_1.mp3"
+}

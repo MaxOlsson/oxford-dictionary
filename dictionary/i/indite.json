@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Write; compose.",
+      "examples": [
+        "he indites the wondrous tale of Our Lord"
+      ],
+      "synonyms": [
+        "write",
+        "create",
+        "devise",
+        "make up",
+        "think up",
+        "frame",
+        "formulate",
+        "fashion",
+        "produce",
+        "originate",
+        "invent",
+        "contrive",
+        "concoct"
+      ]
+    }
+  ],
+  "origin": "Middle English endite, from Old French enditier, based on Latin indicere (see indict).",
+  "pronounciation": "/ɪnˈdaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indite_us_1.mp3"
+}

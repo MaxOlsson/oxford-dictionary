@@ -1,0 +1,36 @@
+{
+  "pronoun, determiner, &amp; predeterminer": [
+    {
+      "description": "Used to refer to two people or things, regarded and identified together.",
+      "examples": [
+        "both his parents indulged him",
+        "she held on with both hands",
+        "a picture of both of us together",
+        "he looked at them both",
+        "I urge you to read both these books",
+        "he was blind in both eyes",
+        "Jackie and I are both self-employed"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used before the first of two alternatives to emphasize that the statement being made applies to each (the other alternative being introduced by “and”)",
+      "examples": [
+        "it has won favor with both young and old",
+        "studies of finches, both in the wild and in captivity",
+        "they all loved to play, both the boys and the girls"
+      ]
+    }
+  ],
+  "phrases": [
+    "countries cannot have it both ways: the cost of a cleaner environment may sometimes be fewer jobs",
+    "We can't have it both ways: you can't have the lowest income taxes in Europe, the best hospitals and schools and cheap petrol too.",
+    "You can't have it both ways - either being forced to borrow to live is a disincentive or it isn't.",
+    "They were clever and funny, and succeeded in having it both ways - appealing to cheesecake instincts while parodying them at the same time.",
+    "His men cannot have it both ways; they can't continue to dominate England and continue to fail in Europe."
+  ],
+  "origin": "Middle English: from Old Norse báthir.",
+  "pronounciation": "/bōTH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/both_us_1.mp3"
+}

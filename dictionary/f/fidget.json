@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Make small movements, especially of the hands and feet, through nervousness or impatience.",
+      "examples": [
+        "the audience had begun to fidget on their chairs"
+      ],
+      "synonyms": [
+        "move restlessly",
+        "wriggle",
+        "squirm",
+        "twitch",
+        "jiggle",
+        "writhe",
+        "twist",
+        "shuffle",
+        "be jittery",
+        "be anxious",
+        "be agitated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quick, small movement, typically a repeated one, caused by nervousness or impatience.",
+      "examples": [
+        "he disturbed other people with convulsive fidgets"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from obsolete or dialect fidge to twitch; perhaps related to Old Norse fikja move briskly, be restless or eager.",
+  "pronounciation": "/ˈfɪdʒɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fidget_us_1.mp3"
+}

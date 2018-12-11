@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) give a loud shout or cry.",
+      "examples": [
+        "he hollers when he wants feeding",
+        "“I can't get down,” she hollered"
+      ],
+      "synonyms": [
+        "shout",
+        "yell",
+        "cry",
+        "cry out",
+        "call",
+        "call out",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "bark",
+        "shriek",
+        "scream",
+        "screech",
+        "bay",
+        "wail",
+        "whoop",
+        "boom",
+        "thunder",
+        "raise one's voice",
+        "call at the top of one's voice"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loud cry or shout.",
+      "examples": [],
+      "synonyms": [
+        "shout",
+        "cry",
+        "yell",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "shriek",
+        "scream",
+        "screech",
+        "bay",
+        "wail",
+        "whoop"
+      ]
+    }
+  ],
+  "phrases": [
+    "just give me a holler any time you want a hand",
+    "I'll probably give him a holler this week"
+  ],
+  "origin": "Late 17th century (as a verb): variant of the rare verb hollo; related to halloo.",
+  "pronounciation": "/ˈhɑlər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/holler_us_1.mp3"
+}

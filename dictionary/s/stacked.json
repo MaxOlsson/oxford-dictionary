@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a number of things) put or arranged in a stack or stacks.",
+      "examples": [
+        "the stacked chairs"
+      ]
+    },
+    {
+      "description": "(of a deck of cards) shuffled or arranged dishonestly so as to gain an unfair advantage.",
+      "examples": []
+    },
+    {
+      "description": "(of a woman) having large breasts.",
+      "examples": [],
+      "synonyms": [
+        "large-breasted",
+        "big-breasted",
+        "full-breasted",
+        "heavy-breasted",
+        "bosomy",
+        "large-bosomed",
+        "big-bosomed",
+        "full-bosomed"
+      ]
+    },
+    {
+      "description": "(of a task) placed in a queue for subsequent processing.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/stakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stacked_us_1.mp3"
+}

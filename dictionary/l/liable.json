@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Responsible by law; legally answerable.",
+      "examples": [
+        "the supplier of goods or services can become liable for breach of contract in a variety of ways"
+      ],
+      "synonyms": [
+        "responsible",
+        "legally responsible",
+        "accountable",
+        "answerable",
+        "chargeable",
+        "blameworthy",
+        "at fault",
+        "culpable",
+        "subject",
+        "guilty",
+        "faulty",
+        "censurable"
+      ]
+    },
+    {
+      "description": "Likely to do or to be something.",
+      "examples": [
+        "patients were liable to faint if they stood up too suddenly"
+      ],
+      "synonyms": [
+        "likely",
+        "inclined",
+        "tending",
+        "disposed",
+        "apt",
+        "predisposed",
+        "prone",
+        "given"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps from Anglo-Norman French, from French lier to bind, from Latin ligare.",
+  "pronounciation": "/ˈlī(ə)b(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/liable_us_1.mp3"
+}

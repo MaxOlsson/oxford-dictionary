@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not remembered.",
+      "examples": [
+        "he spoke to me at my apartment and other unrecalled specific occasions"
+      ],
+      "synonyms": [
+        "bygone",
+        "past",
+        "former",
+        "one-time",
+        "previous",
+        "old",
+        "olden",
+        "departed",
+        "vanished",
+        "forgotten",
+        "unremembered",
+        "consigned to oblivion",
+        "extinct",
+        "dead",
+        "lost and gone",
+        "lost in time"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnrɪˈkɔːld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unrecalled_gb_1.mp3"
+}

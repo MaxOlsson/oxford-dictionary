@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking physical strength, especially as a result of age or illness.",
+      "examples": [
+        "my legs are very feeble after the flu"
+      ],
+      "synonyms": [
+        "weak",
+        "weakly",
+        "weakened",
+        "puny",
+        "wasted",
+        "frail",
+        "infirm",
+        "delicate",
+        "sickly",
+        "ailing",
+        "unwell",
+        "poorly",
+        "failing",
+        "helpless",
+        "powerless",
+        "impotent",
+        "enfeebled",
+        "enervated",
+        "debilitated",
+        "incapacitated",
+        "effete"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French fieble, earlier fleible, from Latin flebilis lamentable, from flere weep.",
+  "pronounciation": "/ˈfēbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feeble_us_1.mp3"
+}

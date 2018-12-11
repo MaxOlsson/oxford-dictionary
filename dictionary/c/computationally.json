@@ -1,0 +1,18 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that uses or relates to computers.",
+      "examples": [
+        "video images are processed computationally"
+      ]
+    },
+    {
+      "description": "In a way that relates to the process of mathematical calculation.",
+      "examples": [
+        "a computationally efficient algorithm"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkämpyəˈtāSH(ə)n(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/computationally_us_1.mp3"
+}

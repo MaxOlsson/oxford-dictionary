@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Highly trained or skilled.",
+      "examples": [
+        "an accomplished pianist"
+      ],
+      "synonyms": [
+        "expert",
+        "skilled",
+        "skilful",
+        "masterly",
+        "virtuoso",
+        "master",
+        "consummate",
+        "proficient",
+        "talented",
+        "gifted",
+        "adept",
+        "adroit",
+        "deft",
+        "dexterous",
+        "able",
+        "good",
+        "competent",
+        "capable",
+        "efficient",
+        "experienced",
+        "seasoned",
+        "trained",
+        "practised",
+        "professional",
+        "polished",
+        "well versed",
+        "versed",
+        "smart",
+        "clever",
+        "ingenious",
+        "ready",
+        "apt",
+        "handy",
+        "artful"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈkɑmplɪʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accomplished_us_1.mp3"
+}

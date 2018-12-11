@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A general review or summary of a subject.",
+      "examples": [
+        "a critical overview of the scientific issues of our time"
+      ],
+      "synonyms": [
+        "synopsis",
+        "precis",
+        "résumé",
+        "abstract",
+        "abridgement",
+        "digest",
+        "compendium",
+        "condensation",
+        "encapsulation",
+        "abbreviated version"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a general review or summary of.",
+      "examples": [
+        "the report overviews the needs of the community"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈōvərˌvyo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overview_us_1.mp3"
+}

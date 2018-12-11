@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or marking the beginning of something; initial.",
+      "examples": [
+        "the inceptive period of the program"
+      ],
+      "synonyms": [
+        "beginning",
+        "opening",
+        "commencing",
+        "starting",
+        "embryonic",
+        "fledgling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inceptive verb.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (as a noun): from late Latin inceptivus, from incept- begun, from the verb incipere.",
+  "pronounciation": "/ɪnˈsɛptɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inceptive_us_1.mp3"
+}

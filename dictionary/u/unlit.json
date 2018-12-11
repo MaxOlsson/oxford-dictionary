@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not provided with lighting.",
+      "examples": [
+        "an unlit staircase"
+      ],
+      "synonyms": [
+        "indistinct",
+        "faint",
+        "vague",
+        "ill-defined",
+        "unclear",
+        "blurred",
+        "blurry",
+        "misty",
+        "hazy",
+        "foggy",
+        "veiled",
+        "cloudy",
+        "clouded",
+        "nebulous",
+        "fuzzy"
+      ]
+    },
+    {
+      "description": "Not having been set alight.",
+      "examples": [
+        "his unlit pipe"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈlɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlit_us_2.mp3"
+}

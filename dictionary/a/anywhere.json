@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "In or to any place.",
+      "examples": [
+        "he couldn't be found anywhere"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Any place.",
+      "examples": [
+        "he doesn't have anywhere to live"
+      ]
+    }
+  ],
+  "phrases": [
+    "I wouldn't dream of letting a surgeon anywhere near my eyes",
+    "When he came home he was not allowed to be anywhere near my sister and me.",
+    "People shouldn't be allowed anywhere near a computer unless they've rudimentary lessons in how to use one.",
+    "I didn't see it clearly but wherever the guy with the ball was going it wasn't anywhere near the goal.",
+    "I had to leave home at 18 to go to uni as my parents didn't live anywhere near one."
+  ],
+  "pronounciation": "/ˈenēˌ(h)wer/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anywhere_us_1.mp3"
+}

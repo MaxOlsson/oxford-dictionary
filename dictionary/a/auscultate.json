@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Examine a patient by listening to sounds from (the heart, lungs, or other organs), typically using a stethoscope.",
+      "examples": [
+        "the lungs and heart should be auscultated for signs of congestive heart failure"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈôskəlˌtāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/auscultate_us_1.mp3"
+}

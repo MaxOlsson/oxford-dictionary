@@ -1,0 +1,22 @@
+{
+  "pronoun": [
+    {
+      "description": "Used to refer to the person being addressed as the object of a verb or preposition when they are also the subject of the clause.",
+      "examples": [
+        "help yourselves, boys",
+        "see for yourself"
+      ]
+    },
+    {
+      "description": "You personally (used to emphasize the person being addressed)",
+      "examples": [
+        "you're going to have to do it yourself"
+      ]
+    }
+  ],
+  "phrases": [
+    "How's the family and how's yourself?"
+  ],
+  "pronounciation": "/yərˈself/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yourself_us_4.mp3"
+}

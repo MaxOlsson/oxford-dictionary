@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(of food or diet) containing a relatively high amount of starch.",
+      "examples": [],
+      "synonyms": [
+        "substantial",
+        "hearty",
+        "ample",
+        "abundant",
+        "solid",
+        "nutritious",
+        "nourishing",
+        "satisfying",
+        "square"
+      ]
+    },
+    {
+      "description": "(of clothing) stiff with starch.",
+      "examples": []
+    },
+    {
+      "description": "Very stiff, formal, or prim in manner or character.",
+      "examples": [
+        "the manager is usually a bit starchy"
+      ],
+      "synonyms": [
+        "sedate",
+        "respectable",
+        "quiet",
+        "serious",
+        "serious-minded",
+        "steady",
+        "conventional",
+        "traditional",
+        "unadventurous",
+        "unenterprising",
+        "set in one's ways"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstɑrtʃi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/starchy_us_1.mp3"
+}

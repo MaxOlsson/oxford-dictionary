@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A podcast with video content.",
+      "examples": [
+        "our site has loads of extra features, from photo galleries to videocasts"
+      ],
+      "synonyms": [
+        "programme",
+        "show",
+        "production",
+        "presentation",
+        "performance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make available as a videocast.",
+      "examples": [
+        "the ceremonies were videocast live on the Internet"
+      ],
+      "synonyms": [
+        "transmit",
+        "relay",
+        "air",
+        "beam",
+        "put out",
+        "send out",
+        "put on the air",
+        "put on the airwaves",
+        "show",
+        "screen",
+        "televise",
+        "telecast",
+        "videocast",
+        "podcast",
+        "live-stream"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvɪdɪoʊˌkæst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/videocast_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Reproduce (a message, sound, or transmission) in a confused and distorted way.",
+      "examples": [
+        "the connection was awful and kept garbling his voice"
+      ],
+      "synonyms": [
+        "mix up",
+        "muddle",
+        "jumble",
+        "confuse",
+        "blur",
+        "slur",
+        "obscure",
+        "distort",
+        "twist",
+        "twist around",
+        "warp",
+        "misstate",
+        "misquote",
+        "misreport",
+        "misrepresent",
+        "mistranslate",
+        "misinterpret",
+        "misconstrue"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A garbled account or transmission.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense sift out, cleanse): from Anglo-Latin and Italian garbellare, from Arabic ġarbala sift, perhaps from late Latin cribellare to sieve, from Latin cribrum sieve.",
+  "pronounciation": "/ˈɡärbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/garble_us_1.mp3"
+}

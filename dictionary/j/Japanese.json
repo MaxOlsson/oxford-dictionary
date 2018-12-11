@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Japan or its language, culture, or people.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Japan, or a person of Japanese descent.",
+      "examples": []
+    },
+    {
+      "description": "The language of Japan, spoken by almost all of its population.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌjapəˈnēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/japanese_1_us_1.mp3"
+}

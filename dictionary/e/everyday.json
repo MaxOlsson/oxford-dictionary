@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Happening or used every day; daily.",
+      "examples": [
+        "everyday chores like shopping and housework"
+      ],
+      "synonyms": [
+        "daily",
+        "day-to-day",
+        "quotidian"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Each day; daily.",
+      "examples": [
+        "I get up at six every day"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɛvriˌdeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/everyday_us_1.mp3"
+}

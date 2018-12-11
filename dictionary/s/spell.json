@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Write or name the letters that form (a word) in correct sequence.",
+      "examples": [
+        "Dolly spelled her name",
+        "journals have a house style about how to spell"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A form of words used as a magical charm or incantation.",
+      "examples": [],
+      "synonyms": [
+        "incantation",
+        "charm",
+        "conjuration",
+        "rune",
+        "magic formula"
+      ]
+    }
+  ],
+  "phrases": [
+    "After we talked about each of the words, we spelled them out loud.",
+    "I was communicating by spelling things out on a letter board.",
+    "Sarah practically spelled the words out to him and he showed no signs of knowing what the hell she was talking about.",
+    "I spelled the words out for my dad, but he didn't know what they meant either.",
+    "She spelt the word out in her head, but sometimes it turned into farther.",
+    "I felt like I was under a spell, and could no longer control my body.",
+    "I just stood there staring dumbly like someone under a spell.",
+    "The soft music continued to blare from the small stereo that she owned, the symphony sounding brilliant and almost hypnotic, taking Eva under a spell.",
+    "As if under a spell or hypnotized, she couldn't escape.",
+    "He looked back at Eugene who seemed to be under a spell and thoughts rushed through his mind."
+  ],
+  "origin": "Late Middle English: perhaps a variant of obsolete speld chip, splinter.",
+  "pronounciation": "/spel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spell_us_1.mp3"
+}

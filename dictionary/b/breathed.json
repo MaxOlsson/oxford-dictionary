@@ -1,0 +1,16 @@
+{
+  "adjective": [
+    {
+      "description": "Having breath of a specified kind.",
+      "examples": [
+        "a foul-breathed poodle"
+      ]
+    },
+    {
+      "description": "Unvoiced; voiceless.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/breTHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breathed_us_1.mp3"
+}

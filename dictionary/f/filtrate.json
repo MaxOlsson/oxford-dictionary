@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A liquid which has passed through a filter.",
+      "examples": [
+        "filtrates of bacterial cultures",
+        "drops of clear filtrate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Filter.",
+      "examples": [
+        "the remaining alkali is filtrated"
+      ],
+      "synonyms": [
+        "ooze",
+        "trickle",
+        "exude",
+        "drip",
+        "dribble",
+        "flow",
+        "issue",
+        "discharge",
+        "excrete",
+        "escape",
+        "leak",
+        "drain",
+        "bleed",
+        "sweat",
+        "well",
+        "leach",
+        "filter",
+        "percolate",
+        "permeate",
+        "soak"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from modern Latin filtrat- filtered, from the verb filtrare, from medieval Latin filtrum (see filter).",
+  "pronounciation": "/ˈfɪlˌtreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filtrate_us_1.mp3"
+}

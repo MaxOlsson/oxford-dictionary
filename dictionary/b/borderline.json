@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A line marking a border.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Barely acceptable in quality or as belonging to a category; on the borderline.",
+      "examples": [
+        "references may be requested in borderline cases"
+      ],
+      "synonyms": [
+        "marginal",
+        "indefinite",
+        "uncertain",
+        "unsure",
+        "unsettled",
+        "undecided",
+        "up in the air",
+        "doubtful",
+        "open to doubt",
+        "problematic",
+        "indeterminate",
+        "unclassifiable",
+        "ambivalent",
+        "equivocal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbôrdərˌlīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/borderline_us_1.mp3"
+}

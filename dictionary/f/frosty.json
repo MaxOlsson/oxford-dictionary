@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "(of the weather) very cold, with frost forming on surfaces.",
+      "examples": [
+        "a cold and frosty morning"
+      ],
+      "synonyms": [
+        "freezing",
+        "frigid",
+        "glacial",
+        "arctic",
+        "wintry",
+        "bitter",
+        "bitterly cold",
+        "cold",
+        "ice-cold",
+        "icy-cold",
+        "cool",
+        "chilly",
+        "crisp",
+        "bleak"
+      ]
+    },
+    {
+      "description": "Cold and unfriendly in manner.",
+      "examples": [
+        "Sam gave her a frosty look"
+      ],
+      "synonyms": [
+        "unfriendly",
+        "unsympathetic",
+        "inhospitable",
+        "unwelcoming",
+        "forbidding",
+        "hostile",
+        "disdainful",
+        "haughty",
+        "stony",
+        "stern",
+        "hard",
+        "fierce"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfrôstē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frosty_us_1.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "An absurd or comically exaggerated imitation of something, especially in a literary or dramatic work; a parody.",
+      "examples": [
+        "the funniest burlesque of opera",
+        "burlesque Shakespearean stanzas"
+      ],
+      "synonyms": [
+        "parody",
+        "caricature",
+        "travesty",
+        "pastiche",
+        "take-off",
+        "skit",
+        "imitation",
+        "satire",
+        "lampoon"
+      ]
+    },
+    {
+      "description": "A variety show, typically including striptease.",
+      "examples": [
+        "burlesque clubs"
+      ],
+      "synonyms": [
+        "light entertainment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to appear absurd by parodying or copying in an exaggerated form.",
+      "examples": [
+        "she struck a ridiculous pose that burlesqued her own vanity"
+      ],
+      "synonyms": [
+        "mock",
+        "make fun of",
+        "laugh at",
+        "make jokes about",
+        "ridicule",
+        "jeer at",
+        "sneer at",
+        "deride",
+        "treat with contempt",
+        "treat contemptuously",
+        "scorn",
+        "laugh to scorn",
+        "scoff at",
+        "pillory",
+        "be sarcastic about",
+        "satirize",
+        "lampoon",
+        "burlesque",
+        "parody",
+        "tease",
+        "taunt",
+        "rag",
+        "make a monkey of",
+        "chaff",
+        "jibe at"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French, from Italian burlesco, from burla mockery, of unknown origin.",
+  "pronounciation": "/ˌbərˈlɛsk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burlesque_us_1.mp3"
+}

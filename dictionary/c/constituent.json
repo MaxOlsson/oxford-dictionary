@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Being a part of a whole.",
+      "examples": [
+        "the constituent minerals of the rock"
+      ],
+      "synonyms": [
+        "component",
+        "integral"
+      ]
+    },
+    {
+      "description": "Being a voting member of a community or organization and having the power to appoint or elect.",
+      "examples": [
+        "the constituent body has a right of veto"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of a constituency.",
+      "examples": [],
+      "synonyms": [
+        "voter",
+        "elector",
+        "member of the electorate",
+        "member of a constituency"
+      ]
+    },
+    {
+      "description": "A component part of something.",
+      "examples": [
+        "the essential constituents of the human diet"
+      ],
+      "synonyms": [
+        "component",
+        "component part",
+        "ingredient",
+        "element"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun denoting a person who appoints another as agent): from Latin constituent- (partly via French constituant) establishing, appointing, from the verb constituere (see constitute).",
+  "pronounciation": "/kənˈstɪtʃuənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstituent_us_1.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "verb": [
+    {
+      "description": "Wash or rinse out (an area or container) by pouring large amounts of water or other liquid over or into it.",
+      "examples": [
+        "I swilled out the mug"
+      ],
+      "synonyms": [
+        "wash",
+        "sluice",
+        "clean out",
+        "flush",
+        "rinse",
+        "bathe",
+        "cleanse",
+        "drench"
+      ]
+    },
+    {
+      "description": "Drink (something) greedily or in large quantities.",
+      "examples": [
+        "they whiled away their evening swilling pints of beer",
+        "his beer-swilling pals"
+      ],
+      "synonyms": [
+        "drink",
+        "quaff",
+        "swallow",
+        "down",
+        "gulp down",
+        "drain",
+        "guzzle",
+        "imbibe",
+        "sup",
+        "slurp",
+        "consume"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Kitchen refuse and scraps of waste food mixed with water for feeding to pigs.",
+      "examples": [],
+      "synonyms": [
+        "pigswill",
+        "hogwash",
+        "pigwash",
+        "wash",
+        "mash"
+      ]
+    },
+    {
+      "description": "A large mouthful of a drink.",
+      "examples": [
+        "a swill of ale"
+      ],
+      "synonyms": [
+        "gulp",
+        "drink",
+        "swallow",
+        "draught",
+        "mouthful"
+      ]
+    }
+  ],
+  "origin": "Old English swillan, swilian (verb), of unknown origin. The noun dates from the mid 16th century.",
+  "pronounciation": "/swɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swill_us_1.mp3"
+}

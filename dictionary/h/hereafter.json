@@ -1,0 +1,44 @@
+{
+  "adverb": [
+    {
+      "description": "From now on.",
+      "examples": [
+        "nothing I say hereafter is intended to relate to the second decision"
+      ],
+      "synonyms": [
+        "from now on",
+        "after this",
+        "as of now",
+        "from this day on",
+        "from this time on",
+        "from this moment forth",
+        "from this day forth",
+        "from this day forward",
+        "subsequently",
+        "in future",
+        "in the future",
+        "hence",
+        "henceforth",
+        "henceforward"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Life after death.",
+      "examples": [
+        "suffering is part of our preparation for the hereafter"
+      ],
+      "synonyms": [
+        "life after death",
+        "the afterlife",
+        "the life to come",
+        "the afterworld",
+        "the next world",
+        "the beyond"
+      ]
+    }
+  ],
+  "pronounciation": "/hɪrˈæftər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hereafter_us_1.mp3"
+}

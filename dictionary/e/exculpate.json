@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Show or declare that (someone) is not guilty of wrongdoing.",
+      "examples": [
+        "the article exculpated the mayor"
+      ],
+      "synonyms": [
+        "release",
+        "liberate",
+        "free",
+        "set free",
+        "let go",
+        "let out",
+        "allow to leave",
+        "let loose",
+        "set loose",
+        "turn loose"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin exculpat- freed from blame, from the verb exculpare, from ex- out, from + Latin culpa blame.",
+  "pronounciation": "/ˈekskəlˌpāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exculpate_us_1.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to, using, or resembling magic.",
+      "examples": [
+        "he had a gentle, magical touch with the child"
+      ],
+      "synonyms": [
+        "supernatural",
+        "magic",
+        "occult",
+        "mystical",
+        "mystic",
+        "paranormal",
+        "preternatural",
+        "other-worldly",
+        "spectral",
+        "ghostly",
+        "secret",
+        "dark",
+        "cryptic",
+        "uncanny",
+        "cabbalistic",
+        "shamanistic"
+      ]
+    },
+    {
+      "description": "Beautiful or delightful in such a way as to seem removed from everyday life.",
+      "examples": [
+        "it was a magical evening of pure nostalgia"
+      ],
+      "synonyms": [
+        "extraordinary",
+        "remarkable",
+        "exceptional",
+        "outstanding",
+        "incredible",
+        "phenomenal",
+        "unbelievable",
+        "inconceivable",
+        "unimaginable",
+        "amazing",
+        "astonishing",
+        "astounding",
+        "stunning",
+        "staggering",
+        "marvellous",
+        "magnificent",
+        "wonderful",
+        "sensational",
+        "breathtaking",
+        "miraculous",
+        "singular",
+        "uncommon",
+        "unheard of",
+        "unique",
+        "unparalleled",
+        "unprecedented",
+        "unusual",
+        "unusually good",
+        "too good to be true",
+        "superlative",
+        "prodigious",
+        "surpassing",
+        "rare"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmædʒək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/magical_us_1.mp3"
+}

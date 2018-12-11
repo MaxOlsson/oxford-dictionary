@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "An object or flat figure in an elongated rectangle or oval shape.",
+      "examples": [
+        "an oblong of grass"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having an elongated shape, as a rectangle or an oval.",
+      "examples": [
+        "oblong tables"
+      ],
+      "synonyms": [
+        "quadrilateral",
+        "rectangular",
+        "right-angled",
+        "at right angles",
+        "perpendicular"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin oblongus longish.",
+  "pronounciation": "/ˈäbˌlôNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oblong_us_1.mp3"
+}

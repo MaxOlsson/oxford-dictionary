@@ -1,0 +1,83 @@
+{
+  "verb": [
+    {
+      "description": "Be present at (an event, meeting, or function)",
+      "examples": [
+        "the entire sales force attended the conference",
+        "she was unable to attend the wedding"
+      ],
+      "synonyms": [
+        "be present at",
+        "be at",
+        "be there at",
+        "sit in on",
+        "take part in"
+      ]
+    },
+    {
+      "description": "Deal with.",
+      "examples": [
+        "he muttered that he had business to attend to"
+      ],
+      "synonyms": [
+        "deal with",
+        "cope with",
+        "see to",
+        "address",
+        "manage",
+        "organize",
+        "orchestrate",
+        "make arrangements for",
+        "sort out",
+        "handle",
+        "take care of",
+        "take charge of",
+        "take responsibility for",
+        "take in hand",
+        "take forward",
+        "take up",
+        "undertake",
+        "tackle",
+        "give one's attention to",
+        "apply oneself to"
+      ]
+    },
+    {
+      "description": "Escort or accompany (a member of royalty or other important personage) so as to assist them; wait on.",
+      "examples": [
+        "Her Royal Highness was attended by two capable women"
+      ],
+      "synonyms": [
+        "escort",
+        "accompany",
+        "guard",
+        "chaperone",
+        "squire",
+        "convoy",
+        "guide",
+        "lead",
+        "conduct",
+        "usher",
+        "shepherd",
+        "follow",
+        "shadow"
+      ]
+    },
+    {
+      "description": "Occur with or as a result of.",
+      "examples": [
+        "people feared that the switch to a peacetime economy would be attended by a severe slump"
+      ],
+      "synonyms": [
+        "be accompanied by",
+        "be associated with",
+        "be connected with",
+        "be linked with",
+        "go hand in hand with"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense apply one's mind or energies to): from Old French atendre, from Latin attendere, from ad- to + tendere stretch.",
+  "pronounciation": "/əˈtɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/attend_us_1.mp3"
+}

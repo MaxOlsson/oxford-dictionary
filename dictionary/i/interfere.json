@@ -1,0 +1,77 @@
+{
+  "verb": [
+    {
+      "description": "Take part or intervene in an activity without invitation or necessity.",
+      "examples": [
+        "you promised not to interfere",
+        "she tried not to interfere in her children's lives"
+      ],
+      "synonyms": [
+        "meddlesome",
+        "meddling",
+        "intrusive",
+        "intruding",
+        "prying",
+        "probing",
+        "nosy",
+        "inquisitive",
+        "over-curious",
+        "over-interested",
+        "busybody"
+      ]
+    },
+    {
+      "description": "Prevent (a process or activity) from continuing or being carried out properly.",
+      "examples": [
+        "a job would interfere with his studies"
+      ],
+      "synonyms": [
+        "impede",
+        "obstruct",
+        "get in the way of",
+        "stand in the way of",
+        "hinder",
+        "be a hindrance to",
+        "inhibit",
+        "restrict",
+        "restrain",
+        "constrain",
+        "hamper",
+        "handicap",
+        "cramp",
+        "check",
+        "block",
+        "frustrate",
+        "thwart",
+        "baulk",
+        "hold back",
+        "hold up"
+      ]
+    },
+    {
+      "description": "Handle or adjust (something) without permission, especially so as to cause damage.",
+      "examples": [
+        "he admitted interfering with a van"
+      ],
+      "synonyms": [
+        "handle",
+        "hold",
+        "pick up",
+        "move"
+      ]
+    },
+    {
+      "description": "(of light or other electromagnetic waveforms) mutually act upon each other and produce interference.",
+      "examples": [
+        "light pulses interfere constructively in a fiber to emit a pulse"
+      ]
+    },
+    {
+      "description": "(of a horse) knock one foot against the fetlock of another leg.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French s'entreferir strike each other, from entre- between + ferir (from Latin ferire to strike).",
+  "pronounciation": "/ˌɪn(t)ərˈfɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interfere_us_1.mp3"
+}

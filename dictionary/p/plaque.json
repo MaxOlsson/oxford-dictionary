@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.",
+      "examples": [],
+      "synonyms": [
+        "memorial tablet",
+        "plate",
+        "stone plate",
+        "metal plate",
+        "tablet",
+        "panel",
+        "sign",
+        "brass",
+        "medallion",
+        "plaquette",
+        "cartouche"
+      ]
+    },
+    {
+      "description": "A sticky deposit on teeth in which bacteria proliferate.",
+      "examples": [
+        "plaque around gum margins can lead to gingivitis"
+      ]
+    },
+    {
+      "description": "A small, distinct, typically raised patch or region resulting from local damage or deposition of material, such as a fatty deposit on an artery wall in atherosclerosis or a site of localized damage of brain tissue in Alzheimer's disease.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: from French, from Dutch plak tablet, from plakken to stick.",
+  "pronounciation": "/plæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plaque_us_1.mp3"
+}

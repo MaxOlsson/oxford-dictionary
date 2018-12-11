@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of anxiety or worry.",
+      "examples": [
+        "public disquiet about animal testing"
+      ],
+      "synonyms": [
+        "unease",
+        "uneasiness",
+        "worry",
+        "anxiety",
+        "anxiousness",
+        "distress",
+        "concern"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) worried or anxious.",
+      "examples": [
+        "she felt disquieted at the lack of interest the girl had shown"
+      ],
+      "synonyms": [
+        "perturb",
+        "agitate",
+        "upset",
+        "disturb",
+        "unnerve",
+        "unsettle",
+        "discompose",
+        "disconcert",
+        "ruffle",
+        "startle"
+      ]
+    }
+  ],
+  "pronounciation": "/disˈkwīət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disquiet_us_1.mp3"
+}

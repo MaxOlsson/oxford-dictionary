@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Live in or at a specified place.",
+      "examples": [
+        "groups of gypsies still dwell in these caves"
+      ],
+      "synonyms": [
+        "reside",
+        "live",
+        "have one's home",
+        "have one's residence",
+        "be settled",
+        "be housed",
+        "lodge",
+        "stay"
+      ]
+    },
+    {
+      "description": "Think, speak, or write at length about (a particular subject, especially one that is a source of unhappiness, anxiety, or dissatisfaction)",
+      "examples": [
+        "I've got better things to do than dwell on the past"
+      ],
+      "synonyms": [
+        "linger over",
+        "mull over",
+        "muse on",
+        "brood about",
+        "brood over",
+        "think about",
+        "spend time thinking about",
+        "be preoccupied by",
+        "be obsessed by",
+        "eat one's heart out over"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slight regular pause in the motion of a machine.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English dwellan lead astray, hinder, delay (in Middle English tarry, remain in a place), of Germanic origin; related to Middle Dutch dwellen stun, perplex and Old Norse dvelja delay, tarry, stay.",
+  "pronounciation": "/dwel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dwell_us_1.mp3"
+}

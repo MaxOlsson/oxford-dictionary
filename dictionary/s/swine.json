@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A pig.",
+      "examples": [],
+      "synonyms": [
+        "hog",
+        "boar",
+        "sow",
+        "porker",
+        "piglet"
+      ]
+    },
+    {
+      "description": "A person regarded by the speaker with contempt and disgust.",
+      "examples": [
+        "what an arrogant, unfeeling swine!"
+      ],
+      "synonyms": [
+        "scoundrel",
+        "villain",
+        "rogue",
+        "rascal",
+        "brute",
+        "animal",
+        "weasel",
+        "snake",
+        "monster",
+        "ogre",
+        "wretch",
+        "devil",
+        "good-for-nothing",
+        "reprobate",
+        "wrongdoer",
+        "evil-doer"
+      ]
+    }
+  ],
+  "origin": "Old English swīn, of Germanic origin; related to Dutch zwijn and German Schwein, also to sow.",
+  "pronounciation": "/swaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swine_us_1.mp3"
+}

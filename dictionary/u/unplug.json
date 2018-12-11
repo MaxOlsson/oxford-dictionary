@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Disconnect (an electrical device) by removing its plug from a socket.",
+      "examples": [
+        "she unplugged the fridge"
+      ],
+      "synonyms": [
+        "switch off",
+        "turn out",
+        "put off",
+        "shut off",
+        "power down",
+        "flick off",
+        "extinguish",
+        "deactivate",
+        "trip"
+      ]
+    },
+    {
+      "description": "Remove an obstacle or blockage from.",
+      "examples": [
+        "a procedure to unplug blocked arteries"
+      ]
+    },
+    {
+      "description": "Relax by disengaging from normal activities.",
+      "examples": [
+        "they've gone up to the cabin to unplug"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈpləɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unplug_us_1.mp3"
+}

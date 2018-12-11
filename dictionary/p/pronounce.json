@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Make the sound of (a word or part of a word) in the correct or a particular way.",
+      "examples": [
+        "Gerry pronounced the hero's name “Cahoolin”",
+        "a company whose name no one could pronounce"
+      ],
+      "synonyms": [
+        "say",
+        "enunciate",
+        "articulate",
+        "utter",
+        "express",
+        "voice",
+        "vocalize",
+        "get one's tongue round",
+        "sound"
+      ]
+    },
+    {
+      "description": "Declare or announce, typically formally or solemnly.",
+      "examples": [
+        "allow history to pronounce the verdict",
+        "she was pronounced dead at the scene",
+        "the doctors pronounced that he would never improve"
+      ],
+      "synonyms": [
+        "announce",
+        "proclaim",
+        "declare",
+        "rule",
+        "decree",
+        "ordain",
+        "adjudicate",
+        "lay down",
+        "affirm",
+        "assert",
+        "state",
+        "judge"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French pronuncier, from Latin pronuntiare, from pro- out, forth + nuntiare announce (from nuntius messenger).",
+  "pronounciation": "/prəˈnouns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pronounce_us_1.mp3"
+}

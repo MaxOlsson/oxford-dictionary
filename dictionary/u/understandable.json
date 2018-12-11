@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be understood.",
+      "examples": [
+        "though his accent was strange, the words were perfectly understandable"
+      ],
+      "synonyms": [
+        "comprehensible",
+        "easy to understand",
+        "intelligible",
+        "penetrable",
+        "fathomable",
+        "graspable",
+        "lucid",
+        "coherent",
+        "clear",
+        "crystal clear",
+        "explicit",
+        "unambiguous",
+        "transparent",
+        "plain",
+        "straightforward",
+        "digestible",
+        "user-friendly",
+        "glanceable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈstændəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/understandable_us_1.mp3"
+}

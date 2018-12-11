@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "In a state of peaceful happiness.",
+      "examples": [
+        "he seemed more content, less bitter"
+      ],
+      "synonyms": [
+        "contented",
+        "satisfied",
+        "pleased"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Satisfy (someone)",
+      "examples": [
+        "nothing would content her"
+      ],
+      "synonyms": [
+        "soothe",
+        "pacify",
+        "placate",
+        "appease",
+        "please",
+        "mollify",
+        "make happy",
+        "satisfy",
+        "still",
+        "quieten",
+        "silence"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state of satisfaction.",
+      "examples": [
+        "the greater part of the century was a time of content"
+      ],
+      "synonyms": [
+        "contentedness",
+        "satisfaction",
+        "fulfilment"
+      ]
+    },
+    {
+      "description": "A member of the British House of Lords who votes for a particular motion.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin contentum (plural contenta things contained), neuter past participle of continere (see contain).",
+  "pronounciation": "/ˈkɑntɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontent_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Wildly excited or uncontrolled.",
+      "examples": [
+        "a frenzied attack"
+      ],
+      "synonyms": [
+        "frantic",
+        "wild",
+        "frenetic",
+        "hectic",
+        "fraught",
+        "feverish",
+        "fevered",
+        "mad",
+        "crazed",
+        "manic",
+        "hyperactive",
+        "energetic",
+        "intense",
+        "furious",
+        "fast and furious",
+        "turbulent",
+        "tumultuous",
+        "confused",
+        "confusing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfrɛnzid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frenzied_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A strip of wood, metal, or stone forming the bottom of a doorway and crossed in entering a house or room.",
+      "examples": [],
+      "synonyms": [
+        "doorstep",
+        "sill",
+        "doorsill",
+        "doorway",
+        "entrance",
+        "entry",
+        "way in",
+        "door",
+        "gate",
+        "gateway",
+        "portal",
+        "approach"
+      ]
+    },
+    {
+      "description": "The magnitude or intensity that must be exceeded for a certain reaction, phenomenon, result, or condition to occur or be manifested.",
+      "examples": [
+        "nothing happens until the signal passes the threshold",
+        "a threshold level"
+      ]
+    }
+  ],
+  "origin": "Old English therscold, threscold; related to German dialect Drischaufel; the first element is related to thresh (in a Germanic sense tread), but the origin of the second element is unknown.",
+  "pronounciation": "/ˈθrɛʃˌ(h)oʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/threshold_us_1.mp3"
+}

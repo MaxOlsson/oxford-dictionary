@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "(of a bright light) blind (a person) temporarily.",
+      "examples": [
+        "she was dazzled by the headlights"
+      ],
+      "synonyms": [
+        "blind temporarily",
+        "deprive of sight"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Brightness that confuses someone's vision temporarily.",
+      "examples": [
+        "a dazzle of green and red spotlights"
+      ],
+      "synonyms": [
+        "glare",
+        "flare",
+        "blaze",
+        "brightness",
+        "brilliance",
+        "gleam",
+        "flash",
+        "shimmer",
+        "radiance",
+        "shine"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense be dazzled): frequentative of the verb daze.",
+  "pronounciation": "/ˈdazəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dazzle_us_1.mp3"
+}

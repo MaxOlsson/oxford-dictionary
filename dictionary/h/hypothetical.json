@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of, based on, or serving as a hypothesis.",
+      "examples": [
+        "that option is merely hypothetical at this juncture"
+      ],
+      "synonyms": [
+        "exploratory",
+        "investigational",
+        "probing",
+        "fact-finding",
+        "trial and error"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hypothetical proposition or statement.",
+      "examples": [
+        "Finn talked in hypotheticals, tossing what-if scenarios to Rosen"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhīpəˈTHedək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hypothetical_us_1.mp3"
+}

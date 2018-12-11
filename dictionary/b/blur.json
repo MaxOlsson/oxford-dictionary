@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Make or become unclear or less distinct.",
+      "examples": [
+        "tears blurred her vision",
+        "his novels blur the boundaries between criticism and fiction",
+        "as daylight waned, the pages blurred"
+      ],
+      "synonyms": [
+        "indistinct",
+        "blurry",
+        "fuzzy",
+        "hazy",
+        "misty",
+        "foggy",
+        "shadowy",
+        "smoky",
+        "faint"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that cannot be seen or heard clearly.",
+      "examples": [
+        "the pale blur of her face",
+        "the words were a blur"
+      ],
+      "synonyms": [
+        "indistinct shape",
+        "hazy shape",
+        "vague shape",
+        "something hazy",
+        "something indistinct",
+        "something vague",
+        "haze",
+        "cloud",
+        "mist",
+        "smear",
+        "smudge"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense smear that partially obscures something): perhaps related to blear.",
+  "pronounciation": "/blər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blur_us_1.mp3"
+}

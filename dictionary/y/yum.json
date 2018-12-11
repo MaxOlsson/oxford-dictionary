@@ -1,0 +1,40 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express pleasure at eating, or at the prospect of eating, a particular food.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of food) delicious.",
+      "examples": [],
+      "synonyms": [
+        "delicious",
+        "gorgeous",
+        "tasty",
+        "good",
+        "mouth-watering",
+        "appetizing",
+        "inviting",
+        "palatable",
+        "delectable",
+        "delightful",
+        "succulent",
+        "rich",
+        "sweet",
+        "choice",
+        "dainty",
+        "savoury",
+        "flavoursome",
+        "flavourful",
+        "piquant",
+        "luscious",
+        "toothsome"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: imitative.",
+  "pronounciation": "/yəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yum_us_1.mp3"
+}

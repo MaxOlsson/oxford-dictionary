@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a debt) not yet discharged by payment.",
+      "examples": [
+        "unpaid bills"
+      ],
+      "synonyms": [
+        "unsettled",
+        "outstanding",
+        "unresolved",
+        "unattended to",
+        "due",
+        "overdue",
+        "owing",
+        "owed",
+        "receivable",
+        "to be paid",
+        "payable",
+        "undischarged",
+        "in arrears",
+        "in the red"
+      ]
+    },
+    {
+      "description": "(of work or a period of leave) undertaken without payment.",
+      "examples": [
+        "unpaid labor in the home"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈpeɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unpaid_us_1.mp3"
+}

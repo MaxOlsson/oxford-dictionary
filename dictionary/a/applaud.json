@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Show approval or praise by clapping.",
+      "examples": [
+        "the crowd whistled and applauded",
+        "his speech was loudly applauded"
+      ],
+      "synonyms": [
+        "clap",
+        "cheer",
+        "whistle",
+        "give a standing ovation to",
+        "put one's hands together"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin applaudere, from ad- to + plaudere to clap, reinforced by French applaudir.",
+  "pronounciation": "/əˈplôd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/applaud_us_1.mp3"
+}

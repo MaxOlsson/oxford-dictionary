@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Attached or restricted to the earth.",
+      "examples": [
+        "a flightless earthbound bird"
+      ]
+    },
+    {
+      "description": "Attached or limited to material existence as distinct from a spiritual or heavenly one.",
+      "examples": [
+        "her earthbound view of the sacrament"
+      ],
+      "synonyms": [
+        "earthly",
+        "worldly",
+        "terrestrial",
+        "non-spiritual",
+        "unspiritual",
+        "material"
+      ]
+    },
+    {
+      "description": "Moving toward the earth.",
+      "examples": [
+        "an earthbound spaceship"
+      ],
+      "synonyms": [
+        "descending",
+        "downhill",
+        "falling",
+        "sinking",
+        "going down",
+        "moving down",
+        "sliding",
+        "slipping",
+        "dipping",
+        "earthward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈərTHˌbound/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/earthbound_us_1.mp3"
+}

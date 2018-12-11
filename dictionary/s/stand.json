@@ -1,0 +1,175 @@
+{
+  "verb": [
+    {
+      "description": "Have or maintain an upright position, supported by one's feet.",
+      "examples": [
+        "Lionel stood in the doorway",
+        "she stood still, heart hammering"
+      ],
+      "synonyms": [
+        "be on one's feet",
+        "be upright",
+        "be erect",
+        "be vertical"
+      ]
+    },
+    {
+      "description": "(of an object, building, or settlement) be situated in a particular place or position.",
+      "examples": [
+        "the town stood on a hill",
+        "the hotel stands in three acres of gardens"
+      ],
+      "synonyms": [
+        "be",
+        "be situated",
+        "be located",
+        "be positioned",
+        "be set",
+        "be found",
+        "be sited",
+        "be established",
+        "be perched",
+        "sit",
+        "perch",
+        "nestle"
+      ]
+    },
+    {
+      "description": "Be in a specified state or condition.",
+      "examples": [
+        "since mother's death the house had stood empty",
+        "sorry, darling—I stand corrected"
+      ]
+    },
+    {
+      "description": "Withstand (an experience or test) without being damaged.",
+      "examples": [
+        "small boats that could stand the punishment of heavy seas"
+      ],
+      "synonyms": [
+        "withstand",
+        "stand up to",
+        "put up with",
+        "take",
+        "cope with",
+        "handle",
+        "resist",
+        "sustain",
+        "absorb",
+        "accept"
+      ]
+    },
+    {
+      "description": "Be a candidate in an election.",
+      "examples": [
+        "he stood for parliament in 1968"
+      ]
+    },
+    {
+      "description": "Provide (food or drink) for someone at one's own expense.",
+      "examples": [
+        "somebody in the bar would stand him a beer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An attitude toward a particular issue; a position taken in an argument.",
+      "examples": [
+        "the party's tough stand on welfare",
+        "his traditionalist stand"
+      ],
+      "synonyms": [
+        "attitude",
+        "stance",
+        "point of view",
+        "viewpoint",
+        "opinion",
+        "way of thinking",
+        "outlook",
+        "standpoint",
+        "posture",
+        "position",
+        "angle",
+        "perspective",
+        "approach",
+        "slant",
+        "thinking",
+        "policy",
+        "line",
+        "thoughts",
+        "ideas",
+        "sentiments",
+        "feelings"
+      ]
+    },
+    {
+      "description": "A rack, base, or piece of furniture for holding, supporting, or displaying something.",
+      "examples": [
+        "a microphone stand"
+      ],
+      "synonyms": [
+        "base",
+        "support",
+        "mounting",
+        "platform",
+        "rest",
+        "plinth",
+        "bottom"
+      ]
+    },
+    {
+      "description": "The place where someone typically stands or sits.",
+      "examples": [
+        "she took her stand in front of the desks"
+      ]
+    },
+    {
+      "description": "A large raised tiered structure for spectators, typically at a sports arena.",
+      "examples": [
+        "her parents watched from the stands"
+      ]
+    },
+    {
+      "description": "A cessation from motion or progress.",
+      "examples": [
+        "the train drew to a stand by the signal box"
+      ],
+      "synonyms": [
+        "stop",
+        "halt",
+        "standstill",
+        "dead stop"
+      ]
+    },
+    {
+      "description": "A group of growing plants of a specified kind, especially trees.",
+      "examples": [
+        "a stand of poplars"
+      ],
+      "synonyms": [
+        "copse",
+        "spinney",
+        "thicket",
+        "grove",
+        "coppice",
+        "wood"
+      ]
+    }
+  ],
+  "phrases": [
+    "there are no merits in the proposal as it stands",
+    "The law as it stands puts the home-owner defending his property and the burglar violating it on exactly the same footing.",
+    "But the law as it stands also proposes to outlaw all smoking in theatres - including on the stage.",
+    "The scheme as it stands is a well considered response that pays enormous respect to the building.",
+    "As it stands the movie is a waste of time.",
+    "when it came to fun, Julia stood alone",
+    "In terms of deaths caused by one individual acting alone, he stands alone.",
+    "The clinic stands alone as being almost wholly independent of provincial scrutiny.",
+    "But Malaysia stands alone among the airlines flying here to score a marvellous five stars for its economy class long haul seating.",
+    "The television show stands alone with a unique place in the nation's heart."
+  ],
+  "origin": "Old English standan (verb), stand (noun), of Germanic origin, from an Indo-European root shared by Latin stare and Greek histanai, also by the noun stead.",
+  "pronounciation": "/stand/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stand_us_1.mp3"
+}

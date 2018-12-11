@@ -1,0 +1,23 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to greet someone, attract their attention, or express excitement.",
+      "examples": [
+        "“Yo, Ben!” “Hey Eugene, I thought it was you.”"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "examples": []
+    }
+  ],
+  "possessive determiner": [
+    {
+      "examples": []
+    }
+  ],
+  "origin": "Natural exclamation: first recorded in late Middle English.",
+  "pronounciation": "/yō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yo_us_1.mp3"
+}

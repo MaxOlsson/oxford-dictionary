@@ -1,0 +1,112 @@
+{
+  "verb": [
+    {
+      "description": "Produce (books, newspapers, magazines, etc.), especially in large quantities, by a mechanical process involving the transfer of text, images, or designs to paper.",
+      "examples": [
+        "a thousand copies of the book were printed"
+      ],
+      "synonyms": [
+        "set in print",
+        "send to press",
+        "run off",
+        "preprint",
+        "reprint",
+        "pull",
+        "proof",
+        "copy",
+        "reproduce"
+      ]
+    },
+    {
+      "description": "Write (text) clearly without joining the letters.",
+      "examples": [
+        "print your name and address on the back of the check",
+        "it will be easier to read if I print"
+      ]
+    },
+    {
+      "description": "Mark (a surface, typically a textile or a garment) with a colored design or pattern.",
+      "examples": [
+        "a delicate fabric printed with roses"
+      ],
+      "synonyms": [
+        "imprint",
+        "impress",
+        "stamp",
+        "mark",
+        "brand"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The text appearing in a book, newspaper, or other printed publication, especially with reference to its size, form, or style.",
+      "examples": [
+        "bold print",
+        "squinting at the tiny print"
+      ],
+      "synonyms": [
+        "type",
+        "printing",
+        "letters",
+        "lettering",
+        "characters",
+        "type size",
+        "typeface",
+        "face",
+        "font"
+      ]
+    },
+    {
+      "description": "An indentation or mark left on a surface or soft substance by pressure, especially that of a foot or hand.",
+      "examples": [
+        "there were paw prints everywhere"
+      ],
+      "synonyms": [
+        "impression",
+        "fingerprint",
+        "mark"
+      ]
+    },
+    {
+      "description": "A picture or design printed from a block or plate or copied from a painting by photography.",
+      "examples": [
+        "the walls were hung with wildlife prints"
+      ],
+      "synonyms": [
+        "reproduction",
+        "copy",
+        "replica",
+        "imitation",
+        "facsimile",
+        "duplicate"
+      ]
+    },
+    {
+      "description": "A piece of fabric or clothing with a decorative colored pattern or design printed on it.",
+      "examples": [
+        "light summer prints",
+        "a floral print dress"
+      ],
+      "synonyms": [
+        "printed cloth",
+        "printed fabric",
+        "printed material",
+        "patterned cloth",
+        "patterned fabric",
+        "patterned material",
+        "chintz"
+      ]
+    }
+  ],
+  "phrases": [
+    "Some of her songs were published under her brother's name in his opp. 8 and 9, and a few isolated pieces appeared in print under her own name before she published her op. 1 in 1846.",
+    "His account of the discovery was sent to the publishers in 1775, but took two years to appear in print.",
+    "Newton's method of fluxions was written in 1671 but Newton failed to get it published and it did not appear in print until John Colson produced an English translation in 1736.",
+    "But Finkel's article, despite its glaring problem, may have provided the most accurate sense of life on the cocoa plantations in the Ivory Coast that has yet to appear in print.",
+    "Watching as the tragedy unfolded was the Pequot William Apess, the author of the first published Native American autobiography, which appeared in print in 1829."
+  ],
+  "origin": "Middle English (denoting the impression made by a stamp or seal): from Old French preinte pressed, feminine past participle of preindre, from Latin premere to press.",
+  "pronounciation": "/prɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/print_us_1.mp3"
+}

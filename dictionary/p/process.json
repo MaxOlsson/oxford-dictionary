@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A series of actions or steps taken in order to achieve a particular end.",
+      "examples": [
+        "military operations could jeopardize the peace process"
+      ],
+      "synonyms": [
+        "procedure",
+        "operation",
+        "action",
+        "activity",
+        "exercise",
+        "affair",
+        "business",
+        "job",
+        "task",
+        "undertaking",
+        "proceeding"
+      ]
+    },
+    {
+      "description": "A summons or writ requiring a person to appear in court.",
+      "examples": [],
+      "synonyms": [
+        "summons",
+        "writ",
+        "subpoena"
+      ]
+    },
+    {
+      "description": "A natural appendage or outgrowth on or in an organism, such as a protuberance on a bone.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perform a series of mechanical or chemical operations on (something) in order to change or preserve it.",
+      "examples": [
+        "the various stages in processing the wool"
+      ]
+    }
+  ],
+  "phrases": [
+    "a hurricane that was in the process of devastating South Carolina",
+    "It is also believed that money was in the process of being shipped to the Continent in order to be laundered.",
+    "We were in the process of trying to build a new business.",
+    "The bank is in the process of installing a high end transaction processing switch for this purpose.",
+    "Mr and Mrs Harley were in the process of selling their semi-detached cottage in The Street and had been storing new furniture in the spare bedroom, which caught fire."
+  ],
+  "origin": "Early 19th century: back-formation from procession.",
+  "pronounciation": "/prəˈses/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/process_us_3.mp3"
+}

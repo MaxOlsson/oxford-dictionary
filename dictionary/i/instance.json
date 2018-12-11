@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "An example or single occurrence of something.",
+      "examples": [
+        "a serious instance of corruption",
+        "the search finds every instance where the word appears"
+      ],
+      "synonyms": [
+        "example",
+        "occasion",
+        "occurrence",
+        "case",
+        "representative case",
+        "typical case",
+        "case in point",
+        "illustration",
+        "specimen",
+        "sample",
+        "exemplar",
+        "exemplification"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cite (a fact, case, etc.) as an example.",
+      "examples": [
+        "here he instances in particular the work of Bach"
+      ],
+      "synonyms": [
+        "cite",
+        "quote",
+        "refer to",
+        "make reference to",
+        "mention",
+        "allude to",
+        "adduce",
+        "give",
+        "give as an example",
+        "point to",
+        "point out"
+      ]
+    }
+  ],
+  "phrases": [
+    "Although both the judge at first instance and the Court of Appeal held that the agreement was void, the House of Lords held the contract to be valid and binding.",
+    "At first instance, the jury returned a verdict in favour of the defendant.",
+    "His application for judicial review was dismissed at first instance on 11 April 2001.",
+    "That court unanimously dismissed an appeal against a judgment entered by Justice Carr at first instance in that court.",
+    "The Federal Court of Australia at first instance and then on appeal denied judicial review."
+  ],
+  "origin": "Middle English: via Old French from Latin instantia presence, urgency, from instare be present, press upon, from in- upon + stare to stand. The original sense was urgency, urgent entreaty, surviving in at the instance of. In the late 16th century the word denoted a particular case cited to disprove a general assertion, derived from medieval Latin instantia example to the contrary (translating Greek enstasis objection); hence the meaning single occurrence.",
+  "pronounciation": "/ˈɪnstəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instance_us_1.mp3"
+}

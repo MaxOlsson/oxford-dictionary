@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Make slightly wet.",
+      "examples": [
+        "the fine rain dampened her face"
+      ],
+      "synonyms": [
+        "moisten",
+        "damp",
+        "wet",
+        "dew",
+        "water",
+        "irrigate",
+        "humidify"
+      ]
+    },
+    {
+      "description": "Make less strong or intense.",
+      "examples": [
+        "nothing could dampen her enthusiasm"
+      ],
+      "synonyms": [
+        "lessen",
+        "decrease",
+        "diminish",
+        "reduce",
+        "lower",
+        "moderate",
+        "damp",
+        "damp down",
+        "put a damper on",
+        "throw cold water on",
+        "calm",
+        "cool",
+        "chill",
+        "dull",
+        "blunt",
+        "tone down",
+        "deaden",
+        "temper",
+        "discourage"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdæmpən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dampen_us_1.mp3"
+}

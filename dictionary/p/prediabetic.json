@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or having prediabetes.",
+      "examples": [
+        "he dropped 30 lbs after giving up sugar and starch when he was diagnosed as prediabetic",
+        "a further 57 million people are considered to be in a prediabetic state"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who has prediabetes.",
+      "examples": [
+        "between five and ten percent of prediabetics transition to diabetes each year"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpriˌdaɪəˈbɛdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prediabetic_us_1.mp3"
+}

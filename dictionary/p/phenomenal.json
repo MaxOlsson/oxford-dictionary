@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Very remarkable; extraordinary.",
+      "examples": [
+        "the town expanded at a phenomenal rate"
+      ],
+      "synonyms": [
+        "exceptional",
+        "extraordinary",
+        "remarkable",
+        "outstanding",
+        "amazing",
+        "astonishing",
+        "astounding",
+        "stunning",
+        "staggering",
+        "marvellous",
+        "magnificent",
+        "wonderful",
+        "sensational",
+        "breathtaking",
+        "miraculous",
+        "singular"
+      ]
+    },
+    {
+      "description": "Perceptible by the senses or through immediate experience.",
+      "examples": [
+        "the phenomenal world"
+      ]
+    }
+  ],
+  "pronounciation": "/fəˈnɑmənəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/phenomenal_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "(of an object, area, or surface) having an outside edge or boundary of a specified kind.",
+      "examples": [
+        "a regular square-edged tile"
+      ]
+    },
+    {
+      "description": "(of an implement or weapon) having a sharpened blade for cutting.",
+      "examples": [
+        "edged tools used by carpenters",
+        "a single-edged razor blade"
+      ]
+    }
+  ],
+  "pronounciation": "/ejd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/edged_us_1.mp3"
+}

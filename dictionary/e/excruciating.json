@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Intensely painful.",
+      "examples": [
+        "excruciating back pain"
+      ],
+      "synonyms": [
+        "agonizing",
+        "extremely painful",
+        "severe",
+        "acute",
+        "intense",
+        "extreme",
+        "savage",
+        "violent",
+        "racking",
+        "searing",
+        "piercing",
+        "stabbing",
+        "raging",
+        "harrowing",
+        "tormenting",
+        "grievous"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪkˈskruʃiˌeɪdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excruciating_us_1.mp3"
+}

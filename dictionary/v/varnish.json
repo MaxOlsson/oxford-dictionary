@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "Resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry.",
+      "examples": [],
+      "synonyms": [
+        "lacquer",
+        "lac",
+        "shellac",
+        "japan",
+        "enamel",
+        "glaze",
+        "polish",
+        "oil",
+        "resin",
+        "wax"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply varnish to.",
+      "examples": [
+        "we stripped the floor and varnished it"
+      ],
+      "synonyms": [
+        "lacquer",
+        "shellac",
+        "japan",
+        "enamel",
+        "glaze",
+        "polish",
+        "oil",
+        "resin",
+        "wax"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French vernis, from medieval Latin veronix fragrant resin, sandarac or medieval Greek berenikē, probably from Berenice, a town in Cyrenaica.",
+  "pronounciation": "/ˈvɑrnɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/varnish_us_1.mp3"
+}

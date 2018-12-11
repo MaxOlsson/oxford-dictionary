@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Pull or twist out of shape.",
+      "examples": [
+        "a grimace distorted her mouth"
+      ],
+      "synonyms": [
+        "twisted",
+        "warped",
+        "contorted",
+        "bent",
+        "buckled",
+        "deformed",
+        "malformed",
+        "misshapen",
+        "disfigured",
+        "crooked",
+        "irregular",
+        "awry",
+        "wry",
+        "out of shape"
+      ]
+    },
+    {
+      "description": "Give a misleading or false account or impression of.",
+      "examples": [
+        "many factors can distort the results"
+      ],
+      "synonyms": [
+        "misrepresented",
+        "perverted",
+        "twisted",
+        "falsified",
+        "misreported",
+        "misstated"
+      ]
+    },
+    {
+      "description": "Change the form of (an electrical signal or sound wave) during transmission, amplification, or other processing.",
+      "examples": [
+        "you're distorting the sound by overdriving the amp"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense twist to one side): from Latin distort- twisted apart, from the verb distorquere, from dis- apart + torquere to twist.",
+  "pronounciation": "/dəˈstɔrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distort_us_1.mp3"
+}

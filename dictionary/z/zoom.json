@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a car or aircraft) move or travel very quickly.",
+      "examples": [
+        "we watched the fly zooming about",
+        "he jumped into his car and zoomed off"
+      ],
+      "synonyms": [
+        "race",
+        "hurry",
+        "speed",
+        "dash",
+        "bolt",
+        "dart",
+        "sprint",
+        "run",
+        "rush",
+        "hasten",
+        "hurtle",
+        "career",
+        "streak",
+        "shoot",
+        "whizz",
+        "go like lightning",
+        "go hell for leather",
+        "spank along",
+        "bowl along",
+        "rattle along",
+        "whirl",
+        "whoosh",
+        "buzz",
+        "swoop",
+        "flash",
+        "blast",
+        "charge",
+        "stampede",
+        "gallop",
+        "sweep",
+        "hare",
+        "fly",
+        "wing",
+        "scurry",
+        "scud",
+        "scutter",
+        "scramble"
+      ]
+    },
+    {
+      "description": "(of a camera) change smoothly from a long shot to a close-up or vice versa.",
+      "examples": [
+        "the camera zoomed in for a close-up of his face",
+        "zoom out for a wide view of the garden again"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A camera shot that changes smoothly from a long shot to a close-up or vice versa.",
+      "examples": [
+        "the zoom button"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express sudden fast movement.",
+      "examples": [
+        "then suddenly, zoom!, he's off"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: imitative.",
+  "pronounciation": "/zum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zoom_us_1.mp3"
+}

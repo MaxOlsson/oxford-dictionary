@@ -1,0 +1,51 @@
+{
+  "adverb": [
+    {
+      "description": "At the present time; now.",
+      "examples": [
+        "there are presently 1,128 people on the waiting list"
+      ],
+      "synonyms": [
+        "at present",
+        "currently",
+        "at the moment",
+        "at this moment",
+        "at the present moment",
+        "at the present time",
+        "now",
+        "nowadays",
+        "these days",
+        "today",
+        "in this day and age"
+      ]
+    },
+    {
+      "description": "After a short time; soon.",
+      "examples": [
+        "this will be examined in more detail presently"
+      ],
+      "synonyms": [
+        "soon",
+        "shortly",
+        "directly",
+        "quite soon",
+        "in a short time",
+        "in a little while",
+        "in a short while",
+        "at any minute",
+        "at any moment",
+        "at any second",
+        "in a minute",
+        "in a moment",
+        "in a second",
+        "in less than no time",
+        "in less than no time at all",
+        "in next to no time",
+        "before long",
+        "by and by"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɛz(ə)ntli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/presently_us_1.mp3"
+}

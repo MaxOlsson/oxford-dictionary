@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Stop, close up, or obstruct (an opening, orifice, or passage)",
+      "examples": [
+        "thick makeup can occlude the pores"
+      ],
+      "synonyms": [
+        "chunk",
+        "hunk",
+        "brick",
+        "slab",
+        "lump",
+        "piece"
+      ]
+    },
+    {
+      "description": "(of a tooth) close on or come into contact with another tooth in the opposite jaw.",
+      "examples": []
+    },
+    {
+      "description": "(of a solid) absorb and retain (a gas or impurity).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from Latin occludere shut up.",
+  "pronounciation": "/əˈklud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/occlude_us_1.mp3"
+}

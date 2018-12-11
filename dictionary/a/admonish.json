@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Warn or reprimand someone firmly.",
+      "examples": [
+        "she admonished me for appearing at breakfast unshaven",
+        "“You mustn't say that, Shiona,” Ruth admonished her"
+      ],
+      "synonyms": [
+        "reprimand",
+        "rebuke",
+        "scold",
+        "reprove",
+        "upbraid",
+        "chastise",
+        "chide",
+        "censure",
+        "castigate",
+        "lambaste",
+        "berate",
+        "reproach",
+        "lecture",
+        "criticize",
+        "take to task",
+        "pull up",
+        "read the riot act to",
+        "give a piece of one's mind to",
+        "haul over the coals"
+      ]
+    }
+  ],
+  "origin": "Middle English amonest urge, exhort, from Old French amonester, based on Latin admonere urge by warning. Later, the final -t of amonest was taken to indicate the past tense, and the present tense changed on the pattern of verbs such as abolish; the prefix became ad- in the 16th century by association with the Latin form.",
+  "pronounciation": "/ədˈmäniSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/admonish_us_1.mp3"
+}

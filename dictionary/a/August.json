@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Respected and impressive.",
+      "examples": [
+        "she was in august company"
+      ],
+      "synonyms": [
+        "distinguished",
+        "respected",
+        "eminent",
+        "venerable",
+        "hallowed",
+        "illustrious",
+        "prestigious",
+        "renowned",
+        "celebrated",
+        "honoured",
+        "acclaimed",
+        "esteemed",
+        "exalted",
+        "highly regarded",
+        "well thought of",
+        "of distinction",
+        "of repute"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The eighth month of the year, in the northern hemisphere usually considered the last month of summer.",
+      "examples": [
+        "the sultry haze of late August",
+        "an August cold snap"
+      ]
+    }
+  ],
+  "origin": "Old English, from Latin augustus consecrated, venerable; named after Augustus, the first Roman emperor.",
+  "pronounciation": "/ˈôɡəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/august_us_7.mp3"
+}

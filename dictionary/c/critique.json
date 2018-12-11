@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A detailed analysis and assessment of something, especially a literary, philosophical, or political theory.",
+      "examples": [],
+      "synonyms": [
+        "analysis",
+        "evaluation",
+        "assessment",
+        "appraisal",
+        "appreciation",
+        "review",
+        "write-up"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Evaluate (a theory or practice) in a detailed and analytical way.",
+      "examples": [
+        "the authors critique the methods and practices used in the research"
+      ],
+      "synonyms": [
+        "deal with",
+        "be about",
+        "cover",
+        "be concerned with",
+        "concern itself with",
+        "discuss",
+        "speak about",
+        "talk about",
+        "write about",
+        "go into",
+        "explore",
+        "investigate",
+        "tackle",
+        "handle"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as a noun): from French, based on Greek kritikē tekhnē critical art.",
+  "pronounciation": "/krɪˈtik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/critique_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not artistic or concerned with art.",
+      "examples": [],
+      "synonyms": [
+        "uninspired",
+        "uninventive",
+        "unoriginal",
+        "uncreative",
+        "commonplace",
+        "pedestrian",
+        "mundane",
+        "matter-of-fact",
+        "ordinary",
+        "usual",
+        "routine",
+        "humdrum",
+        "prosaic",
+        "workaday",
+        "run of the mill",
+        "vanilla",
+        "plain vanilla"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnɑːˈtɪstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unartistic_gb_1_8.mp3"
+}

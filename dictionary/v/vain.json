@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing an excessively high opinion of one's appearance, abilities, or worth.",
+      "examples": [
+        "their flattery made him vain"
+      ],
+      "synonyms": [
+        "conceited",
+        "narcissistic",
+        "self-loving",
+        "in love with oneself",
+        "self-admiring",
+        "self-regarding",
+        "wrapped up in oneself",
+        "self-absorbed",
+        "self-obsessed",
+        "self-centred",
+        "egotistic",
+        "egotistical",
+        "egoistic",
+        "egocentric",
+        "egomaniac"
+      ]
+    },
+    {
+      "description": "Producing no result; useless.",
+      "examples": [
+        "a vain attempt to tidy up the room",
+        "the vain hope of finding work"
+      ],
+      "synonyms": [
+        "futile",
+        "useless",
+        "pointless",
+        "worthless",
+        "nugatory",
+        "to no purpose",
+        "in vain"
+      ]
+    }
+  ],
+  "phrases": [
+    "they waited in vain for a response",
+    "The crowds waited in vain for an encore, not quite believing it was time to go home already.",
+    "Previous efforts by the council to retain industrial use on other key sites in the city have been in vain.",
+    "\"He tried in vain to resuscitate them but it was too late, \" he said.",
+    "Imagine you tell her to come straight home, then you wait in vain for the sound of her key in the door."
+  ],
+  "origin": "Middle English (in the sense devoid of real worth): via Old French from Latin vanus empty, without substance.",
+  "pronounciation": "/vān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vain_us_1.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "adjective": [
+    {
+      "description": "Clearly defined or identified.",
+      "examples": [
+        "increasing the electricity supply only until it met specific development needs"
+      ],
+      "synonyms": [
+        "particular",
+        "specified",
+        "certain",
+        "fixed",
+        "set",
+        "determined",
+        "distinct",
+        "separate",
+        "definite",
+        "single",
+        "individual",
+        "peculiar",
+        "discrete",
+        "express",
+        "precise"
+      ]
+    },
+    {
+      "description": "Relating to or connected with species or a species.",
+      "examples": []
+    },
+    {
+      "description": "(of a duty or a tax) levied at a fixed rate per physical unit of the thing taxed, regardless of its price.",
+      "examples": []
+    },
+    {
+      "description": "Of or denoting a number equal to the ratio of the value of some property of a given substance to the value of the same property of some other substance used as a reference, such as water, or of a vacuum, under equivalent conditions.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicine or remedy effective in treating a particular disease or part of the body.",
+      "examples": []
+    },
+    {
+      "description": "A precise detail.",
+      "examples": [
+        "he worked through the specifics of the contract"
+      ],
+      "synonyms": [
+        "details",
+        "niceties",
+        "subtleties",
+        "finer points",
+        "particulars",
+        "specifics"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (originally in the sense having a special determining quality): from late Latin specificus, from Latin species (see species).",
+  "pronounciation": "/spəˈsifik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/specific_us_1.mp3"
+}

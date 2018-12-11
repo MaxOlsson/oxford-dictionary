@@ -1,0 +1,38 @@
+{
+  "adverb": [
+    {
+      "description": "Before or by now or the time in question.",
+      "examples": [
+        "Anna has suffered a great deal already"
+      ],
+      "synonyms": [
+        "by that time",
+        "by this time",
+        "by now",
+        "by then",
+        "thus far",
+        "so far",
+        "hitherto",
+        "before",
+        "before now",
+        "before then",
+        "previously",
+        "earlier",
+        "earlier on",
+        "until now",
+        "until then",
+        "up to now",
+        "up to then"
+      ]
+    },
+    {
+      "description": "Used as an intensive after a word or phrase to express impatience.",
+      "examples": [
+        "enough already with these crazy kids and their wacky dances!"
+      ]
+    }
+  ],
+  "origin": "Middle English: from all (as an adverb) + ready; already (sense 2) is influenced by Yiddish use.",
+  "pronounciation": "/ˌôlˈredē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/already_us_1.mp3"
+}

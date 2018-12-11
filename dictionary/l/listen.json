@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Give one's attention to a sound.",
+      "examples": [
+        "evidently he was not listening",
+        "sit and listen to the radio"
+      ],
+      "synonyms": [
+        "hear",
+        "pay attention",
+        "be attentive",
+        "attend",
+        "concentrate on",
+        "concentrate on hearing",
+        "give ear to",
+        "lend an ear to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of listening to something.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "At this point, I decided to stop listening in on their private conversation.",
+    "State-of-the-art eavesdropping equipment is used to listen in to his conversations.",
+    "It's handy - it lets you have a private conversation without the rest of the world listening in.",
+    "So if Eugene is on the phone talking with Sasha, it's a crime for Stuart to install a monitoring device that listens in.",
+    "Tim would probably enter my room any second now to scold me for listening in to his private calls."
+  ],
+  "origin": "Old English hlysnan pay attention to, of Germanic origin.",
+  "pronounciation": "/ˈlis(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/listen_us_1.mp3"
+}

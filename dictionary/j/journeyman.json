@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A worker or sports player who is reliable but not outstanding.",
+      "examples": [
+        "a solid journeyman professional"
+      ],
+      "synonyms": [
+        "artisan",
+        "craftsperson",
+        "tradesman",
+        "tradesperson",
+        "mechanic",
+        "technician",
+        "operative",
+        "maker",
+        "smith",
+        "wright"
+      ]
+    },
+    {
+      "description": "A trained worker who is employed by someone else.",
+      "examples": [],
+      "synonyms": [
+        "employee",
+        "member of staff",
+        "working man",
+        "working woman",
+        "workman",
+        "labourer",
+        "hand",
+        "operative",
+        "operator"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from journey (in the obsolete sense day's work) + man; so named because the journeyman was no longer bound by indentures but was paid by the day.",
+  "pronounciation": "/ˈdʒərnimən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/journeyman_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Sentimentally or foolishly amorous.",
+      "examples": [
+        "I was spoony over Miss Talmadge to the point of idolatry"
+      ],
+      "synonyms": [
+        "lustful",
+        "sexual",
+        "erotic",
+        "amatory",
+        "ardent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A simple, silly, or foolish person.",
+      "examples": [],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspo͞onē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spoony_us_1.mp3"
+}

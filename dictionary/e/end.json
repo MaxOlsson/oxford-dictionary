@@ -1,0 +1,96 @@
+{
+  "noun": [
+    {
+      "description": "A final part of something, especially a period of time, an activity, or a story.",
+      "examples": [
+        "the end of the year",
+        "Mario led the race from beginning to end"
+      ],
+      "synonyms": [
+        "conclusion",
+        "termination",
+        "ending",
+        "finish",
+        "close",
+        "resolution",
+        "climax",
+        "finale",
+        "culmination",
+        "denouement"
+      ]
+    },
+    {
+      "description": "The furthest or most extreme part or point of something.",
+      "examples": [
+        "the end house",
+        "a length of wire with a hook at the end"
+      ],
+      "synonyms": [
+        "extremity",
+        "furthermost part",
+        "limit",
+        "margin",
+        "edge",
+        "border",
+        "boundary",
+        "periphery"
+      ]
+    },
+    {
+      "description": "A goal or result that one seeks to achieve.",
+      "examples": [
+        "each would use the other to further his own ends",
+        "to this end, schools were set up for peasant women"
+      ],
+      "synonyms": [
+        "aim",
+        "goal",
+        "purpose",
+        "objective",
+        "object",
+        "grail",
+        "holy grail",
+        "target",
+        "mission"
+      ]
+    },
+    {
+      "description": "(in lawn bowling and curling) a session of play in one particular direction across the playing area.",
+      "examples": []
+    },
+    {
+      "description": "An offensive or defensive lineman positioned nearest to the sideline.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Come or bring to a final point; finish.",
+      "examples": [
+        "when the war ended, policy changed",
+        "the chapter ends with a case study",
+        "she wanted to end the relationship"
+      ],
+      "synonyms": [
+        "finish",
+        "conclude",
+        "terminate",
+        "come to an end",
+        "draw to a close",
+        "close",
+        "stop",
+        "cease"
+      ]
+    }
+  ],
+  "phrases": [
+    "at the end of the day I'm responsible for what happens in the school",
+    "By the very nature of the job, one side will hate you at the end of the day.",
+    "Besides which, at the end of the day, I still have the love of you, my dear, dear readers.",
+    "But at the end of the day there are policemen actually who are beginning to speak up.",
+    "Quite a lot of people have written us off, but at the end of the day that suits us."
+  ],
+  "origin": "Old English ende (noun), endian (verb), of Germanic origin; related to Dutch einde (noun), einden (verb) and German Ende (noun), enden (verb).",
+  "pronounciation": "/end/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/end_us_1.mp3"
+}

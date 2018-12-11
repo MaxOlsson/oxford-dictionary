@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Be (a part) of a whole.",
+      "examples": [
+        "single parents constitute a great proportion of the poor"
+      ],
+      "synonyms": [
+        "amount to",
+        "add up to",
+        "account for",
+        "form",
+        "make up",
+        "compose",
+        "comprise",
+        "represent"
+      ]
+    },
+    {
+      "description": "Give legal or constitutional form to (an institution); establish by law.",
+      "examples": [],
+      "synonyms": [
+        "inaugurate",
+        "initiate",
+        "establish",
+        "found",
+        "create",
+        "set up",
+        "put in place",
+        "start",
+        "begin",
+        "originate",
+        "form",
+        "organize",
+        "develop",
+        "shape"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin constitut- established, appointed, from the verb constituere, from con- together + statuere set up.",
+  "pronounciation": "/ˈkɑnstəˌt(j)ut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstitute_us_1.mp3"
+}

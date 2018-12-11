@@ -1,0 +1,35 @@
+{
+  "pronoun": [
+    {
+      "description": "Used as the object of a verb or preposition to refer to a female person or animal previously mentioned or easily identified.",
+      "examples": [
+        "she knew I hated her",
+        "I told Hannah I would wait for her"
+      ]
+    },
+    {
+      "description": "Herself.",
+      "examples": [
+        "peevishly she flung her on her face"
+      ]
+    }
+  ],
+  "possessive determiner": [
+    {
+      "description": "Belonging to or associated with a female person or animal previously mentioned or easily identified.",
+      "examples": [
+        "Patricia loved her job",
+        "how the mother crane treats her babies"
+      ]
+    },
+    {
+      "description": "Used in titles.",
+      "examples": [
+        "Her Royal Highness"
+      ]
+    }
+  ],
+  "origin": "Old English hire, genitive and dative of hīo, hēo she.",
+  "pronounciation": "/hər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/her_us_3_rr.mp3"
+}

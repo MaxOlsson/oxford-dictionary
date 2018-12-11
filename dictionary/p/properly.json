@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "Correctly or satisfactorily.",
+      "examples": [
+        "ensuring the work is carried out properly",
+        "a properly drafted agreement"
+      ],
+      "synonyms": [
+        "correctly",
+        "rightly",
+        "right",
+        "all right"
+      ]
+    },
+    {
+      "description": "In the strict sense; exactly.",
+      "examples": [
+        "algebra is, properly speaking, the analysis of equations"
+      ]
+    },
+    {
+      "description": "Thoroughly; completely.",
+      "examples": [
+        "this is the first day she has felt properly well"
+      ],
+      "synonyms": [
+        "in every respect",
+        "to the core"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɑpərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/properly_us_1.mp3"
+}

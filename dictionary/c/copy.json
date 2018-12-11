@@ -1,0 +1,94 @@
+{
+  "noun": [
+    {
+      "description": "A thing made to be similar or identical to another.",
+      "examples": [
+        "the problem is telling which is the original document and which the copy"
+      ],
+      "synonyms": [
+        "duplicate",
+        "duplication",
+        "reprint",
+        "facsimile",
+        "photocopy",
+        "carbon copy",
+        "carbon",
+        "mimeograph",
+        "mimeo"
+      ]
+    },
+    {
+      "description": "A single specimen of a particular book, record, or other publication or issue.",
+      "examples": [
+        "the record has sold more than a million copies"
+      ],
+      "synonyms": [
+        "edition",
+        "version",
+        "impression",
+        "imprint",
+        "issue"
+      ]
+    },
+    {
+      "description": "Matter to be printed.",
+      "examples": [
+        "copy for the next issue must be submitted by the beginning of the month"
+      ]
+    },
+    {
+      "description": "A blank booklet or notebook used for schoolwork.",
+      "examples": [
+        "examinees will not be allowed to take pens, copies, or water bottles inside the test center",
+        "you need a stock of exercise copies, A4 refill pads, and maths copies"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a similar or identical version of; reproduce.",
+      "examples": [
+        "each form had to be copied and sent to a different department"
+      ],
+      "synonyms": [
+        "duplicate",
+        "photocopy",
+        "xerox",
+        "photostat",
+        "mimeograph",
+        "make a photocopy of",
+        "take a photocopy of",
+        "run off"
+      ]
+    },
+    {
+      "description": "Imitate the style or behavior of.",
+      "examples": [
+        "lifestyles that were copied from Miami and Fifth Avenue",
+        "art students copied from approved old masters",
+        "she was such fun that everybody wanted to copy her"
+      ],
+      "synonyms": [
+        "imitate",
+        "mimic",
+        "ape",
+        "emulate",
+        "follow",
+        "echo",
+        "mirror",
+        "simulate",
+        "parrot",
+        "reproduce"
+      ]
+    },
+    {
+      "description": "Hear or understand someone speaking on a radio transmitter.",
+      "examples": [
+        "this is Edwards, do you copy, over"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a transcript or copy of a document): from Old French copie (noun), copier (verb), from Latin copia abundance (in medieval Latin transcript, from such phrases as copiam describendi facere give permission to transcribe).",
+  "pronounciation": "/ˈkɑpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/copy_us_1.mp3"
+}

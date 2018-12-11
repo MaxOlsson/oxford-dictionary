@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A shallow trough fixed beneath the edge of a roof for carrying off rainwater.",
+      "examples": []
+    },
+    {
+      "description": "The blank space between facing pages of a book or between adjacent columns of type or stamps in a sheet.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a candle or flame) flicker and burn unsteadily.",
+      "examples": [
+        "the candles had almost guttered out"
+      ],
+      "synonyms": [
+        "glimmer",
+        "glint",
+        "gleam",
+        "flare",
+        "shine",
+        "dance",
+        "gutter"
+      ]
+    },
+    {
+      "description": "Channel or furrow with something such as streams or tears.",
+      "examples": [
+        "my cheeks are guttered with tears"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French gotiere, from Latin gutta a drop; the verb dates from late Middle English, originally meaning cut grooves in and later (early 18th century) used of a candle which melts rapidly because it has become channelled on one side.",
+  "pronounciation": "/ˈɡədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gutter_us_2.mp3"
+}

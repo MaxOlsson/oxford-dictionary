@@ -1,0 +1,94 @@
+{
+  "verb": [
+    {
+      "description": "Take hold of and remove (a flower, fruit, or vegetable) from where it is growing.",
+      "examples": [
+        "I went to pick some flowers for Jenny's room",
+        "freshly picked mushrooms"
+      ],
+      "synonyms": [
+        "harvest",
+        "gather",
+        "gather in",
+        "collect",
+        "take in",
+        "pluck",
+        "pull",
+        "dig",
+        "crop",
+        "reap",
+        "bring home"
+      ]
+    },
+    {
+      "description": "Choose (someone or something) from a number of alternatives, typically after careful thought.",
+      "examples": [
+        "maybe I picked the wrong career after all",
+        "she left Jed to pick out some toys",
+        "this time, I get to pick"
+      ],
+      "synonyms": [
+        "choose",
+        "select",
+        "pick out",
+        "single out",
+        "include",
+        "hand-pick",
+        "decide on",
+        "settle on",
+        "fix on"
+      ]
+    },
+    {
+      "description": "Repeatedly pull at something with one's fingers.",
+      "examples": [
+        "the old woman was picking at the sheet"
+      ]
+    },
+    {
+      "description": "Pluck the strings of (a guitar or banjo).",
+      "examples": [],
+      "synonyms": [
+        "strum",
+        "twang",
+        "thrum",
+        "pluck",
+        "finger"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or the right of selecting something from among a group of alternatives.",
+      "examples": [
+        "take your pick from our extensive menu",
+        "Laura should have first pick"
+      ],
+      "synonyms": [
+        "choice",
+        "selection",
+        "option",
+        "decision"
+      ]
+    },
+    {
+      "description": "An act of blocking or screening a defensive player from the ball handler, allowing an open shot.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "People can now pick and choose between a wide range of ways of getting fit.",
+    "They will be able to pick and choose where they operate, while Royal Mail is obliged to keep its universal postal system up and running.",
+    "But he still liked the idea of being the guy who gets to pick and choose among a bevy of beauties.",
+    "She couldn't pick and choose when it was convenient to be with me.",
+    "We had to sign up to the agreement, we couldn't pick and choose.",
+    "As many civilians tried to leave the city, they were picked off by snipers.",
+    "The flames of war burned brighter than ever within this divided family as one by one the members were picked off.",
+    "At the peak of the insurrection, the defenders ran out of tear gas, and snipers began attempts to pick them off.",
+    "The enemies are kind enough to walk one behind another in a straight line, making it easy to pick them off with sniper rifles.",
+    "Towards the middle of the game you will find yourself sneaking around, picking the enemy off from a distance, or using items to distract your opponents."
+  ],
+  "origin": "Middle English: variant of pike.",
+  "pronounciation": "/pɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pick_us_1.mp3"
+}

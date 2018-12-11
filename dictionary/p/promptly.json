@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "With little or no delay; immediately.",
+      "examples": [
+        "he paid the fine promptly"
+      ],
+      "synonyms": [
+        "punctually",
+        "on time",
+        "on the dot",
+        "on the nail"
+      ]
+    },
+    {
+      "description": "At exactly a specified time; punctually.",
+      "examples": [
+        "Jamie arrived promptly at 8:30"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɑm(p)tli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/promptly_us_2.mp3"
+}

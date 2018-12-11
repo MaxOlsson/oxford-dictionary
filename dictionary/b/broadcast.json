@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "Transmit (a program or some information) by radio or television.",
+      "examples": [
+        "the announcement was broadcast live"
+      ],
+      "synonyms": [
+        "transmit",
+        "relay",
+        "air",
+        "beam",
+        "put out",
+        "send out",
+        "put on the air",
+        "put on the airwaves",
+        "show",
+        "screen",
+        "televise",
+        "telecast",
+        "videocast",
+        "podcast",
+        "live-stream"
+      ]
+    },
+    {
+      "description": "Scatter (seeds) by hand or machine rather than placing in drills or rows.",
+      "examples": [],
+      "synonyms": [
+        "scatter",
+        "sow",
+        "disperse",
+        "sprinkle",
+        "spread",
+        "distribute",
+        "disseminate",
+        "strew",
+        "throw",
+        "toss",
+        "fling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A radio or television program or transmission.",
+      "examples": [],
+      "synonyms": [
+        "programme",
+        "show",
+        "production",
+        "presentation",
+        "performance"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to radio or television transmission.",
+      "examples": [
+        "a broadcast journalist"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "By scattering.",
+      "examples": [
+        "green manure can be sown broadcast or in rows"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (in the sense sown by scattering): from broad + the past participle of cast. Senses relating to radio and television date from the early 20th century.",
+  "pronounciation": "/ˈbrôdˌkast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broadcast_us_1.mp3"
+}

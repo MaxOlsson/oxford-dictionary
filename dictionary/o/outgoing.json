@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "Friendly and socially confident.",
+      "examples": [
+        "she's an extremely affable, jovial, outgoing type of person"
+      ],
+      "synonyms": [
+        "extrovert",
+        "uninhibited",
+        "unreserved",
+        "demonstrative",
+        "affectionate",
+        "warm",
+        "friendly",
+        "genial",
+        "cordial",
+        "affable",
+        "easy-going",
+        "easy",
+        "hail-fellow-well-met",
+        "approachable",
+        "sociable",
+        "convivial",
+        "lively",
+        "gregarious",
+        "attention-seeking"
+      ]
+    },
+    {
+      "description": "Leaving an office or position, especially after an election defeat or completed term of office.",
+      "examples": [
+        "the outgoing governor"
+      ],
+      "synonyms": [
+        "departing",
+        "retiring",
+        "leaving"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person's regular expenditure.",
+      "examples": [],
+      "synonyms": [
+        "expenses",
+        "expenditure",
+        "spending",
+        "outlay",
+        "money spent",
+        "payments",
+        "disbursements",
+        "costs",
+        "overheads"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊtˌɡoʊɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outgoing_us_1_rr.mp3"
+}

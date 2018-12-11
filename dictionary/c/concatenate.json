@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Link (things) together in a chain or series.",
+      "examples": [
+        "some words may be concatenated, such that certain sounds are omitted"
+      ],
+      "synonyms": [
+        "attach",
+        "join",
+        "fasten",
+        "fix",
+        "affix",
+        "couple",
+        "link",
+        "bridge",
+        "secure",
+        "make fast",
+        "tie",
+        "tie up",
+        "bind",
+        "fetter",
+        "strap",
+        "rope",
+        "tether",
+        "truss",
+        "lash",
+        "hitch",
+        "moor",
+        "anchor",
+        "yoke",
+        "chain"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as an adjective): from late Latin concatenat- linked together, from the verb concatenare, from con- together + catenare, from catena chain.",
+  "pronounciation": "/kənˈkatnˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcatenate_us_2.mp3"
+}

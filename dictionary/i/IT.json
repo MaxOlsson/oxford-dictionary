@@ -1,0 +1,88 @@
+{
+  "pronoun": [
+    {
+      "description": "Used to refer to a thing previously mentioned or easily identified.",
+      "examples": [
+        "a room with two beds in it",
+        "this approach is refreshing because it breaks down barriers"
+      ]
+    },
+    {
+      "description": "Used to identify a person.",
+      "examples": [
+        "it's me",
+        "it's a boy!"
+      ]
+    },
+    {
+      "description": "Used in the normal subject position in statements about time, distance, or weather.",
+      "examples": [
+        "it's half past five",
+        "it was two miles to the island",
+        "it is raining"
+      ]
+    },
+    {
+      "description": "Used in the normal subject or object position when a more specific subject or object is given later in the sentence.",
+      "examples": [
+        "it is impossible to assess the problem",
+        "she found it interesting to learn about their strategy"
+      ]
+    },
+    {
+      "description": "Used to emphasize a following part of a sentence.",
+      "examples": [
+        "it is the child who is the victim"
+      ]
+    },
+    {
+      "description": "The situation or circumstances; things in general.",
+      "examples": [
+        "no one can stay here—it's too dangerous now",
+        "he would like to see you right away if it's convenient"
+      ]
+    },
+    {
+      "description": "Exactly what is needed or desired.",
+      "examples": [
+        "they thought they were it",
+        "you've either got it or you haven't"
+      ]
+    },
+    {
+      "description": "Sex appeal.",
+      "examples": [
+        "he's still got “it.”"
+      ]
+    },
+    {
+      "description": "Denoting a person or thing that is exceptionally fashionable, popular, or successful at a particular time.",
+      "examples": [
+        "they were Hollywood's It couple",
+        "a chef who worked in one of the It restaurants in Copenhagen"
+      ]
+    },
+    {
+      "description": "(in children's games) the player who has to catch the others.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Italian vermouth.",
+      "examples": [
+        "he poured a gin and it"
+      ]
+    }
+  ],
+  "phrases": [
+    "“Is she going?” “That's just it—she can't make up her mind.”",
+    "That's just it, says Mike, We can do so much more than just sing.",
+    "I did not tell the truth when I should have done and that's it, sir.",
+    "Their behaviour was - that's it - more American than British.",
+    "Montoya is harder to get past than Schumacher, and that's it really."
+  ],
+  "origin": "1930s: abbreviation.",
+  "pronounciation": "/ˈˌaɪ ˈti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/i_t_1_us_1_abbr.mp3"
+}

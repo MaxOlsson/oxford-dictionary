@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "Without doubt (used for emphasis)",
+      "examples": [
+        "I will definitely be at the airport to meet you"
+      ],
+      "synonyms": [
+        "certainly",
+        "surely",
+        "for sure",
+        "unquestionably",
+        "beyond doubt",
+        "without doubt",
+        "beyond question",
+        "without question",
+        "beyond any doubt",
+        "undoubtedly",
+        "indubitably",
+        "assuredly",
+        "positively",
+        "absolutely"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɛf(ə)nətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/definitely_us_1.mp3"
+}

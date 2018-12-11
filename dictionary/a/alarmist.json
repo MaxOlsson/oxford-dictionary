@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "Someone who is considered to be exaggerating a danger and so causing needless worry or panic.",
+      "examples": [],
+      "synonyms": [
+        "scaremonger",
+        "gloom-monger",
+        "doom-monger",
+        "voice of doom",
+        "doomster",
+        "doomsayer",
+        "doom merchant",
+        "cassandra"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Creating needless worry or panic.",
+      "examples": [
+        "alarmist rumors"
+      ],
+      "synonyms": [
+        "gloomy",
+        "dismal",
+        "pessimistic",
+        "negative",
+        "defeatist",
+        "downbeat",
+        "gloom-ridden",
+        "cynical",
+        "bleak",
+        "grim",
+        "fatalistic",
+        "black",
+        "sombre",
+        "drab",
+        "dreary"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈlɑrməst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alarmist_us_1.mp3"
+}

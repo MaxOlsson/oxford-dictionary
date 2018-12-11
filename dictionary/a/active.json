@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Engaging or ready to engage in physically energetic pursuits.",
+      "examples": [
+        "I needed to change my lifestyle and become more active"
+      ],
+      "synonyms": [
+        "mobile",
+        "energetic",
+        "agile",
+        "sporty",
+        "nimble",
+        "vigorous",
+        "vital",
+        "dynamic",
+        "sprightly",
+        "spry",
+        "lively",
+        "animated",
+        "bouncy",
+        "bubbly",
+        "perky",
+        "frisky",
+        "zestful",
+        "spirited"
+      ]
+    },
+    {
+      "description": "Pursuing an occupation or activity at a particular place or in a particular way.",
+      "examples": [
+        "the artist was active in the 1920s",
+        "tigers are active mainly at night",
+        "a politically active student body"
+      ]
+    },
+    {
+      "description": "(of a thing) working; operative.",
+      "examples": [
+        "the old mill was active until 1960"
+      ],
+      "synonyms": [
+        "operative",
+        "working",
+        "functioning",
+        "functional",
+        "operating",
+        "operational",
+        "in action",
+        "in operation",
+        "in force",
+        "live"
+      ]
+    },
+    {
+      "description": "Relating to or denoting the voice that attributes the action of a verb to the person or thing from which it logically proceeds (e.g., of the verbs in guns kill and we saw him).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An active form of a verb.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense preferring action to contemplation): from Latin activus, from act- done, from the verb agere.",
+  "pronounciation": "/ˈaktiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/active_us_1.mp3"
+}

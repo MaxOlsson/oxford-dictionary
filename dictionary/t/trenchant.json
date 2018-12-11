@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Vigorous or incisive in expression or style.",
+      "examples": [
+        "she heard angry voices, not loud, yet certainly trenchant"
+      ],
+      "synonyms": [
+        "incisive",
+        "cutting",
+        "pointed",
+        "piercing",
+        "penetrating",
+        "sharp",
+        "keen",
+        "acute",
+        "razor-sharp",
+        "razor-edged",
+        "rapier-like"
+      ]
+    },
+    {
+      "description": "(of a weapon or tool) having a sharp edge.",
+      "examples": [
+        "a trenchant blade"
+      ]
+    }
+  ],
+  "origin": "Middle English (in trenchant (sense 2)): from Old French, literally cutting, present participle of trenchier (see trench).",
+  "pronounciation": "/ˈtren(t)SHənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trenchant_us_1.mp3"
+}

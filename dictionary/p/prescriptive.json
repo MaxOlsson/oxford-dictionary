@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the imposition or enforcement of a rule or method.",
+      "examples": [
+        "these guidelines are not intended to be prescriptive"
+      ],
+      "synonyms": [
+        "dictatorial",
+        "authoritarian",
+        "tyrannical",
+        "despotic"
+      ]
+    },
+    {
+      "description": "(of a right, title, or institution) having become legally established or accepted by long usage or the passage of time.",
+      "examples": [
+        "a prescriptive right of way"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from late Latin praescriptivus relating to a legal exception, from praescript- directed in writing, from the verb praescribere (see prescribe).",
+  "pronounciation": "/prəˈskriptiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prescriptive_us_1.mp3"
+}

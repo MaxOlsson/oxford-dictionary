@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The relationship between brothers.",
+      "examples": [],
+      "synonyms": [
+        "comradeship",
+        "fellowship",
+        "brotherliness",
+        "fraternalism",
+        "kinship"
+      ]
+    },
+    {
+      "description": "An association, society, or community of people linked by a common interest, religion, or trade.",
+      "examples": [
+        "a religious brotherhood"
+      ],
+      "synonyms": [
+        "society",
+        "association",
+        "union",
+        "alliance",
+        "institution",
+        "league",
+        "guild",
+        "coalition",
+        "affiliation",
+        "consortium",
+        "fraternity",
+        "order",
+        "body",
+        "community",
+        "club",
+        "syndicate",
+        "circle",
+        "lodge",
+        "clan",
+        "set",
+        "clique",
+        "coterie"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably from obsolete brotherred (based on Old English -rǣden condition, state; compare with kindred). The change of suffix was due to association with words ending in -hood and -head.",
+  "pronounciation": "/ˈbrəðərˌhʊd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brotherhood_us_1.mp3"
+}

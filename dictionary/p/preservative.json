@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A substance used to preserve foodstuffs, wood, or other materials against decay.",
+      "examples": [],
+      "synonyms": [
+        "added ingredient",
+        "addition",
+        "extra",
+        "add-on",
+        "supplement",
+        "accompaniment"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Acting to preserve something.",
+      "examples": [
+        "the preservative effects of freezing"
+      ],
+      "synonyms": [
+        "protecting",
+        "safeguarding",
+        "shielding",
+        "defensive",
+        "safety",
+        "precautionary",
+        "preventive",
+        "preventative",
+        "covering"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from medieval Latin praeservativus, from late Latin praeservat- kept, from the verb praeservare (see preserve).",
+  "pronounciation": "/prəˈzərvədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preservative_us_3.mp3"
+}

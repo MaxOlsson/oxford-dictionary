@@ -1,0 +1,43 @@
+{
+  "adverb": [
+    {
+      "description": "In or to the backstage area in a theater.",
+      "examples": [
+        "I went backstage after the show"
+      ],
+      "synonyms": [
+        "unobtrusive",
+        "unnoticeable",
+        "unremarkable",
+        "unspectacular",
+        "unostentatious",
+        "unimposing",
+        "undistinguished",
+        "unexceptional",
+        "modest",
+        "unassuming",
+        "discreet",
+        "hidden",
+        "concealed"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or situated in the area behind the stage in a theater.",
+      "examples": [
+        "a backstage tour of the opera house"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The area in a theater out of view of the audience, especially in the wings or dressing rooms.",
+      "examples": [
+        "backstage was the scene of pleasant pandemonium"
+      ]
+    }
+  ],
+  "pronounciation": "/bækˈsteɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backstage_us_1.mp3"
+}

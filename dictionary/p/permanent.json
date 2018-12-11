@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Lasting or intended to last or remain unchanged indefinitely.",
+      "examples": [
+        "a permanent ban on the dumping of radioactive waste at sea",
+        "damage was not thought to be permanent",
+        "some temporary workers did not want a permanent job"
+      ],
+      "synonyms": [
+        "lasting",
+        "enduring",
+        "indefinite",
+        "continuing",
+        "perpetual",
+        "everlasting",
+        "eternal",
+        "abiding",
+        "constant",
+        "persistent",
+        "irreparable",
+        "irreversible",
+        "lifelong",
+        "indissoluble",
+        "indelible",
+        "standing",
+        "perennial",
+        "unending",
+        "endless",
+        "never-ending",
+        "immutable",
+        "unchangeable",
+        "unalterable",
+        "invariable",
+        "unchanging",
+        "changeless",
+        "undying",
+        "imperishable",
+        "indestructible",
+        "ineradicable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A perm for the hair.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin permanent- remaining to the end (perhaps via Old French), from per- through + manere remain.",
+  "pronounciation": "/ˈpərmənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/permanent_us_1.mp3"
+}

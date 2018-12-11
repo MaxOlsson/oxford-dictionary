@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a substance) easily evaporated at normal temperatures.",
+      "examples": [],
+      "synonyms": [
+        "evaporative",
+        "vaporous",
+        "vaporescent"
+      ]
+    },
+    {
+      "description": "Liable to change rapidly and unpredictably, especially for the worse.",
+      "examples": [
+        "the political situation was becoming more volatile"
+      ],
+      "synonyms": [
+        "tense",
+        "strained",
+        "fraught",
+        "uneasy",
+        "uncomfortable",
+        "charged",
+        "explosive",
+        "eruptive",
+        "inflammatory",
+        "turbulent",
+        "in turmoil",
+        "full of upheavals"
+      ]
+    },
+    {
+      "description": "(of a computer's memory) retaining data only as long as there is a power supply connected.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A volatile substance.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense creature that flies, also, as a collective, birds): from Old French volatil or Latin volatilis, from volare to fly.",
+  "pronounciation": "/ˈvälədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/volatile_us_1.mp3"
+}

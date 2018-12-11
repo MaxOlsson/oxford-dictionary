@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having characteristics of both sexes or no characteristics of either sex; of indeterminate sex.",
+      "examples": [
+        "the sort of epicene beauty peculiar to boys of a certain age"
+      ],
+      "synonyms": [
+        "sexless",
+        "asexual",
+        "neuter",
+        "unsexed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An epicene person.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a grammatical term): via late Latin from Greek epikoinos (based on koinos common).",
+  "pronounciation": "/ˈɛpəˌsin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/epicene_us_1.mp3"
+}

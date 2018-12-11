@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The undersurface of a person's foot.",
+      "examples": [
+        "the soles of their feet were nearly black with dirt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put a new sole on to (a shoe).",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "One and only.",
+      "examples": [
+        "my sole aim was to contribute to the national team"
+      ],
+      "synonyms": [
+        "only",
+        "one",
+        "one and only",
+        "single",
+        "solitary",
+        "lone",
+        "unique",
+        "only possible",
+        "individual",
+        "exclusive",
+        "singular"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the senses secluded and unrivaled): from Old French soule, from Latin sola, feminine of solus alone.",
+  "pronounciation": "/soʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sole_us_1.mp3"
+}

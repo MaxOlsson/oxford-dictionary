@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "The equipment required for a task or sport.",
+      "examples": [
+        "fishing tackle"
+      ],
+      "synonyms": [
+        "gear",
+        "equipment",
+        "apparatus",
+        "outfit",
+        "kit",
+        "rig",
+        "hardware"
+      ]
+    },
+    {
+      "description": "A mechanism consisting of ropes, pulley blocks, hooks, or other things for lifting heavy objects.",
+      "examples": [],
+      "synonyms": [
+        "system of pulleys",
+        "hoisting gear",
+        "pulley",
+        "hoist",
+        "block and tackle",
+        "crane",
+        "winch",
+        "davit",
+        "windlass",
+        "sheave"
+      ]
+    },
+    {
+      "description": "(in soccer and other games) an act of taking the ball, or attempting to take the ball, from an opponent.",
+      "examples": []
+    },
+    {
+      "description": "A player who lines up inside the end along the line of scrimmage.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make determined efforts to deal with (a problem or difficult task)",
+      "examples": [
+        "police have launched an initiative to tackle rising crime"
+      ],
+      "synonyms": [
+        "get to grips with",
+        "apply oneself to",
+        "address oneself to",
+        "address",
+        "set about",
+        "go about",
+        "get to work at",
+        "take forward",
+        "busy oneself with",
+        "set one's hand to",
+        "grapple with",
+        "approach",
+        "take on",
+        "attend to",
+        "see to",
+        "throw oneself into",
+        "try to solve",
+        "try to deal with",
+        "try to cope with",
+        "try to sort out"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting equipment for a specific task): probably from Middle Low German takel, from taken lay hold of. Early senses of the verb ( late Middle English) described the provision and handling of a ship's equipment.",
+  "pronounciation": "/ˈtak(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tackle_us_1.mp3"
+}

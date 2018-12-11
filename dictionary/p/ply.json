@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A thickness or layer of a folded or laminated material.",
+      "examples": [],
+      "synonyms": [
+        "layer",
+        "thickness",
+        "strand",
+        "sheet",
+        "leaf",
+        "fold",
+        "insertion"
+      ]
+    },
+    {
+      "description": "(in game theory) the number of levels at which branching occurs in a tree of possible outcomes, typically corresponding to the number of moves ahead (in chess strictly half-moves ahead) considered by a computer program.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work with (a tool, especially one requiring steady, rhythmic movements)",
+      "examples": [
+        "a tailor delicately plying his needle"
+      ],
+      "synonyms": [
+        "use",
+        "wield",
+        "work",
+        "work with",
+        "employ",
+        "operate",
+        "utilize",
+        "manipulate",
+        "handle"
+      ]
+    },
+    {
+      "description": "(of a vessel or vehicle) travel regularly over a route, typically for commercial purposes.",
+      "examples": [
+        "ferries ply across a strait to the island"
+      ],
+      "synonyms": [
+        "go regularly",
+        "travel regularly",
+        "make regular journeys",
+        "travel",
+        "go back and forth",
+        "shuttle",
+        "commute"
+      ]
+    },
+    {
+      "description": "Provide someone with (food or drink) in a continuous or insistent way.",
+      "examples": [
+        "a flight attendant who plied them with soft drinks"
+      ],
+      "synonyms": [
+        "provide",
+        "supply",
+        "keep supplying",
+        "lavish",
+        "shower",
+        "regale",
+        "load",
+        "heap"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: shortening of apply.",
+  "pronounciation": "/plī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ply_us_1.mp3"
+}

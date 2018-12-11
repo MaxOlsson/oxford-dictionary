@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Full of or shedding light; bright or shining, especially in the dark.",
+      "examples": [
+        "the luminous dial on his watch",
+        "a luminous glow",
+        "her eyes were luminous with joy"
+      ],
+      "synonyms": [
+        "shining",
+        "bright",
+        "brilliant",
+        "radiant",
+        "dazzling",
+        "glowing",
+        "gleaming",
+        "coruscating",
+        "scintillating",
+        "lustrous",
+        "luminescent",
+        "phosphorescent",
+        "incandescent"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French lumineux or Latin luminosus, from lumen, lumin- light.",
+  "pronounciation": "/ˈlo͞omənəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/luminous_us_1.mp3"
+}

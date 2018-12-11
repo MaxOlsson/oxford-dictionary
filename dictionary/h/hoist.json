@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Raise (something) by means of ropes and pulleys.",
+      "examples": [
+        "high overhead great cranes hoisted girders"
+      ],
+      "synonyms": [
+        "raise",
+        "raise up",
+        "lift",
+        "lift up",
+        "haul up",
+        "heave up",
+        "jack up",
+        "hike up",
+        "winch up",
+        "pull up",
+        "upraise",
+        "uplift",
+        "elevate",
+        "erect"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of raising or lifting something.",
+      "examples": [],
+      "synonyms": [
+        "push",
+        "heave",
+        "thrust",
+        "shove",
+        "uplift",
+        "a helping hand"
+      ]
+    },
+    {
+      "description": "The part of a flag nearest the staff; the vertical dimension of a flag.",
+      "examples": []
+    },
+    {
+      "description": "A group of flags raised as a signal.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "In 1814 he briefly hoisted his flag at sea, commanding the naval escort for Louis XVIII's return to France from his English exile.",
+    "Before their plans could come to fruition, though, they had a serious falling out, and on 2nd September 1966 he and his family took control of the tower on their own and hoisted their flag.",
+    "Iwo gave us the uplifting vision of the Marines hoisting the flag on enemy soil."
+  ],
+  "origin": "Late 15th century: alteration of dialect hoise, probably from Dutch hijsen or Low German hiesen, but recorded earlier.",
+  "pronounciation": "/hoist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoist_us_1.mp3"
+}

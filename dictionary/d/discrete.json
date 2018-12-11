@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Individually separate and distinct.",
+      "examples": [
+        "speech sounds are produced as a continuous sound signal rather than discrete units"
+      ],
+      "synonyms": [
+        "separate",
+        "distinct",
+        "individual",
+        "detached",
+        "unattached",
+        "disconnected",
+        "discontinuous",
+        "disjunct",
+        "disjoined"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin discretus separate; compare with discreet.",
+  "pronounciation": "/dɪˈskrit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discrete_us_1.mp3"
+}

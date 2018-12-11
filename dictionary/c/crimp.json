@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Compress (something) into small folds or ridges.",
+      "examples": [
+        "she crimped the edge of the pie"
+      ],
+      "synonyms": [
+        "flute",
+        "pleat",
+        "corrugate",
+        "ruffle",
+        "furrow",
+        "groove",
+        "ridge",
+        "crease",
+        "wrinkle",
+        "crinkle",
+        "crumple",
+        "pucker",
+        "gather"
+      ]
+    },
+    {
+      "description": "Have a limiting or adverse effect on (something)",
+      "examples": [
+        "farmers complain that the drought could crimp their income potential"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A curl, wave, or folded or compressed edge.",
+      "examples": [
+        "this cascade of delicate crimps depends on a perm",
+        "the wool had too much crimp to be used in weaving"
+      ]
+    },
+    {
+      "description": "A restriction or limitation.",
+      "examples": [
+        "the crimp on take-home pay has been even tighter since taxes were raised"
+      ]
+    }
+  ],
+  "phrases": [
+    "well, that puts a crimp in my theory",
+    "Hopefully the delay won't put a crimp in the supply.",
+    "In addition to the modest increase in demand, higher freight costs could put a crimp in cement imports, which account for about one-fifth of the market.",
+    "All in all, more than half of our contractors found that they had basically outgrown their trailer capacity before they'd planned to, putting a crimp in operations.",
+    "Tobacco also puts a crimp in your campaign against blood fats."
+  ],
+  "origin": "Old English gecrympan, of Germanic origin; related to Dutch krimpen shrink, wrinkle. Of rare occurrence before the 18th century, the word was perhaps reintroduced from Low German or Dutch.",
+  "pronounciation": "/krimp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crimp_us_1.mp3"
+}

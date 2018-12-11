@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Draw money from (one's bank account) in excess of what the account holds.",
+      "examples": [
+        "you only pay interest if your account is overdrawn"
+      ],
+      "synonyms": [
+        "overdrawn",
+        "in debt",
+        "in debit",
+        "in deficit",
+        "owing money",
+        "in arrears",
+        "showing a loss"
+      ]
+    },
+    {
+      "description": "Exaggerate in describing or depicting (someone or something)",
+      "examples": [
+        "some of the characters were overdrawn"
+      ],
+      "synonyms": [
+        "overstate",
+        "overemphasize",
+        "overstress",
+        "overestimate",
+        "overvalue",
+        "magnify",
+        "amplify",
+        "aggrandize",
+        "inflate"
+      ]
+    },
+    {
+      "description": "Draw (a bow) too far.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌōvərˈdrô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overdraw_us_1.mp3"
+}

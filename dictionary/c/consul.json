@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "An official appointed by a government to live in a foreign city and protect and promote the government's citizens and interests there.",
+      "examples": [
+        "the British consul in Israel"
+      ],
+      "synonyms": [
+        "ambassador",
+        "diplomat",
+        "chargé d'affaires",
+        "attaché",
+        "envoy",
+        "emissary",
+        "plenipotentiary",
+        "consul general"
+      ]
+    },
+    {
+      "description": "(in ancient Rome) one of the two annually elected chief magistrates who jointly ruled the republic.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting an ancient Roman magistrate): from Latin, related to consulere take counsel.",
+  "pronounciation": "/ˈkänsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsul_us_1.mp3"
+}

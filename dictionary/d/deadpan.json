@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Deliberately impassive or expressionless.",
+      "examples": [
+        "answers his phone in a deadpan tone",
+        "deadpan humor"
+      ],
+      "synonyms": [
+        "blank",
+        "expressionless",
+        "unexpressive",
+        "inexpressive",
+        "impassive",
+        "inscrutable",
+        "poker-faced",
+        "straight-faced",
+        "dispassionate",
+        "unresponsive",
+        "stony",
+        "wooden",
+        "empty",
+        "vacant",
+        "glazed",
+        "fixed",
+        "lifeless"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a deadpan manner.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Say something amusing while affecting a serious manner.",
+      "examples": [
+        "“I'm an undercover dentist,” he deadpanned"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɛdˌpæn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deadpan_us_1.mp3"
+}

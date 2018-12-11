@@ -1,0 +1,59 @@
+{
+  "preposition": [
+    {
+      "description": "On the subject of or in connection with; about.",
+      "examples": [
+        "dreadful stories concerning a horrible beast"
+      ],
+      "synonyms": [
+        "about",
+        "regarding",
+        "on the subject of",
+        "relating to",
+        "relevant to",
+        "with regard to",
+        "as regards",
+        "to do with",
+        "with reference to",
+        "referring to",
+        "with respect to",
+        "respecting",
+        "as to",
+        "touching on",
+        "in the matter of",
+        "in connection with",
+        "re",
+        "apropos of"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Causing anxiety; worrying.",
+      "examples": [
+        "I find many of the comments very concerning",
+        "a concerning breach of security"
+      ],
+      "synonyms": [
+        "alarming",
+        "concerning",
+        "worrisome",
+        "daunting",
+        "perturbing",
+        "trying",
+        "taxing",
+        "vexatious",
+        "niggling",
+        "bothersome",
+        "troublesome",
+        "unsettling",
+        "harassing",
+        "harrying",
+        "harrowing",
+        "nerve-racking"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsərniNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcerning_us_1.mp3"
+}

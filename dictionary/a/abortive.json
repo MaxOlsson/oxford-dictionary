@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Failing to produce the intended result.",
+      "examples": [
+        "an abortive attempt to overthrow the government"
+      ],
+      "synonyms": [
+        "failed",
+        "unsuccessful",
+        "non-successful",
+        "vain",
+        "thwarted",
+        "futile",
+        "useless",
+        "worthless",
+        "ineffective",
+        "ineffectual",
+        "to no effect",
+        "inefficacious",
+        "fruitless",
+        "unproductive",
+        "unavailing",
+        "to no avail",
+        "sterile",
+        "nugatory"
+      ]
+    },
+    {
+      "description": "(of a virus infection) failing to produce symptoms.",
+      "examples": []
+    },
+    {
+      "description": "Causing or resulting in abortion.",
+      "examples": [
+        "abortive techniques"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun denoting a stillborn child or animal): via Old French from Latin abortivus, from aboriri miscarry (see abort).",
+  "pronounciation": "/əˈbôrdiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abortive_us_2.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "noun": [
+    {
+      "description": "A position counting as a draw, in which a player is not in check but cannot move except into check.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring to or cause to reach stalemate.",
+      "examples": [
+        "the group played a key role in stalemating the negotiations"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from obsolete stale (from Anglo-Norman French estale position, from estaler be placed) + mate.",
+  "pronounciation": "/ˈstālˌmāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stalemate_us_1.mp3"
+}

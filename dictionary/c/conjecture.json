@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "An opinion or conclusion formed on the basis of incomplete information.",
+      "examples": [
+        "conjectures about the newcomer were many and varied",
+        "the purpose of the opening in the wall is open to conjecture"
+      ],
+      "synonyms": [
+        "guess",
+        "speculation",
+        "surmise",
+        "fancy",
+        "notion",
+        "belief",
+        "suspicion",
+        "presumption",
+        "assumption",
+        "theory",
+        "hypothesis",
+        "postulation",
+        "supposition"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form an opinion or supposition about (something) on the basis of incomplete information.",
+      "examples": [
+        "many conjectured that the jury could not agree",
+        "he conjectured the existence of an otherwise unknown feature"
+      ],
+      "synonyms": [
+        "guess",
+        "speculate",
+        "surmise",
+        "infer",
+        "fancy",
+        "imagine",
+        "believe",
+        "think",
+        "suspect",
+        "presume",
+        "assume",
+        "hypothesize",
+        "take as a hypothesis",
+        "theorize",
+        "form a theory",
+        "formulate a theory",
+        "suppose"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses to divine and divination): from Old French, or from Latin conjectura, from conicere put together in thought, from con- together + jacere throw.",
+  "pronounciation": "/kənˈjekCHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconjecture_us_1.mp3"
+}

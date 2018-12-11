@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Affix or assign a date later than the actual one to (a document or event)",
+      "examples": [
+        "a post-dated cheque"
+      ]
+    },
+    {
+      "description": "Occur or come at a later date than.",
+      "examples": [
+        "Stonehenge was presumed to post-date these structures"
+      ]
+    }
+  ],
+  "pronounciation": "/pəʊstˈdeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/post_date_1_gb_1.mp3"
+}

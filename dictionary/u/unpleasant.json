@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Causing discomfort, unhappiness, or revulsion; disagreeable.",
+      "examples": [
+        "an unpleasant smell",
+        "the symptoms are extremely unpleasant"
+      ],
+      "synonyms": [
+        "disagreeable",
+        "irksome",
+        "troublesome",
+        "annoying",
+        "irritating",
+        "vexatious",
+        "displeasing",
+        "uncomfortable",
+        "distressing",
+        "nasty",
+        "horrible",
+        "appalling",
+        "terrible",
+        "awful",
+        "dreadful",
+        "hateful",
+        "detestable",
+        "miserable",
+        "abominable",
+        "execrable",
+        "odious",
+        "invidious",
+        "objectionable",
+        "offensive",
+        "obnoxious",
+        "repugnant",
+        "repulsive",
+        "repellent",
+        "revolting",
+        "disgusting",
+        "distasteful",
+        "nauseating",
+        "unsavoury",
+        "unpalatable",
+        "ugly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈplezənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unpleasant_us_1.mp3"
+}

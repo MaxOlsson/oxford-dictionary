@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A piece of wood, metal, or some other material having one thick end and tapering to a thin edge, that is driven between two objects or parts of an object to secure or separate them.",
+      "examples": [],
+      "synonyms": [
+        "tapered block",
+        "chock",
+        "door stop"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fix in position using a wedge.",
+      "examples": [
+        "the door was wedged open"
+      ]
+    },
+    {
+      "description": "Force into a narrow space.",
+      "examples": [
+        "I wedged the bags into the back seat"
+      ],
+      "synonyms": [
+        "squeeze",
+        "cram",
+        "jam",
+        "crush",
+        "pack",
+        "thrust",
+        "ram",
+        "force",
+        "push",
+        "stow"
+      ]
+    }
+  ],
+  "phrases": [
+    "the general aimed to drive a wedge between the city and its northern defenses",
+    "This advance also served to drive a wedge between the Germans and Central Gaul.",
+    "Within four days they had driven a wedge forty miles deep into the British positions and threatened to break the Allied lines altogether.",
+    "his parents drove a wedge between us",
+    "He said the pressure drove a wedge between him and his partner, who moved out taking their three children with her."
+  ],
+  "origin": "Late 17th century: of unknown origin.",
+  "pronounciation": "/wɛdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wedge_us_1.mp3"
+}

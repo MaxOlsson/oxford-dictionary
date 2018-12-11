@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Divide into two parts of equal or roughly equal size.",
+      "examples": [
+        "peel and halve the pears"
+      ],
+      "synonyms": [
+        "cut in half",
+        "divide into two equal parts",
+        "divide in two",
+        "split in two",
+        "sever in two",
+        "divide equally",
+        "share equally",
+        "bisect"
+      ]
+    },
+    {
+      "description": "Fit (crossing timbers) together by cutting out half the thickness of each.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from half.",
+  "pronounciation": "/hav/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/halve_us_1.mp3"
+}

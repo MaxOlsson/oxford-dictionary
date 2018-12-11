@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.",
+      "examples": [],
+      "synonyms": [
+        "charter",
+        "social code",
+        "canon",
+        "body of law",
+        "system of laws",
+        "system of rules"
+      ]
+    },
+    {
+      "description": "The composition of something.",
+      "examples": [
+        "the genetic constitution of a species"
+      ],
+      "synonyms": [
+        "composition",
+        "make-up",
+        "structure",
+        "organization",
+        "construction",
+        "arrangement",
+        "configuration",
+        "framework",
+        "form",
+        "formation",
+        "anatomy",
+        "shape",
+        "design"
+      ]
+    },
+    {
+      "description": "A person's physical state with regard to vitality, health, and strength.",
+      "examples": [
+        "pregnancy had weakened her constitution"
+      ],
+      "synonyms": [
+        "health",
+        "physique",
+        "state of health",
+        "physical condition",
+        "physical strength",
+        "shape",
+        "fettle"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a law, or a body of laws or customs): from Latin constitutio(n-), from constituere establish, appoint (see constitute).",
+  "pronounciation": "/ˌkɑnstəˈt(j)uʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstitution_us_1.mp3"
+}

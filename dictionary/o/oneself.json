@@ -1,0 +1,25 @@
+{
+  "pronoun": [
+    {
+      "description": "A person's own self.",
+      "examples": [
+        "it is difficult to wrest oneself away",
+        "resolves that one makes to oneself"
+      ]
+    },
+    {
+      "description": "Used to emphasize that one does something individually or unaided.",
+      "examples": [
+        "the idea of publishing a book oneself"
+      ]
+    },
+    {
+      "description": "In one's normal and individual state of body or mind; not influenced by others.",
+      "examples": [
+        "freedom to be oneself"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌwənˈself/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oneself_us_1.mp3"
+}

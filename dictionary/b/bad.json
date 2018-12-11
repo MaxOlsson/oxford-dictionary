@@ -1,0 +1,172 @@
+{
+  "adjective": [
+    {
+      "description": "Of poor quality or a low standard.",
+      "examples": [
+        "a bad diet",
+        "bad eyesight"
+      ],
+      "synonyms": [
+        "substandard",
+        "poor",
+        "inferior",
+        "second-rate",
+        "second-class",
+        "unsatisfactory",
+        "inadequate",
+        "unacceptable",
+        "not up to scratch",
+        "not up to par",
+        "deficient",
+        "imperfect",
+        "defective",
+        "faulty",
+        "shoddy",
+        "amateurish",
+        "careless",
+        "negligent"
+      ]
+    },
+    {
+      "description": "Not such as to be hoped for or desired; unpleasant or unwelcome.",
+      "examples": [
+        "bad weather",
+        "we had the worst luck"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "disagreeable",
+        "unwelcome",
+        "unfortunate",
+        "unfavourable",
+        "unlucky",
+        "adverse",
+        "nasty"
+      ]
+    },
+    {
+      "description": "Failing to conform to standards of moral virtue or acceptable conduct.",
+      "examples": [
+        "the bad guys",
+        "bad behavior"
+      ],
+      "synonyms": [
+        "wicked",
+        "sinful",
+        "immoral",
+        "evil",
+        "morally wrong",
+        "corrupt",
+        "base",
+        "black-hearted",
+        "reprobate",
+        "depraved",
+        "degenerate",
+        "dissolute",
+        "amoral"
+      ]
+    },
+    {
+      "description": "(of a part of the body) injured, diseased, or painful.",
+      "examples": [
+        "a bad back"
+      ],
+      "synonyms": [
+        "injured",
+        "wounded",
+        "diseased"
+      ]
+    },
+    {
+      "description": "(of food) decayed; putrid.",
+      "examples": [
+        "everything in the fridge went bad"
+      ],
+      "synonyms": [
+        "rotten",
+        "off",
+        "decayed",
+        "decomposed",
+        "decomposing",
+        "putrid",
+        "putrefied",
+        "putrescent",
+        "mouldy",
+        "mouldering"
+      ]
+    },
+    {
+      "description": "Regretful, guilty, or ashamed about something.",
+      "examples": [
+        "she feels bad about ending their engagement",
+        "I feel bad that our business is benefiting from something so horrible"
+      ],
+      "synonyms": [
+        "guilty",
+        "conscience-stricken",
+        "remorseful",
+        "guilt-ridden",
+        "ashamed",
+        "chastened",
+        "contrite",
+        "sorry",
+        "full of regret",
+        "regretful",
+        "repentant",
+        "penitent",
+        "shamefaced",
+        "self-reproachful",
+        "apologetic"
+      ]
+    },
+    {
+      "description": "Worthless; not valid.",
+      "examples": [
+        "he ran up 87 bad checks"
+      ],
+      "synonyms": [
+        "invalid",
+        "worthless"
+      ]
+    },
+    {
+      "description": "Good; excellent.",
+      "examples": [
+        "they want the baddest, best-looking Corvette there is"
+      ],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Badly.",
+      "examples": [
+        "he beat her up real bad"
+      ]
+    }
+  ],
+  "phrases": [
+    "the country's going from bad to worse",
+    "This is one of those days, however, that just keeps going from bad to worse, as Brandon and his passengers are soon to discover.",
+    "Sensing the situation moving from bad to worse, the reporter sought help from a Boston police officer on duty nearby.",
+    "Therefore it will reduce the already insufficient number of road lanes, and hence the situation will go from bad to worse.",
+    "But with the eradication of that status, the financial position of the State had gone from bad to worse."
+  ],
+  "origin": "Middle English: perhaps from Old English bǣddel hermaphrodite, womanish man.",
+  "pronounciation": "/bad/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bad_us_1.mp3"
+}

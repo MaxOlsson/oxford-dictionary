@@ -1,0 +1,81 @@
+{
+  "adjective": [
+    {
+      "description": "Firm and stable in shape; not liquid or fluid.",
+      "examples": [
+        "the stream was frozen solid",
+        "solid fuels"
+      ],
+      "synonyms": [
+        "hard",
+        "rock-hard",
+        "rigid",
+        "firm",
+        "solidified",
+        "set",
+        "frozen",
+        "jellied",
+        "congealed",
+        "concrete"
+      ]
+    },
+    {
+      "description": "Having three dimensions.",
+      "examples": [
+        "a solid figure with six plane faces"
+      ]
+    },
+    {
+      "description": "Not hollow or containing spaces or gaps.",
+      "examples": [
+        "a sculpture made out of solid rock",
+        "a solid mass of flowers",
+        "the stores were packed solid"
+      ]
+    },
+    {
+      "description": "Dependable; reliable.",
+      "examples": [
+        "the defense is solid",
+        "there is solid evidence of lower inflation"
+      ],
+      "synonyms": [
+        "well founded",
+        "well grounded",
+        "valid",
+        "sound",
+        "reasonable",
+        "logical",
+        "weighty",
+        "authoritative",
+        "convincing",
+        "cogent",
+        "plausible",
+        "credible",
+        "reliable"
+      ]
+    },
+    {
+      "description": "On good terms with.",
+      "examples": [
+        "he thought he could put himself in solid with you by criticizing her"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance or object that is solid rather than liquid or fluid.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "they're a business, not a family friend or a buddy who will do you a solid for being a good customer",
+    "I felt I let her down, so I wanted to do her a solid.",
+    "The guy did Scorsese a solid and now he is being touted by the CEO of Publicity as a big supporter of the movie.",
+    "The guy who went in with the hidden camera did us all a solid.",
+    "And we ask you to do us a solid - please support vegan businesses as often as you can."
+  ],
+  "origin": "Late Middle English: from Latin solidus; related to salvus safe and sollus entire.",
+  "pronounciation": "/ˈsäləd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solid_us_1.mp3"
+}

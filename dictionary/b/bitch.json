@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A female dog, wolf, fox, or otter.",
+      "examples": []
+    },
+    {
+      "description": "A spiteful or unpleasant woman.",
+      "examples": [],
+      "synonyms": [
+        "shrew",
+        "vixen",
+        "she-devil",
+        "hellcat"
+      ]
+    },
+    {
+      "description": "A difficult or unpleasant situation or thing.",
+      "examples": [
+        "the stove is a bitch to fix"
+      ],
+      "synonyms": [
+        "nightmare"
+      ]
+    },
+    {
+      "description": "A complaint.",
+      "examples": [
+        "my big bitch is that there's nothing new here"
+      ],
+      "synonyms": [
+        "complaint",
+        "moan",
+        "grumble",
+        "gripe",
+        "grouse",
+        "grouch"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Express displeasure; grumble.",
+      "examples": [
+        "they bitch about everything",
+        "we're tired of your bitching"
+      ],
+      "synonyms": [
+        "be spiteful about",
+        "criticize",
+        "find fault with",
+        "run down",
+        "cast aspersions on",
+        "speak ill of",
+        "slander",
+        "malign"
+      ]
+    }
+  ],
+  "origin": "Old English bicce, of Germanic origin.",
+  "pronounciation": "/biCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bitch_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Divided into zones, in particular (of land) designated for a particular type of use or development.",
+      "examples": [
+        "zoned industrial land"
+      ]
+    },
+    {
+      "description": "Marked with circles or bands of color.",
+      "examples": [
+        "strongly zoned leaves"
+      ]
+    },
+    {
+      "description": "Under the influence of drugs or alcohol.",
+      "examples": [
+        "she's zoned on downers",
+        "a zoned-out hippie"
+      ],
+      "synonyms": [
+        "intoxicated",
+        "inebriated",
+        "drunken",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    }
+  ],
+  "pronounciation": "/zōnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zoned_us_1.mp3"
+}

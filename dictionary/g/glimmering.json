@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A glimmer.",
+      "examples": [
+        "the glimmering of an idea"
+      ],
+      "synonyms": [
+        "glimmer",
+        "gleam",
+        "glint",
+        "flash",
+        "flicker",
+        "twinkle",
+        "sparkle"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Shining faintly with a wavering light.",
+      "examples": [
+        "pools of glimmering light"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡlɪmərɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glimmering_us_1.mp3"
+}

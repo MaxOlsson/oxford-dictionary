@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Seek information or advice from (someone with expertise in a particular area)",
+      "examples": [
+        "you should consult a financial advisor"
+      ],
+      "synonyms": [
+        "ask",
+        "seek advice from",
+        "seek information from",
+        "take counsel from",
+        "call in",
+        "call on",
+        "call upon",
+        "turn to",
+        "have recourse to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of consulting a professional; a consultation.",
+      "examples": [
+        "after a consult with his attorneys, he retracted his previous statement"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense confer): from French consulter, from Latin consultare, frequentative of consulere take counsel.",
+  "pronounciation": "/kənˈsəlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsult_us_1.mp3"
+}

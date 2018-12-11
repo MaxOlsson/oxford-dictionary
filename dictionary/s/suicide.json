@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The action of killing oneself intentionally.",
+      "examples": [
+        "he committed suicide at the age of forty",
+        "drug-related suicides"
+      ],
+      "synonyms": [
+        "self-destruction",
+        "taking one's own life",
+        "self-murder",
+        "self-slaughter",
+        "felo de se"
+      ]
+    },
+    {
+      "description": "A running drill consisting of a sprint to a set point (especially a line on a basketball court) and back to the start, immediately followed by additional sprints of lengthening distances.",
+      "examples": [
+        "we shot free throws and if we missed we ran suicides"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Intentionally kill oneself.",
+      "examples": [
+        "he leaves the service and then suicides"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin suicidium act of suicide, suicida person who commits suicide, from Latin sui of oneself + caedere kill.",
+  "pronounciation": "/ˈso͞oəˌsīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suicide_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Go quickly.",
+      "examples": [
+        "I hied down to New Orleans",
+        "I hied myself to a screenwriters' conference"
+      ],
+      "synonyms": [
+        "be quick",
+        "hurry up",
+        "move quickly",
+        "go fast",
+        "hasten",
+        "make haste",
+        "speed",
+        "speed up",
+        "lose no time",
+        "press on",
+        "push on",
+        "run",
+        "dash",
+        "rush",
+        "hurtle",
+        "dart",
+        "race",
+        "fly",
+        "flash",
+        "shoot",
+        "streak",
+        "bolt",
+        "bound",
+        "blast",
+        "charge",
+        "chase",
+        "career",
+        "scurry",
+        "scramble",
+        "scamper",
+        "scuttle",
+        "sprint",
+        "gallop",
+        "go hell for leather",
+        "go like lightning"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old English hīgian strive, pant, of unknown origin.",
+  "pronounciation": "/hī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hie_us_2.mp3"
+}

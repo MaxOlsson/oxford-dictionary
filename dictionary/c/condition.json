@@ -1,0 +1,114 @@
+{
+  "noun": [
+    {
+      "description": "The state of something with regard to its appearance, quality, or working order.",
+      "examples": [
+        "the wiring is in good condition",
+        "the bridge is in an extremely dangerous condition"
+      ],
+      "synonyms": [
+        "state",
+        "shape",
+        "order"
+      ]
+    },
+    {
+      "description": "The circumstances affecting the way in which people live or work, especially with regard to their safety or well-being.",
+      "examples": [
+        "harsh working and living conditions"
+      ],
+      "synonyms": [
+        "circumstances",
+        "surroundings"
+      ]
+    },
+    {
+      "description": "A state of affairs that must exist or be brought about before something else is possible or permitted.",
+      "examples": [
+        "for a member to borrow money, three conditions have to be met",
+        "all personnel should comply with this policy as a condition of employment",
+        "I'll accept your offer on one condition"
+      ],
+      "synonyms": [
+        "stipulation",
+        "constraint",
+        "prerequisite",
+        "precondition",
+        "requirement",
+        "rule",
+        "term",
+        "specification",
+        "provision",
+        "proviso",
+        "qualification"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a significant influence on or determine (the manner or outcome of something)",
+      "examples": [
+        "national choices are conditioned by the international political economy"
+      ],
+      "synonyms": [
+        "constrain",
+        "control",
+        "govern",
+        "determine",
+        "decide"
+      ]
+    },
+    {
+      "description": "Bring (something) into the desired state for use.",
+      "examples": [
+        "a product for conditioning leather"
+      ],
+      "synonyms": [
+        "treat",
+        "prepare",
+        "make ready",
+        "ready",
+        "prime",
+        "temper",
+        "process",
+        "acclimatize",
+        "acclimate",
+        "adapt",
+        "adjust",
+        "soften",
+        "season"
+      ]
+    },
+    {
+      "description": "Apply a conditioner to (the hair)",
+      "examples": [
+        "I condition my hair regularly"
+      ],
+      "synonyms": [
+        "improve",
+        "make healthy",
+        "build up",
+        "nourish",
+        "tone",
+        "tone up",
+        "get something into shape"
+      ]
+    },
+    {
+      "description": "Set prior requirements on (something) before it can occur or be done.",
+      "examples": [
+        "Congressmen have sought to limit and condition military and economic aid"
+      ]
+    }
+  ],
+  "phrases": [
+    "Many of the area penners have been practicing and keeping their horses in condition this winter for the first time.",
+    "It is a condition of mind in which the mind is out of condition.",
+    "Long hair quickly gets out of condition if it isn't treated right.",
+    "But not every one is going to be in condition to play every three days.",
+    "Now, I know that someone who has great natural shape but is out of condition won't beat someone with a lesser shape who is in condition."
+  ],
+  "origin": "Middle English: from Old French condicion (noun), condicionner (verb), from Latin condicio(n-) agreement, from condicere agree upon, from con- with + dicere say.",
+  "pronounciation": "/kənˈdɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcondition_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Having committed a fault or sin; offending.",
+      "examples": [
+        "the peccant officials fell on their knees"
+      ],
+      "synonyms": [
+        "culpable",
+        "to blame",
+        "blameworthy",
+        "blameable",
+        "at fault",
+        "in the wrong",
+        "responsible",
+        "answerable",
+        "accountable",
+        "liable"
+      ]
+    },
+    {
+      "description": "Diseased or causing disease.",
+      "examples": [
+        "peccant matter"
+      ],
+      "synonyms": [
+        "unhealthy",
+        "ill",
+        "sick",
+        "unwell",
+        "ailing",
+        "infirm",
+        "sickly",
+        "unsound",
+        "unwholesome",
+        "infected",
+        "septic",
+        "contaminated",
+        "blighted",
+        "rotten",
+        "bad",
+        "abnormal"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in peccant (sense 2)): from Latin peccant- sinning, from the verb peccare.",
+  "pronounciation": "/ˈpekənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peccant_us_1.mp3"
+}

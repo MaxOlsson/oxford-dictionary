@@ -1,0 +1,64 @@
+{
+  "noun": [
+    {
+      "description": "A person's state of mind seen in terms of their being angry or calm.",
+      "examples": [
+        "he rushed out in a very bad temper"
+      ],
+      "synonyms": [
+        "temperament",
+        "disposition",
+        "nature",
+        "character",
+        "personality",
+        "make-up",
+        "constitution",
+        "mind",
+        "spirit",
+        "stamp",
+        "mettle",
+        "mould"
+      ]
+    },
+    {
+      "description": "The degree of hardness and elasticity in steel or other metal.",
+      "examples": [
+        "the blade rapidly heats up and the metal loses its temper"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Improve the hardness and elasticity of (steel or other metal) by reheating and then cooling it.",
+      "examples": [
+        "the way a smith would temper a sword",
+        "tempered steel pins"
+      ]
+    },
+    {
+      "description": "Act as a neutralizing or counterbalancing force to (something)",
+      "examples": [
+        "their idealism is tempered with realism"
+      ],
+      "synonyms": [
+        "moderate",
+        "modify",
+        "modulate"
+      ]
+    },
+    {
+      "description": "Tune (a piano or other instrument) so as to adjust the note intervals correctly.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I know that both times I was wrong for blowing up and losing my temper, but it was extremely hard not to.",
+    "He went on: For some reason we shall never know why you lost your temper.",
+    "General Powell lost his temper and fired the gun into the air.",
+    "I always got angry easily and would lose my temper like that.",
+    "She is frightened at first, and then becomes angry, soon losing her temper."
+  ],
+  "origin": "Old English temprian bring something into the required condition by mixing it with something else, from Latin temperare mingle, restrain. Sense development was probably influenced by Old French temprer to temper, moderate. The noun originally denoted a proportionate mixture of elements or qualities, also the combination of the four bodily humors, believed in medieval times to be the basis of temperament, hence temper (sense 1 of the noun)( late Middle English). Compare with temperament.",
+  "pronounciation": "/ˈtɛmpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/temper_us_1.mp3"
+}

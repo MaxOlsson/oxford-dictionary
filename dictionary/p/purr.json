@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "(of a cat) make a low continuous vibratory sound expressing contentment.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A low continuous vibratory sound, typically that made by a cat or vehicle.",
+      "examples": [],
+      "synonyms": [
+        "murmur",
+        "murmuring",
+        "drone",
+        "droning",
+        "vibration",
+        "purr",
+        "purring",
+        "buzz",
+        "buzzing",
+        "whir",
+        "whirring",
+        "throb",
+        "throbbing",
+        "thrum",
+        "thrumming"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: imitative.",
+  "pronounciation": "/pər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purr_us_1.mp3"
+}

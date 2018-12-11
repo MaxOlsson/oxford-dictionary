@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to, denoting, or suffering from a psychosis.",
+      "examples": [
+        "a psychotic disturbance"
+      ],
+      "synonyms": [
+        "severely mentally ill",
+        "insane",
+        "mad",
+        "certifiable",
+        "deranged",
+        "demented",
+        "of unsound mind",
+        "out of one's mind",
+        "not in one's right mind",
+        "not together",
+        "crazed",
+        "lunatic",
+        "unbalanced",
+        "unhinged",
+        "unstable",
+        "disturbed",
+        "distracted",
+        "stark mad",
+        "maniac",
+        "maniacal",
+        "manic",
+        "frenzied",
+        "raving",
+        "distraught",
+        "frantic",
+        "hysterical",
+        "delirious",
+        "mad as a hatter",
+        "mad as a march hare"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person suffering from a psychosis.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/sīˈkädik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psychotic_us_1.mp3"
+}

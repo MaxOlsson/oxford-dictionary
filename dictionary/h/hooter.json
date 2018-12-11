@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A person's nose.",
+      "examples": [],
+      "synonyms": [
+        "snout",
+        "muzzle",
+        "proboscis",
+        "trunk"
+      ]
+    },
+    {
+      "description": "A woman's breasts.",
+      "examples": [],
+      "synonyms": [
+        "mammary gland",
+        "mamma"
+      ]
+    },
+    {
+      "description": "A siren or steam whistle, especially one used as a signal for work to begin or cease.",
+      "examples": [],
+      "synonyms": [
+        "alarm",
+        "alarm bell",
+        "warning bell",
+        "danger signal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhudər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hooter_us_1.mp3"
+}

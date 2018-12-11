@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A concise saying or maxim; an aphorism.",
+      "examples": [
+        "the apothegm “tomorrow is another day”"
+      ],
+      "synonyms": [
+        "maxim",
+        "saying",
+        "proverb",
+        "aphorism",
+        "adage",
+        "saw",
+        "axiom",
+        "formula",
+        "expression",
+        "phrase",
+        "rule",
+        "dictum",
+        "precept",
+        "epigram",
+        "gnome"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French apophthegme or modern Latin apothegma, from Greek, from apophthengesthai speak out.",
+  "pronounciation": "/ˈæpəˌθɛm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apothem_us_1.mp3"
+}

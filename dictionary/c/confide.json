@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Tell someone about a secret or private matter while trusting them not to repeat it to others.",
+      "examples": [
+        "he confided his fears to his mother",
+        "“I have been afraid,” she confided",
+        "the judge confided that he had been swayed by the sister of the accused"
+      ],
+      "synonyms": [
+        "reveal",
+        "disclose",
+        "divulge",
+        "leak",
+        "lay bare",
+        "make known",
+        "betray",
+        "impart",
+        "pass on",
+        "proclaim",
+        "announce",
+        "report",
+        "declare",
+        "intimate",
+        "uncover",
+        "unmask",
+        "expose",
+        "bring out into the open",
+        "unfold",
+        "vouchsafe",
+        "tell"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense place trust (in)): from Latin confidere have full trust. The sense impart as a secret dates from the mid 18th century.",
+  "pronounciation": "/kənˈfaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfide_us_1.mp3"
+}

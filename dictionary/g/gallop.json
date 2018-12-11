@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The fastest pace of a horse or other quadruped, with all the feet off the ground together in each stride.",
+      "examples": [
+        "the horse broke into a furious gallop",
+        "riding at full gallop"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a horse) go at the pace of a gallop.",
+      "examples": [
+        "we galloped along the sand"
+      ],
+      "synonyms": [
+        "race",
+        "canter",
+        "run",
+        "rush",
+        "dash",
+        "tear",
+        "sprint",
+        "bolt",
+        "fly",
+        "shoot",
+        "dart",
+        "hurry",
+        "hasten",
+        "speed",
+        "streak",
+        "hurtle",
+        "career",
+        "hare",
+        "scamper",
+        "scurry",
+        "scud",
+        "go like lighting",
+        "go like the wind"
+      ]
+    },
+    {
+      "description": "(of a process or time) progress rapidly in a seemingly uncontrollable manner.",
+      "examples": [
+        "panic about the deadline galloping toward them"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Old French galop (noun), galoper, variants of Old Northern French walop, waloper (see wallop).",
+  "pronounciation": "/ˈɡaləp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gallop_us_1.mp3"
+}

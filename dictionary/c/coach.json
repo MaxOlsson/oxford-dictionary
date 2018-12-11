@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A horse-drawn carriage, especially a closed one.",
+      "examples": [],
+      "synonyms": [
+        "horse-drawn carriage",
+        "trap",
+        "hackney",
+        "hansom",
+        "gig",
+        "landau",
+        "brougham",
+        "cab"
+      ]
+    },
+    {
+      "description": "A railroad car.",
+      "examples": [],
+      "synonyms": [
+        "carriage",
+        "wagon",
+        "compartment",
+        "van",
+        "pullman"
+      ]
+    },
+    {
+      "description": "A bus, especially one that is comfortably equipped and used for longer journeys.",
+      "examples": [],
+      "synonyms": [
+        "bus",
+        "minibus",
+        "van"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel by coach.",
+      "examples": [
+        "they coached to Claude's dwelling"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In economy class accommodations in an aircraft or train.",
+      "examples": [
+        "flying coach"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (as a verb): figuratively from coach.",
+  "pronounciation": "/kōCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coach_us_1.mp3"
+}

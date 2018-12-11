@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Nearer the front, especially situated in the front of the body or nearer to the head.",
+      "examples": [
+        "the veins anterior to the heart"
+      ],
+      "synonyms": [
+        "forepart",
+        "fore",
+        "foremost part",
+        "anterior",
+        "forefront",
+        "nose",
+        "head"
+      ]
+    },
+    {
+      "description": "Coming before in time; earlier.",
+      "examples": [
+        "there are few examples of gold and silver work anterior to the dynasty of the Romanoffs"
+      ],
+      "synonyms": [
+        "earlier",
+        "previous",
+        "preceding",
+        "foregoing",
+        "antecedent",
+        "advance",
+        "preparatory",
+        "preliminary",
+        "initial"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French antérieur or Latin anterior, comparative of ante before.",
+  "pronounciation": "/ˌænˈtɪriər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anterior_us_1.mp3"
+}

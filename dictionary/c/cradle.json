@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "An infant's bed or crib, typically one mounted on rockers.",
+      "examples": [],
+      "synonyms": [
+        "crib",
+        "bassinet",
+        "moses basket",
+        "cot",
+        "carrycot"
+      ]
+    },
+    {
+      "description": "A framework on which a ship or boat rests during construction or repairs.",
+      "examples": [],
+      "synonyms": [
+        "framework",
+        "rack",
+        "holder",
+        "stand",
+        "base",
+        "support",
+        "mounting",
+        "mount",
+        "platform",
+        "prop",
+        "horse",
+        "rest",
+        "chock",
+        "plinth",
+        "bottom",
+        "trivet",
+        "bracket",
+        "frame",
+        "subframe",
+        "structure",
+        "substructure",
+        "chassis"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hold gently and protectively.",
+      "examples": [
+        "she cradled his head in her arms"
+      ],
+      "synonyms": [
+        "hold",
+        "support",
+        "prop up",
+        "rest",
+        "pillow",
+        "bolster",
+        "cushion",
+        "shelter",
+        "protect"
+      ]
+    },
+    {
+      "description": "Place (a telephone receiver) in its cradle.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English cradol, of uncertain origin; perhaps related to German Kratte basket.",
+  "pronounciation": "/ˈkrādl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cradle_us_1.mp3"
+}

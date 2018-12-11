@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or resembling a dog or dogs.",
+      "examples": [
+        "canine distemper virus"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dog.",
+      "examples": [],
+      "synonyms": [
+        "hound",
+        "mongrel",
+        "cur",
+        "tyke"
+      ]
+    },
+    {
+      "description": "A pointed tooth between the incisors and premolars of a mammal, often greatly enlarged in carnivores.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in canine (sense 2 of the noun)): from French, from Latin caninus, from canis dog.",
+  "pronounciation": "/ˈkāˌnīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canine_us_1.mp3"
+}

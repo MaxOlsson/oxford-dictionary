@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "Toward a lower place, point, or level.",
+      "examples": [
+        "he was lying face downward"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Moving or leading toward a lower place or level.",
+      "examples": [
+        "a downward trend in inflation",
+        "the downward curve of the stairs"
+      ],
+      "synonyms": [
+        "descending",
+        "downhill",
+        "falling",
+        "sinking",
+        "going down",
+        "moving down",
+        "sliding",
+        "slipping",
+        "dipping",
+        "earthbound",
+        "earthward"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old English adūnweard.",
+  "pronounciation": "/ˈdaʊnwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downward_us_1.mp3"
+}

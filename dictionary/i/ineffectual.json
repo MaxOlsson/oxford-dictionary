@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not producing any or the desired effect.",
+      "examples": [
+        "an ineffectual campaign"
+      ],
+      "synonyms": [
+        "inefficient",
+        "ineffective",
+        "inefficacious",
+        "unsuccessful",
+        "powerless",
+        "impotent",
+        "inadequate",
+        "inept",
+        "incompetent",
+        "incapable",
+        "unfit",
+        "lame",
+        "feeble",
+        "weak",
+        "poor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin ineffectualis, from in- not + effectualis, from Latin effectus (see effect); in later use from in- not + effectual.",
+  "pronounciation": "/ˌɪnəˈfɛk(t)ʃ(u)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ineffectual_us_1.mp3"
+}

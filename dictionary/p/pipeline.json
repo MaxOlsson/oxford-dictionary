@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A long pipe, typically underground, for conveying oil, gas, etc. over long distances.",
+      "examples": [],
+      "synonyms": [
+        "pipe",
+        "conduit",
+        "main",
+        "line",
+        "duct",
+        "channel",
+        "tube",
+        "conveyor"
+      ]
+    },
+    {
+      "description": "A linear sequence of specialized modules used for pipelining.",
+      "examples": []
+    },
+    {
+      "description": "(in surfing) the hollow formed by the breaking of a large wave.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey (a substance) by a pipeline.",
+      "examples": []
+    },
+    {
+      "description": "Design or execute (a computer or instruction) using the technique of pipelining.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "new treatments are in the pipeline",
+    "There are plans in the pipeline to build a town centre pool elsewhere.",
+    "He says existing plans are stuck in the pipeline with no money in the budget to finish them.",
+    "There are other plans in the pipeline and these will be discussed at future meetings.",
+    "Major changes are undoubtedly in the pipeline for the whole process, from arrest to release from prison."
+  ],
+  "pronounciation": "/ˈpīpˌlīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pipeline_us_1.mp3"
+}

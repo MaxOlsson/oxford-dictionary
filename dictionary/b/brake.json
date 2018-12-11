@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A device for slowing or stopping a moving vehicle, typically by applying pressure to the wheels.",
+      "examples": [
+        "he slammed on his brakes",
+        "a brake pedal"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a moving vehicle slow down or stop by using a brake.",
+      "examples": [
+        "drivers who brake abruptly"
+      ],
+      "synonyms": [
+        "slow down",
+        "slow",
+        "decelerate"
+      ]
+    }
+  ],
+  "": [],
+  "origin": "Middle English: perhaps an abbreviation of bracken (interpreted as plural).",
+  "pronounciation": "/brāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brake_us_1.mp3"
+}

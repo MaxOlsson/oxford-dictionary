@@ -1,0 +1,160 @@
+{
+  "pronoun": [
+    {
+      "description": "A large number or amount; a great deal.",
+      "examples": [
+        "there are a lot of actors in the cast",
+        "they took a lot of abuse",
+        "a lot can happen in eight months",
+        "we had lots of fun"
+      ],
+      "synonyms": [
+        "a large amount",
+        "a fair amount",
+        "a good deal",
+        "a great deal",
+        "a deal",
+        "a great quantity",
+        "quantities",
+        "an abundance",
+        "a wealth",
+        "a profusion",
+        "plenty",
+        "masses"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "A great deal; much.",
+      "examples": [
+        "he played tennis a lot last year",
+        "thanks a lot",
+        "my life is a lot better now",
+        "I feel a whole lot better"
+      ],
+      "synonyms": [
+        "a great deal",
+        "a good deal",
+        "to a great extent",
+        "much"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A particular group, collection, or set of people or things.",
+      "examples": [
+        "it's just one lot of rich people stealing from another"
+      ],
+      "synonyms": [
+        "group",
+        "set",
+        "crowd",
+        "circle",
+        "clique",
+        "bunch",
+        "band",
+        "gang",
+        "crew",
+        "mob",
+        "pack",
+        "company"
+      ]
+    },
+    {
+      "description": "An article or set of articles for sale at an auction.",
+      "examples": [
+        "nineteen lots failed to sell",
+        "the picture is lot 16"
+      ],
+      "synonyms": [
+        "batch",
+        "set",
+        "collection",
+        "load",
+        "group",
+        "bundle",
+        "bunch",
+        "consignment",
+        "quantity",
+        "assortment",
+        "parcel",
+        "aggregate"
+      ]
+    },
+    {
+      "description": "One of a set of objects such as straws, stones, or pieces of paper that are randomly selected as part of a decision-making process.",
+      "examples": [
+        "they drew lots to determine the order in which they asked questions"
+      ],
+      "synonyms": [
+        "decide randomly",
+        "spin a coin",
+        "toss a coin",
+        "throw dice",
+        "draw straws",
+        "cut straws",
+        "decide on the toss of a coin",
+        "decide on the throw of a die",
+        "dice",
+        "decide on the drawing of straws"
+      ]
+    },
+    {
+      "description": "A person's luck or condition in life, particularly as determined by fate or destiny.",
+      "examples": [
+        "plans to improve the lot of the disadvantaged"
+      ],
+      "synonyms": [
+        "fate",
+        "destiny",
+        "fortune",
+        "doom"
+      ]
+    },
+    {
+      "description": "A plot of land assigned for sale or for a particular use.",
+      "examples": [
+        "a vacant lot",
+        "a fenced-off back lot"
+      ],
+      "synonyms": [
+        "patch of ground",
+        "tract of land",
+        "allotment",
+        "piece of ground",
+        "plot",
+        "area",
+        "tract",
+        "acreage",
+        "parcel",
+        "building lot"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide (items) into lots for sale at an auction.",
+      "examples": [
+        "the contents have already been lotted up, and the auction takes place on Monday"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A river in southern France that flows 300 miles (480 km) west to meet the Garonne River southeast of Bordeaux.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Scientists are all over the lot on the question, and the issue is so hot politically that it's difficult to trust the science.",
+    "I'm just a normal guy, got a job to do, and my emotions were all over the lot.",
+    "Howard, I think you're all over the lot on this issue.",
+    "So the Supreme Court is just all over the lot on this.",
+    "I mean, the families are all over the lot over this."
+  ],
+  "origin": "Old English hlot (noun), of Germanic origin; related to Dutch lot, German Los. The original meanings were lot (sense 3 of the noun) and (by extension) the sense a portion assigned to someone; the latter gave rise to the other noun senses. The pronoun and adverb uses date from the early 19th century.",
+  "pronounciation": "/lɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lot_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that relates to genes or genetics.",
+      "examples": [
+        "hair color is genetically determined",
+        "a genetically inherited condition"
+      ]
+    },
+    {
+      "description": "In a way that relates to origin or development.",
+      "examples": [
+        "language varieties that are genetically related"
+      ]
+    }
+  ],
+  "pronounciation": "/dʒəˈnɛdəkli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/genetically_us_1.mp3"
+}

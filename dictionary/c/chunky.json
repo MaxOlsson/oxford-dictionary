@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Bulky and solid.",
+      "examples": [
+        "a chunky bracelet"
+      ],
+      "synonyms": [
+        "thick",
+        "bulky",
+        "heavy-knit",
+        "cable-knit"
+      ]
+    },
+    {
+      "description": "(of food) containing chunks.",
+      "examples": [
+        "a chunky soup",
+        "fresh chunky salsa"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHəNGkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chunky_us_1.mp3"
+}

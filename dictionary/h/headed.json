@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Having a head of a specified kind.",
+      "examples": [
+        "bald-headed men",
+        "a seven-headed dragon"
+      ]
+    },
+    {
+      "description": "Having a tip, end, or top part of a specified kind.",
+      "examples": [
+        "single-headed arrows",
+        "short flat-headed nails"
+      ]
+    },
+    {
+      "description": "Having a particular person in charge; having a director or leader.",
+      "examples": [
+        "female-headed households"
+      ]
+    },
+    {
+      "description": "(of paper) having a printed heading, typically the name and address of a person or organization.",
+      "examples": [
+        "headed notepaper"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhedəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/headed_us_1.mp3"
+}

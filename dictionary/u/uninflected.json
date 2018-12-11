@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of a word or a language) not undergoing changes to express grammatical functions or attributes.",
+      "examples": [
+        "English is largely uninflected"
+      ]
+    },
+    {
+      "description": "Not varying in intonation or pitch.",
+      "examples": [
+        "her voice was flat and uninflected"
+      ],
+      "synonyms": [
+        "toneless",
+        "flat",
+        "unvarying",
+        "droning",
+        "soporific"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənənˈflektəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uninflected_us_1.mp3"
+}

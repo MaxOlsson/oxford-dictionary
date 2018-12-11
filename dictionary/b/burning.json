@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "On fire.",
+      "examples": [
+        "a burning building"
+      ],
+      "synonyms": [
+        "blazing",
+        "flaming",
+        "aflame",
+        "fiery",
+        "flaring",
+        "ignited",
+        "glowing",
+        "red-hot",
+        "flickering",
+        "smouldering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbərniNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burning_us_1.mp3"
+}

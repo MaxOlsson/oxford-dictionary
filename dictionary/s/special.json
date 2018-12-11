@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Better, greater, or otherwise different from what is usual.",
+      "examples": [
+        "they always made a special effort at Christmas"
+      ],
+      "synonyms": [
+        "exceptional",
+        "particular",
+        "extra special",
+        "unusual",
+        "marked",
+        "singular",
+        "uncommon",
+        "notable",
+        "noteworthy",
+        "remarkable",
+        "outstanding",
+        "unique"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing, such as an event, product, or broadcast, that is designed or organized for a particular occasion or purpose.",
+      "examples": [
+        "television's election night specials"
+      ]
+    }
+  ],
+  "phrases": [
+    "they have hamburger buns on special today",
+    "Now I use paper towels, and buy them in the 12 pack when they're on special.",
+    "She had bought it last week, on special at Foodland.",
+    "They're on special!",
+    "It had been on special for 99 cents a tub at Woolies, so we had 8 tubs of it in the freezer."
+  ],
+  "origin": "Middle English: shortening of Old French especial especial or Latin specialis, from species appearance (see species).",
+  "pronounciation": "/ˈspeSHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/special_us_1.mp3"
+}

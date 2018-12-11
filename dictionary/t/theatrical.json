@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of, for, or relating to acting, actors, or the theater.",
+      "examples": [
+        "theatrical productions"
+      ],
+      "synonyms": [
+        "stage",
+        "dramatic",
+        "thespian",
+        "dramaturgical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A professional actor or actress.",
+      "examples": [
+        "a boarding house that catered for theatricals"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: via late Latin from Greek theatrikos (from theatron theater) + -al.",
+  "pronounciation": "/THēˈatrək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/theatrical_us_1.mp3"
+}

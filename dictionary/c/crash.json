@@ -1,0 +1,189 @@
+{
+  "verb": [
+    {
+      "description": "(of a vehicle) collide violently with an obstacle or another vehicle.",
+      "examples": [
+        "the stolen car she was riding in crashed into a tree"
+      ],
+      "synonyms": [
+        "smash into",
+        "collide with",
+        "be in collision with",
+        "come into collision with",
+        "hit",
+        "strike",
+        "ram",
+        "smack into",
+        "slam into",
+        "bang into",
+        "cannon into",
+        "plough into",
+        "meet head-on",
+        "run into",
+        "drive into",
+        "bump into",
+        "knock into",
+        "crack against",
+        "crack into"
+      ]
+    },
+    {
+      "description": "Move or cause to move with force, speed, and sudden loud noise.",
+      "examples": [
+        "huge waves crashed down on us",
+        "she crashed down the telephone receiver"
+      ],
+      "synonyms": [
+        "be hurled",
+        "dash"
+      ]
+    },
+    {
+      "description": "(of a business, a market, or a price) fall suddenly and disastrously in value.",
+      "examples": [
+        "silver prices crashed in early 1980"
+      ],
+      "synonyms": [
+        "fail",
+        "collapse",
+        "fold",
+        "fold up",
+        "go under",
+        "founder",
+        "be ruined",
+        "cave in"
+      ]
+    },
+    {
+      "description": "(of a machine, system, or software) fail suddenly.",
+      "examples": [
+        "the project was postponed because the computer crashed"
+      ],
+      "synonyms": [
+        "fail",
+        "collapse",
+        "fold",
+        "fold up",
+        "go under",
+        "founder",
+        "be ruined",
+        "cave in"
+      ]
+    },
+    {
+      "description": "Enter (a party) without an invitation or permission.",
+      "examples": [],
+      "synonyms": [
+        "gatecrash",
+        "come uninvited to",
+        "sneak into",
+        "slip into",
+        "invade",
+        "butt in on",
+        "intrude into",
+        "intrude on"
+      ]
+    },
+    {
+      "description": "Go to sleep, especially suddenly or in an improvised setting.",
+      "examples": [
+        "I'll crash in the back of the van for a couple of hours"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A violent collision, typically of one vehicle with another or with an obstacle.",
+      "examples": [
+        "a car crash"
+      ],
+      "synonyms": [
+        "accident",
+        "collision",
+        "smash",
+        "bump",
+        "car crash",
+        "car accident",
+        "road accident",
+        "traffic accident",
+        "road traffic accident",
+        "rta",
+        "multiple crash",
+        "multiple collision"
+      ]
+    },
+    {
+      "description": "A sudden loud noise as of something breaking or hitting another object.",
+      "examples": [
+        "he slammed the phone down with a crash"
+      ],
+      "synonyms": [
+        "bang",
+        "smash",
+        "smack",
+        "crack",
+        "boom",
+        "bump",
+        "thud",
+        "thump",
+        "slam",
+        "clunk",
+        "clonk",
+        "clash",
+        "clang"
+      ]
+    },
+    {
+      "description": "A sudden disastrous drop in the value or price of something, especially shares of stock.",
+      "examples": [
+        "the crash of 1987",
+        "a stock market crash"
+      ]
+    },
+    {
+      "description": "A sudden failure which puts a system out of action.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done rapidly or urgently and involving a concentrated effort.",
+      "examples": [
+        "a crash course in Italian"
+      ],
+      "synonyms": [
+        "intensive",
+        "concentrated",
+        "telescoped",
+        "high-pressure",
+        "strenuous",
+        "vigorous",
+        "all-out",
+        "thorough",
+        "in-depth",
+        "all-absorbing",
+        "total-immersion",
+        "rapid",
+        "urgent"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a sudden loud sound.",
+      "examples": [
+        "crash went the bolt"
+      ]
+    }
+  ],
+  "phrases": [
+    "She's a single mom, a child star who didn't crash and burn, and a two-time Oscar winner.",
+    "Was my grand plan going to crash and burn before the first-period bell had even rung?",
+    "What if I crash and burn, like so many other American tourists?",
+    "That means at some stage I'm going to crash and burn, because I really don't see it as risky.",
+    "And of course, it had to crash and burn because the critics didn't fawn."
+  ],
+  "origin": "Early 19th century: from Russian krashenina dyed coarse linen.",
+  "pronounciation": "/kraSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crash_us_1.mp3"
+}

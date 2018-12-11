@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Bring (something) to an end.",
+      "examples": [
+        "they conclude their study with these words",
+        "we concluded by singing carols"
+      ],
+      "synonyms": [
+        "finish",
+        "end",
+        "come to an end",
+        "draw to a close",
+        "wind up",
+        "be over",
+        "stop",
+        "terminate",
+        "close",
+        "cease"
+      ]
+    },
+    {
+      "description": "Arrive at a judgment or opinion by reasoning.",
+      "examples": [
+        "the doctors concluded that Esther had suffered a stroke",
+        "what do you conclude from all this?"
+      ],
+      "synonyms": [
+        "come to the conclusion",
+        "deduce",
+        "infer",
+        "draw the inference",
+        "gather",
+        "judge",
+        "decide"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense convince): from Latin concludere, from con- completely + claudere to shut.",
+  "pronounciation": "/kənˈklud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconclude_us_1.mp3"
+}

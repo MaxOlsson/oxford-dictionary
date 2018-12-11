@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "For a short time; fleetingly.",
+      "examples": [
+        "he worked briefly as a lawyer"
+      ],
+      "synonyms": [
+        "in short",
+        "in brief",
+        "to put it briefly",
+        "to cut a long story short",
+        "in a word",
+        "to sum up",
+        "in sum",
+        "to come to the point",
+        "in a nutshell",
+        "to put it in a nutshell",
+        "in essence",
+        "in outline"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrēflē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/briefly_us_1.mp3"
+}

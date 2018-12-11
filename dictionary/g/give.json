@@ -1,0 +1,120 @@
+{
+  "verb": [
+    {
+      "description": "Freely transfer the possession of (something) to (someone); hand over to.",
+      "examples": [
+        "the check given to the jeweler proved worthless",
+        "he gave the papers back",
+        "they gave her water to drink"
+      ],
+      "synonyms": [
+        "present with",
+        "provide with",
+        "supply with",
+        "furnish with",
+        "gift with"
+      ]
+    },
+    {
+      "description": "Cause or allow (someone or something) to have (something, especially something abstract); provide or supply with.",
+      "examples": [
+        "you gave me such a fright",
+        "this leaflet gives our opening times"
+      ],
+      "synonyms": [
+        "allow",
+        "permit",
+        "let have",
+        "grant",
+        "accord"
+      ]
+    },
+    {
+      "description": "Carry out or perform (a specified action)",
+      "examples": [
+        "I gave a bow",
+        "he gave the counter a polish"
+      ],
+      "synonyms": [
+        "perform",
+        "execute",
+        "carry out"
+      ]
+    },
+    {
+      "description": "Yield as a product or result.",
+      "examples": [
+        "milk is sometimes added to give a richer cheese"
+      ],
+      "synonyms": [
+        "produce",
+        "yield",
+        "afford",
+        "result in"
+      ]
+    },
+    {
+      "description": "Concede or yield (something) as valid or deserved in respect of (someone)",
+      "examples": [
+        "give him his due"
+      ]
+    },
+    {
+      "description": "State or put forward (information or argument)",
+      "examples": [
+        "he did not give his name"
+      ],
+      "synonyms": [
+        "reveal",
+        "disclose",
+        "divulge",
+        "let slip",
+        "leak",
+        "let out"
+      ]
+    },
+    {
+      "description": "Alter in shape under pressure rather than resist or break.",
+      "examples": [
+        "that chair doesn't give"
+      ],
+      "synonyms": [
+        "give way",
+        "cave in",
+        "collapse",
+        "break",
+        "fall apart",
+        "come apart"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Capacity to bend or alter in shape under pressure; elasticity.",
+      "examples": [
+        "plastic pots that have enough give to accommodate the vigorous roots"
+      ],
+      "synonyms": [
+        "elasticity",
+        "flexibility",
+        "stretch",
+        "stretchiness"
+      ]
+    }
+  ],
+  "phrases": [
+    "For everyone, literally for everyone in Sursee, he is simply the priest, and we never feel that he is the kind of parish priest who gives himself airs.",
+    "Perhaps if the girl gives herself airs of grandeur, we should encourage her in her ambitions to become the proper lady.",
+    "She was not at all like Rebecca, who paraded herself about and gave herself airs.",
+    "He gave himself airs so that others could more easily recognize his greatness.",
+    "It was as if he was always wary of getting above himself, of giving himself airs and graces, a peculiarly Scottish trait.",
+    "his strangely shaped feet gave him away",
+    "It was too dark for him to see his attacker, but her voice gave her away.",
+    "I saw Jude stride in through the front door. His walk gave him away immediately.",
+    "I smiled, hoping my expression wasn't giving me away.",
+    "Wilhelm looked down at his feet so his smile wouldn't give him away."
+  ],
+  "origin": "Old English giefan, gefan, of Germanic origin; related to Dutch geven and German geben.",
+  "pronounciation": "/ɡɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/give_us_1.mp3"
+}

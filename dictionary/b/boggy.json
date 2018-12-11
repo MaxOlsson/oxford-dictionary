@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Too wet and muddy to be easily walked on; marshy.",
+      "examples": [
+        "the shrub grows naturally in boggy ground"
+      ],
+      "synonyms": [
+        "marshy",
+        "swampy",
+        "miry",
+        "fenny",
+        "mucky",
+        "muddy",
+        "waterlogged",
+        "wet",
+        "soggy",
+        "sodden",
+        "squelchy",
+        "oozy",
+        "slimy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbäɡē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boggy_us_1_rr.mp3"
+}

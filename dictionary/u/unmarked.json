@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not marked.",
+      "examples": [
+        "an unmarked police car",
+        "his skin was unmarked"
+      ],
+      "synonyms": [
+        "perfect",
+        "without blemish",
+        "unblemished",
+        "unimpaired"
+      ]
+    },
+    {
+      "description": "Not noticed.",
+      "examples": [
+        "it's a pleasure to reward them for work which might otherwise go unmarked"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmɑrkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmarked_us_1.mp3"
+}

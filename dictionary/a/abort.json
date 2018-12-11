@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Carry out or undergo the abortion of (a fetus).",
+      "examples": [],
+      "synonyms": [
+        "terminate",
+        "end"
+      ]
+    },
+    {
+      "description": "Bring to a premature end because of a problem or fault.",
+      "examples": [
+        "the pilot aborted his landing"
+      ],
+      "synonyms": [
+        "halt",
+        "stop",
+        "end",
+        "call off",
+        "cut short",
+        "discontinue",
+        "terminate",
+        "arrest",
+        "suspend",
+        "check",
+        "nullify"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of aborting a flight, space mission, or other enterprise.",
+      "examples": [
+        "there was an abort because of bad weather"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin aboriri miscarry, from ab- away, from + oriri be born.",
+  "pronounciation": "/əˈbɔrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abort_us_1.mp3"
+}

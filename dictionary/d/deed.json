@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "An action that is performed intentionally or consciously.",
+      "examples": [
+        "doing good deeds"
+      ],
+      "synonyms": [
+        "act",
+        "action",
+        "activity"
+      ]
+    },
+    {
+      "description": "A legal document that is signed and delivered, especially one regarding the ownership of property or legal rights.",
+      "examples": [],
+      "synonyms": [
+        "legal document",
+        "contract",
+        "legal agreement",
+        "indenture",
+        "instrument"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey or transfer (property or rights) by legal deed.",
+      "examples": [
+        "they deeded their property to their children"
+      ],
+      "synonyms": [
+        "transfer",
+        "give the right of",
+        "give the title of",
+        "grant",
+        "cede",
+        "devolve",
+        "lease"
+      ]
+    }
+  ],
+  "origin": "Old English dēd, dǣd, of Germanic origin; related to Dutch daad and German Tat, from an Indo-European root shared by do.",
+  "pronounciation": "/did/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deed_us_1.mp3"
+}

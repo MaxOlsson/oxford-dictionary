@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Confused or stupefied, especially as a result of drinking alcohol.",
+      "examples": [
+        "Benjamin was trying to clear his drink-fuddled brain"
+      ],
+      "synonyms": [
+        "stupefied",
+        "addled",
+        "befuddled",
+        "confused",
+        "muddled",
+        "bewildered",
+        "dumbfounded",
+        "dazed",
+        "stunned",
+        "dizzy",
+        "muzzy",
+        "groggy",
+        "foggy",
+        "fuzzy",
+        "vague",
+        "disorientated",
+        "disoriented",
+        "all at sea",
+        "mixed up",
+        "at a loss",
+        "at sixes and sevens"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfədld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fuddled_us_1.mp3"
+}

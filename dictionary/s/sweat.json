@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "Moisture exuded through the pores of the skin, typically in profuse quantities as a reaction to heat, physical exertion, fever, or fear.",
+      "examples": [],
+      "synonyms": [
+        "perspiration",
+        "moisture",
+        "dampness",
+        "wetness",
+        "lather"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exude sweat.",
+      "examples": [
+        "he was sweating profusely"
+      ],
+      "synonyms": [
+        "perspire",
+        "swelter",
+        "exude perspiration",
+        "drip with perspiration",
+        "drip with sweat",
+        "be pouring with sweat",
+        "break out in a sweat",
+        "glow",
+        "be damp",
+        "be wet",
+        "secrete"
+      ]
+    },
+    {
+      "description": "Heat (chopped vegetables) slowly in a pan with a small amount of fat, so that they cook in their own juices.",
+      "examples": [
+        "sweat the celery and onions with olive oil and seasoning"
+      ]
+    },
+    {
+      "description": "Subject (metal) to surface melting, especially to fasten or join by solder without a soldering iron.",
+      "examples": [
+        "the tire is sweated onto the wooden parts"
+      ]
+    }
+  ],
+  "phrases": [
+    "He has certainly struggled to break sweat against the calibre of opponent trying to halt his progress thus far this week.",
+    "You should be able to surmount any obstacle without breaking a sweat or wrinkling your little tennis outfit.",
+    "After half-an-hour he lost Roy Keane, but they still hardly broke sweat as they swept their rivals aside with ease.",
+    "They began against a novice England side at Twickenham and hardly broke sweat in winning 19-3.",
+    "With a cool climate, you'll barely break a sweat."
+  ],
+  "origin": "Old English swāt (noun), swǣtan (verb), of Germanic origin; related to Dutch zweet and German Schweiss, from an Indo-European root shared by Latin sudor.",
+  "pronounciation": "/swɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sweat_us_1.mp3"
+}

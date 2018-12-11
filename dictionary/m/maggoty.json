@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Full of maggots.",
+      "examples": [
+        "maggoty apples"
+      ],
+      "synonyms": [
+        "decaying",
+        "decayed",
+        "rotting",
+        "bad",
+        "off",
+        "decomposed",
+        "decomposing",
+        "putrid",
+        "putrescent",
+        "spoiled",
+        "spoilt",
+        "tainted",
+        "perished",
+        "mouldy",
+        "mouldering",
+        "mildewy",
+        "sour",
+        "rancid",
+        "rank",
+        "festering",
+        "fetid",
+        "stinking",
+        "smelly",
+        "unfit for human consumption"
+      ]
+    },
+    {
+      "description": "Angry or bad-tempered.",
+      "examples": [
+        "Scotty got a bit maggoty about all this"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmæɡədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maggoty_us_2.mp3"
+}

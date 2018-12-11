@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Notice or perceive (something) and register it as being significant.",
+      "examples": [
+        "young people observe that decisions are made by others"
+      ],
+      "synonyms": [
+        "notice",
+        "see",
+        "note",
+        "perceive",
+        "discern",
+        "remark",
+        "spot",
+        "detect",
+        "discover",
+        "distinguish",
+        "make out"
+      ]
+    },
+    {
+      "description": "Make a remark.",
+      "examples": [
+        "“It's chilly,” she observed",
+        "a stockbroker once observed that dealers live and work in hell"
+      ],
+      "synonyms": [
+        "comment",
+        "remark",
+        "say",
+        "mention",
+        "note",
+        "declare",
+        "announce",
+        "state",
+        "utter",
+        "pronounce",
+        "interpose",
+        "interject"
+      ]
+    },
+    {
+      "description": "Fulfill or comply with (a social, legal, ethical, or religious obligation)",
+      "examples": [
+        "a tribunal must observe the principles of natural justice"
+      ],
+      "synonyms": [
+        "comply with",
+        "abide by",
+        "keep",
+        "obey",
+        "adhere to",
+        "conform to",
+        "heed",
+        "honour",
+        "respect",
+        "be heedful of",
+        "pay attention to",
+        "follow",
+        "acquiesce in",
+        "consent to",
+        "accept",
+        "defer to",
+        "fulfil",
+        "stand by"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in observe (sense 3)): from Old French observer, from Latin observare to watch, from ob- towards + servare attend to, look at.",
+  "pronounciation": "/əbˈzərv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/observe_us_1.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A strong supporter of a party, cause, or person.",
+      "examples": [],
+      "synonyms": [
+        "supporter",
+        "follower",
+        "adherent",
+        "devotee",
+        "champion",
+        "backer",
+        "upholder",
+        "promoter",
+        "fanatic",
+        "fan",
+        "enthusiast",
+        "stalwart",
+        "zealot",
+        "disciple",
+        "votary"
+      ]
+    },
+    {
+      "description": "A member of an armed group formed to fight secretly against an occupying force, in particular one operating in enemy-occupied Yugoslavia, Italy, and parts of eastern Europe in World War II.",
+      "examples": [],
+      "synonyms": [
+        "guerrilla",
+        "freedom fighter",
+        "resistance fighter",
+        "member of the resistance",
+        "underground fighter",
+        "irregular soldier",
+        "irregular"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Prejudiced in favor of a particular cause.",
+      "examples": [
+        "newspapers have become increasingly partisan"
+      ],
+      "synonyms": [
+        "biased",
+        "prejudiced",
+        "one-sided",
+        "coloured",
+        "discriminatory",
+        "preferential",
+        "partial",
+        "interested",
+        "parti pris",
+        "bigoted",
+        "sectarian",
+        "factional",
+        "unjust",
+        "unfair",
+        "inequitable",
+        "unbalanced"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French, via Italian dialect from Italian partigiano, from parte part (from Latin pars, part-).",
+  "pronounciation": "/ˈpɑrdəzən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/partisan_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An ancillary piece of information printed at the bottom of a page.",
+      "examples": [],
+      "synonyms": [
+        "note",
+        "marginal note",
+        "annotation",
+        "comment",
+        "gloss"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Add a footnote or footnotes to (a piece of writing).",
+      "examples": [],
+      "synonyms": [
+        "explain",
+        "give an explanation of",
+        "interpret",
+        "explicate",
+        "elucidate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfo͝otˌnōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/footnote_us_1.mp3"
+}

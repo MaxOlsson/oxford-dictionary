@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "The center of interest or activity.",
+      "examples": [
+        "this generation has made the environment a focus of attention"
+      ],
+      "synonyms": [
+        "centre",
+        "focal point",
+        "central point",
+        "centre of attention",
+        "hub",
+        "pivot",
+        "nucleus",
+        "heart",
+        "cornerstone",
+        "linchpin",
+        "kingpin",
+        "bedrock",
+        "basis",
+        "anchor",
+        "backbone",
+        "cynosure"
+      ]
+    },
+    {
+      "description": "The state or quality of having or producing clear visual definition.",
+      "examples": [
+        "his face is rather out of focus"
+      ],
+      "synonyms": [
+        "focal point",
+        "point of convergence"
+      ]
+    },
+    {
+      "description": "One of the fixed points from which the distances to any point of a given curve, such as an ellipse or parabola, are connected by a linear relation.",
+      "examples": []
+    },
+    {
+      "description": "The part of a sentence given prominence, usually for emphasis or contrast, e.g., Bob in it was Bob who came, not Bill.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person or their eyes) adapt to the prevailing level of light and become able to see clearly.",
+      "examples": [
+        "try to focus on a stationary object"
+      ]
+    },
+    {
+      "description": "Pay particular attention to.",
+      "examples": [
+        "the study will focus on a number of areas in Wales"
+      ],
+      "synonyms": [
+        "emphasize",
+        "give emphasis to",
+        "stress",
+        "lay stress on",
+        "put stress on",
+        "highlight",
+        "accentuate",
+        "accent",
+        "call attention to",
+        "draw attention to",
+        "focus on",
+        "focus attention on",
+        "zero in on",
+        "spotlight",
+        "throw into relief",
+        "give prominence to",
+        "bring to the fore",
+        "foreground",
+        "bring home",
+        "point up",
+        "play up",
+        "make a feature of"
+      ]
+    },
+    {
+      "description": "Place the focus on (a part of a sentence).",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (as a term in geometry and physics): from Latin, literally domestic hearth.",
+  "pronounciation": "/ˈfōkəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/focus_us_1.mp3"
+}

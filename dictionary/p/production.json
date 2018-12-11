@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The action of making or manufacturing from components or raw materials, or the process of being so manufactured.",
+      "examples": [
+        "the production of chemical weapons",
+        "it is no longer in production"
+      ],
+      "synonyms": [
+        "manufacture",
+        "manufacturing",
+        "making",
+        "producing",
+        "construction",
+        "building",
+        "fabrication",
+        "assembly",
+        "creation"
+      ]
+    },
+    {
+      "description": "The process of or financial and administrative management involved in making a movie, play, or record.",
+      "examples": [
+        "the movie was still in production",
+        "a production company"
+      ]
+    }
+  ],
+  "phrases": [
+    "At every frequent stop, Coralie makes a production of waving the door to get fresh air.",
+    "She made a production of glancing between Markus and me.",
+    "He flushed and made a production of opening his binder and shuffling his notes.",
+    "He was glaring at me over his shoulder and making a production of being reluctantly dragged away.",
+    "Desmond made a production of apologizing, but Michael remained stiffly silent."
+  ],
+  "origin": "Late Middle English: via Old French from Latin productio(n-), from producere bring forth (see produce).",
+  "pronounciation": "/prəˈdəkSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/production_us_2.mp3"
+}

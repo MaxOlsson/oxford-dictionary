@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Covered with hair, especially thick or long hair.",
+      "examples": [
+        "a hairy chest"
+      ],
+      "synonyms": [
+        "hirsute",
+        "shaggy",
+        "bushy",
+        "hair-covered",
+        "long-haired"
+      ]
+    },
+    {
+      "description": "Alarming and difficult.",
+      "examples": [
+        "we drove up yet another hairy mountain road"
+      ],
+      "synonyms": [
+        "risky",
+        "unsafe",
+        "dangerous",
+        "perilous",
+        "hazardous",
+        "high-risk",
+        "touch-and-go",
+        "fraught with danger"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈherē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hairy_us_1.mp3"
+}

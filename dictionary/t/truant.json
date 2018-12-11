@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A student who stays away from school without leave or explanation.",
+      "examples": [],
+      "synonyms": [
+        "absentee",
+        "non-attender"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a student) being a truant.",
+      "examples": [
+        "truant children"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "synonyms": [
+        "stay away from school",
+        "not go to school",
+        "be absent",
+        "truant"
+      ]
+    }
+  ],
+  "phrases": [
+    "She often plays truant and stays home, where she is happiest working with Pa in his machine shop in the yard.",
+    "When I first started there were a number of pupils outside of lessons playing truant.",
+    "This showed that there were 1.1 million pupils who had played truant in the course of the last school year - up from 0.96 million five years before.",
+    "Some 20 pupils were found playing truant on their own.",
+    "But only pupils who meet academic targets and do not play truant will get tickets."
+  ],
+  "origin": "Middle English (denoting a person begging through choice rather than necessity): from Old French, probably ultimately of Celtic origin; compare with Welsh truan, Scottish Gaelic truaghan wretched.",
+  "pronounciation": "/ˈtruənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/truant_us_1.mp3"
+}

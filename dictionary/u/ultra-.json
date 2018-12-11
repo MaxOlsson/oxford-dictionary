@@ -1,0 +1,33 @@
+{
+  "prefix": [
+    {
+      "description": "Extreme; to an extreme degree.",
+      "examples": [
+        "ultramicroscopic",
+        "ultraradical"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceedingly",
+        "excessively",
+        "immensely",
+        "especially",
+        "exceptionally",
+        "unusually",
+        "extraordinarily",
+        "remarkably",
+        "uncommonly",
+        "extra"
+      ]
+    },
+    {
+      "description": "Beyond; on the other side of.",
+      "examples": [
+        "ultramontane"
+      ]
+    }
+  ],
+  "origin": "From Latin ultra beyond.",
+  "pronounciation": "/ˈəltrə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ultra_1_us_2.mp3"
+}

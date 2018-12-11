@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A sudden, usually temporary malfunction or irregularity of equipment.",
+      "examples": [
+        "a draft version was lost in a computer glitch"
+      ],
+      "synonyms": [
+        "crash",
+        "breakdown",
+        "fault",
+        "failure",
+        "defect",
+        "flaw",
+        "collapse",
+        "impairment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Suffer a sudden malfunction or irregularity.",
+      "examples": [
+        "her job involves troubleshooting when systems glitch"
+      ]
+    }
+  ],
+  "origin": "1960s (originally US): of unknown origin. The original sense was a sudden surge of current, hence malfunction, hitch in astronautical slang.",
+  "pronounciation": "/ɡlɪtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glitch_us_1.mp3"
+}

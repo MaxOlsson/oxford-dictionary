@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "Fat that has melted and dripped from roasting meat, used in cooking.",
+      "examples": [],
+      "synonyms": [
+        "fat",
+        "oil",
+        "cooking oil",
+        "animal fat"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Very wet.",
+      "examples": [
+        "dripping wet hair"
+      ],
+      "synonyms": [
+        "soft and wet",
+        "mushy",
+        "squashy",
+        "pulpy",
+        "pappy",
+        "slushy",
+        "sloppy",
+        "squelchy",
+        "squishy",
+        "oozy",
+        "doughy",
+        "semi-liquid",
+        "over-moist"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrɪpɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dripping_us_1.mp3"
+}

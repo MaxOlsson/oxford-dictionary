@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "Belonging to or for the use of one particular person or group of people only.",
+      "examples": [
+        "all bedrooms have private facilities",
+        "his private plane"
+      ],
+      "synonyms": [
+        "personal",
+        "one's own",
+        "individual",
+        "particular",
+        "special",
+        "exclusive",
+        "privately owned"
+      ]
+    },
+    {
+      "description": "(of a person) having no official or public role or position.",
+      "examples": [
+        "the paintings were sold to a private collector"
+      ]
+    },
+    {
+      "description": "(of a service or industry) provided or owned by an individual or an independent, commercial company rather than by the government.",
+      "examples": [
+        "research projects carried out by private industry",
+        "more than 1,400 state enterprises that were about to go private"
+      ],
+      "synonyms": [
+        "independent",
+        "non-state-controlled",
+        "non-state-run",
+        "privatized",
+        "denationalized",
+        "non-public",
+        "commercial",
+        "private-enterprise"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soldier of the lowest rank, in particular an enlisted person in the US Army or Marine Corps ranking below private first class.",
+      "examples": [],
+      "synonyms": [
+        "private soldier",
+        "common soldier"
+      ]
+    }
+  ],
+  "phrases": [
+    "I've got to talk to you in private",
+    "Rome has an obsession with secrecy - a lot goes on in private but it need not.",
+    "The meeting is being held in private, with only creditors allowed to attend.",
+    "When it comes to actually dealing with death and the dead, even in public, we do so in private.",
+    "Yesterday, Manchester city council's executive met in private to agree the deal."
+  ],
+  "origin": "Late Middle English (originally denoting a person not acting in an official capacity): from Latin privatus withdrawn from public life, a use of the past participle of privare bereave, deprive, from privus single, individual.",
+  "pronounciation": "/ˈprīvit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/private_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Breaking or separating easily into small thin pieces.",
+      "examples": [
+        "a tree with flaky bark"
+      ],
+      "synonyms": [
+        "flaking",
+        "peeling",
+        "cracking",
+        "scaly",
+        "blistering"
+      ]
+    },
+    {
+      "description": "Crazy or eccentric.",
+      "examples": [
+        "flaky ideas about taxes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflākē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flaky_us_1.mp3"
+}

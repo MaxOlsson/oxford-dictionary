@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) unconventional and slightly strange.",
+      "examples": [
+        "my favorite aunt is very eccentric"
+      ],
+      "synonyms": [
+        "unconventional",
+        "uncommon",
+        "abnormal",
+        "irregular",
+        "aberrant",
+        "anomalous",
+        "odd",
+        "queer",
+        "strange",
+        "peculiar",
+        "weird",
+        "bizarre",
+        "off-centre",
+        "outlandish",
+        "freakish",
+        "extraordinary"
+      ]
+    },
+    {
+      "description": "(of a thing) not placed centrally or not having its axis or other part placed centrally.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person of unconventional and slightly strange views or behavior.",
+      "examples": [
+        "he enjoys a colorful reputation as an engaging eccentric"
+      ],
+      "synonyms": [
+        "oddity",
+        "odd fellow",
+        "unorthodox person",
+        "character",
+        "individualist",
+        "individual",
+        "free spirit",
+        "misfit"
+      ]
+    },
+    {
+      "description": "A disc or wheel mounted eccentrically on a revolving shaft in order to transform rotation into backward-and-forward motion, e.g. a cam in an internal combustion engine.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting a circle or orbit not having the earth precisely at its center): via late Latin from Greek ekkentros, from ek out of + kentron center.",
+  "pronounciation": "/ɪkˈsɛntrɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eccentric_us_1.mp3"
+}

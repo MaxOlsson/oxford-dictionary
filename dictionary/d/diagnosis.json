@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The identification of the nature of an illness or other problem by examination of the symptoms.",
+      "examples": [
+        "early diagnosis and treatment are essential",
+        "a diagnosis of Crohn's disease was made"
+      ],
+      "synonyms": [
+        "identification",
+        "recognition",
+        "discovery",
+        "detection",
+        "pinpointing",
+        "reading",
+        "determination"
+      ]
+    },
+    {
+      "description": "The distinctive characterization in precise terms of a genus, species, or phenomenon.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: modern Latin, from Greek, from diagignōskein distinguish, discern, from dia apart + gignōskein recognize, know.",
+  "pronounciation": "/ˌdaɪəɡˈnoʊsəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diagnosis_us_1.mp3"
+}

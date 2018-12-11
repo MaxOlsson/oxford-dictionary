@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking the ability or strength to move.",
+      "examples": [
+        "she lay inert in her bed"
+      ],
+      "synonyms": [
+        "unmoving",
+        "motionless",
+        "immobile",
+        "still",
+        "stock-still",
+        "stationary",
+        "static",
+        "dormant",
+        "sleeping"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin iners, inert- unskilled, inactive, from in- (expressing negation) + ars, art- skill, art.",
+  "pronounciation": "/iˈnərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inert_us_1.mp3"
+}

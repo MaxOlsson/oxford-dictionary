@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The condition in which things are happening or being done.",
+      "examples": [
+        "there has been a sustained level of activity in the economy",
+        "the only sign of human activity now is the boatload of day-tripper from the mainland"
+      ]
+    },
+    {
+      "description": "A thing that a person or group does or has done.",
+      "examples": [
+        "the firm's marketing activities"
+      ],
+      "synonyms": [
+        "pursuit",
+        "occupation",
+        "venture",
+        "undertaking",
+        "enterprise",
+        "project",
+        "scheme",
+        "business",
+        "job",
+        "affair",
+        "task",
+        "campaign"
+      ]
+    },
+    {
+      "description": "A thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French activité or late Latin activitas, from Latin act- done, from the verb agere.",
+  "pronounciation": "/ækˈtɪvədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/activity_us_1.mp3"
+}

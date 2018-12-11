@@ -1,0 +1,99 @@
+{
+  "adjective": [
+    {
+      "description": "Slightly wet.",
+      "examples": [
+        "her hair was still damp from the shower"
+      ],
+      "synonyms": [
+        "moist",
+        "moistened",
+        "wettish",
+        "dampened",
+        "dampish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Moisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects.",
+      "examples": [],
+      "synonyms": [
+        "moisture",
+        "dampness",
+        "humidity",
+        "wetness",
+        "wet",
+        "water",
+        "liquid",
+        "condensation",
+        "steam",
+        "vapour",
+        "clamminess",
+        "mugginess",
+        "dankness",
+        "wateriness"
+      ]
+    },
+    {
+      "description": "A check or discouragement.",
+      "examples": [
+        "shame gave a damp to her triumph"
+      ],
+      "synonyms": [
+        "deterrent",
+        "disincentive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) slightly wet.",
+      "examples": [
+        "damp a small area with water"
+      ],
+      "synonyms": [
+        "moisten",
+        "wet",
+        "dew",
+        "water",
+        "irrigate",
+        "humidify"
+      ]
+    },
+    {
+      "description": "Make a fire burn less strongly by reducing the flow of air to it.",
+      "examples": [],
+      "synonyms": [
+        "muffle",
+        "deaden",
+        "stifle",
+        "dampen",
+        "damp down",
+        "smother",
+        "reduce",
+        "diminish",
+        "decrease",
+        "suppress",
+        "abate",
+        "tone down",
+        "moderate",
+        "silence",
+        "mute",
+        "still",
+        "quieten",
+        "soften",
+        "quell"
+      ]
+    },
+    {
+      "description": "Restrict the amplitude of vibrations on (a piano or other musical instrument) so as to reduce the volume of sound.",
+      "examples": [
+        "rapidly damping the cymbals after repeatedly clashing them together"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the noun sense noxious inhalation): of West Germanic origin; related to a Middle Low German word meaning vapor, steam, smoke.",
+  "pronounciation": "/dæmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/damp_us_1.mp3"
+}

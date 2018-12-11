@@ -1,0 +1,82 @@
+{
+  "noun": [
+    {
+      "description": "A small, sharp broad-headed nail.",
+      "examples": [],
+      "synonyms": [
+        "pin",
+        "drawing pin",
+        "nail",
+        "tin tack",
+        "staple",
+        "spike",
+        "rivet",
+        "stud"
+      ]
+    },
+    {
+      "description": "A long stitch used to fasten fabrics together temporarily, prior to permanent sewing.",
+      "examples": []
+    },
+    {
+      "description": "A method of dealing with a situation or problem; a course of action or policy.",
+      "examples": [
+        "as she could not stop him from going she tried another tack and insisted on going with him"
+      ],
+      "synonyms": [
+        "approach",
+        "way",
+        "method",
+        "process"
+      ]
+    },
+    {
+      "description": "An act of changing course by turning a vessel's head into and through the wind, so as to bring the wind on the opposite side.",
+      "examples": []
+    },
+    {
+      "description": "A rope for securing the weather clew of a course.",
+      "examples": []
+    },
+    {
+      "description": "The quality of being sticky.",
+      "examples": [
+        "cooking the sugar to caramel gives tack to the texture"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or fix in place with tacks.",
+      "examples": [
+        "he used the tool to tack down sheets of fiberboard"
+      ],
+      "synonyms": [
+        "pin",
+        "nail",
+        "staple",
+        "fix",
+        "fasten",
+        "attach",
+        "secure",
+        "affix",
+        "put up",
+        "put down"
+      ]
+    },
+    {
+      "description": "Change course by turning a boat's head into and through the wind.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The boat will turn almost 180° and you will find yourself back on the port tack you were on before the beginning of the maneuver.",
+    "It is also easy to just put yourself on a broad reach on the starboard tack any time you wish to use the spinnaker to go downwind.",
+    "We push on but our mainsail trim needs that runner on the port tack and we drop away a little from the class leaders.",
+    "When the boat was sailed on the starboard tack, seawater was siphoning into the boat.",
+    "If the tidal stream sets towards the right of the apparent wind, boats on the starboard tack will be freed and boats on the port tack will be headed."
+  ],
+  "origin": "1980s: back-formation from tacky.",
+  "pronounciation": "/tak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tack_us_1.mp3"
+}

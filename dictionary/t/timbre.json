@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "The character or quality of a musical sound or voice as distinct from its pitch and intensity.",
+      "examples": [
+        "trumpet mutes with different timbres",
+        "a voice high in pitch but rich in timbre"
+      ],
+      "synonyms": [
+        "tone",
+        "sound",
+        "sound quality",
+        "voice",
+        "voice quality",
+        "colour",
+        "tone colour",
+        "tonality",
+        "resonance",
+        "ring"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from French, from medieval Greek timbanon, from Greek tumpanon drum.",
+  "pronounciation": "/ˈtæmbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/timbre_us_1_rr.mp3"
+}

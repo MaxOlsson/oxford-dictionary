@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A maker or builder.",
+      "examples": [],
+      "synonyms": [
+        "craftsman",
+        "craftswoman",
+        "craftsperson",
+        "skilled worker",
+        "mechanic",
+        "technician",
+        "operative",
+        "maker",
+        "smith",
+        "journeyman"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "Family name of brothers Orville (1871–1948) and Wilbur (1867–1912), US aviation pioneers. In 1903, the Wright brothers were the first to make brief sustained and controlled powered flights in an airplane, which was designed and built by them. They were also the first to make and fly a practical powered airplane 1905 and a passenger-carrying airplane 1908.",
+      "examples": [],
+      "synonyms": [
+        "designer",
+        "planner",
+        "maker",
+        "constructor",
+        "deviser",
+        "contriver",
+        "establisher",
+        "creator",
+        "fabricator",
+        "architect"
+      ]
+    }
+  ],
+  "origin": "Old English wryhta, wyrhta, of West Germanic origin; related to work.",
+  "pronounciation": "/rīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wright_us_1.mp3"
+}

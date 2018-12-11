@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "In or to some place.",
+      "examples": [
+        "I've seen you somewhere before",
+        "can we go somewhere warm?"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Some unspecified place.",
+      "examples": [
+        "in search of somewhere to live"
+      ]
+    }
+  ],
+  "phrases": [
+    "I felt I was actually getting somewhere with it.",
+    "I know I am getting somewhere because I am starting to get messages delivered second- and third-hand that I had better watch myself.",
+    "It costs a lot to become a hairdresser and it can take quite a long time on low wages before you can feel you are getting somewhere.",
+    "And you thought we were getting somewhere, right?",
+    "I've a bit of trepidation but I'm relieved we are finally getting somewhere."
+  ],
+  "pronounciation": "/ˈsəmˌ(h)wer/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/somewhere_us_1.mp3"
+}

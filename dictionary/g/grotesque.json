@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Comically or repulsively ugly or distorted.",
+      "examples": [
+        "grotesque facial distortions"
+      ],
+      "synonyms": [
+        "malformed",
+        "deformed",
+        "misshapen",
+        "misproportioned",
+        "distorted",
+        "twisted",
+        "gnarled",
+        "mangled",
+        "mutilated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A very ugly or comically distorted figure, creature, or image.",
+      "examples": [
+        "the rods are carved in the form of a series of gargoyle faces and grotesques"
+      ]
+    },
+    {
+      "description": "A family of 19th-century sans serif typefaces.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (as noun): from French crotesque (the earliest form in English), from Italian grottesca, from opera or pittura grottesca work or painting resembling that found in a grotto; grotto here probably denoted the rooms of ancient buildings in Rome which had been revealed by excavations, and which contained murals in the grotesque style.",
+  "pronounciation": "/ɡrōˈtesk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grotesque_us_1.mp3"
+}

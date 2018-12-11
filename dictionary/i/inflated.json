@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Distended through being filled with air or gas.",
+      "examples": [
+        "a partially inflated balloon"
+      ],
+      "synonyms": [
+        "blown up",
+        "aerated",
+        "filled",
+        "puffed up",
+        "puffed out",
+        "pumped up"
+      ]
+    },
+    {
+      "description": "Excessively or unreasonably high.",
+      "examples": [
+        "inflated salaries"
+      ],
+      "synonyms": [
+        "increased",
+        "raised",
+        "boosted"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪnˈfleɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inflated_us_1.mp3"
+}

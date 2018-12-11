@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Worthless or contemptible (used as a general term of deprecation)",
+      "examples": [
+        "no more chickenshit excuses"
+      ],
+      "synonyms": [
+        "blasted",
+        "damn",
+        "flaming",
+        "precious",
+        "confounded",
+        "pestilential",
+        "rotten",
+        "wretched"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A worthless or contemptible person.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtʃɪkənˌʃɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chickenshit_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "In an ungainly manner; not smoothly or gracefully.",
+      "examples": [
+        "she waddled up the stairs awkwardly",
+        "he landed awkwardly after both of his vaults",
+        "the conclusion seems awkwardly grafted on to the main text"
+      ]
+    },
+    {
+      "description": "In a way that shows uneasy embarrassment.",
+      "examples": [
+        "Seth responded awkwardly, allowing the silence once again to settle between them",
+        "I cleared my throat awkwardly"
+      ]
+    },
+    {
+      "description": "In a way that causes difficulty.",
+      "examples": [
+        "the cruise control is placed awkwardly on the control column",
+        "the ball bounced awkwardly, but Auguste controlled it with his chest"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈôkwərdlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awkwardly_us_1.mp3"
+}

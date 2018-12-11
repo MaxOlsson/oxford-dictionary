@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Overwhelm (someone) with things or people to be dealt with.",
+      "examples": [
+        "we've been inundated with complaints from listeners"
+      ],
+      "synonyms": [
+        "overwhelm",
+        "overpower",
+        "overburden",
+        "overrun",
+        "overload",
+        "swamp",
+        "bog down",
+        "besiege",
+        "snow under",
+        "bury",
+        "bombard",
+        "glut"
+      ]
+    },
+    {
+      "description": "Flood.",
+      "examples": [
+        "the islands may be the first to be inundated as sea levels rise"
+      ],
+      "synonyms": [
+        "flood",
+        "deluge",
+        "overflow",
+        "overrun",
+        "swamp",
+        "submerge",
+        "engulf",
+        "drown",
+        "immerse",
+        "cover"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: (earlier ( late Middle English) as inundation) from Latin inundat- flooded, from the verb inundare, from in- into, upon + undare to flow (from unda a wave).",
+  "pronounciation": "/ˈɪnənˌdeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inundate_us_1.mp3"
+}

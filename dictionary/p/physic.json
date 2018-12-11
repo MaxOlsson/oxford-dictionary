@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Medicine, especially a cathartic.",
+      "examples": [
+        "his servant's venture into selling physic",
+        "a physic for wives to give to impotent husbands"
+      ],
+      "synonyms": [
+        "medicine",
+        "medical drug",
+        "medication",
+        "medicament"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Treat with a medicine.",
+      "examples": [
+        "he told Mrs. Webb he had physicked himself"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French fisique medicine, from Latin physica, from Greek phusikē (epistēmē) (knowledge) of nature.",
+  "pronounciation": "/ˈfɪzɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/physic_us_1.mp3"
+}

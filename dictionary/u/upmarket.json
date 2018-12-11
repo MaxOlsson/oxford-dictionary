@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Relatively expensive and designed to appeal to affluent consumers.",
+      "examples": [
+        "an upmarket ski resort",
+        "upmarket boutiques"
+      ],
+      "synonyms": [
+        "smart",
+        "stylish",
+        "fancy",
+        "high-class",
+        "fashionable",
+        "chic",
+        "luxurious",
+        "luxury",
+        "deluxe",
+        "exclusive",
+        "select",
+        "sumptuous",
+        "opulent",
+        "lavish",
+        "grand",
+        "rich",
+        "elegant",
+        "ornate",
+        "ostentatious",
+        "showy"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Towards the more expensive or affluent sector of the market.",
+      "examples": [
+        "the pub seems to have forgotten its local community in a quest to go upmarket"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəpˈmärkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upmarket_us_2.mp3"
+}

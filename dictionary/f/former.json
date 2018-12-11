@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Having previously filled a particular role or been a particular thing.",
+      "examples": [
+        "her former boyfriend"
+      ],
+      "synonyms": [
+        "one-time",
+        "erstwhile",
+        "sometime",
+        "late",
+        "as was"
+      ]
+    },
+    {
+      "description": "Denoting the first or first mentioned of two people or things.",
+      "examples": [
+        "the powers of the former are more comprehensive than those of the latter",
+        "those who take the former view"
+      ],
+      "synonyms": [
+        "first-mentioned",
+        "first"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that forms something.",
+      "examples": [
+        "an opinion-former"
+      ]
+    },
+    {
+      "description": "A person in a particular school year.",
+      "examples": [
+        "fifth-formers"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old English forma (see foremost) + -er.",
+  "pronounciation": "/ˈfôrmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/former_us_1.mp3"
+}

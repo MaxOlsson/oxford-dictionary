@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The partial or total absence of light.",
+      "examples": [
+        "the office was in darkness"
+      ],
+      "synonyms": [
+        "dark",
+        "blackness",
+        "absence of light",
+        "gloom",
+        "gloominess",
+        "dimness",
+        "dullness",
+        "murk",
+        "murkiness",
+        "shadowiness",
+        "shadow",
+        "shade",
+        "shadiness",
+        "dusk",
+        "twilight",
+        "gloaming"
+      ]
+    },
+    {
+      "description": "Wickedness or evil.",
+      "examples": [
+        "the forces of darkness"
+      ],
+      "synonyms": [
+        "evil",
+        "wickedness",
+        "corruption",
+        "sin",
+        "sinfulness",
+        "iniquity",
+        "immorality",
+        "devilry",
+        "the devil",
+        "hell"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɑrknəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/darkness_us_1.mp3"
+}

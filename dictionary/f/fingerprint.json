@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An impression or mark made on a surface by a person's fingertip, especially as used for identifying individuals from the unique pattern of whorls and lines.",
+      "examples": [
+        "the police had his fingerprints on file"
+      ],
+      "synonyms": [
+        "blemish",
+        "streak",
+        "spot",
+        "fleck",
+        "dot",
+        "blot",
+        "stain",
+        "smear",
+        "trace",
+        "speck",
+        "speckle",
+        "blotch",
+        "smudge",
+        "smut",
+        "smirch",
+        "fingermark",
+        "impression",
+        "imprint"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record the fingerprints of (someone)",
+      "examples": [
+        "I was booked, fingerprinted, and locked up for the night"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfiNGɡərˌprint/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fingerprint_us_2.mp3"
+}

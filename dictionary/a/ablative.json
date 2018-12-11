@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting a case (especially in Latin) of nouns and pronouns (and words in grammatical agreement with them) indicating separation or an agent, instrument, or location.",
+      "examples": []
+    },
+    {
+      "description": "(of surgical treatment) involving ablation.",
+      "examples": []
+    },
+    {
+      "description": "Relating to or subject to ablation through melting or evaporation.",
+      "examples": [
+        "the spacecraft's ablative heat shield"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word in the ablative case.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French ablative (feminine of ablatif), Latin ablativus, from ablat- taken away (see ablation).",
+  "pronounciation": "/ˈablədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ablative_us_2.mp3"
+}

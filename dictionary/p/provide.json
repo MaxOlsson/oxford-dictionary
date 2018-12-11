@@ -1,0 +1,89 @@
+{
+  "verb": [
+    {
+      "description": "Make available for use; supply.",
+      "examples": [
+        "these clubs provide a much appreciated service for this area"
+      ],
+      "synonyms": [
+        "supply",
+        "give",
+        "issue",
+        "furnish",
+        "lay out",
+        "come up with",
+        "dispense",
+        "bestow",
+        "impart",
+        "produce",
+        "yield",
+        "bring forth",
+        "bear",
+        "deliver",
+        "donate",
+        "contribute",
+        "pledge",
+        "advance",
+        "spare",
+        "part with",
+        "allocate",
+        "distribute",
+        "allot",
+        "assign",
+        "put forward",
+        "put up",
+        "proffer",
+        "present",
+        "extend",
+        "render"
+      ]
+    },
+    {
+      "description": "Make adequate preparation for (a possible event)",
+      "examples": [
+        "new qualifications must provide for changes in technology"
+      ],
+      "synonyms": [
+        "prepare",
+        "allow",
+        "make provision",
+        "make preparations",
+        "be prepared",
+        "anticipate",
+        "arrange",
+        "make arrangements",
+        "get ready",
+        "plan",
+        "make plans",
+        "cater"
+      ]
+    },
+    {
+      "description": "Stipulate in a will or other legal document.",
+      "examples": [
+        "the order should be varied to provide that there would be no contact with the father"
+      ],
+      "synonyms": [
+        "stipulate",
+        "lay down",
+        "have as a condition",
+        "make it a condition",
+        "require",
+        "order",
+        "ordain",
+        "demand",
+        "prescribe",
+        "state",
+        "set out",
+        "specify"
+      ]
+    },
+    {
+      "description": "Appoint an incumbent to (a benefice).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (also in the sense prepare to do, get ready): from Latin providere foresee, attend to, from pro- before + videre to see.",
+  "pronounciation": "/prəˈvīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/provide_us_1.mp3"
+}

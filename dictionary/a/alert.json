@@ -1,0 +1,79 @@
+{
+  "adjective": [
+    {
+      "description": "Quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+      "examples": [
+        "an alert police officer discovered a truck full of explosives",
+        "schools need to be constantly alert to this problem"
+      ],
+      "synonyms": [
+        "vigilant",
+        "wide awake",
+        "aware",
+        "watchful",
+        "attentive",
+        "observant",
+        "circumspect",
+        "wary",
+        "chary",
+        "heedful",
+        "canny"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The state of being watchful for possible danger.",
+      "examples": [
+        "security forces were placed on alert"
+      ],
+      "synonyms": [
+        "vigilance",
+        "watchfulness",
+        "carefulness",
+        "attentiveness",
+        "guardedness",
+        "care",
+        "caution",
+        "cautiousness",
+        "wariness",
+        "chariness",
+        "alertness",
+        "circumspection",
+        "prudence",
+        "heedfulness",
+        "heed",
+        "mindfulness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Warn (someone) of a danger, threat, or problem, typically with the intention of having it avoided or dealt with.",
+      "examples": [
+        "he alerted people to the dangers of smoking",
+        "police were alerted after three men drove away without paying"
+      ],
+      "synonyms": [
+        "warn",
+        "notify",
+        "apprise",
+        "caution",
+        "put on one's guard",
+        "forewarn",
+        "put on the qui vive",
+        "arouse"
+      ]
+    }
+  ],
+  "phrases": [
+    "the security forces must be on the alert for an upsurge in violence",
+    "West was suddenly at full attention and totally on the alert.",
+    "Still, customers must always be on the alert and must not let themselves be lured by banks into taking loans that turn into an unbearable burden.",
+    "Now that silage and hay making is at hand, farmers must be on the alert.",
+    "The terrorist decides where and when he will strike, while the security forces must constantly be on the alert."
+  ],
+  "origin": "Late 16th century (originally in military use): from French alerte, from Italian all' erta to the watchtower.",
+  "pronounciation": "/əˈlərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alert_us_1.mp3"
+}

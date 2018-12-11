@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Laugh lightly in a nervous, affected, or silly manner.",
+      "examples": [
+        "they giggled at some private joke"
+      ],
+      "synonyms": [
+        "titter",
+        "snigger",
+        "snicker",
+        "tee-hee",
+        "give a half-suppressed laugh",
+        "chuckle",
+        "chortle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A light, silly laugh.",
+      "examples": [],
+      "synonyms": [
+        "titter",
+        "snigger",
+        "snicker",
+        "tee-hee",
+        "half-suppressed laugh",
+        "chuckle",
+        "chortle"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: imitative.",
+  "pronounciation": "/ˈɡiɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/giggle_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by individualism; independent and self-reliant.",
+      "examples": [],
+      "synonyms": [
+        "unconventional",
+        "unorthodox",
+        "uncommon",
+        "atypical",
+        "singular",
+        "unique",
+        "original",
+        "off-centre",
+        "nonconformist",
+        "independent",
+        "freethinking",
+        "liberated",
+        "unconstrained",
+        "unfettered",
+        "untrammelled",
+        "free-spirited",
+        "pioneering",
+        "groundbreaking"
+      ]
+    },
+    {
+      "description": "Marked by or expressing individuality; unconventional.",
+      "examples": [
+        "her work is quirky and genuinely individualistic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪndɪvɪdʒ(u)əˈlɪstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/individualistic_us_1.mp3"
+}

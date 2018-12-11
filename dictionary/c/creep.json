@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Move slowly and carefully in order to avoid being heard or noticed.",
+      "examples": [
+        "he crept downstairs, hardly making any noise",
+        "they were taught how to creep up on an enemy"
+      ],
+      "synonyms": [
+        "crawl",
+        "move on all fours",
+        "move on hands and knees",
+        "pull oneself",
+        "inch",
+        "edge",
+        "slither",
+        "slide",
+        "squirm",
+        "wriggle",
+        "writhe",
+        "worm",
+        "worm one's way",
+        "insinuate oneself"
+      ]
+    },
+    {
+      "description": "(of an unwanted and negative characteristic or fact) occur or develop gradually and almost imperceptibly.",
+      "examples": [
+        "errors crept into his game"
+      ],
+      "synonyms": [
+        "penetrate",
+        "invade",
+        "intrude on",
+        "insinuate oneself into",
+        "worm one's way into",
+        "sneak into",
+        "slip into",
+        "creep into",
+        "impinge on",
+        "trespass on",
+        "butt into"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A detestable person.",
+      "examples": [],
+      "synonyms": [
+        "rogue",
+        "villain",
+        "wretch",
+        "reprobate"
+      ]
+    },
+    {
+      "description": "Slow movement, especially at a steady but almost imperceptible pace.",
+      "examples": [
+        "an attempt to prevent this slow creep of costs"
+      ]
+    }
+  ],
+  "phrases": [
+    "If this news doesn't give you the creeps then you aren't thinking clearly.",
+    "She gets this look on her face that gives me the creeps, and I'm not the only one that feels that way.",
+    "The entire situation gave her the creeps, but she refused to become paralysed with fear.",
+    "It gives me the creeps sometimes to look through the files.",
+    "The sight of Chinese acupuncture, in particular, still gives me the creeps.",
+    "an anonymous note like that would creep me out",
+    "Those movies creep me out, I tell her.",
+    "These written professions of love completely creep me out.",
+    "The TV version, made in 1975, still creeps me out from the corners of my memory.",
+    "Unfortunately, lately he's been creeping me out."
+  ],
+  "origin": "Old English crēopan move with the body close to the ground, of Germanic origin; related to Dutch kruipen. Sense 1 of the verb dates from Middle English.",
+  "pronounciation": "/krip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/creep_us_1.mp3"
+}

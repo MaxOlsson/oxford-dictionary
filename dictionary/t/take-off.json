@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An instance of becoming airborne.",
+      "examples": [
+        "a perfect take-off",
+        "the plane accelerated down the runway for take-off"
+      ],
+      "synonyms": [
+        "departure",
+        "lift-off",
+        "launch",
+        "blast-off",
+        "taking off"
+      ]
+    },
+    {
+      "description": "An act of mimicking someone or something.",
+      "examples": [
+        "the film is a take-off of Star Wars"
+      ],
+      "synonyms": [
+        "parody",
+        "pastiche",
+        "mockery",
+        "caricature",
+        "travesty",
+        "satire",
+        "lampoon",
+        "mimicry",
+        "imitation",
+        "impersonation",
+        "impression",
+        "aping"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteɪkɒf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/take_off_1_gb_1.mp3"
+}

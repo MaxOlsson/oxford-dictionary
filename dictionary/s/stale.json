@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) no longer fresh and pleasant to eat; hard, musty, or dry.",
+      "examples": [
+        "stale bread"
+      ],
+      "synonyms": [
+        "dry",
+        "dried out",
+        "hard",
+        "hardened",
+        "old",
+        "past its best",
+        "past its sell-by date"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become stale.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: perhaps from Old French estaler come to a stand, halt (compare with stale).",
+  "pronounciation": "/stāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stale_us_1.mp3"
+}

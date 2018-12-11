@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Having a mutual relationship; corresponding.",
+      "examples": [
+        "rights, whether moral or legal, can involve correlative duties"
+      ],
+      "synonyms": [
+        "reciprocal",
+        "reciprocated",
+        "requited",
+        "returned",
+        "give-and-take",
+        "interchangeable",
+        "interactive",
+        "complementary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word or concept that has a mutual relationship with another word or concept.",
+      "examples": [
+        "the child's right to education is a correlative of the parent's duty to send the child to school"
+      ],
+      "synonyms": [
+        "equivalent",
+        "opposite number",
+        "peer",
+        "equal",
+        "parallel",
+        "complement",
+        "match",
+        "twin",
+        "mate",
+        "fellow",
+        "brother",
+        "sister",
+        "analogue"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from medieval Latin correlativus, from cor- together + late Latin relativus (see relative).",
+  "pronounciation": "/kəˈrelədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/correlative_us_2.mp3"
+}

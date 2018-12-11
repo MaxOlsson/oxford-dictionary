@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An item of food.",
+      "examples": [
+        "a fridge groaning with comestibles"
+      ],
+      "synonyms": [
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Edible.",
+      "examples": [
+        "comestible plants"
+      ],
+      "synonyms": [
+        "juicy",
+        "moist",
+        "luscious",
+        "lush",
+        "fleshy",
+        "pulpy",
+        "soft",
+        "tender",
+        "fresh",
+        "ripe"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French, from medieval Latin comestibilis, from Latin comest- eaten up, from the verb comedere, from com- altogether + edere eat.",
+  "pronounciation": "/kəˈmestəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comestible_us_1.mp3"
+}

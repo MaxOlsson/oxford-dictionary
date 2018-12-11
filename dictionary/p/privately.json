@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "In a private way, manner, or capacity.",
+      "examples": [
+        "I must insist we speak privately",
+        "his research is privately financed"
+      ],
+      "synonyms": [
+        "in private",
+        "with no one else present",
+        "behind closed doors",
+        "between ourselves",
+        "confidentially",
+        "in confidence",
+        "discreetly",
+        "in secret",
+        "secretly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpraɪvɪtli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/privately_us_2.mp3"
+}

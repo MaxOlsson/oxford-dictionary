@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Resistant to the effects of bad weather, especially rain.",
+      "examples": [
+        "the building is structurally sound and weatherproof"
+      ],
+      "synonyms": [
+        "resistant",
+        "impenetrable",
+        "impervious",
+        "repellent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) resistant to the effects of bad weather, especially rain.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈweT͟Hərˌpro͞of/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weatherproof_us_1.mp3"
+}

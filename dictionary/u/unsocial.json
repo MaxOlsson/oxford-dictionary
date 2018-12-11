@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Causing annoyance and disapproval in others; antisocial.",
+      "examples": [
+        "the unsocial behavior of young teenagers"
+      ],
+      "synonyms": [
+        "objectionable",
+        "offensive",
+        "beyond the pale",
+        "unacceptable",
+        "asocial",
+        "distasteful"
+      ]
+    },
+    {
+      "description": "Not seeking the company of others.",
+      "examples": [
+        "woodchucks lead a relatively unsocial life"
+      ]
+    },
+    {
+      "description": "(of the hours of work of a job) falling outside the normal working day and thus socially inconvenient.",
+      "examples": [],
+      "synonyms": [
+        "reserved",
+        "introvert",
+        "introverted",
+        "self-contained",
+        "reticent",
+        "discreet",
+        "uncommunicative",
+        "non-communicative",
+        "media-shy",
+        "unforthcoming",
+        "secretive",
+        "retiring",
+        "ungregarious",
+        "unsociable",
+        "withdrawn",
+        "solitary",
+        "insular",
+        "reclusive",
+        "hermit-like",
+        "hermitic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsoʊʃəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsocial_us_1.mp3"
+}

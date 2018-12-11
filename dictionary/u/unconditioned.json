@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not subject to conditions or to an antecedent condition; unconditional.",
+      "examples": [
+        "pure and unconditioned love"
+      ]
+    },
+    {
+      "description": "Relating to or denoting instinctive reflexes or other behavior not formed or influenced by conditioning or learning.",
+      "examples": [
+        "an unconditioned response"
+      ],
+      "synonyms": [
+        "instinctive",
+        "involuntary",
+        "unconscious",
+        "reflex",
+        "knee-jerk",
+        "reflexive",
+        "instinctual",
+        "subconscious"
+      ]
+    },
+    {
+      "description": "Not subjected to a conditioning process.",
+      "examples": [
+        "waste in its raw, unconditioned form"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkənˈdɪʃənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconditioned_us_1.mp3"
+}

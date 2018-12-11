@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling gauze; thin and translucent.",
+      "examples": [
+        "a gauzy dress"
+      ],
+      "synonyms": [
+        "translucent",
+        "transparent",
+        "sheer",
+        "see-through",
+        "gauzelike",
+        "fine",
+        "ultra-fine",
+        "delicate",
+        "flimsy",
+        "filmy",
+        "gossamer",
+        "gossamer-like",
+        "diaphanous",
+        "chiffony",
+        "wispy",
+        "thin",
+        "light",
+        "airy",
+        "insubstantial"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡôzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gauzy_us_1.mp3"
+}

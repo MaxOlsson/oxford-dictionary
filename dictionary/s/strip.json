@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Remove all coverings from.",
+      "examples": [
+        "they stripped the bed"
+      ]
+    },
+    {
+      "description": "Leave bare of accessories or fittings.",
+      "examples": [
+        "thieves stripped the room of luggage"
+      ],
+      "synonyms": [
+        "empty",
+        "clear",
+        "clean out",
+        "plunder",
+        "rob",
+        "burgle",
+        "loot",
+        "rifle",
+        "pillage",
+        "ransack",
+        "gut",
+        "lay bare",
+        "devastate",
+        "sack",
+        "ravage",
+        "raid"
+      ]
+    },
+    {
+      "description": "Deprive someone of (rank, power, or property)",
+      "examples": [
+        "the lieutenant was stripped of his rank"
+      ],
+      "synonyms": [
+        "take away from",
+        "dispossess",
+        "deprive",
+        "confiscate",
+        "divest",
+        "relieve",
+        "deny",
+        "rob"
+      ]
+    },
+    {
+      "description": "Sell off (the assets of a company) for profit.",
+      "examples": []
+    },
+    {
+      "description": "Tear the thread or teeth from (a screw, gearwheel, etc.).",
+      "examples": []
+    },
+    {
+      "description": "(of a bullet) be fired from a rifled gun without spin owing to a loss of surface.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of undressing, especially in a striptease.",
+      "examples": [
+        "she got drunk and did a strip on top of the piano"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from or related to Middle Low German strippe strap, thong, probably also to stripe.",
+  "pronounciation": "/strɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strip_us_1.mp3"
+}

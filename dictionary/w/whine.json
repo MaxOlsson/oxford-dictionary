@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A long, high-pitched complaining cry.",
+      "examples": [
+        "the dog gave a small whine"
+      ],
+      "synonyms": [
+        "whimper",
+        "wail",
+        "cry",
+        "mewl",
+        "groan",
+        "moan",
+        "howl",
+        "yowl"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give or make a long, high-pitched complaining cry or sound.",
+      "examples": [
+        "the dog whined and scratched at the back door"
+      ],
+      "synonyms": [
+        "hum",
+        "drone",
+        "sing"
+      ]
+    }
+  ],
+  "origin": "Old English hwīnan whistle through the air, related to whinge. The noun dates from the mid 17th century.",
+  "pronounciation": "/(h)waɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whine_us_1.mp3"
+}

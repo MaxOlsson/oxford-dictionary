@@ -1,0 +1,110 @@
+{
+  "noun": [
+    {
+      "description": "A stand, booth, or compartment for the sale of goods in a market or large covered area.",
+      "examples": [
+        "fruit and vegetable stalls"
+      ],
+      "synonyms": [
+        "stand",
+        "table",
+        "counter",
+        "booth",
+        "kiosk",
+        "compartment"
+      ]
+    },
+    {
+      "description": "An individual compartment for an animal in a stable or barn, enclosed on three sides.",
+      "examples": [],
+      "synonyms": [
+        "pen",
+        "coop",
+        "sty",
+        "corral",
+        "enclosure",
+        "compartment",
+        "cubicle"
+      ]
+    },
+    {
+      "description": "A fixed seat in the choir or chancel of a church, more or less enclosed at the back and sides and often canopied, typically reserved for a particular member of the clergy.",
+      "examples": []
+    },
+    {
+      "description": "The seats on the ground floor in a theater.",
+      "examples": [],
+      "synonyms": [
+        "orchestra",
+        "parterre"
+      ]
+    },
+    {
+      "description": "An instance of an engine, vehicle, aircraft, or boat stalling.",
+      "examples": [
+        "speed must be maintained to avoid a stall and loss of control"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a motor vehicle or its engine) stop running, typically because of an overload on the engine.",
+      "examples": [
+        "her car stalled at the crossroads"
+      ]
+    },
+    {
+      "description": "Stop or cause to stop making progress.",
+      "examples": [
+        "his career had stalled, hers taken off",
+        "the government has stalled the much-needed project"
+      ],
+      "synonyms": [
+        "obstruct",
+        "impede",
+        "interfere with",
+        "hinder",
+        "hamper",
+        "block",
+        "interrupt",
+        "hold up",
+        "hold back",
+        "stand in the way of",
+        "frustrate",
+        "thwart",
+        "baulk",
+        "inhibit",
+        "hamstring",
+        "sabotage",
+        "encumber",
+        "restrain",
+        "slow",
+        "slow down",
+        "retard",
+        "delay",
+        "stonewall",
+        "forestall",
+        "arrest",
+        "check",
+        "stop",
+        "halt",
+        "stay",
+        "derail",
+        "restrict",
+        "limit",
+        "curb",
+        "put a brake on",
+        "bridle",
+        "fetter",
+        "shackle"
+      ]
+    },
+    {
+      "description": "Put or keep (an animal) in a stall, especially in order to fatten it.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English steall stable or cattle shed, of Germanic origin; related to Dutch stal, also to stand. Early senses of the verb included reside, dwell and bring to a halt.",
+  "pronounciation": "/stôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stall_us_1.mp3"
+}

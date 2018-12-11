@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) showing signs of tiredness or nervous tension.",
+      "examples": [
+        "Jean's pale, strained face"
+      ],
+      "synonyms": [
+        "drawn",
+        "careworn",
+        "worn",
+        "pinched",
+        "tired",
+        "exhausted",
+        "weary",
+        "fatigued",
+        "drained"
+      ]
+    },
+    {
+      "description": "(of a limb or muscle) injured by overexertion or twisting.",
+      "examples": []
+    },
+    {
+      "description": "(of a mainly liquid substance) having been strained to separate out any solid matter.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/strānd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strained_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Gigantic.",
+      "examples": [
+        "a beam engine of Brobdingnagian proportions"
+      ],
+      "synonyms": [
+        "large",
+        "sizeable",
+        "of considerable size",
+        "substantial",
+        "considerable",
+        "great",
+        "huge",
+        "immense",
+        "enormous",
+        "extensive",
+        "colossal",
+        "massive",
+        "mammoth",
+        "vast",
+        "prodigious",
+        "tremendous",
+        "gigantic",
+        "giant",
+        "monumental",
+        "mighty",
+        "stupendous",
+        "gargantuan",
+        "elephantine",
+        "titanic",
+        "epic",
+        "mountainous",
+        "megalithic",
+        "monstrous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A giant.",
+      "examples": [],
+      "synonyms": [
+        "giant",
+        "mammoth",
+        "colossus",
+        "leviathan",
+        "behemoth",
+        "titan",
+        "brobdingnagian",
+        "monstrosity"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Brobdingnag, the name given by Swift (in Gulliver's Travels) to a land where everything is of huge size, + -ian.",
+  "pronounciation": "/ˌbräbdiNGˈnaɡēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brobdingnagian_1_us_1.mp3"
+}

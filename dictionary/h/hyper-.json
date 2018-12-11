@@ -1,0 +1,19 @@
+{
+  "prefix": [
+    {
+      "description": "Over; beyond; above.",
+      "examples": [
+        "hypernym"
+      ]
+    },
+    {
+      "description": "Relating to hypertext.",
+      "examples": [
+        "hyperlink"
+      ]
+    }
+  ],
+  "origin": "From Greek huper over, beyond.",
+  "pronounciation": "/ˈhaɪpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hyper_1_us_1.mp3"
+}

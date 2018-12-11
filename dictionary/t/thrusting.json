@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The motion of pushing or lunging suddenly or violently.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Aggressively ambitious.",
+      "examples": [
+        "thrusting entrepreneurs"
+      ],
+      "synonyms": [
+        "aggressive",
+        "ambitious",
+        "assertive",
+        "pushy",
+        "pushing",
+        "insistent",
+        "forceful",
+        "forward",
+        "energetic",
+        "determined",
+        "driven",
+        "obtrusive",
+        "bold",
+        "brash"
+      ]
+    },
+    {
+      "description": "(of an object or part of the body) projecting in a conspicuous way.",
+      "examples": [
+        "a thrusting jaw"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈθrəstɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thrusting_us_1.mp3"
+}

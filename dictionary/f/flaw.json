@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A mark, fault, or other imperfection that mars a substance or object.",
+      "examples": [
+        "plates with flaws in them were sold at the outlet store"
+      ],
+      "synonyms": [
+        "defect",
+        "blemish",
+        "fault",
+        "imperfection",
+        "deficiency",
+        "weakness",
+        "weak point",
+        "weak spot",
+        "inadequacy",
+        "shortcoming",
+        "limitation",
+        "failing",
+        "foible"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an imperfection) mar, weaken, or invalidate (something)",
+      "examples": [
+        "the computer game was flawed by poor programming"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: probably from Middle Dutch vlāghe, Middle Low German vlāge.",
+  "pronounciation": "/flɔ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flaw_us_1.mp3"
+}

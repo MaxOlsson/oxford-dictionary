@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "The flat cutting edge of a knife, saw, or other tool or weapon.",
+      "examples": [],
+      "synonyms": [
+        "cutting tool",
+        "cutter",
+        "carver"
+      ]
+    },
+    {
+      "description": "The flat, wide section of an implement or device such as an oar or a propeller.",
+      "examples": [],
+      "synonyms": [
+        "oar",
+        "scull",
+        "sweep",
+        "spoon",
+        "spade"
+      ]
+    },
+    {
+      "description": "A shoulder bone in a cut of meat, or the cut of meat itself.",
+      "examples": []
+    },
+    {
+      "description": "A long, narrow leaf of grass or another similar plant.",
+      "examples": [
+        "a blade of grass"
+      ],
+      "synonyms": [
+        "frond"
+      ]
+    },
+    {
+      "description": "A dashing or energetic young man.",
+      "examples": [],
+      "synonyms": [
+        "dandy",
+        "fop",
+        "gallant",
+        "cavalier",
+        "man about town"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Skate using in-line skates.",
+      "examples": [
+        "we bladed into the parking lot behind Mensky's"
+      ]
+    }
+  ],
+  "origin": "Old English blæd leaf of a plant (also in blade (sense 2 of the noun)), of Germanic origin; related to Dutch blad and German Blatt.",
+  "pronounciation": "/blād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blade_us_1.mp3"
+}

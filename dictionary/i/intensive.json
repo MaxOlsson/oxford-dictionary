@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Concentrated on a single area or subject or into a short time; very thorough or vigorous.",
+      "examples": [
+        "she undertook an intensive Arabic course",
+        "eight days of intensive arms talks"
+      ],
+      "synonyms": [
+        "thorough",
+        "in-depth",
+        "concentrated",
+        "rigorous",
+        "exhaustive",
+        "all-out",
+        "concerted",
+        "thoroughgoing"
+      ]
+    },
+    {
+      "description": "(of an adjective, adverb, or particle) expressing intensity; giving force or emphasis.",
+      "examples": []
+    },
+    {
+      "description": "Denoting a property which is measured in terms of intensity (e.g. concentration) rather than of extent (e.g. volume), and so is not simply increased by addition of one thing to another.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An intensive adjective, adverb, or particle; an intensifier.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense vehement, intense): from French intensif, -ive or medieval Latin intensivus, from intendere (see intend).",
+  "pronounciation": "/inˈtensiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intensive_us_1.mp3"
+}

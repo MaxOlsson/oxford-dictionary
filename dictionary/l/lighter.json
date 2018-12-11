@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A device that produces a small flame, typically used to light cigarettes.",
+      "examples": [
+        "he lit a cigarette with his gold lighter"
+      ],
+      "synonyms": [
+        "match",
+        "cigarette lighter",
+        "flame",
+        "spark",
+        "source of fire"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transport (goods) in a lighter.",
+      "examples": [
+        "they lightered their cargo ashore"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from light (in the sense unload), or from Middle Low German luchter.",
+  "pronounciation": "/ˈlīdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lighter_us_2.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "Trigonometry.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Neat and smart in appearance.",
+      "examples": [
+        "two trig little boys, each in a gray flannel suit"
+      ],
+      "synonyms": [
+        "stylish",
+        "smart",
+        "elegant",
+        "chic",
+        "crisp",
+        "dapper",
+        "spruce",
+        "trim",
+        "debonair",
+        "well dressed",
+        "well groomed",
+        "well turned out",
+        "smartly dressed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make neat and smart in appearance.",
+      "examples": [
+        "he has rigged her and trigged her with paint and spar"
+      ],
+      "synonyms": [
+        "groom",
+        "tidy",
+        "arrange",
+        "brush",
+        "comb",
+        "smooth",
+        "smarten",
+        "smarten up",
+        "spruce up",
+        "freshen",
+        "freshen up",
+        "beautify",
+        "pretty",
+        "preen",
+        "primp",
+        "prink",
+        "prink up"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense faithful, trusty): from Old Norse tryggr; related to true. The current verb sense dates from the late 17th century.",
+  "pronounciation": "/triɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trig_us_1.mp3"
+}

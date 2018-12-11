@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Icy; extremely cold.",
+      "examples": [
+        "the gelid pond",
+        "she gave a gelid reply"
+      ],
+      "synonyms": [
+        "frozen",
+        "freezing",
+        "icy",
+        "ice-cold",
+        "arctic",
+        "glacial",
+        "polar",
+        "frosty",
+        "wintry",
+        "snowy",
+        "bitterly cold",
+        "sub-zero",
+        "chilly",
+        "siberian",
+        "hyperborean",
+        "hyperboreal"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin gelidus, from gelu frost, intense cold.",
+  "pronounciation": "/ˈjelid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gelid_us_1.mp3"
+}

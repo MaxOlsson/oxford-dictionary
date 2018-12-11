@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products.",
+      "examples": [
+        "inflammation is a reaction of living tissue to infection or injury",
+        "the organs and tissues of the body"
+      ],
+      "synonyms": [
+        "matter",
+        "material",
+        "substance",
+        "stuff"
+      ]
+    },
+    {
+      "description": "Tissue paper.",
+      "examples": []
+    },
+    {
+      "description": "An intricate structure or network made from a number of connected items.",
+      "examples": [
+        "such scandalous stories are a tissue of lies"
+      ],
+      "synonyms": [
+        "web",
+        "network",
+        "nexus",
+        "maze",
+        "tangle",
+        "knot",
+        "complex",
+        "mass",
+        "conglomeration",
+        "set",
+        "series",
+        "chain"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French tissu woven, past participle of tistre, from Latin texere to weave. The word originally denoted a rich material, often interwoven with gold or silver threads, later (mid 16th century) any woven fabric, hence the notion of intricacy.",
+  "pronounciation": "/ˈtɪʃu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tissue_us_1.mp3"
+}

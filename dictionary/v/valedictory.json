@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Serving as a farewell.",
+      "examples": [
+        "a valedictory wave"
+      ],
+      "synonyms": [
+        "farewell",
+        "goodbye",
+        "leaving",
+        "parting",
+        "departing",
+        "going away",
+        "last",
+        "final"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A farewell address.",
+      "examples": [],
+      "synonyms": [
+        "talk",
+        "address",
+        "lecture",
+        "discourse",
+        "oration",
+        "disquisition",
+        "peroration",
+        "declamation",
+        "deliverance",
+        "presentation"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌvæləˈdɪkt(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/valedictory_us_1.mp3"
+}

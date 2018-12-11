@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Likely to or liable to suffer from, do, or experience something, typically something regrettable or unwelcome.",
+      "examples": [
+        "years of logging had left the mountains prone to mudslides",
+        "he is prone to jump to conclusions"
+      ],
+      "synonyms": [
+        "susceptible",
+        "vulnerable",
+        "liable",
+        "inclined",
+        "given",
+        "subject",
+        "disposed",
+        "predisposed",
+        "open"
+      ]
+    },
+    {
+      "description": "Lying flat, especially face downward.",
+      "examples": [
+        "I was lying prone on a foam mattress",
+        "a prone position"
+      ],
+      "synonyms": [
+        "face down",
+        "lying face down",
+        "face downwards",
+        "on one's stomach",
+        "on one's front"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin pronus leaning forward, from pro forwards.",
+  "pronounciation": "/proʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prone_us_1.mp3"
+}

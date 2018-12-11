@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Place or fix (equipment or machinery) in position ready for use.",
+      "examples": [
+        "we're planning to install a new shower"
+      ],
+      "synonyms": [
+        "put",
+        "position",
+        "place",
+        "put in place",
+        "set in place",
+        "fix",
+        "fit",
+        "locate",
+        "situate",
+        "station",
+        "site",
+        "lodge",
+        "establish"
+      ]
+    },
+    {
+      "description": "Place (someone) in a new position of authority, especially with ceremony.",
+      "examples": [
+        "he was installed as music director at the Cathedral of St. Barbara in Cracow"
+      ],
+      "synonyms": [
+        "swear in",
+        "induct",
+        "instate",
+        "inaugurate",
+        "invest",
+        "institute",
+        "introduce",
+        "appoint",
+        "admit to office",
+        "take on"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in install (sense 2)): from medieval Latin installare, from in- into + stallum place, stall. install (sense 1) dates from the mid 19th century.",
+  "pronounciation": "/inˈstôl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/install_us_1.mp3"
+}

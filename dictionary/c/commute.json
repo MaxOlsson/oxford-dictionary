@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Travel some distance between one's home and place of work on a regular basis.",
+      "examples": [
+        "she commuted from Westport in to Grand Central Station"
+      ],
+      "synonyms": [
+        "travel to and from work",
+        "travel to and fro",
+        "travel back and forth",
+        "come and go",
+        "shuttle"
+      ]
+    },
+    {
+      "description": "Reduce (a judicial sentence, especially a sentence of death) to one less severe.",
+      "examples": [
+        "he commuted the sentences of hundreds of convicts"
+      ],
+      "synonyms": [
+        "reduce",
+        "lessen",
+        "lighten",
+        "shorten",
+        "cut",
+        "scale down",
+        "limit",
+        "curtail",
+        "attenuate",
+        "mitigate",
+        "moderate",
+        "modify",
+        "adjust"
+      ]
+    },
+    {
+      "description": "(of two operations or quantities) have a commutative relationship.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A regular journey of some distance to and from one's place of work.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense interchange (two things)): from Latin commutare, from com- altogether + mutare to change. commute (sense 1 of the verb) originally meant to buy and use a commutation ticket, a US term for a season ticket (because the daily fare is commuted to a single payment).",
+  "pronounciation": "/kəˈmjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commute_us_1.mp3"
+}

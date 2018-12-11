@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Looking or sounding bizarre or unfamiliar.",
+      "examples": [
+        "outlandish, brightly colored clothes",
+        "the most outlandish ideas"
+      ],
+      "synonyms": [
+        "strange",
+        "peculiar",
+        "odd",
+        "funny",
+        "curious",
+        "offbeat",
+        "eccentric",
+        "unconventional",
+        "unorthodox",
+        "queer",
+        "unexpected",
+        "unfamiliar",
+        "abnormal",
+        "atypical",
+        "unusual",
+        "out of the ordinary",
+        "out of the way",
+        "extraordinary"
+      ]
+    },
+    {
+      "description": "Foreign or alien.",
+      "examples": [],
+      "synonyms": [
+        "weird",
+        "queer",
+        "offbeat",
+        "far out",
+        "freakish",
+        "grotesque",
+        "quirky",
+        "zany",
+        "eccentric",
+        "off-centre",
+        "idiosyncratic",
+        "unconventional",
+        "unorthodox",
+        "funny",
+        "bizarre",
+        "fantastic",
+        "unusual",
+        "extraordinary",
+        "strange",
+        "unfamiliar",
+        "unknown",
+        "unheard of",
+        "alien",
+        "foreign",
+        "peculiar",
+        "odd",
+        "curious"
+      ]
+    }
+  ],
+  "origin": "Old English ūtlendisc not native, from ūtland foreign country.",
+  "pronounciation": "/aʊtˈlændɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outlandish_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A collection of historical documents or records providing information about a place, institution, or group of people.",
+      "examples": [
+        "source materials in local archives",
+        "a section of archive film"
+      ],
+      "synonyms": [
+        "records",
+        "annals",
+        "chronicles",
+        "registers",
+        "accounts"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place or store (something) in an archive.",
+      "examples": [],
+      "synonyms": [
+        "file",
+        "log",
+        "catalogue",
+        "pigeonhole"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the sense place where records are kept): from French archives (plural), from Latin archiva, archia, from Greek arkheia public records, from arkhē government. The verb dates from the late 19th century.",
+  "pronounciation": "/ˈɑrˌkaɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/archive_us_1.mp3"
+}

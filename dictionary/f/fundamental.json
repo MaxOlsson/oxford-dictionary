@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Forming a necessary base or core; of central importance.",
+      "examples": [
+        "the protection of fundamental human rights",
+        "interpretation of evidence is fundamental to the historian's craft"
+      ],
+      "synonyms": [
+        "basic",
+        "foundational",
+        "rudimentary",
+        "elemental",
+        "elementary",
+        "underlying",
+        "basal",
+        "radical",
+        "root"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A central or primary rule or principle on which something is based.",
+      "examples": [
+        "two courses cover the fundamentals of microbiology"
+      ],
+      "synonyms": [
+        "basics",
+        "essentials",
+        "rudiments",
+        "foundations",
+        "basic principles",
+        "first principles",
+        "preliminaries"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French fondamental, or late Latin fundamentalis, from Latin fundamentum, from fundare to found.",
+  "pronounciation": "/ˌfəndəˈmɛn(t)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fundamental_us_1.mp3"
+}

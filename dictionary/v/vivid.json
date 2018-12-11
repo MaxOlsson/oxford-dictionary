@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "Producing powerful feelings or strong, clear images in the mind.",
+      "examples": [
+        "memories of that evening were still vivid",
+        "a vivid description"
+      ],
+      "synonyms": [
+        "graphic",
+        "evocative",
+        "realistic",
+        "true to life",
+        "lifelike",
+        "faithful",
+        "authentic",
+        "clear",
+        "crystal clear",
+        "detailed",
+        "lucid",
+        "striking",
+        "arresting",
+        "impressive",
+        "colourful",
+        "highly coloured",
+        "rich",
+        "dramatic",
+        "picturesque",
+        "lively",
+        "stimulating",
+        "interesting",
+        "fascinating",
+        "scintillating"
+      ]
+    },
+    {
+      "description": "(of a color) intensely deep or bright.",
+      "examples": [],
+      "synonyms": [
+        "bright",
+        "bright-coloured",
+        "colourful",
+        "deep-coloured",
+        "brilliant",
+        "glowing",
+        "radiant",
+        "vibrant",
+        "strong",
+        "bold",
+        "deep",
+        "intense",
+        "rich",
+        "warm",
+        "flaming",
+        "flamboyant",
+        "glaring",
+        "eye-catching"
+      ]
+    },
+    {
+      "description": "(of a person or animal) lively and vigorous.",
+      "examples": [],
+      "synonyms": [
+        "dynamic",
+        "flamboyant",
+        "striking",
+        "strong",
+        "powerful",
+        "fiery",
+        "lively",
+        "animated",
+        "spirited",
+        "vibrant",
+        "vital",
+        "vigorous",
+        "energetic",
+        "vivacious",
+        "zestful"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin vividus, from vivere to live.",
+  "pronounciation": "/ˈvivid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vivid_us_1.mp3"
+}

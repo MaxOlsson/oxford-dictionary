@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Extract (information) from various sources.",
+      "examples": [
+        "the information is gleaned from press clippings"
+      ],
+      "synonyms": [
+        "obtain",
+        "get",
+        "take",
+        "draw",
+        "derive",
+        "extract",
+        "cull",
+        "garner",
+        "gather",
+        "reap"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French glener, from late Latin glennare, probably of Celtic origin.",
+  "pronounciation": "/ɡlēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glean_us_1.mp3"
+}

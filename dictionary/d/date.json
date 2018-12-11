@@ -1,0 +1,86 @@
+{
+  "noun": [
+    {
+      "description": "The day of the month or year as specified by a number.",
+      "examples": [
+        "what's the date today?",
+        "please give your name, address, and date of birth"
+      ],
+      "synonyms": [
+        "day",
+        "day of the month",
+        "occasion",
+        "year",
+        "anniversary",
+        "time"
+      ]
+    },
+    {
+      "description": "A social or romantic appointment or engagement.",
+      "examples": [
+        "a college student on a date with someone he met in class"
+      ],
+      "synonyms": [
+        "appointment",
+        "meeting",
+        "engagement",
+        "rendezvous",
+        "assignation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Establish or ascertain the date of (an object or event)",
+      "examples": [
+        "they date the paintings to 1460–70"
+      ],
+      "synonyms": [
+        "assign a date to",
+        "ascertain the date of",
+        "determine the date of",
+        "establish the date of",
+        "put a date on",
+        "put a date to",
+        "ascertain the age of",
+        "determine the age of",
+        "establish the age of",
+        "carbon-date"
+      ]
+    },
+    {
+      "description": "Indicate or expose as being old-fashioned.",
+      "examples": [
+        "disco—that word alone dates me"
+      ]
+    },
+    {
+      "description": "Go out with (someone in whom one is romantically or sexually interested)",
+      "examples": [
+        "a few years ago, I dated the ex of a friend",
+        "they have been dating for more than a year"
+      ],
+      "synonyms": [
+        "go out with",
+        "take out",
+        "go around with",
+        "go with",
+        "be involved with",
+        "be romantically linked with",
+        "see",
+        "court",
+        "woo"
+      ]
+    }
+  ],
+  "phrases": [
+    "their finest work to date",
+    "The cemetery has been split into four sections and a quarter of the work has been completed to date.",
+    "Indeed, the crisis at Rover has been emblematic of the character of the campaign to date.",
+    "This is by far her toughest task to date, but she is at the right end of the handicap to prove competitive.",
+    "With its gentle yet complex melodies and rhythms, it was hailed as her finest work to date."
+  ],
+  "origin": "Middle English: from Old French, via Latin from Greek daktulos finger (because of the fingerlike shape of its leaves).",
+  "pronounciation": "/deɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/date_us_1.mp3"
+}

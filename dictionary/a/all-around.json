@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Having a great many abilities or uses; versatile.",
+      "examples": [
+        "I've always aspired to be an all-around entertainer"
+      ],
+      "synonyms": [
+        "adaptable",
+        "flexible",
+        "all-round",
+        "multifaceted",
+        "multitalented",
+        "multiskilled",
+        "many-sided",
+        "resourceful",
+        "protean"
+      ]
+    },
+    {
+      "description": "On or from every side or in every direction.",
+      "examples": [
+        "the car features good all-around visibility"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A gymnastic event in which the scores of each individual exercise are totaled to determine the winner.",
+      "examples": [
+        "Biles won world titles in all-around and floor exercise"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌôləˈround/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/all_around_1_us_4.mp3"
+}

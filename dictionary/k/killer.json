@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that kills.",
+      "examples": [
+        "police are still searching for the killer"
+      ],
+      "synonyms": [
+        "murderer",
+        "slaughterer",
+        "destroyer",
+        "liquidator",
+        "exterminator",
+        "terminator",
+        "executioner"
+      ]
+    },
+    {
+      "description": "An extremely difficult or unpleasant thing.",
+      "examples": [
+        "that wind's a killer"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting a person or thing that kills.",
+      "examples": [
+        "a killer virus"
+      ]
+    },
+    {
+      "description": "Extremely difficult or unpleasant.",
+      "examples": [
+        "I woke up with a killer hangover"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkilər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/killer_us_1.mp3"
+}

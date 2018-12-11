@@ -1,0 +1,194 @@
+{
+  "noun": [
+    {
+      "description": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
+      "examples": [],
+      "synonyms": [
+        "skull",
+        "cranium",
+        "crown"
+      ]
+    },
+    {
+      "description": "A thing resembling a head either in form or in relation to a whole.",
+      "examples": []
+    },
+    {
+      "description": "The front, forward, or upper part or end of something.",
+      "examples": [],
+      "synonyms": [
+        "front",
+        "beginning",
+        "start",
+        "fore",
+        "forefront",
+        "top",
+        "leading position",
+        "foremost position"
+      ]
+    },
+    {
+      "description": "A person in charge of something; a director or leader.",
+      "examples": [
+        "the head of the Dutch Catholic Church"
+      ],
+      "synonyms": [
+        "leader",
+        "chief",
+        "boss",
+        "controller",
+        "master",
+        "supervisor",
+        "governor",
+        "superintendent",
+        "foreman",
+        "forewoman",
+        "headman"
+      ]
+    },
+    {
+      "description": "A person considered as a numerical unit.",
+      "examples": [
+        "they paid fifty dollars a head"
+      ]
+    },
+    {
+      "description": "A component in an audio, video, or information system by which information is transferred from an electrical signal to the recording medium, or vice versa.",
+      "examples": []
+    },
+    {
+      "description": "A body of water kept at a particular height in order to provide a supply at sufficient pressure.",
+      "examples": [
+        "an 8 m head of water in the shafts"
+      ]
+    },
+    {
+      "description": "A toilet or bathroom on a boat or ship.",
+      "examples": [],
+      "synonyms": [
+        "lavatory",
+        "wc",
+        "water closet",
+        "convenience",
+        "public convenience",
+        "facilities",
+        "urinal",
+        "privy",
+        "latrine",
+        "outhouse",
+        "earth closet",
+        "jakes"
+      ]
+    },
+    {
+      "description": "The word that governs all the other words in a phrase in which it is used, having the same grammatical function as the whole phrase.",
+      "examples": []
+    },
+    {
+      "description": "A superficial deposit of rock fragments, formed at the edge of an ice sheet by repeated freezing and thawing and then moved downhill.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Chief; principal.",
+      "examples": [
+        "the head waiter"
+      ],
+      "synonyms": [
+        "chief",
+        "principal",
+        "leading",
+        "main",
+        "first",
+        "front",
+        "prime",
+        "premier",
+        "foremost",
+        "top",
+        "topmost",
+        "highest",
+        "supreme",
+        "pre-eminent",
+        "high-ranking",
+        "top-ranking",
+        "most important"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be in the leading position on.",
+      "examples": [
+        "the Palm Sunday procession was headed by the crucifer"
+      ],
+      "synonyms": [
+        "be at the front of",
+        "lead",
+        "be the leader of",
+        "be at the head of"
+      ]
+    },
+    {
+      "description": "Give a title or caption to.",
+      "examples": [
+        "an article headed “The Protection of Human Life.”"
+      ]
+    },
+    {
+      "description": "Move in a specified direction.",
+      "examples": [
+        "he was heading for the exit",
+        "we were headed in the wrong direction"
+      ],
+      "synonyms": [
+        "move towards",
+        "go towards",
+        "make for",
+        "aim for",
+        "make one's way towards",
+        "go in the direction of",
+        "direct one's steps towards",
+        "be bound for",
+        "steer for",
+        "make a beeline for"
+      ]
+    },
+    {
+      "description": "Shoot or pass (the ball) with the head.",
+      "examples": [
+        "a corner kick that he headed into the net"
+      ],
+      "synonyms": [
+        "kick",
+        "hit",
+        "throw",
+        "lob",
+        "loft"
+      ]
+    },
+    {
+      "description": "Lop off the upper part or branches of (a plant or tree).",
+      "examples": []
+    },
+    {
+      "description": "(of a lettuce or cabbage) form a head.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Big organizations exist because there are economies of scale, or because - as Ronald Coase pointed out in this classic paper - it's more efficient to run things by banging people's heads together than by haggling over contracts.",
+    "We were inches away and if he had not taken that initiative - something John is very good at - of knocking people's heads together and forcing them to come to an agreement to settle matters or to say we cannot make an agreement, that would not have been done.",
+    "This lying, prevarication and knocking people's heads together is standard practice.",
+    "I just think it's fun to knock people's heads together and call attention to how silly arguing over NOTHING can be.",
+    "You felt you were banging your head against a brick wall.",
+    "he ran up the road to head off approaching cars",
+    "Last night fans watched as Dev raced to head Maya off as part of his quest to free Sunita from prison after she was framed by his former fiancée.",
+    "I volunteered to go down the steep bank with Newby to head the lion off while Ruth and Husseman took the high route.",
+    "I try to head him off, but eventually he gets past me and jumps on Jarvis again, snarling and growling again.",
+    "He spied David making his way towards the car lot, a bottle in his hand, and moved to head him off, catching up with him just outside the exit."
+  ],
+  "origin": "Old English hēafod, of Germanic origin; related to Dutch hoofd and German Haupt.",
+  "pronounciation": "/hɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/head_1_us_2.mp3"
+}

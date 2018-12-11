@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) thrust a knife or other pointed weapon into (someone) so as to wound or kill.",
+      "examples": [
+        "he stabbed him in the stomach",
+        "the fatal stabbings of four rival gang members"
+      ],
+      "synonyms": [
+        "knife",
+        "run through",
+        "skewer",
+        "spear",
+        "bayonet",
+        "gore",
+        "spike",
+        "stick",
+        "impale",
+        "transfix",
+        "pierce",
+        "prick",
+        "puncture",
+        "penetrate",
+        "perforate",
+        "gash",
+        "slash",
+        "cut",
+        "tear",
+        "scratch",
+        "wound",
+        "injure"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thrust with a knife or other pointed weapon.",
+      "examples": [
+        "multiple stab wounds"
+      ],
+      "synonyms": [
+        "lunge",
+        "thrust",
+        "jab",
+        "poke",
+        "prod",
+        "dig",
+        "punch"
+      ]
+    },
+    {
+      "description": "An attempt to do (something)",
+      "examples": [
+        "Meredith made a feeble stab at joining in"
+      ],
+      "synonyms": [
+        "attempt",
+        "try",
+        "effort",
+        "endeavour"
+      ]
+    }
+  ],
+  "phrases": [
+    "Outsourcing jobs overseas is a stab in the back to all the workers who have made this country what it is.",
+    "Many said it was a stab in the back for our region.",
+    "But the party has no tradition of back-stabbing its leaders: on the contrary, it has been very forbearing of them, even when a stab in the back might have been in everyone's interest.",
+    "This is a stab in the back and the last thing they need.",
+    "They knew only that it was a rich Spartan colony; capturing it would be a stab in the back of their enemy, bringing the long Peloponnesian War to a quick, triumphal end."
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/stab/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stab_us_1.mp3"
+}

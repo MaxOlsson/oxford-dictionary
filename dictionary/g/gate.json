@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A hinged barrier used to close an opening in a wall, fence, or hedge.",
+      "examples": [],
+      "synonyms": [
+        "barrier",
+        "wicket",
+        "wicket gate",
+        "lychgate",
+        "five-barred gate",
+        "turnstile"
+      ]
+    },
+    {
+      "description": "The number of people who pay to enter a sports facility, exhibition hall, etc., for any one event.",
+      "examples": [
+        "gate receipts"
+      ]
+    },
+    {
+      "description": "A device resembling a gate in structure or function.",
+      "examples": []
+    },
+    {
+      "description": "An electric circuit with an output which depends on the combination of several inputs.",
+      "examples": [
+        "a logic gate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Confine (a student) to school or college.",
+      "examples": [
+        "he was gated for the rest of term"
+      ]
+    }
+  ],
+  "phrases": [
+    "I can't see him getting the gate under any circumstances, but the natives are very restless, and a .500 campaign or less will make things much worse."
+  ],
+  "origin": "Middle English (also meaning way in general): from Old Norse gata; related to German Gasse street, lane.",
+  "pronounciation": "/ɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gate_us_1.mp3"
+}

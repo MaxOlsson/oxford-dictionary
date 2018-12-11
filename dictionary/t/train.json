@@ -1,0 +1,106 @@
+{
+  "verb": [
+    {
+      "description": "Teach (a person or animal) a particular skill or type of behavior through practice and instruction over a period of time.",
+      "examples": [
+        "the plan trains people for promotion",
+        "the dogs are trained to sniff out illegal stowaways"
+      ],
+      "synonyms": [
+        "instruct",
+        "teach",
+        "coach",
+        "tutor",
+        "give lessons to",
+        "school",
+        "educate",
+        "upskill",
+        "edify",
+        "prime",
+        "drill",
+        "demonstrate something to",
+        "make something clear to"
+      ]
+    },
+    {
+      "description": "Point or aim something, typically a gun or camera, at.",
+      "examples": [
+        "the detective trained his gun on the side door"
+      ],
+      "synonyms": [
+        "aim",
+        "point",
+        "direct",
+        "level",
+        "line something up",
+        "turn something on",
+        "fix something on",
+        "sight",
+        "position",
+        "focus"
+      ]
+    },
+    {
+      "description": "Go by train.",
+      "examples": [
+        "Charles trained to Chicago with Emily"
+      ]
+    },
+    {
+      "description": "Entice (someone) by offering pleasure or a reward.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A series of railroad cars moved as a unit by a locomotive or by integral motors.",
+      "examples": [
+        "a freight train",
+        "the journey took two hours by train"
+      ]
+    },
+    {
+      "description": "A succession of vehicles or pack animals traveling in the same direction.",
+      "examples": [
+        "a camel train"
+      ],
+      "synonyms": [
+        "procession",
+        "line",
+        "file",
+        "column",
+        "convoy",
+        "cavalcade",
+        "caravan",
+        "queue",
+        "rank",
+        "string",
+        "succession",
+        "progression",
+        "array"
+      ]
+    },
+    {
+      "description": "A long piece of material attached to the back of a formal dress or robe that trails along the ground.",
+      "examples": [],
+      "synonyms": [
+        "tail",
+        "appendage"
+      ]
+    },
+    {
+      "description": "A trail of gunpowder for firing an explosive charge.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "an investigation is in train",
+    "That set in train a series of actions - or rather, inactions - that led to only six of the 20 cars starting the race.",
+    "School, when it comes, sets in train a whole new set of anxious targets - reading and counting and writing, to be mastered by a given age and in step with your peers.",
+    "Such a report puts in train a detailed investigation which may be unnecessary if, as is frequently the case, the incident is not one of carbon monoxide poisoning.",
+    "I'm still pinching myself that an inquiry has been set in train."
+  ],
+  "origin": "Middle English (as a noun in the sense delay): from Old French train (masculine), traine (feminine), from trahiner (verb), from Latin trahere pull, draw. Early noun senses were trailing part of a robe and retinue; the latter gave rise to line of traveling people or vehicles, later a connected series of things. The early verb sense cause a plant to grow in a desired shape was the basis of the sense instruct.",
+  "pronounciation": "/treɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/train_us_1.mp3"
+}

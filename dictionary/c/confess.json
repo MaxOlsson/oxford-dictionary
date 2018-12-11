@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Admit or state that one has committed a crime or is at fault in some way.",
+      "examples": [
+        "he confessed that he had attacked the old man",
+        "he wants to confess to Caroline's murder",
+        "“I damaged your car,” she confessed",
+        "once apprehended, they would confess their guilt"
+      ],
+      "synonyms": [
+        "admit",
+        "acknowledge",
+        "reveal",
+        "make known",
+        "disclose",
+        "divulge",
+        "make public",
+        "avow",
+        "declare",
+        "blurt out",
+        "profess",
+        "own up to",
+        "tell all about",
+        "bring into the open",
+        "bring to light"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French confesser, from Latin confessus, past participle of confiteri acknowledge, from con- (expressing intensive force) + fateri declare, avow.",
+  "pronounciation": "/kənˈfɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfess_us_1.mp3"
+}

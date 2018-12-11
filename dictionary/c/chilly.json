@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Uncomfortably cool or cold.",
+      "examples": [
+        "it had turned chilly",
+        "a chilly day"
+      ],
+      "synonyms": [
+        "cold",
+        "cool",
+        "crisp",
+        "fresh",
+        "brisk",
+        "bleak",
+        "wintry",
+        "snowy",
+        "frosty",
+        "icy",
+        "ice-cold",
+        "icy-cold",
+        "glacial",
+        "polar",
+        "arctic",
+        "raw",
+        "sharp",
+        "bitter",
+        "bitterly cold",
+        "biting",
+        "piercing",
+        "penetrating",
+        "freezing",
+        "frigid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHilē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chilly_us_1.mp3"
+}

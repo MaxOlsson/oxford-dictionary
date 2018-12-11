@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "Cloth produced by weaving or knitting textile fibers.",
+      "examples": [
+        "heavy silk fabric",
+        "waterproof fabrics"
+      ],
+      "synonyms": [
+        "cloth",
+        "material",
+        "textile",
+        "stuff",
+        "tissue",
+        "web"
+      ]
+    },
+    {
+      "description": "The walls, floor, and roof of a building.",
+      "examples": [],
+      "synonyms": [
+        "structure",
+        "framework",
+        "frame",
+        "form",
+        "make-up",
+        "constitution",
+        "composition",
+        "construction",
+        "organization",
+        "infrastructure",
+        "foundations",
+        "mechanisms",
+        "anatomy",
+        "essence"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French fabrique, from Latin fabrica something skillfully produced, from faber worker in metal, stone, etc The word originally denoted a building, later a machine, the general sense being something made, hence fabric (sense 1) (mid 18th century, originally denoting any manufactured material). fabric (sense 2) dates from the mid 17th century.",
+  "pronounciation": "/ˈfabrik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fabric_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Describe the distinctive nature or features of.",
+      "examples": [
+        "the historian characterized the period as the decade of revolution"
+      ],
+      "synonyms": [
+        "distinguish",
+        "make distinctive",
+        "mark",
+        "set apart",
+        "identify",
+        "specify",
+        "signalize",
+        "indicate",
+        "denote",
+        "designate",
+        "stamp"
+      ]
+    },
+    {
+      "description": "(of a feature or quality) be typical or characteristic of.",
+      "examples": [
+        "the disease is characterized by weakening of the immune system"
+      ],
+      "synonyms": [
+        "epitomize",
+        "exemplify",
+        "be representative of",
+        "represent",
+        "be characteristic of"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense engrave, inscribe): from French caractériser or medieval Latin characterizare, from Greek kharaktērizein, from kharaktēr a stamping tool.",
+  "pronounciation": "/ˈkerəktəˌrīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/characterize_us_2.mp3"
+}

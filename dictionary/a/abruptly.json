@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "Suddenly and unexpectedly.",
+      "examples": [
+        "the film ends rather abruptly",
+        "a drama about two young brothers who are abruptly abandoned by their father"
+      ]
+    },
+    {
+      "description": "In a rude or curt manner.",
+      "examples": [
+        "she barely conceals her irritation and speaks briefly and abruptly to the woman"
+      ]
+    },
+    {
+      "description": "Steeply; precipitously.",
+      "examples": [
+        "the forested terrain ascends abruptly"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈbrəptli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abruptly_us_2.mp3"
+}

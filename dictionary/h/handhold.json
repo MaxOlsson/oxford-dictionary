@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "Something for a hand to grip on.",
+      "examples": [
+        "the rock is steep and there are few handholds"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hold (a camera) in the hand when taking a photograph or making a video recording, as opposed to using a tripod.",
+      "examples": [
+        "we could hand-hold the camera at very slow shutter speeds with hardly any blur"
+      ]
+    },
+    {
+      "description": "Support or guide (someone) during a learning process or a period of change.",
+      "examples": [
+        "if you ask a mentor how to register, he or she will hand-hold you through the procedure"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhændˌhoʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handhold_us_1.mp3"
+}

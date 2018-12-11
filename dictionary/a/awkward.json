@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Causing difficulty; hard to do or deal with.",
+      "examples": [
+        "some awkward questions",
+        "the wheelbarrow can be awkward to maneuver",
+        "one of the most awkward jobs is painting a ceiling"
+      ],
+      "synonyms": [
+        "difficult",
+        "tricky"
+      ]
+    },
+    {
+      "description": "Causing or feeling embarrassment or inconvenience.",
+      "examples": [
+        "he had put her in a very awkward situation"
+      ],
+      "synonyms": [
+        "embarrassing",
+        "uncomfortable",
+        "unpleasant",
+        "delicate",
+        "ticklish",
+        "tricky",
+        "sensitive",
+        "problematic",
+        "problematical",
+        "troublesome",
+        "perplexing",
+        "thorny",
+        "vexatious"
+      ]
+    },
+    {
+      "description": "Not smooth or graceful; ungainly.",
+      "examples": [
+        "Luther's awkward movements impeded his progress",
+        "she was long-legged and rather awkward"
+      ],
+      "synonyms": [
+        "clumsy",
+        "ungainly",
+        "uncoordinated",
+        "maladroit",
+        "graceless",
+        "ungraceful",
+        "inept",
+        "inelegant",
+        "unskilful",
+        "unhandy",
+        "gauche",
+        "gawky",
+        "gangling",
+        "blundering",
+        "lumbering",
+        "cloddish"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense the wrong way round, upside down): from dialect awk backwards, perverse, clumsy (from Old Norse afugr turned the wrong way) + -ward.",
+  "pronounciation": "/ˈôkwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awkward_us_1.mp3"
+}

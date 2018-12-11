@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not yet brought to a conclusion.",
+      "examples": [
+        "unconcluded agreements"
+      ],
+      "synonyms": [
+        "disputed",
+        "in dispute",
+        "contested",
+        "in contention",
+        "contentious",
+        "debated",
+        "debatable",
+        "open to debate",
+        "open to question",
+        "questionable",
+        "at issue",
+        "open to doubt",
+        "controversial",
+        "moot",
+        "unresolved",
+        "unsettled",
+        "up in the air",
+        "undecided",
+        "yet to be decided",
+        "undetermined",
+        "ongoing"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnkənˈkluːdɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconcluded_gb_1_8.mp3"
+}

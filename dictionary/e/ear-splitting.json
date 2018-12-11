@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely loud.",
+      "examples": [
+        "an ear-splitting crack of thunder"
+      ],
+      "synonyms": [
+        "very great",
+        "huge",
+        "enormous",
+        "immense",
+        "colossal",
+        "massive",
+        "prodigious",
+        "stupendous",
+        "tremendous",
+        "monumental",
+        "mammoth",
+        "vast",
+        "gigantic",
+        "giant",
+        "mighty",
+        "herculean",
+        "epic",
+        "monstrous",
+        "titanic",
+        "towering",
+        "king-sized",
+        "king-size"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈi(ə)rˌsplidiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ear_splitting_1_us_1.mp3"
+}

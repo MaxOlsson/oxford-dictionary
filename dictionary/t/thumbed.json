@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of a book, magazine, etc.) having been read often and bearing marks of frequent handling.",
+      "examples": [
+        "they reread old volumes until they are thumbed and fragile",
+        "elegant hardbacks, thumbed and adored",
+        "the heavily thumbed thesaurus"
+      ],
+      "synonyms": [
+        "soiled",
+        "marked",
+        "dog-eared",
+        "well read",
+        "messed up",
+        "mauled"
+      ]
+    },
+    {
+      "description": "Having or using thumbs.",
+      "examples": [
+        "a thumbed mammal",
+        "a thumbed hand",
+        "a two-thumbed salute"
+      ]
+    }
+  ],
+  "pronounciation": "/THəmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thumbed_us_1.mp3"
+}

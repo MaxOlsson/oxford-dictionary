@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Attempt to sell (something), typically by pestering people in an aggressive or bold manner.",
+      "examples": [
+        "Jim was touting his wares"
+      ]
+    },
+    {
+      "description": "Offer racing tips for a share of any resulting winnings.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person soliciting custom or business, typically in an aggressive or bold manner.",
+      "examples": []
+    },
+    {
+      "description": "A person who offers racing tips for a share of any resulting winnings.",
+      "examples": []
+    },
+    {
+      "description": "An informer.",
+      "examples": []
+    }
+  ],
+  "determiner": [
+    {
+      "description": "Used before the name of a city to refer to its high society or people of importance.",
+      "examples": [
+        "le tout Washington adored him"
+      ]
+    }
+  ],
+  "origin": "French, suggested by le tout Paris all (of) Paris, used to refer to Parisian high society.",
+  "pronounciation": "/to͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tout_us_2.mp3"
+}

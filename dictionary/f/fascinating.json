@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely interesting.",
+      "examples": [
+        "fascinating facts"
+      ],
+      "synonyms": [
+        "engrossing",
+        "captivating",
+        "absorbing",
+        "interesting",
+        "enchanting",
+        "beguiling",
+        "bewitching",
+        "enthralling",
+        "enrapturing",
+        "entrancing",
+        "spellbinding",
+        "transfixing",
+        "riveting",
+        "mesmerizing",
+        "hypnotizing",
+        "engaging",
+        "compelling",
+        "compulsive",
+        "gripping",
+        "thrilling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfæsəˌneɪdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fascinating_us_1.mp3"
+}

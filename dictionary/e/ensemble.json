@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A group of musicians, actors, or dancers who perform together.",
+      "examples": [
+        "a Bulgarian folk ensemble"
+      ],
+      "synonyms": [
+        "group",
+        "band",
+        "orchestra",
+        "combo"
+      ]
+    },
+    {
+      "description": "A group of items viewed as a whole rather than individually.",
+      "examples": [
+        "the buildings in the square present a charming provincial ensemble"
+      ],
+      "synonyms": [
+        "whole",
+        "whole thing",
+        "entity",
+        "unit",
+        "unity",
+        "body",
+        "piece",
+        "object",
+        "discrete item"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adverb (long rare) meaning at the same time): from French, based on Latin insimul, from in- in + simul at the same time. The noun dates from the mid 18th century.",
+  "pronounciation": "/änˈsämbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ensemble_us_1.mp3"
+}

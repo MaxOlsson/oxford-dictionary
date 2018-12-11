@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Able to move quickly and easily.",
+      "examples": [
+        "Ruth was as agile as a monkey"
+      ],
+      "synonyms": [
+        "nimble",
+        "lithe",
+        "spry",
+        "supple",
+        "limber",
+        "sprightly",
+        "acrobatic",
+        "dexterous",
+        "deft",
+        "willowy",
+        "graceful",
+        "light-footed",
+        "nimble-footed",
+        "light on one's feet",
+        "fleet-footed"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a method of project management, used especially for software development, that is characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans.",
+      "examples": [
+        "agile methods replace high-level design with frequent redesign"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via French from Latin agilis, from agere do.",
+  "pronounciation": "/ˈajəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agile_us_1.mp3"
+}

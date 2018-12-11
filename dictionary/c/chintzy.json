@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Of, like, or decorated with chintz.",
+      "examples": [
+        "brighten the room with fresh paint and chintzy fabrics"
+      ]
+    },
+    {
+      "description": "Cheap and of poor quality.",
+      "examples": [],
+      "synonyms": [
+        "flashy",
+        "pretentious",
+        "gaudy",
+        "tawdry",
+        "trashy",
+        "garish",
+        "brummagem",
+        "loud",
+        "tinselly",
+        "cheap",
+        "tasteless",
+        "kitschy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHin(t)sē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chintzy_us_1.mp3"
+}

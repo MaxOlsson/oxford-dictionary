@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The part of a theater, concert hall, or other public building in which the audience sits.",
+      "examples": [
+        "the stage was small and the auditorium had only 366 seats"
+      ],
+      "synonyms": [
+        "theatre",
+        "hall",
+        "concert hall",
+        "conference hall",
+        "assembly hall",
+        "assembly room"
+      ]
+    },
+    {
+      "description": "A large building or hall used for public gatherings, typically speeches or stage performances.",
+      "examples": [
+        "the National Indoor Arena is a magnificent auditorium and one of Britain's premier indoor venues"
+      ],
+      "synonyms": [
+        "assembly hall",
+        "assembly room",
+        "meeting room",
+        "large public room",
+        "chamber"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (originally in the general sense a place for hearing): from Latin, neuter of auditorius relating to hearing (see auditory).",
+  "pronounciation": "/ˌôdəˈtôrēəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/auditorium_us_1.mp3"
+}

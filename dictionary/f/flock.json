@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A number of birds of one kind feeding, resting, or traveling together.",
+      "examples": [
+        "a flock of gulls"
+      ],
+      "synonyms": [
+        "group",
+        "flight",
+        "congregation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Congregate or mass in a flock or large group.",
+      "examples": [
+        "students flocked to spring break sites"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French floc, from Latin floccus (see floccus).",
+  "pronounciation": "/fläk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flock_us_1.mp3"
+}

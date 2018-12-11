@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Hang or extend outward over.",
+      "examples": [
+        "a concrete path overhung by trees"
+      ],
+      "synonyms": [
+        "stick out",
+        "stick out over",
+        "stand out",
+        "stand out over",
+        "extend",
+        "extend over",
+        "project",
+        "project over",
+        "protrude",
+        "protrude over",
+        "jut",
+        "jut over",
+        "jut out",
+        "jut out over",
+        "poke out",
+        "poke out over",
+        "beetle",
+        "beetle over",
+        "bulge out",
+        "bulge out over",
+        "loom",
+        "loom over",
+        "hang over",
+        "cantilever out",
+        "cantilever out over"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A part of something that sticks out or hangs over another thing.",
+      "examples": [
+        "he crouched beneath an overhang of bushes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈōvərˌhaNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overhang_us_2.mp3"
+}

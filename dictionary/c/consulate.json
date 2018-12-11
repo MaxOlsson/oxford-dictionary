@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The place or building in which a consul's duties are carried out.",
+      "examples": [],
+      "synonyms": [
+        "diplomatic mission",
+        "mission",
+        "embassy",
+        "ministry",
+        "delegation",
+        "deputation",
+        "representation",
+        "contingent",
+        "commission"
+      ]
+    },
+    {
+      "description": "The period of office of a Roman consul.",
+      "examples": []
+    },
+    {
+      "description": "The government of the first French republic (1799–1804) by three consuls.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting the government of Rome by consuls): from Latin consulatus, from consul (see consul).",
+  "pronounciation": "/ˈkɑnsələt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsulate_us_1.mp3"
+}

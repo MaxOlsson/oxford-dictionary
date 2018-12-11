@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Fat, round, or bulging.",
+      "examples": [
+        "a bulbous nose"
+      ],
+      "synonyms": [
+        "bulging",
+        "round",
+        "fat",
+        "rotund",
+        "swollen",
+        "spherical",
+        "swelling",
+        "distended",
+        "bloated",
+        "protuberant",
+        "ovoid",
+        "convex",
+        "pear-shaped",
+        "bulb-shaped",
+        "balloon-shaped"
+      ]
+    },
+    {
+      "description": "(of a plant) growing from a bulb.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbəlbəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bulbous_us_1.mp3"
+}

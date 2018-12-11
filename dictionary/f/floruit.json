@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Used in conjunction with a specified period or set of dates to indicate when a particular historical figure lived, worked, or was most active.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The period during which a historical figure lived or worked.",
+      "examples": [
+        "they place Nicander's floruit in the middle of the 2nd century BC"
+      ]
+    }
+  ],
+  "origin": "Latin, literally he or she flourished, from florere to flourish.",
+  "pronounciation": "/ˈflôr(y)əwət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/floruit_us_1.mp3"
+}

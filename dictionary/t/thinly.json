@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that creates a thin piece or layer of something.",
+      "examples": [
+        "thinly sliced potatoes",
+        "thinly spread mustard over the meat",
+        "a board covered thinly with flour"
+      ]
+    },
+    {
+      "description": "With little flesh or fat on the body.",
+      "examples": [
+        "he was tall and thinly built"
+      ]
+    },
+    {
+      "description": "With few parts or people relative to the area covered or filled; sparsely.",
+      "examples": [
+        "resources are stretched thinly",
+        "people were thinly spread throughout the square",
+        "his thinly attended campaign launch"
+      ]
+    },
+    {
+      "description": "In a way that lacks strength, substance, or quality; weakly.",
+      "examples": [
+        "the sun shines only thinly through a veil of water",
+        "a mishmash of thinly sketched characters",
+        "a thinly disguised autobiographical novel"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈTHinlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thinly_us_1.mp3"
+}

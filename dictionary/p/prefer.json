@@ -1,0 +1,64 @@
+{
+  "verb": [
+    {
+      "description": "Like (one thing or person) better than another or others; tend to choose.",
+      "examples": [
+        "I prefer Venice to Rome",
+        "I would prefer to discuss the matter in private",
+        "Val would presumably prefer that you didn't get arrested",
+        "his preferred candidate"
+      ],
+      "synonyms": [
+        "like better",
+        "would rather",
+        "would rather have",
+        "would sooner",
+        "would sooner have",
+        "favour",
+        "be more partial to",
+        "incline towards",
+        "lean towards",
+        "think preferable"
+      ]
+    },
+    {
+      "description": "Submit (a charge or a piece of information) for consideration.",
+      "examples": [
+        "the police will prefer charges"
+      ],
+      "synonyms": [
+        "bring",
+        "press",
+        "file",
+        "lodge",
+        "tender",
+        "present",
+        "place",
+        "lay",
+        "submit",
+        "put forward",
+        "proffer",
+        "offer",
+        "propose"
+      ]
+    },
+    {
+      "description": "Promote or advance (someone) to a prestigious position.",
+      "examples": [
+        "he was preferred to the post"
+      ],
+      "synonyms": [
+        "promote",
+        "upgrade",
+        "advance",
+        "raise",
+        "move up",
+        "elevate",
+        "aggrandize"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French preferer, from Latin praeferre, from prae before + ferre to bear, carry.",
+  "pronounciation": "/prəˈfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prefer_us_1.mp3"
+}

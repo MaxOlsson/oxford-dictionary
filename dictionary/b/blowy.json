@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Having or affected by strong winds; windy or windswept.",
+      "examples": [
+        "a blowy day"
+      ],
+      "synonyms": [
+        "windy",
+        "windswept",
+        "blustery",
+        "gusty",
+        "breezy",
+        "draughty",
+        "fresh"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈblōē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blowy_us_1.mp3"
+}

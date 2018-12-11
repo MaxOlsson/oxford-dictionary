@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Shockingly bad or excessive.",
+      "examples": [
+        "an outrageous act of bribery"
+      ],
+      "synonyms": [
+        "shocking",
+        "disgraceful",
+        "scandalous",
+        "atrocious",
+        "appalling",
+        "abhorrent",
+        "monstrous",
+        "heinous"
+      ]
+    },
+    {
+      "description": "Very bold, unusual, and startling.",
+      "examples": [
+        "her outrageous leotards and sexy routines"
+      ],
+      "synonyms": [
+        "eye-catching",
+        "startling",
+        "striking",
+        "flamboyant",
+        "showy",
+        "flashy",
+        "gaudy",
+        "ostentatious",
+        "dazzling"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French outrageus, from outrage excess (see outrage).",
+  "pronounciation": "/outˈrājəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outrageous_us_1.mp3"
+}

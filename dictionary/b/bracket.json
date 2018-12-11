@@ -1,0 +1,98 @@
+{
+  "noun": [
+    {
+      "description": "Each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.",
+      "examples": [
+        "symbols are given in brackets"
+      ],
+      "synonyms": [
+        "parenthesis",
+        "brace"
+      ]
+    },
+    {
+      "description": "A category of people or things that are similar or fall between specified limits.",
+      "examples": [
+        "those in a high income bracket"
+      ],
+      "synonyms": [
+        "group",
+        "grouping",
+        "category",
+        "categorization",
+        "grade",
+        "grading",
+        "classification",
+        "class",
+        "set",
+        "section",
+        "division",
+        "order",
+        "batch",
+        "cohort",
+        "list"
+      ]
+    },
+    {
+      "description": "A right-angled support attached to and projecting from a wall for holding a shelf, lamp, or other object.",
+      "examples": [],
+      "synonyms": [
+        "support",
+        "prop",
+        "stay",
+        "batten",
+        "joist",
+        "buttress"
+      ]
+    },
+    {
+      "description": "The distance between two artillery shots fired either side of the target to establish range.",
+      "examples": []
+    },
+    {
+      "description": "A diagram representing the sequence of games in a sports tournament, especially as used for making predictions about its outcome.",
+      "examples": [
+        "with the March Madness tournament half the fun is filling out your bracket"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Enclose (words or figures) in brackets.",
+      "examples": [
+        "I have bracketed the phrase “of contrary qualities” in the translation, since it is not explicit in the Greek"
+      ]
+    },
+    {
+      "description": "Place (one or more people or things) in the same category or group.",
+      "examples": [
+        "he is sometimes bracketed with the “new wave” of film directors"
+      ],
+      "synonyms": [
+        "group",
+        "classify",
+        "class",
+        "categorize",
+        "grade",
+        "list",
+        "sort",
+        "set",
+        "place",
+        "assign"
+      ]
+    },
+    {
+      "description": "Hold or attach (something) by means of a right-angled support.",
+      "examples": [
+        "pipes should be bracketed"
+      ]
+    },
+    {
+      "description": "Establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from French braguette or Spanish bragueta codpiece, bracket, corbel, from Provençal braga, from Latin braca, (plural) bracae breeches.",
+  "pronounciation": "/ˈbrækɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bracket_us_1.mp3"
+}

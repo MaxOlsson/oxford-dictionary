@@ -1,0 +1,47 @@
+{
+  "adverb": [
+    {
+      "description": "Showing little interest or emotion.",
+      "examples": [
+        "“You'd better go,” she said flatly"
+      ]
+    },
+    {
+      "description": "In a firm and unequivocal manner; absolutely.",
+      "examples": [
+        "they flatly refused to play",
+        "his view seems to me flatly contrary to our evidence"
+      ],
+      "synonyms": [
+        "bluntly",
+        "directly",
+        "straight",
+        "straightforwardly",
+        "frankly",
+        "candidly",
+        "forthrightly",
+        "openly",
+        "explicitly",
+        "unequivocally",
+        "unambiguously",
+        "unmistakably",
+        "plainly",
+        "clearly",
+        "flatly",
+        "positively",
+        "certainly",
+        "decisively",
+        "categorically",
+        "outright"
+      ]
+    },
+    {
+      "description": "In a smooth and even way.",
+      "examples": [
+        "I applied the paint flatly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflætli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flatly_us_1.mp3"
+}

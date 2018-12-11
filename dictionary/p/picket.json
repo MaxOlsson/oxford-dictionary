@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A person or group of people standing outside a place of work or other venue, protesting something or trying to persuade others not to enter during a strike.",
+      "examples": [],
+      "synonyms": [
+        "striker",
+        "demonstrator",
+        "protester",
+        "objector",
+        "picketer"
+      ]
+    },
+    {
+      "description": "A soldier or party of soldiers performing a particular duty.",
+      "examples": [
+        "a picket of soldiers fired a volley over the coffin"
+      ],
+      "synonyms": [
+        "watchman",
+        "guard",
+        "watch",
+        "sentry",
+        "sentinel",
+        "night watchman",
+        "scout"
+      ]
+    },
+    {
+      "description": "A pointed wooden stake driven into the ground, typically to form a fence or palisade or to tether a horse.",
+      "examples": [
+        "a cedar-picket stockade"
+      ],
+      "synonyms": [
+        "stake",
+        "peg",
+        "post",
+        "paling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as a picket outside (a workplace or other venue)",
+      "examples": [
+        "strikers picketed the newspaper's main building",
+        "18,000 people turned up to picket"
+      ],
+      "synonyms": [
+        "demonstrate at",
+        "form a picket at",
+        "man the picket line at",
+        "launch a demonstration at",
+        "protest at",
+        "form a protest group at"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (denoting a pointed stake, on which a soldier was required to stand on one foot as a military punishment): from French piquet pointed stake, from piquer to prick, from pic pike.",
+  "pronounciation": "/ˈpikit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/picket_us_1.mp3"
+}

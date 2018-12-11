@@ -1,0 +1,55 @@
+{
+  "adverb": [
+    {
+      "description": "To a higher degree than is usual or average.",
+      "examples": [
+        "I don't particularly want to be reminded of that time",
+        "particularly able students"
+      ],
+      "synonyms": [
+        "especially",
+        "specially",
+        "very",
+        "extremely",
+        "exceptionally",
+        "singularly",
+        "peculiarly",
+        "distinctly",
+        "unusually",
+        "extraordinarily",
+        "extra",
+        "uncommonly",
+        "uniquely",
+        "remarkably",
+        "strikingly",
+        "outstandingly",
+        "amazingly",
+        "incredibly",
+        "awfully",
+        "terribly",
+        "really",
+        "notably",
+        "markedly",
+        "decidedly",
+        "surprisingly",
+        "conspicuously"
+      ]
+    },
+    {
+      "description": "So as to give special emphasis to a point; specifically.",
+      "examples": [
+        "he particularly asked that I should help you"
+      ],
+      "synonyms": [
+        "specifically",
+        "explicitly",
+        "expressly",
+        "in particular",
+        "especially",
+        "specially"
+      ]
+    }
+  ],
+  "pronounciation": "/pə(r)ˈtɪkjələrli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/particularly_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the teeth.",
+      "examples": [
+        "dental health"
+      ]
+    },
+    {
+      "description": "(of a consonant) pronounced with the tip of the tongue against the upper front teeth (as th) or the alveolar ridge (as n, d, t).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dental consonant.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from late Latin dentalis, from Latin dens, dent- tooth.",
+  "pronounciation": "/ˈden(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dental_us_1.mp3"
+}

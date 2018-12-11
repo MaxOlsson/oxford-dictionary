@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A small sharp-pointed organ at the end of the abdomen of bees, wasps, ants, and scorpions, capable of inflicting a painful or dangerous wound by injecting poison.",
+      "examples": []
+    },
+    {
+      "description": "A carefully planned operation, typically one involving deception.",
+      "examples": [
+        "five blackmailers were jailed last week after they were snared in a police sting"
+      ],
+      "synonyms": [
+        "swindle",
+        "fraud",
+        "piece of deception",
+        "trickery",
+        "cheat",
+        "bit of sharp practice"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wound or pierce with a sting.",
+      "examples": [
+        "he was stung by a jellyfish",
+        "a nettle stings if you brush it lightly"
+      ],
+      "synonyms": [
+        "prick",
+        "wound",
+        "injure",
+        "hurt"
+      ]
+    },
+    {
+      "description": "Swindle or exorbitantly overcharge (someone)",
+      "examples": [
+        "an elaborate fraud that stung a bank for thousands"
+      ],
+      "synonyms": [
+        "swindle",
+        "defraud",
+        "cheat",
+        "fleece",
+        "gull"
+      ]
+    }
+  ],
+  "phrases": [
+    "the Budget comes with a sting in the tail—future tax increases",
+    "For many companies the only alternative to the EMI is an unapproved option scheme, which has a nasty national insurance contribution sting in the tail.",
+    "While he extended the current venture capital trust schemes, research and development tax credits and capital allowances, there was a surprise sting in the tail for those running some of Britain's smallest enterprises.",
+    "The contingent workforce has begun to feel the sting in the tail of flexibility and the dart came from none other than Microsoft itself.",
+    "It is a sting in the tail for livestock farmers who had welcomed DEFRA's decision to reduce the movement standstill from 20 days to six."
+  ],
+  "origin": "Old English sting (noun), stingan (verb), of Germanic origin.",
+  "pronounciation": "/stiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sting_us_1.mp3"
+}

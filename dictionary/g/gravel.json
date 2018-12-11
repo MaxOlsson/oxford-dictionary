@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A loose aggregation of small water-worn or pounded stones.",
+      "examples": [],
+      "synonyms": [
+        "shingle",
+        "grit",
+        "pebbles",
+        "stones"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover (an area of ground) with gravel.",
+      "examples": [
+        "they graveled the road"
+      ]
+    },
+    {
+      "description": "Make (someone) angry or annoyed.",
+      "examples": [
+        "this was a bad strike, and it graveled him to involve himself in it"
+      ],
+      "synonyms": [
+        "annoy",
+        "vex",
+        "make angry",
+        "make cross",
+        "anger",
+        "exasperate",
+        "bother",
+        "irk",
+        "gall",
+        "pique",
+        "put out",
+        "displease",
+        "get someone's back up",
+        "put someone's back up",
+        "antagonize",
+        "get on someone's nerves",
+        "rub up the wrong way",
+        "try someone's patience",
+        "ruffle",
+        "ruffle someone's feathers",
+        "make someone's hackles rise",
+        "raise someone's hackles"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, diminutive of grave (see grave).",
+  "pronounciation": "/ˈɡrævəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gravel_us_1.mp3"
+}

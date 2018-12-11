@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "A long narrow band or strip, typically of the same width throughout its length, differing in color or texture from the surface on either side of it.",
+      "examples": [
+        "a pair of blue shorts with pink stripes"
+      ],
+      "synonyms": [
+        "line",
+        "band",
+        "strip",
+        "belt",
+        "bar",
+        "swathe",
+        "streak",
+        "striation",
+        "vein",
+        "thread"
+      ]
+    },
+    {
+      "description": "A chevron sewn on to a uniform to denote military rank.",
+      "examples": [],
+      "synonyms": [
+        "emblem",
+        "insignia",
+        "badge",
+        "marking"
+      ]
+    },
+    {
+      "description": "A type or category.",
+      "examples": [
+        "entrepreneurs of all stripes are joining in the offensive"
+      ],
+      "synonyms": [
+        "sort",
+        "variety",
+        "kind",
+        "style",
+        "type",
+        "category",
+        "order",
+        "breed",
+        "species",
+        "class",
+        "designation",
+        "specification",
+        "genre",
+        "genus",
+        "brand",
+        "make",
+        "character",
+        "ilk",
+        "kidney",
+        "grain",
+        "stamp",
+        "mould"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with stripes.",
+      "examples": [
+        "her body was striped with bands of sunlight"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps a back-formation from striped, of Dutch or Low German origin; compare with Middle Dutch and Middle Low German strīpe.",
+  "pronounciation": "/straɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stripe_us_1.mp3"
+}

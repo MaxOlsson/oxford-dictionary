@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Expose to radiation.",
+      "examples": [],
+      "synonyms": [
+        "treat with radiation",
+        "expose to radiation",
+        "x-ray"
+      ]
+    },
+    {
+      "description": "Illuminate (something) by or as if by shining light on it.",
+      "examples": [
+        "sunlight streamed down through stained glass, irradiating the faces of family and friends"
+      ],
+      "synonyms": [
+        "illuminate",
+        "light up",
+        "light",
+        "brighten",
+        "cast light upon",
+        "throw light on",
+        "shine on",
+        "flood with light"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense emit rays, shine upon): from Latin irradiat- shone upon, from the verb irradiare, from in- upon + radiare to shine (from radius ray).",
+  "pronounciation": "/ɪˈreɪdiˌeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irradiate_us_1.mp3"
+}

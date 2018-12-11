@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A restriction on a person or activity.",
+      "examples": [
+        "religious strictures on everyday life"
+      ],
+      "synonyms": [
+        "constraint",
+        "restriction",
+        "limitation",
+        "control",
+        "restraint",
+        "straitjacket",
+        "curb",
+        "check",
+        "impediment",
+        "bar",
+        "barrier",
+        "obstacle"
+      ]
+    },
+    {
+      "description": "A sternly critical or censorious remark or instruction.",
+      "examples": [
+        "his strictures on their lack of civic virtue"
+      ],
+      "synonyms": [
+        "criticism",
+        "censure",
+        "blame",
+        "condemnation",
+        "reproof",
+        "reproach",
+        "admonishment",
+        "disparagement",
+        "flak"
+      ]
+    },
+    {
+      "description": "Abnormal narrowing of a canal or duct in the body.",
+      "examples": [
+        "a colonic stricture",
+        "jaundice caused by bile duct stricture"
+      ],
+      "synonyms": [
+        "narrowing",
+        "constriction",
+        "strangulation",
+        "tightness"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in stricture (sense 3)): from Latin strictura, from stringere draw tight (see strict). Another sense of the Latin verb, touch lightly, gave rise to stricture (sense 2) via an earlier meaning incidental remark.",
+  "pronounciation": "/ˈstrɪk(t)ʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stricture_us_1.mp3"
+}

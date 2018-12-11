@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not safe; dangerous.",
+      "examples": [
+        "drinking water in some areas may be unsafe"
+      ],
+      "synonyms": [
+        "dangerous",
+        "risky",
+        "perilous",
+        "hazardous",
+        "precarious",
+        "life-threatening",
+        "high-risk",
+        "treacherous",
+        "insecure",
+        "unsound",
+        "vulnerable",
+        "exposed",
+        "defenceless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsāf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsafe_us_1.mp3"
+}

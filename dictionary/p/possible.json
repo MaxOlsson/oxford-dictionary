@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be done; within the power or capacity of someone or something.",
+      "examples": [
+        "surely it's not possible for a man to live so long?",
+        "what are the possible alternatives?",
+        "contact me as soon as possible",
+        "I'd like the report this afternoon, if possible"
+      ],
+      "synonyms": [
+        "feasible",
+        "able to be done",
+        "practicable",
+        "viable",
+        "within the bounds of possibility",
+        "within the realms of possibility",
+        "attainable",
+        "achievable",
+        "realizable",
+        "within reach",
+        "workable",
+        "manageable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that has the potential to become or do something, especially a potential candidate for a job or membership on a team.",
+      "examples": [
+        "I have marked five possibles with an asterisk"
+      ],
+      "synonyms": [
+        "applicant",
+        "job applicant",
+        "job-seeker",
+        "prospective employee"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin possibilis, from posse be able.",
+  "pronounciation": "/ˈpäsəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/possible_us_1.mp3"
+}

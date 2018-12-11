@@ -1,0 +1,55 @@
+{
+  "abbreviation": [
+    {
+      "description": "Barn(s).",
+      "examples": []
+    },
+    {
+      "description": "Born (used to indicate a date of birth)",
+      "examples": [
+        "George Lloyd (b. 1913)"
+      ]
+    },
+    {
+      "description": "Billion.",
+      "examples": []
+    },
+    {
+      "description": "Bass.",
+      "examples": []
+    },
+    {
+      "description": "Basso.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The second letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "The seventh note of the diatonic scale of C major.",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element boron.",
+      "examples": []
+    },
+    {
+      "description": "Magnetic flux density.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "it's time I put plan B into action",
+    "So I keep wondering: What is the Democrats' plan B?",
+    "So now you're falling back on plan B - demanding that I turn him over so you can bring him to Dominic.",
+    "It's called plan B, you know, when you make a pact with a friend to get married if neither one of you finds anyone by the time you're 40.",
+    "If not, they will revert to plan B which is using the same system as last year."
+  ],
+  "pronounciation": "/bē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/b_us_1.mp3"
+}

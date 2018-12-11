@@ -1,0 +1,96 @@
+{
+  "adjective": [
+    {
+      "description": "Of a more excellent or effective type or quality.",
+      "examples": [
+        "hoping for better weather",
+        "the new facilities were far better",
+        "I'm better at algebra than Alice"
+      ],
+      "synonyms": [
+        "superior",
+        "finer",
+        "of higher quality",
+        "greater",
+        "in a different class",
+        "one step ahead"
+      ]
+    },
+    {
+      "description": "Partly or fully recovered from illness, injury, or mental stress; less unwell.",
+      "examples": [
+        "his leg was getting better",
+        "she's much better today",
+        "we'll feel a lot better after a decent night's sleep"
+      ],
+      "synonyms": [
+        "healthier",
+        "fitter",
+        "stronger",
+        "less ill"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "More excellently or effectively.",
+      "examples": [
+        "Johnny could do better if he tried",
+        "instruments are generally better made these days"
+      ],
+      "synonyms": [
+        "to a higher standard",
+        "in a finer way",
+        "in a superior way"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The better one; that which is better.",
+      "examples": [
+        "the Natural History Museum book is by far the better of the two",
+        "a change for the better"
+      ]
+    },
+    {
+      "description": "One's superiors in social class or ability.",
+      "examples": [
+        "amusing themselves by imitating their betters"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Improve on or surpass (an existing or previous level or achievement)",
+      "examples": [
+        "bettering his previous time by ten minutes"
+      ],
+      "synonyms": [
+        "surpass",
+        "improve on",
+        "beat",
+        "exceed",
+        "excel",
+        "top",
+        "cap",
+        "trump",
+        "eclipse",
+        "outstrip",
+        "outdo",
+        "outmatch",
+        "go one better than"
+      ]
+    }
+  ],
+  "phrases": [
+    "the sooner we're off the better",
+    "the more people there the better",
+    "Mr Ancram said: We live in an age of computerisation and the earlier you can learn the skills the better, even for very young children.",
+    "If anything, the sketchier the questions the better.",
+    "Automatic promotion is still on the cards and the more help the team has from the terraces the better."
+  ],
+  "origin": "Old English betera (adjective), of Germanic origin; related to Dutch beter and German besser, also to best.",
+  "pronounciation": "/ˈbedər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/better_us_3.mp3"
+}

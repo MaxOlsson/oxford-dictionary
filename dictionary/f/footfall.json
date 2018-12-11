@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "The sound of a footstep or footsteps.",
+      "examples": [
+        "you will recognize his footfall on the stairs"
+      ],
+      "synonyms": [
+        "footstep",
+        "tread",
+        "tramp"
+      ]
+    },
+    {
+      "description": "The number of people entering a store or shopping area in a given time.",
+      "examples": [
+        "consumer goods shops lost footfall during sunny weekends"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfʊtˌfɔl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/footfall_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A very important person.",
+      "examples": [
+        "a party for 400 VIPs from the world of sports and showbiz"
+      ],
+      "synonyms": [
+        "celebrity",
+        "famous person",
+        "very important person",
+        "personality",
+        "name",
+        "big name",
+        "famous name",
+        "household name",
+        "star",
+        "superstar",
+        "celebutante",
+        "leading light",
+        "mogul",
+        "giant",
+        "great",
+        "master",
+        "king",
+        "guru"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Vasoactive intestinal polypeptide (or peptide), a substance which acts as a neurotransmitter, especially in the brain and gastrointestinal tract.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌviˌaɪˈpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vip_us_1.mp3"
+}

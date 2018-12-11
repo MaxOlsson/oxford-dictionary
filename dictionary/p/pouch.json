@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A small bag or other flexible receptacle, typically carried in a pocket or attached to a belt.",
+      "examples": [
+        "a tobacco pouch",
+        "webbing with pouches for stun grenades"
+      ],
+      "synonyms": [
+        "bag",
+        "purse",
+        "wallet",
+        "sack",
+        "sac",
+        "pocket",
+        "container",
+        "receptacle"
+      ]
+    },
+    {
+      "description": "A pocket-like abdominal receptacle in which marsupials carry their young during lactation.",
+      "examples": [],
+      "synonyms": [
+        "marsupium"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put into a pouch.",
+      "examples": [
+        "he stopped, pouched his tickets, and plodded on"
+      ]
+    },
+    {
+      "description": "Make (part of a garment) hang like a pouch.",
+      "examples": [
+        "the muslin is lightly pouched over the belt"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun): from Old Northern French pouche, variant of Old French poche bag. Compare with poke.",
+  "pronounciation": "/paʊtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pouch_us_1.mp3"
+}

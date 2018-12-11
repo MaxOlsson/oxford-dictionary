@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Simple and unsophisticated.",
+      "examples": [
+        "homespun philosophy"
+      ],
+      "synonyms": [
+        "unsophisticated",
+        "unpolished",
+        "unrefined",
+        "plain",
+        "simple",
+        "rustic",
+        "folksy",
+        "artless",
+        "modest",
+        "natural"
+      ]
+    },
+    {
+      "description": "(of cloth or yarn) made or spun at home.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Coarse handwoven cloth.",
+      "examples": [
+        "clad in homespun"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhōmˌspən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homespun_us_1.mp3"
+}

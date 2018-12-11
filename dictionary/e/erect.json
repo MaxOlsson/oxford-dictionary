@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Rigidly upright or straight.",
+      "examples": [
+        "she stood erect with her arms by her sides"
+      ],
+      "synonyms": [
+        "upright",
+        "bolt upright",
+        "straight",
+        "vertical",
+        "perpendicular",
+        "plumb",
+        "standing up"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Construct (a building, wall, or other upright structure)",
+      "examples": [
+        "the guest house was erected in the eighteenth century",
+        "the police had erected roadblocks"
+      ],
+      "synonyms": [
+        "build",
+        "construct",
+        "put up"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin erect- set up, from the verb erigere, from e- (variant of ex-) out + regere to direct.",
+  "pronounciation": "/əˈrekt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/erect_us_1.mp3"
+}

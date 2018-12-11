@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Digressing from subject to subject.",
+      "examples": [
+        "students often write dull, secondhand, discursive prose"
+      ],
+      "synonyms": [
+        "rambling",
+        "digressive",
+        "meandering",
+        "wandering",
+        "maundering",
+        "diffuse",
+        "long",
+        "lengthy"
+      ]
+    },
+    {
+      "description": "Relating to discourse or modes of discourse.",
+      "examples": [
+        "the attempt to transform utterances from one discursive context to another"
+      ]
+    },
+    {
+      "description": "Proceeding by argument or reasoning rather than by intuition.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from medieval Latin discursivus, from Latin discurs-, literally gone hastily to and fro, from the verb discurrere (see discourse).",
+  "pronounciation": "/dəˈskərsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discursive_us_1.mp3"
+}

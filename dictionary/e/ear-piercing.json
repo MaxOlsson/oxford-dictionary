@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Loud and shrill.",
+      "examples": [
+        "the alarm emits an ear-piercing screech"
+      ],
+      "synonyms": [
+        "very great",
+        "huge",
+        "enormous",
+        "immense",
+        "colossal",
+        "massive",
+        "prodigious",
+        "stupendous",
+        "tremendous",
+        "monumental",
+        "mammoth",
+        "vast",
+        "gigantic",
+        "giant",
+        "mighty",
+        "herculean",
+        "epic",
+        "monstrous",
+        "titanic",
+        "towering",
+        "king-sized",
+        "king-size"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The practice of making holes in the lobes or edges of the ears to allow the wearing of earrings.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɪ(ə)rˌpɪ(ə)rsɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ear_piercing_1_us_1.mp3"
+}

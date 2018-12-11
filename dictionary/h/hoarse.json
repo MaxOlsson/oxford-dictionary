@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's voice) sounding rough and harsh, typically as the result of a sore throat or of shouting.",
+      "examples": [
+        "a hoarse whisper",
+        "he shouted himself hoarse"
+      ],
+      "synonyms": [
+        "rough",
+        "harsh",
+        "croaky",
+        "croaking",
+        "throaty",
+        "gruff",
+        "husky",
+        "guttural",
+        "gravelly",
+        "growly",
+        "cracked",
+        "grating",
+        "rasping",
+        "raucous"
+      ]
+    }
+  ],
+  "origin": "Old English hās, of Germanic origin; related to Dutch hees. The spelling with r was influenced in Middle English by an Old Norse cognate.",
+  "pronounciation": "/hɔrs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoarse_us_1.mp3"
+}

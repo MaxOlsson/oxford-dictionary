@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Free from error; in accordance with fact or truth.",
+      "examples": [
+        "make sure you have been given the correct information"
+      ],
+      "synonyms": [
+        "right",
+        "accurate",
+        "true",
+        "veracious",
+        "exact",
+        "precise",
+        "unerring",
+        "faithful",
+        "strict",
+        "faultless",
+        "flawless",
+        "errorless",
+        "error-free",
+        "perfect",
+        "word-perfect",
+        "scrupulous",
+        "meticulous"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put right (an error or fault)",
+      "examples": [
+        "the Council issued a statement correcting some points in the press reports"
+      ],
+      "synonyms": [
+        "rectify",
+        "put right",
+        "set right",
+        "right",
+        "amend",
+        "emend",
+        "remedy",
+        "redress",
+        "cure",
+        "square",
+        "make good",
+        "improve",
+        "better",
+        "ameliorate",
+        "repair",
+        "revise",
+        "alter",
+        "edit",
+        "rewrite",
+        "redraft",
+        "rescript",
+        "reword",
+        "rework"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): from Latin correct- made straight, amended, from the verb corrigere, from cor- together + regere guide. The adjective is via French.",
+  "pronounciation": "/kəˈrɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/correct_us_1.mp3"
+}

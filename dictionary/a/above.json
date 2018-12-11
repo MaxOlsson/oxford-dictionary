@@ -1,0 +1,73 @@
+{
+  "preposition": [
+    {
+      "description": "In extended space over and not touching.",
+      "examples": [
+        "a display of fireworks above the town",
+        "a cable runs above the duct"
+      ]
+    },
+    {
+      "description": "At a higher level or layer than.",
+      "examples": [
+        "bruises above both eyes",
+        "small windows above the aisles"
+      ]
+    },
+    {
+      "description": "Higher than (a specified amount, rate, or norm)",
+      "examples": [
+        "above sea level",
+        "above average",
+        "above freezing",
+        "the unemployment rate will soar above its present level"
+      ],
+      "synonyms": [
+        "greater than",
+        "more than",
+        "higher than",
+        "exceeding",
+        "in excess of",
+        "over",
+        "over and above",
+        "beyond",
+        "surpassing",
+        "upwards of"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At a higher level or layer.",
+      "examples": [
+        "place a quantity of mud in a jar with water above"
+      ],
+      "synonyms": [
+        "overhead",
+        "at the top",
+        "on the top",
+        "at a higher place",
+        "on a higher place",
+        "high up",
+        "on high",
+        "up above",
+        "in the sky",
+        "up in the sky",
+        "high above one's head",
+        "aloft",
+        "in the heavens",
+        "up in the heavens"
+      ]
+    }
+  ],
+  "phrases": [
+    "he was concerned above all to speak the truth",
+    "This was a night that testified to United powers and, above all, to the glory of football in its ideal state.",
+    "But above all else, I must thank my producers at the Big Blog Company. without whom there would be no site.",
+    "We took solace in the fact that, above all else, music was his passion and that we could take his mind off his disease while we played.",
+    "But for me, above all else, it was his Schubert which was truly miraculous."
+  ],
+  "origin": "Old English abufan (as an adverb), from a- on + bufan (from bi by + ufan above).",
+  "pronounciation": "/əˈbəv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/above_us_1.mp3"
+}

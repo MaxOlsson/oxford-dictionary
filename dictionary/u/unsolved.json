@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Not solved.",
+      "examples": [
+        "an unsolved mystery"
+      ],
+      "synonyms": [
+        "undecided",
+        "to be decided",
+        "unresolved",
+        "undetermined",
+        "uncertain",
+        "open",
+        "arguable",
+        "debatable",
+        "disputed",
+        "unanswered",
+        "open to debate",
+        "doubtful",
+        "in doubt",
+        "moot",
+        "up in the air",
+        "in limbo",
+        "in a state of limbo",
+        "in a state of uncertainty",
+        "indefinite",
+        "inconclusive",
+        "unconfirmed",
+        "ongoing",
+        "pending"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsälvd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsolved_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) tending to show feelings, especially of affection, openly.",
+      "examples": [],
+      "synonyms": [
+        "expressive",
+        "open",
+        "forthcoming",
+        "emotional",
+        "communicative",
+        "responsive",
+        "unreserved",
+        "unrestrained",
+        "effusive",
+        "expansive",
+        "gushing",
+        "affectionate",
+        "cuddly",
+        "loving",
+        "warm",
+        "friendly",
+        "approachable"
+      ]
+    },
+    {
+      "description": "Serving as conclusive evidence of something; giving proof.",
+      "examples": [
+        "demonstrative evidence"
+      ],
+      "synonyms": [
+        "indicative",
+        "indicatory",
+        "suggestive",
+        "illustrative",
+        "evincive",
+        "expository"
+      ]
+    },
+    {
+      "description": "(of a determiner or pronoun) indicating the person or thing referred to (e.g. this, that, those).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A demonstrative determiner or pronoun.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the senses serving as conclusive evidence of and making manifest): from Old French demonstratif, -ive, from Latin demonstrativus, from demonstrare point out (see demonstrate).",
+  "pronounciation": "/dəˈmɑnstrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demonstrative_us_1.mp3"
+}

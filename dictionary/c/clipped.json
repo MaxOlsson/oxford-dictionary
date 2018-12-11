@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of speech) having short, sharp vowel sounds and clear pronunciation.",
+      "examples": [
+        "his cold clipped tones"
+      ],
+      "synonyms": [
+        "terse",
+        "brusque",
+        "abrupt",
+        "blunt",
+        "short",
+        "monosyllabic",
+        "summary",
+        "snappy",
+        "snappish",
+        "sharp",
+        "crisp",
+        "tart"
+      ]
+    }
+  ],
+  "pronounciation": "/klɪpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clipped_us_2.mp3"
+}

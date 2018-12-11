@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of a part of the body) affected with pain.",
+      "examples": [
+        "her ankle was very painful"
+      ],
+      "synonyms": [
+        "sore",
+        "hurting",
+        "hurt",
+        "tender",
+        "aching",
+        "throbbing",
+        "smarting",
+        "burning",
+        "irritating",
+        "agonizing",
+        "excruciating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpānfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/painful_us_1.mp3"
+}

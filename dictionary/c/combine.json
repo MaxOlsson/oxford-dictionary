@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Unite; merge.",
+      "examples": [
+        "the band combines a variety of musical influences",
+        "combine the flour with the margarine and salt",
+        "high tides and winds combined to bring chaos to the East Coast"
+      ],
+      "synonyms": [
+        "amalgamate",
+        "merge",
+        "unite",
+        "integrate",
+        "incorporate",
+        "fuse",
+        "blend",
+        "meld",
+        "mingle",
+        "coalesce",
+        "compound",
+        "alloy",
+        "homogenize",
+        "synthesize",
+        "consolidate",
+        "bind",
+        "bond",
+        "join",
+        "marry",
+        "put together",
+        "unify",
+        "pool",
+        "intermingle",
+        "mix",
+        "intermix",
+        "affiliate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A group of people or companies acting together for a commercial purpose.",
+      "examples": [
+        "a powerful industrial combine"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French combiner or late Latin combinare join two by two, from com- together + Latin bini two together.",
+  "pronounciation": "/ˈkɑmˌbaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/combine_us_2.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Action or speech that makes someone annoyed or angry, especially deliberately.",
+      "examples": [
+        "you should remain calm and not respond to provocation",
+        "he burst into tears at the slightest provocation"
+      ],
+      "synonyms": [
+        "goading",
+        "prodding",
+        "egging on",
+        "incitement",
+        "rousing",
+        "stirring",
+        "stimulation",
+        "prompting",
+        "inducement",
+        "encouragement",
+        "urging",
+        "inspiration",
+        "stimulus",
+        "pressure"
+      ]
+    },
+    {
+      "description": "Testing to elicit a particular response or reflex.",
+      "examples": [
+        "twenty patients had a high increase of serum gastrin after provocation with secretin"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin provocatio(n-), from the verb provocare (see provoke).",
+  "pronounciation": "/ˌprɑvəˈkeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/provocation_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to produce children or young.",
+      "examples": [
+        "the disease had made him sterile"
+      ],
+      "synonyms": [
+        "infertile"
+      ]
+    },
+    {
+      "description": "Free from bacteria or other living microorganisms; totally clean.",
+      "examples": [
+        "a sterile needle and syringes"
+      ],
+      "synonyms": [
+        "aseptic",
+        "sterilized",
+        "germ-free",
+        "antiseptic",
+        "disinfected",
+        "uninfected",
+        "uncontaminated",
+        "unpolluted",
+        "pure",
+        "clean"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin sterilis; related to Greek steira barren cow. sterile (sense 2) dates from the late 19th century.",
+  "pronounciation": "/ˈsterəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sterile_us_1.mp3"
+}

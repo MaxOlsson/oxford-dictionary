@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A way of sliding down a steep slope of snow or ice, typically on the feet with the support of an ice ax.",
+      "examples": []
+    },
+    {
+      "description": "A movement, typically used as a joining step, in which one leg is brushed outward from the body, which then takes the weight while the second leg is brushed in to meet it.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Slide down a steep slope of snow or ice with the support of an ice ax.",
+      "examples": [
+        "we wobbled down the line of ascent, glissading when we could"
+      ],
+      "synonyms": [
+        "slide",
+        "slip",
+        "glide"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: French, from glisser to slip, slide.",
+  "pronounciation": "/ɡləˈsɑd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glissade_us_1.mp3"
+}

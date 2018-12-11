@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Amusingly eccentric.",
+      "examples": [
+        "a surreal, madcap novel"
+      ],
+      "synonyms": [
+        "zany",
+        "eccentric",
+        "ridiculous",
+        "unconventional",
+        "weird"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An eccentric person.",
+      "examples": [],
+      "synonyms": [
+        "eccentric",
+        "crank",
+        "madman",
+        "madwoman",
+        "maniac",
+        "lunatic",
+        "psychotic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmædˌkæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/madcap_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
+      "examples": [
+        "they turned with languid movements from back to front so as to tan evenly"
+      ],
+      "synonyms": [
+        "relaxed",
+        "unhurried",
+        "languorous",
+        "unenergetic",
+        "lacking in energy",
+        "slow",
+        "slow-moving"
+      ]
+    },
+    {
+      "description": "Weak or faint from illness or fatigue.",
+      "examples": [
+        "she was pale, languid, and weak, as if she had delivered a child"
+      ],
+      "synonyms": [
+        "sickly",
+        "weak",
+        "faint",
+        "feeble",
+        "frail",
+        "delicate",
+        "debilitated",
+        "flagging",
+        "drooping"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in languid (sense 2)): from French languide or Latin languidus, from languere (see languish).",
+  "pronounciation": "/ˈlaNGɡwəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/languid_us_1.mp3"
+}

@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "(of a bad, difficult, or unwelcome situation or phenomenon) present or experienced to a severe or intense degree.",
+      "examples": [
+        "an acute housing shortage",
+        "the problem is acute and getting worse"
+      ],
+      "synonyms": [
+        "severe",
+        "critical",
+        "drastic",
+        "dire",
+        "dreadful",
+        "terrible",
+        "awful",
+        "grave",
+        "bad",
+        "serious",
+        "profound"
+      ]
+    },
+    {
+      "description": "Having or showing a perceptive understanding or insight; shrewd.",
+      "examples": [
+        "an acute awareness of changing fashions"
+      ],
+      "synonyms": [
+        "astute",
+        "shrewd",
+        "sharp",
+        "sharp-witted",
+        "razor-sharp",
+        "rapier-like",
+        "quick",
+        "quick-witted",
+        "agile",
+        "nimble",
+        "ingenious",
+        "clever",
+        "intelligent",
+        "bright",
+        "brilliant",
+        "smart",
+        "canny",
+        "intuitive",
+        "discerning",
+        "perceptive",
+        "perspicacious",
+        "penetrating",
+        "insightful",
+        "incisive",
+        "piercing",
+        "discriminating",
+        "sagacious",
+        "wise",
+        "judicious"
+      ]
+    },
+    {
+      "description": "(of an angle) less than 90°.",
+      "examples": []
+    },
+    {
+      "description": "(of a sound) high; shrill.",
+      "examples": [],
+      "synonyms": [
+        "high",
+        "high-frequency",
+        "soprano",
+        "treble",
+        "falsetto",
+        "shrill",
+        "sharp",
+        "piping",
+        "piercing",
+        "penetrating"
+      ]
+    }
+  ],
+  "noun": [],
+  "origin": "Late Middle English (describing a disease or its symptoms): from Latin acutus, past participle of acuere sharpen, from acus needle.",
+  "pronounciation": "/əˈkjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acute_us_1.mp3"
+}

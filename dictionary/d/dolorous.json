@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or expressing great sorrow or distress.",
+      "examples": [
+        "a dolorous and repetitive tale of atrocity"
+      ],
+      "synonyms": [
+        "mournful",
+        "woeful",
+        "doleful",
+        "sorrowful",
+        "sad",
+        "unhappy",
+        "depressed",
+        "dismal",
+        "gloomy",
+        "morose",
+        "melancholy",
+        "miserable",
+        "forlorn",
+        "wretched",
+        "woebegone",
+        "despondent",
+        "dejected",
+        "disconsolate",
+        "downcast",
+        "crestfallen",
+        "downhearted",
+        "heartbroken",
+        "heavy-hearted",
+        "despairing",
+        "desolate",
+        "grief-stricken"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French doleros, from late Latin dolorosus, from Latin dolor pain, grief.",
+  "pronounciation": "/ˈdoʊlərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dolorous_us_1.mp3"
+}

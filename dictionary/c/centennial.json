@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a hundredth anniversary.",
+      "examples": [
+        "centennial celebrations"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hundredth anniversary.",
+      "examples": [
+        "the museum's centennial"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A city in north-central Colorado, governed by home rule; population 99,680 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: from Latin centum a hundred, on the pattern of biennial.",
+  "pronounciation": "/sɛnˈtɛniəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/centennial_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a parent who is engaged in the full-time care of their child or children and does not go out to work.",
+      "examples": [
+        "I know lots of working moms and lots of stay-at-home moms",
+        "he was primarily raised by his stay-at-home father"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who prefers to be at home.",
+      "examples": [
+        "her son was a real stay-at-home"
+      ],
+      "synonyms": [
+        "housewifely",
+        "stay-at-home",
+        "home-loving",
+        "homely"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsteɪ ət ˌhoʊm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stay_at_home_1_us_1.mp3"
+}

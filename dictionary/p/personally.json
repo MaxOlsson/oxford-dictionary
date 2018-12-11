@@ -1,0 +1,50 @@
+{
+  "adverb": [
+    {
+      "description": "With the personal presence or action of the individual specified; in person.",
+      "examples": [
+        "she stayed to thank O'Brien personally"
+      ],
+      "synonyms": [
+        "in person",
+        "oneself"
+      ]
+    },
+    {
+      "description": "From someone's personal standpoint or according to their particular nature; in a subjective rather than an objective way.",
+      "examples": [
+        "he had spoken personally and emotionally",
+        "personally, I think he made a very sensible move"
+      ],
+      "synonyms": [
+        "for my part",
+        "for my own part",
+        "for myself",
+        "according to my way of thinking",
+        "to my mind",
+        "in my estimation",
+        "as far as i am concerned",
+        "in my opinion",
+        "in my view",
+        "in my own opinion",
+        "in my own view",
+        "from my own point of view",
+        "from where i stand",
+        "from my standpoint",
+        "as i see it",
+        "if you ask me",
+        "for my money",
+        "in my book"
+      ]
+    }
+  ],
+  "phrases": [
+    "I took it personally when he yelled at the class",
+    "It is a matter of responding, rather than reacting, and not taking things personally.",
+    "Martin has a habit of taking things personally.",
+    "I took the whole thing personally for about a half an hour, and then I decided to set it aside.",
+    "But of course I took it personally, like I always do."
+  ],
+  "pronounciation": "/ˈpərs(ə)nəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/personally_us_1.mp3"
+}

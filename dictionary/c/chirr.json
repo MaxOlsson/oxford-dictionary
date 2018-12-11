@@ -1,0 +1,68 @@
+{
+  "verb": [
+    {
+      "description": "(of an insect) make a prolonged low trilling sound.",
+      "examples": [
+        "grasshoppers were chirring"
+      ],
+      "synonyms": [
+        "trill",
+        "sing",
+        "chirp",
+        "chirrup",
+        "chirr",
+        "cheep",
+        "twitter",
+        "tweet",
+        "whistle",
+        "chatter",
+        "squeak",
+        "pipe",
+        "peep"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A low trilling sound.",
+      "examples": [
+        "the chirr of summer crickets"
+      ],
+      "synonyms": [
+        "trill",
+        "trilling",
+        "song",
+        "birdsong",
+        "cry",
+        "warbling",
+        "chirp",
+        "chirping",
+        "chirrup",
+        "chirruping",
+        "chirr",
+        "chirring",
+        "cheep",
+        "cheeping",
+        "twitter",
+        "twittering",
+        "tweet",
+        "tweeting",
+        "whistle",
+        "whistling",
+        "chatter",
+        "chattering",
+        "squeak",
+        "squeaking",
+        "pipe",
+        "piping",
+        "peep",
+        "peeping",
+        "call",
+        "calling"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: imitative.",
+  "pronounciation": "/CHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chirr_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The part of a vehicle's load, especially an aircraft's, from which revenue is derived; passengers and cargo.",
+      "examples": [],
+      "synonyms": [
+        "cargo",
+        "freight",
+        "freightage",
+        "charge",
+        "burden"
+      ]
+    },
+    {
+      "description": "An explosive warhead carried by a missile.",
+      "examples": []
+    },
+    {
+      "description": "The actual information or message in transmitted data, as opposed to automatically generated metadata.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈpeɪˌloʊd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/payload_us_1.mp3"
+}

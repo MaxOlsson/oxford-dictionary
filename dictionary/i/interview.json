@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A meeting of people face to face, especially for consultation.",
+      "examples": [],
+      "synonyms": [
+        "meeting",
+        "discussion",
+        "conference",
+        "question and answer session",
+        "examination",
+        "evaluation",
+        "interrogation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hold an interview with (someone)",
+      "examples": [
+        "he arrived to be interviewed by a local TV station about the level of unemployment"
+      ],
+      "synonyms": [
+        "talk to",
+        "have a discussion with",
+        "have a dialogue with",
+        "hold a meeting with",
+        "confer with"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (formerly also as enterview): from French entrevue, from s'entrevoir see each other, from voir to see, on the pattern of vue a view.",
+  "pronounciation": "/ˈɪn(t)ərˌvju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interview_us_1.mp3"
+}

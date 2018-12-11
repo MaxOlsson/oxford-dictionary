@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Talk or grumble monotonously.",
+      "examples": [
+        "she chuntered on about her problems"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    },
+    {
+      "description": "Move along slowly and noisily.",
+      "examples": [
+        "the car came chuntering up the track"
+      ],
+      "synonyms": [
+        "talk at length",
+        "ramble",
+        "rattle on",
+        "talk on and on",
+        "carry on talking",
+        "chatter",
+        "prattle",
+        "prate",
+        "gabble",
+        "maunder",
+        "blether",
+        "blather",
+        "twitter"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: probably imitative.",
+  "pronounciation": "/ˈtʃʌntə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chunter_gb_1.mp3"
+}

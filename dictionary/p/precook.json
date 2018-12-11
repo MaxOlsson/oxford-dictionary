@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Cook in advance.",
+      "examples": [
+        "I precooked the potatoes and corn just a bit to cut down on the oven time"
+      ],
+      "synonyms": [
+        "pre-prepared",
+        "ready prepared",
+        "ready mixed",
+        "pre-cooked",
+        "fast",
+        "easy to prepare",
+        "quick to prepare",
+        "easy to make",
+        "quick to make",
+        "microwaveable",
+        "convenience",
+        "tv"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpriˈkʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precook_us_1.mp3"
+}

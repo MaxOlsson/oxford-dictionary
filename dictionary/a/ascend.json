@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Go up or climb.",
+      "examples": [
+        "she ascended the stairs",
+        "new magmas were created and ascended to the surface"
+      ],
+      "synonyms": [
+        "climb",
+        "climb up",
+        "come up",
+        "go up",
+        "move up",
+        "make its way up",
+        "make one's way up",
+        "come upwards",
+        "go upwards",
+        "move upwards",
+        "rise",
+        "rise up",
+        "arise"
+      ]
+    },
+    {
+      "description": "Rise through the air.",
+      "examples": [
+        "we had ascended 3,000 ft"
+      ]
+    }
+  ],
+  "phrases": [
+    "They foretell that the king will ascend the throne!",
+    "Eventually, Gavyn overthrew his sister's rogue government, and ascended the throne together with his Lady Merria.",
+    "He had ascended the throne with the blessing of Russian Emperor Alexander II, but his successor Alexander III felt personal contempt for the Bulgarian prince.",
+    "When the new king ascended the throne, his subjects were confident the fat times had arrived.",
+    "At Stephen's death, Henry ascended the throne as King Henry II."
+  ],
+  "origin": "Late Middle English: from Latin ascendere, from ad- to + scandere to climb.",
+  "pronounciation": "/əˈsɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ascend_us_1.mp3"
+}

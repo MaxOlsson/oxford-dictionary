@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Tempt (a person or animal) to do something or to go somewhere, especially by offering some form of reward.",
+      "examples": [
+        "the child was lured into a car but managed to escape"
+      ],
+      "synonyms": [
+        "tempt",
+        "entice",
+        "attract",
+        "induce",
+        "coax",
+        "persuade",
+        "inveigle",
+        "allure",
+        "seduce",
+        "win over",
+        "cajole",
+        "beguile",
+        "bewitch",
+        "ensnare",
+        "captivate",
+        "enrapture"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something that tempts or is used to tempt a person or animal to do something.",
+      "examples": [
+        "the film industry always has been a glamorous lure for young girls"
+      ],
+      "synonyms": [
+        "temptation",
+        "enticement",
+        "attraction",
+        "pull",
+        "draw",
+        "appeal"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French luere, of Germanic origin; probably related to German Luder bait.",
+  "pronounciation": "/lʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lure_us_1.mp3"
+}

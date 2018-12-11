@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "What is put in, taken in, or operated on by any process or system.",
+      "examples": [
+        "perceptions and sensory input"
+      ]
+    },
+    {
+      "description": "A place where, or a device through which, energy or information enters a system.",
+      "examples": [
+        "the signal being fed through the main input"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put (data) into a computer.",
+      "examples": [],
+      "synonyms": [
+        "feed in",
+        "put in",
+        "load",
+        "insert"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈinˌpo͝ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/input_us_1.mp3"
+}

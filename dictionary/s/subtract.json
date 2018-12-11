@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Take away (a number or amount) from another to calculate the difference.",
+      "examples": [
+        "subtract 43 from 60"
+      ],
+      "synonyms": [
+        "take away",
+        "take from",
+        "take off",
+        "deduct",
+        "debit",
+        "abstract",
+        "discount",
+        "dock",
+        "remove",
+        "withdraw"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin subtract- drawn away, from sub- from below + trahere to draw.",
+  "pronounciation": "/səbˈtrækt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subtract_us_1.mp3"
+}

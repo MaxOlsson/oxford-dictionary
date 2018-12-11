@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Scholarly or rarefied in taste.",
+      "examples": [
+        "innovatory art had a small, mostly highbrow following"
+      ],
+      "synonyms": [
+        "intellectual",
+        "scholarly",
+        "bookish",
+        "cultured",
+        "cultivated",
+        "academic",
+        "educated",
+        "studious",
+        "serious",
+        "donnish",
+        "bluestocking",
+        "well read",
+        "widely read",
+        "well informed",
+        "sophisticated",
+        "erudite",
+        "learned"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A highbrow person.",
+      "examples": [],
+      "synonyms": [
+        "intellectual",
+        "scholar",
+        "academic",
+        "bluestocking",
+        "bookish person",
+        "man of letters",
+        "woman of letters",
+        "don",
+        "thinker",
+        "pedant"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhīˌbrou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/highbrow_us_1.mp3"
+}

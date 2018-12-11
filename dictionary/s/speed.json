@@ -1,0 +1,114 @@
+{
+  "noun": [
+    {
+      "description": "The rate at which someone or something is able to move or operate.",
+      "examples": [
+        "we turned onto the runway and began to gather speed",
+        "an engine running at full speed",
+        "the car has a top speed of 147 mph"
+      ],
+      "synonyms": [
+        "rate",
+        "pace",
+        "tempo",
+        "momentum"
+      ]
+    },
+    {
+      "description": "Each of the possible gear ratios of a bicycle or motor vehicle.",
+      "examples": [],
+      "synonyms": [
+        "gear ratio"
+      ]
+    },
+    {
+      "description": "The light-gathering power or f-number of a camera lens.",
+      "examples": []
+    },
+    {
+      "description": "An amphetamine drug, especially methamphetamine.",
+      "examples": []
+    },
+    {
+      "description": "Success; prosperity.",
+      "examples": [
+        "wish me good speed"
+      ]
+    },
+    {
+      "description": "Something that matches one's tastes or inclinations.",
+      "examples": [
+        "oak tables and chairs are more his speed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move quickly.",
+      "examples": [
+        "I got into the car and home we sped"
+      ],
+      "synonyms": [
+        "hurry",
+        "race",
+        "run",
+        "sprint",
+        "dash",
+        "bolt",
+        "dart",
+        "rush",
+        "hasten",
+        "hurtle",
+        "career",
+        "streak",
+        "shoot",
+        "whizz",
+        "zoom",
+        "go like lightning",
+        "go hell for leather",
+        "spank along",
+        "bowl along",
+        "rattle along",
+        "whirl",
+        "whoosh",
+        "buzz",
+        "swoop",
+        "flash",
+        "blast",
+        "charge",
+        "stampede",
+        "gallop",
+        "sweep",
+        "hare",
+        "fly",
+        "wing",
+        "scurry",
+        "scud",
+        "scutter",
+        "scramble"
+      ]
+    },
+    {
+      "description": "Make prosperous or successful.",
+      "examples": [
+        "may God speed you"
+      ]
+    },
+    {
+      "description": "Take or be under the influence of an amphetamine drug.",
+      "examples": [
+        "more kids than ever are speeding, tripping, and getting stoned"
+      ]
+    }
+  ],
+  "phrases": [
+    "a car flashed past them at speed",
+    "Other eye-witnesses revealed the motorcyclist was driving at speed and overtaking other vehicles in drizzle.",
+    "The driver, who was also wearing a balaclava, drove away at speed.",
+    "The Shannon airport police van approaches at speed, emergency lights flashing.",
+    "A vehicle was heard leaving the lower village at speed, heading up towards the Church, out of Dunmore East."
+  ],
+  "origin": "Old English spēd (noun), spēdan (verb), from the Germanic base of Old English spōwan prosper, succeed, a sense reflected in early usage.",
+  "pronounciation": "/spid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speed_us_1.mp3"
+}

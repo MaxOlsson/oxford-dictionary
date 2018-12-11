@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Identify and remove errors from (computer hardware or software)",
+      "examples": [
+        "games are the worst to debug"
+      ]
+    },
+    {
+      "description": "Detect and remove concealed microphones from (an area).",
+      "examples": []
+    },
+    {
+      "description": "Remove insects from (something), especially with a pesticide.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process of identifying and removing errors from computer hardware or software.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/diˈbəɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/debug_us_1.mp3"
+}

@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Turn off (a selected option) on an electronic interface.",
+      "examples": [
+        "deselect the SAVE CHANGES option for normal use"
+      ]
+    },
+    {
+      "description": "(of a local branch of a political party) reject (an existing MP) as a candidate in a forthcoming election.",
+      "examples": [
+        "the ultimate disloyalty would be to deselect a long-standing MP"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdisəˈlɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deselect_us_1.mp3"
+}

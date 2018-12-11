@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(typically of a young person or that person's behavior) showing or characterized by a tendency to commit crime, particularly minor crime.",
+      "examples": [
+        "delinquent children"
+      ],
+      "synonyms": [
+        "lawless",
+        "lawbreaking",
+        "criminal",
+        "offending"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A delinquent person.",
+      "examples": [
+        "young delinquents"
+      ],
+      "synonyms": [
+        "offender",
+        "wrongdoer",
+        "malefactor",
+        "lawbreaker",
+        "culprit",
+        "criminal"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin delinquent- offending, from the verb delinquere, from de- away + linquere to leave.",
+  "pronounciation": "/dəˈlɪŋkwənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delinquent_us_1.mp3"
+}

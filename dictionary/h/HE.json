@@ -1,0 +1,41 @@
+{
+  "pronoun": [
+    {
+      "description": "Used to refer to a man, boy, or male animal previously mentioned or easily identified.",
+      "examples": [
+        "everyone liked my father—he was the perfect gentleman"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A male; a man.",
+      "examples": [
+        "is that a he or a she?"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element helium.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "High explosive.",
+      "examples": []
+    },
+    {
+      "description": "His Eminence.",
+      "examples": []
+    },
+    {
+      "description": "His or Her Excellency.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English he, hē, of Germanic origin; related to Dutch hij.",
+  "pronounciation": "/ˈˌeɪtʃ ˈi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/he_1_us_1.mp3"
+}

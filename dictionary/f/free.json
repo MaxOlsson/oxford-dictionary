@@ -1,0 +1,151 @@
+{
+  "adjective": [
+    {
+      "description": "Not under the control or in the power of another; able to act or be done as one wishes.",
+      "examples": [
+        "I have no ambitions other than to have a happy life and be free",
+        "a free choice"
+      ]
+    },
+    {
+      "description": "Not or no longer confined or imprisoned.",
+      "examples": [
+        "the researchers set the birds free",
+        "police were forced to let him walk free"
+      ],
+      "synonyms": [
+        "on the loose",
+        "at liberty",
+        "at large"
+      ]
+    },
+    {
+      "description": "Not subject to or constrained by engagements or obligations.",
+      "examples": [
+        "she spent her free time shopping"
+      ],
+      "synonyms": [
+        "unoccupied",
+        "not at work",
+        "not working",
+        "not busy",
+        "not tied up",
+        "between appointments",
+        "off duty",
+        "off work",
+        "off",
+        "on holiday",
+        "on leave"
+      ]
+    },
+    {
+      "description": "Not subject to or affected by (a specified thing, typically an undesirable one)",
+      "examples": [
+        "membership is free of charge"
+      ],
+      "synonyms": [
+        "unencumbered by",
+        "unaffected by",
+        "clear of",
+        "without",
+        "devoid of",
+        "lacking in"
+      ]
+    },
+    {
+      "description": "Given or available without charge.",
+      "examples": [
+        "free health care"
+      ],
+      "synonyms": [
+        "without charge",
+        "free of charge",
+        "for nothing",
+        "complimentary",
+        "gratis",
+        "gratuitous",
+        "at no cost"
+      ]
+    },
+    {
+      "description": "Using or expending something without restraint; lavish.",
+      "examples": [
+        "she was always free with her money"
+      ],
+      "synonyms": [
+        "generous",
+        "lavish",
+        "liberal",
+        "open-handed",
+        "unstinting",
+        "giving",
+        "munificent",
+        "bountiful",
+        "bounteous",
+        "charitable",
+        "extravagant",
+        "prodigal"
+      ]
+    },
+    {
+      "description": "(of a literary style) not observing the strict laws of form.",
+      "examples": []
+    },
+    {
+      "description": "(of the wind) blowing from a favorable direction to the side or stern of a vessel.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Without cost or payment.",
+      "examples": [
+        "ladies were admitted free"
+      ],
+      "synonyms": [
+        "without charge",
+        "free of charge",
+        "for nothing",
+        "complimentary",
+        "gratis",
+        "gratuitous",
+        "at no cost"
+      ]
+    },
+    {
+      "description": "With the sheets eased.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Release from captivity, confinement, or slavery.",
+      "examples": [
+        "they were freed from jail"
+      ],
+      "synonyms": [
+        "release",
+        "liberate",
+        "discharge",
+        "emancipate",
+        "set free",
+        "let go",
+        "set at liberty",
+        "set loose",
+        "let loose",
+        "turn loose",
+        "deliver"
+      ]
+    }
+  ],
+  "phrases": [
+    "these professionals were giving their time for free",
+    "It is installed for free by the company, which then recoups its cost and makes a profit through the charges.",
+    "From the start the festival has proved a popular draw with jazz lovers by offering good music, mostly for free.",
+    "Not only are they given away for free at some clinics, but a subscription for the pill at a chemist costs only pennies.",
+    "Thousands of people will be able to travel on the trams for free until charging begins next week."
+  ],
+  "origin": "Old English frēo (adjective), frēon (verb), of Germanic origin; related to Dutch vrij and German frei, from an Indo-European root meaning to love, shared by friend.",
+  "pronounciation": "/fri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/free_us_1.mp3"
+}

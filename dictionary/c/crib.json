@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A young child's bed with barred or latticed sides.",
+      "examples": [],
+      "synonyms": [
+        "cot",
+        "cradle",
+        "bassinet",
+        "moses basket",
+        "carrycot"
+      ]
+    },
+    {
+      "description": "A translation of a text for use by students, especially in a surreptitious way.",
+      "examples": [
+        "an English crib of Caesar's Gallic Wars"
+      ],
+      "synonyms": [
+        "translation",
+        "key",
+        "guide"
+      ]
+    },
+    {
+      "description": "An apartment or house.",
+      "examples": [],
+      "synonyms": [
+        "house",
+        "flat",
+        "apartment",
+        "penthouse",
+        "cottage",
+        "bungalow"
+      ]
+    },
+    {
+      "description": "A heavy timber framework used in foundations for a building or to line a mine shaft.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Copy (another person's work) illicitly or without acknowledgment.",
+      "examples": [
+        "he was doing an exam and didn't want anybody to crib the answers from him",
+        "he often cribbed from other researchers"
+      ],
+      "synonyms": [
+        "copy",
+        "reproduce",
+        "duplicate",
+        "appropriate",
+        "plagiarize",
+        "poach",
+        "steal",
+        "bootleg"
+      ]
+    },
+    {
+      "description": "Restrain.",
+      "examples": [
+        "he had been so cabined, cribbed, and confined by office"
+      ]
+    }
+  ],
+  "origin": "Old English (in the sense manger), of Germanic origin; related to Dutch krib, kribbe and German Krippe.",
+  "pronounciation": "/krib/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crib_us_1.mp3"
+}

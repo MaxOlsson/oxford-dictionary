@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "Coins collectively.",
+      "examples": [
+        "the volume of coinage in circulation"
+      ],
+      "synonyms": [
+        "coins",
+        "coin of the realm",
+        "change",
+        "loose change",
+        "small change",
+        "silver",
+        "copper",
+        "coppers",
+        "gold"
+      ]
+    },
+    {
+      "description": "The invention of a new word or phrase.",
+      "examples": [],
+      "synonyms": [
+        "innovation",
+        "origination",
+        "creation",
+        "design",
+        "contraption",
+        "contrivance",
+        "construction",
+        "device",
+        "gadget",
+        "apparatus",
+        "machine"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French coigniage, from coignier to mint (see coin).",
+  "pronounciation": "/ˈkoinij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coinage_us_1.mp3"
+}

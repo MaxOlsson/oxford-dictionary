@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "Lack of agreement or harmony.",
+      "examples": [
+        "the disaccord remains in effect"
+      ],
+      "synonyms": [
+        "discord",
+        "disharmony",
+        "disunity",
+        "strife",
+        "conflict",
+        "disagreement",
+        "dissension",
+        "dissent",
+        "opposition",
+        "variance",
+        "clashing",
+        "contention",
+        "dispute",
+        "disputation",
+        "arguing",
+        "argument",
+        "quarrelling",
+        "bickering",
+        "squabbling",
+        "wrangling",
+        "fighting",
+        "feuding",
+        "rivalry"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Disagree; be at variance.",
+      "examples": [
+        "this disaccords with the precise date"
+      ],
+      "synonyms": [
+        "fail to agree",
+        "be in contention",
+        "be in dispute",
+        "be at odds",
+        "be at variance",
+        "not see eye to eye",
+        "differ from",
+        "dissent from",
+        "diverge from"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdisəˈkôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disaccord_us_1.mp3"
+}

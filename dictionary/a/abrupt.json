@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Sudden and unexpected.",
+      "examples": [
+        "I was surprised by the abrupt change of subject",
+        "our round of golf came to an abrupt end on the 13th hole"
+      ],
+      "synonyms": [
+        "sudden",
+        "immediate",
+        "instantaneous",
+        "hurried",
+        "hasty",
+        "quick",
+        "swift",
+        "rapid",
+        "speedy",
+        "precipitate"
+      ]
+    },
+    {
+      "description": "Brief to the point of rudeness; curt.",
+      "examples": [
+        "you were rather abrupt with that young man"
+      ],
+      "synonyms": [
+        "curt",
+        "brusque",
+        "blunt",
+        "short",
+        "sharp",
+        "terse",
+        "brisk",
+        "crisp",
+        "gruff",
+        "snappish",
+        "snappy",
+        "unceremonious",
+        "offhand",
+        "cavalier",
+        "rough",
+        "harsh"
+      ]
+    },
+    {
+      "description": "Steep; precipitous.",
+      "examples": [
+        "the abrupt double peak of the mountain"
+      ],
+      "synonyms": [
+        "steep",
+        "sheer",
+        "precipitous",
+        "bluff",
+        "sharp",
+        "sudden",
+        "acute"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin abruptus broken off, steep, past participle of abrumpere, from ab- away, from + rumpere break.",
+  "pronounciation": "/əˈbrəpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abrupt_us_1.mp3"
+}

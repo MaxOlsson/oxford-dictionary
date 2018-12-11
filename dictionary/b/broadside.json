@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A strongly worded critical attack.",
+      "examples": [
+        "broadsides against political correctness"
+      ],
+      "synonyms": [
+        "criticism",
+        "censure",
+        "denunciation",
+        "harangue",
+        "rant",
+        "polemic",
+        "diatribe",
+        "tirade",
+        "philippic"
+      ]
+    },
+    {
+      "description": "A nearly simultaneous firing of all the guns from one side of a warship.",
+      "examples": [],
+      "synonyms": [
+        "salvo",
+        "volley",
+        "cannonade",
+        "barrage",
+        "blast",
+        "bombardment",
+        "fusillade",
+        "hail of bullets"
+      ]
+    },
+    {
+      "description": "A sheet of paper printed on one side only, forming one large page.",
+      "examples": [
+        "a broadside of Lee's farewell address"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With the side turned to a particular thing.",
+      "examples": [
+        "the yacht was drifting broadside to the wind"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Collide with the side of (a vehicle)",
+      "examples": [
+        "I had to skid my bike sideways to avoid broadsiding her"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrôdˌsīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broadside_us_1.mp3"
+}

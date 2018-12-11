@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Run at a steady gentle pace, especially on a regular basis as a form of physical exercise.",
+      "examples": [
+        "he began to jog along the road",
+        "right now she is jogging two miles a day"
+      ],
+      "synonyms": [
+        "run slowly",
+        "jogtrot",
+        "dogtrot",
+        "trot",
+        "lope"
+      ]
+    },
+    {
+      "description": "Nudge or knock slightly.",
+      "examples": [
+        "a hand jogged his elbow"
+      ],
+      "synonyms": [
+        "nudge",
+        "prod",
+        "poke",
+        "push",
+        "elbow",
+        "tap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spell of jogging.",
+      "examples": [
+        "his morning jog"
+      ],
+      "synonyms": [
+        "sprint",
+        "race",
+        "dash",
+        "gallop",
+        "rush",
+        "spurt"
+      ]
+    },
+    {
+      "description": "A slight push or nudge.",
+      "examples": [],
+      "synonyms": [
+        "poke",
+        "dig in the ribs",
+        "dig",
+        "prod",
+        "jab",
+        "butt",
+        "push"
+      ]
+    }
+  ],
+  "phrases": [
+    "Something laughed outside the door, a poisonous sound that suddenly jogged his memory and mind.",
+    "But if that information gets out, can't that help jog some people's memories in the public and help this investigation?",
+    "Police issued a picture of a similar Subaru Impreza, a WRX model worth about £26,000, in a bid to jog people's memories.",
+    "She then jogged his memory that they had a cat named Jack.",
+    "It jogged my memory and I remembered an article I had read in a Sunday Observer sometime earlier this year, say in March or April."
+  ],
+  "origin": "Late Middle English (in the sense stab, pierce): variant of jag.",
+  "pronounciation": "/jäɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jog_us_1.mp3"
+}

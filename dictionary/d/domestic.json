@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the running of a home or to family relations.",
+      "examples": [
+        "domestic chores",
+        "domestic violence"
+      ],
+      "synonyms": [
+        "family",
+        "home",
+        "private"
+      ]
+    },
+    {
+      "description": "Existing or occurring inside a particular country; not foreign or international.",
+      "examples": [
+        "the current state of US domestic affairs"
+      ],
+      "synonyms": [
+        "national",
+        "state",
+        "home",
+        "local",
+        "internal",
+        "interior",
+        "not foreign",
+        "not international"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is paid to help with menial tasks such as cleaning.",
+      "examples": [],
+      "synonyms": [
+        "servant",
+        "domestic servant",
+        "domestic worker",
+        "domestic help",
+        "hired help",
+        "home help",
+        "daily help",
+        "maid",
+        "housemaid",
+        "maid-of-all-work",
+        "cleaner",
+        "menial",
+        "housekeeper"
+      ]
+    },
+    {
+      "description": "A product not made abroad.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French domestique, from Latin domesticus, from domus house.",
+  "pronounciation": "/dəˈmɛstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/domestic_us_1.mp3"
+}

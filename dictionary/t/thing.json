@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "An object that one need not, cannot, or does not wish to give a specific name to.",
+      "examples": [
+        "look at that metal rail thing over there",
+        "there are lots of things I'd like to buy",
+        "she was wearing this pink thing"
+      ],
+      "synonyms": [
+        "object",
+        "article",
+        "item",
+        "artefact",
+        "commodity"
+      ]
+    },
+    {
+      "description": "An inanimate material object as distinct from a living sentient being.",
+      "examples": [
+        "I'm not a thing, not a work of art to be cherished"
+      ]
+    },
+    {
+      "description": "An action, activity, event, thought, or utterance.",
+      "examples": [
+        "she said the first thing that came into her head",
+        "the only thing I could do well was cook"
+      ],
+      "synonyms": [
+        "activity"
+      ]
+    },
+    {
+      "description": "What is needed or required.",
+      "examples": [
+        "you need a tonic—and here's just the thing"
+      ]
+    },
+    {
+      "description": "One's special interest or concern.",
+      "examples": [
+        "reading isn't my thing"
+      ],
+      "synonyms": [
+        "what one likes",
+        "what interests one"
+      ]
+    },
+    {
+      "description": "Used to introduce or emphasize an important point.",
+      "examples": [
+        "the thing is, I am going to sell this house",
+        "here's the thing: this is a story, not a piece of hard news",
+        "that's the thing about style—no two people are completely alike"
+      ],
+      "synonyms": [
+        "fact of the matter",
+        "fact",
+        "point",
+        "issue",
+        "problem"
+      ]
+    }
+  ],
+  "phrases": [
+    "Of course, just as SAC cannot be all things to all people, the cultural strategy will not please everyone or meet all needs.",
+    "The government can't be all things to all people.",
+    "The Liberals want to be all things to all people.",
+    "Simply put, like the Toronto event, it is expected to be all things to all people.",
+    "And it may require the reallocation of some of our resources, and we're going to have to understand that we can't be all things to all people."
+  ],
+  "origin": "Old English, of Germanic origin; related to German Ding. Early senses included meeting and matter, concern as well as inanimate object.",
+  "pronounciation": "/THiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thing_1_us_1.mp3"
+}

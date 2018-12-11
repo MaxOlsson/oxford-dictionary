@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Remove contaminants from.",
+      "examples": [
+        "the filtration plant is able to purify 70 tons of water a day",
+        "a group of 19th-century German painters who set out to purify art"
+      ],
+      "synonyms": [
+        "clean",
+        "make pure",
+        "refine",
+        "cleanse",
+        "decontaminate"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French purifier, from Latin purificare, from purus pure.",
+  "pronounciation": "/ˈpjʊrəˌfaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purify_us_1.mp3"
+}

@@ -1,0 +1,90 @@
+{
+  "adjective": [
+    {
+      "description": "First in order of importance; main.",
+      "examples": [
+        "the country's principal cities"
+      ],
+      "synonyms": [
+        "main",
+        "chief",
+        "primary",
+        "leading",
+        "foremost",
+        "first",
+        "most important",
+        "predominant",
+        "dominant",
+        "prominent",
+        "most prominent"
+      ]
+    },
+    {
+      "description": "(of money) denoting an original sum invested or lent.",
+      "examples": [
+        "the principal amount of your investment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The person with the highest authority or most important position in an organization, institution, or group.",
+      "examples": [
+        "a design consultancy whose principal is based in San Francisco"
+      ],
+      "synonyms": [
+        "boss",
+        "chief",
+        "chief executive",
+        "chief executive officer",
+        "ceo",
+        "chairman",
+        "chairwoman",
+        "managing director",
+        "md",
+        "president",
+        "director",
+        "manager",
+        "employer",
+        "head",
+        "leader",
+        "ruler",
+        "controller"
+      ]
+    },
+    {
+      "description": "A sum of money lent or invested, on which interest is paid.",
+      "examples": [
+        "the winners are paid from the interest without even touching the principal"
+      ],
+      "synonyms": [
+        "capital sum",
+        "capital",
+        "capital funds",
+        "working capital",
+        "financial resources"
+      ]
+    },
+    {
+      "description": "A person for whom another acts as an agent or representative.",
+      "examples": [
+        "stockbrokers in Tokyo act as agents rather than as principals"
+      ]
+    },
+    {
+      "description": "The person directly responsible for a crime.",
+      "examples": []
+    },
+    {
+      "description": "A main rafter supporting purlins.",
+      "examples": []
+    },
+    {
+      "description": "An organ stop sounding a main register of open flue pipes typically an octave above the diapason.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin principalis first, original, from princeps, princip- first, chief.",
+  "pronounciation": "/ˈprɪnsəpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/principal_us_1.mp3"
+}

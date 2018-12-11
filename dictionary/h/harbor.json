@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A place on the coast where vessels may find shelter, especially one protected from rough water by piers, jetties, and other artificial structures.",
+      "examples": [
+        "the westerly wind kept us in harbor until the following afternoon",
+        "fishing in the harbor"
+      ],
+      "synonyms": [
+        "port",
+        "dock",
+        "haven",
+        "marina",
+        "dockyard",
+        "boatyard",
+        "mooring",
+        "anchorage",
+        "roads",
+        "waterfront"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Keep (a thought or feeling, typically a negative one) in one's mind, especially secretly.",
+      "examples": [
+        "she started to harbor doubts about the wisdom of their journey"
+      ],
+      "synonyms": [
+        "bear",
+        "nurse",
+        "nurture",
+        "cherish",
+        "entertain",
+        "foster",
+        "feel secretly",
+        "hold on to",
+        "cling to",
+        "possess",
+        "maintain",
+        "retain"
+      ]
+    },
+    {
+      "description": "Give a home or shelter to.",
+      "examples": [
+        "woodlands that once harbored a colony of red deer"
+      ]
+    },
+    {
+      "description": "(of a ship or its crew) moor in a harbor.",
+      "examples": [
+        "he might have harbored in San Francisco"
+      ],
+      "synonyms": [
+        "moor",
+        "berth",
+        "harbour",
+        "be at anchor",
+        "tie up"
+      ]
+    }
+  ],
+  "origin": "Late Old English herebeorg shelter, refuge, herebeorgian occupy shelter, of Germanic origin; related to Dutch herberge and German Herberge, also to French auberge inn; see also harbinger.",
+  "pronounciation": "/ˈhärbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harbor_us_1.mp3"
+}

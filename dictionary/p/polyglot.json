@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Knowing or using several languages.",
+      "examples": [
+        "a polyglot career woman"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who knows and is able to use several languages.",
+      "examples": [],
+      "synonyms": [
+        "interpreter",
+        "transcriber",
+        "transliterator",
+        "paraphraser",
+        "decipherer"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French polyglotte, from Greek poluglōttos, from polu- many + glōtta tongue.",
+  "pronounciation": "/ˈpɑliˌɡlɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/polyglot_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The rise and fall of the voice in speaking.",
+      "examples": [
+        "she spoke English with a German intonation"
+      ],
+      "synonyms": [
+        "inflection",
+        "pitch",
+        "tone",
+        "timbre",
+        "cadence",
+        "cadency",
+        "lilt",
+        "rise and fall",
+        "modulation",
+        "speech pattern"
+      ]
+    },
+    {
+      "description": "Accuracy of pitch in playing or singing, or on a stringed instrument such as a guitar.",
+      "examples": [
+        "poor woodwind intonation at the opening"
+      ]
+    },
+    {
+      "description": "The opening phrase of a plainsong melody.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (in intonation (sense 3)): from medieval Latin intonatio(n-), from intonare (see intone).",
+  "pronounciation": "/ˌɪn(t)əˈneɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intonation_us_1.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "verb": [
+    {
+      "description": "Take a brief or hurried look.",
+      "examples": [
+        "Ginny glanced at her watch"
+      ],
+      "synonyms": [
+        "take a quick look",
+        "look quickly",
+        "look briefly",
+        "peek",
+        "peep"
+      ]
+    },
+    {
+      "description": "Hit something at an angle and bounce off obliquely.",
+      "examples": [
+        "the stone glanced off a crag and hit Tom on the head"
+      ],
+      "synonyms": [
+        "ricochet",
+        "rebound",
+        "be deflected"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A brief or hurried look.",
+      "examples": [
+        "I stole a glance at John"
+      ],
+      "synonyms": [
+        "peek",
+        "peep",
+        "brief look",
+        "quick look"
+      ]
+    },
+    {
+      "description": "A flash or gleam of light.",
+      "examples": [
+        "fish … sporting with quick glance, Show to the Sun their wav'd coats"
+      ],
+      "synonyms": [
+        "flash",
+        "gleam",
+        "glitter",
+        "glint",
+        "glimmer",
+        "shimmer",
+        "flicker",
+        "sparkle",
+        "twinkle"
+      ]
+    }
+  ],
+  "phrases": [
+    "she saw at a glance what had happened",
+    "Divide the number of calls by the number of operators, and you could see at a glance how efficiently your centre was operating.",
+    "Yet I want all the stories to be right there, at a glance, preferably with the author's name and a title for the story.",
+    "Even experts can't tell if they are real or fake at a glance.",
+    "Hang them on a pegboard so that you can see at a glance what you have."
+  ],
+  "origin": "Late Middle English: from German Glanz brightness, luster; compare with Dutch glanserts glance ore.",
+  "pronounciation": "/ɡlæns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glance_us_1.mp3"
+}

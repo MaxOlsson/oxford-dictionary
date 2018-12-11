@@ -1,0 +1,44 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is not directly expressed; tacitly.",
+      "examples": [
+        "she implicitly suggested that he was responsible for the error"
+      ],
+      "synonyms": [
+        "completely",
+        "absolutely",
+        "totally",
+        "wholeheartedly",
+        "utterly",
+        "unconditionally",
+        "unreservedly",
+        "without reservation",
+        "without reserve",
+        "without qualification",
+        "one hundred per cent"
+      ]
+    },
+    {
+      "description": "Without qualification: absolutely.",
+      "examples": [
+        "he trusted Sarah implicitly"
+      ],
+      "synonyms": [
+        "completely",
+        "absolutely",
+        "totally",
+        "wholeheartedly",
+        "utterly",
+        "unconditionally",
+        "unreservedly",
+        "without reservation",
+        "without reserve",
+        "without qualification",
+        "one hundred per cent"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪmˈplɪsətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/implicitly_us_1.mp3"
+}

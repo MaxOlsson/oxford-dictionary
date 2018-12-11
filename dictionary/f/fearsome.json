@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Frightening, especially in appearance.",
+      "examples": [
+        "the cat mewed, displaying a fearsome set of teeth"
+      ],
+      "synonyms": [
+        "frightening",
+        "horrifying",
+        "terrifying",
+        "menacing",
+        "chilling",
+        "spine-chilling",
+        "hair-raising",
+        "alarming",
+        "startling",
+        "unnerving",
+        "daunting",
+        "formidable",
+        "forbidding",
+        "dismaying",
+        "mean-looking",
+        "disquieting",
+        "disturbing",
+        "harrowing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfirsəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fearsome_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Of the stomach.",
+      "examples": [
+        "a gastric ulcer",
+        "gastric acid secretion"
+      ],
+      "synonyms": [
+        "stomach",
+        "intestinal",
+        "enteric",
+        "duodenal",
+        "coeliac",
+        "abdominal",
+        "ventral"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin gastricus, from Greek gastēr, gastr- stomach.",
+  "pronounciation": "/ˈɡæstrɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gastric_us_1.mp3"
+}

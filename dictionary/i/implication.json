@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The conclusion that can be drawn from something although it is not explicitly stated.",
+      "examples": [
+        "the implication is that no one person at the bank is responsible"
+      ],
+      "synonyms": [
+        "suggestion",
+        "inference",
+        "insinuation",
+        "innuendo",
+        "hint",
+        "intimation",
+        "imputation",
+        "indication"
+      ]
+    },
+    {
+      "description": "The action or state of being involved in something.",
+      "examples": [
+        "our implication in the problems"
+      ],
+      "synonyms": [
+        "incrimination",
+        "involvement",
+        "connection",
+        "entanglement",
+        "association"
+      ]
+    }
+  ],
+  "phrases": [
+    "he criticized her and, by implication, her country",
+    "No other license is granted to the buyer whether expressly, by implication, by estoppel or otherwise."
+  ],
+  "origin": "Late Middle English (in the sense entwining, being entwined): from Latin implicatio(n-), from the verb implicare (see implicate).",
+  "pronounciation": "/ˌimpləˈkāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/implication_us_1.mp3"
+}

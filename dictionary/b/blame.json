@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Assign responsibility for a fault or wrong.",
+      "examples": [
+        "the inquiry blamed the engineer for the accident"
+      ],
+      "synonyms": [
+        "hold responsible",
+        "hold accountable",
+        "hold liable",
+        "lay the blame on",
+        "place the blame on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Responsibility for a fault or wrong.",
+      "examples": [
+        "his players had to take the blame",
+        "they are trying to put the blame on us"
+      ],
+      "synonyms": [
+        "responsibility",
+        "guilt",
+        "accountability",
+        "liability",
+        "onus",
+        "blameworthiness",
+        "culpability",
+        "fault"
+      ]
+    }
+  ],
+  "phrases": [
+    "he was to blame for their deaths",
+    "She said that there was no one reason for the rise in divorce but a combination of social and economic factors were to blame.",
+    "His father thought rats chewing through electrical wires may have caused a fault which was to blame for the fire.",
+    "An electrical fault is believed to be to blame for the small fire which caused the meltdown.",
+    "Poor equipment, poor training and poor leadership all were to blame there, as well as a logistical snafu that led to fuel contamination."
+  ],
+  "origin": "Middle English: from Old French blamer, blasmer (verb), from a popular Latin variant of ecclesiastical Latin blasphemare reproach, revile, blaspheme, from Greek blasphēmein (see blaspheme).",
+  "pronounciation": "/bleɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blame_us_1.mp3"
+}

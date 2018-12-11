@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.",
+      "examples": [
+        "borrowers can take out a loan for $84,000"
+      ],
+      "synonyms": [
+        "credit",
+        "advance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lend (a sum of money or item of property)",
+      "examples": [
+        "the word processor was loaned to us by the theater",
+        "he knew Rob would not loan him money"
+      ],
+      "synonyms": [
+        "lend",
+        "advance",
+        "give credit",
+        "credit",
+        "allow"
+      ]
+    }
+  ],
+  "phrases": [
+    "the painting is at present on loan to the gallery",
+    "The ship's bell and name boards are now on loan to the island of Alderney for display in the local museum.",
+    "The following works have already gone out or will be going out on loan from the Museum in the months to come.",
+    "The mercurial winger has been the subject of a summer of speculation since being shipped out on loan to Reading in April.",
+    "The watch is on loan to the exhibition from a leading UK collector."
+  ],
+  "origin": "Late Middle English variant of lane.",
+  "pronounciation": "/loʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loan_us_1.mp3"
+}

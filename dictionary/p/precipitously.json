@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "Very steeply.",
+      "examples": [
+        "off the coast, the depth of the sea floor drops precipitously",
+        "a wall collapsed, causing the floors above to slope precipitously"
+      ]
+    },
+    {
+      "description": "Hastily and without careful consideration.",
+      "examples": [
+        "several columnists criticized the government for acting precipitously"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈsɪpədəsli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precipitously_us_1.mp3"
+}

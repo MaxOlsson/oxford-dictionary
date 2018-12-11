@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Plan or invent (a complex procedure, system, or mechanism) by careful thought.",
+      "examples": [
+        "a training program should be devised",
+        "a complicated game of his own devising"
+      ],
+      "synonyms": [
+        "conceive",
+        "think up",
+        "come up with",
+        "dream up",
+        "draw up",
+        "work out",
+        "form",
+        "formulate",
+        "concoct",
+        "design",
+        "frame",
+        "invent",
+        "coin",
+        "originate",
+        "compose",
+        "construct",
+        "fabricate",
+        "create",
+        "produce",
+        "put together",
+        "make up",
+        "develop",
+        "evolve"
+      ]
+    },
+    {
+      "description": "Leave (real estate) to someone by the terms of a will.",
+      "examples": [],
+      "synonyms": [
+        "leave",
+        "leave in one's will",
+        "will",
+        "make over",
+        "pass on",
+        "hand on",
+        "hand down",
+        "cede",
+        "consign",
+        "commit",
+        "entrust",
+        "grant",
+        "transfer",
+        "convey"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A clause in a will leaving something, especially real estate, to someone.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: the verb from Old French deviser, from Latin divis- divided, from the verb dividere (this sense being reflected in the original English sense of the verb); the noun is a variant of device (in the early sense will, desire).",
+  "pronounciation": "/dəˈvaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/devise_us_1.mp3"
+}

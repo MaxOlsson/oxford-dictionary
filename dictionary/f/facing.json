@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A layer of material covering part of a garment and providing contrast, decoration, or strength.",
+      "examples": []
+    },
+    {
+      "description": "An outer layer covering the surface of a wall.",
+      "examples": [],
+      "synonyms": [
+        "cladding",
+        "veneer",
+        "skin",
+        "decorative layer",
+        "protective layer",
+        "surface",
+        "facade",
+        "front",
+        "fronting",
+        "false front",
+        "coating",
+        "covering",
+        "dressing",
+        "overlay",
+        "revetment",
+        "paving",
+        "lamination",
+        "inlay",
+        "plating"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Positioned with the front toward a certain direction; opposite.",
+      "examples": [
+        "two large front-facing windows",
+        "a book with Italian and English lyrics printed on facing pages"
+      ],
+      "synonyms": [
+        "facing",
+        "opposing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfāsiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/facing_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that shows or causes despair.",
+      "examples": [
+        "she sighed hopelessly"
+      ],
+      "synonyms": [
+        "despairingly",
+        "without hope",
+        "in despair",
+        "in anguish",
+        "in distress",
+        "desperately",
+        "dejectedly",
+        "downheartedly",
+        "despondently",
+        "disconsolately",
+        "wretchedly",
+        "miserably",
+        "forlornly",
+        "resignedly",
+        "pessimistically"
+      ]
+    },
+    {
+      "description": "Used to emphasize that a situation is beyond hope of improvement; irredeemably.",
+      "examples": [
+        "before long, he was hopelessly lost",
+        "she is hopelessly in love with him"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhoʊpləsli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hopelessly_us_1.mp3"
+}

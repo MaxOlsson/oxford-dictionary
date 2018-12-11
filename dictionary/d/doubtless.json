@@ -1,0 +1,23 @@
+{
+  "adverb": [
+    {
+      "description": "Used to indicate the speaker's belief that a statement is certain to be true given what is known about the situation.",
+      "examples": [
+        "the company would doubtless find the reduced competition to their liking"
+      ],
+      "synonyms": [
+        "undoubtedly",
+        "indubitably",
+        "doubtlessly",
+        "no doubt",
+        "without doubt",
+        "without a doubt",
+        "beyond doubt",
+        "beyond a doubt",
+        "beyond the shadow of a doubt"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdoutləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doubtless_us_1.mp3"
+}

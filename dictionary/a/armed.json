@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Equipped with or carrying a weapon or weapons.",
+      "examples": [
+        "heavily armed troops",
+        "the security forces are armed with automatic rifles"
+      ],
+      "synonyms": [
+        "fighting",
+        "service",
+        "army",
+        "defence",
+        "warrior",
+        "soldierly",
+        "soldier-like",
+        "martial"
+      ]
+    },
+    {
+      "description": "Having claws, a beak, etc. of a specified tincture.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The Bedford, a NATO battleship armed to the teeth, is on patrol in the North Atlantic when it receives two guests via helicopter.",
+    "Two warriors, armed to the teeth, stand alert, ready to defend the demolition team in case of a raid by bandits.",
+    "Twenty-two men exited the aircraft, all clothed in dark fatigues and all armed to the teeth."
+  ],
+  "pronounciation": "/ɑrmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/armed_us_1.mp3"
+}

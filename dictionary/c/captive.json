@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A person who has been taken prisoner or an animal that has been confined.",
+      "examples": [],
+      "synonyms": [
+        "prisoner",
+        "convict",
+        "detainee",
+        "inmate"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Imprisoned or confined.",
+      "examples": [
+        "the farm was used to hold prisoners of war captive",
+        "a captive animal"
+      ],
+      "synonyms": [
+        "confined",
+        "caged",
+        "incarcerated",
+        "locked up",
+        "penned up"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin captivus, from capere seize, take.",
+  "pronounciation": "/ˈkaptiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/captive_us_1.mp3"
+}

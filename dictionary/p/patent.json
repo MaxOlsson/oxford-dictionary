@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "A government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+      "examples": [
+        "he took out a patent for an improved steam hammer"
+      ],
+      "synonyms": [
+        "copyright",
+        "licence",
+        "legal protection",
+        "right",
+        "performing right",
+        "permit",
+        "privilege",
+        "charter",
+        "franchise",
+        "registered trademark"
+      ]
+    },
+    {
+      "description": "Patent leather.",
+      "examples": [
+        "designs in a wide range of textures featuring super-chic patent, soft suede, or sophisticated nappa",
+        "he wore black trousers and black patent shoes"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Easily recognizable; obvious.",
+      "examples": [
+        "she was smiling with patent insincerity"
+      ],
+      "synonyms": [
+        "obvious",
+        "clear",
+        "plain",
+        "evident",
+        "apparent",
+        "manifest",
+        "self-evident"
+      ]
+    },
+    {
+      "description": "(of a vessel, duct, or aperture) open and unobstructed; failing to close.",
+      "examples": []
+    },
+    {
+      "description": "Made and marketed under a patent; proprietary.",
+      "examples": [
+        "patent milk powder"
+      ],
+      "synonyms": [
+        "proprietary",
+        "patented",
+        "licensed",
+        "protected",
+        "branded",
+        "brand-name",
+        "own-brand",
+        "own-label",
+        "designer-label"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Obtain a patent for (an invention)",
+      "examples": [
+        "an invention is not your own until it is patented"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin patent- lying open, from the verb patere. The noun sense is from letters patent.",
+  "pronounciation": "/ˈpatnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/patent_us_1_rr.mp3"
+}

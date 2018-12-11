@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be detected.",
+      "examples": [],
+      "synonyms": [
+        "unnoticeable",
+        "imperceptible",
+        "invisible",
+        "inaudible",
+        "odorless",
+        "subtle",
+        "faint",
+        "obscure"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndəˈtektəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undetectable_us_1.mp3"
+}

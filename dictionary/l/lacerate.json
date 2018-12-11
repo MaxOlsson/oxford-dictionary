@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Tear or make deep cuts in (flesh or skin)",
+      "examples": [
+        "the point had lacerated his neck"
+      ],
+      "synonyms": [
+        "cut",
+        "cut open",
+        "gash",
+        "slash",
+        "tear",
+        "rip",
+        "rend",
+        "mangle",
+        "mutilate",
+        "maim",
+        "maul",
+        "shred",
+        "score",
+        "scratch",
+        "scrape",
+        "graze",
+        "incise"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin lacerat- mangled, from the verb lacerare, from lacer mangled, torn.",
+  "pronounciation": "/ˈlæsəˌreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lacerate_us_1.mp3"
+}

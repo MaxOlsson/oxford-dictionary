@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) denser or more concentrated.",
+      "examples": [
+        "the limestones of the Jurassic age are condensed into a mere 11 feet"
+      ]
+    },
+    {
+      "description": "Change or cause to change from a gas or vapor to a liquid.",
+      "examples": [
+        "the moisture vapor in the air condenses into droplets of water",
+        "the cold air was condensing his breath"
+      ],
+      "synonyms": [
+        "precipitate",
+        "liquefy",
+        "become liquid",
+        "deliquesce",
+        "liquidize"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French condenser or Latin condensare, from condensus very thick, from con- completely + densus dense.",
+  "pronounciation": "/kənˈdɛns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcondense_us_1.mp3"
+}

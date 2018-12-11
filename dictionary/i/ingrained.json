@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a habit, belief, or attitude) firmly fixed or established; difficult to change.",
+      "examples": [
+        "his deeply ingrained Catholic convictions"
+      ],
+      "synonyms": [
+        "entrenched",
+        "established",
+        "fixed",
+        "implanted",
+        "deep-rooted",
+        "rooted",
+        "deep-seated",
+        "settled",
+        "firm",
+        "unshakeable",
+        "ineradicable",
+        "driven in"
+      ]
+    },
+    {
+      "description": "(of dirt or a stain) deeply embedded and thus difficult to remove.",
+      "examples": [
+        "the ingrained dirt on the flaking paintwork"
+      ],
+      "synonyms": [
+        "ground-in",
+        "fixed",
+        "infixed",
+        "planted",
+        "implanted",
+        "embedded"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈɡrānd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ingrained_us_1.mp3"
+}

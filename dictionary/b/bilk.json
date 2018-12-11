@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Obtain or withhold money from (someone) by deceit or without justification; cheat or defraud.",
+      "examples": [
+        "government waste has bilked the taxpayer of billions of dollars"
+      ],
+      "synonyms": [
+        "swindle",
+        "defraud",
+        "deceive",
+        "trick",
+        "dupe",
+        "hoodwink",
+        "double-cross",
+        "gull"
+      ]
+    },
+    {
+      "description": "Evade; elude.",
+      "examples": [
+        "I ducked into the pantry, bilking Edward for the third time this week"
+      ],
+      "synonyms": [
+        "evade",
+        "avoid",
+        "get away from",
+        "dodge",
+        "flee",
+        "escape",
+        "escape from",
+        "run from",
+        "run away from"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (originally used in cribbage meaning spoil one's opponent's score): perhaps a variant of balk.",
+  "pronounciation": "/bilk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bilk_us_1.mp3"
+}

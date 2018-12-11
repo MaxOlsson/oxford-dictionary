@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Uncalled for; lacking good reason; unwarranted.",
+      "examples": [
+        "gratuitous violence"
+      ],
+      "synonyms": [
+        "unjustified",
+        "without reason",
+        "uncalled for",
+        "unwarranted",
+        "unprovoked",
+        "undue"
+      ]
+    },
+    {
+      "description": "Given or done free of charge.",
+      "examples": [
+        "solicitors provide a form of gratuitous legal advice"
+      ],
+      "synonyms": [
+        "free",
+        "gratis",
+        "complimentary",
+        "voluntary",
+        "volunteer",
+        "unpaid",
+        "unrewarded",
+        "unsalaried",
+        "free of charge",
+        "without charge",
+        "for nothing",
+        "at no cost",
+        "without payment"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin gratuitus given freely, spontaneous + -ous.",
+  "pronounciation": "/ɡrəˈt(y)o͞oədəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gratuitous_us_1.mp3"
+}

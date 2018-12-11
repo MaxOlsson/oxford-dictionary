@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Closely acquainted; familiar, close.",
+      "examples": [
+        "intimate friends",
+        "they are on intimate terms"
+      ],
+      "synonyms": [
+        "close",
+        "bosom",
+        "boon",
+        "dear",
+        "cherished",
+        "familiar",
+        "confidential",
+        "faithful",
+        "constant",
+        "devoted",
+        "fast",
+        "firm",
+        "favourite",
+        "special"
+      ]
+    },
+    {
+      "description": "Private and personal.",
+      "examples": [
+        "intimate details of his sexual encounters",
+        "intimate correspondence"
+      ],
+      "synonyms": [
+        "personal",
+        "private",
+        "confidential",
+        "secret"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A very close friend.",
+      "examples": [
+        "his circle of intimates"
+      ],
+      "synonyms": [
+        "close friend",
+        "best friend",
+        "bosom friend",
+        "constant companion",
+        "alter ego",
+        "confidant",
+        "confidante",
+        "close associate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Imply or hint.",
+      "examples": [
+        "he had already intimated that he might not be able to continue"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: (earlier ( late Middle English) as intimation) from late Latin intimat- made known, from the verb intimare (see intimate).",
+  "pronounciation": "/ˈɪn(t)əˌmeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intimate_us_2.mp3"
+}

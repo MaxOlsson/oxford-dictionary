@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be separated or treated separately.",
+      "examples": [
+        "research and higher education seem inseparable"
+      ],
+      "synonyms": [
+        "indivisible",
+        "indissoluble",
+        "inextricable",
+        "entangled",
+        "ravelled",
+        "mixed up",
+        "impossible to separate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing inseparable from another.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin inseparabilis, from in- not + separabilis (see separable).",
+  "pronounciation": "/ɪnˈsɛp(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inseparable_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "The transfer of a competitor directly to the next round of a competition in the absence of an assigned opponent.",
+      "examples": [
+        "he has a bye into the second round"
+      ],
+      "synonyms": [
+        "goodbye",
+        "farewell"
+      ]
+    },
+    {
+      "description": "One or more holes remaining unplayed after a match has been decided.",
+      "examples": []
+    }
+  ],
+  "exclamation": [
+    {
+      "examples": [
+        "Okay, James. I'll call her now. Bye",
+        "Bye for now, Janie!"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting a side issue or incidental matter): from by.",
+  "pronounciation": "/bī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bye_us_1.mp3"
+}

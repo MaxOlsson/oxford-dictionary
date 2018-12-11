@@ -1,0 +1,143 @@
+{
+  "verb": [
+    {
+      "description": "Have or retain possession of.",
+      "examples": [
+        "my father would keep the best for himself",
+        "she had trouble keeping her balance"
+      ]
+    },
+    {
+      "description": "Continue or cause to continue in a specified condition, position, course, etc.",
+      "examples": [
+        "keep left along the wall",
+        "she might be kept alive artificially by machinery",
+        "she could have had some boyfriend she kept quiet about"
+      ],
+      "synonyms": [
+        "remain",
+        "continue to be",
+        "stay",
+        "carry on being",
+        "go on being",
+        "persist in being",
+        "not cease to be"
+      ]
+    },
+    {
+      "description": "Provide for the sustenance of (someone)",
+      "examples": [
+        "he had to keep his large family in the manner he had chosen"
+      ],
+      "synonyms": [
+        "provide for",
+        "support",
+        "provide food for",
+        "provide sustenance for",
+        "provide board for",
+        "feed",
+        "keep alive",
+        "maintain",
+        "sustain",
+        "subsidize",
+        "finance"
+      ]
+    },
+    {
+      "description": "Honor or fulfill (a commitment or undertaking)",
+      "examples": [
+        "I'll keep my promise, naturally"
+      ],
+      "synonyms": [
+        "comply with",
+        "obey",
+        "respect",
+        "observe",
+        "conform to",
+        "abide by",
+        "stick to",
+        "act in accordance with",
+        "act according to",
+        "have regard to",
+        "heed",
+        "follow",
+        "pay attention to",
+        "defer to",
+        "take notice of"
+      ]
+    },
+    {
+      "description": "Make written entries in (a diary) on a regular basis.",
+      "examples": [
+        "the master kept a weekly journal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Food, clothes, and other essentials for living.",
+      "examples": [
+        "working overtime to earn his keep"
+      ],
+      "synonyms": [
+        "maintenance",
+        "upkeep",
+        "support",
+        "sustenance",
+        "subsistence",
+        "board",
+        "board and lodging",
+        "food",
+        "nourishment",
+        "nurture"
+      ]
+    },
+    {
+      "description": "Charge; control.",
+      "examples": [
+        "if from shepherd's keep a lamb strayed far"
+      ],
+      "synonyms": [
+        "safe keeping",
+        "care",
+        "custody",
+        "charge",
+        "possession",
+        "trust",
+        "protection",
+        "safeguard"
+      ]
+    },
+    {
+      "description": "The strongest or central tower of a castle, acting as a final refuge.",
+      "examples": [],
+      "synonyms": [
+        "fortress",
+        "fort",
+        "stronghold",
+        "tower",
+        "donjon",
+        "castle",
+        "citadel",
+        "bastion",
+        "fortification",
+        "fastness"
+      ]
+    }
+  ],
+  "phrases": [
+    "Well, you can't keep a good man down and he's back, again.",
+    "But you know what they say - you can't keep a good man down.",
+    "He was on the receiving end of three pushes but you can't keep a good man down.",
+    "Like they say, you can't keep a good man down and the cream always rises to the top.",
+    "But you can't keep a good man down: Jack got on that plane and contested the Vegas tournaments with two broken ribs, a punctured lung and a metal plate in his wrist.",
+    "If you were in his last class of the day he'd keep the whole class after.",
+    "Where's Lily? she vaguely heard Christian ask. Natalie sighed. Mrs. Wilcox kept her after.",
+    "And, anyway, if a teacher was gonna keep him after, he'd rather it be Mr. Silurian than anyone else.",
+    "it was the best part of a day's work but I kept at it",
+    "I kept at the mouth-to-mouth resuscitation until I heard the doorbell ring and a policeman came in."
+  ],
+  "origin": "Late Old English cēpan seize, take in, also care for, attend to, of unknown origin.",
+  "pronounciation": "/kēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/keep_us_1.mp3"
+}

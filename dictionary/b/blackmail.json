@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The action, treated as a criminal offense, of demanding money from a person in return for not revealing compromising or injurious information about that person.",
+      "examples": [
+        "they were acquitted of charges of blackmail"
+      ],
+      "synonyms": [
+        "extortion",
+        "demanding money with menaces",
+        "exaction",
+        "intimidation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Demand money from (a person) in return for not revealing compromising or injurious information about that person.",
+      "examples": [
+        "trying to blackmail him for $400,000"
+      ],
+      "synonyms": [
+        "extort money from",
+        "threaten",
+        "hold to ransom",
+        "milk",
+        "bleed"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting protection money levied by Scottish chiefs): from black + obsolete mail tribute, rent, from Old Norse mál speech, agreement.",
+  "pronounciation": "/ˈblækˌmeɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blackmail_us_1.mp3"
+}

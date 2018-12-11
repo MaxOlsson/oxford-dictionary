@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The direction toward the point of the horizon midway between north and east.",
+      "examples": [
+        "I pointed to the northeast"
+      ]
+    },
+    {
+      "description": "The northeastern part of a country, region, or town.",
+      "examples": [
+        "the northeast of Brazil",
+        "people from the predominantly Russian towns in the northeast"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lying toward, near, or facing the northeast.",
+      "examples": []
+    },
+    {
+      "description": "Of or denoting the northeastern part of a specified country, region, or town.",
+      "examples": [
+        "northeast Baltimore"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To or toward the northeast.",
+      "examples": [
+        "the ship sailed northeast",
+        "the northeast-facing slopes"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A region of the US, usually thought to include the six New England states, New Jersey, and the eastern portions of New York State and Pennsylvania.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌnôrTHˈēst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/northeast_1_us_1.mp3"
+}

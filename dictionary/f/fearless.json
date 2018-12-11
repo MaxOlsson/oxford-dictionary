@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking fear.",
+      "examples": [
+        "a fearless defender of freedom"
+      ],
+      "synonyms": [
+        "bold",
+        "brave",
+        "courageous",
+        "intrepid",
+        "valiant",
+        "valorous",
+        "gallant",
+        "plucky",
+        "lionhearted",
+        "stout-hearted",
+        "heroic",
+        "daring",
+        "dynamic",
+        "spirited",
+        "mettlesome",
+        "confident",
+        "audacious",
+        "indomitable",
+        "doughty"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɪrləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fearless_us_1.mp3"
+}

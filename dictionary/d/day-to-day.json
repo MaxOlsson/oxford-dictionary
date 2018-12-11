@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Happening regularly every day.",
+      "examples": [
+        "the day-to-day management of the classroom"
+      ],
+      "synonyms": [
+        "regular",
+        "routine",
+        "habitual",
+        "everyday",
+        "daily",
+        "frequent",
+        "normal",
+        "standard",
+        "usual",
+        "familiar",
+        "typical"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "On a daily basis.",
+      "examples": [
+        "the information to be traded is determined day-to-day"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An ordinary, everyday routine.",
+      "examples": [
+        "they have come to escape the day-to-day"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdādəˈdā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/day_to_day_1_us_2.mp3"
+}

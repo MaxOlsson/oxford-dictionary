@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A dramatic entertainment, originating in Roman mime, in which performers express meaning through gestures accompanied by music.",
+      "examples": [],
+      "synonyms": [
+        "dumb show",
+        "pantomime",
+        "mummery"
+      ]
+    },
+    {
+      "description": "A theatrical entertainment, mainly for children, that involves music, topical jokes, and slapstick comedy and is based on a fairy tale or nursery story, usually produced around Christmas.",
+      "examples": [],
+      "synonyms": [
+        "light entertainment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Express or represent (something) by extravagant and exaggerated mime.",
+      "examples": [
+        "the clown candidates pantomimed different emotions"
+      ],
+      "synonyms": [
+        "act out",
+        "pantomime",
+        "use gestures to indicate",
+        "gesture",
+        "simulate",
+        "represent",
+        "indicate by dumb show",
+        "indicate by sign language"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (first used in the Latin form and denoting an actor using mime): from French pantomime or Latin pantomimus, from Greek pantomimos imitator of all (see panto-, mime).",
+  "pronounciation": "/ˈpæn(t)əˌmaɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pantomime_us_1.mp3"
+}

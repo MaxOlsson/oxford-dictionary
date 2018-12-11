@@ -1,0 +1,52 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express joy or approval.",
+      "examples": [
+        "Hurrah! She's here at last!"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An utterance of the word “hurrah.”.",
+      "examples": [],
+      "synonyms": [
+        "hurrah",
+        "hurray",
+        "whoop",
+        "bravo",
+        "hoot",
+        "shout",
+        "shriek"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shout “hurrah.”.",
+      "examples": [],
+      "synonyms": [
+        "acclaim",
+        "praise",
+        "applaud",
+        "commend",
+        "rave about",
+        "extol",
+        "eulogize",
+        "vaunt",
+        "hymn",
+        "lionize",
+        "express approval of",
+        "express admiration for",
+        "pay tribute to",
+        "speak highly of",
+        "sing the praises of",
+        "make much of"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: alteration of huzzah; perhaps originally a sailors' cry when hauling.",
+  "pronounciation": "/həˈrä/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hurrah_us_2_rr.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "An event or sequence of events of a specified kind or that has previously been referred to.",
+      "examples": [
+        "the board admitted responsibility for the affair",
+        "I wanted the funeral to be a family affair"
+      ],
+      "synonyms": [
+        "event",
+        "incident",
+        "happening",
+        "occurrence",
+        "phenomenon",
+        "eventuality",
+        "episode",
+        "interlude",
+        "circumstance",
+        "set of circumstances",
+        "adventure",
+        "experience",
+        "case",
+        "matter",
+        "business",
+        "thing"
+      ]
+    },
+    {
+      "description": "A love affair.",
+      "examples": [
+        "his wife is having an affair"
+      ],
+      "synonyms": [
+        "relationship",
+        "love affair",
+        "romance",
+        "fling",
+        "flirtation",
+        "dalliance",
+        "liaison",
+        "entanglement",
+        "romantic entanglement",
+        "involvement",
+        "attachment",
+        "affair of the heart",
+        "intrigue"
+      ]
+    },
+    {
+      "description": "An object of a particular type.",
+      "examples": [
+        "her dress was a black low-cut affair"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French afaire, from à faire to do; compare with ado.",
+  "pronounciation": "/əˈfer/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affair_us_1.mp3"
+}

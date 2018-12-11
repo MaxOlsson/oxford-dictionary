@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Producing or capable of producing much noise; easily audible.",
+      "examples": [
+        "they were kept awake by loud music",
+        "she had a loud voice"
+      ],
+      "synonyms": [
+        "noisy",
+        "blaring",
+        "booming",
+        "deafening",
+        "roaring",
+        "thunderous",
+        "thundering",
+        "tumultuous",
+        "clamorous",
+        "blasting",
+        "head-splitting",
+        "ear-splitting",
+        "ear-piercing",
+        "piercing"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a great deal of volume.",
+      "examples": [
+        "they shouted as loud as they could"
+      ]
+    }
+  ],
+  "phrases": [
+    "she laughed out loud",
+    "For the first time in a long while I actually went to see a play billed as a comedy that made me laugh out loud.",
+    "I laughed out loud when I read it, yet at the same time it makes me just a teeny little bit uncomfortable.",
+    "I have to admit I laughed out loud, harder than I have for a long time. It was priceless.",
+    "' I didn't know you wore glasses… ' I mused out loud."
+  ],
+  "origin": "Old English hlūd, of West Germanic origin; related to Dutch luid, German laut, from an Indo-European root meaning hear, shared by Greek kluein hear, klutos famous and Latin cluere be famous.",
+  "pronounciation": "/loud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loud_us_1.mp3"
+}

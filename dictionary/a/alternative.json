@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "(of one or more things) available as another possibility.",
+      "examples": [
+        "the various alternative methods for resolving disputes",
+        "the alternative definition of democracy as popular power"
+      ],
+      "synonyms": [
+        "different",
+        "other",
+        "another",
+        "second",
+        "possible",
+        "substitute",
+        "replacement"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "One of two or more available possibilities.",
+      "examples": [
+        "audiobooks are an interesting alternative to reading",
+        "she had no alternative but to break the law"
+      ],
+      "synonyms": [
+        "option",
+        "choice",
+        "other possibility"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense alternating, alternate): from French alternatif, -ive or medieval Latin alternativus, from Latin alternare interchange (see alternate).",
+  "pronounciation": "/ɔlˈtərnədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alternative_us_2.mp3"
+}

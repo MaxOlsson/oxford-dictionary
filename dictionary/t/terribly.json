@@ -1,0 +1,52 @@
+{
+  "adverb": [
+    {
+      "description": "Very; extremely.",
+      "examples": [
+        "I'm terribly sorry",
+        "it was all terribly frustrating"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "awfully",
+        "dreadfully",
+        "really",
+        "frightfully",
+        "exceptionally",
+        "exceedingly",
+        "immensely",
+        "thoroughly",
+        "uncommonly",
+        "remarkably",
+        "eminently",
+        "extraordinarily",
+        "incredibly",
+        "most",
+        "positively",
+        "decidedly",
+        "downright"
+      ]
+    },
+    {
+      "description": "Very badly or unpleasantly.",
+      "examples": [
+        "they beat me terribly"
+      ],
+      "synonyms": [
+        "very badly",
+        "atrociously",
+        "awfully",
+        "dismally",
+        "dreadfully",
+        "appallingly",
+        "execrably",
+        "poorly",
+        "incompetently",
+        "inexpertly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈterəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terribly_us_1.mp3"
+}

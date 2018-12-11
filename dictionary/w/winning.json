@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "Gaining, resulting in, or relating to victory in a contest or competition.",
+      "examples": [
+        "a winning streak"
+      ],
+      "synonyms": [
+        "victorious",
+        "successful",
+        "triumphant",
+        "vanquishing",
+        "conquering"
+      ]
+    },
+    {
+      "description": "Attractive; endearing.",
+      "examples": [
+        "a winning smile"
+      ],
+      "synonyms": [
+        "engaging",
+        "charming",
+        "appealing",
+        "endearing",
+        "sweet",
+        "cute",
+        "winsome",
+        "attractive",
+        "pretty",
+        "prepossessing",
+        "fetching",
+        "lovely",
+        "adorable",
+        "lovable",
+        "delightful",
+        "disarming",
+        "captivating",
+        "enchanting",
+        "beguiling",
+        "persuasive",
+        "irresistible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Money won, especially by gambling.",
+      "examples": [
+        "he went to collect his winnings"
+      ],
+      "synonyms": [
+        "prize money",
+        "money won",
+        "gains"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwɪnɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/winning_us_3.mp3"
+}

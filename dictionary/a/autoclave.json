@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A strong heated container used for chemical reactions and other processes using high pressures and temperatures, e.g. steam sterilization.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Heat (something) in an autoclave.",
+      "examples": [
+        "this follows recent advice that dental equipment be autoclaved after consultations"
+      ],
+      "synonyms": [
+        "clean",
+        "make pure",
+        "refine",
+        "cleanse",
+        "decontaminate"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from French, from auto- self + Latin clavus nail or clavis key (so named because it is self-fastening).",
+  "pronounciation": "/ˈɔdoʊˌkleɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/autoclave_us_2.mp3"
+}

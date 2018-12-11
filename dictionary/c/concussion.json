@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Temporary unconsciousness caused by a blow to the head. The term is also used loosely of the aftereffects such as confusion or temporary incapacity.",
+      "examples": [],
+      "synonyms": [
+        "temporary unconsciousness",
+        "temporary loss of consciousness",
+        "bang on the head"
+      ]
+    },
+    {
+      "description": "A violent shock as from a heavy blow.",
+      "examples": [
+        "the ground shuddered with the concussion of the blast"
+      ],
+      "synonyms": [
+        "force",
+        "impact",
+        "shock"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin concussio(n-), from the verb concutere dash together, shake (see concuss).",
+  "pronounciation": "/kənˈkəʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcussion_us_1.mp3"
+}

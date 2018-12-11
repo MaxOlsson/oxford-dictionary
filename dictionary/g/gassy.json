@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Of, like, or full of gas.",
+      "examples": [
+        "the carbonated water has a gassy, soda-pop character",
+        "gassy planets like Jupiter"
+      ],
+      "synonyms": [
+        "foaming",
+        "foamy",
+        "bubbling",
+        "bubbly",
+        "fizzy",
+        "sparkling",
+        "effervescent",
+        "carbonated",
+        "aerated"
+      ]
+    },
+    {
+      "description": "(of people or language) inclined to be verbose.",
+      "examples": [
+        "a long and gassy book"
+      ],
+      "synonyms": [
+        "wordy",
+        "loquacious",
+        "garrulous",
+        "talkative",
+        "voluble",
+        "orotund",
+        "expansive",
+        "babbling",
+        "blathering",
+        "prattling",
+        "prating",
+        "jabbering",
+        "gushing",
+        "effusive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡæsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gassy_us_1.mp3"
+}

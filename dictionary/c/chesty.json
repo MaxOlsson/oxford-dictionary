@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(of a woman) having large or prominent breasts.",
+      "examples": [],
+      "synonyms": [
+        "large-breasted",
+        "big-breasted",
+        "full-breasted",
+        "heavy-breasted",
+        "bosomy",
+        "large-bosomed",
+        "big-bosomed",
+        "full-bosomed"
+      ]
+    },
+    {
+      "description": "Conceited and arrogant.",
+      "examples": [],
+      "synonyms": [
+        "vain",
+        "narcissistic",
+        "pleased with oneself",
+        "self-loving",
+        "in love with oneself",
+        "self-admiring",
+        "self-regarding",
+        "self-centred",
+        "egotistic",
+        "egotistical",
+        "egoistic",
+        "egocentric",
+        "egomaniac"
+      ]
+    },
+    {
+      "description": "Having a lot of mucus in the lungs.",
+      "examples": [
+        "a chesty cough"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃɛsti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chesty_us_1.mp3"
+}

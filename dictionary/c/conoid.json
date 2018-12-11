@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Approximately conical in shape.",
+      "examples": [],
+      "synonyms": [
+        "sharp",
+        "spear-like",
+        "needle-like",
+        "spear-shaped",
+        "v-shaped",
+        "tapering",
+        "tapered",
+        "cone-shaped",
+        "conic",
+        "conical",
+        "acute",
+        "sharp-cornered",
+        "wedge-shaped",
+        "sharp-edged",
+        "edged",
+        "jagged",
+        "spiky",
+        "spiked",
+        "barbed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A conoid object.",
+      "examples": [
+        "her hull was a conoid, tapering toward the bow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkōnoid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconoid_us_1.mp3"
+}

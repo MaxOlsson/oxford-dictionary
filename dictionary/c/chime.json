@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A bell or a metal bar or tube, typically one of a set tuned to produce a melodious series of ringing sounds when struck.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a bell or clock) make melodious ringing sounds, typically to indicate the time.",
+      "examples": [
+        "the clock chimed eight"
+      ],
+      "synonyms": [
+        "ring",
+        "peal",
+        "toll",
+        "sound"
+      ]
+    },
+    {
+      "description": "Be in agreement; harmonize.",
+      "examples": [
+        "his poem chimes with our modern experience of loss"
+      ],
+      "synonyms": [
+        "accord",
+        "correspond",
+        "be consistent",
+        "be compatible",
+        "agree",
+        "be in agreement",
+        "be in accordance",
+        "fit in",
+        "be in harmony",
+        "harmonize",
+        "be in tune",
+        "be consonant",
+        "be similar"
+      ]
+    }
+  ],
+  "phrases": [
+    "“Yes, you do that,” Doreen chimed in eagerly",
+    "Tansy chimes in, her big brown eyes sparkling, You'll never have to leave!",
+    "Just thought I'd chime in during the commercial break.",
+    "I normally refrain from chiming in to an editor, but this story piqued my civic conscience.",
+    "The young woman's male counterpart quickly chimed in, interrupting her."
+  ],
+  "origin": "Late Middle English: probably from an Old English word related to Dutch kim and German Kimme. Compare with chine.",
+  "pronounciation": "/tʃaɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chime_us_1.mp3"
+}

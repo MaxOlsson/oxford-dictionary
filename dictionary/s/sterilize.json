@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) free from bacteria or other living microorganisms.",
+      "examples": [
+        "babies' feeding equipment can be cleaned and sterilized"
+      ],
+      "synonyms": [
+        "disinfect",
+        "purify",
+        "fumigate",
+        "decontaminate",
+        "sanitize"
+      ]
+    },
+    {
+      "description": "Deprive (a person or animal) of the ability to produce offspring, typically by removing or blocking the sex organs.",
+      "examples": [],
+      "synonyms": [
+        "vasectomize",
+        "hysterectomize"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstɛrəˌlaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sterilize_us_1.mp3"
+}

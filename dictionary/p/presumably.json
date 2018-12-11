@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "Used to convey that what is asserted is very likely though not known for certain.",
+      "examples": [
+        "the Yakima Indians presumably came from Asia by way of the Bering Strait"
+      ],
+      "synonyms": [
+        "i assume",
+        "i expect",
+        "i believe",
+        "i presume",
+        "i take it",
+        "i suppose",
+        "i imagine",
+        "i dare say",
+        "i would have thought",
+        "it is to be presumed",
+        "i guess",
+        "in all probability",
+        "probably",
+        "in all likelihood",
+        "all things being equal",
+        "all things considered",
+        "as like as not",
+        "as likely as not",
+        "doubtless",
+        "undoubtedly",
+        "no doubt",
+        "without doubt"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈz(y)o͞oməblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/presumably_us_1.mp3"
+}

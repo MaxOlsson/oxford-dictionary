@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A photograph.",
+      "examples": [],
+      "synonyms": [
+        "picture",
+        "shot",
+        "snap",
+        "snapshot",
+        "likeness",
+        "image",
+        "portrait",
+        "study",
+        "print",
+        "slide",
+        "transparency",
+        "negative",
+        "positive",
+        "plate",
+        "film",
+        "bromide",
+        "frame",
+        "exposure",
+        "still",
+        "proof",
+        "enlargement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Take a photograph of.",
+      "examples": [
+        "do we wait till you've had him photoed?"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: abbreviation of photograph. The first recorded use (1860) is by Queen Victoria.",
+  "pronounciation": "/ˈfōdō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/photo_1_us_1_rr.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Recognize the full worth of.",
+      "examples": [
+        "she feels that he does not appreciate her"
+      ],
+      "synonyms": [
+        "value",
+        "respect",
+        "prize",
+        "cherish",
+        "treasure",
+        "admire",
+        "hold in high regard",
+        "hold in esteem",
+        "rate highly",
+        "think highly of",
+        "think much of",
+        "have a high opinion of",
+        "set store by",
+        "set great store by"
+      ]
+    },
+    {
+      "description": "Understand (a situation) fully; recognize the full implications of.",
+      "examples": [
+        "they failed to appreciate the pressure he was under",
+        "I appreciate that you cannot be held totally responsible"
+      ],
+      "synonyms": [
+        "acknowledge",
+        "recognize",
+        "realize",
+        "know"
+      ]
+    },
+    {
+      "description": "Rise in value or price.",
+      "examples": [
+        "they expected the house to appreciate in value"
+      ],
+      "synonyms": [
+        "increase",
+        "gain",
+        "grow",
+        "build up",
+        "rise",
+        "go up",
+        "mount",
+        "inflate",
+        "escalate",
+        "soar",
+        "rocket"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from late Latin appretiat- set at a price, appraised, from the verb appretiare, from ad- to + pretium price.",
+  "pronounciation": "/əˈpriʃiˌeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appreciate_us_1.mp3"
+}

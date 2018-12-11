@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Cause to become dim.",
+      "examples": [
+        "a slight cloud would bedim the sky"
+      ],
+      "synonyms": [
+        "envelop",
+        "surround",
+        "swathe",
+        "enfold",
+        "cover",
+        "cover up",
+        "conceal",
+        "hide",
+        "secrete",
+        "camouflage",
+        "disguise",
+        "mask",
+        "screen",
+        "shield",
+        "cloak",
+        "blanket",
+        "shroud",
+        "enwrap",
+        "canopy",
+        "overlay"
+      ]
+    }
+  ],
+  "pronounciation": "/bəˈdim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bedim_us_1.mp3"
+}

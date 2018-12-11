@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "(in the theater) a person who learns another's role in order to be able to act as a replacement at short notice.",
+      "examples": [],
+      "synonyms": [
+        "stand-in",
+        "substitute",
+        "replacement",
+        "reserve",
+        "fill-in",
+        "locum",
+        "proxy",
+        "backup",
+        "relief",
+        "standby",
+        "supply",
+        "surrogate",
+        "stopgap",
+        "second",
+        "alternative",
+        "ancillary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Learn (a role) or the role played by (an actor)",
+      "examples": [
+        "he had to understudy Prospero"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəndərˌstədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/understudy_us_1.mp3"
+}

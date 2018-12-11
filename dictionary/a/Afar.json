@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "At or to a distance.",
+      "examples": [
+        "for months he had loved her from afar",
+        "our hero traveled afar"
+      ],
+      "synonyms": [
+        "far away",
+        "far off",
+        "afar"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of a people living in Djibouti, Eritrea, and Ethiopia.",
+      "examples": []
+    },
+    {
+      "description": "The Cushitic language of the Afar.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to the Afar or their language.",
+      "examples": []
+    }
+  ],
+  "origin": "From Afar qafar.",
+  "pronounciation": "/ˈäˌfär/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afar_1_us_2.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Cautious and having possible reservations.",
+      "examples": [
+        "he has given a guarded welcome to the idea"
+      ],
+      "synonyms": [
+        "cautious",
+        "careful",
+        "circumspect",
+        "wary",
+        "chary",
+        "reluctant",
+        "non-committal",
+        "reticent",
+        "restrained",
+        "reserved",
+        "controlled",
+        "moderate",
+        "discreet",
+        "unrevealing",
+        "vague",
+        "diplomatic",
+        "prudent",
+        "politic",
+        "tactful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡɑrdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guarded_us_1.mp3"
+}

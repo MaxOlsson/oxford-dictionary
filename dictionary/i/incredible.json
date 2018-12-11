@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Impossible to believe.",
+      "examples": [
+        "an almost incredible tale of triumph and tragedy"
+      ],
+      "synonyms": [
+        "unbelievable",
+        "beyond belief",
+        "hard to believe",
+        "scarcely credible",
+        "unconvincing",
+        "far-fetched",
+        "strained",
+        "laboured",
+        "implausible",
+        "improbable",
+        "highly unlikely",
+        "not in the least likely",
+        "questionable",
+        "dubious",
+        "doubtful",
+        "inconceivable",
+        "unthinkable",
+        "unimaginable",
+        "impossible",
+        "astonishing",
+        "astounding",
+        "breathtaking",
+        "staggering",
+        "absurd",
+        "preposterous",
+        "phenomenal",
+        "extraordinary"
+      ]
+    },
+    {
+      "description": "Difficult to believe; extraordinary.",
+      "examples": [
+        "the noise from the crowd was incredible"
+      ],
+      "synonyms": [
+        "magnificent",
+        "wonderful",
+        "marvellous",
+        "spectacular",
+        "remarkable",
+        "phenomenal",
+        "prodigious",
+        "miraculous",
+        "sublime"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin incredibilis, from in- not + credibilis (see credible).",
+  "pronounciation": "/ɪnˈkrɛdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incredible_us_1.mp3"
+}

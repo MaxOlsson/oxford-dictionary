@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Done or existing alone.",
+      "examples": [
+        "I live a pretty solitary life",
+        "tigers are essentially solitary"
+      ],
+      "synonyms": [
+        "lonely",
+        "companionless",
+        "unaccompanied",
+        "by itself",
+        "by oneself",
+        "on its own",
+        "on one's own",
+        "alone",
+        "all alone",
+        "friendless"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A recluse or hermit.",
+      "examples": [],
+      "synonyms": [
+        "loner",
+        "lone wolf",
+        "introvert",
+        "recluse",
+        "hermit"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin solitarius, from solus alone.",
+  "pronounciation": "/ˈsɑləˌtɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solitary_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "(of rain or snow) falling and being blown by the wind with great force.",
+      "examples": [
+        "driving rain"
+      ],
+      "synonyms": [
+        "assertive",
+        "forceful",
+        "competitive",
+        "insistent",
+        "vigorous",
+        "energetic",
+        "dynamic",
+        "bold",
+        "audacious",
+        "enterprising",
+        "go-ahead",
+        "zealous",
+        "pushing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The control and operation of a motor vehicle.",
+      "examples": [
+        "he was convicted of reckless driving",
+        "a driving course"
+      ],
+      "synonyms": [
+        "expulsion",
+        "ejection",
+        "ousting",
+        "throwing out",
+        "drumming out",
+        "driving out",
+        "banishing",
+        "banishment",
+        "removal",
+        "dislodgement",
+        "displacement",
+        "clearance"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdraɪvɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/driving_us_1.mp3"
+}

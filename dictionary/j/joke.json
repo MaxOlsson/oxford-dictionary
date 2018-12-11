@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A thing that someone says to cause amusement or laughter, especially a story with a funny punchline.",
+      "examples": [
+        "she was in a mood to tell jokes"
+      ],
+      "synonyms": [
+        "funny story",
+        "jest",
+        "witticism",
+        "quip",
+        "pleasantry"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make jokes; talk humorously or flippantly.",
+      "examples": [
+        "she could laugh and joke with her colleagues",
+        "“It's OK, we're not related,” she joked"
+      ],
+      "synonyms": [
+        "tell jokes",
+        "crack jokes"
+      ]
+    }
+  ],
+  "phrases": [
+    "trying to shop with three children in tow is no joke",
+    "Driving round York, particularly at rush hour, is no joke.",
+    "We were really shocked when we found out that it was no joke.",
+    "The parents exchanged glances; this was no joke.",
+    "I was reprimanded as she told me this was no joke."
+  ],
+  "origin": "Late 17th century (originally slang): perhaps from Latin jocus jest, wordplay.",
+  "pronounciation": "/dʒoʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/joke_us_1.mp3"
+}

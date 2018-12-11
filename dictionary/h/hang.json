@@ -1,0 +1,92 @@
+{
+  "verb": [
+    {
+      "description": "Suspend or be suspended from above with the lower part dangling free.",
+      "examples": [
+        "that's where people are supposed to hang their wash",
+        "a chain hanging freely over two pegs"
+      ],
+      "synonyms": [
+        "be suspended",
+        "hang down",
+        "be pendent",
+        "dangle",
+        "swing",
+        "sway"
+      ]
+    },
+    {
+      "description": "Kill (someone) by tying a rope attached from above around the neck and removing the support from beneath (used as a form of capital punishment)",
+      "examples": [
+        "he was hanged for murder",
+        "she hanged herself in her cell"
+      ],
+      "synonyms": [
+        "execute by hanging",
+        "hang by the neck",
+        "send to the gallows",
+        "send to the gibbet",
+        "send to the scaffold",
+        "gibbet",
+        "put to death"
+      ]
+    },
+    {
+      "description": "Remain static in the air.",
+      "examples": [
+        "a haze of smoke hung below the ceiling"
+      ],
+      "synonyms": [
+        "hover",
+        "float",
+        "drift",
+        "linger",
+        "remain static",
+        "be suspended",
+        "be poised"
+      ]
+    },
+    {
+      "description": "Come or cause to come unexpectedly to a state in which no further operations can be carried out.",
+      "examples": []
+    },
+    {
+      "description": "Spend time relaxing or enjoying oneself.",
+      "examples": [
+        "I guess I wasn't cool enough to hang with them anymore",
+        "we'll be walking along just hanging, chilling"
+      ]
+    },
+    {
+      "description": "Deliver (a breaking pitch) that does not change direction as intended.",
+      "examples": []
+    },
+    {
+      "description": "(of a juror) prevent (a jury) from reaching a verdict by a dissenting vote.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A downward droop or bend.",
+      "examples": [
+        "the bullish hang of his head"
+      ]
+    }
+  ],
+  "phrases": [
+    "it's quite simple when you get the hang of it",
+    "This tool is a little tricky to get the hang of, but works well once you know what you are doing.",
+    "I don't know if I've quite got the hang of eating properly.",
+    "This felt a little awkward at first, but I eventually got the hang of it.",
+    "He has learned to double-click, and is getting the hang of drag-and-drop.",
+    "undercover officers spent most of their time hanging around bars",
+    "hang about, you see what it says here?",
+    "he never hangs around with that gang",
+    "there's this guy named Johnnie who I hang round with",
+    "Stephen hung back for fear of being seen"
+  ],
+  "origin": "Old English hangian (intransitive verb), of West Germanic origin, related to Dutch and German hangen, reinforced by the Old Norse transitive verb hanga.",
+  "pronounciation": "/haNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hang_us_1.mp3"
+}

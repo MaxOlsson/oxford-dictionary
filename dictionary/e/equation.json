@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A statement that the values of two mathematical expressions are equal (indicated by the sign =).",
+      "examples": [],
+      "synonyms": [
+        "mathematical problem",
+        "sum",
+        "calculation",
+        "question"
+      ]
+    },
+    {
+      "description": "The process of equating one thing with another.",
+      "examples": [
+        "the equation of science with objectivity"
+      ],
+      "synonyms": [
+        "equating",
+        "equalization",
+        "identification",
+        "association",
+        "connection",
+        "likening",
+        "matching"
+      ]
+    },
+    {
+      "description": "A symbolic representation of the changes which occur in a chemical reaction, expressed in terms of the formulae of the molecules or other species involved.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "His doctoral dissertation was on the theory of the propeller which led to his developing a theory of partial differential equations of the second order.",
+    "He began mathematical research while still an undergraduate and his first paper, On the isoclinal lines of a differential equation of the first order was published in the Proceedings of The Royal Society of Edinburgh in 1903.",
+    "He did this by using an indeterminate equation of the second order, Nx 2 + 1 = y 2, where N is the number whose square root is to be calculated.",
+    "Special attention should be drawn also to his little known pamphlet on regular point of linear differential equations of the second order used for a number of years in connection with one of his courses of lectures.",
+    "This integral was introduced in a paper on differential equations of the second order which he wrote in 1870."
+  ],
+  "origin": "Late Middle English: from Latin aequatio(n-), from aequare make equal (see equate).",
+  "pronounciation": "/əˈkwāZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/equation_us_1.mp3"
+}

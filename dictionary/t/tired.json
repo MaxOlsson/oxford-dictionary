@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "In need of sleep or rest; weary.",
+      "examples": [
+        "Fisher rubbed his tired eyes",
+        "she was tired out now that the strain was over"
+      ],
+      "synonyms": [
+        "worn out",
+        "exhausted",
+        "fatigued",
+        "tired out",
+        "overtired",
+        "weary",
+        "sleepy",
+        "drowsy",
+        "wearied",
+        "sapped",
+        "dog-tired",
+        "spent",
+        "drained",
+        "jet-lagged",
+        "played out",
+        "debilitated",
+        "prostrate",
+        "enervated",
+        "jaded",
+        "low"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtaɪ(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tired_us_1.mp3"
+}

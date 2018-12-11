@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Talk long-windedly without making very much sense.",
+      "examples": [
+        "she began blathering on about spirituality and life after death"
+      ],
+      "synonyms": [
+        "prattle",
+        "babble",
+        "chatter",
+        "twitter",
+        "prate",
+        "gabble",
+        "jabber",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "yap",
+        "jibber-jabber",
+        "patter",
+        "blether",
+        "blither",
+        "maunder",
+        "ramble",
+        "drivel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Long-winded talk with no real substance.",
+      "examples": [],
+      "synonyms": [
+        "prattle",
+        "chatter",
+        "twitter",
+        "babble",
+        "talk",
+        "prating",
+        "gabble",
+        "jabber",
+        "blether",
+        "rambling"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb; originally Scots and northern English dialect): from Old Norse blathra talk nonsense, from blathr nonsense.",
+  "pronounciation": "/ˈblæðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blather_us_1.mp3"
+}

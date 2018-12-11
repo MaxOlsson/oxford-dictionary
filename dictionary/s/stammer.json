@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Speak with sudden involuntary pauses and a tendency to repeat the initial letters of words.",
+      "examples": [],
+      "synonyms": [
+        "stutter",
+        "speak haltingly",
+        "stumble over one's words",
+        "hesitate",
+        "falter",
+        "fumble for words",
+        "pause",
+        "halt",
+        "mumble",
+        "splutter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tendency to stammer.",
+      "examples": [
+        "as a young man, he had a dreadful stammer"
+      ],
+      "synonyms": [
+        "stutter",
+        "speech impediment",
+        "speech defect"
+      ]
+    }
+  ],
+  "origin": "Late Old English stamerian, of West Germanic origin; related to stumble. The noun dates from the late 18th century.",
+  "pronounciation": "/ˈstæmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stammer_us_1.mp3"
+}

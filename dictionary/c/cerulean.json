@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Deep blue in color like a clear sky.",
+      "examples": [
+        "cerulean waters and golden sands"
+      ],
+      "synonyms": [
+        "sky-blue",
+        "azure",
+        "cobalt",
+        "cobalt blue",
+        "sapphire",
+        "navy",
+        "navy blue",
+        "saxe",
+        "saxe blue",
+        "oxford blue",
+        "cambridge blue",
+        "ultramarine",
+        "lapis lazuli",
+        "indigo",
+        "aquamarine",
+        "turquoise",
+        "teal",
+        "teal blue",
+        "cyan",
+        "of the colour of the sky",
+        "of the colour of the sea"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A deep sky-blue color.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from Latin caeruleus sky blue, from caelum sky.",
+  "pronounciation": "/səˈro͞olēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cerulean_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A sudden involuntary muscular contraction or convulsive movement.",
+      "examples": [],
+      "synonyms": [
+        "convulsion",
+        "contraction",
+        "throes",
+        "cramp"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Experience sudden involuntary muscular contractions; twitch convulsively.",
+      "examples": [
+        "my body spasmed violently"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French spasme, or via Latin from Greek spasmos, spasma, from span pull.",
+  "pronounciation": "/ˈspæzəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spasm_us_1.mp3"
+}

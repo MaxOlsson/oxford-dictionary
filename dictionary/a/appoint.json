@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Assign a job or role to (someone)",
+      "examples": [
+        "she has been appointed to the board",
+        "they appointed her as personnel manager",
+        "a delegated engineer will be appointed to oversee each graduate"
+      ],
+      "synonyms": [
+        "nominate",
+        "name",
+        "designate",
+        "install as",
+        "commission",
+        "engage",
+        "adopt",
+        "co-opt"
+      ]
+    },
+    {
+      "description": "Determine or decide on (a time or a place)",
+      "examples": [
+        "they appointed a day in May for the meeting"
+      ],
+      "synonyms": [
+        "specify",
+        "determine",
+        "assign",
+        "designate",
+        "allot",
+        "set",
+        "fix",
+        "arrange",
+        "choose",
+        "decide on",
+        "establish",
+        "settle",
+        "authorize",
+        "ordain",
+        "prescribe",
+        "decree"
+      ]
+    },
+    {
+      "description": "Decide the disposal of (property of which one is not the owner) under powers granted by the owner.",
+      "examples": [
+        "trustees appoint the capital to the beneficiaries"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French apointer, from a point to a point.",
+  "pronounciation": "/əˈpɔɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appoint_us_1.mp3"
+}

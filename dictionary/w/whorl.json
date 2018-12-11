@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A pattern of spirals or concentric circles.",
+      "examples": [
+        "Shelley drew larger and larger dark whorls on her notepad"
+      ],
+      "synonyms": [
+        "loop",
+        "coil",
+        "hoop",
+        "ring",
+        "turn",
+        "curl",
+        "twirl",
+        "twist",
+        "spiral",
+        "helix",
+        "lap",
+        "tier",
+        "lock",
+        "convolution"
+      ]
+    },
+    {
+      "description": "A small wheel or pulley in a spinning wheel, spinning machine, or spindle.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spiral or move in a twisted and convoluted fashion.",
+      "examples": [
+        "the dances are kinetic kaleidoscopes where steps whorl into wildness"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a small flywheel): apparently a variant of whirl, influenced by Old English wharve whorl of a spindle.",
+  "pronounciation": "/(h)wɔrl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whorl_us_3.mp3"
+}

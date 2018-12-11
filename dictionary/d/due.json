@@ -1,0 +1,98 @@
+{
+  "adjective": [
+    {
+      "description": "Expected at or planned for at a certain time.",
+      "examples": [
+        "the baby's due in August",
+        "he is due back soon",
+        "talks are due to adjourn tomorrow"
+      ],
+      "synonyms": [
+        "expected",
+        "required",
+        "awaited",
+        "anticipated",
+        "scheduled for"
+      ]
+    },
+    {
+      "description": "Of the proper quality or extent; adequate.",
+      "examples": [
+        "driving without due care and attention"
+      ],
+      "synonyms": [
+        "proper",
+        "right and proper",
+        "correct",
+        "rightful",
+        "fitting",
+        "suitable",
+        "appropriate",
+        "apt",
+        "adequate",
+        "sufficient",
+        "enough",
+        "ample",
+        "satisfactory",
+        "requisite"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person's right; what is owed to someone.",
+      "examples": [
+        "he attracts more criticism than is his due"
+      ],
+      "synonyms": [
+        "rightful treatment",
+        "fair treatment",
+        "deserved fate",
+        "just punishment"
+      ]
+    },
+    {
+      "description": "An obligatory payment; a fee.",
+      "examples": [
+        "he had paid union dues for years"
+      ],
+      "synonyms": [
+        "fee",
+        "membership fee",
+        "subscription",
+        "charge",
+        "toll",
+        "levy"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "(with reference to a point of the compass) exactly; directly.",
+      "examples": [
+        "we'll head due south again on the same road"
+      ],
+      "synonyms": [
+        "directly",
+        "straight",
+        "exactly",
+        "precisely",
+        "without deviating",
+        "undeviatingly",
+        "dead",
+        "plumb",
+        "squarely"
+      ]
+    }
+  ],
+  "phrases": [
+    "unemployment due to automation will grow steadily",
+    "She also found signs of hypoxic damage to nerve cells due to lack of oxygen before death.",
+    "The delay was due to a lack of scaffolding.",
+    "This could be due to apathy on the part of locals or lack of knowledge that they exist.",
+    "This increase and subsequent decrease are likely due, in part, to changes in freedoms and responsibilities."
+  ],
+  "origin": "Middle English (in the sense payable): from Old French deu owed, based on Latin debitus owed, from debere owe.",
+  "pronounciation": "/d(j)u/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/due_us_1.mp3"
+}

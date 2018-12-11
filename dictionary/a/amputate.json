@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Cut off (a limb) by surgical operation.",
+      "examples": [
+        "surgeons had to amputate her left hand",
+        "the wounded had to have legs or arms amputated"
+      ],
+      "synonyms": [
+        "cut off",
+        "sever",
+        "remove",
+        "remove surgically",
+        "saw off",
+        "chop off",
+        "lop off",
+        "hack off",
+        "dock",
+        "cleave",
+        "hew off",
+        "shear off",
+        "slice off"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin amputat- lopped off, from amputare, from am- (for amb- about) + putare to prune.",
+  "pronounciation": "/ˈampyəˌtāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/amputate_us_1.mp3"
+}

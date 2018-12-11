@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Fast and energetic in a rather wild and uncontrolled way.",
+      "examples": [
+        "a frenetic pace of activity"
+      ],
+      "synonyms": [
+        "frantic",
+        "wild",
+        "frenzied",
+        "hectic",
+        "fraught",
+        "feverish",
+        "fevered",
+        "mad",
+        "manic",
+        "hyperactive",
+        "energetic",
+        "intense",
+        "fast and furious",
+        "turbulent",
+        "tumultuous",
+        "confused",
+        "confusing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense insane): from Old French frenetique, via Latin from Greek phrenitikos, from phrenitis delirium, from phrēn mind. Compare with frantic.",
+  "pronounciation": "/frəˈnedik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frenetic_us_1.mp3"
+}

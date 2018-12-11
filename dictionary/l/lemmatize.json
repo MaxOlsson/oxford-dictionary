@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Sort words by grouping inflected or variant forms of the same word.",
+      "examples": [
+        "we use an automatic analyzer to lemmatize the running words"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlɛməˌtaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lemmatize_us_1.mp3"
+}

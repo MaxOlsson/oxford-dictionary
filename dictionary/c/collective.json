@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Done by people acting as a group.",
+      "examples": [
+        "a collective protest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cooperative enterprise.",
+      "examples": [],
+      "synonyms": [
+        "collective",
+        "cooperative",
+        "co-op",
+        "community",
+        "communal settlement",
+        "kibbutz",
+        "fellowship"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense representing many individuals): from Old French collectif, -ive or Latin collectivus, from collect- gathered together, from the verb colligere (see collect).",
+  "pronounciation": "/kəˈlektiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collective_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The action of inserting something.",
+      "examples": [
+        "the insertion of a line or two into the script"
+      ],
+      "synonyms": [
+        "introduction",
+        "introducing",
+        "putting",
+        "placing",
+        "installing",
+        "fitting",
+        "positioning",
+        "lodging",
+        "sliding"
+      ]
+    },
+    {
+      "description": "An amendment or addition inserted in a text.",
+      "examples": []
+    },
+    {
+      "description": "The manner or place of attachment of an organ.",
+      "examples": [
+        "close to the point of leaf insertion"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in insertion (sense 2)): from late Latin insertio(n-), from Latin inserere (see insert).",
+  "pronounciation": "/ɪnˈsərʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insertion_us_1.mp3"
+}

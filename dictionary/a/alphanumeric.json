@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of or using both letters and numerals.",
+      "examples": [
+        "alphanumeric data",
+        "an alphanumeric keyboard"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A character that is either a letter or a number.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌalfən(y)o͞oˈmerik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alphanumeric_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Done or occurring every hour.",
+      "examples": [
+        "there is an hourly bus service"
+      ]
+    },
+    {
+      "description": "Reckoned hour by hour.",
+      "examples": [
+        "to introduce standard fees instead of hourly rates"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Every hour.",
+      "examples": [
+        "sunscreens should be applied hourly",
+        "a train runs hourly from 7 a.m. to 8 p.m."
+      ]
+    },
+    {
+      "description": "By the hour.",
+      "examples": [
+        "hourly paid workers"
+      ]
+    },
+    {
+      "description": "Frequently; continually.",
+      "examples": [
+        "her curiosity was mounting hourly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊ(ə)rli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hourly_us_1.mp3"
+}

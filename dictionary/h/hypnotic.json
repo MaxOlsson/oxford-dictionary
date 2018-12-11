@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Of, producing, or relating to hypnosis.",
+      "examples": [
+        "a hypnotic state"
+      ]
+    },
+    {
+      "description": "(of a drug) sleep-inducing.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sleep-inducing drug.",
+      "examples": [],
+      "synonyms": [
+        "sedative",
+        "tranquillizer",
+        "calmative",
+        "sleeping pill",
+        "soporific",
+        "opiate",
+        "hypnotic"
+      ]
+    },
+    {
+      "description": "A person under or open to the influence of hypnotism.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from French hypnotique, via late Latin from Greek hupnōtikos causing sleep, from hupnoun put to sleep, from hupnos sleep.",
+  "pronounciation": "/hipˈnädik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hypnotic_us_2.mp3"
+}

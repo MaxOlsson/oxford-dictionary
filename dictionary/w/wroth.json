@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Angry.",
+      "examples": [
+        "Sir Leicester is majestically wroth"
+      ],
+      "synonyms": [
+        "irate",
+        "annoyed",
+        "cross",
+        "vexed",
+        "irritated",
+        "exasperated",
+        "indignant",
+        "aggrieved",
+        "irked",
+        "piqued",
+        "displeased",
+        "provoked",
+        "galled",
+        "resentful"
+      ]
+    }
+  ],
+  "origin": "Old English wrāth, of Germanic origin; related to Dutch wreed cruel, also to writhe.",
+  "pronounciation": "/rɔθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wroth_us_1.mp3"
+}

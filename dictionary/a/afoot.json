@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "In preparation or progress; happening or beginning to happen.",
+      "examples": [
+        "plans are afoot for a festival",
+        "something bizarre was afoot"
+      ],
+      "synonyms": [
+        "going on",
+        "happening",
+        "around",
+        "about",
+        "abroad",
+        "circulating",
+        "current",
+        "stirring",
+        "in circulation",
+        "at large",
+        "going about",
+        "in the air",
+        "in the wind"
+      ]
+    },
+    {
+      "description": "On foot.",
+      "examples": [
+        "they were forced to go afoot"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈfo͝ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afoot_us_1.mp3"
+}

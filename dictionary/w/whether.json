@@ -1,0 +1,22 @@
+{
+  "conjunction": [
+    {
+      "description": "Expressing a doubt or choice between alternatives.",
+      "examples": [
+        "he seemed undecided whether to go or stay",
+        "it is still not clear whether or not he realizes"
+      ],
+      "synonyms": [
+        "whether",
+        "whether or not"
+      ]
+    }
+  ],
+  "phrases": [
+    "the only issue arising would be whether or no the publication was defamatory",
+    "God help us, whether or no!"
+  ],
+  "origin": "Old English hwæther, hwether, of Germanic origin; related to German weder neither.",
+  "pronounciation": "/ˈ(h)wɛðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whether_us_1.mp3"
+}

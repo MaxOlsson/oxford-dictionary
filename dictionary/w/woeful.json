@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by, expressive of, or causing sorrow or misery.",
+      "examples": [
+        "her face was woeful"
+      ],
+      "synonyms": [
+        "sad",
+        "unhappy",
+        "miserable",
+        "woebegone",
+        "doleful",
+        "forlorn",
+        "crestfallen",
+        "glum",
+        "gloomy",
+        "dejected",
+        "downcast",
+        "disconsolate",
+        "downhearted",
+        "despondent",
+        "depressed",
+        "despairing",
+        "dismal",
+        "melancholy",
+        "broken-hearted",
+        "heartbroken",
+        "inconsolable",
+        "grief-stricken"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwoʊfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/woeful_us_2.mp3"
+}

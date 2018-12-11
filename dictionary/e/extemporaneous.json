@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Spoken or done without preparation.",
+      "examples": [
+        "an extemporaneous speech"
+      ],
+      "synonyms": [
+        "extempore",
+        "extemporary",
+        "impromptu",
+        "spontaneous",
+        "unscripted",
+        "ad lib",
+        "on-the-spot"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪkˌstɛmpəˈreɪniəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/extemporaneous_us_1.mp3"
+}

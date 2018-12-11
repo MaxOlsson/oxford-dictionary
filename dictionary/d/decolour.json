@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Remove the colour from.",
+      "examples": [],
+      "synonyms": [
+        "make white",
+        "turn white",
+        "whiten",
+        "make pale",
+        "turn pale",
+        "make pallid",
+        "turn pallid",
+        "blanch",
+        "lighten",
+        "fade",
+        "wash out",
+        "decolorize",
+        "peroxide",
+        "etiolate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French décolorer or Latin decolorare, from de- (expressing removal or reversal) + Latin colorare to colour.",
+  "pronounciation": "/diːˈkʌlə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decolour_gb_1.mp3"
+}

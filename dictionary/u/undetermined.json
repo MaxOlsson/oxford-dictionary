@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Not authoritatively decided or settled.",
+      "examples": [
+        "the acquisition will result in an as yet undetermined number of layoffs"
+      ],
+      "synonyms": [
+        "arguable",
+        "disputable",
+        "questionable",
+        "open to question",
+        "open to debate",
+        "subject to debate",
+        "controversial",
+        "contentious",
+        "doubtful",
+        "open to doubt",
+        "in doubt",
+        "dubious",
+        "uncertain",
+        "unsure",
+        "unclear",
+        "vague",
+        "borderline",
+        "inconclusive",
+        "moot",
+        "unsettled",
+        "unresolved",
+        "unconfirmed",
+        "undecided",
+        "unknown",
+        "up in the air",
+        "not yet established"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndəˈtərmənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undetermined_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the human voice.",
+      "examples": [
+        "nonlinguistic vocal effects like laughs and sobs"
+      ],
+      "synonyms": [
+        "vocalized",
+        "voiced",
+        "spoken",
+        "said",
+        "uttered",
+        "expressed",
+        "articulated",
+        "oral",
+        "by mouth"
+      ]
+    },
+    {
+      "description": "(of music) consisting of or incorporating singing.",
+      "examples": []
+    },
+    {
+      "description": "Expressing opinions or feelings freely or loudly.",
+      "examples": [
+        "he was vocal in condemning the action"
+      ],
+      "synonyms": [
+        "vociferous",
+        "outspoken",
+        "forthright",
+        "plain-spoken",
+        "blunt",
+        "frank",
+        "direct",
+        "candid",
+        "open",
+        "uninhibited"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A part of a piece of music that is sung.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin vocalis, from vox, voc- (see voice). Current senses of the noun date from the 1920s.",
+  "pronounciation": "/ˈvoʊk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vocal_us_1.mp3"
+}

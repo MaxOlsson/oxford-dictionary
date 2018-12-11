@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Below a weight considered normal or desirable.",
+      "examples": [
+        "he was thirty pounds underweight"
+      ],
+      "synonyms": [
+        "slim",
+        "lean",
+        "slender",
+        "rangy",
+        "willowy",
+        "svelte",
+        "sylphlike",
+        "spare",
+        "slight"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply too little weight to (something)",
+      "examples": [
+        "we feared the hot-air balloon had been underweighted",
+        "clinicians tend to overweight parent and underweight child information when deriving diagnoses"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Insufficient weight.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌəndərˈweɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underweight_us_1_rr.mp3"
+}

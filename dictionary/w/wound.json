@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
+      "examples": [],
+      "synonyms": [
+        "injury",
+        "lesion",
+        "cut",
+        "gash",
+        "laceration",
+        "tear",
+        "rent",
+        "puncture",
+        "slash"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Inflict an injury on (someone)",
+      "examples": [
+        "the sergeant was seriously wounded"
+      ],
+      "synonyms": [
+        "injure",
+        "hurt",
+        "damage",
+        "harm",
+        "maim",
+        "mutilate",
+        "disable",
+        "incapacitate",
+        "scar"
+      ]
+    }
+  ],
+  "": [],
+  "origin": "Old English wund (noun), wundian (verb), of Germanic origin; related to Dutch wond and German Wunde, of unknown ultimate origin.",
+  "pronounciation": "/wound/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wound_us_3.mp3"
+}

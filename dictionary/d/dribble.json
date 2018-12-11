@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) fall slowly in drops or a thin stream.",
+      "examples": [
+        "rain dribbled down the window"
+      ],
+      "synonyms": [
+        "trickle",
+        "drip",
+        "fall in drops",
+        "drop",
+        "drizzle"
+      ]
+    },
+    {
+      "description": "(chiefly in soccer, field hockey, and basketball) take (the ball) forward past opponents with slight touches of the feet or the stick, or (in basketball) by continuous bouncing.",
+      "examples": [
+        "he attempted to dribble the ball from the goal area",
+        "he dribbled past a swarm of defenders"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thin stream of liquid; a trickle.",
+      "examples": [
+        "a dribble of blood"
+      ],
+      "synonyms": [
+        "trickle",
+        "drip",
+        "driblet",
+        "small stream",
+        "drizzle"
+      ]
+    },
+    {
+      "description": "(in soccer, hockey, and basketball) an act or instance of taking the ball forward with repeated slight touches or bounces.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: frequentative of obsolete drib, variant of drip. The original sense was shoot an arrow short or wide of its target, which was also a sense of drib.",
+  "pronounciation": "/ˈdrɪbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dribble_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a man) having a stout body; somewhat fat.",
+      "examples": [],
+      "synonyms": [
+        "stout",
+        "plump",
+        "fat",
+        "overweight",
+        "heavy",
+        "corpulent",
+        "fleshy",
+        "paunchy",
+        "pot-bellied",
+        "beer-bellied",
+        "of ample build",
+        "ample",
+        "well upholstered",
+        "well padded",
+        "broad in the beam",
+        "rotund",
+        "roly-poly",
+        "round",
+        "rounded",
+        "stocky",
+        "bulky",
+        "falstaffian"
+      ]
+    },
+    {
+      "description": "Of a stately or dignified appearance and manner.",
+      "examples": [
+        "he was a man of portly presence"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from port in the sense bearing + -ly.",
+  "pronounciation": "/ˈpôrtlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/portly_us_1.mp3"
+}

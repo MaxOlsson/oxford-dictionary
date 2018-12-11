@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Capable of causing death.",
+      "examples": [
+        "death-dealing drugs"
+      ],
+      "synonyms": [
+        "fatal",
+        "deadly",
+        "mortal",
+        "causing death",
+        "life-threatening",
+        "murderous",
+        "homicidal",
+        "killing",
+        "terminal",
+        "final",
+        "incurable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɛθˌdilɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/death_dealing_1_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Closely pursued.",
+      "examples": [
+        "the hard-pressed French infantry"
+      ],
+      "synonyms": [
+        "under attack",
+        "closely pursued",
+        "hotly pursued",
+        "harried",
+        "hounded"
+      ]
+    },
+    {
+      "description": "Burdened with urgent business.",
+      "examples": [
+        "training centers are hard-pressed and insufficient in numbers"
+      ],
+      "synonyms": [
+        "in difficulties",
+        "under pressure",
+        "under stress",
+        "troubled",
+        "beleaguered",
+        "harassed",
+        "with one's back to the wall",
+        "with one's back up against the wall",
+        "in a tight corner",
+        "in a tight spot",
+        "between a rock and a hard place"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhärd ˈˌprest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hard_pressed_1_us_1.mp3"
+}

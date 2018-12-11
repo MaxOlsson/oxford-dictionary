@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Not absolutely necessary.",
+      "examples": [
+        "inessential information"
+      ],
+      "synonyms": [
+        "unnecessary",
+        "not necessary",
+        "not essential",
+        "non-essential",
+        "not needed",
+        "not required",
+        "unwanted",
+        "uncalled-for",
+        "needless",
+        "redundant",
+        "superfluous",
+        "excessive",
+        "excess",
+        "surplus",
+        "dispensable",
+        "expendable",
+        "optional",
+        "ornamental",
+        "cosmetic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is not absolutely necessary.",
+      "examples": [
+        "few people had spare cash for inessentials"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌinəˈsen(t)SH(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inessential_us_1.mp3"
+}

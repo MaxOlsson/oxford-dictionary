@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "Near this place.",
+      "examples": [
+        "there is little natural water hereabouts"
+      ],
+      "synonyms": [
+        "near",
+        "nearby",
+        "around",
+        "about the place",
+        "hereabouts",
+        "not far away",
+        "not far off",
+        "close by",
+        "in the vicinity",
+        "in the neighbourhood",
+        "at hand",
+        "within reach",
+        "on the doorstep",
+        "around the corner",
+        "just around the corner"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɪrəˌbaʊts/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hereabouts_us_1.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Get rid of by throwing away or giving or selling to someone else.",
+      "examples": [
+        "people now have substantial assets to dispose of after their death",
+        "whose responsibility is it to dispose of scrap materials?"
+      ],
+      "synonyms": [
+        "throw away",
+        "throw out",
+        "cast out",
+        "get rid of",
+        "do away with",
+        "discard",
+        "jettison",
+        "abandon",
+        "eject",
+        "unload"
+      ]
+    },
+    {
+      "description": "Bring (someone) into a particular frame of mind.",
+      "examples": [
+        "prolactin is released, disposing you toward sleep",
+        "personalities that dispose them to be uncooperative and egotistic"
+      ],
+      "synonyms": [
+        "incline",
+        "encourage",
+        "persuade",
+        "predispose",
+        "make willing",
+        "make",
+        "move",
+        "prompt",
+        "lead",
+        "induce",
+        "inspire",
+        "tempt",
+        "motivate",
+        "actuate"
+      ]
+    },
+    {
+      "description": "Arrange in a particular position.",
+      "examples": [
+        "the chief disposed his attendants in a circle"
+      ],
+      "synonyms": [
+        "arrange",
+        "order",
+        "place",
+        "put",
+        "position",
+        "orient",
+        "array",
+        "spread out",
+        "range",
+        "set up",
+        "form",
+        "organize",
+        "seat",
+        "stand"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French disposer, from Latin disponere arrange, influenced by dispositus arranged and Old French poser to place.",
+  "pronounciation": "/dəˈspoʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dispose_us_1.mp3"
+}

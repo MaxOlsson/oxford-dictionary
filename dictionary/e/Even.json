@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "A member of an indigenous people of eastern Siberia.",
+      "examples": []
+    },
+    {
+      "description": "The language of the Even, a Tungusic language with about 6,000 speakers, closely related to Evenki.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to the Even or their language.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become even.",
+      "examples": [
+        "she cut the hair again to even up the ends",
+        "thereafter prices evened out"
+      ],
+      "synonyms": [
+        "flatten",
+        "make flat",
+        "make level",
+        "level",
+        "level off",
+        "level out",
+        "smooth",
+        "smooth out",
+        "smooth off",
+        "make flush",
+        "plane",
+        "make uniform",
+        "make regular"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used to emphasize something surprising or extreme.",
+      "examples": [
+        "they have never even heard of the US",
+        "they wore fur hats, even in summer"
+      ],
+      "synonyms": [
+        "surprisingly",
+        "unexpectedly",
+        "paradoxically",
+        "though it may seem strange",
+        "believe it or not",
+        "as it happens"
+      ]
+    }
+  ],
+  "phrases": [
+    "even as he spoke their baggage was being unloaded",
+    "It is a solid part of that India that moves on, even as it falls apart, or lags behind.",
+    "Williamson, even as an outsider, always felt the Edinburgh derby was a major fixture.",
+    "These things combined together to give me a new sense of awkwardness, even as I left the old one behind.",
+    "He thinks through every question I ask, even as he fidgets and flexes constantly in his chair."
+  ],
+  "origin": "Old English ǣfen, of Germanic origin; related to Dutch avont and German Abend.",
+  "pronounciation": "/ˈēvən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/even_us_5.mp3"
+}

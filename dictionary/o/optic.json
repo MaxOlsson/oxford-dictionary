@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the eye or vision.",
+      "examples": [],
+      "synonyms": [
+        "optical",
+        "seeing",
+        "ocular",
+        "eye"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A lens or other optical component in an optical instrument.",
+      "examples": []
+    },
+    {
+      "description": "The eye.",
+      "examples": [],
+      "synonyms": [
+        "organ of sight",
+        "eyeball"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French optique or medieval Latin opticus, from Greek optikos, from optos seen.",
+  "pronounciation": "/ˈäptik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/optic_us_1.mp3"
+}

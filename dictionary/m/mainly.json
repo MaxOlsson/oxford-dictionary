@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "More than anything else.",
+      "examples": [
+        "he is mainly concerned with fiction"
+      ],
+      "synonyms": [
+        "mostly",
+        "for the most part",
+        "in the main",
+        "on the whole",
+        "largely",
+        "by and large",
+        "to a large extent",
+        "to a great degree",
+        "predominantly",
+        "chiefly",
+        "principally"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmānlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mainly_us_1.mp3"
+}

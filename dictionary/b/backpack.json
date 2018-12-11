@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A bag with shoulder straps that allow it to be carried on one's back.",
+      "examples": [],
+      "synonyms": [
+        "suitcase",
+        "case",
+        "valise",
+        "portmanteau",
+        "holdall",
+        "carryall",
+        "grip",
+        "overnight bag",
+        "overnighter",
+        "flight bag",
+        "travelling bag",
+        "gladstone bag",
+        "carpet bag"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel or hike carrying one's belongings in a backpack.",
+      "examples": [
+        "a week's backpacking in the Pyrenees",
+        "he has backpacked around the world"
+      ],
+      "synonyms": [
+        "journey",
+        "tour",
+        "take a trip",
+        "go on a trip",
+        "voyage",
+        "go on an expedition",
+        "go on an excursion",
+        "go sightseeing",
+        "globetrot"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbakˌpak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backpack_us_1.mp3"
+}

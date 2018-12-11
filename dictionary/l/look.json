@@ -1,0 +1,146 @@
+{
+  "verb": [
+    {
+      "description": "Direct one's gaze toward someone or something or in a specified direction.",
+      "examples": [
+        "people were looking at him",
+        "they looked up as he came quietly into the room"
+      ],
+      "synonyms": [
+        "glance",
+        "gaze",
+        "stare",
+        "gape",
+        "peer",
+        "fix one's gaze",
+        "focus"
+      ]
+    },
+    {
+      "description": "Think of or regard in a specified way.",
+      "examples": [
+        "I look at tennis differently from some coaches"
+      ],
+      "synonyms": [
+        "regard",
+        "consider",
+        "think of",
+        "deem",
+        "judge",
+        "count",
+        "see",
+        "view",
+        "take",
+        "reckon",
+        "believe to be"
+      ]
+    },
+    {
+      "description": "Have the appearance or give the impression of being.",
+      "examples": [
+        "the home looked like a prison",
+        "a funny-looking guy",
+        "her father looked unhappy"
+      ],
+      "synonyms": [
+        "seem",
+        "seem to be",
+        "appear",
+        "appear to be",
+        "have the air of being",
+        "have the appearance of being",
+        "give the impression of being",
+        "give every appearance of being",
+        "give every indication of being",
+        "look to be",
+        "present as being",
+        "strike someone as being"
+      ]
+    },
+    {
+      "description": "Rely on to do or provide something.",
+      "examples": [
+        "she will look to you for help"
+      ],
+      "synonyms": [
+        "turn to",
+        "resort to",
+        "have recourse to",
+        "fall back on",
+        "avail oneself of",
+        "make use of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of directing one's gaze in order to see someone or something.",
+      "examples": [
+        "let me get a closer look"
+      ],
+      "synonyms": [
+        "glance",
+        "observation",
+        "view",
+        "examination",
+        "study",
+        "inspection",
+        "scan",
+        "survey",
+        "sight",
+        "peep",
+        "peek",
+        "glimpse",
+        "gaze",
+        "stare",
+        "gape",
+        "ogle"
+      ]
+    },
+    {
+      "description": "The appearance of someone or something, especially as expressing a particular quality.",
+      "examples": [
+        "the bedraggled look of the village"
+      ],
+      "synonyms": [
+        "appearance",
+        "air",
+        "aspect",
+        "bearing",
+        "cast",
+        "manner",
+        "mien",
+        "demeanour",
+        "features",
+        "semblance",
+        "guise",
+        "facade",
+        "impression",
+        "effect"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to call attention to what one is going to say.",
+      "examples": [
+        "“Look, this is ridiculous.”"
+      ]
+    }
+  ],
+  "phrases": [
+    "He admits that for the first time in his life he is looking his age, and that he finds this rather galling.",
+    "He doesn't look his age and says that he feels and has the outlook of a younger man.",
+    "I am blessed with good genes, none of my family look their age.",
+    "For the first time in years she thought he looked his age.",
+    "I'm coming to the conclusion I don't look my age, and I don't act my age.",
+    "women who stay at home to look after children",
+    "There are about 60,000 children and young people who are looked after by local authorities in England.",
+    "As parents, we often spend all our time looking after everyone else in the family and forget about ourselves.",
+    "He had told police colleagues he could not attend because he was looking after a sick relative.",
+    "He works hard all day and then he looks after his children at night."
+  ],
+  "origin": "Old English lōcian (verb), of West Germanic origin; related to German dialect lugen.",
+  "pronounciation": "/lʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/look_us_1.mp3"
+}

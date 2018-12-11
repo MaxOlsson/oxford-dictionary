@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Smelling extremely unpleasant.",
+      "examples": [
+        "the fetid water of the marsh"
+      ],
+      "synonyms": [
+        "stinking",
+        "smelly",
+        "foul-smelling",
+        "evil-smelling",
+        "malodorous",
+        "stinking to high heaven",
+        "reeking",
+        "pungent",
+        "acrid",
+        "high",
+        "rank",
+        "foul",
+        "unpleasant",
+        "nasty",
+        "noxious"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin fetidus (often erroneously spelled foetidus), from fetere to stink. Compare with fetor.",
+  "pronounciation": "/ˈfedid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fetid_us_1.mp3"
+}

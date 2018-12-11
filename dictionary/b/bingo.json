@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A game in which players mark off numbers on cards as the numbers are drawn randomly by a caller, the winner being the first person to mark off five numbers in a row or another required pattern.",
+      "examples": [],
+      "synonyms": [
+        "raffle",
+        "draw",
+        "prize draw",
+        "sweepstake",
+        "sweep",
+        "lotto",
+        "tombola",
+        "drawing of lots",
+        "pools"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express satisfaction or surprise at a sudden positive event or outcome.",
+      "examples": [
+        "bingo, she leapfrogged into a sales trainee position"
+      ]
+    }
+  ],
+  "origin": "1920s (as exclamation): of unknown origin.",
+  "pronounciation": "/ˈbɪŋɡoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bingo_us_1.mp3"
+}

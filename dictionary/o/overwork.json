@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Exhaust with too much work.",
+      "examples": [
+        "tired, overworked, demoralized staff",
+        "executives who are overworked and worried"
+      ],
+      "synonyms": [
+        "exploit",
+        "drive",
+        "drive too hard",
+        "drive into the ground",
+        "tax",
+        "overtax",
+        "sweat",
+        "overburden",
+        "put upon",
+        "impose on",
+        "oppress"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Excessive work.",
+      "examples": [
+        "his health broke down under the strain of overwork"
+      ],
+      "synonyms": [
+        "pressure",
+        "demands",
+        "burdens",
+        "exertions"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈwərk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overwork_us_1_rr.mp3"
+}

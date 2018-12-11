@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Make an emotional appeal.",
+      "examples": [
+        "“Don't go,” she pleaded",
+        "Anne pleaded to go with her",
+        "they pleaded with Carol to come home again"
+      ],
+      "synonyms": [
+        "beg",
+        "entreat",
+        "beseech",
+        "implore",
+        "appeal to",
+        "petition",
+        "supplicate",
+        "importune",
+        "pray to",
+        "request",
+        "ask earnestly",
+        "call on",
+        "adjure"
+      ]
+    },
+    {
+      "description": "Present and argue for (a position), especially in court or in another public context.",
+      "examples": [
+        "using cheap melodrama to plead the case for three prisoners"
+      ],
+      "synonyms": [
+        "claim",
+        "use as an excuse",
+        "assert",
+        "allege"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense to wrangle): from Old French plaidier go to law, from plaid discussion (see plea).",
+  "pronounciation": "/plid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plead_us_1.mp3"
+}

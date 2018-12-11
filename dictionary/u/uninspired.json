@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking in imagination or originality.",
+      "examples": [
+        "he writes repetitive and uninspired poetry"
+      ],
+      "synonyms": [
+        "unimaginative",
+        "uninventive",
+        "pedestrian",
+        "mundane",
+        "unoriginal",
+        "prosaic",
+        "commonplace",
+        "ordinary",
+        "routine",
+        "second-rate",
+        "undistinguished",
+        "unexceptional",
+        "indifferent",
+        "humdrum",
+        "matter-of-fact",
+        "run of the mill",
+        "workaday",
+        "everyday",
+        "quotidian",
+        "vanilla",
+        "plain vanilla"
+      ]
+    },
+    {
+      "description": "(of a person) not filled with excitement.",
+      "examples": [
+        "they were uninspired by the Nationalist Party"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənənˈspaɪ(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uninspired_us_1.mp3"
+}

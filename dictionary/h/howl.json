@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A long, loud, doleful cry uttered by an animal such as a dog or wolf.",
+      "examples": [],
+      "synonyms": [
+        "baying",
+        "bay",
+        "howling",
+        "crying",
+        "cry",
+        "yowl",
+        "yowling",
+        "bark",
+        "barking",
+        "yelp",
+        "yelping"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a howling sound.",
+      "examples": [
+        "he howled in agony",
+        "the wind howled around the house"
+      ],
+      "synonyms": [
+        "bay",
+        "cry",
+        "yowl",
+        "bark",
+        "yelp"
+      ]
+    }
+  ],
+  "origin": "Middle English houle (verb), probably imitative.",
+  "pronounciation": "/houl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/howl_us_1.mp3"
+}

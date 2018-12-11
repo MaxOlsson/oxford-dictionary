@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+      "examples": [],
+      "synonyms": [
+        "medical institution",
+        "medical centre",
+        "health centre",
+        "clinic",
+        "infirmary",
+        "sanatorium",
+        "nursing home",
+        "convalescent home",
+        "hospice"
+      ]
+    },
+    {
+      "description": "A hospice, especially one run by the Knights Hospitaller.",
+      "examples": []
+    },
+    {
+      "description": "A charitable institution for the education of the young.",
+      "examples": [
+        "Christ's Hospital"
+      ]
+    }
+  ],
+  "origin": "Middle English (in hospital (sense 2)): via Old French from medieval Latin hospitale, neuter of Latin hospitalis hospitable, from hospes, hospit- (see host).",
+  "pronounciation": "/ˈhɑˌspɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hospital_us_1.mp3"
+}

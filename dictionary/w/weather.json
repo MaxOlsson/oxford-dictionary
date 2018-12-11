@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+      "examples": [
+        "if the weather's good we can go for a walk"
+      ],
+      "synonyms": [
+        "meteorological conditions",
+        "atmospheric conditions",
+        "meteorology",
+        "climate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wear away or change the appearance or texture of (something) by long exposure to the air.",
+      "examples": [
+        "his skin was weathered almost black by his long outdoor life"
+      ],
+      "synonyms": [
+        "weather-beaten",
+        "eroded",
+        "worn",
+        "disintegrating",
+        "crumbling"
+      ]
+    },
+    {
+      "description": "Come safely through (a storm).",
+      "examples": []
+    },
+    {
+      "description": "Make (boards or tiles) overlap downward to keep out rain.",
+      "examples": []
+    },
+    {
+      "description": "Allow (a hawk) to spend a period perched on a block in the open air.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The legislation sets strict rules on how such data may be used and displayed, levying fines for serious breaches, so it's worth keeping a weather eye on dataprotection.gov.uk to stay within the law.",
+    "It is important that we do keep a weather eye on the horizon, watching for any significant indications that cyber terror actually will appear.",
+    "It's hardly surprising that Federal Reserve policymakers now keep a weather eye on the stock market.",
+    "It is right to keep a weather eye on the progress of avian flu, and to expect a properly prepared government to be stockpiling vaccines, quarantining infected areas and keeping us informed.",
+    "This list of deadlines for the year should help you keep a weather eye on the best deals, sound alarm bells when the moment is right to dump failing investments and avoid being hit by late-payment penalties."
+  ],
+  "origin": "Old English weder, of Germanic origin; related to Dutch weer and German Wetter, probably also to the noun wind.",
+  "pronounciation": "/ˈwɛðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weather_us_1.mp3"
+}

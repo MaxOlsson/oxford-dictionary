@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "Soft fibers from fabrics such as wool or cotton which accumulate in small light clumps.",
+      "examples": [
+        "he brushed his sleeve to remove the fluff"
+      ],
+      "synonyms": [
+        "fuzz",
+        "lint",
+        "dust"
+      ]
+    },
+    {
+      "description": "Entertainment or writing perceived as trivial or superficial.",
+      "examples": [
+        "the movie is a piece of typical Hollywood fluff"
+      ]
+    },
+    {
+      "description": "A mistake made in speaking or playing music, or by an actor in delivering lines.",
+      "examples": [],
+      "synonyms": [
+        "mistake",
+        "error",
+        "gaffe",
+        "blunder",
+        "fault",
+        "slip",
+        "slip of the tongue",
+        "solecism",
+        "indiscretion",
+        "oversight",
+        "inaccuracy",
+        "botch"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) appear fuller and softer by shaking or brushing it.",
+      "examples": [
+        "I fluffed up the pillows"
+      ]
+    },
+    {
+      "description": "Fail to perform or accomplish (something) successfully or well (used especially in a sporting or acting context)",
+      "examples": [
+        "the extra fluffed his only line"
+      ],
+      "synonyms": [
+        "bungle",
+        "deliver badly",
+        "muddle up",
+        "make a mess of"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: probably a dialect alteration of 16th-century flue down, nap, fluff, apparently from Flemish vluwe.",
+  "pronounciation": "/fləf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fluff_us_1.mp3"
+}

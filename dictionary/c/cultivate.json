@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Prepare and use (land) for crops or gardening.",
+      "examples": [],
+      "synonyms": [
+        "till",
+        "plough",
+        "dig",
+        "turn",
+        "hoe"
+      ]
+    },
+    {
+      "description": "Try to acquire or develop (a quality, sentiment, or skill)",
+      "examples": [
+        "he cultivated an air of indifference"
+      ],
+      "synonyms": [
+        "try to acquire",
+        "pursue",
+        "court"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin cultivat- prepared for crops, from the verb cultivare, from cultiva (terra) arable (land), from colere cultivate, inhabit.",
+  "pronounciation": "/ˈkəltəˌvāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cultivate_us_1.mp3"
+}

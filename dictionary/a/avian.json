@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to birds.",
+      "examples": [
+        "avian tuberculosis"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bird.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century: from Latin avis bird + -an.",
+  "pronounciation": "/ˈāvēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/avian_us_1.mp3"
+}

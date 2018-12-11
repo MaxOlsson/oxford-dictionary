@@ -1,0 +1,46 @@
+{
+  "adverb": [
+    {
+      "description": "Virtually; almost.",
+      "examples": [
+        "the place was practically empty",
+        "the risk of default was practically zero"
+      ],
+      "synonyms": [
+        "almost",
+        "nearly",
+        "very nearly",
+        "virtually",
+        "just about",
+        "all but",
+        "more or less",
+        "not far from",
+        "close to",
+        "in effect",
+        "as good as",
+        "to all intents and purposes",
+        "approaching",
+        "verging on",
+        "bordering on",
+        "next to",
+        "essentially",
+        "basically"
+      ]
+    },
+    {
+      "description": "In a practical manner.",
+      "examples": [],
+      "synonyms": [
+        "realistically",
+        "sensibly",
+        "reasonably",
+        "pragmatically",
+        "matter-of-factly",
+        "rationally",
+        "with common sense"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpraktək(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/practically_us_1.mp3"
+}

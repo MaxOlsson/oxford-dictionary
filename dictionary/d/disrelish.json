@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of dislike or distaste.",
+      "examples": [
+        "disrelish for any pursuit is ample reason for abandoning it"
+      ],
+      "synonyms": [
+        "hostility",
+        "friction",
+        "enmity",
+        "antipathy",
+        "animus",
+        "opposition",
+        "dissension",
+        "rivalry",
+        "feud",
+        "conflict",
+        "discord",
+        "contention"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Regard (something) with dislike or distaste.",
+      "examples": [
+        "I am not surprised that some members should disrelish your report"
+      ],
+      "synonyms": [
+        "detest",
+        "hate",
+        "loathe",
+        "abhor",
+        "abominate",
+        "execrate",
+        "regard with contempt",
+        "feel contempt for",
+        "shrink from",
+        "be repelled by",
+        "not be able to bear",
+        "not be able to stand",
+        "not be able to stomach",
+        "find intolerable",
+        "deplore",
+        "dislike"
+      ]
+    }
+  ],
+  "pronounciation": "/disˈreliSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disrelish_us_1.mp3"
+}

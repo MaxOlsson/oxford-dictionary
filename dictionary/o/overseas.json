@@ -1,0 +1,47 @@
+{
+  "adverb": [
+    {
+      "description": "In or to a foreign country, especially one across the sea.",
+      "examples": [
+        "he spent quite a lot of time working overseas"
+      ],
+      "synonyms": [
+        "overseas",
+        "out of the country",
+        "in foreign parts",
+        "to foreign parts",
+        "in a foreign country",
+        "in a foreign land",
+        "to a foreign country",
+        "to a foreign land",
+        "over the sea",
+        "beyond the seas"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "From, to, or relating to a foreign country, especially one across the sea.",
+      "examples": [
+        "overseas trips"
+      ],
+      "synonyms": [
+        "distant",
+        "remote",
+        "far off",
+        "far flung",
+        "external",
+        "outside"
+      ]
+    }
+  ],
+  "phrases": [
+    "With its streamlined body and long legs, the Mudhol can beat any retriever or gundog from overseas.",
+    "Maybe so, but a service of this kind, perhaps from overseas, is only a matter of time.",
+    "We have good wire benders and thus headpieces are always done here, but some things come from overseas.",
+    "You can expect to travel yourself and also entertain visitors from overseas.",
+    "All his spare time goes towards reading police journals, including those from overseas."
+  ],
+  "pronounciation": "/ˌoʊvərˈsiz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overseas_us_1.mp3"
+}

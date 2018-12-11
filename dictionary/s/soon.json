@@ -1,0 +1,59 @@
+{
+  "adverb": [
+    {
+      "description": "In or after a short time.",
+      "examples": [
+        "everyone will soon know the truth",
+        "he'll be home soon",
+        "they arrived soon after 7:30"
+      ],
+      "synonyms": [
+        "in a short time",
+        "shortly",
+        "presently",
+        "in the near future",
+        "before long",
+        "in a little while",
+        "in a minute",
+        "in a moment",
+        "in an instant",
+        "in a twinkling",
+        "in the twinkling of an eye",
+        "before you know it",
+        "any minute",
+        "any minute now",
+        "any day",
+        "any day now",
+        "any time",
+        "any time now",
+        "by and by"
+      ]
+    },
+    {
+      "description": "Used to indicate one's preference in a particular matter.",
+      "examples": [
+        "I'd just as soon Tim did it",
+        "I would sooner resign than transfer to Toronto"
+      ],
+      "synonyms": [
+        "rather",
+        "by preference",
+        "preferably",
+        "by choice",
+        "from choice",
+        "more willingly",
+        "more readily"
+      ]
+    }
+  ],
+  "phrases": [
+    "she had no sooner spoken than the telephone rang",
+    "No sooner had they realized that they had made a mistake than the company went bankrupt.",
+    "you'll have to tell him sooner or later",
+    "Silence and political oblivion come, sooner or later, for every Prime Minister.",
+    "I sometimes think singles are pointless because the album will come sooner or later."
+  ],
+  "origin": "Old English sōna immediately, of West Germanic origin.",
+  "pronounciation": "/so͞on/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soon_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The art or technique of setting, writing, or playing a melody or melodies in conjunction with another, according to fixed rules.",
+      "examples": []
+    },
+    {
+      "description": "An argument, idea, or theme used to create a contrast with the main element.",
+      "examples": [
+        "I have used my interviews with parents as a counterpoint to a professional judgment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Add counterpoint to (a melody)",
+      "examples": [
+        "the orchestra counterpoints the vocal part"
+      ]
+    },
+    {
+      "description": "Emphasize by contrast.",
+      "examples": [
+        "the cream walls and maple floors are counterpointed by black accents"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French contrepoint, from medieval Latin contrapunctum (song) pricked or marked over against (the original melody), from contra- against + punctum, from pungere to prick.",
+  "pronounciation": "/ˈkaʊn(t)ərˌpɔɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterpoint_us_1.mp3"
+}

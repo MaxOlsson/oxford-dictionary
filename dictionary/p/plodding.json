@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Slow-moving and unexciting.",
+      "examples": [
+        "a plodding comedy drama"
+      ],
+      "synonyms": [
+        "dull",
+        "boring",
+        "uninteresting",
+        "unexciting",
+        "uneventful",
+        "tedious",
+        "tiresome",
+        "wearisome",
+        "dry",
+        "as dry as dust",
+        "monotonous",
+        "tame",
+        "dreary",
+        "lacklustre"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈplädiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plodding_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Mutually opposed or inconsistent.",
+      "examples": [
+        "the two attitudes are contradictory"
+      ],
+      "synonyms": [
+        "opposed",
+        "in opposition",
+        "opposite",
+        "antithetical",
+        "contrary",
+        "contrasting",
+        "conflicting",
+        "at variance",
+        "at odds",
+        "opposing",
+        "clashing",
+        "divergent",
+        "discrepant",
+        "different"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A contradictory proposition.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a term in logic): from late Latin contradictorius, from Latin contradict- spoken against, from the verb contradicere (see contradict).",
+  "pronounciation": "/ˌkɑntrəˈdɪkt(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontradictory_us_1.mp3"
+}

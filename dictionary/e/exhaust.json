@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "Drain (someone) of their physical or mental resources; tire out.",
+      "examples": [
+        "her day trip had exhausted her"
+      ],
+      "synonyms": [
+        "tire out",
+        "wear out",
+        "overtire",
+        "overtax",
+        "fatigue",
+        "weary",
+        "tire",
+        "drain",
+        "run someone into the ground",
+        "run someone ragged",
+        "enervate",
+        "sap",
+        "debilitate",
+        "prostrate",
+        "enfeeble"
+      ]
+    },
+    {
+      "description": "Use up (resources or reserves) completely.",
+      "examples": [
+        "the country has exhausted its treasury reserves"
+      ],
+      "synonyms": [
+        "use up",
+        "run through",
+        "go through",
+        "consume",
+        "finish",
+        "deplete",
+        "expend",
+        "spend",
+        "dissipate",
+        "waste",
+        "squander",
+        "fritter away"
+      ]
+    },
+    {
+      "description": "Expel (gas or steam) from or into a particular place.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Waste gases or air expelled from an engine, turbine, or other machine in the course of its operation.",
+      "examples": [
+        "buses spewing out black clouds of exhaust",
+        "exhaust fumes"
+      ],
+      "synonyms": [
+        "smoke",
+        "vapour",
+        "gas",
+        "exhalation",
+        "exhaust",
+        "effluvium",
+        "pollution"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense draw off or out): from Latin exhaust- drained out, from the verb exhaurire, from ex- out + haurire draw (water), drain.",
+  "pronounciation": "/ɪɡˈzɔst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exhaust_us_1.mp3"
+}

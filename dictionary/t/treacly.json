@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling treacle in consistency, taste, or appearance.",
+      "examples": [
+        "a treacly black fuel"
+      ],
+      "synonyms": [
+        "sticky",
+        "gummy",
+        "glue-like",
+        "gluey",
+        "adhesive",
+        "tacky",
+        "adhering",
+        "adherent",
+        "sticking",
+        "clinging",
+        "syrupy"
+      ]
+    },
+    {
+      "description": "Excessively sentimental.",
+      "examples": [
+        "treacly melodramas"
+      ],
+      "synonyms": [
+        "mawkish",
+        "over-sentimental",
+        "overemotional",
+        "cloying",
+        "sickly",
+        "saccharine",
+        "sugary",
+        "sugar-coated",
+        "syrupy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtrēk(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/treacly_us_2.mp3"
+}

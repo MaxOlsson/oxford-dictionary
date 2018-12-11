@@ -1,0 +1,82 @@
+{
+  "adjective": [
+    {
+      "description": "All of; entire.",
+      "examples": [
+        "he spent the whole day walking",
+        "she wasn't telling the whole truth"
+      ],
+      "synonyms": [
+        "entire",
+        "complete",
+        "full",
+        "total"
+      ]
+    },
+    {
+      "description": "In an unbroken or undamaged state; in one piece.",
+      "examples": [
+        "owls usually swallow their prey whole"
+      ],
+      "synonyms": [
+        "intact",
+        "in one piece",
+        "sound",
+        "unbroken"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is complete in itself.",
+      "examples": [
+        "the subjects of the curriculum form a coherent whole"
+      ],
+      "synonyms": [
+        "entity",
+        "unit",
+        "body",
+        "piece",
+        "discrete item",
+        "ensemble",
+        "combination",
+        "package",
+        "conglomeration",
+        "object"
+      ]
+    },
+    {
+      "description": "All of something.",
+      "examples": [
+        "the effects will last for the whole of his life"
+      ],
+      "synonyms": [
+        "all",
+        "every part",
+        "everything",
+        "the lot",
+        "the sum",
+        "the sum total",
+        "the aggregate"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used to emphasize the novelty or distinctness of something.",
+      "examples": [
+        "the man who's given a whole new meaning to the term “cowboy.”"
+      ]
+    }
+  ],
+  "phrases": [
+    "a healthy economy is in the best interests of society as a whole",
+    "A buyer's dislike of such things can easily cloud his impression of the house as a whole.",
+    "There is no automatic reason why share prices as a whole should plummet as a result of the attacks.",
+    "It is less clear that a vote on the report as a whole would be a no confidence motion.",
+    "Many campaigners feared the loss of the venue would have an impact on youth theatre as a whole."
+  ],
+  "origin": "Old English hāl, of Germanic origin; related to Dutch heel and German heil, also to hail. The spelling with wh- (reflecting a dialect pronunciation with w-) first appeared in the 15th century.",
+  "pronounciation": "/hōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whole_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not periodic; irregular.",
+      "examples": [
+        "aperiodic fluctuations"
+      ],
+      "synonyms": [
+        "irregular",
+        "uneven",
+        "varying",
+        "variable",
+        "erratic",
+        "jerky",
+        "unreliable",
+        "volatile",
+        "spasmodic",
+        "sporadic",
+        "changeable",
+        "changing",
+        "fluctuating",
+        "wavering",
+        "vacillating",
+        "inconstant",
+        "intermittent",
+        "fitful",
+        "desultory",
+        "occasional",
+        "unsystematic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌāpirēˈädik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aperiodic_us_1.mp3"
+}

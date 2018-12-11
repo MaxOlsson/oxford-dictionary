@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Construct (something, typically something large) by putting parts or material together over a period of time.",
+      "examples": [
+        "the factory was built in 1936"
+      ],
+      "synonyms": [
+        "construct",
+        "erect",
+        "put up",
+        "assemble",
+        "set up",
+        "raise"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The dimensions or proportions of a person's or animal's body.",
+      "examples": [
+        "she was of medium height and slim build",
+        "he has the ideal build for a sprinter"
+      ],
+      "synonyms": [
+        "physique",
+        "frame",
+        "body",
+        "figure",
+        "form",
+        "structure",
+        "shape",
+        "make-up",
+        "formation",
+        "stature"
+      ]
+    },
+    {
+      "description": "The style or form of construction of something, especially a vehicle.",
+      "examples": [],
+      "synonyms": [
+        "pattern",
+        "form",
+        "shape",
+        "format",
+        "structure",
+        "configuration",
+        "construction",
+        "frame",
+        "model",
+        "design",
+        "arrangement",
+        "organization",
+        "formation",
+        "figure",
+        "cast",
+        "kind",
+        "brand",
+        "make",
+        "line",
+        "type",
+        "cut",
+        "style"
+      ]
+    },
+    {
+      "description": "A compiled version of a program.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Why do we bother building our hopes up over the England team?",
+    "You know at every stage of in vitro fertilisation that treatment could fail so it's best not to build your hopes up.",
+    "She said: I don't want to get over-excited and build my hopes up but I hope this will change my life.",
+    "I knew I would walk again although I was told not to build my hopes up too high.",
+    "We had been building our hopes up of getting into the Premiership, but then had it snatched away from us at the very end."
+  ],
+  "origin": "Old English byldan, from bold, botl dwelling, of Germanic origin; related to bower.",
+  "pronounciation": "/bɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/build_us_1.mp3"
+}

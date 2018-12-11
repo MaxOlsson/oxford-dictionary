@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Fill; pervade.",
+      "examples": [
+        "her work is infused with an anger born of pain and oppression"
+      ],
+      "synonyms": [
+        "fill",
+        "pervade",
+        "permeate",
+        "suffuse",
+        "charge",
+        "saturate",
+        "imbue",
+        "inspire",
+        "inundate"
+      ]
+    },
+    {
+      "description": "Soak (tea, herbs, etc.) in liquid to extract the flavor or healing properties.",
+      "examples": [
+        "infuse the dried flowers in boiling water"
+      ],
+      "synonyms": [
+        "steep",
+        "brew",
+        "stew",
+        "soak",
+        "immerse",
+        "marinate",
+        "souse"
+      ]
+    },
+    {
+      "description": "Allow (a liquid) to flow into a patient, vein, etc.",
+      "examples": [
+        "saline was infused into the aorta"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin infus- poured in, from the verb infundere, from in- into + fundere pour.",
+  "pronounciation": "/ɪnˈfjuz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/infuse_us_1.mp3"
+}

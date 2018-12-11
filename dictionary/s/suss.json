@@ -1,0 +1,84 @@
+{
+  "verb": [
+    {
+      "description": "Realize or grasp (something)",
+      "examples": [
+        "he's sussed it",
+        "she sussed out right away that there was something fishy going on"
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend",
+        "follow",
+        "take in",
+        "realize",
+        "perceive",
+        "see",
+        "apprehend",
+        "assimilate",
+        "absorb",
+        "make sense of",
+        "master",
+        "get to the bottom of",
+        "penetrate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Knowledge or awareness of a specified kind.",
+      "examples": [
+        "his lack of business suss"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Shrewd and wary.",
+      "examples": [
+        "he is too suss a character to fall into that trap"
+      ],
+      "synonyms": [
+        "perceptive",
+        "discerning",
+        "percipient",
+        "perspicacious",
+        "penetrative",
+        "piercing",
+        "penetrating",
+        "discriminating",
+        "sensitive",
+        "incisive",
+        "keen",
+        "keen-witted",
+        "acute",
+        "sharp-witted",
+        "quick",
+        "quick-witted",
+        "clever",
+        "shrewd",
+        "astute",
+        "intelligent",
+        "intuitive",
+        "bright",
+        "agile",
+        "nimble",
+        "nimble-witted",
+        "alert",
+        "quick off the mark",
+        "ready",
+        "apt",
+        "fine",
+        "finely honed",
+        "rapier-like",
+        "probing",
+        "searching",
+        "insightful",
+        "knowing"
+      ]
+    }
+  ],
+  "origin": "1930s: abbreviation of suspect, suspicion.",
+  "pronounciation": "/səs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suss_us_1.mp3"
+}

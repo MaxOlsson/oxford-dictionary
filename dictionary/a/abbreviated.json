@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Shortened; cut short.",
+      "examples": [
+        "an abbreviated version of the earlier work",
+        "we intended to run an abbreviated event"
+      ],
+      "synonyms": [
+        "shortened",
+        "reduced",
+        "cut",
+        "cut down",
+        "cut short",
+        "contracted",
+        "condensed",
+        "compressed",
+        "abridged",
+        "truncated",
+        "concise",
+        "compendious",
+        "compact",
+        "succinct",
+        "clipped",
+        "cropped",
+        "pared down",
+        "pruned",
+        "shrunk",
+        "constricted",
+        "telescoped"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈbrēvēˌādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abbreviated_us_1.mp3"
+}

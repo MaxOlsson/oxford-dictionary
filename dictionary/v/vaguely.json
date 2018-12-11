@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is uncertain, indefinite or unclear; roughly.",
+      "examples": [
+        "he vaguely remembered talking to her once"
+      ],
+      "synonyms": [
+        "roughly",
+        "more or less",
+        "approximately",
+        "nearly",
+        "just about",
+        "practically",
+        "virtually",
+        "as near as dammit",
+        "for all practical purposes",
+        "to all intents and purposes"
+      ]
+    },
+    {
+      "description": "Slightly.",
+      "examples": [
+        "he looked vaguely familiar"
+      ],
+      "synonyms": [
+        "slightly",
+        "a little",
+        "a bit",
+        "somewhat",
+        "rather",
+        "moderately",
+        "to some degree",
+        "to a certain extent",
+        "in a way",
+        "to a slight extent",
+        "faintly",
+        "obscurely",
+        "dimly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈvāɡlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vaguely_us_1.mp3"
+}

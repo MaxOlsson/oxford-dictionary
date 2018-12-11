@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Covered with stubble.",
+      "examples": [
+        "a stubbly chin"
+      ],
+      "synonyms": [
+        "bristly",
+        "unshaven",
+        "fuzzy",
+        "whiskery",
+        "whiskered",
+        "hairy",
+        "bearded"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstəb(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stubbly_us_1.mp3"
+}

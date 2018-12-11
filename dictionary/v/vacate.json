@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Leave (a place that one previously occupied)",
+      "examples": [
+        "rooms must be vacated by noon on the last day of your vacation"
+      ],
+      "synonyms": [
+        "leave",
+        "get out of",
+        "move out of",
+        "evacuate",
+        "quit",
+        "go away from",
+        "depart from",
+        "exit from",
+        "withdraw from",
+        "pull out of"
+      ]
+    },
+    {
+      "description": "Cancel or annul (a judgment, contract, or charge).",
+      "examples": [],
+      "synonyms": [
+        "annul",
+        "invalidate",
+        "nullify",
+        "declare null and void",
+        "render null and void",
+        "void"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as a legal term, also in the sense make ineffective): from Latin vacat- left empty, from the verb vacare.",
+  "pronounciation": "/ˈveɪˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vacate_us_1.mp3"
+}

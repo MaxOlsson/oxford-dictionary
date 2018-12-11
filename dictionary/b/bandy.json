@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's legs) curved so as to be wide apart at the knees.",
+      "examples": [
+        "she had bent, slightly bandy legs"
+      ],
+      "synonyms": [
+        "bowed",
+        "curved",
+        "bent",
+        "crooked",
+        "misshapen",
+        "malformed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pass on or discuss (an idea or rumor) in a casual or uninformed way.",
+      "examples": [
+        "$40,000 is the figure that has been bandied about"
+      ],
+      "synonyms": [
+        "spread",
+        "spread about",
+        "spread around",
+        "put about",
+        "toss about",
+        "discuss",
+        "rumour"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A game similar to field hockey or ice hockey, played with a ball and large curved sticks.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: perhaps from bandy.",
+  "phrases": [
+    "don't bandy words with me, Sir!",
+    "Afraid it was Dan, back to bandy words once more, she whirled suddenly.",
+    "Meantime, while academicians bandied words, many applied politicians saw Cannan's Law clearly, and used it to further their ends.",
+    "Unable to bandy words any longer, he took the phone away from his ear and hit the end button, then placed the phone carefully back in its cradle on the desk.",
+    "Do not bandy words in your insolence with the Mouth of Sauron!"
+  ],
+  "pronounciation": "/ˈbændi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bandy_us_1.mp3"
+}

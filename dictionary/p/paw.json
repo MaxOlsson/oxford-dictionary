@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An animal's foot having claws and pads.",
+      "examples": [],
+      "synonyms": [
+        "foot",
+        "pad"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an animal) feel or scrape with a paw or hoof.",
+      "examples": [
+        "the horse rose on its strong haunches, its forelegs pawing the air",
+        "young dogs may paw at the floor and whine"
+      ],
+      "synonyms": [
+        "poke",
+        "handle carelessly",
+        "handle clumsily",
+        "handle roughly",
+        "finger",
+        "thumb",
+        "pull",
+        "grab",
+        "maul",
+        "manhandle",
+        "mangle",
+        "mess up"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French poue, probably of Germanic origin and related to Dutch poot.",
+  "pronounciation": "/pô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paw_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A volume containing several novels or other items previously published separately.",
+      "examples": [
+        "an omnibus of her first trilogy"
+      ]
+    },
+    {
+      "description": "A bus.",
+      "examples": [],
+      "synonyms": [
+        "bus",
+        "minibus",
+        "van"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Comprising several items.",
+      "examples": [
+        "Congress passed an omnibus anticrime package"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: via French from Latin, literally for all, dative plural of omnis.",
+  "pronounciation": "/ˈɑmnəˌbəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/omnibus_us_1.mp3"
+}

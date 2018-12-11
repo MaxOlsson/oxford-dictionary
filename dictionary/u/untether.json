@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Release or free from a tether.",
+      "examples": [
+        "I reached the horses and untethered them"
+      ],
+      "synonyms": [
+        "undo",
+        "open",
+        "detach",
+        "disconnect",
+        "remove",
+        "untie",
+        "unbutton",
+        "unzip",
+        "loose",
+        "loosen",
+        "free",
+        "separate",
+        "disengage",
+        "disjoin",
+        "uncouple",
+        "unwrap",
+        "unbind",
+        "unhook",
+        "unlace",
+        "unhitch",
+        "unlock",
+        "unbolt"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtɛðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untether_us_1.mp3"
+}

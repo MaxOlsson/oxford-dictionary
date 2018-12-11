@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A minister in charge of a Christian church or congregation.",
+      "examples": [],
+      "synonyms": [
+        "priest",
+        "minister",
+        "minister of religion",
+        "parson",
+        "clergyman",
+        "cleric",
+        "chaplain",
+        "padre",
+        "father",
+        "ecclesiastic",
+        "man of god",
+        "man of the cloth",
+        "churchman",
+        "preacher"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be pastor of (a church or congregation)",
+      "examples": [
+        "he pastored Peninsula Bible Church in Palo Alto",
+        "he continued to study law while pastoring in Chicago"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French pastour, from Latin pastor shepherd, from past- fed, grazed, from the verb pascere.",
+  "pronounciation": "/ˈpastər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pastor_us_1.mp3"
+}

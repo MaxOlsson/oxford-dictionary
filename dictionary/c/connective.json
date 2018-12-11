@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Connecting.",
+      "examples": [
+        "connective words and phrases"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word or phrase whose function is to link linguistic units together.",
+      "examples": [],
+      "synonyms": [
+        "loop",
+        "ring",
+        "connection",
+        "connector",
+        "coupling",
+        "joint",
+        "knot"
+      ]
+    },
+    {
+      "description": "A bundle of nerve fibers connecting two nerve centers or ganglia, especially in invertebrate animals.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/kəˈnɛktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconnective_us_1.mp3"
+}

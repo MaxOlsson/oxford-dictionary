@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Hit or try to hit with a swinging blow.",
+      "examples": [
+        "she swiped me right across the nose",
+        "she lifted her hand to swipe at a cat"
+      ],
+      "synonyms": [
+        "strike",
+        "swing",
+        "hit",
+        "slap",
+        "cuff",
+        "lash out"
+      ]
+    },
+    {
+      "description": "Steal.",
+      "examples": [
+        "someone swiped one of his sausages"
+      ],
+      "synonyms": [
+        "steal",
+        "thieve",
+        "take",
+        "pilfer",
+        "purloin",
+        "snatch",
+        "help oneself to",
+        "appropriate",
+        "abstract",
+        "shoplift"
+      ]
+    },
+    {
+      "description": "Pass (a swipe card) through an electronic device designed to read and process the information encoded on it.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sweeping blow.",
+      "examples": [
+        "he missed the ball with his first swipe"
+      ],
+      "synonyms": [
+        "strike",
+        "stroke",
+        "swing",
+        "hit",
+        "slap",
+        "brush",
+        "cuff",
+        "clip"
+      ]
+    },
+    {
+      "description": "An act or instance of moving one's finger across a touchscreen to activate a function.",
+      "examples": [
+        "a swipe to the right archives or deletes the message"
+      ]
+    }
+  ],
+  "phrases": [
+    "I swiped right, but sadly for me, she swiped left",
+    "are elephants more likely to swipe right when they see mates with longer trunks?",
+    "He hasn't come up yet, but when he does, I'm swiping right.",
+    "Erin met her boyfriend when they both swiped right.",
+    "So, on a whim, I downloaded Tinder, quickly created a profile, set my search radius to within 5km, and started swiping right on everyone who seemed like-minded."
+  ],
+  "origin": "Mid 18th century: perhaps a variant of sweep.",
+  "pronounciation": "/swaɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swipe_us_1.mp3"
+}

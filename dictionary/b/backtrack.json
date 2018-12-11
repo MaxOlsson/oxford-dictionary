@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Retrace one's steps.",
+      "examples": [
+        "she had to bypass two closer farms and backtrack to them later",
+        "to backtrack a little, the case is a complex one"
+      ],
+      "synonyms": [
+        "retract",
+        "take back",
+        "unsay",
+        "go back on",
+        "recall",
+        "recant",
+        "disavow",
+        "disclaim",
+        "abjure",
+        "repudiate",
+        "renounce"
+      ]
+    },
+    {
+      "description": "Pursue, trace, or monitor.",
+      "examples": [
+        "he was able to backtrack the buck to a ridge nearby"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbækˌtræk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backtrack_us_1.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "A small piece of glass, stone, or similar material, typically rounded and perforated for threading with others as a necklace or rosary or for sewing onto fabric.",
+      "examples": [
+        "long strings of beads",
+        "rosary beads",
+        "she fastened the beads round my neck",
+        "a bead bracelet"
+      ],
+      "synonyms": [
+        "ball",
+        "pellet",
+        "pill",
+        "globule",
+        "spheroid",
+        "spherule",
+        "sphere",
+        "oval",
+        "ovoid",
+        "orb",
+        "round",
+        "pearl"
+      ]
+    },
+    {
+      "description": "A drop of a liquid on a surface.",
+      "examples": [
+        "beads of sweat"
+      ],
+      "synonyms": [
+        "droplet",
+        "drop",
+        "blob",
+        "bubble",
+        "dot",
+        "dewdrop",
+        "teardrop"
+      ]
+    },
+    {
+      "description": "A small knob forming the front sight of a gun.",
+      "examples": []
+    },
+    {
+      "description": "The reinforced inner edge of a pneumatic tire that grips the rim of the wheel.",
+      "examples": []
+    },
+    {
+      "description": "An ornamental molding resembling a string of beads or having a semicircular cross-section.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate or cover with beads.",
+      "examples": [
+        "I beaded the jacket by hand"
+      ]
+    },
+    {
+      "description": "Cover (a surface) with drops of moisture.",
+      "examples": [
+        "his face was beaded with perspiration"
+      ]
+    }
+  ],
+  "phrases": [
+    "A sensor contact made him pause, take cover, and get a bead on the opening to the tunnel.",
+    "He drew a bead on me and I drew a bead on him and dropped him, Capt. Hornbuckle says. He was not going to stop me from going home.",
+    "The troops, wearing flak jackets, tried to get a bead on this guy.",
+    "The Snowbirds obliged by flying in numbers sufficient for my autofocus to get a bead on them.",
+    "If your scope becomes flooded with red light, that means she's got a bead on you."
+  ],
+  "origin": "Old English gebed prayer, of Germanic origin; related to Dutch bede and German Gebet, also to bid. Current senses derive from the use of a rosary, each bead representing a prayer.",
+  "pronounciation": "/bēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bead_us_1.mp3"
+}

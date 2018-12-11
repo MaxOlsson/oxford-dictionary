@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Ask for or try to obtain (something) from someone.",
+      "examples": [
+        "he called a meeting to solicit their views"
+      ],
+      "synonyms": [
+        "ask for",
+        "request",
+        "apply for",
+        "put in for",
+        "seek",
+        "beg",
+        "plead for",
+        "sue for",
+        "crave",
+        "canvass",
+        "call for",
+        "drum up",
+        "press for"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French solliciter, from Latin sollicitare agitate, from sollicitus anxious, from sollus entire + citus (past participle of ciere set in motion).",
+  "pronounciation": "/səˈlɪsɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solicit_us_1.mp3"
+}

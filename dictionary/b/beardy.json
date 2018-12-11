@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of a man) having a beard.",
+      "examples": [
+        "in the year of beardy hipsters, he looks nearly a decade out of fashion"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bearded man, especially one regarded as lacking in style.",
+      "examples": [
+        "the cartoons show him as a mad beardie"
+      ]
+    },
+    {
+      "description": "A bearded collie.",
+      "examples": [
+        "expect to be greeted with a bounce when you meet a beardie"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɪrdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beardy_us_1.mp3"
+}

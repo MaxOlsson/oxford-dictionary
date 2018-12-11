@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of a word or form) denoting more than one, or (in languages with dual number) more than two.",
+      "examples": [
+        "the first person plural"
+      ]
+    },
+    {
+      "description": "Containing several diverse elements.",
+      "examples": [
+        "a plural society"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A plural word or form.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French plurel or Latin pluralis, from plus, plur- more.",
+  "pronounciation": "/ˈplo͝orəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plural_us_1.mp3"
+}

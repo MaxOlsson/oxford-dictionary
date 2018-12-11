@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A short excursion or journey for pleasure.",
+      "examples": [
+        "her little jaunt in France was over"
+      ],
+      "synonyms": [
+        "trip",
+        "pleasure trip",
+        "outing",
+        "excursion",
+        "expedition",
+        "day trip",
+        "day out",
+        "mini holiday",
+        "short break"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go on a short excursion or journey for pleasure.",
+      "examples": [
+        "they went jaunting through Ireland"
+      ],
+      "synonyms": [
+        "wander",
+        "roam",
+        "rove",
+        "range",
+        "travel",
+        "travel idly",
+        "journey",
+        "voyage",
+        "globetrot",
+        "drift",
+        "coast",
+        "meander",
+        "gad about",
+        "gallivant",
+        "jaunt",
+        "take a trip",
+        "go on a trip"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: of unknown origin. Originally depreciatory, early senses included tire a horse out by riding it up and down, traipse about, and (as a noun) troublesome journey. The current positive sense dates from the mid 17th century.",
+  "pronounciation": "/jônt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jaunt_us_1.mp3"
+}

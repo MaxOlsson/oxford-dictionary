@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the pleasant aspects of the countryside and country life.",
+      "examples": [
+        "the church is lovely for its bucolic setting"
+      ],
+      "synonyms": [
+        "rustic",
+        "rural",
+        "pastoral",
+        "country",
+        "countryside",
+        "agricultural",
+        "agrarian",
+        "outdoor",
+        "idyllic",
+        "unspoilt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pastoral poem.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century (as a noun): via Latin from Greek boukolikos, from boukolos herdsman, from bous ox.",
+  "pronounciation": "/bjuˈkɑlɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bucolic_us_1.mp3"
+}

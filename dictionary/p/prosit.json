@@ -1,0 +1,19 @@
+{
+  "exclamation": [
+    {
+      "description": "An expression used as a toast when drinking to a person's health.",
+      "examples": [],
+      "synonyms": [
+        "here's to you",
+        "good health",
+        "your health",
+        "here's health",
+        "skol",
+        "good luck"
+      ]
+    }
+  ],
+  "origin": "German, from Latin, literally may it benefit.",
+  "pronounciation": "/-sət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prosit_us_1.mp3"
+}

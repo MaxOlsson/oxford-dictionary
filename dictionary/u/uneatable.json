@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Not fit to be eaten.",
+      "examples": [
+        "we all complained about the uneatable breakfast"
+      ],
+      "synonyms": [
+        "unpalatable",
+        "unappetizing",
+        "unpleasant",
+        "distasteful",
+        "disagreeable",
+        "uninviting",
+        "unappealing",
+        "unattractive"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈiːtəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uneatable_gb_1.mp3"
+}

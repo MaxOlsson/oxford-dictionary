@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that suggests one has secret knowledge or awareness.",
+      "examples": [
+        "Amy looked at me knowingly"
+      ],
+      "synonyms": [
+        "deliberately",
+        "intentionally",
+        "consciously",
+        "wittingly",
+        "with full knowledge",
+        "in full awareness",
+        "with one's eyes open",
+        "on purpose",
+        "by design",
+        "calculatedly",
+        "premeditatedly",
+        "studiedly",
+        "wilfully",
+        "purposefully",
+        "willingly"
+      ]
+    },
+    {
+      "description": "In full awareness or consciousness; deliberately.",
+      "examples": [
+        "when a journalist knowingly misleads the readers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnōiNGlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knowingly_us_1.mp3"
+}

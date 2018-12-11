@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "(of a word) having the same linguistic derivation as another; from the same original word or root (e.g., English is, German ist, Latin est, from Indo-European esti).",
+      "examples": []
+    },
+    {
+      "description": "Related; connected.",
+      "examples": [
+        "cognate subjects such as physics and chemistry"
+      ],
+      "synonyms": [
+        "associated",
+        "related",
+        "connected",
+        "allied",
+        "interconnected",
+        "linked",
+        "coupled",
+        "correlated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cognate word.",
+      "examples": []
+    },
+    {
+      "description": "A blood relative.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Latin cognatus, from co- together with + natus born.",
+  "pronounciation": "/ˈkɑɡˌneɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cognate_us_1.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Cause (two or more things) to change places with each other.",
+      "examples": [
+        "the captions describing the two state flowers were accidentally transposed"
+      ],
+      "synonyms": [
+        "interchange",
+        "exchange",
+        "switch",
+        "swap",
+        "swap round",
+        "transfer",
+        "reverse",
+        "invert",
+        "rearrange",
+        "reorder",
+        "turn about",
+        "turn around",
+        "change",
+        "change round",
+        "move",
+        "move around",
+        "substitute",
+        "trade",
+        "alter",
+        "convert"
+      ]
+    },
+    {
+      "description": "Transfer to a different place or context.",
+      "examples": [
+        "the problems of civilization are transposed into a rustic setting"
+      ],
+      "synonyms": [
+        "shift",
+        "relocate",
+        "reposition",
+        "transplant",
+        "move",
+        "displace"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A matrix obtained from a given matrix by interchanging each row and the corresponding column.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (also in the sense transform, convert): from Old French transposer, from trans- across + poser to place.",
+  "pronounciation": "/tranˈspōz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/transpose_us_1.mp3"
+}

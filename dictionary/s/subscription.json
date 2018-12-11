@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "The action of making or agreeing to make an advance payment in order to receive or participate in something.",
+      "examples": [
+        "the newsletter is available only on subscription",
+        "take out a one-year subscription"
+      ],
+      "synonyms": [
+        "donation",
+        "contribution",
+        "offering",
+        "gift",
+        "present",
+        "grant",
+        "bestowal",
+        "endowment",
+        "subsidy",
+        "benefaction",
+        "handout"
+      ]
+    },
+    {
+      "description": "A signature or short piece of writing at the end of a document.",
+      "examples": [
+        "he signed the letter and added a subscription"
+      ],
+      "synonyms": [
+        "signature",
+        "initials"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in subscription (sense 2)): from Latin subscriptio(n-), from subscribere write below (see subscribe).",
+  "pronounciation": "/səbˈskripSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subscription_us_1.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "The cracking or breaking of a hard object or material.",
+      "examples": [
+        "bone density testing can predict the risk for fracture"
+      ],
+      "synonyms": [
+        "breaking",
+        "breakage",
+        "cracking",
+        "cleavage",
+        "rupture",
+        "shattering",
+        "fragmentation",
+        "splintering",
+        "splitting",
+        "separation",
+        "bursting",
+        "disintegration"
+      ]
+    },
+    {
+      "description": "The replacement of a simple vowel by a diphthong owing to the influence of a following sound, typically a consonant.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Break or cause to break.",
+      "examples": [
+        "the stone has fractured",
+        "ancient magmas fractured by the forces of wind and ice"
+      ],
+      "synonyms": [
+        "break",
+        "snap",
+        "crack",
+        "cleave",
+        "rupture",
+        "shatter",
+        "smash",
+        "smash to smithereens",
+        "fragment",
+        "splinter",
+        "split",
+        "separate",
+        "burst",
+        "blow out"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, or from Latin fractura, from frangere to break.",
+  "pronounciation": "/ˈfrak(t)SHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fracture_us_1.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Arrange to receive something regularly, typically a publication, by paying in advance.",
+      "examples": [
+        "subscribe to the magazine for twelve months and receive a free T-shirt"
+      ],
+      "synonyms": [
+        "pay a subscription",
+        "buy regularly",
+        "take",
+        "take regularly",
+        "read",
+        "read regularly",
+        "contract to buy"
+      ]
+    },
+    {
+      "description": "Express or feel agreement with (an idea or proposal)",
+      "examples": [
+        "we prefer to subscribe to an alternative explanation"
+      ],
+      "synonyms": [
+        "agree with",
+        "be in agreement with",
+        "accede to",
+        "consent to",
+        "accept",
+        "believe in",
+        "endorse",
+        "back",
+        "support",
+        "advocate",
+        "champion"
+      ]
+    },
+    {
+      "description": "Sign (a will, contract, or other document)",
+      "examples": [
+        "he subscribed the will as a witness"
+      ],
+      "synonyms": [
+        "sign",
+        "write",
+        "inscribe",
+        "initial",
+        "autograph",
+        "countersign",
+        "witness",
+        "put one's mark on"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense sign at the bottom of a document): from Latin subscribere, from sub- under + scribere write.",
+  "pronounciation": "/səbˈskraɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subscribe_us_1.mp3"
+}

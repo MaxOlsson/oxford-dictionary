@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing the symptoms associated with a dangerously high temperature.",
+      "examples": [
+        "her fevered eyes"
+      ],
+      "synonyms": [
+        "feverish",
+        "febrile",
+        "hot",
+        "burning",
+        "sweating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfēvərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fevered_us_2.mp3"
+}

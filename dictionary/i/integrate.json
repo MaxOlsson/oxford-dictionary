@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Combine (one thing) with another so that they become a whole.",
+      "examples": [
+        "transportation planning should be integrated with energy policy"
+      ],
+      "synonyms": [
+        "combine",
+        "amalgamate",
+        "merge",
+        "unite",
+        "join",
+        "fuse",
+        "blend",
+        "mingle",
+        "coalesce",
+        "consolidate",
+        "meld",
+        "intermingle",
+        "mix",
+        "intermix",
+        "incorporate",
+        "affiliate",
+        "unify",
+        "assimilate",
+        "homogenize",
+        "harmonize",
+        "mesh",
+        "desegregate"
+      ]
+    },
+    {
+      "description": "Bring (people or groups with particular characteristics or needs) into equal participation in or membership of a social group or institution.",
+      "examples": [
+        "integrating children with special needs into ordinary schools"
+      ]
+    },
+    {
+      "description": "Find the integral of.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from Latin integrat- made whole, from the verb integrare, from integer whole (see integer). Compare with integral and integrity.",
+  "pronounciation": "/ˈin(t)əˌɡrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/integrate_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Struggle or stagger helplessly or clumsily in water or mud.",
+      "examples": [
+        "he was floundering about in the shallow offshore waters"
+      ],
+      "synonyms": [
+        "struggle",
+        "thrash",
+        "thresh",
+        "flail",
+        "toss and turn",
+        "twist and turn",
+        "pitch",
+        "splash",
+        "stagger",
+        "stumble",
+        "falter",
+        "lurch",
+        "blunder",
+        "fumble",
+        "grope",
+        "squirm",
+        "writhe"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small flatfish that typically occurs in shallow coastal water.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French flondre, probably of Scandinavian origin and related to Danish flynder.",
+  "pronounciation": "/ˈfloundər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flounder_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "adverb": [
+    {
+      "description": "Toward the bottom of a slope.",
+      "examples": [
+        "he ran downhill",
+        "follow the road downhill"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Leading down toward the bottom of a slope.",
+      "examples": [
+        "the route is downhill for part of the way"
+      ],
+      "synonyms": [
+        "descending",
+        "falling",
+        "sinking",
+        "going down",
+        "moving down",
+        "sliding",
+        "slipping",
+        "dipping",
+        "earthbound",
+        "earthward"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A downward slope.",
+      "examples": []
+    },
+    {
+      "description": "A downhill race.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "up by six runs in the eighth inning—it should have been downhill all the way",
+    "that had been the start of the present trouble—downhill all the way since then",
+    "As a precocious child, he composed his Overture to A Midsummer Night's Dream; it was pretty much downhill all the way after that.",
+    "But once it transferred to BBC1 it became tired, clichéd and it was downhill all the way.",
+    "Unfortunately it was pretty much downhill all the way to the end of the screening."
+  ],
+  "pronounciation": "/dounˈhil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downhill_us_1_rr.mp3"
+}

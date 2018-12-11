@@ -1,0 +1,68 @@
+{
+  "verb": [
+    {
+      "description": "Cut with rough or heavy blows.",
+      "examples": [
+        "hack off the dead branches",
+        "a fishmonger hacked at it with a cleaver"
+      ],
+      "synonyms": [
+        "cut",
+        "chop",
+        "hew",
+        "lop",
+        "saw"
+      ]
+    },
+    {
+      "description": "Use a computer to gain unauthorized access to data in a system.",
+      "examples": [
+        "they hacked into the bank's computer",
+        "someone hacked his computer from another location"
+      ]
+    },
+    {
+      "description": "Manage; cope.",
+      "examples": [
+        "lots of people leave because they can't hack it"
+      ],
+      "synonyms": [
+        "cope",
+        "manage",
+        "get on",
+        "get along",
+        "get by",
+        "carry on",
+        "muddle through",
+        "muddle along",
+        "come through",
+        "stand on one's own two feet",
+        "weather the storm"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rough cut, blow, or stroke.",
+      "examples": [
+        "he was sure one of us was going to take a hack at him"
+      ]
+    },
+    {
+      "description": "An act of computer hacking.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "To be hacking around in his company is to be handed the ultimate humiliation.",
+    "I had no lessons or anything, so I kind of hacked around until I was 17, then I quit.",
+    "Because I'm going to make the improvements on this new ship of yours before I decide to start hacking around.",
+    "We were playing a lot together, hacking around, and drinking a lot of free beer.",
+    "I just hacked around town on my own, running errands.",
+    "For a hawk at hack, food is often tied to the hack board to discourage her from forming the habit of carrying.",
+    "To be at hack is to be in the state of partial liberty in which eyas hawks are kept before being trained, not being allowed to prey for themselves."
+  ],
+  "origin": "Late Middle English (denoting the lower half of a divided door): variant of hatch.",
+  "pronounciation": "/hæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hack_us_6.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting substances that prevent the growth of disease-causing microorganisms.",
+      "examples": [],
+      "synonyms": [
+        "disinfectant",
+        "germicidal",
+        "bactericidal"
+      ]
+    },
+    {
+      "description": "Scrupulously clean or pure, especially so as to be bland or characterless.",
+      "examples": [
+        "the antiseptic modernity of a conference center"
+      ],
+      "synonyms": [
+        "characterless",
+        "colourless",
+        "soulless",
+        "bland",
+        "nondescript",
+        "uninspiring"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An antiseptic compound or preparation.",
+      "examples": [],
+      "synonyms": [
+        "disinfectant",
+        "germicide",
+        "bactericide"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌan(t)əˈseptik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/antiseptic_us_1.mp3"
+}

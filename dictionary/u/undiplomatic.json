@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Being or appearing insensitive and tactless.",
+      "examples": [
+        "the king's reply was undiplomatic",
+        "his arrogant and undiplomatic manner"
+      ],
+      "synonyms": [
+        "insensitive",
+        "inconsiderate",
+        "thoughtless",
+        "unthinking",
+        "indelicate",
+        "impolitic",
+        "indiscreet",
+        "unsubtle",
+        "clumsy",
+        "heavy-handed",
+        "graceless",
+        "awkward",
+        "unpolished",
+        "inept",
+        "bungling",
+        "maladroit",
+        "gauche",
+        "undiscerning",
+        "unsophisticated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˌdɪpləˈmædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undiplomatic_us_1.mp3"
+}

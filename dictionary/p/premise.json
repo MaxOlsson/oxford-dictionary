@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+      "examples": [
+        "if the premise is true, then the conclusion must be true"
+      ],
+      "synonyms": [
+        "proposition",
+        "assumption",
+        "hypothesis",
+        "thesis",
+        "presupposition",
+        "postulation",
+        "postulate",
+        "supposition",
+        "presumption",
+        "surmise",
+        "conjecture",
+        "speculation",
+        "datum",
+        "argument",
+        "assertion",
+        "belief",
+        "thought"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Base an argument, theory, or undertaking on.",
+      "examples": [
+        "the reforms were premised on our findings"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French premisse, from medieval Latin praemissa (propositio) (proposition) set in front, from Latin praemittere, from prae before + mittere send.",
+  "pronounciation": "/ˈpreməs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/premise_us_1.mp3"
+}

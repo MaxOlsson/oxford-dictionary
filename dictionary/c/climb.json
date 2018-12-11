@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Go or come up (a slope, incline, or staircase), especially by using the feet and sometimes the hands; ascend.",
+      "examples": [
+        "we began to climb the hill",
+        "the air became colder as they climbed higher",
+        "he climbed up the steps slowly"
+      ],
+      "synonyms": [
+        "ascend",
+        "mount",
+        "scale",
+        "scramble up",
+        "clamber up",
+        "shin up"
+      ]
+    },
+    {
+      "description": "Move with effort, especially into or out of a confined space; clamber.",
+      "examples": [
+        "Howard started to climb out of the front seat",
+        "I climbed down a narrow ladder",
+        "he climbed to a high bough"
+      ],
+      "synonyms": [
+        "clamber",
+        "scramble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An ascent, especially of a mountain or hill, by climbing.",
+      "examples": [
+        "the rigorous climb up the mountain",
+        "his long climb from poverty"
+      ],
+      "synonyms": [
+        "ascent",
+        "clamber"
+      ]
+    }
+  ],
+  "phrases": [
+    "his job soon had him climbing the walls",
+    "It had been a mess and I was climbing the walls and was a little bit bitter.",
+    "That's a whole lot better than the two weeks I spent at my parents' house, unable to drive and climbing the walls.",
+    "These are very vulnerable children, they are not climbing the walls or anything like that, but they do need a lot of support.",
+    "I was bored so it made sense that Stevie was climbing the walls, even though he'd had a lot longer to get used to being without school or people."
+  ],
+  "origin": "Old English climban, of West Germanic origin; related to Dutch and German klimmen, also to clay and cleave.",
+  "pronounciation": "/klaɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/climb_us_1.mp3"
+}

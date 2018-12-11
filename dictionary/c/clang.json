@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A loud, resonant metallic sound or series of sounds.",
+      "examples": [
+        "the steel door slammed shut with a clang"
+      ],
+      "synonyms": [
+        "reverberation",
+        "ringing",
+        "ring",
+        "ding-dong",
+        "bong",
+        "peal",
+        "chime",
+        "toll"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or cause to make a clang.",
+      "examples": [
+        "the belfry still clangs its bell at 9 p.m.",
+        "she turned the faucet on and the plumbing clanged"
+      ],
+      "synonyms": [
+        "reverberate",
+        "resound",
+        "ring",
+        "bong",
+        "peal",
+        "chime",
+        "toll"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: imitative, influenced by Latin clangere resound.",
+  "pronounciation": "/klaNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clang_us_1.mp3"
+}

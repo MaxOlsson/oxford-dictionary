@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Of or resembling glass.",
+      "examples": [
+        "glassy skyscrapers"
+      ]
+    },
+    {
+      "description": "(of a person's eyes or expression) showing no interest or animation; dull and glazed.",
+      "examples": [],
+      "synonyms": [
+        "expressionless",
+        "glazed",
+        "blank",
+        "empty",
+        "vacant",
+        "fixed",
+        "unmoving",
+        "motionless",
+        "emotionless",
+        "fishy",
+        "impassive",
+        "lifeless",
+        "wooden",
+        "dull",
+        "vacuous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡlæsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glassy_us_1.mp3"
+}

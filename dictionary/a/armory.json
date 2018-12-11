@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A place where weapons are kept.",
+      "examples": [],
+      "synonyms": [
+        "arsenal",
+        "arms depot",
+        "arms cache",
+        "ordnance depot",
+        "magazine",
+        "ammunition dump"
+      ]
+    },
+    {
+      "description": "An array of resources available for a particular purpose.",
+      "examples": [
+        "his armory of comic routines"
+      ]
+    },
+    {
+      "description": "A place where military reservists are trained or headquartered.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French armoierie (see armoury).",
+  "pronounciation": "/ˈärmərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/armory_us_1.mp3"
+}

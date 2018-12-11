@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A small spot or patch of color.",
+      "examples": [],
+      "synonyms": [
+        "dot",
+        "pinprick",
+        "spot",
+        "fleck",
+        "stain",
+        "mark",
+        "smudge",
+        "blemish"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with a large number of small spots or patches of color.",
+      "examples": [
+        "stars speckled the sky"
+      ],
+      "synonyms": [
+        "flecked",
+        "speckly",
+        "specked",
+        "freckled",
+        "freckly",
+        "spotted",
+        "spotty",
+        "dotted",
+        "stippled",
+        "sprinkled",
+        "mottled",
+        "dappled",
+        "blotchy",
+        "brindled"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Middle Dutch spekkel; the verb (late 16th century) from the noun or a back-formation from speckled.",
+  "pronounciation": "/ˈspɛk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speckle_us_1.mp3"
+}

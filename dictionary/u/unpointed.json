@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not having a sharpened or tapered tip.",
+      "examples": [],
+      "synonyms": [
+        "rounded",
+        "flat",
+        "thick",
+        "obtuse",
+        "stubby",
+        "stubbed"
+      ]
+    },
+    {
+      "description": "(of a Semitic alphabet) written without dots or small strokes to indicate vowels or distinguish consonants.",
+      "examples": []
+    },
+    {
+      "description": "(of brickwork, a brick structure, or tiling) having joints that are not filled in or repaired.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈpoin(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unpointed_us_1.mp3"
+}

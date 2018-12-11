@@ -1,0 +1,32 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express approval when a performer or other person has done something well.",
+      "examples": [
+        "people kept on clapping and shouting “bravo!”"
+      ],
+      "synonyms": [
+        "well done",
+        "good for you",
+        "congratulations",
+        "take a bow",
+        "encore"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cry of bravo.",
+      "examples": [
+        "bravos rang out"
+      ]
+    },
+    {
+      "description": "A code word representing the letter B, used in radio communication.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from Italian, from bravo bold (one) (see brave).",
+  "pronounciation": "/ˈbrävō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bravo_us_1_rr.mp3"
+}

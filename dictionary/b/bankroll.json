@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A roll of paper money.",
+      "examples": [],
+      "synonyms": [
+        "bundle",
+        "roll",
+        "pile",
+        "stack",
+        "sheaf",
+        "pocketful",
+        "load"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Support (a person, organization, or project) financially.",
+      "examples": [
+        "the project is bankrolled by wealthy expatriates"
+      ],
+      "synonyms": [
+        "sponsor",
+        "support",
+        "back",
+        "insure",
+        "indemnify",
+        "provide security for",
+        "take the risk for",
+        "subsidize",
+        "contribute to",
+        "pay for",
+        "provide capital for",
+        "finance",
+        "fund"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbaNGkˌrōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bankroll_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Edit (text to be printed) by checking its consistency and accuracy.",
+      "examples": [
+        "experienced freelancer offers copyediting, typesetting, proofreading, indexing, page makeup"
+      ],
+      "synonyms": [
+        "revise",
+        "alter",
+        "change",
+        "modify",
+        "qualify",
+        "adapt",
+        "adjust"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkɑpiˌɛdət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/copyedit_us_1.mp3"
+}

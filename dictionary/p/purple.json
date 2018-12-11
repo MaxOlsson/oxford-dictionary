@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A color intermediate between red and blue.",
+      "examples": [
+        "the painting was mostly in shades of blue and purple"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of a color intermediate between red and blue.",
+      "examples": [
+        "a faded purple T-shirt"
+      ],
+      "synonyms": [
+        "ornate",
+        "fancy",
+        "very elaborate",
+        "curlicued",
+        "over-elaborate",
+        "extravagant",
+        "baroque",
+        "fussy",
+        "busy",
+        "ostentatious",
+        "showy",
+        "wedding-cake",
+        "gingerbread"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become or make purple in color.",
+      "examples": [
+        "Ed's cheeks purpled",
+        "the neon was purpling the horizon above the highway"
+      ]
+    }
+  ],
+  "phrases": [
+    "It is worth noting that he was clearly not born to the purple.",
+    "Grand Duchess Olga Alexandrovna Romanov was the only child born to the purple, and she was a welcome change from the horror of the previous 18 months.",
+    "Somehow, I find that frank I was born to the purple sort of elitism easier to stomach than their attitude.",
+    "He was one of twin sons born to Marcus Aurelius and Annia Galeria Faustina in August 161, the first emperor born in the purple."
+  ],
+  "origin": "Old English (describing the clothing of an emperor), alteration of purpre, from Latin purpura purple, from Greek porphura, denoting mollusks that yielded a crimson dye, also cloth dyed with this.",
+  "pronounciation": "/ˈpərpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purple_us_1.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not modified.",
+      "examples": [
+        "the unmodified Fender has a clean, sharp response"
+      ],
+      "synonyms": [
+        "downright",
+        "utter",
+        "outright",
+        "out-and-out",
+        "absolute",
+        "complete",
+        "sheer",
+        "stark",
+        "thorough",
+        "thoroughgoing",
+        "categorical",
+        "unequivocal",
+        "undeniable",
+        "unqualified",
+        "unrestricted",
+        "unmitigated",
+        "unconditional",
+        "positive",
+        "simple",
+        "wholesale",
+        "all-out",
+        "perfect",
+        "consummate",
+        "patent",
+        "pure",
+        "total",
+        "entire",
+        "flat",
+        "direct",
+        "dead",
+        "final",
+        "conclusive"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈmɒdɪfʌɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmodified_gb_1_8.mp3"
+}

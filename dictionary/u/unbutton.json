@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Unfasten the buttons of (a garment).",
+      "examples": [],
+      "synonyms": [
+        "unfasten",
+        "disconnect",
+        "disengage",
+        "part",
+        "separate",
+        "uncouple",
+        "remove",
+        "loose",
+        "loosen",
+        "untie",
+        "unhitch",
+        "undo",
+        "unhook",
+        "unzip",
+        "free",
+        "sever",
+        "pull off",
+        "cut off",
+        "clip off",
+        "hack off",
+        "chop off",
+        "prune off",
+        "nip off",
+        "tear off",
+        "break off",
+        "strip off",
+        "disunite"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈbətn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbutton_us_1.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Have (a course of action) as one's purpose or objective; plan.",
+      "examples": [
+        "the company intends to cut about 4,500 jobs",
+        "it is intended that coverage shall be worldwide"
+      ],
+      "synonyms": [
+        "plan",
+        "mean",
+        "have every intention",
+        "have the intention",
+        "have in mind",
+        "have in view",
+        "have plans",
+        "aim",
+        "propose",
+        "aspire",
+        "hope",
+        "expect",
+        "be looking",
+        "be going",
+        "be resolved",
+        "have resolved",
+        "be determined",
+        "have set out",
+        "purpose",
+        "be plotting"
+      ]
+    },
+    {
+      "description": "Design or destine (someone or something) for a particular purpose or end.",
+      "examples": [
+        "pigs intended for human consumption",
+        "a one-room cottage intended to accommodate a family"
+      ],
+      "synonyms": [
+        "plan",
+        "mean",
+        "have every intention",
+        "have the intention",
+        "have in mind",
+        "have in view",
+        "have plans",
+        "aim",
+        "propose",
+        "aspire",
+        "hope",
+        "expect",
+        "be looking",
+        "be going",
+        "be resolved",
+        "have resolved",
+        "be determined",
+        "have set out",
+        "purpose",
+        "be plotting"
+      ]
+    }
+  ],
+  "origin": "Middle English entend (in the sense direct the attention to), from Old French entendre, from Latin intendere intend, extend, direct, from in- towards + tendere stretch, tend.",
+  "pronounciation": "/inˈtend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intend_us_1.mp3"
+}

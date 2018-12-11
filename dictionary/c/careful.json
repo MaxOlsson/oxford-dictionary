@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Making sure of avoiding potential danger, mishap, or harm; cautious.",
+      "examples": [
+        "I begged him to be more careful",
+        "be careful not to lose her address",
+        "Careful! That stuff's worth a fortune!"
+      ],
+      "synonyms": [
+        "cautious",
+        "heedful",
+        "alert",
+        "aware",
+        "attentive",
+        "watchful",
+        "vigilant",
+        "wary",
+        "on guard",
+        "chary",
+        "circumspect",
+        "prudent",
+        "mindful",
+        "guarded"
+      ]
+    },
+    {
+      "description": "Done with or showing thought and attention.",
+      "examples": [
+        "a careful consideration of the facts"
+      ],
+      "synonyms": [
+        "attentive",
+        "conscientious",
+        "painstaking",
+        "meticulous",
+        "diligent",
+        "assiduous",
+        "sedulous",
+        "scrupulous",
+        "punctilious",
+        "fastidious",
+        "methodical",
+        "orderly",
+        "deliberate",
+        "judicious",
+        "perfectionist"
+      ]
+    }
+  ],
+  "origin": "Old English carful (see care, -ful).",
+  "pronounciation": "/ˈkerfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/careful_us_1.mp3"
+}

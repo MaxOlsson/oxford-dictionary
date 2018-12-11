@@ -1,0 +1,91 @@
+{
+  "verb": [
+    {
+      "description": "Send off to a destination or for a purpose.",
+      "examples": [
+        "he dispatched messages back to base",
+        "the mayor dispatched 150 police officers to restore order"
+      ],
+      "synonyms": [
+        "send",
+        "send off",
+        "post",
+        "mail",
+        "ship",
+        "freight"
+      ]
+    },
+    {
+      "description": "Deal with (a task, problem, or opponent) quickly and efficiently.",
+      "examples": [
+        "they dispatched the opposition"
+      ],
+      "synonyms": [
+        "deal with",
+        "finish",
+        "dispose of",
+        "conclude",
+        "settle",
+        "sort out",
+        "discharge",
+        "execute",
+        "perform"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sending of someone or something to a destination or for a purpose.",
+      "examples": [
+        "a resolution authorizing the dispatch of a peacekeeping force"
+      ],
+      "synonyms": [
+        "sending",
+        "posting",
+        "mailing",
+        "shipping",
+        "transmittal",
+        "consignment"
+      ]
+    },
+    {
+      "description": "An official report on state or military affairs.",
+      "examples": [
+        "in his battle dispatch he described the gunner's bravery"
+      ],
+      "synonyms": [
+        "communication",
+        "communiqué",
+        "bulletin",
+        "release",
+        "report",
+        "account",
+        "announcement",
+        "statement",
+        "missive",
+        "letter",
+        "epistle",
+        "message",
+        "instruction"
+      ]
+    },
+    {
+      "description": "The killing of someone or something.",
+      "examples": [
+        "the legendary dispatch of villains by a hero"
+      ],
+      "synonyms": [
+        "killing",
+        "slaughter",
+        "massacre",
+        "destruction",
+        "extermination",
+        "elimination",
+        "liquidation"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Italian dispacciare or Spanish despachar expedite, from dis-, des- (expressing reversal) + the base of Italian impacciare, Spanish empachar hinder.",
+  "pronounciation": "/dəˈspætʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dispatch_us_1.mp3"
+}

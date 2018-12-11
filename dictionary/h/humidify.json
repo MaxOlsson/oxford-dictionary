@@ -1,0 +1,17 @@
+{
+  "verb": [
+    {
+      "description": "Increase the level of moisture in (air)",
+      "examples": [
+        "a regulated flow of humidified air"
+      ],
+      "synonyms": [
+        "dampen",
+        "damp",
+        "moisten"
+      ]
+    }
+  ],
+  "pronounciation": "/(h)juˈmɪdəˌfaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/humidify_us_1.mp3"
+}

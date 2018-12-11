@@ -1,0 +1,181 @@
+{
+  "noun": [
+    {
+      "description": "The rear surface of the human body from the shoulders to the hips.",
+      "examples": [
+        "he lay on his back",
+        "back pain",
+        "Forbes slapped me on the back"
+      ]
+    },
+    {
+      "description": "The side or part of something that is away from the spectator or from the direction in which it moves or faces; the rear.",
+      "examples": [
+        "at the back of the hotel is a secluded garden",
+        "an empty spot in the back of the plane"
+      ],
+      "synonyms": [
+        "rear",
+        "rear side",
+        "other side"
+      ]
+    },
+    {
+      "description": "A player in a field game whose initial position is behind the front line.",
+      "examples": [
+        "their backs showed some impressive running and passing"
+      ],
+      "synonyms": [
+        "full back",
+        "sweeper"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the rear; in the opposite direction from the one that one is facing or traveling.",
+      "examples": [
+        "she moved back a pace",
+        "she walked away without looking back"
+      ],
+      "synonyms": [
+        "backwards",
+        "behind one",
+        "to one's rear",
+        "rearwards"
+      ]
+    },
+    {
+      "description": "Expressing a return to an earlier or normal condition.",
+      "examples": [
+        "she put the book back on the shelf",
+        "drive to Montreal and back",
+        "I went back to sleep",
+        "he was given his job back"
+      ]
+    },
+    {
+      "description": "In or into the past.",
+      "examples": [
+        "he made his fortune back in 1955"
+      ]
+    },
+    {
+      "description": "In return.",
+      "examples": [
+        "they wrote back to me"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give financial, material, or moral support to.",
+      "examples": [
+        "he had a newspaper empire backing him",
+        "go up there and tell them—I'll back you up"
+      ],
+      "synonyms": [
+        "sponsor",
+        "finance",
+        "put up the money for",
+        "fund",
+        "subsidize",
+        "underwrite",
+        "promote",
+        "lend one's name to",
+        "be a patron of",
+        "act as guarantor of",
+        "support"
+      ]
+    },
+    {
+      "description": "Cover the back of (an object) in order to support, protect, or decorate it.",
+      "examples": [
+        "a mirror backed with tortoiseshell"
+      ],
+      "synonyms": [
+        "cover",
+        "put a lining in",
+        "put a backing on",
+        "interline",
+        "face",
+        "panel",
+        "inlay",
+        "reinforce",
+        "encase"
+      ]
+    },
+    {
+      "description": "Walk or drive backward.",
+      "examples": [
+        "she tried to back away",
+        "the administration backed away from the plan",
+        "he backed the Mercedes into the yard",
+        "backing down the stairs"
+      ],
+      "synonyms": [
+        "reverse",
+        "drive backwards",
+        "move backwards"
+      ]
+    },
+    {
+      "description": "(of a property) have its back adjacent to (a piece of land or body of water)",
+      "examples": [
+        "his garage wall backs onto the neighboring property",
+        "a row of cottages backed on the water"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of or at the back of something.",
+      "examples": [
+        "the back garden",
+        "the back pocket of his jeans"
+      ],
+      "synonyms": [
+        "rear"
+      ]
+    },
+    {
+      "description": "(especially of wages or something published or released) from or relating to the past.",
+      "examples": [
+        "she was owed back pay"
+      ],
+      "synonyms": [
+        "past",
+        "old",
+        "previous",
+        "earlier",
+        "former",
+        "out of date"
+      ]
+    },
+    {
+      "description": "Directed toward the rear or in a reversed course.",
+      "examples": [
+        "back currents"
+      ]
+    },
+    {
+      "description": "(of a sound) articulated at the back of the mouth.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I've got the will of the people at my back, he said at the moment of victory.",
+    "I just jumped down into this crevice, behind this big boulder and then there's a god almighty bang as the forth RPG comes in at my back.",
+    "Now that I've got the will of the people at my back, I'm going to start enforcing the one-question rule.",
+    "You get the ball and you give it straight away as you have a man at your back.",
+    "The country is secure, no longer having its neighbor's tank armies and radical nationalist influence at its back.",
+    "the contenders backed down from their original pledge",
+    "He is not from a family that backs down, even if it means risking one's life.",
+    "However, neither the French nor Austrian governments showed any sign of backing down from their proposals.",
+    "Burton, he added affectionately, never backs down, whether the fight is within his own party or outside it.",
+    "She makes her opinion known, never backs down and never lets up."
+  ],
+  "origin": "Old English bæc, of Germanic origin; related to Middle Dutch and Old Norse bak. The adverb use dates from late Middle English and is a shortening of aback.",
+  "pronounciation": "/bak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/back_us_1.mp3"
+}

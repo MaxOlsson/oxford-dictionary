@@ -1,0 +1,14 @@
+{
+  "verb": [
+    {
+      "description": "Ascertain the amount of a constituent in (a solution) by measuring the volume of a known concentration of reagent required to complete a reaction with it, typically using an indicator.",
+      "examples": [
+        "the sample is titrated at a pH near 10 with EDTA solution",
+        "titrate 25 cm³ of this solution against 0.10 M hydrochloric acid"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from French titrer (from titre in the sense fineness of alloyed gold or silver) + -ate.",
+  "pronounciation": "/ˈtaɪˌtreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/titrate_us_4.mp3"
+}

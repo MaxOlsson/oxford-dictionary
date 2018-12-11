@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "Finally; in the end.",
+      "examples": [
+        "the largest firms may ultimately become unstoppable"
+      ],
+      "synonyms": [
+        "eventually",
+        "in the end",
+        "in the long run",
+        "at length",
+        "finally",
+        "sooner or later",
+        "in time",
+        "in the fullness of time",
+        "after some time",
+        "in the final analysis",
+        "when all is said and done",
+        "one day",
+        "some day",
+        "sometime",
+        "at last",
+        "at long last"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəltəmətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ultimately_us_1.mp3"
+}

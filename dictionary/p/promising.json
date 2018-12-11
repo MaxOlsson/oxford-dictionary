@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Showing signs of future success.",
+      "examples": [
+        "a promising actor",
+        "a promising start to the season"
+      ],
+      "synonyms": [
+        "good",
+        "encouraging",
+        "favourable",
+        "hopeful",
+        "full of promise",
+        "auspicious",
+        "propitious",
+        "optimistic",
+        "positive",
+        "bright",
+        "rosy",
+        "likely-looking",
+        "heartening",
+        "reassuring"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɑməsɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/promising_us_1.mp3"
+}

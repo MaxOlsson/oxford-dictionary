@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "An advertisement.",
+      "examples": [
+        "the latest television lager ad"
+      ],
+      "synonyms": [
+        "notice",
+        "announcement",
+        "bulletin"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Anno Domini (used to indicate that a date comes the specified number of years after the accepted date of Christ's birth).",
+      "examples": []
+    },
+    {
+      "description": "Active duty.",
+      "examples": []
+    },
+    {
+      "description": "Armored division.",
+      "examples": []
+    },
+    {
+      "description": "Athletic director.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: abbreviation.",
+  "pronounciation": "/ˌeɪˈdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/a_d_1_us_1_abbr.mp3"
+}

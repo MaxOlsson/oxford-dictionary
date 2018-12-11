@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Shed tears.",
+      "examples": [
+        "a grieving mother wept over the body of her daughter",
+        "he wept bitter tears at her cruelty"
+      ],
+      "synonyms": [
+        "cry",
+        "shed tears",
+        "sob",
+        "snivel",
+        "whimper",
+        "whine",
+        "mewl",
+        "bawl",
+        "lament",
+        "grieve",
+        "mourn",
+        "keen",
+        "wail"
+      ]
+    },
+    {
+      "description": "Exude liquid.",
+      "examples": [
+        "she rubbed the sore, making it weep"
+      ],
+      "synonyms": [
+        "give off",
+        "give out",
+        "discharge",
+        "release",
+        "send out",
+        "send forth",
+        "emit",
+        "issue",
+        "emanate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fit or period of weeping.",
+      "examples": [
+        "sit down and have a weep"
+      ],
+      "synonyms": [
+        "cry",
+        "sob",
+        "snivel",
+        "whimper",
+        "mewl",
+        "bawl",
+        "lament"
+      ]
+    }
+  ],
+  "origin": "Old English wēpan (verb), of Germanic origin, probably imitative.",
+  "pronounciation": "/wēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weep_us_1.mp3"
+}

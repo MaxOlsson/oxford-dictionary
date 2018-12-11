@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "Present or existing from the beginning; first or earliest.",
+      "examples": [
+        "the original owner of the house",
+        "the plasterwork is probably original"
+      ],
+      "synonyms": [
+        "indigenous",
+        "native",
+        "aboriginal"
+      ]
+    },
+    {
+      "description": "Created directly and personally by a particular artist; not a copy or imitation.",
+      "examples": [
+        "original Rembrandts",
+        "playing original material"
+      ],
+      "synonyms": [
+        "authentic",
+        "genuine",
+        "actual",
+        "real",
+        "true",
+        "pukka",
+        "bona fide",
+        "veritable",
+        "not copied",
+        "archetypal",
+        "prototypical",
+        "master"
+      ]
+    },
+    {
+      "description": "Not dependent on other people's ideas; inventive and unusual.",
+      "examples": [
+        "a subtle and original thinker"
+      ],
+      "synonyms": [
+        "innovative",
+        "creative",
+        "imaginative",
+        "innovatory",
+        "innovational",
+        "inventive",
+        "ingenious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something serving as a model or basis for imitations or copies.",
+      "examples": [
+        "the portrait may be a copy of the original",
+        "one set of originals and four photocopies"
+      ],
+      "synonyms": [
+        "archetype",
+        "prototype"
+      ]
+    },
+    {
+      "description": "An eccentric or unusual person.",
+      "examples": [
+        "he was one of the true originals"
+      ],
+      "synonyms": [
+        "individualist",
+        "individual",
+        "eccentric",
+        "nonconformist",
+        "free spirit",
+        "bohemian",
+        "rare bird",
+        "maverick",
+        "oddity"
+      ]
+    }
+  ],
+  "origin": "Middle English (the earliest use being in the phrase original sin): from Old French, or from Latin originalis, from origin- (see origin).",
+  "pronounciation": "/əˈrɪdʒənl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/original_us_1.mp3"
+}

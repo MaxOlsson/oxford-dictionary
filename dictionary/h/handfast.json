@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Engage (someone) to be married.",
+      "examples": [
+        "she was handfasted to my older brother Lewis",
+        "they had been handfasted when they were but twelve years old"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An engagement or marriage contract.",
+      "examples": [
+        "the only thing that can undo a handfast is a lack of love"
+      ],
+      "synonyms": [
+        "engagement",
+        "betrothment",
+        "marriage contract"
+      ]
+    }
+  ],
+  "origin": "Late Old English: from Old Norse handfesta strike a bargain by joining hands.",
+  "pronounciation": "/ˈhan(d)fɑːst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handfast_gb_1.mp3"
+}

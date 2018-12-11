@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A person or company that finances or organizes a sporting event or theatrical production.",
+      "examples": [
+        "a boxing promoter"
+      ]
+    },
+    {
+      "description": "A supporter of a cause or aim.",
+      "examples": [
+        "Mitterrand was a fierce promoter of European integration"
+      ],
+      "synonyms": [
+        "advocate",
+        "champion",
+        "supporter",
+        "backer",
+        "upholder",
+        "proponent",
+        "exponent",
+        "protagonist",
+        "campaigner"
+      ]
+    },
+    {
+      "description": "An additive that increases the activity of a catalyst.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French promotour, from medieval Latin promotor (see promote).",
+  "pronounciation": "/prəˈmōdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/promoter_us_1.mp3"
+}

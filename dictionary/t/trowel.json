@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A small handheld tool with a flat, pointed blade, used to apply and spread mortar or plaster.",
+      "examples": [
+        "a pointing trowel"
+      ]
+    },
+    {
+      "description": "A small handheld tool with a curved scoop for lifting plants or earth.",
+      "examples": [
+        "a garden trowel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply or spread with or as if with a trowel.",
+      "examples": [
+        "trowel in enough soil to form a dome",
+        "Kerrie troweled jam onto her toast"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun): from Old French truele, from medieval Latin truella, alteration of Latin trulla scoop, diminutive of trua skimmer.",
+  "pronounciation": "/ˈtrou(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trowel_us_1.mp3"
+}

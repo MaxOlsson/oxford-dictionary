@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Not marred.",
+      "examples": [],
+      "synonyms": [
+        "whole",
+        "entire",
+        "complete",
+        "unbroken",
+        "undamaged",
+        "unharmed",
+        "uninjured",
+        "unimpaired",
+        "unflawed",
+        "faultless",
+        "flawless",
+        "unscathed",
+        "untouched",
+        "unspoilt",
+        "unmutilated",
+        "unsevered",
+        "unblemished",
+        "unmarked",
+        "perfect",
+        "pristine",
+        "inviolate",
+        "unviolated",
+        "undefiled",
+        "unsullied",
+        "in one piece"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnˈmɑːd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmarred_gb_1.mp3"
+}

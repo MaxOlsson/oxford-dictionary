@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not expressed in speech; tacit.",
+      "examples": [
+        "an unspoken assumption"
+      ],
+      "synonyms": [
+        "unstated",
+        "unexpressed",
+        "unuttered",
+        "unsaid",
+        "unmentioned",
+        "unvoiced",
+        "unarticulated",
+        "undeclared",
+        "unavowed",
+        "not spelt out",
+        "mute",
+        "silent",
+        "wordless",
+        "voiceless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈspōkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unspoken_us_1.mp3"
+}

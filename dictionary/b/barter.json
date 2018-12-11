@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Exchange (goods or services) for other goods or services without using money.",
+      "examples": [
+        "he often bartered a meal for drawings",
+        "the company is prepared to barter for Russian oil"
+      ],
+      "synonyms": [
+        "trade",
+        "swap",
+        "trade off",
+        "exchange",
+        "give in exchange",
+        "change",
+        "traffic",
+        "sell"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action or system of exchanging goods or services without using money.",
+      "examples": [
+        "it will be paid for by a mixture of barter and cash"
+      ],
+      "synonyms": [
+        "trading",
+        "trade",
+        "exchange",
+        "swapping",
+        "trafficking",
+        "business",
+        "commerce",
+        "buying and selling",
+        "dealing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably from Old French barater deceive (see barratry).",
+  "pronounciation": "/ˈbärdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/barter_us_1.mp3"
+}

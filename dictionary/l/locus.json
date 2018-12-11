@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A particular position, point, or place.",
+      "examples": [
+        "it is impossible to specify the exact locus in the brain of these neural events"
+      ],
+      "synonyms": [
+        "emergency",
+        "emergency situation",
+        "urgent situation",
+        "crisis",
+        "potential crisis"
+      ]
+    },
+    {
+      "description": "A curve or other figure formed by all the points satisfying a particular equation of the relation between coordinates, or by a point, line, or surface moving according to mathematically defined conditions.",
+      "examples": [],
+      "synonyms": [
+        "surrounding district",
+        "surrounding area",
+        "neighbourhood",
+        "locality",
+        "locale",
+        "local area",
+        "area",
+        "district",
+        "region",
+        "quarter",
+        "sector",
+        "territory",
+        "domain",
+        "place",
+        "zone"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Latin, place.",
+  "pronounciation": "/ˈlōkəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/locus_us_1.mp3"
+}

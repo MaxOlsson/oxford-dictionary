@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "Side by side and facing the same way.",
+      "examples": [
+        "the path was wide enough for two people to walk abreast",
+        "they were riding three abreast"
+      ],
+      "synonyms": [
+        "in a row",
+        "side by side",
+        "alongside",
+        "level",
+        "abeam",
+        "on a level",
+        "beside each other",
+        "shoulder to shoulder",
+        "cheek by jowl"
+      ]
+    },
+    {
+      "description": "Alongside or even with something.",
+      "examples": [
+        "the cart came abreast of the Americans in their rickshaw"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from a- in + breast.",
+  "pronounciation": "/əˈbrest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abreast_us_1.mp3"
+}

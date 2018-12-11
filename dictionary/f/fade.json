@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Gradually grow faint and disappear.",
+      "examples": [
+        "the noise faded away",
+        "hopes of peace had faded"
+      ],
+      "synonyms": [
+        "dim",
+        "grow dim",
+        "grow faint",
+        "grow feeble",
+        "fail",
+        "dwindle",
+        "grow less",
+        "die away",
+        "wane",
+        "disappear",
+        "vanish",
+        "decline",
+        "dissolve",
+        "peter out",
+        "melt away",
+        "evanesce"
+      ]
+    },
+    {
+      "description": "(with reference to film and television images) come or cause to come gradually into or out of view, or to merge into another shot.",
+      "examples": [
+        "fade into scenes of rooms strewn with festive remains",
+        "some shots have to be faded in"
+      ]
+    },
+    {
+      "description": "(of the ball) deviate to the right (or, for a left-handed golfer, the left), typically as a result of spin given to the ball.",
+      "examples": []
+    },
+    {
+      "description": "(in craps) match the bet of (another player)",
+      "examples": [
+        "Lovejoy faded him for twenty-five cents"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process of becoming less bright.",
+      "examples": [
+        "the sun can cause color-fade"
+      ]
+    },
+    {
+      "description": "A shot causing the ball to deviate to the right (or, for a left-handed golfer, the left), usually purposely.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he would have done a fade if he had seen somebody",
+    "Behind her, the lights faded and the computer did a quick fade to a multi-hued sunset, a dark, starry night, and finally a blank screen.",
+    "Coming off the solo, I sang the last verse with the existing loop and then did a slow fade to end the song.",
+    "Notice the way a Pro quarterback FADES back almost with the HIKE.",
+    "When you are do going to do a blitz, run up to the line of scrimmage then fade back until you are behind the ref [referee].",
+    "He can fade back, take a five-step drop, and just before he throws it, look into a camera and say, \"Mel Kiper, this is for you.\"",
+    "On pass plays, drops back as quarterback begins to fade back, picks up legality of blocks by near linemen."
+  ],
+  "origin": "Middle English (in the sense grow weak): from Old French fader, from fade dull, insipid, probably based on a blend of Latin fatuus silly, insipid and vapidus vapid.",
+  "pronounciation": "/fād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fade_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A passionate expression of grief or sorrow.",
+      "examples": [
+        "his mother's night-long laments for his father",
+        "a song full of lament and sorrow"
+      ],
+      "synonyms": [
+        "wail",
+        "wailing",
+        "lamentation",
+        "moan",
+        "moaning",
+        "groan",
+        "weeping",
+        "crying",
+        "sob",
+        "sobbing",
+        "keening",
+        "howl",
+        "complaint"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mourn (a person's loss or death)",
+      "examples": [
+        "he was lamenting the death of his infant daughter"
+      ],
+      "synonyms": [
+        "mourn",
+        "grieve",
+        "grieve for",
+        "grieve over",
+        "weep for",
+        "shed tears for"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from French lamenter or Latin lamentari, from lamenta (plural) weeping, wailing.",
+  "pronounciation": "/ləˈmɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lament_us_1.mp3"
+}

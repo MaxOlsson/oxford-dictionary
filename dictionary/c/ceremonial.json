@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or used for formal events of a religious or public nature.",
+      "examples": [
+        "ceremonial robes",
+        "the solemn, ceremonial air of a procession of monks",
+        "presented at ceremonial occasions"
+      ],
+      "synonyms": [
+        "formal",
+        "official",
+        "state",
+        "public"
+      ]
+    },
+    {
+      "description": "(of a position or role) involving only nominal authority or power.",
+      "examples": [
+        "originally a ceremonial post, it is now a position with executive power"
+      ],
+      "synonyms": [
+        "in name only",
+        "in title only",
+        "titular",
+        "formal",
+        "official"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The system of rules and procedures to be observed at a formal or religious occasion.",
+      "examples": [
+        "the procedure was conducted with all due ceremonial"
+      ],
+      "synonyms": [
+        "custom",
+        "usage",
+        "practice",
+        "tradition",
+        "way",
+        "habit",
+        "norm"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin caerimonialis, from Latin caerimonia religious worship (see ceremony).",
+  "pronounciation": "/ˌserəˈmōnēəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ceremonial_us_1.mp3"
+}

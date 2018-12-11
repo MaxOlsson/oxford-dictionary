@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Inspect (someone or something) in detail to determine their nature or condition; investigate thoroughly.",
+      "examples": [
+        "a doctor examined me and said I might need a caesarean",
+        "this forced us to examine every facet of our business"
+      ],
+      "synonyms": [
+        "inspect",
+        "survey",
+        "scrutinize",
+        "look at",
+        "look into",
+        "enquire into",
+        "study",
+        "investigate",
+        "scan",
+        "sift",
+        "delve into",
+        "dig into",
+        "explore",
+        "probe",
+        "check out",
+        "consider",
+        "appraise",
+        "weigh",
+        "weigh up",
+        "analyse",
+        "review",
+        "vet"
+      ]
+    },
+    {
+      "description": "Test the knowledge or proficiency of (someone) by requiring them to answer questions or perform tasks.",
+      "examples": [
+        "the colleges set standards by examining candidates"
+      ],
+      "synonyms": [
+        "test",
+        "quiz",
+        "question",
+        "set an examination for"
+      ]
+    },
+    {
+      "description": "Formally question (a witness) in court.",
+      "examples": [],
+      "synonyms": [
+        "interrogate",
+        "put questions to",
+        "ask questions of",
+        "quiz",
+        "question",
+        "cross-examine",
+        "cross-question"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French examiner, from Latin examinare weigh, test, from examen examination.",
+  "pronounciation": "/iɡˈzamən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/examine_us_1.mp3"
+}

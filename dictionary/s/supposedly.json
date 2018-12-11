@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "According to what is generally assumed or believed (often used to indicate that the speaker doubts the truth of the statement)",
+      "examples": [
+        "there were rumors of a rift between him and his colleagues, supposedly because they were jealous of his relationship with the Duchess"
+      ],
+      "synonyms": [
+        "supposedly",
+        "seemingly",
+        "apparently",
+        "allegedly",
+        "reportedly",
+        "professedly",
+        "ostensibly",
+        "on the face of it",
+        "to all appearances",
+        "on the surface",
+        "to all intents and purposes",
+        "outwardly",
+        "superficially",
+        "purportedly",
+        "nominally",
+        "by its own account",
+        "by one's own account",
+        "on paper"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈpōzədlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/supposedly_us_1.mp3"
+}

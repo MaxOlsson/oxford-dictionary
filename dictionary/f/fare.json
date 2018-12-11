@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "The money a passenger on public transportation has to pay.",
+      "examples": [],
+      "synonyms": [
+        "ticket price",
+        "transport cost",
+        "price",
+        "cost",
+        "charge",
+        "fee",
+        "payment",
+        "toll",
+        "tariff",
+        "levy"
+      ]
+    },
+    {
+      "description": "A range of food of a particular type.",
+      "examples": [
+        "delicious Provençal fare"
+      ],
+      "synonyms": [
+        "food",
+        "meals",
+        "board",
+        "sustenance",
+        "nourishment",
+        "nutriment",
+        "foodstuffs",
+        "refreshments",
+        "eatables",
+        "provisions",
+        "daily bread"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perform in a specified way in a particular situation or over a particular period of time.",
+      "examples": [
+        "the party fared badly in the spring elections"
+      ],
+      "synonyms": [
+        "get on",
+        "proceed",
+        "get along",
+        "progress",
+        "make out",
+        "do",
+        "manage",
+        "muddle along",
+        "muddle through",
+        "cope",
+        "survive"
+      ]
+    },
+    {
+      "description": "Travel.",
+      "examples": [
+        "a young knight fares forth"
+      ]
+    }
+  ],
+  "origin": "Old English fær, faru traveling, a journey or expedition, faran to travel, also get on (well or badly), of Germanic origin; related to Dutch varen and German fahren to travel, Old Norse ferja ferry boat, also to ford. Sense 1 of the noun stems from an earlier meaning a journey for which a price is paid. Noun sense 2 was originally used with reference to the quality or quantity of food provided, probably from the idea of faring well or badly.",
+  "pronounciation": "/fer/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fare_us_1.mp3"
+}

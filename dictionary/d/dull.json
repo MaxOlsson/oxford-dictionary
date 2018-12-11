@@ -1,0 +1,130 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking interest or excitement.",
+      "examples": [
+        "your diet doesn't have to be dull and boring"
+      ],
+      "synonyms": [
+        "uninteresting",
+        "boring",
+        "tedious",
+        "tiresome",
+        "wearisome",
+        "dry",
+        "dry as dust",
+        "flat",
+        "bland",
+        "characterless",
+        "featureless",
+        "colourless",
+        "monotonous",
+        "unexciting",
+        "uninspiring",
+        "unstimulating",
+        "lacking variety",
+        "lacking variation",
+        "lacking excitement",
+        "lacking interest",
+        "unimaginative",
+        "uneventful",
+        "lifeless",
+        "soulless",
+        "insipid"
+      ]
+    },
+    {
+      "description": "Lacking brightness, vividness, or sheen.",
+      "examples": [
+        "his face glowed in the dull lamplight",
+        "his black hair looked dull"
+      ],
+      "synonyms": [
+        "drab",
+        "dreary",
+        "sombre",
+        "dark",
+        "subdued",
+        "muted",
+        "toned down",
+        "lacklustre",
+        "lustreless",
+        "colourless",
+        "faded",
+        "washed out",
+        "muddy",
+        "watery",
+        "pale"
+      ]
+    },
+    {
+      "description": "(of a person) slow to understand; stupid.",
+      "examples": [
+        "the voice of a teacher talking to a rather dull child"
+      ],
+      "synonyms": [
+        "unintelligent",
+        "stupid",
+        "slow",
+        "dull-witted",
+        "slow-witted",
+        "witless",
+        "doltish",
+        "dunce-like",
+        "stolid",
+        "vacuous",
+        "empty-headed",
+        "brainless",
+        "mindless",
+        "foolish",
+        "half-witted",
+        "idiotic",
+        "moronic",
+        "imbecilic",
+        "cretinous",
+        "obtuse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become dull or less intense.",
+      "examples": [
+        "time dulls the memory",
+        "Albert's eyes dulled a little"
+      ],
+      "synonyms": [
+        "lessen",
+        "decrease",
+        "diminish",
+        "reduce",
+        "dampen",
+        "depress",
+        "take the edge off",
+        "blunt",
+        "deaden",
+        "mute",
+        "soften",
+        "tone down",
+        "allay",
+        "ease",
+        "soothe",
+        "assuage",
+        "alleviate",
+        "palliate",
+        "moderate",
+        "mitigate"
+      ]
+    }
+  ],
+  "phrases": [
+    "You have to shape what your people are doing as a breakthrough, even if it's actually dull as dishwater.",
+    "My option now is to use this boredom to concentrate more on the degree, although the latest book on animal rights is as dull as ditchwater now.",
+    "Hertfordshire South West was dull as ditchwater, Bedford was fairly bland and Suffolk South was a safe seat of the most tedious kind.",
+    "It was as dull as ditchwater compared to the East End proper.",
+    "The music is dull as dishwater, and you can barely notice when the song actually changes (if it does!)."
+  ],
+  "origin": "Old English dol stupid, of Germanic origin; related to Dutch dol crazy and German toll mad, fantastic, wonderful.",
+  "pronounciation": "/dəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dull_us_1.mp3"
+}

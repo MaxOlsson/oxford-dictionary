@@ -1,0 +1,23 @@
+{
+  "adverb": [
+    {
+      "description": "Namely; in other words (used to introduce a gloss or explanation)",
+      "examples": [
+        "the first music reproducing media, viz., the music box and the player piano"
+      ],
+      "synonyms": [
+        "namely",
+        "that is to say",
+        "that is",
+        "to wit",
+        "to be specific",
+        "specifically",
+        "in other words",
+        "to put it another way"
+      ]
+    }
+  ],
+  "origin": "Abbreviation of videlicet, z being a medieval Latin symbol for -et.",
+  "pronounciation": "/viz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/viz_1_us_1.mp3"
+}

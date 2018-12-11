@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Express complete disapproval of, typically in public; censure.",
+      "examples": [
+        "fair-minded people declined to condemn her on mere suspicion"
+      ],
+      "synonyms": [
+        "censure",
+        "criticize",
+        "castigate",
+        "attack",
+        "denounce",
+        "deplore",
+        "decry",
+        "revile",
+        "inveigh against",
+        "blame",
+        "chastise",
+        "berate",
+        "upbraid",
+        "reprimand",
+        "rebuke",
+        "reprove",
+        "reprehend",
+        "take to task",
+        "find fault with",
+        "give someone a bad press",
+        "give something a bad press"
+      ]
+    },
+    {
+      "description": "Sentence (someone) to a particular punishment, especially death.",
+      "examples": [
+        "the rebels had been condemned to death"
+      ],
+      "synonyms": [
+        "sentence",
+        "pass sentence on"
+      ]
+    }
+  ],
+  "origin": "Middle English (in condemn (sense 2)): from Old French condemner, from Latin condemnare, from con- (expressing intensive force) + damnare inflict loss on (see damn).",
+  "pronounciation": "/kənˈdem/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcondemn_us_1.mp3"
+}

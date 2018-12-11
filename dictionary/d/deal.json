@@ -1,0 +1,122 @@
+{
+  "verb": [
+    {
+      "description": "Distribute (cards) in an orderly rotation to players for a game or round.",
+      "examples": [
+        "the cards were dealt for the last hand",
+        "fate dealt her a different hand"
+      ],
+      "synonyms": [
+        "distribute",
+        "give out",
+        "share out",
+        "divide out",
+        "divide up",
+        "hand out",
+        "pass out",
+        "pass round",
+        "dole out",
+        "mete out",
+        "dispense",
+        "allocate",
+        "allot",
+        "assign",
+        "apportion",
+        "bestow"
+      ]
+    },
+    {
+      "description": "Take part in commercial trading of a particular commodity.",
+      "examples": [
+        "directors were prohibited from dealing in the company's shares"
+      ],
+      "synonyms": [
+        "trade in",
+        "buy and sell",
+        "be concerned with trading",
+        "be engaged in trading",
+        "do business in"
+      ]
+    },
+    {
+      "description": "Take measures concerning (someone or something), especially with the intention of putting something right.",
+      "examples": [
+        "the government had been unable to deal with the economic crisis"
+      ],
+      "synonyms": [
+        "cope with",
+        "handle",
+        "manage",
+        "attend to",
+        "see to",
+        "take care of",
+        "take charge of",
+        "take in hand",
+        "sort out",
+        "tackle",
+        "take on"
+      ]
+    },
+    {
+      "description": "Inflict (a blow) on (someone or something)",
+      "examples": [
+        "hopes of an economic recovery were dealt another blow"
+      ],
+      "synonyms": [
+        "deliver",
+        "administer",
+        "dispense",
+        "inflict",
+        "give",
+        "impose"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An agreement entered into by two or more parties for their mutual benefit, especially in a business or political context.",
+      "examples": [
+        "the band signed a major recording deal"
+      ],
+      "synonyms": [
+        "agreement",
+        "understanding",
+        "pact",
+        "compact",
+        "bargain",
+        "covenant",
+        "contract",
+        "treaty",
+        "protocol",
+        "concordat",
+        "entente",
+        "accord",
+        "arrangement",
+        "accommodation",
+        "compromise",
+        "settlement",
+        "negotiation"
+      ]
+    },
+    {
+      "description": "The process of distributing the cards to players in a card game.",
+      "examples": []
+    },
+    {
+      "description": "A significant but unspecified amount of something.",
+      "examples": [
+        "he lost a great deal of blood"
+      ]
+    }
+  ],
+  "phrases": [
+    "they don't make a big deal out of minor irritations",
+    "Failing to cover such an important community event would not be a big deal if a local radio station was on air.",
+    "As you might imagine, this is quite a big deal for landowners, and is important to keep sites open.",
+    "It's a bit of a waste, given that Merkin makes such a big deal over the fact that Munro rarely gives interviews.",
+    "A few years ago you had Gogh Van Go, everybody made a big deal about them - where the hell are they now?"
+  ],
+  "origin": "Middle English: from Middle Low German and Middle Dutch dele plank.",
+  "pronounciation": "/dil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deal_us_1.mp3"
+}

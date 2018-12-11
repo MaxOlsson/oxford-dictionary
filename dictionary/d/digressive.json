@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by digression; tending to depart from the subject.",
+      "examples": [
+        "a digressive account"
+      ],
+      "synonyms": [
+        "wordy",
+        "loquacious",
+        "garrulous",
+        "talkative",
+        "voluble",
+        "orotund",
+        "expansive",
+        "babbling",
+        "blathering",
+        "prattling",
+        "prating",
+        "jabbering",
+        "gushing",
+        "effusive"
+      ]
+    }
+  ],
+  "pronounciation": "/dīˈɡresiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/digressive_us_1.mp3"
+}

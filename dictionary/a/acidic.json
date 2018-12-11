@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Having the properties of an acid, or containing acid; having a pH below 7.",
+      "examples": [],
+      "synonyms": [
+        "sour",
+        "tart",
+        "bitter",
+        "unsweetened",
+        "sharp",
+        "biting",
+        "acrid",
+        "pungent",
+        "acerbic",
+        "vinegary",
+        "vinegarish",
+        "acetic",
+        "acetous"
+      ]
+    },
+    {
+      "description": "Sharp-tasting or sour.",
+      "examples": [
+        "acidic wine"
+      ],
+      "synonyms": [
+        "sour",
+        "sharp",
+        "sharp-tasting",
+        "tangy",
+        "bitter",
+        "acid",
+        "zesty",
+        "piquant",
+        "pungent",
+        "strong",
+        "harsh",
+        "unsweetened",
+        "vinegary",
+        "lemony",
+        "citrus",
+        "burning",
+        "acrid",
+        "acetic"
+      ]
+    },
+    {
+      "description": "(of rock, especially lava) relatively rich in silica.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈsɪdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acidic_us_1.mp3"
+}

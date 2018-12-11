@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A piece of thin wood in the center of a chair back.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a splat.",
+      "examples": [
+        "he lands splat on his right elbow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Crush or squash (something) with a splat.",
+      "examples": [
+        "he was splatting a bug"
+      ],
+      "synonyms": [
+        "squash",
+        "squeeze",
+        "press",
+        "compress"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: abbreviation of splatter.",
+  "pronounciation": "/splæt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splat_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Not consistent or having a fixed pattern; liable to change.",
+      "examples": [
+        "the quality of hospital food is highly variable",
+        "awards can be for variable amounts"
+      ],
+      "synonyms": [
+        "changeable",
+        "changing",
+        "varying",
+        "shifting",
+        "fluctuating",
+        "irregular",
+        "wavering",
+        "vacillating",
+        "inconstant",
+        "inconsistent",
+        "fluid",
+        "floating",
+        "unsteady",
+        "uneven",
+        "unstable",
+        "unsettled",
+        "movable",
+        "mutable",
+        "protean",
+        "chameleonic",
+        "unfixed",
+        "fitful",
+        "capricious",
+        "temperamental",
+        "fickle",
+        "kaleidoscopic",
+        "volatile",
+        "unpredictable",
+        "undependable",
+        "unreliable"
+      ]
+    },
+    {
+      "description": "Able to be changed or adapted.",
+      "examples": [
+        "the drill has variable speed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An element, feature, or factor that is liable to vary or change.",
+      "examples": [
+        "there are too many variables involved to make any meaningful predictions"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin variabilis, from variare (see vary).",
+  "pronounciation": "/ˈvɛriəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/variable_us_1.mp3"
+}

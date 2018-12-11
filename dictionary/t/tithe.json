@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "One tenth of annual produce or earnings, formerly taken as a tax for the support of the Church and clergy.",
+      "examples": [],
+      "synonyms": [
+        "levy",
+        "tariff",
+        "duty",
+        "toll",
+        "excise",
+        "impost",
+        "contribution",
+        "assessment",
+        "tribute",
+        "tithe",
+        "charge",
+        "fee"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pay or give as a tithe.",
+      "examples": [
+        "he tithes 10 percent of his income to the church"
+      ]
+    }
+  ],
+  "origin": "Old English tēotha (adjective in the ordinal sense tenth, used in a specialized sense as a noun), tēothian (verb).",
+  "pronounciation": "/taɪð/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tithe_us_1.mp3"
+}

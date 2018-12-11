@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Leave a ship, aircraft, or other vehicle.",
+      "examples": [
+        "the passengers began to disembark"
+      ],
+      "synonyms": [
+        "get off",
+        "step off",
+        "leave"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French désembarquer, Spanish desembarcar, or Italian disimbarcare, based on Latin barca ship's boat.",
+  "pronounciation": "/ˌdɪsɪmˈbɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disembark_us_1.mp3"
+}

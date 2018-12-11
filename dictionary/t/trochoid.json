@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a joint in which one element rotates on its own axis (e.g. the atlas vertebra).",
+      "examples": []
+    },
+    {
+      "description": "Denoting a curve traced by a point on a radius of a circle rotating along a straight line or another circle (a cycloid, epicycloid, or hypocycloid).",
+      "examples": []
+    },
+    {
+      "description": "Having or denoting a form of mollusk shell which is conical with a flat base, like a top shell.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A trochoid curve.",
+      "examples": []
+    },
+    {
+      "description": "A trochoid joint.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: from Greek trokhoeidēs wheel-like, from trokhos wheel.",
+  "pronounciation": "/ˈtrōkoid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trochoid_us_1.mp3"
+}

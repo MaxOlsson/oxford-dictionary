@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "The truncated remnant of a pencil, cigarette, or similar-shaped object after use.",
+      "examples": [],
+      "synonyms": [
+        "butt",
+        "end",
+        "tail end",
+        "remnant"
+      ]
+    },
+    {
+      "description": "The part of a check, receipt, ticket, or other document torn off and kept as a record.",
+      "examples": [],
+      "synonyms": [
+        "counterfoil",
+        "ticket slip",
+        "detachable portion",
+        "coupon",
+        "tab",
+        "receipt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Accidentally strike (one's toe) against something.",
+      "examples": [
+        "I stubbed my toe, swore, and tripped"
+      ]
+    },
+    {
+      "description": "Extinguish (a lighted cigarette) by pressing the lighted end against something.",
+      "examples": [
+        "she stubbed out her cigarette in the overflowing ashtray"
+      ],
+      "synonyms": [
+        "extinguish",
+        "put out",
+        "douse",
+        "smother",
+        "choke",
+        "stamp out",
+        "blow out",
+        "quench",
+        "stub out",
+        "turn out",
+        "dampen",
+        "damp down"
+      ]
+    },
+    {
+      "description": "Dig up (a plant) by the roots.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English stub(b) stump of a tree, of Germanic origin. The verb is first recorded ( late Middle English) in sense 3; stub (sense 1 of the verb) (mid 19th century) was originally a US usage.",
+  "pronounciation": "/stəb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stub_us_1.mp3"
+}

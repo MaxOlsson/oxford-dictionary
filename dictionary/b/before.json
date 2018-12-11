@@ -1,0 +1,58 @@
+{
+  "adverb, conjunction, &amp; preposition": [
+    {
+      "description": "During the period of time preceding (a particular event, date, or time)",
+      "examples": [
+        "she had to rest before dinner",
+        "the day before yesterday",
+        "they lived rough for four days before they were arrested",
+        "his playing days had ended six years before",
+        "it's never happened to me before",
+        "before the war",
+        "it wasn't long before I had my first bite"
+      ],
+      "synonyms": [
+        "prior to",
+        "previous to",
+        "earlier than",
+        "preparatory to",
+        "in preparation for",
+        "preliminary to",
+        "in anticipation of",
+        "in expectation of"
+      ]
+    },
+    {
+      "description": "In front of.",
+      "examples": [
+        "Matilda stood before her, panting",
+        "trotting through the city with guards running before and behind",
+        "the patterns swam before her eyes"
+      ],
+      "synonyms": [
+        "ahead",
+        "in front",
+        "in advance",
+        "in the lead"
+      ]
+    },
+    {
+      "description": "In preference to; with a higher priority than.",
+      "examples": [
+        "a skilled warrior who places duty before all else",
+        "they would die before they would cooperate with each other"
+      ],
+      "synonyms": [
+        "in preference to",
+        "rather than",
+        "sooner than",
+        "above",
+        "over",
+        "instead of"
+      ]
+    }
+  ],
+  "origin": "Old English beforan (see by, fore), of Germanic origin; related to German bevor.",
+  "pronounciation": "/bəˈfôr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/before_us_1.mp3"
+}

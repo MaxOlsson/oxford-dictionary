@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Tread heavily and noisily, typically in order to show anger.",
+      "examples": [
+        "Martin stomped off to the spare room"
+      ],
+      "synonyms": [
+        "walk",
+        "step",
+        "stride",
+        "pace",
+        "go"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in jazz or popular music) a tune or song with a fast tempo and a heavy beat.",
+      "examples": [],
+      "synonyms": [
+        "footfall",
+        "step",
+        "stride",
+        "tread",
+        "pace",
+        "stamp"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (originally US dialect): variant of the verb stamp.",
+  "pronounciation": "/stämp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stomp_us_1.mp3"
+}

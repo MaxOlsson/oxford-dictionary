@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The amount of something produced by a person, machine, or industry.",
+      "examples": [
+        "efficiency can lead to higher outputs",
+        "the diverse range of Liszt's output"
+      ],
+      "synonyms": [
+        "production",
+        "product",
+        "amount produced",
+        "quantity produced",
+        "yield",
+        "harvest",
+        "return",
+        "volume",
+        "gross national product",
+        "gross domestic product",
+        "out-turn",
+        "achievement",
+        "accomplishment",
+        "solutions"
+      ]
+    },
+    {
+      "description": "A place where power or information leaves a system.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Produce, deliver, or supply (data) using a computer or other device.",
+      "examples": [
+        "you can output the image directly to a video recording system"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊtˌpʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/output_us_1.mp3"
+}

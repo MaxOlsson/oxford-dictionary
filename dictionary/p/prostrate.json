@@ -1,0 +1,80 @@
+{
+  "adjective": [
+    {
+      "description": "Lying stretched out on the ground with one's face downward.",
+      "examples": [],
+      "synonyms": [
+        "prone",
+        "lying flat",
+        "lying down",
+        "flat",
+        "stretched out",
+        "spreadeagled",
+        "sprawling",
+        "horizontal",
+        "recumbent",
+        "on one's front"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lay oneself flat on the ground face downward, especially in reverence or submission.",
+      "examples": [
+        "she prostrated herself on the bare floor of the church"
+      ],
+      "synonyms": [
+        "throw oneself flat",
+        "throw oneself down",
+        "lie down",
+        "stretch oneself out",
+        "bow low",
+        "throw oneself at someone's feet"
+      ]
+    },
+    {
+      "description": "(of distress, exhaustion, or illness) reduce (someone) to extreme physical weakness.",
+      "examples": [
+        "she was prostrated by a migraine that she could scarcely get up the stairs"
+      ],
+      "synonyms": [
+        "overwhelm",
+        "overcome",
+        "overpower",
+        "bring someone to their knees",
+        "crush",
+        "devastate",
+        "make helpless",
+        "paralyse",
+        "lay low",
+        "make powerless",
+        "debilitate",
+        "incapacitate",
+        "weaken",
+        "enfeeble",
+        "devitalize",
+        "enervate",
+        "handicap",
+        "immobilize",
+        "hamstring",
+        "make impotent",
+        "wear out",
+        "exhaust",
+        "tire out",
+        "fatigue",
+        "weary",
+        "make weary",
+        "drain",
+        "sap",
+        "wash out",
+        "take it out of",
+        "tax",
+        "overtax",
+        "undermine"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin prostratus thrown down, past participle of prosternere, from pro- before + sternere lay flat.",
+  "pronounciation": "/ˈprästrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prostrate_us_2.mp3"
+}

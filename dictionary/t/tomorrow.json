@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "On the day after today.",
+      "examples": [
+        "the show opens tomorrow"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The day after today.",
+      "examples": [
+        "tomorrow is going to be a special day"
+      ]
+    }
+  ],
+  "phrases": [
+    "I ate as if there was no tomorrow",
+    "I counted only 12 dancers and each and every one of them danced as if there was no tomorrow.",
+    "The banks are still lending as if there was no tomorrow.",
+    "He gnawed and bit and scratched as if there was no tomorrow!",
+    "She and Dan would swim and swim as if there was no tomorrow."
+  ],
+  "origin": "Middle English (as two words): from the preposition to + morrow. Compare with today and tonight.",
+  "pronounciation": "/təˈmɔroʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tomorrow_us_5.mp3"
+}

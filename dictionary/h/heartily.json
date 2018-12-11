@@ -1,0 +1,53 @@
+{
+  "adverb": [
+    {
+      "description": "In a hearty manner.",
+      "examples": [
+        "she laughed heartily",
+        "they dined heartily"
+      ],
+      "synonyms": [
+        "wholeheartedly",
+        "sincerely",
+        "genuinely",
+        "unfeignedly",
+        "warmly",
+        "cordially",
+        "deeply",
+        "profoundly",
+        "from the bottom of one's heart",
+        "from the heart",
+        "with all one's heart",
+        "heart and soul"
+      ]
+    },
+    {
+      "description": "Very; to a great degree (especially with reference to personal feelings)",
+      "examples": [
+        "they were heartily sick of the whole subject"
+      ],
+      "synonyms": [
+        "very",
+        "very much",
+        "completely",
+        "entirely",
+        "totally",
+        "absolutely",
+        "extremely",
+        "thoroughly",
+        "fully",
+        "decidedly",
+        "really",
+        "exceedingly",
+        "immensely",
+        "uncommonly",
+        "extraordinarily",
+        "most",
+        "downright",
+        "one hundred per cent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɑrdəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heartily_us_1.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A picture made using a camera, in which an image is focused onto film or other light-sensitive material and then made visible and permanent by chemical treatment, or stored digitally.",
+      "examples": [],
+      "synonyms": [
+        "picture",
+        "photo",
+        "shot",
+        "snap",
+        "snapshot",
+        "likeness",
+        "image",
+        "portrait",
+        "study",
+        "print",
+        "slide",
+        "transparency",
+        "negative",
+        "positive",
+        "plate",
+        "film",
+        "bromide",
+        "frame",
+        "exposure",
+        "still",
+        "proof",
+        "enlargement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Take a photograph of.",
+      "examples": [],
+      "synonyms": [
+        "take someone's photo",
+        "take someone's picture",
+        "get a picture of",
+        "take a picture of",
+        "get a snap of",
+        "get a snapshot of",
+        "take a snap of",
+        "take a snapshot of",
+        "take",
+        "snap",
+        "shoot",
+        "get a shot of",
+        "take a shot of",
+        "take a likeness of",
+        "record",
+        "film",
+        "capture on celluloid",
+        "capture on film",
+        "record on celluloid",
+        "record on film"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfōdəˌɡraf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/photograph_us_1.mp3"
+}

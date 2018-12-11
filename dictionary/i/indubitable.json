@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Impossible to doubt; unquestionable.",
+      "examples": [
+        "an indubitable truth"
+      ],
+      "synonyms": [
+        "unquestionable",
+        "undoubtable",
+        "indisputable",
+        "unarguable",
+        "inarguable",
+        "undebatable",
+        "incontestable",
+        "undeniable",
+        "irrefutable",
+        "incontrovertible",
+        "unmistakable",
+        "unequivocal",
+        "certain",
+        "sure",
+        "positive",
+        "definite",
+        "absolute",
+        "conclusive",
+        "emphatic",
+        "categorical",
+        "compelling",
+        "watertight",
+        "clear",
+        "clear-cut"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin indubitabilis, from in- not + dubitabilis (see dubitable).",
+  "pronounciation": "/inˈd(y)o͞obədəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indubitable_us_2.mp3"
+}

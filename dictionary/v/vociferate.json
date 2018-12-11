@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Shout, complain, or argue loudly or vehemently.",
+      "examples": [
+        "he then began to vociferate pretty loudly",
+        "he entered, vociferating curses"
+      ],
+      "synonyms": [
+        "yell",
+        "cry",
+        "cry out",
+        "call",
+        "call out",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "call at the top of one's voice",
+        "clamour",
+        "bay",
+        "cheer",
+        "yawp",
+        "yelp",
+        "wail",
+        "squawk",
+        "shriek",
+        "scream",
+        "screech",
+        "squeal",
+        "squall",
+        "caterwaul",
+        "whoop"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin vociferat- exclaimed, from the verb vociferari, from vox voice + ferre carry.",
+  "pronounciation": "/vōˈsifərāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vociferate_us_2.mp3"
+}

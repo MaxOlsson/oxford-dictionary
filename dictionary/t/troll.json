@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A mythical, cave-dwelling being depicted in folklore as either a giant or a dwarf, typically having a very ugly appearance.",
+      "examples": [],
+      "synonyms": [
+        "sprite",
+        "pixie",
+        "elf",
+        "imp",
+        "brownie",
+        "puck"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a deliberately offensive or provocative online post with the aim of upsetting someone or eliciting an angry response from them.",
+      "examples": [
+        "if people are obviously trolling then I'll delete your posts and do my best to ban you",
+        "you folks taking this opportunity to troll me, you really need to reassess your values in your life"
+      ]
+    },
+    {
+      "description": "Carefully and systematically search an area for something.",
+      "examples": [
+        "a group of companies trolling for partnership opportunities",
+        "I spent tonight trolling the Internet for expensive lighting gear"
+      ]
+    },
+    {
+      "description": "Walk; stroll.",
+      "examples": [
+        "we all trolled into town"
+      ]
+    },
+    {
+      "description": "Sing (something) in a happy and carefree way.",
+      "examples": [
+        "troll the ancient Yuletide carol"
+      ],
+      "synonyms": [
+        "chant",
+        "intone",
+        "croon",
+        "carol",
+        "chorus",
+        "warble",
+        "trill",
+        "pipe",
+        "quaver"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense stroll, roll): origin uncertain; compare with Old French troller wander here and there (in search of game) and Middle High German trollen stroll. The computing senses (first recorded in 1992) are probably influenced by troll.",
+  "phrases": [
+    "don't feed the trolls, guys, it only makes them come back"
+  ],
+  "pronounciation": "/troʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/troll_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Cease to be visible.",
+      "examples": [
+        "he disappeared into the trees",
+        "the sun had disappeared"
+      ],
+      "synonyms": [
+        "vanish",
+        "pass from sight",
+        "cease to be visible",
+        "vanish from sight",
+        "recede from view",
+        "be lost to sight",
+        "be lost to view",
+        "fade",
+        "fade away",
+        "melt away"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from dis- (expressing reversal) + appear, on the pattern of French disparaître.",
+  "pronounciation": "/ˌdisəˈpir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disappear_us_1.mp3"
+}

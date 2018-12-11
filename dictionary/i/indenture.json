@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A legal agreement, contract, or document.",
+      "examples": [],
+      "synonyms": [
+        "contract",
+        "agreement",
+        "covenant",
+        "compact",
+        "bond",
+        "pledge",
+        "promise",
+        "warrant",
+        "undertaking",
+        "commitment",
+        "settlement",
+        "arrangement",
+        "understanding"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bind (someone) by an indenture as an apprentice or laborer.",
+      "examples": [
+        "landowners tried to get their estates cultivated by indentured laborers"
+      ]
+    }
+  ],
+  "origin": "Late Middle English endenture, via Anglo-Norman French from medieval Latin indentura, from indentatus, past participle of indentare (see indent).",
+  "pronounciation": "/ˌinˈden(t)SHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indenture_us_1.mp3"
+}

@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Link; connect.",
+      "examples": [
+        "the tap was joined to a pipe",
+        "join the paragraphs together"
+      ],
+      "synonyms": [
+        "connect",
+        "unite",
+        "fix",
+        "affix",
+        "attach",
+        "add",
+        "annex",
+        "fasten",
+        "stick",
+        "glue",
+        "fuse",
+        "knit",
+        "weld",
+        "amalgamate",
+        "consolidate",
+        "combine",
+        "bond",
+        "append",
+        "link",
+        "bridge",
+        "secure",
+        "lock",
+        "make fast",
+        "tie",
+        "bind",
+        "string",
+        "lash",
+        "couple",
+        "marry",
+        "pair",
+        "yoke",
+        "team",
+        "chain",
+        "merge",
+        "dovetail",
+        "splice",
+        "blend"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A place or line where two or more things are connected or fastened together.",
+      "examples": [],
+      "synonyms": [
+        "junction",
+        "juncture",
+        "intersection",
+        "link",
+        "linkage",
+        "connection",
+        "nexus"
+      ]
+    }
+  ],
+  "phrases": [
+    "He gave chase for five days and then engaged the enemy, despite four of his ships lagging behind and their captains failing to join battle.",
+    "We're here to mark that day in history when the allied armies joined battle to reclaim this continent to liberty.",
+    "I understand Longclaw took a shuttle and went to join battle with the Lyrans.",
+    "There were more on the way when I moved into range, and they joined battle as I was leaving.",
+    "This area - national security - might not have been the best place for joining battle last week, but battle is joined."
+  ],
+  "origin": "Middle English: from Old French joindre, from Latin jungere to join.",
+  "pronounciation": "/join/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/join_us_1.mp3"
+}

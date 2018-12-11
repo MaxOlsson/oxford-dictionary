@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A small vessel propelled on water by oars, sails, or an engine.",
+      "examples": [
+        "a fishing boat",
+        "a boat trip"
+      ],
+      "synonyms": [
+        "vessel",
+        "craft",
+        "watercraft",
+        "ship"
+      ]
+    },
+    {
+      "description": "A serving dish in the shape of a boat.",
+      "examples": [
+        "a gravy boat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel or go in a boat for pleasure.",
+      "examples": [
+        "they boated through fjords",
+        "she likes to go boating"
+      ],
+      "synonyms": [
+        "sail",
+        "yacht",
+        "go sailing",
+        "cruise",
+        "travel by boat"
+      ]
+    }
+  ],
+  "phrases": [
+    "We are all in the same boat: we both win and we both lose.",
+    "I'm in the same boat as Richard Cole and Dr. Henry Lee, and some of the other people on your panel.",
+    "And it was about a sense of belonging and being among people who were in the same boat which they wanted projected.",
+    "I know how you feel about having to use a PC at work… but I don't feel sorry for you, because I'm in the same boat.",
+    "If you're in the same boat, at least know you're not the only one."
+  ],
+  "origin": "Old English bāt, of Germanic origin.",
+  "pronounciation": "/bōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boat_1_us_1_abbr.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to England or its people or language.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The language of England, widely used in many varieties throughout the world.",
+      "examples": []
+    },
+    {
+      "description": "The people of England.",
+      "examples": []
+    },
+    {
+      "description": "Spin given to a ball, especially in pool or billiards.",
+      "examples": [
+        "put more English on the ball"
+      ]
+    }
+  ],
+  "origin": "Old English Englisc (see Angle, -ish). The word originally denoted the early Germanic settlers of Britain (Angles, Saxons, and Jutes), or their language (now called Old English).",
+  "pronounciation": "/ˈiNG(ɡ)liSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/english_us_2.mp3"
+}

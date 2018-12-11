@@ -1,0 +1,48 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to incite dogs to the chase during a hunt.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cry of “halloo.”.",
+      "examples": [],
+      "synonyms": [
+        "greeting",
+        "hello",
+        "hallo",
+        "halloo",
+        "call",
+        "cry",
+        "shout",
+        "salutation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cry or shout “halloo” to attract attention or to give encouragement to dogs in hunting.",
+      "examples": [
+        "I hallooed in the hope that they might hear my shouts"
+      ],
+      "synonyms": [
+        "call out",
+        "shout",
+        "cry out",
+        "yell",
+        "bawl",
+        "bellow",
+        "scream",
+        "shriek",
+        "screech",
+        "roar",
+        "whoop"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: probably from the rare verb hallow pursue or urge on with shouts, from imitative Old French haloer.",
+  "pronounciation": "/həˈlo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/halloo_us_1_rr.mp3"
+}

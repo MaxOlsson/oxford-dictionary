@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A rousing or uplifting song identified with a particular group, body, or cause.",
+      "examples": [
+        "the song became the anthem for hippie activists"
+      ]
+    },
+    {
+      "description": "A choral composition based on a biblical passage, for singing by a choir in a church service.",
+      "examples": [],
+      "synonyms": [
+        "hymn",
+        "song",
+        "song of praise",
+        "chorale",
+        "psalm",
+        "paean",
+        "plainsong",
+        "chant",
+        "canticle"
+      ]
+    }
+  ],
+  "origin": "Old English antefn, antifne (denoting a composition sung antiphonally), from late Latin antiphona (see antiphon). The spelling with th, which began in the 16th century, was on the pattern of similar words such as Antony, Anthony.",
+  "pronounciation": "/ˈænθəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anthem_us_1.mp3"
+}

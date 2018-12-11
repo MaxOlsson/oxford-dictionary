@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A device for pulling corks from bottles, consisting of a spiral metal rod that is inserted into the cork, and a handle that extracts it.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move or twist in a spiral motion.",
+      "examples": [
+        "the plane was corkscrewing toward the earth"
+      ],
+      "synonyms": [
+        "spiral",
+        "coil",
+        "wreathe",
+        "twirl",
+        "swirl",
+        "furl"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkôrkˌskro͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corkscrew_us_1.mp3"
+}

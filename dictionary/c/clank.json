@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A loud, sharp sound or series of sounds, as made by pieces of metal being struck together.",
+      "examples": [
+        "the groan and clank of a winch"
+      ],
+      "synonyms": [
+        "jangling",
+        "clanging",
+        "rattling",
+        "clinking",
+        "jingling",
+        "clunking",
+        "clattering"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or cause to make a clank.",
+      "examples": [
+        "I could hear the chain clanking",
+        "Cassie bounced on the bed, clanking the springs"
+      ],
+      "synonyms": [
+        "jangle",
+        "rattle",
+        "clink",
+        "clang",
+        "jingle",
+        "clunk",
+        "clatter"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (but rare before the mid 17th century): imitative.",
+  "pronounciation": "/klæŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clank_us_1.mp3"
+}

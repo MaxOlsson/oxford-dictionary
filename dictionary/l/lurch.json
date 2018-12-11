@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Make an abrupt, unsteady, uncontrolled movement or series of movements; stagger.",
+      "examples": [
+        "the car lurched forward",
+        "Stuart lurched to his feet",
+        "he was lurching from one crisis to the next"
+      ],
+      "synonyms": [
+        "stagger",
+        "stumble",
+        "sway",
+        "reel",
+        "roll",
+        "weave",
+        "totter",
+        "flounder",
+        "falter",
+        "wobble",
+        "slip",
+        "move clumsily"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An abrupt uncontrolled movement, especially an unsteady tilt or roll.",
+      "examples": [
+        "the boat gave a violent lurch and he missed his footing"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (denoting a state of discomfiture): from French lourche, the name of a game resembling backgammon, used in the phrase demeurer lourche be discomfited.",
+  "pronounciation": "/lərCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lurch_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Cast a spell on; bewitch.",
+      "examples": [
+        "he hexed her with his fingers"
+      ],
+      "synonyms": [
+        "cast a spell on",
+        "put a spell on",
+        "enchant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A magic spell; a curse.",
+      "examples": [
+        "a death hex"
+      ],
+      "synonyms": [
+        "curse",
+        "oath",
+        "imprecation",
+        "execration"
+      ]
+    }
+  ],
+  "noun &amp; adjective": [],
+  "origin": "Mid 19th century (as a verb): from Pennsylvanian German hexe (verb), Hex (noun), from German hexen (verb), Hexe (noun).",
+  "pronounciation": "/heks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hex_us_2.mp3"
+}

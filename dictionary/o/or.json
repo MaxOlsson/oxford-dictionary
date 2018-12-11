@@ -1,0 +1,73 @@
+{
+  "conjunction": [
+    {
+      "description": "Used to link alternatives.",
+      "examples": [
+        "a cup of tea or coffee",
+        "are you coming or not?",
+        "I either take taxis or walk everywhere",
+        "it doesn't matter whether the theory is right or wrong",
+        "she couldn't read or write"
+      ]
+    },
+    {
+      "description": "Introducing a synonym or explanation of a preceding word or phrase.",
+      "examples": [
+        "the espionage novel, or, as it is known in the trade, the thriller"
+      ]
+    },
+    {
+      "description": "Otherwise (used to introduce the consequences of something not being done or not being the case)",
+      "examples": [
+        "hurry up, or you'll miss it all"
+      ],
+      "synonyms": [
+        "or else",
+        "or",
+        "if not"
+      ]
+    },
+    {
+      "description": "Introducing an afterthought, usually in the form of a question.",
+      "examples": [
+        "John's indifference—or was it?—left her unsettled"
+      ]
+    },
+    {
+      "description": "Either.",
+      "examples": [
+        "to love is the one way to know or God or man"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A Boolean operator that gives the value one if at least one operand (or input) has a value of one, and otherwise has a value of zero.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Operational research.",
+      "examples": []
+    },
+    {
+      "description": "Oregon (in official postal use).",
+      "examples": []
+    },
+    {
+      "description": "Other ranks (as opposed to commissioned officers).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "a dozen or so people",
+    "Rob failed to get a bite, and after an hour or so, he suggested that we try further upstream.",
+    "José Luis is in his forties and has a group of a dozen or so mates he has been hanging out with all his life.",
+    "You cut them into squares and blanch them in boiling water for a minute or so with onion and garlic.",
+    "I will be away from my computer for the next week or so, and will be taking a break from blogging."
+  ],
+  "origin": "Early 16th century: from French, from Latin aurum gold.",
+  "pronounciation": "/ɔr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/or_us_1.mp3"
+}

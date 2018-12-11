@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A rhythmical or metrical stress.",
+      "examples": [],
+      "synonyms": [
+        "stress",
+        "emphasis",
+        "accentuation",
+        "force",
+        "prominence"
+      ]
+    },
+    {
+      "description": "A stroke or seizure; a fit.",
+      "examples": [],
+      "synonyms": [
+        "convulsion",
+        "spasm",
+        "paroxysm",
+        "collapse",
+        "sudden illness",
+        "attack",
+        "fit",
+        "bout"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (denoting the beat of the pulse): from Latin, literally blow, from icere to strike.",
+  "pronounciation": "/ˈiktəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ictus_us_1.mp3"
+}

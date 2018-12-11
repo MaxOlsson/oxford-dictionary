@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Time in addition to what is normal, as time worked beyond one's scheduled working hours.",
+      "examples": [
+        "fewer opportunities for overtime",
+        "an overtime ban"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In addition to normal working hours.",
+      "examples": [
+        "his brain was working overtime",
+        "they were working overtime to fulfill a big order"
+      ],
+      "synonyms": [
+        "after hours",
+        "after office hours",
+        "overtime",
+        "past the usual closing time",
+        "past the usual finishing time",
+        "past the usual stopping time"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈōvərˌtīm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overtime_us_1.mp3"
+}

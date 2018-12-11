@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the intellect.",
+      "examples": [
+        "children need intellectual stimulation"
+      ],
+      "synonyms": [
+        "mental",
+        "cerebral",
+        "cognitive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person possessing a highly developed intellect.",
+      "examples": [],
+      "synonyms": [
+        "intelligent person",
+        "learned person",
+        "highbrow",
+        "academic",
+        "bookworm",
+        "bookish person",
+        "man of letters",
+        "woman of letters",
+        "bluestocking",
+        "thinker",
+        "brain",
+        "scholar",
+        "sage"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin intellectualis, from intellectus understanding, from intellegere understand (see intelligent).",
+  "pronounciation": "/ˌɪn(t)əˈlɛk(t)ʃ(u)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intellectual_us_1.mp3"
+}

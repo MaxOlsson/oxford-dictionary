@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Roasted without fat or oil.",
+      "examples": [
+        "dry-roasted peanuts"
+      ],
+      "synonyms": [
+        "cook",
+        "oven-bake",
+        "dry-roast",
+        "roast",
+        "spit-roast",
+        "pot-roast"
+      ]
+    }
+  ],
+  "pronounciation": "/draɪ roʊstəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dry_roasted_1_us_1.mp3"
+}

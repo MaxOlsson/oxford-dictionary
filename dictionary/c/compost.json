@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Decayed organic material used as a plant fertilizer.",
+      "examples": [],
+      "synonyms": [
+        "fertilizer",
+        "plant food",
+        "dressing",
+        "organic matter",
+        "vegetable waste",
+        "humus",
+        "peat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (vegetable matter or manure) into compost.",
+      "examples": [
+        "don't compost heavily infested plants"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French composte, from Latin composita, compositum something put together, feminine and neuter past participle of componere.",
+  "pronounciation": "/ˈkämˌpōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compost_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A short pole with a broad blade at one or both ends, used without an oarlock to move a small boat or canoe through the water.",
+      "examples": [],
+      "synonyms": [
+        "oar",
+        "scull",
+        "sweep",
+        "blade",
+        "spoon",
+        "spade"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move through the water in a boat using a paddle or paddles.",
+      "examples": [
+        "he paddled along the coast"
+      ],
+      "synonyms": [
+        "row gently",
+        "pull",
+        "scull"
+      ]
+    },
+    {
+      "description": "Beat (someone) with a paddle as a punishment.",
+      "examples": [
+        "he was firm in his conviction that his children would never be paddled"
+      ]
+    }
+  ],
+  "phrases": [
+    "K.B. has to paddle his own canoe, Rooney says.",
+    "We received very little guidance from the head office of the DM, which had no form of constitution for branches, and we have very largely paddled our own canoe.",
+    "It seems, it doesn't hurt to take time out to paddle your own canoe.",
+    "Following my Dad's advice to Love many, trust a few and always paddle your own canoe, I'm Warwick Hadfield.",
+    "In any case, neither three months nor 10 months is a terribly long period of time, and this girl does not exactly inspire trust, so Prudie suggests you leave her to paddle her own canoe, as it were."
+  ],
+  "origin": "Mid 16th century: of obscure origin; compare with Low German paddeln tramp about; the association with water remains unexplained.",
+  "pronounciation": "/ˈpædl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paddle_us_1.mp3"
+}

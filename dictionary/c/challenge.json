@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A call to take part in a contest or competition, especially a duel.",
+      "examples": [
+        "he accepted the challenge"
+      ],
+      "synonyms": [
+        "dare",
+        "provocation"
+      ]
+    },
+    {
+      "description": "An objection or query as to the truth of something, often with an implicit demand for proof.",
+      "examples": [
+        "a challenge to the legality of the order"
+      ],
+      "synonyms": [
+        "confrontation with",
+        "dispute with",
+        "stand against",
+        "test of",
+        "opposition",
+        "disagreement with"
+      ]
+    },
+    {
+      "description": "Exposure of the immune system to pathogenic organisms or antigens.",
+      "examples": [
+        "recently vaccinated calves should be protected from challenge"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Invite (someone) to engage in a contest.",
+      "examples": [
+        "he challenged one of my men to a duel"
+      ],
+      "synonyms": [
+        "dare",
+        "summon",
+        "invite",
+        "bid",
+        "throw down the gauntlet to",
+        "defy someone to do something"
+      ]
+    },
+    {
+      "description": "Dispute the truth or validity of.",
+      "examples": [
+        "employees challenged the company's requirement"
+      ],
+      "synonyms": [
+        "question",
+        "disagree with",
+        "object to",
+        "take exception to",
+        "confront",
+        "dispute",
+        "take issue with",
+        "protest against",
+        "call into question"
+      ]
+    },
+    {
+      "description": "Expose (the immune system) to pathogenic organisms or antigens.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the senses accusation and accuse): from Old French chalenge (noun), chalenger (verb), from Latin calumnia calumny, calumniari calumniate.",
+  "pronounciation": "/ˈtʃæləndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/challenge_us_1.mp3"
+}

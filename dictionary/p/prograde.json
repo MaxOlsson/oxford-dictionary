@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of planetary motion) proceeding from west to east; direct.",
+      "examples": []
+    },
+    {
+      "description": "(of a metamorphic change) resulting from an increase in temperature or pressure or both.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a coastline) advance toward the sea as a result of the accumulation of waterborne sediment.",
+      "examples": [
+        "these oolites were probably deposited as part of the coastal sand-barrier complex as it prograded basinwards"
+      ]
+    }
+  ],
+  "origin": "Early 20th century (as a verb): from pro- forwards + retrograde.",
+  "pronounciation": "/ˈprōˌɡrād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prograde_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Not justified or authorized.",
+      "examples": [
+        "I am sure your fears are unwarranted"
+      ],
+      "synonyms": [
+        "unjustified",
+        "unjustifiable",
+        "indefensible",
+        "inexcusable",
+        "unforgivable",
+        "unpardonable",
+        "uncalled for",
+        "gratuitous",
+        "unnecessary",
+        "undue",
+        "unreasonable",
+        "unjust",
+        "groundless",
+        "inappropriate",
+        "unsuitable",
+        "unseemly",
+        "unbecoming",
+        "improper",
+        "ill-advised",
+        "excessive",
+        "immoderate",
+        "disproportionate",
+        "inordinate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈwɔrən(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unwarranted_us_1_rr.mp3"
+}

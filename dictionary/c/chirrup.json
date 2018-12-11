@@ -1,0 +1,64 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a small bird) make repeated short high-pitched sounds; twitter.",
+      "examples": [],
+      "synonyms": [
+        "trill",
+        "sing",
+        "chirp",
+        "chirrup",
+        "chirr",
+        "cheep",
+        "twitter",
+        "tweet",
+        "whistle",
+        "chatter",
+        "squeak",
+        "pipe",
+        "peep"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short, high-pitched sound.",
+      "examples": [],
+      "synonyms": [
+        "trill",
+        "trilling",
+        "song",
+        "birdsong",
+        "cry",
+        "warbling",
+        "chirp",
+        "chirping",
+        "chirrup",
+        "chirruping",
+        "chirr",
+        "chirring",
+        "cheep",
+        "cheeping",
+        "twitter",
+        "twittering",
+        "tweet",
+        "tweeting",
+        "whistle",
+        "whistling",
+        "chatter",
+        "chattering",
+        "squeak",
+        "squeaking",
+        "pipe",
+        "piping",
+        "peep",
+        "peeping",
+        "call",
+        "calling"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: alteration of chirp, by trilling the -r-.",
+  "pronounciation": "/ˈtʃɪrəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chirrup_us_1.mp3"
+}

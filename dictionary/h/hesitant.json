@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Tentative, unsure, or slow in acting or speaking.",
+      "examples": [
+        "clients are hesitant about buying",
+        "her slow, hesitant way of speaking"
+      ],
+      "synonyms": [
+        "uncertain",
+        "undecided",
+        "unsure",
+        "doubtful",
+        "in doubt",
+        "dubious",
+        "tentative",
+        "half-hearted",
+        "ambivalent",
+        "sceptical",
+        "reluctant",
+        "nervous",
+        "having misgivings",
+        "having qualms",
+        "hanging back",
+        "stalling",
+        "delaying"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin haesitant- being undecided, from the verb haesitare (see hesitate).",
+  "pronounciation": "/ˈhezədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hesitant_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.",
+      "examples": []
+    },
+    {
+      "description": "Lack of order or predictability; gradual decline into disorder.",
+      "examples": [
+        "a marketplace where entropy reigns supreme"
+      ],
+      "synonyms": [
+        "disorder",
+        "disarray",
+        "disorganization",
+        "disorderliness",
+        "untidiness",
+        "chaos",
+        "mayhem",
+        "bedlam",
+        "pandemonium",
+        "madness",
+        "havoc",
+        "turmoil",
+        "tumult",
+        "commotion",
+        "disruption",
+        "upheaval",
+        "furore",
+        "frenzy",
+        "uproar",
+        "babel",
+        "hurly-burly",
+        "maelstrom",
+        "muddle",
+        "mess",
+        "shambles"
+      ]
+    },
+    {
+      "description": "(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: from en- inside + Greek tropē transformation.",
+  "pronounciation": "/ˈentrəpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/entropy_us_1.mp3"
+}

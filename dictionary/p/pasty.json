@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A folded pastry case with a savoury filling, typically of seasoned meat and vegetables.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person's face) unhealthily pale.",
+      "examples": [
+        "a pasty complexion"
+      ],
+      "synonyms": [
+        "pale",
+        "pallid",
+        "ashen",
+        "white",
+        "white as a sheet",
+        "grey"
+      ]
+    },
+    {
+      "description": "Of or like paste.",
+      "examples": [
+        "a pasty mixture"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French paste(e), based on late Latin pasta paste.",
+  "pronounciation": "/ˈpāstē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pasty_us_2.mp3"
+}

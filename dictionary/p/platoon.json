@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A subdivision of a company of soldiers, usually forming a tactical unit that is commanded by a lieutenant and divided into several sections.",
+      "examples": [],
+      "synonyms": [
+        "unit",
+        "patrol",
+        "troop",
+        "squad",
+        "team",
+        "squadron",
+        "company",
+        "group",
+        "corps",
+        "division",
+        "outfit",
+        "detachment",
+        "contingent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(in baseball and other sports) have (an athlete) play in rotation with one or more teammates at the same position.",
+      "examples": [
+        "he was underrated because of Stengel's platooning him with Woodling"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French peloton platoon, literally small ball, diminutive of pelote.",
+  "pronounciation": "/pləˈtun/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/platoon_us_1.mp3"
+}

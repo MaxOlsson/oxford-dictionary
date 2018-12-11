@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly of a drug) used to relieve constipation.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant",
+        "purging"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An aperient drug.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "enema",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin aperient- opening, from aperire.",
+  "pronounciation": "/əˈpɪriənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aperient_us_1.mp3"
+}

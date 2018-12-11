@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of a substance) able to be dissolved, especially in water.",
+      "examples": [
+        "the poison is soluble in alcohol"
+      ],
+      "synonyms": [
+        "curable",
+        "treatable",
+        "medicable",
+        "operable"
+      ]
+    },
+    {
+      "description": "(of a problem) able to be solved.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from late Latin solubilis, from solvere (see solve).",
+  "pronounciation": "/ˈsälyəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soluble_us_1.mp3"
+}

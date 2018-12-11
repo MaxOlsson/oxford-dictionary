@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Relating or devoted to that which is not sacred or biblical; secular rather than religious.",
+      "examples": [
+        "a talk that tackled topics both sacred and profane"
+      ],
+      "synonyms": [
+        "secular",
+        "lay",
+        "non-religious",
+        "non-church",
+        "temporal",
+        "worldly",
+        "earthly"
+      ]
+    },
+    {
+      "description": "(of a person or their behavior) not respectful of orthodox religious practice; irreverent.",
+      "examples": [
+        "desecration of the temple by profane adolescents"
+      ],
+      "synonyms": [
+        "irreverent",
+        "ungodly",
+        "godless",
+        "impious",
+        "disrespectful",
+        "irreligious",
+        "unbelieving",
+        "disbelieving",
+        "sacrilegious",
+        "idolatrous"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Treat (something sacred) with irreverence or disrespect.",
+      "examples": [
+        "it was a serious matter to profane a tomb"
+      ],
+      "synonyms": [
+        "desecrate",
+        "violate",
+        "defile",
+        "treat with disrespect",
+        "debase",
+        "degrade",
+        "contaminate",
+        "pollute",
+        "taint"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense heathen): from Old French prophane, from Latin profanus outside the temple, not sacred, from pro- (from Latin pro before) + fanum temple.",
+  "pronounciation": "/prəˈfān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/profane_us_2_rr.mp3"
+}

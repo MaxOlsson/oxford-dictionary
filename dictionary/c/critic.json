@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A person who expresses an unfavorable opinion of something.",
+      "examples": [
+        "critics say many schools are not prepared to handle the influx of foreign students"
+      ],
+      "synonyms": [
+        "detractor",
+        "censurer",
+        "attacker",
+        "fault-finder",
+        "carper",
+        "backbiter",
+        "caviller",
+        "reviler",
+        "vilifier",
+        "traducer",
+        "disparager",
+        "denigrator",
+        "deprecator",
+        "belittler"
+      ]
+    },
+    {
+      "description": "A person who judges the merits of literary, artistic, or musical works, especially one who does so professionally.",
+      "examples": [
+        "a film critic"
+      ],
+      "synonyms": [
+        "commentator",
+        "observer",
+        "monitor",
+        "pundit",
+        "expert",
+        "authority",
+        "arbiter",
+        "interpreter",
+        "exponent",
+        "expounder"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin criticus, from Greek kritikos, from kritēs a judge, from krinein judge, decide.",
+  "pronounciation": "/ˈkridik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/critic_us_1.mp3"
+}

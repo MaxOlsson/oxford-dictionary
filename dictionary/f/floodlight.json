@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A large, powerful light, typically one of several used to illuminate a sports field, a stage, or the exterior of a building.",
+      "examples": [],
+      "synonyms": [
+        "lamp",
+        "torch",
+        "flashlight"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Illuminate (a building or outdoor area) with floodlights.",
+      "examples": [
+        "floodlit football fields"
+      ],
+      "synonyms": [
+        "make lighter",
+        "make brighter",
+        "brighten",
+        "light up",
+        "illuminate",
+        "cast light on",
+        "shed light on",
+        "throw light on",
+        "shine on",
+        "irradiate",
+        "flood with light"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflədˌlīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/floodlight_us_1.mp3"
+}

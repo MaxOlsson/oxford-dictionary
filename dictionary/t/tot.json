@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A very young child.",
+      "examples": [],
+      "synonyms": [
+        "baby",
+        "babe",
+        "infant",
+        "toddler",
+        "newborn",
+        "tiny tot",
+        "child",
+        "little one",
+        "mite"
+      ]
+    },
+    {
+      "description": "A small amount of a strong alcoholic drink such as whiskey or brandy.",
+      "examples": [
+        "a tot of brandy"
+      ],
+      "synonyms": [
+        "dram",
+        "small measure",
+        "drink",
+        "nip",
+        "slug",
+        "drop",
+        "draught",
+        "swallow",
+        "swig"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Add up numbers or amounts.",
+      "examples": [
+        "she totted up some figures"
+      ],
+      "synonyms": [
+        "add",
+        "total",
+        "sum",
+        "count",
+        "calculate",
+        "compute",
+        "reckon",
+        "enumerate",
+        "tally",
+        "work something out",
+        "figure something out",
+        "take stock of something",
+        "quantify"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from slang tot bone, of unknown origin.",
+  "pronounciation": "/tɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tot_us_1.mp3"
+}

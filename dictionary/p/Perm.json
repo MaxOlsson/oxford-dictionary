@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A hairstyle produced by setting the hair in waves or curls and then treating it with chemicals so that the style lasts for several months.",
+      "examples": [
+        "I had a perm on Friday"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Set (the hair) in a perm.",
+      "examples": [
+        "her hair was permed and then set"
+      ],
+      "synonyms": [
+        "wavy",
+        "curling",
+        "curled",
+        "crimped",
+        "permed",
+        "frizzy",
+        "frizzed",
+        "kinked",
+        "kinky",
+        "crinkly",
+        "fuzzy",
+        "corkscrew"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "An industrial city in Russia, in the western foothills of the Ural Mountains; population 987,200 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "1950s: abbreviation of permutation.",
+  "pronounciation": "/pərm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perm_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Holding or constituting a purely formal position or title without any real authority.",
+      "examples": [
+        "the queen is titular head of the Church of England",
+        "a titular post"
+      ],
+      "synonyms": [
+        "nominal",
+        "in name only",
+        "in title only",
+        "formal",
+        "official",
+        "ceremonial"
+      ]
+    },
+    {
+      "description": "Denoting a person or thing from whom or which the name of an artistic work or similar is taken.",
+      "examples": [
+        "the work's titular song"
+      ],
+      "synonyms": [
+        "eponymous",
+        "identifying"
+      ]
+    },
+    {
+      "description": "Denoting any of the parish churches in Rome to which cardinals are formally appointed.",
+      "examples": [
+        "the priests of the titular churches"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense existing only in name): from French titulaire or modern Latin titularis, from titulus (see title).",
+  "pronounciation": "/ˈtɪtʃələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/titular_us_1.mp3"
+}

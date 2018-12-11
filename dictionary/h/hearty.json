@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) loudly vigorous and cheerful.",
+      "examples": [
+        "a hearty and boisterous character",
+        "he sang in a hearty baritone"
+      ],
+      "synonyms": [
+        "exuberant",
+        "cheerful",
+        "jovial",
+        "ebullient",
+        "backslapping",
+        "unreserved",
+        "uninhibited",
+        "effusive",
+        "lively",
+        "loud",
+        "animated",
+        "vivacious",
+        "energetic",
+        "spirited",
+        "dynamic",
+        "enthusiastic",
+        "eager"
+      ]
+    },
+    {
+      "description": "(of food) wholesome and substantial.",
+      "examples": [
+        "a hearty meal cooked over open flames"
+      ],
+      "synonyms": [
+        "substantial",
+        "ample",
+        "sizeable",
+        "filling",
+        "large",
+        "abundant",
+        "generous",
+        "square",
+        "solid"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A vigorously cheerful and sporty person.",
+      "examples": []
+    },
+    {
+      "description": "A form of address ascribed to sailors.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈhɑrdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hearty_us_1.mp3"
+}

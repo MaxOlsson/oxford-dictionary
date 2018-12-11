@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the Netherlands, its people, or their language.",
+      "examples": []
+    },
+    {
+      "description": "Relating to the people of Germany; German.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The West Germanic language of the Netherlands.",
+      "examples": [],
+      "synonyms": [
+        "girlfriend",
+        "girl",
+        "sweetheart",
+        "partner",
+        "significant other",
+        "inamorata",
+        "fiancée"
+      ]
+    },
+    {
+      "description": "The people of the Netherlands collectively.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The net result, Germany, which was sailing with a 1-lead, had to accept the rival's credo: go Dutch!",
+    "Logically the following may be a good idea: a female job-loser and a male manager dine together and then they go Dutch.",
+    "Then again, he's probably terrified this will encourage other nice restaurants to adopt this practice, which means the end of going Dutch on dates.",
+    "I mean, if you ever date one, go Dutch, or you'll be spending the rest of your life working off the debt.",
+    "And more to the point, I'm very strict about going Dutch, so that's even more money."
+  ],
+  "origin": "From Middle Dutch dutsch Dutch, Netherlandish, German: the English word originally denoted speakers of both High and Low German, but became more specific after the United Provinces adopted the Low German of Holland as the national language on independence in 1579.",
+  "pronounciation": "/dətʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dutch_us_1.mp3"
+}

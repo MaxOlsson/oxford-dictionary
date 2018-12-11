@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Causing or likely to cause harm.",
+      "examples": [
+        "sugars that can be harmful to the teeth",
+        "shield the planet from harmful cosmic rays"
+      ],
+      "synonyms": [
+        "damaging",
+        "injurious",
+        "detrimental",
+        "dangerous",
+        "deleterious",
+        "unfavourable",
+        "negative",
+        "disadvantageous",
+        "unhealthy",
+        "unwholesome",
+        "hurtful",
+        "baleful",
+        "wounding",
+        "destructive",
+        "environmentally unfriendly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhärmfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harmful_us_1.mp3"
+}

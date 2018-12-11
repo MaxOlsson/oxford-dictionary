@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A pipe or hole through which water or gas may escape.",
+      "examples": [],
+      "synonyms": [
+        "vent",
+        "vent hole",
+        "way out",
+        "exit",
+        "egress"
+      ]
+    },
+    {
+      "description": "A place from which goods are sold or distributed.",
+      "examples": [
+        "a fast-food outlet"
+      ],
+      "synonyms": [
+        "store",
+        "retail store",
+        "retail outlet",
+        "reseller",
+        "cash and carry"
+      ]
+    },
+    {
+      "description": "A means of expressing one's talents, energy, or emotions.",
+      "examples": [
+        "writing became the main outlet for his energies"
+      ],
+      "synonyms": [
+        "means of expression",
+        "release",
+        "means of release",
+        "release mechanism",
+        "safety valve",
+        "vent",
+        "avenue",
+        "way of harnessing",
+        "channel"
+      ]
+    }
+  ],
+  "origin": "Middle English: from out- + the verb let.",
+  "pronounciation": "/ˈaʊtˌlɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outlet_us_1_rr.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Make (a statement or situation) less confused and more clearly comprehensible.",
+      "examples": [
+        "the report managed to clarify the government's position"
+      ],
+      "synonyms": [
+        "make clear",
+        "shed light on",
+        "throw light on",
+        "elucidate",
+        "illuminate",
+        "make plain",
+        "make simple",
+        "simplify"
+      ]
+    },
+    {
+      "description": "Melt (butter) in order to separate out the impurities.",
+      "examples": [],
+      "synonyms": [
+        "purify",
+        "refine"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the senses set forth clearly and make pure and clean): from Old French clarifier, from late Latin clarificare, from Latin clarus clear.",
+  "pronounciation": "/ˈklerəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clarify_us_1.mp3"
+}

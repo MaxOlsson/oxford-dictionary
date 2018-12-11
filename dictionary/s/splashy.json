@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by water flying about noisily in irregular drops.",
+      "examples": [
+        "a splashy waterfall"
+      ]
+    },
+    {
+      "description": "Attracting a great deal of attention; elaborately or ostentatiously impressive.",
+      "examples": [
+        "I don't care for splashy Hollywood parties"
+      ],
+      "synonyms": [
+        "ostentatious",
+        "pretentious",
+        "showy",
+        "conspicuous",
+        "obtrusive",
+        "flamboyant",
+        "gaudy",
+        "garish",
+        "tawdry",
+        "meretricious",
+        "trashy",
+        "brash",
+        "vulgar",
+        "loud",
+        "extravagant",
+        "fancy",
+        "ornate",
+        "affected",
+        "theatrical",
+        "overdone",
+        "over-elaborate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsplæʃi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splashy_us_1.mp3"
+}

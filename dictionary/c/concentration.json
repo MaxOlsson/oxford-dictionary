@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The action or power of focusing one's attention or mental effort.",
+      "examples": [
+        "frowning in concentration",
+        "the worker needs total concentration"
+      ],
+      "synonyms": [
+        "close attention",
+        "close thought",
+        "attentiveness",
+        "application",
+        "industry",
+        "assiduousness",
+        "single-mindedness",
+        "absorption",
+        "engrossment"
+      ]
+    },
+    {
+      "description": "A close gathering of people or things.",
+      "examples": [
+        "the largest concentration of Canada geese on earth"
+      ],
+      "synonyms": [
+        "gathering",
+        "cluster",
+        "mass",
+        "flock",
+        "congregation",
+        "assemblage",
+        "assembly",
+        "collection"
+      ]
+    },
+    {
+      "description": "The relative amount of a given substance contained within a solution or in a particular volume of space; the amount of solute per unit volume of solution.",
+      "examples": [
+        "the gas can collect in dangerous concentrations"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkänsənˈtrāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcentration_us_1.mp3"
+}

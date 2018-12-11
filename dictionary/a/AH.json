@@ -1,0 +1,22 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express a range of emotions including surprise, pleasure, sympathy, and realization.",
+      "examples": [
+        "ah, there you are!",
+        "ah, this is the life"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "In the year of the Hegira (used in the Muslim calendar for reckoning years from Muhammad's departure from Mecca in AD 622); of the Muslim era.",
+      "examples": [
+        "a Koran dated 556 AH"
+      ]
+    }
+  ],
+  "origin": "From Latin anno Hegirae.",
+  "pronounciation": "/āˈāCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/a_h_1_us_3_abbr.mp3"
+}

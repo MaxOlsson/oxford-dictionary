@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) not identified by name; of unknown name.",
+      "examples": [
+        "the donor's wish to remain anonymous",
+        "an anonymous phone call",
+        "the anonymous author of Beowulf"
+      ],
+      "synonyms": [
+        "unnamed",
+        "of unknown name",
+        "nameless",
+        "incognito",
+        "unidentified",
+        "unknown",
+        "unspecified",
+        "undesignated",
+        "unacknowledged",
+        "mystery"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: via late Latin from Greek anōnumos nameless (from an- without + onoma name) + -ous.",
+  "pronounciation": "/əˈnɑnəməs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anonymous_us_1.mp3"
+}

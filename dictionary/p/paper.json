@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
+      "examples": [
+        "a sheet of paper",
+        "a paper bag"
+      ],
+      "synonyms": [
+        "writing paper",
+        "notepaper"
+      ]
+    },
+    {
+      "description": "A piece or sheet of paper with something written or drawn on it.",
+      "examples": [
+        "he riffled through the papers on his desk"
+      ],
+      "synonyms": [
+        "piece of paper",
+        "scrap of paper",
+        "sheet",
+        "note"
+      ]
+    },
+    {
+      "description": "An essay or thesis, especially one read at an academic lecture or seminar or published in an academic journal.",
+      "examples": [],
+      "synonyms": [
+        "essay",
+        "article",
+        "composition",
+        "monograph",
+        "thesis",
+        "work",
+        "dissertation",
+        "treatise",
+        "study",
+        "report",
+        "analysis",
+        "tract",
+        "critique",
+        "exegesis",
+        "review",
+        "disquisition",
+        "discourse",
+        "piece of writing"
+      ]
+    },
+    {
+      "description": "Free passes of admission to a theater or other entertainment.",
+      "examples": [],
+      "synonyms": [
+        "voucher",
+        "chit",
+        "slip",
+        "ticket",
+        "coupon",
+        "pass"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply wallpaper to (a wall or room)",
+      "examples": [
+        "the walls were papered in a Regency stripe"
+      ],
+      "synonyms": [
+        "wallpaper",
+        "hang wallpaper on",
+        "line"
+      ]
+    },
+    {
+      "description": "Fill (a theater) by giving out free tickets.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Any document that he signs from now on clearly is not worth the paper it's written on.",
+    "He is an advocate of daily to do lists, but warns that if a list is not managed correctly it is not worth the paper it's written on.",
+    "Everybody emerges with something; the question is whether it is worth the paper it is written on.",
+    "The legislation currently in place is not worth the paper it's written on… you can find out very little about a person that might be a risk, she told the Waterford News & Star.",
+    "You only have to look at the source of this research to realise it's probably not worth the paper it's written on."
+  ],
+  "origin": "Middle English: from Anglo-Norman French papir, from Latin papyrus paper-reed (see papyrus). The verb dates from the late 16th century.",
+  "pronounciation": "/ˈpāpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paper_us_1.mp3"
+}

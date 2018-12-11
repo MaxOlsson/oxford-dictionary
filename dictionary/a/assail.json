@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Make a concerted or violent attack on.",
+      "examples": [
+        "the Scots army assailed Edward's army from the rear"
+      ],
+      "synonyms": [
+        "attack",
+        "assault",
+        "make an assault on",
+        "launch an attack on",
+        "pounce on",
+        "set upon",
+        "set about",
+        "launch oneself at",
+        "weigh into",
+        "fly at",
+        "let fly at",
+        "turn on",
+        "round on",
+        "lash out at",
+        "hit out at",
+        "beset",
+        "belabour",
+        "fall on",
+        "accost",
+        "mug",
+        "charge",
+        "rush",
+        "storm",
+        "besiege"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French asaill-, stressed stem of asalir, from medieval Latin assalire, from Latin assilire, from ad- to + salire to leap; compare with assault.",
+  "pronounciation": "/əˈseɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assail_us_1.mp3"
+}

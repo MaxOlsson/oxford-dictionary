@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Have a strong unpleasant smell.",
+      "examples": [
+        "the place stank like a sewer",
+        "his breath stank of drink"
+      ],
+      "synonyms": [
+        "reek",
+        "smell bad",
+        "smell disgusting",
+        "smell foul",
+        "smell to high heaven",
+        "stink to high heaven",
+        "give off a bad smell"
+      ]
+    },
+    {
+      "description": "Be very unpleasant, contemptible, or scandalous.",
+      "examples": [
+        "the industry's reputation stinks"
+      ],
+      "synonyms": [
+        "be very unpleasant",
+        "be abhorrent",
+        "be despicable",
+        "be contemptible",
+        "be disgusting",
+        "be vile",
+        "be foul"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A strong unpleasant smell; a stench.",
+      "examples": [
+        "the stink of the place hit me as I went in"
+      ],
+      "synonyms": [
+        "stench",
+        "reek",
+        "foul smell",
+        "bad smell",
+        "fetidness",
+        "effluvium",
+        "malodour",
+        "malodorousness",
+        "miasma"
+      ]
+    },
+    {
+      "description": "A commotion or fuss.",
+      "examples": [
+        "no matter how nice the restaurant is, wacko Meg has to make a big stink and embarrass the rest of us"
+      ],
+      "synonyms": [
+        "fuss",
+        "commotion",
+        "rumpus",
+        "ruckus",
+        "trouble",
+        "outcry",
+        "uproar",
+        "brouhaha",
+        "furore"
+      ]
+    }
+  ],
+  "phrases": [
+    "she's working like stink to get everything ready",
+    "They have ended up separating, hating each other's guts, taking law suits out against each other, and fighting like stink over the property.",
+    "This bike goes like stink and handles like a dream.",
+    "So - while keeping my legs crossed and writing like stink - I have to assume that we sheilas are the new economic magic bullet.",
+    "You can do that - but even those people work like stink, she says."
+  ],
+  "origin": "Old English stincan, of West Germanic origin; related to Dutch and German stinken, also to stench.",
+  "pronounciation": "/stɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stink_us_1.mp3"
+}

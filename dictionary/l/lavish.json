@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Sumptuously rich, elaborate, or luxurious.",
+      "examples": [
+        "a lavish banquet"
+      ],
+      "synonyms": [
+        "sumptuous",
+        "luxurious",
+        "luxuriant",
+        "lush",
+        "gorgeous",
+        "costly",
+        "opulent",
+        "grand",
+        "elaborate",
+        "splendid",
+        "rich",
+        "regal",
+        "ornate",
+        "expensive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bestow something in generous or extravagant quantities on.",
+      "examples": [
+        "the media couldn't lavish enough praise on the film"
+      ],
+      "synonyms": [
+        "give freely",
+        "spend",
+        "expend",
+        "heap",
+        "shower",
+        "pour",
+        "deluge",
+        "give generously",
+        "give unstintingly",
+        "bestow freely"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting profusion): from Old French lavasse deluge of rain, from laver to wash, from Latin lavare.",
+  "pronounciation": "/ˈlaviSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lavish_us_1.mp3"
+}

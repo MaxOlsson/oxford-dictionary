@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Tell someone something positively or confidently to dispel any doubts they may have.",
+      "examples": [
+        "Tony assured me that there was a supermarket in the village",
+        "“I quite understand,” Mrs. Lewis assured her",
+        "they assured him of their full confidence"
+      ],
+      "synonyms": [
+        "reassure",
+        "convince",
+        "satisfy",
+        "persuade",
+        "guarantee",
+        "promise",
+        "tell"
+      ]
+    },
+    {
+      "description": "Make (something) certain to happen.",
+      "examples": [
+        "victory was now assured",
+        "their influence assured that the report would be tough"
+      ]
+    },
+    {
+      "description": "Cover (a person) with life insurance.",
+      "examples": [],
+      "synonyms": [
+        "insure",
+        "provide insurance for",
+        "cover",
+        "indemnify",
+        "guarantee",
+        "warrant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French assurer, based on Latin ad- to (expressing change) + securus (see secure).",
+  "pronounciation": "/əˈSHo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assure_us_1.mp3"
+}

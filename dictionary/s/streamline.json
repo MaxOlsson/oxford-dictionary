@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement.",
+      "examples": [
+        "streamlined passenger trains"
+      ],
+      "synonyms": [
+        "aerodynamic"
+      ]
+    },
+    {
+      "description": "Make (an organization or system) more efficient and effective by employing faster or simpler working methods.",
+      "examples": [
+        "the company streamlined its operations by removing whole layers of management"
+      ],
+      "synonyms": [
+        "efficient",
+        "smooth-running",
+        "well run",
+        "well organized",
+        "slick"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A line along which the flow of a moving fluid is least turbulent.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of fluid flow) free from turbulence.",
+      "examples": []
+    },
+    {
+      "description": "Having a streamlined shape.",
+      "examples": [
+        "a streamline airplane"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstrimˌlaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/streamline_us_1.mp3"
+}

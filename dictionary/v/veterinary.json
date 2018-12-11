@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the diseases, injuries, and treatment of animals.",
+      "examples": [
+        "a veterinary nurse",
+        "veterinary medicine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A veterinarian.",
+      "examples": [],
+      "synonyms": [
+        "animal doctor",
+        "veterinary surgeon",
+        "vs",
+        "horse doctor"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from Latin veterinarius, from veterinae cattle.",
+  "pronounciation": "/ˈvɛt(ə)rəˌnɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/veterinary_us_1.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "adjective": [
+    {
+      "description": "Covered in prickles.",
+      "examples": [
+        "masses of prickly brambles"
+      ],
+      "synonyms": [
+        "spiky",
+        "spiked",
+        "thorny",
+        "barbed",
+        "spiny",
+        "pronged",
+        "bristled",
+        "bristly"
+      ]
+    },
+    {
+      "description": "(of a person) ready to take offense.",
+      "examples": [],
+      "synonyms": [
+        "irritable",
+        "irascible",
+        "peevish",
+        "fractious",
+        "fretful",
+        "cross",
+        "crabbed",
+        "crabby",
+        "crotchety",
+        "cantankerous",
+        "curmudgeonly",
+        "disagreeable",
+        "miserable",
+        "morose",
+        "petulant",
+        "pettish",
+        "peppery",
+        "on edge",
+        "edgy",
+        "impatient",
+        "complaining",
+        "querulous",
+        "bitter",
+        "moody",
+        "huffy",
+        "grumpy",
+        "scratchy",
+        "ill-tempered",
+        "bad-tempered",
+        "ill-natured",
+        "ill-humoured",
+        "sullen",
+        "surly",
+        "sulky",
+        "sour",
+        "churlish",
+        "touchy",
+        "testy",
+        "tetchy",
+        "grouchy",
+        "snappish",
+        "waspish",
+        "crusty",
+        "bilious",
+        "liverish",
+        "dyspeptic",
+        "splenetic",
+        "choleric"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprik(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prickly_us_1.mp3"
+}

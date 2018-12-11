@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Suffering from dementia.",
+      "examples": [],
+      "synonyms": [
+        "unbalanced",
+        "of unsound mind",
+        "mentally ill",
+        "deranged",
+        "crazed",
+        "distracted",
+        "troubled",
+        "disturbed",
+        "unhinged",
+        "insane",
+        "mad",
+        "mad as a hatter",
+        "mad as a march hare",
+        "raving mad",
+        "lunatic",
+        "out of one's head",
+        "out of one's mind",
+        "not in one's right mind",
+        "neurotic",
+        "psychotic"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: past participle of earlier dement drive mad, from Old French dementer or late Latin dementare, from demens out of one's mind.",
+  "pronounciation": "/dəˈmɛn(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demented_us_1.mp3"
+}

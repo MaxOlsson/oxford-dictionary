@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Rough or loose in texture or grain.",
+      "examples": [
+        "a coarse woolen cloth"
+      ],
+      "synonyms": [
+        "rough",
+        "bristly",
+        "scratchy",
+        "prickly",
+        "hairy",
+        "shaggy",
+        "wiry"
+      ]
+    },
+    {
+      "description": "(of a person or their speech) rude, crude, or vulgar.",
+      "examples": [],
+      "synonyms": [
+        "oafish",
+        "loutish",
+        "boorish",
+        "churlish",
+        "uncouth",
+        "rude",
+        "discourteous",
+        "impolite",
+        "ungentlemanly",
+        "unladylike",
+        "ill-mannered",
+        "uncivil",
+        "ill-bred",
+        "vulgar",
+        "common",
+        "rough",
+        "uncultured",
+        "uncivilized",
+        "crass",
+        "foul-mouthed"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense ordinary or inferior): origin uncertain; until the 17th century identical in spelling with course, and possibly derived from the latter in the sense ordinary manner.",
+  "pronounciation": "/kɔrs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coarse_us_1.mp3"
+}

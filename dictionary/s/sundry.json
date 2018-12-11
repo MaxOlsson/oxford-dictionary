@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Of various kinds; several.",
+      "examples": [
+        "lemon rind and sundry herbs"
+      ],
+      "synonyms": [
+        "various",
+        "varied",
+        "miscellaneous",
+        "assorted",
+        "mixed",
+        "diverse",
+        "diversified",
+        "motley",
+        "random"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Various items not important enough to be mentioned individually.",
+      "examples": [
+        "a drugstore selling magazines, newspapers, and sundries"
+      ]
+    }
+  ],
+  "origin": "Old English syndrig distinct, separate; related to sunder.",
+  "pronounciation": "/ˈsəndri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sundry_us_3.mp3"
+}

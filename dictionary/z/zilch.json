@@ -1,0 +1,29 @@
+{
+  "pronoun": [
+    {
+      "description": "Nothing.",
+      "examples": [
+        "I did absolutely zilch"
+      ],
+      "synonyms": [
+        "nothing",
+        "nil",
+        "nothing at all",
+        "not a single thing",
+        "not anything",
+        "none"
+      ]
+    }
+  ],
+  "determiner": [
+    {
+      "description": "Not any; no.",
+      "examples": [
+        "the character has zilch class"
+      ]
+    }
+  ],
+  "origin": "1960s: origin uncertain; perhaps from a Mr Zilch, a character in the 1930s US humorous magazine Ballyhoo.",
+  "pronounciation": "/zɪltʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zilch_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A loud, deep, resonant sound.",
+      "examples": [
+        "the deep boom of the bass drum"
+      ],
+      "synonyms": [
+        "reverberation",
+        "resonance",
+        "resounding"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a loud, deep, resonant sound.",
+      "examples": [
+        "thunder boomed in the sky",
+        "her voice boomed out"
+      ],
+      "synonyms": [
+        "reverberate",
+        "resound",
+        "resonate"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the general sense beam, pole): from Dutch, beam, tree, pole; related to beam.",
+  "pronounciation": "/bum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boom_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A separate section of a structure or container in which certain items can be kept separate from others.",
+      "examples": [
+        "there's some ice cream in the freezer compartment"
+      ],
+      "synonyms": [
+        "section",
+        "part",
+        "partition",
+        "bay",
+        "recess",
+        "chamber",
+        "cavity",
+        "niche",
+        "nook",
+        "hollow"
+      ]
+    },
+    {
+      "description": "A grassy mound or other support depicted below a shield.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide (something) into separate parts or sections.",
+      "examples": [
+        "the buildings are to be compartmented by fire walls"
+      ],
+      "synonyms": [
+        "divide",
+        "divide up",
+        "subdivide",
+        "separate",
+        "split",
+        "split up",
+        "cut up",
+        "carve up",
+        "slice up",
+        "break up",
+        "dismember"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French compartiment, from Italian compartimento, from compartire, from late Latin compartiri divide.",
+  "pronounciation": "/kəmˈpärtmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compartment_us_1.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling uncertain about something.",
+      "examples": [
+        "he looked doubtful, but gave a nod",
+        "I was doubtful of my judgment"
+      ],
+      "synonyms": [
+        "irresolute",
+        "hesitant",
+        "tentative",
+        "vacillating",
+        "dithering",
+        "wavering",
+        "teetering",
+        "fluctuating",
+        "faltering",
+        "ambivalent",
+        "divided",
+        "in doubt",
+        "unsure",
+        "uncertain",
+        "in two minds",
+        "shilly-shallying",
+        "undecided",
+        "indefinite",
+        "unresolved",
+        "in a dilemma",
+        "in a quandary",
+        "undetermined"
+      ]
+    },
+    {
+      "description": "Not known with certainty.",
+      "examples": [
+        "the fire was of doubtful origin"
+      ],
+      "synonyms": [
+        "in doubt",
+        "dubious",
+        "uncertain",
+        "open to question",
+        "questionable",
+        "unsure",
+        "unconfirmed",
+        "not definite",
+        "unknown",
+        "unsettled",
+        "undecided",
+        "unresolved",
+        "debatable",
+        "open to debate",
+        "moot",
+        "in the balance",
+        "pending",
+        "in limbo",
+        "in no man's land",
+        "up in the air"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdaʊtfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doubtful_us_1.mp3"
+}

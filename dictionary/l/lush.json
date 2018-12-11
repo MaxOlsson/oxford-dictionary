@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "(of vegetation) growing luxuriantly.",
+      "examples": [
+        "lush greenery and cultivated fields"
+      ],
+      "synonyms": [
+        "luxuriant",
+        "rich",
+        "abundant",
+        "superabundant",
+        "profuse",
+        "exuberant",
+        "riotous",
+        "prolific",
+        "teeming",
+        "flourishing",
+        "thriving",
+        "vigorous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heavy drinker, especially a habitual one.",
+      "examples": [],
+      "synonyms": [
+        "drunkard",
+        "drunk",
+        "inebriate",
+        "imbiber",
+        "tippler",
+        "sot",
+        "heavy drinker",
+        "hard drinker",
+        "serious drinker",
+        "problem drinker"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) drunk.",
+      "examples": [
+        "Mr. Hobart got so lushed up he was spilling drinks down his shirt"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: perhaps a humorous use of lush.",
+  "pronounciation": "/ləʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lush_us_1.mp3"
+}

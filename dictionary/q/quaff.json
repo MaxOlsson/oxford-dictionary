@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Drink (something, especially an alcoholic drink) heartily.",
+      "examples": [
+        "he quaffed pint after pint of good Berkshire ale"
+      ],
+      "synonyms": [
+        "drink",
+        "swallow",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "slurp",
+        "attack",
+        "down",
+        "drink down",
+        "drink up",
+        "force down",
+        "get down",
+        "finish off",
+        "polish off",
+        "drain",
+        "empty",
+        "imbibe",
+        "have",
+        "take",
+        "partake of",
+        "ingest",
+        "consume",
+        "sup",
+        "sip",
+        "lap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An alcoholic drink.",
+      "examples": [
+        "porter is a dark, malty quaff"
+      ],
+      "synonyms": [
+        "alcoholic drink",
+        "strong drink",
+        "drink",
+        "liquor",
+        "intoxicant"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: probably imitative of the sound of drinking.",
+  "pronounciation": "/kwäf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quaff_us_2_rr.mp3"
+}

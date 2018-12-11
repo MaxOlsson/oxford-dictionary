@@ -1,0 +1,136 @@
+{
+  "verb": [
+    {
+      "description": "Break or cause to break forcibly into parts, especially into halves or along the grain.",
+      "examples": [
+        "the ice cracked and heaved and split",
+        "split and toast the muffins"
+      ],
+      "synonyms": [
+        "break",
+        "chop",
+        "cut",
+        "hew",
+        "lop",
+        "cleave"
+      ]
+    },
+    {
+      "description": "(with reference to a group of people) divide into two or more groups.",
+      "examples": [
+        "let's split up and find the other two",
+        "once again the family was split up"
+      ]
+    },
+    {
+      "description": "(of one's head) suffer great pain from a headache.",
+      "examples": [
+        "my head is splitting"
+      ],
+      "synonyms": [
+        "agonizing",
+        "extremely painful",
+        "severe",
+        "acute",
+        "intense",
+        "extreme",
+        "savage",
+        "violent",
+        "racking",
+        "searing",
+        "piercing",
+        "stabbing",
+        "raging",
+        "harrowing",
+        "tormenting",
+        "grievous"
+      ]
+    },
+    {
+      "description": "Betray the secrets of or inform on someone.",
+      "examples": [
+        "I told him I wouldn't split on him"
+      ],
+      "synonyms": [
+        "inform against",
+        "inform on",
+        "tell tales on",
+        "give away",
+        "sell out",
+        "stab in the back"
+      ]
+    },
+    {
+      "description": "Leave a place, especially suddenly.",
+      "examples": [
+        "“Let's split,” Harvey said"
+      ],
+      "synonyms": [
+        "depart from",
+        "go away from",
+        "go from",
+        "withdraw from",
+        "retire from",
+        "take oneself off from",
+        "exit from",
+        "take one's leave of",
+        "pull out of",
+        "quit",
+        "be gone from",
+        "decamp from",
+        "disappear from",
+        "abandon",
+        "vacate",
+        "absent oneself from",
+        "evacuate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tear, crack, or fissure in something, especially down the middle or along the grain.",
+      "examples": [
+        "light squeezed through a small split in the curtain"
+      ],
+      "synonyms": [
+        "crack",
+        "fissure",
+        "cleft",
+        "crevice",
+        "break",
+        "fracture",
+        "breach"
+      ]
+    },
+    {
+      "description": "(in gymnastics and dance) an act of leaping in the air or sitting down with the legs straight and at right angles to the upright body, one in front and the other behind, or one at each side.",
+      "examples": [
+        "I could never do a split before"
+      ]
+    },
+    {
+      "description": "A thing that is divided or split.",
+      "examples": []
+    },
+    {
+      "description": "The time it takes to complete a recognized part of a race, or the point in the race where such a time is measured.",
+      "examples": []
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A seaport on the coast of southern Croatia; population 177,500 (est. 2009). It contains the ruins of the palace of the emperor Diocletian, built in about AD 300.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Well, I tell you what, why don't we split the difference?",
+    "Even if we split the difference and figure that we'll need 240MW of new generation every year, it doesn't change the fact that we've built less than 500MW-worth in the past five years.",
+    "If we split the difference and say that the average price of statins is $90 a month, that's $1,080 a year for drugs and $210 a year for labs.",
+    "If I say two plus two equals four, and you say two plus two equals 1 billion, is it really such a great advance to split the difference and agree that it's somewhere near 500 million?",
+    "Well, if the House wants $550 billion in tax cuts, the Senate approved $350 billion, what, do you just split the difference and come up with $450 billion?"
+  ],
+  "origin": "Late 16th century (originally in the sense break up a ship, describing the force of a storm or rock): from Middle Dutch splitten, of unknown ultimate origin.",
+  "pronounciation": "/split/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/split_us_1.mp3"
+}

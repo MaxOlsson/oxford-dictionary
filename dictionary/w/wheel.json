@@ -1,0 +1,83 @@
+{
+  "noun": [
+    {
+      "description": "A circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground.",
+      "examples": [],
+      "synonyms": [
+        "disc",
+        "hoop",
+        "ring",
+        "circle"
+      ]
+    },
+    {
+      "description": "A machine or structure having a wheel as its essential part.",
+      "examples": []
+    },
+    {
+      "description": "A car.",
+      "examples": [
+        "she's got wheels now"
+      ],
+      "synonyms": [
+        "motor car",
+        "automobile",
+        "motor",
+        "machine"
+      ]
+    },
+    {
+      "description": "A thing resembling a wheel in form or function, in particular a cheese made in the form of a disk.",
+      "examples": []
+    },
+    {
+      "description": "An instance of wheeling; a turn or rotation.",
+      "examples": [],
+      "synonyms": [
+        "turn",
+        "rotation",
+        "pivot",
+        "swivel",
+        "gyration"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Push or pull (a vehicle with wheels)",
+      "examples": [
+        "the sled was wheeled out to the flight deck"
+      ],
+      "synonyms": [
+        "push",
+        "trundle",
+        "roll"
+      ]
+    },
+    {
+      "description": "(of a bird or aircraft) fly in a wide circle or curve.",
+      "examples": [
+        "the birds wheeled and dived"
+      ],
+      "synonyms": [
+        "turn",
+        "turn round",
+        "go round",
+        "rotate",
+        "revolve",
+        "circle",
+        "orbit"
+      ]
+    }
+  ],
+  "phrases": [
+    "the money is inadequate to grease the wheels of recovery",
+    "a journey on wheels",
+    "Staveley's Rob Jebb became only the second athlete to win the Three Peaks on foot and on wheels at the weekend, writes Mike Addison.",
+    "Parents need to be more aware if their children are on wheels they should be wearing helmets, he said.",
+    "They arrive on wheels, travel through the hospital on wheels and may be prescribed medicine, which originates from plants and minerals."
+  ],
+  "origin": "Old English hwēol (noun), of Germanic origin, from an Indo-European root shared by Sanskrit cakra wheel, circle and Greek kuklos circle.",
+  "pronounciation": "/(h)wil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wheel_us_1.mp3"
+}

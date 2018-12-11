@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "Froth or foam, especially that found on waves.",
+      "examples": [],
+      "synonyms": [
+        "foam",
+        "froth",
+        "surf",
+        "spindrift",
+        "spray"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form or produce a mass of froth or foam.",
+      "examples": [
+        "water was spuming under the mill"
+      ],
+      "synonyms": [
+        "froth",
+        "froth up",
+        "cream",
+        "bubble",
+        "fizz",
+        "effervesce",
+        "spume",
+        "lather",
+        "ferment",
+        "rise",
+        "boil",
+        "seethe",
+        "simmer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French ( e)spume or Latin spuma.",
+  "pronounciation": "/spjum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spume_us_1.mp3"
+}

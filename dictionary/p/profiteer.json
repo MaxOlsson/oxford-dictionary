@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Make or seek to make an excessive or unfair profit, especially illegally or in a black market.",
+      "examples": [
+        "the profiteering of tabloid journalists"
+      ],
+      "synonyms": [
+        "overcharge",
+        "racketeer",
+        "make an excessive profit",
+        "make an illegal profit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who profiteers.",
+      "examples": [
+        "a war profiteer"
+      ],
+      "synonyms": [
+        "extortionist",
+        "extortioner",
+        "racketeer",
+        "exploiter",
+        "black marketeer"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌprɑfəˈtɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/profiteer_us_2.mp3"
+}

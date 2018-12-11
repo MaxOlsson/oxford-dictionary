@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Take into one's possession or control by force.",
+      "examples": [
+        "the Russians captured 13,000 men"
+      ],
+      "synonyms": [
+        "catch",
+        "apprehend",
+        "seize",
+        "arrest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of capturing or of being captured.",
+      "examples": [
+        "he was killed while resisting capture",
+        "the capture of the city marks the high point of his career"
+      ],
+      "synonyms": [
+        "arrest",
+        "apprehension",
+        "seizure",
+        "being trapped",
+        "being taken prisoner",
+        "being taken captive",
+        "being taken into custody",
+        "imprisonment",
+        "being imprisoned"
+      ]
+    }
+  ],
+  "phrases": [
+    "the project has captured the imagination of the local public",
+    "It took a second query from Jack to capture his attention.",
+    "A shout in the midst of a normal voice or even a whisper will capture people's attention.",
+    "Wilkins captures our attention by provoking combinations of topics or case examples throughout the book.",
+    "For the past six weeks, the conflict in the Middle East has captured the world's attention."
+  ],
+  "origin": "Mid 16th century (as a noun): from French, from Latin captura, from capt- seized, taken, from the verb capere.",
+  "pronounciation": "/ˈkapCHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/capture_us_1.mp3"
+}

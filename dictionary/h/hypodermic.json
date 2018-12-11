@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the region immediately beneath the skin.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hypodermic syringe or injection.",
+      "examples": [
+        "the hypodermics left strewn around the piazza"
+      ],
+      "synonyms": [
+        "needle",
+        "syringe"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from hypo- under + Greek derma skin + -ic.",
+  "pronounciation": "/ˌhīpəˈdərmik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hypodermic_us_1.mp3"
+}

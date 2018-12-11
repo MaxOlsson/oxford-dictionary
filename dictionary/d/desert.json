@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Abandon (a person, cause, or organization) in a way considered disloyal or treacherous.",
+      "examples": [
+        "we feel our public representatives have deserted us"
+      ],
+      "synonyms": [
+        "abandoned",
+        "forsaken",
+        "cast aside",
+        "cast off",
+        "thrown over",
+        "betrayed",
+        "jilted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dry, barren area of land, especially one covered with sand, that is characteristically desolate, waterless, and without vegetation.",
+      "examples": [],
+      "synonyms": [
+        "wasteland",
+        "waste",
+        "wilderness",
+        "wilds",
+        "dust bowl",
+        "barren land"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Like a desert.",
+      "examples": [
+        "overgrazing has created desert conditions"
+      ],
+      "synonyms": [
+        "arid",
+        "dry",
+        "moistureless",
+        "dried up",
+        "parched",
+        "scorched",
+        "burnt",
+        "hot",
+        "burning",
+        "torrid"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from late Latin desertum something left waste, neuter past participle of deserere leave, forsake.",
+  "pronounciation": "/ˈdɛzərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/desert_us_1.mp3"
+}

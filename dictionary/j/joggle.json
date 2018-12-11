@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Move or cause to move with repeated small bobs or jerks.",
+      "examples": [
+        "the car bounced and joggled on the rough road"
+      ],
+      "synonyms": [
+        "jiggle",
+        "bob",
+        "bounce",
+        "jolt",
+        "jerk",
+        "shake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bobbing or jerking movement.",
+      "examples": [],
+      "synonyms": [
+        "jiggle",
+        "joggle",
+        "jerk"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: perhaps related to jag.",
+  "pronounciation": "/ˈdʒɑɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/joggle_us_1.mp3"
+}

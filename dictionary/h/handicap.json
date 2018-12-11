@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A circumstance that makes progress or success difficult.",
+      "examples": [
+        "a criminal conviction is a handicap and a label that may stick forever"
+      ],
+      "synonyms": [
+        "impediment",
+        "hindrance",
+        "obstacle",
+        "barrier",
+        "bar",
+        "encumbrance"
+      ]
+    },
+    {
+      "description": "A condition that markedly restricts a person's ability to function physically, mentally, or socially.",
+      "examples": [
+        "he was born with a significant visual handicap"
+      ],
+      "synonyms": [
+        "disability",
+        "physical abnormality",
+        "mental abnormality",
+        "defect",
+        "impairment",
+        "affliction",
+        "disadvantage",
+        "deficiency"
+      ]
+    },
+    {
+      "description": "A disadvantage imposed on a superior competitor in sports such as golf, horse racing, and competitive sailing in order to make the chances more equal.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as an impediment to.",
+      "examples": [
+        "lack of funding has handicapped the development of research"
+      ],
+      "synonyms": [
+        "hamper",
+        "impede",
+        "hinder",
+        "impair",
+        "disadvantage",
+        "put at a disadvantage",
+        "hamstring",
+        "curtail"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from the phrase hand in cap; originally a pastime in which one person claimed an article belonging to another and offered something in exchange, any difference in value being decided by an umpire. All three deposited forfeit money in a cap; the two opponents showed their agreement or disagreement with the valuation by bringing out their hands either full or empty. If both were the same, the umpire took the forfeit money; if not it went to the person who accepted the valuation. The term handicap race was applied (late 18th century) to a horse race in which an umpire decided the weight to be carried by each horse, the owners showing acceptance or dissent in a similar way: hence in the late 19th century handicap came to mean the extra weight given to the superior horse.",
+  "pronounciation": "/ˈhændiˌkæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handicap_us_1.mp3"
+}

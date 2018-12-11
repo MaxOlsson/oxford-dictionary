@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Estimate or suppose (something) without sufficient information to be sure of being correct.",
+      "examples": [
+        "she guessed the child's age to be 14 or 15",
+        "he took her aside and I guessed that he was offering her a job"
+      ],
+      "synonyms": [
+        "estimate",
+        "calculate",
+        "approximate",
+        "make a guess at",
+        "make an estimate of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An estimate or conjecture.",
+      "examples": [
+        "my guess is that within a year we will have a referendum"
+      ],
+      "synonyms": [
+        "hypothesis",
+        "theory",
+        "prediction",
+        "postulation",
+        "conjecture"
+      ]
+    }
+  ],
+  "phrases": [
+    "how well the system will work is anybody's guess",
+    "How many Pittsburghers will know what they really are celebrating is anyone's guess.",
+    "Whether she can maintain the form and the focus until the US Open is anyone's guess but at least she knows that she is a champion again.",
+    "Some of these will make fortunes for their directors and some will not, but it's anyone's guess which will thrive and which will fail.",
+    "It is anyone's guess if Easter Sunday will be resurrection day for him."
+  ],
+  "origin": "Middle English: origin uncertain; perhaps from Dutch gissen, and probably related to get.",
+  "pronounciation": "/ɡɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guess_us_1.mp3"
+}

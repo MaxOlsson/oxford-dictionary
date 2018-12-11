@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not disturbed.",
+      "examples": [
+        "a quiet weekend of undisturbed tranquility",
+        "the tombs had lain undisturbed for 2,500 years"
+      ],
+      "synonyms": [
+        "serene",
+        "tranquil",
+        "relaxed",
+        "unruffled",
+        "unperturbed",
+        "unflustered",
+        "unagitated",
+        "unmoved",
+        "unbothered",
+        "untroubled"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndəˈstərbd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undisturbed_us_1.mp3"
+}

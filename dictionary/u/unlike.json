@@ -1,0 +1,76 @@
+{
+  "preposition": [
+    {
+      "description": "Different from; not similar to.",
+      "examples": [
+        "a large house not unlike Mr. Shaw's",
+        "they were unlike anything ever seen before"
+      ],
+      "synonyms": [
+        "different from",
+        "unalike",
+        "dissimilar to",
+        "not like",
+        "not similar to",
+        "not resembling",
+        "far from",
+        "far apart from",
+        "distant from"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Dissimilar or different from each other.",
+      "examples": [
+        "they seemed utterly unlike, despite being twins"
+      ],
+      "synonyms": [
+        "dissimilar",
+        "unalike",
+        "disparate",
+        "contrastive",
+        "contrasting",
+        "contrasted",
+        "contrary",
+        "antithetical",
+        "different",
+        "distinct",
+        "non-identical",
+        "diverse",
+        "heterogeneous",
+        "divergent",
+        "distinguishable",
+        "incompatible",
+        "inconsistent",
+        "opposed",
+        "at variance",
+        "varying",
+        "variant",
+        "at odds",
+        "clashing",
+        "conflicting",
+        "discrepant",
+        "ill-matched",
+        "incongruous"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be regarded with distaste or hostility; be unpopular.",
+      "examples": [
+        "the article suggests that his character was unliked by many"
+      ]
+    },
+    {
+      "description": "(in the context of social media) withdraw one's approval of or support for (someone or something one has previously liked) by means of an icon or link.",
+      "examples": [
+        "I cut about 300 of my 400 friends and unliked about 20–30 pages"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps originally an alteration of Old Norse úlíkr; compare with Old English ungelīc not of the same kind, not comparable.",
+  "pronounciation": "/ˈənˌlīk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlike_us_2.mp3"
+}

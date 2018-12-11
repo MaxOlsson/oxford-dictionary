@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Put (food) into the mouth and chew and swallow it.",
+      "examples": [
+        "he was eating a hot dog",
+        "eat up all your peas",
+        "she watched her son as he ate"
+      ],
+      "synonyms": [
+        "consume",
+        "devour",
+        "ingest",
+        "partake of",
+        "gobble",
+        "gobble down",
+        "gobble up",
+        "gulp",
+        "gulp down",
+        "bolt",
+        "bolt down",
+        "wolf",
+        "wolf down",
+        "cram down",
+        "finish",
+        "finish off"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Food or snacks.",
+      "examples": [
+        "people would stop for soft drinks or eats"
+      ],
+      "synonyms": [
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    }
+  ],
+  "phrases": [
+    "we were eaten alive by mosquitoes",
+    "At night, crammed as many as 14 to a room, they say the mosquitoes eat them alive.",
+    "It's a wonder he wasn't eaten alive by the midges!",
+    "When I started this, Patty wrote us and said bugs were eating them alive and they had no bathroom facilities except for putting two pieces of wood over a cardboard box and that's what they used as a toilet.",
+    "I finally had to quit because the flies were eating me alive.",
+    "these liquids can discolor the surface or even eat into the top layer of concrete",
+    "The fear was that higher interest rates will eat into corporate earnings, slash investment spending and lead to job losses.",
+    "But it is still uncertain how much of the bigger tab companies will be able to pass through to consumers, and how sharply the costs will eat into profit margins.",
+    "Much more hope was placed in diminishing the burdens on production which ate into profits.",
+    "Of course, charges and inflation are both eating into the profit."
+  ],
+  "origin": "Old English etan, of Germanic origin; related to Dutch eten and German essen, from an Indo-European root shared by Latin edere and Greek edein.",
+  "pronounciation": "/it/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eat_us_1.mp3"
+}

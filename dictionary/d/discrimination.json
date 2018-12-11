@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "examples": [
+        "victims of racial discrimination",
+        "discrimination against homosexuals"
+      ],
+      "synonyms": [
+        "prejudice",
+        "bias",
+        "bigotry",
+        "intolerance",
+        "narrow-mindedness",
+        "unfairness",
+        "inequity",
+        "favouritism",
+        "one-sidedness",
+        "partisanship"
+      ]
+    },
+    {
+      "description": "Recognition and understanding of the difference between one thing and another.",
+      "examples": [
+        "discrimination between right and wrong",
+        "young children have difficulties in making fine discriminations"
+      ],
+      "synonyms": [
+        "differentiation",
+        "distinction",
+        "telling the difference"
+      ]
+    },
+    {
+      "description": "The selection of a signal having a required characteristic, such as frequency or amplitude, by means of a discriminator that rejects all unwanted signals.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/dəˌskriməˈnāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discrimination_us_1.mp3"
+}

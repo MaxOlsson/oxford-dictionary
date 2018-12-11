@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A digital record of the time of occurrence of a particular event.",
+      "examples": [
+        "every tweet is posted with a timestamp",
+        "the timestamp on the video shows the van arriving at 1:07 p.m."
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record the time or date of.",
+      "examples": [
+        "the email he sent out is timestamped 9:59 pm on March 27"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtīmˌstamp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/time_stamp_1_us_2.mp3"
+}

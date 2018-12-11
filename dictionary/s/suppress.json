@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Forcibly put an end to.",
+      "examples": [
+        "the uprising was savagely suppressed"
+      ],
+      "synonyms": [
+        "subdue",
+        "defeat",
+        "conquer",
+        "vanquish",
+        "triumph over",
+        "repress",
+        "crush",
+        "quell",
+        "quash",
+        "squash",
+        "stamp out",
+        "overpower",
+        "extinguish",
+        "put down",
+        "put out",
+        "crack down on",
+        "clamp down on",
+        "cow",
+        "drive underground"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin suppress- pressed down, from the verb supprimere, from sub- down + premere to press.",
+  "pronounciation": "/səˈpres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suppress_us_1.mp3"
+}

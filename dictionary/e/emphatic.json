@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Showing or giving emphasis; expressing something forcibly and clearly.",
+      "examples": [
+        "the children were emphatic that they would like to repeat the experience",
+        "an emphatic movement of his hand"
+      ],
+      "synonyms": [
+        "vehement",
+        "firm",
+        "wholehearted",
+        "forceful",
+        "forcible",
+        "energetic",
+        "vigorous",
+        "ardent",
+        "assertive",
+        "insistent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An emphatic consonant.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: via late Latin from Greek emphatikos, from emphasis (see emphasis).",
+  "pronounciation": "/əmˈfadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/emphatic_us_1.mp3"
+}

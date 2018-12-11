@@ -1,0 +1,101 @@
+{
+  "adjective": [
+    {
+      "description": "Used to single out an individual member of a specified group or class.",
+      "examples": [
+        "the action seems to discriminate against a particular group of companies"
+      ],
+      "synonyms": [
+        "specific",
+        "certain",
+        "distinct",
+        "separate",
+        "isolated"
+      ]
+    },
+    {
+      "description": "Especially great or intense.",
+      "examples": [
+        "when handling or checking cash the cashier should exercise particular care"
+      ],
+      "synonyms": [
+        "special",
+        "extra special",
+        "especial",
+        "exceptional",
+        "unusual",
+        "marked",
+        "singular",
+        "uncommon",
+        "notable",
+        "noteworthy",
+        "remarkable",
+        "outstanding",
+        "unique"
+      ]
+    },
+    {
+      "description": "Insisting that something should be correct or suitable in every detail; fastidious.",
+      "examples": [
+        "she is very particular about cleanliness"
+      ],
+      "synonyms": [
+        "fussy",
+        "fastidious",
+        "meticulous",
+        "punctilious",
+        "discriminating",
+        "selective",
+        "painstaking",
+        "exacting",
+        "demanding",
+        "critical",
+        "over-particular",
+        "over-fastidious",
+        "finicky",
+        "faddish",
+        "finical",
+        "dainty"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An individual item, as contrasted with a universal quality.",
+      "examples": []
+    },
+    {
+      "description": "A detail.",
+      "examples": [
+        "he is wrong in every particular"
+      ],
+      "synonyms": [
+        "detail",
+        "item",
+        "point",
+        "fine point",
+        "specific",
+        "specification",
+        "element",
+        "aspect",
+        "respect",
+        "regard",
+        "particularity",
+        "fact",
+        "feature",
+        "circumstance",
+        "thing"
+      ]
+    }
+  ],
+  "phrases": [
+    "he socialized with the other young people, one boy in particular",
+    "The first half in particular was epitomised by a real uncertainty in dealing with crosses.",
+    "One of Maurice, in particular, bought tears to her eyes as the memories flooded back.",
+    "Toddlers in particular are not known for the patience and sitting still skills.",
+    "Part of it had to do with the players themselves, and in particular the contrast between them."
+  ],
+  "origin": "Late Middle English: from Old French particuler, from Latin particularis concerning a small part, from particula small part.",
+  "pronounciation": "/pə(r)ˈtɪkjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/particular_us_1.mp3"
+}

@@ -1,0 +1,81 @@
+{
+  "noun": [
+    {
+      "description": "A repeated decorative design.",
+      "examples": [
+        "a neat blue herringbone pattern"
+      ],
+      "synonyms": [
+        "design",
+        "decoration",
+        "motif",
+        "marking",
+        "ornament",
+        "ornamentation",
+        "device",
+        "figure"
+      ]
+    },
+    {
+      "description": "A model or design used as a guide in needlework and other crafts.",
+      "examples": [],
+      "synonyms": [
+        "sample",
+        "specimen",
+        "swatch"
+      ]
+    },
+    {
+      "description": "An example for others to follow.",
+      "examples": [
+        "he set the pattern for subsequent study"
+      ],
+      "synonyms": [
+        "precedent",
+        "lead",
+        "guide",
+        "model",
+        "blueprint",
+        "template",
+        "paradigm",
+        "exemplar",
+        "ideal",
+        "standard"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate with a recurring design.",
+      "examples": [
+        "rosebud patterned wallpapers",
+        "violet-tinged flowers patterned the grassy banks"
+      ],
+      "synonyms": [
+        "decorated",
+        "ornamented",
+        "figured",
+        "tessellated",
+        "mosaic"
+      ]
+    },
+    {
+      "description": "Give a regular or intelligible form to.",
+      "examples": [
+        "the brain not only receives information, but interprets and patterns it"
+      ],
+      "synonyms": [
+        "shape",
+        "influence",
+        "form",
+        "model",
+        "fashion",
+        "mould",
+        "style"
+      ]
+    }
+  ],
+  "origin": "Middle English patron something serving as a model, from Old French (see patron). The change in sense is from the idea of a patron giving an example to be copied. Metathesis in the second syllable occurred in the 16th century. By 1700 patron ceased to be used of things, and the two forms became differentiated in sense.",
+  "pronounciation": "/ˈpædərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pattern_us_2.mp3"
+}

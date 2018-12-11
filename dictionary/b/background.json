@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The area or scenery behind the main object of contemplation, especially when perceived as a framework for it.",
+      "examples": [
+        "the house stands against a background of sheltering trees"
+      ],
+      "synonyms": [
+        "surrounding",
+        "surroundings",
+        "backdrop",
+        "backcloth",
+        "framework"
+      ]
+    },
+    {
+      "description": "The circumstances or situation prevailing at a particular time or underlying a particular event.",
+      "examples": [
+        "the political and economic background",
+        "background information"
+      ],
+      "synonyms": [
+        "circumstances",
+        "context",
+        "conditions",
+        "situation",
+        "environment",
+        "milieu",
+        "scene",
+        "scenario",
+        "framework",
+        "atmosphere"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbakˌɡround/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/background_us_1.mp3"
+}

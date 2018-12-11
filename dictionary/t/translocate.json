@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Move from one place to another.",
+      "examples": [
+        "translocating rhinos to other reserves",
+        "the cell bodies translocate into the other side of the brain"
+      ],
+      "synonyms": [
+        "migrant",
+        "migrating",
+        "translocating",
+        "relocating",
+        "moving",
+        "travelling"
+      ]
+    }
+  ],
+  "pronounciation": "/tranz-/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/translocate_us_1.mp3"
+}

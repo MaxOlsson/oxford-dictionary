@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Grayish white; gray or gray-haired with age.",
+      "examples": [],
+      "synonyms": [
+        "grey",
+        "greying",
+        "greyish",
+        "silver",
+        "silvery",
+        "snowy",
+        "snowy-white",
+        "white",
+        "whitish",
+        "grizzly",
+        "hoary",
+        "salt-and-pepper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Hoarfrost.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English hār, of Germanic origin; related to German hehr majestic, noble.",
+  "pronounciation": "/hôr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoar_us_1.mp3"
+}

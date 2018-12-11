@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a speech act or sentence that is a statement declaring something to be the case.",
+      "examples": [
+        "a constative sentence"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A constative speech act or sentence.",
+      "examples": [
+        "constatives present a true or false account of the facts of the case"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from Latin constat- established (from the verb constare) + -ive.",
+  "pronounciation": "/ˈkänstətiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstative_us_1.mp3"
+}

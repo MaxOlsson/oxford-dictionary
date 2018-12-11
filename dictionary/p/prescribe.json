@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "(of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing.",
+      "examples": [
+        "Dr. Greene prescribed magnesium sulfate",
+        "the doctor prescribed her a drug called amantadine"
+      ],
+      "synonyms": [
+        "order",
+        "advise",
+        "authorize",
+        "direct"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense confine within bounds, also as a legal term meaning claim by prescription): from Latin praescribere direct in writing, from prae before + scribere write.",
+  "pronounciation": "/prəˈskraɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prescribe_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A part of a monk's or priest's head left bare on top by shaving off the hair.",
+      "examples": [
+        "his hair is thinning up there—soon he'll have a tonsure like a monk's"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shave the hair on the crown of.",
+      "examples": [
+        "Louis's half-brothers were tonsured and sent away to monasteries"
+      ],
+      "synonyms": [
+        "cut short",
+        "cut",
+        "clip",
+        "trim",
+        "snip",
+        "shear",
+        "shave"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin tonsura, from tondere shear, clip.",
+  "pronounciation": "/ˈtɑn(t)ʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tonsure_us_1.mp3"
+}

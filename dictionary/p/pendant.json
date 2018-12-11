@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A piece of jewelry that hangs from a chain worn around the neck.",
+      "examples": []
+    },
+    {
+      "description": "A light designed to hang from the ceiling.",
+      "examples": []
+    },
+    {
+      "description": "The part of a pocket watch by which it is suspended.",
+      "examples": []
+    },
+    {
+      "description": "An artistic, literary, or musical composition intended to match or complement another.",
+      "examples": [
+        "the triptych's pendant will occupy the corresponding wall in the south transept"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Hanging downward; pendent.",
+      "examples": [
+        "pendant flowers on frail stems"
+      ],
+      "synonyms": [
+        "hanging",
+        "suspended",
+        "supported from above",
+        "dangling",
+        "pendulous",
+        "drooping",
+        "droopy",
+        "flaccid",
+        "swinging",
+        "swaying",
+        "trailing",
+        "flowing",
+        "falling",
+        "tumbling"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting an architectural decoration projecting downwards): from Old French, literally hanging, present participle of the verb pendre, from Latin pendere.",
+  "pronounciation": "/ˈpɛndənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pendant_us_1.mp3"
+}

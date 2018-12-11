@@ -1,0 +1,42 @@
+{
+  "pronoun": [
+    {
+      "description": "Used by a speaker to refer to himself or herself and one or more other people as the object of a verb or preposition.",
+      "examples": [
+        "let us know",
+        "we asked him to come with us",
+        "both of us"
+      ]
+    },
+    {
+      "description": "Me.",
+      "examples": [
+        "give us a kiss"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "United States.",
+      "examples": []
+    },
+    {
+      "description": "Undersecretary.",
+      "examples": []
+    },
+    {
+      "description": "Unserviceable; useless.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Each one of us in our own small way has the potential to create positive change in others.",
+    "Living a good life and allowing others to do so is the good option available to each one of us.",
+    "Surely this is what every one of us would want for future generations who are going to live, work and play in the town.",
+    "When Gary and I first trained together, one of us would be half a stride ahead of the other.",
+    "Then one of the teams on next was short a player, and asked us if one of us would play."
+  ],
+  "origin": "Old English ūs, accusative and dative of we, of Germanic origin; related to Dutch ons and German uns.",
+  "pronounciation": "/ˌyo͞o ˈes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/u_s_1_us_2_abbr.mp3"
+}

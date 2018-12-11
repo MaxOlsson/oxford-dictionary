@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A browning of skin caused by exposure to the sun.",
+      "examples": [
+        "he had acquired quite a suntan"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Expose to the sun in order to achieve a brown color.",
+      "examples": [
+        "a suntanned face"
+      ],
+      "synonyms": [
+        "swarthy",
+        "sallow",
+        "olive",
+        "dusky",
+        "black",
+        "ebony"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənˌtæn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suntan_us_2.mp3"
+}

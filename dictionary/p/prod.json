@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Poke (someone) with a finger, foot, or pointed object.",
+      "examples": [
+        "he prodded her in the ribs to stop her snoring",
+        "a woman prods at a tiger with a stick"
+      ],
+      "synonyms": [
+        "poke",
+        "jab",
+        "dig",
+        "nudge",
+        "elbow",
+        "butt",
+        "push",
+        "stab"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A poke with a finger, foot, or pointed object.",
+      "examples": [
+        "he gave the wire netting an experimental prod"
+      ],
+      "synonyms": [
+        "poke",
+        "jab",
+        "dig",
+        "nudge",
+        "butt",
+        "push",
+        "shove",
+        "thrust"
+      ]
+    },
+    {
+      "description": "A pointed implement, typically one discharging an electric current and used as a goad.",
+      "examples": [
+        "a cattle prod"
+      ],
+      "synonyms": [
+        "goad",
+        "stick",
+        "spike"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a verb): perhaps symbolic of a short poking movement, or a blend of poke and dialect brod to goad, prod. The noun dates from the mid 18th century.",
+  "pronounciation": "/präd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prod_1_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) be quiet or stop talking.",
+      "examples": [
+        "he placed a finger before pursed lips to hush her"
+      ],
+      "synonyms": [
+        "silence",
+        "quieten",
+        "quieten down",
+        "shush"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A silence.",
+      "examples": [
+        "a hush descended over the crowd"
+      ],
+      "synonyms": [
+        "silence",
+        "quiet",
+        "quietness",
+        "quietude",
+        "soundlessness",
+        "noiselessness"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: back-formation from obsolete husht silent (taken to be a past participle), from an interjection husht quiet!.",
+  "pronounciation": "/həSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hush_us_1.mp3"
+}

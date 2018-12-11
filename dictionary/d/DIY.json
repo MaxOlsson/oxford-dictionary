@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The activity of decorating, building, and making repairs at home by oneself rather than employing a professional.",
+      "examples": [
+        "DIY avoids the difficult relationship between householder and professional decorator"
+      ],
+      "synonyms": [
+        "do-it-yourself",
+        "diy",
+        "self-build"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to DIY.",
+      "examples": [
+        "a DIY store"
+      ],
+      "synonyms": [
+        "flat-pack",
+        "in kit form",
+        "kit",
+        "do-it-yourself",
+        "diy",
+        "self-build"
+      ]
+    }
+  ],
+  "origin": "1950s: abbreviation of do-it-yourself.",
+  "pronounciation": "/ˌdi aɪ ˈwaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diy_us_1.mp3"
+}

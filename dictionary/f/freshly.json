@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "Newly; recently.",
+      "examples": [
+        "freshly ground black pepper"
+      ],
+      "synonyms": [
+        "recently",
+        "just",
+        "just recently",
+        "only just",
+        "lately",
+        "freshly",
+        "not long ago",
+        "a short time ago",
+        "just a short time ago",
+        "a moment ago",
+        "just a moment ago",
+        "only now",
+        "of late",
+        "new-"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfrɛʃli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/freshly_us_1.mp3"
+}

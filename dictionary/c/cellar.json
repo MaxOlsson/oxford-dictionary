@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A room below ground level in a house, typically one used for storing wine or coal.",
+      "examples": [
+        "the servants led us down into a cellar",
+        "a wine cellar"
+      ],
+      "synonyms": [
+        "basement",
+        "vault",
+        "crypt",
+        "undercroft",
+        "underground room",
+        "catacomb"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Store (wine) in a cellar.",
+      "examples": [
+        "it is drinkable now but can be cellared for at least five years"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the general sense storeroom): from Old French celier, from late Latin cellarium storehouse, from Latin cella storeroom or chamber.",
+  "pronounciation": "/ˈselər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cellar_us_1.mp3"
+}

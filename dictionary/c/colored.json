@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Having a color or colors, especially as opposed to being black, white, or neutral.",
+      "examples": [
+        "strings of colored lights",
+        "brightly colored birds are easier to see",
+        "a peach-colored sofa"
+      ],
+      "synonyms": [
+        "brightly coloured",
+        "bright-coloured",
+        "deep-coloured",
+        "brilliant",
+        "glowing",
+        "radiant",
+        "vivid",
+        "rich",
+        "vibrant"
+      ]
+    },
+    {
+      "description": "Wholly or partly of nonwhite descent.",
+      "examples": []
+    },
+    {
+      "description": "Used as an ethnic label for people of mixed ethnic origin, including African slave, Malay, Chinese, and white.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is wholly or partly of nonwhite descent.",
+      "examples": []
+    },
+    {
+      "description": "A person of mixed ethnic origin speaking Afrikaans or English as their mother tongue.",
+      "examples": []
+    },
+    {
+      "description": "Clothes, sheets, etc. that are any color but white.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkələrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colored_us_2.mp3"
+}

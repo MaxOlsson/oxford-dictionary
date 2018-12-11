@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Gentle; kindly.",
+      "examples": [
+        "his benign but firm manner",
+        "her face was calm and benign"
+      ],
+      "synonyms": [
+        "kindly",
+        "kind",
+        "warm-hearted",
+        "good-natured",
+        "friendly",
+        "warm",
+        "affectionate",
+        "agreeable",
+        "amiable",
+        "good-humoured",
+        "genial",
+        "congenial",
+        "cordial",
+        "approachable",
+        "tender",
+        "tender-hearted",
+        "soft-hearted",
+        "gentle",
+        "sympathetic",
+        "compassionate",
+        "caring",
+        "considerate",
+        "thoughtful",
+        "helpful",
+        "well disposed",
+        "obliging",
+        "accommodating",
+        "generous",
+        "big-hearted",
+        "unselfish",
+        "benevolent",
+        "gracious",
+        "liberal",
+        "indulgent"
+      ]
+    },
+    {
+      "description": "(of a disease) not harmful in effect: in particular, (of a tumor) not malignant.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French benigne, from Latin benignus, probably from bene well + -genus -born. Compare with gentle.",
+  "pronounciation": "/bəˈnīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/benign_us_1.mp3"
+}

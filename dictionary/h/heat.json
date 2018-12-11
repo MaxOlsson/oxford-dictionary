@@ -1,0 +1,83 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being hot; high temperature.",
+      "examples": [
+        "it is sensitive to both heat and cold"
+      ],
+      "synonyms": [
+        "hotness",
+        "warmth",
+        "warmness",
+        "high temperature"
+      ]
+    },
+    {
+      "description": "Intensity of feeling, especially of anger or excitement.",
+      "examples": [
+        "words few men would dare use to another, even in the heat of anger"
+      ],
+      "synonyms": [
+        "passion",
+        "intensity of feeling",
+        "ardour",
+        "fervour",
+        "vehemence",
+        "warmth",
+        "intensity",
+        "animation",
+        "earnestness",
+        "eagerness",
+        "enthusiasm",
+        "excitement",
+        "agitation"
+      ]
+    },
+    {
+      "description": "A preliminary round in a race or contest.",
+      "examples": [
+        "the 200-meter heats"
+      ],
+      "synonyms": [
+        "competition",
+        "contest",
+        "tournament",
+        "round",
+        "game",
+        "match",
+        "fixture",
+        "meet",
+        "meeting",
+        "encounter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become hot or warm.",
+      "examples": [
+        "the room faces north and is difficult to heat",
+        "the pipes expand as they heat up"
+      ],
+      "synonyms": [
+        "warm",
+        "warm up",
+        "heat up",
+        "make hot",
+        "make warm",
+        "raise something's temperature",
+        "take the chill off"
+      ]
+    }
+  ],
+  "phrases": [
+    "As they say, if you can't stand the heat, get out of the kitchen, and Peter did just that, going into hotel business school in his native Heidelberg.",
+    "Judging by what seems to be a universally sun burnt, heat zapped spirit, it seemed as though dinner plans for the weekend were something along the lines of if you can't stand the heat, get out of the kitchen and into an air-conditioned restaurant.",
+    "Faith can move mountains but if you can't stand the heat, get out of the kitchen, because right now we're in trouble with a capital T.",
+    "Householders who kill burglars in the heat of the moment will not face prosecution, the Director of Public Prosecutions pledged yesterday.",
+    "The Irish recognised that this was said in the heat of the moment and accepted the apology which came via the Scottish Rugby Union."
+  ],
+  "origin": "Old English hǣtu (noun), hǣtan (verb), of Germanic origin; related to Dutch hitte (noun) and German heizen (verb), also to hot.",
+  "pronounciation": "/hēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heat_us_1.mp3"
+}

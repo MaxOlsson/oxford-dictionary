@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "An establishment or hospital department where outpatients are given medical treatment or advice, especially of a specialist nature.",
+      "examples": [
+        "a mental health clinic"
+      ],
+      "synonyms": [
+        "medical centre",
+        "health centre",
+        "outpatients' department",
+        "surgery",
+        "doctor's",
+        "polyclinic"
+      ]
+    },
+    {
+      "description": "A conference or short course on a particular subject.",
+      "examples": [
+        "a ski clinic"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century (in the sense teaching of medicine at the bedside): from French clinique, from Greek klinikē (tekhnē) bedside (art), from klinē bed.",
+  "pronounciation": "/ˈklɪnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clinic_us_1.mp3"
+}

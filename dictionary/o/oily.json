@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Containing oil.",
+      "examples": [
+        "oily fish such as mackerel and sardines"
+      ],
+      "synonyms": [
+        "greasy",
+        "fatty",
+        "buttery",
+        "swimming in fat",
+        "swimming in oil",
+        "oleaginous"
+      ]
+    },
+    {
+      "description": "(of a person or their behavior) unpleasantly smooth and ingratiating.",
+      "examples": [
+        "his oily smile"
+      ],
+      "synonyms": [
+        "unctuous",
+        "fawning",
+        "ingratiating",
+        "smooth",
+        "smooth-talking",
+        "fulsome",
+        "flattering",
+        "glib",
+        "obsequious",
+        "sycophantic",
+        "soapy",
+        "oleaginous",
+        "servile",
+        "subservient"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈoilē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oily_us_1.mp3"
+}

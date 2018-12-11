@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Vomit.",
+      "examples": [],
+      "synonyms": [
+        "be sick",
+        "spew",
+        "spew up",
+        "fetch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Vomited food.",
+      "examples": [],
+      "synonyms": [
+        "sick"
+      ]
+    }
+  ],
+  "origin": "1960s (originally US): of unknown origin.",
+  "pronounciation": "/bɑrf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/barf_us_1.mp3"
+}

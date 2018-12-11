@@ -1,0 +1,30 @@
+{
+  "exclamation": [
+    {
+      "description": "(especially in biblical, Judaic, and Christian use) used to express adoration, praise, or joy.",
+      "examples": [
+        "“Hosanna, blessed is he who comes in the name of the Lord.“"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An expression of adoration, praise, or joy.",
+      "examples": [
+        "the soundtrack evoked passionate hosannas from some critics"
+      ],
+      "synonyms": [
+        "shout of praise",
+        "alleluia",
+        "hurrah",
+        "hurray",
+        "cheer",
+        "paean",
+        "glorification"
+      ]
+    }
+  ],
+  "origin": "Old English, via late Latin from Greek hōsanna, from Rabbinical Hebrew hōšanā, abbreviation of biblical hōšīā-nnā save, we pray (Ps. 118:25).",
+  "pronounciation": "/hōˈzanə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hosanna_us_1.mp3"
+}

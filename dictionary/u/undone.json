@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not tied or fastened.",
+      "examples": [
+        "the top few buttons of his shirt were undone"
+      ]
+    },
+    {
+      "description": "Not done or finished.",
+      "examples": [
+        "he had left his homework undone"
+      ],
+      "synonyms": [
+        "unfinished",
+        "incomplete",
+        "half-done"
+      ]
+    },
+    {
+      "description": "(of a person) ruined by a disastrous or devastating setback or reverse.",
+      "examples": [
+        "I am undone!"
+      ],
+      "synonyms": [
+        "defeated",
+        "beaten",
+        "foiled",
+        "frustrated",
+        "thwarted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈdən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undone_us_2.mp3"
+}

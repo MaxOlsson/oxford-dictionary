@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Not selective.",
+      "examples": [
+        "a devout and unselective fan",
+        "medical radiation treatment is unselective—X-rays damage all the tissues in their path"
+      ],
+      "synonyms": [
+        "non-selective",
+        "undiscriminating",
+        "uncritical",
+        "aimless",
+        "hit-or-miss",
+        "haphazard",
+        "random",
+        "unsystematic",
+        "unmethodical"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnsɪˈlɛktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unselective_gb_1_8.mp3"
+}

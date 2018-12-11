@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "An anxious awareness of danger.",
+      "examples": [
+        "the boat tilted and the boatmen cried out in alarm",
+        "some experts view the plan with alarm"
+      ],
+      "synonyms": [
+        "fear",
+        "anxiety",
+        "apprehension",
+        "trepidation",
+        "nervousness",
+        "unease",
+        "distress",
+        "agitation",
+        "consternation",
+        "disquiet",
+        "perturbation",
+        "fright",
+        "panic",
+        "dread",
+        "horror",
+        "shock",
+        "terror"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to feel frightened, disturbed, or in danger.",
+      "examples": [
+        "the government was alarmed by an outbreak of unrest"
+      ],
+      "synonyms": [
+        "frighten",
+        "scare",
+        "panic",
+        "startle",
+        "unnerve",
+        "distress",
+        "agitate",
+        "upset",
+        "fluster",
+        "ruffle",
+        "disconcert",
+        "shock",
+        "daunt",
+        "dismay",
+        "disturb",
+        "work up",
+        "terrify",
+        "terrorize",
+        "petrify",
+        "make someone's blood run cold"
+      ]
+    },
+    {
+      "description": "Be fitted or protected with an alarm.",
+      "examples": [
+        "this door is locked and alarmed between 11 p.m. and 6 a.m."
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an exclamation meaning to arms!): from Old French alarme, from Italian allarme, from all' arme! to arms!.",
+  "pronounciation": "/əˈlärm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alarm_us_1.mp3"
+}

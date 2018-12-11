@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A shed where wood for fuel is stored.",
+      "examples": [],
+      "synonyms": [
+        "hut",
+        "lean-to",
+        "outhouse",
+        "outbuilding",
+        "shack"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Practice a musical instrument.",
+      "examples": [
+        "he's off woodshedding again"
+      ]
+    }
+  ],
+  "phrases": [
+    "heartbreak, confusion, and something nasty in the woodshed",
+    "Well and here is the hook… and it's a real good one: I saw something nasty in the woodshed.",
+    "Perhaps there is something nasty in the woodshed?",
+    "You had been mad since you saw something nasty in the woodshed, years and years and years ago.",
+    "It is the story of a family not so much bound by love and shared experience as by the knowledge that at least one of them saw something nasty in the woodshed."
+  ],
+  "pronounciation": "/ˈwo͝odˌSHed/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/woodshed_us_1.mp3"
+}

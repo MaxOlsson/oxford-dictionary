@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing determined courage in the face of difficulties.",
+      "examples": [
+        "the plucky youngster has astounded medical staff"
+      ],
+      "synonyms": [
+        "brave",
+        "courageous",
+        "bold",
+        "daring",
+        "fearless",
+        "intrepid",
+        "spirited",
+        "game",
+        "valiant",
+        "valorous",
+        "lionhearted",
+        "heroic",
+        "gallant",
+        "stout-hearted",
+        "stout",
+        "dauntless",
+        "resolute",
+        "determined",
+        "gritty",
+        "stalwart",
+        "undaunted",
+        "indomitable",
+        "unflinching",
+        "audacious",
+        "unafraid",
+        "doughty",
+        "mettlesome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpləki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plucky_us_1.mp3"
+}

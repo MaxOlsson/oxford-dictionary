@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Not generous; selfish.",
+      "examples": [],
+      "synonyms": [
+        "uncharitable",
+        "unpleasant",
+        "disagreeable",
+        "nasty",
+        "mean",
+        "mean-spirited",
+        "cruel",
+        "vicious",
+        "spiteful",
+        "malicious",
+        "malevolent",
+        "harsh",
+        "callous",
+        "pitiless",
+        "ruthless",
+        "unsympathetic",
+        "unfeeling",
+        "compassionless",
+        "uncaring",
+        "snide",
+        "shabby",
+        "hurtful",
+        "wounding",
+        "upsetting",
+        "ill-natured",
+        "hard-hearted",
+        "heartless",
+        "cold-hearted",
+        "merciless",
+        "brutal",
+        "savage",
+        "inhuman"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈjenərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ungenerous_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "The state of being unaware or unconscious of what is happening.",
+      "examples": [
+        "they drank themselves into oblivion"
+      ],
+      "synonyms": [
+        "unconsciousness",
+        "insensibility",
+        "stupor",
+        "stupefaction",
+        "senselessness",
+        "blankness",
+        "darkness"
+      ]
+    },
+    {
+      "description": "Amnesty or pardon.",
+      "examples": [],
+      "synonyms": [
+        "reprieve",
+        "free pardon",
+        "general pardon",
+        "amnesty",
+        "exoneration",
+        "exculpation",
+        "release",
+        "acquittal",
+        "discharge"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin oblivio(n-), from oblivisci forget.",
+  "pronounciation": "/əˈblɪviən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oblivion_us_1.mp3"
+}

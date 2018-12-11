@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Interpret (a word or action) in a particular way.",
+      "examples": [
+        "his words could hardly be construed as an apology"
+      ],
+      "synonyms": [
+        "interpret",
+        "understand",
+        "read",
+        "see",
+        "take",
+        "take to mean",
+        "parse",
+        "render",
+        "analyse",
+        "explain",
+        "elucidate",
+        "gloss",
+        "decode"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin construere (see construct), in late Latin analyze the construction of a sentence.",
+  "pronounciation": "/kənˈstru/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstrue_us_1.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "An activity or purpose natural to or intended for a person or thing.",
+      "examples": [
+        "bridges perform the function of providing access across water",
+        "Vitamin A is required for good eye function"
+      ],
+      "synonyms": [
+        "purpose",
+        "task",
+        "use",
+        "role"
+      ]
+    },
+    {
+      "description": "A relationship or expression involving one or more variables.",
+      "examples": [
+        "the function (bx + c)"
+      ]
+    },
+    {
+      "description": "A thing dependent on another factor or factors.",
+      "examples": [
+        "class shame is a function of social power"
+      ],
+      "synonyms": [
+        "consequence",
+        "result",
+        "outcome",
+        "ramification",
+        "corollary",
+        "concomitant"
+      ]
+    },
+    {
+      "description": "A large or formal social event or ceremony.",
+      "examples": [
+        "he was obliged to attend party functions"
+      ],
+      "synonyms": [
+        "social event",
+        "party",
+        "occasion",
+        "social occasion",
+        "affair",
+        "gathering",
+        "reception",
+        "soirée",
+        "celebration",
+        "jamboree",
+        "gala"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work or operate in a proper or particular way.",
+      "examples": [
+        "her liver is functioning normally"
+      ],
+      "synonyms": [
+        "work",
+        "go",
+        "run",
+        "be in running order",
+        "be in working order",
+        "operate",
+        "perform",
+        "be in action",
+        "be operative"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French fonction, from Latin functio(n-), from fungi perform.",
+  "pronounciation": "/ˈfəŋ(k)ʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/function_us_1.mp3"
+}

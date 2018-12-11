@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Sleep lightly.",
+      "examples": [
+        "he found his mother dozing by the fire"
+      ],
+      "synonyms": [
+        "catnap",
+        "nap",
+        "take a nap",
+        "take a siesta",
+        "sleep lightly",
+        "drowse",
+        "rest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short, light sleep.",
+      "examples": [],
+      "synonyms": [
+        "catnap",
+        "nap",
+        "siesta",
+        "light sleep",
+        "drowse",
+        "rest"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense stupefy, bewilder, or make drowsy): perhaps related to Danish døse make drowsy.",
+  "pronounciation": "/doʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doze_us_1.mp3"
+}

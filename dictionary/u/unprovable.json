@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be demonstrated by evidence or argument as true or existing.",
+      "examples": [
+        "the hypothesis is not merely unprovable, but false"
+      ],
+      "synonyms": [
+        "controversial",
+        "contentious",
+        "open to question",
+        "open to doubt",
+        "in doubt",
+        "doubtful",
+        "dubious",
+        "uncertain",
+        "unsure",
+        "debatable",
+        "in dispute",
+        "in question",
+        "arguable",
+        "problematic",
+        "problematical"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈpro͞ovəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unprovable_us_1.mp3"
+}

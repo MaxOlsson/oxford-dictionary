@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Having a meaning that is mysterious or obscure.",
+      "examples": [
+        "he found his boss's utterances too cryptic"
+      ],
+      "synonyms": [
+        "enigmatic",
+        "mysterious",
+        "hard to understand",
+        "confusing",
+        "mystifying",
+        "perplexing",
+        "puzzling",
+        "obscure",
+        "abstruse",
+        "arcane",
+        "oracular",
+        "delphic",
+        "ambiguous",
+        "elliptical",
+        "oblique"
+      ]
+    },
+    {
+      "description": "(of coloration or markings) serving to camouflage an animal in its natural environment.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from late Latin crypticus, from Greek kruptikos, from kruptos hidden. cryptic (sense 2) dates from the late 19th century.",
+  "pronounciation": "/ˈkrɪptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cryptic_us_1.mp3"
+}

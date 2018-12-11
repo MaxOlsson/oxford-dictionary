@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Not equal in quantity, size, or value.",
+      "examples": [
+        "two rooms of unequal size",
+        "unequal odds"
+      ],
+      "synonyms": [
+        "different",
+        "differing",
+        "dissimilar",
+        "unlike",
+        "unalike",
+        "unidentical",
+        "disparate",
+        "not uniform",
+        "unmatched",
+        "not matching"
+      ]
+    },
+    {
+      "description": "Not having the ability or resources to meet a challenge.",
+      "examples": [
+        "she felt unequal to the task before her"
+      ],
+      "synonyms": [
+        "inadequate for",
+        "insufficient for",
+        "incapable of",
+        "unqualified for",
+        "unsuited to",
+        "unfitted for",
+        "incompetent at",
+        "not up to",
+        "found wanting in"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing considered to be different from another in status or level.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈikwəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unequal_us_1.mp3"
+}

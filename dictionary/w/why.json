@@ -1,0 +1,46 @@
+{
+  "adverb": [
+    {
+      "description": "For what reason or purpose.",
+      "examples": [
+        "why did he do it?"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "(with reference to a reason) on account of which; for which.",
+      "examples": [
+        "the reason why flu shots need repeating every year is that the virus changes"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing surprise or indignation.",
+      "examples": [
+        "why, that's absurd!"
+      ]
+    },
+    {
+      "description": "Used to add emphasis to a response.",
+      "examples": [
+        "“You think so?” “Why, yes.”"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reason or explanation.",
+      "examples": [
+        "the whys and wherefores of these procedures need to be explained to students"
+      ]
+    }
+  ],
+  "phrases": [
+    "We get bits and pieces of meaning, some glimpses of hope and we ponder again and again, why so?"
+  ],
+  "origin": "Old English hwī, hwȳ by what cause, instrumental case of hwæt what, of Germanic origin.",
+  "pronounciation": "/(h)waɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/why_us_1.mp3"
+}

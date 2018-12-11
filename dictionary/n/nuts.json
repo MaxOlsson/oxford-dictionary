@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "Insane.",
+      "examples": [
+        "the way he turns on the television as soon as he walks in drives me nuts"
+      ],
+      "synonyms": [
+        "mad",
+        "insane",
+        "mentally ill",
+        "certifiable",
+        "deranged",
+        "demented",
+        "of unsound mind",
+        "out of one's mind",
+        "not in one's right mind",
+        "sick in the head",
+        "not together",
+        "crazy",
+        "crazed",
+        "lunatic",
+        "non compos mentis",
+        "unbalanced",
+        "unhinged",
+        "unstable",
+        "disturbed",
+        "distracted",
+        "stark mad",
+        "manic",
+        "frenzied",
+        "raving",
+        "distraught",
+        "frantic",
+        "hysterical",
+        "delirious",
+        "psychotic",
+        "psychopathic",
+        "mad as a hatter",
+        "mad as a march hare",
+        "away with the fairies",
+        "foaming at the mouth"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "An expression of contempt or derision.",
+      "examples": [
+        "keep up the good work, and nuts to everyone who doesn't like it"
+      ]
+    }
+  ],
+  "phrases": [
+    "I was nuts about him",
+    "Andrew, 33, is nuts about classic Harley Davidson motorcycles and little Harley is already following in his footsteps with her own quad bike.",
+    "Asia is nuts about video games, but for console manufacturers some regional markets are too small, too poor - or too risky - for distribution.",
+    "One of my dining companions is nuts about the lentil soup so we all shared a bowl of that.",
+    "The person I knew was nuts about horses, her whole life was horses."
+  ],
+  "pronounciation": "/nəts/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nuts_us_1.mp3"
+}

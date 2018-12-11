@@ -1,0 +1,99 @@
+{
+  "noun": [
+    {
+      "description": "The ability to understand something; comprehension.",
+      "examples": [
+        "foreign visitors with little understanding of English"
+      ],
+      "synonyms": [
+        "comprehension",
+        "apprehension",
+        "grasp",
+        "grip",
+        "mastery",
+        "perception",
+        "discernment",
+        "appreciation",
+        "interpretation",
+        "cognizance",
+        "ken",
+        "conception",
+        "digestion",
+        "assimilation",
+        "absorption"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Sympathetically aware of other people's feelings; tolerant and forgiving.",
+      "examples": [
+        "people expect their doctor to be understanding"
+      ],
+      "synonyms": [
+        "compassionate",
+        "sympathetic",
+        "sensitive",
+        "considerate",
+        "tender",
+        "kind",
+        "kindly",
+        "kind-hearted",
+        "thoughtful",
+        "tolerant",
+        "patient",
+        "forbearing",
+        "lenient",
+        "merciful",
+        "forgiving",
+        "humane",
+        "human",
+        "good-natured",
+        "approachable",
+        "supportive",
+        "reassuring"
+      ]
+    },
+    {
+      "description": "Having insight or good judgment.",
+      "examples": [],
+      "synonyms": [
+        "discerning",
+        "shrewd",
+        "perceptive",
+        "astute",
+        "penetrating",
+        "observant",
+        "percipient",
+        "sharp-witted",
+        "sharp",
+        "quick",
+        "quick-witted",
+        "keen-witted",
+        "alert",
+        "clear-sighted",
+        "sharp-sighted",
+        "clear-eyed",
+        "far-sighted",
+        "far-seeing",
+        "acute",
+        "clever",
+        "canny",
+        "intelligent",
+        "insightful",
+        "judicious",
+        "wise",
+        "sagacious",
+        "sage",
+        "sensitive",
+        "intuitive",
+        "open-eyed",
+        "aware",
+        "thinking",
+        "discriminating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈstandiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/understanding_us_1.mp3"
+}

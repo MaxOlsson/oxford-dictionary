@@ -1,0 +1,38 @@
+{
+  "adverb": [
+    {
+      "description": "To a great degree; extremely or unusually.",
+      "examples": [
+        "Michele was incredibly brave"
+      ],
+      "synonyms": [
+        "extremely",
+        "very",
+        "really",
+        "thoroughly",
+        "exceedingly",
+        "immensely",
+        "incredibly",
+        "amazingly",
+        "remarkably",
+        "exceptionally",
+        "uncommonly",
+        "extraordinarily",
+        "perfectly",
+        "truly",
+        "simply",
+        "positive",
+        "positively",
+        "downright"
+      ]
+    },
+    {
+      "description": "Used to introduce a statement that is hard to believe; strangely.",
+      "examples": [
+        "incredibly, he was still alive"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈkredəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incredibly_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Speak rapidly and unintelligibly, typically through fear or shock.",
+      "examples": [
+        "they shrieked and gibbered as flames surrounded them"
+      ],
+      "synonyms": [
+        "prattle",
+        "rattle on",
+        "chatter",
+        "babble",
+        "ramble",
+        "drivel",
+        "jabber",
+        "patter",
+        "gabble",
+        "bumble",
+        "burble",
+        "twitter",
+        "flannel",
+        "go on",
+        "run on",
+        "mutter",
+        "mumble",
+        "maunder",
+        "prate",
+        "bleat",
+        "cackle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stone or boulder forming part of a boulder plain.",
+      "examples": []
+    }
+  ],
+  "origin": "From Dharuk giba stone.",
+  "pronounciation": "/ˈɡɪbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gibber_us_2.mp3"
+}

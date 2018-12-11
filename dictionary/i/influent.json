@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Flowing in.",
+      "examples": [
+        "the influent lines were relocated while waste water was still flowing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stream, especially a tributary, which flows into another stream or lake.",
+      "examples": [],
+      "synonyms": [
+        "brook",
+        "rivulet",
+        "rill",
+        "runnel",
+        "streamlet",
+        "freshet"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): from Latin influent- flowing in, from influere (see influence). The noun is recorded from the mid 19th century.",
+  "pronounciation": "/ˈinflo͝oənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/influent_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is complex and difficult to follow.",
+      "examples": [
+        "the convolutions of farm policy"
+      ],
+      "synonyms": [
+        "complexity",
+        "intricacy",
+        "complication",
+        "twist",
+        "turn",
+        "entanglement",
+        "contortion"
+      ]
+    },
+    {
+      "description": "A coil or twist, especially one of many.",
+      "examples": [
+        "crosses adorned with elaborate convolutions"
+      ],
+      "synonyms": [
+        "twist",
+        "turn",
+        "coil",
+        "spiral",
+        "twirl",
+        "curl",
+        "helix",
+        "whorl",
+        "loop",
+        "curlicue",
+        "kink",
+        "sinuosity"
+      ]
+    },
+    {
+      "description": "A sinuous fold in the surface of the brain.",
+      "examples": []
+    },
+    {
+      "description": "A function derived from two given functions by integration which expresses how the shape of one is modified by the other.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from medieval Latin convolutio(n-), from convolvere roll together (see convolve).",
+  "pronounciation": "/ˌkɑnvəˈluʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvolution_us_1.mp3"
+}

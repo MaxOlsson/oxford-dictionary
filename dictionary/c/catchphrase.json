@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A well-known sentence or phrase, especially one that is associated with a particular famous person.",
+      "examples": [
+        "the movie gave the world the catchphrase “I'm gonna make him an offer he can't refuse”"
+      ],
+      "synonyms": [
+        "saying",
+        "quotation",
+        "quote",
+        "sound bite",
+        "slogan",
+        "catchline",
+        "catchword",
+        "motto",
+        "watchword",
+        "mantra"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkætʃˌfreɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catchphrase_us_1.mp3"
+}

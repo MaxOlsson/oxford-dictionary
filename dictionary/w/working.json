@@ -1,0 +1,73 @@
+{
+  "adjective": [
+    {
+      "description": "Having paid employment.",
+      "examples": [
+        "the size of the working population"
+      ],
+      "synonyms": [
+        "employed",
+        "in work",
+        "in a job",
+        "waged",
+        "in gainful employment"
+      ]
+    },
+    {
+      "description": "Functioning or able to function.",
+      "examples": [
+        "the mill still has a working waterwheel"
+      ],
+      "synonyms": [
+        "functioning",
+        "operating",
+        "going",
+        "running",
+        "active"
+      ]
+    },
+    {
+      "description": "(of a theory, definition, or title) used as the basis for work or argument and likely to be developed, adapted, or improved later.",
+      "examples": [
+        "the working hypothesis is tested and refined through discussion"
+      ],
+      "synonyms": [
+        "temporary",
+        "provisional",
+        "interim",
+        "pro tem",
+        "short-term",
+        "makeshift",
+        "improvised",
+        "emergency",
+        "impromptu",
+        "rough and ready"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of doing work.",
+      "examples": []
+    },
+    {
+      "description": "The way in which a machine, organization, or system operates.",
+      "examples": [
+        "we will be less secretive about the workings of government"
+      ],
+      "synonyms": [
+        "functioning",
+        "operation",
+        "running",
+        "action",
+        "performance"
+      ]
+    },
+    {
+      "description": "A mine or a part of a mine from which minerals are being extracted.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwərkiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/working_us_1.mp3"
+}

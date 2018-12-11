@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Decorated with frills or similar ornamentation.",
+      "examples": [
+        "a frilly apron"
+      ],
+      "synonyms": [
+        "ruffled",
+        "flounced",
+        "frilled",
+        "crimped",
+        "gathered",
+        "pleated",
+        "ruched",
+        "tucked",
+        "trimmed",
+        "lacy",
+        "frothy"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "An item of women's underwear.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfrɪli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frilly_us_1.mp3"
+}

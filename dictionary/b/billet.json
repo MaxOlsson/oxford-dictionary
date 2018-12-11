@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A place, usually a civilian's house or other nonmilitary facility, where soldiers are lodged temporarily.",
+      "examples": [],
+      "synonyms": [
+        "living quarters",
+        "quarters",
+        "rooms"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lodge (soldiers) in a particular place, especially a civilian's house or other nonmilitary facility.",
+      "examples": [
+        "he didn't belong to the regiment billeted at the hotel"
+      ],
+      "synonyms": [
+        "accommodate",
+        "quarter",
+        "put up",
+        "lodge",
+        "house"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French billette and billot, diminutives of bille tree trunk, from medieval Latin billa, billus branch, trunk, probably of Celtic origin.",
+  "pronounciation": "/ˈbilit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/billet_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A mechanical failure.",
+      "examples": [],
+      "synonyms": [
+        "malfunction",
+        "failure",
+        "seizing up"
+      ]
+    },
+    {
+      "description": "A failure of a relationship or system.",
+      "examples": [
+        "a breakdown in military discipline",
+        "some of these women will have experienced marital breakdown",
+        "the breakdown of their marriage"
+      ],
+      "synonyms": [
+        "failure",
+        "collapse",
+        "disintegration",
+        "foundering",
+        "falling through"
+      ]
+    },
+    {
+      "description": "The chemical or physical decomposition of something.",
+      "examples": [
+        "the breakdown of ammonia to nitrites"
+      ],
+      "synonyms": [
+        "separation",
+        "division",
+        "break-up"
+      ]
+    },
+    {
+      "description": "A lively, energetic American country dance.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbrākˌdoun/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breakdown_us_1.mp3"
+}

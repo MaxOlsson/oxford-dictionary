@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Pessimistic; gloomy.",
+      "examples": [
+        "the assessment of current economic prospects is downbeat"
+      ],
+      "synonyms": [
+        "pessimistic",
+        "gloomy",
+        "negative",
+        "defeatist",
+        "gloom-ridden",
+        "cynical",
+        "bleak",
+        "fatalistic",
+        "dark",
+        "black",
+        "despairing",
+        "despondent",
+        "depressed",
+        "dejected",
+        "demoralized",
+        "hopeless",
+        "melancholy",
+        "glum",
+        "lugubrious",
+        "suspicious",
+        "distrustful",
+        "doubting",
+        "alarmist"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An accented beat, usually the first of the bar.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈdounˌbēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downbeat_us_1.mp3"
+}

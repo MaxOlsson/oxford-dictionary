@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(of a place) able to be reached or entered.",
+      "examples": [
+        "the town is accessible by bus",
+        "this room is not accessible to elderly people"
+      ],
+      "synonyms": [
+        "reachable",
+        "attainable",
+        "approachable",
+        "within reach",
+        "available",
+        "on hand",
+        "obtainable"
+      ]
+    },
+    {
+      "description": "(of a person, typically one in a position of authority or importance) friendly and easy to talk to; approachable.",
+      "examples": [
+        "he is more accessible than most tycoons"
+      ],
+      "synonyms": [
+        "approachable",
+        "available",
+        "easy-going",
+        "informal",
+        "friendly",
+        "welcoming",
+        "hospitable",
+        "pleasant",
+        "agreeable",
+        "obliging",
+        "congenial",
+        "affable",
+        "cordial"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin accessibilis, from Latin access- approached, from the verb accedere (see accede).",
+  "pronounciation": "/əkˈsesəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accessible_us_1.mp3"
+}

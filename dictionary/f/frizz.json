@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Form (hair) into a mass of small, tight curls or tufts.",
+      "examples": [
+        "her hair was frizzed up in a style that seemed matronly"
+      ],
+      "synonyms": [
+        "curly",
+        "curled",
+        "corkscrew",
+        "crimped",
+        "crinkled",
+        "crinkly",
+        "kinked",
+        "kinky",
+        "waved",
+        "frizzed",
+        "corrugated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The state of being formed into a mass of tight curls or tufts.",
+      "examples": [
+        "a perm designed to add curl without frizz"
+      ],
+      "synonyms": [
+        "mass",
+        "mane",
+        "mop",
+        "thatch",
+        "head",
+        "crop",
+        "bush",
+        "cloud",
+        "fuzz",
+        "foam",
+        "curls",
+        "tangle",
+        "chaos",
+        "cascade",
+        "quiff",
+        "halo"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in frizz (sense 2 of the verb)): from French friser. frizz (sense 1 of the verb) dates from the late 16th century.",
+  "pronounciation": "/frɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frizz_us_1.mp3"
+}

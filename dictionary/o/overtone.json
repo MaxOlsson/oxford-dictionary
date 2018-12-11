@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A musical tone which is a part of the harmonic series above a fundamental note, and may be heard with it.",
+      "examples": []
+    },
+    {
+      "description": "A subtle or subsidiary quality, implication, or connotation.",
+      "examples": [
+        "the decision may have political overtones"
+      ],
+      "synonyms": [
+        "connotation",
+        "hidden meaning",
+        "secondary meaning",
+        "implication",
+        "association",
+        "undercurrent",
+        "undertone",
+        "echo",
+        "vibrations",
+        "hint",
+        "suggestion",
+        "insinuation",
+        "intimation",
+        "flavour",
+        "colouring",
+        "smack",
+        "suspicion",
+        "feeling",
+        "aura",
+        "atmosphere",
+        "nuance",
+        "trace",
+        "murmur",
+        "touch",
+        "vein"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from over- + tone, suggested by German Oberton.",
+  "pronounciation": "/ˈōvərˌtōn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overtone_us_1.mp3"
+}

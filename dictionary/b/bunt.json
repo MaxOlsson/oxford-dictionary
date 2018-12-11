@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "(of a batter) gently tap (a pitched ball) without swinging in an attempt to make it more difficult to field.",
+      "examples": [
+        "the batter tried to bunt the ball down the first baseline",
+        "Phil bunted and got to first"
+      ],
+      "synonyms": [
+        "kick",
+        "punt",
+        "strike with the foot",
+        "tap"
+      ]
+    },
+    {
+      "description": "(of a person or animal) butt with the head or horns.",
+      "examples": [
+        "he bunted her with his head"
+      ],
+      "synonyms": [
+        "ram",
+        "headbutt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or result of bunting a pitched ball.",
+      "examples": []
+    },
+    {
+      "description": "An act of flying an aircraft in part of an outside loop.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (denoting the puffball fungus): of unknown origin.",
+  "pronounciation": "/bənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bunt_us_1.mp3"
+}

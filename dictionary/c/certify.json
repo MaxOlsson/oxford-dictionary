@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Attest or confirm in a formal statement.",
+      "examples": [
+        "the profits for the year had been certified by the auditors",
+        "the medical witness certified that death was due to cerebral hemorrhage"
+      ],
+      "synonyms": [
+        "verify",
+        "guarantee",
+        "attest",
+        "validate",
+        "ratify",
+        "warrant",
+        "confirm",
+        "corroborate",
+        "substantiate",
+        "endorse",
+        "vouch for",
+        "testify to",
+        "provide evidence of",
+        "authenticate",
+        "document"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French certifier, from late Latin certificare, from Latin certus certain.",
+  "pronounciation": "/ˈsərdəˌfaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/certify_us_1.mp3"
+}

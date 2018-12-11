@@ -1,0 +1,21 @@
+{
+  "exclamation": [
+    {
+      "description": "Go away.",
+      "examples": [
+        "avaunt, you worm-faced fellows of the night!"
+      ],
+      "synonyms": [
+        "go away",
+        "depart",
+        "leave",
+        "take off",
+        "get out",
+        "get out of my sight"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from an Anglo-Norman French variant of Old French avant, from Latin ab from + ante before.",
+  "pronounciation": "/əˈvônt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/avaunt_us_1.mp3"
+}

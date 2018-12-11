@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The language or dialect spoken by the ordinary people in a particular country or region.",
+      "examples": [
+        "he wrote in the vernacular to reach a larger audience"
+      ],
+      "synonyms": [
+        "everyday language",
+        "spoken language",
+        "colloquial speech",
+        "native speech",
+        "conversational language",
+        "common parlance",
+        "non-standard language",
+        "jargon",
+        "-speak",
+        "cant",
+        "slang",
+        "idiom",
+        "argot",
+        "patois",
+        "dialect"
+      ]
+    },
+    {
+      "description": "Architecture concerned with domestic and functional rather than public or monumental buildings.",
+      "examples": [
+        "buildings in which Gothic merged into farmhouse vernacular"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of language) spoken as one's mother tongue; not learned or imposed as a second language.",
+      "examples": []
+    },
+    {
+      "description": "(of architecture) concerned with domestic and functional rather than public or monumental buildings.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Latin vernaculus domestic, native (from verna home-born slave) + -ar.",
+  "pronounciation": "/vərˈnækjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vernacular_us_1.mp3"
+}

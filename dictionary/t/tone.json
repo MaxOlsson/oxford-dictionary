@@ -1,0 +1,113 @@
+{
+  "noun": [
+    {
+      "description": "A musical or vocal sound with reference to its pitch, quality, and strength.",
+      "examples": [
+        "the piano tone appears monochrome or lacking in warmth"
+      ],
+      "synonyms": [
+        "timbre",
+        "sound",
+        "sound quality",
+        "voice",
+        "voice quality",
+        "colour",
+        "tone colour",
+        "tonality",
+        "resonance",
+        "ring"
+      ]
+    },
+    {
+      "description": "The general character or attitude of a place, piece of writing, situation, etc.",
+      "examples": [
+        "my friend and I lowered the tone with our oafish ways",
+        "there was a general tone of ill-concealed glee in the reporting"
+      ],
+      "synonyms": [
+        "mood",
+        "quality",
+        "feel",
+        "style",
+        "note",
+        "air",
+        "attitude",
+        "character",
+        "spirit",
+        "flavour",
+        "grain",
+        "temper",
+        "humour",
+        "effect"
+      ]
+    },
+    {
+      "description": "A basic interval in classical Western music, equal to two semitones and separating, for example, the first and second notes of an ordinary scale (such as C and D, or E and F sharp); a major second or whole step.",
+      "examples": []
+    },
+    {
+      "description": "The particular quality of brightness, deepness, or hue of a tint or shade of a color.",
+      "examples": [
+        "stained glass in vivid tones of red and blue",
+        "an attractive color that is even in tone and texture"
+      ],
+      "synonyms": [
+        "tint",
+        "shade",
+        "colour",
+        "hue",
+        "tinge",
+        "cast",
+        "tincture"
+      ]
+    },
+    {
+      "description": "(in some languages, such as Chinese) a particular pitch pattern on a syllable used to make semantic distinctions.",
+      "examples": []
+    },
+    {
+      "description": "The normal level of firmness or slight contraction in a resting muscle.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give greater strength or firmness to (the body or a part of it)",
+      "examples": [
+        "exercise tones up the muscles"
+      ]
+    },
+    {
+      "description": "Harmonize with (something) in terms of color.",
+      "examples": [
+        "the rich orange color of the wood tones beautifully with the yellow roses"
+      ],
+      "synonyms": [
+        "go with",
+        "coordinate with",
+        "complement",
+        "harmonize with",
+        "blend with",
+        "tone with",
+        "team with",
+        "be the same as",
+        "be similar to",
+        "suit"
+      ]
+    },
+    {
+      "description": "Give (a monochrome picture) an altered color in finishing by means of a chemical solution.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The synths had been toned down, replaced with tired guitar sounds.",
+    "Susan picked this colour for the walls, and toned it down with white to produce the shade she wanted, and the result is admirable.",
+    "We have gone away from the bright colour scheme and toned it down slightly.",
+    "Coat lipstick with a darker lip gloss to tone it down.",
+    "Would it really have detracted if the big keyboard synth sounds had been toned down to a minimum?"
+  ],
+  "origin": "Middle English: from Old French ton, from Latin tonus, from Greek tonos tension, tone, from teinein to stretch.",
+  "pronounciation": "/tōn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tone_us_1.mp3"
+}

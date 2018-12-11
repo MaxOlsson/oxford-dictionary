@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to drama or the performance or study of drama.",
+      "examples": [
+        "the dramatic arts",
+        "a dramatic society"
+      ]
+    },
+    {
+      "description": "(of an event or circumstance) sudden and striking.",
+      "examples": [
+        "a dramatic increase in recorded crime"
+      ],
+      "synonyms": [
+        "considerable",
+        "substantial",
+        "sizeable",
+        "goodly",
+        "fair",
+        "reasonable",
+        "tidy",
+        "marked",
+        "pronounced"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: via late Latin from Greek dramatikos, from drama, dramat- (see drama).",
+  "pronounciation": "/drəˈmadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dramatic_us_1.mp3"
+}

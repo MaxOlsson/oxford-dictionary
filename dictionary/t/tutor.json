@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A private teacher, typically one who teaches a single student or a very small group.",
+      "examples": [],
+      "synonyms": [
+        "teacher",
+        "instructor",
+        "educator",
+        "educationalist",
+        "educationist"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as a tutor to (a single student or a very small group)",
+      "examples": [
+        "his children were privately tutored"
+      ],
+      "synonyms": [
+        "teach",
+        "instruct",
+        "give lessons to",
+        "educate",
+        "school",
+        "coach",
+        "train",
+        "drill",
+        "upskill",
+        "direct",
+        "guide",
+        "groom"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French tutour or Latin tutor, from tueri to watch, guard.",
+  "pronounciation": "/ˈt(j)udər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tutor_us_1.mp3"
+}

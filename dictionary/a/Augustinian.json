@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to St. Augustine of Hippo or his theological doctrines.",
+      "examples": []
+    },
+    {
+      "description": "Relating to a religious order observing a rule derived from St. Augustine's writings.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of an Augustinian order.",
+      "examples": []
+    },
+    {
+      "description": "An adherent of the doctrines of St. Augustine.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌɔɡəˈstɪniən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/augustinian_1_us_2.mp3"
+}

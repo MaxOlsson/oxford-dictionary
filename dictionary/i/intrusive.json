@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Causing disruption or annoyance through being unwelcome or uninvited.",
+      "examples": [
+        "that was an intrusive question",
+        "tourist attractions that are environmentally intrusive"
+      ],
+      "synonyms": [
+        "intruding",
+        "invasive",
+        "obtrusive",
+        "interrupting",
+        "trespassing",
+        "unwanted",
+        "unwelcome"
+      ]
+    },
+    {
+      "description": "(of a sound) pronounced between words or syllables to facilitate pronunciation, such as an r in saw a movie, which occurs in the speech of some eastern New Englanders and metropolitan New Yorkers.",
+      "examples": []
+    },
+    {
+      "description": "Relating to or formed by intrusion.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ɪnˈtrusɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intrusive_us_1.mp3"
+}

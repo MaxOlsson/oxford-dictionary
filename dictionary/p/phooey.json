@@ -1,0 +1,33 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express disdain or disbelief.",
+      "examples": [
+        "I say phooey to all their money and fine clothes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Nonsense.",
+      "examples": [
+        "those excuses are a lot of phooey"
+      ],
+      "synonyms": [
+        "prattle",
+        "chatter",
+        "twitter",
+        "babble",
+        "talk",
+        "prating",
+        "gabble",
+        "jabber",
+        "blether",
+        "rambling"
+      ]
+    }
+  ],
+  "origin": "1920s: imitative.",
+  "pronounciation": "/ˈfui/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/phooey_us_1.mp3"
+}

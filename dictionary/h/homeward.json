@@ -1,0 +1,21 @@
+{
+  "adverb": [
+    {
+      "description": "Toward home.",
+      "examples": [
+        "setting off homeward"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Going or leading toward home.",
+      "examples": [
+        "their homeward journey"
+      ]
+    }
+  ],
+  "origin": "Old English hāmweard (see home, -ward).",
+  "pronounciation": "/ˈhoʊmwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homeward_us_1.mp3"
+}

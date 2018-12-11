@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not recorded in or proved by documents.",
+      "examples": [],
+      "synonyms": [
+        "unauthenticated",
+        "unconfirmed",
+        "uncorroborated",
+        "unsubstantiated",
+        "unratified"
+      ]
+    },
+    {
+      "description": "Not having the appropriate legal document or license.",
+      "examples": [
+        "undocumented immigrants"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈdɑkjəˌmɛn(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undocumented_us_1.mp3"
+}

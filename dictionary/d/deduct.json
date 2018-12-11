@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Subtract or take away (an amount or part) from a total.",
+      "examples": [
+        "tax has been deducted from the payments"
+      ],
+      "synonyms": [
+        "subtract",
+        "take away",
+        "take from",
+        "take off",
+        "withdraw",
+        "abstract",
+        "remove",
+        "debit",
+        "dock",
+        "discount"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin deduct- taken or led away, from the verb deducere. Deduct and deduce were not distinguished in sense until the mid 17th century.",
+  "pronounciation": "/dəˈdəkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deduct_us_1.mp3"
+}

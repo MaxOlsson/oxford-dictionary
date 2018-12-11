@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.",
+      "examples": []
+    },
+    {
+      "description": "Political disorder.",
+      "examples": [
+        "an attempt to illuminate the moral roots of the modern world's distemper"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Paint (something) with distemper.",
+      "examples": [
+        "the distempered roof timbers"
+      ],
+      "synonyms": [
+        "colour",
+        "apply paint to",
+        "decorate",
+        "tint",
+        "dye",
+        "stain",
+        "whitewash",
+        "emulsion",
+        "gloss",
+        "spray",
+        "spray-paint",
+        "airbrush",
+        "roller",
+        "coat",
+        "cover"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (originally as a verb in the senses dilute and steep): from Old French destremper or late Latin distemperare soak.",
+  "pronounciation": "/ˌdɪsˈtɛmpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distemper_us_1.mp3"
+}

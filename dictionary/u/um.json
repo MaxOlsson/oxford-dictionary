@@ -1,0 +1,13 @@
+{
+  "exclamation": [
+    {
+      "description": "Expressing hesitation or a pause in speech.",
+      "examples": [
+        "anyway, um, where was I?"
+      ]
+    }
+  ],
+  "origin": "Natural utterance: first recorded in English in the early 17th century.",
+  "pronounciation": "/əm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/um_us_2.mp3"
+}

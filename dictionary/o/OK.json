@@ -1,0 +1,120 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express assent, agreement, or acceptance.",
+      "examples": [
+        "OK, I'll pass on your message",
+        "OK, OK, I give in"
+      ],
+      "synonyms": [
+        "all right",
+        "right",
+        "right then",
+        "right you are",
+        "very well",
+        "yes",
+        "very good",
+        "fine",
+        "agreed"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Satisfactory but not exceptionally or especially good.",
+      "examples": [
+        "the flight was OK"
+      ],
+      "synonyms": [
+        "satisfactory",
+        "all right",
+        "fine",
+        "in order",
+        "acceptable",
+        "up to scratch",
+        "up to the mark",
+        "up to standard",
+        "up to par",
+        "competent"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a satisfactory manner or to a satisfactory extent.",
+      "examples": [
+        "the computer continues to work OK"
+      ],
+      "synonyms": [
+        "all right",
+        "fine",
+        "well",
+        "well enough",
+        "satisfactorily",
+        "passably",
+        "tolerably",
+        "acceptably"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An authorization or approval.",
+      "examples": [
+        "do you know how long it takes for those pen-pushers to give us the OK?"
+      ],
+      "synonyms": [
+        "authorization",
+        "approval",
+        "seal of approval",
+        "agreement",
+        "consent",
+        "assent",
+        "permission",
+        "endorsement",
+        "ratification",
+        "sanction",
+        "approbation",
+        "acquiescence",
+        "confirmation",
+        "blessing",
+        "leave",
+        "imprimatur"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sanction or give approval to.",
+      "examples": [
+        "the governor recently OK'd the execution of a man who had committed murder"
+      ],
+      "synonyms": [
+        "authorize",
+        "approve",
+        "agree to",
+        "consent to",
+        "sanction",
+        "pass",
+        "ratify",
+        "endorse",
+        "allow",
+        "give something one's consent",
+        "say yes to",
+        "accede to",
+        "give something one's approval",
+        "give something the nod",
+        "rubber-stamp"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Oklahoma (in official postal use).",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century (originally US): probably an abbreviation of orl korrect, humorous form of all correct, popularized as a slogan during President Van Buren's re-election campaign of 1840 in the US; his nickname Old Kinderhook (derived from his birthplace) provided the initials.",
+  "pronounciation": "/ˌōˈkā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/o_k_1_us_1.mp3"
+}

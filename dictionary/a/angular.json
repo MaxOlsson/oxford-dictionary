@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of an object, outline, or shape) having angles or sharp corners.",
+      "examples": [
+        "angular chairs",
+        "Adam's angular black handwriting"
+      ],
+      "synonyms": [
+        "sharp-cornered",
+        "pointed",
+        "v-shaped",
+        "y-shaped"
+      ]
+    },
+    {
+      "description": "Denoting physical properties or quantities measured with reference to or by means of an angle, especially those associated with rotation.",
+      "examples": [
+        "angular acceleration"
+      ]
+    },
+    {
+      "description": "Located in or relating to one of the houses that begin at the four cardinal points.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as an astrological term): from Latin angularis, from angulus (see angle).",
+  "pronounciation": "/ˈaNGɡyələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/angular_us_1.mp3"
+}

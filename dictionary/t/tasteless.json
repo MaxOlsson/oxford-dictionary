@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking flavor.",
+      "examples": [],
+      "synonyms": [
+        "flavourless",
+        "bland",
+        "insipid",
+        "unappetizing",
+        "unflavoured",
+        "savourless",
+        "watered-down",
+        "watery",
+        "weak",
+        "thin",
+        "vapid",
+        "uninspired"
+      ]
+    },
+    {
+      "description": "Considered to be lacking in aesthetic judgment or to offend against what is regarded as appropriate behavior.",
+      "examples": [
+        "a tasteless joke"
+      ],
+      "synonyms": [
+        "vulgar",
+        "crude",
+        "tawdry",
+        "garish",
+        "gaudy",
+        "loud",
+        "trashy",
+        "showy",
+        "ostentatious",
+        "cheap",
+        "cheap and nasty",
+        "gross",
+        "meretricious",
+        "inelegant"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈteɪs(t)ləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tasteless_us_1.mp3"
+}

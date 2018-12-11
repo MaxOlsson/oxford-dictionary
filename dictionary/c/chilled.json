@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "(of food or drink) cooled in a refrigerator.",
+      "examples": [
+        "a glass of chilled white wine",
+        "chilled artichoke soup"
+      ]
+    },
+    {
+      "description": "Very relaxed.",
+      "examples": [
+        "by Sunday evening I'm usually feeling pretty chilled",
+        "the chilled atmosphere makes this a great way to enjoy some typical French cuisine"
+      ],
+      "synonyms": [
+        "relaxed",
+        "at ease",
+        "easy-going",
+        "equable",
+        "free and easy",
+        "easy",
+        "casual",
+        "informal",
+        "friendly",
+        "nonchalant",
+        "insouciant",
+        "unexcitable",
+        "imperturbable",
+        "unemotional",
+        "unruffled",
+        "blasé",
+        "blithe",
+        "cool",
+        "collected",
+        "cool",
+        "calm",
+        "and collected",
+        "calm",
+        "composed",
+        "self-possessed",
+        "level-headed",
+        "self-controlled",
+        "unperturbed",
+        "unflustered",
+        "unworried",
+        "unconcerned",
+        "placid",
+        "peaceful",
+        "tranquil",
+        "serene",
+        "low-key",
+        "understated",
+        "downbeat"
+      ]
+    }
+  ],
+  "pronounciation": "/tʃɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chilled_us_1.mp3"
+}

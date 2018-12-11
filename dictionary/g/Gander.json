@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A male goose.",
+      "examples": []
+    },
+    {
+      "description": "A look or glance.",
+      "examples": [
+        "take a gander at that luggage"
+      ],
+      "synonyms": [
+        "glance",
+        "observation",
+        "view",
+        "examination",
+        "study",
+        "inspection",
+        "scan",
+        "survey",
+        "sight",
+        "peep",
+        "peek",
+        "glimpse",
+        "gaze",
+        "stare",
+        "gape",
+        "ogle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Look or glance at something.",
+      "examples": [
+        "Paulie gandered at shelves full of coffee paraphernalia"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A town on the island of Newfoundland, on Lake Gander; population 9,951 (2006). Its airport served the first regular transatlantic flights during World War II.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English gandra, of Germanic origin; related to Dutch gander, also to gannet.",
+  "pronounciation": "/ˈɡandər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gander_us_1.mp3"
+}

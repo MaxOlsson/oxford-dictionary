@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of transporting someone or something from one place to another.",
+      "examples": [
+        "he was building vessels for the conveyance of live cod"
+      ],
+      "synonyms": [
+        "transportation",
+        "transport",
+        "carriage",
+        "carrying",
+        "transfer",
+        "transference",
+        "movement",
+        "delivery"
+      ]
+    },
+    {
+      "description": "The legal process of transferring property from one owner to another.",
+      "examples": [
+        "protective measures that might be taken before the conveyance is concluded"
+      ],
+      "synonyms": [
+        "transfer",
+        "transference",
+        "transferral",
+        "granting",
+        "ceding",
+        "devolution"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈveɪəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconveyance_us_1.mp3"
+}

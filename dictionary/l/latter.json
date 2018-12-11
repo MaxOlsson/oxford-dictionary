@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Situated or occurring nearer to the end of something than to the beginning.",
+      "examples": [
+        "the latter half of 1989",
+        "heart disease dogged his latter years"
+      ],
+      "synonyms": [
+        "later",
+        "hindmost",
+        "closing",
+        "end",
+        "concluding",
+        "final"
+      ]
+    },
+    {
+      "description": "Denoting the second or second mentioned of two people or things.",
+      "examples": [
+        "the Russians could advance into either Germany or Austria—they chose the latter option"
+      ],
+      "synonyms": [
+        "last-mentioned",
+        "second-mentioned",
+        "second of the two",
+        "second",
+        "last",
+        "later"
+      ]
+    }
+  ],
+  "origin": "Old English lætra slower, comparative of læt (see late).",
+  "pronounciation": "/ˈlædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/latter_us_1.mp3"
+}

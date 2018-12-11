@@ -1,0 +1,79 @@
+{
+  "adverb": [
+    {
+      "description": "At the present time or moment.",
+      "examples": [
+        "where are you living now?",
+        "it's the most popular style of jazz right now",
+        "not now, I'm late",
+        "they should be back by now"
+      ],
+      "synonyms": [
+        "at the moment",
+        "at present",
+        "just now",
+        "right now",
+        "at the present time",
+        "at the present moment",
+        "at this time",
+        "at this moment in time",
+        "currently",
+        "here and now"
+      ]
+    },
+    {
+      "description": "Used, especially in conversation, to draw attention to a particular statement or point in a narrative.",
+      "examples": [
+        "now, my first impulse was to run away",
+        "I don't like Scotch. Now, if it had been Irish Whiskey you'd offered me"
+      ]
+    },
+    {
+      "description": "Used in or as a request, instruction, or question, typically to give a slight emphasis to one's words.",
+      "examples": [
+        "we can hardly send her back, now can we?",
+        "run along now",
+        "now, if you'll excuse me?"
+      ]
+    },
+    {
+      "description": "Used at the end of an ironic question echoing a previous statement.",
+      "examples": [
+        "“Mom says for you to give me some of your stamps.” “Does she now?”"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "As a consequence of the fact.",
+      "examples": [
+        "they spent a lot of time together now that he had retired",
+        "now that you mention it, I haven't seen her around for ages"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Fashionable or up to date.",
+      "examples": [
+        "seventies disco dancing—very now"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "National Organization for Women.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "that's all the news there is for now",
+    "Maybe I'd find my own ground someday, but for now I am too much in love with the vagabond in me.",
+    "I am naturally intense and a poor sleeper, but for now I have ceased to suffer from insomnia.",
+    "Only a series of eleventh-hour conversations persuaded him to hold his fire - at least for now.",
+    "So please dispose of rubbish thoughtfully, and keep it to the minimum for now."
+  ],
+  "origin": "Old English nū, of Germanic origin; related to Dutch nu, German nun, from an Indo-European root shared by Latin nunc and Greek nun.",
+  "pronounciation": "/nou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/now_us_1.mp3"
+}

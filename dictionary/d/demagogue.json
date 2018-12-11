@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A political leader who seeks support by appealing to the desires and prejudices of ordinary people rather than by using rational argument.",
+      "examples": [
+        "a gifted demagogue with particular skill in manipulating the press"
+      ],
+      "synonyms": [
+        "rabble-rouser",
+        "political agitator",
+        "agitator",
+        "soapbox orator",
+        "firebrand"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rhetorically exploit (an issue) for political purposes in a way calculated to appeal to the desires and prejudices of ordinary people.",
+      "examples": [
+        "he seems more interested in demagoguing the issue in media interviews than in dialogue",
+        "they routinely leap to conclusions that are not supported by any evidence and start demagoguing and fearmongering"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Greek dēmagōgos, from dēmos the people + agōgos leading (from agein to lead).",
+  "pronounciation": "/ˈdeməˌɡäɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demagogue_us_1.mp3"
+}

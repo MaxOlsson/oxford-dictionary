@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "An absurdly or surprisingly easy task.",
+      "examples": [
+        "winning the game won't be a cakewalk"
+      ],
+      "synonyms": [
+        "easy task",
+        "easy job",
+        "child's play",
+        "five-finger exercise",
+        "gift",
+        "walkover",
+        "nothing",
+        "sinecure",
+        "gravy train"
+      ]
+    },
+    {
+      "description": "A dancing contest among African Americans in which a cake was awarded as a prize.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Achieve or win something easily.",
+      "examples": [
+        "he cakewalked to a 5-1 triumph"
+      ]
+    },
+    {
+      "description": "Walk or dance in the manner of a cakewalk.",
+      "examples": [
+        "a troupe of clowns cakewalked by"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkeɪkˌwɔk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cakewalk_us_1.mp3"
+}

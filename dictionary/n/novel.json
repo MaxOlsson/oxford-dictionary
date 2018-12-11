@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
+      "examples": [
+        "the novels of Jane Austen",
+        "she was reading a paperback novel"
+      ],
+      "synonyms": [
+        "book",
+        "paperback",
+        "hardback"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "New or unusual in an interesting way.",
+      "examples": [
+        "he hit on a novel idea to solve his financial problems"
+      ],
+      "synonyms": [
+        "new",
+        "original",
+        "unusual",
+        "unfamiliar",
+        "unconventional",
+        "off-centre",
+        "unorthodox",
+        "different",
+        "fresh",
+        "imaginative",
+        "creative",
+        "innovative",
+        "innovatory",
+        "innovational",
+        "inventive",
+        "modern",
+        "ultra-modern",
+        "state-of-the-art",
+        "advanced",
+        "avant-garde",
+        "futuristic",
+        "pioneering",
+        "groundbreaking",
+        "trailblazing",
+        "revolutionary"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense recent): from Old French, from Latin novellus, from novus new.",
+  "pronounciation": "/ˈnävəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/novel_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Suffering from anemia.",
+      "examples": [
+        "the doctor said you were a bit anemic",
+        "an anemic patient"
+      ],
+      "synonyms": [
+        "colourless",
+        "bloodless",
+        "pale",
+        "pallid",
+        "wan",
+        "ashen",
+        "white",
+        "white as a ghost",
+        "white as a sheet",
+        "grey",
+        "jaundiced",
+        "waxen",
+        "chalky",
+        "chalk-white",
+        "milky",
+        "pasty",
+        "pasty-faced",
+        "whey-faced",
+        "peaky",
+        "sickly",
+        "tired-looking",
+        "washed out",
+        "sallow",
+        "drained",
+        "drawn",
+        "sapped",
+        "ghostly",
+        "deathly",
+        "deathlike",
+        "bleached"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈnēmik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anemic_us_1.mp3"
+}

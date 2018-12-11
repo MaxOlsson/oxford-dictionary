@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Characteristic of an anti-intellectual person.",
+      "examples": [
+        "many activists have adopted a profoundly anti-intellectual stance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who scorns intellectuals and their views and methods.",
+      "examples": [
+        "funny, satirical plots that even anti-intellectuals will chuckle over"
+      ],
+      "synonyms": [
+        "lowbrow",
+        "materialist",
+        "bourgeois"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌantī-/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anti_intellectual_1_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Persist in an activity or process.",
+      "examples": [
+        "he was unable to continue with his job",
+        "prices continued to fall during April"
+      ],
+      "synonyms": [
+        "ongoing",
+        "continuous",
+        "sustained",
+        "persistent",
+        "steady",
+        "relentless",
+        "uninterrupted",
+        "unabating",
+        "unremitting",
+        "unrelieved",
+        "unrelenting",
+        "unceasing"
+      ]
+    },
+    {
+      "description": "Recommence or resume after interruption.",
+      "examples": [
+        "we continue the story from the point reached in Chapter 1",
+        "the trial continues tomorrow"
+      ],
+      "synonyms": [
+        "resume",
+        "pick up",
+        "take up",
+        "carry on with",
+        "return to",
+        "begin again",
+        "start again"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French continuer, from Latin continuare, from continuus (see continuous).",
+  "pronounciation": "/kənˈtinyo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontinue_us_1.mp3"
+}

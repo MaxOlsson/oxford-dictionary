@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The action of conveying information or expressing one's thoughts and feelings in spoken language.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Used for or engaged in speech.",
+      "examples": [
+        "you have a clear speaking voice"
+      ],
+      "synonyms": [
+        "exact",
+        "faithful",
+        "true to life",
+        "authentic",
+        "genuine"
+      ]
+    }
+  ],
+  "phrases": [
+    "she parted from her mother barely on speaking terms",
+    "Some travelling companions return home barely on speaking terms.",
+    "A week or so ago you two were barely on speaking terms.",
+    "Suffice to say, Hailey wasn't on speaking terms with her mother or her brother.",
+    "The date didn't work out but now the two of them are barely on speaking terms."
+  ],
+  "pronounciation": "/ˈspēkiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speaking_us_1.mp3"
+}

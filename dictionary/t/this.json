@@ -1,0 +1,78 @@
+{
+  "pronoun": [
+    {
+      "description": "Used to identify a specific person or thing close at hand or being indicated or experienced.",
+      "examples": [
+        "is this your bag?",
+        "he soon knew that this was not the place for him"
+      ],
+      "synonyms": [
+        "unnamed",
+        "unstated",
+        "unidentified",
+        "unquantified",
+        "undesignated",
+        "undefined",
+        "unfixed",
+        "undecided",
+        "undetermined",
+        "uncertain",
+        "uncounted"
+      ]
+    },
+    {
+      "description": "Referring to a specific thing or situation just mentioned.",
+      "examples": [
+        "the company was transformed and Ward had played a vital role in bringing this about"
+      ]
+    }
+  ],
+  "determiner": [
+    {
+      "description": "Used to identify a specific person or thing close at hand or being indicated or experienced.",
+      "examples": [
+        "don't listen to this guy",
+        "these croissants are delicious"
+      ]
+    },
+    {
+      "description": "Referring to a specific thing or situation just mentioned.",
+      "examples": [
+        "there was a court case resulting from this incident"
+      ]
+    },
+    {
+      "description": "Used with periods of time related to the present.",
+      "examples": [
+        "I thought you were busy all this week",
+        "how are you this morning?"
+      ]
+    },
+    {
+      "description": "Used (chiefly in narrative) to refer to a person or thing previously unspecified.",
+      "examples": [
+        "I turned around, and there was this big mummy standing next to us!",
+        "I've got this problem and I need help"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To the degree or extent indicated.",
+      "examples": [
+        "they can't handle a job this big",
+        "he's not used to this much attention"
+      ]
+    }
+  ],
+  "phrases": [
+    "they stayed up chatting about this and that",
+    "In that time we have differed, sometimes vigorously, on this, that, and the other, but Tony never took things personally and I can say with hand on heart that my friendship with him today is stronger than it has ever previously been.",
+    "As there was little else to do, she watched the passing scenery, occasionally asking questions about this, that, and the other.",
+    "Reading the potted biographies of those who made it to the final rounds, you discover that many have already won this and that, conducted here and there and have at least worthy prospects if not, yet, great expectations.",
+    "The day went by rather fast, the group chatted about this, that, and the other."
+  ],
+  "origin": "Old English, neuter of thes, of West Germanic origin; related to that and the.",
+  "pronounciation": "/T͟His/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/this_us_1.mp3"
+}

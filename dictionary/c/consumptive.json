@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Affected with a wasting disease, especially pulmonary tuberculosis.",
+      "examples": [
+        "from birth he was sickly and consumptive"
+      ],
+      "synonyms": [
+        "caustic",
+        "corroding",
+        "eroding",
+        "erosive",
+        "abrasive",
+        "biting",
+        "mordant",
+        "burning",
+        "stinging"
+      ]
+    },
+    {
+      "description": "Relating to the using up of resources.",
+      "examples": [
+        "tourism represents an insidious form of consumptive activity"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with a wasting disease, especially pulmonary tuberculosis.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin consumptivus, from Latin consumpt- consumed, from the verb consumere (see consume).",
+  "pronounciation": "/kənˈsəm(p)tiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsumptive_us_1.mp3"
+}

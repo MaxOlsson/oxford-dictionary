@@ -1,0 +1,100 @@
+{
+  "adjective": [
+    {
+      "description": "Not correct or true; incorrect.",
+      "examples": [
+        "that is the wrong answer"
+      ],
+      "synonyms": [
+        "incorrect",
+        "mistaken",
+        "in error",
+        "erroneous",
+        "inaccurate",
+        "not accurate",
+        "inexact",
+        "not exact",
+        "imprecise",
+        "invalid",
+        "untrue",
+        "false",
+        "fallacious",
+        "wide of the mark",
+        "off target"
+      ]
+    },
+    {
+      "description": "Unjust, dishonest, or immoral.",
+      "examples": [
+        "they were wrong to take the law into their own hands",
+        "it was wrong of me to write you such an angry note"
+      ],
+      "synonyms": [
+        "illegal",
+        "against the law",
+        "unlawful",
+        "illicit",
+        "indictable",
+        "lawless",
+        "lawbreaking",
+        "criminal",
+        "delinquent",
+        "felonious",
+        "dishonest",
+        "dishonourable",
+        "corrupt"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In an unsuitable or undesirable manner or direction.",
+      "examples": [
+        "what am I doing wrong?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unjust, dishonest, or immoral action.",
+      "examples": [
+        "I have done you a great wrong"
+      ],
+      "synonyms": [
+        "misdeed",
+        "bad deed",
+        "bad act",
+        "bad action",
+        "offence",
+        "injury",
+        "crime",
+        "unlawful act",
+        "illegal act",
+        "violation",
+        "infringement",
+        "infraction",
+        "transgression",
+        "peccadillo",
+        "sin"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act unjustly or dishonestly toward.",
+      "examples": [
+        "please forgive me these things and the people I have wronged"
+      ]
+    }
+  ],
+  "phrases": [
+    "they admit she has done wrong, but believe the punishment is too harsh",
+    "The only real epiphany in the movie is the realization that we know right from wrong, and choose to do wrong anyway.",
+    "In both cases, randomly selected groups of citizens are asked to impose punishment on those found to have done wrong.",
+    "We have done wrong and we ask you to forgive us.",
+    "If it is true that we cannot do wrong without suffering wrong, we must brace for more grief to come."
+  ],
+  "origin": "Late Old English wrang, from Old Norse rangr awry, unjust; related to wring.",
+  "pronounciation": "/rɔŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wrong_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adverb": [
+    {
+      "description": "It is fortunate that.",
+      "examples": [
+        "luckily they didn't recognize me",
+        "luckily for me it's worked out"
+      ],
+      "synonyms": [
+        "fortunately",
+        "happily",
+        "providentially",
+        "opportunely",
+        "by good luck",
+        "by good fortune",
+        "as luck would have it",
+        "propitiously"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈləkəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/luckily_us_1.mp3"
+}

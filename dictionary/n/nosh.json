@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "Food.",
+      "examples": [
+        "filling the freezer with all kinds of nosh"
+      ],
+      "synonyms": [
+        "food",
+        "sustenance",
+        "nourishment",
+        "nutriment",
+        "fare",
+        "daily bread",
+        "groceries",
+        "rations",
+        "iron rations"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Eat food enthusiastically or greedily.",
+      "examples": [
+        "there are several restaurants, so you can nosh to your heart's content",
+        "there I sat, noshing my favorite food"
+      ],
+      "synonyms": [
+        "eat",
+        "munch",
+        "munch on",
+        "ingest",
+        "consume",
+        "take",
+        "partake of",
+        "taste",
+        "swallow",
+        "devour",
+        "feast on",
+        "gulp",
+        "gulp down",
+        "gobble",
+        "gobble down",
+        "wolf",
+        "wolf down",
+        "scoff",
+        "scoff down",
+        "tuck in",
+        "tuck into",
+        "breakfast",
+        "breakfast on",
+        "lunch",
+        "lunch on",
+        "dine",
+        "dine on"
+      ]
+    }
+  ],
+  "origin": "Early 20th century (denoting a snack bar): Yiddish.",
+  "pronounciation": "/näSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nosh_us_1.mp3"
+}

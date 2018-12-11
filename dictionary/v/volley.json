@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A number of bullets, arrows, or other projectiles discharged at one time.",
+      "examples": [
+        "the infantry let off a couple of volleys"
+      ],
+      "synonyms": [
+        "barrage",
+        "cannonade",
+        "battery",
+        "blast",
+        "bombardment",
+        "broadside",
+        "salvo",
+        "fusillade"
+      ]
+    },
+    {
+      "description": "(in sports, especially tennis or soccer) a strike or kick of the ball made before it touches the ground.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(in sports, especially tennis or soccer) strike or kick (the ball) before it touches the ground.",
+      "examples": [
+        "she volleyed the ball home",
+        "he took his chance well, volleying into the top corner from 25 yards"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French volée, based on Latin volare to fly.",
+  "pronounciation": "/ˈvälē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/volley_us_1.mp3"
+}

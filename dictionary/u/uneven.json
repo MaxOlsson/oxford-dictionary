@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Not level or smooth.",
+      "examples": [
+        "the floors are cracked and uneven"
+      ],
+      "synonyms": [
+        "bumpy",
+        "rough",
+        "lumpy",
+        "stony",
+        "rocky",
+        "potholed",
+        "holey",
+        "rutted",
+        "rutty",
+        "pitted",
+        "jagged",
+        "cragged",
+        "craggy",
+        "dented",
+        "indented",
+        "knobby"
+      ]
+    }
+  ],
+  "origin": "Old English unefen not corresponding exactly (see un-, even).",
+  "pronounciation": "/ˌənˈēvən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uneven_us_1.mp3"
+}

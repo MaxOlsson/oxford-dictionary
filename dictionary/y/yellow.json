@@ -1,0 +1,88 @@
+{
+  "adjective": [
+    {
+      "description": "Of the color between green and orange in the spectrum, a primary subtractive color complementary to blue; colored like ripe lemons or egg yolks.",
+      "examples": [
+        "curly yellow hair"
+      ],
+      "synonyms": [
+        "yellowish",
+        "yellowy",
+        "lemon",
+        "lemony",
+        "amber",
+        "gold",
+        "golden"
+      ]
+    },
+    {
+      "description": "Cowardly.",
+      "examples": [
+        "he'd better get back there quick and prove he's not yellow"
+      ],
+      "synonyms": [
+        "cowardly",
+        "lily-livered",
+        "faint-hearted",
+        "chicken-hearted",
+        "pigeon-hearted",
+        "craven",
+        "spiritless",
+        "spineless",
+        "timid",
+        "timorous",
+        "fearful",
+        "trembling",
+        "quaking",
+        "shrinking",
+        "cowering",
+        "afraid of one's own shadow",
+        "pusillanimous",
+        "weak",
+        "feeble",
+        "soft"
+      ]
+    },
+    {
+      "description": "(of a book or newspaper) unscrupulously sensational.",
+      "examples": [],
+      "synonyms": [
+        "overdramatized",
+        "dramatic",
+        "melodramatic",
+        "exaggerated",
+        "overripe",
+        "sensationalist",
+        "sensationalistic",
+        "graphic",
+        "explicit",
+        "unrestrained",
+        "lurid"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Yellow color or pigment.",
+      "examples": [
+        "the craft detonated in a blaze of red and yellow",
+        "a wide range of colours from rich vibrant reds, yellows, blues, and greens to more unexpected pastel shades"
+      ]
+    },
+    {
+      "description": "Any of a number of plant diseases in which the leaves turn yellow, typically caused by viruses and transmitted by insects.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become yellow, especially with age.",
+      "examples": [
+        "the cream paint was beginning to yellow"
+      ]
+    }
+  ],
+  "origin": "Old English geolu, geolo, of West Germanic origin; related to Dutch geel and German gelb, also to gold.",
+  "pronounciation": "/ˈyelō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yellow_us_2.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Expressing or involving prolonged thought.",
+      "examples": [
+        "she regarded me with a contemplative eye"
+      ],
+      "synonyms": [
+        "thoughtful",
+        "pensive",
+        "reflective",
+        "meditative",
+        "musing",
+        "ruminative",
+        "introspective",
+        "brooding",
+        "intent",
+        "rapt",
+        "preoccupied",
+        "studious",
+        "deep in thought",
+        "lost in thought"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person whose life is devoted primarily to prayer, especially in a monastery or convent.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/kənˈtɛmplədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontemplative_us_1.mp3"
+}

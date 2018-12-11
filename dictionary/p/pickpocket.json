@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A person who steals from people's pockets.",
+      "examples": [],
+      "synonyms": [
+        "thief",
+        "petty thief",
+        "sneak thief"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Steal from the pockets of (someone)",
+      "examples": [
+        "she stopped in New Orleans where she skillfully pickpocketed tourists",
+        "an elderly man caught pickpocketing in Times Square"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɪkˌpɑkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pickpocket_us_1.mp3"
+}

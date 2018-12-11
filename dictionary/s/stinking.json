@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Foul-smelling.",
+      "examples": [
+        "he was locked in a stinking cell"
+      ],
+      "synonyms": [
+        "foul-smelling",
+        "evil-smelling",
+        "stinking to high heaven",
+        "reeking",
+        "fetid",
+        "malodorous",
+        "pungent",
+        "acrid",
+        "rank",
+        "putrid",
+        "noxious"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extremely.",
+      "examples": [
+        "she is obviously stinking rich",
+        "I want to get stinking drunk and forget"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "vastly",
+        "hugely"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstiNGkiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stinking_us_1.mp3"
+}

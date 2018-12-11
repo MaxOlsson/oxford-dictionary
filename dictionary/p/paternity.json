@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "(especially in legal contexts) the state of being someone's father.",
+      "examples": [
+        "he refused to admit paternity of the child"
+      ],
+      "synonyms": [
+        "fatherhood"
+      ]
+    },
+    {
+      "description": "Paternal origin.",
+      "examples": [
+        "his enemies made great play of the supposed dubiety of his paternity"
+      ],
+      "synonyms": [
+        "origins",
+        "extraction",
+        "birth",
+        "family",
+        "ancestry",
+        "lineage",
+        "heritage",
+        "pedigree",
+        "descent",
+        "line of descent",
+        "line",
+        "blood",
+        "bloodline",
+        "stock",
+        "roots",
+        "derivation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French paternité, from late Latin paternitas, from paternus relating to a father.",
+  "pronounciation": "/pəˈternədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paternity_us_2.mp3"
+}

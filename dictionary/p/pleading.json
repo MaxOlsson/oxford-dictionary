@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The action of making an emotional or earnest appeal to someone.",
+      "examples": [
+        "he ignored her pleading"
+      ],
+      "synonyms": [
+        "mediation",
+        "intermediation",
+        "negotiation",
+        "arbitration",
+        "conciliation",
+        "intervention",
+        "interposition",
+        "involvement",
+        "action"
+      ]
+    },
+    {
+      "description": "A formal statement of the cause of an action or defense.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Making an emotional appeal.",
+      "examples": [
+        "he gave her a pleading look"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈplēdiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pleading_us_1.mp3"
+}

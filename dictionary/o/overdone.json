@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) overcooked.",
+      "examples": [
+        "he sat there chewing his overdone steak"
+      ],
+      "synonyms": [
+        "overcooked",
+        "overbaked",
+        "dried out",
+        "burnt",
+        "burnt to a cinder",
+        "burnt to a crisp"
+      ]
+    },
+    {
+      "description": "Carried to excess; exaggerated.",
+      "examples": [
+        "an overdone show of camaraderie"
+      ],
+      "synonyms": [
+        "excessive",
+        "too much",
+        "undue",
+        "immoderate",
+        "inordinate",
+        "disproportionate",
+        "inflated",
+        "beyond the pale",
+        "overstated",
+        "overworked",
+        "overripe",
+        "laboured",
+        "exaggerated",
+        "over-elaborate",
+        "overemphasized",
+        "extravagant",
+        "over-enthusiastic",
+        "effusive",
+        "over-effusive",
+        "gushing",
+        "fulsome",
+        "highly coloured",
+        "sensationalistic",
+        "forced",
+        "affected"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈdən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overdone_us_1.mp3"
+}

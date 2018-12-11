@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) fond of talking in an easy, informal way.",
+      "examples": [
+        "the driver was very chatty"
+      ],
+      "synonyms": [
+        "talkative",
+        "communicative",
+        "expansive",
+        "forthcoming",
+        "open",
+        "unreserved",
+        "gossipy",
+        "gossiping",
+        "garrulous",
+        "loquacious",
+        "voluble",
+        "verbose",
+        "effusive",
+        "gushing",
+        "glib"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃædi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chatty_us_1.mp3"
+}

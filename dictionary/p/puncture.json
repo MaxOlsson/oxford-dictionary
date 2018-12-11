@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A small hole in a tire resulting in an escape of air.",
+      "examples": [
+        "she was on her way home when she had a puncture"
+      ],
+      "synonyms": [
+        "flat tyre"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a puncture in (something)",
+      "examples": [
+        "one of the knife blows had punctured a lung"
+      ],
+      "synonyms": [
+        "make a hole in",
+        "pierce",
+        "penetrate",
+        "rupture",
+        "perforate",
+        "riddle",
+        "stab",
+        "cut",
+        "nick",
+        "slit",
+        "prick",
+        "spike",
+        "stick",
+        "impale",
+        "transfix",
+        "bore",
+        "bore through",
+        "drill",
+        "drill through",
+        "lance",
+        "tap"
+      ]
+    },
+    {
+      "description": "Cause a sudden collapse of (mood or feeling)",
+      "examples": [
+        "the earlier mood of optimism was punctured"
+      ],
+      "synonyms": [
+        "put an end to",
+        "cut short",
+        "reverse",
+        "prick",
+        "deflate",
+        "flatten",
+        "reduce"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin punctura, from punct- pricked, from the verb pungere. The verb dates from the late 17th century.",
+  "pronounciation": "/ˈpəNGk(t)SHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/puncture_us_1.mp3"
+}

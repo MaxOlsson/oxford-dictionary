@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Weak, ineffectual, or sloppily sentimental.",
+      "examples": [
+        "a drippy love song"
+      ],
+      "synonyms": [
+        "banal",
+        "trite",
+        "hackneyed",
+        "commonplace",
+        "clichéd",
+        "predictable",
+        "stereotyped",
+        "platitudinous",
+        "inane",
+        "fatuous",
+        "vapid",
+        "jejune",
+        "weak",
+        "feeble",
+        "tired",
+        "stale",
+        "overworked",
+        "overused",
+        "well worn"
+      ]
+    },
+    {
+      "description": "Tending to drip.",
+      "examples": [
+        "drippy food"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdripē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drippy_us_1.mp3"
+}

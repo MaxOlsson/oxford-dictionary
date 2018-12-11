@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "A violin, especially when used to play folk music.",
+      "examples": [],
+      "synonyms": [
+        "violin",
+        "viola",
+        "cello",
+        "double bass"
+      ]
+    },
+    {
+      "description": "An act of defrauding, cheating, or falsifying.",
+      "examples": [
+        "a major mortgage fiddle"
+      ],
+      "synonyms": [
+        "fraud",
+        "swindle",
+        "fix",
+        "wangle",
+        "confidence trick",
+        "ruse",
+        "wile",
+        "piece of deception",
+        "bit of sharp practice"
+      ]
+    },
+    {
+      "description": "A contrivance, such as a raised rim, that prevents things from rolling or sliding off a table in bad weather.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Play the fiddle.",
+      "examples": [
+        "he fiddled with the band from 1949 to 1951",
+        "country music with lots of fiddling and banjo playing"
+      ]
+    },
+    {
+      "description": "Touch or fidget with something in a restless or nervous way.",
+      "examples": [
+        "Laura fiddled with her cup"
+      ],
+      "synonyms": [
+        "fidget",
+        "play",
+        "toy",
+        "twiddle",
+        "fuss",
+        "fool about",
+        "fool around",
+        "trifle"
+      ]
+    },
+    {
+      "description": "Falsify (figures, data, or records), typically in order to gain money.",
+      "examples": [
+        "everyone is fiddling their expenses"
+      ],
+      "synonyms": [
+        "falsify",
+        "manipulate",
+        "massage",
+        "rig",
+        "distort",
+        "pervert",
+        "misrepresent",
+        "juggle",
+        "doctor",
+        "alter",
+        "tamper with",
+        "interfere with"
+      ]
+    }
+  ],
+  "phrases": [
+    "This astounding piece of fiddling while Rome burns was written no doubt to the sound of whalesong and the pungent aroma of joss sticks.",
+    "Environmentalists, no doubt, will accuse Americans of fiddling while Rome burns.",
+    "I see the Conservatives on Swindon Council have nothing better to do than fiddle while Rome burns.",
+    "To fiddle while Rome burns is neither new nor unique to our community.",
+    "The University, forgetting about software, and forgetting about the future of the stream, fiddling while Rome burns, or whatever it does, thinks that it's going to come to grips with the world by putting course notes on the Web."
+  ],
+  "origin": "Old English fithele, denoting a violin or similar instrument (originally not an informal or depreciatory term), related to Dutch vedel and German Fiedel, based on Latin vitulari celebrate a festival, be joyful, perhaps from Vitula, the name of a Roman goddess of joy and victory. Compare with viol.",
+  "pronounciation": "/ˈfɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fiddle_us_1.mp3"
+}

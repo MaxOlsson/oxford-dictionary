@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An ambush.",
+      "examples": [],
+      "synonyms": [
+        "ambush",
+        "lure",
+        "decoy",
+        "bait"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Ambush (someone).",
+      "examples": [],
+      "synonyms": [
+        "snare",
+        "entrap",
+        "ensnare",
+        "enmesh",
+        "lay a trap for"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French embuscade, from Italian imboscata, Spanish emboscada, or Portuguese embuscada, based on a late Latin word meaning to place in a wood; related to bush.",
+  "pronounciation": "/ˈæmbəskeɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ambuscade_us_1.mp3"
+}

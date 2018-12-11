@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A failure of electrical power supply.",
+      "examples": [
+        "due to a power blackout, their hotel was in total darkness"
+      ],
+      "synonyms": [
+        "power cut",
+        "power failure",
+        "electricity failure"
+      ]
+    },
+    {
+      "description": "A suppression of information, especially one imposed on the media by government.",
+      "examples": [
+        "the total information blackout on the series of meetings"
+      ],
+      "synonyms": [
+        "suppression",
+        "silence",
+        "censorship",
+        "reporting restrictions",
+        "cut-off"
+      ]
+    },
+    {
+      "description": "A temporary loss of consciousness.",
+      "examples": [
+        "she was suffering from blackouts"
+      ],
+      "synonyms": [
+        "faint",
+        "fainting fit",
+        "loss of consciousness",
+        "coma",
+        "passing out",
+        "period of oblivion",
+        "swoon",
+        "collapse"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈblækˌaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blackout_us_1.mp3"
+}

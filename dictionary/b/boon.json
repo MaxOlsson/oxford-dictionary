@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is helpful or beneficial.",
+      "examples": [
+        "the navigation system will be a boon to both civilian and military users"
+      ],
+      "synonyms": [
+        "blessing",
+        "godsend",
+        "bonus",
+        "good thing",
+        "benefit",
+        "help",
+        "aid",
+        "advantage",
+        "gain",
+        "asset",
+        "privilege",
+        "luxury"
+      ]
+    },
+    {
+      "description": "A favor or request.",
+      "examples": [
+        "may I have the inestimable boon of a few minutes' conversation?"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense request for a favor): from Old Norse bón.",
+  "pronounciation": "/bo͞on/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boon_us_1.mp3"
+}

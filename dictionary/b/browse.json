@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Survey goods for sale in a leisurely and casual way.",
+      "examples": [
+        "he stopped to browse around a sporting goods store"
+      ],
+      "synonyms": [
+        "look around",
+        "look round",
+        "have a look",
+        "window-shop",
+        "peruse"
+      ]
+    },
+    {
+      "description": "(of an animal) feed on leaves, twigs, or other high-growing vegetation.",
+      "examples": [
+        "they reach upward to browse on bushes",
+        "the animals browse the high foliage of trees"
+      ],
+      "synonyms": [
+        "graze",
+        "feed",
+        "eat",
+        "nibble",
+        "crop",
+        "pasture",
+        "ruminate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of casual looking or reading.",
+      "examples": [
+        "the brochure is well worth a browse"
+      ],
+      "synonyms": [
+        "scan",
+        "read",
+        "skim",
+        "leaf",
+        "flick through",
+        "glance",
+        "look"
+      ]
+    },
+    {
+      "description": "Vegetation, such as twigs and young shoots, eaten by animals.",
+      "examples": [
+        "a moose needs to eat forty to fifty pounds of browse a day"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in browse (sense 2 of the verb)): from Old French broster, from brost young shoot, probably of Germanic origin.",
+  "pronounciation": "/braʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/browse_us_1.mp3"
+}

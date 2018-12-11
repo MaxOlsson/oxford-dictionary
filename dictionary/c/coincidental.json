@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Resulting from a coincidence; done or happening by chance.",
+      "examples": [
+        "any resemblance between their reports is purely coincidental",
+        "it cannot be coincidental that these years were a time of important new developments"
+      ],
+      "synonyms": [
+        "accidental",
+        "chance",
+        "occurring by accident",
+        "occurring by chance",
+        "fortuitous",
+        "adventitious",
+        "fluky",
+        "casual",
+        "serendipitous",
+        "random",
+        "aleatory"
+      ]
+    },
+    {
+      "description": "Happening or existing at the same time.",
+      "examples": [
+        "it's convenient that his plan is coincidental with the group's closure"
+      ],
+      "synonyms": [
+        "simultaneous",
+        "concurrent",
+        "coincident",
+        "contemporaneous",
+        "concomitant",
+        "synchronous",
+        "coexistent"
+      ]
+    }
+  ],
+  "pronounciation": "/kōˌinsəˈden(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coincidental_us_1.mp3"
+}

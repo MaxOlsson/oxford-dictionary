@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Very drunk.",
+      "examples": [
+        "I went out and got totally plastered"
+      ],
+      "synonyms": [
+        "intoxicated",
+        "inebriated",
+        "drunken",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    },
+    {
+      "description": "Covered with or made of plaster.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈplastərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plastered_us_1.mp3"
+}

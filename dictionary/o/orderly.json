@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Neatly and methodically arranged.",
+      "examples": [
+        "an orderly arrangement of objects"
+      ],
+      "synonyms": [
+        "neat",
+        "tidy",
+        "well ordered",
+        "in order",
+        "trim",
+        "in apple-pie order",
+        "as neat as a new pin",
+        "spick and span",
+        "well kept",
+        "straight"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An attendant in a hospital responsible for the nonmedical care of patients and the maintenance of order and cleanliness.",
+      "examples": []
+    },
+    {
+      "description": "A soldier who carries out orders or performs minor tasks for an officer.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɔrdərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/orderly_us_1.mp3"
+}

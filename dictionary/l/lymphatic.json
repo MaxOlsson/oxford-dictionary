@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to lymph or its secretion.",
+      "examples": [
+        "lymphatic vessels",
+        "lymphatic drainage"
+      ]
+    },
+    {
+      "description": "(of a person) pale, flabby, or sluggish.",
+      "examples": [],
+      "synonyms": [
+        "sluggish",
+        "lethargic",
+        "enervated",
+        "unenergetic",
+        "listless",
+        "languid",
+        "torpid",
+        "inactive",
+        "inert",
+        "slow",
+        "slow-moving",
+        "sleepy",
+        "somnolent",
+        "drowsy",
+        "weary",
+        "tired",
+        "fatigued",
+        "heavy",
+        "apathetic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A vessel, similar to a vein, that conveys lymph in the body.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (in the sense frenzied, mad): from Latin lymphaticus mad, from Greek numpholēptos seized by nymphs; now associated with lymph, on the pattern of words such as spermatic.",
+  "pronounciation": "/lɪmˈfædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lymphatic_us_1.mp3"
+}

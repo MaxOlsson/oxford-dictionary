@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Most prominent in rank, importance, or position.",
+      "examples": [
+        "one of the foremost art collectors of his day"
+      ],
+      "synonyms": [
+        "leading",
+        "principal",
+        "premier",
+        "prime",
+        "elite",
+        "top",
+        "top-tier",
+        "top-level",
+        "first-rate",
+        "greatest",
+        "best",
+        "supreme",
+        "pre-eminent",
+        "major",
+        "most important",
+        "most prominent",
+        "most influential",
+        "most skilled",
+        "most illustrious",
+        "outstanding",
+        "notable",
+        "noteworthy",
+        "of note"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Before anything else in rank, importance, or position; in the first place.",
+      "examples": [
+        "O'Keefe's work was, foremost, an expression of the feelings of a woman"
+      ]
+    }
+  ],
+  "origin": "Old English formest, fyrmest, from forma first (ultimately a superlative formed from the Germanic base of fore)+ -est. Compare with first and former. The current spelling arose by association with fore and most.",
+  "pronounciation": "/ˈfôrˌmōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foremost_us_1.mp3"
+}

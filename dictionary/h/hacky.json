@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking originality; hackneyed.",
+      "examples": [
+        "we already know what those hacky punchlines are going to be",
+        "knee-jerk, hacky journalism"
+      ],
+      "synonyms": [
+        "overused",
+        "overworked",
+        "overdone",
+        "worn out",
+        "time-worn",
+        "platitudinous",
+        "vapid",
+        "stale",
+        "tired",
+        "threadbare"
+      ]
+    },
+    {
+      "description": "(of a piece of computer code) providing a clumsy or inelegant solution to a particular problem.",
+      "examples": [
+        "I realize this is a hacky workaround but I don't have time to investigate a more solid fix"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhakē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hacky_us_1.mp3"
+}

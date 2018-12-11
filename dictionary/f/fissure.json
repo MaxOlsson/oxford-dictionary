@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth.",
+      "examples": [],
+      "synonyms": [
+        "opening",
+        "crevice",
+        "crack",
+        "cleft",
+        "cranny",
+        "chink",
+        "slit",
+        "groove",
+        "gap",
+        "hole",
+        "breach",
+        "aperture",
+        "vent",
+        "interstice"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Split or crack (something) to form a long, narrow opening.",
+      "examples": [
+        "the skin becomes dry, fissured, and cracked"
+      ],
+      "synonyms": [
+        "split",
+        "broken",
+        "fissured",
+        "fractured",
+        "ruptured",
+        "splintered",
+        "cleft",
+        "slit"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin fissura, from findere to split.",
+  "pronounciation": "/ˈfiSHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fissure_us_1.mp3"
+}

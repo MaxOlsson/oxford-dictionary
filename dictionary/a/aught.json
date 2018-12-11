@@ -1,0 +1,19 @@
+{
+  "pronoun": [
+    {
+      "description": "Anything at all.",
+      "examples": [
+        "know you aught of this fellow, young sir?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The digit 0; zero.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: probably a variant of naught.",
+  "pronounciation": "/ôt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aught_us_1.mp3"
+}

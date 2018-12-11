@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "A distinct period or stage in a series of events or a process of change or development.",
+      "examples": [
+        "the final phases of the war",
+        "phase two of the development is in progress"
+      ],
+      "synonyms": [
+        "stage",
+        "period",
+        "chapter",
+        "episode",
+        "part",
+        "step",
+        "point",
+        "time",
+        "juncture"
+      ]
+    },
+    {
+      "description": "Each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.",
+      "examples": [],
+      "synonyms": [
+        "aspect",
+        "shape",
+        "form",
+        "appearance",
+        "state",
+        "condition"
+      ]
+    },
+    {
+      "description": "A genetic or seasonal variety of an animal's coloration.",
+      "examples": []
+    },
+    {
+      "description": "A distinct and homogeneous form of matter (i.e. a particular solid, liquid, or gas) separated by its surface from other forms.",
+      "examples": []
+    },
+    {
+      "description": "The relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Carry out (something) in gradual stages.",
+      "examples": [
+        "the work is being phased over a number of years"
+      ]
+    },
+    {
+      "description": "Adjust the phase of (something), especially so as to synchronize it with something else.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the cabling work should be carried out in phase with the building work",
+    "Advisory committees help colleges and universities stay in phase with industry needs.",
+    "When exiting the corner, the rear wheels turn in phase with the front wheels improving yaw damping.",
+    "This improvement in keeping the moon in phase with the month had the unfortunate effect of taking the year even further out of phase with the period of the recurring seasons.",
+    "It's not just a matter of there being more light; when you've got more than one of these things going in close proximity, and they're operating out of phase with each other, they're a hell of a lot more dazzling than the lights on a single car."
+  ],
+  "origin": "Early 19th century (in phase (sense 2 of the noun)): from French phase, based on Greek phasis appearance, from the base of phainein to show.",
+  "pronounciation": "/feɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/phase_us_1.mp3"
+}

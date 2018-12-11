@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Give (someone) permission to do something.",
+      "examples": [
+        "the dissident was allowed to leave the country"
+      ],
+      "synonyms": [
+        "permit",
+        "let",
+        "authorize",
+        "give someone permission to",
+        "give authorization to",
+        "give leave to",
+        "sanction",
+        "grant",
+        "grant someone the right",
+        "license",
+        "empower",
+        "enable",
+        "entitle",
+        "qualify"
+      ]
+    },
+    {
+      "description": "Give the necessary time or opportunity for.",
+      "examples": [
+        "they agreed to a ceasefire to allow talks with the government",
+        "he stopped for a moment to allow his eyes to adjust",
+        "my household duties were too many to allow of a visit to the hospital"
+      ]
+    },
+    {
+      "description": "Admit the truth of; concede.",
+      "examples": [
+        "he allowed that the penalty appeared too harsh for the crime",
+        "“Could happen,” she allowed indifferently"
+      ],
+      "synonyms": [
+        "admit",
+        "acknowledge",
+        "recognize",
+        "agree",
+        "accept",
+        "concede",
+        "grant",
+        "own",
+        "confess",
+        "accede"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the senses commend, sanction and assign as a right): from Old French alouer, from Latin allaudare to praise, reinforced by medieval Latin allocare to place (see allocate).",
+  "pronounciation": "/əˈlou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/allow_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "Quickly and unexpectedly.",
+      "examples": [
+        "suddenly I heard a loud scream",
+        "the ambassador died suddenly"
+      ],
+      "synonyms": [
+        "immediately",
+        "instantaneously",
+        "instantly",
+        "in an instant",
+        "straight away",
+        "all of a sudden",
+        "at once",
+        "all at once",
+        "promptly",
+        "abruptly",
+        "in a trice",
+        "swiftly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsədnlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suddenly_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An upward slope.",
+      "examples": [],
+      "synonyms": [
+        "gradient",
+        "incline",
+        "angle",
+        "slant",
+        "inclination",
+        "pitch",
+        "decline",
+        "ascent",
+        "declivity",
+        "acclivity",
+        "rise",
+        "fall",
+        "downward",
+        "upward",
+        "downslope",
+        "ramp",
+        "rake",
+        "tilt",
+        "tip",
+        "dip",
+        "camber",
+        "cant",
+        "bevel"
+      ]
+    }
+  ],
+  "adverb &amp; adjective": [
+    {
+      "description": "At or toward a higher point on a slope.",
+      "examples": [
+        "the big man started to run upslope"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəpˌslōp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upslope_us_1.mp3"
+}

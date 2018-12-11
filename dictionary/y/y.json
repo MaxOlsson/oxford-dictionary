@@ -1,0 +1,30 @@
+{
+  "abbreviation": [
+    {
+      "description": "Year(s)",
+      "examples": [
+        "orbital period (Pluto): 248.5y"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The twenty-fifth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital Y.",
+      "examples": [
+        "rows of tiny Y-shaped motifs"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element yttrium.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/waɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/y_us_1.mp3"
+}

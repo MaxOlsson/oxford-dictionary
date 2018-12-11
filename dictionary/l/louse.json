@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "Either of two small wingless parasitic insects that live on the skin of mammals and birds.",
+      "examples": []
+    },
+    {
+      "description": "A contemptible or unpleasant person.",
+      "examples": [],
+      "synonyms": [
+        "scoundrel",
+        "villain",
+        "rogue",
+        "rascal",
+        "brute",
+        "animal",
+        "weasel",
+        "snake",
+        "monster",
+        "ogre",
+        "wretch",
+        "devil",
+        "good-for-nothing",
+        "reprobate",
+        "wrongdoer",
+        "evil-doer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spoil or ruin something.",
+      "examples": [
+        "he loused up my promotion chances"
+      ],
+      "synonyms": [
+        "wreck",
+        "ruin",
+        "spoil",
+        "disrupt",
+        "undo",
+        "upset",
+        "play havoc with",
+        "make a mess of",
+        "put an end to",
+        "end",
+        "bring to an end",
+        "put a stop to",
+        "terminate",
+        "prevent",
+        "frustrate",
+        "blight",
+        "crush",
+        "quell",
+        "quash",
+        "dash",
+        "scotch",
+        "shatter",
+        "vitiate",
+        "blast",
+        "devastate",
+        "demolish",
+        "sabotage",
+        "torpedo"
+      ]
+    },
+    {
+      "description": "Remove lice from.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English lūs, (plural) lȳs, of Germanic origin; related to Dutch luis, German Laus.",
+  "pronounciation": "/lous/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/louse_us_1.mp3"
+}

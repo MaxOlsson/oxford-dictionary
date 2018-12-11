@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that gives out warmth; with comfortable heat.",
+      "examples": [
+        "the sun shone warmly"
+      ]
+    },
+    {
+      "description": "In a way that shows friendliness toward a person or enthusiasm for an idea or project.",
+      "examples": [
+        "they were greeted warmly by the locals",
+        "I warmly recommend this book"
+      ]
+    },
+    {
+      "description": "With colors containing red, yellow, or orange tones.",
+      "examples": [
+        "warmly colored, intimate interiors",
+        "a warmly lit kitchen"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwɔrmli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/warmly_us_1.mp3"
+}

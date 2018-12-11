@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A tax levied on certain goods and commodities produced or sold within a country and on licenses granted for certain activities.",
+      "examples": [
+        "excise taxes on cigarettes"
+      ],
+      "synonyms": [
+        "duty",
+        "tax",
+        "levy",
+        "tariff",
+        "toll",
+        "tithe"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Charge excise on (goods)",
+      "examples": [
+        "excised goods"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense notch or hollow out): from Latin excis- cut out, from the verb excidere, from ex- out of + caedere to cut.",
+  "pronounciation": "/ikˈsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excise_us_2.mp3"
+}

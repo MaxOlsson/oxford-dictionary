@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "An action such as a prolonged speech that obstructs progress in a legislative assembly while not technically contravening the required procedures.",
+      "examples": [
+        "it was defeated by a Senate filibuster in June"
+      ],
+      "synonyms": [
+        "delaying tactics",
+        "stonewalling",
+        "procrastination",
+        "obstruction",
+        "delaying",
+        "blocking",
+        "hold-up"
+      ]
+    },
+    {
+      "description": "A person engaging in unauthorized warfare against a foreign country.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act in an obstructive manner in a legislature, especially by speaking at inordinate length.",
+      "examples": [
+        "a single obstinate senator could hold up legislation endlessly by filibustering"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French flibustier, first applied to pirates who pillaged the Spanish colonies in the West Indies. In the mid 19th century (via Spanish filibustero), the term denoted American adventurers who incited revolution in several Latin American states, whence filibuster (sense 2 of the noun). The verb was used to describe tactics intended to sabotage US congressional proceedings, whence filibuster (sense 1 of the noun).",
+  "pronounciation": "/ˈfiləˌbəstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filibuster_us_1.mp3"
+}

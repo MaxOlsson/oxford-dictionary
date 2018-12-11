@@ -1,0 +1,92 @@
+{
+  "noun": [
+    {
+      "description": "An act or movement of putting one leg in front of the other in walking or running.",
+      "examples": [
+        "Ron took a step back",
+        "she turned and retraced her steps"
+      ],
+      "synonyms": [
+        "pace",
+        "footstep",
+        "stride"
+      ]
+    },
+    {
+      "description": "A flat surface, especially one in a series, on which to place one's foot when moving from one level to another.",
+      "examples": [
+        "the bottom step of the staircase",
+        "a flight of marble steps"
+      ],
+      "synonyms": [
+        "stair",
+        "tread",
+        "tread board"
+      ]
+    },
+    {
+      "description": "A measure or action, especially one of a series taken in order to deal with or achieve a particular thing.",
+      "examples": [
+        "the government must take steps to discourage age discrimination",
+        "a major step forward in the fight for justice"
+      ],
+      "synonyms": [
+        "course of action",
+        "measure",
+        "move",
+        "act",
+        "action",
+        "procedure",
+        "proceeding",
+        "initiative"
+      ]
+    },
+    {
+      "description": "An interval in a scale; a tone (whole step) or semitone (half step).",
+      "examples": []
+    },
+    {
+      "description": "An abrupt change in the value of a quantity, especially voltage.",
+      "examples": []
+    },
+    {
+      "description": "A block, typically fixed to the vessel's keel, on which the base of a mast is seated.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lift and set down one's foot or one foot after the other in order to walk somewhere or move to a new position.",
+      "examples": [
+        "Claudia tried to step back",
+        "I accidentally stepped on his foot"
+      ],
+      "synonyms": [
+        "walk",
+        "move",
+        "tread",
+        "pace",
+        "stride"
+      ]
+    },
+    {
+      "description": "Set up (a mast) in its step.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Neither of them broke step as they walked with their heads up but eyes down.",
+    "Then they break step and disperse over Southwark Bridge, chatting and slouching.",
+    "They were all of different heights and strides yet they never broke step.",
+    "Passers-by in this northern suburb in the foothills of Iran's Elborz Mountains are few, and most walk past without breaking step.",
+    "Interested, I fell into step behind them as they walked.",
+    "he has stepped aside as adviser to both firms",
+    "He couldn't help stepping back and looking at the absurdity of his situation.",
+    "Over at The Globe and Mail, Kate Taylor steps back and takes a look at the book reviewing debate.",
+    "It's about time somebody took a few steps back and realised what country is.",
+    "Not once did he step back to draw together various pieces and put them into a single theory."
+  ],
+  "origin": "Old English stæpe, stepe (noun), stæppan, steppan (verb), of Germanic origin; related to Dutch steppen and German stapfen.",
+  "pronounciation": "/stɛp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/step_us_1.mp3"
+}

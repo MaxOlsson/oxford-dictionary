@@ -1,0 +1,107 @@
+{
+  "noun": [
+    {
+      "description": "A heavy blow with the hand or a hard object.",
+      "examples": [
+        "a clout on the ear"
+      ],
+      "synonyms": [
+        "smack",
+        "slap",
+        "thump",
+        "punch",
+        "blow",
+        "hit",
+        "knock",
+        "bang",
+        "cuff",
+        "box",
+        "spanking",
+        "spank",
+        "tap",
+        "clip"
+      ]
+    },
+    {
+      "description": "Influence or power, especially in politics or business.",
+      "examples": [
+        "I knew he carried a lot of clout"
+      ],
+      "synonyms": [
+        "influence",
+        "power",
+        "pull",
+        "weight",
+        "sway",
+        "leverage",
+        "control",
+        "say",
+        "mastery",
+        "dominance",
+        "domination",
+        "advantage"
+      ]
+    },
+    {
+      "description": "A piece of cloth or clothing, especially one used as a patch.",
+      "examples": []
+    },
+    {
+      "description": "A target used in long-distance shooting, placed flat on the ground with a flag marking its center.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hit hard with the hand or a hard object.",
+      "examples": [
+        "I clouted him on the head"
+      ],
+      "synonyms": [
+        "hit",
+        "strike",
+        "punch",
+        "smack",
+        "slap",
+        "cuff",
+        "thump",
+        "beat",
+        "batter",
+        "pound",
+        "pummel",
+        "thrash",
+        "rap",
+        "spank",
+        "buffet",
+        "hammer",
+        "bang",
+        "knock",
+        "box someone's ears"
+      ]
+    },
+    {
+      "description": "Mend with a patch.",
+      "examples": [],
+      "synonyms": [
+        "repair",
+        "fix",
+        "put back together",
+        "piece together",
+        "patch up",
+        "restore",
+        "sew",
+        "sew up",
+        "stitch",
+        "darn",
+        "patch",
+        "cobble",
+        "botch",
+        "vamp",
+        "vamp up"
+      ]
+    }
+  ],
+  "origin": "Old English clūt (in the sense a patch or metal plate); related to Dutch kluit lump, clod, also to cleat and clot. The shift of sense to heavy blow, which dates from late Middle English, is difficult to explain; possibly the change occurred first in the verb (from put a patch on to hit hard).",
+  "pronounciation": "/klaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clout_us_1.mp3"
+}

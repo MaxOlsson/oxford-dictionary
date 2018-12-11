@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Pulled or twisted out of shape; contorted.",
+      "examples": [],
+      "synonyms": [
+        "twisted",
+        "warped",
+        "contorted",
+        "bent",
+        "buckled",
+        "deformed",
+        "malformed",
+        "misshapen",
+        "disfigured",
+        "crooked",
+        "irregular",
+        "awry",
+        "wry",
+        "out of shape"
+      ]
+    },
+    {
+      "description": "Giving a misleading or false account or impression; misrepresented.",
+      "examples": [
+        "his report gives a distorted view of the meeting"
+      ],
+      "synonyms": [
+        "misrepresented",
+        "perverted",
+        "twisted",
+        "falsified",
+        "misreported",
+        "misstated"
+      ]
+    },
+    {
+      "description": "Affected by electrical distortion.",
+      "examples": [
+        "distorted guitars"
+      ]
+    }
+  ],
+  "pronounciation": "/dɪˈstɔrdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distorted_us_1.mp3"
+}

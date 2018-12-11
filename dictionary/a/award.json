@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Give or order the giving of (something) as an official payment, compensation, or prize to (someone)",
+      "examples": [
+        "he was awarded the Purple Heart",
+        "the 3.5 percent pay raise was awarded to the staff"
+      ],
+      "synonyms": [
+        "give",
+        "grant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A prize or other mark of recognition given in honor of an achievement.",
+      "examples": [
+        "the company's annual award for high-quality service",
+        "an award ceremony"
+      ],
+      "synonyms": [
+        "prize",
+        "trophy",
+        "medal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense issue a judicial decision, also denoting the decision itself): from Anglo-Norman French awarder, variant of Old French esguarder consider, ordain, from es- (from Latin ex thoroughly) + guarder watch (over), based on a word of Germanic origin related to ward; compare with guard.",
+  "pronounciation": "/əˈwɔrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/award_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Carry out (a task) badly or carelessly.",
+      "examples": [
+        "the ability to take on any task without botching it",
+        "he was in a position to hire people, and he botched that up"
+      ],
+      "synonyms": [
+        "bungle",
+        "do badly",
+        "do clumsily",
+        "make a mess of",
+        "mismanage",
+        "mishandle",
+        "mangle",
+        "fumble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bungled or badly carried out task or action.",
+      "examples": [
+        "I've probably made a botch of things"
+      ],
+      "synonyms": [
+        "mess",
+        "fiasco",
+        "debacle",
+        "blunder",
+        "failure",
+        "wreck"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense repair but originally not implying clumsiness): of unknown origin.",
+  "pronounciation": "/bäCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/botch_us_1.mp3"
+}

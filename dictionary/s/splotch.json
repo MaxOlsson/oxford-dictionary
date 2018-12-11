@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A daub, blot, or smear of something, typically a liquid.",
+      "examples": [
+        "a splotch of red in a larger area of yellow"
+      ],
+      "synonyms": [
+        "imperfection",
+        "fault",
+        "flaw",
+        "defect",
+        "deformity",
+        "discoloration",
+        "disfigurement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a daub, blot, or smear on.",
+      "examples": [
+        "a rag splotched with grease"
+      ],
+      "synonyms": [
+        "irrelevant",
+        "inapplicable",
+        "inapposite",
+        "inappropriate",
+        "inapt",
+        "immaterial",
+        "not to the point",
+        "beside the point",
+        "off the subject",
+        "extraneous",
+        "neither here nor there"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: perhaps a blend of spot and obsolete plotch blotch.",
+  "pronounciation": "/spläCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splotch_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An alphabetical list of the words (especially the important ones) present in a text, usually with citations of the passages concerned.",
+      "examples": [
+        "a concordance to the Bible"
+      ]
+    },
+    {
+      "description": "Agreement.",
+      "examples": [
+        "the concordance between the teams' research results"
+      ],
+      "synonyms": [
+        "correspondence",
+        "consistency",
+        "compatibility",
+        "conformity",
+        "coincidence",
+        "harmony",
+        "concord",
+        "accord",
+        "accordance",
+        "congruity"
+      ]
+    },
+    {
+      "description": "The inheritance by two related individuals (especially twins) of the same genetic characteristic, such as susceptibility to a disease.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a concordance of.",
+      "examples": [
+        "the value of concordanced information"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from medieval Latin concordantia, from concordant- being of one mind (see concordant).",
+  "pronounciation": "/kənˈkɔrdns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcordance_us_1.mp3"
+}

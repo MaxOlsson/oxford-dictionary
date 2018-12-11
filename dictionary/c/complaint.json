@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A statement that a situation is unsatisfactory or unacceptable.",
+      "examples": [
+        "I intend to make an official complaint",
+        "there were complaints that the building was an eyesore"
+      ],
+      "synonyms": [
+        "protest",
+        "protestation",
+        "objection",
+        "remonstrance",
+        "statement of dissatisfaction",
+        "grievance",
+        "charge",
+        "accusation",
+        "criticism"
+      ]
+    },
+    {
+      "description": "An illness or medical condition, especially a relatively minor one.",
+      "examples": [
+        "she is receiving treatment for her skin complaint"
+      ],
+      "synonyms": [
+        "disorder",
+        "disease",
+        "infection",
+        "affliction",
+        "illness",
+        "ailment",
+        "sickness",
+        "malady",
+        "malaise",
+        "infirmity",
+        "indisposition",
+        "weakness",
+        "condition",
+        "problem",
+        "upset"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French complainte, feminine past participle of complaindre to lament (see complain).",
+  "pronounciation": "/kəmˈpleɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/complaint_us_1.mp3"
+}

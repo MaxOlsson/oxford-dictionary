@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "An amount of space between two things or people.",
+      "examples": [
+        "I bicycled the short distance home",
+        "the distance between front and rear wheels"
+      ],
+      "synonyms": [
+        "interval",
+        "space",
+        "span",
+        "gap",
+        "separation",
+        "interspace",
+        "stretch",
+        "extent"
+      ]
+    },
+    {
+      "description": "The full length of a race.",
+      "examples": [
+        "he claimed the 10,000 meter title in only his second race over the distance"
+      ]
+    },
+    {
+      "description": "The avoidance of familiarity; aloofness or reserve.",
+      "examples": [
+        "a mix of warmth and distance makes a good neighbor"
+      ],
+      "synonyms": [
+        "aloofness",
+        "remoteness",
+        "detachment",
+        "stand-offishness",
+        "unfriendliness",
+        "haughtiness",
+        "hauteur",
+        "coolness",
+        "coldness",
+        "frigidity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone or something) far off or remote in position or nature.",
+      "examples": [
+        "her mother wished to distance her from the rough village children"
+      ],
+      "synonyms": [
+        "withdraw",
+        "detach",
+        "separate",
+        "dissociate",
+        "remove",
+        "isolate",
+        "put at a distance",
+        "keep at arm's length",
+        "set apart",
+        "place far off"
+      ]
+    }
+  ],
+  "phrases": [
+    "he went the distance after being floored in the first round",
+    "Do you think this fight is going to go the distance?",
+    "Who knows what they would have scored had the fight gone the distance?",
+    "I'm guessing that Ellis would have won a decision if the fight had gone the distance.",
+    "As with the previous four fights, the fifth went the distance."
+  ],
+  "origin": "Middle English (in the sense discord, debate): from Old French or from Latin distantia, from distant- standing apart, from the verb distare (see distant).",
+  "pronounciation": "/ˈdistəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distance_us_1.mp3"
+}

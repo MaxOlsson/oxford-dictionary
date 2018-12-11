@@ -1,0 +1,25 @@
+{
+  "abbreviation": [
+    {
+      "description": "Company.",
+      "examples": [
+        "the Consett Iron Co"
+      ]
+    },
+    {
+      "description": "County.",
+      "examples": [
+        "Hudson Co"
+      ]
+    }
+  ],
+  "phrases": [
+    "Her husband is a former partner of Goldman, Sachs and Co..",
+    "Drexel's New York branch became Drexel, Morgan and Co., with JP as the senior partner.",
+    "Clete was a partner in Crowe, Chizek and Co. in South Bend, Indiana.",
+    "Gomez Partners and Co. is the private company chosen to run the project.",
+    "The hostel was later named the Malabar Hotel, managed by Spencer and Co., Madras."
+  ],
+  "pronounciation": "/koʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/co_1_us_1.mp3"
+}

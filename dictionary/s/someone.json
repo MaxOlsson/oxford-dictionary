@@ -1,0 +1,42 @@
+{
+  "pronoun": [
+    {
+      "description": "An unknown or unspecified person; some person.",
+      "examples": [
+        "there's someone at the door",
+        "someone from the audience shouted out"
+      ],
+      "synonyms": [
+        "person",
+        "individual",
+        "human being",
+        "somebody",
+        "someone"
+      ]
+    },
+    {
+      "description": "A person of importance or authority.",
+      "examples": [
+        "a small-time lawyer keen to be someone"
+      ],
+      "synonyms": [
+        "grandee",
+        "important person",
+        "vip",
+        "very important person",
+        "notable",
+        "notability",
+        "worthy",
+        "personage",
+        "luminary",
+        "public figure",
+        "pillar of society",
+        "leading light",
+        "leader",
+        "panjandrum"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəmˌwən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/someone_us_1.mp3"
+}

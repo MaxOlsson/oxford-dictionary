@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Be indecisive.",
+      "examples": [
+        "he was dithering about the election date"
+      ],
+      "synonyms": [
+        "hesitate",
+        "falter",
+        "waver",
+        "teeter",
+        "vacillate",
+        "oscillate",
+        "fluctuate",
+        "change one's mind",
+        "be in two minds",
+        "be ambivalent",
+        "be indecisive",
+        "be unsure",
+        "be undecided"
+      ]
+    },
+    {
+      "description": "Add white noise to (a digital recording) to reduce distortion of low-amplitude signals.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Indecisive behavior.",
+      "examples": [
+        "after months of dither they had still not agreed"
+      ]
+    },
+    {
+      "description": "A state of agitation.",
+      "examples": [
+        "buses are jammed and dirty and everyone is in a dither over taxis"
+      ],
+      "synonyms": [
+        "panic",
+        "state of fear",
+        "fluster"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the dialect sense tremble, quiver): variant of dialect didder; related to dodder.",
+  "pronounciation": "/ˈdɪðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dither_us_1.mp3"
+}

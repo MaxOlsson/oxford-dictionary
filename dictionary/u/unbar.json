@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Remove the bars from (a gate or door); unlock.",
+      "examples": [
+        "she unbarred the gate"
+      ],
+      "synonyms": [
+        "unbolt",
+        "unlatch",
+        "undo",
+        "unfasten",
+        "unpick",
+        "unseal",
+        "unclose",
+        "open",
+        "free",
+        "throw open",
+        "throw wide"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈbɑr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbar_us_1.mp3"
+}

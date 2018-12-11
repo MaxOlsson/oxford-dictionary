@@ -1,0 +1,36 @@
+{
+  "pronoun": [
+    {
+      "description": "Some person; someone.",
+      "examples": [],
+      "synonyms": [
+        "person",
+        "individual",
+        "human being",
+        "somebody",
+        "someone"
+      ]
+    },
+    {
+      "description": "A person of importance or authority.",
+      "examples": [
+        "I'd like to be somebody",
+        "nobodies who want to become somebodies"
+      ],
+      "synonyms": [
+        "important person",
+        "vip",
+        "personage",
+        "public figure",
+        "notable",
+        "notability",
+        "dignitary",
+        "pillar of society",
+        "pillar of the community",
+        "worthy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəmbədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/somebody_us_3_rr.mp3"
+}

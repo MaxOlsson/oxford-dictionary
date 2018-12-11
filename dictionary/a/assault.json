@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Make a physical attack on.",
+      "examples": [
+        "he pleaded guilty to assaulting a police officer",
+        "she was sexually assaulted as a child"
+      ],
+      "synonyms": [
+        "hit",
+        "strike",
+        "physically attack",
+        "aim blows at",
+        "slap",
+        "smack",
+        "beat",
+        "thrash",
+        "spank",
+        "thump",
+        "thwack",
+        "punch",
+        "cuff",
+        "swat",
+        "knock",
+        "rap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A physical attack.",
+      "examples": [
+        "his imprisonment for an assault on the film director",
+        "sexual assaults"
+      ],
+      "synonyms": [
+        "violence",
+        "physical violence",
+        "battery",
+        "mugging",
+        "actual bodily harm",
+        "abh"
+      ]
+    },
+    {
+      "description": "A concerted attempt to do something demanding.",
+      "examples": [
+        "a winter assault on Mt. Everest"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French asaut (noun), assauter (verb), based on Latin ad- to + saltare, frequentative of salire to leap. Compare with assail.",
+  "pronounciation": "/əˈsôlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assault_us_1.mp3"
+}

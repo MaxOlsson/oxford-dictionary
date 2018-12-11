@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Supply an ungenerous or inadequate amount of (something)",
+      "examples": [
+        "stowage room hasn't been stinted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person's fixed or allotted period of work.",
+      "examples": [
+        "his varied career included a stint as a magician"
+      ],
+      "synonyms": [
+        "spell",
+        "stretch",
+        "period",
+        "time",
+        "turn",
+        "run",
+        "session",
+        "term"
+      ]
+    },
+    {
+      "description": "Limitation of supply or effort.",
+      "examples": [
+        "a collector with an eye for quality and the means to indulge it without stint"
+      ]
+    }
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/stint/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stint_us_1.mp3"
+}

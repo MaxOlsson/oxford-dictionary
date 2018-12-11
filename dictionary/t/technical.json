@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a particular subject, art, or craft, or its techniques.",
+      "examples": [
+        "technical terms",
+        "a test of an artist's technical skill"
+      ]
+    },
+    {
+      "description": "Of, involving, or concerned with applied and industrial sciences.",
+      "examples": [
+        "an important technical achievement"
+      ],
+      "synonyms": [
+        "practical",
+        "scientific",
+        "applied",
+        "applying science",
+        "non-theoretical"
+      ]
+    },
+    {
+      "description": "Resulting from mechanical failure.",
+      "examples": [
+        "a technical fault"
+      ],
+      "synonyms": [
+        "mechanical"
+      ]
+    },
+    {
+      "description": "According to a strict application or interpretation of the law or rules.",
+      "examples": [
+        "the arrest was a technical violation of the treaty"
+      ]
+    }
+  ],
+  "noun": [],
+  "pronounciation": "/ˈteknək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/technical_us_1.mp3"
+}

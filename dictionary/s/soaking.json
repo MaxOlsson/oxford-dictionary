@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely wet; wet through.",
+      "examples": [
+        "his jacket was soaking"
+      ],
+      "synonyms": [
+        "drenched",
+        "soaked",
+        "soaked to the skin",
+        "like a drowned rat",
+        "wet through",
+        "soaked through",
+        "sodden",
+        "soggy",
+        "waterlogged",
+        "saturated",
+        "sopping",
+        "sopping wet",
+        "dripping",
+        "dripping wet",
+        "wringing",
+        "wringing wet",
+        "streaming"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of wetting something thoroughly.",
+      "examples": [
+        "in spring, give the soil a good soaking"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsoʊkɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soaking_us_1.mp3"
+}

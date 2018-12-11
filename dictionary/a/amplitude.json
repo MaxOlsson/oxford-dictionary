@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium.",
+      "examples": []
+    },
+    {
+      "description": "The angular distance of a celestial object from the true east or west point of the horizon at rising or setting.",
+      "examples": []
+    },
+    {
+      "description": "Breadth, range, or magnitude.",
+      "examples": [
+        "the amplitude of the crime of manslaughter lies beneath murder"
+      ],
+      "synonyms": [
+        "magnitude",
+        "size",
+        "volume",
+        "proportions",
+        "dimensions"
+      ]
+    },
+    {
+      "description": "The angle between the real axis of an Argand diagram and a vector representing a complex number.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the senses physical extent and grandeur): from Latin amplitudo, from amplus large, abundant.",
+  "pronounciation": "/ˈampləˌt(y)o͞od/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/amplitude_us_1.mp3"
+}

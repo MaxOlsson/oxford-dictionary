@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Undo (twisted, knitted, or woven threads).",
+      "examples": [],
+      "synonyms": [
+        "untangle",
+        "disentangle",
+        "straighten out",
+        "separate out",
+        "unsnarl",
+        "unknot",
+        "unwind",
+        "untwist",
+        "undo",
+        "untie",
+        "unkink",
+        "unjumble"
+      ]
+    },
+    {
+      "description": "Investigate and solve or explain (something complicated or puzzling)",
+      "examples": [
+        "they were attempting to unravel the cause of death"
+      ],
+      "synonyms": [
+        "solve",
+        "resolve",
+        "work out",
+        "clear up",
+        "puzzle out",
+        "find an answer to",
+        "get to the bottom of",
+        "explain",
+        "elucidate",
+        "fathom",
+        "decipher",
+        "decode",
+        "crack",
+        "penetrate",
+        "untangle",
+        "unfold",
+        "settle",
+        "reveal",
+        "clarify",
+        "sort out",
+        "make head or tail of"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈravəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unravel_us_1.mp3"
+}

@@ -1,0 +1,91 @@
+{
+  "verb": [
+    {
+      "description": "Give an authoritative order.",
+      "examples": [
+        "a gruff voice commanded us to enter",
+        "“Stop arguing!” he commanded",
+        "he commanded that work should cease",
+        "my mother commands my presence"
+      ],
+      "synonyms": [
+        "order",
+        "give orders to",
+        "give the order to",
+        "tell",
+        "direct",
+        "instruct",
+        "call on",
+        "enjoin",
+        "adjure",
+        "charge",
+        "require",
+        "prescribe"
+      ]
+    },
+    {
+      "description": "Dominate (a strategic position) from a superior height.",
+      "examples": [
+        "the two castles commanded the harbor"
+      ],
+      "synonyms": [
+        "be in charge of",
+        "be in command of",
+        "have charge of",
+        "have control of",
+        "be the leader of",
+        "be the boss of",
+        "preside over",
+        "be in authority over",
+        "hold sway over"
+      ]
+    },
+    {
+      "description": "Be in a strong enough position to have or secure (something)",
+      "examples": [
+        "no party commanded a majority",
+        "a moral force that commanded respect"
+      ],
+      "synonyms": [
+        "receive",
+        "be given",
+        "get",
+        "gain",
+        "obtain",
+        "secure"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An authoritative order.",
+      "examples": [
+        "it's unlikely they'll obey your commands"
+      ],
+      "synonyms": [
+        "order",
+        "instruction",
+        "directive",
+        "direction",
+        "commandment",
+        "injunction",
+        "demand",
+        "stipulation",
+        "requirement",
+        "exhortation",
+        "bidding",
+        "request"
+      ]
+    }
+  ],
+  "phrases": [
+    "he had at his command a vast number of ready-made phrases",
+    "The nobility and the church fought back hard with all the power at their command.",
+    "So with all the creative energy at our command, let us begin an era of national renewal.",
+    "Our kids have incredible toys at their command that allow them to experience everything but the real thing.",
+    "They go on deploying the vast propaganda and other resources at their command until they finally impose their will."
+  ],
+  "origin": "Middle English: from Old French comander to command, from late Latin commandare, from com- (expressing intensive force) + mandare commit, command. Compare with commend.",
+  "pronounciation": "/kəˈmænd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/command_us_1.mp3"
+}

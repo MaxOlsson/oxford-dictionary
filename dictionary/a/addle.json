@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Make unable to think clearly; confuse.",
+      "examples": [
+        "being in love must have addled your brain"
+      ],
+      "synonyms": [
+        "muddled",
+        "confused",
+        "fuddled",
+        "befuddled",
+        "bewildered",
+        "dazed",
+        "dizzy",
+        "disoriented",
+        "disorientated",
+        "stupefied",
+        "unbalanced",
+        "unhinged",
+        "demented",
+        "deranged"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of an egg) rotten.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in addle (sense 2 of the adjective)): from Old English adela liquid filth, of Germanic origin; related to Dutch aal and German Adel mire, puddle.",
+  "pronounciation": "/ˈædl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/addle_us_1.mp3"
+}

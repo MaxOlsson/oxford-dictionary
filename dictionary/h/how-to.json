@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Providing detailed and practical advice.",
+      "examples": [
+        "read a how-to book"
+      ],
+      "synonyms": [
+        "empirical",
+        "hands-on",
+        "pragmatic",
+        "real",
+        "actual",
+        "active",
+        "applied",
+        "experiential",
+        "experimental",
+        "non-theoretical",
+        "in the field"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A book, video, or training session that provides practical advice.",
+      "examples": [],
+      "synonyms": [
+        "hint",
+        "suggestion",
+        "piece of advice",
+        "word",
+        "word of advice",
+        "pointer",
+        "cue",
+        "clue",
+        "guideline",
+        "recommendation",
+        "maxim"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhouˌto͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/how_to_1_us_1.mp3"
+}

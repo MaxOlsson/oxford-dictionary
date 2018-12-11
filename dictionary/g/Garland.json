@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A wreath of flowers and leaves, worn on the head or hung as a decoration.",
+      "examples": [],
+      "synonyms": [
+        "festoon",
+        "lei",
+        "wreath",
+        "chain",
+        "loop",
+        "ring",
+        "circle",
+        "swathe",
+        "swag"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Adorn or crown with a garland.",
+      "examples": [
+        "they were garlanded with flowers"
+      ],
+      "synonyms": [
+        "festoon",
+        "wreathe",
+        "swathe",
+        "hang",
+        "loop",
+        "thread",
+        "drape",
+        "cover"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A city in northeastern Texas, northeast of Dallas; population 218,577 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French garlande, of unknown origin.",
+  "pronounciation": "/ˈɡɑrlənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/garland_us_1.mp3"
+}

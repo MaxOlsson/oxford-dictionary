@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not having or showing skill.",
+      "examples": [
+        "though kind and willing, she was unskillful"
+      ],
+      "synonyms": [
+        "inexpert",
+        "incompetent",
+        "inept",
+        "unskilled",
+        "clumsy",
+        "awkward",
+        "maladroit",
+        "unhandy",
+        "amateur",
+        "amateurish",
+        "unprofessional",
+        "inexperienced",
+        "untrained",
+        "unpractised",
+        "crude",
+        "rude",
+        "unsophisticated",
+        "gauche",
+        "fumbling",
+        "bungling",
+        "blundering",
+        "botching"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈskilfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unskillful_us_1.mp3"
+}

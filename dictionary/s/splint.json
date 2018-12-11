@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A strip of rigid material used for supporting and immobilizing a broken bone when it has been set.",
+      "examples": [
+        "she had to wear splints on her legs"
+      ]
+    },
+    {
+      "description": "A long, thin strip of wood used to light a fire.",
+      "examples": []
+    },
+    {
+      "description": "A bony enlargement on the inside of a horse's leg, on the splint bone.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Secure (a broken limb) with a splint or splints.",
+      "examples": [
+        "his leg was splinted"
+      ]
+    }
+  ],
+  "origin": "Middle English (in splint (sense 2 of the noun); also denoting a section of armour): from Middle Dutch, Middle Low German splinte metal plate or pin; related to splinter.",
+  "pronounciation": "/splint/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splint_us_1.mp3"
+}

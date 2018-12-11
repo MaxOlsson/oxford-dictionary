@@ -1,0 +1,176 @@
+{
+  "adjective": [
+    {
+      "description": "Not decorated or elaborate; simple or ordinary in character.",
+      "examples": [
+        "good plain food",
+        "everyone dined at a plain wooden table"
+      ],
+      "synonyms": [
+        "simple",
+        "ordinary",
+        "unadorned",
+        "undecorated",
+        "unembellished",
+        "unornamented",
+        "unpretentious",
+        "unostentatious",
+        "unfussy",
+        "homely",
+        "homespun",
+        "basic",
+        "modest",
+        "unsophisticated",
+        "penny plain",
+        "without frills"
+      ]
+    },
+    {
+      "description": "(of a person) having no pretensions; not remarkable or special.",
+      "examples": [
+        "a plain, honest man with no nonsense about him"
+      ],
+      "synonyms": [
+        "straightforward",
+        "unpretentious",
+        "simple",
+        "ordinary",
+        "average",
+        "unassuming",
+        "unaffected",
+        "honest-to-goodness",
+        "ingenuous",
+        "artless",
+        "guileless",
+        "sincere"
+      ]
+    },
+    {
+      "description": "Easy to perceive or understand; clear.",
+      "examples": [
+        "the advantages were plain to see",
+        "it was plain that something was very wrong"
+      ],
+      "synonyms": [
+        "obvious",
+        "clear",
+        "crystal clear",
+        "as clear as crystal",
+        "evident",
+        "apparent",
+        "manifest",
+        "patent",
+        "visible",
+        "discernible",
+        "perceptible",
+        "perceivable",
+        "noticeable",
+        "detectable",
+        "recognizable",
+        "observable",
+        "unmistakable",
+        "transparent",
+        "palpable",
+        "distinct",
+        "pronounced",
+        "marked",
+        "striking",
+        "conspicuous",
+        "overt",
+        "self-evident",
+        "indisputable"
+      ]
+    },
+    {
+      "description": "(of a person) not beautiful or attractive.",
+      "examples": [
+        "the dark-haired, rather plain woman"
+      ],
+      "synonyms": [
+        "unattractive",
+        "unprepossessing",
+        "as plain as a pikestaff",
+        "ugly",
+        "ill-favoured",
+        "unlovely",
+        "ordinary-looking"
+      ]
+    },
+    {
+      "description": "Sheer; simple (used for emphasis)",
+      "examples": [
+        "the main problem is just plain exhaustion"
+      ],
+      "synonyms": [
+        "sheer",
+        "pure",
+        "downright",
+        "out-and-out",
+        "unmitigated",
+        "rank",
+        "nothing other than"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a type of knitting stitch produced by putting the needle through the front of each stitch from left to right.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Clearly; unequivocally (used for emphasis)",
+      "examples": [
+        "perhaps the youth was just plain stupid"
+      ],
+      "synonyms": [
+        "downright",
+        "utterly",
+        "absolutely",
+        "completely",
+        "totally",
+        "really",
+        "thoroughly",
+        "positively",
+        "profoundly",
+        "categorically",
+        "simply",
+        "incontrovertibly",
+        "unquestionably",
+        "undeniably"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A large area of flat land with few trees.",
+      "examples": [],
+      "synonyms": [
+        "grassland",
+        "flatland",
+        "lowland",
+        "pasture",
+        "meadowland",
+        "open country",
+        "prairie",
+        "savannah",
+        "steppe"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mourn or lament.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "He explained why he chose him: That was a decision I felt had to be made as plain as the nose on my face - and that's fairly apparent.",
+    "After eliminating the impossibilities, the master of deduction explained, he had been left with one simple irrevocable conclusion, as plain as the nose on one's face.",
+    "The state of your health is literally as plain as the nose on your face, according to such ancient healing systems as Ayurveda and traditional Chinese medicine.",
+    "She was lying and both of them knew it as plain as the nose on her face.",
+    "The linkage between political and paramilitary unionism is as plain as the nose on your face, but not enough, it seems, to inspire an Irish Times editorial entitled DUP / Ulster Resistance."
+  ],
+  "origin": "Middle English: from Old French plaindre, from Latin plangere to lament.",
+  "pronounciation": "/pleɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plain_us_1.mp3"
+}

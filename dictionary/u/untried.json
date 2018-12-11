@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Not yet tested to discover quality or reliability; inexperienced.",
+      "examples": [
+        "he chose two untried actors for leading roles"
+      ],
+      "synonyms": [
+        "inexpert",
+        "unpractised",
+        "lacking experience",
+        "untrained",
+        "untutored",
+        "unschooled",
+        "unqualified",
+        "unskilled",
+        "amateur",
+        "uninitiated"
+      ]
+    },
+    {
+      "description": "(of an accused person) not yet subjected to a trial in court.",
+      "examples": [],
+      "synonyms": [
+        "untested",
+        "unestablished",
+        "new"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtrīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untried_us_1.mp3"
+}

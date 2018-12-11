@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Make a series of short explosive spitting or choking sounds.",
+      "examples": [
+        "she coughed and spluttered, tears coursing down her face"
+      ],
+      "synonyms": [
+        "jabber",
+        "babble",
+        "prattle",
+        "rattle",
+        "blabber",
+        "gibber",
+        "cackle",
+        "blab",
+        "drivel",
+        "twitter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short explosive spitting or choking noise.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: imitative; compare with sputter.",
+  "pronounciation": "/ˈsplədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splutter_us_1.mp3"
+}

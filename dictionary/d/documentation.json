@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "Material that provides official information or evidence or that serves as a record.",
+      "examples": [
+        "you will have to complete the relevant documentation"
+      ],
+      "synonyms": [
+        "official paper",
+        "legal paper",
+        "paper",
+        "form",
+        "certificate",
+        "deed",
+        "charter",
+        "contract",
+        "legal agreement"
+      ]
+    },
+    {
+      "description": "The process of classifying and annotating texts, photographs, etc.",
+      "examples": [
+        "she arranged the collection and documentation of photographs"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdɑkjəmənˈteɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/documentation_us_1.mp3"
+}

@@ -1,0 +1,127 @@
+{
+  "adjective": [
+    {
+      "description": "Showing gentleness and concern or sympathy.",
+      "examples": [
+        "he was being so kind and tender"
+      ],
+      "synonyms": [
+        "caring",
+        "kind",
+        "kindly",
+        "kind-hearted",
+        "soft-hearted",
+        "tender-hearted",
+        "compassionate",
+        "sympathetic",
+        "warm",
+        "warm-hearted",
+        "feeling",
+        "fatherly",
+        "motherly",
+        "maternal",
+        "gentle",
+        "mild",
+        "benevolent",
+        "generous",
+        "giving",
+        "humane"
+      ]
+    },
+    {
+      "description": "(of food) easy to cut or chew; not tough.",
+      "examples": [
+        "tender green beans"
+      ],
+      "synonyms": [
+        "easily chewed",
+        "not tough",
+        "chewable",
+        "soft",
+        "edible",
+        "eatable"
+      ]
+    },
+    {
+      "description": "(of a part of the body) sensitive to pain.",
+      "examples": [
+        "the pale, tender skin of her forearm"
+      ],
+      "synonyms": [
+        "sore",
+        "painful",
+        "sensitive",
+        "inflamed",
+        "raw",
+        "red",
+        "chafed"
+      ]
+    },
+    {
+      "description": "Young, immature, and vulnerable.",
+      "examples": [
+        "at the tender age of five"
+      ],
+      "synonyms": [
+        "young",
+        "youthful"
+      ]
+    },
+    {
+      "description": "(of a ship) leaning or readily inclined to roll in response to the wind.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Offer or present (something) formally.",
+      "examples": [
+        "he tendered his resignation as leader"
+      ],
+      "synonyms": [
+        "offer",
+        "proffer",
+        "present",
+        "put forward",
+        "propose",
+        "suggest",
+        "advance",
+        "submit",
+        "set before someone",
+        "extend",
+        "give",
+        "render"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An offer to carry out work, supply goods, or buy land, shares, or another asset at a stated fixed price.",
+      "examples": [],
+      "synonyms": [
+        "bid",
+        "offer",
+        "quotation",
+        "quote",
+        "estimate",
+        "estimated price",
+        "price"
+      ]
+    }
+  ],
+  "phrases": [
+    "they have abandoned their children to the tender mercies of the social services",
+    "Unlike filmstars, crime victims have not submitted themselves to the tender mercies of the press and forfeited any right to privacy.",
+    "The children will now be entrusted to the tender mercies of their distant cousin.",
+    "They were now facing a very uncertain future, consigned to the tender mercies of a new and hostile regime.",
+    "My dad and I left him to the tender mercies of his mother and went inside.",
+    "The contract for construction of the school was put out to tender, in accordance with the tendering procedures.",
+    "The buildings were put out to tender last November.",
+    "The usual process of putting contracts out to tender has been brushed aside.",
+    "They have held the contract for the last 20 years, repeatedly winning when it is put out to tender every three or four years.",
+    "The department put a contract out to tender for the supply of newspapers."
+  ],
+  "origin": "Late Middle English (in the sense attendant, nurse): from tend or shortening of attender (see attend).",
+  "pronounciation": "/ˈtendər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tender_us_1.mp3"
+}

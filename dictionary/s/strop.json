@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A device, typically a strip of leather, for sharpening straight razors.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sharpen on or with a strop.",
+      "examples": [
+        "he stropped a knife razor-sharp on his belt"
+      ],
+      "synonyms": [
+        "sharpen",
+        "whet",
+        "make sharp",
+        "make sharper",
+        "hone",
+        "file"
+      ]
+    }
+  ],
+  "origin": "1970s: probably a back-formation from stroppy.",
+  "pronounciation": "/sträp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strop_us_1.mp3"
+}

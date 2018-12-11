@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A battery-operated portable light.",
+      "examples": [],
+      "synonyms": [
+        "lamp",
+        "torch"
+      ]
+    },
+    {
+      "description": "A flashing light used for signals and in lighthouses.",
+      "examples": [],
+      "synonyms": [
+        "distress signal",
+        "rocket",
+        "very light",
+        "beacon",
+        "light",
+        "signal"
+      ]
+    },
+    {
+      "description": "A light giving an intense flash, used for photographing at night or indoors.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈflaSHˌlīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flashlight_us_1.mp3"
+}

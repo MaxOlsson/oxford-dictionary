@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Having few trees.",
+      "examples": [],
+      "synonyms": [
+        "bare",
+        "exposed",
+        "desolate",
+        "stark",
+        "arid",
+        "desert",
+        "denuded",
+        "lunar",
+        "open",
+        "empty",
+        "windswept"
+      ]
+    },
+    {
+      "description": "(of a wine) not having been stored in a wooden cask.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈwʊdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unwooded_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Not highly intellectual or cultured.",
+      "examples": [
+        "lowbrow tabloids"
+      ],
+      "synonyms": [
+        "mass-market",
+        "tabloid",
+        "pop",
+        "popular",
+        "intellectually undemanding",
+        "lightweight",
+        "easy to understand",
+        "accessible",
+        "unpretentious",
+        "simple",
+        "simplistic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A lowbrow person.",
+      "examples": [],
+      "synonyms": [
+        "lowbrow",
+        "anti-intellectual",
+        "materialist",
+        "bourgeois"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈloʊˌbraʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lowbrow_us_1.mp3"
+}

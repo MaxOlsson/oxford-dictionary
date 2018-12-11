@@ -1,0 +1,77 @@
+{
+  "noun": [
+    {
+      "description": "An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.",
+      "examples": [
+        "team sports such as baseball and soccer",
+        "a sports center"
+      ],
+      "synonyms": [
+        "game(s)",
+        "competitive games",
+        "physical recreation",
+        "physical activity",
+        "physical exercise"
+      ]
+    },
+    {
+      "description": "A person who behaves in a good or specified way in response to teasing, defeat, or a similarly trying situation.",
+      "examples": [
+        "go on, be a sport!",
+        "Angela's a bad sport"
+      ]
+    },
+    {
+      "description": "An animal or plant showing abnormal or striking variation from the parent type, especially in form or color, as a result of spontaneous mutation.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wear or display (a distinctive or noticeable item)",
+      "examples": [
+        "he was sporting a huge handlebar mustache"
+      ],
+      "synonyms": [
+        "wear",
+        "display",
+        "exhibit",
+        "have on show",
+        "show off",
+        "flourish",
+        "parade",
+        "flaunt"
+      ]
+    },
+    {
+      "description": "Amuse oneself or play in a lively, energetic way.",
+      "examples": [
+        "the children sported in the water"
+      ],
+      "synonyms": [
+        "play",
+        "have fun",
+        "amuse oneself",
+        "entertain oneself",
+        "enjoy oneself",
+        "divert oneself",
+        "frolic",
+        "gambol",
+        "frisk",
+        "romp",
+        "cavort",
+        "caper"
+      ]
+    }
+  ],
+  "phrases": [
+    "I have assumed the name was given more or less in sport",
+    "You're, you know, you're taking the national sport and making sport of it.",
+    "And I realize that I have been made sport of by an awful lot of folks, particularly the late-night comedians.",
+    "He knows how to humiliate people, find their weaknesses and make sport of them.",
+    "She averted her eyes, thinking she was being made sport of."
+  ],
+  "origin": "Late Middle English (in the sense pastime, entertainment): shortening of disport.",
+  "pronounciation": "/spɔrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sport_us_1.mp3"
+}

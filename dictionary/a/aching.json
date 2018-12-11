@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Sore; throbbing with pain.",
+      "examples": [
+        "the cool air was a relief to my aching head"
+      ],
+      "synonyms": [
+        "painful",
+        "achy",
+        "sore",
+        "stiff",
+        "hurt",
+        "tender",
+        "uncomfortable",
+        "troublesome"
+      ]
+    },
+    {
+      "description": "Feeling intense or wistful sadness; sorrowful.",
+      "examples": [
+        "an aching feeling of nostalgia"
+      ],
+      "synonyms": [
+        "sorrowful",
+        "sad",
+        "mournful",
+        "miserable",
+        "upset",
+        "distressed",
+        "anguished",
+        "heavy with grief",
+        "grief-stricken",
+        "wretched",
+        "heavy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈākiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aching_us_1.mp3"
+}

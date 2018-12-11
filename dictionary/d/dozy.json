@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Drowsy and lazy.",
+      "examples": [
+        "he grew dozy at the end of a long day"
+      ],
+      "synonyms": [
+        "drowsy",
+        "sleepy",
+        "half asleep",
+        "heavy-eyed",
+        "somnolent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdoʊzi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dozy_us_1.mp3"
+}

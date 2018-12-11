@@ -1,0 +1,44 @@
+{
+  "adverb": [
+    {
+      "description": "In or to what place or position.",
+      "examples": [
+        "where do you live?",
+        "where do you come from?",
+        "where is she going?"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "At, in, or to which (used after reference to a place or situation)",
+      "examples": [
+        "I first saw him in Paris, where I lived in the early sixties"
+      ]
+    },
+    {
+      "description": "The place or situation in which.",
+      "examples": [
+        "this is where I live"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "That.",
+      "examples": [
+        "do you see where the men in your life are emotionally unavailable to you?",
+        "I see where the hotel has changed hands again"
+      ]
+    },
+    {
+      "description": "Whereas.",
+      "examples": [
+        "where some caregivers burn out, others become too involved"
+      ]
+    }
+  ],
+  "origin": "Old English hwǣr, of Germanic origin; related to Dutch waar and German wo.",
+  "pronounciation": "/(h)wɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/where_us_1.mp3"
+}

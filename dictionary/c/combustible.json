@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Able to catch fire and burn easily.",
+      "examples": [
+        "highly combustible paint thinner"
+      ],
+      "synonyms": [
+        "inflammable",
+        "flammable",
+        "incendiary",
+        "explosive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A combustible substance.",
+      "examples": [],
+      "synonyms": [
+        "power source",
+        "heat source",
+        "combustible",
+        "propellant"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Old French, from late Latin combustibilis, from Latin combust- burnt up, from the verb comburere.",
+  "pronounciation": "/kəmˈbəstəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/combustible_us_1.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "": [
+    {
+      "description": "Euro or euros.",
+      "examples": []
+    },
+    {
+      "description": "An electron.",
+      "examples": []
+    },
+    {
+      "description": "The transcendental number that is the base of Napierian or natural logarithms, approximately equal to 2.71828.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The fifth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital E.",
+      "examples": [
+        "an E-shaped stately home"
+      ]
+    },
+    {
+      "description": "The third note of the diatonic scale of C major.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Earth.",
+      "examples": []
+    },
+    {
+      "description": "East or Eastern.",
+      "examples": [
+        "139° E"
+      ]
+    },
+    {
+      "description": "Easter.",
+      "examples": []
+    },
+    {
+      "description": "The drug Ecstasy or a tablet of Ecstasy.",
+      "examples": []
+    },
+    {
+      "description": "Engineer or engineering.",
+      "examples": []
+    },
+    {
+      "description": "English.",
+      "examples": []
+    },
+    {
+      "description": "Electronic.",
+      "examples": [
+        "E-commerce"
+      ]
+    }
+  ],
+  "pronounciation": "/ē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/e_1_us_3.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Make or cause to make a sharp sound or series of such sounds as a result of a hard object striking another.",
+      "examples": [
+        "he heard the sound of her heels clacking across flagstones",
+        "he clacked the castanets in fine syncopation"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sharp sound or series of sounds.",
+      "examples": [
+        "the clack of her high heels"
+      ],
+      "synonyms": [
+        "pitter-patter",
+        "tapping",
+        "pattering",
+        "drumming",
+        "drumbeat",
+        "clatter",
+        "beat",
+        "beating",
+        "tattoo",
+        "pounding",
+        "throb",
+        "pulsation",
+        "rat-a-tat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "clacketing",
+        "thrum",
+        "thrumming"
+      ]
+    }
+  ],
+  "origin": "Middle English: imitative.",
+  "pronounciation": "/klæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clack_us_1.mp3"
+}

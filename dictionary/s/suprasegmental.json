@@ -1,0 +1,16 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a feature of an utterance other than the consonantal and vocalic components, e.g., (in English) stress and intonation.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Such a feature.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌsuprəˌsɛɡˈmɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suprasegmental_us_1.mp3"
+}

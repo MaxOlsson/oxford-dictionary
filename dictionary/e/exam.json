@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "examples": [
+        "he was likely to fail his exams again",
+        "exam results"
+      ],
+      "synonyms": [
+        "test",
+        "examination",
+        "paper",
+        "question paper",
+        "oral",
+        "practical",
+        "assessment"
+      ]
+    },
+    {
+      "description": "A medical test of a specified kind.",
+      "examples": [
+        "routine eye exams"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪɡˈzæm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exam_us_1.mp3"
+}

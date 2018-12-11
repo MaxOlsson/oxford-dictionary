@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Belonging to a foreign country or nation.",
+      "examples": [],
+      "synonyms": [
+        "foreign",
+        "overseas",
+        "non-native",
+        "external",
+        "distant",
+        "remote"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A foreigner, especially one who is not a naturalized citizen of the country where they are living.",
+      "examples": [
+        "an illegal alien"
+      ],
+      "synonyms": [
+        "foreigner",
+        "foreign national",
+        "non-native",
+        "immigrant",
+        "emigrant",
+        "émigré",
+        "incomer",
+        "newcomer",
+        "visitor",
+        "outsider",
+        "stranger"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin alienus belonging to another, from alius other.",
+  "pronounciation": "/ˈeɪliən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alien_us_1_rr.mp3"
+}

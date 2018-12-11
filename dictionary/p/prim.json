@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Stiffly formal and respectable; feeling or showing disapproval of anything regarded as improper.",
+      "examples": [
+        "a very prim and proper lady"
+      ],
+      "synonyms": [
+        "demure",
+        "proper",
+        "prim and proper",
+        "formal",
+        "stuffy",
+        "strait-laced",
+        "prudish"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Purse (the mouth or lips) into a prim expression.",
+      "examples": [
+        "Larry primmed up his mouth"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (as a verb): probably ultimately from Old French prin, Provençal prim excellent, delicate, from Latin primus first.",
+  "pronounciation": "/prim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prim_1_us_1.mp3"
+}

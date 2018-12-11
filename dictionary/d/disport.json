@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Enjoy oneself unrestrainedly; frolic.",
+      "examples": [
+        "a painting of lords and ladies disporting themselves by a lake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Diversion from work or serious matters; recreation or amusement.",
+      "examples": [
+        "the King and all his Court were met for solace and disport"
+      ],
+      "synonyms": [
+        "pleasure",
+        "leisure",
+        "relaxation",
+        "fun",
+        "enjoyment",
+        "entertainment",
+        "amusement",
+        "refreshment",
+        "restoration",
+        "distraction",
+        "diversion"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French desporter, from des- away + porter carry (from Latin portare).",
+  "pronounciation": "/dəˈspôrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disport_us_1.mp3"
+}

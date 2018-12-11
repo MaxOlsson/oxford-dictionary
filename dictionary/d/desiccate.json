@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Remove the moisture from (something, especially food), typically in order to preserve it.",
+      "examples": [
+        "desiccated coconut"
+      ],
+      "synonyms": [
+        "dried",
+        "dried up",
+        "dry",
+        "dehydrated",
+        "powdered"
+      ]
+    },
+    {
+      "description": "Lacking interest, passion, or energy.",
+      "examples": [
+        "a desiccated history of ideas"
+      ],
+      "synonyms": [
+        "dull",
+        "boring",
+        "lacking in vitality",
+        "spiritless",
+        "lifeless",
+        "soulless",
+        "wooden",
+        "dry",
+        "desiccated",
+        "flat",
+        "uninspired",
+        "unimpassioned",
+        "insipid",
+        "lacklustre",
+        "colourless",
+        "anaemic",
+        "bloodless",
+        "vapid"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin desiccat- made thoroughly dry, from the verb desiccare.",
+  "pronounciation": "/ˈdɛsəˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/desiccate_us_1.mp3"
+}

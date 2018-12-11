@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Having a pleasant and distinctive smell.",
+      "examples": [
+        "a massage with aromatic oils"
+      ],
+      "synonyms": [
+        "fragrant",
+        "scented",
+        "sweet-scented",
+        "sweet-smelling",
+        "perfumed",
+        "fragranced",
+        "odoriferous"
+      ]
+    },
+    {
+      "description": "(of an organic compound) containing a planar unsaturated ring of atoms that is stabilized by an interaction of the bonds forming the ring. Such compounds are typified by benzene and its derivatives.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance or plant emitting a pleasant and distinctive smell.",
+      "examples": []
+    },
+    {
+      "description": "An aromatic compound.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin aromaticus, from Greek arōmatikos, from arōma (see aroma).",
+  "pronounciation": "/ˌerəˈmadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aromatic_us_1.mp3"
+}

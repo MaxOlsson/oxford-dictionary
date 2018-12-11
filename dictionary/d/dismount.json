@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Alight from a horse, bicycle, or other thing that one is riding.",
+      "examples": [],
+      "synonyms": [
+        "alight",
+        "get off",
+        "get down"
+      ]
+    },
+    {
+      "description": "Remove (something) from its support.",
+      "examples": [
+        "we have to dismount the pump"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A move in which a gymnast jumps off an apparatus or completes a floor exercise.",
+      "examples": [
+        "on the uneven bars the women go for ever more complex dismounts"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from dis- + mount, probably on the pattern of Old French desmonter, medieval Latin dismontare.",
+  "pronounciation": "/disˈmount/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dismount_us_1.mp3"
+}

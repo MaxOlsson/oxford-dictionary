@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Cause (someone) to lose confidence or hope; dispirit.",
+      "examples": [
+        "their rejection of the treaty has demoralized the diplomatic community"
+      ],
+      "synonyms": [
+        "dispirited",
+        "disheartened",
+        "downhearted",
+        "dejected",
+        "cast down",
+        "downcast",
+        "low",
+        "depressed",
+        "despairing"
+      ]
+    },
+    {
+      "description": "Corrupt the morals of (someone).",
+      "examples": [],
+      "synonyms": [
+        "corrupt",
+        "deprave",
+        "warp",
+        "pervert",
+        "subvert",
+        "lead astray",
+        "make degenerate",
+        "ruin"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French démoraliser (a word of the French Revolution), from dé- (expressing reversal) + moral moral, from Latin moralis.",
+  "pronounciation": "/dəˈmɔrəˌlaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demoralize_us_1.mp3"
+}

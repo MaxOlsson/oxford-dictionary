@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Of great size, amount, or intensity.",
+      "examples": [
+        "there was a terrific bang"
+      ],
+      "synonyms": [
+        "tremendous",
+        "huge",
+        "massive",
+        "gigantic",
+        "colossal",
+        "mighty",
+        "great",
+        "very great",
+        "very big",
+        "prodigious",
+        "formidable",
+        "sizeable",
+        "considerable"
+      ]
+    },
+    {
+      "description": "Causing terror.",
+      "examples": [],
+      "synonyms": [
+        "dreadful",
+        "terrible",
+        "appalling",
+        "awful",
+        "horrific",
+        "horrible",
+        "horrendous",
+        "horrifying",
+        "hideous",
+        "grim",
+        "ghastly",
+        "gruesome",
+        "frightful",
+        "fearful"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in terrific (sense 2)): from Latin terrificus, from terrere frighten.",
+  "pronounciation": "/təˈrifik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terrific_us_1.mp3"
+}

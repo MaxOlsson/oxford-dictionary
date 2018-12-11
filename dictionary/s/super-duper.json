@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Very good; marvelous.",
+      "examples": [
+        "this new line of toys is super-duper"
+      ],
+      "synonyms": [
+        "excellent",
+        "marvellous",
+        "superb",
+        "very good",
+        "first-rate",
+        "first-class",
+        "wonderful",
+        "outstanding",
+        "exceptional",
+        "magnificent",
+        "splendid",
+        "superlative",
+        "matchless",
+        "peerless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsupərˈdupər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/super_duper_1_us_1.mp3"
+}

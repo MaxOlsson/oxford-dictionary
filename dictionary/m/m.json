@@ -1,0 +1,116 @@
+{
+  "abbreviation": [
+    {
+      "description": "Mare.",
+      "examples": []
+    },
+    {
+      "description": "Married.",
+      "examples": [
+        "m twice; two d"
+      ]
+    },
+    {
+      "description": "Masculine.",
+      "examples": []
+    },
+    {
+      "description": "Meta-",
+      "examples": [
+        "m-xylene"
+      ]
+    },
+    {
+      "description": "Meter(s).",
+      "examples": []
+    },
+    {
+      "description": "Mile(s).",
+      "examples": []
+    },
+    {
+      "description": "(in units of measurement) milli-",
+      "examples": [
+        "100 mA"
+      ]
+    },
+    {
+      "description": "Million(s)",
+      "examples": [
+        "$5 m"
+      ]
+    },
+    {
+      "description": "Minute(s).",
+      "examples": []
+    },
+    {
+      "description": "(in Germany) mark; marks.",
+      "examples": []
+    },
+    {
+      "description": "Middle.",
+      "examples": []
+    },
+    {
+      "description": "(in prescriptions) mix.",
+      "examples": []
+    },
+    {
+      "description": "Modification of.",
+      "examples": []
+    },
+    {
+      "description": "Modulus.",
+      "examples": []
+    },
+    {
+      "description": "Molar.",
+      "examples": []
+    },
+    {
+      "description": "Month.",
+      "examples": []
+    },
+    {
+      "description": "Moon.",
+      "examples": []
+    },
+    {
+      "description": "Morning.",
+      "examples": []
+    },
+    {
+      "description": "Mouth.",
+      "examples": []
+    },
+    {
+      "description": "Noon.",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "Mass.",
+      "examples": [
+        "E = mc²"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The thirteenth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "The Roman numeral for 1,000.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital M.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ɛm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/m_us_1.mp3"
+}

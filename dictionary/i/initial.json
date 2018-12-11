@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or occurring at the beginning.",
+      "examples": [
+        "our initial impression was favorable"
+      ],
+      "synonyms": [
+        "beginning",
+        "opening",
+        "commencing",
+        "starting",
+        "inceptive",
+        "embryonic",
+        "fledgling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The first letter of a name or word, typically a person's name or a word forming part of a phrase.",
+      "examples": [
+        "they carved their initials into the tree trunk"
+      ],
+      "synonyms": [
+        "initial letter",
+        "beginning letter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark or sign (a document) with one's initials in order to authorize or validate it.",
+      "examples": [],
+      "synonyms": [
+        "put one's initials on",
+        "sign",
+        "countersign",
+        "autograph",
+        "endorse",
+        "put one's mark on",
+        "inscribe",
+        "superscribe",
+        "witness"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin initialis, from initium beginning, from inire go in, from in- into + ire go.",
+  "pronounciation": "/ɪˈnɪʃəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/initial_us_1.mp3"
+}

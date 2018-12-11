@@ -1,0 +1,57 @@
+{
+  "adverb": [
+    {
+      "description": "At what time.",
+      "examples": [
+        "when did you last see him?",
+        "since when have you been interested?"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "At or on which (referring to a time or circumstance)",
+      "examples": [
+        "Saturday is the day when I get my hair done"
+      ],
+      "synonyms": [
+        "as soon as",
+        "the moment",
+        "the instant",
+        "the second",
+        "once",
+        "when",
+        "immediately after"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "At or during the time that.",
+      "examples": [
+        "I loved math when I was in school"
+      ]
+    },
+    {
+      "description": "After which; and just then (implying suddenness)",
+      "examples": [
+        "he had just drifted off to sleep when the phone rang"
+      ]
+    },
+    {
+      "description": "In view of the fact that; considering that.",
+      "examples": [
+        "why bother to paint it when you can photograph it with the same effect?"
+      ]
+    },
+    {
+      "description": "Although; whereas.",
+      "examples": [
+        "I'm saying it now when I should have told you long ago"
+      ]
+    }
+  ],
+  "origin": "Old English hwanne, hwenne; of Germanic origin; related to German wenn if, wann when.",
+  "pronounciation": "/(h)wɛn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/when_us_1.mp3"
+}

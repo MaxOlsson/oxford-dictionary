@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A small, flat, thin piece of something, typically one that has broken away or been peeled off from a larger piece.",
+      "examples": [
+        "paint peeling off the walls in unsightly flakes",
+        "flakes of pastry"
+      ],
+      "synonyms": [
+        "sliver",
+        "wafer",
+        "shaving",
+        "paring",
+        "peeling"
+      ]
+    },
+    {
+      "description": "A crazy or eccentric person.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Come or fall away from a surface in thin pieces.",
+      "examples": [
+        "the paint had been flaking off for years"
+      ],
+      "synonyms": [
+        "peel off",
+        "peel",
+        "chip",
+        "scale off",
+        "blister",
+        "come off",
+        "come off in layers"
+      ]
+    },
+    {
+      "description": "Break or divide (food) into thin pieces.",
+      "examples": [
+        "flake the fish"
+      ]
+    },
+    {
+      "description": "Fail to keep an appointment or other obligation, especially with little notice or for reasons perceived as selfish.",
+      "examples": [
+        "he flakes out on plans last minute",
+        "a real friend won't ever flake on you",
+        "twice, you had plans, and both times you flaked"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as a noun): of unknown origin; compare with German Flechte in the same sense.",
+  "pronounciation": "/flāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flake_us_1.mp3"
+}

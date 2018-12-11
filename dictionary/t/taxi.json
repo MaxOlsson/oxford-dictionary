@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "synonyms": [
+        "cab",
+        "taxi cab",
+        "minicab",
+        "hackney cab"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an aircraft) move slowly along the ground before takeoff or after landing.",
+      "examples": [
+        "the plane taxis up to a waiting limousine"
+      ],
+      "synonyms": [
+        "freewheel",
+        "cruise",
+        "drift",
+        "glide",
+        "sail",
+        "float",
+        "skate",
+        "slip",
+        "skim"
+      ]
+    },
+    {
+      "description": "Take a taxi as a means of transport.",
+      "examples": [
+        "I would taxi home and sleep till eight"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: abbreviation of taxicab or taximeter cab (see taximeter).",
+  "pronounciation": "/ˈtaksē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/taxi_us_1.mp3"
+}

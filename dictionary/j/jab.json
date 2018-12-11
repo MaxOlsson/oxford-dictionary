@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Poke (someone or something) roughly or quickly, especially with something sharp or pointed.",
+      "examples": [
+        "she jabbed him in his ribs",
+        "he jabbed at the air with his finger"
+      ],
+      "synonyms": [
+        "poke",
+        "prod",
+        "dig",
+        "nudge",
+        "tap",
+        "butt",
+        "ram",
+        "elbow",
+        "shove",
+        "punch",
+        "jolt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quick, sharp blow, especially with the fist.",
+      "examples": [
+        "fast jabs to the face"
+      ],
+      "synonyms": [
+        "poke",
+        "prod",
+        "dig",
+        "nudge",
+        "tap",
+        "butt",
+        "elbow",
+        "shove",
+        "punch",
+        "jolt"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (originally Scots): variant of job.",
+  "pronounciation": "/jab/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jab_us_1.mp3"
+}

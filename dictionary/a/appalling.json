@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Causing shock or dismay; horrific.",
+      "examples": [
+        "the cat suffered appalling injuries during the attack"
+      ],
+      "synonyms": [
+        "shocking",
+        "horrific",
+        "horrifying",
+        "horrible",
+        "terrible",
+        "awful",
+        "dreadful",
+        "ghastly",
+        "hideous",
+        "horrendous",
+        "frightful",
+        "atrocious",
+        "abominable",
+        "abhorrent",
+        "outrageous",
+        "hateful",
+        "loathsome",
+        "odious",
+        "gruesome",
+        "grisly",
+        "monstrous",
+        "nightmarish",
+        "heinous",
+        "harrowing",
+        "dire",
+        "vile",
+        "shameful",
+        "unspeakable",
+        "unforgivable",
+        "unpardonable"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpɔlɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appalling_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not illuminated.",
+      "examples": [
+        "the unilluminated length of the tunnel"
+      ],
+      "synonyms": [
+        "black",
+        "pitch-black",
+        "pitch-dark",
+        "inky",
+        "jet-black",
+        "unlit",
+        "unlighted",
+        "ill-lit",
+        "poorly lit"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnɪˈluːmɪneɪtɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unilluminated_gb_1_8.mp3"
+}

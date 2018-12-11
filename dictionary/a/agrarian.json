@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to cultivated land or the cultivation of land.",
+      "examples": [
+        "Brazil is rapidly diversifying its agrarian economy"
+      ],
+      "synonyms": [
+        "farm",
+        "farming"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who advocates a redistribution of landed property, especially as part of a social movement.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (originally denoting a Roman law for the division of conquered lands): from Latin agrarius, from ager, agr- field.",
+  "pronounciation": "/əˈɡrɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agrarian_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Eject matter from the stomach through the mouth.",
+      "examples": [
+        "the sickly stench made him want to vomit",
+        "she used to vomit up her food"
+      ],
+      "synonyms": [
+        "be sick",
+        "spew",
+        "spew up",
+        "fetch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Matter vomited from the stomach.",
+      "examples": [],
+      "synonyms": [
+        "sick"
+      ]
+    },
+    {
+      "description": "An emetic.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French vomite (noun) or Latin vomitus, from vomere to vomit.",
+  "pronounciation": "/ˈvɑmət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vomit_us_1.mp3"
+}

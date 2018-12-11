@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A compacted mass or lump of something.",
+      "examples": [
+        "clumps of earth"
+      ],
+      "synonyms": [
+        "lump",
+        "clod",
+        "mass",
+        "gobbet",
+        "wad",
+        "concentration"
+      ]
+    },
+    {
+      "description": "A thick extra sole on a boot or shoe.",
+      "examples": []
+    },
+    {
+      "description": "The sound of heavy footsteps.",
+      "examples": [],
+      "synonyms": [
+        "stamp",
+        "stomp",
+        "stump",
+        "clomp",
+        "tramp",
+        "plod",
+        "trudge",
+        "walk heavily",
+        "lumber",
+        "stumble"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form into a clump or mass.",
+      "examples": [
+        "the particles tend to clump together"
+      ]
+    },
+    {
+      "description": "Walk with a heavy tread.",
+      "examples": [],
+      "synonyms": [
+        "stamp",
+        "stomp",
+        "stump",
+        "clomp",
+        "tramp",
+        "plod",
+        "trudge",
+        "walk heavily",
+        "lumber",
+        "stumble"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a heap or lump): partly imitative, reinforced by Middle Low German klumpe and Middle Dutch klompe; related to club.",
+  "pronounciation": "/kləmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clump_us_1.mp3"
+}

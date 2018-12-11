@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that is incorrect or mistaken.",
+      "examples": [
+        "my name is spelled wrongly",
+        "wrongly interpreted results"
+      ],
+      "synonyms": [
+        "incorrectly",
+        "mistakenly",
+        "by mistake",
+        "erroneously",
+        "in error",
+        "falsely",
+        "fallaciously",
+        "inaccurately",
+        "imprecisely",
+        "inappropriately"
+      ]
+    },
+    {
+      "description": "In an unjust, dishonest, or immoral way.",
+      "examples": [
+        "one who admitted acting wrongly was subsequently fired",
+        "Henry wrongly claimed $39,000 of taxpayers' money"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrɔŋli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wrongly_us_1.mp3"
+}

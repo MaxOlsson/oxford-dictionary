@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Not expected or regarded as likely to happen.",
+      "examples": [
+        "his death was totally unexpected",
+        "he seemed to have a knack for saying the unexpected"
+      ],
+      "synonyms": [
+        "unforeseen",
+        "unanticipated",
+        "unpredicted",
+        "not bargained for",
+        "unlooked for",
+        "unhoped for",
+        "out of the blue",
+        "without warning",
+        "without notice"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəkˈspɛktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unexpected_us_1.mp3"
+}

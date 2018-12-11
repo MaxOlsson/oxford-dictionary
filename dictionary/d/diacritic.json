@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A sign, such as an accent or cedilla, which when written above or below a letter indicates a difference in pronunciation from the same letter when unmarked or differently marked.",
+      "examples": [],
+      "synonyms": [
+        "symbol",
+        "mark",
+        "cipher",
+        "letter",
+        "character",
+        "numeral",
+        "figure",
+        "type",
+        "code",
+        "hieroglyph"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a mark or sign) indicating a difference in pronunciation.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from Greek diakritikos, from diakrinein distinguish, from dia- through + krinein to separate.",
+  "pronounciation": "/ˌdaɪəˈkrɪdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diacritic_us_1.mp3"
+}

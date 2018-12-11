@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Utter (a sound or word)",
+      "examples": [
+        "the child vocalizes a number of distinct sounds",
+        "a warbler vocalized from a reed bed"
+      ],
+      "synonyms": [
+        "vocalized",
+        "voiced",
+        "spoken",
+        "said",
+        "uttered",
+        "expressed",
+        "articulated",
+        "oral",
+        "by mouth"
+      ]
+    },
+    {
+      "description": "Change (a consonant) to a semivowel or vowel.",
+      "examples": []
+    },
+    {
+      "description": "Write (a language such as Hebrew) with vowel points.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈvōkəˌlīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vocalize_us_1.mp3"
+}

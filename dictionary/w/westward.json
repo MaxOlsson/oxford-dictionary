@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Toward the west.",
+      "examples": [
+        "the journey covers eight time zones in a westward direction"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a westerly direction.",
+      "examples": [
+        "the vast prairie lands extending from northern Ohio westward"
+      ],
+      "synonyms": [
+        "to the west",
+        "westward",
+        "westwards",
+        "westwardly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A direction or region toward the west.",
+      "examples": [
+        "he sees a light to the westward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwestwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/westward_us_2.mp3"
+}

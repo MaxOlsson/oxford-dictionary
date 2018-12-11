@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A blunt-ended surgical instrument used for exploring a wound or part of the body.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Physically explore or examine (something) with the hands or an instrument.",
+      "examples": [
+        "researchers probing the digestive glands of mollusks"
+      ],
+      "synonyms": [
+        "examine",
+        "feel",
+        "feel around",
+        "explore",
+        "prod",
+        "poke",
+        "check"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from late Latin proba proof (in medieval Latin examination), from Latin probare to test. The verb dates from the mid 17th century.",
+  "pronounciation": "/prōb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/probe_us_1.mp3"
+}

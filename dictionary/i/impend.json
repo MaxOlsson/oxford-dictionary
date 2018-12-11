@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Be about to happen.",
+      "examples": [
+        "my impending departure"
+      ],
+      "synonyms": [
+        "imminent",
+        "at hand",
+        "close",
+        "close at hand",
+        "near",
+        "nearing",
+        "approaching",
+        "coming",
+        "forthcoming",
+        "upcoming",
+        "to come",
+        "on the way",
+        "about to happen",
+        "upon us",
+        "in store",
+        "in the offing",
+        "in the pipeline",
+        "on the horizon",
+        "in the air",
+        "in the wind",
+        "brewing",
+        "looming",
+        "looming large",
+        "threatening",
+        "menacing"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin impendere, from in- towards, upon + pendere hang.",
+  "pronounciation": "/ɪmˈpɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impend_us_1.mp3"
+}

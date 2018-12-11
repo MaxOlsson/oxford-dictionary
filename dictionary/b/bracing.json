@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Fresh and invigorating.",
+      "examples": [
+        "the bracing sea air"
+      ],
+      "synonyms": [
+        "invigorating",
+        "refreshing",
+        "stimulating",
+        "energizing",
+        "exhilarating",
+        "enlivening",
+        "reviving",
+        "restorative",
+        "rejuvenating",
+        "revitalizing",
+        "vitalizing",
+        "rousing",
+        "fortifying",
+        "strengthening",
+        "healthy",
+        "healthful",
+        "health-giving",
+        "salubrious",
+        "beneficial",
+        "tonic",
+        "salutary"
+      ]
+    },
+    {
+      "description": "(of a support) serving to brace a structure.",
+      "examples": [
+        "bracing struts"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrāsiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bracing_us_1.mp3"
+}

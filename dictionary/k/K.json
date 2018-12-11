@@ -1,0 +1,40 @@
+{
+  "abbreviation": [
+    {
+      "description": "Karat.",
+      "examples": []
+    },
+    {
+      "description": "(in units of measurement) kilo-",
+      "examples": [
+        "a distance of 700 kpc"
+      ]
+    },
+    {
+      "description": "Kopeck(s).",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "A constant in a formula or equation.",
+      "examples": []
+    },
+    {
+      "description": "Boltzmann's constant.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The eleventh letter of the alphabet.",
+      "examples": [],
+      "synonyms": [
+        "thousand dollars",
+        "thousand pounds"
+      ]
+    }
+  ],
+  "pronounciation": "/kā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/k_us_1.mp3"
+}

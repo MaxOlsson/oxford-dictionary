@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Give (someone) something, typically money, in recognition of loss, suffering, or injury incurred; recompense.",
+      "examples": [
+        "payments were made to farmers to compensate them for cuts in subsidies"
+      ],
+      "synonyms": [
+        "recompense",
+        "repay",
+        "pay back",
+        "reimburse",
+        "remunerate",
+        "recoup",
+        "requite",
+        "indemnify"
+      ]
+    },
+    {
+      "description": "Reduce or counteract (something unwelcome or unpleasant) by exerting an opposite force or effect.",
+      "examples": [
+        "the manager is hoping for victory to compensate for the team's dismal league campaign"
+      ],
+      "synonyms": [
+        "make amends",
+        "make up",
+        "make restitution",
+        "make reparation",
+        "make recompense",
+        "recompense",
+        "atone",
+        "requite",
+        "pay"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense counterbalance): from Latin compensat- weighed against, from the verb compensare, from com- together + pensare (frequentative of pendere weigh).",
+  "pronounciation": "/ˈkɑmpənˌseɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compensate_us_1.mp3"
+}

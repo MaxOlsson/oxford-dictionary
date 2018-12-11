@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A problem.",
+      "examples": [
+        "there's no prob"
+      ],
+      "synonyms": [
+        "difficulty",
+        "issue",
+        "trouble",
+        "worry",
+        "complication",
+        "difficult situation",
+        "mess",
+        "muddle",
+        "mix-up"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Probably.",
+      "examples": [
+        "she prob looks lovely without makeup",
+        "they probs had no choice",
+        "Likely? Prob not"
+      ],
+      "synonyms": [
+        "in all likelihood",
+        "in all probability",
+        "as likely as not",
+        "very likely",
+        "most likely",
+        "likely",
+        "as like as not",
+        "ten to one",
+        "the chances are",
+        "doubtless",
+        "no doubt",
+        "all things considered",
+        "taking all things into consideration",
+        "all things being equal",
+        "possibly",
+        "perhaps",
+        "maybe",
+        "it may be",
+        "presumably",
+        "on the face of it",
+        "apparently"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (as prob): originally a standard written abbreviation.",
+  "pronounciation": "/prɑb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prob_us_1.mp3"
+}

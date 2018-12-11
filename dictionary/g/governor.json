@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The elected executive head of a state of the US.",
+      "examples": []
+    },
+    {
+      "description": "The head of a public institution.",
+      "examples": [
+        "the governor of the Bank of England"
+      ],
+      "synonyms": [
+        "administrator",
+        "ruler",
+        "chief",
+        "leader",
+        "principal",
+        "head"
+      ]
+    },
+    {
+      "description": "The person in authority; one's employer.",
+      "examples": [],
+      "synonyms": [
+        "supervisor",
+        "overseer",
+        "superintendent",
+        "manager",
+        "boss",
+        "team leader",
+        "line manager",
+        "controller"
+      ]
+    },
+    {
+      "description": "A device automatically regulating the supply of fuel, steam, or water to a machine, ensuring uniform motion or limiting speed.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French governeour, from Latin gubernator, from gubernare (see govern).",
+  "pronounciation": "/ˈɡəv(ə)nər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/governor_us_1.mp3"
+}

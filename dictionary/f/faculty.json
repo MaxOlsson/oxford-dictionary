@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "An inherent mental or physical power.",
+      "examples": [
+        "her critical faculties"
+      ],
+      "synonyms": [
+        "power",
+        "capability",
+        "capacity",
+        "facility",
+        "potential",
+        "potentiality",
+        "propensity",
+        "wherewithal",
+        "means",
+        "preparedness"
+      ]
+    },
+    {
+      "description": "A group of university departments concerned with a major division of knowledge.",
+      "examples": [
+        "the Faculty of Arts and Sciences"
+      ],
+      "synonyms": [
+        "department",
+        "school",
+        "division",
+        "section"
+      ]
+    },
+    {
+      "description": "A license or authorization from a Church authority.",
+      "examples": [],
+      "synonyms": [
+        "authorization",
+        "authority",
+        "power",
+        "right",
+        "permission",
+        "consent",
+        "leave",
+        "sanction",
+        "licence",
+        "dispensation",
+        "assent",
+        "acquiescence",
+        "agreement",
+        "approval",
+        "seal of approval",
+        "approbation",
+        "endorsement",
+        "imprimatur",
+        "clearance"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French faculte, from Latin facultas, from facilis easy, from facere make, do.",
+  "pronounciation": "/ˈfakəltē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faculty_us_1.mp3"
+}

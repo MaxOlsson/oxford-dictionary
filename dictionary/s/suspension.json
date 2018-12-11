@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "The temporary prevention of something from continuing or being in force or effect.",
+      "examples": [
+        "the suspension of military action"
+      ],
+      "synonyms": [
+        "adjournment",
+        "interruption",
+        "postponement",
+        "delay",
+        "deferral",
+        "deferment",
+        "shelving",
+        "stay",
+        "moratorium",
+        "arrest",
+        "intermission",
+        "interlude",
+        "prorogation",
+        "tabling",
+        "abeyance"
+      ]
+    },
+    {
+      "description": "The system of springs and shock absorbers by which a vehicle is cushioned from road conditions.",
+      "examples": [
+        "the car's rear suspension"
+      ]
+    },
+    {
+      "description": "A mixture in which particles are dispersed throughout the bulk of a fluid.",
+      "examples": [
+        "a suspension of corn starch in peanut oil"
+      ],
+      "synonyms": [
+        "mixture",
+        "mix",
+        "blend",
+        "compound",
+        "tincture",
+        "infusion",
+        "emulsion",
+        "colloid",
+        "gel",
+        "fluid"
+      ]
+    },
+    {
+      "description": "A discord made by prolonging a note of a chord into the following chord.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French, or from Latin suspensio(n-), from the verb suspendere (see suspend).",
+  "pronounciation": "/səˈspɛnʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suspension_us_1.mp3"
+}

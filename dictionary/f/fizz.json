@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) produce bubbles of gas and make a hissing sound.",
+      "examples": [
+        "the mixture fizzed like mad"
+      ],
+      "synonyms": [
+        "effervesce",
+        "sparkle",
+        "bubble",
+        "froth",
+        "foam",
+        "seethe"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Effervescence.",
+      "examples": [
+        "the champagne had lost its fizz"
+      ],
+      "synonyms": [
+        "effervescence",
+        "sparkle",
+        "fizziness",
+        "bubbles",
+        "bubbliness",
+        "gassiness",
+        "carbonation",
+        "aeration"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: imitative.",
+  "pronounciation": "/fɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fizz_us_1.mp3"
+}

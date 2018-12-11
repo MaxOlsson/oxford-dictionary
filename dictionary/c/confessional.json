@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An enclosed stall in a church divided by a screen or curtain in which a priest sits to hear people confess their sins.",
+      "examples": []
+    },
+    {
+      "description": "An admission or acknowledgment that one has done something that one is ashamed or embarrassed about; a confession.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(especially of speech or writing) in which a person reveals or admits to private thoughts or past incidents, especially ones that cause shame or embarrassment.",
+      "examples": [
+        "the autobiography is remarkably confessional",
+        "his confessional outpourings"
+      ]
+    },
+    {
+      "description": "Relating to confessions of faith or doctrinal systems.",
+      "examples": [
+        "the confessional approach to religious education"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): the adjective from confession + -al; the noun via French from Italian confessionale, from medieval Latin, neuter of confessionalis, from Latin confessio(n-), from confiteri acknowledge (see confess).",
+  "pronounciation": "/kənˈfeSH(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfessional_us_1.mp3"
+}

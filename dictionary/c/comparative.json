@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Perceptible by comparison; relative.",
+      "examples": [
+        "he returned to the comparative comfort of his own home"
+      ],
+      "synonyms": [
+        "relative",
+        "qualified",
+        "modified"
+      ]
+    },
+    {
+      "description": "Of or involving comparison between two or more branches of science or subjects of study.",
+      "examples": [
+        "comparative religion"
+      ]
+    },
+    {
+      "description": "(of an adjective or adverb) expressing a higher degree of a quality, but not the highest possible (e.g. braver; more fiercely).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A comparative adjective or adverb.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in comparative (sense 3 of the adjective)): from Latin comparativus, from comparare to pair, match (see compare).",
+  "pronounciation": "/kəmˈpɛrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comparative_us_1.mp3"
+}

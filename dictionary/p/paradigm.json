@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A typical example or pattern of something; a model.",
+      "examples": [
+        "there is a new paradigm for public art in this country"
+      ],
+      "synonyms": [
+        "specimen",
+        "sample",
+        "exemplar",
+        "exemplification",
+        "instance",
+        "case",
+        "representative case",
+        "typical case",
+        "case in point",
+        "illustration"
+      ]
+    },
+    {
+      "description": "A set of linguistic items that form mutually exclusive choices in particular syntactic roles.",
+      "examples": [
+        "English determiners form a paradigm: we can say “a book” or “his book” but not “a his book.”"
+      ]
+    },
+    {
+      "description": "(in the traditional grammar of Latin, Greek, and other inflected languages) a table of all the inflected forms of a particular verb, noun, or adjective, serving as a model for other words of the same conjugation or declension.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: via late Latin from Greek paradeigma, from paradeiknunai show side by side, from para- beside + deiknunai to show.",
+  "pronounciation": "/ˈpɛrəˌdaɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paradigm_us_1.mp3"
+}

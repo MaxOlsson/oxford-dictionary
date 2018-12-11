@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Come between so as to prevent or alter a result or course of events.",
+      "examples": [
+        "he acted outside his authority when he intervened in the dispute",
+        "their forces intervened to halt the attack"
+      ],
+      "synonyms": [
+        "intercede",
+        "involve oneself",
+        "get involved",
+        "interpose oneself",
+        "insinuate oneself",
+        "step in",
+        "cut in"
+      ]
+    },
+    {
+      "description": "Occur in the time between events.",
+      "examples": [
+        "to occupy the intervening months she took a job in a hospital"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense come in as an extraneous factor or thing): from Latin intervenire, from inter- between + venire come.",
+  "pronounciation": "/ˌin(t)ərˈvēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intervene_us_1.mp3"
+}

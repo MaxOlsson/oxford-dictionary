@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A factor, force, or influence that balances or neutralizes another.",
+      "examples": [
+        "they see the power of Brussels as a counterpoise to that of London",
+        "money is a good counterpoise to beauty"
+      ],
+      "synonyms": [
+        "balance",
+        "symmetry",
+        "equipoise",
+        "parity",
+        "equality",
+        "evenness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have an opposing and balancing effect on.",
+      "examples": [
+        "excess on one hand is counterpoised by fundamental lack on the other"
+      ],
+      "synonyms": [
+        "balance",
+        "balance out",
+        "counterbalance",
+        "counteract",
+        "countervail",
+        "make up for",
+        "offset",
+        "cancel out",
+        "neutralize",
+        "nullify",
+        "even up",
+        "square up"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French contrepois from contre against + pois from Latin pensum weight. Compare with poise. The verb, originally counterpeise, from Old French contrepeser, was altered under the influence of the noun in the 16th century.",
+  "pronounciation": "/ˈkaʊn(t)ərˌpɔɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterpoise_us_1.mp3"
+}

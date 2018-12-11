@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Tread on and crush.",
+      "examples": [
+        "the fence had been trampled down",
+        "her dog trampled on his tulips"
+      ],
+      "synonyms": [
+        "tread",
+        "tramp",
+        "stamp",
+        "walk over"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or the sound of trampling.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense tread heavily): frequentative of tramp.",
+  "pronounciation": "/ˈtrampəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trample_us_1.mp3"
+}

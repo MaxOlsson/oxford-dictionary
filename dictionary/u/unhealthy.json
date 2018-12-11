@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Harmful to health.",
+      "examples": [
+        "an unhealthy diet"
+      ],
+      "synonyms": [
+        "harmful",
+        "detrimental",
+        "destructive",
+        "injurious",
+        "damaging",
+        "deleterious",
+        "ruinous",
+        "malign",
+        "noxious",
+        "poisonous",
+        "insalubrious",
+        "baleful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈhɛlθi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unhealthy_us_1.mp3"
+}

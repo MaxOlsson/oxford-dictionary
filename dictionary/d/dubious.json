@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Hesitating or doubting.",
+      "examples": [
+        "Alex looked dubious, but complied"
+      ],
+      "synonyms": [
+        "doubtful",
+        "uncertain",
+        "unsure",
+        "in doubt",
+        "hesitant"
+      ]
+    },
+    {
+      "description": "Not to be relied upon; suspect.",
+      "examples": [
+        "extremely dubious assumptions"
+      ],
+      "synonyms": [
+        "suspicious",
+        "suspect",
+        "under suspicion",
+        "untrustworthy",
+        "unreliable",
+        "undependable",
+        "questionable"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in dubious (sense 2)): from Latin dubiosus, from dubium a doubt, neuter of dubius doubtful.",
+  "pronounciation": "/ˈd(y)o͞obēəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dubious_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "Long and careful consideration or discussion.",
+      "examples": [
+        "after much deliberation we arrived at a compromise",
+        "the commission's deliberations"
+      ],
+      "synonyms": [
+        "thought",
+        "thinking",
+        "consideration",
+        "reflection",
+        "contemplation",
+        "cogitation",
+        "pondering",
+        "weighing up",
+        "musing",
+        "meditation",
+        "rumination",
+        "brooding"
+      ]
+    },
+    {
+      "description": "Slow and careful movement or thought.",
+      "examples": [
+        "he replaced the glass on the table with deliberation"
+      ],
+      "synonyms": [
+        "care",
+        "carefulness",
+        "lack of haste",
+        "steadiness"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin deliberatio(n-), from deliberare consider carefully (see deliberate).",
+  "pronounciation": "/dəˌlɪbəˈreɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deliberation_us_1.mp3"
+}

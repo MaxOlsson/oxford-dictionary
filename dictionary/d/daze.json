@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) unable to think or react properly; stupefy; bewilder.",
+      "examples": [
+        "she was dazed by his revelations"
+      ],
+      "synonyms": [
+        "stun",
+        "stupefy",
+        "knock senseless",
+        "knock unconscious",
+        "knock out",
+        "lay out"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state of stunned confusion or bewilderment.",
+      "examples": [
+        "he was walking around in a daze"
+      ],
+      "synonyms": [
+        "stupor",
+        "state of stupefaction",
+        "state of shock",
+        "trance-like state",
+        "haze",
+        "confused state",
+        "spin",
+        "whirl",
+        "muddle",
+        "jumble"
+      ]
+    }
+  ],
+  "origin": "Middle English: back-formation from dazed, from Old Norse dasathr weary; compare with Swedish dasa lie idle.",
+  "pronounciation": "/deɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/daze_us_1.mp3"
+}

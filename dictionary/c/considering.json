@@ -1,0 +1,42 @@
+{
+  "conjunction &amp; preposition": [
+    {
+      "description": "Taking into consideration.",
+      "examples": [
+        "considering that he was the youngest on the field he played well",
+        "considering the conditions, it's very good"
+      ],
+      "synonyms": [
+        "bearing in mind",
+        "taking into consideration",
+        "taking into account",
+        "making allowance for",
+        "making allowances for",
+        "giving consideration to",
+        "keeping in mind",
+        "in view of",
+        "in the light of"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Taking everything into account.",
+      "examples": [
+        "they weren't feeling too bad, considering"
+      ],
+      "synonyms": [
+        "all things considered",
+        "considering everything",
+        "all in all",
+        "on the whole",
+        "taking everything into account",
+        "taking everything into consideration",
+        "at the end of the day",
+        "when all's said and done"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsid(ə)riNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsidering_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Express (ideas or feelings) in words, especially by speaking out loud.",
+      "examples": [
+        "they are unable to verbalize their real feelings"
+      ],
+      "synonyms": [
+        "oral",
+        "spoken",
+        "said",
+        "uttered",
+        "articulated",
+        "expressed",
+        "stated",
+        "verbalized",
+        "vocal",
+        "unwritten",
+        "by mouth",
+        "word-of-mouth"
+      ]
+    },
+    {
+      "description": "Speak, especially at excessive length and with little real content.",
+      "examples": [
+        "the dangers of verbalizing about art"
+      ]
+    },
+    {
+      "description": "Make (a word, especially a noun) into a verb.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈvərbəˌlaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verbalize_us_1.mp3"
+}

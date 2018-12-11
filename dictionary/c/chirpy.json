@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Cheerful and lively.",
+      "examples": [
+        "she looked positively chirpy",
+        "a chirpy face"
+      ],
+      "synonyms": [
+        "happy",
+        "jolly",
+        "merry",
+        "bright",
+        "glad",
+        "sunny",
+        "joyful",
+        "joyous",
+        "light-hearted",
+        "in good spirits",
+        "in high spirits",
+        "sparkling",
+        "bubbly",
+        "exuberant",
+        "ebullient",
+        "cock-a-hoop",
+        "elated",
+        "gleeful",
+        "breezy",
+        "airy",
+        "cheery",
+        "sprightly",
+        "jaunty",
+        "animated",
+        "radiant",
+        "smiling",
+        "grinning",
+        "laughing",
+        "mirthful",
+        "frolicsome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHərpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chirpy_us_1.mp3"
+}

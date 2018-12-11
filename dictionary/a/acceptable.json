@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be agreed on; suitable.",
+      "examples": [
+        "has tried to find a solution acceptable to everyone"
+      ],
+      "synonyms": [
+        "suitable",
+        "appropriate",
+        "fitting",
+        "fit",
+        "correct",
+        "proper",
+        "desirable",
+        "preferable",
+        "ideal"
+      ]
+    },
+    {
+      "description": "Able to be tolerated or allowed.",
+      "examples": [
+        "pollution in the city had reached four times the acceptable level"
+      ],
+      "synonyms": [
+        "bearable",
+        "tolerable",
+        "allowable",
+        "admissible",
+        "supportable",
+        "sustainable",
+        "justifiable",
+        "defensible",
+        "defendable"
+      ]
+    }
+  ],
+  "phrases": [
+    "he presents himself as the acceptable face of gambling",
+    "Frithiof the Viking becomes the acceptable face of constitutional monarchy, democratic accountability, social Darwinism, upward social mobility, and family values spirituality.",
+    "Somehow, Spy Daddy is the acceptable face of the female rescue fantasy.",
+    "But Shanahan's isn't about bargain food, it's the acceptable face of excess.",
+    "Simmons is the acceptable face of rap culture and is reputed to be worth more than $200m."
+  ],
+  "origin": "Late Middle English: from Old French, from late Latin acceptabilis, from acceptare (see accept).",
+  "pronounciation": "/əkˈseptəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acceptable_us_1.mp3"
+}

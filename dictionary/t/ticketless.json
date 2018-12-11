@@ -1,0 +1,18 @@
+{
+  "adverb &amp; adjective": [
+    {
+      "description": "Not requiring a paper ticket.",
+      "examples": [
+        "all seats are assigned, all travel is ticketless, and all fares are one-way"
+      ]
+    },
+    {
+      "description": "Not in possession of a valid ticket.",
+      "examples": [
+        "activists on Monday traveled ticketless in suburban trains to protest the hike in fares"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtikitlis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ticketless_us_1.mp3"
+}

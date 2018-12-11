@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not gallant.",
+      "examples": [
+        "he was an ungallant swine for not coming to her aid"
+      ],
+      "synonyms": [
+        "uncivilized",
+        "uncultured",
+        "uncultivated",
+        "unrefined",
+        "unpolished",
+        "unsophisticated",
+        "common",
+        "low",
+        "plebeian",
+        "philistine",
+        "rough",
+        "coarse",
+        "provincial",
+        "rustic",
+        "crude",
+        "gross",
+        "loutish",
+        "hooligan",
+        "boorish",
+        "oafish"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnɡəˈlant/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ungallant_gb_1_8.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "Food or provisions.",
+      "examples": [
+        "turkey and other savory victuals were served"
+      ],
+      "synonyms": [
+        "food",
+        "food and drink",
+        "fare",
+        "cooking",
+        "cuisine",
+        "sustenance",
+        "nutriment",
+        "nourishment",
+        "nutrition"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide with food or other stores.",
+      "examples": [
+        "the ship wasn't even properly victualed"
+      ],
+      "synonyms": [
+        "give food to",
+        "provide food for",
+        "provide for",
+        "cater for",
+        "prepare food for",
+        "cook for",
+        "make a meal for",
+        "wine and dine"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French vitaille, from late Latin victualia, neuter plural of Latin victualis, from victus food; related to vivere to live. The pronunciation still represents the early spelling vittel; later spelling has been influenced by the Latin form.",
+  "pronounciation": "/ˈvɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/victual_us_1.mp3"
+}

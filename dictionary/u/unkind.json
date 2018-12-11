@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Inconsiderate and harsh to others.",
+      "examples": [
+        "you were terribly unkind to her",
+        "he was the butt of some unkind jokes",
+        "it was unkind of her to criticize"
+      ],
+      "synonyms": [
+        "uncharitable",
+        "unpleasant",
+        "disagreeable",
+        "nasty",
+        "mean",
+        "mean-spirited",
+        "cruel",
+        "vicious",
+        "spiteful",
+        "malicious",
+        "malevolent",
+        "harsh",
+        "callous",
+        "pitiless",
+        "ruthless",
+        "unsympathetic",
+        "unfeeling",
+        "compassionless",
+        "uncaring",
+        "snide",
+        "shabby",
+        "hurtful",
+        "wounding",
+        "upsetting",
+        "ill-natured",
+        "hard-hearted",
+        "heartless",
+        "cold-hearted",
+        "merciless",
+        "brutal",
+        "savage",
+        "inhuman"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkīnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unkind_us_2.mp3"
+}

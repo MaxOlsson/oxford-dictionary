@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "Extreme tiredness resulting from mental or physical exertion or illness.",
+      "examples": [
+        "he was nearly dead with fatigue"
+      ],
+      "synonyms": [
+        "tiredness",
+        "weariness",
+        "exhaustion",
+        "overtiredness"
+      ]
+    },
+    {
+      "description": "Weakness in materials, especially metal, caused by repeated variations of stress.",
+      "examples": [
+        "metal fatigue"
+      ]
+    },
+    {
+      "description": "Menial non-military tasks performed by a soldier, sometimes as a punishment.",
+      "examples": [],
+      "synonyms": [
+        "menial work",
+        "drudgery",
+        "chores",
+        "donkey work"
+      ]
+    },
+    {
+      "description": "Loose-fitting clothing, typically khaki, olive drab, or camouflaged, worn by soldiers.",
+      "examples": [
+        "battle fatigues"
+      ],
+      "synonyms": [
+        "khakis",
+        "camouflage clothing",
+        "camouflage gear"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to feel tired or exhausted.",
+      "examples": [
+        "they were fatigued by their journey"
+      ],
+      "synonyms": [
+        "tire",
+        "tire out",
+        "exhaust",
+        "wear out",
+        "drain",
+        "make weary",
+        "weary",
+        "wash out",
+        "tax",
+        "overtax",
+        "overtire",
+        "jade",
+        "make sleepy"
+      ]
+    },
+    {
+      "description": "Weaken (a material, especially metal) by repeated variations of stress.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century (in the sense task that causes weariness): from French fatigue (noun), fatiguer (verb), from Latin fatigare tire out, from ad fatim, affatim to satiety or surfeit.",
+  "pronounciation": "/fəˈtēɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fatigue_us_1.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "The amount, level, or extent to which something happens or is present.",
+      "examples": [
+        "a degree of caution is probably wise",
+        "a question of degree"
+      ],
+      "synonyms": [
+        "level",
+        "stage",
+        "point",
+        "rung",
+        "standard",
+        "grade",
+        "gradation",
+        "mark"
+      ]
+    },
+    {
+      "description": "A unit of measurement of angles, one three-hundred-and-sixtieth of the circumference of a circle.",
+      "examples": [
+        "set at an angle of 45 degrees"
+      ]
+    },
+    {
+      "description": "A unit in any of various scales of temperature, intensity, or hardness.",
+      "examples": [
+        "water boils at 100 degrees Celsius"
+      ]
+    },
+    {
+      "description": "An academic rank conferred by a college or university after examination or after completion of a course of study, or conferred as an honor on a distinguished person.",
+      "examples": [
+        "a degree in zoology"
+      ]
+    },
+    {
+      "description": "Social or official rank.",
+      "examples": [
+        "persons of unequal degree"
+      ],
+      "synonyms": [
+        "social class",
+        "social status",
+        "rank",
+        "position in society",
+        "standing in society"
+      ]
+    }
+  ],
+  "phrases": [
+    "rivalries and prejudice were by degrees fading out",
+    "The women look friendly enough, but life is wearing them down by degrees.",
+    "His search for such connections between forms and names has led him, by degrees, to the sculpture-installation.",
+    "As time went by, a subtle change began to overtake her, transforming her by degrees into another person hardly recognizable to her children.",
+    "The yellow fades by degrees into a kind of cream."
+  ],
+  "origin": "Middle English (in the senses step, tier, rank, or relative state): from Old French, based on Latin de- down + gradus step or grade.",
+  "pronounciation": "/dəˈɡrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/degree_us_1.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "adjective": [
+    {
+      "description": "Opposite in nature, direction, or meaning.",
+      "examples": [
+        "he ignored contrary advice and agreed on the deal"
+      ],
+      "synonyms": [
+        "opposite",
+        "opposing",
+        "opposed",
+        "contradictory",
+        "clashing",
+        "conflicting",
+        "antithetical",
+        "incompatible",
+        "irreconcilable"
+      ]
+    },
+    {
+      "description": "Perversely inclined to disagree or to do the opposite of what is expected or desired.",
+      "examples": [
+        "she is sulky and contrary where her work is concerned"
+      ],
+      "synonyms": [
+        "perverse",
+        "awkward",
+        "difficult",
+        "uncooperative",
+        "unhelpful",
+        "obstructive",
+        "disobliging",
+        "unaccommodating",
+        "unreasonable",
+        "troublesome",
+        "tiresome",
+        "annoying",
+        "vexatious",
+        "disobedient",
+        "recalcitrant",
+        "refractory",
+        "wilful",
+        "headstrong",
+        "self-willed",
+        "capricious",
+        "wayward",
+        "cross-grained"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The opposite.",
+      "examples": [
+        "the magazine has proved that the contrary is true"
+      ],
+      "synonyms": [
+        "opposite",
+        "reverse",
+        "converse",
+        "antithesis"
+      ]
+    },
+    {
+      "description": "A contrary proposition.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "contrary to his expectations, he found the atmosphere exciting",
+    "the restrictions were not contrary to the public interest",
+    "And contrary to popular belief, the employees work all year round to make the poppies.",
+    "He refused to comment on the nature of his release and insisted he had not been shot, contrary to earlier reports.",
+    "It is counterintuitive and contrary to everything that we have been told."
+  ],
+  "origin": "Middle English: from Anglo-Norman French contrarie, from Latin contrarius, from contra against.",
+  "pronounciation": "/ˈkäntrerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontrary_us_1_rr.mp3"
+}

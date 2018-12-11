@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A small firearm designed to be held in one hand.",
+      "examples": [],
+      "synonyms": [
+        "revolver",
+        "gun",
+        "handgun",
+        "side arm"
+      ]
+    },
+    {
+      "description": "A very energetic or enterprising person.",
+      "examples": [
+        "when we first met, he was a pistol, full of ideals and a natural leader"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Shoot (someone) with a pistol.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from obsolete French pistole, from German Pistole, from Czech pišt'ala, of which the original meaning was whistle, hence a firearm by the resemblance in shape.",
+  "pronounciation": "/ˈpɪstl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pistol_us_1.mp3"
+}

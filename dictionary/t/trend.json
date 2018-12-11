@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "A general direction in which something is developing or changing.",
+      "examples": [
+        "an upward trend in sales and profit margins"
+      ],
+      "synonyms": [
+        "tendency",
+        "movement",
+        "drift",
+        "swing",
+        "shift",
+        "course",
+        "current",
+        "run",
+        "direction",
+        "inclination",
+        "leaning"
+      ]
+    },
+    {
+      "description": "A fashion.",
+      "examples": [
+        "the latest trends in modern dance"
+      ],
+      "synonyms": [
+        "fashion",
+        "vogue",
+        "style",
+        "mode",
+        "craze",
+        "mania",
+        "rage"
+      ]
+    },
+    {
+      "description": "A topic that is the subject of many posts on a social media website within a short period of time.",
+      "examples": [
+        "for more than 20 days in a row, most of the top Twitter trends were Olympics-related"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Change or develop in a general direction.",
+      "examples": [
+        "unemployment has been trending upward"
+      ],
+      "synonyms": [
+        "move",
+        "go",
+        "tend",
+        "head",
+        "drift",
+        "gravitate",
+        "swing",
+        "shift",
+        "turn",
+        "incline",
+        "lean",
+        "veer"
+      ]
+    },
+    {
+      "description": "(of a topic) be the subject of many posts on a social media website within a short period of time.",
+      "examples": [
+        "I've just taken a quick look at what's trending on Twitter right now"
+      ]
+    }
+  ],
+  "origin": "Old English trendan revolve, rotate, of Germanic origin; compare with trundle. The verb sense turn in a specified direction dates from the late 16th century, and gave rise to the figurative use develop in a general direction in the mid 19th century, a development paralleled in the noun.",
+  "pronounciation": "/trend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trend_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A printed sheet of paper, sometimes folded, containing information or advertising and usually distributed free.",
+      "examples": [],
+      "synonyms": [
+        "pamphlet",
+        "booklet",
+        "brochure",
+        "handbill",
+        "circular",
+        "flyer",
+        "handout",
+        "advertisement",
+        "bulletin",
+        "mailshot",
+        "bill",
+        "notice"
+      ]
+    },
+    {
+      "description": "Each of the leaflike structures that together make up a compound leaf, such as in the ash and horse chestnut.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Distribute leaflets to (people or an area)",
+      "examples": [
+        "I won't be leafleting neighborhoods",
+        "the union has leafleted, protested, and staged petition drives"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈliflɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leaflet_us_1.mp3"
+}

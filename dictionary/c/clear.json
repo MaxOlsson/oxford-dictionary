@@ -1,0 +1,225 @@
+{
+  "adjective": [
+    {
+      "description": "Easy to perceive, understand, or interpret.",
+      "examples": [
+        "clear and precise directions",
+        "her handwriting was clear",
+        "am I making myself clear?"
+      ],
+      "synonyms": [
+        "understandable",
+        "comprehensible",
+        "intelligible",
+        "easy to understand",
+        "plain",
+        "direct",
+        "uncomplicated",
+        "explicit",
+        "lucid",
+        "perspicuous",
+        "coherent",
+        "logical",
+        "distinct",
+        "simple",
+        "straightforward",
+        "clearly expressed",
+        "unambiguous",
+        "clear-cut",
+        "crystal clear",
+        "accessible",
+        "user-friendly"
+      ]
+    },
+    {
+      "description": "(of a substance) transparent; unclouded.",
+      "examples": [
+        "the clear glass of the French windows",
+        "a stream of clear water"
+      ],
+      "synonyms": [
+        "transparent",
+        "limpid",
+        "pellucid",
+        "translucent",
+        "crystalline",
+        "crystal clear",
+        "glassy",
+        "glass-like"
+      ]
+    },
+    {
+      "description": "Free of any obstructions or unwanted objects.",
+      "examples": [
+        "with a clear road ahead he shifted into high gear",
+        "I had a clear view in both directions",
+        "his desktop was almost clear"
+      ],
+      "synonyms": [
+        "unobstructed",
+        "unblocked",
+        "passable",
+        "unimpeded",
+        "open",
+        "empty",
+        "free",
+        "unlimited",
+        "unrestricted",
+        "unhindered"
+      ]
+    },
+    {
+      "description": "Not touching; away from.",
+      "examples": [
+        "the truck was wedged in the ditch, one wheel clear of the ground"
+      ]
+    },
+    {
+      "description": "(of a sum of money) net.",
+      "examples": [
+        "a clear profit of $1,100"
+      ],
+      "synonyms": [
+        "after taxes",
+        "after deductions",
+        "take-home",
+        "final"
+      ]
+    },
+    {
+      "description": "Denoting a palatalized form of the sound of the letter l (as in leaf in most accents of English).",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to be out of the way of or away from.",
+      "examples": [
+        "he leapt clear of the car",
+        "stand clear, I'll start the plane up"
+      ],
+      "synonyms": [
+        "away from",
+        "apart from",
+        "beyond",
+        "at a distance from",
+        "at a safe distance from",
+        "out of contact with"
+      ]
+    },
+    {
+      "description": "Completely.",
+      "examples": [
+        "he had time to get clear away"
+      ],
+      "synonyms": [
+        "completely",
+        "entirely",
+        "thoroughly",
+        "fully",
+        "wholly",
+        "totally",
+        "utterly",
+        "quite",
+        "altogether"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Remove an obstruction or unwanted item or items from.",
+      "examples": [
+        "the drive had been cleared of snow",
+        "Carolyn cleared the table and washed up"
+      ],
+      "synonyms": [
+        "empty",
+        "void"
+      ]
+    },
+    {
+      "description": "Remove (an obstruction or unwanted item) from somewhere.",
+      "examples": [
+        "Karen cleared the dirty plates",
+        "park staff cleared away dead trees"
+      ],
+      "synonyms": [
+        "empty",
+        "void"
+      ]
+    },
+    {
+      "description": "Get past or over (something) safely or without touching it.",
+      "examples": [
+        "the plane rose high enough to clear the trees",
+        "she cleared 1.50 metres in the high jump"
+      ],
+      "synonyms": [
+        "go over",
+        "get past",
+        "go above",
+        "pass over",
+        "sail over"
+      ]
+    },
+    {
+      "description": "Officially show or declare (someone) to be innocent.",
+      "examples": [
+        "his sport's ruling body had cleared him of cheating"
+      ],
+      "synonyms": [
+        "acquit",
+        "declare innocent",
+        "find not guilty"
+      ]
+    },
+    {
+      "description": "Give official approval or authorization to.",
+      "examples": [
+        "I cleared him to return to his squadron"
+      ],
+      "synonyms": [
+        "authorize",
+        "give permission",
+        "permit",
+        "allow",
+        "pass",
+        "accept",
+        "endorse",
+        "license",
+        "sanction",
+        "give approval to",
+        "give one's seal of approval to",
+        "give consent to"
+      ]
+    },
+    {
+      "description": "Earn or gain (an amount of money) as a net profit.",
+      "examples": [
+        "I would hope to clear £50,000 profit from each match"
+      ],
+      "synonyms": [
+        "net",
+        "make a profit of",
+        "realize a profit of",
+        "take home",
+        "pocket"
+      ]
+    }
+  ],
+  "phrases": [
+    "The contenders are clearing the decks and making ready to do battle.",
+    "This is a government that is clearing the decks.",
+    "It was always spelt out to me that I would have to trim the wage bill and the playing staff and there has been quite a bit of clearing the decks.",
+    "Your Honours, may I clear the decks so far as the facts which of course are not as factual inquiry before this Court but without which we cannot win.",
+    "But it was a case of clearing the decks, then having a look at what was left, and trying to build from there.",
+    "“Clear off!” he yelled",
+    "He's had two children by her and then in 2002 he clears off.",
+    "The soldiers quickly cleared out of the room.",
+    "Traditionally weddings are short and the crowd clears out quickly afterwards.",
+    "all my health problems cleared up"
+  ],
+  "origin": "Middle English: from Old French cler, from Latin clarus.",
+  "pronounciation": "/ˈklir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clear_us_1.mp3"
+}

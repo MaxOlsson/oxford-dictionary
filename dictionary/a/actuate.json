@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Cause (a machine or device) to operate.",
+      "examples": [
+        "the pendulum actuates an electrical switch"
+      ],
+      "synonyms": [
+        "activate",
+        "operate",
+        "switch on",
+        "turn on",
+        "start up",
+        "set going",
+        "get going",
+        "start off",
+        "trigger off",
+        "trigger",
+        "trip",
+        "set in motion",
+        "initiate",
+        "initialize",
+        "energize",
+        "animate"
+      ]
+    },
+    {
+      "description": "Cause (someone) to act in a particular way; motivate.",
+      "examples": [
+        "the defendants were actuated by malice"
+      ],
+      "synonyms": [
+        "motivate",
+        "stimulate",
+        "move",
+        "drive",
+        "rouse",
+        "stir",
+        "stir up",
+        "fire",
+        "fire up",
+        "arouse"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from medieval Latin actuat- carried out, caused to operate, from the verb actuare, from Latin actus (see act). The original sense was carry out in practice, later stir into activity, enliven; actuate (sense 1) dates from the mid 17th century.",
+  "pronounciation": "/ˈæk(t)ʃəˌweɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/actuate_us_1.mp3"
+}

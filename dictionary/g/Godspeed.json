@@ -1,0 +1,30 @@
+{
+  "exclamation": [
+    {
+      "description": "An expression of good wishes to a person starting a journey.",
+      "examples": [
+        "she wished him godspeed"
+      ],
+      "synonyms": [
+        "wealth",
+        "success",
+        "profitability",
+        "affluence",
+        "riches",
+        "opulence",
+        "the good life",
+        "fortune",
+        "good fortune",
+        "ease",
+        "plenty",
+        "welfare",
+        "comfort",
+        "security",
+        "well-being"
+      ]
+    }
+  ],
+  "origin": "Middle English: from God speed you may God help you prosper.",
+  "pronounciation": "/ˌɡädˈspēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/godspeed_1_us_1_rr.mp3"
+}

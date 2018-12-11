@@ -1,0 +1,87 @@
+{
+  "verb": [
+    {
+      "description": "Destroy or obliterate.",
+      "examples": [
+        "zap the enemy's artillery before it can damage your core units",
+        "it's vital to zap stress fast"
+      ],
+      "synonyms": [
+        "destroy",
+        "wipe out",
+        "annihilate",
+        "exterminate",
+        "extirpate",
+        "demolish",
+        "eliminate",
+        "eradicate",
+        "kill",
+        "decimate",
+        "liquidate",
+        "wipe off the face of the earth",
+        "wipe off the map"
+      ]
+    },
+    {
+      "description": "Cause to move suddenly and rapidly in a specified direction.",
+      "examples": [
+        "the boat zapped us up river"
+      ],
+      "synonyms": [
+        "hurry",
+        "race",
+        "run",
+        "sprint",
+        "speed",
+        "dash",
+        "bolt",
+        "dart",
+        "rush",
+        "hasten",
+        "hurtle",
+        "career",
+        "streak",
+        "shoot",
+        "whizz",
+        "zoom",
+        "go like lightning",
+        "go hell for leather",
+        "spank along",
+        "bowl along",
+        "rattle along",
+        "whirl",
+        "whoosh",
+        "buzz",
+        "swoop",
+        "flash",
+        "blast",
+        "charge",
+        "stampede",
+        "gallop",
+        "sweep",
+        "hare",
+        "fly",
+        "wing",
+        "scurry",
+        "scud",
+        "scutter",
+        "scramble"
+      ]
+    },
+    {
+      "description": "Cook or warm (food or a hot drink) in a microwave oven.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden effect or event that makes a dramatic impact, especially a sudden burst of energy or sound.",
+      "examples": [
+        "the eggs get an extra zap of UV light"
+      ]
+    }
+  ],
+  "origin": "1920s (originally US): imitative.",
+  "pronounciation": "/zæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zap_us_1.mp3"
+}

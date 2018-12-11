@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A sheet, quantity, or thickness of material, typically one of several, covering a surface or body.",
+      "examples": [
+        "bears depend on a layer of blubber to keep them warm in the water",
+        "a larger missile would provide a layer of defense at higher altitudes"
+      ],
+      "synonyms": [
+        "coating",
+        "sheet",
+        "coat",
+        "surface",
+        "film",
+        "covering",
+        "blanket",
+        "skin",
+        "veneer",
+        "thickness"
+      ]
+    },
+    {
+      "description": "A person or thing that lays something.",
+      "examples": [
+        "the worms are prolific egg-layers"
+      ]
+    },
+    {
+      "description": "A shoot fastened down to take root while attached to the parent plant.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange in a layer or layers.",
+      "examples": [
+        "the current trend for layered clothes"
+      ]
+    },
+    {
+      "description": "Propagate (a plant) as a layer.",
+      "examples": [
+        "a layered shoot"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a mason): from lay + -er. The sense stratum of material covering a surface (early 17th century) may represent a respelling of an obsolete agricultural use of lair denoting quality of soil.",
+  "pronounciation": "/ˈlāər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/layer_us_4.mp3"
+}

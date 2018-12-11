@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Marked with or as if with veins.",
+      "examples": [
+        "a blue-veined cheese"
+      ],
+      "synonyms": [
+        "striped",
+        "stripy",
+        "streaked",
+        "banded",
+        "barred"
+      ]
+    }
+  ],
+  "pronounciation": "/veɪnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/veined_us_2.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(of farmland) plowed and harrowed but left unsown for a period in order to restore its fertility as part of a crop rotation or to avoid surplus production.",
+      "examples": [
+        "incentives for farmers to let the land lie fallow in order to reduce grain surpluses"
+      ],
+      "synonyms": [
+        "uncultivated",
+        "unploughed",
+        "untilled",
+        "unplanted",
+        "unsown",
+        "unseeded",
+        "unused",
+        "undeveloped",
+        "dormant",
+        "resting",
+        "empty",
+        "bare",
+        "virgin"
+      ]
+    },
+    {
+      "description": "(of a sow) not pregnant.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of fallow or uncultivated land.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Leave (land) fallow.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English falu, fealu, of Germanic origin; related to Dutch vaal and German fahl, falb.",
+  "pronounciation": "/ˈfæloʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fallow_us_1.mp3"
+}

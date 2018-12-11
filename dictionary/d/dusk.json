@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "The darker stage of twilight.",
+      "examples": [
+        "dusk was falling rapidly",
+        "working the land from dawn to dusk"
+      ],
+      "synonyms": [
+        "twilight",
+        "nightfall",
+        "sunset",
+        "sundown",
+        "evening",
+        "close of day"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Grow dark.",
+      "examples": [
+        "the sky dusked and the shadows got long and hard"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Shadowy, dim, or dark.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English dox dark, swarthy and doxian darken in color, of Germanic origin; related to Old High German tusin darkish; compare with dun The noun dates from the early 17th century The change in form from -x to -sk occurred in Middle English.",
+  "pronounciation": "/dəsk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dusk_us_1.mp3"
+}

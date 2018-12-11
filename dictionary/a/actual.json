@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Existing in fact; typically as contrasted with what was intended, expected, or believed.",
+      "examples": [
+        "the estimate was much less than the actual cost",
+        "those were his actual words"
+      ],
+      "synonyms": [
+        "real",
+        "true",
+        "genuine",
+        "authentic",
+        "verified",
+        "attested",
+        "confirmed",
+        "definite",
+        "hard",
+        "plain",
+        "clear",
+        "clear-cut",
+        "undeniable",
+        "veritable"
+      ]
+    },
+    {
+      "description": "Existing now; current.",
+      "examples": [
+        "using actual income to measure expected income"
+      ],
+      "synonyms": [
+        "current",
+        "present",
+        "existing",
+        "existent",
+        "extant"
+      ]
+    }
+  ],
+  "phrases": [
+    "people talk as if he were a monster—in actual fact he was a very kind guy",
+    "No, in actual fact, I listen to many types of music including popular music.",
+    "I actually had the advantage of reading in detail his words and, in actual fact, he did not quite say that.",
+    "Sometimes a customer will ask for a maintenance contract when, in actual fact, they need a lot more.",
+    "In actual fact, the Brazilians could have scored more goals, but this did not happen."
+  ],
+  "origin": "Middle English: from Old French actuel active, practical, from late Latin actualis, from actus (see act).",
+  "pronounciation": "/ˈak(t)SH(o͞o)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/actual_us_1.mp3"
+}

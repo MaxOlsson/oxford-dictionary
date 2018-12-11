@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "The state of being stretched tight.",
+      "examples": [
+        "the parachute keeps the cable under tension as it drops"
+      ],
+      "synonyms": [
+        "tightness",
+        "tautness",
+        "tenseness",
+        "rigidity"
+      ]
+    },
+    {
+      "description": "Mental or emotional strain.",
+      "examples": [
+        "a mind that is affected by stress or tension cannot think as clearly"
+      ],
+      "synonyms": [
+        "emotional strain",
+        "mental strain",
+        "stress",
+        "anxiety",
+        "anxiousness",
+        "pressure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply a force to (something) which tends to stretch it.",
+      "examples": [],
+      "synonyms": [
+        "tighten",
+        "tauten",
+        "make taut",
+        "tense",
+        "tense up",
+        "tension",
+        "contract",
+        "stiffen",
+        "brace",
+        "knot"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a medical term denoting a condition or feeling of being physically stretched or strained): from French, or from Latin tensio(n-), from tendere stretch.",
+  "pronounciation": "/ˈtɛnʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tension_us_1.mp3"
+}

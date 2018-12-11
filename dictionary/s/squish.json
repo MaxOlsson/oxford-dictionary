@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Make a soft squelching sound when walked on or in.",
+      "examples": [
+        "the mud squished under my shoes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft squelching sound.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: imitative.",
+  "pronounciation": "/skwiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squish_us_1.mp3"
+}

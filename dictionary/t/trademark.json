@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A symbol, word, or words legally registered or established by use as representing a company or product.",
+      "examples": [],
+      "synonyms": [
+        "logo",
+        "emblem",
+        "sign",
+        "stamp",
+        "symbol",
+        "device",
+        "badge",
+        "crest",
+        "insignia",
+        "seal",
+        "coat of arms",
+        "shield",
+        "motif",
+        "hallmark",
+        "mark",
+        "figure",
+        "monogram",
+        "logotype",
+        "colophon"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide with a trademark.",
+      "examples": [
+        "they are counterfeiting trademarked goods"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtreɪdˌmɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trademark_us_1.mp3"
+}

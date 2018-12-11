@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Peep surreptitiously.",
+      "examples": [
+        "he keeked through the window"
+      ],
+      "synonyms": [
+        "peep",
+        "have a peep",
+        "have a peek",
+        "take a secret look",
+        "spy",
+        "take a sly look",
+        "take a stealthy look",
+        "sneak a look",
+        "glance",
+        "cast a brief look",
+        "look hurriedly",
+        "look",
+        "peer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A surreptitious glance.",
+      "examples": [],
+      "synonyms": [
+        "quick look",
+        "brief look",
+        "sly look",
+        "stealthy look",
+        "sneaky look",
+        "peek",
+        "glance",
+        "glimpse",
+        "look",
+        "peer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps related to Dutch kijken have a look.",
+  "pronounciation": "/kēk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/keek_us_1.mp3"
+}

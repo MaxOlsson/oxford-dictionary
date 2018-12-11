@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Interrupt action or speech briefly.",
+      "examples": [
+        "she paused, at a loss for words"
+      ],
+      "synonyms": [
+        "stop",
+        "cease",
+        "halt",
+        "discontinue",
+        "break off",
+        "take a break",
+        "take a breath"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A temporary stop in action or speech.",
+      "examples": [
+        "she dropped me outside during a brief pause in the rain",
+        "the admiral chattered away without pause"
+      ],
+      "synonyms": [
+        "stop",
+        "cessation",
+        "break",
+        "halt",
+        "stoppage",
+        "standstill",
+        "interruption",
+        "check",
+        "lull",
+        "respite",
+        "stay",
+        "breathing space",
+        "discontinuation",
+        "discontinuance",
+        "hiatus",
+        "gap",
+        "lapse",
+        "lapse of time",
+        "interlude",
+        "intermission",
+        "interval",
+        "entr'acte"
+      ]
+    }
+  ],
+  "phrases": [
+    "public outrage has given him pause",
+    "I completely understand that, and, to be honest, it gives me pause for thought.",
+    "The Athens experience should give us pause for thought.",
+    "But the notion of celebrating any culture should give us pause for thought.",
+    "This was a good point, and gave me pause for thought."
+  ],
+  "origin": "Late Middle English: from Old French, from Latin pausa, from Greek pausis, from pausein to stop.",
+  "pronounciation": "/pɔz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pause_us_1.mp3"
+}

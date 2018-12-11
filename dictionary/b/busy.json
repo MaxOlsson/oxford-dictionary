@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Having a great deal to do.",
+      "examples": [
+        "he had been too busy to enjoy himself",
+        "there was enough work to keep two people busy"
+      ],
+      "synonyms": [
+        "occupied",
+        "occupied in",
+        "engaged in",
+        "involved in",
+        "employed in",
+        "working at",
+        "labouring at",
+        "toiling at",
+        "slaving at",
+        "hard at work",
+        "hard at work on",
+        "wrapped up",
+        "wrapped up in",
+        "wrapped up with"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Keep occupied.",
+      "examples": [
+        "she busied herself with her new home"
+      ],
+      "synonyms": [
+        "occupy",
+        "involve",
+        "engage",
+        "concern",
+        "employ",
+        "absorb",
+        "engross",
+        "immerse",
+        "preoccupy"
+      ]
+    }
+  ],
+  "origin": "Old English bisgian (verb), bisig (noun); related to Dutch bezig, of unknown origin.",
+  "pronounciation": "/ˈbizē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/busy_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A surprise attack by people lying in wait in a concealed position.",
+      "examples": [
+        "seven members of a patrol were killed in an ambush",
+        "kidnappers waiting in ambush"
+      ],
+      "synonyms": [
+        "surprise attack",
+        "trap",
+        "snare",
+        "pitfall",
+        "lure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a surprise attack on (someone) from a concealed position.",
+      "examples": [
+        "they were ambushed and taken prisoner by the enemy"
+      ],
+      "synonyms": [
+        "attack by surprise",
+        "trap",
+        "surprise",
+        "pounce on",
+        "lay a trap for",
+        "set an ambush for",
+        "lie in wait for",
+        "waylay",
+        "entrap",
+        "ensnare"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense place troops in hiding in order to surprise an enemy): from Old French embusche (noun), embuschier (verb), based on a late Latin word meaning to place in a wood; related to bush.",
+  "pronounciation": "/ˈæmbʊʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ambush_us_1.mp3"
+}

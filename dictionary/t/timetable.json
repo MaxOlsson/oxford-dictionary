@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A chart showing the departure and arrival times of trains, buses, or planes.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Schedule (something) to take place at a particular time.",
+      "examples": [
+        "German lessons were timetabled on Wednesday and Friday"
+      ],
+      "synonyms": [
+        "schedule",
+        "set",
+        "set up",
+        "arrange",
+        "organize",
+        "sort out",
+        "fix",
+        "fix up",
+        "fix a time for",
+        "time",
+        "book",
+        "line up",
+        "slot in",
+        "prearrange",
+        "bill",
+        "programme",
+        "plan"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtaɪmˌteɪbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/timetable_us_1.mp3"
+}

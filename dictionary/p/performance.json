@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "An act of staging or presenting a play, concert, or other form of entertainment.",
+      "examples": [
+        "Don Giovanni had its first performance in 1787"
+      ],
+      "synonyms": [
+        "show",
+        "production",
+        "showing",
+        "presentation",
+        "entertainment",
+        "staging",
+        "act"
+      ]
+    },
+    {
+      "description": "The action or process of carrying out or accomplishing an action, task, or function.",
+      "examples": [
+        "the continual performance of a single task reduces a man to the level of a machine"
+      ],
+      "synonyms": [
+        "carrying out",
+        "execution",
+        "discharge",
+        "conducting",
+        "conduct",
+        "effecting",
+        "accomplishment",
+        "achievement",
+        "completion",
+        "fulfilment",
+        "dispatch",
+        "implementation"
+      ]
+    }
+  ],
+  "pronounciation": "/pərˈfôrməns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/performance_us_1.mp3"
+}

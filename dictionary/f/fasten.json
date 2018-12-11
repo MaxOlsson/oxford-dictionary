@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Close or join securely.",
+      "examples": [
+        "fasten your seat belts"
+      ],
+      "synonyms": [
+        "bolt",
+        "lock",
+        "secure",
+        "make secure",
+        "make fast",
+        "chain",
+        "seal"
+      ]
+    }
+  ],
+  "origin": "Old English fæstnian make sure, also immobilize, of West Germanic origin; related to fast.",
+  "pronounciation": "/ˈfæs(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fasten_us_1.mp3"
+}

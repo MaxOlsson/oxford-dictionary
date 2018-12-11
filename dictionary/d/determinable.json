@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be firmly decided or definitely ascertained.",
+      "examples": [
+        "a readily determinable market value"
+      ],
+      "synonyms": [
+        "ascertainable",
+        "known",
+        "definite",
+        "clear-cut",
+        "precise",
+        "exact",
+        "specific"
+      ]
+    },
+    {
+      "description": "Capable of being brought to an end under given conditions; terminable.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin determinabilis finite, from the verb determinare (see determine).",
+  "pronounciation": "/dəˈtərmənəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/determinable_us_1.mp3"
+}

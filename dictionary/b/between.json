@@ -1,0 +1,76 @@
+{
+  "preposition": [
+    {
+      "description": "At, into, or across the space separating (two objects or regions)",
+      "examples": [
+        "the border between Mexico and the United States",
+        "the dog crawled between us and lay down at our feet",
+        "those who travel by train between London and Paris"
+      ],
+      "synonyms": [
+        "in the middle of",
+        "with one … on either side"
+      ]
+    },
+    {
+      "description": "In the period separating (two points in time)",
+      "examples": [
+        "they snack between meals",
+        "the long, cold nights between autumn and spring"
+      ]
+    },
+    {
+      "description": "In the interval separating (two points on a scale)",
+      "examples": [
+        "a man aged between 18 and 30",
+        "between 25 and 40 percent off children's clothes",
+        "the difference between income and expenditure"
+      ]
+    },
+    {
+      "description": "Indicating a connection or relationship involving two or more parties.",
+      "examples": [
+        "links between science and industry",
+        "negotiations between the two companies are continuing",
+        "the relationship between Pauline and Chris"
+      ],
+      "synonyms": [
+        "connecting",
+        "linking",
+        "joining"
+      ]
+    },
+    {
+      "description": "By combining the resources or actions of (two or more people or other entities)",
+      "examples": [
+        "we have created something between us",
+        "oxygen and nitrogen between them account for 99 per cent of air"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In or along the space separating two objects or regions.",
+      "examples": [
+        "layers of paper with tar in between",
+        "from Leipzig to Dresden, with the gentle Elbe flowing between"
+      ]
+    },
+    {
+      "description": "In the period separating two points in time.",
+      "examples": [
+        "sets of exercises with no rest in between"
+      ]
+    }
+  ],
+  "phrases": [
+    "just between you and me, I don't think it is going to happen",
+    "So, just between you and me, didn't it help to spread a little cash around on both of these stories?",
+    "Just between you and me, though, I'll bet he gets left in the dust.",
+    "Between you and me, there's something about the British that gets under my skin.",
+    "Between you and me, how much time does it take an ordinary citizen to meet an official?"
+  ],
+  "origin": "Old English betwēonum, from be by + a Germanic word related to two.",
+  "pronounciation": "/bəˈtwin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/between_us_1.mp3"
+}

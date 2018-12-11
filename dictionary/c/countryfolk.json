@@ -1,0 +1,31 @@
+{
+  "plural noun": [
+    {
+      "description": "People living or born in a rural area.",
+      "examples": [
+        "they prefer countryfolk to city slickers"
+      ],
+      "synonyms": [
+        "farmer",
+        "farmhand",
+        "country dweller",
+        "country cousin",
+        "son of the soil"
+      ]
+    },
+    {
+      "description": "People from the same country as someone else.",
+      "examples": [
+        "their fellow countryfolk go to the polls next year"
+      ],
+      "synonyms": [
+        "compatriot",
+        "fellow citizen",
+        "fellow national",
+        "fellow countryman"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkʌntrɪfəʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/countryfolk_gb_2.mp3"
+}

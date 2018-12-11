@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Of or like hell.",
+      "examples": [
+        "an unearthly, hellish landscape"
+      ],
+      "synonyms": [
+        "infernal",
+        "hadean"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extremely (used for emphasis)",
+      "examples": [
+        "it was hellish expensive"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "extraordinarily",
+        "tremendously",
+        "immensely",
+        "hugely",
+        "intensely",
+        "acutely",
+        "uncommonly",
+        "unusually",
+        "decidedly",
+        "particularly",
+        "remarkably",
+        "really",
+        "truly",
+        "mightily",
+        "thoroughly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈheliSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hellish_us_1.mp3"
+}

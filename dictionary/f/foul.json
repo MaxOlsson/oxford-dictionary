@@ -1,0 +1,199 @@
+{
+  "adjective": [
+    {
+      "description": "Offensive to the senses, especially through having a disgusting smell or taste or being unpleasantly soiled.",
+      "examples": [
+        "a foul odor",
+        "his foul breath"
+      ],
+      "synonyms": [
+        "disgusting",
+        "revolting",
+        "repellent",
+        "repulsive",
+        "repugnant",
+        "abhorrent",
+        "loathsome",
+        "offensive",
+        "detestable",
+        "awful",
+        "dreadful",
+        "horrible",
+        "terrible",
+        "horrendous",
+        "hideous",
+        "appalling",
+        "atrocious",
+        "vile",
+        "abominable",
+        "frightful",
+        "sickening",
+        "nauseating",
+        "nauseous",
+        "stomach-churning",
+        "stomach-turning",
+        "off-putting",
+        "uninviting",
+        "unpalatable",
+        "unappetizing",
+        "unsavoury",
+        "distasteful",
+        "nasty",
+        "obnoxious",
+        "objectionable",
+        "odious"
+      ]
+    },
+    {
+      "description": "Wicked or immoral.",
+      "examples": [
+        "murder most foul"
+      ],
+      "synonyms": [
+        "evil",
+        "wicked",
+        "sinful",
+        "immoral",
+        "wrong",
+        "morally wrong",
+        "wrongful",
+        "bad",
+        "iniquitous",
+        "corrupt",
+        "black-hearted",
+        "ungodly",
+        "unholy",
+        "irreligious",
+        "unrighteous",
+        "sacrilegious",
+        "profane",
+        "blasphemous",
+        "impious",
+        "base",
+        "mean",
+        "vile"
+      ]
+    },
+    {
+      "description": "Containing or charged with noxious matter; polluted.",
+      "examples": [
+        "foul, swampy water"
+      ],
+      "synonyms": [
+        "contaminated",
+        "polluted",
+        "adulterated",
+        "infected",
+        "tainted",
+        "defiled",
+        "impure",
+        "filthy",
+        "dirty",
+        "unclean"
+      ]
+    },
+    {
+      "description": "(of the weather) wet and stormy.",
+      "examples": [],
+      "synonyms": [
+        "inclement",
+        "unpleasant",
+        "disagreeable",
+        "dirty",
+        "nasty",
+        "rough",
+        "bad"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in sports) an unfair or invalid stroke or piece of play, especially one involving interference with an opponent.",
+      "examples": [],
+      "synonyms": [
+        "unfair",
+        "against the rules",
+        "illegal",
+        "unsporting",
+        "unsportsmanlike",
+        "below the belt",
+        "dirty",
+        "dishonourable",
+        "dishonest",
+        "underhand",
+        "unscrupulous",
+        "unjust",
+        "unprincipled",
+        "immoral",
+        "crooked",
+        "fraudulent"
+      ]
+    },
+    {
+      "description": "A disease in the feet of cattle.",
+      "examples": [
+        "he was indeed suffering from foul of the foot"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Unfairly; contrary to the rules.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make foul or dirty; pollute.",
+      "examples": [
+        "factories that fouled the atmosphere"
+      ],
+      "synonyms": [
+        "dirty",
+        "soil",
+        "stain",
+        "blacken",
+        "muddy",
+        "begrime",
+        "splash",
+        "spatter",
+        "smear",
+        "befoul",
+        "besmirch",
+        "blight",
+        "defile",
+        "make filthy",
+        "infect",
+        "pollute",
+        "contaminate",
+        "poison",
+        "taint",
+        "adulterate",
+        "sully"
+      ]
+    },
+    {
+      "description": "(in sports) commit a foul against (an opponent).",
+      "examples": []
+    },
+    {
+      "description": "(of a ship) collide with or interfere with the passage of (another).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "This works in part because the criminals are careful not to foul their own nest.",
+    "Of course, this romantic observation occurs in an essay called Murder in the Kitchen, in which Watts also writes that by destroying our environment and fouling our own nest… the world around us looks as if we hated it.",
+    "At a time when politician-bashing has become a national sport, too many MPs have joined in this campaign, denigrating politics as a vocation. In effect, they are fouling their own nests.",
+    "Yet consistently, with appalling regularity and style, he has displayed an equivalent capacity to foul his own nest, plucking frequent disasters from the jaws of personal victory.",
+    "Now the prime minister has gone a step further in the process of fouling his European nest.",
+    "leaders should admit when they completely foul things up",
+    "I have half a mind to turn up in court on the scheduled date with the bank statements proving that they have fouled up, and then invoicing them for my time.",
+    "We're just another species - the dominant species, maybe, and the one who's doing the most to foul things up for all the rest, but surely we're flattering ourselves if we think that we are somehow essential to the operation of this planet.",
+    "But it wasn't enough to take away from the fact the FAI fouled up and were being told so in no uncertain terms.",
+    "Refreshingly, for the author of a book about lying, she is honest enough to admit when she has fouled up."
+  ],
+  "origin": "Old English fūl, of Germanic origin; related to Old Norse fúll foul, Dutch vuil dirty, and German faul rotten, lazy, from an Indo-European root shared by Latin pus, Greek puos pus, and Latin putere to stink.",
+  "pronounciation": "/foul/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foul_us_1.mp3"
+}

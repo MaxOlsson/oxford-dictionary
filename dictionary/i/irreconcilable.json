@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of ideas, facts, or statements) representing findings or points of view that are so different from each other that they cannot be made compatible.",
+      "examples": [
+        "these two views of the early medieval economy are irreconcilable"
+      ],
+      "synonyms": [
+        "incompatible",
+        "at odds",
+        "at variance",
+        "incongruous",
+        "conflicting",
+        "clashing",
+        "discordant",
+        "antagonistic",
+        "mutually exclusive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Any of two or more ideas, facts, or statements that cannot be made compatible.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ɪ(r)ˌrɛkənˈsaɪləb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/irreconcilable_us_2.mp3"
+}

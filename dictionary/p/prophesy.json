@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Say that (a specified thing) will happen in the future.",
+      "examples": [
+        "Jacques was prophesying a bumper harvest",
+        "the papers prophesied that he would resign after the weekend"
+      ],
+      "synonyms": [
+        "predict",
+        "foretell",
+        "forecast",
+        "foresee",
+        "forewarn of",
+        "prognosticate",
+        "divine"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French profecier, from profecie (see prophecy).",
+  "pronounciation": "/ˈpräfəˌsī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prophesy_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not perceptive.",
+      "examples": [
+        "extraordinarily unperceptive people"
+      ],
+      "synonyms": [
+        "obtuse",
+        "stupid",
+        "imperceptive",
+        "blind",
+        "uncomprehending",
+        "unimaginative",
+        "insensitive",
+        "bovine",
+        "stolid",
+        "slow-witted",
+        "dull-witted",
+        "unintelligent",
+        "doltish",
+        "witless",
+        "blockish"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnpəˈsɛptɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unperceptive_gb_1_8.mp3"
+}

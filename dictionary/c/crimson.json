@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "Of a rich deep red color inclining to purple.",
+      "examples": [
+        "she blushed crimson with embarrassment"
+      ],
+      "synonyms": [
+        "red",
+        "reddish",
+        "scarlet",
+        "vermilion",
+        "blood-red",
+        "rose-red",
+        "pink",
+        "roseate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rich deep red color inclining to purple.",
+      "examples": [],
+      "synonyms": [
+        "flush",
+        "blush",
+        "rosiness",
+        "pinkness",
+        "redness",
+        "crimson",
+        "scarlet",
+        "reddening",
+        "ruddiness",
+        "high colour"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person's face) become flushed, especially through embarrassment.",
+      "examples": [
+        "my face crimsoned and my hands began to shake"
+      ],
+      "synonyms": [
+        "flush",
+        "blush",
+        "redden",
+        "go red",
+        "colour",
+        "colour up",
+        "go pink",
+        "crimson",
+        "go scarlet",
+        "be suffused with colour"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from obsolete French cramoisin or Old Spanish cremesin, based on Arabic qirmizī, from qirmiz (see kermes). Compare with carmine.",
+  "pronounciation": "/ˈkrimzən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crimson_us_1.mp3"
+}

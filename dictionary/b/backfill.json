@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Refill (an excavated hole) with the material dug out of it.",
+      "examples": [
+        "they backfill the hole to street level"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Material used for backfilling.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbækfɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backfill_us_1.mp3"
+}

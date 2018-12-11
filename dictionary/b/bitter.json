@@ -1,0 +1,126 @@
+{
+  "adjective": [
+    {
+      "description": "Having a sharp, pungent taste or smell; not sweet.",
+      "examples": [
+        "the raw berries have an intensely bitter flavor"
+      ],
+      "synonyms": [
+        "sharp",
+        "acid",
+        "acidic",
+        "pungent",
+        "acrid",
+        "tart",
+        "sour",
+        "biting",
+        "harsh",
+        "unsweetened",
+        "vinegary",
+        "acetous"
+      ]
+    },
+    {
+      "description": "(of people or their feelings or behavior) angry, hurt, or resentful because of one's bad experiences or a sense of unjust treatment.",
+      "examples": [
+        "I don't feel jealous or bitter"
+      ],
+      "synonyms": [
+        "resentful",
+        "embittered",
+        "aggrieved",
+        "dissatisfied",
+        "disgruntled",
+        "discontented",
+        "grudge-bearing",
+        "grudging",
+        "begrudging",
+        "indignant",
+        "rancorous",
+        "splenetic",
+        "spiteful",
+        "jaundiced",
+        "ill-disposed",
+        "sullen",
+        "sour",
+        "churlish",
+        "morose",
+        "petulant",
+        "peevish",
+        "with a chip on one's shoulder"
+      ]
+    },
+    {
+      "description": "(often used for emphasis) painful or unpleasant to accept or contemplate.",
+      "examples": [
+        "today's decision has come as a bitter blow"
+      ],
+      "synonyms": [
+        "painful",
+        "unpleasant",
+        "disagreeable",
+        "nasty",
+        "cruel",
+        "awful",
+        "distressing",
+        "disquieting",
+        "disturbing",
+        "upsetting",
+        "harrowing",
+        "heartbreaking",
+        "heart-rending",
+        "agonizing",
+        "unhappy",
+        "miserable",
+        "wretched",
+        "sad",
+        "poignant",
+        "grievous",
+        "traumatic",
+        "tragic",
+        "chilling",
+        "mortifying",
+        "galling",
+        "vexatious"
+      ]
+    },
+    {
+      "description": "(of wind, cold, or weather) intensely cold.",
+      "examples": [
+        "a bitter wind blowing from the east"
+      ],
+      "synonyms": [
+        "intensely cold",
+        "bitterly cold",
+        "freezing",
+        "icy",
+        "icy-cold",
+        "arctic",
+        "glacial",
+        "frosty",
+        "frigid",
+        "chilly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Beer that is strongly flavored with hops and has a bitter taste.",
+      "examples": []
+    },
+    {
+      "description": "Liquor that is flavored with the sharp pungent taste of plant extracts and is used as an additive in cocktails or as a medicinal substance to promote appetite or digestion.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the workers would fight to the bitter end for safer conditions",
+    "The champions, as would be expected of them fought to the bitter end but were unable to pierce a strong Wicklow defence for the match saving goal.",
+    "Most of the capacity crowd stayed to the bitter end.",
+    "Members of his audience showed their appreciation in the time-honoured fashion with lots of arm waving and frantic dancing - right to the bitter end.",
+    "Did he not realise that the Irish fight to the bitter end?"
+  ],
+  "origin": "Old English biter, of Germanic origin; related to Dutch and German bitter, and probably to bite.",
+  "pronounciation": "/ˈbidər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bitter_us_2.mp3"
+}

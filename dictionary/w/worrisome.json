@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Causing anxiety or concern.",
+      "examples": [
+        "a worrisome problem"
+      ],
+      "synonyms": [
+        "worrying",
+        "daunting",
+        "alarming",
+        "perturbing",
+        "trying",
+        "taxing",
+        "vexatious",
+        "niggling",
+        "bothersome",
+        "troublesome",
+        "unsettling",
+        "harassing",
+        "harrying",
+        "harrowing",
+        "nerve-racking",
+        "distressing",
+        "dismaying",
+        "disquieting",
+        "upsetting",
+        "traumatic",
+        "unpleasant",
+        "awkward",
+        "difficult",
+        "tricky",
+        "thorny",
+        "problematic",
+        "grave"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwəriˌsəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/worrisome_us_1.mp3"
+}

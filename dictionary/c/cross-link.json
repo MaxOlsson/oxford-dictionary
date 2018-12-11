@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "A chemical bond between different chains of atoms in a polymer or other complex molecule.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become linked with a chemical cross-link.",
+      "examples": [
+        "adjacent protein chains are cross-linked by quinones",
+        "these substances cross-link without any problem",
+        "cross-linked copolymers of vinyl pyrrolidone with methyl methacrylate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrôsˌliNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cross_link_1_us_2.mp3"
+}

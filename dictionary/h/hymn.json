@@ -1,0 +1,77 @@
+{
+  "noun": [
+    {
+      "description": "A religious song or poem of praise to God or a god.",
+      "examples": [
+        "a Hellenistic hymn to Apollo"
+      ],
+      "synonyms": [
+        "religious song",
+        "anthem",
+        "song of praise",
+        "canticle",
+        "chorale",
+        "psalm",
+        "carol",
+        "chant"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Praise or celebrate (something)",
+      "examples": [
+        "Johnson's reply hymns education"
+      ],
+      "synonyms": [
+        "praise",
+        "applaud",
+        "cheer",
+        "commend",
+        "express approval of",
+        "approve",
+        "express admiration for",
+        "welcome",
+        "pay tribute to",
+        "speak highly of",
+        "eulogize",
+        "compliment",
+        "congratulate",
+        "celebrate",
+        "sing the praises of",
+        "praise to the skies",
+        "rave about",
+        "go into raptures about",
+        "go into raptures over",
+        "heap praise on",
+        "wax lyrical about",
+        "say nice things about",
+        "make much of",
+        "pat on the back",
+        "take one's hat off to",
+        "salute",
+        "throw bouquets at",
+        "lionize",
+        "exalt",
+        "admire",
+        "hail",
+        "toast",
+        "flatter",
+        "adulate",
+        "vaunt",
+        "extol",
+        "glorify",
+        "honour",
+        "hymn",
+        "clap"
+      ]
+    },
+    {
+      "description": "Sing hymns.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English, via Latin from Greek humnos ode or song in praise of a god or hero, used in the Septuagint to translate various Hebrew words, and hence in the New Testament and other Christian writings.",
+  "pronounciation": "/him/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hymn_us_1.mp3"
+}

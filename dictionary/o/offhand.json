@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Ungraciously or offensively nonchalant or cool in manner.",
+      "examples": [
+        "his offhand way of talking"
+      ],
+      "synonyms": [
+        "indifferent",
+        "casual",
+        "careless",
+        "uninterested",
+        "unconcerned",
+        "cool",
+        "distant",
+        "aloof",
+        "nonchalant",
+        "blasé",
+        "insouciant",
+        "offhanded",
+        "cavalier",
+        "glib",
+        "perfunctory",
+        "cursory",
+        "unceremonious",
+        "ungracious",
+        "curt",
+        "abrupt",
+        "terse",
+        "brusque",
+        "dismissive",
+        "discourteous",
+        "uncivil",
+        "impolite",
+        "rude"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Without previous thought or consideration.",
+      "examples": [
+        "I can't think of a better answer offhand"
+      ],
+      "synonyms": [
+        "without preparation",
+        "on the spur of the moment",
+        "without consideration",
+        "without checking",
+        "extempore",
+        "impromptu",
+        "ad lib"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɔfˈhænd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/offhand_us_2.mp3"
+}

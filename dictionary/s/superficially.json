@@ -1,0 +1,38 @@
+{
+  "adverb": [
+    {
+      "description": "As to the outward appearance only; on the surface.",
+      "examples": [
+        "the theory is superficially attractive",
+        "superficially, they have little in common"
+      ],
+      "synonyms": [
+        "apparently",
+        "seemingly",
+        "ostensibly",
+        "outwardly",
+        "on the surface",
+        "on the face of it",
+        "to all appearances",
+        "to all intents and purposes",
+        "at first glance",
+        "at face value",
+        "to the casual eye"
+      ]
+    },
+    {
+      "description": "Not thoroughly or deeply.",
+      "examples": [
+        "I understood the issue only superficially"
+      ]
+    },
+    {
+      "description": "At or on the surface or skin.",
+      "examples": [
+        "he was superficially wounded in the neck"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsupərˈfɪʃəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/superficially_us_1.mp3"
+}

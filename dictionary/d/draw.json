@@ -1,0 +1,175 @@
+{
+  "verb": [
+    {
+      "description": "Produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper.",
+      "examples": [
+        "he drew a map"
+      ],
+      "synonyms": [
+        "sketch",
+        "make a drawing",
+        "make a drawing of",
+        "make a diagram",
+        "make a diagram of",
+        "pencil"
+      ]
+    },
+    {
+      "description": "Pull or drag (something such as a vehicle) so as to make it follow behind.",
+      "examples": [
+        "a cart drawn by two horses"
+      ]
+    },
+    {
+      "description": "Take or obtain (liquid) from a container or receptacle.",
+      "examples": [
+        "he drew his gun and peered into the gloomy apartment",
+        "the children went down to the pond to draw water",
+        "the syringe drew off most of the fluid",
+        "he met them with a drawn sword"
+      ],
+      "synonyms": [
+        "pull out",
+        "take out",
+        "bring out",
+        "draw out",
+        "produce",
+        "fish out",
+        "extract",
+        "withdraw"
+      ]
+    },
+    {
+      "description": "Be the cause of (a specified response)",
+      "examples": [
+        "he drew criticism for his lavish spending"
+      ]
+    },
+    {
+      "description": "Select (a ticket or name) randomly to decide winners in a lottery, opponents in a sporting contest, etc.",
+      "examples": [
+        "she drew a ticket and announced the number but no one claimed it"
+      ]
+    },
+    {
+      "description": "Finish (a contest or game) with an even score; tie.",
+      "examples": [
+        "Brazil had drawn a stormy match 1–1"
+      ]
+    },
+    {
+      "description": "Hit (the ball) so that it travels slightly to the left (for a left-handed player, the right), usually as a result of spin given to the ball.",
+      "examples": [
+        "he had to learn to draw the ball—not least for the tee shots at Augusta"
+      ]
+    },
+    {
+      "description": "Impart backspin to (the cue ball), making it move backwards after hitting an object ball.",
+      "examples": []
+    },
+    {
+      "description": "(of a ship) require (a specified depth of water) to float in; have (a certain draft)",
+      "examples": [
+        "boats that draw only a few inches of water"
+      ]
+    },
+    {
+      "description": "(of a sail) be filled with wind.",
+      "examples": []
+    },
+    {
+      "description": "Extract (an object) from a container or receptacle.",
+      "examples": [
+        "he drew his gun and peered into the gloomy apartment"
+      ],
+      "synonyms": [
+        "pull out",
+        "take out",
+        "bring out",
+        "draw out",
+        "produce",
+        "fish out",
+        "extract",
+        "withdraw"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of selecting names randomly, typically by extracting them from a bag or other container, to match competitors in a game or tournament.",
+      "examples": [
+        "the draw has been made for this year's tournament"
+      ],
+      "synonyms": [
+        "raffle",
+        "lottery",
+        "sweepstake",
+        "sweep",
+        "tombola",
+        "ballot"
+      ]
+    },
+    {
+      "description": "A game or contest that ends with the score even; a tie.",
+      "examples": [],
+      "synonyms": [
+        "tie",
+        "dead heat",
+        "stalemate"
+      ]
+    },
+    {
+      "description": "A person or thing that is very attractive or interesting.",
+      "examples": [
+        "the museum has turned out to be a big draw for schoolchildren in the city"
+      ],
+      "synonyms": [
+        "attraction",
+        "lure",
+        "allure",
+        "pull",
+        "appeal",
+        "glamour",
+        "allurement",
+        "enticement",
+        "temptation",
+        "bewitchment",
+        "enchantment",
+        "charm",
+        "seduction",
+        "persuasion",
+        "fascination",
+        "magnetism"
+      ]
+    },
+    {
+      "description": "An act of removing a gun from its holster in order to shoot.",
+      "examples": []
+    },
+    {
+      "description": "A shot causing the ball to deviate to the left (or, for a left-handed golfer, the right).",
+      "examples": []
+    },
+    {
+      "description": "An act of inhaling smoke from a cigarette or cigar.",
+      "examples": [
+        "superb cigars offering tons of peppery smoke on each draw"
+      ]
+    }
+  ],
+  "phrases": [
+    "the blow drew blood from the corner of his mouth",
+    "she knew she'd drawn blood when the smile faded from his face",
+    "But I think they were really disappointed that nobody drew blood.",
+    "Of course since I was stitching after so long I drew blood and then I realized that I had forgotten all about the thimble once again.",
+    "But nobody would really want to fight if a vampire draws blood with no malice.",
+    "the government has drawn back from attempting reform",
+    "The genial married priest, who has six children, draws back from calling the people of the area pagans and denies he came from Uganda to convert.",
+    "I've been planning it, then drawing back from it, getting excited, then getting cold feet, but I finally handed in my resignation at work yesterday.",
+    "Both companies looked at floating two years ago but drew back in the face of falling share prices.",
+    "It draws back from the frenzied pursuit of marketing novelties and technological turnover and assumes the measured pace of humane and sustainable values."
+  ],
+  "origin": "Old English dragan, of Germanic origin; related to Dutch dragen and German tragen, also to draught.",
+  "pronounciation": "/drô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/draw_us_1.mp3"
+}

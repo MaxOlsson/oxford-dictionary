@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "Another time; once more.",
+      "examples": [
+        "it was great to meet old friends again",
+        "they were disappointed yet again"
+      ],
+      "synonyms": [
+        "once more",
+        "one more time",
+        "another time",
+        "a second time",
+        "afresh",
+        "anew"
+      ]
+    }
+  ],
+  "phrases": [
+    "I read this author again and again",
+    "An accountant is worried that he will miscount money, so he counts it again and again.",
+    "Despite endless trips around the island by boat trying to sneak up on the beasts, they ran off again and again.",
+    "The process repeated itself again and again, driving the siblings to the brink of insanity.",
+    "Those who have listened to him once are found to be yearning to watch him perform again and again."
+  ],
+  "origin": "Old English ongēan, ongægn, etc., of Germanic origin; related to German entgegen opposite.",
+  "pronounciation": "/əˈɡen/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/again_us_1.mp3"
+}

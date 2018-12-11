@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a committee or its activity) having the purpose of discovering and establishing the facts of an issue.",
+      "examples": [
+        "a fact-finding mission"
+      ],
+      "synonyms": [
+        "examination",
+        "enquiry",
+        "study",
+        "inspection",
+        "exploration",
+        "consideration",
+        "analysis",
+        "appraisal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The discovery and establishment of the facts of an issue.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfækt ˌfaɪndɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fact_finding_1_us_1.mp3"
+}

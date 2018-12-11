@@ -1,0 +1,19 @@
+{
+  "plural noun": [
+    {
+      "description": "Dessert.",
+      "examples": [
+        "there was apple pie for afters"
+      ],
+      "synonyms": [
+        "dessert",
+        "pudding",
+        "sweet course",
+        "second course",
+        "last course"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaftərz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afters_us_1.mp3"
+}

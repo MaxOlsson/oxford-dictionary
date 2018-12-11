@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "Dawn.",
+      "examples": [],
+      "synonyms": [
+        "daybreak",
+        "break of day",
+        "crack of dawn",
+        "sunrise",
+        "first light",
+        "daylight",
+        "first thing in the morning",
+        "early morning",
+        "cockcrow"
+      ]
+    },
+    {
+      "description": "The beginning or first appearance of something.",
+      "examples": [
+        "the dawning of civilization"
+      ],
+      "synonyms": [
+        "beginning",
+        "start",
+        "birth",
+        "inception",
+        "conception",
+        "origination",
+        "genesis",
+        "emergence",
+        "advent",
+        "coming",
+        "appearance",
+        "debut",
+        "arrival",
+        "rise",
+        "starting point",
+        "origin",
+        "launch",
+        "institution",
+        "inauguration",
+        "opening",
+        "initiation",
+        "onset",
+        "outset",
+        "unfolding",
+        "development",
+        "infancy"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Beginning to grow light.",
+      "examples": [
+        "the dawning sky"
+      ]
+    },
+    {
+      "description": "Coming into existence.",
+      "examples": [
+        "the dawning era of Internet TV"
+      ]
+    }
+  ],
+  "origin": "Middle English: alteration of earlier dawing, from Old English dagian to dawn, of Germanic origin; related to Dutch dagen and German tagen, also to day.",
+  "pronounciation": "/ˈdɔnɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dawning_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not able or likely to cause harm.",
+      "examples": [
+        "the venom of most spiders is harmless to humans"
+      ],
+      "synonyms": [
+        "safe",
+        "innocuous",
+        "benign",
+        "gentle",
+        "mild",
+        "wholesome",
+        "non-dangerous",
+        "non-toxic",
+        "non-poisonous",
+        "non-irritant",
+        "non-addictive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɑrmləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harmless_us_1.mp3"
+}

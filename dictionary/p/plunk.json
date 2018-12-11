@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "Play a keyboard or plucked stringed instrument, especially in an inexpressive or unskilled way.",
+      "examples": [],
+      "synonyms": [
+        "strum",
+        "pick",
+        "thrum",
+        "twang",
+        "finger"
+      ]
+    },
+    {
+      "description": "Hit (someone) abruptly.",
+      "examples": [],
+      "synonyms": [
+        "bang",
+        "slam",
+        "crash",
+        "thump",
+        "sling",
+        "fling"
+      ]
+    },
+    {
+      "description": "Put or set (something) down heavily or abruptly.",
+      "examples": [
+        "she plunked her purse on top of the bar"
+      ],
+      "synonyms": [
+        "put down",
+        "put",
+        "set",
+        "set down",
+        "lay down",
+        "deposit",
+        "position",
+        "plant",
+        "rest",
+        "stand",
+        "sit",
+        "settle",
+        "station",
+        "situate",
+        "leave",
+        "stow",
+        "prop",
+        "lean"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sound made by abruptly plucking a string of a stringed instrument.",
+      "examples": []
+    },
+    {
+      "description": "A heavy blow.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: probably imitative.",
+  "pronounciation": "/pləŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plunk_us_1.mp3"
+}

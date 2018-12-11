@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Provoke or annoy (someone) so as to stimulate some action or reaction.",
+      "examples": [
+        "he goaded her on to more daring revelations"
+      ],
+      "synonyms": [
+        "provoke",
+        "spur",
+        "prick",
+        "sting",
+        "prod",
+        "egg on",
+        "hound",
+        "badger",
+        "incite",
+        "rouse",
+        "stir",
+        "move",
+        "stimulate",
+        "motivate",
+        "excite",
+        "inflame",
+        "fire up",
+        "work up",
+        "impel",
+        "pressure",
+        "pressurize",
+        "dragoon",
+        "prompt",
+        "induce",
+        "encourage",
+        "urge",
+        "inspire"
+      ]
+    },
+    {
+      "description": "Drive or urge (an animal) on with a goad.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spiked stick used for driving cattle.",
+      "examples": [],
+      "synonyms": [
+        "prod",
+        "spiked stick",
+        "spike",
+        "staff",
+        "crook",
+        "pole",
+        "rod"
+      ]
+    }
+  ],
+  "origin": "Old English gād, of Germanic origin.",
+  "pronounciation": "/ɡōd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/goad_us_1.mp3"
+}

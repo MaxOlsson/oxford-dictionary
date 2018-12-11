@@ -1,0 +1,108 @@
+{
+  "adjective": [
+    {
+      "description": "Of or at a fairly low temperature.",
+      "examples": [
+        "it'll be a cool afternoon",
+        "the wind kept them cool"
+      ],
+      "synonyms": [
+        "chilly",
+        "cold"
+      ]
+    },
+    {
+      "description": "Showing no friendliness toward a person or enthusiasm for an idea or project.",
+      "examples": [
+        "he gave a cool reception to the suggestion for a research center"
+      ],
+      "synonyms": [
+        "unenthusiastic",
+        "lukewarm",
+        "tepid",
+        "indifferent",
+        "apathetic",
+        "half-hearted",
+        "negative"
+      ]
+    },
+    {
+      "description": "Fashionably attractive or impressive.",
+      "examples": [
+        "I always wore sunglasses to look cool"
+      ],
+      "synonyms": [
+        "fashionable",
+        "in fashion",
+        "in vogue",
+        "voguish",
+        "up to date",
+        "bang up to date",
+        "up to the minute",
+        "modern",
+        "all the rage",
+        "modish",
+        "trendsetting",
+        "stylish",
+        "chic"
+      ]
+    },
+    {
+      "description": "Used to emphasize a specified quantity or amount, especially of money.",
+      "examples": [
+        "a cool $15,000 to buy the franchise"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fairly low temperature.",
+      "examples": [
+        "the cool of the night air"
+      ],
+      "synonyms": [
+        "chill",
+        "chilliness",
+        "coldness"
+      ]
+    },
+    {
+      "description": "Calmness; composure.",
+      "examples": [
+        "he recovered his cool and then started laughing at us"
+      ]
+    },
+    {
+      "description": "The quality of being fashionably attractive or impressive.",
+      "examples": [
+        "all the cool of high fashion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become or cause to become less hot.",
+      "examples": [
+        "we dived into the river to cool off",
+        "cool the pastry for five minutes",
+        "his feelings for her took a long time to cool"
+      ],
+      "synonyms": [
+        "chill",
+        "refrigerate",
+        "make cold",
+        "make colder"
+      ]
+    }
+  ],
+  "phrases": [
+    "She had to stay calm and keep her cool before the match.",
+    "William somehow managed to keep his cool and retain control of their car.",
+    "There are two kinds: people who freak out, and people who keep their cool.",
+    "Despite the fact that he was vastly outnumbered John never lost his cool, stayed calm and came away with a deserved victory.",
+    "We'll teach you how to keep your cool and stay calm in tight situations."
+  ],
+  "origin": "Old English cōl (noun), cōlian (verb), of Germanic origin; related to Dutch koel, also to cold.",
+  "pronounciation": "/ko͞ol/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cool_us_1.mp3"
+}

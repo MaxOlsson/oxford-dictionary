@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "An instance of one moving object or person striking violently against another.",
+      "examples": [
+        "a midair collision between two aircraft",
+        "the device increases the chances of collision"
+      ],
+      "synonyms": [
+        "crash",
+        "accident",
+        "smash",
+        "bump",
+        "knock",
+        "impact",
+        "hit",
+        "strike",
+        "clash"
+      ]
+    },
+    {
+      "description": "An event of two or more records being assigned the same identifier or location in memory.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Future discoveries and space missions would provide information about how to deflect an asteroid on collision course with Earth.",
+    "Both drivers realised they were on collision course and applied their emergency brakes, halting the vehicles around two tram lengths apart.",
+    "It indicates no distinction between the colours of normal flights and flights on collision course.",
+    "The vote again sets the Lords on collision course with the Commons in the long-fought battle over hunting.",
+    "At Manchester Airport in February a MyTravel Airways plane and a Ryanair aircraft were on collision course before take-off and disaster was averted only by the fast reactions of one of the pilots."
+  ],
+  "origin": "Late Middle English: from late Latin collisio(n-), from Latin collidere strike together (see collide).",
+  "pronounciation": "/kəˈlɪʒən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collision_us_1.mp3"
+}

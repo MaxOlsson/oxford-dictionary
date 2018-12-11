@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Not characterized by good taste, manners, or education.",
+      "examples": [
+        "to my uncultured palate most of the wines were good"
+      ],
+      "synonyms": [
+        "boorish",
+        "loutish",
+        "oafish",
+        "brutish",
+        "coarse",
+        "crude",
+        "uncouth",
+        "rough-hewn",
+        "roughcast",
+        "vulgar",
+        "unrefined",
+        "unladylike",
+        "ungentlemanly",
+        "ill-bred",
+        "ill-mannered",
+        "unmannerly",
+        "impolite",
+        "churlish",
+        "discourteous",
+        "uncivil",
+        "ungracious",
+        "rude",
+        "brusque",
+        "blunt",
+        "curt"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkəlCHərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncultured_us_1.mp3"
+}

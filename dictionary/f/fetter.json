@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A chain or manacle used to restrain a prisoner, typically placed around the ankles.",
+      "examples": [
+        "he lay bound with fetters of iron"
+      ],
+      "synonyms": [
+        "shackles",
+        "manacles",
+        "handcuffs",
+        "irons",
+        "leg irons",
+        "chains",
+        "bonds"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Restrain with chains or manacles, typically around the ankles.",
+      "examples": [
+        "the Supervisor tossed a key to the old slave to unlock the chain that fettered the prisoners together"
+      ],
+      "synonyms": [
+        "shackle",
+        "manacle",
+        "handcuff",
+        "clap in irons",
+        "put in chains",
+        "chain",
+        "chain up",
+        "bind",
+        "tie",
+        "tie up",
+        "tether",
+        "rope",
+        "hobble"
+      ]
+    }
+  ],
+  "origin": "Old English feter, of Germanic origin; related to Dutch veter a lace, from an Indo-European root shared by foot.",
+  "pronounciation": "/ˈfɛdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fetter_us_1.mp3"
+}

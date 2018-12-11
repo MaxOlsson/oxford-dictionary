@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Recognizably different in nature from something else of a similar type.",
+      "examples": [
+        "the patterns of spoken language are distinct from those of writing",
+        "there are two distinct types of sickle cell disease"
+      ],
+      "synonyms": [
+        "clear",
+        "clear-cut",
+        "definite",
+        "well defined",
+        "sharp",
+        "marked",
+        "decided",
+        "unmistakable",
+        "easily distinguishable"
+      ]
+    },
+    {
+      "description": "Readily distinguishable by the senses.",
+      "examples": [
+        "a distinct smell of nicotine"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense differentiated): from Latin distinctus separated, distinguished, from the verb distinguere (see distinguish).",
+  "pronounciation": "/dəˈstiNG(k)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distinct_us_1.mp3"
+}

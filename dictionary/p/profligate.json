@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Recklessly extravagant or wasteful in the use of resources.",
+      "examples": [
+        "profligate consumers of energy"
+      ],
+      "synonyms": [
+        "wasteful",
+        "extravagant",
+        "spendthrift",
+        "improvident",
+        "prodigal",
+        "immoderate",
+        "excessive",
+        "thriftless",
+        "imprudent",
+        "reckless",
+        "irresponsible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A licentious, dissolute person.",
+      "examples": [],
+      "synonyms": [
+        "libertine",
+        "debauchee",
+        "degenerate",
+        "reprobate",
+        "roué",
+        "lecher",
+        "rake",
+        "loose-liver",
+        "dissolute person"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense overthrown, routed): from Latin profligatus dissolute, past participle of profligare overthrow, ruin, from pro- forward, down + fligere strike down.",
+  "pronounciation": "/ˈprɑfləɡət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/profligate_us_2.mp3"
+}

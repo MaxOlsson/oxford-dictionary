@@ -1,0 +1,175 @@
+{
+  "verb": [
+    {
+      "description": "Lay hold of (something) with one's hands; reach for and hold.",
+      "examples": [
+        "he leaned forward to take her hand"
+      ],
+      "synonyms": [
+        "lay hold of",
+        "take hold of",
+        "get hold of",
+        "get into one's hands"
+      ]
+    },
+    {
+      "description": "Remove (someone or something) from a particular place.",
+      "examples": [
+        "he took an envelope from his inside pocket",
+        "the police took him away"
+      ],
+      "synonyms": [
+        "remove",
+        "pull",
+        "draw",
+        "withdraw",
+        "extract",
+        "fish"
+      ]
+    },
+    {
+      "description": "Carry or bring with one; convey.",
+      "examples": [
+        "he took along a portfolio of his drawings",
+        "the drive takes you through some wonderful scenery",
+        "I took him a letter"
+      ],
+      "synonyms": [
+        "bring",
+        "carry",
+        "bear",
+        "transport",
+        "convey",
+        "move",
+        "transfer",
+        "shift",
+        "haul",
+        "drag",
+        "lug",
+        "cart",
+        "ferry"
+      ]
+    },
+    {
+      "description": "Accept or receive (someone or something)",
+      "examples": [
+        "she was advised to take any job offered",
+        "they don't take children"
+      ],
+      "synonyms": [
+        "accept",
+        "take up",
+        "take on",
+        "undertake"
+      ]
+    },
+    {
+      "description": "Consume as food, drink, medicine, or drugs.",
+      "examples": [
+        "take an aspirin and lie down"
+      ],
+      "synonyms": [
+        "drink",
+        "imbibe"
+      ]
+    },
+    {
+      "description": "Make, undertake, or perform (an action or task)",
+      "examples": [
+        "Lucy took a deep breath",
+        "he took the oath of office"
+      ],
+      "synonyms": [
+        "perform",
+        "execute",
+        "effect",
+        "discharge",
+        "carry out",
+        "accomplish",
+        "fulfil",
+        "complete",
+        "conduct",
+        "implement",
+        "do",
+        "make",
+        "have"
+      ]
+    },
+    {
+      "description": "Require or use up (a specified amount of time)",
+      "examples": [
+        "the jury took an hour and a half to find McPherson guilty",
+        "it takes me about a quarter of an hour to walk to work"
+      ],
+      "synonyms": [
+        "last",
+        "continue for",
+        "go on for",
+        "carry on for",
+        "keep on for",
+        "run on for",
+        "endure for"
+      ]
+    },
+    {
+      "description": "(of a plant or seed) take root or begin to grow; germinate.",
+      "examples": [
+        "the fuchsia cuttings had taken and were looking good"
+      ]
+    },
+    {
+      "description": "Have or require as part of the appropriate construction.",
+      "examples": [
+        "verbs that take both the infinitive and the finite clause as their object"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A scene or sequence of sound or vision photographed or recorded continuously at one time.",
+      "examples": [
+        "he completed a particularly difficult scene in two takes"
+      ],
+      "synonyms": [
+        "scene",
+        "sequence",
+        "filmed sequence",
+        "clip",
+        "part",
+        "segment"
+      ]
+    },
+    {
+      "description": "An amount of something gained or acquired from one source or in one session.",
+      "examples": [
+        "the take from commodity taxation"
+      ],
+      "synonyms": [
+        "catch",
+        "haul",
+        "bag",
+        "yield",
+        "net"
+      ]
+    },
+    {
+      "description": "An amount of copy set up at one time or by one compositor.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "For years now we have listened to and read about one inquiry after another, about this politician and that politician who was on the take.",
+    "Bulgarians are trenchant in their view that their country can no longer be perceived as a lawless, volatile state where every citizen is on the take.",
+    "Of course there are people who say that Miller is on the take from someone for his vociferous defense of the this potential ecological nightmare.",
+    "Spain's government is under mounting pressure from opposition politicians in Parliament who want to know whether Spanish officials also were on the take.",
+    "They made no secret of the fact that they were on the take.",
+    "the rest of us take after our mother",
+    "May you take after your wonderful parents, and my treasured friends who share your name.",
+    "I just hope though that the kids take after their mother.",
+    "I took after my mother, at least Pa always told me so.",
+    "He was blonde and resembled his mother while his sisters took after their father."
+  ],
+  "origin": "Late Old English tacan get (especially by force), capture, from Old Norse taka grasp, lay hold of, of unknown ultimate origin.",
+  "pronounciation": "/teɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/take_us_1.mp3"
+}

@@ -1,0 +1,92 @@
+{
+  "verb": [
+    {
+      "description": "Bring and hand over (a letter, parcel, or ordered goods) to the proper recipient or address.",
+      "examples": [
+        "the products should be delivered on time",
+        "we'll deliver direct to your door"
+      ],
+      "synonyms": [
+        "bring",
+        "take",
+        "take round",
+        "convey",
+        "carry",
+        "transport",
+        "distribute",
+        "drop-ship"
+      ]
+    },
+    {
+      "description": "Provide (something promised or expected)",
+      "examples": [
+        "he had been able to deliver votes in huge numbers",
+        "she's waiting for him to deliver on his promise"
+      ],
+      "synonyms": [
+        "provide",
+        "supply",
+        "furnish"
+      ]
+    },
+    {
+      "description": "Launch or aim (a blow, ball, or attack)",
+      "examples": [
+        "the pitcher winds up to deliver the ball"
+      ],
+      "synonyms": [
+        "administer",
+        "deal",
+        "inflict",
+        "give",
+        "direct",
+        "aim"
+      ]
+    },
+    {
+      "description": "Assist in the birth of.",
+      "examples": [
+        "the village midwife delivered the baby"
+      ],
+      "synonyms": [
+        "give birth to",
+        "bear",
+        "be delivered of",
+        "have",
+        "bring into the world",
+        "bring forth"
+      ]
+    },
+    {
+      "description": "Save, rescue, or set someone or something free from.",
+      "examples": [
+        "deliver us from misery"
+      ],
+      "synonyms": [
+        "save",
+        "rescue",
+        "set free",
+        "free",
+        "liberate",
+        "release",
+        "set at liberty",
+        "set loose",
+        "extricate",
+        "discharge",
+        "emancipate",
+        "redeem",
+        "ransom"
+      ]
+    }
+  ],
+  "phrases": [
+    "At 336.5p, the shares could go higher if the company delivers the goods.",
+    "The problem is the gap between the promises of basic discovery and the clinical trials that deliver the goods.",
+    "It's much more difficult to deliver the goods when everyone expects it of you.",
+    "Although rather sparse by Hong Kong standards, when the hand-to-hand kicks in, it delivers the goods.",
+    "The ministers and MPs are aware that people's expectations are very high as they are expected to deliver the goods."
+  ],
+  "origin": "Middle English: from Old French delivrer, based on Latin de- away + liberare set free.",
+  "pronounciation": "/dəˈlɪvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deliver_us_1.mp3"
+}

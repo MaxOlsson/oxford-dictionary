@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A continuous rattling sound as of hard objects falling or striking each other.",
+      "examples": [
+        "the horse spun around with a clatter of hooves",
+        "she dropped her knife and fork with a clatter"
+      ],
+      "synonyms": [
+        "uproar",
+        "racket",
+        "loud noise",
+        "confused noise",
+        "commotion",
+        "cacophony",
+        "babel",
+        "hubbub",
+        "tumult",
+        "fracas",
+        "clangour",
+        "crash",
+        "clatter",
+        "clash"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or cause to make a continuous rattling sound.",
+      "examples": [
+        "her coffee cup clattered in the saucer",
+        "she clattered cups and saucers onto a tray"
+      ],
+      "synonyms": [
+        "rattle",
+        "clank",
+        "clink",
+        "clunk",
+        "clang",
+        "bang"
+      ]
+    }
+  ],
+  "origin": "Old English (as a verb), of imitative origin.",
+  "pronounciation": "/ˈklædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clatter_us_1.mp3"
+}

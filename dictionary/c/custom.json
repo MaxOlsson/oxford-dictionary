@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.",
+      "examples": [
+        "the old English custom of dancing around the maypole",
+        "custom demanded that a person should have gifts for the child"
+      ],
+      "synonyms": [
+        "tradition",
+        "practice",
+        "usage",
+        "observance",
+        "way",
+        "convention",
+        "procedure",
+        "ceremony",
+        "ritual",
+        "ordinance",
+        "form",
+        "formality",
+        "fashion",
+        "mode",
+        "manner"
+      ]
+    },
+    {
+      "description": "Regular dealings with a shop or business by customers.",
+      "examples": [
+        "if you keep me waiting, I will take my custom elsewhere"
+      ],
+      "synonyms": [
+        "business",
+        "patronage",
+        "trade",
+        "support"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Made or done to order for a particular customer.",
+      "examples": [
+        "a custom guitar"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French coustume, based on Latin consuetudo, from consuetus, past participle of consuescere accustom, from con- (expressing intensive force) + suescere become accustomed.",
+  "pronounciation": "/ˈkəstəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/custom_us_1.mp3"
+}

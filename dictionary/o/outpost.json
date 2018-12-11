@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A small military camp or position at some distance from the main force, used especially as a guard against surprise attack.",
+      "examples": [],
+      "synonyms": [
+        "territory",
+        "possession",
+        "holding",
+        "dependency",
+        "province",
+        "dominion",
+        "protectorate",
+        "satellite",
+        "satellite state",
+        "settlement"
+      ]
+    },
+    {
+      "description": "A remote part of a country or empire.",
+      "examples": [],
+      "synonyms": [
+        "dependency",
+        "colony",
+        "protectorate",
+        "territory",
+        "province",
+        "satellite",
+        "satellite state"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊtˌpoʊst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outpost_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Nonclerical; lay.",
+      "examples": [],
+      "synonyms": [
+        "earthly",
+        "terrestrial",
+        "temporal",
+        "mundane",
+        "mortal",
+        "human",
+        "non-spiritual",
+        "unspiritual",
+        "material",
+        "materialistic",
+        "physical",
+        "tangible",
+        "carnal",
+        "fleshly",
+        "bodily",
+        "corporeal",
+        "gross",
+        "sensual",
+        "base",
+        "sordid",
+        "vile",
+        "profane"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A layperson; a noncleric.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from late Latin laicus (see lay).",
+  "pronounciation": "/ˈlāik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/laic_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "An inclined part of a road or railway; a slope.",
+      "examples": [
+        "fail-safe brakes for use on steep gradients"
+      ],
+      "synonyms": [
+        "slope",
+        "incline",
+        "hill",
+        "rise",
+        "rising ground",
+        "bank",
+        "ramp",
+        "acclivity"
+      ]
+    },
+    {
+      "description": "An increase or decrease in the magnitude of a property (e.g. temperature, pressure, or concentration) observed in passing from one point or moment to another.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: from grade, on the pattern of salient.",
+  "pronounciation": "/ˈɡrādēənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gradient_us_1.mp3"
+}

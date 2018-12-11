@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Subject to chance.",
+      "examples": [
+        "the contingent nature of the job"
+      ],
+      "synonyms": [
+        "chance",
+        "accidental",
+        "fortuitous",
+        "possible",
+        "unforeseen",
+        "unforeseeable",
+        "unexpected",
+        "unpredicted",
+        "unpredictable",
+        "unanticipated",
+        "unlooked-for"
+      ]
+    },
+    {
+      "description": "Occurring or existing only if (certain circumstances) are the case; dependent on.",
+      "examples": [
+        "resolution of the conflict was contingent on the signing of a ceasefire agreement"
+      ],
+      "synonyms": [
+        "dependent",
+        "conditional"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A group of people united by some common feature, forming part of a larger group.",
+      "examples": [
+        "a contingent of Japanese businessmen attending a conference"
+      ],
+      "synonyms": [
+        "group",
+        "party",
+        "body",
+        "band",
+        "set"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense of uncertain occurrence): from Latin contingere befall, from con- together with + tangere to touch. The noun sense was originally something happening by chance, then a person's share resulting from a division, a quota; the current sense dates from the early 18th century.",
+  "pronounciation": "/kənˈtɪndʒənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontingent_us_1.mp3"
+}

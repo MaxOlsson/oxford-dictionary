@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Talk with continued involuntary repetition of sounds, especially initial consonants.",
+      "examples": [
+        "the child was stuttering in fright"
+      ],
+      "synonyms": [
+        "stammer",
+        "stumble",
+        "speak haltingly",
+        "falter",
+        "speak falteringly",
+        "flounder",
+        "hesitate",
+        "pause",
+        "halt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tendency to stutter while speaking.",
+      "examples": [],
+      "synonyms": [
+        "stammer",
+        "speech impediment",
+        "speech defect"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as a verb): frequentative of dialect stut, of Germanic origin; related to German stossen strike against.",
+  "pronounciation": "/ˈstədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stutter_us_1.mp3"
+}

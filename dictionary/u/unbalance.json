@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone or something) unsteady so that they tip or fall.",
+      "examples": [],
+      "synonyms": [
+        "unstable",
+        "rocky",
+        "wobbly",
+        "wobbling",
+        "rickety",
+        "shaky",
+        "shaking",
+        "tottery",
+        "tottering",
+        "teetering",
+        "unsafe",
+        "unbalanced",
+        "unreliable",
+        "insecure",
+        "not secure",
+        "unfastened",
+        "unsecured",
+        "movable",
+        "precarious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A lack of symmetry, balance, or stability.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈbaləns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbalance_us_1.mp3"
+}

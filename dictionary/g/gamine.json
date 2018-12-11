@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a girl) attractively boyish.",
+      "examples": [
+        "a picture featuring a gamine young model",
+        "a short, gamine haircut"
+      ],
+      "synonyms": [
+        "urchin",
+        "street urchin",
+        "ragamuffin",
+        "guttersnipe",
+        "waif",
+        "stray",
+        "outcast"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A girl with a mischievous, boyish charm.",
+      "examples": [
+        "a long-legged, short-haired gamine"
+      ]
+    },
+    {
+      "description": "A female street urchin.",
+      "examples": [
+        "I left school and fell in with some gamines"
+      ],
+      "synonyms": [
+        "urchin",
+        "street urchin",
+        "ragamuffin",
+        "guttersnipe",
+        "waif",
+        "stray",
+        "outcast"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: French, feminine of gamin (see gamin).",
+  "pronounciation": "/ɡaˈmēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gamine_us_1.mp3"
+}

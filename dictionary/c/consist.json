@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Be composed or made up of.",
+      "examples": [
+        "the exhibition consists of 180 drawings"
+      ],
+      "synonyms": [
+        "be composed",
+        "be made up",
+        "be formed"
+      ]
+    },
+    {
+      "description": "Be consistent with.",
+      "examples": [
+        "the information perfectly consists with our friend's account"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A set of railroad vehicles forming a complete train.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense be located or inherent in): from Latin consistere stand firm or still, exist, from con- together + sistere stand (still).",
+  "pronounciation": "/kənˈsist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsist_us_1.mp3"
+}

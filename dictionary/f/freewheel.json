@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Ride a bicycle with the pedals at rest, especially downhill.",
+      "examples": [
+        "he had come freewheeling down the road"
+      ],
+      "synonyms": [
+        "coast",
+        "cruise",
+        "drift",
+        "glide",
+        "sail",
+        "skim",
+        "float"
+      ]
+    },
+    {
+      "description": "Act or proceed in a relaxed or casual way, without making much effort.",
+      "examples": [
+        "I'm not the sort of person who would freewheel his way to the end of a contract",
+        "another manager might have been willing to freewheel through one final season"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A device that allows a bicycle wheel to revolve forward while the crank is stationary.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfri(h)wil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/freewheel_us_1.mp3"
+}

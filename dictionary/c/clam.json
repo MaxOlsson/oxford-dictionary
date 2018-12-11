@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A marine bivalve mollusk with shells of equal size.",
+      "examples": []
+    },
+    {
+      "description": "A dollar.",
+      "examples": [
+        "all I got for the job was 50 lousy clams"
+      ]
+    },
+    {
+      "description": "A shy or withdrawn person.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dig for or collect clams.",
+      "examples": [
+        "it was one of the worst times for clamming"
+      ]
+    },
+    {
+      "description": "Abruptly stop talking, either for fear of revealing a secret or from shyness.",
+      "examples": [],
+      "synonyms": [
+        "be quiet",
+        "keep quiet",
+        "stay quiet",
+        "be silent",
+        "keep silent",
+        "stay silent",
+        "hold one's tongue",
+        "keep one's lips sealed"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: apparently from earlier clam a clamp, from Old English clam, clamm a bond or bondage, of Germanic origin; related to Dutch klemme, German Klemme, also to clamp.",
+  "pronounciation": "/klam/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clam_us_1.mp3"
+}

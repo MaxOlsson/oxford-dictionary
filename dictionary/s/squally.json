@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "(of weather) characterized by squalls.",
+      "examples": [
+        "squally showers"
+      ],
+      "synonyms": [
+        "stormy",
+        "gusty",
+        "gusting",
+        "blustery",
+        "blustering",
+        "windy",
+        "breezy",
+        "blowy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskwɔli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squally_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A thing or event that existed before or logically precedes another.",
+      "examples": [
+        "some antecedents to the African novel might exist in Africa's oral traditions"
+      ],
+      "synonyms": [
+        "precursor",
+        "forerunner",
+        "predecessor"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Preceding in time or order; previous or preexisting.",
+      "examples": [
+        "the antecedent events that prompt you to break a diet"
+      ],
+      "synonyms": [
+        "previous",
+        "earlier",
+        "prior",
+        "foregoing",
+        "preceding",
+        "precursory"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French or from Latin antecedent- going before, from antecedere, from ante before + cedere go.",
+  "pronounciation": "/ˌæn(t)əˈsidnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/antecedent_us_1.mp3"
+}

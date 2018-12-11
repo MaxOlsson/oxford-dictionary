@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The shrinkage of an organ in old age or when inactive, e.g. of the uterus after childbirth.",
+      "examples": []
+    },
+    {
+      "description": "A function, transformation, or operator that is equal to its inverse, i.e. which gives the identity when applied to itself.",
+      "examples": []
+    },
+    {
+      "description": "The process of involving or complicating, or the state of being involved or complicated.",
+      "examples": [
+        "periods of artistic involution"
+      ],
+      "synonyms": [
+        "complexity",
+        "intricacy",
+        "complication",
+        "twist",
+        "turn",
+        "entanglement",
+        "contortion"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense (part) curling inwards): from Latin involutio(n-), from involvere (see involve).",
+  "pronounciation": "/ˌɪnvəˈluʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/involution_us_1.mp3"
+}

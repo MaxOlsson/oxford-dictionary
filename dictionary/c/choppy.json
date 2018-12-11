@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "(of a sea or river) having many small waves.",
+      "examples": [
+        "sea conditions are often very choppy",
+        "heavy, choppy seas"
+      ],
+      "synonyms": [
+        "rough",
+        "full of waves",
+        "turbulent",
+        "heavy",
+        "heaving",
+        "storm-tossed",
+        "stormy",
+        "tempestuous",
+        "squally"
+      ]
+    },
+    {
+      "description": "Having a disjointed or jerky quality.",
+      "examples": [
+        "the choppy, electronic beat of hip hop"
+      ],
+      "synonyms": [
+        "bouncy",
+        "rough",
+        "uncomfortable",
+        "jolting",
+        "jolty",
+        "lurching",
+        "jerky",
+        "jumpy",
+        "jarring",
+        "bone-shaking",
+        "bone-breaking",
+        "jouncy",
+        "jouncing",
+        "turbulent"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a hairstyle in which layers and sections of hair are cut at different lengths.",
+      "examples": [
+        "a choppy bob"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the sense full of chaps or clefts): from chop + -y.",
+  "pronounciation": "/ˈCHäpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/choppy_us_1.mp3"
+}

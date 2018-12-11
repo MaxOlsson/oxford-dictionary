@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A short ax with a large blade.",
+      "examples": [],
+      "synonyms": [
+        "axe",
+        "cleaver",
+        "hatchet"
+      ]
+    },
+    {
+      "description": "A helicopter.",
+      "examples": []
+    },
+    {
+      "description": "A motorcycle, especially one with high handlebars and the front-wheel fork extended forward.",
+      "examples": []
+    },
+    {
+      "description": "A batted ball that makes a high bounce after hitting the ground in fair territory.",
+      "examples": [
+        "Bell followed with a high chopper to the third baseman"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃɑpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chopper_us_1.mp3"
+}

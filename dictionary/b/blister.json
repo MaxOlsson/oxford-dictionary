@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A small bubble on the skin filled with serum and caused by friction, burning, or other damage.",
+      "examples": [],
+      "synonyms": [
+        "bleb",
+        "bulla",
+        "pustule",
+        "vesicle",
+        "vesication",
+        "blain"
+      ]
+    },
+    {
+      "description": "An annoying person.",
+      "examples": [
+        "the child is a disgusting little blister"
+      ],
+      "synonyms": [
+        "nuisance",
+        "bother",
+        "annoyance",
+        "irritation",
+        "irritant",
+        "thorn in one's flesh",
+        "thorn in one's side",
+        "vexation",
+        "trial",
+        "the bane of one's life",
+        "menace",
+        "curse",
+        "problem",
+        "trouble",
+        "worry",
+        "inconvenience",
+        "bore",
+        "gadfly"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form blisters on the skin or other surface.",
+      "examples": [
+        "the surface of the door began to blister"
+      ],
+      "synonyms": [
+        "peel off",
+        "peel",
+        "chip",
+        "scale off",
+        "blister",
+        "come off",
+        "come off in layers"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps from Old French blestre swelling, pimple.",
+  "pronounciation": "/ˈblistər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blister_us_1.mp3"
+}

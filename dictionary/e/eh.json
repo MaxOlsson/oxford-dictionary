@@ -1,0 +1,24 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to represent a sound made in speech in a variety of situations, in particular to ask for something to be repeated or explained or to elicit agreement.",
+      "examples": [
+        "“Eh? What's this?”",
+        "“Let's hope so, eh?”"
+      ],
+      "synonyms": [
+        "what did you say",
+        "what",
+        "eh",
+        "i beg your pardon",
+        "beg pardon",
+        "sorry",
+        "excuse me",
+        "say again"
+      ]
+    }
+  ],
+  "origin": "Natural utterance: first recorded in English in the mid 16th century.",
+  "pronounciation": "/ā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eh_us_2.mp3"
+}

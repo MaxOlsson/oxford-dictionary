@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Expressing contempt or disapproval.",
+      "examples": [
+        "permissiveness is used almost universally as a pejorative term"
+      ],
+      "synonyms": [
+        "disparaging",
+        "derogatory",
+        "denigratory",
+        "deprecatory",
+        "defamatory",
+        "slanderous",
+        "libellous",
+        "abusive",
+        "insulting",
+        "slighting",
+        "vituperative",
+        "disapproving",
+        "contemptuous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word expressing contempt or disapproval.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century: from French péjoratif, -ive, from late Latin pejorare make worse, from Latin pejor worse.",
+  "pronounciation": "/pəˈdʒɔrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pejorative_us_3.mp3"
+}

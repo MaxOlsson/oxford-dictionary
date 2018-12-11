@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A person who is among the first to explore or settle a new country or area.",
+      "examples": [],
+      "synonyms": [
+        "settler",
+        "colonist",
+        "colonizer",
+        "frontiersman",
+        "frontierswoman",
+        "explorer",
+        "trailblazer",
+        "discoverer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Develop or be the first to use or apply (a new method, area of knowledge, or activity)",
+      "examples": [
+        "he has pioneered a number of innovative techniques"
+      ],
+      "synonyms": [
+        "develop",
+        "introduce",
+        "evolve",
+        "start",
+        "begin",
+        "launch",
+        "instigate",
+        "initiate",
+        "put in place",
+        "take the initiative in",
+        "take the lead in",
+        "spearhead",
+        "institute",
+        "establish",
+        "found",
+        "give birth to",
+        "be the father of",
+        "be the mother of",
+        "originate",
+        "set in motion",
+        "create",
+        "open up",
+        "lay the groundwork for",
+        "lead the way for",
+        "prepare the way for",
+        "lay the foundations of"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A series of American space probes launched between 1958 and 1973, two of which provided the first clear pictures of Jupiter and Saturn (1973–79).",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century (as a military term denoting a member of the infantry): from French pionnier foot soldier, pioneer, Old French paonier, from paon, from Latin pedo, pedon- (see pawn).",
+  "pronounciation": "/ˌpaɪəˈnɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pioneer_us_1.mp3"
+}

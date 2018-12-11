@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "Yes.",
+      "examples": [
+        "she has the right to say yea or nay"
+      ],
+      "synonyms": [
+        "all right",
+        "alright",
+        "very well",
+        "of course",
+        "by all means",
+        "sure",
+        "certainly",
+        "absolutely",
+        "indeed",
+        "affirmative",
+        "in the affirmative",
+        "agreed",
+        "roger"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An affirmative answer.",
+      "examples": [
+        "the assembly would give the final yea or nay"
+      ]
+    }
+  ],
+  "origin": "Old English gēa, gē, of Germanic origin; related to Dutch and German ja.",
+  "pronounciation": "/jeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yea_us_1.mp3"
+}

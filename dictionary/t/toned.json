@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Having firm and well-defined muscles.",
+      "examples": [
+        "her toned physique",
+        "beautifully toned arms and shoulders"
+      ]
+    },
+    {
+      "description": "Having a particular color or shade; tinted.",
+      "examples": [
+        "toned paper",
+        "richly toned prints",
+        "the leaves form bronze-toned tubes"
+      ]
+    },
+    {
+      "description": "Having a musical or vocal sound of a specified pitch, quality, or strength.",
+      "examples": [
+        "a rich-toned string instrument",
+        "a clear-toned soprano voice",
+        "the deep-toned bass"
+      ]
+    },
+    {
+      "description": "Having a particular character or attitude.",
+      "examples": [
+        "your responses are lightly toned but very perceptive"
+      ]
+    }
+  ],
+  "pronounciation": "/tōnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/toned_us_1.mp3"
+}

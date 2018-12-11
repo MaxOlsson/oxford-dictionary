@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "A person who produces a list or book by assembling information or written material collected from other sources.",
+      "examples": [
+        "this passage was revised in different ways by later compilers"
+      ]
+    },
+    {
+      "description": "A program that converts instructions into a machine-code or lower-level form so that they can be read and executed by a computer.",
+      "examples": [
+        "conversion would require more than just running it through a different compiler"
+      ]
+    }
+  ],
+  "pronounciation": "/kəmˈpaɪlər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compiler_us_1.mp3"
+}

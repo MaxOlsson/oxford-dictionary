@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "(of a person or animal) make a series of low, feeble sounds expressive of fear, pain, or discontent.",
+      "examples": [
+        "a child in a bed nearby began to whimper"
+      ],
+      "synonyms": [
+        "whine",
+        "cry",
+        "sniffle",
+        "snivel",
+        "sob",
+        "moan",
+        "bleat",
+        "mewl",
+        "wail",
+        "groan"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A low, feeble sound expressive of fear or pain.",
+      "examples": [
+        "she gave a little whimper of protest"
+      ],
+      "synonyms": [
+        "whine",
+        "cry",
+        "sniffle",
+        "snivel",
+        "sob",
+        "moan",
+        "bleat",
+        "mewl",
+        "wail",
+        "groan"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from dialect whimp to whimper, of imitative origin.",
+  "pronounciation": "/ˈ(h)wimpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whimper_us_1.mp3"
+}

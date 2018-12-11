@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Not justifiable by argument.",
+      "examples": [
+        "the policy of apartheid was morally indefensible"
+      ],
+      "synonyms": [
+        "inexcusable",
+        "unjustifiable",
+        "unjustified",
+        "unpardonable",
+        "unforgivable",
+        "inexpiable"
+      ]
+    },
+    {
+      "description": "Not able to be protected against attack.",
+      "examples": [
+        "the towns were tactically indefensible"
+      ],
+      "synonyms": [
+        "undefendable",
+        "defenceless",
+        "undefended",
+        "unfortified",
+        "unguarded",
+        "unprotected",
+        "unshielded",
+        "unarmed",
+        "without arms",
+        "without weapons",
+        "without defences"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪndəˈfɛnsəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indefensible_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a drink or other liquid) cooled in or mixed with pieces of ice.",
+      "examples": [
+        "iced coffee"
+      ],
+      "synonyms": [
+        "cool",
+        "chilled",
+        "cold",
+        "refrigerated",
+        "with ice"
+      ]
+    },
+    {
+      "description": "(of a cake or cookie) decorated with icing.",
+      "examples": [],
+      "synonyms": [
+        "covered with icing",
+        "glazed"
+      ]
+    }
+  ],
+  "pronounciation": "/īst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/iced_us_1.mp3"
+}

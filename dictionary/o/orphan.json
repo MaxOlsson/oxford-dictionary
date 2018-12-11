@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A child whose parents are dead.",
+      "examples": []
+    },
+    {
+      "description": "The first line of a paragraph set as the last line of a page or column, considered undesirable.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a person or animal) an orphan.",
+      "examples": [
+        "John was orphaned at 12"
+      ],
+      "synonyms": [
+        "orphaned",
+        "widowed"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via late Latin from Greek orphanos bereaved.",
+  "pronounciation": "/ˈɔrfən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/orphan_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Practice a form of singing or calling marked by rapid alternation between the normal voice and falsetto.",
+      "examples": [],
+      "synonyms": [
+        "be sick",
+        "spew",
+        "spew up",
+        "fetch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A song, melody, or call delivered by yodeling.",
+      "examples": [
+        "he heard a yodel from below"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from German jodeln.",
+  "pronounciation": "/ˈyōdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yodel_us_1.mp3"
+}

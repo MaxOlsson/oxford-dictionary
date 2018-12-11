@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A small recess for a domestic pigeon to nest in.",
+      "examples": []
+    },
+    {
+      "description": "A small compartment, open at the front and forming part of a set, where letters or messages may be left for individuals.",
+      "examples": [],
+      "synonyms": [
+        "cubbyhole",
+        "compartment",
+        "slot",
+        "locker",
+        "niche"
+      ]
+    },
+    {
+      "description": "A category, typically an overly restrictive one, to which someone or something is assigned.",
+      "examples": [
+        "people identified me with a homely farmer's wife and I was never allowed to escape from that pigeonhole"
+      ],
+      "synonyms": [
+        "category",
+        "categorization",
+        "compartment",
+        "class",
+        "classification",
+        "group",
+        "grouping",
+        "grade",
+        "grading",
+        "designation",
+        "set",
+        "section",
+        "division"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deposit (a document) into a pigeonhole.",
+      "examples": [
+        "he pigeonholed his charts and notes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpijənˌhōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pigeonhole_us_1.mp3"
+}

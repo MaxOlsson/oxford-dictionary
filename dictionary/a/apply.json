@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Make a formal application or request.",
+      "examples": [
+        "you need to apply to the local authorities for a grant",
+        "a number of people have applied to vote by proxy"
+      ],
+      "synonyms": [
+        "put in an application",
+        "put in",
+        "try",
+        "bid",
+        "appeal",
+        "petition",
+        "make an entreaty",
+        "sue",
+        "register",
+        "audition"
+      ]
+    },
+    {
+      "description": "Be applicable or relevant.",
+      "examples": [
+        "normal rules apply",
+        "the offer does not apply to unionized workers"
+      ],
+      "synonyms": [
+        "be relevant",
+        "have relevance to",
+        "have a bearing on",
+        "bear on",
+        "appertain",
+        "pertain",
+        "relate",
+        "concern",
+        "be concerned with",
+        "have to do with"
+      ]
+    },
+    {
+      "description": "Put or spread (something) on a surface.",
+      "examples": [
+        "the sealer can be applied to new wood"
+      ],
+      "synonyms": [
+        "put on",
+        "rub in",
+        "spread",
+        "smear",
+        "cover with",
+        "work in"
+      ]
+    },
+    {
+      "description": "Give one's full attention to a task; work hard.",
+      "examples": [],
+      "synonyms": [
+        "be diligent",
+        "be industrious",
+        "be assiduous",
+        "show commitment",
+        "show dedication"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French aplier, from Latin applicare fold, fasten to, from ad- to + plicare to fold.",
+  "pronounciation": "/əˈplaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apply_us_1.mp3"
+}

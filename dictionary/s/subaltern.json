@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "An officer in the British army below the rank of captain, especially a second lieutenant.",
+      "examples": [],
+      "synonyms": [
+        "second in command",
+        "second",
+        "number two",
+        "subordinate",
+        "junior",
+        "auxiliary",
+        "adjutant",
+        "lieutenant",
+        "assistant",
+        "personal assistant",
+        "pa",
+        "aide",
+        "helper",
+        "right-hand man",
+        "henchman",
+        "underling"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of lower status.",
+      "examples": [
+        "the private tutor was a recognized subaltern part of the bourgeois family"
+      ]
+    },
+    {
+      "description": "(of a proposition) implied by another proposition (e.g. as a particular affirmative is by a universal one), but not implying it in return.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (as an adjective): from late Latin subalternus, from Latin sub- next below + alternus every other.",
+  "pronounciation": "/səˈbôltərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subaltern_us_1.mp3"
+}

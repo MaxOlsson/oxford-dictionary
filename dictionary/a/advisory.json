@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Having or consisting in the power to make recommendations but not to take action enforcing them.",
+      "examples": [
+        "the Commission acts in an advisory capacity to the government",
+        "an independent advisory committee"
+      ],
+      "synonyms": [
+        "consultative",
+        "consulting",
+        "advising",
+        "counselling",
+        "recommendatory",
+        "recommending",
+        "assisting",
+        "helping",
+        "aiding"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An official announcement, typically a warning about bad weather conditions.",
+      "examples": [
+        "a frost advisory"
+      ],
+      "synonyms": [
+        "official communication",
+        "press release",
+        "bulletin",
+        "message",
+        "missive",
+        "dispatch",
+        "statement",
+        "report",
+        "news flash",
+        "notification",
+        "announcement",
+        "declaration",
+        "proclamation",
+        "pronouncement"
+      ]
+    }
+  ],
+  "pronounciation": "/ədˈvaɪzəri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/advisory_us_1.mp3"
+}

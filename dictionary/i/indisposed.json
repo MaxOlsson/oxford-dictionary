@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Slightly unwell.",
+      "examples": [
+        "my mother is indisposed"
+      ],
+      "synonyms": [
+        "ill",
+        "unwell",
+        "sick",
+        "on the sick list",
+        "infirm",
+        "poorly",
+        "ailing",
+        "not well",
+        "not very well",
+        "not oneself",
+        "not in good shape",
+        "out of sorts",
+        "not up to par",
+        "below par",
+        "under par"
+      ]
+    },
+    {
+      "description": "Averse; unwilling.",
+      "examples": [
+        "the potential audience seemed indisposed to attend"
+      ],
+      "synonyms": [
+        "reluctant",
+        "unwilling",
+        "disinclined",
+        "loath",
+        "unprepared",
+        "not ready",
+        "not disposed",
+        "not keen",
+        "not minded",
+        "not in the mood"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from in- not + disposed, or past participle of indispose make unwell or unwilling.",
+  "pronounciation": "/ˌɪndəˈspoʊzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indisposed_us_1.mp3"
+}

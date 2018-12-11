@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking courage, vigor, or vivacity.",
+      "examples": [
+        "Ruth and I played a spiritless game of Scrabble"
+      ],
+      "synonyms": [
+        "apathetic",
+        "passive",
+        "unenthusiastic",
+        "lifeless",
+        "listless",
+        "lacking in vitality",
+        "weak",
+        "feeble",
+        "spineless",
+        "droopy",
+        "limp",
+        "languid",
+        "bloodless",
+        "insipid",
+        "characterless",
+        "submissive",
+        "meek",
+        "irresolute",
+        "indecisive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspɪrɪtləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spiritless_us_1.mp3"
+}

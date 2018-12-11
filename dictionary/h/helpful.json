@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Giving or ready to give help.",
+      "examples": [
+        "people are friendly and helpful",
+        "helpful staff"
+      ],
+      "synonyms": [
+        "obliging",
+        "eager to help",
+        "eager to please",
+        "friendly",
+        "pleasant",
+        "kind",
+        "accommodating",
+        "considerate",
+        "thoughtful",
+        "supportive",
+        "cooperative",
+        "sympathetic",
+        "caring",
+        "hospitable",
+        "neighbourly",
+        "charitable",
+        "benevolent",
+        "beneficent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhelpfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/helpful_us_1.mp3"
+}

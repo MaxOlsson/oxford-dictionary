@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Convert (a cheque, money order, bond, etc.) into money.",
+      "examples": [
+        "after the payment of one year's contribution you may encash your bond at any time"
+      ],
+      "synonyms": [
+        "exchange",
+        "change",
+        "convert into cash",
+        "convert into money",
+        "turn into cash",
+        "turn into money",
+        "realize",
+        "liquidate"
+      ]
+    }
+  ],
+  "pronounciation": "/ɛnˈkaʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/encash_gb_1.mp3"
+}

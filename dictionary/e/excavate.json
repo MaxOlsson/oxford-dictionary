@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Make (a hole or channel) by digging.",
+      "examples": [
+        "the cheapest way of doing this was to excavate a long trench"
+      ],
+      "synonyms": [
+        "dig",
+        "dig out",
+        "hollow out",
+        "scoop out",
+        "gouge",
+        "cut out",
+        "bore",
+        "burrow",
+        "tunnel",
+        "sink"
+      ]
+    },
+    {
+      "description": "Remove earth carefully and systematically from (an area) in order to find buried remains.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from Latin excavat- hollowed out, from the verb excavare, from ex- out + cavare make or become hollow (from cavus hollow).",
+  "pronounciation": "/ˈekskəˌvāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excavate_us_1.mp3"
+}

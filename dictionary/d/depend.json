@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Be controlled or determined by.",
+      "examples": [
+        "differences in earnings depended on a wide variety of factors"
+      ],
+      "synonyms": [
+        "be contingent on",
+        "be conditional on",
+        "be dependent on",
+        "turn on",
+        "pivot on",
+        "hinge on",
+        "hang on",
+        "rest on",
+        "be based on",
+        "rely on"
+      ]
+    },
+    {
+      "description": "Rely on.",
+      "examples": [
+        "the kind of person you could depend on"
+      ],
+      "synonyms": [
+        "have faith in",
+        "place one's trust in",
+        "put one's trust in",
+        "have confidence in",
+        "have every confidence in",
+        "believe in",
+        "pin one's faith on",
+        "pin one's hopes on"
+      ]
+    },
+    {
+      "description": "Hang down.",
+      "examples": [
+        "his tongue depended from open jaws"
+      ],
+      "synonyms": [
+        "hang",
+        "hang down",
+        "droop",
+        "sag",
+        "swing",
+        "sway",
+        "wave",
+        "trail",
+        "stream"
+      ]
+    }
+  ],
+  "phrases": [
+    "makes 8–10 burgers (depending on size)",
+    "the article sneered or just condescended, depending on how you read it",
+    "I usually add a dash of my favorite hot sauce but depending on how spicy your chili powder is and how spicy you want it, you can skip this.",
+    "Tickets are $19.95 - $44.95 depending on how much food you'll need.",
+    "Dr Killen enjoys the variety of her work, but not the workload, which ranges from 50 to 80 hours a week, depending on how often she's called to the hospital after hours."
+  ],
+  "origin": "Late Middle English (in depend (sense 3); also in the sense wait or be in suspense): from Old French dependre, from Latin dependere, from de- down + pendere hang.",
+  "pronounciation": "/dəˈpɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/depend_us_1.mp3"
+}

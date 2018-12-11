@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Drop saliva uncontrollably from the mouth.",
+      "examples": [
+        "the baby begins to drool, then to cough"
+      ],
+      "synonyms": [
+        "salivate",
+        "dribble",
+        "slaver",
+        "slobber",
+        "drivel",
+        "water at the mouth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Saliva falling from the mouth.",
+      "examples": [],
+      "synonyms": [
+        "saliva",
+        "spit",
+        "spittle",
+        "dribble",
+        "slaver",
+        "slobber"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: contraction of drivel.",
+  "pronounciation": "/dro͞ol/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drool_us_1.mp3"
+}

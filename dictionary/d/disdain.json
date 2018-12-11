@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The feeling that someone or something is unworthy of one's consideration or respect; contempt.",
+      "examples": [
+        "her upper lip curled in disdain",
+        "an aristocratic disdain for manual labor"
+      ],
+      "synonyms": [
+        "contempt",
+        "scorn",
+        "scornfulness",
+        "contemptuousness",
+        "derision",
+        "disrespect"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Consider to be unworthy of one's consideration.",
+      "examples": [
+        "gamblers disdain four-horse races"
+      ],
+      "synonyms": [
+        "scorn",
+        "deride",
+        "pour scorn on",
+        "regard with contempt",
+        "show contempt for",
+        "be contemptuous about",
+        "sneer at",
+        "sniff at",
+        "curl one's lip at",
+        "pooh-pooh",
+        "look down on",
+        "belittle",
+        "undervalue",
+        "slight"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French desdeign (noun), desdeignier (verb), based on Latin dedignari, from de- (expressing reversal) + dignari consider worthy (from dignus worthy).",
+  "pronounciation": "/dɪsˈdeɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disdain_us_1.mp3"
+}

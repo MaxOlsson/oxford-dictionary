@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A person who collects things of a specified type, professionally or as a hobby.",
+      "examples": [
+        "an art collector"
+      ],
+      "synonyms": [
+        "penny-pincher",
+        "pinchpenny",
+        "niggard",
+        "cheese-parer",
+        "scrooge"
+      ]
+    },
+    {
+      "description": "An official who is responsible for collecting money.",
+      "examples": [
+        "a tax collector"
+      ],
+      "synonyms": [
+        "messenger",
+        "courier",
+        "errand boy",
+        "messenger boy"
+      ]
+    },
+    {
+      "description": "(in some South Asian countries) the chief administrative official of a district.",
+      "examples": []
+    },
+    {
+      "description": "The region in a bipolar transistor that absorbs charge carriers.",
+      "examples": [],
+      "synonyms": [
+        "scavenger",
+        "scrounger",
+        "forager",
+        "gatherer",
+        "accumulator"
+      ]
+    }
+  ],
+  "pronounciation": "/kəˈlɛktər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collector_us_1.mp3"
+}

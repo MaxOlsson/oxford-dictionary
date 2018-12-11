@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A group of people who work on and operate a ship, boat, aircraft, spacecraft, or train.",
+      "examples": []
+    },
+    {
+      "description": "A group of people who work closely together.",
+      "examples": [
+        "an ambulance crew",
+        "crews of firefighters from neighboring towns were called in"
+      ],
+      "synonyms": [
+        "team",
+        "company",
+        "unit",
+        "party",
+        "working party",
+        "gang",
+        "shift",
+        "line-up",
+        "squad",
+        "force",
+        "corps",
+        "posse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a craft or vehicle) with a group of people to operate it.",
+      "examples": [
+        "normally the boat is crewed by five people"
+      ]
+    }
+  ],
+  "": [],
+  "origin": "Late Middle English: from Old French creue augmentation, increase, feminine past participle of croistre grow, from Latin crescere. The original sense was band of soldiers serving as reinforcements; hence it came to denote any organized armed band or, generally, a company of people (late 16th century).",
+  "pronounciation": "/kru/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crew_us_1.mp3"
+}

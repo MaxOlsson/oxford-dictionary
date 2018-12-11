@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A large formal assembly of people.",
+      "examples": [],
+      "synonyms": [
+        "assembly",
+        "meeting",
+        "meet",
+        "convention",
+        "rally",
+        "turnout",
+        "congress",
+        "conclave",
+        "council",
+        "synod",
+        "symposium",
+        "forum",
+        "muster",
+        "tweetup"
+      ]
+    },
+    {
+      "description": "The action of calling people together for a large formal assembly.",
+      "examples": [
+        "the arguments delayed the convocation of the first congress, planned for February 1992"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin convocatio(n-), from the verb convocare (see convoke).",
+  "pronounciation": "/ˌkɑnvəˈkeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvocation_us_1.mp3"
+}

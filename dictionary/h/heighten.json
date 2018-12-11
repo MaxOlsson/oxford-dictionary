@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make or become more intense.",
+      "examples": [
+        "the pleasure was heightened by the sense of guilt that accompanied it",
+        "concern over CFCs has heightened"
+      ],
+      "synonyms": [
+        "intensify",
+        "increase",
+        "enhance",
+        "make greater",
+        "add to",
+        "raise",
+        "augment",
+        "boost",
+        "strengthen",
+        "sharpen",
+        "deepen",
+        "magnify",
+        "amplify",
+        "reinforce"
+      ]
+    },
+    {
+      "description": "Make (something) higher.",
+      "examples": [],
+      "synonyms": [
+        "make higher",
+        "raise",
+        "lift",
+        "lift up",
+        "elevate",
+        "upraise"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhītn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heighten_us_1.mp3"
+}

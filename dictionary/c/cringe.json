@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Bend one's head and body in fear or in a servile manner.",
+      "examples": [
+        "he cringed away from the blow"
+      ],
+      "synonyms": [
+        "cower",
+        "shrink",
+        "draw back",
+        "pull back",
+        "recoil",
+        "start",
+        "shy",
+        "shy away",
+        "wince",
+        "flinch",
+        "blench",
+        "blanch",
+        "dodge",
+        "duck",
+        "crouch",
+        "shudder",
+        "shake",
+        "tremble",
+        "quiver",
+        "quail",
+        "quake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of cringing.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English crenge, crenche, related to Old English cringan, crincan bend, yield, fall in battle, of Germanic origin and related to Dutch krengen heel over and German krank sick, also to crank.",
+  "pronounciation": "/krinj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cringe_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be moved.",
+      "examples": [
+        "lock your bike to something immovable like a lamp post"
+      ],
+      "synonyms": [
+        "fixed",
+        "secure",
+        "stable",
+        "rooted",
+        "riveted",
+        "moored",
+        "anchored",
+        "braced",
+        "set firm",
+        "set fast",
+        "fast",
+        "firm"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Immovable property.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ɪ(m)ˈmuvəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/immovable_us_1.mp3"
+}

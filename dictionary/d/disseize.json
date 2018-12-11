@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Dispossess (someone) of land or property.",
+      "examples": [
+        "his ancestors had held the land but had been disseized in the fifteenth century"
+      ],
+      "synonyms": [
+        "impound",
+        "seize",
+        "commandeer",
+        "requisition",
+        "appropriate",
+        "expropriate",
+        "take possession of",
+        "sequester",
+        "sequestrate",
+        "take away",
+        "take over",
+        "take",
+        "annex"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French dessaisir dispossess, from dis- + seize.",
+  "pronounciation": "/dɪ(s)ˈsiːz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disseize_gb_1.mp3"
+}

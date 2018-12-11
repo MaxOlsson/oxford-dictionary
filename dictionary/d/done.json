@@ -1,0 +1,93 @@
+{
+  "verb": [],
+  "adjective": [
+    {
+      "description": "(of food) cooked thoroughly.",
+      "examples": [
+        "the turkey will be done soon"
+      ],
+      "synonyms": [
+        "cooked",
+        "ready",
+        "cooked through",
+        "tender",
+        "crisp",
+        "browned"
+      ]
+    },
+    {
+      "description": "No longer happening or existing.",
+      "examples": [
+        "her hunting days were done"
+      ],
+      "synonyms": [
+        "over",
+        "at an end",
+        "finished",
+        "ended",
+        "concluded",
+        "terminated",
+        "no more",
+        "extinct",
+        "dead",
+        "run",
+        "gone",
+        "dead and gone",
+        "dead and buried",
+        "forgotten",
+        "over and done with",
+        "a thing of the past",
+        "in the past",
+        "ancient history"
+      ]
+    },
+    {
+      "description": "Socially acceptable.",
+      "examples": [
+        "therapy was not the done thing then"
+      ],
+      "synonyms": [
+        "proper",
+        "seemly",
+        "decorous",
+        "decent",
+        "respectable",
+        "right",
+        "correct",
+        "in order",
+        "suitable",
+        "fit",
+        "fitting",
+        "befitting",
+        "appropriate",
+        "apt"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to indicate that the speaker accepts the terms of an offer.",
+      "examples": [
+        "“I'll give ten to one he misses by a mile!” called Reilly. “Done,” said the conductor"
+      ],
+      "synonyms": [
+        "agreed",
+        "settled",
+        "all right",
+        "very well",
+        "that's a bargain",
+        "accepted",
+        "right"
+      ]
+    }
+  ],
+  "phrases": [
+    "But what the Pentagon is shying away from is saying that this is a done deal.",
+    "This became a done deal after Russia agreed to ratify the agreement.",
+    "This is a done deal, and I'd really appreciate it if you would have the president, you know, announce that.",
+    "It's far from a done deal, but he's made surprising inroads, and he's not letting up.",
+    "I want to make sure that you understand this bill is not a done deal."
+  ],
+  "pronounciation": "/dən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/done_us_3.mp3"
+}

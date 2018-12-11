@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) acting in accordance with morality and showing recognition of right and wrong.",
+      "examples": [
+        "a principled politician"
+      ],
+      "synonyms": [
+        "moral",
+        "ethical",
+        "good",
+        "virtuous",
+        "righteous",
+        "upright",
+        "upstanding",
+        "high-minded",
+        "right-minded",
+        "proper",
+        "correct",
+        "honourable",
+        "honest",
+        "just",
+        "noble",
+        "incorruptible",
+        "anti-corruption",
+        "scrupulous",
+        "conscientious",
+        "respectable",
+        "decent"
+      ]
+    },
+    {
+      "description": "(of a system or method) based on a given set of rules.",
+      "examples": [
+        "a coherent and principled approach"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɪnsəpəld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/principled_us_1.mp3"
+}

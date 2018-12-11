@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Happening by accident or chance rather than design.",
+      "examples": [
+        "the similarity between the paintings may not be simply fortuitous"
+      ],
+      "synonyms": [
+        "chance",
+        "unexpected",
+        "unanticipated",
+        "unpredictable",
+        "unforeseen",
+        "unlooked-for",
+        "serendipitous",
+        "casual",
+        "incidental",
+        "coincidental",
+        "haphazard",
+        "random",
+        "accidental",
+        "inadvertent",
+        "unintentional",
+        "unintended",
+        "unplanned",
+        "unpremeditated"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin fortuitus, from forte by chance, from fors chance, luck.",
+  "pronounciation": "/fôrˈto͞oədəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fortuitous_us_1.mp3"
+}

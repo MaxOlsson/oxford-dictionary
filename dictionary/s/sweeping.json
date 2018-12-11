@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Extending or performed in a long, continuous curve.",
+      "examples": [
+        "sweeping, desolate moorlands",
+        "a smooth sweeping motion"
+      ],
+      "synonyms": [
+        "broad",
+        "extensive",
+        "expansive",
+        "vast",
+        "spacious",
+        "roomy",
+        "boundless",
+        "panoramic"
+      ]
+    },
+    {
+      "description": "Wide in range or effect.",
+      "examples": [
+        "we cannot recommend any sweeping alterations"
+      ],
+      "synonyms": [
+        "extensive",
+        "wide-ranging",
+        "global",
+        "broad",
+        "wide",
+        "comprehensive",
+        "all-inclusive",
+        "all-embracing",
+        "far-reaching",
+        "across the board",
+        "worldwide",
+        "catholic",
+        "exhaustive",
+        "pervasive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Dirt or refuse collected by sweeping.",
+      "examples": [
+        "the sweepings from the house"
+      ],
+      "synonyms": [
+        "debris",
+        "waste",
+        "waste matter",
+        "discarded matter",
+        "refuse",
+        "rubbish",
+        "litter",
+        "scrap",
+        "flotsam and jetsam",
+        "lumber",
+        "rubble",
+        "wreckage"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈswēpiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sweeping_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Make a ringing sound.",
+      "examples": [
+        "cash registers were dinging softly"
+      ],
+      "synonyms": [
+        "chime",
+        "ring out",
+        "chime out",
+        "toll",
+        "peal",
+        "knell"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to imitate a metallic ringing sound resembling a bell.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A deliberate or accidental blow, especially a mark or dent on the bodywork of a car, boat, or other vehicle.",
+      "examples": []
+    }
+  ],
+  "origin": "1950s: perhaps from ding-dong or wingding.",
+  "pronounciation": "/dɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ding_us_1.mp3"
+}

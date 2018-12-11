@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The action or state of forcing or being forced to do something; constraint.",
+      "examples": [
+        "the payment was made under compulsion"
+      ],
+      "synonyms": [
+        "obligation",
+        "constraint",
+        "force",
+        "coercion",
+        "duress",
+        "pressure",
+        "pressurization",
+        "enforcement",
+        "oppression",
+        "intimidation"
+      ]
+    },
+    {
+      "description": "An irresistible urge to behave in a certain way, especially against one's conscious wishes.",
+      "examples": [
+        "he felt a compulsion to babble on about what had happened"
+      ],
+      "synonyms": [
+        "urge",
+        "impulse",
+        "need",
+        "necessity",
+        "desire",
+        "longing",
+        "motivation",
+        "drive"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin compulsio(n-), from compellere to drive, force (see compel).",
+  "pronounciation": "/kəmˈpəlʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compulsion_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "An excessive amount of something.",
+      "examples": [
+        "a surfeit of food and drink"
+      ],
+      "synonyms": [
+        "excess",
+        "surplus",
+        "abundance",
+        "oversupply",
+        "superabundance",
+        "superfluity",
+        "overdose",
+        "glut",
+        "avalanche",
+        "deluge"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to desire no more of something as a result of having consumed or done it to excess.",
+      "examples": [
+        "I am surfeited with shopping"
+      ],
+      "synonyms": [
+        "satiate",
+        "gorge",
+        "overfeed",
+        "overfill",
+        "glut",
+        "cram",
+        "stuff",
+        "overindulge",
+        "fill"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, based on Latin super- above, in excess + facere do.",
+  "pronounciation": "/ˈsərfət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surfeit_us_1.mp3"
+}

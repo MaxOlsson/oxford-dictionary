@@ -1,0 +1,67 @@
+{
+  "adverb": [
+    {
+      "description": "Used with an auxiliary verb or “be” to form the negative.",
+      "examples": [
+        "he would not say",
+        "she isn't there",
+        "didn't you tell me?"
+      ]
+    },
+    {
+      "description": "Used as a short substitute for a negative clause.",
+      "examples": [
+        "maybe I'll regret it, but I hope not",
+        "“Don't you keep in touch?” “I'm afraid not.”",
+        "they wouldn't know if I was telling the truth or not"
+      ]
+    },
+    {
+      "description": "Used to express the negative of other words.",
+      "examples": [
+        "not a single attempt was made",
+        "treating the symptoms and not the cause",
+        "“How was it?” “Not so bad.”"
+      ]
+    },
+    {
+      "description": "Used in understatements to suggest that the opposite of a following word or phrase is true.",
+      "examples": [
+        "the not too distant future",
+        "not a million miles away"
+      ],
+      "synonyms": [
+        "disinclined",
+        "reluctant",
+        "averse",
+        "loath",
+        "indisposed",
+        "not in the mood",
+        "slow",
+        "not about"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A Boolean operator with only one variable that has the value one when the variable is zero and vice versa.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of paper) not hot-pressed, and having a slightly textured surface.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "“You don't mind?” “Not at all.”",
+    "Bearing this in mind, it is not at all surprising that charges of abuse of process gained momentum.",
+    "The parents are terrified, their fears not at all eased by being referred to a brain surgeon.",
+    "It is not at all what I had expected: but then, most people have no idea what asparagus looks like when it is growing.",
+    "In Louisbourg, a few people had flooding problems, but not at all on the scale of other areas."
+  ],
+  "origin": "Middle English: contraction of the adverb nought.",
+  "pronounciation": "/nät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/not_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by the inference of general laws from particular instances.",
+      "examples": [
+        "instinct rather than inductive reasoning marked her approach to life"
+      ],
+      "synonyms": [
+        "reasoned",
+        "well reasoned",
+        "rational",
+        "sound",
+        "cogent",
+        "well thought out",
+        "valid"
+      ]
+    },
+    {
+      "description": "Relating to or caused by electric or magnetic induction.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense leading to): from Old French inductif, -ive or late Latin inductivus hypothetical (later inducing, leading to), from Latin inducere (see induce). inductive (sense 1) dates from the mid 18th century.",
+  "pronounciation": "/inˈdəktiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inductive_us_1.mp3"
+}

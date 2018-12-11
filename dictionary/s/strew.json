@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Scatter or spread (things) untidily over a surface or area.",
+      "examples": [
+        "a small room with newspapers strewn all over the floor"
+      ],
+      "synonyms": [
+        "scatter",
+        "spread",
+        "disperse",
+        "distribute",
+        "litter",
+        "toss",
+        "sprinkle",
+        "sow",
+        "broadcast"
+      ]
+    }
+  ],
+  "origin": "Old English stre(o)wian, of Germanic origin; related to Dutch strooien, German streuen, from an Indo-European root shared by Latin sternere lay flat.",
+  "pronounciation": "/stru/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strew_us_1.mp3"
+}

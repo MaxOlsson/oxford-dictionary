@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Restrain oneself from doing or enjoying something.",
+      "examples": [
+        "abstaining from chocolate"
+      ]
+    },
+    {
+      "description": "Formally decline to vote either for or against a proposal or motion.",
+      "examples": [
+        "forty-one voted with the Opposition, and some sixty more abstained"
+      ],
+      "synonyms": [
+        "not vote",
+        "decline to vote",
+        "refuse to vote"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French abstenir, from Latin abstinere, from ab- from + tenere hold.",
+  "pronounciation": "/əbˈstān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abstain_us_1.mp3"
+}

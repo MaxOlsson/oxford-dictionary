@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Drive a golf ball farther than (another player)",
+      "examples": [
+        "he outdrove his playing partners by as much as seventy-five yards"
+      ]
+    },
+    {
+      "description": "Drive a vehicle better or faster than (someone else)",
+      "examples": [
+        "he knew he couldn't outdrive the police"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The portion of an inboard-outboard engine that is outside the hull, providing steering and propulsion.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌoutˈdrīv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outdrive_us_1.mp3"
+}

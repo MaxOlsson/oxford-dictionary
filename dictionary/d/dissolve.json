@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "(with reference to a solid) become or cause to become incorporated into a liquid so as to form a solution.",
+      "examples": [
+        "glucose dissolves easily in water",
+        "dissolve a bouillon cube in a pint of hot water"
+      ],
+      "synonyms": [
+        "go into solution",
+        "become a solution",
+        "break down"
+      ]
+    },
+    {
+      "description": "Close down or dismiss (an assembly or official body)",
+      "examples": [
+        "the country's president can dissolve parliament under certain circumstances"
+      ],
+      "synonyms": [
+        "disband",
+        "disestablish",
+        "dismiss"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in a movie) an act or instance of moving gradually from one picture to another.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (also in the sense break down into component parts): from Latin dissolvere, from dis- apart + solvere loosen or solve.",
+  "pronounciation": "/dəˈzälv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dissolve_us_1.mp3"
+}

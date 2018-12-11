@@ -1,0 +1,103 @@
+{
+  "verb": [
+    {
+      "description": "Diminish or destroy the value or quality of.",
+      "examples": [
+        "I wouldn't want to spoil your fun",
+        "a series of political blunders spoiled their chances of being re-elected"
+      ],
+      "synonyms": [
+        "mar",
+        "damage",
+        "impair",
+        "blemish",
+        "disfigure",
+        "blight",
+        "flaw",
+        "deface",
+        "scar",
+        "injure",
+        "harm"
+      ]
+    },
+    {
+      "description": "Harm the character of (someone, especially a child) by being too lenient or indulgent.",
+      "examples": [
+        "the last thing I want to do is spoil Thomas"
+      ],
+      "synonyms": [
+        "overindulge",
+        "pamper",
+        "indulge",
+        "mollycoddle",
+        "cosset",
+        "coddle",
+        "baby",
+        "spoon-feed",
+        "feather-bed",
+        "wait on hand and foot",
+        "cater to someone's every whim",
+        "wrap in cotton wool",
+        "overparent",
+        "kill with kindness"
+      ]
+    },
+    {
+      "description": "Be extremely or aggressively eager for.",
+      "examples": [
+        "Cooper was spoiling for a fight"
+      ],
+      "synonyms": [
+        "eager for",
+        "itching for",
+        "looking for",
+        "keen to have",
+        "raring for",
+        "after",
+        "bent on",
+        "set on",
+        "on the lookout for",
+        "longing for"
+      ]
+    },
+    {
+      "description": "Rob (a person or a place) of goods or possessions by force or violence.",
+      "examples": [],
+      "synonyms": [
+        "ransack",
+        "steal from",
+        "plunder",
+        "rob",
+        "raid",
+        "loot",
+        "rifle",
+        "sack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Goods stolen or taken forcibly from a person or place.",
+      "examples": [
+        "the looters carried their spoils away"
+      ],
+      "synonyms": [
+        "booty",
+        "loot",
+        "stolen goods",
+        "plunder",
+        "ill-gotten gains",
+        "haul",
+        "pickings",
+        "takings"
+      ]
+    },
+    {
+      "description": "Waste material brought up during the course of an excavation or a dredging or mining operation.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense to plunder): shortening of Old French espoille (noun), espoillier (verb), from Latin spoliare, from spolium plunder, skin stripped from an animal, or a shortening of despoil.",
+  "pronounciation": "/spɔɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spoil_us_1.mp3"
+}

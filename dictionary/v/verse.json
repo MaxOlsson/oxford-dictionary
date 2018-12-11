@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "Writing arranged with a metrical rhythm, typically having a rhyme.",
+      "examples": [
+        "a lament in verse",
+        "verse drama"
+      ],
+      "synonyms": [
+        "poetry",
+        "versification",
+        "metrical composition",
+        "rhythmical composition",
+        "rhyme",
+        "rhyming",
+        "balladry",
+        "doggerel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Speak in or compose verse; versify.",
+      "examples": [
+        "he began to verse extemporaneously in her ear",
+        "thou sat all day, playing on pipes and versing love"
+      ]
+    }
+  ],
+  "origin": "Old English fers, from Latin versus a turn of the plow, a furrow, a line of writing, from vertere to turn; reinforced in Middle English by Old French vers, from Latin versus.",
+  "pronounciation": "/vərs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verse_us_1.mp3"
+}

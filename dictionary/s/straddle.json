@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Sit or stand with one leg on either side of.",
+      "examples": [
+        "he turned the chair around and straddled it"
+      ],
+      "synonyms": [
+        "sit astride",
+        "stand astride",
+        "bestride",
+        "bestraddle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of sitting or standing with one's legs wide apart.",
+      "examples": []
+    },
+    {
+      "description": "A simultaneous purchase of options to buy and to sell a security or commodity at a fixed price, allowing the purchaser to make a profit whether the price of the security or commodity goes up or down.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: alteration of dialect striddle, back-formation from dialect striddling astride, from stride + the adverbial suffix -ling.",
+  "pronounciation": "/ˈstradl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/straddle_us_1.mp3"
+}

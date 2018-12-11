@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Not known or recognized.",
+      "examples": [
+        "his voice was unfamiliar to her"
+      ],
+      "synonyms": [
+        "unknown",
+        "new",
+        "strange",
+        "queer",
+        "foreign",
+        "alien",
+        "unheard of",
+        "beyond someone's ken"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənfəˈmɪljər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfamiliar_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or showing confidence in oneself; self-assured.",
+      "examples": [
+        "we require outgoing, confident people able to approach large groups",
+        "a confident smile"
+      ],
+      "synonyms": [
+        "self-assured",
+        "assured",
+        "sure of oneself",
+        "self-confident",
+        "positive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A confidant.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from French confident(e), from Italian confidente, from Latin confident- having full trust, from the verb confidere, from con- (expressing intensive force) + fidere trust.",
+  "pronounciation": "/ˈkɑnfədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfident_us_1.mp3"
+}

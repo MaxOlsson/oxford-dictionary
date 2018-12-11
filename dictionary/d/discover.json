@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Find (something or someone) unexpectedly or in the course of a search.",
+      "examples": [
+        "firemen discovered a body in the debris",
+        "she discovered her lover in the arms of another woman"
+      ],
+      "synonyms": [
+        "find",
+        "locate",
+        "come across",
+        "come upon",
+        "stumble on",
+        "chance on",
+        "light on",
+        "bring to light",
+        "uncover",
+        "unearth",
+        "turn up",
+        "track down"
+      ]
+    },
+    {
+      "description": "Divulge (a secret)",
+      "examples": [
+        "they contain some secrets which Time will discover"
+      ],
+      "synonyms": [
+        "divulge",
+        "disclose",
+        "tell",
+        "let out",
+        "let slip",
+        "let drop",
+        "let fall",
+        "give away",
+        "give the game away",
+        "give the show away",
+        "blurt",
+        "blurt out",
+        "babble",
+        "give out",
+        "release",
+        "leak",
+        "betray",
+        "open up",
+        "unveil",
+        "bring out into the open"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense make known): from Old French descovrir, from late Latin discooperire, from Latin dis- (expressing reversal) + cooperire cover completely (see cover).",
+  "pronounciation": "/dəˈskəvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discover_us_1.mp3"
+}

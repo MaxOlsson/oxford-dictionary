@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The action of departing from an established course or accepted standard.",
+      "examples": [
+        "deviation from a norm",
+        "sexual deviation",
+        "deviations from standard English"
+      ],
+      "synonyms": [
+        "divergence",
+        "digression",
+        "turning aside",
+        "departure",
+        "deflection",
+        "difference",
+        "variation",
+        "variance",
+        "alteration",
+        "veering",
+        "straying",
+        "fluctuation",
+        "aberration",
+        "abnormality",
+        "irregularity",
+        "anomaly",
+        "inconsistency",
+        "discrepancy",
+        "variableness",
+        "oddness",
+        "freakishness"
+      ]
+    },
+    {
+      "description": "The amount by which a single measurement differs from a fixed value such as the mean.",
+      "examples": []
+    },
+    {
+      "description": "The deflection of a vessel's compass needle caused by iron in the vessel, which varies with the vessel's heading.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate).",
+  "pronounciation": "/ˌdēvēˈāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deviation_us_1.mp3"
+}

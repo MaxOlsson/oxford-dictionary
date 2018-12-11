@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Not open.",
+      "examples": [
+        "rooms with closed doors lined the hallway",
+        "he sat with his eyes closed"
+      ],
+      "synonyms": [
+        "watertight",
+        "waterproof",
+        "damp-proof",
+        "water-resistant",
+        "water-repellent",
+        "airtight",
+        "tight",
+        "sealed",
+        "hermetically sealed"
+      ]
+    }
+  ],
+  "phrases": [
+    "However, authorities refuse to comment on what is really happening behind closed doors.",
+    "The club closed two weeks ago and negotiations had been taking place behind closed doors as to its future.",
+    "Neither do they welcome publicity for their initiation ceremonies, conducted behind closed doors.",
+    "The committee made the decision behind closed doors - its meetings are not open to press or public.",
+    "There is no public oversight of the council and its meetings are held behind closed doors."
+  ],
+  "pronounciation": "/klōzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/closed_us_1.mp3"
+}

@@ -1,0 +1,116 @@
+{
+  "verb": [
+    {
+      "description": "Watch over in order to protect or control.",
+      "examples": [
+        "the gates were guarded by uniformed soldiers",
+        "they were sent to guard villagers from attack by bandits"
+      ],
+      "synonyms": [
+        "protect",
+        "stand guard over",
+        "watch over",
+        "look after",
+        "keep an eye on",
+        "take care of",
+        "cover",
+        "patrol",
+        "police",
+        "defend",
+        "shield",
+        "safeguard",
+        "preserve",
+        "save",
+        "keep safe",
+        "secure",
+        "screen",
+        "shelter"
+      ]
+    },
+    {
+      "description": "Protect against damage or harm.",
+      "examples": [
+        "the company fiercely guarded its independence"
+      ],
+      "synonyms": [
+        "protect",
+        "stand guard over",
+        "watch over",
+        "look after",
+        "keep an eye on",
+        "take care of",
+        "cover",
+        "patrol",
+        "police",
+        "defend",
+        "shield",
+        "safeguard",
+        "preserve",
+        "save",
+        "keep safe",
+        "secure",
+        "screen",
+        "shelter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who keeps watch, especially a soldier or other person formally assigned to protect a person or to control access to a place.",
+      "examples": [
+        "a security guard",
+        "he distracted the soldier on guard duty"
+      ],
+      "synonyms": [
+        "sentry",
+        "sentinel",
+        "security guard",
+        "nightwatchman"
+      ]
+    },
+    {
+      "description": "A device worn or fitted to prevent injury or damage.",
+      "examples": [
+        "a retractable blade guard"
+      ],
+      "synonyms": [
+        "safety guard",
+        "safety device",
+        "protective device",
+        "shield",
+        "bulwark",
+        "screen",
+        "fence",
+        "fender",
+        "bumper",
+        "buffer",
+        "cushion",
+        "pad"
+      ]
+    },
+    {
+      "description": "A defensive posture adopted in a boxing, fencing, or martial arts contest or in a fight.",
+      "examples": [
+        "this kick can curl around an otherwise effective guard"
+      ]
+    },
+    {
+      "description": "An official who rides on and is in general charge of a train.",
+      "examples": []
+    },
+    {
+      "description": "Each of two offensive players positioned either side of the center.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Officers did not reveal whether any travel documents were found at the flat, where armed police today stood guard.",
+    "All day, U.S. choppers circled overhead, while on the ground, Iraqi police and soldiers stood guard.",
+    "Police officers stood guard at either end of the churchyard on the morning after the assault and fielded questions from visitors to the church.",
+    "Before the trial began, police armed with submachine guns and shotguns stood guard as vans brought the handcuffed defendants to the courthouse.",
+    "Floral tributes, many of them white roses and daffodils, were placed around a white flag of St George brought by a mourner, with a lone policeman standing guard."
+  ],
+  "origin": "Late Middle English (in the sense care, custody): from Old French garde (noun), garder (verb), of West Germanic origin. Compare with ward.",
+  "pronounciation": "/ɡärd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guard_us_1.mp3"
+}

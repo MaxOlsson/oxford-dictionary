@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Having the same age or date of origin; contemporary.",
+      "examples": [
+        "these lavas were coeval with the volcanic activity"
+      ],
+      "synonyms": [
+        "contemporaneous",
+        "concurrent",
+        "coeval",
+        "synchronous",
+        "synchronic",
+        "of the time",
+        "of the day",
+        "simultaneous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person of roughly the same age as oneself; a contemporary.",
+      "examples": [
+        "like so many of his coevals, he yearned for stability"
+      ],
+      "synonyms": [
+        "peer",
+        "equal",
+        "contemporary",
+        "brother"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as a noun): from late Latin coaevus, from co- jointly + Latin aevum age.",
+  "pronounciation": "/ˌkōˈēv(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coeval_us_1.mp3"
+}

@@ -1,0 +1,13 @@
+{
+  "adjective": [
+    {
+      "description": "Written with a pen, pencil, or other handheld implement.",
+      "examples": [
+        "the CV should be typed, not handwritten",
+        "a handwritten note"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhæn(d)ˌrɪtn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/handwritten_us_1.mp3"
+}

@@ -1,0 +1,89 @@
+{
+  "noun": [
+    {
+      "description": "A device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body.",
+      "examples": [],
+      "synonyms": [
+        "snare",
+        "net"
+      ]
+    },
+    {
+      "description": "A situation in which people lie in wait to make a surprise attack.",
+      "examples": [
+        "we were fed false information by a double agent and walked straight into a trap"
+      ],
+      "synonyms": [
+        "ambush",
+        "lure",
+        "decoy",
+        "bait"
+      ]
+    },
+    {
+      "description": "A container or device used to collect a specified thing.",
+      "examples": [
+        "one fuel filter and water trap are sufficient on the fuel system"
+      ]
+    },
+    {
+      "description": "A light, two-wheeled carriage pulled by a horse or pony.",
+      "examples": []
+    },
+    {
+      "description": "A device for hurling an object such as a clay pigeon into the air to be shot at.",
+      "examples": []
+    },
+    {
+      "description": "A person's mouth (used in expressions to do with speaking)",
+      "examples": []
+    },
+    {
+      "examples": [],
+      "synonyms": [
+        "mouth",
+        "jaws",
+        "lips",
+        "maw"
+      ]
+    },
+    {
+      "description": "Percussion instruments, typically in a jazz band.",
+      "examples": []
+    },
+    {
+      "description": "A place where drugs are sold.",
+      "examples": [
+        "a trap full of dealers"
+      ]
+    },
+    {
+      "description": "An act of trapping the ball.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Catch (an animal) in a trap.",
+      "examples": [],
+      "synonyms": [
+        "confine",
+        "catch",
+        "cut off",
+        "corner",
+        "pin down",
+        "drive into a corner",
+        "pen",
+        "hem in",
+        "close in",
+        "shut in",
+        "hedge in",
+        "imprison",
+        "hold captive"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from Swedish trapp, from trappa stair (because of the often stair-like appearance of its outcroppings).",
+  "pronounciation": "/træp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trap_us_1.mp3"
+}

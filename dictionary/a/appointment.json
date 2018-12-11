@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "An arrangement to meet someone at a particular time and place.",
+      "examples": [
+        "she made an appointment with my receptionist"
+      ],
+      "synonyms": [
+        "meeting",
+        "engagement",
+        "interview",
+        "arrangement",
+        "consultation",
+        "session"
+      ]
+    },
+    {
+      "description": "An act of appointing; assigning a job or position to someone.",
+      "examples": [
+        "his appointment as President"
+      ],
+      "synonyms": [
+        "nomination",
+        "naming",
+        "designation",
+        "designating",
+        "installation",
+        "commissioning",
+        "engagement",
+        "adoption",
+        "co-option"
+      ]
+    },
+    {
+      "description": "Furniture or fittings.",
+      "examples": [
+        "the room was spartan in its appointments"
+      ],
+      "synonyms": [
+        "furnishings",
+        "furniture",
+        "units",
+        "fixtures",
+        "fitments",
+        "equipment",
+        "appointments",
+        "accoutrements",
+        "appurtenances"
+      ]
+    }
+  ],
+  "phrases": [
+    "visits are by appointment only",
+    "This exhibition can be viewed by special arrangement with the organizers and by appointment only.",
+    "Clients can be seen by appointment outside of opening hours",
+    "Salesmen will still be able to visit private houses, but only by appointment.",
+    "Make sure to call ahead as visits are by appointment only."
+  ],
+  "origin": "Middle English: from Old French apointement, from apointer (see appoint).",
+  "pronounciation": "/əˈpointmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appointment_us_1.mp3"
+}

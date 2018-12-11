@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Designed to be pulled out of the usual position.",
+      "examples": [
+        "pullout wire baskets at the bottom of one cupboard"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A section of a magazine or newspaper that is designed to be detached and kept for rereading.",
+      "examples": [
+        "don't miss Monday's 8-page NBA pullout"
+      ],
+      "synonyms": [
+        "magazine section",
+        "pull-out",
+        "insert",
+        "special-feature section"
+      ]
+    },
+    {
+      "description": "A withdrawal, especially from military involvement or participation in a commercial venture.",
+      "examples": [],
+      "synonyms": [
+        "departure",
+        "pull-out",
+        "exit",
+        "exodus",
+        "evacuation",
+        "retirement",
+        "retreat",
+        "disengagement"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpo͝olout/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pullout_us_1.mp3"
+}

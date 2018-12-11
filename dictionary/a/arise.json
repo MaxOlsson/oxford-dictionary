@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "(of a problem, opportunity, or situation) emerge; become apparent.",
+      "examples": [
+        "new difficulties had arisen"
+      ],
+      "synonyms": [
+        "come to light",
+        "become apparent",
+        "make an appearance",
+        "appear",
+        "emerge",
+        "crop up",
+        "turn up",
+        "come about",
+        "surface",
+        "spring up",
+        "enter into the picture"
+      ]
+    },
+    {
+      "description": "Get or stand up.",
+      "examples": [
+        "he arose at 9:30 and went out for a walk"
+      ],
+      "synonyms": [
+        "stand up",
+        "rise",
+        "get to one's feet",
+        "get up",
+        "jump up",
+        "leap up",
+        "spring up"
+      ]
+    }
+  ],
+  "origin": "Old English ārīsan, from ā- away (as an intensifier) + the verb rise.",
+  "pronounciation": "/əˈraɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arise_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the Swiss capital or canton of Berne or its inhabitants.",
+      "examples": [
+        "a large series of portraits from the Bernese region"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The people of the Swiss capital or canton of Berne.",
+      "examples": [
+        "the Bernese were proud of their victory over a distinguished mercenary captain"
+      ]
+    },
+    {
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌbərˈniz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bernese_1_us_1.mp3"
+}

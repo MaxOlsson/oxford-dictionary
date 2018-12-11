@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Cover the surface of (something) with a coating.",
+      "examples": [
+        "their fingernails were overlaid with silver or gold"
+      ],
+      "synonyms": [
+        "cover",
+        "face",
+        "surface",
+        "veneer",
+        "inlay",
+        "laminate"
+      ]
+    },
+    {
+      "description": "(of a quality or feeling) become more prominent than (a previous quality or feeling)",
+      "examples": [
+        "his openness had been overlaid by his new self-confidence"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something laid as a covering over something else.",
+      "examples": [
+        "a durable, cost-effective floor overlay"
+      ],
+      "synonyms": [
+        "covering",
+        "layer",
+        "face",
+        "surface",
+        "veneer",
+        "lamination",
+        "encrustation",
+        "carpet",
+        "blanket",
+        "sheet",
+        "curtain",
+        "canopy",
+        "cover",
+        "cloak",
+        "veil",
+        "pall",
+        "shroud",
+        "screen",
+        "mask",
+        "cloud",
+        "envelope"
+      ]
+    },
+    {
+      "description": "The process of transferring a block of program code or other data into internal memory, replacing what is already stored.",
+      "examples": []
+    }
+  ],
+  "": [],
+  "pronounciation": "/ˌōvərˈlā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overlay_us_3.mp3"
+}

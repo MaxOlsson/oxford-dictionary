@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A panel of keys that operate a computer or typewriter.",
+      "examples": [],
+      "synonyms": [
+        "workstation",
+        "vdu",
+        "visual display unit",
+        "pc",
+        "input device",
+        "output device"
+      ]
+    },
+    {
+      "description": "A set of keys on a piano or similar musical instrument.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Enter (data) by means of a keyboard.",
+      "examples": [],
+      "synonyms": [
+        "office",
+        "desk",
+        "back-room"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkiˌbɔrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/keyboard_us_1.mp3"
+}

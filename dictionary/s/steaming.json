@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Giving off steam.",
+      "examples": [
+        "a basin of steaming water"
+      ],
+      "synonyms": [
+        "humid",
+        "muggy",
+        "sticky",
+        "dripping",
+        "moist",
+        "damp",
+        "clammy",
+        "sultry",
+        "sweltering",
+        "boiling",
+        "sweaty",
+        "like a turkish bath",
+        "like a sauna"
+      ]
+    },
+    {
+      "description": "Extremely drunk.",
+      "examples": [],
+      "synonyms": [
+        "intoxicated",
+        "inebriated",
+        "drunken",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    },
+    {
+      "description": "Very angry.",
+      "examples": [],
+      "synonyms": [
+        "heated",
+        "piping",
+        "piping hot",
+        "sizzling",
+        "roasting",
+        "boiling",
+        "boiling hot",
+        "searing",
+        "scorching",
+        "scalding",
+        "red-hot"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extremely hot.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈstimɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steaming_us_1.mp3"
+}

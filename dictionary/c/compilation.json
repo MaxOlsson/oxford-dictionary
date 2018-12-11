@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of producing something, especially a list, book, or report, by assembling information collected from other sources.",
+      "examples": [
+        "great care has been taken in the compilation of this guidebook"
+      ]
+    },
+    {
+      "description": "A thing, especially a book, record, or broadcast program, that is put together by assembling previously separate items.",
+      "examples": [
+        "there are thirty-three stories in this compilation",
+        "a compilation album"
+      ],
+      "synonyms": [
+        "collection",
+        "selection",
+        "anthology",
+        "treasury",
+        "compendium",
+        "album",
+        "corpus",
+        "miscellany",
+        "pot-pourri"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin compilatio(n-), from compilare to plunder (see compile).",
+  "pronounciation": "/ˌkämpəˈlāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compilation_us_1.mp3"
+}

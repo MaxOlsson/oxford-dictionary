@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Not conscious.",
+      "examples": [
+        "the boy was beaten unconscious"
+      ],
+      "synonyms": [
+        "knocked out",
+        "insensible",
+        "senseless",
+        "insentient",
+        "insensate",
+        "passed out",
+        "comatose",
+        "in a coma",
+        "inert"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The part of the mind which is inaccessible to the conscious mind but which affects behavior and emotions.",
+      "examples": [],
+      "synonyms": [
+        "subconscious mind",
+        "subconscious",
+        "unconscious mind",
+        "psyche",
+        "ego",
+        "superego",
+        "id",
+        "inner self",
+        "innermost self",
+        "self",
+        "inner man",
+        "inner woman"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkänSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconscious_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Impossible to pass through or enter.",
+      "examples": [
+        "a dark, impenetrable forest"
+      ],
+      "synonyms": [
+        "impassable",
+        "unpassable",
+        "inaccessible",
+        "unnavigable",
+        "untraversable",
+        "pathless",
+        "trackless",
+        "untrodden"
+      ]
+    },
+    {
+      "description": "Impossible to understand.",
+      "examples": [
+        "her expression was impenetrable",
+        "impenetrable jargon"
+      ],
+      "synonyms": [
+        "incomprehensible",
+        "impossible to understand",
+        "unfathomable",
+        "fathomless",
+        "inexplicable",
+        "unintelligible",
+        "unclear",
+        "baffling",
+        "bewildering",
+        "puzzling",
+        "perplexing",
+        "confusing",
+        "abstruse",
+        "obscure",
+        "opaque",
+        "recondite",
+        "inscrutable",
+        "mysterious",
+        "cryptic",
+        "delphic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via French from Latin impenetrabilis, from in- not + penetrabilis able to be pierced, from the verb penetrare (see penetrate).",
+  "pronounciation": "/imˈpenətrəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impenetrable_us_1.mp3"
+}

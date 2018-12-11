@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A substance added to something in small quantities to improve or preserve it.",
+      "examples": [
+        "many foods contain chemical additives"
+      ],
+      "synonyms": [
+        "added ingredient",
+        "addition",
+        "extra",
+        "add-on",
+        "supplement",
+        "accompaniment"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Characterized by, relating to, or produced by addition.",
+      "examples": [
+        "the combination of these factors has an additive effect",
+        "an additive process"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (as an adjective): from late Latin additivus, from Latin addit- added, from the verb addere (see add). The noun dates from the 1940s.",
+  "pronounciation": "/ˈadədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/additive_us_2.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "verb": [
+    {
+      "description": "Have as belonging to one; own.",
+      "examples": [
+        "I do not possess a television set"
+      ],
+      "synonyms": [
+        "own",
+        "have",
+        "be the owner of",
+        "have in one's possession",
+        "be in possession of",
+        "be the possessor of",
+        "have to one's name",
+        "hold"
+      ]
+    },
+    {
+      "description": "(of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions.",
+      "examples": [
+        "she was possessed by the Devil"
+      ],
+      "synonyms": [
+        "take control of",
+        "have power over",
+        "take over",
+        "have mastery over",
+        "cast a spell over",
+        "bewitch",
+        "enchant",
+        "enthral",
+        "control",
+        "dominate",
+        "influence"
+      ]
+    },
+    {
+      "description": "Have sexual intercourse with (a woman).",
+      "examples": []
+    },
+    {
+      "description": "Maintain (oneself or one's mind or soul) in a state or condition of patience or quiet.",
+      "examples": [
+        "I tried to possess my soul in patience and to forget how hungry I was"
+      ]
+    }
+  ],
+  "phrases": [
+    "what possessed you to come here?",
+    "What possessed you to train for a marathon at the North Pole, one of the coldest, most desolate places on Earth?",
+    "What possessed you to take this test? I mean, seriously...",
+    "Which brings me back to that question: \"What possessed you to do that to your hair?\""
+  ],
+  "origin": "Late Middle English: from Old French possesser, from Latin possess- occupied, held, from the verb possidere, from potis able, capable + sedere sit.",
+  "pronounciation": "/pəˈzes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/possess_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Walk or behave in a very confident and typically arrogant or aggressive way.",
+      "examples": [
+        "he swaggered along the corridor"
+      ],
+      "synonyms": [
+        "strut",
+        "parade",
+        "stride",
+        "roll",
+        "prance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A very confident and typically arrogant or aggressive gait or manner.",
+      "examples": [
+        "they strolled around the camp with an exaggerated swagger"
+      ],
+      "synonyms": [
+        "strut",
+        "parading",
+        "roll",
+        "prancing"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting a coat or jacket cut with a loose flare from the shoulders.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: apparently a frequentative of the verb swag.",
+  "pronounciation": "/ˈswæɡər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swagger_us_1.mp3"
+}

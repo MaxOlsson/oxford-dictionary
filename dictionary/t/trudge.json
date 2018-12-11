@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Walk slowly and with heavy steps, typically because of exhaustion or harsh conditions.",
+      "examples": [
+        "I trudged up the stairs",
+        "she trudged through blinding snow"
+      ],
+      "synonyms": [
+        "plod",
+        "tramp",
+        "drag oneself",
+        "walk heavily",
+        "walk slowly",
+        "plough",
+        "slog",
+        "footslog",
+        "toil",
+        "trek",
+        "clump",
+        "clomp",
+        "lumber"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A difficult or laborious walk.",
+      "examples": [
+        "he began the long trudge back"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as a verb): of unknown origin.",
+  "pronounciation": "/trəj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trudge_us_1.mp3"
+}

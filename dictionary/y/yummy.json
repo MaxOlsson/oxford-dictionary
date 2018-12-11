@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) delicious.",
+      "examples": [
+        "yummy pumpkin cakes"
+      ],
+      "synonyms": [
+        "tasty",
+        "appetizing",
+        "pleasant-tasting"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Delicious food.",
+      "examples": [
+        "plates of homemade yummies"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from yum + -y.",
+  "pronounciation": "/ˈjəmi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yummy_us_1.mp3"
+}

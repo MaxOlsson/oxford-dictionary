@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "The pointed top of a mountain.",
+      "examples": [
+        "the snowy peaks rose against the blue of a cloudless sky"
+      ],
+      "synonyms": [
+        "summit",
+        "top",
+        "crest",
+        "pinnacle",
+        "mountaintop",
+        "spire",
+        "heights",
+        "brow",
+        "apex",
+        "crown",
+        "tip",
+        "cap",
+        "vertex",
+        "acme",
+        "zenith",
+        "apogee"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reach a highest point, either of a specified value or at a specified time.",
+      "examples": [
+        "its popularity peaked in the 1940s",
+        "the rate of increase peaked at 34 percent last autumn"
+      ],
+      "synonyms": [
+        "reach its highest point",
+        "reach the high point"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Greatest; maximum.",
+      "examples": [
+        "he did not expect to be anywhere near peak fitness until Christmas"
+      ],
+      "synonyms": [
+        "maximum",
+        "maximal",
+        "top",
+        "greatest",
+        "highest",
+        "utmost",
+        "uttermost",
+        "extreme"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: of unknown origin.",
+  "pronounciation": "/pik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peak_1_us_1.mp3"
+}

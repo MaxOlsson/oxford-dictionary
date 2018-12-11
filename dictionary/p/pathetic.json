@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Arousing pity, especially through vulnerability or sadness.",
+      "examples": [
+        "she looked so pathetic that I bent down to comfort her"
+      ],
+      "synonyms": [
+        "pitiful",
+        "pitiable",
+        "piteous",
+        "to be pitied",
+        "moving",
+        "touching",
+        "poignant",
+        "plaintive",
+        "stirring"
+      ]
+    },
+    {
+      "description": "Relating to the emotions.",
+      "examples": []
+    },
+    {
+      "description": "Miserably inadequate.",
+      "examples": [
+        "his test scores in Chemistry were pathetic"
+      ],
+      "synonyms": [
+        "feeble",
+        "woeful",
+        "sorry",
+        "poor",
+        "pitiful",
+        "lamentable",
+        "deplorable",
+        "miserable",
+        "wretched",
+        "contemptible",
+        "despicable",
+        "inadequate",
+        "meagre",
+        "paltry",
+        "insufficient",
+        "negligible",
+        "insubstantial",
+        "unsatisfactory",
+        "worthless"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense affecting the emotions): via late Latin from Greek pathētikos sensitive, based on pathos suffering.",
+  "pronounciation": "/pəˈθɛdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_pathetic_1_us_1.mp3"
+}

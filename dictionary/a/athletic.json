@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Physically strong, fit, and active.",
+      "examples": [
+        "big, muscular, athletic boys"
+      ],
+      "synonyms": [
+        "muscular",
+        "muscly",
+        "sturdy",
+        "strapping",
+        "well built",
+        "powerfully built",
+        "strong",
+        "powerful",
+        "robust",
+        "able-bodied",
+        "vigorous",
+        "hardy",
+        "lusty",
+        "hearty",
+        "hale and hearty",
+        "brawny",
+        "burly",
+        "broad-shouldered",
+        "thickset",
+        "herculean"
+      ]
+    },
+    {
+      "description": "Relating to athletes or athletics.",
+      "examples": [
+        "athletic events",
+        "an athletic club"
+      ],
+      "synonyms": [
+        "sporting",
+        "sports",
+        "games",
+        "gymnastic"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French athlétique or Latin athleticus, from Greek athlētikos, from athlētēs (see athlete).",
+  "pronounciation": "/ˌæθ(ə)ˈlɛdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/athletic_us_1.mp3"
+}

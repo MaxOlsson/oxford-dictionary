@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be changed in form, function, or character.",
+      "examples": [
+        "a living room that is miraculously convertible into a bedroom"
+      ],
+      "synonyms": [
+        "changeable",
+        "able to be changed",
+        "exchangeable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A car with a folding or detachable roof.",
+      "examples": [],
+      "synonyms": [
+        "soft-top",
+        "ragtop",
+        "targa"
+      ]
+    },
+    {
+      "description": "A convertible security.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense interchangeable): from Old French, from Latin convertibilis, from convertere turn about (see convert).",
+  "pronounciation": "/kənˈvərdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvertible_us_1.mp3"
+}

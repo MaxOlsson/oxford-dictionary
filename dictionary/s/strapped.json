@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Short of money.",
+      "examples": [
+        "I'm constantly strapped for cash"
+      ],
+      "synonyms": [
+        "poverty-stricken",
+        "impoverished",
+        "necessitous",
+        "beggarly",
+        "in penury",
+        "penurious",
+        "impecunious",
+        "indigent",
+        "needy",
+        "needful",
+        "in need",
+        "in want",
+        "badly off",
+        "low-paid",
+        "in reduced circumstances",
+        "in straitened circumstances",
+        "destitute",
+        "hard up",
+        "short of money",
+        "on one's beam-ends",
+        "unable to make ends meet",
+        "underprivileged",
+        "deprived",
+        "penniless",
+        "without a sou",
+        "as poor as a church mouse",
+        "moneyless"
+      ]
+    }
+  ],
+  "pronounciation": "/stræpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strapped_us_1.mp3"
+}

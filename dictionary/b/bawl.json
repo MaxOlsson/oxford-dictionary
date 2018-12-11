@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Shout or call out noisily and unrestrainedly.",
+      "examples": [
+        "“Move!” bawled the drill sergeant",
+        "lustily bawling out the hymns",
+        "Joe bawled with laughter"
+      ],
+      "synonyms": [
+        "shout",
+        "call out",
+        "cry out",
+        "cry",
+        "yell",
+        "roar",
+        "bellow",
+        "screech",
+        "scream",
+        "shriek",
+        "howl",
+        "whoop",
+        "bark",
+        "growl",
+        "snarl",
+        "bluster",
+        "vociferate",
+        "trumpet",
+        "thunder"
+      ]
+    },
+    {
+      "description": "Weep or cry noisily.",
+      "examples": [
+        "I began to bawl like a child"
+      ],
+      "synonyms": [
+        "cry",
+        "sob",
+        "weep",
+        "shed tears",
+        "wail",
+        "blubber",
+        "snivel",
+        "whimper",
+        "whine",
+        "howl",
+        "squall"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loud, unrestrained shout.",
+      "examples": [],
+      "synonyms": [
+        "shout",
+        "yell",
+        "cry",
+        "roar",
+        "bellow",
+        "screech",
+        "scream",
+        "howl",
+        "whoop"
+      ]
+    }
+  ],
+  "phrases": [
+    "tales of how she bawled out employees",
+    "There are moments when you really want to bawl them out.",
+    "Anyway, but Anne Marie contacted Olivia and John, and your bullheaded sister bawled her out!",
+    "But you know what impressed me most was the calm, serene way you kept looking back at him while he was bawling you out.",
+    "The next day my next-door neighbor, who is a bit of a tough guy, bawled me out for not calling the cops."
+  ],
+  "origin": "Late Middle English (in the sense (of an animal) howl, bark): imitative; possibly related to medieval Latin baulare to bark or Icelandic baula to low.",
+  "pronounciation": "/bɔl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bawl_us_1.mp3"
+}

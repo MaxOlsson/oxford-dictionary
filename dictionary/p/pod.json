@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "An elongated seed vessel of a leguminous plant such as the pea, splitting open on both sides when ripe.",
+      "examples": [],
+      "synonyms": [
+        "shell",
+        "husk",
+        "hull",
+        "case",
+        "seed vessel"
+      ]
+    },
+    {
+      "description": "A detachable or self-contained unit on an aircraft, spacecraft, vehicle, or vessel, having a particular function.",
+      "examples": [
+        "the torpedo's sensor pod contains a television camera"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a plant) bear or form pods.",
+      "examples": [
+        "the peas have failed to pod"
+      ]
+    },
+    {
+      "description": "Remove (peas or beans) from their pods prior to cooking.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century (originally US): of unknown origin.",
+  "pronounciation": "/pɑd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_pod_1_us_1.mp3"
+}

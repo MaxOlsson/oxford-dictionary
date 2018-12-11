@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) visible, typically by uncovering it.",
+      "examples": [
+        "at low tide the sands are exposed"
+      ],
+      "synonyms": [
+        "reveal",
+        "uncover",
+        "lay bare",
+        "bare",
+        "leave unprotected"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A report of the facts about something, especially a journalistic report that reveals something scandalous.",
+      "examples": [
+        "a shocking exposé of a medical cover-up"
+      ],
+      "synonyms": [
+        "revelation",
+        "disclosure",
+        "exposure",
+        "uncovering",
+        "divulgence"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from French, shown, set out, past participle of exposer (see expose).",
+  "pronounciation": "/ˌɛkspoʊˈzeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expose_1_us_2.mp3"
+}

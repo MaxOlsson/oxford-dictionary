@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Officially agree to or accept as satisfactory.",
+      "examples": [
+        "the budget was approved by Congress"
+      ],
+      "synonyms": [
+        "accept",
+        "agree to",
+        "consent to",
+        "assent to",
+        "acquiesce in",
+        "concur in",
+        "accede to",
+        "give one's blessing to",
+        "bless",
+        "give one's seal of approval to",
+        "give one's stamp of approval to",
+        "rubber-stamp",
+        "say yes to"
+      ]
+    },
+    {
+      "description": "Prove; show.",
+      "examples": [
+        "he approved himself ripe for military command"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French aprover, from Latin approbare (see approbate). The original sense was prove, demonstrate, later corroborate, confirm, hence pronounce to be satisfactory ( late Middle English).",
+  "pronounciation": "/əˈpro͞ov/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/approve_us_1.mp3"
+}

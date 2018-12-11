@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A brief pause for rest.",
+      "examples": [
+        "the director is taking a breather from his furious schedule"
+      ],
+      "synonyms": [
+        "break",
+        "rest",
+        "pause",
+        "interval",
+        "respite",
+        "breathing space",
+        "lull",
+        "recess",
+        "time out"
+      ]
+    },
+    {
+      "description": "A vent or valve to release pressure or to allow air to move freely around something.",
+      "examples": [
+        "a cask breather",
+        "a breather pipe"
+      ],
+      "synonyms": [
+        "outlet",
+        "inlet",
+        "opening",
+        "aperture",
+        "vent hole",
+        "hole",
+        "gap",
+        "orifice",
+        "space",
+        "cavity",
+        "cleft",
+        "slit",
+        "pore",
+        "port"
+      ]
+    },
+    {
+      "description": "A person or animal that breathes in a particular way, or breathes a particular substance.",
+      "examples": [
+        "a heavy breather",
+        "reptiles are lung-breathers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrēT͟Hər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breather_us_1.mp3"
+}

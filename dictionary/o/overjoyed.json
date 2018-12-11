@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely happy.",
+      "examples": [
+        "Joanna will be overjoyed to see you"
+      ],
+      "synonyms": [
+        "ecstatic",
+        "euphoric",
+        "thrilled",
+        "elated",
+        "delighted",
+        "on cloud nine",
+        "on cloud seven",
+        "treading on air",
+        "walking on air",
+        "in seventh heaven",
+        "jubilant",
+        "rapturous",
+        "beside oneself with joy",
+        "jumping for joy",
+        "exultant",
+        "transported",
+        "delirious",
+        "enraptured",
+        "blissful",
+        "in raptures",
+        "as pleased as punch",
+        "cock-a-hoop",
+        "as happy as a sandboy",
+        "as happy as larry",
+        "like a child with a new toy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈdʒɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overjoyed_us_1.mp3"
+}

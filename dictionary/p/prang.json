@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Crash (a motor vehicle or aircraft)",
+      "examples": [
+        "Ernie pranged his sports car last month"
+      ],
+      "synonyms": [
+        "demolish",
+        "crash",
+        "smash",
+        "smash up",
+        "ruin",
+        "damage",
+        "damage beyond repair",
+        "destroy",
+        "break up",
+        "dismantle",
+        "vandalize",
+        "deface",
+        "desecrate",
+        "sabotage",
+        "leave in ruins"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A crash involving a motor vehicle or aircraft.",
+      "examples": [
+        "he had numerous prangs and near misses in his motoring life"
+      ],
+      "synonyms": [
+        "crash",
+        "accident",
+        "smash",
+        "bump",
+        "knock",
+        "impact",
+        "hit",
+        "strike",
+        "clash"
+      ]
+    }
+  ],
+  "origin": "1940s: imitative.",
+  "pronounciation": "/praNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prang_us_1.mp3"
+}

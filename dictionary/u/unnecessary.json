@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Not needed.",
+      "examples": [
+        "a fourth Chicago airport is unnecessary"
+      ],
+      "synonyms": [
+        "not necessary",
+        "not essential",
+        "non-essential",
+        "not needed",
+        "not required",
+        "unwanted",
+        "uncalled-for",
+        "needless",
+        "redundant",
+        "superfluous",
+        "excessive",
+        "excess",
+        "surplus",
+        "dispensable",
+        "expendable",
+        "optional",
+        "ornamental",
+        "cosmetic"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Unnecessary things.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈnesəˌserē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unnecessary_us_1.mp3"
+}

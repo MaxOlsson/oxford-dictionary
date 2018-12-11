@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Store (something) safely and secretly in a specified place.",
+      "examples": [
+        "their wealth had been stashed away in Swiss banks"
+      ],
+      "synonyms": [
+        "store",
+        "stow",
+        "pack",
+        "load",
+        "cache",
+        "garner",
+        "hide",
+        "conceal",
+        "secrete"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A store or supply of something, typically one that is kept hidden or secret.",
+      "examples": [
+        "the man grudgingly handed over a stash of notes"
+      ],
+      "synonyms": [
+        "cache",
+        "hoard",
+        "stock",
+        "stockpile",
+        "store",
+        "supply",
+        "accumulation",
+        "collection",
+        "reserve",
+        "fund",
+        "pool"
+      ]
+    },
+    {
+      "description": "A hiding place or hideout.",
+      "examples": []
+    }
+  ],
+  "origin": "1940s: shortened form.",
+  "pronounciation": "/staSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stash_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "An event or occurrence.",
+      "examples": [
+        "several amusing incidents"
+      ],
+      "synonyms": [
+        "event",
+        "occurrence",
+        "occasion",
+        "episode",
+        "experience",
+        "happening",
+        "proceeding",
+        "eventuality",
+        "affair",
+        "business"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Likely to happen because of; resulting from.",
+      "examples": [
+        "the changes incident to economic development"
+      ]
+    },
+    {
+      "description": "(especially of light or other radiation) falling on or striking something.",
+      "examples": [
+        "when an ion beam is incident on a surface"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin incident- falling upon, happening to, from the verb incidere, from in- upon + cadere to fall.",
+  "pronounciation": "/ˈɪnsəd(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incident_us_1.mp3"
+}

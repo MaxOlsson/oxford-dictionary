@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A prolonged and bitter quarrel or dispute.",
+      "examples": [
+        "one of the most volatile feuds that currently rock the scientific community"
+      ],
+      "synonyms": [
+        "argument",
+        "dispute",
+        "disagreement",
+        "quarrel",
+        "row",
+        "fight",
+        "squabble",
+        "difference of opinion",
+        "altercation",
+        "angry exchange",
+        "war of words",
+        "shouting match",
+        "tiff"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Take part in a prolonged quarrel or conflict.",
+      "examples": [
+        "Hoover feuded with the CIA for decades",
+        "these two families have been feuding since the Civil War"
+      ],
+      "synonyms": [
+        "quarrel",
+        "fight",
+        "argue",
+        "bicker",
+        "squabble",
+        "dispute",
+        "clash",
+        "differ",
+        "be at odds",
+        "be at daggers drawn"
+      ]
+    }
+  ],
+  "origin": "Middle English fede hostility, ill will, from Old French feide, from Middle Dutch, Middle Low German vēde, of Germanic origin; related to foe.",
+  "pronounciation": "/fyo͞od/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feud_us_1.mp3"
+}

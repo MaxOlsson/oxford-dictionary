@@ -1,0 +1,77 @@
+{
+  "noun": [
+    {
+      "description": "A frothy white mass of bubbles produced by soap or a similar cleansing substance when mixed with water.",
+      "examples": [],
+      "synonyms": [
+        "foam",
+        "froth",
+        "suds",
+        "soapsuds",
+        "bubbles"
+      ]
+    },
+    {
+      "description": "A state of agitation or nervous excitement.",
+      "examples": [
+        "Larry was worked into a lather and shouted at the mayor"
+      ],
+      "synonyms": [
+        "panic",
+        "nervous state",
+        "state of agitation",
+        "state of anxiety",
+        "fluster",
+        "flutter",
+        "fret",
+        "fuss",
+        "frenzy",
+        "fever",
+        "pother"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(with reference to soap or a similar cleansing substance) form or cause to form a frothy white mass of bubbles.",
+      "examples": [
+        "soap will not lather in hard water"
+      ]
+    },
+    {
+      "description": "Cover something with liberal amounts of (a substance)",
+      "examples": [
+        "she lathered a slice of toast with butter"
+      ]
+    },
+    {
+      "description": "(of a horse) be covered with sweat.",
+      "examples": [
+        "the old mare was lathered and I decided it was time for a rest"
+      ]
+    },
+    {
+      "description": "Thrash (someone).",
+      "examples": [],
+      "synonyms": [
+        "hit",
+        "beat",
+        "flog",
+        "whip",
+        "horsewhip",
+        "scourge",
+        "lash",
+        "flagellate",
+        "flail",
+        "strap",
+        "birch",
+        "cane",
+        "belt",
+        "leather"
+      ]
+    }
+  ],
+  "origin": "Old English læthor (denoting washing soda or its froth), lēthran (verb), of Germanic origin; related to Old Norse lauthr (noun), from an Indo-European root shared by Greek loutron bath.",
+  "pronounciation": "/ˈlæðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lather_us_1.mp3"
+}

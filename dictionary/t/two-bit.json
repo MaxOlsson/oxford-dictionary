@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Insignificant, cheap, or worthless.",
+      "examples": [
+        "some two-bit town"
+      ],
+      "synonyms": [
+        "poor-quality",
+        "second-rate",
+        "third-rate",
+        "substandard",
+        "low-grade",
+        "inferior",
+        "common",
+        "vulgar",
+        "shoddy",
+        "trashy",
+        "rubbishy",
+        "tawdry",
+        "tinny",
+        "brassy",
+        "worthless",
+        "meretricious",
+        "cheap and nasty",
+        "cheapjack",
+        "gimcrack",
+        "brummagem",
+        "pinchbeck"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtu ˌbɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/two_bit_1_us_1.mp3"
+}

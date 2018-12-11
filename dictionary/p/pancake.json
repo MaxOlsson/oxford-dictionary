@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A thin, flat cake of batter, usually fried and turned in a pan. Pancakes are usually eaten with syrup or rolled up with a filling.",
+      "examples": [],
+      "synonyms": [
+        "crêpe",
+        "drop scone",
+        "galette",
+        "waffle",
+        "griddle cake",
+        "batter cake",
+        "flannel cake"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(with reference to an aircraft) make or cause to make a pancake landing.",
+      "examples": [
+        "he pancaked it in about twenty meters"
+      ]
+    },
+    {
+      "description": "Flatten or become flattened.",
+      "examples": [
+        "the hotel had pancaked into a heap of concrete"
+      ]
+    }
+  ],
+  "phrases": [
+    "The second set was as flat as a pancake for the first few games.",
+    "Swindon has hills and the nearby Cotswolds and Marlborough Downs, while Cambridge is flat as a pancake.",
+    "Here on the east coast of the USA, the coast is flat as a pancake.",
+    "Being as how the fens are flat as a pancake, and the cathedral is a very big building on top of a medium-sized hill, it's pretty visible.",
+    "A full 45 minutes' worth would crush you flat as a pancake."
+  ],
+  "origin": "Late Middle English: from pan + cake.",
+  "pronounciation": "/ˈpænˌkeɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pancake_us_1.mp3"
+}

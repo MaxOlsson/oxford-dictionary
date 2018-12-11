@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Having lost determination or confidence; dispirited.",
+      "examples": [
+        "a disheartened tone of voice"
+      ],
+      "synonyms": [
+        "downhearted",
+        "dispirited",
+        "low-spirited",
+        "demoralized",
+        "despondent",
+        "depressed",
+        "disconsolate",
+        "dejected",
+        "dismayed",
+        "disappointed",
+        "daunted",
+        "discouraged",
+        "deterred",
+        "unmanned",
+        "unnerved",
+        "sapped",
+        "shaken",
+        "thrown",
+        "crushed",
+        "cast down",
+        "low",
+        "down",
+        "crestfallen",
+        "saddened",
+        "weighed down"
+      ]
+    }
+  ],
+  "pronounciation": "/disˈhärtnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disheartened_us_1.mp3"
+}

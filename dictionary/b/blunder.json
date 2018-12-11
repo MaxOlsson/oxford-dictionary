@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A stupid or careless mistake.",
+      "examples": [],
+      "synonyms": [
+        "mistake",
+        "error",
+        "gaffe",
+        "fault",
+        "slip",
+        "oversight",
+        "inaccuracy",
+        "botch"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a stupid or careless mistake; act or speak clumsily.",
+      "examples": [
+        "the mayor and the City Council have blundered in an ill-advised campaign",
+        "I blundered on in my explanation"
+      ],
+      "synonyms": [
+        "make a mistake",
+        "be mistaken",
+        "err",
+        "be in error",
+        "misjudge",
+        "miscalculate",
+        "bungle",
+        "trip up",
+        "be wrong",
+        "get something wrong",
+        "be wide of the mark"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably of Scandinavian origin and related to blind.",
+  "pronounciation": "/ˈbləndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blunder_us_1.mp3"
+}

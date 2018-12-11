@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Bent or twisted out of shape or out of place.",
+      "examples": [
+        "his teeth were yellow and crooked"
+      ],
+      "synonyms": [
+        "bent",
+        "curved",
+        "twisted",
+        "contorted",
+        "warped",
+        "angled",
+        "bowed",
+        "hooked"
+      ]
+    },
+    {
+      "description": "Dishonest; illegal.",
+      "examples": [
+        "a crooked business deal"
+      ],
+      "synonyms": [
+        "criminal",
+        "illegal",
+        "unlawful",
+        "questionable",
+        "dubious",
+        "nefarious"
+      ]
+    }
+  ],
+  "origin": "Middle English: from crook, probably modeled on Old Norse krókóttr crooked, cunning.",
+  "pronounciation": "/ˈkro͝okəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crooked_us_1.mp3"
+}

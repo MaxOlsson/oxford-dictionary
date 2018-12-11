@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A judicial court for trying members of the armed services accused of offenses against military law.",
+      "examples": [
+        "they appeared before a court-martial",
+        "he was found guilty by court-martial"
+      ],
+      "synonyms": [
+        "court case",
+        "case",
+        "lawsuit",
+        "suit",
+        "hearing",
+        "enquiry",
+        "tribunal",
+        "litigation",
+        "judicial proceedings",
+        "legal proceedings",
+        "proceedings",
+        "legal action"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Try (someone) by a court-martial.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌkɔrtˈmɑrʃ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/court_martial_1_us_1.mp3"
+}

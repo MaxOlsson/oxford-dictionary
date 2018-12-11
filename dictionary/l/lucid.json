@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Expressed clearly; easy to understand.",
+      "examples": [
+        "a lucid account",
+        "write in a clear and lucid style"
+      ],
+      "synonyms": [
+        "intelligible",
+        "comprehensible",
+        "understandable",
+        "cogent",
+        "coherent",
+        "communicative",
+        "articulate",
+        "eloquent"
+      ]
+    },
+    {
+      "description": "Bright or luminous.",
+      "examples": [
+        "birds dipped their wings in the lucid flow of air"
+      ],
+      "synonyms": [
+        "bright",
+        "shining",
+        "gleaming",
+        "luminous",
+        "radiant",
+        "brilliant",
+        "glowing",
+        "dazzling",
+        "lustrous",
+        "luminescent",
+        "phosphorescent"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in lucid (sense 2)): from Latin lucidus (perhaps via French lucide or Italian lucido) from lucere shine, from lux, luc- light.",
+  "pronounciation": "/ˈlusəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lucid_us_1.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "A traditional story sometimes popularly regarded as historical but unauthenticated.",
+      "examples": [
+        "the legend of King Arthur",
+        "according to legend he banished all the snakes from Ireland"
+      ],
+      "synonyms": [
+        "myth",
+        "saga",
+        "epic",
+        "folk tale",
+        "folk story",
+        "traditional story",
+        "tale",
+        "story",
+        "fairy tale",
+        "narrative",
+        "fable",
+        "romance"
+      ]
+    },
+    {
+      "description": "An extremely famous or notorious person, especially in a particular field.",
+      "examples": [
+        "the man was a living legend",
+        "a Wall Street legend"
+      ],
+      "synonyms": [
+        "celebrity",
+        "star",
+        "superstar",
+        "icon",
+        "famous person",
+        "great",
+        "genius",
+        "phenomenon",
+        "luminary",
+        "giant",
+        "big name"
+      ]
+    },
+    {
+      "description": "An inscription, especially on a coin or medal.",
+      "examples": [],
+      "synonyms": [
+        "caption",
+        "inscription",
+        "dedication",
+        "motto",
+        "slogan",
+        "device",
+        "heading",
+        "head",
+        "title",
+        "wording",
+        "subtitle",
+        "subheading",
+        "rubric",
+        "colophon"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Very well known.",
+      "examples": [
+        "his speed and ferocity in attack were legend"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense story of a saint's life): from Old French legende, from medieval Latin legenda things to be read, from Latin legere read. legend (sense 1 of the noun) dates from the early 17th century.",
+  "pronounciation": "/ˈlɛdʒənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/legend_us_1.mp3"
+}

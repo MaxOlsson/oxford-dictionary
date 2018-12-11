@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely unpleasant.",
+      "examples": [
+        "it had been the most godawful forty-eight hours"
+      ],
+      "synonyms": [
+        "foul",
+        "nasty",
+        "unpleasant",
+        "bad",
+        "disagreeable",
+        "horrid",
+        "horrible",
+        "dreadful",
+        "abominable",
+        "atrocious",
+        "offensive",
+        "obnoxious",
+        "odious",
+        "unsavoury",
+        "repulsive",
+        "off-putting",
+        "repellent",
+        "revolting",
+        "repugnant",
+        "disgusting",
+        "distasteful",
+        "loathsome",
+        "hateful",
+        "nauseating",
+        "sickening"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɡädˈôfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/godawful_us_1.mp3"
+}

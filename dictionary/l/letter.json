@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "A character representing one or more of the sounds used in speech; any of the symbols of an alphabet.",
+      "examples": [
+        "a capital letter"
+      ],
+      "synonyms": [
+        "alphabetical character",
+        "character",
+        "sign",
+        "symbol",
+        "mark",
+        "type",
+        "figure",
+        "device",
+        "rune"
+      ]
+    },
+    {
+      "description": "A written, typed, or printed communication, especially one sent in an envelope by mail or messenger.",
+      "examples": [
+        "he sent a letter to Mrs. Falconer"
+      ],
+      "synonyms": [
+        "written message",
+        "message",
+        "written communication",
+        "communication",
+        "note",
+        "line",
+        "missive",
+        "epistle",
+        "dispatch",
+        "report",
+        "bulletin"
+      ]
+    },
+    {
+      "description": "The precise terms of a statement or requirement; the strict verbal interpretation.",
+      "examples": [
+        "we must be seen to keep the spirit of the law as well as the letter"
+      ]
+    },
+    {
+      "description": "Literature.",
+      "examples": [
+        "the world of letters"
+      ],
+      "synonyms": [
+        "written works",
+        "writings",
+        "writing",
+        "creative writing",
+        "literary texts",
+        "compositions",
+        "letters",
+        "belles-lettres"
+      ]
+    },
+    {
+      "description": "A style of typeface.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Inscribe letters or writing on.",
+      "examples": [
+        "her name was lettered in gold"
+      ]
+    },
+    {
+      "description": "Be given a school or college initial as a mark of proficiency in sports.",
+      "examples": [
+        "juniors who lettered in soccer, basketball, or softball"
+      ]
+    }
+  ],
+  "phrases": [
+    "the method was followed to the letter",
+    "The quality was very good and our delivery instructions were followed to the letter.",
+    "In short, in implementing this process all steps should be followed to the letter.",
+    "She would follow his instructions to the letter but she would not like it at all.",
+    "The council stands by its decision, insisting that the consultation process has been followed to the letter."
+  ],
+  "origin": "Middle English: from Old French lettre, from Latin litera, littera letter of the alphabet, (plural) epistle, literature, culture.",
+  "pronounciation": "/ˈlɛdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/letter_us_2.mp3"
+}

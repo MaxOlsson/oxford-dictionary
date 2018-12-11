@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) tender, juicy, and tasty.",
+      "examples": [],
+      "synonyms": [
+        "juicy",
+        "moist",
+        "luscious",
+        "lush",
+        "fleshy",
+        "pulpy",
+        "soft",
+        "tender",
+        "fresh",
+        "ripe"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A succulent plant.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Latin succulentus, from succus juice.",
+  "pronounciation": "/ˈsəkyələnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/succulent_us_1.mp3"
+}

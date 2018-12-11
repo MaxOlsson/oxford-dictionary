@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Of low birth or origin.",
+      "examples": [
+        "he was a baseborn prince"
+      ],
+      "synonyms": [
+        "uncouth",
+        "vulgar",
+        "coarse",
+        "rough",
+        "unsavoury",
+        "boorish",
+        "rude",
+        "impolite",
+        "ill-mannered",
+        "unladylike",
+        "ungentlemanly",
+        "ill-bred",
+        "uncivilized",
+        "unsophisticated",
+        "unrefined",
+        "philistine",
+        "primitive",
+        "savage",
+        "brutish",
+        "oafish",
+        "gross"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbāsbôrn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baseborn_us_1.mp3"
+}

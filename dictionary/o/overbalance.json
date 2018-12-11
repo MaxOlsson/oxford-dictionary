@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Fall or cause to fall over from loss of balance.",
+      "examples": [
+        "their combined weight had overbalanced them",
+        "the ladder overbalanced on top of her"
+      ],
+      "synonyms": [
+        "fall over",
+        "topple over",
+        "lose one's balance",
+        "lose one's footing",
+        "tip over",
+        "keel over",
+        "capsize",
+        "overturn",
+        "turn turtle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An excess of weight, value, or amount.",
+      "examples": [
+        "overbalance of propriety"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈbaləns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overbalance_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "With courage and determination.",
+      "examples": [
+        "she stoutly defends her action",
+        "he stoutly maintained his innocence"
+      ]
+    },
+    {
+      "description": "In a strong and sturdy manner.",
+      "examples": [
+        "the houses are built stoutly of granite"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstaʊtli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stoutly_us_1.mp3"
+}

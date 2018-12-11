@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) suffer violent involuntary contraction of the muscles, producing contortion of the body or limbs.",
+      "examples": [
+        "she convulsed, collapsing to the floor with the pain"
+      ],
+      "synonyms": [
+        "shake uncontrollably",
+        "shake violently",
+        "go into spasms",
+        "shudder",
+        "jerk",
+        "thrash about"
+      ]
+    },
+    {
+      "description": "Throw (a country) into violent social or political upheaval.",
+      "examples": [
+        "a wave of mass strikes convulsed the Ruhr, Berlin, and central Germany"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin convuls- pulled violently, wrenched, from the verb convellere, from con- together + vellere to pull.",
+  "pronounciation": "/kənˈvəls/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvulse_us_1.mp3"
+}

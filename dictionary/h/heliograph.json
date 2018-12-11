@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A signaling device by which sunlight is reflected in flashes from a movable mirror.",
+      "examples": []
+    },
+    {
+      "description": "A telescopic apparatus for photographing the sun.",
+      "examples": []
+    },
+    {
+      "description": "A type of early photographic engraving made using a sensitized silver plate and an asphalt or bitumen varnish.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send (a message) by heliograph.",
+      "examples": [
+        "the glasses seemed to be heliographing a warning"
+      ]
+    },
+    {
+      "description": "Take a heliographic photograph of.",
+      "examples": [
+        "he could only heliograph static subjects in very intense light"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhiliəˌɡræf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heliograph_us_1.mp3"
+}

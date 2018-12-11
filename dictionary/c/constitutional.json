@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to an established set of principles governing a state.",
+      "examples": [
+        "a constitutional amendment"
+      ]
+    },
+    {
+      "description": "Relating to someone's physical or mental condition.",
+      "examples": [
+        "a constitutional weakness"
+      ],
+      "synonyms": [
+        "inherent",
+        "inbred",
+        "intrinsic",
+        "innate",
+        "structural",
+        "fundamental",
+        "essential"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A walk, typically one taken regularly to maintain or restore good health.",
+      "examples": [],
+      "synonyms": [
+        "walk",
+        "stroll",
+        "saunter",
+        "turn",
+        "wander",
+        "amble",
+        "breather",
+        "airing",
+        "ramble",
+        "hike"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkɑnstəˈt(j)uʃ(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconstitutional_us_1.mp3"
+}

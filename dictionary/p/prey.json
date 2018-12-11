@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An animal that is hunted and killed by another for food.",
+      "examples": [
+        "the kestrel is ready to pounce on unsuspecting prey"
+      ],
+      "synonyms": [
+        "quarry",
+        "game",
+        "kill"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hunt and kill for food.",
+      "examples": [
+        "small birds that prey on insect pests"
+      ],
+      "synonyms": [
+        "hunt",
+        "catch",
+        "seize"
+      ]
+    }
+  ],
+  "phrases": [
+    "small rodents fell prey to domestic cats",
+    "In Northeast China, a Siberian tiger was recently found killed after it fell prey to a trap originally set by the locals for boars.",
+    "Many fall prey to poachers who kill them for meat and steal eggs from the corpses to sell as aphrodisiacs.",
+    "Eggs and hatchlings are the most vulnerable, falling prey to insects, crustaceans, mollusks, small mammals, birds, other reptiles, and various fishes.",
+    "he would often fall prey to melancholy"
+  ],
+  "origin": "Middle English (also denoting plunder taken in war): the noun from Old French preie, from Latin praeda booty, the verb from Old French preier, based on Latin praedari seize as plunder, from praeda.",
+  "pronounciation": "/prā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prey_us_1.mp3"
+}

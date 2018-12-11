@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "A particular item or object.",
+      "examples": [
+        "small household articles",
+        "articles of clothing"
+      ],
+      "synonyms": [
+        "object",
+        "thing",
+        "item",
+        "unit",
+        "artefact",
+        "piece of merchandise",
+        "commodity",
+        "product"
+      ]
+    },
+    {
+      "description": "A piece of writing included with others in a newspaper, magazine, or other publication.",
+      "examples": [
+        "an article about middle-aged executives"
+      ],
+      "synonyms": [
+        "essay",
+        "report",
+        "account",
+        "story",
+        "write-up",
+        "feature",
+        "item",
+        "piece",
+        "piece of writing",
+        "composition",
+        "column",
+        "paper",
+        "tract",
+        "study",
+        "review",
+        "commentary",
+        "treatise",
+        "analysis",
+        "disquisition",
+        "discourse"
+      ]
+    },
+    {
+      "description": "A separate clause or paragraph of a legal document or agreement, typically one outlining a single rule or regulation.",
+      "examples": [
+        "it is an offense under Article 7 of the treaty"
+      ],
+      "synonyms": [
+        "clause",
+        "section",
+        "subsection",
+        "point",
+        "item",
+        "paragraph",
+        "division",
+        "subdivision",
+        "heading",
+        "part",
+        "bit",
+        "passage",
+        "portion",
+        "segment"
+      ]
+    },
+    {
+      "description": "The definite or indefinite article.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bind by the terms of a contract, as one of apprenticeship.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "it was an article of faith with this circle that women must free themselves",
+    "One of the ironies of multiculturalism is its inconsistency with the other tenets of the liberal articles of faith, such as feminism.",
+    "It's become an article of faith among environmentalists, the idea of the Ecological Indian.",
+    "Their conviction rests on seven articles of faith, carefully passed from person to person at all levels of the black community.",
+    "A creed is meant to summarize the explicit teachings or articles of faith, to imbed and thus protect and transmit the beliefs."
+  ],
+  "origin": "Middle English (denoting a separate clause of the Apostles' Creed): from Old French, from Latin articulus small connecting part, diminutive of artus joint.",
+  "pronounciation": "/ˈɑrdək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/article_us_1.mp3"
+}

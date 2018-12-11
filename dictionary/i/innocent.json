@@ -1,0 +1,99 @@
+{
+  "adjective": [
+    {
+      "description": "Not guilty of a crime or offense.",
+      "examples": [
+        "the arbitrary execution of an innocent man",
+        "he was innocent of any fraud"
+      ],
+      "synonyms": [
+        "guiltless",
+        "guilt-free",
+        "not guilty",
+        "blameless",
+        "not to blame",
+        "in the clear",
+        "unimpeachable",
+        "irreproachable",
+        "above suspicion",
+        "beyond criticism",
+        "without fault",
+        "faultless"
+      ]
+    },
+    {
+      "description": "Not responsible for or directly involved in an event yet suffering its consequences.",
+      "examples": [
+        "an innocent bystander"
+      ]
+    },
+    {
+      "description": "Free from moral wrong; not corrupted.",
+      "examples": [
+        "an innocent child"
+      ],
+      "synonyms": [
+        "virtuous",
+        "pure",
+        "sinless",
+        "free of sin",
+        "moral",
+        "decent",
+        "righteous",
+        "upright",
+        "wholesome",
+        "demure",
+        "modest",
+        "chaste",
+        "virginal",
+        "virgin",
+        "impeccable",
+        "pristine",
+        "spotless",
+        "stainless",
+        "unblemished",
+        "unsullied",
+        "incorrupt",
+        "uncorrupted",
+        "uncontaminated",
+        "undefiled"
+      ]
+    },
+    {
+      "description": "Not intended to cause harm or offense; harmless.",
+      "examples": [
+        "an innocent mistake"
+      ],
+      "synonyms": [
+        "harmless",
+        "innocuous",
+        "safe",
+        "non-injurious",
+        "unobjectionable",
+        "inoffensive",
+        "playful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pure, guileless, or naive person.",
+      "examples": [
+        "she was an innocent compared with this man"
+      ],
+      "synonyms": [
+        "unworldly person",
+        "naive person"
+      ]
+    },
+    {
+      "description": "A person involved by chance in a situation, especially a victim of crime or war.",
+      "examples": [
+        "they are prepared to kill or maim innocents in pursuit of a cause"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, or from Latin innocent- not harming, from in- not + nocere to hurt.",
+  "pronounciation": "/ˈɪnəsənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/innocent_us_1.mp3"
+}

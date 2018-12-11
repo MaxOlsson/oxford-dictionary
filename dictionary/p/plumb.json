@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Measure (the depth of a body of water).",
+      "examples": []
+    },
+    {
+      "description": "Test (an upright surface) to determine the vertical.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A plumb bob.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Exactly.",
+      "examples": [
+        "a bassoonist who sits plumb in the middle of the wind section"
+      ],
+      "synonyms": [
+        "right",
+        "exactly",
+        "precisely",
+        "directly",
+        "dead",
+        "straight",
+        "without interruption"
+      ]
+    },
+    {
+      "description": "Vertically.",
+      "examples": [
+        "drapery fell from their human forms plumb down"
+      ],
+      "synonyms": [
+        "vertically",
+        "perpendicularly",
+        "straight up",
+        "straight up and down"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Vertical.",
+      "examples": [
+        "ensure that the baseboard is straight and plumb"
+      ],
+      "synonyms": [
+        "vertical",
+        "perpendicular",
+        "straight"
+      ]
+    }
+  ],
+  "phrases": [
+    "the towers are inclined, from four to ten feet out of plumb",
+    "There is evidence that the initial portion of the brick wall was treated as a sample wall and eventually removed and reconstructed when it was determined that the first soldier course bricks were badly out of plumb.",
+    "The capitals that were molded at the plant became out of plumb by 1/2 inch during transport.",
+    "The construction looks rickety and a bit out of plumb.",
+    "The cathedral's main tower was tilting so much - 2.7 degrees out of plumb, in engineering terms - that a large earthquake could cause it to collapse."
+  ],
+  "origin": "Late 19th century (in the sense work as a plumber): back-formation from plumber.",
+  "pronounciation": "/pləm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plumb_us_1.mp3"
+}

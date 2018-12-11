@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "The action of forgiving or being forgiven for an error or offense.",
+      "examples": [
+        "he obtained pardon for his sins"
+      ],
+      "synonyms": [
+        "forgiveness",
+        "absolution",
+        "remission",
+        "clemency",
+        "mercy",
+        "lenience",
+        "leniency",
+        "condonation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Forgive or excuse (a person, error, or offense)",
+      "examples": [
+        "I know Catherine will pardon me"
+      ],
+      "synonyms": [
+        "forgive",
+        "absolve",
+        "have mercy on",
+        "be merciful to",
+        "deal leniently with"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "A request to a speaker to repeat something because one did not hear or understand it.",
+      "examples": [
+        "“Pardon?” I said, cupping a hand to my ear"
+      ],
+      "synonyms": [
+        "what did you say",
+        "what",
+        "eh",
+        "i beg your pardon",
+        "beg pardon",
+        "sorry",
+        "excuse me",
+        "say again"
+      ]
+    }
+  ],
+  "phrases": [
+    "Now, the three of them are Pakistani or four of them are Pakistani, or of Pakistani descent, pardon me?",
+    "I beg your pardon for intruding",
+    "I am sorry, I beg your pardon - it is not referred to in the prospectus.",
+    "Oh, pardon me, I'm not too coordinated, I'm afraid.",
+    "We don't know precisely what happened - pardon me - OK, my apology."
+  ],
+  "origin": "Middle English: from Old French pardun (noun), pardoner (verb), from medieval Latin perdonare concede, remit, from per- completely + donare give.",
+  "pronounciation": "/ˈpɑrdn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pardon_us_1.mp3"
+}

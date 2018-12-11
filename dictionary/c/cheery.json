@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Happy and optimistic.",
+      "examples": [
+        "a cheery smile"
+      ],
+      "synonyms": [
+        "jolly",
+        "happy",
+        "merry",
+        "bright",
+        "cheerful",
+        "glad",
+        "sunny",
+        "joyful",
+        "joyous",
+        "light-hearted",
+        "in high spirits",
+        "sparkling",
+        "bubbly",
+        "exuberant",
+        "ebullient",
+        "cock-a-hoop",
+        "elated",
+        "blissful",
+        "ecstatic",
+        "euphoric",
+        "gleeful",
+        "breezy",
+        "airy",
+        "sprightly",
+        "jaunty",
+        "animated",
+        "radiant",
+        "smiling",
+        "grinning",
+        "laughing",
+        "mirthful",
+        "frolicsome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHirē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cheery_us_1.mp3"
+}

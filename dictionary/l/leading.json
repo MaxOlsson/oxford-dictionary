@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Most important.",
+      "examples": [
+        "a number of leading politicians"
+      ],
+      "synonyms": [
+        "main",
+        "chief",
+        "major",
+        "prime",
+        "most significant",
+        "principal",
+        "foremost",
+        "key",
+        "supreme",
+        "paramount",
+        "dominant",
+        "superior",
+        "ruling",
+        "directing",
+        "guiding",
+        "controlling",
+        "essential",
+        "cardinal",
+        "central",
+        "focal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Guidance or leadership, especially in a spiritual context.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈlɛdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leading_us_2.mp3"
+}

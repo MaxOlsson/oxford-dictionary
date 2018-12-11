@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "Down a flight of stairs.",
+      "examples": [
+        "I tripped over the cat and fell downstairs"
+      ],
+      "synonyms": [
+        "towards a lower position",
+        "downwards",
+        "downstairs",
+        "towards the bottom",
+        "from top to bottom"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Situated downstairs.",
+      "examples": [
+        "the downstairs bathroom"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The ground floor or lower floors of a building.",
+      "examples": [
+        "the downstairs was hardly damaged at all"
+      ]
+    }
+  ],
+  "pronounciation": "/daʊnˈstɛrz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downstairs_us_1.mp3"
+}

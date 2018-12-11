@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Done without will or conscious control.",
+      "examples": [
+        "she gave an involuntary shudder"
+      ],
+      "synonyms": [
+        "reflex",
+        "reflexive",
+        "automatic",
+        "knee-jerk",
+        "mechanical",
+        "unconditioned"
+      ]
+    },
+    {
+      "description": "Done against someone's will; compulsory.",
+      "examples": [
+        "a policy of involuntary repatriation"
+      ],
+      "synonyms": [
+        "compulsory",
+        "obligatory",
+        "mandatory",
+        "forced",
+        "coerced",
+        "coercive",
+        "compelled",
+        "exacted",
+        "imposed",
+        "demanded",
+        "required",
+        "constrained",
+        "ordained",
+        "prescribed"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈvälənˌterē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/involuntary_us_1.mp3"
+}

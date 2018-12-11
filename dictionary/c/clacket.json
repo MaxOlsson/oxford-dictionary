@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Make a series of sharp sounds as a result of a hard object striking another.",
+      "examples": [
+        "the tranquil clacketing of the train"
+      ],
+      "synonyms": [
+        "beat",
+        "rhythm",
+        "patter",
+        "tap",
+        "chatter",
+        "pounding",
+        "thump",
+        "thumping",
+        "thud",
+        "thudding",
+        "rattle",
+        "rattling",
+        "pitter-patter",
+        "rat-a-tat",
+        "pit-a-pat",
+        "thrum",
+        "tattoo",
+        "vibration",
+        "throb",
+        "throbbing",
+        "pulsation"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French claquet, from claquer to clack.",
+  "pronounciation": "/ˈklakɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clacket_gb_1.mp3"
+}

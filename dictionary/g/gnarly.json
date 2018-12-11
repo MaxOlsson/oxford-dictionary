@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Gnarled.",
+      "examples": [],
+      "synonyms": [
+        "knobbly",
+        "knotty",
+        "knotted",
+        "lumpy",
+        "bumpy",
+        "nodular",
+        "rough"
+      ]
+    },
+    {
+      "description": "Difficult, dangerous, or challenging.",
+      "examples": [
+        "she battled through the gnarly first sequence"
+      ],
+      "synonyms": [
+        "dangerous",
+        "fraught with danger",
+        "hazardous",
+        "risky",
+        "unsafe",
+        "treacherous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnärlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gnarly_us_1.mp3"
+}

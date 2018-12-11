@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Insert punctuation marks in (text)",
+      "examples": [
+        "they should be shown how to set out and punctuate direct speech",
+        "style manuals tell you how to punctuate"
+      ],
+      "synonyms": [
+        "add punctuation to",
+        "put punctuation marks in",
+        "dot"
+      ]
+    },
+    {
+      "description": "Occur at intervals throughout (a continuing event or a place)",
+      "examples": [
+        "the country's history has been punctuated by coups"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense point out): from medieval Latin punctuat- brought to a point, from the verb punctuare, from punctum a point.",
+  "pronounciation": "/ˈpəŋ(k)(t)ʃəˌweɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/punctuate_us_1.mp3"
+}

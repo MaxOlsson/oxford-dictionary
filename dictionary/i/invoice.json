@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A list of goods sent or services provided, with a statement of the sum due for these; a bill.",
+      "examples": [],
+      "synonyms": [
+        "bill",
+        "account",
+        "statement",
+        "statement of charges",
+        "itemization",
+        "reckoning",
+        "tally"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send an invoice to (someone).",
+      "examples": [],
+      "synonyms": [
+        "bill",
+        "charge",
+        "debit",
+        "send an bill to",
+        "send an invoice to"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: originally the plural of obsolete invoy, from obsolete French envoy from envoyer send (see envoy).",
+  "pronounciation": "/ˈinˌvois/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/invoice_us_1.mp3"
+}

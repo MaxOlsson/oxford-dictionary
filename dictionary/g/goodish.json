@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Fairly good.",
+      "examples": [
+        "in goodish working order"
+      ],
+      "synonyms": [
+        "reasonable",
+        "passable",
+        "tolerable",
+        "satisfactory",
+        "acceptable",
+        "respectable",
+        "decent",
+        "all right",
+        "good enough",
+        "pretty good",
+        "not bad",
+        "moderate",
+        "average",
+        "middling",
+        "ample",
+        "adequate",
+        "sufficient"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡʊdɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/goodish_us_1.mp3"
+}

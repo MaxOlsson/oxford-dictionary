@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Awkwardly solid, heavy, and outdated.",
+      "examples": [
+        "even last year's laptops look clunky",
+        "clunky brown shoes",
+        "surprisingly clunky comedy"
+      ],
+      "synonyms": [
+        "old-fashioned",
+        "outmoded",
+        "out of fashion",
+        "out of date",
+        "unfashionable",
+        "frumpish",
+        "frumpy",
+        "out of style",
+        "outdated",
+        "dated",
+        "out",
+        "outworn",
+        "old",
+        "former",
+        "dead",
+        "musty",
+        "old-time",
+        "old-world",
+        "behindhand",
+        "past",
+        "bygone",
+        "archaic",
+        "obsolescent",
+        "obsolete",
+        "ancient",
+        "antiquated",
+        "superannuated"
+      ]
+    },
+    {
+      "description": "Making a clunking sound.",
+      "examples": [
+        "clunky conveyor belts"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkləNGkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clunky_us_1.mp3"
+}

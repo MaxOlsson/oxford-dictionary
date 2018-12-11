@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking human qualities of compassion and mercy; cruel and barbaric.",
+      "examples": [],
+      "synonyms": [
+        "cruel",
+        "harsh",
+        "inhumane",
+        "brutal",
+        "callous",
+        "sadistic",
+        "severe",
+        "savage",
+        "vicious",
+        "barbaric",
+        "barbarous"
+      ]
+    },
+    {
+      "description": "Not human in nature or character.",
+      "examples": [
+        "the inhuman scale of the dinosaurs"
+      ],
+      "synonyms": [
+        "non-human",
+        "non-mortal",
+        "monstrous",
+        "devilish",
+        "demonic",
+        "demoniac",
+        "ghostly"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (originally as inhumane): from Latin inhumanus, from in- not + humanus (see human).",
+  "pronounciation": "/inˈ(h)yo͞omən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inhuman_us_1.mp3"
+}

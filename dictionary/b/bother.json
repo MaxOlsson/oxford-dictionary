@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Take the trouble to do something.",
+      "examples": [
+        "scientists rarely bother with such niceties",
+        "the driver didn't bother to ask why",
+        "nobody bothered locking the doors"
+      ]
+    },
+    {
+      "description": "(of a circumstance or event) worry, disturb, or upset (someone)",
+      "examples": [
+        "secrecy is an issue that bothers journalists",
+        "it bothered me that I hadn't done anything"
+      ],
+      "synonyms": [
+        "concern oneself",
+        "trouble oneself",
+        "mind",
+        "care",
+        "worry oneself",
+        "burden oneself",
+        "occupy oneself",
+        "busy oneself"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Effort, worry, or difficulty.",
+      "examples": [
+        "he saved me the bother of having to come up with a speech",
+        "it may seem like too much bother to cook just for yourself"
+      ],
+      "synonyms": [
+        "trouble",
+        "effort",
+        "exertion",
+        "strain",
+        "inconvenience",
+        "fuss",
+        "bustle",
+        "hustle and bustle",
+        "disruption"
+      ]
+    }
+  ],
+  "phrases": [
+    "they couldn't be bothered to look it up",
+    "But, I really can't be bothered to put in the effort to finish it.",
+    "However, I still find myself reaching for it if I have five minutes to kill or can't be bothered to load up anything else.",
+    "Throughout my conversation, she gave such dull and unwilling answers, as if she can't be bothered to talk to me.",
+    "When you can't be bothered to write but you've got loads of stuff spilling out of your head, you can still share it all with this cool tool."
+  ],
+  "origin": "Late 17th century (as a noun in the dialect sense noise, chatter): of Anglo-Irish origin; probably related to Irish bodhaire noise, bodhraim deafen, annoy. The verb (originally dialect) meant confuse with noise in the early 18th century.",
+  "pronounciation": "/ˈbɑðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bother_us_1.mp3"
+}

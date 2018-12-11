@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Obtain (something), especially with care or effort.",
+      "examples": [
+        "food procured for the rebels",
+        "he persuaded a friend to procure him a ticket"
+      ],
+      "synonyms": [
+        "obtain",
+        "acquire",
+        "get",
+        "find",
+        "come by",
+        "secure",
+        "pick up",
+        "get possession of"
+      ]
+    },
+    {
+      "description": "Persuade or cause (someone) to do something.",
+      "examples": [
+        "he procured his wife to sign the agreement"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French procurer, from Latin procurare take care of, manage, from pro- on behalf of + curare see to.",
+  "pronounciation": "/prəˈkyo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/procure_us_1_rr.mp3"
+}

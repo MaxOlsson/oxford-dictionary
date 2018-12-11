@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) talking fluently, readily, or incessantly.",
+      "examples": [
+        "a voluble game-show host"
+      ],
+      "synonyms": [
+        "talkative",
+        "loquacious",
+        "garrulous",
+        "verbose",
+        "long-winded",
+        "wordy",
+        "chatty",
+        "chattery",
+        "gossipy",
+        "chattering",
+        "babbling",
+        "blathering",
+        "prattling",
+        "jabbering",
+        "effusive",
+        "gushing",
+        "forthcoming",
+        "conversational",
+        "communicative",
+        "expansive",
+        "open",
+        "unreserved"
+      ]
+    }
+  ],
+  "origin": "Middle English (in senses rotating about an axis and having a tendency to change): from French, or from Latin volubilis, from volvere to roll. The modern meanings arose in the late 16th century.",
+  "pronounciation": "/ˈvɑljəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/voluble_us_1.mp3"
+}

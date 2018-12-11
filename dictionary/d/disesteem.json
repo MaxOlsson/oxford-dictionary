@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "Low esteem or regard.",
+      "examples": [
+        "language is not insulting unless it is intended to show contempt or disesteem"
+      ],
+      "synonyms": [
+        "disgust",
+        "abhorrence",
+        "repugnance",
+        "revulsion",
+        "repulsion",
+        "loathing",
+        "detestation",
+        "hatred",
+        "hate",
+        "execration",
+        "obloquy",
+        "dislike",
+        "disapproval",
+        "disapprobation",
+        "distaste",
+        "disfavour",
+        "aversion",
+        "antipathy",
+        "animosity",
+        "animus",
+        "enmity",
+        "hostility",
+        "contempt",
+        "censure",
+        "condemnation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a low opinion of.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌdisəˈstēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disesteem_us_1.mp3"
+}

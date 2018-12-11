@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Giving out or reflecting a strong or dazzling light.",
+      "examples": [
+        "the glaring sun"
+      ],
+      "synonyms": [
+        "dazzling",
+        "blinding",
+        "blazing",
+        "strong",
+        "extremely bright",
+        "harsh"
+      ]
+    },
+    {
+      "description": "Staring fiercely or fixedly.",
+      "examples": [
+        "their glaring eyes"
+      ]
+    },
+    {
+      "description": "Highly obvious or conspicuous.",
+      "examples": [
+        "there is a glaring omission in the above data"
+      ],
+      "synonyms": [
+        "obvious",
+        "conspicuous",
+        "plain to see",
+        "unmistakable",
+        "obtrusive",
+        "striking",
+        "flagrant",
+        "blatant",
+        "staring someone in the face",
+        "as plain as a pikestaff",
+        "as plain as day",
+        "inescapable",
+        "unmissable",
+        "outrageous",
+        "gross"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡleriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glaring_us_1.mp3"
+}

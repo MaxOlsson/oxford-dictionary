@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Curious or unusual in a way that provokes dry amusement.",
+      "examples": [
+        "his unique brand of droll self-mockery"
+      ],
+      "synonyms": [
+        "funny",
+        "humorous",
+        "amusing",
+        "comic",
+        "comical",
+        "mirthful",
+        "chucklesome",
+        "hilarious",
+        "rollicking"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A jester or entertainer; a buffoon.",
+      "examples": [],
+      "synonyms": [
+        "humorist",
+        "comedian",
+        "comedienne",
+        "comic",
+        "funny man",
+        "funny woman",
+        "wag",
+        "wit",
+        "jester"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as an adjective): from French drôle, perhaps from Middle Dutch drolle imp, goblin.",
+  "pronounciation": "/drōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/droll_us_1.mp3"
+}

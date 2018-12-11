@@ -1,0 +1,43 @@
+{
+  "": [
+    {
+      "description": "The imaginary quantity equal to the square root of minus one.",
+      "examples": []
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Used by a speaker to refer to himself or herself.",
+      "examples": [
+        "accept me for what I am"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The ninth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "The Roman numeral for one.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Independent.",
+      "examples": []
+    },
+    {
+      "description": "(preceding a highway number) Interstate.",
+      "examples": []
+    },
+    {
+      "description": "Island(s) or Isle(s) (chiefly on maps).",
+      "examples": []
+    }
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch ik and German ich, from an Indo-European root shared by Latin ego and Greek egō.",
+  "pronounciation": "/aɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/i_us_1.mp3"
+}

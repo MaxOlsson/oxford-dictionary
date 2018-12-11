@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Not tired or becoming tired.",
+      "examples": [
+        "with Flaubert, the unwearied research was not for the forcible word"
+      ],
+      "synonyms": [
+        "vigorous",
+        "energetic",
+        "industrious",
+        "determined",
+        "resolute",
+        "enthusiastic",
+        "keen",
+        "zealous",
+        "forceful",
+        "strong",
+        "herculean",
+        "spirited",
+        "dynamic",
+        "intense",
+        "dogged",
+        "tenacious",
+        "persistent",
+        "persevering",
+        "constant",
+        "incessant",
+        "unceasing",
+        "steady",
+        "stout",
+        "staunch",
+        "pertinacious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈwɪrid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unwearied_us_1.mp3"
+}

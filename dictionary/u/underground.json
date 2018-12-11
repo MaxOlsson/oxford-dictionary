@@ -1,0 +1,64 @@
+{
+  "adverb": [
+    {
+      "description": "Beneath the surface of the ground.",
+      "examples": [
+        "miners working underground"
+      ],
+      "synonyms": [
+        "below ground",
+        "below the surface",
+        "under the earth",
+        "in the earth"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Situated beneath the surface of the ground.",
+      "examples": [
+        "underground parking garages"
+      ],
+      "synonyms": [
+        "subterranean",
+        "subterrestrial",
+        "below ground",
+        "buried",
+        "sunken",
+        "lower-level",
+        "basement"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A group or movement organized secretly to work against an existing regime.",
+      "examples": [
+        "I got involved with the French underground"
+      ],
+      "synonyms": [
+        "resistance movement",
+        "resistance",
+        "illegal opposition"
+      ]
+    },
+    {
+      "description": "A group or movement seeking to explore alternative forms of lifestyle or artistic expression.",
+      "examples": [
+        "the late-sixties underground"
+      ]
+    },
+    {
+      "description": "A subway, especially the one in London.",
+      "examples": [
+        "travel chaos on the Underground"
+      ],
+      "synonyms": [
+        "underground railway",
+        "metro"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəndərˌɡraʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underground_us_3.mp3"
+}

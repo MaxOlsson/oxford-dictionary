@@ -1,0 +1,122 @@
+{
+  "noun": [
+    {
+      "description": "A tube of metal, plastic, or other material used to convey water, gas, oil, or other fluid substances.",
+      "examples": [],
+      "synonyms": [
+        "tube",
+        "conduit",
+        "hose",
+        "main",
+        "duct",
+        "line",
+        "channel",
+        "canal",
+        "conveyor",
+        "pipeline",
+        "drain",
+        "tubing",
+        "piping",
+        "siphon",
+        "cylinder"
+      ]
+    },
+    {
+      "description": "A narrow tube made from wood, clay, etc., with a bowl at one end for containing burning tobacco, the smoke from which is drawn into the mouth.",
+      "examples": [],
+      "synonyms": [
+        "tobacco pipe",
+        "briar",
+        "briar pipe",
+        "meerschaum",
+        "clay pipe"
+      ]
+    },
+    {
+      "description": "A wind instrument consisting of a single tube with holes along its length that are covered by the fingers to produce different notes.",
+      "examples": [
+        "a reed pipe"
+      ],
+      "synonyms": [
+        "whistle",
+        "penny whistle",
+        "flute",
+        "recorder",
+        "fife"
+      ]
+    },
+    {
+      "description": "A command which causes the output from one routine to be the input for another.",
+      "examples": []
+    },
+    {
+      "description": "A cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters).",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey (water, gas, oil, or other fluid substances) through a pipe or pipes.",
+      "examples": [
+        "water from the lakes is piped to several towns"
+      ],
+      "synonyms": [
+        "convey",
+        "channel",
+        "siphon",
+        "run",
+        "feed",
+        "lead",
+        "bring"
+      ]
+    },
+    {
+      "description": "Play (a tune) on a pipe or pipes.",
+      "examples": [],
+      "synonyms": [
+        "play on a pipe"
+      ]
+    },
+    {
+      "description": "(of a bird) sing in a high or shrill voice.",
+      "examples": [],
+      "synonyms": [
+        "chirp",
+        "cheep",
+        "chirrup",
+        "twitter",
+        "chatter",
+        "warble",
+        "trill",
+        "peep",
+        "sing",
+        "shrill",
+        "squeal",
+        "squeak"
+      ]
+    },
+    {
+      "description": "Decorate (clothing or soft furnishings) with a thin cord covered in fabric.",
+      "examples": []
+    },
+    {
+      "description": "Put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I wrote a letter at the beginning suggesting that this was some stuff we found helpful when forming an opinion, and you can put it in your pipe and smoke it and see what it does for you.",
+    "Put that in your pipes and smoke it - so as long as you're not in a restaurant in Georgia.",
+    "Let the other tribeswomen put that in their pipes and smoke it.",
+    "Three months of Boy Scouts when I was eight cured me of that scene once and for all, and you can put that in your pipe and smoke it, amigo.",
+    "Her favorite saying was, Well, put that in your pipe and smoke it, after which she would immediately catch herself and tell us not to smoke anything, and then she'd ask us to forget she said that.",
+    "There's wisdom in that old adage about silence being golden, so pipe down a bit while you choose your words carefully.",
+    "This is an election year, and I think we're in desperate trouble and it's time for people to speak up and not pipe down.",
+    "Gentlemen, he said, preening his moustache as we eventually piped down.",
+    "I think everybody who's yelling treason should just pipe down.",
+    "I just told her to pipe down."
+  ],
+  "origin": "Old English pīpe musical tube, pīpian play a pipe, of Germanic origin; related to Dutch pijp and German Pfeife, based on Latin pipare to peep, chirp, reinforced in Middle English by Old French piper to chirp, squeak.",
+  "pronounciation": "/pīp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pipe_us_1.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A heavy object attached to a rope or chain and used to moor a vessel to the sea bottom, typically one having a metal shank with a ring at one end for the rope and a pair of curved and/or barbed flukes at the other.",
+      "examples": []
+    },
+    {
+      "description": "An anchorman or anchorwoman, especially in broadcasting or athletics.",
+      "examples": [
+        "he signed off after nineteen years as CBS news anchor"
+      ],
+      "synonyms": [
+        "presenter",
+        "announcer",
+        "anchorman",
+        "anchorwoman",
+        "newsreader",
+        "newscaster",
+        "broadcaster",
+        "reporter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Moor (a ship) to the sea bottom with an anchor.",
+      "examples": [
+        "the ship was anchored in the lee of the island",
+        "we anchored in the harbor"
+      ],
+      "synonyms": [
+        "moor",
+        "berth",
+        "harbour",
+        "be at anchor",
+        "tie up"
+      ]
+    },
+    {
+      "description": "Act as an anchor for (a television program or sporting event)",
+      "examples": [
+        "she anchored a television documentary series in the early 1980s"
+      ],
+      "synonyms": [
+        "host",
+        "introduce",
+        "announce",
+        "compère",
+        "be the presenter of"
+      ]
+    }
+  ],
+  "phrases": [
+    "Two large Indonesian naval ships lay at anchor off shore.",
+    "They simultaneously attacked the airfields and the ships at anchor in the bay.",
+    "At the ports of Los Angeles and Long Beach, dozens of container ships are stuck waiting at anchor or in a berth at any given time because there aren't enough dockworkers to unload them.",
+    "The baton was transferred from her sister ship HMS Kent at anchor of Salalah, Oman after a concentrated programme of briefings, personnel and equipment exchanges.",
+    "By the time they'd reached the top of the hills surrounding the harbor where the ship lay at anchor, she'd fallen hopelessly in love with Greece, the island and the taxi driver."
+  ],
+  "origin": "Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.",
+  "pronounciation": "/ˈæŋkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anchor_us_1.mp3"
+}

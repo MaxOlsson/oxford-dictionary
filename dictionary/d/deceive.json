@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) cause (someone) to believe something that is not true, typically in order to gain some personal advantage.",
+      "examples": [
+        "I didn't intend to deceive people into thinking it was French champagne"
+      ],
+      "synonyms": [
+        "swindle",
+        "defraud",
+        "cheat",
+        "trick",
+        "hoodwink",
+        "hoax",
+        "dupe",
+        "take in",
+        "mislead",
+        "delude",
+        "fool",
+        "outwit",
+        "misguide",
+        "lead on",
+        "inveigle",
+        "seduce",
+        "ensnare",
+        "entrap",
+        "beguile",
+        "double-cross",
+        "gull"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French deceivre, from Latin decipere catch, ensnare, cheat.",
+  "pronounciation": "/dəˈsiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deceive_us_1.mp3"
+}

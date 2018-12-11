@@ -1,0 +1,90 @@
+{
+  "adjective": [
+    {
+      "description": "In a natural or raw state; not yet processed or refined.",
+      "examples": [
+        "crude protein"
+      ],
+      "synonyms": [
+        "unrefined",
+        "unpurified",
+        "unprocessed",
+        "untreated"
+      ]
+    },
+    {
+      "description": "Constructed in a rudimentary or makeshift way.",
+      "examples": [
+        "a relatively crude nuclear weapon"
+      ],
+      "synonyms": [
+        "primitive",
+        "simple",
+        "basic",
+        "rudimentary",
+        "rough",
+        "rough and ready",
+        "rough-hewn",
+        "make-do",
+        "makeshift",
+        "improvised",
+        "cobbled together",
+        "thrown together",
+        "homespun",
+        "unfinished",
+        "unpolished",
+        "unformed",
+        "undeveloped"
+      ]
+    },
+    {
+      "description": "(of language, behavior, or a person) offensively coarse or rude, especially in relation to sexual matters.",
+      "examples": [
+        "a crude joke"
+      ],
+      "synonyms": [
+        "vulgar",
+        "rude",
+        "risqué",
+        "suggestive",
+        "racy",
+        "earthy",
+        "off colour",
+        "colourful",
+        "indecent",
+        "bawdy",
+        "obscene",
+        "offensive",
+        "lewd",
+        "salacious",
+        "licentious",
+        "ribald",
+        "rabelaisian",
+        "boorish",
+        "coarse",
+        "uncouth",
+        "indelicate",
+        "crass",
+        "tasteless",
+        "sordid",
+        "smutty",
+        "dirty",
+        "filthy",
+        "pornographic",
+        "x-rated",
+        "scatological"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Natural petroleum.",
+      "examples": [
+        "the ship was carrying 80,000 tons of crude"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin crudus raw, rough.",
+  "pronounciation": "/kro͞od/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crude_us_1.mp3"
+}

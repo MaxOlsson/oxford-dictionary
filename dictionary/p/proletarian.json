@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the proletariat.",
+      "examples": [
+        "a proletarian ideology"
+      ],
+      "synonyms": [
+        "working-class",
+        "plebeian",
+        "cloth-cap",
+        "common",
+        "ordinary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of the proletariat.",
+      "examples": [],
+      "synonyms": [
+        "working-class person",
+        "worker",
+        "working person",
+        "plebeian",
+        "commoner",
+        "ordinary person",
+        "man in the street",
+        "person in the street",
+        "woman in the street"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin proletarius (from proles offspring), denoting a person having no wealth in property, who only served the state by producing offspring, + -an.",
+  "pronounciation": "/ˌproʊləˈtɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/proletarian_us_1.mp3"
+}

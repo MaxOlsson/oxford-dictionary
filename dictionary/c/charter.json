@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "A written grant by a country's legislative or sovereign power, by which an institution such as a company, college, or city is created and its rights and privileges defined.",
+      "examples": [],
+      "synonyms": [
+        "authority",
+        "authorization",
+        "sanction",
+        "covenant",
+        "dispensation",
+        "consent",
+        "permission",
+        "sufferance"
+      ]
+    },
+    {
+      "description": "The reservation of an aircraft, boat, or bus for private use.",
+      "examples": [
+        "a plane on charter to a multinational company"
+      ],
+      "synonyms": [
+        "hire",
+        "hiring",
+        "lease",
+        "leasing",
+        "rent",
+        "rental",
+        "renting",
+        "booking",
+        "reservation",
+        "reserving"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Grant a charter to (a city, college, or other institution)",
+      "examples": [
+        "the company was chartered in 1553"
+      ],
+      "synonyms": [
+        "permit",
+        "allow",
+        "authorize",
+        "give a licence to",
+        "grant a licence to",
+        "give a permit to",
+        "grant a permit to",
+        "give authorization to",
+        "grant authorization to",
+        "give authority to",
+        "grant authority to",
+        "give the right to",
+        "grant the right to",
+        "give leave to",
+        "grant leave to",
+        "give permission to",
+        "grant permission to"
+      ]
+    },
+    {
+      "description": "Reserve (an aircraft, boat, or bus) for private use.",
+      "examples": [
+        "he chartered a plane to take him to Paris"
+      ],
+      "synonyms": [
+        "hire",
+        "lease",
+        "rent",
+        "pay for the use of",
+        "book",
+        "reserve"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French chartre, from Latin chartula, diminutive of charta paper (see card).",
+  "pronounciation": "/ˈCHärdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/charter_us_1.mp3"
+}

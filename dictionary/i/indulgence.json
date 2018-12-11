@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The action or fact of indulging.",
+      "examples": [
+        "indulgence in self-pity"
+      ],
+      "synonyms": [
+        "satisfaction",
+        "satisfying",
+        "gratification",
+        "gratifying",
+        "fulfilment",
+        "fulfilling",
+        "satiation",
+        "appeasement",
+        "assuagement",
+        "quenching",
+        "slaking"
+      ]
+    },
+    {
+      "description": "(in the Roman Catholic Church) a grant by the Pope of remission of the temporal punishment in purgatory still due for sins after absolution. The unrestricted sale of indulgences by pardoners was a widespread abuse during the later Middle Ages.",
+      "examples": []
+    },
+    {
+      "description": "An extension of the time in which a bill or debt has to be paid.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin indulgentia, from the verb indulgere (see indulge).",
+  "pronounciation": "/inˈdəljəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indulgence_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Having a pattern of small squares.",
+      "examples": [
+        "a checked shirt"
+      ],
+      "synonyms": [
+        "multicoloured",
+        "many-coloured",
+        "harlequin",
+        "varicoloured",
+        "particoloured"
+      ]
+    }
+  ],
+  "pronounciation": "/CHekt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/checked_us_1.mp3"
+}

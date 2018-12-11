@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Express vehement protest.",
+      "examples": [
+        "all fulminated against the new curriculum"
+      ],
+      "synonyms": [
+        "protest",
+        "rail",
+        "rage",
+        "rant",
+        "thunder",
+        "storm",
+        "declaim",
+        "inveigh",
+        "speak out",
+        "make a stand",
+        "take a stand"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A salt or ester of fulminic acid.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin fulminat- struck by lightning, from fulmen, fulmin- lightning. The earliest sense (derived from medieval Latin fulminare) was denounce formally, later issue formal censures (originally said of the Pope). A sense emit thunder and lightning, based on the original Latin meaning, arose in the early 17th century, and hence explode violently (late 17th century).",
+  "pronounciation": "/ˈfo͝olməˌnāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fulminate_us_3.mp3"
+}

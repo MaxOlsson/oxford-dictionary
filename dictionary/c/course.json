@@ -1,0 +1,162 @@
+{
+  "noun": [
+    {
+      "description": "The route or direction followed by a ship, aircraft, road, or river.",
+      "examples": [
+        "the road adopts a tortuous course along the coast",
+        "the new fleet changed course to join the other ships"
+      ],
+      "synonyms": [
+        "route",
+        "way",
+        "track",
+        "direction",
+        "tack",
+        "path",
+        "line",
+        "journey",
+        "itinerary",
+        "channel",
+        "trail",
+        "trajectory",
+        "flight path",
+        "bearing",
+        "heading",
+        "orbit",
+        "circuit",
+        "beat",
+        "round",
+        "run"
+      ]
+    },
+    {
+      "description": "A dish, or a set of dishes served together, forming one of the successive parts of a meal.",
+      "examples": [
+        "guests are offered a choice of main course",
+        "a four-course meal"
+      ],
+      "synonyms": [
+        "dish",
+        "menu item"
+      ]
+    },
+    {
+      "description": "An area of land set aside and prepared for racing, golf, or another sport.",
+      "examples": [],
+      "synonyms": [
+        "track",
+        "racetrack",
+        "racecourse",
+        "circuit",
+        "ground",
+        "stadium",
+        "speedway",
+        "velodrome",
+        "route",
+        "trail"
+      ]
+    },
+    {
+      "description": "A series of lectures or lessons in a particular subject, typically leading to a qualification.",
+      "examples": [
+        "a business studies course"
+      ],
+      "synonyms": [
+        "programme of study",
+        "course of study",
+        "educational programme",
+        "set of lectures",
+        "curriculum",
+        "syllabus",
+        "schedule"
+      ]
+    },
+    {
+      "description": "A continuous horizontal layer of brick, stone, or other material in a building.",
+      "examples": [],
+      "synonyms": [
+        "layer",
+        "thickness",
+        "stratum",
+        "seam",
+        "vein",
+        "band",
+        "bed"
+      ]
+    },
+    {
+      "description": "A pursuit of game (especially hares) with greyhounds by sight rather than scent.",
+      "examples": [],
+      "synonyms": [
+        "pursuit",
+        "hunt",
+        "trail"
+      ]
+    },
+    {
+      "description": "The lowest sail on a square-rigged mast.",
+      "examples": []
+    },
+    {
+      "description": "A set of adjacent strings on a guitar, lute, etc., tuned to the same note.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of liquid) move without obstruction; flow.",
+      "examples": [
+        "tears were coursing down her cheeks",
+        "exultation coursed through him"
+      ],
+      "synonyms": [
+        "flow",
+        "pour",
+        "race",
+        "stream",
+        "run",
+        "rush",
+        "gush",
+        "pump",
+        "move",
+        "cascade",
+        "flood",
+        "surge",
+        "sweep",
+        "roll"
+      ]
+    },
+    {
+      "description": "Pursue (game, especially hares) with greyhounds using sight rather than scent.",
+      "examples": [
+        "many of the hares coursed escaped unharmed",
+        "she would course for hares with her greyhounds"
+      ],
+      "synonyms": [
+        "hunt",
+        "chase",
+        "pursue",
+        "stalk",
+        "run down",
+        "run after",
+        "give chase to",
+        "follow",
+        "track",
+        "trail",
+        "shadow",
+        "hound",
+        "dog"
+      ]
+    }
+  ],
+  "phrases": [
+    "the wisest course of action is to tackle the problem at its source",
+    "Both courses of action further reduce the ability of the state to command the sort of revenue stream it previously enjoyed.",
+    "Every course of action we evaluated had multiple ramifications.",
+    "The prospect of ministers sharing in the financial pain may help the Tories sell such a course of action.",
+    "His doctor can think of no other course of action at the moment."
+  ],
+  "origin": "Middle English: from Old French cours, from Latin cursus, from curs- run, from the verb currere.",
+  "pronounciation": "/kôrs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/course_us_1.mp3"
+}

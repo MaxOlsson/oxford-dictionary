@@ -1,0 +1,19 @@
+{
+  "abbreviation": [
+    {
+      "description": "Parental guidance suggested, a rating in the Voluntary Movie Rating System indicating that some material may not be suitable for children.",
+      "examples": []
+    },
+    {
+      "description": "Paying guest.",
+      "examples": [],
+      "synonyms": [
+        "patron",
+        "client",
+        "person staying"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpi ˈdʒi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pg_us_1.mp3"
+}

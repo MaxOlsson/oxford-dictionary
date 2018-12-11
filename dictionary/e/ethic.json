@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A set of moral principles, especially ones relating to or affirming a specified group, field, or form of conduct.",
+      "examples": [
+        "the puritan ethic was being replaced by the hedonist ethic"
+      ],
+      "synonyms": [
+        "doctrine",
+        "belief",
+        "creed",
+        "credo",
+        "attitude",
+        "rule",
+        "golden rule",
+        "guideline",
+        "formula",
+        "standard",
+        "criterion",
+        "tenet",
+        "truism",
+        "code",
+        "maxim",
+        "motto",
+        "axiom",
+        "aphorism",
+        "notion",
+        "dictum",
+        "dogma",
+        "canon",
+        "law"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to moral principles or the branch of knowledge dealing with these.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting ethics or moral philosophy; also used attributively): from Old French éthique, from Latin ethice, from Greek (hē) ēthikē (tekhnē) (the science of) morals, based on ēthos (see ethos).",
+  "pronounciation": "/ˈeTHik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ethic_us_1.mp3"
+}

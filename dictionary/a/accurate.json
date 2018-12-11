@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "(of information, measurements, statistics, etc.) correct in all details; exact.",
+      "examples": [
+        "accurate information about the illness is essential",
+        "an accurate assessment"
+      ],
+      "synonyms": [
+        "correct",
+        "precise",
+        "exact",
+        "right",
+        "errorless",
+        "error-free",
+        "without error",
+        "faultless",
+        "perfect",
+        "valid",
+        "specific",
+        "detailed",
+        "minute",
+        "explicit",
+        "clear-cut",
+        "word for word",
+        "unambiguous",
+        "meticulous",
+        "authoritative",
+        "reliable",
+        "canonical"
+      ]
+    },
+    {
+      "description": "(with reference to a weapon, missile, or shot) capable of or successful in reaching the intended target.",
+      "examples": [
+        "reliable, accurate rifles",
+        "a player who can deliver long accurate passes"
+      ],
+      "synonyms": [
+        "well aimed",
+        "precise",
+        "on target",
+        "unerring",
+        "deadly",
+        "lethal",
+        "sure",
+        "true",
+        "on the mark",
+        "careful",
+        "meticulous",
+        "painstaking",
+        "precision"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin accuratus done with care, past participle of accurare, from ad- towards + cura care.",
+  "pronounciation": "/ˈækjərət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accurate_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "An area of low-lying, uncultivated ground where water collects; a bog or marsh.",
+      "examples": [],
+      "synonyms": [
+        "marsh",
+        "bog",
+        "quagmire",
+        "mire",
+        "morass",
+        "fen",
+        "quag",
+        "sump"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Overwhelm or flood with water.",
+      "examples": [
+        "a huge wave swamped the canoes"
+      ],
+      "synonyms": [
+        "flood",
+        "inundate",
+        "deluge",
+        "wash out",
+        "soak",
+        "drench",
+        "saturate",
+        "immerse"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: probably ultimately from a Germanic base meaning sponge or fungus.",
+  "pronounciation": "/swɑmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swamp_us_1.mp3"
+}

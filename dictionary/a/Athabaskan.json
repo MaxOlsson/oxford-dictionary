@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting or relating to a family of North American languages including especially Navajo and various Apache languages of the southwest US, several languages of coastal California and Oregon, and many languages of Alaska and northwestern Canada, including Chipewyan.",
+      "examples": []
+    },
+    {
+      "description": "Denoting or relating to speakers of any of the Athabaskan languages.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Athabaskan family of languages.",
+      "examples": []
+    },
+    {
+      "description": "A speaker of any of the Athabaskan languages.",
+      "examples": []
+    }
+  ],
+  "origin": "From Athabasca, the name of a lake in western Canada, from Cree Athap-askaw grass and reeds here and there, + -an.",
+  "pronounciation": "/ˌaTHəˈbaskən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/athabaskan_1_us_1.mp3"
+}

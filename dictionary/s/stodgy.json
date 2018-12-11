@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Dull and uninspired.",
+      "examples": [
+        "some of the material is rather stodgy and top-heavy with facts"
+      ],
+      "synonyms": [
+        "boring",
+        "dull",
+        "uninteresting",
+        "dreary",
+        "deadly"
+      ]
+    },
+    {
+      "description": "(of food) heavy, filling, and high in carbohydrates.",
+      "examples": [],
+      "synonyms": [
+        "indigestible",
+        "starchy",
+        "filling",
+        "heavy",
+        "solid",
+        "substantial",
+        "lumpy",
+        "leaden"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstäjē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stodgy_us_1.mp3"
+}

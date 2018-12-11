@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Make a continuous murmuring noise.",
+      "examples": [
+        "the wind burbled at his ear"
+      ],
+      "synonyms": [
+        "gurgle",
+        "bubble",
+        "murmur",
+        "purr",
+        "purl",
+        "tinkle",
+        "whir",
+        "drone",
+        "rumble",
+        "buzz",
+        "hum"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Continuous murmuring noise.",
+      "examples": [],
+      "synonyms": [
+        "burble",
+        "babble",
+        "purl",
+        "gurgle"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense to bubble): imitative. Current senses date from the late 19th century.",
+  "pronounciation": "/ˈbərbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burble_us_1.mp3"
+}

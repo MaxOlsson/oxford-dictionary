@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Of or concerning the body.",
+      "examples": [
+        "children learn to control their bodily functions"
+      ],
+      "synonyms": [
+        "physical",
+        "physically gratifying",
+        "carnal",
+        "fleshly",
+        "animal"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "By moving a person's or one's own body with force.",
+      "examples": [
+        "he hauled her bodily from the van",
+        "he launched himself bodily at the door"
+      ],
+      "synonyms": [
+        "forcefully",
+        "with force",
+        "powerfully",
+        "forcibly",
+        "violently"
+      ]
+    },
+    {
+      "description": "In one mass; as a whole.",
+      "examples": [
+        "he built ships on the Atlantic shore, transporting them bodily over the hills and sailing them off into the Pacific"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɑdəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bodily_us_1.mp3"
+}

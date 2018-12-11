@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "Lengths of pipe, or a network of pipes, made of metal, plastic, or other materials.",
+      "examples": [],
+      "synonyms": [
+        "cheep",
+        "chirp",
+        "chirrup",
+        "tweet",
+        "twitter",
+        "chirr",
+        "pipe",
+        "warble",
+        "squeak",
+        "chatter"
+      ]
+    },
+    {
+      "description": "Ornamentation on food consisting of lines of icing, whipped cream, etc.",
+      "examples": []
+    },
+    {
+      "description": "Thin cord covered in fabric, used to decorate clothing or soft furnishings and reinforce seams.",
+      "examples": []
+    },
+    {
+      "description": "The action or art of playing a pipe or pipes.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "High-pitched.",
+      "examples": [
+        "the piping voice of a little girl"
+      ],
+      "synonyms": [
+        "shrill",
+        "strident",
+        "piercing",
+        "carrying",
+        "clearly audible",
+        "loud",
+        "strong",
+        "high",
+        "high-pitched",
+        "ear-piercing",
+        "ear-splitting",
+        "screechy",
+        "intrusive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpaɪpɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/piping_us_1.mp3"
+}

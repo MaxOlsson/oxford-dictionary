@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Disloyal, especially to a spouse or partner; untrustworthy.",
+      "examples": [
+        "her faithless lover"
+      ],
+      "synonyms": [
+        "unfaithful",
+        "disloyal",
+        "inconstant",
+        "false",
+        "false-hearted",
+        "untrue",
+        "adulterous",
+        "traitorous",
+        "treacherous",
+        "perfidious",
+        "fickle",
+        "flighty",
+        "untrustworthy",
+        "unreliable",
+        "undependable",
+        "deceitful",
+        "deceiving",
+        "two-faced",
+        "janus-faced",
+        "double-dealing",
+        "double-crossing"
+      ]
+    },
+    {
+      "description": "Without religious faith.",
+      "examples": [],
+      "synonyms": [
+        "unbelieving",
+        "non-believing",
+        "irreligious",
+        "without religious faith",
+        "disbelieving",
+        "doubting",
+        "sceptical",
+        "agnostic",
+        "atheistic",
+        "non-theistic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfeɪθləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faithless_us_1.mp3"
+}

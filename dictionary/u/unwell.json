@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Sick.",
+      "examples": [
+        "consult a doctor if you feel unwell"
+      ],
+      "synonyms": [
+        "ill",
+        "sick",
+        "poorly",
+        "indisposed",
+        "ailing",
+        "not well",
+        "not very well",
+        "not oneself",
+        "not in good shape",
+        "in a bad way",
+        "out of sorts",
+        "not up to par",
+        "below par",
+        "under par",
+        "peaky",
+        "liverish",
+        "queasy",
+        "nauseous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈwel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unwell_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "In a northerly direction.",
+      "examples": [
+        "the current that runs northward up this coastline"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the north.",
+      "examples": [],
+      "synonyms": [
+        "to the north",
+        "northward",
+        "northwards",
+        "northwardly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The direction or region to the north.",
+      "examples": [
+        "a foray to the northward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnôrTHwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/northward_us_1.mp3"
+}

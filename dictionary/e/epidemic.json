@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A widespread occurrence of an infectious disease in a community at a particular time.",
+      "examples": [
+        "a flu epidemic"
+      ],
+      "synonyms": [
+        "outbreak",
+        "plague",
+        "scourge",
+        "infestation"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of the nature of an epidemic.",
+      "examples": [
+        "shoplifting has reached epidemic proportions"
+      ],
+      "synonyms": [
+        "rife",
+        "rampant",
+        "widespread",
+        "wide-ranging",
+        "extensive",
+        "sweeping",
+        "penetrating",
+        "pervading"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as an adjective): from French épidémique, from épidémie, via late Latin from Greek epidēmia prevalence of disease, from epidēmios prevalent, from epi upon + dēmos the people.",
+  "pronounciation": "/ˌɛpəˈdɛmɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/epidemic_us_1.mp3"
+}

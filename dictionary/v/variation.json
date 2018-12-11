@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A change or difference in condition, amount, or level, typically with certain limits.",
+      "examples": [
+        "regional variations in house prices",
+        "the figures showed marked variation from year to year"
+      ],
+      "synonyms": [
+        "difference",
+        "dissimilarity",
+        "disparity",
+        "inequality",
+        "contrast",
+        "discrepancy",
+        "imbalance",
+        "dissimilitude",
+        "differential",
+        "distinction"
+      ]
+    },
+    {
+      "description": "A different or distinct form or version of something.",
+      "examples": [
+        "hurling is an Irish variation of field hockey"
+      ],
+      "synonyms": [
+        "variant",
+        "form",
+        "alternative",
+        "alternative form",
+        "other form",
+        "different form",
+        "derived form",
+        "development",
+        "adaptation",
+        "alteration",
+        "modification",
+        "revision",
+        "revised version"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting variance or conflict): from Old French, or from Latin variatio(n-), from the verb variare (see vary).",
+  "pronounciation": "/ˌvɛriˈeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/variation_us_1.mp3"
+}

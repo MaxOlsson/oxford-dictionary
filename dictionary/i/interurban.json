@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or traveling between cities.",
+      "examples": [
+        "the target is to reduce congestion on interurban roads",
+        "they usually took the interurban railroad"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A railway or train operating or traveling between cities.",
+      "examples": [
+        "the interurban provided a new predictable and comfortable way to travel"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌin(t)ərˈərbən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interurban_us_1.mp3"
+}

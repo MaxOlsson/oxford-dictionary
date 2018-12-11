@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "(of an argument, theory, or policy) logical and consistent.",
+      "examples": [
+        "they failed to develop a coherent economic strategy"
+      ],
+      "synonyms": [
+        "logical",
+        "reasoned",
+        "reasonable",
+        "well reasoned",
+        "rational",
+        "sound",
+        "cogent"
+      ]
+    },
+    {
+      "description": "United as or forming a whole.",
+      "examples": [
+        "divided into a number of geographically coherent kingdoms"
+      ],
+      "synonyms": [
+        "unified",
+        "united",
+        "consolidated",
+        "amalgamated",
+        "joined",
+        "combined",
+        "merged",
+        "fused",
+        "blended",
+        "meshed",
+        "homogeneous",
+        "homogenized",
+        "mutually dependent",
+        "assimilated",
+        "cohesive",
+        "concatenated"
+      ]
+    },
+    {
+      "description": "(of waves) having a constant phase relationship.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the sense logically related to): from Latin cohaerent- sticking together, from the verb cohaerere (see cohere).",
+  "pronounciation": "/ˌkoʊˈhɪrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coherent_us_1.mp3"
+}

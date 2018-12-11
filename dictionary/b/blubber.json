@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The fat of sea mammals, especially whales and seals.",
+      "examples": [],
+      "synonyms": [
+        "fat",
+        "fatty tissue"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person's lips) swollen or protruding.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sob noisily and uncontrollably.",
+      "examples": [
+        "he was blubbering like a child",
+        "“I don't like him,” blubbered Jonathan"
+      ],
+      "synonyms": [
+        "cry",
+        "sob",
+        "weep",
+        "shed tears",
+        "wail",
+        "snivel",
+        "whimper",
+        "howl",
+        "mewl",
+        "squall"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably symbolic; compare with blob and blubber.",
+  "pronounciation": "/ˈbləbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blubber_us_1.mp3"
+}

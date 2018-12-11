@@ -1,0 +1,93 @@
+{
+  "adjective": [
+    {
+      "description": "Relaxed and unconcerned.",
+      "examples": [
+        "she regarded his affairs with a casual indulgence",
+        "he tried to make his voice sound casual"
+      ],
+      "synonyms": [
+        "relaxed",
+        "friendly",
+        "natural",
+        "informal",
+        "unceremonious",
+        "unpretentious",
+        "easy-going",
+        "free and easy",
+        "uninhibited",
+        "open"
+      ]
+    },
+    {
+      "description": "Not regular or permanent.",
+      "examples": [],
+      "synonyms": [
+        "temporary",
+        "part-time",
+        "impermanent",
+        "freelance"
+      ]
+    },
+    {
+      "description": "Happening by chance; accidental.",
+      "examples": [
+        "he pretended it was a casual meeting"
+      ],
+      "synonyms": [
+        "chance",
+        "accidental",
+        "random",
+        "unintentional",
+        "unplanned",
+        "unintended",
+        "inadvertent",
+        "unexpected",
+        "unforeseen",
+        "unanticipated",
+        "unlooked-for",
+        "occurring by accident",
+        "occurring by chance",
+        "fortuitous",
+        "coincidental",
+        "fluky",
+        "serendipitous",
+        "adventitious",
+        "aleatory"
+      ]
+    },
+    {
+      "description": "Without formality of style or manner, in particular (of clothing) suitable for everyday wear rather than formal occasions.",
+      "examples": [
+        "a casual short-sleeved shirt",
+        "an ideal coat for casual occasions",
+        "the inn's casual atmosphere"
+      ],
+      "synonyms": [
+        "informal",
+        "not formal",
+        "relaxed",
+        "comfortable",
+        "sloppy",
+        "leisure",
+        "sportif",
+        "everyday"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who does something irregularly.",
+      "examples": [
+        "a number of casuals became regular customers"
+      ]
+    },
+    {
+      "description": "Clothes or shoes suitable for everyday wear rather than formal occasions.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in casual (sense 2 of the adjective,): from Old French casuel and Latin casualis, from casus fall (compare with case).",
+  "pronounciation": "/ˈkaZHo͞oəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/casual_us_1.mp3"
+}

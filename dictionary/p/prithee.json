@@ -1,0 +1,21 @@
+{
+  "exclamation": [
+    {
+      "description": "Please (used to convey a polite request)",
+      "examples": [
+        "prithee, Jack, answer me honestly"
+      ],
+      "synonyms": [
+        "please",
+        "if you please",
+        "if you would be so good",
+        "if you wouldn't mind",
+        "have the goodness to",
+        "pray"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: abbreviation of I pray thee.",
+  "pronounciation": "/ˈpriT͟Hē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prithee_us_1.mp3"
+}

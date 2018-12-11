@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A climb or walk to the summit of a mountain or hill.",
+      "examples": [
+        "the first ascent of the Matterhorn",
+        "the routes of ascent can be retraced"
+      ],
+      "synonyms": [
+        "climb",
+        "scaling",
+        "conquest",
+        "scramble",
+        "clamber",
+        "trek"
+      ]
+    },
+    {
+      "description": "An instance of rising through the air.",
+      "examples": [
+        "the first balloon ascent was in 1783"
+      ],
+      "synonyms": [
+        "rise",
+        "upward movement",
+        "take-off",
+        "lift-off",
+        "launch",
+        "blast-off",
+        "climb",
+        "levitation",
+        "soaring"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from ascend, on the pattern of the pair of descend, descent.",
+  "pronounciation": "/əˈsɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ascent_us_1.mp3"
+}

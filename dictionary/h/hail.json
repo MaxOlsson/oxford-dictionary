@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "Pellets of frozen rain which fall in showers from cumulonimbus clouds.",
+      "examples": [],
+      "synonyms": [
+        "frozen rain",
+        "hailstones",
+        "sleet",
+        "precipitation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hail falls.",
+      "examples": [
+        "it hailed so hard we had to stop"
+      ],
+      "synonyms": [
+        "beat",
+        "shower",
+        "rain",
+        "fall",
+        "pour",
+        "drop"
+      ]
+    },
+    {
+      "description": "(of a large number of objects) fall or be hurled forcefully.",
+      "examples": [
+        "missiles and bombs hail down from the sky"
+      ],
+      "synonyms": [
+        "beat",
+        "shower",
+        "rain",
+        "fall",
+        "pour",
+        "drop"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing greeting or acclaim.",
+      "examples": [
+        "hail, Caesar!"
+      ]
+    }
+  ],
+  "origin": "Middle English: from the obsolete adjective hail healthy (occurring in greetings and toasts, such as wæs hæil: see wassail), from Old Norse heill, related to hale and whole.",
+  "phrases": [
+    "The Race Committee shall fly flag L', which means come within hail or follow this boat, and then locate the starting area, where the Race Committee believes the best wind conditions are.",
+    "Come within hail for verbal instructions or follow the official boat displaying Code Flag L'.",
+    "The only place where that incipient panic is not usual is the front line, because there the enemy is within hail and is known to be another unlucky fool.",
+    "If upon the ocean, would any passing vessel be within hail to rescue them from their critical position?",
+    "After finishing, a yacht shall come within hail of the Committee for instructions as to possible inspection."
+  ],
+  "pronounciation": "/hāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hail_us_2.mp3"
+}

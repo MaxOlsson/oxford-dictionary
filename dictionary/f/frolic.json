@@ -1,0 +1,80 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal or person) play and move about cheerfully, excitedly, or energetically.",
+      "examples": [
+        "Edward frolicked on the sand"
+      ],
+      "synonyms": [
+        "frisk",
+        "gambol",
+        "cavort",
+        "caper",
+        "cut capers",
+        "sport",
+        "scamper",
+        "skip",
+        "dance",
+        "romp",
+        "trip",
+        "prance",
+        "leap",
+        "spring",
+        "hop",
+        "jump",
+        "bounce",
+        "bob"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A playful action or movement.",
+      "examples": [
+        "his injuries were inflicted by the frolics of a young filly",
+        "the days of fun and frolic were gone for good"
+      ],
+      "synonyms": [
+        "antic",
+        "caper",
+        "game",
+        "romp",
+        "stunt",
+        "escapade",
+        "exploit",
+        "revel",
+        "spree",
+        "sport",
+        "fling"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Cheerful, merry, or playful.",
+      "examples": [
+        "a thousand forms of frolic life"
+      ],
+      "synonyms": [
+        "playful",
+        "frisky",
+        "fun-loving",
+        "jolly",
+        "merry",
+        "gleeful",
+        "light-hearted",
+        "exuberant",
+        "high-spirited",
+        "spirited",
+        "lively",
+        "perky",
+        "skittish",
+        "coltish",
+        "kittenish"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (as an adjective): from Dutch vrolijk merry, cheerful.",
+  "pronounciation": "/ˈfrɑlɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frolic_us_1.mp3"
+}

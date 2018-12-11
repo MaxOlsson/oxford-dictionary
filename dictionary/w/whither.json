@@ -1,0 +1,22 @@
+{
+  "adverb": [
+    {
+      "description": "To what place or state.",
+      "examples": [
+        "whither are we bound?",
+        "they asked people whither they would emigrate"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "To which (with reference to a place)",
+      "examples": [
+        "the barbecue had been set up by the lake, whither Matthew and Sara were conducted"
+      ]
+    }
+  ],
+  "origin": "Old English hwider, from the Germanic base of which; compare with hither and thither.",
+  "pronounciation": "/ˈ(h)wɪðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whither_us_3.mp3"
+}

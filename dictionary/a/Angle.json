@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "The space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet.",
+      "examples": [],
+      "synonyms": [
+        "gradient",
+        "slant",
+        "inclination"
+      ]
+    },
+    {
+      "description": "A particular way of approaching or considering an issue or problem.",
+      "examples": [
+        "discussing the problems from every conceivable angle",
+        "he always had a fresh angle on life"
+      ],
+      "synonyms": [
+        "perspective",
+        "way of looking at something",
+        "point of view",
+        "viewpoint",
+        "standpoint",
+        "position",
+        "side",
+        "aspect",
+        "slant",
+        "direction",
+        "approach",
+        "outlook",
+        "light"
+      ]
+    },
+    {
+      "description": "Each of the four mundane houses (the first, fourth, seventh, and tenth of the twelve divisions of the heavens) that extend counterclockwise from the cardinal points of the compass.",
+      "examples": []
+    },
+    {
+      "description": "Angle iron or a similar construction material made of another metal.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Direct or incline at an angle.",
+      "examples": [
+        "he angled his chair so that he could watch her",
+        "Anna angled her camera toward the tree"
+      ],
+      "synonyms": [
+        "tilt",
+        "slant"
+      ]
+    }
+  ],
+  "phrases": [
+    "she wore her beret at an angle",
+    "an armchair was drawn up at an angle to his desk",
+    "Any headstone, old or new, that moves has to be secured by having steel rods drilled through it at an angle, rooting it firmly.",
+    "Rocks that lie at an angle must have been tilted after the sediments were consolidated.",
+    "I would suggest using bricks, which, if inserted at an angle, can also be very pleasing to the eye."
+  ],
+  "origin": "From Latin Anglus, (plural) Angli the people of Angul, a district of Schleswig (now in northern Germany), so named because of its shape; of Germanic origin, related to Old English angul (see angle). Compare with English.",
+  "pronounciation": "/ˈæŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/angle_us_1.mp3"
+}

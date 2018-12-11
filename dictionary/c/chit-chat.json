@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "Inconsequential conversation.",
+      "examples": [
+        "it was a leisurely dinner with much chit-chat and laughter"
+      ],
+      "synonyms": [
+        "small talk",
+        "chat",
+        "chatting",
+        "chatter",
+        "chitter-chatter",
+        "prattling",
+        "prattle",
+        "gossip",
+        "tittle-tattle",
+        "tattle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Talk about trivial matters.",
+      "examples": [
+        "I can't stand around chit-chatting"
+      ],
+      "synonyms": [
+        "chat",
+        "talk idly",
+        "chatter",
+        "prattle",
+        "prate",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "ramble",
+        "gabble",
+        "jabber",
+        "babble",
+        "blather",
+        "blether",
+        "blither",
+        "twitter",
+        "maunder",
+        "drivel",
+        "patter",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: reduplication of chat.",
+  "pronounciation": "/ˈtʃɪttʃat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chit_chat_1_gb_1.mp3"
+}

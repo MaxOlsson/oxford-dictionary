@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "An artist's device for spraying paint by means of compressed air.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Paint with an airbrush.",
+      "examples": [
+        "the cab was airbrushed with a mural of a sunset"
+      ],
+      "synonyms": [
+        "colour",
+        "apply paint to",
+        "decorate",
+        "tint",
+        "dye",
+        "stain",
+        "distemper",
+        "whitewash",
+        "emulsion",
+        "gloss",
+        "spray",
+        "spray-paint",
+        "roller",
+        "coat",
+        "cover"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈerˌbrəSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/airbrush_us_1.mp3"
+}

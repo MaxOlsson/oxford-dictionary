@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Not showing proper respect; rude.",
+      "examples": [
+        "an impertinent question"
+      ],
+      "synonyms": [
+        "rude",
+        "insolent",
+        "impolite",
+        "unmannerly",
+        "ill-mannered",
+        "bad-mannered",
+        "uncivil",
+        "discourteous",
+        "disrespectful"
+      ]
+    },
+    {
+      "description": "Not pertinent to a particular matter; irrelevant.",
+      "examples": [
+        "talk of “rhetoric” and “strategy” is impertinent to this process"
+      ],
+      "synonyms": [
+        "irrelevant",
+        "inapplicable",
+        "inapposite",
+        "inappropriate",
+        "immaterial",
+        "unrelated",
+        "unconnected",
+        "not germane"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in impertinent (sense 2)): from Old French, or from late Latin impertinent- not having reference to, from Latin in- not + pertinere pertain.",
+  "pronounciation": "/ɪmˈpərtnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impertinent_us_1.mp3"
+}

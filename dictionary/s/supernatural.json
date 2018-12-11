@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature.",
+      "examples": [
+        "a supernatural being"
+      ],
+      "synonyms": [
+        "paranormal",
+        "psychic",
+        "magic",
+        "magical",
+        "occult",
+        "mystic",
+        "mystical",
+        "miraculous",
+        "superhuman",
+        "supernormal",
+        "hypernormal",
+        "extramundane"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Manifestations or events considered to be of supernatural origin, such as ghosts.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌso͞opərˈnaCH(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/supernatural_us_1.mp3"
+}

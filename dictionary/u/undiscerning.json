@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking judgment, insight, or taste.",
+      "examples": [
+        "an undiscerning audience"
+      ],
+      "synonyms": [
+        "insensitive",
+        "inconsiderate",
+        "thoughtless",
+        "unthinking",
+        "indelicate",
+        "undiplomatic",
+        "impolitic",
+        "indiscreet",
+        "unsubtle",
+        "clumsy",
+        "heavy-handed",
+        "graceless",
+        "awkward",
+        "unpolished",
+        "inept",
+        "bungling",
+        "maladroit",
+        "gauche",
+        "unsophisticated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndiˈsərniNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undiscerning_us_1.mp3"
+}

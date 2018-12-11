@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their activities) involved in or involving secret work within a community or organization, especially for the purposes of police investigation or espionage.",
+      "examples": [
+        "an undercover police operation"
+      ],
+      "synonyms": [
+        "covert",
+        "secret",
+        "clandestine",
+        "private",
+        "confidential",
+        "conspiratorial",
+        "underground",
+        "surreptitious",
+        "furtive",
+        "cloak-and-dagger",
+        "hole-and-corner",
+        "hugger-mugger",
+        "back-alley",
+        "backstair",
+        "stealthy",
+        "closet"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "As an undercover agent.",
+      "examples": [
+        "a special unit of the police that operates undercover"
+      ],
+      "synonyms": [
+        "covert",
+        "secret",
+        "clandestine",
+        "private",
+        "confidential",
+        "conspiratorial",
+        "underground",
+        "surreptitious",
+        "furtive",
+        "cloak-and-dagger",
+        "hole-and-corner",
+        "hugger-mugger",
+        "back-alley",
+        "backstair",
+        "stealthy",
+        "closet"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈkəvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undercover_us_1.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Let fall or be so wet as to shed small drops of liquid.",
+      "examples": [
+        "the faucet won't stop dripping",
+        "his hands were dripping with blood"
+      ],
+      "synonyms": [
+        "dribble",
+        "drop",
+        "leak"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small drop of a liquid.",
+      "examples": [
+        "she put the bucket on top of the dresser to catch the drips"
+      ],
+      "synonyms": [
+        "drop",
+        "dribble",
+        "bead",
+        "spot",
+        "trickle",
+        "splash",
+        "plop"
+      ]
+    },
+    {
+      "description": "A weak and ineffectual person.",
+      "examples": [],
+      "synonyms": [
+        "weakling",
+        "ninny",
+        "milksop",
+        "milquetoast",
+        "namby-pamby",
+        "crybaby",
+        "pushover",
+        "softie",
+        "doormat",
+        "ineffective person"
+      ]
+    },
+    {
+      "description": "A projection or groove on the underside of a cornice, windowsill, or molding that prevents rain from running down the wall below.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English dryppan, drȳpen, of Germanic origin; related to Danish dryppe, also to drop.",
+  "pronounciation": "/drɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drip_us_1.mp3"
+}

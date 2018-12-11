@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Causing great horror or fear; frightful or macabre.",
+      "examples": [
+        "she was overcome with horror at the ghastly spectacle"
+      ],
+      "synonyms": [
+        "terrible",
+        "frightful",
+        "horrible",
+        "grim",
+        "awful",
+        "dire"
+      ]
+    },
+    {
+      "description": "Extremely unwell.",
+      "examples": [
+        "he always felt ghastly first thing in the morning"
+      ],
+      "synonyms": [
+        "ill",
+        "unwell",
+        "washed out",
+        "peaky"
+      ]
+    },
+    {
+      "description": "Very objectionable, bad, or unpleasant.",
+      "examples": [
+        "we had to wear ghastly old-fashioned dresses"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "objectionable",
+        "offensive",
+        "disagreeable",
+        "distasteful",
+        "displeasing",
+        "unacceptable",
+        "off-putting",
+        "undesirable",
+        "obnoxious"
+      ]
+    }
+  ],
+  "origin": "Middle English: from obsolete gast terrify, from Old English gǣstan, of Germanic origin; related to ghost. The gh spelling is by association with ghost. The sense objectionable dates from the mid 19th century.",
+  "pronounciation": "/ˈɡas(t)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ghastly_us_1.mp3"
+}

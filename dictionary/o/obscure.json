@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Not discovered or known about; uncertain.",
+      "examples": [
+        "his origins and parentage are obscure"
+      ],
+      "synonyms": [
+        "unclear",
+        "uncertain",
+        "unknown",
+        "in doubt",
+        "doubtful",
+        "dubious",
+        "mysterious",
+        "hazy",
+        "vague",
+        "indeterminate",
+        "concealed",
+        "hidden"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Keep from being seen; conceal.",
+      "examples": [
+        "gray clouds obscure the sun"
+      ],
+      "synonyms": [
+        "hide",
+        "conceal",
+        "cover",
+        "veil",
+        "shroud",
+        "screen",
+        "mask",
+        "cloak",
+        "cast a shadow over",
+        "shadow",
+        "envelop",
+        "mantle",
+        "block",
+        "block out",
+        "blank out",
+        "obliterate",
+        "eclipse",
+        "overshadow"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French obscur, from Latin obscurus dark, from an Indo-European root meaning cover.",
+  "pronounciation": "/əbˈskjʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/obscure_us_1.mp3"
+}

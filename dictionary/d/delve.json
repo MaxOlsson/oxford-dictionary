@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Reach inside a receptacle and search for something.",
+      "examples": [
+        "she delved in her pocket"
+      ],
+      "synonyms": [
+        "rummage in",
+        "rummage about in",
+        "rummage around in",
+        "rummage round in",
+        "search",
+        "search through",
+        "hunt through",
+        "scrabble about in",
+        "scrabble around in",
+        "root about in",
+        "root around in",
+        "ferret in",
+        "ferret about in",
+        "ferret around in",
+        "fish about in",
+        "fish around in",
+        "poke about in",
+        "poke around in",
+        "dig in",
+        "grub about in",
+        "grub around in",
+        "go through",
+        "burrow in"
+      ]
+    }
+  ],
+  "origin": "Old English delfan dig, of West Germanic origin; related to Dutch delven.",
+  "pronounciation": "/dɛlv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delve_us_1.mp3"
+}

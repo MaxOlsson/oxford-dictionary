@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The deliberate and unlawful killing of one person by another; murder.",
+      "examples": [
+        "he was charged with homicide",
+        "two thirds of homicides in the county were drug-related"
+      ],
+      "synonyms": [
+        "murder",
+        "killing",
+        "assassination",
+        "liquidation",
+        "extermination",
+        "execution",
+        "slaughter",
+        "butchery",
+        "massacre"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin homicidium, from homo, homin- man.",
+  "pronounciation": "/ˈhɑməˌsaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homicide_us_2.mp3"
+}

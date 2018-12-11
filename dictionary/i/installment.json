@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A sum of money due as one of several equal payments for something, spread over an agreed period of time.",
+      "examples": [
+        "the first installment of a grant for housing",
+        "the purchase price is paid in installments"
+      ],
+      "synonyms": [
+        "part payment",
+        "partial payment"
+      ]
+    },
+    {
+      "description": "Any of several parts of something which are published, broadcast, or made public in sequence at intervals.",
+      "examples": [
+        "filming the final installment in his Vietnam trilogy"
+      ],
+      "synonyms": [
+        "part",
+        "portion",
+        "section",
+        "segment",
+        "division",
+        "bit"
+      ]
+    },
+    {
+      "description": "The process of installing something; installation.",
+      "examples": [
+        "installment will begin early next year"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (denoting the arrangement of payment by installments): alteration of obsolete estalment (probably by association with installation), from Anglo-Norman French estalement, from Old French estaler to fix.",
+  "pronounciation": "/ɪnˈstɔlmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/installment_us_1.mp3"
+}

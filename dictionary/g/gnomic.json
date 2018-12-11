@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Expressed in or of the nature of short, pithy maxims or aphorisms.",
+      "examples": [
+        "that most gnomic form, the aphorism"
+      ],
+      "synonyms": [
+        "concise",
+        "succinct",
+        "terse",
+        "pithy",
+        "aphoristic",
+        "compact",
+        "condensed",
+        "compressed",
+        "short",
+        "brief"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Greek gnōmikos (perhaps via French gnomique), from gnōmē thought, judgement, (plural) gnōmai sayings, maxims, related to gignōskein know.",
+  "pronounciation": "/ˈnōmik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gnomic_us_1.mp3"
+}

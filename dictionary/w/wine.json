@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "An alcoholic drink made from fermented grape juice.",
+      "examples": [
+        "he opened a bottle of red wine",
+        "the regional foods and wines of France"
+      ],
+      "synonyms": [
+        "vin de table",
+        "vin ordinaire",
+        "vin du pays"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Entertain someone by offering them drinks and a meal.",
+      "examples": [
+        "members of Congress have been lavishly wined and dined by lobbyists for years"
+      ]
+    }
+  ],
+  "phrases": [
+    "Those that served quality drinks did not have this sign, hence the origin of the saying good wine needs no bush.",
+    "If it be true that good wine needs no bush, 'tis true that a good play needs no epilogue.",
+    "Although some local officials appear to believe that good wine needs no bush, the more forward-looking Tourist Bureau is now beginning to target the rest of Europe."
+  ],
+  "origin": "From wind, influenced by twine.",
+  "pronounciation": "/waɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wine_us_1.mp3"
+}

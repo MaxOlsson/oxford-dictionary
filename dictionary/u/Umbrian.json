@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Umbria, its people, or their languages.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Umbria, especially in pre-Roman times.",
+      "examples": []
+    },
+    {
+      "description": "An extinct Italic language of central Italy, related to Oscan and surviving in inscriptions mainly of the 2nd and 1st centuries BC.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈəmbrēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/umbrian_1_us_1.mp3"
+}

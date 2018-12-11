@@ -1,0 +1,50 @@
+{
+  "adverb": [
+    {
+      "description": "(of two or more people or things) separated by a distance; at a specified distance from each other in time or space.",
+      "examples": [
+        "two stone gateposts some thirty feet apart",
+        "the two sides remained far apart on the issue",
+        "his parents are now living apart",
+        "countries as far apart as New Zealand and the US"
+      ],
+      "synonyms": [
+        "away from each other",
+        "distant from each other"
+      ]
+    },
+    {
+      "description": "To or on one side; at a distance from the main body.",
+      "examples": [
+        "Isabel stepped away from Joanna and stood apart",
+        "their religious commitment sets them apart"
+      ],
+      "synonyms": [
+        "to one side",
+        "aside",
+        "to the side"
+      ]
+    },
+    {
+      "description": "So as to be shattered; into pieces.",
+      "examples": [
+        "he leapt out of the car just before it was blown apart"
+      ],
+      "synonyms": [
+        "to pieces",
+        "to bits",
+        "in pieces"
+      ]
+    }
+  ],
+  "phrases": [
+    "the whole world seemed to be sleeping, apart from Barbara",
+    "Women feature little in the ranks of royal appointees, apart from royalty themselves.",
+    "No one could get it to sound quite so annoyed and impatient apart from her.",
+    "Sadly, apart from punters there is a dearth of Scottish presence at Cheltenham this week.",
+    "We went to hospital to get checked out but apart from bruises we were fine."
+  ],
+  "origin": "Late Middle English: from Old French, from Latin a parte at the side.",
+  "pronounciation": "/əˈpɑrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apart_us_1.mp3"
+}

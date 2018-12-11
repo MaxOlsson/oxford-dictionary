@@ -1,0 +1,88 @@
+{
+  "adjective": [
+    {
+      "description": "Profoundly immoral and wicked.",
+      "examples": [
+        "his evil deeds",
+        "no man is so evil as to be beyond redemption"
+      ],
+      "synonyms": [
+        "wicked",
+        "bad",
+        "wrong",
+        "morally wrong",
+        "wrongful",
+        "immoral",
+        "sinful",
+        "ungodly",
+        "unholy",
+        "foul",
+        "vile",
+        "base",
+        "ignoble",
+        "dishonourable",
+        "corrupt",
+        "iniquitous",
+        "depraved",
+        "degenerate",
+        "villainous",
+        "nefarious",
+        "sinister",
+        "vicious",
+        "malicious",
+        "malevolent",
+        "demonic",
+        "devilish",
+        "diabolic",
+        "diabolical",
+        "fiendish",
+        "dark",
+        "black-hearted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Profound immorality and wickedness, especially when regarded as a supernatural force.",
+      "examples": [
+        "the world is stalked by relentless evil",
+        "good and evil in eternal opposition"
+      ],
+      "synonyms": [
+        "wickedness",
+        "bad",
+        "badness",
+        "wrong",
+        "wrongdoing",
+        "sin",
+        "sinfulness",
+        "ungodliness",
+        "immorality",
+        "vice",
+        "iniquity",
+        "turpitude",
+        "degeneracy",
+        "vileness",
+        "baseness",
+        "perversion",
+        "corruption",
+        "depravity",
+        "villainy",
+        "nefariousness",
+        "atrocity",
+        "malevolence",
+        "devilishness"
+      ]
+    }
+  ],
+  "phrases": [
+    "he gave me the evil eye as I walked down the corridor",
+    "About half of Bulgarians believe in telepathy, the evil eye and black magic, and that dreams can be prophetic.",
+    "Before then, it might have been witchcraft or the evil eye.",
+    "Male children are believed to be particularly vulnerable to the evil eye.",
+    "The superstitious belief in the evil eye is ancient and widespread, though certainly not universal."
+  ],
+  "origin": "Old English yfel, of Germanic origin; related to Dutch euvel and German Übel.",
+  "pronounciation": "/ˈēvəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/evil_us_1.mp3"
+}

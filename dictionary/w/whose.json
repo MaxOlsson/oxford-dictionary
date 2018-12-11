@@ -1,0 +1,21 @@
+{
+  "possessive determiner &amp; pronoun": [
+    {
+      "description": "Belonging to or associated with which person.",
+      "examples": [
+        "whose round is it?",
+        "a car was parked at the curb and Juliet wondered whose it was"
+      ]
+    },
+    {
+      "description": "Of whom or which (used to indicate that the following noun belongs to or is associated with the person or thing mentioned in the previous clause)",
+      "examples": [
+        "he's a man whose opinion I respect",
+        "a willow tree whose branches reached right to the ground"
+      ]
+    }
+  ],
+  "origin": "Old English hwæs, genitive of hwā who and hwæt what.",
+  "pronounciation": "/huz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whose_us_1.mp3"
+}

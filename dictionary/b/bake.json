@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.",
+      "examples": [
+        "they bake their own bread and cakes",
+        "I baked him a cake for his birthday",
+        "baked apples"
+      ],
+      "synonyms": [
+        "cook",
+        "oven-bake",
+        "dry-roast",
+        "roast",
+        "spit-roast",
+        "pot-roast"
+      ]
+    },
+    {
+      "description": "(of the sun or other agency) subject (something) to dry heat, especially so as to harden it.",
+      "examples": [
+        "the sun has baked the earth a dusty brown"
+      ],
+      "synonyms": [
+        "scorch",
+        "burn",
+        "sear",
+        "parch",
+        "dry",
+        "dry up",
+        "desiccate",
+        "wither",
+        "shrivel",
+        "fire"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A social gathering at which baked food is eaten.",
+      "examples": [
+        "lobster bakes on deserted islands"
+      ],
+      "synonyms": [
+        "social gathering",
+        "gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée",
+        "social"
+      ]
+    }
+  ],
+  "phrases": [
+    "look out for the next big tax—it is pretty much baked in the cake now",
+    "Modern legal concepts were 'baked in the cake,' so to speak.",
+    "Runaway inflation is already baked in the cake, and protecting your assets from devaluation should be your number one priority.",
+    "Higher prices for goods and services are already \"baked in the cake\" and will show up on the retail level well before 2010.",
+    "If you go for fiscal tightening, which is kind of baked in the cake, tax increases are coming and coming soon, then you risk actually choking off such recovery as there is.",
+    "we have baked in XML web services as part of the core of our platform",
+    "the company continues to place a heavy emphasis on baked-in security",
+    "All the innovations we previously bolted on will have become baked in: just part of the way things are.",
+    "Storage companies are baking in their best levels of availability.",
+    "Is this just the baked-in stubbornness of one man?"
+  ],
+  "origin": "1920s: representing a pronunciation of beak.",
+  "pronounciation": "/beɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bake_us_1.mp3"
+}

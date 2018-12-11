@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Used for emphasis.",
+      "examples": [
+        "it's a dashed shame",
+        "she was dashed rude"
+      ],
+      "synonyms": [
+        "damned",
+        "damn",
+        "damnable",
+        "wretched",
+        "accursed",
+        "rotten",
+        "horrible"
+      ]
+    },
+    {
+      "description": "(of a line on a piece of paper) composed of dashes.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/daSHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dashed_us_1.mp3"
+}

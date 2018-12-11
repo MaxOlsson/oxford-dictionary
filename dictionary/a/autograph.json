@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A signature, especially that of a celebrity written as a memento for an admirer.",
+      "examples": [
+        "fans surged around the car asking for autographs"
+      ],
+      "synonyms": [
+        "signature"
+      ]
+    },
+    {
+      "description": "A manuscript or musical score in an author's or musician's own handwriting.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a celebrity) write one's signature on (something); sign.",
+      "examples": [
+        "the whole team autographed a shirt for him"
+      ],
+      "synonyms": [
+        "sign",
+        "write one's signature on",
+        "sign one's name on"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Written in the author's own handwriting.",
+      "examples": [
+        "an autograph manuscript"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French autographe or late Latin autographum, from Greek autographon, neuter of autographos written with one's own hand, from autos self + graphos written.",
+  "pronounciation": "/ˈɔdəˌɡræf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/autograph_us_1.mp3"
+}

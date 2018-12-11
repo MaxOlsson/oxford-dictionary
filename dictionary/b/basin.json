@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A bowl for washing, typically attached to a wall and having faucets connected to a water supply; a washbasin.",
+      "examples": [],
+      "synonyms": [
+        "bowl",
+        "dish",
+        "pan",
+        "pot"
+      ]
+    },
+    {
+      "description": "A wide, round open container, especially one used for holding liquid.",
+      "examples": []
+    },
+    {
+      "description": "A natural depression on the earth's surface, typically containing water.",
+      "examples": [
+        "the Indian Ocean basin"
+      ],
+      "synonyms": [
+        "valley",
+        "hollow",
+        "gully",
+        "gorge",
+        "ravine",
+        "bed",
+        "channel",
+        "dip",
+        "depression",
+        "concavity",
+        "trough"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French bacin, from medieval Latin bacinus, from bacca water container, perhaps of Gaulish origin.",
+  "pronounciation": "/ˈbeɪs(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/basin_us_1.mp3"
+}

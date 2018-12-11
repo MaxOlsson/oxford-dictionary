@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Cause to pour out.",
+      "examples": [
+        "the combine disgorged a steady stream of grain"
+      ],
+      "synonyms": [
+        "pour out",
+        "discharge",
+        "eject",
+        "emit",
+        "expel",
+        "evacuate",
+        "empty",
+        "spit out",
+        "spew out",
+        "belch forth",
+        "spout"
+      ]
+    },
+    {
+      "description": "Remove the sediment from (a sparkling wine) after fermentation.",
+      "examples": [
+        "the wine is aged in the bottle before it is disgorged"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French desgorger, from des- (expressing removal) + gorge throat.",
+  "pronounciation": "/disˈɡôrj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disgorge_us_1.mp3"
+}

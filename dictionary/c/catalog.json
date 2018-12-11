@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A complete list of items, typically one in alphabetical or other systematic order.",
+      "examples": [],
+      "synonyms": [
+        "catalogue",
+        "inventory",
+        "record",
+        "register",
+        "roll",
+        "file",
+        "index",
+        "directory",
+        "listing",
+        "listicle",
+        "checklist",
+        "tally",
+        "docket",
+        "ticket",
+        "enumeration",
+        "table",
+        "tabulation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a systematic list of (items of the same type).",
+      "examples": [],
+      "synonyms": [
+        "classify",
+        "categorize",
+        "systematize",
+        "systemize",
+        "index",
+        "list",
+        "archive",
+        "make an inventory of",
+        "inventory",
+        "record",
+        "register",
+        "file",
+        "log",
+        "enumerate",
+        "alphabetize",
+        "itemize",
+        "pigeonhole",
+        "tabulate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from late Latin catalogus, from Greek katalogos, from katalegein pick out or enroll.",
+  "pronounciation": "/ˈkædlˌɔɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catalog_us_3.mp3"
+}

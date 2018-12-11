@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Loyal, constant, and steadfast.",
+      "examples": [
+        "employees who had notched up decades of faithful service",
+        "he exhorted them to remain faithful to the principles of Reaganism",
+        "the struggle to please the party faithful"
+      ],
+      "synonyms": [
+        "loyal",
+        "constant",
+        "true",
+        "devoted",
+        "true-blue",
+        "true-hearted",
+        "unswerving",
+        "unwavering",
+        "staunch",
+        "steadfast",
+        "dedicated",
+        "committed"
+      ]
+    },
+    {
+      "description": "True to the facts or the original.",
+      "examples": [
+        "the rugs they make today remain faithful to their ancestors' methods"
+      ],
+      "synonyms": [
+        "accurate",
+        "precise",
+        "exact",
+        "errorless",
+        "error-free",
+        "unerring",
+        "without error",
+        "faultless",
+        "true",
+        "close",
+        "strict"
+      ]
+    },
+    {
+      "description": "Having a strong belief in a particular religion, especially Islam.",
+      "examples": [],
+      "synonyms": [
+        "believers",
+        "communicants"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfāTHfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faithful_us_1.mp3"
+}

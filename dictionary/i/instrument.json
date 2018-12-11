@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A tool or implement, especially one for delicate or scientific work.",
+      "examples": [
+        "a surgical instrument",
+        "writing instruments"
+      ],
+      "synonyms": [
+        "implement",
+        "tool",
+        "utensil",
+        "device",
+        "apparatus",
+        "contrivance",
+        "gadget",
+        "contraption",
+        "appliance",
+        "mechanism"
+      ]
+    },
+    {
+      "description": "A measuring device used to gauge the level, position, speed, etc. of something, especially a motor vehicle or aircraft.",
+      "examples": [],
+      "synonyms": [
+        "measuring device",
+        "gauge",
+        "meter",
+        "measure"
+      ]
+    },
+    {
+      "description": "An object or device for producing musical sounds.",
+      "examples": [
+        "a percussion instrument"
+      ]
+    },
+    {
+      "description": "A formal document, especially a legal one.",
+      "examples": [
+        "execution involves signature and unconditional delivery of the instrument"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Equip (something) with measuring instruments.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French, or from Latin instrumentum equipment, implement, from the verb instruere construct, equip.",
+  "pronounciation": "/ˈinstrəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instrument_us_2.mp3"
+}

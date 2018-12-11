@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Of or like a dog.",
+      "examples": [
+        "his doggy brown eyes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A child's word for a dog.",
+      "examples": [],
+      "synonyms": [
+        "hound",
+        "canine",
+        "mongrel",
+        "cur",
+        "tyke"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɔɡi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/doggy_us_1_rr.mp3"
+}

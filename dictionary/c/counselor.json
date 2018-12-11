@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A person trained to give guidance on personal, social, or psychological problems.",
+      "examples": [
+        "a marriage counselor"
+      ],
+      "synonyms": [
+        "adviser",
+        "consultant",
+        "guide",
+        "mentor",
+        "confidant",
+        "confidante"
+      ]
+    },
+    {
+      "description": "A senior officer in the diplomatic service.",
+      "examples": []
+    },
+    {
+      "description": "A trial lawyer.",
+      "examples": [],
+      "synonyms": [
+        "barrister",
+        "lawyer",
+        "counsellor",
+        "legal practitioner"
+      ]
+    },
+    {
+      "description": "A person who supervises children at a camp.",
+      "examples": [],
+      "synonyms": [
+        "educator",
+        "tutor",
+        "instructor",
+        "pedagogue",
+        "schoolteacher",
+        "schoolmaster",
+        "schoolmistress",
+        "master",
+        "mistress",
+        "governess",
+        "educationalist",
+        "educationist"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the general sense adviser): from Old French conseiller, from Latin consiliarius, and Old French conseillour, from Latin consiliator, both from consilium consultation or advice.",
+  "pronounciation": "/ˈkaʊns(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counselor_us_1.mp3"
+}

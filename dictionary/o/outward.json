@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Of, on, or from the outside.",
+      "examples": [
+        "the vehicle's outward and interior appearance"
+      ]
+    },
+    {
+      "description": "Going out or away from a place.",
+      "examples": [
+        "the outward voyage"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Away from the center or a particular point; toward the outside.",
+      "examples": [
+        "a window that opens outward",
+        "the solar wind that rushes outward from the sun"
+      ]
+    }
+  ],
+  "origin": "Old English ūtweard (see out-, -ward).",
+  "pronounciation": "/ˈaʊtwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outward_us_1.mp3"
+}

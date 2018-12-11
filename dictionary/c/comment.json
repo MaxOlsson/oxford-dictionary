@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A verbal or written remark expressing an opinion or reaction.",
+      "examples": [
+        "you asked for comments on the new proposals"
+      ],
+      "synonyms": [
+        "remark",
+        "observation",
+        "statement",
+        "utterance",
+        "pronouncement",
+        "judgement",
+        "reflection",
+        "opinion",
+        "view",
+        "criticism"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Express (an opinion or reaction)",
+      "examples": [
+        "the company would not comment on the venture",
+        "“He's an independent soul,” she commented",
+        "the review commented that the book was agreeably written"
+      ],
+      "synonyms": [
+        "remark on",
+        "speak about",
+        "talk about",
+        "write about",
+        "discuss",
+        "mention",
+        "give a mention to",
+        "make mention of",
+        "make remarks about",
+        "make a comment on",
+        "express an opinion on",
+        "say something about",
+        "touch on",
+        "allude to"
+      ]
+    }
+  ],
+  "phrases": [
+    "There is always a risk of getting sucked into the firestorm, so no comment is often a judicious approach.",
+    "When asked how aware he and his teammates were of the hostage situation, he said, \"No comment.\"",
+    "As for her golf handicap, she declines to reveal what hers is, saying only, \"No comment\" when the question is asked.",
+    "I had no evidence, and would get denials or no comment if I questioned the alleged lovers.",
+    "The editor-in-chief says \"No comment\" to pretty much every interesting question."
+  ],
+  "origin": "Late Middle English (in the senses expository treatise and explanatory note): from Latin commentum contrivance (in late Latin also interpretation), neuter past participle of comminisci devise.",
+  "pronounciation": "/ˈkɑmɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comment_us_1.mp3"
+}

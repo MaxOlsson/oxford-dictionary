@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Include (an author or work) in an anthology.",
+      "examples": [
+        "the most anthologized of today's poets"
+      ],
+      "synonyms": [
+        "assemble",
+        "put together",
+        "make up",
+        "collate",
+        "compose",
+        "marshal",
+        "organize",
+        "arrange",
+        "sort out",
+        "systematize",
+        "systemize"
+      ]
+    }
+  ],
+  "pronounciation": "/ænˈθɑləˌdʒaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anthologize_us_1.mp3"
+}

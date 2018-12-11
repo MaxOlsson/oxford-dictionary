@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "(of thoughts or feelings) most private and deeply felt.",
+      "examples": [
+        "innermost beliefs and convictions"
+      ],
+      "synonyms": [
+        "deepest",
+        "deep",
+        "deep-seated",
+        "profound",
+        "inward",
+        "underlying",
+        "intimate",
+        "private",
+        "personal",
+        "secret",
+        "hidden",
+        "veiled",
+        "masked",
+        "concealed",
+        "unexpressed",
+        "unrevealed",
+        "unapparent"
+      ]
+    },
+    {
+      "description": "Furthest in; closest to the center.",
+      "examples": [
+        "the innermost layer"
+      ],
+      "synonyms": [
+        "central",
+        "middle",
+        "internal",
+        "interior"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈinərˌmōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/innermost_us_1.mp3"
+}

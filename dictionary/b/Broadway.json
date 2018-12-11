@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "(usually in names) a large open or main road.",
+      "examples": [
+        "Fulham Broadway"
+      ],
+      "synonyms": [
+        "street",
+        "road",
+        "roadway",
+        "avenue",
+        "boulevard",
+        "way"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A street that runs the length of Manhattan in New York City. It is famous for its theaters, and its name has become synonymous with show business. It is also known as the Great White Way, in reference to its brilliant street illuminations.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbrôdwā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broadway_us_1.mp3"
+}

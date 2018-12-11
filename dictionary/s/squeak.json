@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A short, high-pitched sound or cry.",
+      "examples": [
+        "the door opened with a slight squeak"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a high-pitched sound or cry.",
+      "examples": [
+        "he oiled the hinges to stop them from squeaking"
+      ],
+      "synonyms": [
+        "peep",
+        "cheep",
+        "pipe",
+        "squeal",
+        "tweet",
+        "yelp",
+        "whimper"
+      ]
+    },
+    {
+      "description": "Succeed in achieving something by a very narrow margin.",
+      "examples": [
+        "the bill squeaked through with just six votes to spare"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): imitative; compare with Swedish skväka croak, also with squeal and shriek. The noun dates from the early 17th century.",
+  "pronounciation": "/skwēk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squeak_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A recording of the musical accompaniment to a movie.",
+      "examples": [
+        "she has requested a collaboration for the soundtrack to her forthcoming movie"
+      ],
+      "synonyms": [
+        "backing",
+        "support",
+        "background",
+        "comp"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a movie) with a soundtrack.",
+      "examples": [
+        "it is soundtracked by the great Ennio Morricone"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsaʊn(d)ˌtræk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soundtrack_us_1.mp3"
+}

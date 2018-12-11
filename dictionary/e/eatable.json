@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Fit to be consumed as food.",
+      "examples": [
+        "eatable fruits"
+      ],
+      "synonyms": [
+        "edible",
+        "palatable",
+        "digestible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Items of food.",
+      "examples": [
+        "parcels of eatables and gifts"
+      ],
+      "synonyms": [
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈēdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eatable_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Remain or stay somewhere.",
+      "examples": [
+        "how long must I bide here to wait for the answer?"
+      ],
+      "synonyms": [
+        "remain",
+        "remain behind",
+        "stay behind",
+        "stay put"
+      ]
+    }
+  ],
+  "phrases": [
+    "she bided her time, patiently reading a magazine and planning her escape",
+    "We will be back with another bill, and we will bide our time and find the opportunity to present that bill to both the House and the Senate.",
+    "The shadow watched and waited, patiently biding his time.",
+    "I waited him out, biding my time until he sent all of his men away to scour the docks for any watchers.",
+    "He wanted them to wait and bide their time until something really big and juicy came up at the right price."
+  ],
+  "origin": "Old English bīdan, of Germanic origin.",
+  "pronounciation": "/baɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bide_us_1.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "A tiny dot or point.",
+      "examples": [
+        "a pinpoint of light from a flashlight"
+      ],
+      "synonyms": [
+        "point",
+        "spot",
+        "speck",
+        "dot",
+        "fleck"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Absolutely precise; to the finest degree.",
+      "examples": [
+        "this weapon fired shells with pinpoint accuracy"
+      ],
+      "synonyms": [
+        "precise",
+        "strict",
+        "rigorous",
+        "meticulous",
+        "scrupulous",
+        "punctilious"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Find or locate exactly.",
+      "examples": [
+        "one flare had pinpointed the target",
+        "it is difficult to pinpoint the source of his life's inspiration"
+      ],
+      "synonyms": [
+        "identify",
+        "discover",
+        "determine",
+        "distinguish",
+        "find",
+        "locate",
+        "detect",
+        "track down",
+        "run to earth",
+        "spot",
+        "diagnose",
+        "recognize",
+        "name",
+        "single out",
+        "pick out",
+        "pin down",
+        "home in on",
+        "zero in on",
+        "nail down",
+        "put one's finger on"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɪnˌpɔɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pinpoint_1_us_1.mp3"
+}

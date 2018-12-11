@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "Food made of flour, water, and yeast or another leavening agent, mixed together and baked.",
+      "examples": [
+        "a loaf of bread",
+        "a bread roll",
+        "Italian breads"
+      ]
+    },
+    {
+      "description": "Money.",
+      "examples": [
+        "I hate doing this, but I need the bread"
+      ],
+      "synonyms": [
+        "cash",
+        "hard cash",
+        "ready money"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Coat (food) in breadcrumbs before cooking.",
+      "examples": [
+        "bread the chicken and fry it in oil"
+      ]
+    }
+  ],
+  "phrases": [
+    "they think that she is the greatest thing since sliced bread",
+    "While some analysts think it's the next best thing since sliced bread, it has the feeling of WAP redux.",
+    "That's not to say there isn't a market there, rather that we haven't been convinced it's quite the next best thing since sliced bread.",
+    "Just because almost everyone thinks the group is the next best thing since sliced bread doesn't mean that it won't fall apart.",
+    "Some people are a little confused by this latest trend, wondering what all the fuss is about and why it's becoming the next best thing since sliced bread."
+  ],
+  "origin": "Old English brēad, of Germanic origin; related to Dutch brood and German Brot.",
+  "pronounciation": "/bred/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bread_us_1.mp3"
+}

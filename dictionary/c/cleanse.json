@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Make (something, especially the skin) thoroughly clean.",
+      "examples": [
+        "this preparation will cleanse and tighten the skin"
+      ],
+      "synonyms": [
+        "clean",
+        "make clean",
+        "clean up",
+        "wash",
+        "bathe",
+        "rinse",
+        "disinfect",
+        "sanitize",
+        "decontaminate",
+        "purify"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A process or period of time during which a person attempts to rid the body of substances regarded as toxic or unhealthy, typically by consuming only water or other liquids.",
+      "examples": [
+        "you can consume the broth three times a day for a cleanse",
+        "I recommend doing a cleanse when your social calendar is event-free, because you might feel a bit more tired than usual"
+      ]
+    }
+  ],
+  "origin": "Old English clǣnsian (verb), from clǣne (see clean).",
+  "pronounciation": "/klenz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cleanse_us_1.mp3"
+}

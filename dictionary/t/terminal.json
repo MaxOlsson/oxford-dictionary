@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Of, forming, or situated at the end or extremity of something.",
+      "examples": [
+        "a terminal date",
+        "the terminal tip of the probe"
+      ],
+      "synonyms": [
+        "end",
+        "extreme"
+      ]
+    },
+    {
+      "description": "(of a disease) predicted to lead to death, especially slowly; incurable.",
+      "examples": [
+        "terminal cancer"
+      ],
+      "synonyms": [
+        "incurable",
+        "untreatable",
+        "inoperable",
+        "end-stage"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The end of a railroad or other transport route, or a station at such a point.",
+      "examples": [],
+      "synonyms": [
+        "stopping place",
+        "stop",
+        "halt",
+        "station stop",
+        "stage"
+      ]
+    },
+    {
+      "description": "A point of connection for closing an electric circuit.",
+      "examples": []
+    },
+    {
+      "description": "A device at which a user enters data or commands for a computer system and which displays the received output.",
+      "examples": [],
+      "synonyms": [
+        "workstation",
+        "vdu",
+        "visual display unit",
+        "pc",
+        "input device",
+        "output device"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Latin terminalis, from terminus end, boundary.",
+  "pronounciation": "/ˈtərmənl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terminal_us_1.mp3"
+}

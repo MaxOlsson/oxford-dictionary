@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not confident; hesitant.",
+      "examples": [],
+      "synonyms": [
+        "shy",
+        "bashful",
+        "modest",
+        "self-effacing",
+        "unassuming",
+        "unpresuming",
+        "humble",
+        "meek",
+        "unassertive",
+        "timid",
+        "timorous",
+        "shrinking",
+        "reserved",
+        "withdrawn",
+        "introverted",
+        "inhibited"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkänfədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconfident_us_1.mp3"
+}

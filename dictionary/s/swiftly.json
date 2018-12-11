@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "At high speed; quickly.",
+      "examples": [
+        "she got up and walked swiftly to the door",
+        "a swiftly flowing river"
+      ],
+      "synonyms": [
+        "rapidly",
+        "quickly",
+        "fast",
+        "speedily",
+        "briskly",
+        "at high speed",
+        "at full tilt",
+        "like the wind",
+        "like lightning",
+        "at breakneck speed",
+        "as fast as one's legs can carry one",
+        "as swift as an arrow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈswɪf(t)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swiftly_us_1.mp3"
+}

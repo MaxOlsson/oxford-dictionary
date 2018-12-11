@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) short and rather fat.",
+      "examples": [
+        "a small, tubby man"
+      ],
+      "synonyms": [
+        "chubby",
+        "plump",
+        "stout",
+        "roly-poly",
+        "dumpy",
+        "chunky",
+        "broad in the beam",
+        "portly",
+        "rotund"
+      ]
+    },
+    {
+      "description": "(of a sound) lacking resonance; dull.",
+      "examples": [
+        "historic classical recordings with a tubby overall sound"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtəbē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tubby_us_1.mp3"
+}

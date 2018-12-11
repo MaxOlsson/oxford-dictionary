@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A heavy, dull sound such as that made by thick pieces of metal striking together.",
+      "examples": [],
+      "synonyms": [
+        "bang",
+        "sharp noise",
+        "crack",
+        "boom",
+        "clang",
+        "peal",
+        "clap",
+        "pop",
+        "snap",
+        "knock",
+        "tap",
+        "slam",
+        "thud",
+        "thump",
+        "clonk",
+        "clash",
+        "crash",
+        "smash",
+        "smack"
+      ]
+    },
+    {
+      "description": "A stupid or foolish person.",
+      "examples": [],
+      "synonyms": [
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move with or make heavy, dull sounds.",
+      "examples": [
+        "the machinery clunked into life"
+      ],
+      "synonyms": [
+        "jangling",
+        "clanging",
+        "rattling",
+        "clinking",
+        "jingling",
+        "clunking",
+        "clattering"
+      ]
+    }
+  ],
+  "origin": "Late 18th century (originally Scots, as a verb): imitative; compare with clank, clink, and clonk.",
+  "pronounciation": "/kləŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clunk_us_2.mp3"
+}

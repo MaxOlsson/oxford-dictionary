@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Convert (a compound) into an aromatic structure.",
+      "examples": [],
+      "synonyms": [
+        "fragrant",
+        "scented",
+        "sweet-scented",
+        "sweet-smelling",
+        "perfumed",
+        "fragranced",
+        "odoriferous"
+      ]
+    },
+    {
+      "description": "Cause to have a pleasant and distinctive smell.",
+      "examples": [
+        "vinegar aromatized with plant juices and honey"
+      ],
+      "synonyms": [
+        "sweet-scented",
+        "sweet-smelling",
+        "scented",
+        "perfumed",
+        "aromatic",
+        "sweet"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French aromatiser, from late Latin aromatizare, from Greek arōmatizein to spice.",
+  "pronounciation": "/əˈrōməˌtīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aromatize_us_1.mp3"
+}

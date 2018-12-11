@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Cover or enclose (someone or something) in paper or soft material.",
+      "examples": [
+        "he wrapped the Christmas presents",
+        "Leonora wrapped herself in a large white bath towel"
+      ],
+      "synonyms": [
+        "swathe",
+        "bundle up",
+        "swaddle",
+        "sheathe",
+        "muffle",
+        "cloak",
+        "enfold",
+        "envelop",
+        "encase",
+        "enclose",
+        "cover",
+        "fold",
+        "wind"
+      ]
+    },
+    {
+      "description": "Cause (a word or unit of text) to be carried over to a new line automatically as the margin is reached, or to fit around embedded features such as pictures.",
+      "examples": []
+    },
+    {
+      "description": "Finish filming or recording.",
+      "examples": [
+        "we wrapped on schedule three days later"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loose outer garment or piece of material.",
+      "examples": [],
+      "synonyms": [
+        "shawl",
+        "stole",
+        "cloak",
+        "cape",
+        "mantle",
+        "scarf"
+      ]
+    },
+    {
+      "description": "The end of a session of filming or recording.",
+      "examples": [
+        "right, it's a wrap"
+      ]
+    },
+    {
+      "description": "A sandwich in which the filling is rolled in a soft tortilla.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "The book, intended primarily for an academic audience, has been given so much political attention and been wrapped up in such emotional fervor, that the point of the text has largely been missed, Laine said.",
+    "Sorry for the delays in posting - I've been wrapped up in a project that has kept me from the blog!",
+    "Elendil didn't notice the slight sarcasm because he was wrapped up in his jealousy of Hildor.",
+    "She had not appreciated her mother's predicament and was wrapped up in her own concerns.",
+    "I don't consider myself to be wrapped up in my own little world, I just like to look at things from a slightly different angle from them.",
+    "wrap up warm",
+    "Tim was well wrapped up against the weather",
+    "Jarlox himself just wore pantaloons, his golden skin seeming to glow a little bit in the sun while both Autumn and Sofi were wrapped up in their cloaks, content to hide from view.",
+    "She was shaking even though she was wrapped up in a thick long coat in the middle of summer.",
+    "I was wrapped up in my big coat, my lovely new thick scarf around my neck, beanie on my head and my hood pulled over it."
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/rap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wrap_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Vomit.",
+      "examples": [
+        "he puked up his pizza",
+        "I had eaten to the point of puking"
+      ],
+      "synonyms": [
+        "be sick",
+        "spew",
+        "spew up",
+        "fetch up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Vomit.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: probably imitative; first recorded as a verb in: At first the infant, mewling, and puking in the nurse's arms, in Shakespeare's As you like it (ii. vii. 144).",
+  "pronounciation": "/pyo͞ok/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/puke_us_1.mp3"
+}

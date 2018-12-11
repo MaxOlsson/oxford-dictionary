@@ -1,0 +1,209 @@
+{
+  "verb": [
+    {
+      "description": "Come so close to (an object) as to be or come into contact with it.",
+      "examples": [
+        "the dog had one paw outstretched, not quite touching the ground"
+      ],
+      "synonyms": [
+        "be in contact",
+        "be in contact with",
+        "come into contact",
+        "come into contact with",
+        "come together",
+        "come together with",
+        "meet",
+        "join",
+        "connect",
+        "converge",
+        "converge with",
+        "be contiguous",
+        "be contiguous with",
+        "border",
+        "border on",
+        "be against",
+        "be up against",
+        "link up",
+        "link up with",
+        "adjoin",
+        "abut",
+        "neighbour"
+      ]
+    },
+    {
+      "description": "Handle in order to manipulate, alter, or otherwise affect, especially in an adverse way.",
+      "examples": [
+        "I didn't play her records or touch any of her stuff"
+      ],
+      "synonyms": [
+        "handle",
+        "hold",
+        "pick up",
+        "move"
+      ]
+    },
+    {
+      "description": "Have an effect on; make a difference to.",
+      "examples": [
+        "a tenth of state companies have been touched by privatization"
+      ],
+      "synonyms": [
+        "affect",
+        "have an effect on",
+        "concern",
+        "involve",
+        "have a bearing on",
+        "be relevant to",
+        "be pertinent to"
+      ]
+    },
+    {
+      "description": "Produce feelings of affection, gratitude, or sympathy in.",
+      "examples": [
+        "she was touched by her friend's loyalty"
+      ],
+      "synonyms": [
+        "affected",
+        "softened",
+        "moved",
+        "stirred",
+        "swayed",
+        "aroused",
+        "impressed",
+        "influenced",
+        "warmed",
+        "impassioned",
+        "upset",
+        "disturbed",
+        "distressed"
+      ]
+    },
+    {
+      "description": "Reach (a specified level or amount)",
+      "examples": [
+        "sales touched twenty grand last year"
+      ],
+      "synonyms": [
+        "reach",
+        "attain",
+        "arrive at",
+        "come to",
+        "make"
+      ]
+    },
+    {
+      "description": "Ask someone for (money or some other commodity) as a loan or gift.",
+      "examples": [
+        "he touched me for his fare"
+      ],
+      "synonyms": [
+        "ask",
+        "approach"
+      ]
+    },
+    {
+      "description": "Lightly mark in features or other details with a brush or pencil.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of touching someone or something.",
+      "examples": [
+        "her touch on his shoulder was hesitant",
+        "expressions of love through words and touch",
+        "you can manipulate images on the screen at the touch of a key"
+      ],
+      "synonyms": [
+        "press",
+        "tap",
+        "pat",
+        "nudge",
+        "prod",
+        "poke",
+        "push",
+        "glance",
+        "flick"
+      ]
+    },
+    {
+      "description": "A small amount; a trace.",
+      "examples": [
+        "add a touch of vinegar",
+        "he retired to bed with a touch of the flu"
+      ],
+      "synonyms": [
+        "small amount",
+        "trace",
+        "bit",
+        "suggestion",
+        "suspicion",
+        "hint",
+        "scintilla",
+        "tinge",
+        "tincture",
+        "whiff",
+        "whisper",
+        "overtone",
+        "undertone",
+        "nuance",
+        "murmur",
+        "colouring",
+        "breath",
+        "vein"
+      ]
+    },
+    {
+      "description": "A distinctive manner or method of dealing with something.",
+      "examples": [
+        "later he showed a surer political touch"
+      ],
+      "synonyms": [
+        "skill",
+        "skilfulness",
+        "expertise",
+        "dexterity",
+        "deftness",
+        "virtuosity",
+        "adroitness",
+        "adeptness",
+        "ability",
+        "talent",
+        "flair",
+        "facility",
+        "proficiency"
+      ]
+    },
+    {
+      "description": "An act of asking for and getting money or some other commodity from someone as a loan or gift.",
+      "examples": [
+        "I only tolerated him because he was good for a touch now and then"
+      ]
+    },
+    {
+      "description": "A series of changes shorter than a peal.",
+      "examples": []
+    },
+    {
+      "description": "A thing or an action that tries out the worth or character of something; a test.",
+      "examples": [
+        "you must put your fate to the touch"
+      ]
+    }
+  ],
+  "phrases": [
+    "the water was a touch too chilly for us",
+    "Now I have a pint of hot water with a touch of lemon, then two pieces of fruit like a banana and apple.",
+    "If this can be achieved then the crowd tend to get a touch restless and this can filter through to the players on the pitch.",
+    "After a while it becomes a little too solid, but a touch more water fixes that.",
+    "In order to add a touch of calm to proceedings in Corsham she also read stories to the assembled youngsters.",
+    "No fleet can possibly sail to or return from India without touching at some proper place for refreshment, and, in time of war, it must be equally necessary for protection.",
+    "His great fleet touched at the Orkneys, moved south to the Tyne to join with Tostig, and then entered the Humber, menacing York.",
+    "The areas where the aircraft touched down began to crack and crumble.",
+    "Investigators will want to know if the aircraft touched down in the proper place, if other planes had difficulty braking and if pilots were warned of waterlogging.",
+    "This is followed by the bump and lurch as the aircraft touches down and the engines roar into full reverse."
+  ],
+  "origin": "Middle English: the verb from Old French tochier, probably from a Romance word of imitative origin; the noun originally from Old French touche, later (in certain senses) directly from the verb.",
+  "pronounciation": "/təCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/touch_us_2.mp3"
+}

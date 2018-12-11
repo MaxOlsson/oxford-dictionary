@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the US state of Alabama or its inhabitants.",
+      "examples": [
+        "his deep voice was laced with a hint of an Alabaman accent",
+        "Alabamian cuisine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the US state of Alabama.",
+      "examples": [
+        "an Alabaman by birth and a Texan by upbringing",
+        "a lifelong Alabamian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌaləˈbāmēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alabamian_1_us_1.mp3"
+}

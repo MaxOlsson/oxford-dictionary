@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "Ready to face and endure danger or pain; showing courage.",
+      "examples": [
+        "a brave soldier",
+        "he put up a brave fight before losing",
+        "it was a time to remember the brave"
+      ],
+      "synonyms": [
+        "courageous",
+        "plucky",
+        "fearless",
+        "valiant",
+        "valorous",
+        "intrepid",
+        "heroic",
+        "lionhearted",
+        "manful",
+        "macho",
+        "bold",
+        "daring",
+        "daredevil",
+        "adventurous",
+        "audacious",
+        "death-or-glory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A North American Indian warrior.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Endure or face (unpleasant conditions or behavior) without showing fear.",
+      "examples": [
+        "we had to brave the full heat of the sun"
+      ],
+      "synonyms": [
+        "endure",
+        "put up with",
+        "bear",
+        "withstand",
+        "weather",
+        "suffer",
+        "sustain",
+        "go through"
+      ]
+    }
+  ],
+  "phrases": [
+    "many people braved the elements to enjoy the attractions",
+    "For something completely different, brave the elements in an Icelandic outdoor hot pool.",
+    "In the bar, a magnificent fire was leaping in the hearth, and the temptation was to stay in the warmth and eat there, chatting to the few locals who had braved the elements.",
+    "Many traditional climbers braved the elements in the early morning to make the ascent to the top.",
+    "Those who did brave the elements had to wade through a sea of mud."
+  ],
+  "origin": "Late 15th century: from French, from Italian bravo bold or Spanish bravo courageous, untamed, savage, based on Latin barbarus (see barbarous).",
+  "pronounciation": "/breɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/brave_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Take part.",
+      "examples": [
+        "thousands participated in a nationwide strike"
+      ],
+      "synonyms": [
+        "take part",
+        "engage",
+        "join",
+        "get involved",
+        "share",
+        "play a part",
+        "play a role",
+        "be a participant",
+        "partake"
+      ]
+    },
+    {
+      "description": "Have or possess (a particular quality)",
+      "examples": [
+        "both members participate of harmony"
+      ],
+      "synonyms": [
+        "benefit from",
+        "have the benefit of",
+        "reap the benefits of",
+        "have the advantage",
+        "have the use of",
+        "have available",
+        "avail oneself of",
+        "be blessed with",
+        "be favoured with",
+        "be endowed with",
+        "be born with",
+        "be possessed of"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin participat- shared in, from the verb participare, based on pars, part- part + capere take.",
+  "pronounciation": "/pɑrˈtɪsəˌpeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/participate_us_1.mp3"
+}

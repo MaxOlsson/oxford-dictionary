@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Unwilling to spend or share money; miserly; mean.",
+      "examples": [
+        "penny-pinching governments with a utilitarian approach to the arts"
+      ],
+      "synonyms": [
+        "mean",
+        "miserly",
+        "niggardly",
+        "parsimonious",
+        "close-fisted",
+        "cheese-paring",
+        "penurious",
+        "scrimping",
+        "grasping",
+        "greedy",
+        "avaricious",
+        "scrooge-like",
+        "ungenerous",
+        "illiberal",
+        "close"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Unwillingness to spend or share money.",
+      "examples": [
+        "this penny-pinching has exposed the bridge's steelwork to corrosion"
+      ],
+      "synonyms": [
+        "thrift",
+        "providence",
+        "prudence",
+        "thriftiness",
+        "canniness",
+        "carefulness",
+        "care",
+        "good management",
+        "good husbandry",
+        "careful budgeting",
+        "economizing",
+        "saving",
+        "scrimping and saving",
+        "scrimping",
+        "restraint",
+        "frugality",
+        "fuel-saving",
+        "abstemiousness"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpenē ˌpinCHiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/penny_pinching_1_us_1.mp3"
+}

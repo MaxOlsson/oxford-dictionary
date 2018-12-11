@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Corsica, its people, or their language.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native of Corsica.",
+      "examples": []
+    },
+    {
+      "description": "The language of Corsica, which originated as a dialect of Italian.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkɔrsəkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corsican_1_us_1.mp3"
+}

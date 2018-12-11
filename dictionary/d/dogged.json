@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing tenacity and grim persistence.",
+      "examples": [
+        "success required dogged determination"
+      ],
+      "synonyms": [
+        "tenacious",
+        "determined",
+        "resolute",
+        "resolved",
+        "purposeful",
+        "persistent",
+        "persevering",
+        "pertinacious",
+        "relentless",
+        "intent",
+        "dead set",
+        "single-minded",
+        "focused",
+        "dedicated",
+        "committed",
+        "undeviating",
+        "unshakeable",
+        "unflagging",
+        "indefatigable",
+        "untiring",
+        "never-tiring",
+        "tireless",
+        "unfailing",
+        "unfaltering",
+        "unwavering",
+        "unyielding",
+        "unbending",
+        "immovable",
+        "obdurate",
+        "strong-willed",
+        "firm",
+        "steadfast",
+        "steady",
+        "staunch",
+        "stout-hearted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdôɡəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dogged_us_1_rr.mp3"
+}

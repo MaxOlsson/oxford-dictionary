@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Carry out or perpetrate (a mistake, crime, or immoral act)",
+      "examples": [
+        "he committed an uncharacteristic error"
+      ],
+      "synonyms": [
+        "carry out",
+        "do",
+        "perform",
+        "perpetrate",
+        "engage in",
+        "enact",
+        "execute",
+        "effect",
+        "accomplish"
+      ]
+    },
+    {
+      "description": "Pledge or bind (a person or an organization) to a certain course or policy.",
+      "examples": [
+        "they were reluctant to commit themselves to an opinion",
+        "the treaty commits each party to defend the other",
+        "try it out before you commit to a purchase"
+      ],
+      "synonyms": [
+        "pledge",
+        "devote",
+        "apply",
+        "give",
+        "dedicate",
+        "bind",
+        "obligate"
+      ]
+    },
+    {
+      "description": "Transfer something to (a state or place)",
+      "examples": [
+        "he composed a letter but didn't commit it to paper",
+        "she committed each tiny feature to memory",
+        "committed to the flames"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin committere join, entrust (in medieval Latin put into custody), from com- with + mittere put or send.",
+  "pronounciation": "/kəˈmɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commit_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be touched or grasped; not having physical presence.",
+      "examples": [
+        "my companions do not care about cyberspace or anything else so intangible"
+      ],
+      "synonyms": [
+        "impalpable",
+        "untouchable",
+        "imperceptible to the touch",
+        "non-physical",
+        "bodiless",
+        "incorporeal",
+        "unembodied",
+        "disembodied",
+        "abstract",
+        "invisible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An intangible thing.",
+      "examples": [
+        "intangibles like self-confidence and responsibility"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as an adjective): from French, or from medieval Latin intangibilis, from in- not + late Latin tangibilis (see tangible).",
+  "pronounciation": "/ɪnˈtændʒəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intangible_us_1.mp3"
+}

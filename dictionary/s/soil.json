@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "The upper layer of earth in which plants grow, a black or dark brown material typically consisting of a mixture of organic remains, clay, and rock particles.",
+      "examples": [
+        "blueberries need very acid soil",
+        "the Garden State has provided fertile soil for the specialty beer market"
+      ],
+      "synonyms": [
+        "earth",
+        "loam",
+        "sod",
+        "ground",
+        "dirt",
+        "clay",
+        "turf",
+        "topsoil",
+        "mould",
+        "humus",
+        "marl",
+        "dust"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make dirty.",
+      "examples": [
+        "he might soil his expensive suit"
+      ],
+      "synonyms": [
+        "dirty",
+        "get dirty",
+        "make dirty",
+        "get filthy",
+        "make filthy",
+        "blacken",
+        "grime",
+        "begrime",
+        "stain",
+        "muddy",
+        "splash",
+        "spot",
+        "spatter",
+        "splatter",
+        "smear",
+        "smudge",
+        "sully",
+        "spoil",
+        "defile",
+        "pollute",
+        "contaminate",
+        "foul",
+        "befoul"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: perhaps from soil.",
+  "pronounciation": "/soil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soil_us_1.mp3"
+}

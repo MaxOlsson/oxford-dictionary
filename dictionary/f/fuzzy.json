@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Having a frizzy, fluffy, or frayed texture or appearance.",
+      "examples": [
+        "fuzzy fake-fur throw pillows"
+      ],
+      "synonyms": [
+        "downy",
+        "down-covered",
+        "frizzy",
+        "woolly",
+        "velvety",
+        "silky",
+        "silken",
+        "satiny",
+        "linty",
+        "napped",
+        "soft"
+      ]
+    },
+    {
+      "description": "Difficult to perceive clearly or understand and explain precisely; indistinct or vague.",
+      "examples": [
+        "the picture is very fuzzy",
+        "that fuzzy line between right and wrong"
+      ],
+      "synonyms": [
+        "blurry",
+        "blurred",
+        "indistinct"
+      ]
+    },
+    {
+      "description": "Relating to a form of set theory and logic in which predicates may have degrees of applicability, rather than simply being true or false. It has important uses in artificial intelligence and the design of control systems.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfəzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fuzzy_us_1.mp3"
+}

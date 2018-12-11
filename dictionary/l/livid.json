@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Furiously angry.",
+      "examples": [
+        "he was livid at being left out"
+      ],
+      "synonyms": [
+        "furious",
+        "angry",
+        "infuriated",
+        "irate",
+        "fuming",
+        "raging",
+        "seething",
+        "incensed",
+        "enraged",
+        "angered",
+        "beside oneself",
+        "wrathful",
+        "ireful",
+        "maddened",
+        "cross",
+        "annoyed",
+        "irritated",
+        "exasperated",
+        "indignant"
+      ]
+    },
+    {
+      "description": "Dark bluish gray in color.",
+      "examples": [
+        "livid bruises",
+        "his face went livid, then purple"
+      ],
+      "synonyms": [
+        "purplish",
+        "bluish",
+        "dark",
+        "discoloured",
+        "black and blue",
+        "purple",
+        "greyish-blue"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense of a bluish leaden color): from French livide or Latin lividus, from livere be bluish. The sense furiously angry dates from the early 20th century.",
+  "pronounciation": "/ˈlivid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/livid_us_1.mp3"
+}

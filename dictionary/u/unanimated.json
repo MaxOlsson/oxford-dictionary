@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking excitement or vitality; dull.",
+      "examples": [
+        "his unanimated rhetorical style",
+        "he was very dry and unanimated"
+      ],
+      "synonyms": [
+        "uninteresting",
+        "dull",
+        "boring",
+        "tedious",
+        "monotonous",
+        "dry",
+        "drab",
+        "dreary",
+        "wearisome"
+      ]
+    },
+    {
+      "description": "(of an image) not moving; still.",
+      "examples": [
+        "the backgrounds are simple, unanimated, and monochrome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈænəmeɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unanimated_us_1.mp3"
+}

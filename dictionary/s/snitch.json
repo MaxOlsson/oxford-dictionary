@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Steal.",
+      "examples": [],
+      "synonyms": [
+        "purloin",
+        "thieve",
+        "take",
+        "take for oneself",
+        "help oneself to",
+        "loot",
+        "pilfer",
+        "abscond with",
+        "run off with",
+        "appropriate",
+        "abstract",
+        "carry off",
+        "shoplift"
+      ]
+    },
+    {
+      "description": "Inform on someone.",
+      "examples": [
+        "she wouldn't tell who snitched on me"
+      ],
+      "synonyms": [
+        "inform",
+        "inform against",
+        "inform on",
+        "act as an informer",
+        "tell tales",
+        "tell tales on",
+        "sneak",
+        "sneak on",
+        "report",
+        "give away",
+        "be disloyal",
+        "be disloyal to",
+        "sell out",
+        "stab in the back"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An informer.",
+      "examples": [],
+      "synonyms": [
+        "informant"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: of unknown origin.",
+  "pronounciation": "/sniCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snitch_us_1.mp3"
+}

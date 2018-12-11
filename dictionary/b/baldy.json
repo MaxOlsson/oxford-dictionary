@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A baldheaded person.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Bald.",
+      "examples": [
+        "a baldy head"
+      ],
+      "synonyms": [
+        "hairless",
+        "bald-headed",
+        "smooth"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbôldē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baldy_us_1.mp3"
+}

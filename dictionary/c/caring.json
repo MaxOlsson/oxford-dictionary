@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Displaying kindness and concern for others.",
+      "examples": [
+        "a caring and invaluable friend"
+      ],
+      "synonyms": [
+        "kind",
+        "kind-hearted",
+        "warm-hearted",
+        "soft-hearted",
+        "tender",
+        "feeling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The work or practice of looking after those unable to care for themselves, especially sick and elderly people.",
+      "examples": [
+        "the caring professions"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkeriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caring_us_1.mp3"
+}

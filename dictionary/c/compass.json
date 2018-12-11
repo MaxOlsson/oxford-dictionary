@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "An instrument containing a magnetized pointer which shows the direction of magnetic north and bearings from it.",
+      "examples": []
+    },
+    {
+      "description": "An instrument for drawing circles and arcs and measuring distances between points, consisting of two arms linked by a movable joint, one arm ending in a point and the other usually carrying a pencil or pen.",
+      "examples": []
+    },
+    {
+      "description": "The range or scope of something.",
+      "examples": [
+        "the event had political repercussions that are beyond the compass of this book"
+      ],
+      "synonyms": [
+        "scope",
+        "range",
+        "extent",
+        "reach",
+        "span",
+        "breadth",
+        "width",
+        "orbit",
+        "ambit",
+        "stretch",
+        "limits",
+        "confines",
+        "parameters",
+        "extremities",
+        "bounds",
+        "boundary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go around (something) in a circular course.",
+      "examples": [
+        "the ship wherein Magellan compassed the world"
+      ]
+    },
+    {
+      "description": "Contrive to accomplish (something)",
+      "examples": [
+        "he compassed his end only by the exercise of violence"
+      ],
+      "synonyms": [
+        "manage",
+        "find a way",
+        "engineer a way",
+        "arrange"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French compas (noun), compasser (verb), based on Latin com- together + passus a step or pace. Several senses (measure, artifice, circumscribed area, and pair of compasses) which appeared in Middle English are also found in Old French, but their development and origin are uncertain. The transference of sense to the magnetic compass is held to have occurred in the related Italian word compasso, from the circular shape of the compass box.",
+  "pronounciation": "/ˈkəmpəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compass_us_1.mp3"
+}

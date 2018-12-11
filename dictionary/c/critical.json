@@ -1,0 +1,80 @@
+{
+  "adjective": [
+    {
+      "description": "Expressing adverse or disapproving comments or judgments.",
+      "examples": [
+        "he was critical of many U.S. welfare programs"
+      ],
+      "synonyms": [
+        "censorious",
+        "condemnatory",
+        "condemning",
+        "castigatory",
+        "reproving",
+        "denunciatory",
+        "deprecatory",
+        "disparaging",
+        "disapproving",
+        "scathing",
+        "criticizing",
+        "fault-finding",
+        "judgemental",
+        "negative",
+        "unfavourable",
+        "unsympathetic"
+      ]
+    },
+    {
+      "description": "Expressing or involving an analysis of the merits and faults of a work of literature, music, or art.",
+      "examples": [
+        "she never won the critical acclaim she sought"
+      ],
+      "synonyms": [
+        "evaluative",
+        "analytic",
+        "analytical",
+        "interpretative",
+        "expository",
+        "commentative",
+        "explanatory",
+        "explicative",
+        "elucidative"
+      ]
+    },
+    {
+      "description": "(of a situation or problem) having the potential to become disastrous; at a point of crisis.",
+      "examples": [
+        "the flood waters had not receded, and the situation was still critical"
+      ],
+      "synonyms": [
+        "grave",
+        "serious",
+        "dangerous",
+        "risky",
+        "perilous",
+        "hazardous",
+        "precarious",
+        "touch-and-go",
+        "in the balance",
+        "uncertain",
+        "desperate",
+        "dire",
+        "acute",
+        "very bad"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a point of transition from one state to another.",
+      "examples": []
+    },
+    {
+      "description": "(of a nuclear reactor or fuel) maintaining a self-sustaining chain reaction.",
+      "examples": [
+        "the reactor is due to go critical in October"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense relating to the crisis of a disease): from late Latin criticus (see critic).",
+  "pronounciation": "/ˈkrɪdək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/critical_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "The action or fact of talking rapidly and continuously in a foolish, excited, or incomprehensible way.",
+      "examples": [
+        "the constant babbling of the kids"
+      ]
+    },
+    {
+      "description": "The continuous murmuring sound of flowing water.",
+      "examples": [
+        "the babbling of a nearby river"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Talking rapidly and continuously in a foolish, excited, or incomprehensible way.",
+      "examples": [
+        "the noise of babbling tourists",
+        "you sound like a babbling fool"
+      ]
+    },
+    {
+      "description": "(of flowing water) making a continuous murmuring sound.",
+      "examples": [
+        "a gently babbling brook"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbæb(ə)lɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/babbling_gb_8.mp3"
+}

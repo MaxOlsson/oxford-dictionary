@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A Spanish title prefixed to a male forename.",
+      "examples": []
+    },
+    {
+      "description": "A university teacher, especially a senior member of a college at Oxford or Cambridge.",
+      "examples": [],
+      "synonyms": [
+        "university teacher",
+        "lecturer",
+        "university lecturer",
+        "fellow",
+        "professor",
+        "reader",
+        "lector",
+        "college tutor",
+        "academic",
+        "scholar"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put on (an item of clothing)",
+      "examples": [
+        "in the locker room the players donned their football jerseys"
+      ],
+      "synonyms": [
+        "put on",
+        "get dressed in",
+        "dress in",
+        "dress oneself in",
+        "pull on",
+        "climb into",
+        "get into",
+        "fling on",
+        "throw on",
+        "slip into",
+        "slip on",
+        "change into",
+        "rig oneself out in",
+        "clothe oneself in",
+        "array oneself in",
+        "deck oneself out in",
+        "accoutre oneself in",
+        "put round one's shoulders",
+        "put on one's head"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A river in Russia that rises near Tula, southeast of Moscow, and flows for 1,224 miles (1,958 km) to the Sea of Azov.",
+      "examples": []
+    },
+    {
+      "description": "A river in Scotland that rises in the Grampian Mountains and flows east for 82 miles (131 km) to the North Sea at Aberdeen.",
+      "examples": []
+    },
+    {
+      "description": "A river in northern England that rises in the Pennine Hills and flows east for 70 miles (112 km) to join the Ouse River shortly before it, in turn, joins the Humber River.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: contraction of do on. Compare with doff.",
+  "pronounciation": "/dɑn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/don_us_1.mp3"
+}

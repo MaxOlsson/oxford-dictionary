@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A slatted wooden case used for transporting or storing goods.",
+      "examples": [
+        "a crate of bananas"
+      ],
+      "synonyms": [
+        "case",
+        "packing case",
+        "chest",
+        "coffer",
+        "trunk",
+        "box",
+        "casket",
+        "strongbox",
+        "basket",
+        "hamper",
+        "pack",
+        "bin",
+        "drum",
+        "container",
+        "receptacle"
+      ]
+    },
+    {
+      "description": "An old and dilapidated vehicle.",
+      "examples": [],
+      "synonyms": [
+        "automobile",
+        "motor vehicle",
+        "motorized vehicle",
+        "means of transport",
+        "conveyance",
+        "machine"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pack (something) in a crate for transportation.",
+      "examples": [],
+      "synonyms": [
+        "package",
+        "pack",
+        "parcel",
+        "wrap",
+        "bundle",
+        "bale",
+        "crate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps related to Dutch krat tailboard of a wagon, earlier box of a coach, of unknown origin.",
+  "pronounciation": "/kreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crate_us_1.mp3"
+}

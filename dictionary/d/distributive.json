@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Concerned with the supply of goods to stores and other businesses that sell to consumers.",
+      "examples": [
+        "transportation and distributive industries"
+      ]
+    },
+    {
+      "description": "(of a determiner or pronoun) referring to each individual of a class, not to the class collectively, e.g. each, either.",
+      "examples": []
+    },
+    {
+      "description": "(of an operation) fulfilling the condition that, when it is performed on two or more quantities already combined by another operation, the result is the same as when it is performed on each quantity individually and the products then combined.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A distributive word.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French distributif, -ive or late Latin distributivus, from Latin distribut- divided up, from the verb distribuere (see distribute).",
+  "pronounciation": "/dəˈstribyədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distributive_us_1.mp3"
+}

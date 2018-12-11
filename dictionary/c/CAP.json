@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "A kind of soft, flat hat without a brim and typically with a visor.",
+      "examples": []
+    },
+    {
+      "description": "A protective lid or cover for an object such as a bottle, the point of a pen, or a camera lens.",
+      "examples": [],
+      "synonyms": [
+        "lid",
+        "top",
+        "stopper",
+        "cork",
+        "bung",
+        "spile"
+      ]
+    },
+    {
+      "description": "An upper limit imposed on spending or other activities.",
+      "examples": [
+        "a cap on government purchases"
+      ],
+      "synonyms": [
+        "limit",
+        "upper limit",
+        "ceiling"
+      ]
+    },
+    {
+      "description": "The broad upper part of the fruiting body of most mushrooms and toadstools, at the top of a stem and bearing gills or pores.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put a lid or cover on.",
+      "examples": [
+        "he capped his pen"
+      ]
+    },
+    {
+      "description": "Provide a fitting climax or conclusion to.",
+      "examples": [
+        "he capped a memorable season by becoming champion"
+      ],
+      "synonyms": [
+        "round off",
+        "crown",
+        "be a fitting climax to",
+        "put the finishing touch to",
+        "put the finishing touches to",
+        "perfect",
+        "complete"
+      ]
+    },
+    {
+      "description": "Place a limit or restriction on (prices, expenditure, or other activity)",
+      "examples": [
+        "council budgets will be capped"
+      ],
+      "synonyms": [
+        "set a limit on",
+        "put a ceiling on",
+        "limit",
+        "restrict",
+        "keep within bounds"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Civil Air Patrol.",
+      "examples": []
+    },
+    {
+      "description": "Common Agricultural Policy.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Had she picked a Lord, or a Viscount, or someone of standard to set her cap at then her father wouldn't have voiced a single complaint.",
+    "Rose, Cassandra's beautiful, impulsive older sister, sets her cap at the eldest.",
+    "A brutalised war veteran, Harvey has begun a steamed - up adulterous affair with Signoret and finally found something like love, but sets his cap for a millionaire factory boss's daughter.",
+    "She looks for support to her cousin and legal adviser Frank Greystock, but when his engagement to the demure governess Lucy Morris proves too durable, she sets her cap at the stuffy Lord Fawn.",
+    "She is all too besotted with Mr. Phineas… if I had known that boy would have set his cap for Clara, I never would have allowed him to be our guest… she stopped then, for Clara had entered with David."
+  ],
+  "origin": "Old English cæppe hood, from late Latin cappa, perhaps from Latin caput head.",
+  "pronounciation": "/ˌsēˌāˈpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/c_a_p_1_us_1_abbr.mp3"
+}

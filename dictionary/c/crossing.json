@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A place where two roads, two railroad lines, or a road and a railroad line cross.",
+      "examples": [],
+      "synonyms": [
+        "junction",
+        "crossroads",
+        "intersection",
+        "interchange"
+      ]
+    },
+    {
+      "description": "A place at which one may safely cross something, especially a street.",
+      "examples": [],
+      "synonyms": [
+        "pedestrian crossing",
+        "street crossing",
+        "pelican crossing",
+        "zebra crossing"
+      ]
+    },
+    {
+      "description": "The action of moving across or over something.",
+      "examples": [
+        "the crossing of the Pyrenees"
+      ]
+    },
+    {
+      "description": "Crossbreeding.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkrôsiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crossing_us_1.mp3"
+}

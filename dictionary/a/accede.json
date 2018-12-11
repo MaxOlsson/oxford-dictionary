@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Assent or agree to a demand, request, or treaty.",
+      "examples": [
+        "the authorities did not accede to the strikers' demands"
+      ],
+      "synonyms": [
+        "agree to",
+        "consent to",
+        "accept",
+        "assent to",
+        "acquiesce in",
+        "endorse",
+        "comply with",
+        "go along with",
+        "concur with",
+        "allow",
+        "recognize",
+        "grant",
+        "surrender to",
+        "yield to",
+        "give in to",
+        "give way to",
+        "defer to"
+      ]
+    },
+    {
+      "description": "Assume an office or position.",
+      "examples": [
+        "he acceded to the post of director in September"
+      ],
+      "synonyms": [
+        "succeed to",
+        "assume",
+        "attain",
+        "come to",
+        "come into",
+        "inherit",
+        "take over",
+        "be elevated to"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the general sense come forward, approach): from Latin accedere, from ad- to + cedere give way, yield.",
+  "pronounciation": "/əkˈsid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accede_us_1.mp3"
+}

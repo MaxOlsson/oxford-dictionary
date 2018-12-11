@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A condition that must be fulfilled before other things can happen or be done.",
+      "examples": [
+        "a precondition for peace"
+      ],
+      "synonyms": [
+        "prerequisite",
+        "necessary condition",
+        "obligatory condition",
+        "essential condition",
+        "condition",
+        "requirement",
+        "necessity",
+        "essential",
+        "necessary thing",
+        "imperative",
+        "stipulation",
+        "proviso"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Condition (an action) to happen in a certain way.",
+      "examples": [
+        "inquiries are always preconditioned by cultural assumptions"
+      ]
+    },
+    {
+      "description": "Bring (something) into the desired state for use.",
+      "examples": [
+        "they precondition the incoming air to match the inside air temperature"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌprēkənˈdiSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precondition_us_1.mp3"
+}

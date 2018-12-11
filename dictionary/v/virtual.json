@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Almost or nearly as described, but not completely or according to strict definition.",
+      "examples": [
+        "the virtual absence of border controls"
+      ],
+      "synonyms": [
+        "effective",
+        "in effect",
+        "near",
+        "near enough",
+        "essential",
+        "practical",
+        "for all practical purposes",
+        "to all intents and purposes",
+        "in all but name",
+        "indirect",
+        "implied",
+        "implicit",
+        "unacknowledged",
+        "tacit"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense possessing certain virtues): from medieval Latin virtualis, from Latin virtus virtue, suggested by late Latin virtuosus.",
+  "pronounciation": "/ˈvərtʃ(u)əl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/virtual_us_1.mp3"
+}

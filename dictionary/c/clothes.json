@@ -1,0 +1,27 @@
+{
+  "plural noun": [
+    {
+      "description": "Items worn to cover the body.",
+      "examples": [
+        "he stripped off his clothes",
+        "baby clothes",
+        "a clothes shop"
+      ],
+      "synonyms": [
+        "clothing",
+        "garments",
+        "articles of clothing",
+        "articles of dress",
+        "attire",
+        "garb"
+      ]
+    },
+    {
+      "description": "Bedclothes.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English clāthas, plural of clāth (see cloth).",
+  "pronounciation": "/klō(T͟H)z/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clothes_us_1.mp3"
+}

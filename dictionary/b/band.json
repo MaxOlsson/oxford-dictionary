@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A flat, thin strip or loop of material put around something, typically to hold it together or to decorate it.",
+      "examples": [
+        "wads of banknotes fastened with gummed paper bands"
+      ],
+      "synonyms": [
+        "belt",
+        "sash",
+        "girdle",
+        "strap",
+        "tape",
+        "ring",
+        "hoop",
+        "loop",
+        "circlet",
+        "circle",
+        "cord",
+        "tie",
+        "string",
+        "thong",
+        "ribbon",
+        "fillet",
+        "strip"
+      ]
+    },
+    {
+      "description": "A stripe or elongated area of a different color, texture, or composition than its surroundings.",
+      "examples": [
+        "a long, narrow band of cloud"
+      ],
+      "synonyms": [
+        "stripe",
+        "strip",
+        "streak",
+        "line",
+        "bar",
+        "belt",
+        "swathe",
+        "vein",
+        "thread",
+        "flash"
+      ]
+    },
+    {
+      "description": "A range of frequencies or wavelengths in a spectrum (especially of radio frequencies)",
+      "examples": [
+        "channels in the UHF band"
+      ]
+    },
+    {
+      "description": "A thing that restrains, binds, or unites.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Surround (an object) with something in the form of a strip or ring, typically for reinforcement or decoration.",
+      "examples": [
+        "doors are banded with iron to make them stronger"
+      ]
+    },
+    {
+      "description": "Mark (something) with a stripe or stripes of a different color.",
+      "examples": [
+        "the bird's bill is banded across the middle with black"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French bande, of Germanic origin; related to banner.",
+  "pronounciation": "/band/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/band_us_1.mp3"
+}

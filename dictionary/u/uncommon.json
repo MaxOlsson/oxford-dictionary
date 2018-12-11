@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Out of the ordinary; unusual.",
+      "examples": [
+        "prostate cancer is not uncommon in men over 60",
+        "an uncommon name"
+      ],
+      "synonyms": [
+        "unusual",
+        "abnormal",
+        "rare",
+        "atypical",
+        "uncustomary",
+        "unconventional",
+        "unexpected",
+        "unfamiliar",
+        "strange",
+        "odd",
+        "curious",
+        "out of the ordinary",
+        "extraordinary",
+        "out of the way",
+        "outlandish",
+        "offbeat",
+        "irregular",
+        "deviant",
+        "novel",
+        "singular",
+        "peculiar",
+        "queer",
+        "bizarre",
+        "freakish",
+        "quirky",
+        "alien"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Remarkably.",
+      "examples": [
+        "he was uncommon afraid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkämən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncommon_us_1.mp3"
+}

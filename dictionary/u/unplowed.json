@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of an area of land) not having been plowed.",
+      "examples": [
+        "an unplowed field"
+      ],
+      "synonyms": [
+        "uncultivated",
+        "unploughed",
+        "untilled",
+        "unplanted",
+        "unsown",
+        "unseeded",
+        "unused",
+        "undeveloped",
+        "dormant",
+        "resting",
+        "empty",
+        "bare",
+        "virgin"
+      ]
+    },
+    {
+      "description": "(of a road) not cleared of snow by a snowplow.",
+      "examples": [
+        "in spring, the unplowed roads gradually lost their layers of snow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈploud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unplowed_us_1.mp3"
+}

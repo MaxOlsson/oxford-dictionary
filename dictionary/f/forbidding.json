@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Unfriendly or threatening in appearance.",
+      "examples": [
+        "a grim and forbidding building"
+      ],
+      "synonyms": [
+        "hostile",
+        "unwelcoming",
+        "unfriendly",
+        "unsympathetic",
+        "unapproachable",
+        "harsh",
+        "grim",
+        "stern",
+        "hard",
+        "tough",
+        "cool",
+        "cold",
+        "chilly",
+        "frosty"
+      ]
+    }
+  ],
+  "pronounciation": "/fərˈbidiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forbidding_us_1.mp3"
+}

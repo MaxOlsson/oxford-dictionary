@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Wanting to avoid activity or exertion; lazy.",
+      "examples": [
+        "they were indolent and addicted to a life of pleasure"
+      ],
+      "synonyms": [
+        "lazy",
+        "idle",
+        "slothful",
+        "loafing",
+        "work-shy",
+        "shiftless",
+        "apathetic",
+        "lackadaisical",
+        "inactive",
+        "inert",
+        "lifeless",
+        "sluggish",
+        "lethargic",
+        "listless",
+        "languid",
+        "torpid",
+        "slow",
+        "slow-moving",
+        "dull",
+        "plodding"
+      ]
+    },
+    {
+      "description": "(of a disease or condition) causing little or no pain.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from late Latin indolent-, from in- not + dolere suffer or give pain. The sense idle arose in the early 18th century.",
+  "pronounciation": "/ˈindələnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indolent_us_1.mp3"
+}

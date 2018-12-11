@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "Uncertainty or anxiety about oneself; lack of confidence.",
+      "examples": [
+        "she had a deep sense of insecurity",
+        "he's plagued with insecurities"
+      ],
+      "synonyms": [
+        "lack of confidence",
+        "lack of self-confidence",
+        "self-doubt",
+        "diffidence",
+        "unassertiveness",
+        "humility",
+        "humbleness",
+        "meekness",
+        "timidity",
+        "timidness",
+        "timorousness",
+        "uncertainty",
+        "nervousness",
+        "hesitancy",
+        "inhibition",
+        "self-consciousness"
+      ]
+    },
+    {
+      "description": "The state of being open to danger or threat; lack of protection.",
+      "examples": [
+        "growing job insecurity",
+        "the insecurity of wireless networks"
+      ],
+      "synonyms": [
+        "unstable",
+        "unsecured",
+        "loose",
+        "rickety",
+        "rocky",
+        "wobbly",
+        "shaky",
+        "unsteady",
+        "precarious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌinsəˈkyo͝orədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insecurity_us_1.mp3"
+}

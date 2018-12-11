@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Splash with a sticky or viscous liquid.",
+      "examples": [
+        "a passing cart rolled by, splattering him with mud"
+      ],
+      "synonyms": [
+        "splash",
+        "bespatter",
+        "spray",
+        "sprinkle",
+        "spritz",
+        "shower",
+        "speck",
+        "speckle",
+        "fleck",
+        "mottle",
+        "blotch",
+        "smear",
+        "stain",
+        "mark",
+        "dirty",
+        "soil",
+        "daub",
+        "cover"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spot or trail of a sticky or viscous liquid splashed over a surface or object.",
+      "examples": [
+        "each puddle we crossed threw a splatter of mud on the windshield"
+      ],
+      "synonyms": [
+        "mark",
+        "spot",
+        "spatter",
+        "splatter",
+        "blotch",
+        "blemish",
+        "smudge",
+        "smear"
+      ]
+    },
+    {
+      "description": "Denoting or referring to films featuring many violent and gruesome deaths.",
+      "examples": [
+        "a splatter movie"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: imitative.",
+  "pronounciation": "/ˈspladər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splatter_us_2.mp3"
+}

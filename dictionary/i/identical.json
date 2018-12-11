@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Similar in every detail; exactly alike.",
+      "examples": [
+        "four girls in identical green outfits",
+        "the passage on the second floor was identical to the one below"
+      ],
+      "synonyms": [
+        "similar",
+        "alike",
+        "the same",
+        "exactly the same",
+        "indistinguishable",
+        "uniform",
+        "twin",
+        "interchangeable",
+        "undifferentiated",
+        "homogeneous",
+        "of a piece",
+        "cut from the same cloth"
+      ]
+    },
+    {
+      "description": "Expressing an identity.",
+      "examples": [
+        "an identical proposition"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in identical (sense 2)): from medieval Latin identicus, from late Latin identitas (see identity).",
+  "pronounciation": "/ˌīˈden(t)ək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/identical_us_1.mp3"
+}

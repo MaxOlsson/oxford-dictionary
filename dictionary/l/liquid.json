@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A substance that flows freely but is of constant volume, having a consistency like that of water or oil.",
+      "examples": [
+        "drink plenty of liquids"
+      ],
+      "synonyms": [
+        "fluid"
+      ]
+    },
+    {
+      "description": "A consonant produced by allowing the airstream to flow over the sides of the tongue, and able to be prolonged like a vowel (typically l and r).",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having a consistency like that of water or oil, i.e., flowing freely but of constant volume.",
+      "examples": [],
+      "synonyms": [
+        "fluid",
+        "flowing",
+        "running"
+      ]
+    },
+    {
+      "description": "(of a sound) clear, pure, and flowing; harmonious.",
+      "examples": [
+        "the liquid song of the birds"
+      ],
+      "synonyms": [
+        "pure",
+        "clear",
+        "smooth",
+        "fluent",
+        "distinct",
+        "clarion"
+      ]
+    },
+    {
+      "description": "(of assets) held in cash or easily converted into cash.",
+      "examples": [],
+      "synonyms": [
+        "convertible",
+        "negotiable",
+        "disposable",
+        "usable",
+        "realizable",
+        "obtainable",
+        "spendable"
+      ]
+    },
+    {
+      "description": "(of a consonant, typically l and r) produced by allowing the airstream to flow over the sides of the tongue, and able to be prolonged like a vowel.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin liquidus, from liquere be liquid.",
+  "pronounciation": "/ˈlikwid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/liquid_us_1.mp3"
+}

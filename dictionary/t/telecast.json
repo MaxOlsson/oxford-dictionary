@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A television broadcast.",
+      "examples": [],
+      "synonyms": [
+        "broadcast",
+        "production",
+        "show",
+        "presentation",
+        "transmission",
+        "performance",
+        "simulcast",
+        "videocast",
+        "podcast"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transmit by television.",
+      "examples": [
+        "the program will be telecast simultaneously to nearly 150 cities"
+      ],
+      "synonyms": [
+        "transmit",
+        "convey",
+        "communicate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɛləˌkæst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/telecast_us_1.mp3"
+}

@@ -1,0 +1,198 @@
+{
+  "noun": [
+    {
+      "description": "A destructive wave of highly compressed air spreading outward from an explosion.",
+      "examples": [
+        "they were thrown backward by the blast"
+      ],
+      "synonyms": [
+        "shock wave",
+        "pressure wave",
+        "bang",
+        "crash",
+        "crack"
+      ]
+    },
+    {
+      "description": "A strong gust of wind or air.",
+      "examples": [
+        "the icy blast hit them"
+      ],
+      "synonyms": [
+        "gust",
+        "rush",
+        "blow",
+        "gale",
+        "squall",
+        "storm",
+        "wind",
+        "draught",
+        "waft",
+        "puff",
+        "flurry",
+        "breeze"
+      ]
+    },
+    {
+      "description": "A single loud note of a horn, whistle, or other noisemaking device.",
+      "examples": [
+        "a blast of the ship's siren"
+      ],
+      "synonyms": [
+        "blare",
+        "blaring",
+        "honk",
+        "bellow",
+        "boom",
+        "roar",
+        "screech",
+        "wail"
+      ]
+    },
+    {
+      "description": "A severe reprimand.",
+      "examples": [
+        "I braced myself for the inevitable blast"
+      ],
+      "synonyms": [
+        "reprimand",
+        "rebuke",
+        "reproof",
+        "admonishment",
+        "admonition",
+        "reproach",
+        "reproval",
+        "scolding",
+        "remonstration",
+        "upbraiding",
+        "castigation",
+        "lambasting",
+        "lecture",
+        "criticism",
+        "censure"
+      ]
+    },
+    {
+      "description": "An enjoyable experience or lively party.",
+      "examples": [
+        "it could turn out to be a real blast"
+      ],
+      "synonyms": [
+        "social gathering",
+        "gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée",
+        "social"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Blow up or break apart (something solid) with explosives.",
+      "examples": [
+        "quantities of solid rock had to be blasted away",
+        "the explosion blasted out hundreds of windows"
+      ],
+      "synonyms": [
+        "blow up",
+        "bomb",
+        "blow",
+        "blow to pieces",
+        "dynamite",
+        "explode"
+      ]
+    },
+    {
+      "description": "Make or cause to make a loud continuous musical or other noise.",
+      "examples": [
+        "music blasted out at full volume",
+        "an impatient motorist blasted his horn"
+      ],
+      "synonyms": [
+        "honk",
+        "sound loudly",
+        "trumpet",
+        "blare",
+        "boom",
+        "roar"
+      ]
+    },
+    {
+      "description": "Kick, strike, or throw (a ball) hard.",
+      "examples": [
+        "Ripken blasted the ball into the gap in right field"
+      ]
+    },
+    {
+      "description": "Criticize fiercely.",
+      "examples": [
+        "the school was blasted by government inspectors"
+      ],
+      "synonyms": [
+        "reprimand",
+        "rebuke",
+        "criticize",
+        "upbraid",
+        "berate",
+        "castigate",
+        "reprove",
+        "rail at",
+        "flay"
+      ]
+    },
+    {
+      "description": "(of a wind or other natural force) wither, shrivel, or blight (a plant)",
+      "examples": [
+        "crops blasted on the eve of harvest"
+      ],
+      "synonyms": [
+        "blight",
+        "kill",
+        "destroy",
+        "wither",
+        "shrivel"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing annoyance.",
+      "examples": [
+        "“Blast! The car won't start!”"
+      ],
+      "synonyms": [
+        "damn",
+        "damnation",
+        "blast",
+        "hell",
+        "heck",
+        "gordon bennett"
+      ]
+    }
+  ],
+  "phrases": [
+    "a request for a real old blast from the past",
+    "For those of us who were active in the antiwar movement, it's a blast from the past.",
+    "This morning, while listening to the radio on the way to work, I heard an absolutely great blast from the past!",
+    "Wow - what a blast from the past to see a list of my old co-workers.",
+    "I got an e-mail the other day from an old friend, one of those blasts from the past that take you back in time.",
+    "The rockets of the ship flared and they blasted off.",
+    "I wouldn't want to miss it when the rocket blasts off.",
+    "Above our heads an enormous spaceship blasts off into a star-filled sky.",
+    "Current polar satellite launch vehicles can blast off carrying 1,000 to 1,200-kilogram units.",
+    "His mind fills with images of sleek, silvery rockets, blasting off into space."
+  ],
+  "origin": "Old English blǣst, of Germanic origin; related to blaze.",
+  "pronounciation": "/blast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blast_us_1.mp3"
+}

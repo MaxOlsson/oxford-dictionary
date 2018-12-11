@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Done, produced, or occurring once a week.",
+      "examples": [
+        "there was a weekly dance on Wednesdays"
+      ],
+      "synonyms": [
+        "once a week",
+        "seven-day"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Once a week.",
+      "examples": [
+        "interviews were given weekly"
+      ],
+      "synonyms": [
+        "once a week",
+        "every week",
+        "each week",
+        "on a weekly basis"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A newspaper or periodical issued every week.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwēklē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weekly_us_1.mp3"
+}

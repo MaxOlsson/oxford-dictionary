@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Shine faintly with a wavering light.",
+      "examples": [
+        "the moonlight glimmered on the lawn"
+      ],
+      "synonyms": [
+        "gleam",
+        "shine",
+        "glint",
+        "flicker",
+        "shimmer",
+        "glisten",
+        "glow",
+        "twinkle",
+        "sparkle",
+        "glitter",
+        "catch the light",
+        "blink",
+        "wink",
+        "flash"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A faint or wavering light.",
+      "examples": [],
+      "synonyms": [
+        "gleam",
+        "glint",
+        "flicker",
+        "shimmer",
+        "glow",
+        "twinkle",
+        "sparkle",
+        "blink",
+        "flash",
+        "ray"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably of Scandinavian origin; related to Swedish glimra and Danish glimre.",
+  "pronounciation": "/ˈɡlimər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glimmer_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+      "examples": [
+        "my subconscious fear"
+      ],
+      "synonyms": [
+        "unconscious",
+        "latent",
+        "suppressed",
+        "repressed",
+        "subliminal",
+        "unfulfilled",
+        "dormant",
+        "hidden",
+        "concealed",
+        "underlying",
+        "innermost",
+        "deep",
+        "intuitive",
+        "instinctive",
+        "innate",
+        "involuntary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The subconscious part of the mind (not in technical use in psychoanalysis, where unconscious is preferred).",
+      "examples": [],
+      "synonyms": [
+        "unconscious mind",
+        "mind",
+        "imagination",
+        "inner self",
+        "innermost self",
+        "self",
+        "inner man",
+        "inner woman",
+        "psyche",
+        "ego",
+        "superego",
+        "id",
+        "true being",
+        "essential nature"
+      ]
+    }
+  ],
+  "pronounciation": "/səbˈkɑnʃəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subconscious_us_1.mp3"
+}

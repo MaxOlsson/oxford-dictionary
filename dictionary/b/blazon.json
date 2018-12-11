@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Display prominently or vividly.",
+      "examples": [
+        "they saw their company name blazoned all over the media"
+      ],
+      "synonyms": [
+        "display",
+        "exhibit",
+        "show",
+        "put on display",
+        "draw attention to",
+        "present",
+        "spread",
+        "emblazon",
+        "plaster",
+        "flaunt",
+        "parade",
+        "reveal"
+      ]
+    },
+    {
+      "description": "Describe or depict (armorial bearings) in a correct heraldic manner.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A correct description of armorial bearings.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (denoting a shield, later one bearing a heraldic device): from Old French blason shield, of unknown origin. The sense of the verb has been influenced by blaze.",
+  "pronounciation": "/ˈblāz(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blazon_us_1.mp3"
+}

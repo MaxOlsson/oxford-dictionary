@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Marked with striae.",
+      "examples": [
+        "the striate cortex"
+      ],
+      "synonyms": [
+        "ridged",
+        "fluted",
+        "channelled",
+        "furrowed",
+        "grooved",
+        "crimped",
+        "folded",
+        "crinkled",
+        "crinkly",
+        "puckered",
+        "creased",
+        "wrinkled",
+        "wrinkly",
+        "crumpled",
+        "rumpled"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with striae.",
+      "examples": [
+        "striated bark"
+      ],
+      "synonyms": [
+        "streak",
+        "stripe",
+        "band",
+        "line"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstrīˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/striate_us_1.mp3"
+}

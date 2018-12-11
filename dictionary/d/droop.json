@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Bend or hang downward limply.",
+      "examples": [
+        "a long black cloak drooped from his shoulders"
+      ],
+      "synonyms": [
+        "hang down",
+        "hang",
+        "dangle",
+        "bend",
+        "bow",
+        "stoop",
+        "sag",
+        "sink",
+        "slump",
+        "fall down",
+        "drop",
+        "flop",
+        "wilt",
+        "become limp",
+        "become flaccid",
+        "drape"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of drooping; a limp or weary attitude.",
+      "examples": [
+        "the exhausted droop of her shoulders"
+      ],
+      "synonyms": [
+        "drooping",
+        "sag",
+        "sagging",
+        "sinking",
+        "slump",
+        "slumping"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse drúpa hang the head; related to drip and drop.",
+  "pronounciation": "/drup/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/droop_us_1.mp3"
+}

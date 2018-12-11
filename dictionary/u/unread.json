@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a book or document) not read.",
+      "examples": [],
+      "synonyms": [
+        "uneducated",
+        "unknowledgeable",
+        "untaught",
+        "unschooled",
+        "untutored",
+        "untrained",
+        "illiterate",
+        "unlettered",
+        "unlearned",
+        "uninformed",
+        "unenlightened",
+        "unscholarly",
+        "unqualified",
+        "benighted",
+        "backward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈrɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unread_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The reversion of property to the state, or (in feudal law) to a lord, on the owner's dying without legal heirs.",
+      "examples": [
+        "the Crown's right of escheat was lost",
+        "they totally abolished escheats"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of land) revert to a lord or the state by escheat.",
+      "examples": [
+        "a private chase which had escheated to the King"
+      ],
+      "synonyms": [
+        "be returned"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French eschete, based on Latin excidere fall away, from ex- out of, from + cadere to fall.",
+  "pronounciation": "/əsˈtʃit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/escheat_us_1.mp3"
+}

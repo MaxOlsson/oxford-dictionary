@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A substance, such as oil or grease, used for minimizing friction, especially in an engine or component.",
+      "examples": [],
+      "synonyms": [
+        "grease",
+        "oil",
+        "lubricator",
+        "lubrication",
+        "emollient",
+        "lotion",
+        "unguent"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lubricating.",
+      "examples": [
+        "a thin lubricant film"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Latin lubricant- making slippery, from the verb lubricare (see lubricate).",
+  "pronounciation": "/ˈlubrəkənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lubricant_us_1.mp3"
+}

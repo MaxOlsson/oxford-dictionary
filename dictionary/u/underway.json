@@ -1,0 +1,51 @@
+{
+  "adverb": [
+    {
+      "description": "Having started and in progress; being done or carried out.",
+      "examples": [
+        "the remodeling should be underway by July"
+      ],
+      "synonyms": [
+        "in progress",
+        "under way",
+        "going on",
+        "continuing",
+        "happening",
+        "occurring",
+        "taking place",
+        "proceeding",
+        "being done",
+        "being worked on",
+        "being performed",
+        "current",
+        "extant",
+        "existing",
+        "existent",
+        "progressing",
+        "advancing",
+        "evolving",
+        "growing",
+        "developing"
+      ]
+    },
+    {
+      "description": "(of a boat) moving through the water.",
+      "examples": [
+        "the ship was so huge and silent, I hadn't realized we had gotten underway"
+      ],
+      "synonyms": [
+        "moving",
+        "on the move",
+        "going",
+        "travelling",
+        "not at rest",
+        "running",
+        "functioning",
+        "operational"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (as a nautical term): from Dutch onderweg.",
+  "pronounciation": "/ˌəndərˈwā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underway_us_1.mp3"
+}

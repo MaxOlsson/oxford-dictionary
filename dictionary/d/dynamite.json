@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A high explosive consisting of nitroglycerine mixed with an absorbent material and typically molded into sticks.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Blow up (something) with dynamite.",
+      "examples": [],
+      "synonyms": [
+        "demolish",
+        "knock down",
+        "pull down",
+        "tear down",
+        "level",
+        "raze",
+        "raze to the ground",
+        "fell",
+        "dismantle",
+        "break up",
+        "wreck",
+        "ruin",
+        "smash",
+        "shatter",
+        "crash",
+        "blast",
+        "blow up",
+        "blow to bits",
+        "blow to pieces",
+        "explode",
+        "bomb",
+        "torpedo"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Greek dunamis power + -ite.",
+  "pronounciation": "/ˈdaɪnəˌmaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dynamite_us_1.mp3"
+}

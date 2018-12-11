@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "Acceptance of the truth or existence of something.",
+      "examples": [
+        "there was no acknowledgment of the family's trauma"
+      ],
+      "synonyms": [
+        "acceptance",
+        "admission",
+        "granting",
+        "allowing",
+        "concession",
+        "confession",
+        "appreciation",
+        "recognition",
+        "realization",
+        "awareness",
+        "cognizance",
+        "knowledge"
+      ]
+    },
+    {
+      "description": "The action of expressing or displaying gratitude or appreciation for something.",
+      "examples": [
+        "he received an award in acknowledgment of his work"
+      ],
+      "synonyms": [
+        "thanks",
+        "gratitude",
+        "appreciation",
+        "praise",
+        "commendation",
+        "credit",
+        "recognition",
+        "regard",
+        "respect"
+      ]
+    },
+    {
+      "description": "The action of showing that one has noticed someone or something.",
+      "examples": [
+        "he touched his hat in acknowledgment of the salute"
+      ],
+      "synonyms": [
+        "greeting",
+        "welcome",
+        "salutation",
+        "saluting",
+        "hailing",
+        "address",
+        "hello",
+        "hallo"
+      ]
+    },
+    {
+      "description": "A letter confirming receipt of something.",
+      "examples": [
+        "I received an acknowledgment of my application"
+      ],
+      "synonyms": [
+        "answer",
+        "reply",
+        "response",
+        "reaction"
+      ]
+    },
+    {
+      "description": "An author's or publisher's statement of indebtedness to others, typically one printed at the beginning of a book.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əkˈnɑlədʒmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acknowledgment_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A person who occupies land or property rented from a landlord.",
+      "examples": [
+        "council-house tenants",
+        "a frequent tenant of the gossip columns"
+      ],
+      "synonyms": [
+        "occupant",
+        "resident",
+        "inhabitant"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Occupy (property) as a tenant.",
+      "examples": [
+        "the house was tenanted by his cousin"
+      ],
+      "synonyms": [
+        "live in",
+        "inhabit",
+        "be the tenant of",
+        "tenant",
+        "lodge in",
+        "be ensconced in",
+        "be established in",
+        "ensconce oneself in",
+        "establish oneself in",
+        "take up residence in",
+        "make one's home in",
+        "settle in",
+        "move into"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, literally holding, present participle of tenir, from Latin tenere.",
+  "pronounciation": "/ˈtɛnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tenant_us_1.mp3"
+}

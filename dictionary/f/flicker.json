@@ -1,0 +1,67 @@
+{
+  "verb": [
+    {
+      "description": "(of light or a source of light) shine unsteadily; vary rapidly in brightness.",
+      "examples": [
+        "the interior lights flickered, and came on"
+      ],
+      "synonyms": [
+        "glimmer",
+        "glint",
+        "gleam",
+        "flare",
+        "shine",
+        "dance",
+        "gutter"
+      ]
+    },
+    {
+      "description": "Make small, quick movements; flutter rapidly.",
+      "examples": [
+        "her eyelids flickered",
+        "the injured killer's eyes flickered open"
+      ],
+      "synonyms": [
+        "flutter",
+        "quiver",
+        "vibrate",
+        "tremble",
+        "wobble",
+        "shiver",
+        "shudder",
+        "spasm",
+        "jerk",
+        "twitch",
+        "bat",
+        "flap",
+        "wink",
+        "blink",
+        "open and shut"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unsteady movement of a flame or light that causes rapid variations in brightness.",
+      "examples": [
+        "the flicker of a candle flame caught our eyes"
+      ]
+    },
+    {
+      "description": "A tiny movement.",
+      "examples": [
+        "then a flicker of movement caught his eye"
+      ]
+    }
+  ],
+  "phrases": [
+    "I didn't have much more time to dwell on Claire's incompetence as a best friend, as they suddenly broke apart and the lights flickered out again.",
+    "The lights flickered out, sending the room into pitch darkness.",
+    "The flame from the arrow flickered out and everything went black again.",
+    "Sighing I was just about to give in to my sleep deprived brain and allow it some rest when the dome light flickered out.",
+    "But as soon as Hador had given his command, the lights flickered out and the room seemed to grow in the darkness that soon engulfed her."
+  ],
+  "origin": "Early 19th century: imitative of its call.",
+  "pronounciation": "/ˈflikər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flicker_us_1.mp3"
+}

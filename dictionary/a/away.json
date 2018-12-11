@@ -1,0 +1,71 @@
+{
+  "adverb": [
+    {
+      "description": "To or at a distance from a particular place, person, or thing.",
+      "examples": [
+        "she landed badly, and crawled away",
+        "they walked away from the church in silence",
+        "we'll be away for four nights",
+        "Bernice pushed him away",
+        "there's a river not far away"
+      ],
+      "synonyms": [
+        "aside",
+        "off",
+        "to one side"
+      ]
+    },
+    {
+      "description": "Into an appropriate place for storage or safekeeping.",
+      "examples": [
+        "he put away the lawn furniture",
+        "Philip locked away all the cash every night"
+      ],
+      "synonyms": [
+        "at a distance",
+        "apart",
+        "isolated"
+      ]
+    },
+    {
+      "description": "Into nonexistence.",
+      "examples": [
+        "Marie felt her distress ebbing away",
+        "the sound of hoofbeats died away"
+      ],
+      "synonyms": [
+        "elsewhere",
+        "abroad",
+        "not at home",
+        "not here",
+        "gone",
+        "absent"
+      ]
+    },
+    {
+      "description": "Constantly, persistently, or continuously.",
+      "examples": [
+        "there was little Edgar crooning away",
+        "have your camera ready and click away when you spot something"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a sports game) played at the opponents' field or court.",
+      "examples": [
+        "tomorrow night's away game at Yankee Stadium",
+        "an away victory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A game played or won by a team at their opponents' field or court.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English onweg, aweg on one's way (see a-, way).",
+  "pronounciation": "/əˈweɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/away_us_1.mp3"
+}

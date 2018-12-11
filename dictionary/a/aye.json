@@ -1,0 +1,52 @@
+{
+  "exclamation": [
+    {
+      "description": "Said to express assent; yes.",
+      "examples": [
+        "aye, you're right about that"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An affirmative answer or assent, especially in voting.",
+      "examples": [
+        "the House was divided: Ayes 211, Noes 271"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Always or still.",
+      "examples": [],
+      "synonyms": [
+        "all right",
+        "alright",
+        "very well",
+        "of course",
+        "by all means",
+        "sure",
+        "certainly",
+        "absolutely",
+        "indeed",
+        "affirmative",
+        "in the affirmative",
+        "agreed",
+        "roger"
+      ]
+    }
+  ],
+  "phrases": [
+    "I started in the No camp but putting myself on both sides of the fence, I now think that the ayes have it.",
+    "The two stragglers struck up a conversation and, bingo, the ayes having it in the two person conclave, a torrid, though short-lived affair was launched.",
+    "The Speaker acknowledged that she was right in what she said but the Motion had been put to the vote and the ayes had had it.",
+    "There do not appear to be any contributions to be made to that debate, he said and went through the ayes have it speech again.",
+    "I shall treasure the memory for aye",
+    "If we can do that, the banner of one nation can be unfurled by the warm breath of our various gods, sent to caress our souls - and to God be the glory for aye and for aye.",
+    "The corresponding English proverb states: He that would live for aye, Must eat sage in May.",
+    "He who has once been happy is for aye out of destruction's reach."
+  ],
+  "origin": "Middle English: from Old Norse ei, ey; related to Latin aevum age and Greek aie(i) ever, aiōn eon.",
+  "pronounciation": "/eɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aye_us_2.mp3"
+}

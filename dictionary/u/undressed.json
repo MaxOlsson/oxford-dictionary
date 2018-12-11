@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Wearing no clothes.",
+      "examples": [
+        "he was undressed and ready for bed"
+      ],
+      "synonyms": [
+        "naked",
+        "nude",
+        "stark naked",
+        "bare",
+        "unclothed",
+        "unclad",
+        "stripped",
+        "denuded",
+        "disrobed",
+        "undraped",
+        "with nothing on",
+        "exposed"
+      ]
+    },
+    {
+      "description": "Not treated, processed, or prepared for use.",
+      "examples": [
+        "undressed deerskin",
+        "a rough, undressed stone slab"
+      ],
+      "synonyms": [
+        "untreated",
+        "unprocessed",
+        "unprepared",
+        "unfinished",
+        "raw",
+        "rough",
+        "natural"
+      ]
+    },
+    {
+      "description": "(of food) not having a dressing.",
+      "examples": [
+        "an undressed salad"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈdrɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undressed_us_1.mp3"
+}

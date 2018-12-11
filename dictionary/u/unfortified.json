@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not fortified against attack.",
+      "examples": [
+        "there seems to have been an unfortified village on the site"
+      ],
+      "synonyms": [
+        "in danger",
+        "in peril",
+        "in jeopardy",
+        "at risk",
+        "endangered",
+        "unsafe",
+        "unprotected",
+        "ill-protected",
+        "unguarded"
+      ]
+    },
+    {
+      "description": "(of food) without added nutritional supplements.",
+      "examples": [
+        "check with your doctor if you are giving your baby an unfortified formula"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfɔrdəˌfaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfortified_us_1.mp3"
+}

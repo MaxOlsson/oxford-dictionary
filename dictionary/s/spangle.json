@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A small thin piece of glittering material, typically used in quantity to ornament a dress; a sequin.",
+      "examples": [],
+      "synonyms": [
+        "ornament",
+        "trinket",
+        "bauble",
+        "knick-knack",
+        "gimcrack",
+        "doodah",
+        "gewgaw",
+        "folderol",
+        "fandangle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with spangles or other small sparkling objects.",
+      "examples": [
+        "a spangled Christmas doll"
+      ],
+      "synonyms": [
+        "shine",
+        "sparkle",
+        "twinkle",
+        "glint",
+        "gleam",
+        "shimmer",
+        "glimmer",
+        "flicker",
+        "blink",
+        "wink",
+        "catch the light",
+        "flash"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: diminutive from obsolete spang glittering ornament, from Middle Dutch spange buckle.",
+  "pronounciation": "/ˈspæŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spangle_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not enclosed by walls or fences.",
+      "examples": [
+        "the main staircase is unenclosed at the lobby level"
+      ],
+      "synonyms": [
+        "rolling",
+        "sweeping",
+        "extensive",
+        "wide",
+        "wide open",
+        "broad",
+        "unfenced",
+        "exposed",
+        "unsheltered"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənenˈklōzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unenclosed_us_1.mp3"
+}

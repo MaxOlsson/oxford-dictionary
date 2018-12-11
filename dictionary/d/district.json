@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An area of a country or city, especially one regarded as a distinct unit because of a particular characteristic.",
+      "examples": [
+        "an elegant shopping district"
+      ],
+      "synonyms": [
+        "neighbourhood",
+        "area",
+        "region",
+        "place",
+        "locality",
+        "locale",
+        "community",
+        "quarter",
+        "sector",
+        "vicinity",
+        "zone",
+        "territory",
+        "block",
+        "part",
+        "spot",
+        "patch",
+        "domain"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide into districts.",
+      "examples": [
+        "the committee districted the city into blocks"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (denoting the territory under the jurisdiction of a feudal lord): from French, from medieval Latin districtus (territory of) jurisdiction, from Latin distringere draw apart.",
+  "pronounciation": "/ˈdistrikt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/district_us_1.mp3"
+}

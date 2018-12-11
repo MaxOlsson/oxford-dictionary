@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A chemical substance that neutralizes alkalis, dissolves some metals, and turns litmus red; typically, a corrosive or sour-tasting liquid of this kind.",
+      "examples": [
+        "traces of acid",
+        "rainwater is a very weak acid"
+      ]
+    },
+    {
+      "description": "A molecule or other entity that can donate a proton or accept an electron pair in reactions.",
+      "examples": []
+    },
+    {
+      "description": "The drug LSD.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Containing acid or having the properties of an acid; having a pH of less than 7.",
+      "examples": [
+        "poor, acid soils"
+      ],
+      "synonyms": [
+        "caustic",
+        "corroding",
+        "eroding",
+        "erosive",
+        "abrasive",
+        "biting",
+        "mordant",
+        "burning",
+        "stinging"
+      ]
+    },
+    {
+      "description": "Sharp-tasting or sour.",
+      "examples": [
+        "acid fruit"
+      ],
+      "synonyms": [
+        "acidic",
+        "sour",
+        "tart",
+        "bitter",
+        "unsweetened",
+        "sharp",
+        "biting",
+        "acrid",
+        "pungent",
+        "acerbic",
+        "vinegary",
+        "vinegarish",
+        "acetic",
+        "acetous"
+      ]
+    },
+    {
+      "description": "(of rock, especially lava) containing a relatively high proportion of silica.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (in the sense sour-tasting): from Latin acidus, from acere be sour.",
+  "pronounciation": "/ˈæsəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acid_us_1.mp3"
+}

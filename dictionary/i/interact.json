@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Act in such a way as to have an effect on another; act reciprocally.",
+      "examples": [
+        "all the stages in the process interact",
+        "the user interacts directly with the library"
+      ],
+      "synonyms": [
+        "affect",
+        "influence",
+        "exert influence on",
+        "act on",
+        "work on",
+        "condition",
+        "touch",
+        "have an impact on",
+        "impact on",
+        "take hold of",
+        "attack",
+        "infect",
+        "strike",
+        "strike at",
+        "hit"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌin(t)ərˈakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interact_us_1.mp3"
+}

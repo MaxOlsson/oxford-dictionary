@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being intense.",
+      "examples": [
+        "the pain grew in intensity",
+        "gazing into her face with disconcerting intensity",
+        "there's an intensity in his eyes that's downright scary"
+      ],
+      "synonyms": [
+        "strength",
+        "power",
+        "powerfulness",
+        "potency",
+        "vigour",
+        "force",
+        "forcefulness"
+      ]
+    },
+    {
+      "description": "The measurable amount of a property, such as force, brightness, or a magnetic field.",
+      "examples": [
+        "hydrothermal processes of low intensity",
+        "different light intensities"
+      ],
+      "synonyms": [
+        "strength",
+        "power",
+        "powerfulness",
+        "potency",
+        "vigour",
+        "force",
+        "forcefulness"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪnˈtɛnsədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intensity_us_1.mp3"
+}

@@ -1,0 +1,174 @@
+{
+  "verb": [
+    {
+      "description": "Move in a circular direction wholly or partly around an axis or point.",
+      "examples": [
+        "the big wheel was turning",
+        "I turned the key in the door and crept in"
+      ],
+      "synonyms": [
+        "go round",
+        "revolve",
+        "rotate",
+        "spin",
+        "go round and round",
+        "go round in circles",
+        "roll",
+        "circle",
+        "wheel",
+        "whirl",
+        "twirl",
+        "gyrate",
+        "swivel",
+        "spiral",
+        "pivot"
+      ]
+    },
+    {
+      "description": "Move (something) so that it is in a different position in relation to its surroundings or its previous position.",
+      "examples": [
+        "we waited in suspense for him to turn the cards over"
+      ]
+    },
+    {
+      "description": "Change in nature, state, form, or color; become.",
+      "examples": [
+        "Emmeline turned pale"
+      ],
+      "synonyms": [
+        "become",
+        "develop into",
+        "prove to be",
+        "turn out to be"
+      ]
+    },
+    {
+      "description": "Start doing or becoming involved with.",
+      "examples": [
+        "in 1939 he turned to films in earnest"
+      ],
+      "synonyms": [
+        "take up",
+        "become involved with",
+        "get involved with",
+        "involve oneself in",
+        "begin to participate in",
+        "go in for",
+        "enter",
+        "become interested in",
+        "start doing",
+        "undertake"
+      ]
+    },
+    {
+      "description": "Shape (something) on a lathe.",
+      "examples": [
+        "the faceplate is turned rather than cast"
+      ],
+      "synonyms": [
+        "fashion",
+        "make",
+        "shape",
+        "mould",
+        "cast",
+        "form"
+      ]
+    },
+    {
+      "description": "Make (a profit).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of moving something in a circular direction around an axis or point.",
+      "examples": [
+        "a safety lock requiring four turns of the key"
+      ],
+      "synonyms": [
+        "rotation",
+        "revolution",
+        "spin",
+        "circle",
+        "whirl",
+        "twirl",
+        "gyration",
+        "swivel"
+      ]
+    },
+    {
+      "description": "A change of direction when moving.",
+      "examples": [
+        "they made a left turn and picked up speed"
+      ],
+      "synonyms": [
+        "change of direction",
+        "change of course",
+        "turning",
+        "veer",
+        "divergence"
+      ]
+    },
+    {
+      "description": "An opportunity or obligation to do something that comes successively to each of a number of people.",
+      "examples": [
+        "it was his turn to speak"
+      ],
+      "synonyms": [
+        "opportunity",
+        "chance",
+        "say"
+      ]
+    },
+    {
+      "description": "A short walk or ride.",
+      "examples": [
+        "why don't you take a turn around the garden?"
+      ],
+      "synonyms": [
+        "stroll",
+        "walk",
+        "saunter",
+        "amble",
+        "wander",
+        "airing",
+        "promenade"
+      ]
+    },
+    {
+      "description": "A shock.",
+      "examples": [
+        "you gave us quite a turn!"
+      ],
+      "synonyms": [
+        "shock",
+        "start",
+        "surprise",
+        "jolt"
+      ]
+    },
+    {
+      "description": "The difference between the buying and selling price of stocks or other financial products.",
+      "examples": []
+    },
+    {
+      "description": "A melodic ornament consisting of the principal note with those above and below it.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "her name seemed to come up at every turn",
+    "You start in the catacombs but beware ghostly ghouls at every turn!",
+    "It was a mantra repeated at every turn.",
+    "Leading a university is no mean job, especially when numerous hurdles await you at every turn.",
+    "Kimberly and I remain at Junior Consultant level, banging our heads against the glass ceiling at every turn.",
+    "public opinion turned against him",
+    "Their idealism turns them against, not towards, the party.",
+    "Serena rejects the offer and Lil accuses David of turning Serena against her.",
+    "He had robbed Carol and now he was turning Francis against her.",
+    "Olympias even managed to turn Alexander against his father."
+  ],
+  "origin": "Old English tyrnan, turnian (verb), from Latin tornare, from tornus lathe, from Greek tornos lathe, circular movement; probably reinforced in Middle English by Old French turner. The noun ( Middle English) is partly from Anglo-Norman French tourn, partly from the verb.",
+  "pronounciation": "/tərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/turn_us_1.mp3"
+}

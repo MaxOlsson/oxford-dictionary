@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A tiny spot.",
+      "examples": [
+        "the figure in the distance had become a mere speck"
+      ],
+      "synonyms": [
+        "dot",
+        "pinprick",
+        "spot",
+        "fleck",
+        "speckle",
+        "stain",
+        "mark",
+        "smudge",
+        "blemish"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with small spots.",
+      "examples": [
+        "their skin was specked with goose pimples"
+      ]
+    }
+  ],
+  "origin": "Via Italian from Dutch spek, German Speck fat bacon, whale blubber (in which sense it was formerly used in English): related to Old English spec.",
+  "pronounciation": "/spek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/speck_us_1.mp3"
+}

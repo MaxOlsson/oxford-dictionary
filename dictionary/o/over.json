@@ -1,0 +1,142 @@
+{
+  "preposition": [
+    {
+      "description": "Extending directly upward from.",
+      "examples": [
+        "I saw flames over Berlin"
+      ],
+      "synonyms": [
+        "above",
+        "on top of",
+        "higher than",
+        "higher up than",
+        "atop"
+      ]
+    },
+    {
+      "description": "At a higher level or layer than.",
+      "examples": [
+        "watching a television hanging over the bar"
+      ],
+      "synonyms": [
+        "above",
+        "on top of",
+        "higher than",
+        "higher up than",
+        "atop"
+      ]
+    },
+    {
+      "description": "Higher than or more than (a specified number or quantity)",
+      "examples": [
+        "over 40 degrees C",
+        "they have lived together for over a year"
+      ],
+      "synonyms": [
+        "more than",
+        "above",
+        "in excess of",
+        "exceeding",
+        "upwards of",
+        "beyond",
+        "greater than"
+      ]
+    },
+    {
+      "description": "Expressing passage or trajectory across.",
+      "examples": [
+        "she trudged over the lawn"
+      ],
+      "synonyms": [
+        "across",
+        "on to",
+        "around",
+        "throughout",
+        "all through",
+        "throughout the extent of",
+        "everywhere in",
+        "in all parts of"
+      ]
+    },
+    {
+      "description": "Expressing duration.",
+      "examples": [
+        "she told me over coffee",
+        "inventories have been refined over many years"
+      ]
+    },
+    {
+      "description": "By means of; by the medium of.",
+      "examples": [
+        "a voice came over the loudspeaker"
+      ]
+    },
+    {
+      "description": "On the subject of.",
+      "examples": [
+        "a heated debate over unemployment"
+      ],
+      "synonyms": [
+        "on the subject of",
+        "about",
+        "concerning",
+        "apropos of",
+        "with reference to",
+        "speaking of",
+        "with regard to",
+        "with respect to",
+        "regarding",
+        "as regards",
+        "relating to",
+        "respecting",
+        "in connection with",
+        "as for",
+        "re"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Expressing passage or trajectory across an area.",
+      "examples": [
+        "he leaned over and tapped me on the hand"
+      ]
+    },
+    {
+      "description": "Beyond and falling or hanging from a point.",
+      "examples": [
+        "listing over at an acute angle"
+      ]
+    },
+    {
+      "description": "Used to express action and result.",
+      "examples": [
+        "the car flipped over",
+        "hand the money over"
+      ]
+    },
+    {
+      "description": "Used to express repetition of a process.",
+      "examples": [
+        "twice over",
+        "the sums will have to be done over again"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sequence of six balls bowled by a bowler from one end of the pitch.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "we were over the worst",
+    "We seem to be over the stomach problems now.",
+    "Wendy has been advised to stay on HRT for only five years, when she should be over her symptoms.",
+    "If I can keep it up right through the weekend I reckon I'll be over the worst of it.",
+    "Please just strike me down here and now because I am just destined to never be over any of this."
+  ],
+  "origin": "Old English ofer, of Germanic origin; related to Dutch over and German über, from an Indo-European word (originally a comparative of the element represented by -ove in above) which is also the base of Latin super and Greek huper.",
+  "pronounciation": "/ˈōvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/over_1_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Not having or showing the necessary skills to do something successfully.",
+      "examples": [
+        "a forgetful and utterly incompetent assistant"
+      ],
+      "synonyms": [
+        "inept",
+        "unskilful",
+        "unskilled",
+        "inexpert",
+        "amateurish",
+        "unprofessional",
+        "lacking ability",
+        "bungling",
+        "blundering",
+        "clumsy",
+        "unproficient",
+        "inadequate",
+        "substandard",
+        "inferior",
+        "ineffective",
+        "deficient",
+        "inefficient",
+        "ineffectual",
+        "no good",
+        "not good enough",
+        "wanting",
+        "lacking",
+        "leaving much to be desired"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An incompetent person.",
+      "examples": [],
+      "synonyms": [
+        "bungler",
+        "blunderer",
+        "incompetent",
+        "oaf",
+        "dunce",
+        "dolt",
+        "dunderhead",
+        "fool",
+        "idiot",
+        "booby",
+        "stupid person",
+        "moron",
+        "cretin",
+        "imbecile"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense not legally competent): from French, or from late Latin incompetent-, from in- not + Latin competent- being fit or proper (see competent).",
+  "pronounciation": "/ɪnˈkɑmpədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incompetent_us_2.mp3"
+}

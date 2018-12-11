@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the nucleus of an atom.",
+      "examples": [],
+      "synonyms": [
+        "central",
+        "innermost",
+        "mid",
+        "middle",
+        "interior"
+      ]
+    },
+    {
+      "description": "Relating to the nucleus of a cell.",
+      "examples": [
+        "nuclear DNA"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from nucleus + -ar.",
+  "pronounciation": "/ˈn(j)ukliər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nuclear_us_1.mp3"
+}

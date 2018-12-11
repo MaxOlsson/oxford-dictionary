@@ -1,0 +1,92 @@
+{
+  "noun": [
+    {
+      "description": "A formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+      "examples": [
+        "the newspaper accounts of the trial",
+        "the editor was summoned to stand trial for libel"
+      ],
+      "synonyms": [
+        "court case",
+        "case",
+        "lawsuit",
+        "suit",
+        "hearing",
+        "enquiry",
+        "tribunal",
+        "litigation",
+        "judicial proceedings",
+        "legal proceedings",
+        "proceedings",
+        "legal action"
+      ]
+    },
+    {
+      "description": "A test of the performance, qualities, or suitability of someone or something.",
+      "examples": [
+        "clinical trials must establish whether the new hip replacements are working"
+      ],
+      "synonyms": [
+        "test",
+        "try-out",
+        "experiment",
+        "pilot study"
+      ]
+    },
+    {
+      "description": "A person, thing, or situation that tests a person's endurance or forbearance.",
+      "examples": [
+        "the trials and tribulations of married life"
+      ],
+      "synonyms": [
+        "nuisance",
+        "pest",
+        "bother",
+        "irritant",
+        "source of annoyance",
+        "source of irritation",
+        "worry",
+        "problem",
+        "inconvenience",
+        "vexation",
+        "plague",
+        "source of aggravation",
+        "thorn in one's flesh",
+        "the bane of one's life",
+        "one's cross to bear"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Test (something, especially a new product) to assess its suitability or performance.",
+      "examples": [
+        "all seeds are carefully trialed in a variety of growing conditions"
+      ],
+      "synonyms": [
+        "test",
+        "try out",
+        "carry out trials on",
+        "put to the test",
+        "put through its paces",
+        "experiment with"
+      ]
+    },
+    {
+      "description": "(of a horse, dog, or other animal) compete in trials.",
+      "examples": [
+        "the pup trialed on Saturday"
+      ]
+    }
+  ],
+  "phrases": [
+    "The set-up of the court is different from that for adults so the youth on trial feels more a part of the process.",
+    "At most, he may wind up on trial in a real court rather than merely in the press.",
+    "The court acquitted six of the defendants, while the soldiers on trial were all cashiered.",
+    "Though the press spinners are not on trial in Court 73, there are plenty who think they should be.",
+    "The six celebrity housemates have been on trial in the court of public popularity all week."
+  ],
+  "origin": "Late Middle English (as a noun): from Anglo-Norman French, or from medieval Latin triallum. The verb dates from the 1980s.",
+  "pronounciation": "/ˈtraɪ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trial_us_1.mp3"
+}

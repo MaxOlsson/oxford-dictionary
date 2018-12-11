@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing.",
+      "examples": [
+        "those unable to meet their taxes were liable to forfeit their property"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fine or penalty for wrongdoing or for a breach of the rules in a club or game.",
+      "examples": [],
+      "synonyms": [
+        "penalty",
+        "financial penalty",
+        "fine",
+        "fee",
+        "charge",
+        "sanction",
+        "punitive action",
+        "penance"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lost or surrendered as a penalty for wrongdoing or neglect.",
+      "examples": [
+        "the lands which he had acquired were automatically forfeit"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally denoting a crime or transgression, hence a fine): from Old French forfet, forfait, past participle of forfaire transgress, from for- out (from Latin foris outside) + faire do (from Latin facere).",
+  "pronounciation": "/ˈfɔrfət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forfeit_us_1.mp3"
+}

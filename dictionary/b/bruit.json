@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Spread (a report or rumor) widely.",
+      "examples": [
+        "I didn't want to have our relationship bruited about the office"
+      ],
+      "synonyms": [
+        "spreading",
+        "scattering",
+        "dispersal",
+        "dispersing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A report or rumor.",
+      "examples": [],
+      "synonyms": [
+        "rumour",
+        "story",
+        "report",
+        "speculation",
+        "insinuation",
+        "suggestion",
+        "hint"
+      ]
+    },
+    {
+      "description": "A sound, especially an abnormal one, heard through a stethoscope; a murmur.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Old French bruit noise, from bruire to roar.",
+  "pronounciation": "/bro͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bruit_us_1.mp3"
+}

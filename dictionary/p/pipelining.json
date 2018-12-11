@@ -1,0 +1,14 @@
+{
+  "noun": [
+    {
+      "description": "The laying of pipelines.",
+      "examples": []
+    },
+    {
+      "description": "A form of computer organization in which successive steps of an instruction sequence are executed in turn by a sequence of modules able to operate concurrently, so that another instruction can be begun before the previous one is finished.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈpīpˌlīniNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pipelining_us_1.mp3"
+}

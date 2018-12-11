@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Embedded or positioned firmly or deeply.",
+      "examples": [
+        "his deep-set black eyes are powerful, still, and unrelenting",
+        "the bees found only a few deep-set plants"
+      ],
+      "synonyms": [
+        "ingrained",
+        "established",
+        "well established",
+        "long-established"
+      ]
+    },
+    {
+      "description": "Long-established, ingrained, or profound.",
+      "examples": [
+        "a deep-set enmity"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdēpˈset/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deep_set_1_us_1.mp3"
+}

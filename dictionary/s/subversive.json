@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Seeking or intended to subvert an established system or institution.",
+      "examples": [
+        "subversive literature"
+      ],
+      "synonyms": [
+        "disruptive",
+        "troublemaking",
+        "inflammatory",
+        "insurgent",
+        "insurrectionary",
+        "insurrectionist",
+        "agitational",
+        "rabble-rousing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A subversive person.",
+      "examples": [],
+      "synonyms": [
+        "troublemaker",
+        "dissident",
+        "agitator",
+        "revolutionary",
+        "revolutionist",
+        "insurgent",
+        "insurrectionist",
+        "insurrectionary",
+        "renegade",
+        "rebel",
+        "mutineer",
+        "traitor"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin subversivus, from the verb subvertere (see subvert).",
+  "pronounciation": "/səbˈvərsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subversive_us_1.mp3"
+}

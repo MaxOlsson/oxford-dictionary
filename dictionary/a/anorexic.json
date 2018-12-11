@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to, characterized by, or suffering from anorexia.",
+      "examples": [],
+      "synonyms": [
+        "pale",
+        "deathly pale",
+        "pallid",
+        "white",
+        "bloodless",
+        "ashen",
+        "ashen-faced",
+        "ashy",
+        "chalky",
+        "chalk-white",
+        "grey",
+        "white-faced",
+        "whey-faced",
+        "waxen",
+        "waxy",
+        "corpse-like",
+        "deathlike",
+        "ghostly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person suffering from anorexia.",
+      "examples": []
+    },
+    {
+      "description": "A medicine which produces a loss of appetite.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌænəˈrɛksɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anorexic_us_1.mp3"
+}

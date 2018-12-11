@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A journal or newspaper.",
+      "examples": [
+        "the Montreal Gazette"
+      ],
+      "synonyms": [
+        "newspaper",
+        "paper",
+        "tabloid",
+        "broadsheet",
+        "journal",
+        "periodical",
+        "weekly",
+        "organ",
+        "news-sheet",
+        "newsletter",
+        "bulletin"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Announce or publish in an official gazette.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: via French from Italian gazzetta, originally Venetian gazeta de la novità a halfpennyworth of news (because the news-sheet sold for a gazeta, a Venetian coin of small value).",
+  "pronounciation": "/ɡəˈzet/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gazette_us_1.mp3"
+}

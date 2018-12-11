@@ -1,0 +1,48 @@
+{
+  "adverb": [
+    {
+      "description": "Without difficulty or effort.",
+      "examples": [
+        "he climbed the mountain easily",
+        "the area is easily accessible by road"
+      ],
+      "synonyms": [
+        "effortlessly",
+        "comfortably",
+        "simply",
+        "straightforwardly"
+      ]
+    },
+    {
+      "description": "Without doubt; by far.",
+      "examples": [
+        "English is easily the reigning language in the financial world"
+      ],
+      "synonyms": [
+        "undoubtedly",
+        "doubtlessly",
+        "without doubt",
+        "without question",
+        "indubitably",
+        "indisputably",
+        "undeniably",
+        "definitely",
+        "certainly",
+        "assuredly",
+        "positively",
+        "absolutely",
+        "clearly",
+        "obviously",
+        "patently",
+        "simply",
+        "surely",
+        "by far",
+        "far and away",
+        "by a mile",
+        "beyond the shadow of a doubt"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈēz(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/easily_us_1.mp3"
+}

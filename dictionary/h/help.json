@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Make it easier for (someone) to do something by offering one's services or resources.",
+      "examples": [
+        "she helped him find a buyer",
+        "the teenager helped out in the corner store",
+        "Roger's companion helped him with the rent"
+      ],
+      "synonyms": [
+        "assist",
+        "aid",
+        "help out",
+        "lend a hand to",
+        "lend a helping hand to",
+        "give assistance to",
+        "come to the aid of",
+        "succour",
+        "aid and abet"
+      ]
+    },
+    {
+      "description": "Serve someone with (food or drink)",
+      "examples": [
+        "she helped herself to a cookie"
+      ]
+    },
+    {
+      "description": "Cannot or could not avoid.",
+      "examples": [
+        "he could not help laughing",
+        "you can't help but agree"
+      ],
+      "synonyms": [
+        "be unable to stop",
+        "be unable to prevent oneself from",
+        "be unable to refrain from",
+        "be unable to keep from",
+        "be unable to forbear from",
+        "be unable to break the habit of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of helping someone to do something; assistance.",
+      "examples": [
+        "I asked for help from my neighbors",
+        "thank you for your help"
+      ],
+      "synonyms": [
+        "assistance",
+        "aid",
+        "a helping hand",
+        "support",
+        "succour",
+        "advice",
+        "guidance",
+        "solution"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used as an appeal for urgent assistance.",
+      "examples": [
+        "Help! I'm drowning!"
+      ]
+    }
+  ],
+  "phrases": [
+    "And so help me God, if I ever see another montage again, something terrible is going to happen.",
+    "If he doesn't, he'll get the left-overs from last night, so help me!",
+    "But so help me, I just don't have the strength of will to do it.",
+    "So help me God, if you stop any member of my staff one more time for another one of your needless questions, you will be dealing with me.",
+    "When I put my hand on the Bible, I will swear to not only uphold the laws of our land, I will swear to uphold the honor and dignity of the office to which I have been elected, so help me God."
+  ],
+  "origin": "Old English helpan (verb), help (noun), of Germanic origin; related to Dutch helpen and German helfen.",
+  "pronounciation": "/hɛlp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/help_us_1.mp3"
+}

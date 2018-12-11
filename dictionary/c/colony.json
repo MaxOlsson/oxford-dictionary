@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A country or area under the full or partial political control of another country, typically a distant one, and occupied by settlers from that country.",
+      "examples": [],
+      "synonyms": [
+        "territory",
+        "possession",
+        "holding",
+        "dependency",
+        "province",
+        "dominion",
+        "protectorate",
+        "satellite",
+        "satellite state",
+        "settlement",
+        "outpost"
+      ]
+    },
+    {
+      "description": "A group of people of one nationality or ethnic group living in a foreign city or country.",
+      "examples": [
+        "the British colony in New York"
+      ],
+      "synonyms": [
+        "population",
+        "community"
+      ]
+    },
+    {
+      "description": "A community of animals or plants of one kind living close together or forming a physically connected structure.",
+      "examples": [
+        "a colony of seals"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a settlement formed mainly of retired soldiers, acting as a garrison in newly conquered territory in the Roman Empire): from Latin colonia settlement, farm, from colonus settler, farmer, from colere cultivate.",
+  "pronounciation": "/ˈkälənē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colony_us_1.mp3"
+}

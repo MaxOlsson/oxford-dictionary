@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Risky; dangerous.",
+      "examples": [
+        "we work in hazardous conditions",
+        "it is hazardous to personal safety"
+      ],
+      "synonyms": [
+        "dangerous",
+        "risky",
+        "unsafe",
+        "perilous",
+        "precarious",
+        "insecure",
+        "tricky",
+        "unpredictable",
+        "uncertain",
+        "high-risk",
+        "touch-and-go",
+        "fraught with danger"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French hasardeux, from hasard chance (see hazard).",
+  "pronounciation": "/ˈhazərdəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hazardous_us_1.mp3"
+}

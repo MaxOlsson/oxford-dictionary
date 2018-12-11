@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Play (a guitar or similar instrument) by sweeping the thumb or a plectrum up or down across the strings.",
+      "examples": [],
+      "synonyms": [
+        "twang",
+        "thrum",
+        "pluck",
+        "finger"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sound made by strumming a guitar or similar instrument.",
+      "examples": [
+        "the brittle strum of acoustic guitars"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: imitative; compare with thrum.",
+  "pronounciation": "/strəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strum_us_1.mp3"
+}

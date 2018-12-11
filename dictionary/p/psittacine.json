@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting birds of the parrot family.",
+      "examples": [
+        "psittacine beak and feather disease"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bird of the parrot family.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 19th century: from Latin psittacinus of a parrot, from psittacus, from Greek psittakos parrot.",
+  "pronounciation": "/ˈsidəˌsīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psittacine_us_1.mp3"
+}

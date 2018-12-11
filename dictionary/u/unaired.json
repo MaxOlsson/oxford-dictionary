@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not exposed to the open air for ventilation.",
+      "examples": []
+    },
+    {
+      "description": "Not previously broadcast.",
+      "examples": [
+        "the original unaired pilot episode"
+      ],
+      "synonyms": [
+        "damp",
+        "musty",
+        "chilly",
+        "clammy",
+        "wet",
+        "moist",
+        "moisture-laden",
+        "humid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈɛrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unaired_us_2.mp3"
+}

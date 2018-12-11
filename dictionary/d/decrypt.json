@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Make (a coded or unclear message) intelligible.",
+      "examples": [
+        "the computer can be used to encrypt and decrypt sensitive transmissions"
+      ],
+      "synonyms": [
+        "decipher",
+        "unravel",
+        "untangle",
+        "work out",
+        "sort out",
+        "piece together",
+        "solve",
+        "interpret",
+        "translate",
+        "construe",
+        "explain",
+        "understand",
+        "comprehend",
+        "apprehend",
+        "grasp"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A text that has been decoded.",
+      "examples": []
+    }
+  ],
+  "origin": "1930s: from de- (expressing reversal) + crypt as in encrypt.",
+  "pronounciation": "/diˈkrɪpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decrypt_us_1.mp3"
+}

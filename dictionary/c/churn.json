@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A machine or container in which butter is made by agitating milk or cream.",
+      "examples": [],
+      "synonyms": [
+        "blender",
+        "food processor",
+        "liquidizer",
+        "stirrer",
+        "beater",
+        "churn",
+        "whisk"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Agitate or turn (milk or cream) in a machine in order to produce butter.",
+      "examples": [
+        "the cream is ripened before it is churned"
+      ],
+      "synonyms": [
+        "stir",
+        "agitate"
+      ]
+    },
+    {
+      "description": "(of liquid) move about vigorously.",
+      "examples": [
+        "the seas churned",
+        "her stomach was churning at the thought of the ordeal"
+      ],
+      "synonyms": [
+        "be turbulent",
+        "heave",
+        "boil",
+        "swirl",
+        "toss",
+        "seethe",
+        "foam",
+        "froth"
+      ]
+    },
+    {
+      "description": "(of a broker) encourage frequent turnover of (investments) in order to generate commission.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "artists continued to churn out insipid works",
+    "This may not be the book that puts her on the bestseller list, but it's proof that she can churn them out.",
+    "He adds: The war was this great machine which churned out dead bodies.",
+    "These machines churn out umpteen cubic feet of carbon monoxide, polluting the atmosphere and killing more life forms than a few million smokers could ever do.",
+    "Asset-price inflation may be rampant but the price of goods in the shops is falling as China continues to churn them out at an increasing rate."
+  ],
+  "origin": "Old English cyrin, of Germanic origin; related to Middle Low German kerne and Old Norse kirna.",
+  "pronounciation": "/CHərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/churn_us_1.mp3"
+}

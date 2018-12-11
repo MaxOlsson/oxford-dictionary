@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing knowledge of a particular subject or situation.",
+      "examples": [
+        "an informed readership"
+      ],
+      "synonyms": [
+        "knowledgeable",
+        "enlightened",
+        "illuminated",
+        "literate",
+        "well informed",
+        "well educated",
+        "educated",
+        "schooled",
+        "instructed"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈfôrmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/informed_us_1.mp3"
+}

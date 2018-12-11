@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A person who is tough, determined, and not easily daunted.",
+      "examples": [],
+      "synonyms": [
+        "ruffian",
+        "rowdy",
+        "thug",
+        "hoodlum",
+        "hooligan",
+        "brute",
+        "bully",
+        "bully boy",
+        "rough",
+        "gangster",
+        "desperado"
+      ]
+    },
+    {
+      "description": "A difficult problem or question.",
+      "examples": [
+        "Whom do you admire most? That's a toughie"
+      ],
+      "synonyms": [
+        "difficult question",
+        "awkward problem",
+        "knotty problem",
+        "vexed question",
+        "tough one",
+        "puzzle",
+        "mystery",
+        "conundrum",
+        "puzzler",
+        "enigma",
+        "riddle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtəfē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/toughie_us_1.mp3"
+}

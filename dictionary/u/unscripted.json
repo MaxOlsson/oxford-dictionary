@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Said or delivered without a prepared script; impromptu.",
+      "examples": [
+        "the president's unscripted remarks"
+      ],
+      "synonyms": [
+        "unplanned",
+        "spontaneous",
+        "unprepared",
+        "unarranged",
+        "uncontrolled",
+        "unintentional",
+        "unintended",
+        "extempore",
+        "extemporary",
+        "extemporized",
+        "extemporaneous",
+        "impromptu",
+        "ad lib"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈskrɪptɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unscripted_us_1.mp3"
+}

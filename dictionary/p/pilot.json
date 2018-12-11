@@ -1,0 +1,89 @@
+{
+  "noun": [
+    {
+      "description": "A person who operates the flying controls of an aircraft.",
+      "examples": [],
+      "synonyms": [
+        "airman",
+        "airwoman",
+        "flyer",
+        "aeronaut"
+      ]
+    },
+    {
+      "description": "A television program made to test audience reaction with a view to the production of a series.",
+      "examples": [],
+      "synonyms": [
+        "trial episode",
+        "pilot episode",
+        "pilot programme"
+      ]
+    },
+    {
+      "description": "An unmodulated reference signal transmitted with another signal for the purposes of control or synchronization.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done as an experiment or test before introducing something more widely.",
+      "examples": [
+        "a two-year pilot study"
+      ],
+      "synonyms": [
+        "experimental",
+        "exploratory",
+        "trial",
+        "test",
+        "sample",
+        "model",
+        "tentative",
+        "speculative",
+        "preliminary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as a pilot of (an aircraft or ship).",
+      "examples": [],
+      "synonyms": [
+        "fly",
+        "be at the controls of",
+        "control",
+        "handle",
+        "manoeuvre",
+        "drive",
+        "operate",
+        "steer",
+        "regulate",
+        "monitor",
+        "direct",
+        "captain"
+      ]
+    },
+    {
+      "description": "Test (a plan, project, etc.) before introducing it more widely.",
+      "examples": [
+        "other schools were piloting such courses"
+      ],
+      "synonyms": [
+        "test",
+        "trial",
+        "put to the test",
+        "try out",
+        "carry out trials on",
+        "experiment with",
+        "assess",
+        "investigate",
+        "examine",
+        "appraise",
+        "evaluate",
+        "check out"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (denoting a person who steers a ship): from French pilote, from medieval Latin pilotus, an alteration of pedota, based on Greek pēdon oar, (plural) rudder.",
+  "pronounciation": "/ˈpaɪlət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pilot_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not likely or liable to be influenced or harmed by a particular thing.",
+      "examples": [
+        "infants are relatively unsusceptible to infections"
+      ],
+      "synonyms": [
+        "resistant",
+        "not subject",
+        "not liable",
+        "not vulnerable",
+        "not open",
+        "not exposed"
+      ]
+    },
+    {
+      "description": "Not capable or admitting of.",
+      "examples": [
+        "their meaning is unsusceptible of analysis"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənsəˈseptəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsusceptible_us_1.mp3"
+}

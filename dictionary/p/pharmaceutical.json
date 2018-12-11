@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to medicinal drugs, or their preparation, use, or sale.",
+      "examples": [
+        "a pharmaceutical drug",
+        "the pharmaceutical industry"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A compound manufactured for use as a medicinal drug.",
+      "examples": [
+        "pharmaceuticals and cosmetics",
+        "pharmaceuticals companies"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: via late Latin from Greek pharmakeutikos (from pharmakeutēs druggist, from pharmakon drug) + -al.",
+  "pronounciation": "/ˌfɑrməˈsudək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pharmaceutical_us_1.mp3"
+}

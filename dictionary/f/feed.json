@@ -1,0 +1,133 @@
+{
+  "verb": [
+    {
+      "description": "Give food to.",
+      "examples": [
+        "the raiders fed the guard dog to keep it quiet",
+        "he fed her brownies he had just baked"
+      ],
+      "synonyms": [
+        "give food to",
+        "provide food for",
+        "provide for",
+        "cater for",
+        "prepare food for",
+        "cook for",
+        "make a meal for",
+        "wine and dine"
+      ]
+    },
+    {
+      "description": "Supply (a machine) with material, power, or other things necessary for its operation.",
+      "examples": [
+        "the programs are fed into the computer"
+      ]
+    },
+    {
+      "description": "Supply water to (a body of water)",
+      "examples": [
+        "the pond is fed by a small stream",
+        "water feeds into the lower pool"
+      ]
+    },
+    {
+      "description": "Insert further coins into (a meter) to extend the time for which it operates.",
+      "examples": []
+    },
+    {
+      "description": "Supply (someone) with (information, ideas, etc.)",
+      "examples": [
+        "I think he is feeding his old employer commercial secrets"
+      ],
+      "synonyms": [
+        "supply",
+        "provide",
+        "give",
+        "deliver",
+        "present",
+        "furnish",
+        "issue",
+        "impart",
+        "sell"
+      ]
+    },
+    {
+      "description": "Prompt (an actor) with (a line)",
+      "examples": [
+        "you were still in the wings feeding Micky his lines"
+      ],
+      "synonyms": [
+        "remind",
+        "cue",
+        "give someone a cue",
+        "help out",
+        "coach",
+        "feed"
+      ]
+    },
+    {
+      "description": "(in ball games) pass (the ball) to a player.",
+      "examples": [
+        "he took the ball and fed Salley"
+      ],
+      "synonyms": [
+        "channel",
+        "guide",
+        "direct",
+        "convey",
+        "move",
+        "pass"
+      ]
+    },
+    {
+      "description": "Distribute (a broadcast) to local television or radio stations via satellite or network.",
+      "examples": [
+        "programs that the national networks feed to local stations"
+      ]
+    },
+    {
+      "description": "Cause to move gradually and steadily, typically through a confined space.",
+      "examples": [
+        "make holes through which to feed the cables"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of giving food, especially to animals or a baby, or of having food given to one.",
+      "examples": [
+        "I've just given the horse her feed"
+      ]
+    },
+    {
+      "description": "A device or conduit for supplying material to a machine.",
+      "examples": [
+        "the plotter has a continuous paper feed"
+      ]
+    },
+    {
+      "description": "A line or prompt given to an actor on stage.",
+      "examples": [],
+      "synonyms": [
+        "reminder",
+        "cue",
+        "feed"
+      ]
+    }
+  ],
+  "phrases": [
+    "That undertone in the woman's voice put Lee off his feed instantly.",
+    "Otherwise, watching them might have put him off his feed.",
+    "I know when you're off your feed and I've had a few babies myself.",
+    "Sometimes when I'm off my feed and not feeling up to polite society it's better for me to have something in my hands.",
+    "Even if I haven't had any of it, the very thought is almost enough to put me off my feed.",
+    "what the audience tells me feeds back into my work",
+    "Next, you will need to practice diligently a number of exercise techniques to get feed back while developing these abilities.",
+    "Based on this feed back and a low response rate, this item was revised for the third mailing.",
+    "We did not feed back to respondents their previous score.",
+    "Consumers also play a role in the innovation process of creative industries by their willingness to pay for a new style, which feeds back to influence production and distribution structures."
+  ],
+  "origin": "Old English fēdan (verb), of Germanic origin; related to Dutch voeden and food.",
+  "pronounciation": "/fēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feed_us_1.mp3"
+}

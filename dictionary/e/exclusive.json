@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "Excluding or not admitting other things.",
+      "examples": [
+        "my exclusive focus is on San Antonio issues"
+      ],
+      "synonyms": [
+        "complete",
+        "full",
+        "entire",
+        "whole",
+        "total",
+        "absolute"
+      ]
+    },
+    {
+      "description": "Restricted or limited to the person, group, or area concerned.",
+      "examples": [
+        "the couple had exclusive possession of the condo",
+        "the jaguar and puma are exclusive to the New World"
+      ],
+      "synonyms": [
+        "sole",
+        "undivided",
+        "unshared",
+        "unique",
+        "only",
+        "individual",
+        "personal",
+        "private",
+        "single",
+        "especial"
+      ]
+    },
+    {
+      "description": "Catering or available to only a few, select people; high class and expensive.",
+      "examples": [
+        "an exclusive Georgetown neighborhood"
+      ],
+      "synonyms": [
+        "select",
+        "chic",
+        "high-class",
+        "elite",
+        "fashionable",
+        "stylish",
+        "elegant",
+        "choice",
+        "special",
+        "premier",
+        "grade a"
+      ]
+    },
+    {
+      "description": "Not including; excepting.",
+      "examples": [
+        "prices are exclusive of tax and delivery"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An item or story published or broadcast by only one source.",
+      "examples": [],
+      "synonyms": [
+        "scoop",
+        "exposé",
+        "revelation",
+        "special",
+        "inside story"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun denoting something that excludes): from medieval Latin exclusivus, from Latin excludere shut out (see exclude).",
+  "pronounciation": "/ɪkˈsklusɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exclusive_us_1.mp3"
+}

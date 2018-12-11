@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Incapable of being fully explored or understood.",
+      "examples": [
+        "her gray eyes were dark with some unfathomable emotion"
+      ],
+      "synonyms": [
+        "inscrutable",
+        "incomprehensible",
+        "enigmatic",
+        "incalculable",
+        "indecipherable",
+        "obscure",
+        "esoteric",
+        "abstruse",
+        "puzzling",
+        "cryptic",
+        "mysterious",
+        "mystifying",
+        "baffling",
+        "deep",
+        "profound",
+        "secretive"
+      ]
+    },
+    {
+      "description": "(of water or a natural feature) impossible to measure the extent of.",
+      "examples": [],
+      "synonyms": [
+        "deep",
+        "immeasurable",
+        "fathomless",
+        "unfathomed",
+        "unplumbed",
+        "unplumbable",
+        "bottomless",
+        "unsounded",
+        "profound"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfaT͟Həməb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfathomable_us_1.mp3"
+}

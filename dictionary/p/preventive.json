@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Designed to keep something undesirable such as illness, harm, or accidents from occurring.",
+      "examples": [
+        "preventive medicine"
+      ],
+      "synonyms": [
+        "inhibitory",
+        "preventative",
+        "deterrent",
+        "pre-emptive",
+        "obstructive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicine or other treatment designed to stop disease or ill health from occurring.",
+      "examples": [],
+      "synonyms": [
+        "prophylactic",
+        "prophylactic device",
+        "prophylactic medicine",
+        "preventative",
+        "preventive drug"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈven(t)iv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preventive_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A brief, strong rush of wind.",
+      "examples": [],
+      "synonyms": [
+        "flurry",
+        "blast",
+        "puff",
+        "blow",
+        "rush",
+        "squall"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of the wind) blow in gusts.",
+      "examples": [
+        "the wind was gusting through the branches of the tree"
+      ],
+      "synonyms": [
+        "bluster",
+        "flurry",
+        "blow",
+        "blast",
+        "roar"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Old Norse gustr, related to gjósa to gush.",
+  "pronounciation": "/ɡəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gust_us_1.mp3"
+}

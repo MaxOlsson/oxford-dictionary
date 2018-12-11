@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Producing a long, loud, doleful cry or wailing sound.",
+      "examples": [],
+      "synonyms": [
+        "baying",
+        "bay",
+        "howling",
+        "crying",
+        "cry",
+        "yowl",
+        "yowling",
+        "bark",
+        "barking",
+        "yelp",
+        "yelping"
+      ]
+    },
+    {
+      "description": "Extreme or great.",
+      "examples": [
+        "the meal was a howling success"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhaʊlɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/howling_us_1.mp3"
+}

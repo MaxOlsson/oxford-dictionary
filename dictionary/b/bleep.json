@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A short high-pitched sound made by an electronic device as a signal or to attract attention.",
+      "examples": [
+        "the autopilot sent back an acknowledgment bleep"
+      ],
+      "synonyms": [
+        "audible warning",
+        "purr",
+        "purring",
+        "ring",
+        "ringing",
+        "note",
+        "tone",
+        "beep",
+        "bleep",
+        "meep",
+        "warble",
+        "signal",
+        "alarm",
+        "alert"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an electronic device) make a short high-pitched sound or repeated sequence of sounds.",
+      "examples": [
+        "the screen flickered for a few moments and bleeped"
+      ],
+      "synonyms": [
+        "purr",
+        "sound",
+        "reverberate",
+        "ring",
+        "beep",
+        "bleep",
+        "warble"
+      ]
+    }
+  ],
+  "origin": "1950s: imitative.",
+  "pronounciation": "/blip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bleep_us_1.mp3"
+}

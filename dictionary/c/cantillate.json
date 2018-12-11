@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Chant or intone (a passage of religious text)",
+      "examples": [
+        "he cantillated the verses of the ancient Avesta"
+      ],
+      "synonyms": [
+        "repeat from memory",
+        "say aloud",
+        "read aloud",
+        "declaim",
+        "quote",
+        "speak",
+        "deliver",
+        "render"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Latin cantillat- hummed, from the verb cantillare, from cantare (see chant).",
+  "pronounciation": "/ˈkantəlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cantillate_us_1.mp3"
+}

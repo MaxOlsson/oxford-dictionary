@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "(in drawing, painting, and engraving) mark (a surface) with numerous small dots or specks.",
+      "examples": [
+        "to finish, stipple the picture with the original base colour"
+      ],
+      "synonyms": [
+        "dot",
+        "spot",
+        "mark",
+        "fleck",
+        "streak",
+        "speck",
+        "speckle",
+        "bespeckle",
+        "mottle",
+        "marble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process or technique of stippling a surface, or the effect so created.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from Dutch stippelen, frequentative of stippen to prick, from stip a point.",
+  "pronounciation": "/ˈstipəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stipple_us_1.mp3"
+}

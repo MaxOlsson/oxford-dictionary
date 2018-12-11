@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A material made from the skin of an animal by tanning or a similar process.",
+      "examples": [
+        "a leather jacket"
+      ],
+      "synonyms": [
+        "skin",
+        "hide"
+      ]
+    },
+    {
+      "description": "A piece of leather as a polishing cloth.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Beat or thrash (someone)",
+      "examples": [
+        "he caught me and leathered me black and blue"
+      ],
+      "synonyms": [
+        "beat",
+        "strap",
+        "belt",
+        "thrash",
+        "flog",
+        "whip",
+        "lash",
+        "scourge",
+        "horsewhip",
+        "birch",
+        "cane",
+        "strike",
+        "hit",
+        "clout",
+        "batter",
+        "spank"
+      ]
+    }
+  ],
+  "origin": "Old English lether, of Germanic origin; related to Dutch leer and German Leder, from an Indo-European root shared by Irish leathar and Welsh lledr.",
+  "pronounciation": "/ˈlɛðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leather_us_1.mp3"
+}

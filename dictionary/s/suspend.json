@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Temporarily prevent from continuing or being in force or effect.",
+      "examples": [
+        "work on the dam was suspended"
+      ],
+      "synonyms": [
+        "abstain",
+        "refrain",
+        "forbear",
+        "hold back",
+        "keep"
+      ]
+    },
+    {
+      "description": "Hang (something) from somewhere.",
+      "examples": [
+        "the light was suspended from the ceiling"
+      ],
+      "synonyms": [
+        "hang",
+        "sling",
+        "drape",
+        "string",
+        "put up"
+      ]
+    },
+    {
+      "description": "(of solid particles) be dispersed throughout the bulk of a fluid.",
+      "examples": [
+        "the paste contains collagen suspended in a salt solution"
+      ]
+    }
+  ],
+  "phrases": [
+    "Though the older ones might know very well that the characters are just ordinary persons in disguise, they are ready to suspend disbelief and enjoy themselves along with the rest.",
+    "Feature films invite us to defy reality, believe a fiction, suspend disbelief.",
+    "She was a very believably shy, sweet, funny Cinderella, and you did not have to suspend disbelief to accept that the men of the chorus were literally bowled over when she arrived at the palace in Act II.",
+    "It's not like superheroes, where an essentially silly subject has a huge cultural resonance allowing an audience to suspend disbelief.",
+    "For a couple of days, even respectable members of the scientific community were suspending disbelief."
+  ],
+  "origin": "Middle English: from Old French suspendre or Latin suspendere, from sub- from below + pendere hang.",
+  "pronounciation": "/səˈspɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suspend_us_1.mp3"
+}

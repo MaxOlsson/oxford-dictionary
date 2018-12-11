@@ -1,0 +1,137 @@
+{
+  "noun": [
+    {
+      "description": "A long, thin, flat piece of wood or other hard material, used for floors or other building purposes.",
+      "examples": [
+        "loose boards creaked as I walked on them",
+        "sections of board"
+      ],
+      "synonyms": [
+        "plank",
+        "beam",
+        "panel",
+        "slat",
+        "batten",
+        "timber",
+        "length of timber",
+        "piece of wood",
+        "lath"
+      ]
+    },
+    {
+      "description": "A thin, flat piece of wood or other stiff material used for various purposes.",
+      "examples": []
+    },
+    {
+      "description": "A group of people constituted as the decision-making body of an organization.",
+      "examples": [
+        "he sits on the board of directors",
+        "a board meeting",
+        "the Federal Reserve Board"
+      ],
+      "synonyms": [
+        "committee",
+        "council",
+        "panel",
+        "directorate",
+        "commission",
+        "group",
+        "delegation",
+        "delegates",
+        "trustees",
+        "panel of trustees",
+        "convocation"
+      ]
+    },
+    {
+      "description": "The provision of regular meals when one stays somewhere, in return for payment or services.",
+      "examples": [
+        "your room and board will be free"
+      ],
+      "synonyms": [
+        "food",
+        "meals",
+        "daily meals",
+        "provisions",
+        "sustenance",
+        "nourishment",
+        "fare",
+        "diet",
+        "menu",
+        "table",
+        "bread",
+        "daily bread",
+        "foodstuffs",
+        "refreshments",
+        "edibles"
+      ]
+    },
+    {
+      "description": "A distance covered by a vessel in a single tack.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Get on or into (a ship, aircraft, or other vehicle)",
+      "examples": [
+        "we boarded the plane for Oslo",
+        "they would not be able to board without a ticket"
+      ],
+      "synonyms": [
+        "get on",
+        "enter",
+        "go on board",
+        "go aboard",
+        "step aboard",
+        "climb on",
+        "mount",
+        "ascend",
+        "embark"
+      ]
+    },
+    {
+      "description": "Live and receive regular meals in a house in return for payment or services.",
+      "examples": [
+        "the cousins boarded for a while with Ruby"
+      ],
+      "synonyms": [
+        "lodge",
+        "live",
+        "reside",
+        "have rooms",
+        "be quartered",
+        "be housed",
+        "be settled",
+        "have one's home"
+      ]
+    },
+    {
+      "description": "Cover or seal a window, storefront, or other structure with pieces of wood.",
+      "examples": [
+        "the shop was still boarded up"
+      ],
+      "synonyms": [
+        "cover over",
+        "cover up",
+        "close up",
+        "shut up",
+        "seal"
+      ]
+    },
+    {
+      "description": "Ride on a snowboard.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "my education just went by the board",
+    "The traditional principles of perspective usually go by the board, though many naive artists are capable of rendering distance and depth by their own means.",
+    "When push came to shove, ethics went by the board and they joined the ranks of sleazy money launderers.",
+    "The months went by - the goal of September publication had long since gone by the board - and at the end of November we still did not know exactly what sort of deal Celera had struck with Science.",
+    "Opponents deserved no respect and the conventions of war went by the board."
+  ],
+  "origin": "Old English bord, of Germanic origin; related to Dutch boord and German Bort; reinforced in Middle English by Old French bort edge, ship's side and Old Norse borth board, table.",
+  "pronounciation": "/bɔrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/board_us_1.mp3"
+}

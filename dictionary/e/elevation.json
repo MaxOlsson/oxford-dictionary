@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The action or fact of elevating or being elevated.",
+      "examples": [
+        "her sudden elevation to the cabinet"
+      ],
+      "synonyms": [
+        "promotion",
+        "upgrading",
+        "advancement",
+        "advance",
+        "preferment",
+        "aggrandizement",
+        "move up",
+        "step up"
+      ]
+    },
+    {
+      "description": "Height above a given level, especially sea level.",
+      "examples": [
+        "a network of microclimates created by sharp differences in elevation",
+        "a total elevation gain of 3,995 feet"
+      ],
+      "synonyms": [
+        "altitude",
+        "height",
+        "distance above the ground",
+        "distance above the sea"
+      ]
+    },
+    {
+      "description": "A particular side of a building.",
+      "examples": [
+        "a burglar alarm was prominently displayed on the front elevation"
+      ],
+      "synonyms": [
+        "side",
+        "face",
+        "facade",
+        "aspect"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin elevatio(n-), from elevare raise (see elevate).",
+  "pronounciation": "/ˌɛləˈveɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elevation_us_1.mp3"
+}

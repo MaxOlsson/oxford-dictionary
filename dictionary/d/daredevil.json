@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A reckless person who enjoys doing dangerous things.",
+      "examples": [
+        "spectators watched in horror as the nineteen-year-old daredevil smashed into the ground"
+      ],
+      "synonyms": [
+        "madcap",
+        "hothead",
+        "adventurer",
+        "exhibitionist",
+        "swashbuckler"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Reckless and daring.",
+      "examples": [
+        "a daredevil skydiver"
+      ],
+      "synonyms": [
+        "daring",
+        "bold",
+        "adventurous",
+        "madcap",
+        "hot-headed",
+        "audacious",
+        "courageous",
+        "brave",
+        "intrepid",
+        "fearless",
+        "death-or-glory",
+        "undaunted",
+        "dauntless",
+        "heedless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈderˌdevəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/daredevil_us_1.mp3"
+}

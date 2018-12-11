@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A particular form or version of a published text.",
+      "examples": [
+        "a paperback edition"
+      ],
+      "synonyms": [
+        "version",
+        "issue",
+        "model",
+        "mark",
+        "draft",
+        "form",
+        "impression",
+        "publication"
+      ]
+    },
+    {
+      "description": "The total number of copies of a book, newspaper, or other published material issued at one time.",
+      "examples": [],
+      "synonyms": [
+        "issue",
+        "copy"
+      ]
+    },
+    {
+      "description": "A particular version or instance of a regular program or broadcast.",
+      "examples": [
+        "the Monday edition will be repeated on Wednesday afternoons"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French édition, from Latin editio(n-), from edere put out, from e- (variant of ex-) out + dare give.",
+  "pronounciation": "/əˈdɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/edition_us_1.mp3"
+}

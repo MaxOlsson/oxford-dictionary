@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of three parts; threefold.",
+      "examples": [
+        "the fish were caught with large treble hooks dragged through the water"
+      ],
+      "synonyms": [
+        "high",
+        "high-frequency",
+        "soprano",
+        "falsetto",
+        "shrill",
+        "acute",
+        "sharp",
+        "piping",
+        "piercing",
+        "penetrating"
+      ]
+    }
+  ],
+  "predeterminer": [
+    {
+      "description": "Three times as much or as many.",
+      "examples": [
+        "the tip was at least treble what she would normally have given"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is three times as large as usual or is made up of three standard units or things.",
+      "examples": []
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "A number or amount which is three times as large as a contrasting or usual number or amount.",
+      "examples": [
+        "by virtue of having paid treble, he had a double room to himself"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become three times as large or numerous.",
+      "examples": [
+        "rents were doubled and probably trebled",
+        "his salary has trebled in a couple of years"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from treble, because it was the highest part in a three-part contrapuntal composition.",
+  "pronounciation": "/ˈtrɛbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/treble_us_1.mp3"
+}

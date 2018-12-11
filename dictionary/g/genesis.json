@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "The origin or mode of formation of something.",
+      "examples": [
+        "this tale had its genesis in fireside stories"
+      ],
+      "synonyms": [
+        "origin",
+        "source",
+        "root",
+        "beginning",
+        "commencement",
+        "start",
+        "outset"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "The first book of the Bible, which includes the stories of the creation of the world, Noah's Ark, the Tower of Babel, and the patriarchs Abraham, Isaac, Jacob, and Joseph.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Old English, via Latin from Greek, generation, creation, nativity, horoscope, from the base of gignesthai be born or produced. The name was given to the first book of the Old Testament in the Greek translation (the Septuagint), hence in the Latin translation (the Vulgate).",
+  "pronounciation": "/ˈdʒɛnəsəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_genesis_1_us_1.mp3"
+}

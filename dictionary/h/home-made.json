@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Made at home, rather than in a shop or factory.",
+      "examples": [
+        "home-made bread"
+      ],
+      "synonyms": [
+        "home-grown",
+        "locally produced",
+        "family",
+        "local"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhəʊmˈmeɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homemade_gb_1.mp3"
+}

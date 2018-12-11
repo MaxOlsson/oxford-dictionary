@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A sudden, sharp localized pain.",
+      "examples": [
+        "he felt a twinge in his knee"
+      ],
+      "synonyms": [
+        "pain",
+        "sharp pain",
+        "shooting pain",
+        "stab of pain",
+        "spasm",
+        "ache",
+        "throb"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a part of the body) suffer a sudden, sharp localized pain.",
+      "examples": [
+        "the ankle still twinged, but the pain was slight"
+      ]
+    }
+  ],
+  "origin": "Old English twengan pinch, wring, of Germanic origin. The noun dates from the mid 16th century.",
+  "pronounciation": "/twɪndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/twinge_us_1.mp3"
+}

@@ -1,0 +1,112 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) avoiding work; lazy.",
+      "examples": [],
+      "synonyms": [
+        "lazy",
+        "indolent",
+        "slothful",
+        "work-shy",
+        "shiftless",
+        "loafing",
+        "inactive",
+        "inert",
+        "sluggish",
+        "lethargic",
+        "languorous",
+        "listless",
+        "torpid"
+      ]
+    },
+    {
+      "description": "Without purpose or effect; pointless.",
+      "examples": [
+        "he did not want to waste valuable time in idle chatter"
+      ],
+      "synonyms": [
+        "frivolous",
+        "trivial",
+        "trifling",
+        "minor",
+        "petty",
+        "foolish",
+        "lightweight",
+        "shallow",
+        "superficial",
+        "insignificant",
+        "unimportant",
+        "worthless",
+        "valueless",
+        "pointless",
+        "paltry",
+        "niggling",
+        "peripheral",
+        "without depth",
+        "inane",
+        "fatuous",
+        "senseless",
+        "meaningless",
+        "purposeless",
+        "unnecessary",
+        "time-wasting"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person) spend time doing nothing; be idle.",
+      "examples": [
+        "four men were idling outside the shop"
+      ],
+      "synonyms": [
+        "do nothing",
+        "be inactive",
+        "vegetate",
+        "sit back",
+        "take it easy",
+        "rest on one's oars",
+        "mark time",
+        "kick one's heels",
+        "twiddle one's thumbs",
+        "kill time",
+        "languish",
+        "laze",
+        "laze about",
+        "laze around",
+        "lounge",
+        "lounge about",
+        "lounge around",
+        "loll",
+        "loll about",
+        "loll around",
+        "loaf",
+        "loaf about",
+        "loaf around",
+        "slouch",
+        "slouch about",
+        "slouch around"
+      ]
+    },
+    {
+      "description": "(of an engine) run slowly while disconnected from a load or out of gear.",
+      "examples": [
+        "the car is noisily idling in the street"
+      ],
+      "synonyms": [
+        "tick over",
+        "run slowly in neutral"
+      ]
+    }
+  ],
+  "phrases": [
+    "As many Internet users do, I sometimes go surfing, following links, idling the happy hours away… you know the drill.",
+    "I would never see Grandpa again, never sit on his lap dunking my toast into his sweet coffee, nor follow him to his workshop to mend a rake, nor idle the afternoon away with a scrap of wood and a hammer and nails.",
+    "As he idled the afternoon away watching TV, he saw an advertisement promising a free Virgin Atlantic flight to New York to anyone who bought a Hoover.",
+    "He is also making great play of the Prince's Trust, appalled as he is by the thought of people idling their days away, never doing an honest day's work in their lives.",
+    "The Raiders spent the rest of the night idling their time away beside a roaring campfire."
+  ],
+  "origin": "Old English īdel empty, useless, of West Germanic origin; related to Dutch ijdel vain, frivolous, useless and German eitel bare, worthless.",
+  "pronounciation": "/ˈīdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/idle_us_1.mp3"
+}

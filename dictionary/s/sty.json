@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A pigpen.",
+      "examples": [],
+      "synonyms": [
+        "paddock",
+        "fold",
+        "pen",
+        "compound",
+        "stockade",
+        "ring",
+        "yard",
+        "pound"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Keep (a pig) in a sty.",
+      "examples": [
+        "the most beggarly place that ever pigs were stied in"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from dialect styany, from styan (from Old English stīgend riser) + eye.",
+  "pronounciation": "/stī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sty_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring or done quickly and unexpectedly or without warning.",
+      "examples": [
+        "a sudden bright flash"
+      ],
+      "synonyms": [
+        "unexpected",
+        "unforeseen",
+        "unanticipated",
+        "unlooked-for",
+        "without warning",
+        "without notice",
+        "not bargained for"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Suddenly.",
+      "examples": [
+        "sudden there swooped an eagle downward"
+      ],
+      "synonyms": [
+        "immediately",
+        "instantaneously",
+        "instantly",
+        "in an instant",
+        "straight away",
+        "all of a sudden",
+        "at once",
+        "all at once",
+        "promptly",
+        "abruptly",
+        "in a trice",
+        "swiftly"
+      ]
+    }
+  ],
+  "phrases": [
+    "I feel really tired all of a sudden",
+    "All of a sudden, the badger twitched, jumped up and strolled across the road to safety.",
+    "All of a sudden, you're face to face with a black, hairy spider the size of a beach ball.",
+    "All of a sudden, his stride changed - his floppy ears dropped like a lop-eared rabbit.",
+    "All of a sudden the white car pulled out and rammed into the blue car."
+  ],
+  "origin": "Middle English: from Anglo-Norman French sudein, from an alteration of Latin subitaneus, from subitus sudden.",
+  "pronounciation": "/ˈsədn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sudden_us_1.mp3"
+}

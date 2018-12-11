@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Look quickly, typically in a furtive manner.",
+      "examples": [
+        "faces peeked from behind the curtains"
+      ],
+      "synonyms": [
+        "peep",
+        "have a peep",
+        "have a peek",
+        "take a secret look",
+        "spy",
+        "take a sly look",
+        "take a stealthy look",
+        "sneak a look",
+        "glance",
+        "cast a brief look",
+        "look hurriedly",
+        "look",
+        "peer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quick or furtive look.",
+      "examples": [
+        "she sneaked a peek at the map"
+      ],
+      "synonyms": [
+        "secret look",
+        "sly look",
+        "stealthy look",
+        "sneaky look",
+        "peep",
+        "glance",
+        "glimpse",
+        "brief look",
+        "hurried look",
+        "quick look",
+        "look",
+        "peer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English pike, pyke, of unknown origin.",
+  "pronounciation": "/pik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peek_us_1.mp3"
+}

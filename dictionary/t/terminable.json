@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be terminated.",
+      "examples": [
+        "an agreement terminable by the Company on 12 months' notice"
+      ],
+      "synonyms": [
+        "limited",
+        "not infinite",
+        "subject to limitations",
+        "restricted"
+      ]
+    },
+    {
+      "description": "Coming to an end after a certain time.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtərmənəbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/terminable_us_2.mp3"
+}

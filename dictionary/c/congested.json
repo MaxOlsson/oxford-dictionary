@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "(of a road or place) so crowded with traffic or people as to hinder freedom of movement.",
+      "examples": [
+        "one of the most congested airports in the world",
+        "the streets are often heavily congested with traffic"
+      ],
+      "synonyms": [
+        "crowded",
+        "overcrowded",
+        "full",
+        "overfull",
+        "overflowing",
+        "full to bursting",
+        "full to overflowing",
+        "crammed full",
+        "cram-full",
+        "thronged",
+        "packed",
+        "jammed",
+        "teeming",
+        "swarming",
+        "overloaded"
+      ]
+    },
+    {
+      "description": "(of a part of the body) abnormally full of blood.",
+      "examples": [
+        "congested arteries"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as congest in the sense heap up, accumulate): from Latin congerere heap up, from con- together + gerere bring.",
+  "pronounciation": "/kənˈjestəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcongested_us_1.mp3"
+}

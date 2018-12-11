@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A particular part or feature of something.",
+      "examples": [
+        "the financial aspect can be overstressed"
+      ],
+      "synonyms": [
+        "feature",
+        "facet",
+        "side",
+        "characteristic",
+        "particular",
+        "detail",
+        "point",
+        "ingredient",
+        "strand"
+      ]
+    },
+    {
+      "description": "The positioning of a building or thing in a specified direction.",
+      "examples": [
+        "a greenhouse with a southern aspect"
+      ],
+      "synonyms": [
+        "outlook",
+        "view",
+        "exposure",
+        "direction",
+        "situation",
+        "position",
+        "location"
+      ]
+    },
+    {
+      "description": "A grammatical category or form that expresses the way in which time is denoted by the verb.",
+      "examples": [
+        "the semantics of tense and aspect",
+        "four verbal aspects"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a planet) form an aspect with (another celestial body)",
+      "examples": [
+        "the sun is superbly aspected by your ruler Mars on the 19th"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the action or a way of looking): from Latin aspectus, from aspicere look at, from ad- to, at + specere to look.",
+  "pronounciation": "/ˈaspekt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aspect_us_1.mp3"
+}

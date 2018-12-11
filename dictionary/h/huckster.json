@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A person who sells small items, either door-to-door or from a stall or small store.",
+      "examples": [],
+      "synonyms": [
+        "trader",
+        "dealer",
+        "seller",
+        "purveyor",
+        "vendor",
+        "barrow boy",
+        "salesman",
+        "door-to-door salesman",
+        "pedlar",
+        "hawker"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Promote or sell (something, typically a product of questionable value).",
+      "examples": [],
+      "synonyms": [
+        "advertise",
+        "publicize",
+        "give publicity to",
+        "bang the drum for",
+        "beat the drum for",
+        "popularize",
+        "sell",
+        "market",
+        "merchandise"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense retailer at a stall, hawker): probably of Low German origin.",
+  "pronounciation": "/ˈhəkstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/huckster_us_1.mp3"
+}

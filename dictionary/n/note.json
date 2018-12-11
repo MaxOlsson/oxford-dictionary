@@ -1,0 +1,123 @@
+{
+  "noun": [
+    {
+      "description": "A brief record of facts, topics, or thoughts, written down as an aid to memory.",
+      "examples": [
+        "I'll make a note in my diary",
+        "Robyn arranged her notes on the lectern"
+      ],
+      "synonyms": [
+        "record",
+        "account",
+        "entry",
+        "item",
+        "notation",
+        "minute",
+        "jotting",
+        "inscription"
+      ]
+    },
+    {
+      "description": "A short informal letter or written message.",
+      "examples": [
+        "I left her a note explaining where I was going"
+      ],
+      "synonyms": [
+        "message",
+        "communication",
+        "letter",
+        "missive",
+        "epistle",
+        "line"
+      ]
+    },
+    {
+      "description": "A banknote.",
+      "examples": [
+        "a ten-pound note"
+      ],
+      "synonyms": [
+        "banknote"
+      ]
+    },
+    {
+      "description": "A single tone of definite pitch made by a musical instrument or the human voice.",
+      "examples": [
+        "the last notes of the symphony died away"
+      ]
+    },
+    {
+      "description": "A particular quality or tone that reflects or expresses a mood or attitude.",
+      "examples": [
+        "there was a note of scorn in her voice",
+        "the decade could have ended on an optimistic note"
+      ],
+      "synonyms": [
+        "tone",
+        "intonation",
+        "inflection",
+        "sound",
+        "hint",
+        "indication",
+        "sign",
+        "element",
+        "streak",
+        "strain",
+        "vein",
+        "suggestion",
+        "suspicion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Notice or pay particular attention to (something)",
+      "examples": [
+        "noting his mother's unusual gaiety",
+        "please note that you will not receive a reminder that final payment is due"
+      ],
+      "synonyms": [
+        "bear in mind",
+        "be mindful of",
+        "consider",
+        "observe",
+        "take into account",
+        "take into consideration",
+        "take note of",
+        "listen to"
+      ]
+    },
+    {
+      "description": "Record (something) in writing.",
+      "examples": [
+        "he noted down her address on a piece of paper"
+      ],
+      "synonyms": [
+        "write down",
+        "put down",
+        "jot down",
+        "take down",
+        "set down",
+        "mark down",
+        "inscribe",
+        "enter",
+        "mark",
+        "record",
+        "register",
+        "scribble",
+        "scrawl",
+        "pencil"
+      ]
+    }
+  ],
+  "phrases": [
+    "many of his comments are worthy of note",
+    "It took a while for the game to burst into life and there had been little of note prior to Chorley breaking the deadlock seven minutes before the break.",
+    "We've heard from several readers today, with comments particularly worthy of note.",
+    "It was a point worthy of note but in the grand scheme of things it was nothing more and their victory is something Spartans can be truly proud of.",
+    "There is one e-mail, however, that may be more worthy of note than the others."
+  ],
+  "origin": "Middle English (in note (sense 4 of the noun) and note (sense 1 of the verb)): from Old French note (noun), noter (verb), from Latin nota a mark, notare to mark.",
+  "pronounciation": "/nōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/note_us_1.mp3"
+}

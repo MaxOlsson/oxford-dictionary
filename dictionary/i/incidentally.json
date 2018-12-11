@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "Used when a person has something more to say, or is about to add a remark unconnected to the current subject; by the way.",
+      "examples": [
+        "incidentally, it was many months before the whole truth was discovered"
+      ],
+      "synonyms": [
+        "by the way",
+        "by the by",
+        "by the bye",
+        "in passing",
+        "en passant",
+        "speaking of which",
+        "while on the subject"
+      ]
+    },
+    {
+      "description": "In an incidental manner; as a chance occurrence.",
+      "examples": [
+        "the infection was discovered only incidentally at a postmortem examination"
+      ],
+      "synonyms": [
+        "by chance",
+        "by accident",
+        "accidentally",
+        "fortuitously",
+        "by a fluke",
+        "as luck would have it",
+        "by a twist of fate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌinsəˈdent(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incidentally_us_1.mp3"
+}

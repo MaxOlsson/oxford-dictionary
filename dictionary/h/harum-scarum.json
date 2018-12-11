@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Reckless; impetuous.",
+      "examples": [
+        "she shall be frightened out of her wits by your harum-scarum ways"
+      ],
+      "synonyms": [
+        "reckless",
+        "impetuous",
+        "impulsive",
+        "imprudent",
+        "rash",
+        "wild",
+        "daredevil",
+        "madcap",
+        "precipitous",
+        "precipitate",
+        "frivolous",
+        "hot-headed",
+        "hare-brained",
+        "giddy",
+        "foolhardy",
+        "thoughtless",
+        "incautious",
+        "careless",
+        "heedless",
+        "hasty",
+        "overhasty"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reckless, impetuous person.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century (as an adverb): reduplication based on hare and scare.",
+  "pronounciation": "/ˌhɛrəmˈskɛrəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harum_scarum_1_us_1.mp3"
+}

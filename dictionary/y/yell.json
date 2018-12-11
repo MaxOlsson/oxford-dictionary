@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A loud, sharp cry, especially of pain, surprise, or delight; a shout.",
+      "examples": [],
+      "synonyms": [
+        "cry",
+        "yelp",
+        "call",
+        "shout",
+        "howl",
+        "yowl",
+        "wail",
+        "scream",
+        "shriek",
+        "screech",
+        "squawk",
+        "squeal"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a loud, sharp cry.",
+      "examples": [
+        "you heard me yelling at her",
+        "“Happy New Year!” Ashley yelled"
+      ],
+      "synonyms": [
+        "cry out",
+        "call out",
+        "call at the top of one's voice",
+        "yelp",
+        "shout",
+        "howl",
+        "yowl",
+        "wail",
+        "scream",
+        "shriek",
+        "screech",
+        "squawk",
+        "squeal"
+      ]
+    }
+  ],
+  "origin": "Old English g(i)ellan (verb), of Germanic origin; related to Dutch gillen and German gellen.",
+  "pronounciation": "/yel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yell_us_1.mp3"
+}

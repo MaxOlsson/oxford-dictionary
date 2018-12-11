@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A secure grip with one's feet.",
+      "examples": [
+        "he suddenly lost his footing"
+      ],
+      "synonyms": [
+        "foothold",
+        "toehold",
+        "hold",
+        "grip",
+        "anchorage",
+        "purchase",
+        "secure position",
+        "firm contact",
+        "support"
+      ]
+    },
+    {
+      "description": "The basis on which something is established or operates.",
+      "examples": [
+        "attempts to establish the store on a firm financial footing"
+      ],
+      "synonyms": [
+        "basis",
+        "base",
+        "foundation",
+        "underpinning",
+        "support",
+        "cornerstone"
+      ]
+    },
+    {
+      "description": "The bottommost part of a foundation wall, with a course of concrete wider than the base of the wall.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfo͝odiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/footing_us_1.mp3"
+}

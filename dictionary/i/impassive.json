@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not feeling or showing emotion.",
+      "examples": [
+        "impassive passersby ignore the performers"
+      ],
+      "synonyms": [
+        "expressionless",
+        "unexpressive",
+        "inexpressive",
+        "inscrutable",
+        "blank",
+        "deadpan",
+        "poker-faced",
+        "straight-faced",
+        "dispassionate"
+      ]
+    }
+  ],
+  "pronounciation": "/imˈpasiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impassive_us_1.mp3"
+}

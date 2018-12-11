@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Too many to be counted (usually in hyperbolic use)",
+      "examples": [
+        "she'd spent uncountable nights in this very bed"
+      ],
+      "synonyms": [
+        "inestimable",
+        "indeterminable",
+        "untold",
+        "immeasurable",
+        "incomputable",
+        "not to be reckoned"
+      ]
+    },
+    {
+      "description": "(of a noun) that cannot form a plural or be used with the indefinite article.",
+      "examples": [
+        "courage and information are uncountable nouns"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈkoun(t)əb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncountable_us_1.mp3"
+}

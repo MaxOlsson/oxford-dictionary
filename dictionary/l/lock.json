@@ -1,0 +1,96 @@
+{
+  "noun": [
+    {
+      "description": "A mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form.",
+      "examples": [
+        "the key turned firmly in the lock"
+      ],
+      "synonyms": [
+        "bolt",
+        "catch",
+        "fastener",
+        "clasp",
+        "bar",
+        "hasp",
+        "latch"
+      ]
+    },
+    {
+      "description": "A short confined section of a canal or other waterway in which the water level can be changed by the use of gates and sluices, used for raising and lowering vessels between two gates.",
+      "examples": []
+    },
+    {
+      "description": "A person or thing that is certain to succeed; a certainty.",
+      "examples": []
+    },
+    {
+      "description": "A mechanism for exploding the charge of a gun.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or secure (something) with a lock.",
+      "examples": [
+        "she closed and locked her desk"
+      ],
+      "synonyms": [
+        "bolt",
+        "fasten",
+        "bar",
+        "secure",
+        "make secure",
+        "make fast",
+        "seal"
+      ]
+    },
+    {
+      "description": "Restrict access to the full functionality or data of (a computer, mobile phone, file, etc.), especially by requiring a user to verify their identity with a passcode or other form of authentication.",
+      "examples": [
+        "my computer is locked and I've forgotten my login info",
+        "I don't want people to read my emails—that's why I lock my phone"
+      ]
+    },
+    {
+      "description": "Make or become rigidly fixed or immovable.",
+      "examples": [
+        "he locked his hands behind her neck",
+        "their gaze locked for several long moments",
+        "the vessel was locked in ice"
+      ],
+      "synonyms": [
+        "join",
+        "interlock",
+        "mesh",
+        "engage",
+        "link",
+        "unite",
+        "connect",
+        "combine",
+        "yoke",
+        "mate"
+      ]
+    },
+    {
+      "description": "Go through a lock on a canal.",
+      "examples": [
+        "we locked through at Moore Haven"
+      ]
+    }
+  ],
+  "phrases": [
+    "It is easy to believe that the devil has a lock on what is popular.",
+    "We know that Republicans have a lock on Bible Belt social conservatives and Sun Belt business de-regulators, but why do they play so well among middle American rural voters?",
+    "To begin with, it has never been the case that professionals have a lock on publication.",
+    "If they couldn't win in 2004, they will never win, because the Republicans now have a lock on absolutely every political and judicial instrument in the country.",
+    "I don't know who's going to win - or what good it does now to pretend your guy has a lock on it.",
+    "I was locked down in a cell made for two, with five people, no working toilet, no food and no protection.",
+    "Even his incarceration could not stop him working towards his ambition of a Lonsdale Belt: I managed to train every day, even though I was locked down from eight at night until eight in the morning.",
+    "Before I was locked down, 3 troublemakers entered my cell and commenced to verbally assail my ailing celly.",
+    "they were locked in a legal battle",
+    "On the other hand, reputation also locks people into particular patterns of collaboration and interaction through reinforcement."
+  ],
+  "origin": "Old English locc, of Germanic origin; related to Dutch lok, German Locke, possibly also to lock.",
+  "pronounciation": "/läk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lock_us_1.mp3"
+}

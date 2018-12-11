@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "An improvised barrier erected across a street or other thoroughfare to prevent or delay the movement of opposing forces.",
+      "examples": [],
+      "synonyms": [
+        "barrier",
+        "obstacle",
+        "blockade",
+        "bar",
+        "fence",
+        "obstruction",
+        "roadblock",
+        "bulwark",
+        "stockade",
+        "rampart",
+        "palisade",
+        "hurdle",
+        "protection",
+        "defence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Block or defend with an improvised barrier.",
+      "examples": [
+        "he barricaded the door with a bureau",
+        "the heavily barricaded streets"
+      ],
+      "synonyms": [
+        "blockade",
+        "obstruct",
+        "close up",
+        "bar",
+        "block off",
+        "shut in",
+        "shut off",
+        "fence in",
+        "seal up",
+        "defend",
+        "protect",
+        "fortify",
+        "strengthen"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French, from barrique cask, from Spanish barrica; related to barrel (barrels often being used to build barricades).",
+  "pronounciation": "/ˈberəˌkād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/barricade_us_2.mp3"
+}

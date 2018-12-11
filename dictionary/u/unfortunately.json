@@ -1,0 +1,23 @@
+{
+  "adverb": [
+    {
+      "description": "It is unfortunate that.",
+      "examples": [
+        "unfortunately, we do not have the time to interview every applicant"
+      ],
+      "synonyms": [
+        "unluckily",
+        "sadly",
+        "regrettably",
+        "unhappily",
+        "woefully",
+        "lamentably",
+        "alas",
+        "sad to say",
+        "sad to relate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfɔrtʃ(ə)nətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfortunately_us_1.mp3"
+}

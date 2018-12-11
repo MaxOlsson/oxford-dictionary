@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A small booklet or leaflet containing information or arguments about a single subject.",
+      "examples": [
+        "he published a spate of pamphlets on the subjects about which he felt strongly"
+      ],
+      "synonyms": [
+        "brochure",
+        "leaflet",
+        "booklet",
+        "circular",
+        "flyer",
+        "handbill",
+        "handout",
+        "bill",
+        "notice",
+        "tract"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Distribute pamphlets to.",
+      "examples": [
+        "a handful of heritage-minded citizens who pamphleted their neighbors"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Pamphilet, the familiar name of the 12th-century Latin love poem Pamphilus, seu de Amore.",
+  "pronounciation": "/ˈpæmflət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pamphlet_us_1.mp3"
+}

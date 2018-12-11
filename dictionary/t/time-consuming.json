@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Taking a lot of or too much time.",
+      "examples": [
+        "an extremely time-consuming process"
+      ],
+      "synonyms": [
+        "prolonged",
+        "extended",
+        "stretched out",
+        "drawn out",
+        "long-drawn-out",
+        "lengthened",
+        "lengthy",
+        "long",
+        "overlong",
+        "dragged out",
+        "spun out",
+        "strung out",
+        "sustained",
+        "marathon"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtaɪm kənˈˌs(j)umɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/time_consuming_1_us_1.mp3"
+}

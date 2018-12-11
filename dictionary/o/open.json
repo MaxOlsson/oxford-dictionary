@@ -1,0 +1,201 @@
+{
+  "adjective": [
+    {
+      "description": "Allowing access, passage, or a view through an empty space; not closed or blocked up.",
+      "examples": [
+        "the pass is kept open all year by snowplows",
+        "it was a warm evening and the window was open",
+        "the door was wide open"
+      ],
+      "synonyms": [
+        "not shut",
+        "not closed",
+        "unlocked",
+        "unbolted",
+        "unlatched",
+        "off the latch",
+        "unfastened",
+        "unbarred",
+        "unsecured"
+      ]
+    },
+    {
+      "description": "Exposed to the air or to view; not covered.",
+      "examples": [
+        "an open fire burned in the grate",
+        "days without food and water in an open boat"
+      ]
+    },
+    {
+      "description": "With the outer edges or sides drawn away from each other; unfolded.",
+      "examples": [
+        "the trees had buds and a few open flowers"
+      ],
+      "synonyms": [
+        "spread out",
+        "unfolded",
+        "unfurled",
+        "unrolled",
+        "straightened out"
+      ]
+    },
+    {
+      "description": "(of a store, place of entertainment, etc.) officially admitting customers or visitors; available for business.",
+      "examples": [
+        "the store stays open until 9 p.m."
+      ],
+      "synonyms": [
+        "open for business",
+        "open to the public"
+      ]
+    },
+    {
+      "description": "Freely available or accessible; offered without restriction.",
+      "examples": [
+        "the service is open to all students at the university"
+      ],
+      "synonyms": [
+        "available",
+        "accessible",
+        "on hand",
+        "obtainable",
+        "on offer"
+      ]
+    },
+    {
+      "description": "(of a person) frank and communicative; not given to deception or concealment.",
+      "examples": [
+        "I was quite open about my views",
+        "she was open and naive"
+      ],
+      "synonyms": [
+        "frank",
+        "candid",
+        "honest",
+        "forthright",
+        "direct",
+        "unreserved",
+        "blunt",
+        "plain-spoken",
+        "outspoken",
+        "free-spoken",
+        "downright",
+        "not afraid to call a spade a spade"
+      ]
+    },
+    {
+      "description": "(of a question, case, or decision) not finally settled; still admitting of debate.",
+      "examples": [
+        "students' choice of major can be kept open until the second year"
+      ],
+      "synonyms": [
+        "unresolved",
+        "not yet settled",
+        "yet to be settled",
+        "undecided",
+        "unsettled",
+        "up in the air"
+      ]
+    },
+    {
+      "description": "(of a note) sounded from an open string or pipe.",
+      "examples": []
+    },
+    {
+      "description": "(of a string) allowed to vibrate along its whole length.",
+      "examples": []
+    },
+    {
+      "description": "(of an electrical circuit) having a break in the conducting path.",
+      "examples": []
+    },
+    {
+      "description": "(of a vowel) produced with a relatively wide opening of the mouth and the tongue kept low.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move or adjust (a door or window) so as to leave a space allowing access and view.",
+      "examples": [
+        "she opened the door and went in",
+        "“Open up!” he said"
+      ],
+      "synonyms": [
+        "unfasten",
+        "unlatch",
+        "unlock",
+        "unbolt",
+        "unbar"
+      ]
+    },
+    {
+      "description": "Unfold or be unfolded; spread out.",
+      "examples": [
+        "the eagle opened its wings and circled up into the air",
+        "the tail looks like a fan when it is opened out fully",
+        "the flowers never opened beyond narrow points"
+      ],
+      "synonyms": [
+        "spread out",
+        "unfold",
+        "unfurl",
+        "unroll",
+        "straighten out"
+      ]
+    },
+    {
+      "description": "Establish (a new business, movement, or enterprise)",
+      "examples": [
+        "they have opened a new restaurant across the street"
+      ]
+    },
+    {
+      "description": "Make or become officially ready for customers, visitors, or business.",
+      "examples": [
+        "one woman raised $731 by opening her home and selling coffee and tea",
+        "the mall didn't open until 10"
+      ]
+    },
+    {
+      "description": "Make available or more widely known.",
+      "examples": [
+        "new technologies open up thousands of different opportunities",
+        "the move may force the company to open up its plans for the future"
+      ]
+    },
+    {
+      "description": "Break the conducting path of (an electrical circuit)",
+      "examples": [
+        "the switch opens the motor circuit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A championship or competition with no restrictions on who may qualify to compete.",
+      "examples": [
+        "the venue for the British Open"
+      ]
+    },
+    {
+      "description": "An accidental break in the conducting path for an electrical current.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I had always been completely open with my mother",
+    "I was always open with her, and she was open with me.",
+    "He told me at the end of his submissions that he has always answered letters and been open with the position.",
+    "Be open about everything, and you'll find your partner being open with you.",
+    "At the end of the day, BAA have nothing to gain from hiding information from the public domain, which is why we have always been open with our data, in order for the information to be used in external reports and publications.",
+    "the enemy artillery had opened up",
+    "US tanks and artillery opened up, flattening houses where insurgents were thought to be hiding.",
+    "Men who went over-the-top in trenches stood little chance when the enemy opened up with their machine guns.",
+    "When their entreaties were ignored, an infantry charge was ordered, the artillery opening up behind it.",
+    "At the same time, American artillery opened up on other, less sensitive rebel strong points."
+  ],
+  "origin": "Old English open (adjective), openian (verb), of Germanic origin; related to Dutch open and German offen, from the root of the adverb up.",
+  "pronounciation": "/ˈōpən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/open_us_1.mp3"
+}

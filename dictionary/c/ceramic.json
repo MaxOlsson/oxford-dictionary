@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Made of clay and hardened by heat.",
+      "examples": [
+        "a ceramic bowl"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Pots and other articles made from clay hardened by heat.",
+      "examples": [
+        "handmade pottery and imaginative ceramics for the table"
+      ],
+      "synonyms": [
+        "pottery",
+        "pots",
+        "china",
+        "terracotta"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Greek keramikos, from keramos pottery.",
+  "pronounciation": "/səˈræmɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ceramic_us_1.mp3"
+}

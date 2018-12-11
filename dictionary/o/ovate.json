@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having an oval outline or ovoid shape, like an egg.",
+      "examples": [],
+      "synonyms": [
+        "oval",
+        "egg-shaped",
+        "elliptic",
+        "ovoid",
+        "oviform",
+        "ellipsoidal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of an order of Welsh bards recognized at an Eisteddfod.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: from the Greek plural ouateis soothsayers.",
+  "pronounciation": "/ˈävət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ovate_us_3.mp3"
+}

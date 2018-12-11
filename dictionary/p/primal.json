@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to an early stage in evolutionary development; primeval.",
+      "examples": [
+        "primal hunting societies"
+      ],
+      "synonyms": [
+        "original",
+        "initial",
+        "early",
+        "earliest",
+        "first",
+        "primitive",
+        "primeval",
+        "primary"
+      ]
+    },
+    {
+      "description": "Essential; fundamental.",
+      "examples": [
+        "rivers were the primal highways of life"
+      ],
+      "synonyms": [
+        "basic",
+        "fundamental",
+        "essential",
+        "elemental",
+        "primary",
+        "vital",
+        "central",
+        "intrinsic",
+        "indispensable",
+        "inherent",
+        "cardinal"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from medieval Latin primalis, from Latin primus first.",
+  "pronounciation": "/ˈpraɪməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/primal_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Wearing makeup.",
+      "examples": [
+        "her immaculately made-up face"
+      ],
+      "synonyms": [
+        "painted",
+        "done up",
+        "powdered",
+        "rouged"
+      ]
+    },
+    {
+      "description": "Invented; not true.",
+      "examples": [
+        "a made-up story"
+      ],
+      "synonyms": [
+        "invented",
+        "fabricated",
+        "trumped-up",
+        "concocted",
+        "devised",
+        "manufactured",
+        "fictitious",
+        "fictional",
+        "false",
+        "untrue",
+        "unreal",
+        "sham",
+        "specious",
+        "spurious",
+        "bogus",
+        "apocryphal",
+        "imaginary",
+        "mythical"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌmeɪd ˈˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/made_up_1_us_1.mp3"
+}

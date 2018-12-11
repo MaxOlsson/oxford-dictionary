@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A solemn utterance intended to invoke a supernatural power to inflict harm or punishment on someone or something.",
+      "examples": [
+        "she'd put a curse on him"
+      ],
+      "synonyms": [
+        "malediction",
+        "the evil eye",
+        "imprecation",
+        "execration",
+        "voodoo",
+        "hoodoo"
+      ]
+    },
+    {
+      "description": "An offensive word or phrase used to express anger or annoyance.",
+      "examples": [
+        "his mouth was spitting vile oaths and curses"
+      ],
+      "synonyms": [
+        "swear word",
+        "expletive",
+        "oath",
+        "profanity",
+        "four-letter word",
+        "dirty word",
+        "obscenity",
+        "imprecation",
+        "blasphemy",
+        "vulgarism",
+        "vulgarity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Invoke or use a curse against.",
+      "examples": [
+        "it often seemed as if the family had been cursed"
+      ],
+      "synonyms": [
+        "put a curse on",
+        "put the evil eye on",
+        "execrate",
+        "imprecate",
+        "hoodoo"
+      ]
+    },
+    {
+      "description": "Utter offensive words in anger or annoyance.",
+      "examples": [
+        "drivers were cursing and sounding their horns"
+      ],
+      "synonyms": [
+        "swear",
+        "utter profanities",
+        "utter oaths",
+        "use bad language",
+        "use foul language",
+        "be foul-mouthed",
+        "blaspheme",
+        "be blasphemous",
+        "take the lord's name in vain",
+        "swear like a trooper",
+        "damn"
+      ]
+    }
+  ],
+  "origin": "Old English, of unknown origin.",
+  "pronounciation": "/kərs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/curse_us_1.mp3"
+}

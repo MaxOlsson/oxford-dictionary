@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Most loved or cherished.",
+      "examples": [
+        "one of my dearest friends"
+      ],
+      "synonyms": [
+        "dear",
+        "dearest",
+        "precious",
+        "adored",
+        "loved",
+        "beloved",
+        "much loved",
+        "favourite",
+        "cherished",
+        "treasured",
+        "prized",
+        "esteemed",
+        "worshipped",
+        "idolized",
+        "lionized"
+      ]
+    },
+    {
+      "description": "Most expensive.",
+      "examples": [
+        "beer is dearest in Germany"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Used as an affectionate form of address to a much-loved person.",
+      "examples": [
+        "you make me so happy, dearest"
+      ],
+      "synonyms": [
+        "darling",
+        "love",
+        "beloved",
+        "loved one",
+        "sweetheart",
+        "sweet",
+        "precious",
+        "treasure"
+      ]
+    }
+  ],
+  "pronounciation": "/dirist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dearest_us_1.mp3"
+}

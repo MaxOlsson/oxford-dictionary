@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "The number to which an addend is added.",
+      "examples": [
+        "we can begin with the combination in which both the addend and the augend are 0's but the carry bit from the previous column is a 1"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: via German from Latin augendus, gerundive of augere to increase.",
+  "pronounciation": "/ˈôˌjend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/augend_us_1.mp3"
+}

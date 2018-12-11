@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A domestic fowl kept for its eggs or meat, especially a young one.",
+      "examples": []
+    },
+    {
+      "description": "A game in which the first person to lose nerve and withdraw from a dangerous situation is the loser.",
+      "examples": []
+    },
+    {
+      "description": "(among homosexuals) an adolescent male.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Cowardly.",
+      "examples": [
+        "they were too chicken to follow the murderers into the mountains"
+      ],
+      "synonyms": [
+        "easily frightened",
+        "lacking courage",
+        "fearful",
+        "apprehensive",
+        "afraid",
+        "frightened",
+        "scared",
+        "faint-hearted"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Withdraw from or fail in something through lack of nerve.",
+      "examples": [
+        "the referee chickened out of giving a penalty"
+      ]
+    }
+  ],
+  "origin": "Old English cīcen, cȳcen, of Germanic origin; related to Dutch kieken and German Küchlein, and probably also to cock.",
+  "pronounciation": "/ˈCHikən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chicken_us_1.mp3"
+}

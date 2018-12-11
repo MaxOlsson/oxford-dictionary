@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Poisonous.",
+      "examples": [
+        "the dumping of toxic waste",
+        "alcohol is toxic to the ovaries"
+      ],
+      "synonyms": [
+        "poisonous",
+        "venomous",
+        "virulent",
+        "noxious",
+        "dangerous",
+        "destructive",
+        "harmful",
+        "unsafe",
+        "malignant",
+        "injurious",
+        "pestilential",
+        "pernicious",
+        "environmentally unfriendly"
+      ]
+    },
+    {
+      "description": "Denoting or relating to debt which has a high risk of default.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Poisonous substances.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin toxicus poisoned, from Latin toxicum poison, from Greek toxikon (pharmakon) (poison for) arrows, from toxon bow.",
+  "pronounciation": "/ˈtɑksɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_toxic_1_us_1.mp3"
+}

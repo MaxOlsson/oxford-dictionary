@@ -1,0 +1,33 @@
+{
+  "plural noun": [
+    {
+      "description": "(in historical contexts) money or food given to poor people.",
+      "examples": [
+        "the riders stopped to distribute alms"
+      ],
+      "synonyms": [
+        "gift",
+        "gifts",
+        "donation",
+        "donations",
+        "charity",
+        "handout",
+        "handouts",
+        "bounty",
+        "benefaction",
+        "subsidy",
+        "offering",
+        "offerings",
+        "contribution",
+        "contributions",
+        "endowment",
+        "favour",
+        "favours",
+        "largesse"
+      ]
+    }
+  ],
+  "origin": "Old English ælmysse, ælmesse, from Christian Latin eleemosyna, from Greek eleēmosunē compassion, from eleēmōn compassionate, from eleos mercy.",
+  "pronounciation": "/ä(l)mz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alms_us_1.mp3"
+}

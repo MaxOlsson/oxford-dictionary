@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "(of a container) break suddenly and violently apart, spilling the contents, typically as a result of an impact or internal pressure.",
+      "examples": [
+        "we inflated dozens of balloons and only one burst"
+      ],
+      "synonyms": [
+        "split open",
+        "burst open",
+        "break open",
+        "tear open",
+        "rupture",
+        "crack",
+        "fracture",
+        "fragment",
+        "shatter",
+        "shiver",
+        "fly open"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of breaking or splitting as a result of internal pressure or puncturing; an explosion.",
+      "examples": [],
+      "synonyms": [
+        "rupture",
+        "breach",
+        "split",
+        "blowout"
+      ]
+    }
+  ],
+  "origin": "Old English berstan, of Germanic origin; related to Dutch bersten, barsten.",
+  "pronounciation": "/bərst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burst_us_1.mp3"
+}

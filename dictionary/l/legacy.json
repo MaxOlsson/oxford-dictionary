@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An amount of money or property left to someone in a will.",
+      "examples": [],
+      "synonyms": [
+        "bequest",
+        "inheritance",
+        "heritage",
+        "bequeathal",
+        "bestowal",
+        "benefaction",
+        "endowment",
+        "gift",
+        "patrimony",
+        "heirloom",
+        "settlement",
+        "birthright",
+        "provision"
+      ]
+    },
+    {
+      "description": "An applicant to a particular college or university who is regarded preferentially because a parent or other relative attended the same institution.",
+      "examples": [
+        "being a legacy increased a student's chance of being accepted to a highly selective college by up to 45 percent"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting or relating to software or hardware that has been superseded but is difficult to replace because of its wide use.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (also denoting the function or office of a deputy, especially a papal legate): from Old French legacie, from medieval Latin legatia legateship, from legatus person delegated (see legate).",
+  "pronounciation": "/ˈleɡəsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/legacy_us_1.mp3"
+}

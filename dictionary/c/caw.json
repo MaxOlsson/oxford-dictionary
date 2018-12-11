@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The harsh cry of a crow or similar bird.",
+      "examples": [],
+      "synonyms": [
+        "screech",
+        "squeal",
+        "shriek",
+        "scream",
+        "croak",
+        "crow",
+        "caw",
+        "cluck",
+        "clack",
+        "cackle",
+        "hoot",
+        "cry",
+        "call"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Utter a caw.",
+      "examples": [
+        "rooks cawed in the dark trees"
+      ],
+      "synonyms": [
+        "screech",
+        "squeal",
+        "shriek",
+        "scream",
+        "croak",
+        "crow",
+        "caw",
+        "cluck",
+        "clack",
+        "cackle",
+        "hoot",
+        "cry",
+        "call"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: imitative.",
+  "pronounciation": "/kɔ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caw_us_1.mp3"
+}

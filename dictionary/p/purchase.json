@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Acquire (something) by paying for it; buy.",
+      "examples": [
+        "Mr. Gill spotted the manuscript at a local auction and purchased it for $1,500"
+      ],
+      "synonyms": [
+        "buy",
+        "acquire",
+        "obtain",
+        "pick up",
+        "snap up",
+        "take",
+        "secure",
+        "procure",
+        "come by",
+        "pay for",
+        "shop for",
+        "invest in",
+        "put money into"
+      ]
+    },
+    {
+      "description": "Haul in (a rope or cable) or haul up (an anchor) by means of a pulley, lever, etc.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of buying something.",
+      "examples": [
+        "the large number of videos currently available for purchase",
+        "we carefully make our purchases after consulting each other"
+      ]
+    },
+    {
+      "description": "A hold or position on something for applying power advantageously, or the advantage gained by such application.",
+      "examples": [
+        "the horse's hooves fought for purchase on the slippery pavement",
+        "an attempt to gain a purchase on the soft earth"
+      ],
+      "synonyms": [
+        "grip",
+        "firm contact",
+        "attachment",
+        "hold",
+        "foothold",
+        "footing",
+        "toehold",
+        "fingerhold",
+        "anchorage",
+        "support",
+        "grasp"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French pourchacier seek to obtain or bring about, the earliest sense also in English, which soon gave rise to the senses gain (hence, in nautical use, the notion of gaining one portion of rope after another) and buy.",
+  "pronounciation": "/ˈpərtʃəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purchase_us_1.mp3"
+}

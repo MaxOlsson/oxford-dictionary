@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "(especially of an official body) absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case.",
+      "examples": [
+        "they should exonerate these men from this crime",
+        "the court-martial exonerated me"
+      ],
+      "synonyms": [
+        "absolve",
+        "clear",
+        "acquit",
+        "declare innocent",
+        "find innocent",
+        "pronounce not guilty",
+        "discharge"
+      ]
+    },
+    {
+      "description": "Release someone from (a duty or obligation).",
+      "examples": [],
+      "synonyms": [
+        "release",
+        "discharge",
+        "relieve",
+        "free",
+        "liberate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin exonerat- freed from a burden, from the verb exonerare, from ex- from + onus, oner- a burden.",
+  "pronounciation": "/ɪɡˈzɑnəˌreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exonerate_us_1.mp3"
+}

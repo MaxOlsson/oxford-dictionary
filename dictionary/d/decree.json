@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An official order issued by a legal authority.",
+      "examples": [],
+      "synonyms": [
+        "order",
+        "edict",
+        "command",
+        "commandment",
+        "mandate",
+        "proclamation",
+        "dictum",
+        "fiat",
+        "promulgation",
+        "precept"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Order (something) by decree.",
+      "examples": [
+        "the president decreed that the military was to be streamlined",
+        "the government decreed a ban on any contact with the guerrillas"
+      ],
+      "synonyms": [
+        "order",
+        "command",
+        "rule",
+        "dictate",
+        "lay down",
+        "prescribe",
+        "pronounce",
+        "proclaim",
+        "ordain"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting an edict issued by an ecclesiastical council to settle a point of doctrine or discipline): from Old French decre, decret, from Latin decretum something decided, from decernere decide.",
+  "pronounciation": "/dəˈkri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decree_us_1.mp3"
+}

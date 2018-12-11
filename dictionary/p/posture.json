@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "The position in which someone holds their body when standing or sitting.",
+      "examples": [
+        "he stood in a flamboyant posture with his hands on his hips",
+        "good posture will protect your spine"
+      ],
+      "synonyms": [
+        "bearing",
+        "carriage",
+        "comportment",
+        "way of sitting",
+        "way of standing",
+        "stance"
+      ]
+    },
+    {
+      "description": "A particular way of dealing with or considering something; an approach or attitude.",
+      "examples": [
+        "labor unions adopted a more militant posture in wage negotiations"
+      ],
+      "synonyms": [
+        "attitude",
+        "stance",
+        "stand",
+        "standpoint",
+        "view",
+        "point of view",
+        "viewpoint",
+        "opinion",
+        "position",
+        "way of thinking",
+        "frame of mind",
+        "outlook",
+        "angle",
+        "slant",
+        "perspective"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Behave in a way that is intended to impress or mislead others.",
+      "examples": [
+        "a masking of fear with macho posturing"
+      ],
+      "synonyms": [
+        "pose",
+        "strike an attitude",
+        "put on airs",
+        "attitudinize",
+        "behave affectedly",
+        "strut"
+      ]
+    },
+    {
+      "description": "Place (someone) in a particular attitude or pose.",
+      "examples": [
+        "and still these two were postured motionless"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (denoting the relative position of one thing to another): from French, from Italian postura, from Latin positura position, from posit- placed, from the verb ponere.",
+  "pronounciation": "/ˈpɑstʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/posture_us_1.mp3"
+}

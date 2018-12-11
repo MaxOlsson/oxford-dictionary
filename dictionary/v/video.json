@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The recording, reproducing, or broadcasting of moving visual images.",
+      "examples": []
+    },
+    {
+      "description": "A recording of moving visual images made digitally or on videotape.",
+      "examples": [
+        "they sat down to watch a video",
+        "a site on which people can post their own video clips"
+      ],
+      "synonyms": [
+        "cd",
+        "disc",
+        "record",
+        "single",
+        "album"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Record on videotape.",
+      "examples": [
+        "he declined an invitation to be videoed"
+      ],
+      "synonyms": [
+        "make a record of",
+        "make a recording of",
+        "tape",
+        "tape-record"
+      ]
+    }
+  ],
+  "origin": "1930s: from Latin videre to see, on the pattern of audio.",
+  "pronounciation": "/ˈvidēō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/video_us_1.mp3"
+}

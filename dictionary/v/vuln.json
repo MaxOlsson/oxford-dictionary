@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Wound.",
+      "examples": [
+        "the crest depicts a pelican vulning itself"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A vulnerability, especially one associated with computer security.",
+      "examples": [
+        "the total of 10 vulns discovered are described as highly critical"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: formed irregularly from Latin vulnerare to wound.",
+  "pronounciation": "/vəln/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vuln_us_1.mp3"
+}

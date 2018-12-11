@@ -1,0 +1,44 @@
+{
+  "adverb": [
+    {
+      "description": "In an anxious manner; apprehensively.",
+      "examples": [
+        "he glanced over his shoulder fearfully"
+      ],
+      "synonyms": [
+        "apprehensively",
+        "uneasily",
+        "nervously",
+        "timidly",
+        "timorously",
+        "diffidently",
+        "hesitantly"
+      ]
+    },
+    {
+      "description": "Dreadfully; extremely.",
+      "examples": [
+        "she was fearfully worried for the welfare of her family"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "remarkably",
+        "uncommonly",
+        "extraordinarily",
+        "incredibly",
+        "most",
+        "very",
+        "really",
+        "immensely",
+        "thoroughly",
+        "positively",
+        "decidedly",
+        "downright"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɪrfəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fearfully_us_1.mp3"
+}

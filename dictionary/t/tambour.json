@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A small drum.",
+      "examples": []
+    },
+    {
+      "description": "A circular frame for holding fabric taut while it is being embroidered.",
+      "examples": []
+    },
+    {
+      "description": "A wall of circular plan, such as one supporting a dome or surrounded by a colonnade.",
+      "examples": []
+    },
+    {
+      "description": "A sliding flexible shutter or door on a piece of furniture, made of strips of wood attached to a backing of canvas.",
+      "examples": [
+        "a tambour door"
+      ]
+    },
+    {
+      "description": "A projecting part of the wall of a tennis court.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate or embroider on a tambour.",
+      "examples": [
+        "a tamboured waistcoat"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French tambour drum; perhaps related to Persian tabīra drum. Compare with tabor.",
+  "pronounciation": "/ˈtæmbʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tambour_us_1.mp3"
+}

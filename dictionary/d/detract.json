@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Diminish the worth or value of (a quality or achievement)",
+      "examples": [
+        "these quibbles in no way detract from her achievement"
+      ],
+      "synonyms": [
+        "belittle",
+        "take away from",
+        "diminish",
+        "reduce",
+        "lessen",
+        "minimize",
+        "lower",
+        "make light of",
+        "play down",
+        "discount",
+        "soft-pedal",
+        "brush aside",
+        "gloss over",
+        "trivialize",
+        "decry",
+        "depreciate",
+        "denigrate",
+        "devalue",
+        "devaluate",
+        "deprecate"
+      ]
+    },
+    {
+      "description": "Cause someone or something to be distracted or diverted from.",
+      "examples": [
+        "the complaint was timed to detract attention from the ethics issue",
+        "the role did not include operational responsibilities that would detract him from his work"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin detract- drawn away, from the verb detrahere, from de- away from + trahere draw.",
+  "pronounciation": "/dəˈtrækt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/detract_us_1.mp3"
+}

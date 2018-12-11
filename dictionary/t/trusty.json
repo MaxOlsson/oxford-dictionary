@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Having served for a long time and regarded as reliable or faithful.",
+      "examples": [
+        "their trusty steeds",
+        "his trusty Corona typewriter"
+      ],
+      "synonyms": [
+        "reliable",
+        "dependable",
+        "trustworthy",
+        "never-failing",
+        "unfailing",
+        "tried and true",
+        "tried and trusted",
+        "trusted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A prisoner who is given special privileges or responsibilities in return for good behavior.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈtrəstē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trusty_us_1.mp3"
+}

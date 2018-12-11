@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The loss of a sound or sounds at the beginning of a word, e.g., in the derivation of adder from nadder.",
+      "examples": [],
+      "synonyms": [
+        "leaving out",
+        "exclusion",
+        "exception",
+        "non-inclusion",
+        "deletion",
+        "erasure",
+        "cut",
+        "excision",
+        "elimination",
+        "absence"
+      ]
+    },
+    {
+      "description": "The removal of blood plasma from the body by the withdrawal of blood, its separation into plasma and cells, and the reintroduction of the cells, used especially to remove antibodies in treating autoimmune diseases.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: via late Latin from Greek aphairesis, from aphairein take away, from apo from + hairein take.",
+  "pronounciation": "/əˈfɛrəsəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aphaeresis_us_2.mp3"
+}

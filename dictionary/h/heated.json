@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Made warm or hot.",
+      "examples": [
+        "a heated swimming pool"
+      ],
+      "synonyms": [
+        "made warm",
+        "made hot",
+        "warmed up"
+      ]
+    },
+    {
+      "description": "Inflamed with passion or conviction.",
+      "examples": [
+        "she had a heated argument with an official"
+      ],
+      "synonyms": [
+        "vehement",
+        "passionate",
+        "impassioned",
+        "animated",
+        "spirited",
+        "lively",
+        "intense",
+        "fiery",
+        "fervid",
+        "full-hearted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhidəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heated_us_1.mp3"
+}

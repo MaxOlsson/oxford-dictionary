@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) without a paid job but available to work.",
+      "examples": [
+        "I was unemployed for three years",
+        "a training program for the long-term unemployed"
+      ],
+      "synonyms": [
+        "jobless",
+        "out of work",
+        "out of a job",
+        "not working",
+        "between jobs",
+        "workless",
+        "unwaged",
+        "unoccupied",
+        "idle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəmˈplɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unemployed_us_1.mp3"
+}

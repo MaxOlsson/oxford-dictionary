@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "A brief statement or account of the main points of something.",
+      "examples": [
+        "a summary of Chapter Three"
+      ],
+      "synonyms": [
+        "synopsis",
+        "precis",
+        "résumé",
+        "abstract",
+        "abridgement",
+        "digest",
+        "compendium",
+        "condensation",
+        "encapsulation",
+        "abbreviated version"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Dispensing with needless details or formalities; brief.",
+      "examples": [
+        "summary financial statements"
+      ],
+      "synonyms": [
+        "abridged",
+        "abbreviated",
+        "shortened",
+        "condensed",
+        "concise",
+        "succinct",
+        "thumbnail",
+        "compact",
+        "terse",
+        "short",
+        "compressed",
+        "cursory",
+        "compendious",
+        "synoptic"
+      ]
+    },
+    {
+      "description": "(of a judicial process) conducted without the customary legal formalities.",
+      "examples": [
+        "summary arrest"
+      ],
+      "synonyms": [
+        "immediate",
+        "instant",
+        "instantaneous",
+        "on-the-spot",
+        "direct",
+        "forthwith",
+        "prompt"
+      ]
+    }
+  ],
+  "phrases": [
+    "in summary, there is no clear case for one tax system compared to another",
+    "So, in summary, the food we eat has changed immensely since the days when our dinner would have consisted of meat and two veg and is certainly much more diverse than the Ulster Fry.",
+    "He also expressed doubt that the 1500 scientists whose data Scott had compiled and presented in summary was to be relied upon or taken into account.",
+    "The Times repeats, in summary, Said's false autobiography, as though it were factual.",
+    "They've taken that away now, just telling me in summary how many clicks per day, and not telling me what people have clicked on."
+  ],
+  "origin": "Late Middle English (as an adjective): from Latin summarius, from summa sum total (see sum).",
+  "pronounciation": "/ˈsəməri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/summary_us_1.mp3"
+}

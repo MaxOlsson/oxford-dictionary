@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Mix (a substance) with another substance so that they combine together.",
+      "examples": [
+        "blend the cornstarch with a tablespoon of water",
+        "add the grated cheese and blend well"
+      ],
+      "synonyms": [
+        "mix",
+        "mingle",
+        "combine",
+        "put together",
+        "stir",
+        "whisk",
+        "fold in",
+        "jumble",
+        "merge"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mixture of different things or qualities.",
+      "examples": [
+        "Ontario offers a cultural blend you'll find nowhere else on earth",
+        "knitting yarns in mohair blends"
+      ],
+      "synonyms": [
+        "mixture",
+        "mix",
+        "combination",
+        "admixture",
+        "mingling",
+        "commingling",
+        "amalgamation",
+        "amalgam",
+        "union",
+        "conjunction",
+        "marriage",
+        "merging",
+        "compound",
+        "alloy",
+        "fusion",
+        "meld",
+        "composite",
+        "concoction",
+        "synthesis",
+        "homogenization"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably of Scandinavian origin and related to Old Norse blanda to mix.",
+  "pronounciation": "/blend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blend_us_1.mp3"
+}

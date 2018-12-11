@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The art or occupation of performing in plays, movies, or television productions.",
+      "examples": [
+        "she studied acting in New York"
+      ],
+      "synonyms": [
+        "drama",
+        "the theatre",
+        "the stage",
+        "the performing arts",
+        "dramatic art",
+        "dramatics",
+        "dramaturgy",
+        "stagecraft",
+        "theatricals",
+        "theatrics",
+        "the thespian art",
+        "show business"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Temporarily doing the duties of another person.",
+      "examples": [
+        "acting director"
+      ],
+      "synonyms": [
+        "substitute",
+        "deputy",
+        "reserve",
+        "fill-in",
+        "stand-in",
+        "caretaker"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæktɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acting_us_1.mp3"
+}

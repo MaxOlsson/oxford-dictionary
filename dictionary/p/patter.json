@@ -1,0 +1,66 @@
+{
+  "verb": [
+    {
+      "description": "Make a repeated light tapping sound.",
+      "examples": [
+        "a flurry of rain pattered against the window"
+      ],
+      "synonyms": [
+        "pitter-patter",
+        "tap",
+        "drum",
+        "clatter",
+        "beat",
+        "pound",
+        "rattle",
+        "throb",
+        "pulsate",
+        "rat-a-tat",
+        "go pit-a-pat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "thrum"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A repeated light tapping.",
+      "examples": [
+        "the rain had stopped its vibrating patter above him"
+      ],
+      "synonyms": [
+        "pitter-patter",
+        "tapping",
+        "pattering",
+        "drumming",
+        "drumbeat",
+        "clatter",
+        "beat",
+        "beating",
+        "tattoo",
+        "pounding",
+        "throb",
+        "pulsation",
+        "rat-a-tat",
+        "pit-a-pat",
+        "clack",
+        "click-clack",
+        "clacketing",
+        "thrum",
+        "thrumming"
+      ]
+    }
+  ],
+  "phrases": [
+    "I had given up hope of hearing the patter of tiny feet",
+    "Eric and Heather are expecting the patter of tiny feet on August 5",
+    "I can hear the patter of tiny feet in nine months time.",
+    "His mum hopes to welcome the patter of tiny feet with the clicking of knitting needles.",
+    "Writing in the New York Times, he speaks out for the silent minority of men who wait in hope for the patter of tiny feet."
+  ],
+  "origin": "Late Middle English (as a verb in the sense recite (a prayer, charm, etc.) rapidly): from paternoster. The noun dates from the mid 18th century.",
+  "pronounciation": "/ˈpædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/patter_us_1.mp3"
+}

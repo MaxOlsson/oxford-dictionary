@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Conforming to, permitted by, or recognized by law or rules.",
+      "examples": [
+        "it is an offense to carry a weapon in public without lawful authority"
+      ],
+      "synonyms": [
+        "legitimate",
+        "legal",
+        "licit",
+        "just",
+        "permissible",
+        "permitted",
+        "allowable",
+        "allowed",
+        "rightful",
+        "proper",
+        "constitutional",
+        "legalized",
+        "sanctioned",
+        "authorized",
+        "warranted",
+        "justified",
+        "justifiable",
+        "approved",
+        "recognized",
+        "admissible",
+        "above board",
+        "within the law",
+        "going by the rules"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlɔfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lawful_us_1.mp3"
+}

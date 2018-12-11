@@ -1,0 +1,101 @@
+{
+  "verb": [
+    {
+      "description": "(typically of something regarded as good) become smaller, fewer, or less; decrease.",
+      "examples": [
+        "the birth rate continued to decline"
+      ],
+      "synonyms": [
+        "decrease",
+        "reduce",
+        "get smaller",
+        "grow smaller",
+        "lessen",
+        "get less",
+        "diminish",
+        "wane",
+        "dwindle",
+        "contract",
+        "shrink",
+        "fall off",
+        "taper off",
+        "tail off",
+        "peter out"
+      ]
+    },
+    {
+      "description": "Politely refuse (an invitation or offer)",
+      "examples": [
+        "Caroline declined the coffee"
+      ],
+      "synonyms": [
+        "turn down",
+        "reject",
+        "brush aside",
+        "refuse",
+        "rebuff",
+        "spurn",
+        "disdain",
+        "look down one's nose at",
+        "repulse",
+        "repudiate",
+        "dismiss",
+        "forgo",
+        "deny oneself",
+        "pass up",
+        "refuse to take advantage of",
+        "turn one's back on"
+      ]
+    },
+    {
+      "description": "(especially of the sun) move downward.",
+      "examples": [],
+      "synonyms": [
+        "go down",
+        "sink",
+        "descend",
+        "drop",
+        "subside"
+      ]
+    },
+    {
+      "description": "(in the grammar of Latin, Greek, and certain other languages) state the forms of (a noun, pronoun, or adjective) corresponding to cases, number, and gender.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A gradual and continuous loss of strength, numbers, quality, or value.",
+      "examples": [
+        "a serious decline in bird numbers",
+        "a civilization in decline"
+      ],
+      "synonyms": [
+        "reduction",
+        "decrease",
+        "downturn",
+        "downswing",
+        "lowering",
+        "devaluation",
+        "depreciation",
+        "lessening",
+        "diminishing",
+        "diminution",
+        "slackening",
+        "waning",
+        "dwindling",
+        "fading",
+        "ebb",
+        "falling off",
+        "abatement",
+        "drop",
+        "slump",
+        "plunge",
+        "tumble"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French decliner, from Latin declinare bend down, turn aside, from de- down + clinare to bend.",
+  "pronounciation": "/dəˈklaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decline_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Put an end to the existence of (something) by damaging or attacking it.",
+      "examples": [
+        "the room had been destroyed by fire"
+      ],
+      "synonyms": [
+        "demolish",
+        "knock down",
+        "pull down",
+        "tear down",
+        "level",
+        "raze",
+        "raze to the ground",
+        "fell",
+        "dismantle",
+        "break up",
+        "wreck",
+        "ruin",
+        "smash",
+        "shatter",
+        "crash",
+        "blast",
+        "blow up",
+        "blow to bits",
+        "blow to pieces",
+        "dynamite",
+        "explode",
+        "bomb",
+        "torpedo"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French destruire, based on Latin destruere, from de- (expressing reversal) + struere build.",
+  "pronounciation": "/dəˈstroi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/destroy_us_1.mp3"
+}

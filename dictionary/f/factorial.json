@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "The product of an integer and all the integers below it; e.g. factorial four (4!) is equal to 24.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to a factor or factorial.",
+      "examples": [
+        "a factorial design"
+      ]
+    }
+  ],
+  "pronounciation": "/fækˈtɔriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/factorial_us_1.mp3"
+}

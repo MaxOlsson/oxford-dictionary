@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Containing or covered with grit.",
+      "examples": [],
+      "synonyms": [
+        "sandy",
+        "grainy",
+        "granular",
+        "gravelly",
+        "pebbly",
+        "stony"
+      ]
+    },
+    {
+      "description": "Showing courage and resolve.",
+      "examples": [
+        "a gritty pioneer woman"
+      ],
+      "synonyms": [
+        "courageous",
+        "brave",
+        "plucky",
+        "mettlesome",
+        "stout-hearted",
+        "lionhearted",
+        "valiant",
+        "bold",
+        "spirited",
+        "intrepid",
+        "game",
+        "hardy",
+        "tough",
+        "steely",
+        "determined",
+        "resolute",
+        "purposeful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡridē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gritty_us_2.mp3"
+}

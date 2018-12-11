@@ -1,0 +1,43 @@
+{
+  "plural noun": [
+    {
+      "description": "Testicles.",
+      "examples": [],
+      "synonyms": [
+        "gonads"
+      ]
+    },
+    {
+      "description": "Courage or nerve.",
+      "examples": [],
+      "synonyms": [
+        "self-confidence",
+        "confidence",
+        "assurance",
+        "self-assurance",
+        "coolness",
+        "cool-headedness",
+        "self-possession"
+      ]
+    },
+    {
+      "description": "Nonsense; rubbish (often said to express strong disagreement).",
+      "examples": [],
+      "synonyms": [
+        "rubbish",
+        "balderdash",
+        "gibberish",
+        "claptrap",
+        "blarney",
+        "guff",
+        "blather",
+        "blether"
+      ]
+    }
+  ],
+  "phrases": [
+    "they've got us by the balls, and they know it"
+  ],
+  "pronounciation": "/bôlz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/balls_us_1.mp3"
+}

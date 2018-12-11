@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A device controlling the flow of fuel or power to an engine.",
+      "examples": [
+        "the engines were at full throttle"
+      ]
+    },
+    {
+      "description": "A throat, gullet, or windpipe.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack or kill (someone) by choking or strangling them.",
+      "examples": [
+        "she was sorely tempted to throttle him",
+        "international sanctions were then throttling the country's economy"
+      ],
+      "synonyms": [
+        "choke",
+        "strangle",
+        "strangulate",
+        "garrotte",
+        "asphyxiate",
+        "smother",
+        "suffocate",
+        "stifle"
+      ]
+    },
+    {
+      "description": "Control (an engine or vehicle) with a throttle.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): perhaps a frequentative, from throat; the noun (dating from the mid 16th century in sense 2) is perhaps a diminutive of throat, but the history of the word is not clear.",
+  "pronounciation": "/ˈTHrädl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/throttle_us_1.mp3"
+}

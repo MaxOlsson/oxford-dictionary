@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A strip of porous material up which liquid fuel is drawn by capillary action to the flame in a candle, lamp, or lighter.",
+      "examples": [],
+      "synonyms": [
+        "candle",
+        "spill",
+        "night light"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Absorb or draw off (liquid) by capillary action.",
+      "examples": [
+        "these excellent socks will wick away the sweat",
+        "synthetics with hollow fibers that wick well"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Quick, lively, or active.",
+      "examples": [
+        "Martha's approaching her century and as wick as a flea"
+      ],
+      "synonyms": [
+        "cheerful",
+        "cheery",
+        "happy",
+        "merry",
+        "jolly",
+        "joyful",
+        "gleeful",
+        "glad"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: variant of quick.",
+  "pronounciation": "/wɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wick_us_1.mp3"
+}

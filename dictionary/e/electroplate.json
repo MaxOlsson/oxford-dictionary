@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Coat (a metal object) by electrolytic deposition with chromium, silver, or another metal.",
+      "examples": [
+        "all the processes involved in electroplating",
+        "electroplated copper"
+      ],
+      "synonyms": [
+        "cover",
+        "coat",
+        "overlay",
+        "laminate",
+        "veneer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Electroplated articles.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈlɛktrəˌpleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/electroplate_us_1.mp3"
+}

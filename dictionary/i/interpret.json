@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Explain the meaning of (information, words, or actions)",
+      "examples": [
+        "the evidence is difficult to interpret"
+      ],
+      "synonyms": [
+        "explain",
+        "elucidate",
+        "expound",
+        "explicate",
+        "clarify",
+        "make clear",
+        "make plain",
+        "illuminate",
+        "shed light on",
+        "throw light on"
+      ]
+    },
+    {
+      "description": "Translate orally or into sign language the words of a person speaking a different language.",
+      "examples": [
+        "I agreed to interpret for Jean-Claude"
+      ],
+      "synonyms": [
+        "translate",
+        "transcribe",
+        "transliterate",
+        "rewrite",
+        "convert"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French interpreter or Latin interpretari explain, translate, from interpres, interpret- agent, translator, interpreter.",
+  "pronounciation": "/ɪnˈtərprət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interpret_us_1.mp3"
+}

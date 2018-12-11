@@ -1,0 +1,48 @@
+{
+  "preposition": [
+    {
+      "description": "Extending or directly underneath, typically with close contact.",
+      "examples": [
+        "in the labyrinths beneath central Moscow"
+      ]
+    },
+    {
+      "description": "At a lower level or layer than.",
+      "examples": [
+        "beneath this floor there's a cellar",
+        "her eyes were dull with dark shadows beneath them"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extending or directly underneath something.",
+      "examples": [
+        "a house built on stilts to allow air to circulate beneath"
+      ],
+      "synonyms": [
+        "underneath",
+        "below",
+        "further down",
+        "lower down",
+        "in a lower place"
+      ]
+    },
+    {
+      "description": "At a lower level or layer.",
+      "examples": [
+        "the runways had cracked open, exposing the black earth beneath"
+      ],
+      "synonyms": [
+        "down",
+        "downward",
+        "lower",
+        "below",
+        "underneath"
+      ]
+    }
+  ],
+  "origin": "Old English binithan, bineothan, from bi (see by) + nithan, neothan below, of Germanic origin; related to nether.",
+  "pronounciation": "/bəˈniθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beneath_us_1.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Divide up and share.",
+      "examples": [
+        "they divvied up the proceeds"
+      ],
+      "synonyms": [
+        "allocation",
+        "allotment",
+        "issuing",
+        "issuance",
+        "awarding",
+        "grant",
+        "granting",
+        "administration",
+        "earmarking",
+        "designation",
+        "setting aside",
+        "budgeting"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dividend or share, especially of profits earned by a cooperative.",
+      "examples": [],
+      "synonyms": [
+        "share",
+        "portion",
+        "percentage",
+        "premium",
+        "return",
+        "payback",
+        "gain",
+        "surplus",
+        "profit"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Foolish; stupid.",
+      "examples": [],
+      "synonyms": [
+        "foolish",
+        "stupid",
+        "unintelligent",
+        "idiotic",
+        "brainless",
+        "mindless",
+        "witless",
+        "imbecilic",
+        "imbecile",
+        "doltish"
+      ]
+    }
+  ],
+  "origin": "1970s: of unknown origin.",
+  "pronounciation": "/ˈdivē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/divvy_us_1.mp3"
+}

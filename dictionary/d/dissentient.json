@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "In opposition to a majority or official opinion.",
+      "examples": [
+        "dissentient voices were castigated as “hopeless bureaucrats.”"
+      ],
+      "synonyms": [
+        "dissenting",
+        "dissident",
+        "disagreeing",
+        "differing",
+        "discordant",
+        "contradicting",
+        "contrary",
+        "negative",
+        "anti-"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who opposes a majority or official opinion.",
+      "examples": [],
+      "synonyms": [
+        "dissenter",
+        "protester",
+        "rebel",
+        "renegade",
+        "freethinker",
+        "apostate",
+        "heretic",
+        "schismatic",
+        "recusant",
+        "seceder",
+        "individualist",
+        "free spirit",
+        "maverick",
+        "unorthodox person",
+        "eccentric",
+        "original",
+        "deviant",
+        "misfit",
+        "hippy",
+        "dropout",
+        "fish out of water",
+        "outsider"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin dissentient- differing in opinion, from the verb dissentire.",
+  "pronounciation": "/dəˈsenSHənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dissentient_us_2.mp3"
+}

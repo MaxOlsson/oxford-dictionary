@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A flat, typically round piece of metal with an official stamp, used as money.",
+      "examples": [],
+      "synonyms": [
+        "piece",
+        "bit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (coins) by stamping metal.",
+      "examples": [],
+      "synonyms": [
+        "mint",
+        "stamp",
+        "stamp out",
+        "strike",
+        "cast",
+        "punch",
+        "die",
+        "mould",
+        "forge",
+        "make",
+        "manufacture",
+        "produce"
+      ]
+    },
+    {
+      "description": "Invent or devise (a new word or phrase)",
+      "examples": [
+        "he coined the term “desktop publishing.”"
+      ],
+      "synonyms": [
+        "invent",
+        "create",
+        "make up",
+        "devise",
+        "conceive",
+        "originate",
+        "think up",
+        "dream up",
+        "formulate",
+        "fabricate"
+      ]
+    }
+  ],
+  "phrases": [
+    "On the other side of the coin, credit must go to whoever is responsible for ensuring the approach roads to the factory are kept clear.",
+    "Well, the other side of the coin, of course, is that if you do not pursue them, sometimes you can be criticised for not doing your job properly.",
+    "On the other side of the coin, I have been exceptionally positive.",
+    "On the other side of the coin, cereal growers are receiving much-improved grain and oilseed prices as a result of a good harvest and a weakening of the pound against the euro.",
+    "However, on the other side of the coin, nurses are subjected on a daily basis to abuse, both verbal and often physical, more so in the A and E department."
+  ],
+  "origin": "Middle English: from Old French coin wedge, corner, die, coigner to mint, from Latin cuneus wedge. The original sense was cornerstone, later angle or wedge (senses now spelled quoin); in late Middle English the term denoted a die for stamping money, or a piece of money produced by such a die.",
+  "pronounciation": "/kɔɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coin_us_1.mp3"
+}

@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Add (an item of data awaiting processing) to a queue of such items.",
+      "examples": [
+        "the system is built with an ability to enqueue requests"
+      ]
+    }
+  ],
+  "pronounciation": "/enˈkyo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enqueue_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "(of a star or light, or a shiny object) shine with a gleam that varies repeatedly between bright and faint.",
+      "examples": [
+        "the lights twinkled in the distance"
+      ],
+      "synonyms": [
+        "glitter",
+        "sparkle",
+        "shine",
+        "glimmer",
+        "shimmer",
+        "glint",
+        "gleam",
+        "scintillate",
+        "glisten",
+        "flicker",
+        "flash",
+        "wink",
+        "blink"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sparkle or gleam in a person's eyes.",
+      "examples": [],
+      "synonyms": [
+        "glitter",
+        "sparkle",
+        "twinkling",
+        "glimmer",
+        "shimmer",
+        "glint",
+        "gleam",
+        "flicker",
+        "dazzle",
+        "flash",
+        "wink",
+        "blink"
+      ]
+    }
+  ],
+  "origin": "Old English twinclian (verb), of Germanic origin.",
+  "pronounciation": "/ˈtwɪŋk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/twinkle_us_1.mp3"
+}

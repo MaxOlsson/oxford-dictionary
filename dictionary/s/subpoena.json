@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A writ ordering a person to attend a court.",
+      "examples": [
+        "a subpoena may be issued to compel their attendance",
+        "they were all under subpoena to appear"
+      ],
+      "synonyms": [
+        "order",
+        "command",
+        "directive",
+        "direction",
+        "decree",
+        "edict",
+        "injunction",
+        "mandate",
+        "dictate",
+        "commandment",
+        "diktat",
+        "demand",
+        "bidding",
+        "requirement",
+        "stipulation",
+        "charge",
+        "ruling",
+        "pronouncement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Summon (someone) with a subpoena.",
+      "examples": [
+        "the Queen is above the law and cannot be subpoenaed"
+      ],
+      "synonyms": [
+        "summon",
+        "summons",
+        "serve with a summons",
+        "serve with a writ",
+        "call"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Latin sub poena under penalty (the first words of the writ). Use as a verb dates from the mid 17th century.",
+  "pronounciation": "/səˈpēnə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subpoena_us_1.mp3"
+}

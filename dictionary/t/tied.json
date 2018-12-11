@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Fastened or attached with string or similar cord.",
+      "examples": [
+        "a neatly tied package"
+      ]
+    },
+    {
+      "description": "(of a game or contest) with both or more competitors or teams achieving the same score.",
+      "examples": [
+        "the first tied match in the league",
+        "a tied vote"
+      ]
+    },
+    {
+      "description": "(of a house) occupied subject to the tenant's working for its owner.",
+      "examples": [
+        "agricultural workers living in tied accommodation"
+      ]
+    }
+  ],
+  "pronounciation": "/tʌɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tied_gb_1.mp3"
+}

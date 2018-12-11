@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Cultured, refined, and well mannered.",
+      "examples": [
+        "it is more couth to hold your shrimp by the tail"
+      ],
+      "synonyms": [
+        "courteous",
+        "polite",
+        "civil",
+        "chivalrous",
+        "well mannered",
+        "decorous",
+        "gentlemanly",
+        "ladylike",
+        "civilized",
+        "tactful",
+        "diplomatic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Good manners; refinement.",
+      "examples": [
+        "their hockey team had more talent but less couth"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: back-formation from uncouth.",
+  "pronounciation": "/ko͞oTH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/couth_us_1.mp3"
+}

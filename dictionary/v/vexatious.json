@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Causing or tending to cause annoyance, frustration, or worry.",
+      "examples": [
+        "the vexatious questions posed by software copyrights"
+      ],
+      "synonyms": [
+        "annoying",
+        "vexing",
+        "irritating",
+        "irksome",
+        "displeasing",
+        "infuriating",
+        "maddening",
+        "exasperating",
+        "provoking",
+        "galling",
+        "rankling",
+        "grating",
+        "jarring",
+        "harassing",
+        "harrying",
+        "bothersome",
+        "tiresome",
+        "troublesome",
+        "niggling"
+      ]
+    }
+  ],
+  "pronounciation": "/vekˈsāSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vexatious_us_1.mp3"
+}

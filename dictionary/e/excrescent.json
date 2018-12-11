@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Forming or constituting an excrescence.",
+      "examples": [],
+      "synonyms": [
+        "bulging",
+        "bulbous",
+        "popping",
+        "swelling",
+        "swollen",
+        "distended",
+        "sticking out",
+        "jutting",
+        "jutting out",
+        "protruding"
+      ]
+    },
+    {
+      "description": "(of a speech sound) added without etymological justification (e.g. the -t at the end of the surname Bryant).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌikˈskres(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/excrescent_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of clothing) flattering a person's appearance.",
+      "examples": [
+        "what a becoming dress!",
+        "New beret? It's very becoming"
+      ],
+      "synonyms": [
+        "flattering",
+        "fetching",
+        "attractive",
+        "lovely",
+        "pretty",
+        "handsome",
+        "stylish",
+        "elegant",
+        "chic",
+        "fashionable",
+        "comely",
+        "tasteful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process of coming to be something or of passing into a state.",
+      "examples": [
+        "a series of poem sketches in a state of becoming"
+      ]
+    }
+  ],
+  "pronounciation": "/bəˈkəmiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/becoming_us_1.mp3"
+}

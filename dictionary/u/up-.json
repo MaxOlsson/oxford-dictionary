@@ -1,0 +1,28 @@
+{
+  "prefix": [
+    {
+      "description": "(added to verbs and their derivatives) upward.",
+      "examples": [
+        "upturned",
+        "upthrow"
+      ]
+    },
+    {
+      "description": "(added to nouns) denoting (direction of) motion up.",
+      "examples": [
+        "upriver",
+        "uphill",
+        "upwind"
+      ]
+    },
+    {
+      "description": "(added to nouns) higher.",
+      "examples": [
+        "upland",
+        "upstroke"
+      ]
+    }
+  ],
+  "pronounciation": "/əp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/up_1_us_1.mp3"
+}

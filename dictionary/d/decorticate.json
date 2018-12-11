@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Remove the bark, rind, or husk from.",
+      "examples": [
+        "decorticated peanuts"
+      ],
+      "synonyms": [
+        "peel",
+        "remove",
+        "take off",
+        "flake",
+        "scrape",
+        "scratch",
+        "shave",
+        "abrade",
+        "rub",
+        "clear",
+        "clean"
+      ]
+    },
+    {
+      "description": "Subject to surgical decortication.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to an animal that has had the cortex of the brain removed or separated.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: from Latin decorticat- stripped of its bark, from the verb decorticare, from de- (expressing removal) + cortex, cortic- bark.",
+  "pronounciation": "/dēˈkôrdəˌkāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decorticate_us_1.mp3"
+}

@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "A period of time.",
+      "examples": [
+        "we chatted for a while",
+        "she retired a little while ago"
+      ],
+      "synonyms": [
+        "time",
+        "spell",
+        "stretch",
+        "stint",
+        "span",
+        "season",
+        "interval",
+        "period",
+        "period of time",
+        "length of time",
+        "duration",
+        "run",
+        "phase",
+        "stage",
+        "term"
+      ]
+    },
+    {
+      "description": "At the same time; meanwhile.",
+      "examples": [
+        "he starts to draw, talking the while"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "During the time that; at the same time as.",
+      "examples": [
+        "nothing much changed while he was away"
+      ]
+    },
+    {
+      "description": "Whereas (indicating a contrast)",
+      "examples": [
+        "one person wants out, while the other wants the relationship to continue"
+      ]
+    }
+  ],
+  "relative adverb": [
+    {
+      "description": "During which.",
+      "examples": [
+        "the period while the animal remains alive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pass time in a leisurely manner.",
+      "examples": [
+        "a diversion to while away the long afternoons"
+      ],
+      "synonyms": [
+        "pass",
+        "spend",
+        "occupy",
+        "use up",
+        "kill",
+        "beguile"
+      ]
+    }
+  ],
+  "origin": "Old English hwīl period of time, of Germanic origin; related to Dutch wijl, German Weile; the conjunction is an abbreviation of Old English thā hwīle the the while that.",
+  "pronounciation": "/(h)waɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/while_us_1.mp3"
+}

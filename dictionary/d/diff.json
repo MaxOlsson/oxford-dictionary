@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A program that compares files in order to determine how or whether they differ.",
+      "examples": [
+        "the drawback to this is that the diff does not indicate metadata changes",
+        "given two files, the diff program generates a listing that highlights the differences between them"
+      ]
+    },
+    {
+      "description": "A set of gears allowing a motor vehicle's driven wheels to revolve at different speeds when going around corners; a differential gear.",
+      "examples": []
+    },
+    {
+      "description": "A difference.",
+      "examples": [
+        "what is the diff between monkeys and apes?"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Compare (files) in order to determine how or whether they differ.",
+      "examples": [
+        "you should be able to diff the two files, thereby speeding up this step considerably"
+      ]
+    }
+  ],
+  "pronounciation": "/dɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diff_us_1.mp3"
+}

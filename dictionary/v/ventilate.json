@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Cause air to enter and circulate freely in (a room, building, etc.)",
+      "examples": [
+        "ventilate the greenhouse well",
+        "gas heaters should only ever be used in well-ventilated rooms"
+      ],
+      "synonyms": [
+        "aerate",
+        "air",
+        "oxygenate",
+        "air-condition",
+        "fan",
+        "freshen",
+        "refresh",
+        "cool"
+      ]
+    },
+    {
+      "description": "Discuss or examine (an opinion, issue, or complaint) in public.",
+      "examples": [
+        "he used the club to ventilate an ongoing complaint"
+      ],
+      "synonyms": [
+        "express",
+        "give expression to",
+        "air",
+        "give an airing to",
+        "bring into the open",
+        "raise",
+        "register",
+        "lodge",
+        "bring up",
+        "come out with",
+        "reveal",
+        "assert",
+        "declare",
+        "communicate",
+        "utter",
+        "voice",
+        "give voice to",
+        "put into words",
+        "verbalize",
+        "talk about",
+        "discuss",
+        "debate",
+        "talk over"
+      ]
+    },
+    {
+      "description": "Subject to artificial respiration.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense winnow, scatter): from Latin ventilat- blown, winnowed, from the verb ventilare, from ventus wind. Sense 1 dates from the mid 18th century.",
+  "pronounciation": "/ˈven(t)əˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ventilate_us_1.mp3"
+}

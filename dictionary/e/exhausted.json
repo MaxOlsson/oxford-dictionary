@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Drained of one's physical or mental resources; very tired.",
+      "examples": [
+        "I was cold and exhausted",
+        "she returned home, exhausted from her day in the city"
+      ],
+      "synonyms": [
+        "tired out",
+        "worn out",
+        "weary",
+        "dog-tired",
+        "bone-tired",
+        "bone-weary",
+        "ready to drop",
+        "on one's last legs",
+        "asleep on one's feet",
+        "drained",
+        "fatigued",
+        "enervated",
+        "debilitated",
+        "spent"
+      ]
+    },
+    {
+      "description": "(of resources or reserves) completely used up.",
+      "examples": [
+        "Karl spat, his patience suddenly exhausted"
+      ],
+      "synonyms": [
+        "used up",
+        "at an end",
+        "consumed",
+        "finished",
+        "spent",
+        "depleted"
+      ]
+    }
+  ],
+  "pronounciation": "/iɡˈzôstəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exhausted_us_1.mp3"
+}

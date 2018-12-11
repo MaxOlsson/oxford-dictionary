@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) ready for use or consideration.",
+      "examples": [
+        "prepare a brief summary of the article"
+      ],
+      "synonyms": [
+        "make ready",
+        "get ready",
+        "put together",
+        "draw up",
+        "produce",
+        "arrange",
+        "develop",
+        "assemble",
+        "construct",
+        "compose",
+        "edit",
+        "devise",
+        "work out",
+        "think up",
+        "conceive",
+        "formulate",
+        "concoct",
+        "fashion",
+        "work up",
+        "lay"
+      ]
+    },
+    {
+      "description": "Make (someone) ready or able to do or deal with something.",
+      "examples": [
+        "schools should prepare children for life",
+        "she took time off to prepare for her exams",
+        "by this time I was prepared for anything"
+      ],
+      "synonyms": [
+        "ready",
+        "set",
+        "all set",
+        "equipped",
+        "primed",
+        "in a fit state"
+      ]
+    },
+    {
+      "description": "(in conventional harmony) lead up to (a discord) by means of preparation.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French préparer or Latin praeparare, from prae before + parare make ready.",
+  "pronounciation": "/prəˈpɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prepare_us_1.mp3"
+}

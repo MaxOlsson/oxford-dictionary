@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "The action of distorting or the state of being distorted.",
+      "examples": [
+        "the virus causes distortion of the leaves",
+        "deliberate distortions of pitch and timbre"
+      ],
+      "synonyms": [
+        "warp",
+        "twist",
+        "contortion",
+        "bend",
+        "buckle",
+        "deformation",
+        "deformity",
+        "curve",
+        "curvature",
+        "malformation",
+        "disfigurement",
+        "crookedness"
+      ]
+    },
+    {
+      "description": "The action of giving a misleading account or impression.",
+      "examples": [
+        "we're tired of the media's continuing distortion of our issues"
+      ],
+      "synonyms": [
+        "misrepresentation",
+        "perversion",
+        "twisting",
+        "falsification",
+        "misreporting",
+        "misstatement",
+        "manipulation"
+      ]
+    },
+    {
+      "description": "Change in the form of an electrical signal or sound wave during processing.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/dəˈstôrSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distortion_us_1.mp3"
+}

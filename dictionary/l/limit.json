@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A point or level beyond which something does not or may not extend or pass.",
+      "examples": [
+        "the limits of presidential power",
+        "the 10-minute limit on speeches",
+        "there was no limit to his imagination"
+      ]
+    },
+    {
+      "description": "A restriction on the size or amount of something permissible or possible.",
+      "examples": [
+        "an age limit",
+        "a weight limit"
+      ],
+      "synonyms": [
+        "maximum",
+        "ceiling",
+        "limitation",
+        "upper limit"
+      ]
+    },
+    {
+      "description": "A point or value that a sequence, function, or sum of a series can be made to approach progressively, until it is as close to the point or value as desired.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Set or serve as a limit to.",
+      "examples": [
+        "try to limit the amount you drink",
+        "class sizes are limited to a maximum of 10"
+      ],
+      "synonyms": [
+        "restrict",
+        "curb",
+        "check",
+        "place a limit on",
+        "cap",
+        "keep within bounds",
+        "hold in check",
+        "restrain",
+        "put a brake on",
+        "hold",
+        "freeze",
+        "peg"
+      ]
+    }
+  ],
+  "phrases": [
+    "Generally I don't have much fear of clambering over things and taking risks but this was the limit.",
+    "they declared the site off limits",
+    "Up to recently these waters were off limits to Western travelers.",
+    "Authorities made the area off limits to fishing, leaving hundreds out of work.",
+    "Places that are off limits are especially interesting and should be explored thoroughly."
+  ],
+  "origin": "Late Middle English: from Latin limes, limit- boundary, frontier. The verb is from Latin limitare, from limes.",
+  "pronounciation": "/ˈlimit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/limit_us_1.mp3"
+}

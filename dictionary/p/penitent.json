@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or showing sorrow and regret for having done wrong; repentant.",
+      "examples": [
+        "a penitent expression"
+      ],
+      "synonyms": [
+        "repentant",
+        "contrite",
+        "regretful",
+        "remorseful",
+        "sorry",
+        "apologetic",
+        "conscience-stricken",
+        "rueful",
+        "ashamed",
+        "shamefaced",
+        "abject"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who repents their sins or wrongdoings and (in the Christian Church) seeks forgiveness from God.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin paenitent- repenting, from the verb paenitere.",
+  "pronounciation": "/ˈpɛnətnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/penitent_us_3.mp3"
+}

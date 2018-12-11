@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An exact copy, especially of written or printed material.",
+      "examples": [],
+      "synonyms": [
+        "copy",
+        "reproduction",
+        "duplicate",
+        "photocopy",
+        "mimeograph",
+        "mimeo",
+        "replica",
+        "likeness",
+        "carbon",
+        "carbon copy",
+        "print",
+        "reprint",
+        "offprint",
+        "image"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a copy of.",
+      "examples": [
+        "the ride was facsimiled for Disney World"
+      ]
+    }
+  ],
+  "phrases": [
+    "The five Edinburgh price books reproduced here in facsimile present detailed labor costs for each of the many procedures needed to make each of the furniture forms covered.",
+    "The publication in facsimile of F.M. Piper's 1811-12 manuscript on the design of English landscape parks is a major event for garden historians.",
+    "Her novels, with an introduction by P. Koster, were reproduced in facsimile in 1971.",
+    "To read Eric Gill's books, still available in facsimile editions, in which Gill used & to replace and throughout the text, is to come face-to- face with an anachronism.",
+    "What were obvious forgeries were reproduced in facsimile in J. M. Stuart-Young's preposterous book, Osrac the Self-Sufficient."
+  ],
+  "origin": "Late 16th century (originally as fac simile, denoting the making of an exact copy, especially of writing): modern Latin, from Latin fac! (imperative of facere make) and simile (neuter of similis like).",
+  "pronounciation": "/fakˈsiməlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/facsimile_us_1.mp3"
+}

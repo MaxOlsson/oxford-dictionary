@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "(of a problem or difficulty) trouble or threaten persistently.",
+      "examples": [
+        "the social problems that beset the inner city",
+        "she was beset with self-doubt",
+        "poverty is a besetting problem"
+      ],
+      "synonyms": [
+        "plague",
+        "bedevil",
+        "attack",
+        "assail",
+        "beleaguer",
+        "afflict",
+        "torment",
+        "torture",
+        "rack",
+        "oppress",
+        "trouble",
+        "worry",
+        "bother",
+        "harass",
+        "hound",
+        "harry",
+        "dog"
+      ]
+    },
+    {
+      "description": "Be covered or studded with.",
+      "examples": [
+        "blades of grass beset with glistening drops of dew"
+      ]
+    }
+  ],
+  "origin": "Old English besettan, from be- about + settan (see set).",
+  "pronounciation": "/bəˈset/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beset_us_1.mp3"
+}

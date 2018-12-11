@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A long journey involving travel by sea or in space.",
+      "examples": [
+        "writing a biography is a voyage of discovery",
+        "a six-year voyage to Jupiter"
+      ],
+      "synonyms": [
+        "journey",
+        "trip",
+        "expedition",
+        "excursion",
+        "tour",
+        "hike",
+        "trek",
+        "tramp",
+        "safari",
+        "pilgrimage",
+        "quest",
+        "crusade",
+        "odyssey"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go on a long journey, typically by sea or in space.",
+      "examples": [
+        "he has voyaged through places like Venezuela and Peru"
+      ],
+      "synonyms": [
+        "journey",
+        "tour",
+        "take a trip",
+        "go on a trip",
+        "go on an expedition",
+        "go on an excursion",
+        "go sightseeing",
+        "globetrot",
+        "backpack"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun denoting a journey): from Old French voiage, from Latin viaticum provisions for a journey (in late Latin journey).",
+  "pronounciation": "/ˈvoiij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/voyage_us_1.mp3"
+}

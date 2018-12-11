@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Leave the main subject temporarily in speech or writing.",
+      "examples": [
+        "I have digressed a little from my original plan"
+      ],
+      "synonyms": [
+        "deviate",
+        "go off at a tangent",
+        "diverge",
+        "turn aside",
+        "turn away",
+        "depart",
+        "drift",
+        "stray",
+        "ramble",
+        "wander",
+        "meander",
+        "maunder"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin digress- stepped away, from the verb digredi, from di- aside + gradi to walk.",
+  "pronounciation": "/dīˈɡres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/digress_us_1_rr.mp3"
+}

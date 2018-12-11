@@ -1,0 +1,14 @@
+{
+  "noun": [
+    {
+      "description": "The property of a function of retaining its form when the variables are linearly transformed.",
+      "examples": []
+    },
+    {
+      "description": "The mean value of the product of the deviations of two variates from their respective means.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌkoʊˈvɛriəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/covariance_us_1.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A gentle sheen or soft glow, especially that of a partly reflective surface.",
+      "examples": [
+        "the luster of the Milky Way",
+        "she couldn't eat and her hair lost its luster"
+      ],
+      "synonyms": [
+        "sheen",
+        "gloss",
+        "glossiness",
+        "shine",
+        "brightness",
+        "radiance",
+        "burnish",
+        "polish",
+        "patina",
+        "glow",
+        "gleam",
+        "glimmer",
+        "shimmer"
+      ]
+    },
+    {
+      "description": "A thin coating containing unoxidized metal which gives an iridescent glaze to ceramics.",
+      "examples": [],
+      "synonyms": [
+        "glaze",
+        "lacquer",
+        "shellac",
+        "varnish",
+        "enamel",
+        "patina",
+        "coat",
+        "coating",
+        "covering",
+        "finish"
+      ]
+    },
+    {
+      "description": "A fabric or yarn with a sheen or gloss.",
+      "examples": []
+    },
+    {
+      "description": "A prismatic glass pendant on a chandelier or other ornament.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: from French, from Italian lustro, from the verb lustrare, from Latin lustrare illuminate.",
+  "pronounciation": "/ˈləstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/luster_us_1.mp3"
+}

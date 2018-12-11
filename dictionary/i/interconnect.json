@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Connect with each other.",
+      "examples": [
+        "the way human activities interconnect with the environment",
+        "a high-speed data service can interconnect the hundreds of thousands of host computers and workstations"
+      ],
+      "synonyms": [
+        "connecting",
+        "connected",
+        "interconnecting",
+        "adjacent",
+        "abutting",
+        "neighbouring",
+        "bordering",
+        "next-door"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A device used to connect two things together.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌɪn(t)ərkəˈnɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interconnect_us_1.mp3"
+}

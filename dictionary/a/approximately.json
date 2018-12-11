@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "Used to show that something is almost, but not completely, accurate or exact; roughly.",
+      "examples": [
+        "a journey of approximately two hours"
+      ],
+      "synonyms": [
+        "roughly",
+        "about",
+        "around",
+        "just about",
+        "round about",
+        "or so",
+        "or thereabouts",
+        "more or less",
+        "in the neighbourhood of",
+        "in the region of",
+        "in the area of",
+        "in the vicinity of",
+        "of the order of",
+        "something like",
+        "give or take",
+        "give or take a few",
+        "in round numbers",
+        "rounded down",
+        "rounded up"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈpräksəmətlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/approximately_us_1.mp3"
+}

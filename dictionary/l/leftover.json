@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "Something, especially food, remaining after the rest has been used or consumed.",
+      "examples": [],
+      "synonyms": [
+        "residue",
+        "survivor",
+        "legacy",
+        "vestige",
+        "trace"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Remaining; surplus.",
+      "examples": [
+        "yesterday's leftover bread"
+      ],
+      "synonyms": [
+        "remaining",
+        "left"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈleftˌōvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leftover_us_1.mp3"
+}

@@ -1,0 +1,16 @@
+{
+  "adjective": [
+    {
+      "description": "Spoken with or characterized by a particular accent.",
+      "examples": [
+        "he spoke in slightly accented English"
+      ]
+    },
+    {
+      "description": "(of a word or syllable) marked with a stress or other accent.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈækˌsɛn(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accented_us_1.mp3"
+}

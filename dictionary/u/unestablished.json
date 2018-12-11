@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not established.",
+      "examples": [
+        "unestablished denominations"
+      ],
+      "synonyms": [
+        "unconfirmed",
+        "unsupported",
+        "uncorroborated",
+        "not backed up by evidence",
+        "unverified",
+        "unattested",
+        "unproven",
+        "not validated",
+        "untested"
+      ]
+    },
+    {
+      "description": "Not forming part of the permanent staff.",
+      "examples": [
+        "an unestablished professor of anatomy"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnɛˈstablɪʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unestablished_gb_1_8.mp3"
+}

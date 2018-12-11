@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Lower in rank, status, or quality.",
+      "examples": [
+        "schooling in inner-city areas was inferior to that in the rest of the country"
+      ],
+      "synonyms": [
+        "lower in status",
+        "lesser",
+        "second-class",
+        "second-fiddle",
+        "minor",
+        "subservient",
+        "lowly",
+        "humble",
+        "menial",
+        "not very important",
+        "not so important",
+        "below someone",
+        "beneath someone",
+        "under someone's heel"
+      ]
+    },
+    {
+      "description": "Low or lower in position.",
+      "examples": [
+        "ulcers located in the inferior and posterior wall of the duodenum"
+      ]
+    },
+    {
+      "description": "(of a letter, figure, or symbol) written or printed below the line.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person lower than another in rank, status, or ability.",
+      "examples": [
+        "her social and intellectual inferiors"
+      ],
+      "synonyms": [
+        "subordinate",
+        "junior",
+        "underling",
+        "minion",
+        "menial"
+      ]
+    },
+    {
+      "description": "An inferior letter, figure, or symbol.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in inferior (sense 2 of the adjective)): from Latin, comparative of inferus low.",
+  "pronounciation": "/ˌinˈfirēər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inferior_us_1.mp3"
+}

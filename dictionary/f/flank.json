@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "The side of a person's or animal's body between the ribs and the hip.",
+      "examples": [
+        "leaning against his horse's flanks"
+      ],
+      "synonyms": [
+        "side",
+        "haunch",
+        "loin",
+        "quarter",
+        "thigh"
+      ]
+    },
+    {
+      "description": "The right or left side of a body of people such as an army, a naval force, or a soccer team.",
+      "examples": [
+        "the left flank of the Russian Third Army"
+      ],
+      "synonyms": [
+        "side",
+        "wing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be situated on each side of or on one side of (someone or something)",
+      "examples": [
+        "the fireplace is flanked by built-in bookshelves"
+      ],
+      "synonyms": [
+        "edge",
+        "bound",
+        "line",
+        "border",
+        "fringe",
+        "skirt",
+        "be situated along"
+      ]
+    }
+  ],
+  "origin": "Late Old English, from Old French flanc, of Germanic origin.",
+  "pronounciation": "/flæŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flank_us_1.mp3"
+}

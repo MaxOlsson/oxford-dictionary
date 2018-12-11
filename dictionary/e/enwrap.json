@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Wrap; envelop.",
+      "examples": [
+        "the book jacket enwraps a plain blue paper binding"
+      ],
+      "synonyms": [
+        "envelop",
+        "surround",
+        "swathe",
+        "enfold",
+        "cover",
+        "cover up",
+        "conceal",
+        "hide",
+        "secrete",
+        "camouflage",
+        "disguise",
+        "mask",
+        "screen",
+        "shield",
+        "cloak",
+        "blanket",
+        "shroud",
+        "canopy",
+        "overlay"
+      ]
+    }
+  ],
+  "pronounciation": "/ənˈræp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enwrap_us_1.mp3"
+}

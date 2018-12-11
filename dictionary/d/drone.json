@@ -1,0 +1,67 @@
+{
+  "verb": [
+    {
+      "description": "Make a continuous low humming sound.",
+      "examples": [
+        "in the far distance a machine droned"
+      ],
+      "synonyms": [
+        "hum",
+        "buzz",
+        "whir",
+        "vibrate",
+        "murmur",
+        "rumble",
+        "purr",
+        "hiss",
+        "whisper",
+        "sigh"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A low continuous humming sound.",
+      "examples": [
+        "he nodded off to the drone of the car engine"
+      ],
+      "synonyms": [
+        "hum",
+        "buzz",
+        "whir",
+        "whirring",
+        "vibration",
+        "murmur",
+        "murmuring",
+        "purr",
+        "purring",
+        "hiss",
+        "hissing",
+        "whisper",
+        "whispering",
+        "sigh"
+      ]
+    },
+    {
+      "description": "A continuous musical note of low pitch.",
+      "examples": [],
+      "synonyms": [
+        "hum",
+        "drone",
+        "singing",
+        "note"
+      ]
+    },
+    {
+      "description": "A male bee in a colony of social bees, which does no work but can fertilize a queen.",
+      "examples": []
+    },
+    {
+      "description": "A remote-controlled pilotless aircraft or missile.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English drān, drǣn male bee, from a West Germanic verb meaning resound, boom; related to Dutch dreunen to drone, German dröhnen to roar, and Swedish dröna to drowse.",
+  "pronounciation": "/drōn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drone_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a tutor or a tutor's instruction.",
+      "examples": [
+        "tutorial sessions"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A period of instruction given by a university or college tutor to an individual or very small group.",
+      "examples": [],
+      "synonyms": [
+        "lesson",
+        "class",
+        "seminar",
+        "period of instruction",
+        "period of teaching"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Latin tutorius (see tutor) + -al.",
+  "pronounciation": "/t(j)uˈtɔriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tutorial_us_1.mp3"
+}

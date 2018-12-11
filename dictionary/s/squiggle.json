@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A short line that curls and loops in an irregular way.",
+      "examples": [
+        "some prescriptions are a series of meaningless squiggles"
+      ],
+      "synonyms": [
+        "signature",
+        "autograph",
+        "cross",
+        "x",
+        "scribble",
+        "initials",
+        "imprint"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wriggle; squirm.",
+      "examples": [
+        "a worm that squiggled in his palm"
+      ],
+      "synonyms": [
+        "meander",
+        "snake",
+        "twist",
+        "twist and turn",
+        "tack",
+        "wind",
+        "weave",
+        "wander",
+        "wiggle",
+        "undulate"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: perhaps a blend of squirm and wiggle or wriggle.",
+  "pronounciation": "/ˈskwɪɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squiggle_us_1.mp3"
+}

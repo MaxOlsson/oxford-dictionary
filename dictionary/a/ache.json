@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A continuous or prolonged dull pain in a part of one's body.",
+      "examples": [
+        "the ache in her head worsened"
+      ],
+      "synonyms": [
+        "pain",
+        "dull pain",
+        "pang",
+        "twinge",
+        "throb"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Suffer from a continuous dull pain.",
+      "examples": [
+        "my legs ached from the previous day's exercise",
+        "I'm aching all over"
+      ],
+      "synonyms": [
+        "painful",
+        "achy",
+        "sore",
+        "stiff",
+        "hurt",
+        "tender",
+        "uncomfortable",
+        "troublesome"
+      ]
+    }
+  ],
+  "phrases": [
+    "Good posture can minimize discomfort and keep aches and pains at a minimum.",
+    "The signs of cold or flu are sneezing, coughing, a sore throat, fever, or minor aches and pains.",
+    "However, now he had returned to England, he had developed generalised muscle aches and pains and a vague malaise.",
+    "Sir Evelyn said despite a few sore backs and minor aches and pains, the ride had been a great success.",
+    "I still get aches and pains in my muscles but what could have happened when the car fell just doesn't bear thinking about."
+  ],
+  "origin": "Old English æce (noun), acan (verb). In Middle English and early modern English the noun was spelled atche and rhymed with batch and the verb was spelled and pronounced as it is today. The noun began to be pronounced like the verb around 1700. The modern spelling is largely due to Dr Johnson, who mistakenly assumed its derivation to be from Greek akhos pain.",
+  "pronounciation": "/eɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ache_us_1.mp3"
+}

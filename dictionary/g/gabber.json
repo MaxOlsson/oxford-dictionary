@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Talk in a rapid, excited way.",
+      "examples": [
+        "well, that's enough of me gabbering about myself"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who talks a great deal.",
+      "examples": [
+        "barristers earn their exorbitant fees by being gifted gabbers"
+      ],
+      "synonyms": [
+        "talker",
+        "chatterer",
+        "jabberer",
+        "babbler",
+        "prattler",
+        "blatherer",
+        "prater"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from gab + -er.",
+  "pronounciation": "/ˈɡabə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gabber_gb_1.mp3"
+}

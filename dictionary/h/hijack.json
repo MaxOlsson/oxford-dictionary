@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.",
+      "examples": [
+        "three armed men hijacked a white van"
+      ],
+      "synonyms": [
+        "commandeer",
+        "seize",
+        "take over",
+        "take possession of",
+        "skyjack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An incident or act of hijacking.",
+      "examples": [],
+      "synonyms": [
+        "seizure",
+        "seizing",
+        "taking",
+        "taking over",
+        "taking away",
+        "appropriation",
+        "appropriating",
+        "commandeering",
+        "expropriation",
+        "expropriating",
+        "confiscation",
+        "confiscating",
+        "requisition",
+        "requisitioning",
+        "hijack",
+        "hijacking",
+        "wresting",
+        "usurping",
+        "pre-empting",
+        "arrogation",
+        "claiming"
+      ]
+    }
+  ],
+  "origin": "1920s (originally US): of unknown origin.",
+  "pronounciation": "/ˈhaɪˌdʒæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hijack_us_1.mp3"
+}

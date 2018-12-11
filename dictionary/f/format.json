@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The way in which something is arranged or set out.",
+      "examples": [
+        "the format of the funeral service"
+      ],
+      "synonyms": [
+        "configuration",
+        "arrangement",
+        "pattern",
+        "array",
+        "alignment",
+        "positioning",
+        "disposition",
+        "order",
+        "ordering",
+        "organization",
+        "design",
+        "marshalling",
+        "grouping",
+        "layout"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially in computing) arrange or put into a format.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: via French and German from Latin formatus (liber) shaped (book), past participle of formare to form.",
+  "pronounciation": "/ˈfôrˌmat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/format_us_1.mp3"
+}

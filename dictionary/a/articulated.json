@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having two or more sections connected by a flexible joint.",
+      "examples": [
+        "eight articulated trailer coaches",
+        "the trilobite's thorax has a variable number of articulated segments"
+      ],
+      "synonyms": [
+        "hinged",
+        "jointed",
+        "segmented"
+      ]
+    },
+    {
+      "description": "(of an idea or feeling) expressed; put into words.",
+      "examples": [
+        "one of the first articulated emotions that you will hear from a child",
+        "the lack of a clearly articulated policy"
+      ]
+    }
+  ],
+  "pronounciation": "/ärˈtikyəˌlādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/articulated_us_2.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Including a wide variety of things; all-embracing.",
+      "examples": [
+        "her tastes are pretty catholic"
+      ],
+      "synonyms": [
+        "diverse",
+        "diversified",
+        "wide",
+        "broad",
+        "broad-based",
+        "eclectic",
+        "indiscriminate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of the Roman Catholic Church.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French catholique or late Latin catholicus, from Greek katholikos universal, from kata in respect of + holos whole.",
+  "pronounciation": "/ˈkaTH(ə)lik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catholic_us_2.mp3"
+}

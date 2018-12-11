@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Help (someone), typically by doing a share of the work.",
+      "examples": [
+        "a senior academic would assist him in his work",
+        "their presence would assist in keeping the peace",
+        "he assisted her to find employment"
+      ],
+      "synonyms": [
+        "help",
+        "aid",
+        "abet",
+        "lend a hand to",
+        "lend a helping hand to",
+        "give assistance to",
+        "be of use to",
+        "oblige",
+        "accommodate",
+        "serve",
+        "be of service to",
+        "do someone a service",
+        "do someone a favour",
+        "do someone a good turn",
+        "bail someone out",
+        "come to someone's rescue"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of helping, typically by providing money.",
+      "examples": [
+        "the budget must have an assist from tax policies"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French assister, from Latin assistere take one's stand by, from ad- to, at + sistere take one's stand.",
+  "pronounciation": "/əˈsist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assist_us_1.mp3"
+}

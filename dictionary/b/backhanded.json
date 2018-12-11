@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Made with the back of the hand facing in the direction of movement.",
+      "examples": [
+        "a backhanded pass"
+      ]
+    },
+    {
+      "description": "Indirect; ambiguous or insincere.",
+      "examples": [
+        "coming from me, teasing is a backhanded compliment"
+      ],
+      "synonyms": [
+        "indirect",
+        "ambiguous",
+        "oblique",
+        "equivocal"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With the back of the hand or with the hand turned backward.",
+      "examples": [
+        "Frank hit him backhanded"
+      ]
+    }
+  ],
+  "pronounciation": "/bakˈhandəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/backhanded_us_1.mp3"
+}

@@ -1,0 +1,161 @@
+{
+  "verb": [
+    {
+      "description": "Use or expend carelessly, extravagantly, or to no purpose.",
+      "examples": [
+        "we can't afford to waste electricity",
+        "I don't use the car, so why should I waste precious money on it?"
+      ],
+      "synonyms": [
+        "squander",
+        "fritter away",
+        "misspend",
+        "misuse",
+        "spend recklessly",
+        "throw away",
+        "lavish",
+        "be wasteful with",
+        "dissipate",
+        "spend like water",
+        "throw around like confetti"
+      ]
+    },
+    {
+      "description": "(of a person or a part of the body) become progressively weaker and more emaciated.",
+      "examples": [
+        "she was visibly wasting away"
+      ],
+      "synonyms": [
+        "grow weak",
+        "wither",
+        "atrophy",
+        "become emaciated",
+        "shrivel up",
+        "shrink",
+        "decay"
+      ]
+    },
+    {
+      "description": "Devastate or ruin (a place)",
+      "examples": [
+        "he seized their cattle and wasted their country"
+      ],
+      "synonyms": [
+        "destroy",
+        "devastate",
+        "lay waste",
+        "leave in ruins",
+        "wreak havoc on",
+        "ravage",
+        "leave desolate"
+      ]
+    },
+    {
+      "description": "(of time) pass away; be spent.",
+      "examples": [
+        "the years were wasting"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a material, substance, or byproduct) eliminated or discarded as no longer useful or required after the completion of a process.",
+      "examples": [
+        "ensure that waste materials are disposed of responsibly",
+        "plants produce oxygen as a waste product"
+      ],
+      "synonyms": [
+        "unwanted",
+        "excess",
+        "superfluous",
+        "left over",
+        "scrap",
+        "extra",
+        "unused",
+        "useless",
+        "worthless"
+      ]
+    },
+    {
+      "description": "(of an area of land, typically in a city or town) not used, cultivated, or built on.",
+      "examples": [
+        "a patch of waste ground"
+      ],
+      "synonyms": [
+        "uncultivated",
+        "barren",
+        "desert",
+        "unproductive",
+        "infertile",
+        "unfruitful",
+        "arid",
+        "bare"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of using or expending something carelessly, extravagantly, or to no purpose.",
+      "examples": [
+        "it's a waste of time trying to argue with him",
+        "they had learned to avoid waste"
+      ],
+      "synonyms": [
+        "squandering",
+        "dissipation",
+        "frittering away",
+        "misspending",
+        "misuse",
+        "misapplication",
+        "misemployment",
+        "abuse"
+      ]
+    },
+    {
+      "description": "Material that is not wanted; the unusable remains or byproducts of something.",
+      "examples": [
+        "bodily waste",
+        "hazardous industrial wastes"
+      ],
+      "synonyms": [
+        "rubbish",
+        "refuse",
+        "litter",
+        "debris",
+        "dross",
+        "junk",
+        "detritus",
+        "scrap"
+      ]
+    },
+    {
+      "description": "A large area of barren, typically uninhabited land.",
+      "examples": [
+        "the icy wastes of the Antarctic"
+      ],
+      "synonyms": [
+        "desert",
+        "wasteland",
+        "wilderness",
+        "barrenness",
+        "emptiness",
+        "vastness",
+        "wilds"
+      ]
+    },
+    {
+      "description": "Damage to an estate caused by an act or by neglect, especially by a life-tenant.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Another reason I have started the practice at least on a small scale is that I hate to see so much potential going to waste.",
+    "Planning your meals ahead may save you money and lots of food and drink going to waste in the bin or down the drain",
+    "With a daily outflow of 450 million litres, that's a lot of potentially very useful water going to waste.",
+    "Did the parents who saw their kids at the protest have any concerns about their tuition dollars going to waste?",
+    "The coffee harvest has been going to waste, everyday life has been disrupted."
+  ],
+  "origin": "Middle English: from Old Northern French wast(e) (noun), waster (verb), based on Latin vastus unoccupied, uncultivated.",
+  "pronounciation": "/wāst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/waste_us_1.mp3"
+}

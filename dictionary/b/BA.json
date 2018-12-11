@@ -1,0 +1,30 @@
+{
+  "": [
+    {
+      "description": "The chemical element barium.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Bachelor of Arts.",
+      "examples": [
+        "David Brown, BA"
+      ],
+      "synonyms": [
+        "degree holder",
+        "person with a degree"
+      ]
+    },
+    {
+      "description": "Buenos Aires.",
+      "examples": []
+    },
+    {
+      "description": "Batting average.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌbiˈeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ba_abbrev_1_us_3_abbr.mp3"
+}

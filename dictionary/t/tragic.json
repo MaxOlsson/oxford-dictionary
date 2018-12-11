@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Causing or characterized by extreme distress or sorrow.",
+      "examples": [
+        "the shooting was a tragic accident"
+      ],
+      "synonyms": [
+        "disastrous",
+        "calamitous",
+        "catastrophic",
+        "cataclysmic",
+        "devastating",
+        "terrible",
+        "dreadful",
+        "appalling",
+        "horrendous",
+        "dire",
+        "ruinous",
+        "gruesome",
+        "awful",
+        "miserable",
+        "wretched",
+        "unfortunate"
+      ]
+    },
+    {
+      "description": "Relating to tragedy in a literary work.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century: from French tragique, via Latin from Greek tragikos, from tragos goat, but associated with tragōidia (see tragedy).",
+  "pronounciation": "/ˈtrædʒɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tragic_us_1.mp3"
+}

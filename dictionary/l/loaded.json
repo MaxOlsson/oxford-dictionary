@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Carrying or bearing a load, especially a large one.",
+      "examples": [
+        "a heavily loaded freight train"
+      ],
+      "synonyms": [
+        "full",
+        "filled",
+        "laden",
+        "packed",
+        "burdened",
+        "stuffed",
+        "crammed",
+        "brimming",
+        "freighted",
+        "stacked"
+      ]
+    },
+    {
+      "description": "Weighted or biased toward a particular outcome.",
+      "examples": [
+        "a trick like the one with the loaded dice"
+      ],
+      "synonyms": [
+        "biased",
+        "rigged",
+        "fixed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈloʊdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loaded_us_1.mp3"
+}

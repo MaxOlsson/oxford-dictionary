@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Without any sun.",
+      "examples": [
+        "a sunless winter day"
+      ],
+      "synonyms": [
+        "dark",
+        "overcast",
+        "cloudy",
+        "grey",
+        "gloomy",
+        "dismal",
+        "dreary",
+        "murky",
+        "hazy",
+        "louring",
+        "lowering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sunless_us_2.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Planned for or about to happen in the near future.",
+      "examples": [
+        "the forthcoming baseball season"
+      ],
+      "synonyms": [
+        "imminent",
+        "impending",
+        "coming",
+        "approaching",
+        "advancing",
+        "nearing",
+        "near"
+      ]
+    },
+    {
+      "description": "(of something required) ready or made available when wanted or needed.",
+      "examples": [
+        "financial support was not forthcoming"
+      ],
+      "synonyms": [
+        "available",
+        "made available",
+        "ready",
+        "at hand",
+        "accessible",
+        "obtainable",
+        "at someone's disposal",
+        "on offer"
+      ]
+    }
+  ],
+  "pronounciation": "/fôrTHˈkəmiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forthcoming_us_1_rr.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A heavy, flat iron plate that is heated and used for cooking food.",
+      "examples": []
+    },
+    {
+      "description": "A miner's wire-bottomed sieve.",
+      "examples": [],
+      "synonyms": [
+        "sieve",
+        "riddle",
+        "sifter",
+        "strainer",
+        "colander",
+        "filter",
+        "winnow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cook on a griddle.",
+      "examples": [
+        "the vegetables can be griddled the day before and kept covered in the fridge"
+      ]
+    },
+    {
+      "description": "Screen (ore) with a griddle.",
+      "examples": [
+        "black copper ore is generally griddled out"
+      ],
+      "synonyms": [
+        "sieve",
+        "riddle",
+        "sift",
+        "strain",
+        "filter",
+        "sort",
+        "winnow"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a gridiron): from Old French gredil, from Latin craticula, diminutive of cratis hurdle; related to crate, grate, and grill.",
+  "pronounciation": "/ˈɡridl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/griddle_us_1.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Be constantly or visibly worried or anxious.",
+      "examples": [
+        "she fretted about the cost of groceries",
+        "I fretted that my fingers were so skinny"
+      ],
+      "synonyms": [
+        "worry",
+        "be anxious",
+        "feel uneasy",
+        "be distressed",
+        "be upset",
+        "upset oneself",
+        "concern oneself",
+        "feel unhappy"
+      ]
+    },
+    {
+      "description": "Gradually wear away (something) by rubbing or gnawing.",
+      "examples": [
+        "the bay's black waves fret the seafront"
+      ],
+      "synonyms": [
+        "erode",
+        "wear away",
+        "wear down",
+        "eat away",
+        "eat away at",
+        "chip away",
+        "chip away at",
+        "bite into",
+        "corrode",
+        "consume",
+        "devour"
+      ]
+    },
+    {
+      "description": "Flow or move in small waves.",
+      "examples": [
+        "soft clay that fretted between his toes"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state of anxiety or worry.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: of unknown origin.",
+  "pronounciation": "/fret/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fret_us_1.mp3"
+}

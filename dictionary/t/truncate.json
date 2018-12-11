@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Shorten (something) by cutting off the top or the end.",
+      "examples": [
+        "a truncated cone shape",
+        "discussion was truncated by the arrival of tea"
+      ],
+      "synonyms": [
+        "shorten",
+        "cut",
+        "cut short",
+        "curtail",
+        "dock",
+        "prune",
+        "trim",
+        "lop",
+        "abbreviate",
+        "telescope"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a leaf, feather, or other part) ending abruptly as if cut off across the base or tip.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century (earlier ( Middle English) as truncation): from Latin truncat- maimed, from the verb truncare.",
+  "pronounciation": "/ˈtrəŋˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/truncate_us_1.mp3"
+}

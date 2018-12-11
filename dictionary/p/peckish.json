@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Hungry.",
+      "examples": [
+        "we were both feeling a bit peckish and there was nothing to eat"
+      ],
+      "synonyms": [
+        "irritable",
+        "irascible",
+        "fractious",
+        "fretful",
+        "cross",
+        "petulant",
+        "pettish",
+        "crabbed",
+        "crabby",
+        "crotchety",
+        "cantankerous",
+        "curmudgeonly",
+        "disagreeable",
+        "miserable",
+        "morose",
+        "peppery",
+        "on edge",
+        "edgy",
+        "impatient",
+        "complaining",
+        "querulous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɛkɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peckish_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A name derived from the name of a father or ancestor, typically by the addition of a prefix or suffix, e.g., Johnson, O'Brien, Ivanovich.",
+      "examples": [],
+      "synonyms": [
+        "family name",
+        "last name"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting or relating to a name derived from the name of a father or male ancestor.",
+      "examples": [
+        "the patronymic naming of children"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: via late Latin from Greek patrōnumikos, from patrōnumos, from patēr, patr- father + onuma name.",
+  "pronounciation": "/ˌpætrəˈnɪmɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/patronymic_us_1.mp3"
+}

@@ -1,0 +1,119 @@
+{
+  "noun": [
+    {
+      "description": "A rough path or minor road, typically one beaten by use rather than constructed.",
+      "examples": [
+        "follow the track to the farm",
+        "a forest track"
+      ],
+      "synonyms": [
+        "path",
+        "pathway",
+        "footpath",
+        "lane",
+        "trail",
+        "route",
+        "way",
+        "course"
+      ]
+    },
+    {
+      "description": "A mark or line of marks left by a person, animal, or vehicle in passing.",
+      "examples": [
+        "he followed the tracks made by the cars in the snow"
+      ],
+      "synonyms": [
+        "traces",
+        "marks",
+        "impressions",
+        "prints",
+        "imprints"
+      ]
+    },
+    {
+      "description": "A continuous line of rails on a railroad.",
+      "examples": [],
+      "synonyms": [
+        "rail",
+        "line"
+      ]
+    },
+    {
+      "description": "A recording of one song or piece of music.",
+      "examples": [
+        "the CD contains early Elvis Presley tracks"
+      ],
+      "synonyms": [
+        "song",
+        "recording",
+        "number",
+        "piece"
+      ]
+    },
+    {
+      "description": "A continuous articulated metal band around the wheels of a heavy vehicle such as a tank or bulldozer, intended to facilitate movement over rough or soft ground.",
+      "examples": []
+    },
+    {
+      "description": "The transverse distance between a vehicle's wheels.",
+      "examples": []
+    },
+    {
+      "description": "A group in which schoolchildren of the same age and ability are taught.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Follow the course or trail of (someone or something), typically in order to find them or note their location at various points.",
+      "examples": [
+        "secondary radars that track the aircraft in flight",
+        "he tracked Anna to her room"
+      ],
+      "synonyms": [
+        "follow",
+        "trail",
+        "trace",
+        "pursue",
+        "shadow",
+        "stalk",
+        "dog",
+        "spoor",
+        "hunt",
+        "hunt down",
+        "chase",
+        "hound",
+        "course",
+        "keep an eye on",
+        "keep in sight"
+      ]
+    },
+    {
+      "description": "(of wheels) run so that the back ones are exactly in the track of the front ones.",
+      "examples": []
+    },
+    {
+      "description": "(of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.",
+      "examples": []
+    },
+    {
+      "description": "Assign (a student) to a course of study according to ability.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Turner immediately stopped dead in his tracks",
+    "He suddenly stopped dead in his tracks with an extremely amused look on his face.",
+    "Heavens above, I don't think that expression of view is going to sort of stop communications policy in its tracks.",
+    "That member should have been stopped in his tracks from the very moment he got to his feet.",
+    "That was why the Janitor who pursued them earlier had halted so suddenly in his tracks.",
+    "Once again, your only problem will be trying to track down a copy!",
+    "The school is investigating the incident in a bid to track down the culprit.",
+    "He lay unconscious for five hours before a 40-strong search team tracked him down.",
+    "If done properly, DNA evidence can be a powerful tool in tracking down criminals.",
+    "Major advances in forensic science could help police track down the killer of a newborn baby murdered four years ago."
+  ],
+  "origin": "Early 18th century: apparently from Dutch trekken to draw, pull, or travel. The change in the vowel was due to association with track.",
+  "pronounciation": "/trak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/track_us_1.mp3"
+}

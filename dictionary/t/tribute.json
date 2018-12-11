@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "An act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+      "examples": [
+        "the video is a tribute to the musicals of the 40s",
+        "a symposium organized to pay tribute to Darwin"
+      ],
+      "synonyms": [
+        "accolade",
+        "praise",
+        "commendation",
+        "acclaim",
+        "acclamation",
+        "salute",
+        "testimonial",
+        "paean",
+        "eulogy",
+        "panegyric",
+        "encomium",
+        "homage"
+      ]
+    },
+    {
+      "description": "Payment made periodically by one state or ruler to another, especially as a sign of dependence.",
+      "examples": [
+        "the king had at his disposal plunder and tribute amassed through warfare"
+      ],
+      "synonyms": [
+        "payment",
+        "contribution",
+        "dues",
+        "levy",
+        "tax",
+        "duty",
+        "impost",
+        "tariff",
+        "charge"
+      ]
+    },
+    {
+      "description": "A proportion of ore or its equivalent, paid to a miner for his work, or to the owner or lessor of a mine.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in tribute (sense 2)): from Latin tributum, neuter past participle (used as a noun) of tribuere assign (originally divide between tribes), from tribus tribe.",
+  "pronounciation": "/ˈtrɪbjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tribute_us_1.mp3"
+}

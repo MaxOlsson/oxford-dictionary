@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An act of waking from sleep.",
+      "examples": []
+    },
+    {
+      "description": "An act or moment of becoming suddenly aware of something.",
+      "examples": [
+        "the war came as a rude awakening to the hardships of life"
+      ],
+      "synonyms": [
+        "understanding",
+        "insight",
+        "education",
+        "learning",
+        "knowledge",
+        "awareness",
+        "information",
+        "erudition",
+        "wisdom",
+        "instruction",
+        "teaching"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Coming into existence or awareness.",
+      "examples": [
+        "his awakening desire",
+        "an awakening conscience"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈwāk(ə)niNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/awakening_us_1.mp3"
+}

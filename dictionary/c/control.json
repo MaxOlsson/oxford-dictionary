@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "The power to influence or direct people's behavior or the course of events.",
+      "examples": [
+        "the whole operation is under the control of a production manager",
+        "the situation was slipping out of her control"
+      ],
+      "synonyms": [
+        "jurisdiction",
+        "sway",
+        "power",
+        "authority",
+        "command",
+        "dominance",
+        "domination",
+        "government",
+        "mastery",
+        "leadership",
+        "rule",
+        "reign",
+        "sovereignty",
+        "supremacy",
+        "ascendancy",
+        "predominance",
+        "hegemony"
+      ]
+    },
+    {
+      "description": "A group or individual used as a standard of comparison for checking the results of a survey or experiment.",
+      "examples": [
+        "they saw no difference between the cancer patients and the controls"
+      ],
+      "synonyms": [
+        "standard of comparison",
+        "benchmark",
+        "standard",
+        "check"
+      ]
+    },
+    {
+      "description": "A member of an intelligence organization who personally directs the activities of a spy.",
+      "examples": []
+    },
+    {
+      "description": "A high card that will prevent the opponents from establishing a particular suit.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Determine the behavior or supervise the running of.",
+      "examples": [
+        "he was appointed to control the company's marketing strategy"
+      ],
+      "synonyms": [
+        "be in charge of",
+        "run",
+        "be in control of",
+        "manage",
+        "direct",
+        "administer",
+        "head",
+        "preside over",
+        "have authority over",
+        "supervise",
+        "superintend",
+        "oversee",
+        "guide",
+        "steer"
+      ]
+    },
+    {
+      "description": "Take into account (an extraneous factor that might affect results) when performing an experiment.",
+      "examples": [
+        "no attempt was made to control for variations"
+      ]
+    }
+  ],
+  "phrases": [
+    "I felt calm and in control",
+    "Waiting too long can leave you feeling that you're not in control of other aspects of your life.",
+    "His letter confirmed that the council knows what it is doing and is in control.",
+    "People need to feel that they are in control of their health and that what they do directly impinges on it.",
+    "They are rarely in control of all that goes on in front of and behind the camera and thus have to leave a great deal to fate."
+  ],
+  "origin": "Late Middle English (as a verb in the sense check or verify accounts, especially by referring to a duplicate register): from Anglo-Norman French contreroller keep a copy of a roll of accounts, from medieval Latin contrarotulare, from contrarotulus copy of a roll, from contra- against + rotulus a roll. The noun is perhaps via French contrôle.",
+  "pronounciation": "/kənˈtrōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontrol_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "(of sums of money) be expressed in a specified monetary unit.",
+      "examples": [
+        "the borrowings were denominated in U.S. dollars"
+      ]
+    },
+    {
+      "description": "Call; name.",
+      "examples": [
+        "the whole train was denominated a “bull-outfit.”"
+      ],
+      "synonyms": [
+        "call",
+        "name",
+        "term",
+        "designate",
+        "style",
+        "dub",
+        "label",
+        "entitle"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in denominate (sense 2)): from Latin denominat- named, from the verb denominare, from de- away, formally + nominare to name (from nomen, nomin- name). denominate (sense 1) dates from the mid 20th century.",
+  "pronounciation": "/dəˈnɑməˌneɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/denominate_us_1.mp3"
+}

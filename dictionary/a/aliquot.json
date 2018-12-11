@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A portion of a larger whole, especially a sample taken for chemical analysis or other treatment.",
+      "examples": [
+        "an aliquot was examined daily for the appearance of cholesterol monohydrate crystals"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide (a whole) into aliquots; take aliquots from (a whole)",
+      "examples": [
+        "this solution was then aliquoted for three separate mass spectrometer analyses"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French aliquote, from Latin aliquot some, so many, from alius one of two + quot how many.",
+  "pronounciation": "/ˈæləˌkwɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aliquot_us_1.mp3"
+}

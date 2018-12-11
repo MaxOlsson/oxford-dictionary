@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Anxious or fearful that something bad or unpleasant will happen.",
+      "examples": [
+        "he felt apprehensive about going home",
+        "they were apprehensive that something might go wrong"
+      ],
+      "synonyms": [
+        "anxious",
+        "alarmed",
+        "worried",
+        "uneasy",
+        "nervous",
+        "concerned",
+        "agitated",
+        "restless",
+        "edgy",
+        "on edge",
+        "fidgety",
+        "tense",
+        "strained",
+        "stressed",
+        "neurotic",
+        "panicky",
+        "afraid",
+        "scared",
+        "frightened",
+        "fearful",
+        "terrified"
+      ]
+    },
+    {
+      "description": "Relating to perception or understanding.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in apprehensive (sense 2)): from French appréhensif or medieval Latin apprehensivus, from Latin apprehendere seize, grasp (see apprehend).",
+  "pronounciation": "/ˌæprəˈhɛnsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/apprehensive_us_1.mp3"
+}

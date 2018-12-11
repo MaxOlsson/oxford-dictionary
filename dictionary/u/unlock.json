@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Undo the lock of (something) by using a key.",
+      "examples": [
+        "he unlocked the door to his room"
+      ],
+      "synonyms": [
+        "unbolt",
+        "unlatch",
+        "unbar",
+        "undo",
+        "unfasten",
+        "unpick",
+        "unseal",
+        "unclose",
+        "open",
+        "free",
+        "throw open",
+        "throw wide"
+      ]
+    },
+    {
+      "description": "Use a password or other form of authentication to access the full functionality or data of (a computer, mobile phone, file, etc.)",
+      "examples": [
+        "when you unlock your phone, you're presented with the home screen—the interface that shows off all your apps"
+      ]
+    }
+  ],
+  "pronounciation": "/ənˈlɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlock_us_1.mp3"
+}

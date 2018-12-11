@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) recovering from an illness or operation.",
+      "examples": [],
+      "synonyms": [
+        "recuperating",
+        "recovering",
+        "getting better",
+        "on the road to recovery",
+        "improving",
+        "making progress"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is recovering after an illness or operation.",
+      "examples": [],
+      "synonyms": [
+        "sick person",
+        "case",
+        "sufferer",
+        "victim"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin convalescent- growing strong, recovering, from the verb convalescere (see convalesce).",
+  "pronounciation": "/ˌkänvəˈles(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconvalescent_us_1.mp3"
+}

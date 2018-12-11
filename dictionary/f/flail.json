@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A threshing tool consisting of a wooden staff with a short heavy stick swinging from it.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wave or swing or cause to wave or swing wildly.",
+      "examples": [
+        "his arms were flailing helplessly",
+        "he flailed his arms and drove her away"
+      ],
+      "synonyms": [
+        "wave",
+        "swing",
+        "thrash about",
+        "flap about",
+        "beat about",
+        "windmill",
+        "move erratically"
+      ]
+    },
+    {
+      "description": "Beat; flog.",
+      "examples": [
+        "he escorted them, flailing their shoulders with his cane"
+      ],
+      "synonyms": [
+        "thrash",
+        "beat",
+        "strike",
+        "batter",
+        "drub",
+        "flog",
+        "whip",
+        "lash",
+        "scourge",
+        "flay",
+        "flagellate",
+        "strap",
+        "switch",
+        "tan",
+        "cane",
+        "tan someone's hide",
+        "whip someone's hide",
+        "give someone a hiding",
+        "beat the living daylights out of",
+        "clout",
+        "welt",
+        "belabour"
+      ]
+    }
+  ],
+  "origin": "Old English, of West Germanic origin, based on Latin flagellum whip (see flagellum); probably influenced in Middle English by Old French flaiel or Dutch vlegel.",
+  "pronounciation": "/fleɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flail_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Strongly laxative in effect.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant",
+        "purging"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A laxative.",
+      "examples": [],
+      "synonyms": [
+        "laxative",
+        "enema",
+        "aperient",
+        "lenitive",
+        "cathartic",
+        "evacuant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French purgatif, -ive, from late Latin purgativus, from purgat- purified, from the verb purgare (see purge).",
+  "pronounciation": "/ˈpərɡədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purgative_us_2.mp3"
+}

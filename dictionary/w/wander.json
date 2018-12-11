@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Walk or move in a leisurely, casual, or aimless way.",
+      "examples": [
+        "he wandered aimlessly through the narrow streets"
+      ],
+      "synonyms": [
+        "stroll",
+        "amble",
+        "saunter",
+        "walk",
+        "dawdle",
+        "potter",
+        "ramble",
+        "maunder",
+        "meander"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of wandering.",
+      "examples": [
+        "she'd go on wanders like that in her nightgown"
+      ],
+      "synonyms": [
+        "stroll",
+        "amble",
+        "saunter",
+        "walk",
+        "roam",
+        "meander",
+        "dawdle",
+        "potter",
+        "ramble"
+      ]
+    }
+  ],
+  "origin": "Old English wandrian, of West Germanic origin; related to wend and wind.",
+  "pronounciation": "/ˈwɑndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wander_us_1.mp3"
+}

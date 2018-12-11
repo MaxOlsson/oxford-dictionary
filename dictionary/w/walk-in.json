@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a storage area) large enough to walk into.",
+      "examples": [
+        "a walk-in closet"
+      ],
+      "synonyms": [
+        "arrive",
+        "turn up",
+        "appear",
+        "walk in",
+        "make in an appearance",
+        "put in an appearance",
+        "show one's face"
+      ]
+    },
+    {
+      "description": "(of a service) available for customers or clients without the need for an appointment.",
+      "examples": [
+        "a walk-in clinic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A walk-in customer or a walk-in storage area.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwôk ˌin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/walk_in_1_us_1.mp3"
+}

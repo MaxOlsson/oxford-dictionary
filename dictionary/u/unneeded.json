@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Not needed.",
+      "examples": [
+        "the disposal of unneeded assets"
+      ],
+      "synonyms": [
+        "needless",
+        "inessential",
+        "non-essential",
+        "not required",
+        "uncalled for",
+        "gratuitous",
+        "useless",
+        "unmerited",
+        "unwarranted",
+        "unwanted",
+        "undesired",
+        "dispensable",
+        "avoidable",
+        "peripheral",
+        "cosmetic",
+        "unimportant",
+        "trivial",
+        "incidental",
+        "optional",
+        "extraneous",
+        "expendable",
+        "disposable",
+        "redundant",
+        "pointless",
+        "purposeless",
+        "to no purpose",
+        "to no avail"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈnidəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unneeded_us_1.mp3"
+}

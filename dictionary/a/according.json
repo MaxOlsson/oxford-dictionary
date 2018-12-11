@@ -1,0 +1,26 @@
+{
+  "adverb": [
+    {
+      "description": "As stated by or in.",
+      "examples": [
+        "the outlook for investors is not bright, according to financial experts",
+        "he may have only weeks to live, according to a source close to the family",
+        "we have the world's most expensive public transport, according a recent survey"
+      ],
+      "synonyms": [
+        "as stated by",
+        "as maintained by",
+        "as claimed by",
+        "on the authority of",
+        "on the report of",
+        "in the opinion of"
+      ]
+    },
+    {
+      "description": "Depending on whether.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈkôrdiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/according_us_1.mp3"
+}

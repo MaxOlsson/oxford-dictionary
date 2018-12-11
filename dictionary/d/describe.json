@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Give an account in words of (someone or something), including all the relevant characteristics, qualities, or events.",
+      "examples": [
+        "the man was described as tall, clean-shaven, and with short dark hair"
+      ],
+      "synonyms": [
+        "report",
+        "narrate",
+        "recount",
+        "relate",
+        "tell of",
+        "set out",
+        "chronicle"
+      ]
+    },
+    {
+      "description": "Mark out or draw (a geometric figure)",
+      "examples": [
+        "on the diameter of a circle an equilateral triangle is described"
+      ],
+      "synonyms": [
+        "delineate",
+        "mark out",
+        "outline",
+        "trace",
+        "draw",
+        "sketch"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin describere, from de- down + scribere write.",
+  "pronounciation": "/dəˈskraɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/describe_us_1.mp3"
+}

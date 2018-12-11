@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A thick, solid piece of something.",
+      "examples": [
+        "huge chunks of masonry littered the street"
+      ],
+      "synonyms": [
+        "lump",
+        "hunk",
+        "wedge",
+        "block",
+        "slab",
+        "square",
+        "nugget",
+        "nub",
+        "brick",
+        "cube",
+        "bar",
+        "cake",
+        "loaf"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide (something) into chunks.",
+      "examples": [
+        "chunk four pounds of pears"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: imitative.",
+  "pronounciation": "/CHəNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chunk_us_1.mp3"
+}

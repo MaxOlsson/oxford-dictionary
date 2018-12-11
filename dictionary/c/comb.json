@@ -1,0 +1,95 @@
+{
+  "noun": [
+    {
+      "description": "A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.",
+      "examples": []
+    },
+    {
+      "description": "A device for separating and dressing textile fibers.",
+      "examples": []
+    },
+    {
+      "description": "The red fleshy crest on the head of a domestic fowl, especially a rooster.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Untangle or arrange (the hair) by drawing a comb through it.",
+      "examples": [],
+      "synonyms": [
+        "groom",
+        "untangle",
+        "disentangle",
+        "smooth out",
+        "straighten",
+        "arrange",
+        "neaten",
+        "tidy",
+        "dress",
+        "rake"
+      ]
+    },
+    {
+      "description": "Prepare (wool, flax, or cotton) for manufacture with a comb.",
+      "examples": [],
+      "synonyms": [
+        "separate",
+        "dress",
+        "card",
+        "tease",
+        "hackle",
+        "heckle",
+        "hatchel"
+      ]
+    },
+    {
+      "description": "Search carefully and systematically.",
+      "examples": [
+        "police combed the area for the murder weapon",
+        "his mother combed through the cardboard boxes"
+      ],
+      "synonyms": [
+        "search",
+        "scour",
+        "look around in",
+        "explore",
+        "sweep",
+        "probe",
+        "hunt through",
+        "look through",
+        "scrabble about in",
+        "scrabble around in",
+        "root about in",
+        "root around in",
+        "ferret in",
+        "ferret about in",
+        "ferret around in",
+        "rummage about in",
+        "rummage around in",
+        "rummage round in",
+        "rummage in",
+        "rummage through",
+        "forage through",
+        "fish about in",
+        "fish around in",
+        "poke about in",
+        "poke around in",
+        "dig in",
+        "grub about in",
+        "grub around in",
+        "delve in",
+        "go through",
+        "sift through",
+        "rake",
+        "rifle through",
+        "ransack",
+        "turn over",
+        "go through with a fine-tooth comb"
+      ]
+    }
+  ],
+  "origin": "Old English camb, of Germanic origin; related to Dutch kam and German Kamm.",
+  "pronounciation": "/koʊm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comb_us_1.mp3"
+}

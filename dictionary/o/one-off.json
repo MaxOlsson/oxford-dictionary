@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Done, made, or happening only once and not repeated.",
+      "examples": [
+        "one-off tax deductible donations to charity"
+      ],
+      "synonyms": [
+        "distinctive",
+        "individual",
+        "special",
+        "especial",
+        "idiosyncratic",
+        "quirky",
+        "eccentric",
+        "isolated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something done, made, or happening only once, not as part of a regular sequence.",
+      "examples": [
+        "the meeting is a one-off"
+      ],
+      "synonyms": [
+        "individualist",
+        "free spirit",
+        "nonconformist",
+        "original",
+        "eccentric",
+        "character",
+        "bohemian",
+        "maverick",
+        "rare bird",
+        "rarity"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwən ˈˌɔf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/one_off_1_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Appearing or occurring at intervals.",
+      "examples": [
+        "the periodic visits she made to her father"
+      ],
+      "synonyms": [
+        "regular",
+        "periodical",
+        "at fixed intervals",
+        "recurrent",
+        "recurring",
+        "repeated",
+        "cyclical",
+        "cyclic",
+        "seasonal"
+      ]
+    },
+    {
+      "description": "Relating to the periodic table of the elements or the pattern of chemical properties that underlies it.",
+      "examples": []
+    },
+    {
+      "description": "Relating to a rhetorical period.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from French périodique, or via Latin from Greek periodikos coming round at intervals, from periodos (see period).",
+  "pronounciation": "/ˌpɪriˈɑdɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/periodic_us_1.mp3"
+}

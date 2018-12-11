@@ -1,0 +1,31 @@
+{
+  "pronoun": [
+    {
+      "description": "Any person or people.",
+      "examples": [
+        "there wasn't anyone there",
+        "does anyone remember him?",
+        "I was afraid to tell anyone"
+      ],
+      "synonyms": [
+        "anyone",
+        "anybody"
+      ]
+    },
+    {
+      "description": "A person of importance or authority.",
+      "examples": [
+        "they are read by anyone who's anyone"
+      ]
+    }
+  ],
+  "phrases": [
+    "three drinks and he's anyone's",
+    "I can drink most anything else, but three pints and I'm anyone's.",
+    "Give me a sandwich, a large vodka and non-stop football and I'm anyone's.",
+    "A couple of lager shandies and he's anyone's.",
+    "I can try to sum it up with: a couple of drinks and she's anyone's!"
+  ],
+  "pronounciation": "/ˈenēˌwən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anyone_us_1_rr.mp3"
+}

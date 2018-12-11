@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "The state of being without or not having enough of something.",
+      "examples": [
+        "there is no lack of entertainment aboard ship",
+        "the case was dismissed for lack of evidence",
+        "there is a lack of parking space in the town"
+      ],
+      "synonyms": [
+        "absence",
+        "want",
+        "need",
+        "deficiency",
+        "dearth",
+        "insufficiency",
+        "shortage",
+        "shortfall",
+        "scarcity",
+        "paucity",
+        "unavailability",
+        "scarceness",
+        "undersupply",
+        "deficit",
+        "scantiness",
+        "sparseness",
+        "meagreness",
+        "inadequacy",
+        "shortness",
+        "deprivation",
+        "destitution",
+        "privation",
+        "famine",
+        "drought",
+        "poverty",
+        "non-existence",
+        "rareness",
+        "infrequency",
+        "uncommonness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be without or deficient in.",
+      "examples": [
+        "the novel lacks imagination",
+        "she lacks in patience",
+        "Sam did not lack for friends"
+      ],
+      "synonyms": [
+        "be without",
+        "have need of",
+        "be in need of",
+        "need",
+        "be lacking",
+        "require",
+        "want",
+        "feel the want of",
+        "be short of",
+        "be deficient in",
+        "stand in need of",
+        "go without",
+        "be bereft of",
+        "be deprived of",
+        "be low on",
+        "be pressed for",
+        "not have enough of",
+        "be devoid of",
+        "have insufficient",
+        "cry out for"
+      ]
+    }
+  ],
+  "origin": "Middle English: corresponding to, and perhaps partly from, Middle Dutch and Middle Low German lak deficiency, Middle Dutch laken lack, blame.",
+  "pronounciation": "/læk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lack_us_1.mp3"
+}

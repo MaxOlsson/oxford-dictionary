@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The basic unit of a chemical element.",
+      "examples": [],
+      "synonyms": [
+        "particle",
+        "molecule",
+        "bit",
+        "little bit",
+        "tiny bit",
+        "tiny piece",
+        "fragment",
+        "fraction",
+        "grain",
+        "granule",
+        "crumb",
+        "morsel",
+        "mite",
+        "mote",
+        "speck",
+        "spot",
+        "dot"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French atome, via Latin from Greek atomos indivisible, based on a- not + temnein to cut.",
+  "pronounciation": "/ˈadəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/atom_us_1.mp3"
+}

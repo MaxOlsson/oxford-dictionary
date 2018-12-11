@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Breathe with short, quick breaths, typically from exertion or excitement.",
+      "examples": [
+        "he was panting when he reached the top"
+      ],
+      "synonyms": [
+        "out of breath",
+        "breathless",
+        "short of breath",
+        "puffed out",
+        "puffing",
+        "huffing and puffing",
+        "puffing and blowing",
+        "gasping",
+        "gasping for breath",
+        "wheezing",
+        "wheezy",
+        "winded",
+        "short-winded"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short, quick breath.",
+      "examples": [],
+      "synonyms": [
+        "gasp",
+        "puff",
+        "wheeze",
+        "breath"
+      ]
+    }
+  ],
+  "origin": "Middle English: related to Old French pantaisier be agitated, gasp, based on Greek phantasioun cause to imagine, from phantasia (see fantasy).",
+  "pronounciation": "/pænt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pant_us_1.mp3"
+}

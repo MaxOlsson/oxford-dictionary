@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is kept as a reminder of a person, place, or event.",
+      "examples": [],
+      "synonyms": [
+        "memento",
+        "keepsake",
+        "reminder",
+        "remembrance",
+        "token",
+        "memorial"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Take as a memento.",
+      "examples": [
+        "many parts of the aircraft have been souvenired"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French, from souvenir remember, from Latin subvenire occur to the mind.",
+  "pronounciation": "/ˌso͞ovəˈnir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/souvenir_us_1.mp3"
+}

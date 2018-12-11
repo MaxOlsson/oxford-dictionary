@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+      "examples": [],
+      "synonyms": [
+        "dry spell",
+        "dry period",
+        "lack of rain",
+        "shortage of water"
+      ]
+    },
+    {
+      "description": "Thirst.",
+      "examples": [
+        "I asked for something to slake my drought"
+      ],
+      "synonyms": [
+        "thirstiness",
+        "dryness"
+      ]
+    }
+  ],
+  "origin": "Late Old English drūgath dryness, of Germanic origin; compare with Dutch droogte; related to dry.",
+  "pronounciation": "/draʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drought_us_1.mp3"
+}

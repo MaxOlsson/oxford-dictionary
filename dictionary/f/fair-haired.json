@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Having light-colored hair.",
+      "examples": [],
+      "synonyms": [
+        "light-haired",
+        "golden-haired",
+        "tow-headed"
+      ]
+    },
+    {
+      "description": "(of a person) favorite; cherished.",
+      "examples": [
+        "the fair-haired boy of American advertising"
+      ],
+      "synonyms": [
+        "blond",
+        "blonde",
+        "yellow",
+        "yellowish",
+        "golden",
+        "flaxen",
+        "light",
+        "light brown",
+        "light-coloured",
+        "strawberry blonde",
+        "tow-coloured",
+        "platinum",
+        "ash blonde",
+        "bleached",
+        "bleached-blonde",
+        "sun-bleached",
+        "peroxide",
+        "bottle-blonde"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɛr ˈˌhɛ(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fair_haired_1_us_1.mp3"
+}

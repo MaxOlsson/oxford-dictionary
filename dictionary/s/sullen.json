@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Bad-tempered and sulky; gloomy.",
+      "examples": [
+        "a sullen pout"
+      ],
+      "synonyms": [
+        "surly",
+        "sulky",
+        "pouting",
+        "sour",
+        "morose",
+        "resentful",
+        "glum",
+        "moody",
+        "gloomy",
+        "joyless",
+        "frowning",
+        "glowering",
+        "grumpy",
+        "touchy",
+        "peevish",
+        "indignant",
+        "embittered"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sulky or depressed mood.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the senses solitary, averse to company, and unusual): from Anglo-Norman French sulein, from sol sole.",
+  "pronounciation": "/ˈsələn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sullen_us_1.mp3"
+}

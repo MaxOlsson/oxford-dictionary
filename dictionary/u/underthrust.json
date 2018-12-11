@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Force (a crustal plate or other body of rock) beneath another plate or block.",
+      "examples": [
+        "the Farallon plate was being underthrust beneath the North American plate",
+        "this sediment may be deformed by the underthrusting"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of one plate or block being forced underneath another.",
+      "examples": [
+        "the westward underthrust of the Pacific Ocean plate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndərˈTHrəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underthrust_us_1.mp3"
+}

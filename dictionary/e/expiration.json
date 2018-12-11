@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "The ending of the fixed period for which a contract is valid.",
+      "examples": [
+        "the expiration of the lease"
+      ],
+      "synonyms": [
+        "death",
+        "demise",
+        "passing",
+        "passing away",
+        "passing on",
+        "expiry",
+        "departure from life",
+        "final exit",
+        "eternal rest"
+      ]
+    },
+    {
+      "description": "Exhalation of breath.",
+      "examples": [],
+      "synonyms": [
+        "gulp of air",
+        "inhalation",
+        "inspiration"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a vapor or exhalation): from Latin exspiratio(n-), from the verb exspirare (see expire).",
+  "pronounciation": "/ˌɛkspəˈreɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expiration_us_1.mp3"
+}

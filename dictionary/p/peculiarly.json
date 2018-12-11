@@ -1,0 +1,65 @@
+{
+  "adverb": [
+    {
+      "description": "More than usually; especially.",
+      "examples": [
+        "some patients were peculiarly difficult to cure"
+      ],
+      "synonyms": [
+        "exceptionally",
+        "particularly",
+        "specially",
+        "very",
+        "extremely",
+        "singularly",
+        "peculiarly",
+        "distinctly",
+        "unusually",
+        "extraordinarily",
+        "extra",
+        "uncommonly",
+        "uniquely",
+        "remarkably",
+        "strikingly",
+        "outstandingly",
+        "amazingly",
+        "incredibly",
+        "awfully",
+        "terribly",
+        "really",
+        "unwontedly",
+        "notably",
+        "markedly",
+        "decidedly",
+        "surprisingly",
+        "conspicuously",
+        "signally"
+      ]
+    },
+    {
+      "description": "Oddly.",
+      "examples": [
+        "the town is peculiarly built"
+      ],
+      "synonyms": [
+        "exceptionally",
+        "particularly",
+        "specially",
+        "especially",
+        "very",
+        "extremely",
+        "singularly",
+        "peculiarly",
+        "distinctly"
+      ]
+    },
+    {
+      "description": "Used to emphasize restriction to an individual or group.",
+      "examples": [
+        "a manner peculiarly his own"
+      ]
+    }
+  ],
+  "pronounciation": "/pəˈkjuljərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peculiarly_us_1.mp3"
+}

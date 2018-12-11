@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Not confirmed or supported by other evidence or information.",
+      "examples": [
+        "the unreliability of uncorroborated confessions"
+      ],
+      "synonyms": [
+        "erroneous",
+        "false",
+        "untrue",
+        "wrong",
+        "incorrect",
+        "faulty",
+        "flawed",
+        "inaccurate",
+        "inexact",
+        "imprecise",
+        "mistaken",
+        "misinformed",
+        "misguided",
+        "misleading",
+        "deceptive",
+        "delusive",
+        "delusory",
+        "illusory",
+        "sophistic",
+        "specious",
+        "fictitious",
+        "spurious",
+        "fabricated",
+        "distorted",
+        "made up",
+        "trumped up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkəˈrɑbəˌreɪdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncorroborated_us_1.mp3"
+}

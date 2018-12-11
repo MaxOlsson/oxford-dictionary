@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Done, produced, or occurring once every quarter of a year.",
+      "examples": [
+        "a quarterly newsletter is distributed to members"
+      ]
+    },
+    {
+      "description": "(of a shield or charge) divided into four (or occasionally more) subdivisions by vertical and horizontal lines.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Once every quarter of a year.",
+      "examples": [
+        "interest is paid quarterly"
+      ]
+    },
+    {
+      "description": "In the four, or in two diagonally opposite, quarters of a shield.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A magazine or journal that is published four times a year.",
+      "examples": [],
+      "synonyms": [
+        "book",
+        "volume",
+        "hardback",
+        "paperback",
+        "title",
+        "work",
+        "tome",
+        "opus",
+        "treatise",
+        "manual",
+        "register",
+        "almanac",
+        "yearbook",
+        "compendium"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkwôrdərlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quarterly_us_1.mp3"
+}

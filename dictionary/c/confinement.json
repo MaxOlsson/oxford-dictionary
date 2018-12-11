@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "The action of confining or state of being confined.",
+      "examples": [
+        "he was immediately released from his confinement"
+      ],
+      "synonyms": [
+        "imprisonment",
+        "internment",
+        "incarceration",
+        "custody",
+        "captivity",
+        "detention",
+        "restraint",
+        "arrest",
+        "house arrest"
+      ]
+    },
+    {
+      "description": "The condition of being in childbirth.",
+      "examples": [
+        "the pros and cons of home versus hospital confinement",
+        "my grandmother's last six confinements"
+      ],
+      "synonyms": [
+        "labour",
+        "delivery",
+        "expected delivery",
+        "giving birth",
+        "birthing"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈfaɪnmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfinement_us_1.mp3"
+}

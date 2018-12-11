@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A person made to do hard menial or dull work.",
+      "examples": [
+        "she was little more than a drudge around the house"
+      ],
+      "synonyms": [
+        "menial",
+        "menial worker",
+        "slave",
+        "galley slave",
+        "toiler",
+        "lackey"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Do hard, menial, or dull work.",
+      "examples": [],
+      "synonyms": [
+        "work hard",
+        "labour",
+        "work one's fingers to the bone",
+        "work like a trojan",
+        "work like a dog",
+        "work day and night",
+        "exert oneself",
+        "keep at it",
+        "keep one's nose to the grindstone",
+        "grind away",
+        "slave away",
+        "grub away",
+        "plough away",
+        "plod away"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun): of unknown origin; perhaps related to drag.",
+  "pronounciation": "/drəj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drudge_us_1.mp3"
+}

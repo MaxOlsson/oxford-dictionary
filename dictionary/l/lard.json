@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "Fat from the abdomen of a pig that is rendered and clarified for use in cooking.",
+      "examples": [],
+      "synonyms": [
+        "fat",
+        "oil",
+        "cooking oil",
+        "animal fat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Insert strips of fat or bacon in (meat) before cooking.",
+      "examples": []
+    },
+    {
+      "description": "Embellish (talk or writing) with a variety of expressions.",
+      "examples": [
+        "his conversation is larded with quotations from Coleridge"
+      ]
+    }
+  ],
+  "origin": "Middle English (also denoting fat bacon or pork): from Old French bacon, from Latin lardum, laridum, related to Greek larinos fat.",
+  "pronounciation": "/lärd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lard_us_1.mp3"
+}

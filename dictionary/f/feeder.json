@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A person or animal that eats a particular food or in a particular manner.",
+      "examples": [
+        "a plankton feeder"
+      ]
+    },
+    {
+      "description": "A container filled with food for birds or mammals.",
+      "examples": [],
+      "synonyms": [
+        "manger",
+        "feeding container",
+        "feed box",
+        "fodder rack",
+        "crib"
+      ]
+    },
+    {
+      "description": "A person or thing that supplies something.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfidər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feeder_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or in the form of words.",
+      "examples": [
+        "the root of the problem is visual rather than verbal",
+        "verbal abuse"
+      ]
+    },
+    {
+      "description": "Relating to or derived from a verb.",
+      "examples": [
+        "a verbal adjective"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word or words functioning as a verb.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century (describing a person who deals with words rather than things): from French, or from late Latin verbalis, from verbum word (see verb).",
+  "pronounciation": "/ˈvərbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verbal_us_1.mp3"
+}

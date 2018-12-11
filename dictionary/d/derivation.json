@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The obtaining or developing of something from a source or origin.",
+      "examples": [
+        "the derivation of scientific laws from observation"
+      ],
+      "synonyms": [
+        "deriving",
+        "induction",
+        "deduction",
+        "deducing",
+        "inferring",
+        "inference",
+        "gathering",
+        "gleaning",
+        "drawing out",
+        "extraction",
+        "eliciting"
+      ]
+    },
+    {
+      "description": "In generative grammar, the set of stages that link the abstract underlying structure of an expression to its surface form.",
+      "examples": []
+    },
+    {
+      "description": "The process of deducing a new formula, theorem, etc., from previously accepted statements.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting the drawing of a fluid, especially pus or blood; also in the sense formation of a word from another word): from Latin derivatio(n-), from the verb derivare (see derive).",
+  "pronounciation": "/ˌdɛrəˈveɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/derivation_us_1.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to express joy or approval.",
+      "examples": [
+        "This book has won all sorts of prizes. Hooray!",
+        "hooray for getting up late on Sunday, and doing absolutely nothing"
+      ]
+    },
+    {
+      "description": "Goodbye.",
+      "examples": [
+        "Hooray George, promise you'll come back"
+      ],
+      "synonyms": [
+        "farewell",
+        "adieu"
+      ]
+    }
+  ],
+  "origin": "Late 19th century (in hooray (sense 2)): variant of hurrah.",
+  "pronounciation": "/həˈrā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hooray_us_1.mp3"
+}

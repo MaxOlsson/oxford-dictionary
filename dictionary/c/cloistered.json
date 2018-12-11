@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having or enclosed by a cloister, as in a monastery.",
+      "examples": [
+        "a cloistered walkway bordered the courtyard"
+      ]
+    },
+    {
+      "description": "Kept away from the outside world; sheltered.",
+      "examples": [
+        "a cloistered upbringing"
+      ],
+      "synonyms": [
+        "secluded",
+        "sheltered",
+        "sequestered",
+        "shielded",
+        "protected"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkloistərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cloistered_us_1.mp3"
+}

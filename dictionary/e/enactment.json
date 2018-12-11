@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The process of passing legislation.",
+      "examples": [],
+      "synonyms": [
+        "passing",
+        "making law",
+        "ratification",
+        "ratifying",
+        "validation",
+        "validating",
+        "sanction",
+        "sanctioning",
+        "approval",
+        "approving",
+        "endorsement",
+        "adoption"
+      ]
+    },
+    {
+      "description": "A process of acting something out.",
+      "examples": [
+        "the story becomes an enactment of his fantasies"
+      ],
+      "synonyms": [
+        "acting",
+        "playing",
+        "performing",
+        "performance",
+        "staging",
+        "appearance"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪnˈæk(t)mənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enactment_us_1.mp3"
+}

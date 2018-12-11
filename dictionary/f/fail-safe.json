@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Causing a piece of machinery or other mechanism to revert to a safe condition in the event of a breakdown or malfunction.",
+      "examples": [
+        "a forklift with a fail-safe device"
+      ],
+      "synonyms": [
+        "dependable",
+        "safe",
+        "tried and tested",
+        "well built",
+        "well engineered",
+        "good"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A system or plan that comes into operation in the event of something going wrong or that is there to prevent such an occurrence.",
+      "examples": [
+        "the secondary safety system is indeed a fail-safe"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfāl ˈˌsāf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fail_safe_1_us_1.mp3"
+}

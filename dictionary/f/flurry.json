@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A small swirling mass of something, especially snow or leaves, moved by sudden gusts of wind.",
+      "examples": [
+        "a flurry of snow"
+      ],
+      "synonyms": [
+        "swirl",
+        "whirl",
+        "eddy",
+        "billow",
+        "shower",
+        "gust",
+        "rush",
+        "burst",
+        "gale",
+        "squall",
+        "storm"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(especially of snow or leaves) be moved in small swirling masses by sudden gusts of wind.",
+      "examples": [
+        "gusts of snow flurried through the door"
+      ],
+      "synonyms": [
+        "swirl",
+        "whirl",
+        "eddy",
+        "billow",
+        "gust",
+        "blast",
+        "blow",
+        "rush",
+        "wind",
+        "churn",
+        "swish",
+        "spin",
+        "twist",
+        "spurt",
+        "surge",
+        "seethe",
+        "stream",
+        "flow",
+        "puff",
+        "squall",
+        "squirt",
+        "boil"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from obsolete flurr fly up, flutter, whirr (imitative), probably influenced by hurry.",
+  "pronounciation": "/ˈflərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flurry_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be used or obtained; not at someone's disposal.",
+      "examples": [
+        "material that is unavailable to the researcher"
+      ],
+      "synonyms": [
+        "unavailable",
+        "unobtainable",
+        "finished",
+        "sold out"
+      ]
+    },
+    {
+      "description": "(of a person) not free to do something; otherwise occupied.",
+      "examples": [
+        "the men were unavailable for work"
+      ],
+      "synonyms": [
+        "away",
+        "absent",
+        "out",
+        "unavailable",
+        "not working",
+        "not at work",
+        "off duty",
+        "on holiday",
+        "on leave",
+        "free",
+        "at leisure",
+        "idle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəˈvāləb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unavailable_us_1.mp3"
+}

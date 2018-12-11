@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Slow to act.",
+      "examples": [
+        "he had been dilatory in appointing a solicitor"
+      ],
+      "synonyms": [
+        "slow",
+        "unhurried",
+        "tardy",
+        "unpunctual",
+        "lax",
+        "slack",
+        "sluggish",
+        "sluggardly",
+        "snail-like",
+        "tortoise-like",
+        "lazy",
+        "idle",
+        "indolent",
+        "slothful"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin dilatorius delaying, from Latin dilator delayer, from dilat- deferred, from the verb differre.",
+  "pronounciation": "/ˈdiləˌtôrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dilatory_us_1.mp3"
+}

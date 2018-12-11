@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A short, light sleep; a doze.",
+      "examples": [],
+      "synonyms": [
+        "fall asleep",
+        "go to sleep",
+        "get to sleep",
+        "doze",
+        "doze off",
+        "have a nap",
+        "catnap",
+        "drowse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have a short, light sleep.",
+      "examples": [
+        "Carradine catnapped in a hammock between two chairs"
+      ],
+      "synonyms": [
+        "relax",
+        "take a rest",
+        "ease off",
+        "ease up",
+        "let up",
+        "slow down",
+        "pause",
+        "have a break",
+        "take a break",
+        "unbend",
+        "repose",
+        "laze",
+        "idle",
+        "loaf",
+        "do nothing",
+        "take time off",
+        "slack off",
+        "unwind",
+        "recharge one's batteries",
+        "be at leisure",
+        "take it easy",
+        "sit back",
+        "sit down",
+        "stand down",
+        "lounge",
+        "luxuriate",
+        "loll",
+        "slump",
+        "flop",
+        "put one's feet up",
+        "lie down",
+        "go to bed",
+        "have a nap",
+        "take a nap",
+        "nap",
+        "doze",
+        "have a siesta",
+        "take a siesta",
+        "drowse",
+        "sleep"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkætˌnæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catnap_us_1.mp3"
+}

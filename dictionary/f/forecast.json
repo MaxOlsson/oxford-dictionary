@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Predict or estimate (a future event or trend)",
+      "examples": [
+        "rain is forecast for eastern Ohio",
+        "coal consumption is forecast to increase"
+      ],
+      "synonyms": [
+        "predict",
+        "prophesy",
+        "prognosticate",
+        "augur",
+        "divine",
+        "foretell",
+        "foresee",
+        "forewarn"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A prediction or estimate of future events, especially coming weather or a financial trend.",
+      "examples": [],
+      "synonyms": [
+        "prediction",
+        "prophecy",
+        "forewarning",
+        "prognostication",
+        "augury",
+        "divination",
+        "prognosis",
+        "projection",
+        "calculation"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôrˌkast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forecast_us_1.mp3"
+}

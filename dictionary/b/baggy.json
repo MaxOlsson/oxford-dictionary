@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of clothing) loose and hanging in folds.",
+      "examples": [
+        "baggy pants"
+      ],
+      "synonyms": [
+        "loose-fitting",
+        "loose",
+        "roomy",
+        "generously cut",
+        "full",
+        "ample",
+        "voluminous",
+        "billowing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Loose and wide-legged pants, shorts, or swim trunks.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbæɡi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baggy_us_1.mp3"
+}

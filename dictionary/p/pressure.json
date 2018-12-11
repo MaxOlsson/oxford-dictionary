@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "Continuous physical force exerted on or against an object by something in contact with it.",
+      "examples": [
+        "the slight extra pressure he applied to her hand"
+      ]
+    },
+    {
+      "description": "The use of persuasion, influence, or intimidation to make someone do something.",
+      "examples": [
+        "the many pressures on girls to worry about their looks",
+        "the proposals put pressure on Britain to drop its demand"
+      ],
+      "synonyms": [
+        "coercion",
+        "force",
+        "compulsion",
+        "constraint",
+        "duress",
+        "oppression",
+        "enforcement",
+        "insistence",
+        "demand",
+        "entreaty",
+        "goading",
+        "pestering",
+        "provocation",
+        "harassment",
+        "nagging",
+        "harrying",
+        "badgering",
+        "intimidation",
+        "arm-twisting",
+        "pressurization",
+        "persuasion",
+        "influence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attempt to persuade or coerce (someone) into doing something.",
+      "examples": [
+        "it might now be possible to pressure him into resigning",
+        "she pressured her son to accept a job offer from the bank"
+      ],
+      "synonyms": [
+        "coerce",
+        "pressurize",
+        "press",
+        "push",
+        "persuade",
+        "influence",
+        "force",
+        "squeeze",
+        "bulldoze",
+        "hound",
+        "harass",
+        "nag",
+        "harry",
+        "badger",
+        "goad",
+        "prod",
+        "pester",
+        "browbeat",
+        "brainwash",
+        "bully",
+        "bludgeon",
+        "intimidate",
+        "dragoon",
+        "twist someone's arm",
+        "strong-arm"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin pressura, from press- pressed, from the verb premere (see press).",
+  "pronounciation": "/ˈprɛʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pressure_us_1.mp3"
+}

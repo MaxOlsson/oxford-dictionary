@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Happening or produced every two weeks.",
+      "examples": [
+        "a fortnightly bulletin"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Every two weeks.",
+      "examples": [
+        "evening classes will run fortnightly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A magazine or similar publication issued every two weeks.",
+      "examples": [],
+      "synonyms": [
+        "book",
+        "volume",
+        "hardback",
+        "paperback",
+        "title",
+        "work",
+        "tome",
+        "opus",
+        "treatise",
+        "manual",
+        "register",
+        "almanac",
+        "yearbook",
+        "compendium"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôrtˌnītlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fortnightly_us_1.mp3"
+}

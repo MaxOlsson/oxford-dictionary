@@ -1,0 +1,102 @@
+{
+  "noun": [
+    {
+      "description": "The chirp of a small or young bird.",
+      "examples": [],
+      "synonyms": [
+        "trill",
+        "trilling",
+        "song",
+        "birdsong",
+        "cry",
+        "warbling",
+        "chirp",
+        "chirping",
+        "chirrup",
+        "chirruping",
+        "chirr",
+        "chirring",
+        "cheep",
+        "cheeping",
+        "twitter",
+        "twittering",
+        "tweet",
+        "tweeting",
+        "whistle",
+        "whistling",
+        "chatter",
+        "chattering",
+        "squeak",
+        "squeaking",
+        "pipe",
+        "piping",
+        "peep",
+        "peeping",
+        "call",
+        "calling"
+      ]
+    },
+    {
+      "description": "A post made on the social media application Twitter.",
+      "examples": [
+        "he started posting tweets via his cell phone to let his parents know he was safe"
+      ],
+      "synonyms": [
+        "communication",
+        "piece of information",
+        "news",
+        "word",
+        "note",
+        "memorandum",
+        "memo",
+        "email",
+        "posting",
+        "letter",
+        "line",
+        "missive",
+        "report",
+        "bulletin",
+        "communiqué",
+        "dispatch",
+        "intelligence",
+        "notification",
+        "announcement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a chirping noise.",
+      "examples": [
+        "the birds were tweeting in the branches"
+      ],
+      "synonyms": [
+        "trill",
+        "sing",
+        "chirp",
+        "chirrup",
+        "chirr",
+        "cheep",
+        "twitter",
+        "tweet",
+        "whistle",
+        "chatter",
+        "squeak",
+        "pipe",
+        "peep"
+      ]
+    },
+    {
+      "description": "Make a post on the social media application Twitter.",
+      "examples": [
+        "she talks about her own life, but she's just as likely to tweet about budget cuts and Keynesian economics",
+        "she tweeted a picture of them smiling at the camera",
+        "he tweeted that he would be willing to take a lie detector test",
+        "the president tweeted: After you vote, tell your Facebook friends—“I voted.”"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: imitative.",
+  "pronounciation": "/twēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tweet_us_1.mp3"
+}

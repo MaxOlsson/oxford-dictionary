@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Extend out, over, or beyond the main body or line of something.",
+      "examples": [
+        "a rock jutted out from the side of the bank"
+      ],
+      "synonyms": [
+        "stick out",
+        "project",
+        "protrude",
+        "poke out",
+        "bulge out",
+        "overhang",
+        "beetle",
+        "beetle over",
+        "obtrude"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A point that sticks out.",
+      "examples": [],
+      "synonyms": [
+        "bump",
+        "lump",
+        "knob",
+        "hump",
+        "jut",
+        "projection",
+        "prominence",
+        "protuberance",
+        "overhang",
+        "eminence",
+        "ledge",
+        "shelf",
+        "ridge"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: variant of jet.",
+  "pronounciation": "/jət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jut_us_1.mp3"
+}

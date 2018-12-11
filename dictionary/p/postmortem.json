@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "An examination of a dead body to determine the cause of death.",
+      "examples": [],
+      "synonyms": [
+        "autopsy",
+        "post-mortem examination",
+        "pm",
+        "dissection",
+        "necropsy"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to a postmortem.",
+      "examples": [
+        "a postmortem report"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from Latin, literally after death.",
+  "pronounciation": "/poʊstˈmɔrdəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/postmortem_us_1.mp3"
+}

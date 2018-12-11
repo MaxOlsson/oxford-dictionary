@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A person who surveys, especially one whose profession is the surveying of land.",
+      "examples": [],
+      "synonyms": [
+        "passenger",
+        "tourist",
+        "tripper",
+        "tourer",
+        "journeyer",
+        "voyager",
+        "excursionist",
+        "holidaymaker",
+        "sightseer",
+        "visitor",
+        "globetrotter",
+        "jet-setter"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A series of unmanned US spacecraft sent to the moon between 1966 and 1968, five of which successfully made soft landings.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting a supervisor): from Anglo-Norman French surveiour, from the verb surveier (see survey).",
+  "pronounciation": "/sərˈvāər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surveyor_us_1.mp3"
+}

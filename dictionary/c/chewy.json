@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) needing to be chewed hard or for some time before being swallowed.",
+      "examples": [
+        "the rye bread has a nice, chewy texture",
+        "cook the meat too long and it will end up tough and chewy"
+      ],
+      "synonyms": [
+        "tough",
+        "hard",
+        "hardened",
+        "fibrous",
+        "gristly",
+        "sinewy",
+        "stringy",
+        "leather-like"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Chewing gum.",
+      "examples": [
+        "I had forgotten my chewy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHo͞oē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chewy_us_1.mp3"
+}

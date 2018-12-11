@@ -1,0 +1,91 @@
+{
+  "verb": [
+    {
+      "description": "Start (a line of text) or position (a block of text, table, etc.) further from the margin than the main part of the text.",
+      "examples": [],
+      "synonyms": [
+        "move to the right",
+        "move further from the margin",
+        "start in from the margin"
+      ]
+    },
+    {
+      "description": "Form deep recesses or notches in (a line or surface)",
+      "examples": [
+        "a coastline indented by many fjords"
+      ],
+      "synonyms": [
+        "notch",
+        "nick",
+        "make an indentation in",
+        "make nicks in",
+        "make notches in",
+        "scallop",
+        "serrate",
+        "pink",
+        "cut",
+        "scratch",
+        "gash",
+        "slit",
+        "snick",
+        "gouge",
+        "groove",
+        "furrow",
+        "dent"
+      ]
+    },
+    {
+      "description": "Make a requisition or written order for something.",
+      "examples": [],
+      "synonyms": [
+        "order",
+        "put in an order for",
+        "requisition",
+        "apply for",
+        "put in for",
+        "request",
+        "put in a request for",
+        "ask for",
+        "claim",
+        "put in a claim for",
+        "call for",
+        "demand"
+      ]
+    },
+    {
+      "description": "Divide (a document drawn up in duplicate) into its two copies with a zigzag line, thus ensuring identification.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A space left by indenting a line or block of text.",
+      "examples": []
+    },
+    {
+      "description": "An indentation.",
+      "examples": [
+        "every indent in the coastline"
+      ]
+    },
+    {
+      "description": "An official order or requisition for specified goods or stores.",
+      "examples": [],
+      "synonyms": [
+        "order",
+        "requisition",
+        "purchase order",
+        "request",
+        "call",
+        "application"
+      ]
+    },
+    {
+      "description": "An indenture.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb in the sense give a zigzag outline to, divide by a zigzag line): from Anglo-Norman French endenter or medieval Latin indentare, from en-, in- into + Latin dens, dent- tooth.",
+  "pronounciation": "/inˈdent/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indent_us_1.mp3"
+}

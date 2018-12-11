@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Move or swing back and forth at a regular speed.",
+      "examples": [
+        "a pendulum oscillates about its lowest point"
+      ],
+      "synonyms": [
+        "swing",
+        "sway",
+        "swing from side to side",
+        "swing back and forth",
+        "swing backwards and forwards",
+        "swing to and fro",
+        "vibrate"
+      ]
+    },
+    {
+      "description": "Vary in magnitude or position in a regular manner around a central point.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: from Latin oscillat- swung, from the verb oscillare.",
+  "pronounciation": "/ˈɑsəˌleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oscillate_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A road passing around a town or its center to provide an alternative route for through traffic.",
+      "examples": [],
+      "synonyms": [
+        "ring road",
+        "detour",
+        "diversion",
+        "circuitous route",
+        "roundabout way",
+        "alternative route"
+      ]
+    },
+    {
+      "description": "A secondary channel, pipe, or connection to allow a flow when the main one is closed or blocked.",
+      "examples": []
+    },
+    {
+      "description": "The alternative channel created during a bypass operation.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go past or around.",
+      "examples": [
+        "bypass the farm and continue to the road"
+      ],
+      "synonyms": [
+        "go round",
+        "go past",
+        "make a detour round",
+        "pass round"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbaɪˌpæs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bypass_us_1.mp3"
+}

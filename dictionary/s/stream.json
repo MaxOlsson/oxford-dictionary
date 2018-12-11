@@ -1,0 +1,89 @@
+{
+  "noun": [
+    {
+      "description": "A small, narrow river.",
+      "examples": [],
+      "synonyms": [
+        "brook",
+        "rivulet",
+        "rill",
+        "runnel",
+        "streamlet",
+        "freshet"
+      ]
+    },
+    {
+      "description": "A continuous flow of liquid, air, or gas.",
+      "examples": [
+        "Frank blew out a stream of smoke",
+        "the blood gushed out in scarlet streams"
+      ],
+      "synonyms": [
+        "jet",
+        "flow",
+        "rush",
+        "gush",
+        "surge",
+        "spurt",
+        "spout",
+        "torrent",
+        "flood",
+        "cascade",
+        "fountain",
+        "outpouring",
+        "outflux",
+        "outflow",
+        "effusion"
+      ]
+    },
+    {
+      "description": "A continuous flow of data or instructions, typically one having a constant or predictable rate.",
+      "examples": []
+    },
+    {
+      "description": "A group in which schoolchildren of the same age and ability are taught; a track.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of liquid) run or flow in a continuous current in a specified direction.",
+      "examples": [
+        "she sat with tears streaming down her face",
+        "sunlight streamed through the windows"
+      ],
+      "synonyms": [
+        "flow",
+        "pour",
+        "course",
+        "run",
+        "gush",
+        "surge",
+        "spurt",
+        "flood",
+        "cascade",
+        "sluice"
+      ]
+    },
+    {
+      "description": "Transmit or receive (data, especially video and audio material) over the Internet as a steady, continuous flow.",
+      "examples": []
+    },
+    {
+      "description": "Put (schoolchildren) in groups of the same age and ability to be taught together; track.",
+      "examples": [
+        "in the coming school year, we were to be streamed"
+      ]
+    }
+  ],
+  "phrases": [
+    "a world in which the demand for quality does not run against the stream",
+    "Of course, it isn't the first time that Livingstone has swum against the stream.",
+    "The conception that a Marxist party has to swim against the stream and to fight against the prevailing forms of consciousness is entirely anathema to them.",
+    "I'm going to swim against the stream here and say I don't really understand the fuss about visual quality.",
+    "I had gotten to the point where I felt like I was rowing against the stream."
+  ],
+  "origin": "Old English strēam (noun), of Germanic origin; related to Dutch stroom, German Strom, from an Indo-European root shared by Greek rhein to flow.",
+  "pronounciation": "/strēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stream_us_1.mp3"
+}

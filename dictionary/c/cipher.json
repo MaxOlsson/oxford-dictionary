@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A secret or disguised way of writing; a code.",
+      "examples": [
+        "he was writing cryptic notes in a cipher",
+        "the information may be given in cipher"
+      ],
+      "synonyms": [
+        "code",
+        "secret writing"
+      ]
+    },
+    {
+      "description": "A zero; a figure 0.",
+      "examples": [],
+      "synonyms": [
+        "zero",
+        "nought",
+        "nil",
+        "0"
+      ]
+    },
+    {
+      "description": "A monogram.",
+      "examples": [],
+      "synonyms": [
+        "numeral",
+        "number",
+        "integer",
+        "figure",
+        "digit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put (a message) into secret writing; encode.",
+      "examples": []
+    },
+    {
+      "description": "Do arithmetic.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 18th century: perhaps from cipher.",
+  "pronounciation": "/ˈsaɪfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cipher_us_1.mp3"
+}

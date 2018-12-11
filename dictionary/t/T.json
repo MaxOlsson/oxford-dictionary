@@ -1,0 +1,39 @@
+{
+  "abbreviation": [
+    {
+      "description": "Long or metric ton(s).",
+      "examples": []
+    },
+    {
+      "description": "Teaspoon(s).",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "A number characterizing the distribution of a sample taken from a population with a normal distribution.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The twentieth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital T.",
+      "examples": [
+        "make a T-shaped wound in the rootstock and insert the cut bud"
+      ]
+    }
+  ],
+  "phrases": [
+    "At Leyte on 24 Oct 1944 he made fame at the Battle of Surigao Strait by \"crossing the T\" of the oncoming Japanese surface fleet.",
+    "He could easily outmaneuver the Russians and use tactics to cross the T twice, inflicting maximum damage on the slower Russian fleet.",
+    "Probably the most famous battleship fight decided by crossing the T was the Japanese victory at Tsushima Straights in the Russo-Japanese War.",
+    "it's T-minus 15 days until Mother's Day",
+    "at about T-minus 30 seconds the crowd is just going crazy"
+  ],
+  "pronounciation": "/ti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/t_us_1.mp3"
+}

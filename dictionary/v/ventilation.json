@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The provision of fresh air to a room, building, etc.",
+      "examples": [
+        "ventilation of the mines had long been mechanized"
+      ],
+      "synonyms": [
+        "ventilating",
+        "aerating",
+        "aeration",
+        "freshening",
+        "refreshing",
+        "cooling",
+        "air conditioning"
+      ]
+    },
+    {
+      "description": "Public discussion or examination of an opinion, issue, or complaint.",
+      "examples": [],
+      "synonyms": [
+        "expression",
+        "voicing",
+        "venting",
+        "articulation",
+        "statement",
+        "declaration"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense current of air): from Old French, or from Latin ventilatio(n-), from the verb ventilare (see ventilate). ventilation (sense 1) dates from the mid 17th century.",
+  "pronounciation": "/ˌvɛn(t)əˈleɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ventilation_us_1.mp3"
+}

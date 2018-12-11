@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A roof in the form of an arch or a series of arches, typical of churches and other large, formal buildings.",
+      "examples": [],
+      "synonyms": [
+        "arched roof",
+        "arched ceiling",
+        "dome",
+        "arch"
+      ]
+    },
+    {
+      "description": "A large room or chamber used for storage, especially an underground one.",
+      "examples": [],
+      "synonyms": [
+        "cellar",
+        "basement",
+        "underground chamber",
+        "crypt",
+        "undercroft",
+        "catacomb",
+        "cavern"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a building or room) with an arched roof or roofs.",
+      "examples": [
+        "a vaulted arcade"
+      ],
+      "synonyms": [
+        "arched",
+        "curved",
+        "rounded",
+        "bowed",
+        "domed",
+        "humped"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Old French volter to turn (a horse), gambol, based on Latin volvere to roll.",
+  "pronounciation": "/vɔlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vault_us_1.mp3"
+}

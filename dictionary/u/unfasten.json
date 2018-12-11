@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Open the fastening of; undo (something)",
+      "examples": [
+        "Allie stands before the mirror unfastening her earrings",
+        "he had left the door unfastened"
+      ],
+      "synonyms": [
+        "undo",
+        "open",
+        "detach",
+        "disconnect",
+        "remove",
+        "untie",
+        "unbutton",
+        "unzip",
+        "loose",
+        "loosen",
+        "free",
+        "separate",
+        "disengage",
+        "disjoin",
+        "uncouple",
+        "unwrap",
+        "unbind",
+        "unhook",
+        "unlace",
+        "unhitch",
+        "untether",
+        "unlock",
+        "unbolt"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfas(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfasten_us_1.mp3"
+}

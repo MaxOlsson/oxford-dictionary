@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Having an unpleasant smell.",
+      "examples": [
+        "whiffy socks"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "disagreeable",
+        "disgusting",
+        "distasteful",
+        "awful",
+        "dreadful",
+        "horrible",
+        "terrible",
+        "vile",
+        "foul",
+        "abominable",
+        "frightful",
+        "loathsome",
+        "revolting",
+        "repulsive",
+        "odious",
+        "sickening",
+        "nauseating",
+        "nauseous",
+        "repellent",
+        "repugnant",
+        "horrendous",
+        "hideous",
+        "appalling",
+        "atrocious",
+        "offensive",
+        "objectionable",
+        "obnoxious",
+        "unpalatable",
+        "unsavoury",
+        "unappetizing",
+        "off-putting",
+        "uninviting",
+        "dirty",
+        "filthy",
+        "squalid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwɪfi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whiffy_gb_1.mp3"
+}

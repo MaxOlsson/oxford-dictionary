@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A tunnel carrying a stream or open drain under a road or railroad.",
+      "examples": [],
+      "synonyms": [
+        "channel",
+        "conduit",
+        "watercourse",
+        "trough"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Channel (a stream or drain) through a culvert.",
+      "examples": [
+        "we have asked for the river to be culverted",
+        "a culverted drain"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: of unknown origin.",
+  "pronounciation": "/ˈkəlvərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/culvert_us_1.mp3"
+}

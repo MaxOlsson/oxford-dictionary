@@ -1,0 +1,41 @@
+{
+  "adverb": [
+    {
+      "description": "At some distance in the direction indicated; over there.",
+      "examples": [
+        "there's a ford south of here, about nine miles yonder"
+      ],
+      "synonyms": [
+        "further on",
+        "far off",
+        "far away",
+        "in the distance",
+        "afar"
+      ]
+    }
+  ],
+  "determiner": [
+    {
+      "description": "That or those (used to refer to something situated at a distance)",
+      "examples": [
+        "what light through yonder window breaks?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The far distance.",
+      "examples": [
+        "attempting to fly off into the wild blue yonder"
+      ],
+      "synonyms": [
+        "far away",
+        "far off",
+        "afar"
+      ]
+    }
+  ],
+  "origin": "Middle English: of Germanic origin; related to Dutch ginder over there, also to yon.",
+  "pronounciation": "/ˈjɑndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yonder_us_1.mp3"
+}

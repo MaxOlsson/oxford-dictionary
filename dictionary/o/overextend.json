@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Make too long.",
+      "examples": [
+        "at nine minutes plus the song is somewhat overextended"
+      ],
+      "synonyms": [
+        "put a strain on",
+        "put great demands on",
+        "overtax",
+        "be too much for"
+      ]
+    },
+    {
+      "description": "Impose on (someone) an excessive burden of work or commitments.",
+      "examples": [
+        "he should not overextend himself on the mortgage"
+      ],
+      "synonyms": [
+        "overtax",
+        "overwork",
+        "overburden",
+        "overreach",
+        "overtask",
+        "make too many demands on",
+        "run oneself into the ground",
+        "work oneself into the ground",
+        "exert excessively",
+        "drive too far",
+        "exert to the limit",
+        "push to the limit"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərɪkˈstɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overextend_us_1.mp3"
+}

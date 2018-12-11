@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A metal framework used for cooking food over an open fire; a gridiron.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cook (something) using a grill.",
+      "examples": [
+        "grill the trout for about five minutes"
+      ],
+      "synonyms": [
+        "cook",
+        "bake"
+      ]
+    },
+    {
+      "description": "Subject (someone) to intense questioning or interrogation.",
+      "examples": [
+        "my father grilled us about what we had been doing"
+      ],
+      "synonyms": [
+        "questioning",
+        "cross-questioning",
+        "cross-examination",
+        "quizzing",
+        "probing",
+        "inquisition",
+        "catechism"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French gril (noun), griller (verb), from Old French graille grille.",
+  "pronounciation": "/ɡril/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grill_us_1.mp3"
+}

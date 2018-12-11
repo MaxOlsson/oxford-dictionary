@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An item of food.",
+      "examples": [
+        "an unlimited assortment of viands"
+      ],
+      "synonyms": [
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    },
+    {
+      "description": "A meat, seafood, or vegetable dish that accompanies rice in a typical Filipino meal.",
+      "examples": [
+        "a sumptuous lunch of rice and two viands",
+        "Filipinos on a tight budget prioritize rice over viand"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French viande food, from an alteration of Latin vivenda, neuter plural gerundive of vivere to live; viand (sense 2) has been adopted in Philippine English as a translation of the Tagalog word ulam.",
+  "pronounciation": "/ˈvīənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/viand_us_1.mp3"
+}

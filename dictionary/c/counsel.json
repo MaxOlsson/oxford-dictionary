@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "Advice, especially that given formally.",
+      "examples": [],
+      "synonyms": [
+        "advice",
+        "guidance",
+        "direction",
+        "instruction",
+        "information",
+        "enlightenment"
+      ]
+    },
+    {
+      "description": "The lawyer or lawyers conducting a case.",
+      "examples": [
+        "the counsel for the defense"
+      ],
+      "synonyms": [
+        "barrister",
+        "lawyer",
+        "counsellor",
+        "legal practitioner"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give advice to (someone)",
+      "examples": [
+        "he was counseled by his supporters to return to Germany"
+      ]
+    }
+  ],
+  "phrases": [
+    "she doubted what he said but kept her own counsel",
+    "There is, after all, something to be said for keeping one's own counsel.",
+    "He kept his own counsel, did not appear to let the speculation affect him in any way and, ultimately, secured his dream move to Liverpool.",
+    "I have kept my own counsel but we know what we would do, he told the BBC last week.",
+    "He kept his own counsel as an artist and, sitting at his work clad in a distinctive tweed suit, he largely ignored the enthusiastic audiences that would gather to watch him paint."
+  ],
+  "origin": "Middle English: via Old French counseil (noun), conseiller (verb), from Latin consilium consultation, advice, related to consulere (see consult). Compare with council.",
+  "pronounciation": "/ˈkounsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counsel_us_1.mp3"
+}

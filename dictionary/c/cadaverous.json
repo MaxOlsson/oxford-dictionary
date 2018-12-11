@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling a corpse in being very pale, thin, or bony.",
+      "examples": [
+        "he had a cadaverous appearance"
+      ],
+      "synonyms": [
+        "pale",
+        "deathly pale",
+        "pallid",
+        "white",
+        "bloodless",
+        "ashen",
+        "ashen-faced",
+        "ashy",
+        "chalky",
+        "chalk-white",
+        "grey",
+        "white-faced",
+        "whey-faced",
+        "waxen",
+        "waxy",
+        "corpse-like",
+        "deathlike",
+        "ghostly"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin cadaverosus, from cadaver corpse.",
+  "pronounciation": "/kəˈdav(ə)rəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cadaverous_us_1.mp3"
+}

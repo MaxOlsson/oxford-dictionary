@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "With reference to the outer surface or structure of something; outside.",
+      "examples": [
+        "the antenna should be mounted externally, perhaps on the roof"
+      ]
+    },
+    {
+      "description": "Used to indicate that something occurs or comes from a source outside the institution, country, or subject affected.",
+      "examples": [
+        "most exam papers are marked externally",
+        "externally funded projects"
+      ]
+    },
+    {
+      "description": "Using a disk or tape drive rather than the main memory.",
+      "examples": [
+        "all data that has been stored externally will be easy to retrieve"
+      ]
+    }
+  ],
+  "pronounciation": "/ikˈstərnəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/externally_us_1.mp3"
+}

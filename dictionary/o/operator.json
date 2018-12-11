@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A person who operates equipment or a machine.",
+      "examples": [
+        "a radio operator"
+      ],
+      "synonyms": [
+        "machinist",
+        "mechanic",
+        "operative",
+        "engineer",
+        "driver",
+        "worker"
+      ]
+    },
+    {
+      "description": "A person or company that engages in or runs a business or enterprise.",
+      "examples": [
+        "a tour operator"
+      ],
+      "synonyms": [
+        "contractor",
+        "entrepreneur",
+        "promoter",
+        "impresario",
+        "arranger",
+        "fixer",
+        "trader",
+        "dealer",
+        "director",
+        "manager",
+        "partner",
+        "businessman",
+        "businesswoman",
+        "financier",
+        "venture capitalist",
+        "speculator"
+      ]
+    },
+    {
+      "description": "A person who acts in a specified, especially a manipulative, way.",
+      "examples": [
+        "her reputation as a cool, clever operator"
+      ],
+      "synonyms": [
+        "manipulator",
+        "manoeuvrer",
+        "mover",
+        "worker",
+        "string-puller",
+        "mover and shaker",
+        "wheeler-dealer"
+      ]
+    },
+    {
+      "description": "A symbol or function denoting an operation (e.g. ×, +).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɑpəˌreɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/operator_us_2.mp3"
+}

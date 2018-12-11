@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "An object or group of objects wrapped in paper or plastic, or packed in a box.",
+      "examples": [],
+      "synonyms": [
+        "parcel",
+        "packet",
+        "container",
+        "box",
+        "carton"
+      ]
+    },
+    {
+      "description": "A set of proposals or terms offered or agreed as a whole.",
+      "examples": [
+        "a package of economic reforms"
+      ],
+      "synonyms": [
+        "collection",
+        "bundle",
+        "lot"
+      ]
+    },
+    {
+      "description": "A collection of programs or subroutines with related functionality.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put into a box or wrapping, especially for sale.",
+      "examples": [
+        "choose products that are packaged in recyclable materials"
+      ],
+      "synonyms": [
+        "wrap",
+        "wrap up",
+        "gift-wrap"
+      ]
+    },
+    {
+      "description": "Present (someone or something) in a particular way, especially to make them more attractive.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (as a noun denoting the action or mode of packing goods): from the verb pack + -age; compare with Anglo-Latin paccagium. The verb dates from the 1920s.",
+  "pronounciation": "/ˈpækɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/package_us_1.mp3"
+}

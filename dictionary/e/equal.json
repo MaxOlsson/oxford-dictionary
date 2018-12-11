@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "Being the same in quantity, size, degree, or value.",
+      "examples": [
+        "add equal amounts of water and flour",
+        "1 liter is roughly equal to 1 quart"
+      ],
+      "synonyms": [
+        "identical",
+        "uniform",
+        "alike",
+        "like",
+        "the same",
+        "one and the same",
+        "equivalent",
+        "indistinguishable"
+      ]
+    },
+    {
+      "description": "Having the ability or resources to meet (a challenge)",
+      "examples": [
+        "the players proved equal to the task"
+      ],
+      "synonyms": [
+        "capable of",
+        "fit for",
+        "up to",
+        "good enough for",
+        "strong enough for",
+        "adequate for",
+        "sufficient for",
+        "ready for"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing considered to be the same as another in status or quality.",
+      "examples": [
+        "we all treat each other as equals",
+        "it was a day without equal in market history"
+      ],
+      "synonyms": [
+        "equivalent",
+        "peer",
+        "fellow",
+        "coequal",
+        "like"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be the same as in number or amount.",
+      "examples": [
+        "four plus six divided by two equals five",
+        "the total debits should equal the total credits"
+      ],
+      "synonyms": [
+        "be equal to",
+        "be equivalent to",
+        "be the same as",
+        "correspond to"
+      ]
+    }
+  ],
+  "phrases": [
+    "Sorry Campbell, you may be the first among equals, but you ain't the boss.",
+    "They also recognize the Pope as the principal hierarch, the first among equals.",
+    "In the past, the Pope of Alexandria was merely the first among equals, and reform movements had foundered on the autonomy of Egypt's bishops.",
+    "The official doctrine is that the prime minister is simply the first among equals, and the rule of collective responsibility emphasizes the collegial character of the cabinet.",
+    "The whole tenet on which Hauser bases his fascinating book is that the human species is, as it were, first among equals."
+  ],
+  "origin": "Late Middle English: from Latin aequalis, from aequus even, level, equal.",
+  "pronounciation": "/ˈikwəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/equal_us_1.mp3"
+}

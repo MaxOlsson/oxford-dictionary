@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Make a short, low clicking sound.",
+      "examples": [
+        "her needle plocked in and out of her embroidery"
+      ],
+      "synonyms": [
+        "clicking",
+        "click",
+        "clack",
+        "clacking",
+        "click-clack",
+        "ticking",
+        "tick-tock",
+        "snick",
+        "snicking",
+        "plock",
+        "plocking",
+        "beat",
+        "tap",
+        "tapping"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short, low clicking sound.",
+      "examples": [
+        "when a rock makes contact with the stomach there is a sickly plock sound"
+      ],
+      "synonyms": [
+        "clicking",
+        "click",
+        "clack",
+        "clacking",
+        "click-clack",
+        "ticking",
+        "tick-tock",
+        "snick",
+        "snicking",
+        "plock",
+        "plocking",
+        "beat",
+        "tap",
+        "tapping"
+      ]
+    }
+  ],
+  "origin": "1930s: imitative.",
+  "pronounciation": "/plɒk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plock_gb_1.mp3"
+}

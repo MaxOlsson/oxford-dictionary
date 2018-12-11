@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Unqualified; absolute.",
+      "examples": [
+        "crusaders were offered a plenary indulgence by the Pope"
+      ],
+      "synonyms": [
+        "unconditional",
+        "unlimited",
+        "unrestricted",
+        "unqualified",
+        "absolute",
+        "complete",
+        "sweeping",
+        "comprehensive"
+      ]
+    },
+    {
+      "description": "(of a meeting) to be attended by all participants at a conference or assembly, who otherwise meet in smaller groups.",
+      "examples": [
+        "a plenary session of the European Parliament"
+      ],
+      "synonyms": [
+        "full",
+        "fully constituted",
+        "general",
+        "complete",
+        "entire",
+        "open"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A meeting or session attended by all participants at a conference or assembly.",
+      "examples": [],
+      "synonyms": [
+        "meeting",
+        "sitting",
+        "assembly",
+        "conclave",
+        "plenary"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin plenarius complete, from plenus full.",
+  "pronounciation": "/ˈplenərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plenary_us_2_rr.mp3"
+}

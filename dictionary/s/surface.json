@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "The outside part or uppermost layer of something (often used when describing its texture, form, or extent)",
+      "examples": [
+        "the earth's surface",
+        "poor road surfaces"
+      ],
+      "synonyms": [
+        "outside",
+        "exterior"
+      ]
+    },
+    {
+      "description": "A continuous set of points that has length and breadth but no thickness.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or occurring on the upper or outer part of something.",
+      "examples": [
+        "surface workers at the copper mines"
+      ],
+      "synonyms": [
+        "superficial",
+        "external",
+        "exterior",
+        "outward",
+        "seeming",
+        "ostensible",
+        "apparent",
+        "cosmetic",
+        "skin deep"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rise or come up to the surface of the water or the ground.",
+      "examples": [
+        "he surfaced from his dive"
+      ],
+      "synonyms": [
+        "come to the surface",
+        "come to the top",
+        "come up",
+        "rise"
+      ]
+    },
+    {
+      "description": "Provide (something, especially a road) with a particular upper or outer layer.",
+      "examples": [
+        "a small path surfaced with terra-cotta tiles"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French (see sur-, face), suggested by Latin superficies.",
+  "pronounciation": "/ˈsərfəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surface_us_1.mp3"
+}

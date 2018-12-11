@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Walk with long, decisive steps in a specified direction.",
+      "examples": [
+        "he strode across the road",
+        "striding confidently toward the future"
+      ],
+      "synonyms": [
+        "march",
+        "stalk",
+        "pace",
+        "tread",
+        "step",
+        "walk"
+      ]
+    },
+    {
+      "description": "Cross (an obstacle) with one long step.",
+      "examples": [
+        "by giving a little leap she could stride across like a grown-up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A long, decisive step.",
+      "examples": [
+        "he crossed the room in a couple of strides"
+      ],
+      "synonyms": [
+        "step",
+        "long step",
+        "large step",
+        "pace",
+        "footstep"
+      ]
+    },
+    {
+      "description": "A step or stage in progress toward an aim.",
+      "examples": [
+        "great strides have been made toward equality"
+      ],
+      "synonyms": [
+        "make progress",
+        "make headway",
+        "gain ground",
+        "progress",
+        "advance",
+        "proceed",
+        "move",
+        "get on",
+        "get ahead",
+        "come on",
+        "come along",
+        "shape up",
+        "take shape",
+        "move forward in leaps and bounds"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a rhythmic style of jazz piano playing in which the left hand alternately plays single bass notes on the downbeat and chords an octave higher on the upbeat.",
+      "examples": [
+        "a stride pianist"
+      ]
+    }
+  ],
+  "phrases": [
+    "Rupert barely glanced over his shoulder, never breaking his stride as he continued to stroll down the hall.",
+    "Barely breaking his stride, Craig Brewster brushes past in the Caledonian stadium tunnel, a surge of purpose.",
+    "He quickly demolished most of the pie, then chucked the remains and the paper bag it had been in on the pavement, without breaking his stride.",
+    "The important thing is not to break one's stride: to drivers and motorcyclists, you are simply another vehicle, moving steadily in a given direction.",
+    "I watched his car disappear into the distance, but never broke my stride. Let him go I told myself, I meant it in more ways then one."
+  ],
+  "origin": "Old English stride (noun) single long step, strīdan (verb) stand or walk with the legs wide apart, probably from a Germanic base meaning strive, quarrel; related to Dutch strijden fight and German streiten quarrel.",
+  "pronounciation": "/straɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stride_us_1.mp3"
+}

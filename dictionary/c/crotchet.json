@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A note having the time value of a quarter of a whole note or half a half note, represented by a large solid dot with a plain stem; a quarter note.",
+      "examples": []
+    },
+    {
+      "description": "A perverse or unfounded belief or notion.",
+      "examples": [
+        "the natural crotchets of inveterate bachelors"
+      ],
+      "synonyms": [
+        "whim",
+        "whimsy",
+        "fancy",
+        "fad",
+        "vagary",
+        "notion",
+        "conceit",
+        "caprice",
+        "kink",
+        "twist",
+        "freak",
+        "fetish",
+        "passion",
+        "bent",
+        "foible",
+        "quirk",
+        "eccentricity",
+        "idiosyncrasy"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense hook): from Old French crochet, diminutive of croc hook, from Old Norse krókr.",
+  "pronounciation": "/ˈkräCHət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crotchet_us_1.mp3"
+}

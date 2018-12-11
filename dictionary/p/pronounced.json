@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Very noticeable or marked; conspicuous.",
+      "examples": [
+        "he had a pronounced squint"
+      ],
+      "synonyms": [
+        "noticeable",
+        "marked",
+        "strong",
+        "conspicuous",
+        "striking",
+        "distinct",
+        "decided",
+        "definite",
+        "prominent",
+        "notable",
+        "unmistakable",
+        "inescapable",
+        "obvious",
+        "evident",
+        "plain",
+        "clear",
+        "recognizable",
+        "identifiable"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈnaʊnst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pronounced_us_1.mp3"
+}

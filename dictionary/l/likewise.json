@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "In the same way; also.",
+      "examples": [
+        "the dream of young people is to grow old, and it is likewise the dream of their parents to relive youth"
+      ],
+      "synonyms": [
+        "also",
+        "in addition",
+        "too",
+        "as well",
+        "by the same token",
+        "to boot"
+      ]
+    },
+    {
+      "description": "In a like manner; similarly.",
+      "examples": [
+        "I stuck out my tongue and Frankie did likewise"
+      ],
+      "synonyms": [
+        "the same",
+        "similarly",
+        "correspondingly",
+        "in the same way",
+        "in like manner",
+        "in similar fashion"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from the phrase in like wise.",
+  "pronounciation": "/ˈlaɪkˌwaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/likewise_us_1.mp3"
+}

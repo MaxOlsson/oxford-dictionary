@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Grayish white.",
+      "examples": [
+        "hoary cobwebs"
+      ],
+      "synonyms": [
+        "greyish-white",
+        "grey",
+        "white",
+        "silver",
+        "silvery"
+      ]
+    },
+    {
+      "description": "Old and trite.",
+      "examples": [
+        "that hoary American notion that bigger is better"
+      ],
+      "synonyms": [
+        "trite",
+        "hackneyed",
+        "clichéd",
+        "banal",
+        "platitudinous",
+        "vapid",
+        "ordinary",
+        "commonplace",
+        "common",
+        "stock",
+        "conventional",
+        "stereotyped",
+        "predictable",
+        "overused",
+        "overdone",
+        "overworked",
+        "stale",
+        "worn out",
+        "time-worn",
+        "tired",
+        "threadbare",
+        "hack",
+        "unimaginative",
+        "unoriginal",
+        "derivative",
+        "uninspired",
+        "prosaic",
+        "routine",
+        "pedestrian",
+        "run-of-the-mill"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhôrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoary_us_1.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A solemn promise.",
+      "examples": [],
+      "synonyms": [
+        "oath",
+        "pledge",
+        "promise",
+        "bond",
+        "covenant",
+        "commitment",
+        "avowal",
+        "profession",
+        "sworn statement",
+        "affirmation",
+        "attestation",
+        "assurance",
+        "word",
+        "word of honour",
+        "guarantee"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Solemnly promise to do a specified thing.",
+      "examples": [
+        "the rebels vowed to continue fighting",
+        "I vowed that my family would never go hungry",
+        "never again! he vowed"
+      ],
+      "synonyms": [
+        "swear",
+        "state under oath",
+        "swear under oath",
+        "swear on the bible",
+        "take an oath",
+        "pledge",
+        "promise",
+        "affirm",
+        "avow",
+        "undertake",
+        "give an undertaking",
+        "engage",
+        "commit",
+        "commit oneself",
+        "make a commitment",
+        "give one's word",
+        "give one's word of honour",
+        "give an assurance",
+        "guarantee"
+      ]
+    },
+    {
+      "description": "Dedicate to someone or something, especially a deity.",
+      "examples": [
+        "I vowed myself to this enterprise"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French vou, from Latin votum (see vote); the verb is from Old French vouer.",
+  "pronounciation": "/vaʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vow_gb_1.mp3"
+}

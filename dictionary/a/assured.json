@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Confident.",
+      "examples": [
+        "“Certainly not,” was her assured reply"
+      ],
+      "synonyms": [
+        "self-confident",
+        "confident",
+        "self-assured",
+        "sure of oneself",
+        "positive",
+        "assertive",
+        "self-possessed",
+        "self-reliant",
+        "poised",
+        "filled with aplomb",
+        "phlegmatic",
+        "level-headed",
+        "cool-headed"
+      ]
+    },
+    {
+      "description": "Protected against discontinuance or change.",
+      "examples": [
+        "an assured tenancy"
+      ],
+      "synonyms": [
+        "guaranteed",
+        "certain",
+        "sure",
+        "secure",
+        "reliable",
+        "dependable",
+        "solid",
+        "sound",
+        "established"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈʃʊrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assured_us_1.mp3"
+}

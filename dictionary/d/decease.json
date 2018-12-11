@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "Death.",
+      "examples": [
+        "a doctor's sudden decease"
+      ],
+      "synonyms": [
+        "demise",
+        "dying",
+        "end",
+        "passing",
+        "passing away",
+        "passing on",
+        "loss of life",
+        "expiry",
+        "expiration",
+        "departure from life",
+        "final exit",
+        "eternal rest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Die.",
+      "examples": [],
+      "synonyms": [
+        "pass away",
+        "pass on",
+        "lose one's life",
+        "depart this life",
+        "expire",
+        "breathe one's last",
+        "draw one's last breath",
+        "meet one's end",
+        "meet one's death",
+        "lay down one's life",
+        "be no more",
+        "perish",
+        "be lost",
+        "go the way of the flesh",
+        "go the way of all flesh",
+        "go to glory",
+        "go to one's last resting place",
+        "go to meet one's maker",
+        "cross the great divide",
+        "cross the styx"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French deces, from Latin decessus death, past participle (used as a noun) of decedere to die.",
+  "pronounciation": "/dəˈsēs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decease_us_1.mp3"
+}

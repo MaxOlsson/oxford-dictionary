@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or showing no effects or changes.",
+      "examples": [
+        "the walks are suitable only for people who are unaffected by vertigo"
+      ],
+      "synonyms": [
+        "unchanged",
+        "unaltered",
+        "uninfluenced"
+      ]
+    },
+    {
+      "description": "(of a person) without artificiality or insincerity.",
+      "examples": [
+        "his manner was natural and unaffected"
+      ],
+      "synonyms": [
+        "unassuming",
+        "unpretentious",
+        "down-to-earth",
+        "without airs",
+        "natural",
+        "spontaneous",
+        "easy",
+        "uninhibited",
+        "open",
+        "artless",
+        "guileless",
+        "ingenuous",
+        "naive",
+        "childlike",
+        "innocent",
+        "unsophisticated",
+        "unworldly",
+        "plain",
+        "simple"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəˈfɛktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unaffected_us_1.mp3"
+}

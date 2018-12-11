@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Produce (an animal or plant) by mating or hybridizing two different species, breeds, or varieties.",
+      "examples": [
+        "he taught himself how to crossbreed superior seeds"
+      ],
+      "synonyms": [
+        "cross-bred",
+        "mixed-breed",
+        "half-breed",
+        "hybrid"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An animal or plant produced by mating or hybridizing two different species, breeds, or varieties.",
+      "examples": [
+        "a crossbreed Labrador"
+      ],
+      "synonyms": [
+        "hybrid",
+        "hybridization",
+        "cross-breed",
+        "mixed breed",
+        "half-breed",
+        "half blood",
+        "mixture",
+        "amalgam",
+        "blend",
+        "combination",
+        "composite",
+        "conglomerate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrôsbrēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crossbreed_us_1.mp3"
+}

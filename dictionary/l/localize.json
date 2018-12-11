@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Restrict (something) to a particular place.",
+      "examples": [
+        "symptoms include localized pain and numbness"
+      ],
+      "synonyms": [
+        "limit",
+        "restrict",
+        "confine",
+        "contain",
+        "restrain",
+        "constrain",
+        "circumscribe",
+        "concentrate",
+        "delimit",
+        "delimitate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈloʊkəˌlaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/localize_us_1.mp3"
+}

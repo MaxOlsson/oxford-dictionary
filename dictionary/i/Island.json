@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A piece of land surrounded by water.",
+      "examples": [],
+      "synonyms": [
+        "isle",
+        "islet"
+      ]
+    },
+    {
+      "description": "A thing resembling an island, especially in being isolated, detached, or surrounded in some way.",
+      "examples": [
+        "the university is the last island of democracy in this country"
+      ]
+    },
+    {
+      "description": "A detached portion of tissue or group of cells.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make into or like an island; place or enclose on or as on an island; isolate.",
+      "examples": [
+        "islanded among the new stores, these houses were valuable property",
+        "the house where she has been islanded"
+      ]
+    }
+  ],
+  "proper noun": [],
+  "origin": "Old English īegland, from īeg island (from a base meaning watery, watered) + land. The change in the spelling of the first syllable in the 16th century was due to association with the unrelated word isle.",
+  "pronounciation": "/ˈēsland/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/island_1_us_1.mp3"
+}

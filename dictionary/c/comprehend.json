@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Grasp mentally; understand.",
+      "examples": [
+        "he couldn't comprehend her reasons for marrying Lovat",
+        "I simply couldn't comprehend what had happened"
+      ],
+      "synonyms": [
+        "understand",
+        "grasp",
+        "take in",
+        "see",
+        "apprehend",
+        "follow",
+        "make sense of",
+        "fathom",
+        "make out",
+        "puzzle out",
+        "get to the bottom of",
+        "penetrate"
+      ]
+    },
+    {
+      "description": "Include, comprise, or encompass.",
+      "examples": [
+        "a divine order comprehending all men"
+      ],
+      "synonyms": [
+        "comprise",
+        "include",
+        "take in",
+        "encompass",
+        "embrace",
+        "involve",
+        "contain"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French comprehender, or Latin comprehendere, from com- together + prehendere grasp.",
+  "pronounciation": "/ˌkɑmprəˈhɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/comprehend_us_1.mp3"
+}

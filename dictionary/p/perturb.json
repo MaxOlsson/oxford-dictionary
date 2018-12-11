@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) anxious or unsettled.",
+      "examples": [
+        "they were perturbed by her capricious behavior",
+        "they were perturbed that the bank had begun switching some of its problem loans"
+      ],
+      "synonyms": [
+        "worry",
+        "upset",
+        "unsettle",
+        "disturb",
+        "concern",
+        "trouble",
+        "make anxious",
+        "make uneasy",
+        "make fretful",
+        "disquiet"
+      ]
+    },
+    {
+      "description": "Subject (a system, moving object, or process) to an influence tending to alter its normal or regular state or path.",
+      "examples": [
+        "nuclear weapons could be used to perturb the orbit of an asteroid"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French pertourber, from Latin perturbare, from per- completely + turbare disturb.",
+  "pronounciation": "/pərˈtərb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perturb_us_1.mp3"
+}

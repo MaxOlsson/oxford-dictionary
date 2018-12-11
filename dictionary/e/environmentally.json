@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that relates to the natural world and the impact of human activity on its condition.",
+      "examples": [
+        "alternatives to environmentally damaging pesticides",
+        "measures designed to promote environmentally friendly farming",
+        "the village was suffering economically, socially, and environmentally"
+      ]
+    },
+    {
+      "description": "In a way that relates to a person's surroundings.",
+      "examples": [
+        "environmentally speaking, it's a good job change for me"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪnˌvaɪrənˈmɛn(t)əli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/environmentally_us_1.mp3"
+}

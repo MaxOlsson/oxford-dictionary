@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing acting or serving in place of another.",
+      "examples": [
+        "soy milk is used as a substitute for dairy milk"
+      ],
+      "synonyms": [
+        "replacement",
+        "deputy",
+        "relief",
+        "proxy",
+        "reserve",
+        "surrogate",
+        "cover",
+        "fill-in",
+        "stand-in",
+        "standby",
+        "locum",
+        "locum tenens",
+        "understudy",
+        "stopgap",
+        "alternative",
+        "ancillary"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use or add in place of.",
+      "examples": [
+        "dried rosemary can be substituted for the fresh herb"
+      ],
+      "synonyms": [
+        "exchange",
+        "use as a replacement",
+        "switch"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a deputy or delegate): from Latin substitutus put in place of, past participle of substituere, based on statuere set up.",
+  "pronounciation": "/ˈsəbstəˌt(j)ut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/substitute_us_1.mp3"
+}

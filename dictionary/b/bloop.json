@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "(of an electronic device) emit a short low-pitched noise.",
+      "examples": [
+        "a slot machine blooping in the corner"
+      ]
+    },
+    {
+      "description": "Make a mistake.",
+      "examples": [
+        "the company admitted it had blooped"
+      ],
+      "synonyms": [
+        "perpetrate",
+        "commit",
+        "be responsible for",
+        "be guilty of",
+        "be to blame for"
+      ]
+    },
+    {
+      "description": "Hit (a ball) weakly or make (a hit) from a poorly hit fly ball landing just beyond the reach of the infielders.",
+      "examples": [
+        "he blooped a single over the fielder in the third inning"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short low-pitched noise emitted by an electronic device.",
+      "examples": [
+        "a few bleeps and bloops"
+      ]
+    },
+    {
+      "description": "A mistake.",
+      "examples": [
+        "a typical beginner's bloop"
+      ],
+      "synonyms": [
+        "mistake",
+        "error",
+        "blunder",
+        "fault",
+        "gaffe",
+        "slip",
+        "slip of the pen"
+      ]
+    },
+    {
+      "examples": [
+        "seven hits which were bloops for the most part",
+        "a bloop single"
+      ]
+    }
+  ],
+  "origin": "1920s: imitative.",
+  "pronounciation": "/blo͞op/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bloop_us_1.mp3"
+}

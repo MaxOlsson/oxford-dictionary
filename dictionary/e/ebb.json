@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "The movement of the tide out to sea.",
+      "examples": [
+        "the ebb tide",
+        "I knew the tide would be on the ebb"
+      ],
+      "synonyms": [
+        "receding",
+        "going out",
+        "flowing back",
+        "retreat",
+        "retreating",
+        "drawing back",
+        "abating",
+        "subsiding"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of tidewater) move away from the land; recede.",
+      "examples": [
+        "the tide began to ebb"
+      ],
+      "synonyms": [
+        "recede",
+        "go out",
+        "retreat",
+        "flow back",
+        "draw back",
+        "fall back",
+        "fall away",
+        "abate",
+        "subside"
+      ]
+    },
+    {
+      "description": "(of an emotion or quality) gradually lessen or reduce.",
+      "examples": [
+        "my enthusiasm was ebbing away"
+      ],
+      "synonyms": [
+        "diminish",
+        "dwindle",
+        "wane",
+        "fade away",
+        "melt away",
+        "peter out",
+        "decline",
+        "die away",
+        "die down",
+        "die out",
+        "flag",
+        "let up",
+        "lessen",
+        "decrease",
+        "weaken",
+        "dissolve",
+        "disappear",
+        "come to an end"
+      ]
+    }
+  ],
+  "phrases": [
+    "the country was at a low ebb due to the recent war",
+    "That meant her finances were at a low ebb; her grandson's expenses must be higher than expected.",
+    "The drought continues and fishing activity is at a low ebb.",
+    "The quality of international football is at a low ebb.",
+    "Public confidence in Britain's hospitals is at a low ebb."
+  ],
+  "origin": "Old English ebba (noun), ebbian (verb), of West Germanic origin; related to Dutch ebbe (noun), ebben (verb), and ultimately to of which had the primary sense away from.",
+  "pronounciation": "/eb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ebb_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A knockout.",
+      "examples": [
+        "a sixth-round kayo"
+      ],
+      "synonyms": [
+        "death blow",
+        "finishing blow",
+        "killing",
+        "dispatch"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Knock (someone) out.",
+      "examples": [
+        "he was kayoed by Patterson in the sixth round",
+        "it's a software virus that kayoes computer systems"
+      ],
+      "synonyms": [
+        "knocked out",
+        "insensible",
+        "senseless",
+        "insentient",
+        "insensate",
+        "passed out",
+        "comatose",
+        "in a coma",
+        "inert"
+      ]
+    }
+  ],
+  "origin": "1920s: representing the pronunciation of KO.",
+  "pronounciation": "/ˌkāˈō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kayo_us_1.mp3"
+}

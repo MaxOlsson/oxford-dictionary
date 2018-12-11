@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of revulsion or strong disapproval aroused by something unpleasant or offensive.",
+      "examples": [
+        "the sight filled her with disgust",
+        "some of the audience walked out in disgust"
+      ],
+      "synonyms": [
+        "revulsion",
+        "repugnance",
+        "aversion",
+        "distaste",
+        "abhorrence",
+        "loathing",
+        "detestation",
+        "odium",
+        "execration",
+        "horror"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to feel revulsion or profound disapproval.",
+      "examples": [
+        "I was disgusted with myself for causing so much misery"
+      ],
+      "synonyms": [
+        "revolt",
+        "repel",
+        "repulse",
+        "sicken",
+        "nauseate",
+        "cause to feel nauseous",
+        "make shudder",
+        "turn someone's stomach",
+        "make someone's gorge rise"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from early modern French desgoust or Italian disgusto, from Latin dis- (expressing reversal) + gustus taste.",
+  "pronounciation": "/dɪsˈɡəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disgust_us_1.mp3"
+}

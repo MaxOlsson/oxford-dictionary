@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The barking sound made by a dog.",
+      "examples": [],
+      "synonyms": [
+        "squeal",
+        "squawk",
+        "screech",
+        "shriek",
+        "scream",
+        "howl",
+        "yowl",
+        "wail",
+        "yell",
+        "cry",
+        "call",
+        "shout",
+        "bawl",
+        "yawl",
+        "whoop"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a dog) bark.",
+      "examples": [
+        "the dog started to woof"
+      ],
+      "synonyms": [
+        "woof",
+        "yap",
+        "yelp",
+        "bay"
+      ]
+    }
+  ],
+  "origin": "Old English ōwef, a compound from the base of weave; Middle English oof later became woof by association with warp in the phrase warp and woof.",
+  "pronounciation": "/wʊf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/woof_us_1.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Excellent.",
+      "examples": [
+        "a superb performance"
+      ],
+      "synonyms": [
+        "excellent",
+        "superlative",
+        "first-rate",
+        "first-class",
+        "superior",
+        "supreme",
+        "outstanding",
+        "remarkable",
+        "dazzling",
+        "marvellous",
+        "magnificent",
+        "wonderful",
+        "splendid",
+        "admirable",
+        "noteworthy",
+        "impressive",
+        "fine",
+        "exquisite",
+        "exceptional",
+        "glorious",
+        "sublime",
+        "perfect",
+        "of the first order",
+        "of the first water"
+      ]
+    },
+    {
+      "description": "Impressively splendid.",
+      "examples": [
+        "a superb Egyptian statue of Osiris"
+      ],
+      "synonyms": [
+        "magnificent",
+        "majestic",
+        "splendid",
+        "grand",
+        "impressive",
+        "imposing",
+        "awe-inspiring",
+        "breathtaking"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in superb (sense 2)): from Latin superbus proud, magnificent.",
+  "pronounciation": "/so͞oˈpərb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/superb_us_1.mp3"
+}

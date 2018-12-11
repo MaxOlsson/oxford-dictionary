@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Made of wool.",
+      "examples": [
+        "a red woolly hat"
+      ],
+      "synonyms": [
+        "woollen",
+        "made of wool",
+        "wool",
+        "fleecy"
+      ]
+    },
+    {
+      "description": "Vague or confused in expression or character.",
+      "examples": [
+        "woolly thinking"
+      ],
+      "synonyms": [
+        "vague",
+        "ill-defined",
+        "hazy",
+        "unclear",
+        "unfocused",
+        "fuzzy",
+        "blurry",
+        "foggy",
+        "nebulous",
+        "imprecise",
+        "inexact",
+        "indefinite"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A garment made of wool, especially a pullover.",
+      "examples": [],
+      "synonyms": [
+        "knitted garment",
+        "woollen"
+      ]
+    },
+    {
+      "description": "A sheep.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈwʊli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/woolly_us_1.mp3"
+}

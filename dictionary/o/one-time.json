@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Former.",
+      "examples": [
+        "a one-time football player"
+      ],
+      "synonyms": [
+        "former",
+        "ex-",
+        "old",
+        "previous",
+        "sometime",
+        "erstwhile",
+        "as was",
+        "once",
+        "then",
+        "lapsed"
+      ]
+    },
+    {
+      "description": "Relating to a single occasion.",
+      "examples": [
+        "a one-time charge"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwən ˈˌtīm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/one_time_1_us_1.mp3"
+}

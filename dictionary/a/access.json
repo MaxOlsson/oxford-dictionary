@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "A means of approaching or entering a place.",
+      "examples": [
+        "the staircase gives access to the top floor",
+        "wheelchair access",
+        "the bypass will greatly improve road access",
+        "the building has a side access"
+      ],
+      "synonyms": [
+        "entrance",
+        "entry",
+        "way in",
+        "means of entry",
+        "ingress"
+      ]
+    },
+    {
+      "description": "An attack or outburst of an emotion.",
+      "examples": [
+        "I was suddenly overcome with an access of rage"
+      ],
+      "synonyms": [
+        "fit",
+        "attack",
+        "bout",
+        "outpouring",
+        "eruption",
+        "explosion",
+        "outburst",
+        "burst",
+        "outbreak",
+        "flare-up",
+        "blow-up",
+        "blaze",
+        "spasm",
+        "paroxysm",
+        "seizure",
+        "rush"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Approach or enter (a place)",
+      "examples": [
+        "single rooms have private baths accessed via the balcony"
+      ]
+    },
+    {
+      "description": "Obtain, examine, or retrieve (data or a file).",
+      "examples": [],
+      "synonyms": [
+        "retrieve",
+        "gain",
+        "gain access to",
+        "acquire",
+        "obtain"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense sudden attack of illness): from Latin accessus, from the verb accedere to approach (see accede). access (sense 1 of the noun) is first recorded in the early 17th century.",
+  "pronounciation": "/ˈækˌsɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/access_us_5.mp3"
+}

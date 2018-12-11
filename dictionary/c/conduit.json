@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A channel for conveying water or other fluid.",
+      "examples": [
+        "a conduit for conveying water to the power plant"
+      ],
+      "synonyms": [
+        "channel",
+        "trench",
+        "ditch",
+        "gully",
+        "drain",
+        "culvert",
+        "cut",
+        "flume",
+        "gutter",
+        "furrow",
+        "groove",
+        "depression"
+      ]
+    },
+    {
+      "description": "A tube or trough for protecting electric wiring.",
+      "examples": [
+        "the gas pipe should not be close to any electrical conduit"
+      ],
+      "synonyms": [
+        "channel",
+        "duct",
+        "pipe",
+        "tube",
+        "gutter",
+        "groove",
+        "furrow",
+        "trough",
+        "trench",
+        "culvert",
+        "cut",
+        "sluice",
+        "spillway",
+        "race",
+        "flume",
+        "chute",
+        "ditch",
+        "drain"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from medieval Latin conductus, from Latin conducere bring together (see conduct).",
+  "pronounciation": "/ˈkänˌd(y)o͞oət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconduit_us_1.mp3"
+}

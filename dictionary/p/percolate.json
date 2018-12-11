@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid or gas) filter gradually through a porous surface or substance.",
+      "examples": [
+        "the water percolating through the soil may leach out minerals"
+      ],
+      "synonyms": [
+        "filter",
+        "drain",
+        "drip",
+        "ooze",
+        "seep",
+        "trickle",
+        "dribble",
+        "strain",
+        "leak",
+        "leach"
+      ]
+    },
+    {
+      "description": "(of coffee) be prepared in a percolator.",
+      "examples": [
+        "he put some coffee on to percolate"
+      ],
+      "synonyms": [
+        "brew"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin percolat- strained through, from the verb percolare, from per- through + colare to strain (from colum strainer).",
+  "pronounciation": "/ˈpərkəˌleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/percolate_us_1.mp3"
+}

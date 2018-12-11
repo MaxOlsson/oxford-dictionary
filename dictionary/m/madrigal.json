@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A part-song for several voices, especially one of the Renaissance period, typically arranged in elaborate counterpoint and without instrumental accompaniment. Originally used of a genre of 14th-century Italian songs, the term now usually refers to English or Italian songs of the late 16th and early 17th c., in a free style strongly influenced by the text.",
+      "examples": [],
+      "synonyms": [
+        "song",
+        "anthem",
+        "carol",
+        "ballad",
+        "canzone",
+        "chanson",
+        "motet",
+        "chant"
+      ]
+    }
+  ],
+  "origin": "From Italian madrigale (from medieval Latin carmen matricale simple song), from matricalis maternal or primitive, from matrix womb.",
+  "pronounciation": "/ˈmædrəɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/madrigal_us_1.mp3"
+}

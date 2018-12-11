@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Haggle about the terms of an agreement or price of something.",
+      "examples": [
+        "I chaffered in the bazaars for objects I wanted"
+      ],
+      "synonyms": [
+        "discuss terms",
+        "hold talks",
+        "discuss a settlement",
+        "talk",
+        "consult together",
+        "try to reach a compromise",
+        "parley",
+        "confer",
+        "debate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Haggling about the price of something.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense trade or trading): from Old English cēap a bargain + faru journey; probably influenced by Old Norse kaupfǫr.",
+  "pronounciation": "/ˈCHafər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chaffer_us_1.mp3"
+}

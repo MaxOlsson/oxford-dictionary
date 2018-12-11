@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "An apparition of a dead person which is believed to appear or become manifest to the living, typically as a nebulous image.",
+      "examples": [
+        "the building is haunted by the ghost of a monk",
+        "the ghosts of past deeds"
+      ],
+      "synonyms": [
+        "spectre",
+        "phantom",
+        "wraith",
+        "spirit",
+        "soul",
+        "shadow",
+        "presence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as ghostwriter of (a work)",
+      "examples": [
+        "his memoirs were smoothly ghosted by a journalist"
+      ]
+    },
+    {
+      "description": "Glide smoothly and effortlessly.",
+      "examples": [
+        "they ghosted up the river"
+      ]
+    },
+    {
+      "description": "End a personal relationship with (someone) by suddenly and without explanation withdrawing from all communication.",
+      "examples": [
+        "I didn't want to ghost her, so we ended up having the talk and it was horrible",
+        "being ghosted is one of the toughest ways to be dumped",
+        "people who ghost are primarily focused on avoiding their own emotional discomfort"
+      ]
+    }
+  ],
+  "phrases": [
+    "The doctrine of the ghost in the machine is that people are inhabited by an immaterial soul that is the locus of free will and choice and which can't be reduced to a function of the brain.",
+    "I had expected something of the ghost in the machine philosopher rather than a sober minded cleric.",
+    "And neuroscience has most decisively exorcised the ghost in the machine by showing that our thoughts, feelings, urges, and consciousness depend completely on the physiological activity of the brain.",
+    "It challenges three deeply held beliefs: the blank slate (the mind has no innate structure), the noble savage (people are naturally good), and the ghost in the machine (behavior is not caused by physical events).",
+    "Is this the ghost in the machine that neuroscience can't really put a finger on?"
+  ],
+  "origin": "Old English gāst (in the sense spirit, soul), of Germanic origin; related to Dutch geest and German Geist. The gh- spelling occurs first in Caxton, probably influenced by Flemish gheest.",
+  "pronounciation": "/ɡōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ghost_us_1.mp3"
+}

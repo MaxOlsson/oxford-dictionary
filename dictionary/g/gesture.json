@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A movement of part of the body, especially a hand or the head, to express an idea or meaning.",
+      "examples": [
+        "Alex made a gesture of apology",
+        "so much is conveyed by gesture"
+      ],
+      "synonyms": [
+        "signal",
+        "signalling",
+        "sign",
+        "signing",
+        "motion",
+        "motioning",
+        "wave",
+        "indication",
+        "gesticulation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a gesture.",
+      "examples": [
+        "she gestured meaningfully with the pistol"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin gestura, from Latin gerere bear, wield, perform. The original sense was bearing, deportment, hence the use of posture and bodily movements for effect in oratory.",
+  "pronounciation": "/ˈjesCHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gesture_us_1.mp3"
+}

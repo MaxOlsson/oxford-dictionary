@@ -1,0 +1,83 @@
+{
+  "adjective": [
+    {
+      "description": "Affecting or concerning all or most people, places, or things; widespread.",
+      "examples": [
+        "books of general interest"
+      ],
+      "synonyms": [
+        "widespread",
+        "common",
+        "extensive",
+        "universal",
+        "wide",
+        "popular",
+        "public",
+        "mainstream",
+        "prevalent",
+        "prevailing",
+        "rife",
+        "established",
+        "well established",
+        "conventional",
+        "traditional",
+        "traditionalist",
+        "orthodox",
+        "accepted"
+      ]
+    },
+    {
+      "description": "Considering or including the main features or elements of something, and disregarding exceptions; overall.",
+      "examples": [
+        "a general introduction to the subject",
+        "they fired in the general direction of the enemy"
+      ],
+      "synonyms": [
+        "broad",
+        "imprecise",
+        "inexact",
+        "rough",
+        "sweeping",
+        "overall",
+        "loose",
+        "basic",
+        "approximate",
+        "non-specific",
+        "unspecific",
+        "vague",
+        "hazy",
+        "fuzzy",
+        "woolly",
+        "ill-defined",
+        "indefinite",
+        "unfocused"
+      ]
+    },
+    {
+      "description": "Chief or principal.",
+      "examples": [
+        "a general manager"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A commander of an army, or an army officer of very high rank.",
+      "examples": []
+    },
+    {
+      "description": "The general public.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Very few hotels still have a dress code: as a general rule, smarter places will ask you to wear a skirt or a jacket and long trousers at dinner.",
+    "A student may be moved quickly through a literature level to the next hardest level, but it is important, as a general rule, that no levels be skipped.",
+    "This doesn't happen in every single case, and not necessarily as speedily and thoroughly as some would want, but it holds well enough as a general rule.",
+    "But as a general rule, we should strive for what is in a child's best interest.",
+    "Therefore, as a general rule, greater transparency is usually better."
+  ],
+  "origin": "Middle English: via Old French from Latin generalis, from genus, gener- class, race, kind. The noun primarily denotes a person having overall authority: the sense army commander is an abbreviation of captain general, from French capitaine général commander-in-chief.",
+  "pronounciation": "/ˈjen(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/general_us_1.mp3"
+}

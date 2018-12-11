@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) physically stronger or more solid.",
+      "examples": [
+        "the first phase of the project is to consolidate the outside walls"
+      ]
+    },
+    {
+      "description": "Combine (a number of things) into a single more effective or coherent whole.",
+      "examples": [
+        "all manufacturing activities have been consolidated in new premises"
+      ],
+      "synonyms": [
+        "combine",
+        "unite",
+        "merge",
+        "integrate",
+        "amalgamate",
+        "fuse",
+        "blend",
+        "mingle",
+        "marry",
+        "synthesize",
+        "bring together"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense combine into a whole): from Latin consolidare, from con- together + solidare make firm (from solidus solid).",
+  "pronounciation": "/kənˈsäləˌdāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconsolidate_us_1.mp3"
+}

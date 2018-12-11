@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Regard or consider in a specified way.",
+      "examples": [
+        "the event was deemed a great success",
+        "the strike was deemed to be illegal"
+      ],
+      "synonyms": [
+        "regard as",
+        "consider",
+        "judge",
+        "adjudge",
+        "hold to be",
+        "look on as",
+        "view as",
+        "see as",
+        "take to be",
+        "take for",
+        "class as",
+        "estimate as",
+        "count",
+        "rate",
+        "find",
+        "esteem",
+        "calculate to be",
+        "gauge",
+        "suppose",
+        "reckon",
+        "account",
+        "interpret as"
+      ]
+    }
+  ],
+  "origin": "Old English dēman (also in the sense act as judge), of Germanic origin; related to Dutch doeman, also to doom.",
+  "pronounciation": "/dim/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deem_us_1.mp3"
+}

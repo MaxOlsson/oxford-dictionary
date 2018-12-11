@@ -1,0 +1,83 @@
+{
+  "verb": [
+    {
+      "description": "Propel the body through water by using the limbs, or (in the case of a fish or other aquatic animal) by using fins, tail, or other bodily movement.",
+      "examples": [
+        "they swam ashore",
+        "Adrian taught her to swim breaststroke"
+      ],
+      "synonyms": [
+        "bathe",
+        "go swimming",
+        "take a dip",
+        "dip",
+        "splash around"
+      ]
+    },
+    {
+      "description": "Be immersed in or covered with liquid.",
+      "examples": [
+        "mashed potatoes swimming in gravy"
+      ],
+      "synonyms": [
+        "be saturated in",
+        "be drenched in",
+        "be soaked in",
+        "be steeped in",
+        "be immersed in",
+        "be covered in",
+        "be full of"
+      ]
+    },
+    {
+      "description": "Appear to reel or whirl before one's eyes.",
+      "examples": [
+        "Emily rubbed her eyes as the figures swam before her eyes"
+      ],
+      "synonyms": [
+        "go round",
+        "go round and round",
+        "whirl",
+        "spin",
+        "revolve",
+        "gyrate",
+        "swirl",
+        "twirl",
+        "turn",
+        "wheel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or period of swimming.",
+      "examples": [
+        "we went for a swim in the river"
+      ],
+      "synonyms": [
+        "swim",
+        "bathe",
+        "dive",
+        "plunge",
+        "splash",
+        "paddle"
+      ]
+    },
+    {
+      "description": "A pool in a river that is a particularly good spot for fishing.",
+      "examples": [
+        "he landed two 5 lb chub from the same swim"
+      ]
+    }
+  ],
+  "phrases": [
+    "I loved being part of the madness of the rush hour commute - it made me feel in the swim, connected to the rest of the world, part of everyday society.",
+    "It's good to be back in the swim of things!",
+    "Hopefully by Monday I should be back in the swim of things!",
+    "Hearing aids will put you back in the swim again.",
+    "Instead of swimming against the tide, there should be an attempt to make maximum advantage of it, he says."
+  ],
+  "origin": "Old English swimman (verb), of Germanic origin; related to Dutch zwemmen and German schwimmen.",
+  "pronounciation": "/swɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swim_us_1.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Generally considered or reputed to be.",
+      "examples": [
+        "the putative author of the book"
+      ],
+      "synonyms": [
+        "apparent",
+        "seeming",
+        "alleged",
+        "reputed",
+        "rumoured",
+        "claimed",
+        "purported",
+        "ostensible",
+        "specious"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French putatif, -ive or late Latin putativus, from Latin putat- thought, from the verb putare.",
+  "pronounciation": "/ˈpjudədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/putative_us_1.mp3"
+}

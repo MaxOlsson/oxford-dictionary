@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "A key on a typewriter or computer keyboard that causes the carriage or cursor to move backward.",
+      "examples": []
+    },
+    {
+      "description": "A device on a video recorder or camcorder which produces a slight backward run between shots to eliminate disturbance caused by the interruption of the scanning process.",
+      "examples": [
+        "begin with a few seconds of static shot, remembering to allow for backspace time"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move a typewriter carriage or computer cursor back one or more spaces.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbækˌspeɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/back_space_1_us_1.mp3"
+}

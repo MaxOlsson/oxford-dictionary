@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Accepting or allowing what happens or what others do, without active response or resistance.",
+      "examples": [
+        "the women were portrayed as passive victims"
+      ],
+      "synonyms": [
+        "submissive",
+        "acquiescent",
+        "unresisting",
+        "yielding",
+        "unassertive",
+        "non-resistant",
+        "compliant",
+        "complaisant",
+        "pliant",
+        "resigned",
+        "obedient",
+        "docile",
+        "tractable",
+        "malleable",
+        "pliable",
+        "meek",
+        "subdued",
+        "deferential",
+        "forbearing",
+        "long-suffering",
+        "patient",
+        "lamblike",
+        "non-violent",
+        "supine"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a voice of verbs in which the subject undergoes the action of the verb (e.g., they were killed as opposed to he killed them).",
+      "examples": []
+    },
+    {
+      "description": "(of a circuit or device) containing no source of electromotive force.",
+      "examples": []
+    },
+    {
+      "description": "(of a metal) made unreactive by a thin inert surface layer of oxide.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A passive form of a verb.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in passive (sense 2 of the adjective), also in the sense (exposed to) suffering, acted on by an external agency): from Latin passivus, from pass- suffered, from the verb pati.",
+  "pronounciation": "/ˈpæsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passive_us_1.mp3"
+}

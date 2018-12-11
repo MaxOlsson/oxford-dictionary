@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "(chiefly of large mammals) roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent.",
+      "examples": [
+        "watering places where buffalo liked to wallow"
+      ],
+      "synonyms": [
+        "loll about",
+        "loll around",
+        "lie about",
+        "lie around",
+        "tumble about",
+        "tumble around",
+        "splash about",
+        "splash around"
+      ]
+    },
+    {
+      "description": "(of a person) indulge in an unrestrained way in (something that creates a pleasurable sensation)",
+      "examples": [
+        "I was wallowing in the luxury of the hotel",
+        "he had been wallowing in self-pity"
+      ],
+      "synonyms": [
+        "luxuriate",
+        "bask",
+        "take pleasure",
+        "take satisfaction",
+        "indulge",
+        "indulge oneself",
+        "delight",
+        "revel",
+        "glory"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of wallowing.",
+      "examples": [
+        "a wallow in nostalgia"
+      ]
+    },
+    {
+      "description": "An area of mud or shallow water where mammals go to wallow, typically developing into a depression in the ground over long use.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English walwian to roll about, of Germanic origin, from an Indo-European root shared by Latin volvere to roll.",
+  "pronounciation": "/ˈwälō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wallow_us_1.mp3"
+}

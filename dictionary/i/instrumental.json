@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Serving as a means of pursuing an aim or policy.",
+      "examples": [
+        "the Society was instrumental in bringing about legislation"
+      ],
+      "synonyms": [
+        "involved",
+        "active",
+        "influential",
+        "contributory"
+      ]
+    },
+    {
+      "description": "(of music) performed on instruments, with no vocals.",
+      "examples": [
+        "a largely instrumental piece"
+      ]
+    },
+    {
+      "description": "Relating to an implement or measuring device.",
+      "examples": [
+        "instrumental error",
+        "instrumental delivery of a baby"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a case of nouns and pronouns (and words in grammatical agreement with them) indicating a means or instrument.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of (usually nonclassical) music performed by instruments, with no vocals.",
+      "examples": []
+    },
+    {
+      "description": "The instrumental case.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌɪnstrəˈmɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/instrumental_us_2.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Goods, especially private property, taken from an enemy in war.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Steal goods from (a place), typically during a war or riot.",
+      "examples": [
+        "police confronted the rioters who were looting shops"
+      ],
+      "synonyms": [
+        "plunder",
+        "pillage",
+        "ransack",
+        "sack",
+        "raid",
+        "rifle",
+        "rob",
+        "burgle",
+        "steal from"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (as a verb): from Hindi lūṭ, from Sanskrit luṇṭh- rob.",
+  "pronounciation": "/lut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loot_us_1.mp3"
+}

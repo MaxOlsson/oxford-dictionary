@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Obtain something from (a specified source)",
+      "examples": [
+        "they derived great comfort from this assurance"
+      ],
+      "synonyms": [
+        "obtain",
+        "get",
+        "take",
+        "gain",
+        "acquire",
+        "procure",
+        "extract",
+        "attain",
+        "glean"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense draw a fluid through or into a channel): from Old French deriver or Latin derivare, from de- down, away + rivus brook, stream.",
+  "pronounciation": "/dəˈrīv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/derive_us_1.mp3"
+}

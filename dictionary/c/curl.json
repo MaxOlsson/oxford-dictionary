@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Form or cause to form into a curved or spiral shape.",
+      "examples": [
+        "her fingers curled around the microphone",
+        "a slice of ham had begun to curl up at the edges",
+        "she used to curl her hair with rags"
+      ],
+      "synonyms": [
+        "wind",
+        "twine",
+        "entwine",
+        "wrap"
+      ]
+    },
+    {
+      "description": "(in weight training) lift (a weight) using only the hands, wrists, and forearms.",
+      "examples": []
+    },
+    {
+      "description": "Play at the game of curling.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something having a spiral or inwardly curved form, especially a lock of hair.",
+      "examples": [
+        "her blond hair was a mass of tangled curls",
+        "a curl of blue smoke"
+      ],
+      "synonyms": [
+        "ringlet",
+        "corkscrew",
+        "coil",
+        "kink",
+        "wave"
+      ]
+    },
+    {
+      "description": "A weightlifting exercise involving movement of only the hands, wrists, and forearms.",
+      "examples": [
+        "a dumbbell curl"
+      ]
+    },
+    {
+      "description": "The vector product of the operator del and a given vector.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "There are things going in in this world that make your hair curl.",
+    "Whatever your politics, it will make your hair curl.",
+    "Some of the bad guys there did things that would probably make even your hair curl - and I don't even want to give you any ideas.",
+    "The string of expletives that then emitted from the phone would make you hair curl.",
+    "The last information he had received was from survivors, and it was horrifying, that it would make a man 's hair curl."
+  ],
+  "origin": "Late Middle English: from obsolete crulle curly, from Middle Dutch krul.",
+  "pronounciation": "/kərl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/curl_us_1.mp3"
+}

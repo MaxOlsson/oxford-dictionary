@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A circumstance that complicates something; a difficulty.",
+      "examples": [
+        "there is a complication concerning ownership of the site"
+      ],
+      "synonyms": [
+        "difficulty",
+        "problem",
+        "issue",
+        "obstacle",
+        "hurdle",
+        "stumbling block",
+        "barrier",
+        "impediment"
+      ]
+    },
+    {
+      "description": "A secondary disease or condition aggravating an already existing one.",
+      "examples": [
+        "she developed complications after the surgery"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin complicatio(n-), from Latin complicare fold together (see complicate).",
+  "pronounciation": "/ˌkämpləˈkāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/complication_us_1.mp3"
+}

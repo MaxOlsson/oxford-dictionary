@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Successful in producing a desired or intended result.",
+      "examples": [
+        "effective solutions to environmental problems"
+      ],
+      "synonyms": [
+        "successful",
+        "effectual",
+        "efficacious",
+        "productive",
+        "constructive",
+        "fruitful",
+        "functional",
+        "potent",
+        "powerful"
+      ]
+    },
+    {
+      "description": "Fulfilling a specified function in fact, though not formally acknowledged as such.",
+      "examples": [
+        "the region did not come under effective Dutch control until 1904"
+      ],
+      "synonyms": [
+        "virtual",
+        "practical",
+        "essential",
+        "operative",
+        "actual",
+        "implied",
+        "implicit",
+        "unacknowledged",
+        "tacit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soldier fit and available for service.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin effectivus, from efficere accomplish (see effect).",
+  "pronounciation": "/əˈfɛktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/effective_us_1.mp3"
+}

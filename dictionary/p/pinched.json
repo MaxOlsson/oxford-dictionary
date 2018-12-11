@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their face) tense and pale from cold, worry, or hunger.",
+      "examples": [],
+      "synonyms": [
+        "strained",
+        "stressed",
+        "fraught",
+        "tense",
+        "taut",
+        "tired",
+        "worn",
+        "drained",
+        "sapped"
+      ]
+    },
+    {
+      "description": "Hurt by financial hardship.",
+      "examples": [
+        "consumers feel pinched by rising costs in repairs and housing"
+      ]
+    }
+  ],
+  "pronounciation": "/pin(t)SHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pinched_us_1.mp3"
+}

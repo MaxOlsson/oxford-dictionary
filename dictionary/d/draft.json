@@ -1,0 +1,87 @@
+{
+  "noun": [
+    {
+      "description": "A preliminary version of a piece of writing.",
+      "examples": [
+        "the first draft of the party's manifesto",
+        "a draft document"
+      ]
+    },
+    {
+      "description": "Compulsory recruitment for military service.",
+      "examples": [
+        "25 million men were subject to the draft",
+        "draft cards"
+      ]
+    },
+    {
+      "description": "A current of cool air in a room or other confined space.",
+      "examples": [
+        "heavy curtains at the windows cut out drafts"
+      ]
+    },
+    {
+      "description": "The action or act of pulling something along, especially a vehicle or farm implement.",
+      "examples": []
+    },
+    {
+      "description": "A written order to pay a specified sum; a check.",
+      "examples": []
+    },
+    {
+      "description": "A single act of drinking or inhaling.",
+      "examples": [
+        "she downed the remaining beer in one draft"
+      ]
+    },
+    {
+      "description": "The depth of water needed to float a ship.",
+      "examples": [
+        "the shallow draft enabled her to get close to shore"
+      ]
+    },
+    {
+      "description": "The drawing in of a fishing net.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Prepare a preliminary version of (a document)",
+      "examples": [
+        "I drafted a letter of resignation"
+      ]
+    },
+    {
+      "description": "Select (a person or group of people) and bring them somewhere for a certain purpose.",
+      "examples": [
+        "he was drafted to help with the task force on best safety practices"
+      ]
+    },
+    {
+      "description": "Pull or draw.",
+      "examples": []
+    },
+    {
+      "description": "Benefit from reduced wind resistance by driving very closely behind another vehicle.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting beer or other drink that is kept in and served from a barrel or tank rather than from a bottle or can.",
+      "examples": [
+        "draft beer"
+      ]
+    },
+    {
+      "description": "Denoting an animal used for pulling heavy loads.",
+      "examples": [
+        "draft oxen"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: phonetic spelling of draught.",
+  "pronounciation": "/draft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/draft_us_1.mp3"
+}

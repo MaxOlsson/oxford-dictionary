@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The headgear used to control a horse, consisting of buckled straps to which a bit and reins are attached.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put a bridle on (a horse).",
+      "examples": [],
+      "synonyms": [
+        "harness",
+        "yoke",
+        "saddle",
+        "hitch up",
+        "couple"
+      ]
+    },
+    {
+      "description": "Show one's resentment or anger, especially by throwing up the head and drawing in the chin.",
+      "examples": [
+        "ranchers have bridled at excessive federal control"
+      ],
+      "synonyms": [
+        "bristle",
+        "be indignant",
+        "become indignant",
+        "take offence",
+        "take umbrage",
+        "be affronted",
+        "be offended",
+        "get angry",
+        "draw oneself up",
+        "feel one's hackles rise"
+      ]
+    }
+  ],
+  "origin": "Old English brīdel (noun), brīdlian (verb), of Germanic origin; related to Dutch breidel (noun). bridle (sense 2 of the verb) use is from the action of a horse when reined in.",
+  "pronounciation": "/ˈbraɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bridle_us_1.mp3"
+}

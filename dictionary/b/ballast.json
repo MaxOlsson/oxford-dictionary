@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "Heavy material, such as gravel, sand, iron, or lead, placed low in a vessel to improve its stability.",
+      "examples": []
+    },
+    {
+      "description": "Gravel or coarse stone used to form the bed of a railroad track or road.",
+      "examples": []
+    },
+    {
+      "description": "A passive component used in an electric circuit to moderate changes in current.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give stability to (a ship) by putting a heavy substance in its bilge.",
+      "examples": [
+        "the vessel has been ballasted to give the necessary floating stability"
+      ]
+    },
+    {
+      "description": "Form (the bed of a railroad line or road) with gravel or coarse stone.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Many ore carriers preferred to clear Maryport in ballast, loading at South Wales ports with coal for Spain.",
+    "Through the 1920s and '30s the last great sailing ships would run from Europe to the Far East or Australia and back, then sail home to Åland with local cargo, or in ballast for the winter.",
+    "When wrecked, she was travelling in ballast with her four holds empty from her home port of Aarhus, Denmark, bound for Newcastle-upon-Tyne to pick up a general cargo.",
+    "Having left Antwerp in ballast the 2000 ton ship was making her way to New York.",
+    "She was torpedoed while in ballast off Ireland and abandoned, but did not sink."
+  ],
+  "origin": "Mid 16th century: probably of Low German or Scandinavian origin.",
+  "pronounciation": "/ˈbaləst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ballast_us_1.mp3"
+}

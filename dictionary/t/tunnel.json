@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "An artificial underground passage, especially one built through a hill or under a building, road, or river.",
+      "examples": [],
+      "synonyms": [
+        "underground passage",
+        "subterranean passage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dig or force a passage underground or through something.",
+      "examples": [
+        "he tunneled under the fence",
+        "the insect tunnels its way out of the plant"
+      ],
+      "synonyms": [
+        "dig",
+        "dig one's way",
+        "burrow"
+      ]
+    },
+    {
+      "description": "(of a particle) pass through a potential barrier.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the senses tunnel-shaped net and flue of a chimney): from Old French tonel, diminutive of tonne cask. tunnel (sense 1 of the noun) dates from the mid 18th century.",
+  "pronounciation": "/ˈtənl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tunnel_us_1.mp3"
+}

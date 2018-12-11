@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of liquor, computer software, or recordings) made, distributed, or sold illegally.",
+      "examples": [
+        "bootleg cassettes",
+        "bootleg whiskey"
+      ],
+      "synonyms": [
+        "illegal",
+        "illicit",
+        "unlawful",
+        "unauthorized",
+        "unsanctioned",
+        "unlicensed",
+        "unofficial",
+        "pirated"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make, distribute, or sell (illicit goods, especially liquor, computer software, or recordings) illegally.",
+      "examples": [
+        "he amassed a fortune bootlegging whiskey",
+        "bootlegged videos"
+      ],
+      "synonyms": [
+        "illegal",
+        "illicit",
+        "unlawful",
+        "unauthorized",
+        "unsanctioned",
+        "unlicensed",
+        "unofficial",
+        "pirated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An illegal musical recording, especially one made at a concert.",
+      "examples": [],
+      "synonyms": [
+        "fake",
+        "counterfeit",
+        "sham",
+        "fraud",
+        "imitation",
+        "dummy",
+        "mock-up",
+        "reproduction",
+        "replica",
+        "copy",
+        "print",
+        "lookalike",
+        "likeness"
+      ]
+    },
+    {
+      "description": "A play in which the quarterback fakes a handoff and runs with the ball hidden next to his hip.",
+      "examples": [
+        "he scored on a 29-yard bootleg on fourth down"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from the smugglers' practice of concealing bottles in their boots.",
+  "pronounciation": "/ˈbutˌlɛɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bootleg_us_1.mp3"
+}

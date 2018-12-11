@@ -1,0 +1,40 @@
+{
+  "modal verb": [
+    {
+      "description": "Expressing possibility.",
+      "examples": [
+        "that may be true",
+        "he may well win"
+      ]
+    },
+    {
+      "description": "Expressing permission.",
+      "examples": [
+        "may I ask a few questions?",
+        "you may use a sling if you wish"
+      ]
+    },
+    {
+      "description": "Expressing a wish or hope.",
+      "examples": [
+        "may she rest in peace"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The hawthorn or its blossom.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "But be that as it may, if you can get instructions from someone when they are capable, that's sufficient, irrespective of whether the next day they become incapable.",
+    "But be that as it may, they ought to be thankful they can hold those positions into the new year.",
+    "It's really difficult, but be that as it may, we are able to get by with the first ship last week, and hopefully we can get that cargo out of the transit sheds and off the docks and to the market.",
+    "But be that as it may, we'd no notion of bringing trouble like this down on your house.",
+    "But be that as it may, that's not the important issue."
+  ],
+  "origin": "Late Old English, from Old French mai, from Latin Maius (mensis) (month) of the goddess Maia.",
+  "pronounciation": "/mā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/may_us_1.mp3"
+}

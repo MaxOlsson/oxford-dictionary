@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "An underground room or vault beneath a church, used as a chapel or burial place.",
+      "examples": [],
+      "synonyms": [
+        "tomb",
+        "vault",
+        "mausoleum",
+        "burial chamber",
+        "sepulchre",
+        "catacomb",
+        "ossuary",
+        "undercroft"
+      ]
+    },
+    {
+      "description": "A small tubular gland, pit, or recess.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense cavern): from Latin crypta, from Greek kruptē a vault, from kruptos hidden.",
+  "pronounciation": "/kript/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crypt_us_1.mp3"
+}

@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having an appearance or character resembling that of a human.",
+      "examples": [
+        "a small, green, and hideously warty humanoid figure"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(especially in science fiction) a being resembling a human in its shape.",
+      "examples": [
+        "a three-eyed humanoid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈ(h)juməˌnɔɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/humanoid_us_1.mp3"
+}

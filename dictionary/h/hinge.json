@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A movable joint or mechanism on which a door, gate, or lid swings as it opens and closes or which connects linked objects.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attach or join with or as if with a hinge.",
+      "examples": [
+        "the ironing board was set into the wall and hinged at the bottom"
+      ],
+      "synonyms": [
+        "hinged",
+        "jointed",
+        "segmented"
+      ]
+    }
+  ],
+  "origin": "Middle English henge; related to hang.",
+  "pronounciation": "/hɪndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hinge_us_1.mp3"
+}

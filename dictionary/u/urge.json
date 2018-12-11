@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Try earnestly or persistently to persuade (someone) to do something.",
+      "examples": [
+        "he urged her to come and stay with us",
+        "“Try to relax,” she urged"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A strong desire or impulse.",
+      "examples": [
+        "the urge for revenge"
+      ],
+      "synonyms": [
+        "desire",
+        "wish",
+        "need",
+        "impulse",
+        "compulsion",
+        "longing",
+        "yearning",
+        "hankering",
+        "craving",
+        "appetite",
+        "hunger",
+        "thirst",
+        "lust",
+        "fancy"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin urgere press, drive.",
+  "pronounciation": "/ərj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/urge_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Existing, happening, or operating in the air.",
+      "examples": [
+        "an aerial battle",
+        "an intrepid aerial adventurer"
+      ],
+      "synonyms": [
+        "raised",
+        "upraised",
+        "uplifted",
+        "lifted up",
+        "high up",
+        "aloft",
+        "overhead",
+        "hoisted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "examples": [],
+      "synonyms": [
+        "flagpole",
+        "flagstaff",
+        "pole",
+        "post",
+        "rod",
+        "support",
+        "upright"
+      ]
+    },
+    {
+      "description": "A type of maneuver in gymnastics, skiing, or surfing involving freestyle jumps or somersaults.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century (in the sense thin as air, imaginary): via Latin aerius from Greek aerios (from aēr air) + -al.",
+  "pronounciation": "/ˈɛriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aerial_us_1.mp3"
+}

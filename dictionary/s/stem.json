@@ -1,0 +1,81 @@
+{
+  "noun": [
+    {
+      "description": "The main body or stalk of a plant or shrub, typically rising above ground but occasionally subterranean.",
+      "examples": [],
+      "synonyms": [
+        "trunk",
+        "stalk",
+        "stock",
+        "cane"
+      ]
+    },
+    {
+      "description": "A long, thin supportive or main section of something.",
+      "examples": [
+        "the main stem of the wing feathers"
+      ]
+    },
+    {
+      "description": "The root or main part of a noun, adjective, or other word, to which inflections or formative elements are added.",
+      "examples": []
+    },
+    {
+      "description": "The main upright timber or metal piece at the bow of a ship, to which the ship's sides are joined.",
+      "examples": []
+    },
+    {
+      "description": "A pipe used for smoking crack or opium.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Originate in or be caused by.",
+      "examples": [
+        "many of the universities' problems stem from rapid expansion"
+      ],
+      "synonyms": [
+        "have its origins in",
+        "arise from",
+        "originate from",
+        "spring from",
+        "derive from",
+        "come from",
+        "be rooted in",
+        "emanate from",
+        "issue from",
+        "flow from",
+        "proceed from",
+        "result from",
+        "be consequent on"
+      ]
+    },
+    {
+      "description": "Remove the stems from (fruit or tobacco leaves).",
+      "examples": []
+    },
+    {
+      "description": "(of a boat) make headway against (the tide or current).",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Science, technology, engineering, and mathematics (as an educational category)",
+      "examples": [
+        "the academy is seeking to appoint a Teaching and Learning Coordinator for STEM subjects"
+      ]
+    }
+  ],
+  "phrases": [
+    "surges of water rocked their boats from stem to stern",
+    "We sailed on into the dreaded Bay of Biscay, anticipating the worst, expecting mountainous waves to wash down the decks from stem to stern and ourselves to be battened down below hatches.",
+    "Then a massive explosion rips through the shuttle bay, rocking the ship from stem to stern.",
+    "I followed sailors from both countries as tours were given from stem to stern on board HMS Portland.",
+    "Both handmaids bounced about the ship from stem to stern and port to starboard, finding myriad wonders in the azure blue sea: porpoises, jellyfish, the wave of the sea cut by the prow or the foam of the ship's wake."
+  ],
+  "origin": "Middle English (in the sense to stop, delay): from Old Norse stemma, of Germanic origin. The skiing term (early 20th century) is from the German verb stemmen.",
+  "pronounciation": "/stem/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stem_us_1.mp3"
+}

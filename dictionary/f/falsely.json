@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "Not in accordance with truth or fact; incorrectly.",
+      "examples": [
+        "the police falsely accused him of murder",
+        "the deaths were falsely attributed to influenza"
+      ]
+    },
+    {
+      "description": "In an insincere or artificial manner.",
+      "examples": [
+        "she smiled falsely"
+      ]
+    },
+    {
+      "description": "In an illusory manner; not actually so.",
+      "examples": [
+        "testing will yield falsely reassuring results"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôlslē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/falsely_us_1.mp3"
+}

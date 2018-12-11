@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A person who has died.",
+      "examples": [
+        "in memory of the deceased"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Dead; no longer living.",
+      "examples": [
+        "the cremation of a deceased person"
+      ],
+      "synonyms": [
+        "dead",
+        "expired",
+        "departed",
+        "gone",
+        "no more",
+        "passed on",
+        "passed away"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈsēst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/deceased_us_1.mp3"
+}

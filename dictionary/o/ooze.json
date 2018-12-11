@@ -1,0 +1,103 @@
+{
+  "verb": [
+    {
+      "description": "(of a fluid) slowly trickle or seep out of something; flow in a very gradual way.",
+      "examples": [
+        "blood was oozing from a wound in his scalp",
+        "honey oozed out of the comb"
+      ],
+      "synonyms": [
+        "seep",
+        "discharge",
+        "flow",
+        "exude",
+        "trickle",
+        "drip",
+        "dribble",
+        "issue",
+        "filter",
+        "percolate",
+        "escape",
+        "leak",
+        "drain",
+        "empty",
+        "bleed",
+        "sweat",
+        "well",
+        "leach"
+      ]
+    },
+    {
+      "description": "Give a powerful impression of (a quality)",
+      "examples": [
+        "he oozed charm and poise",
+        "the town oozes history"
+      ],
+      "synonyms": [
+        "exude",
+        "gush",
+        "drip",
+        "pour forth",
+        "give out",
+        "send out",
+        "emit",
+        "breathe",
+        "let loose",
+        "display",
+        "exhibit",
+        "demonstrate",
+        "manifest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sluggish flow of a fluid.",
+      "examples": [],
+      "synonyms": [
+        "seepage",
+        "seeping",
+        "discharge",
+        "flow",
+        "exudation",
+        "trickle",
+        "trickling",
+        "drip",
+        "dribble",
+        "filtration",
+        "percolation",
+        "excretion",
+        "escape",
+        "leak",
+        "leakage",
+        "drainage",
+        "emptying",
+        "bleeding",
+        "sweating",
+        "welling",
+        "leaching",
+        "secretion"
+      ]
+    },
+    {
+      "description": "An infusion of oak bark or other vegetable matter, used in tanning.",
+      "examples": [],
+      "synonyms": [
+        "mud",
+        "slime",
+        "alluvium",
+        "silt",
+        "mire",
+        "bog",
+        "sludge",
+        "slush",
+        "muck",
+        "dirt",
+        "deposit"
+      ]
+    }
+  ],
+  "origin": "Old English wāse; related to Old Norse veisa stagnant pool. In Middle English and the 16th century the spelling was wose (rhyming with repose), but from 1550 spellings imply a change in pronunciation and influence by ooze.",
+  "pronounciation": "/o͞oz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ooze_us_1.mp3"
+}

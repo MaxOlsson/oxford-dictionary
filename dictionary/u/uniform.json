@@ -1,0 +1,72 @@
+{
+  "adjective": [
+    {
+      "description": "Remaining the same in all cases and at all times; unchanging in form or character.",
+      "examples": [
+        "blocks of stone of uniform size",
+        "the decline in fertility was not uniform across social classes"
+      ],
+      "synonyms": [
+        "constant",
+        "consistent",
+        "steady",
+        "invariable",
+        "unvarying",
+        "unfluctuating",
+        "unvaried",
+        "unchanging",
+        "unwavering",
+        "undeviating",
+        "stable",
+        "static",
+        "sustained",
+        "regular",
+        "fixed",
+        "even",
+        "equal",
+        "equable",
+        "monotonous"
+      ]
+    },
+    {
+      "description": "Denoting a garment forming part of a person's uniform.",
+      "examples": [
+        "black uniform jackets"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The distinctive clothing worn by members of the same organization or body or by children attending certain schools.",
+      "examples": [
+        "airline pilots in dark blue uniforms",
+        "an officer in uniform"
+      ],
+      "synonyms": [
+        "costume",
+        "livery",
+        "regalia",
+        "habit",
+        "suit",
+        "dress",
+        "garb",
+        "attire",
+        "ensemble",
+        "outfit"
+      ]
+    },
+    {
+      "description": "A code word representing the letter U, used in radio communication.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make uniform.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (as an adjective): from French uniforme or Latin uniformis (see uni-, form). Sense 1 of the noun dates from the mid 18th century.",
+  "pronounciation": "/ˈyo͞onəˌfôrm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uniform_us_1.mp3"
+}

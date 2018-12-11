@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Tuscany, its inhabitants, or the form of Italian spoken there, which is the standard variety taught to foreign learners.",
+      "examples": []
+    },
+    {
+      "description": "Relating to or denoting a classical order of architecture resembling the Doric but lacking all ornamentation.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Tuscany.",
+      "examples": []
+    },
+    {
+      "description": "The form of Italian spoken in Tuscany.",
+      "examples": []
+    },
+    {
+      "description": "The Tuscan order of architecture.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting an Etruscan): via French from Latin Tuscanus, from Tuscus an Etruscan.",
+  "pronounciation": "/ˈtəskən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tuscan_1_us_1.mp3"
+}

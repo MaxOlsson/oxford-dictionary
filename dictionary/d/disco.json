@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A club or party at which people dance to pop music.",
+      "examples": [],
+      "synonyms": [
+        "social gathering",
+        "gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée",
+        "social"
+      ]
+    },
+    {
+      "description": "Pop music intended mainly for dancing to at discos, typically soul-influenced and melodic with a regular bass beat and popular particularly in the late 1970s.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attend or dance at a disco.",
+      "examples": [
+        "for the next three hours he discoed nonstop"
+      ],
+      "synonyms": [
+        "dance",
+        "jig",
+        "leap",
+        "jump",
+        "skip",
+        "bounce"
+      ]
+    }
+  ],
+  "origin": "1960s (originally US): abbreviation of discotheque.",
+  "pronounciation": "/ˈdiskō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disco_1_us_1.mp3"
+}

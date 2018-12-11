@@ -1,0 +1,126 @@
+{
+  "noun": [
+    {
+      "description": "A particular level of rank, quality, proficiency, intensity, or value.",
+      "examples": [
+        "sea salt is usually available in coarse or fine grades",
+        "grade AA butter"
+      ],
+      "synonyms": [
+        "rank",
+        "level",
+        "echelon",
+        "standing",
+        "station",
+        "position",
+        "placing",
+        "class",
+        "status",
+        "order"
+      ]
+    },
+    {
+      "description": "A mark indicating the quality of a student's work.",
+      "examples": [
+        "I got good grades last semester"
+      ],
+      "synonyms": [
+        "mark",
+        "score",
+        "grading",
+        "assessment",
+        "evaluation",
+        "appraisal"
+      ]
+    },
+    {
+      "description": "A gradient or slope.",
+      "examples": [
+        "just over the crest of a long seven percent grade"
+      ],
+      "synonyms": [
+        "slope",
+        "gradient",
+        "incline",
+        "acclivity",
+        "declivity",
+        "tilt",
+        "angle"
+      ]
+    },
+    {
+      "description": "A variety of cattle produced by crossing with a superior breed.",
+      "examples": [
+        "grade stock"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange in or allocate to grades; class or sort.",
+      "examples": [
+        "they are graded according to thickness",
+        "carefully graded exercises"
+      ],
+      "synonyms": [
+        "classify",
+        "class",
+        "categorize",
+        "bracket",
+        "sort",
+        "group",
+        "order",
+        "arrange",
+        "type",
+        "pigeonhole",
+        "brand",
+        "size"
+      ]
+    },
+    {
+      "description": "Give a mark to (a student or a piece of work).",
+      "examples": [],
+      "synonyms": [
+        "assess",
+        "mark",
+        "score",
+        "judge",
+        "evaluate",
+        "appraise"
+      ]
+    },
+    {
+      "description": "Pass gradually from one level, especially a shade of color, into another.",
+      "examples": [
+        "the sky graded from blue to white on the horizon"
+      ],
+      "synonyms": [
+        "pass",
+        "shade",
+        "change",
+        "merge",
+        "blend",
+        "transmute",
+        "turn"
+      ]
+    },
+    {
+      "description": "Reduce (a road) to an easy gradient.",
+      "examples": []
+    },
+    {
+      "description": "Cross (livestock) with a superior breed.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the crossing at grade of two streets",
+    "The total distance of the metro line will be 36.50 km of which 29.15 km will be elevated, 0.65 km at grade and 6.70 km will be underground.",
+    "Sharp said she decided to put the new plan forward because it became obvious Vancouver City council will not approve a light rail system built at grade through the city.",
+    "This track crossed it at a diamond, one of the last such crossings at grade with streetcars.",
+    "Planning requirements mean tall residential buildings have setbacks and open areas at grade, making the streetscape discontinuous and usually unpleasant."
+  ],
+  "origin": "Early 16th century: from French, or from Latin gradus step. Originally used as a unit of measurement of angles (a degree of arc), the term later referred to degrees of merit or quality.",
+  "pronounciation": "/ɡrād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grade_us_1.mp3"
+}

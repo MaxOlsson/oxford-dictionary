@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Move quickly in an apparently random or purposeless manner.",
+      "examples": [
+        "if only you would settle down instead of flittering around the countryside"
+      ],
+      "synonyms": [
+        "flit",
+        "hover",
+        "dance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fluttering movement.",
+      "examples": [
+        "the flash and flitter of colored wings"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: frequentative of flit.",
+  "pronounciation": "/ˈflɪdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flitter_us_1.mp3"
+}

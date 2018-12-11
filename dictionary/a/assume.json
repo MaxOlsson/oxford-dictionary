@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Suppose to be the case, without proof.",
+      "examples": [
+        "it is reasonable to assume that such changes have significant social effects",
+        "they were assumed to be foreign",
+        "you're afraid of what people are going to assume about me"
+      ],
+      "synonyms": [
+        "presume",
+        "suppose",
+        "take it",
+        "take for granted",
+        "take as read",
+        "take it as given",
+        "presuppose",
+        "conjecture",
+        "surmise",
+        "conclude",
+        "come to the conclusion",
+        "deduce",
+        "infer",
+        "draw the inference",
+        "reckon",
+        "reason",
+        "guess",
+        "imagine",
+        "think",
+        "fancy",
+        "suspect",
+        "expect",
+        "accept",
+        "believe",
+        "be of the opinion",
+        "understand",
+        "be given to understand",
+        "gather",
+        "glean"
+      ]
+    },
+    {
+      "description": "Take or begin to have (power or responsibility)",
+      "examples": [
+        "he assumed full responsibility for all organizational work"
+      ],
+      "synonyms": [
+        "accept",
+        "shoulder",
+        "bear",
+        "undertake",
+        "take on",
+        "take up",
+        "take on oneself",
+        "manage",
+        "handle",
+        "deal with",
+        "get to grips with",
+        "turn one's hand to"
+      ]
+    },
+    {
+      "description": "Take on (a specified quality, appearance, or extent)",
+      "examples": [
+        "militant activity had assumed epidemic proportions"
+      ],
+      "synonyms": [
+        "acquire",
+        "take on",
+        "adopt",
+        "come to have"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin assumere, from ad- towards + sumere take.",
+  "pronounciation": "/əˈsum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assume_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling or characteristic of a ghoul.",
+      "examples": [
+        "a ghoulish mask"
+      ],
+      "synonyms": [
+        "macabre",
+        "grisly",
+        "gruesome",
+        "grotesque",
+        "ghastly",
+        "morbid"
+      ]
+    },
+    {
+      "description": "Morbidly interested in death or disaster.",
+      "examples": [
+        "she told the story with ghoulish relish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡo͞oliSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ghoulish_us_1.mp3"
+}

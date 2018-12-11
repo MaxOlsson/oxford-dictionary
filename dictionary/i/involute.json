@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Involved or intricate.",
+      "examples": [
+        "the art novel has grown increasingly involute"
+      ],
+      "synonyms": [
+        "complex",
+        "complicated",
+        "convoluted",
+        "tangled",
+        "entangled",
+        "ravelled",
+        "twisted",
+        "knotty",
+        "maze-like",
+        "labyrinthine",
+        "winding",
+        "serpentine",
+        "circuitous",
+        "sinuous"
+      ]
+    },
+    {
+      "description": "Curled spirally.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The locus of a point considered as the end of a taut string being unwound from a given curve in the plane of that curve.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become involute; curl up.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 17th century: from Latin involutus, past participle of involvere (see involve).",
+  "pronounciation": "/ˈɪnvəˌlut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/involute_us_2.mp3"
+}

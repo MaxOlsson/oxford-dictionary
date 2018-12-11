@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of an item) worth collecting; of interest to a collector.",
+      "examples": [],
+      "synonyms": [
+        "old",
+        "antiquarian",
+        "collectable"
+      ]
+    },
+    {
+      "description": "Able to be collected.",
+      "examples": [
+        "a surplus collectible as rent by the landowner"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An item valued and sought by collectors.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/kəˈlɛktəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collectible_us_1.mp3"
+}

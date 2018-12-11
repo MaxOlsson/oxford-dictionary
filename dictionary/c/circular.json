@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Having the form of a circle.",
+      "examples": [
+        "the building features a circular atrium"
+      ],
+      "synonyms": [
+        "round",
+        "disc-shaped",
+        "disc-like"
+      ]
+    },
+    {
+      "description": "(of an argument) already containing an assumption of what is to be proved, and therefore fallacious.",
+      "examples": []
+    },
+    {
+      "description": "(of a letter or advertisement) for distribution to a large number of people.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A letter or advertisement which is distributed to a large number of people.",
+      "examples": [],
+      "synonyms": [
+        "leaflet",
+        "pamphlet",
+        "handbill"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French circulier, from late Latin circularis, from Latin circulus small ring (see circle).",
+  "pronounciation": "/ˈsərkjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/circular_us_1.mp3"
+}

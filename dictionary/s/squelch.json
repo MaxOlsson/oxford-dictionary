@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Make a soft sucking sound such as that made by walking heavily through mud.",
+      "examples": [
+        "bedraggled guests squelched across the lawn to seek shelter"
+      ],
+      "synonyms": [
+        "ruin",
+        "undermine",
+        "put an end to",
+        "put at risk",
+        "subvert",
+        "overturn",
+        "topple",
+        "scupper",
+        "scotch",
+        "sabotage",
+        "spoil",
+        "mess up",
+        "make a mess of",
+        "quash",
+        "crush",
+        "harm",
+        "cripple",
+        "impair",
+        "mar",
+        "destroy",
+        "devastate",
+        "play havoc with",
+        "wreck",
+        "smash",
+        "shatter",
+        "annihilate",
+        "eradicate",
+        "obliterate",
+        "defeat"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft sucking sound made when pressure is applied to liquid or mud.",
+      "examples": [
+        "the squelch of their feet"
+      ]
+    },
+    {
+      "description": "A circuit that suppresses the output of a radio receiver if the signal strength falls below a certain level.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (originally denoting a heavy crushing fall on to something soft): imitative.",
+  "pronounciation": "/skwelCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squelch_us_1.mp3"
+}

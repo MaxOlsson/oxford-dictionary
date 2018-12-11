@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "An escape of blood from a ruptured blood vessel, especially when profuse.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person) suffer a hemorrhage.",
+      "examples": [
+        "he had begun hemorrhaging in the night"
+      ],
+      "synonyms": [
+        "lose blood",
+        "haemorrhage"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (as a noun): alteration of obsolete haemorrhagy, via Latin from Greek haimorrhagia, from haima blood + the stem of rhēgnunai burst.",
+  "pronounciation": "/ˈhem(ə)rij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hemorrhage_us_1.mp3"
+}

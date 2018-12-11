@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Showing or caused by malice.",
+      "examples": [
+        "the teachers made spiteful little jokes about me"
+      ],
+      "synonyms": [
+        "malicious",
+        "mean",
+        "nasty",
+        "cruel",
+        "unkind",
+        "unfriendly",
+        "snide",
+        "hurtful",
+        "wounding",
+        "barbed",
+        "cutting",
+        "hateful",
+        "ill-natured",
+        "bitter",
+        "venomous",
+        "poisonous",
+        "acid",
+        "hostile",
+        "rancorous",
+        "malevolent",
+        "evil-intentioned",
+        "baleful",
+        "vindictive",
+        "vengeful",
+        "vitriolic",
+        "vicious",
+        "splenetic",
+        "malign",
+        "malignant",
+        "bilious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspaɪtfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spiteful_us_1.mp3"
+}

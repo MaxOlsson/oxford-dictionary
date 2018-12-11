@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of handwriting or print) clear enough to read.",
+      "examples": [
+        "the original typescript is scarcely legible"
+      ],
+      "synonyms": [
+        "readable",
+        "easily read",
+        "easy to read",
+        "decipherable",
+        "easily deciphered",
+        "clear",
+        "distinct",
+        "plain",
+        "carefully written",
+        "neat",
+        "sharp",
+        "vivid",
+        "intelligible",
+        "understandable",
+        "comprehensible"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin legibilis, from legere to read.",
+  "pronounciation": "/ˈlɛdʒəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/legible_us_1.mp3"
+}

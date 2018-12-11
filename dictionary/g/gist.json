@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The substance or essence of a speech or text.",
+      "examples": [
+        "she noted the gist of each message"
+      ],
+      "synonyms": [
+        "essence",
+        "substance",
+        "quintessence",
+        "main idea",
+        "main theme",
+        "central idea",
+        "central theme",
+        "nub",
+        "core",
+        "heart",
+        "heart of the matter",
+        "nucleus",
+        "kernel",
+        "pith",
+        "marrow",
+        "meat",
+        "burden",
+        "crux",
+        "important point"
+      ]
+    },
+    {
+      "description": "The real point of an action.",
+      "examples": [
+        "damage is the gist of the action and without it the plaintiff must fail"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Old French, third person singular present tense of gesir to lie, from Latin jacere. The Anglo-French legal phrase cest action gist this action lies denoted that there were sufficient grounds to proceed; gist was adopted into English denoting the grounds themselves ( gist (sense 2)).",
+  "pronounciation": "/jist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gist_us_1.mp3"
+}

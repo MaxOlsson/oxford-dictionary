@@ -1,0 +1,74 @@
+{
+  "adjective": [
+    {
+      "description": "Able to burn or corrode organic tissue by chemical action.",
+      "examples": [
+        "a caustic cleaner"
+      ],
+      "synonyms": [
+        "corrosive",
+        "corroding",
+        "mordant",
+        "acid",
+        "alkaline",
+        "burning",
+        "stinging",
+        "acrid",
+        "harsh",
+        "destructive"
+      ]
+    },
+    {
+      "description": "Sarcastic in a scathing and bitter way.",
+      "examples": [
+        "the players were making caustic comments about the refereeing"
+      ],
+      "synonyms": [
+        "sarcastic",
+        "cutting",
+        "biting",
+        "mordant",
+        "stinging",
+        "sharp",
+        "bitter",
+        "scathing",
+        "derisive",
+        "sardonic",
+        "ironic",
+        "scornful",
+        "trenchant",
+        "acerbic",
+        "vitriolic",
+        "tart",
+        "acid",
+        "pungent",
+        "acrimonious",
+        "astringent",
+        "rapier-like",
+        "razor-edged",
+        "critical",
+        "polemic",
+        "virulent",
+        "venomous",
+        "waspish"
+      ]
+    },
+    {
+      "description": "Formed by the intersection of reflected or refracted parallel rays from a curved surface.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A caustic substance.",
+      "examples": []
+    },
+    {
+      "description": "A caustic surface or curve.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: via Latin from Greek kaustikos, from kaustos combustible, from kaiein to burn.",
+  "pronounciation": "/ˈkôstik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caustic_us_1.mp3"
+}

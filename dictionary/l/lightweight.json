@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A weight in boxing and other sports intermediate between featherweight and welterweight. In the amateur boxing scale it ranges from 125 to 132 pounds (57 to 60 kg).",
+      "examples": []
+    },
+    {
+      "description": "A person or thing that is lightly built or constructed.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of thin material or build and weighing less than average.",
+      "examples": [
+        "a lightweight gray suit"
+      ],
+      "synonyms": [
+        "thin",
+        "light",
+        "flimsy",
+        "insubstantial"
+      ]
+    },
+    {
+      "description": "Containing little serious matter.",
+      "examples": [
+        "the newspaper is lightweight and trivial"
+      ],
+      "synonyms": [
+        "trivial",
+        "insubstantial",
+        "trifling",
+        "frothy",
+        "superficial",
+        "shallow",
+        "unintellectual",
+        "undemanding",
+        "frivolous",
+        "insignificant"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlītˌwāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lightweight_us_1.mp3"
+}

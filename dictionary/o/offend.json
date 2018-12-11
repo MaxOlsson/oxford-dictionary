@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "Cause to feel upset, annoyed, or resentful.",
+      "examples": [
+        "viewers said they had been offended by bad language"
+      ],
+      "synonyms": [
+        "hurt someone's feelings",
+        "give offence to",
+        "affront",
+        "upset",
+        "displease",
+        "distress",
+        "hurt",
+        "wound",
+        "pain",
+        "injure",
+        "be an affront to",
+        "get someone's back up",
+        "put someone's back up",
+        "disgruntle",
+        "put out",
+        "annoy",
+        "anger",
+        "exasperate",
+        "irritate",
+        "vex",
+        "pique",
+        "gall",
+        "irk",
+        "provoke",
+        "rankle with",
+        "nettle",
+        "needle",
+        "peeve",
+        "tread on someone's toes",
+        "ruffle",
+        "ruffle someone's feathers",
+        "rub up the wrong way",
+        "make someone's hackles rise",
+        "insult",
+        "humiliate",
+        "embarrass",
+        "mortify",
+        "scandalize",
+        "shock",
+        "outrage",
+        "spite"
+      ]
+    },
+    {
+      "description": "Commit an illegal act.",
+      "examples": [
+        "a small hard core of young criminals who offend again and again"
+      ],
+      "synonyms": [
+        "break the law",
+        "commit a crime",
+        "do wrong",
+        "sin",
+        "go astray",
+        "fall from grace",
+        "err",
+        "transgress"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French offendre, from Latin offendere strike against.",
+  "pronounciation": "/əˈfend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/offend_us_1.mp3"
+}

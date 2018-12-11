@@ -1,0 +1,47 @@
+{
+  "adverb": [
+    {
+      "description": "To a great or significant extent.",
+      "examples": [
+        "profits grew substantially",
+        "substantially higher earnings"
+      ],
+      "synonyms": [
+        "considerably",
+        "significantly",
+        "greatly",
+        "a great deal",
+        "to a great extent",
+        "to a large extent",
+        "to a marked extent",
+        "markedly",
+        "appreciably"
+      ]
+    },
+    {
+      "description": "For the most part; essentially.",
+      "examples": [
+        "things will remain substantially the same over the next ten years"
+      ],
+      "synonyms": [
+        "largely",
+        "for the most part",
+        "by and large",
+        "on the whole",
+        "almost entirely",
+        "in the main",
+        "mainly",
+        "in effect",
+        "in essence",
+        "essentially",
+        "materially",
+        "basically",
+        "fundamentally",
+        "to all intents and purposes",
+        "to a great degree"
+      ]
+    }
+  ],
+  "pronounciation": "/səbˈstan(t)SHəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/substantially_us_1.mp3"
+}

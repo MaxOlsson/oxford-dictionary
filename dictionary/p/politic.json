@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of an action) seeming sensible and judicious under the circumstances.",
+      "examples": [
+        "I did not think it politic to express my reservations"
+      ],
+      "synonyms": [
+        "wise",
+        "prudent",
+        "sensible",
+        "judicious",
+        "canny",
+        "well judged",
+        "sagacious",
+        "expedient",
+        "shrewd",
+        "astute",
+        "discreet",
+        "tactful",
+        "diplomatic"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Engage in political activity.",
+      "examples": [
+        "news of this unseemly politicking invariably leaks into the press"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French politique political, via Latin from Greek politikos, from politēs citizen, from polis city.",
+  "pronounciation": "/ˈpɑləˌtɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/politic_us_1.mp3"
+}

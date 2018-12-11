@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Placed or inclined at an angle to something else.",
+      "examples": [
+        "he sent an angled shot into the net",
+        "a sharply angled flight of stairs"
+      ],
+      "synonyms": [
+        "crossways",
+        "crosswise",
+        "from corner to corner",
+        "slanting",
+        "slanted",
+        "aslant",
+        "slant",
+        "slantwise",
+        "sloping",
+        "oblique",
+        "inclined",
+        "inclining",
+        "tilted",
+        "tilting",
+        "at an angle",
+        "cornerwise"
+      ]
+    },
+    {
+      "description": "(of information) presented so as to reflect a particular view or to have a particular focus.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈaNGɡəld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/angled_us_1.mp3"
+}

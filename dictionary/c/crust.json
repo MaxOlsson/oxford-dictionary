@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "The tough outer part of a loaf of bread.",
+      "examples": [
+        "a sandwich with the crusts cut off",
+        "I tore off several pieces of crust from the loaf"
+      ],
+      "synonyms": [
+        "outer layer",
+        "outer part",
+        "outside",
+        "exterior"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form into a hard outer layer.",
+      "examples": [
+        "the blisters eventually crust over"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French crouste, from Latin crusta rind, shell, crust.",
+  "pronounciation": "/krəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crust_us_1.mp3"
+}

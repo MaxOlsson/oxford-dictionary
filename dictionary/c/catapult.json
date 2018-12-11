@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A forked stick with an elastic band fastened to the two prongs, used by children for shooting small stones; a slingshot.",
+      "examples": [],
+      "synonyms": [
+        "sling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hurl or launch (something) in a specified direction with or as if with a catapult.",
+      "examples": [
+        "the explosion catapulted the car 30 yards along the road",
+        "their music catapulted them to the top of the charts",
+        "the plane was refueled and catapulted back into the air again"
+      ],
+      "synonyms": [
+        "propel",
+        "launch",
+        "hurl",
+        "hurtle",
+        "fling",
+        "send flying",
+        "send",
+        "let fly",
+        "let loose",
+        "fire",
+        "blast",
+        "shoot"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French catapulte or Latin catapulta, from Greek katapeltēs, from kata- down + pallein hurl.",
+  "pronounciation": "/ˈkædəˌpəlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catapult_us_2.mp3"
+}

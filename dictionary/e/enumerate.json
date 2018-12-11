@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Mention (a number of things) one by one.",
+      "examples": [
+        "there is not space to enumerate all his works"
+      ],
+      "synonyms": [
+        "list",
+        "itemize",
+        "catalogue",
+        "set out",
+        "set forth",
+        "give"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin enumerat- counted out, from the verb enumerare, from e- (variant of ex-) out + numerus number.",
+  "pronounciation": "/əˈn(j)uməˌreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/enumerate_us_1.mp3"
+}

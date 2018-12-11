@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Subject (a biological sample) to ultrasonic vibration so as to fragment the cells, macromolecules, and membranes.",
+      "examples": [
+        "cells were sonicated in an ice bath"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A biological sample which has been sonicated.",
+      "examples": []
+    }
+  ],
+  "origin": "1950s: from sonic + -ate.",
+  "pronounciation": "/ˈsänikāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sonicate_us_1.mp3"
+}

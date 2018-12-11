@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Take off one's clothes.",
+      "examples": [
+        "she undressed and climbed into bed",
+        "I went into the bathroom to get undressed"
+      ],
+      "synonyms": [
+        "take one's clothes off",
+        "strip",
+        "strip naked",
+        "disrobe",
+        "remove one's clothes",
+        "doff one's clothes",
+        "shed one's clothes",
+        "uncover oneself"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The state of being naked or only partially clothed.",
+      "examples": [
+        "women in various states of undress"
+      ],
+      "synonyms": [
+        "nudity",
+        "nakedness",
+        "bareness"
+      ]
+    },
+    {
+      "description": "Ordinary clothing or uniform, as opposed to that worn on ceremonial occasions.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈdrɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undress_us_1.mp3"
+}

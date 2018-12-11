@@ -1,0 +1,21 @@
+{
+  "pronoun": [
+    {
+      "description": "Used as the object of a verb or preposition to refer to a male person or animal previously mentioned as the subject of the clause.",
+      "examples": [
+        "the steward introduced himself as Pete",
+        "he ought to be ashamed of himself"
+      ]
+    },
+    {
+      "description": "He or him personally (used to emphasize a particular male person or animal mentioned)",
+      "examples": [
+        "Thomas himself laid down what we should do",
+        "he said so himself"
+      ]
+    }
+  ],
+  "origin": "Old English (see him, self).",
+  "pronounciation": "/hɪmˈsɛlf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/himself_us_1_rr.mp3"
+}

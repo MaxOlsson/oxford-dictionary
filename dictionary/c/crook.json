@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "The hooked staff of a shepherd.",
+      "examples": [],
+      "synonyms": [
+        "walking stick",
+        "cane",
+        "staff"
+      ]
+    },
+    {
+      "description": "A person who is dishonest or a criminal.",
+      "examples": [],
+      "synonyms": [
+        "criminal",
+        "lawbreaker",
+        "offender",
+        "villain",
+        "black hat",
+        "delinquent",
+        "malefactor",
+        "culprit",
+        "wrongdoer",
+        "transgressor",
+        "sinner"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bend (something, especially a finger as a signal)",
+      "examples": [
+        "he crooked a finger for the waitress"
+      ],
+      "synonyms": [
+        "cock",
+        "flex",
+        "bend",
+        "curve",
+        "curl",
+        "angle",
+        "hook",
+        "bow"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(especially of a situation) bad, unpleasant, or unsatisfactory.",
+      "examples": [
+        "it was pretty crook on the land in the early 1970s"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense hooked tool or weapon): from Old Norse krókr hook. A noun sense deceit, guile, trickery (compare with crooked) was recorded in Middle English but was obsolete by the 17th century The Australian senses are abbreviations of crooked.",
+  "pronounciation": "/kro͝ok/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crook_us_1.mp3"
+}

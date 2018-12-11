@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly of a drug) tending to restore a person's health or strength; restorative.",
+      "examples": [],
+      "synonyms": [
+        "healing",
+        "curative",
+        "curing",
+        "remedial",
+        "medicinal",
+        "restorative",
+        "health-giving",
+        "tonic",
+        "sanative",
+        "reparative",
+        "corrective",
+        "ameliorative",
+        "beneficial",
+        "good",
+        "salubrious",
+        "salutary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A restorative drug.",
+      "examples": [],
+      "synonyms": [
+        "tonic",
+        "restorative",
+        "energizer",
+        "stimulant",
+        "antidepressant",
+        "refresher"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: via late Latin from Greek analēptikos restorative.",
+  "pronounciation": "/ˌænəˈlɛptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/analeptic_us_1.mp3"
+}

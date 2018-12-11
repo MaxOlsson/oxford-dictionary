@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not having any serious purpose or value.",
+      "examples": [
+        "rules to stop frivolous lawsuits"
+      ],
+      "synonyms": [
+        "flippant",
+        "glib",
+        "waggish",
+        "joking",
+        "jokey",
+        "light-hearted",
+        "facetious",
+        "fatuous",
+        "inane",
+        "shallow",
+        "superficial",
+        "senseless",
+        "thoughtless",
+        "ill-considered",
+        "non-serious"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin frivolus silly, trifling + -ous.",
+  "pronounciation": "/ˈfrɪvələs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frivolous_us_1.mp3"
+}

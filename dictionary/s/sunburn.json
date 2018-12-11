@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Reddening, inflammation, and, in severe cases, blistering and peeling of the skin caused by overexposure to the ultraviolet rays of the sun.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Suffer from sunburn.",
+      "examples": [
+        "most of us managed to get sunburnt"
+      ],
+      "synonyms": [
+        "burnt",
+        "peeling",
+        "inflamed",
+        "red",
+        "scarlet",
+        "blistered",
+        "blistering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənˌbərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sunburn_us_2.mp3"
+}

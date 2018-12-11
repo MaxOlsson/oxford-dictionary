@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "The size or frequency of a dose of a medicine or drug.",
+      "examples": [
+        "a dosage of 450 milligrams a day",
+        "there are recommendations about dosage for elderly patients"
+      ],
+      "synonyms": [
+        "amount",
+        "number",
+        "total",
+        "aggregate",
+        "sum",
+        "quota",
+        "group",
+        "size",
+        "mass",
+        "weight",
+        "volume",
+        "bulk",
+        "load",
+        "consignment",
+        "expanse",
+        "extent",
+        "length",
+        "area"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdōsij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dosage_us_1.mp3"
+}

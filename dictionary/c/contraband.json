@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "Goods that have been imported or exported illegally.",
+      "examples": [
+        "the police looked for drugs, guns, and other contraband"
+      ],
+      "synonyms": [
+        "booty",
+        "spoils",
+        "plunder",
+        "stolen goods",
+        "pillage"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Imported or exported illegally, either in defiance of a total ban or without payment of duty.",
+      "examples": [
+        "contraband drug shipments"
+      ],
+      "synonyms": [
+        "smuggled",
+        "black-market",
+        "bootleg",
+        "bootlegged",
+        "under the counter",
+        "illegal",
+        "illicit",
+        "unlawful"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Spanish contrabanda, from Italian contrabando, from contra- against + bando proclamation, ban.",
+  "pronounciation": "/ˈkäntrəˌband/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontraband_us_1.mp3"
+}

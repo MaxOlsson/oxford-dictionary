@@ -1,0 +1,105 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring, found, or done often; prevalent.",
+      "examples": [
+        "salt and pepper are the two most common seasonings",
+        "it's common for children to have middle ear infections"
+      ],
+      "synonyms": [
+        "usual",
+        "ordinary",
+        "customary",
+        "habitual",
+        "familiar",
+        "regular",
+        "frequent",
+        "repeated",
+        "recurrent",
+        "routine",
+        "everyday",
+        "daily",
+        "day-to-day",
+        "quotidian",
+        "standard",
+        "typical"
+      ]
+    },
+    {
+      "description": "Shared by, coming from, or done by more than one.",
+      "examples": [
+        "the two republics' common border",
+        "problems common to both communities"
+      ],
+      "synonyms": [
+        "collective",
+        "communal",
+        "community",
+        "public",
+        "popular",
+        "general"
+      ]
+    },
+    {
+      "description": "Showing a lack of taste and refinement; vulgar.",
+      "examples": [],
+      "synonyms": [
+        "uncouth",
+        "vulgar",
+        "coarse",
+        "rough",
+        "unsavoury",
+        "boorish",
+        "rude",
+        "impolite",
+        "ill-mannered",
+        "unladylike",
+        "ungentlemanly",
+        "ill-bred",
+        "uncivilized",
+        "unsophisticated",
+        "unrefined",
+        "philistine",
+        "primitive",
+        "savage",
+        "brutish",
+        "oafish",
+        "gross"
+      ]
+    },
+    {
+      "description": "(in Latin and certain other languages) of or denoting a gender of nouns that are conventionally regarded as masculine or feminine, contrasting with neuter.",
+      "examples": []
+    },
+    {
+      "description": "(of a syllable) able to be either short or long.",
+      "examples": []
+    },
+    {
+      "description": "(of a crime) of relatively minor importance.",
+      "examples": [
+        "common assault"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of open land for public use, especially in a village or town.",
+      "examples": []
+    },
+    {
+      "description": "(in the Christian Church) a form of service used for each of a group of occasions.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "it is time our elected officials stood up for the common good",
+    "Laws protecting the common good are now running to catch up with private interest.",
+    "If I desire the common good, it is for the benefit of my religion or my country or my republic.",
+    "Any such move would be in the interests of the common good of the local community.",
+    "She felt, in the interest of the common good, the area should be retained as a green area."
+  ],
+  "origin": "Middle English: from Old French comun (adjective), from Latin communis.",
+  "pronounciation": "/ˈkɑmən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/common_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that creates a wide piece of something.",
+      "examples": [
+        "the meat was too thickly cut and impossible to chew",
+        "thickly sliced bread"
+      ]
+    },
+    {
+      "description": "In a closely compacted or crowded manner.",
+      "examples": [
+        "a thickly populated area",
+        "thickly forested hillsides"
+      ]
+    },
+    {
+      "description": "In a stupid manner.",
+      "examples": [
+        "\"Isn't he a politician?\" I say rather thickly"
+      ]
+    },
+    {
+      "description": "With a hoarse or husky voice; indistinctly.",
+      "examples": [
+        "\"You woke me up,\" he said thickly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈθɪkli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thickly_us_1.mp3"
+}

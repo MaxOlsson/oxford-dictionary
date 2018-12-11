@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A small peg or plug, especially for insertion into the vent of a cask.",
+      "examples": [],
+      "synonyms": [
+        "stopper",
+        "stop",
+        "plug",
+        "bung",
+        "peg",
+        "spile",
+        "seal"
+      ]
+    },
+    {
+      "description": "A faucet.",
+      "examples": [],
+      "synonyms": [
+        "valve",
+        "spout",
+        "stopcock",
+        "cock",
+        "spile"
+      ]
+    },
+    {
+      "description": "The plain end of a section of a pipe fitting into the socket of the next one.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: perhaps an alteration of Provençal espigou(n), from Latin spiculum, diminutive of spicum, variant of spica (see spica).",
+  "pronounciation": "/ˈspɪɡət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spigot_us_1.mp3"
+}

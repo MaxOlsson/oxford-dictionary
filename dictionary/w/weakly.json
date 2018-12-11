@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that lacks strength or force.",
+      "examples": [
+        "she leaned weakly against the wall"
+      ],
+      "synonyms": [
+        "softly",
+        "making little noise",
+        "in a low voice",
+        "in hushed tones",
+        "in low tones",
+        "in muted tones",
+        "in subdued tones",
+        "in a mumble",
+        "in a murmur",
+        "in a whisper",
+        "murmuringly",
+        "under one's breath",
+        "in an undertone",
+        "sotto voce",
+        "gently",
+        "faintly",
+        "weakly",
+        "feebly"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Sickly; not robust.",
+      "examples": [],
+      "synonyms": [
+        "frail",
+        "feeble",
+        "puny",
+        "fragile",
+        "delicate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwēklē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weakly_us_1.mp3"
+}

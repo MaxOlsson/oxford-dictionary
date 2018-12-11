@@ -1,0 +1,41 @@
+{
+  "": [
+    {
+      "description": "Electric charge.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Quarter (used to refer to a specified quarter of the fiscal year)",
+      "examples": [
+        "we expect to have an exceptional Q4"
+      ]
+    },
+    {
+      "description": "Queen (used especially in describing card games and recording moves in chess)",
+      "examples": [
+        "17.Qb4"
+      ]
+    },
+    {
+      "description": "Question.",
+      "examples": [
+        "Q: What's the problem? A: I don't feel well"
+      ]
+    },
+    {
+      "description": "Denoting the hypothetical source of the passages shared by the gospels of Matthew and Luke, but not found in Mark.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The seventeenth letter of the alphabet.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: initial letter of quantity.",
+  "pronounciation": "/kju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/q_us_1.mp3"
+}

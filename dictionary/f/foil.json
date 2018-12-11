@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Prevent (something considered wrong or undesirable) from succeeding.",
+      "examples": [
+        "a brave policewoman foiled the armed robbery"
+      ],
+      "synonyms": [
+        "thwart",
+        "frustrate",
+        "counter",
+        "oppose",
+        "baulk",
+        "disappoint",
+        "impede",
+        "obstruct",
+        "hamper",
+        "hinder",
+        "snooker",
+        "cripple",
+        "scotch",
+        "derail",
+        "smash",
+        "dash"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The track or scent of a hunted animal.",
+      "examples": []
+    },
+    {
+      "description": "A setback in an enterprise; a defeat.",
+      "examples": []
+    }
+  ],
+  "origin": "Abbreviation of hydrofoil.",
+  "pronounciation": "/fɔɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foil_us_1.mp3"
+}

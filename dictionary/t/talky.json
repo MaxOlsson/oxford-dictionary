@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a movie, play, novel, etc.) containing a great deal of talk or dialogue.",
+      "examples": [
+        "viewers expecting a thriller may find the film talky and slow"
+      ],
+      "synonyms": [
+        "long-winded",
+        "verbose",
+        "prolix",
+        "full of verbiage",
+        "lengthy",
+        "protracted",
+        "long-drawn-out",
+        "diffuse",
+        "discursive",
+        "rambling",
+        "digressive",
+        "maundering",
+        "circumlocutory",
+        "periphrastic",
+        "repetitious",
+        "tautological",
+        "tortuous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtɔki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/talky_us_1.mp3"
+}

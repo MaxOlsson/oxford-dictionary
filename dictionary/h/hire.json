@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Employ (someone) for wages.",
+      "examples": [
+        "management hired and fired labor in line with demand"
+      ],
+      "synonyms": [
+        "employ",
+        "engage",
+        "recruit",
+        "appoint",
+        "take on",
+        "sign on",
+        "sign up",
+        "enrol",
+        "commission",
+        "enlist",
+        "take into employment",
+        "secure the services of",
+        "put on the payroll"
+      ]
+    },
+    {
+      "description": "Obtain the temporary use of (something) for an agreed payment; rent.",
+      "examples": [
+        "she had to hire a dress for the wedding"
+      ],
+      "synonyms": [
+        "rent",
+        "lease",
+        "charter",
+        "pay for the use of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of hiring someone or something.",
+      "examples": [],
+      "synonyms": [
+        "rent",
+        "rental",
+        "hiring",
+        "lease",
+        "leasing",
+        "charter"
+      ]
+    },
+    {
+      "description": "A person who is hired; an employee.",
+      "examples": [
+        "new hires go through six months of training"
+      ],
+      "synonyms": [
+        "conscript",
+        "new soldier"
+      ]
+    }
+  ],
+  "phrases": [
+    "Mr Rekshop would like it known that he is available for hire as a deejay.",
+    "The hall is available for hire for various activities.",
+    "An echo sounder is pretty well essential to find water of the correct depth, and Anders has a good stock of them available for hire.",
+    "The CCI also cited examples in the US where off-duty police are available for hire by businesses.",
+    "The fact is that these old symbols are available for hire."
+  ],
+  "origin": "Old English hȳrian employ someone for wages, hȳr payment under contract for the use of something, of West Germanic origin; related to Dutch huren (verb), huur (noun).",
+  "pronounciation": "/ˈhī(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hire_us_1.mp3"
+}

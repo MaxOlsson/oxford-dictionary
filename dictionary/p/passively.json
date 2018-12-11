@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "In an accepting manner, without active response or resistance.",
+      "examples": [
+        "we don't have to sit passively by while others decide our fate",
+        "they will not passively accept defeat"
+      ]
+    },
+    {
+      "description": "Using the passive voice.",
+      "examples": [
+        "it is passively expressed that he was “carried up.”"
+      ]
+    },
+    {
+      "description": "From a transmitter or target rather than by generating a signal.",
+      "examples": [
+        "some cell phones passively receive data from geosynchronous satellites"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpasivlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passively_us_1.mp3"
+}

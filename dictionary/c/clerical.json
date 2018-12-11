@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a job or person) concerned with or relating to work in an office, especially routine documentation and administrative tasks.",
+      "examples": [
+        "temps are always needed for clerical work"
+      ],
+      "synonyms": [
+        "office",
+        "desk",
+        "back-room"
+      ]
+    },
+    {
+      "description": "Relating to the clergy.",
+      "examples": [
+        "he was still attired in his clerical outfit"
+      ],
+      "synonyms": [
+        "ecclesiastical",
+        "church",
+        "priestly",
+        "pastoral",
+        "religious",
+        "spiritual",
+        "prelatic",
+        "apostolic",
+        "canonical",
+        "parsonical"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in clerical (sense 2)): from ecclesiastical Latin clericalis, from clericus clergyman (see cleric).",
+  "pronounciation": "/ˈklɛrək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clerical_us_1.mp3"
+}

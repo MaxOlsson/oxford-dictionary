@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "Higher in rank, status, or quality.",
+      "examples": [
+        "a superior officer",
+        "it is superior to every other car on the road"
+      ],
+      "synonyms": [
+        "higher-ranking",
+        "higher-level",
+        "senior",
+        "higher",
+        "higher-up",
+        "upper-level",
+        "upper",
+        "loftier"
+      ]
+    },
+    {
+      "description": "Having or showing an overly high opinion of oneself; supercilious.",
+      "examples": [
+        "that girl was frightfully superior"
+      ],
+      "synonyms": [
+        "condescending",
+        "supercilious",
+        "patronizing",
+        "haughty",
+        "disdainful",
+        "lofty",
+        "lordly",
+        "pompous",
+        "snobbish",
+        "snobby"
+      ]
+    },
+    {
+      "description": "(of a letter, figure, or symbol) written or printed above the line.",
+      "examples": []
+    },
+    {
+      "description": "Further above or out; higher in position.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing superior to another in rank, status, or quality, especially a colleague in a higher position.",
+      "examples": [
+        "obeying their superiors' orders"
+      ],
+      "synonyms": [
+        "manager",
+        "boss",
+        "chief",
+        "supervisor",
+        "senior",
+        "controller",
+        "headman",
+        "foreman"
+      ]
+    },
+    {
+      "description": "A superior letter, figure, or symbol.",
+      "examples": []
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A port city in northwestern Wisconsin, on Lake Superior, adjacent to Duluth in Minnesota; population 26,223 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French superiour, from Latin superior, comparative of superus that is above, from super above.",
+  "pronounciation": "/səˈpirēər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/superior_us_1.mp3"
+}

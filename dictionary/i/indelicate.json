@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a lack of sensitive understanding or tact.",
+      "examples": [
+        "forgive me asking an indelicate question, but how are you for money?"
+      ],
+      "synonyms": [
+        "insensitive",
+        "tactless",
+        "undiplomatic",
+        "impolitic",
+        "indiscreet"
+      ]
+    },
+    {
+      "description": "Slightly indecent.",
+      "examples": [
+        "an earthy, often indelicate sense of humor"
+      ],
+      "synonyms": [
+        "vulgar",
+        "coarse",
+        "rude",
+        "gross",
+        "crude",
+        "bawdy",
+        "racy",
+        "risqué",
+        "ribald",
+        "rabelaisian",
+        "earthy",
+        "indecent",
+        "improper",
+        "indecorous",
+        "unseemly",
+        "unrefined",
+        "off colour",
+        "obscene",
+        "dirty",
+        "filthy",
+        "impure",
+        "smutty",
+        "lewd",
+        "salacious",
+        "raw",
+        "lascivious",
+        "licentious"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈdeləkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indelicate_us_1.mp3"
+}

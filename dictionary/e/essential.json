@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "Absolutely necessary; extremely important.",
+      "examples": [
+        "it is essential to keep up-to-date records",
+        "fiber is an essential ingredient"
+      ],
+      "synonyms": [
+        "crucial",
+        "necessary",
+        "key",
+        "vital",
+        "indispensable",
+        "needed",
+        "required",
+        "called for",
+        "requisite",
+        "important",
+        "all-important",
+        "vitally important",
+        "of the utmost importance",
+        "of great consequence",
+        "of the essence",
+        "critical",
+        "life-and-death",
+        "imperative",
+        "mandatory",
+        "compulsory",
+        "obligatory",
+        "compelling",
+        "urgent",
+        "pressing",
+        "burning",
+        "acute",
+        "paramount",
+        "pre-eminent",
+        "high-priority",
+        "significant",
+        "consequential"
+      ]
+    },
+    {
+      "description": "(of a disease) with no known external stimulus or cause; idiopathic.",
+      "examples": [
+        "essential hypertension"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is absolutely necessary.",
+      "examples": [
+        "we had only the bare essentials in the way of gear"
+      ],
+      "synonyms": [
+        "necessity",
+        "essential item",
+        "necessary item",
+        "prerequisite",
+        "requisite",
+        "requirement",
+        "need"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense in the highest degree): from late Latin essentialis, from Latin essentia (see essence).",
+  "pronounciation": "/əˈsen(t)SHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/essential_us_1.mp3"
+}

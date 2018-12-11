@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to architecture or architects.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The scientific study of architecture.",
+      "examples": [],
+      "synonyms": [
+        "building design",
+        "planning",
+        "building",
+        "construction"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: via Latin from Greek arkhitektonikos, from arkhitektōn (see architect).",
+  "pronounciation": "/ˌɑrkəˌtɛkˈtɑnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/architectonic_us_1.mp3"
+}

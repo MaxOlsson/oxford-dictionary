@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Covering a wide area in terms of space or scope; extensive or wide-ranging.",
+      "examples": [
+        "deep, expansive canyons"
+      ],
+      "synonyms": [
+        "extensive",
+        "sweeping",
+        "rolling"
+      ]
+    },
+    {
+      "description": "(of a person or their manner) open, demonstrative, and communicative.",
+      "examples": [
+        "she felt expansive and inclined to talk"
+      ],
+      "synonyms": [
+        "communicative",
+        "forthcoming",
+        "sociable",
+        "friendly",
+        "outgoing",
+        "unreserved",
+        "uninhibited",
+        "open",
+        "affable",
+        "amiable",
+        "genial",
+        "chatty",
+        "talkative",
+        "conversational",
+        "garrulous",
+        "loquacious",
+        "voluble",
+        "effusive",
+        "demonstrative",
+        "extrovert",
+        "extroverted"
+      ]
+    },
+    {
+      "description": "Tending toward economic or political expansion.",
+      "examples": [
+        "expansive domestic economic policies"
+      ]
+    }
+  ],
+  "pronounciation": "/ikˈspansiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expansive_us_1.mp3"
+}

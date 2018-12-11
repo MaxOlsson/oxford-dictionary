@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Preventing, or constructed of material that prevents, the passage of sound.",
+      "examples": [
+        "there was a soundproof, state-of-the-art recording studio"
+      ],
+      "synonyms": [
+        "resistant",
+        "impenetrable",
+        "impervious",
+        "repellent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a room or building) resistant to the passage of sound.",
+      "examples": [],
+      "synonyms": [
+        "wrap",
+        "cover",
+        "encase",
+        "enclose",
+        "envelop",
+        "swathe",
+        "sheathe",
+        "bundle up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsoun(d)ˌpro͞of/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soundproof_us_1.mp3"
+}

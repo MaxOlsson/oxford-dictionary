@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Hesitate or be unwilling to accept an idea or undertaking.",
+      "examples": [
+        "any gardener will at first balk at enclosing the garden"
+      ],
+      "synonyms": [
+        "eschew",
+        "resist",
+        "refuse to",
+        "be unwilling to",
+        "draw the line at",
+        "be reluctant to",
+        "draw back from",
+        "flinch from",
+        "shrink from",
+        "shy from",
+        "recoil from",
+        "quail at",
+        "demur from",
+        "hesitate over",
+        "scruple to",
+        "take exception to",
+        "not like to",
+        "hate to",
+        "jib at"
+      ]
+    },
+    {
+      "description": "(of a pitcher) make an illegal motion, penalized by an advance of the base runners.",
+      "examples": [
+        "the rookie balked and permitted Robinson to score"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An illegal motion made by a pitcher that may deceive a base runner.",
+      "examples": []
+    },
+    {
+      "description": "A roughly squared timber beam.",
+      "examples": [],
+      "synonyms": [
+        "joist",
+        "purlin",
+        "girder",
+        "spar",
+        "support",
+        "strut",
+        "stay",
+        "brace",
+        "scantling",
+        "batten",
+        "transom",
+        "lintel",
+        "stringer",
+        "baulk",
+        "board",
+        "timber",
+        "plank",
+        "lath",
+        "rafter"
+      ]
+    },
+    {
+      "description": "Any area on a pool or billiard table in which play is restricted in some way.",
+      "examples": []
+    },
+    {
+      "description": "A ridge left unplowed between furrows.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Old English balc, from Old Norse bálkr partition. The original use was unplowed ridge, later land left unplowed by mistake, hence blunder, omission, giving rise to the verb use miss (a chance). A late Middle English sense obstacle gave rise to the verb senses hesitate and hinder.",
+  "pronounciation": "/bɔk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/balk_us_1.mp3"
+}

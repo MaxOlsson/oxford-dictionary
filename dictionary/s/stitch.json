@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A loop of thread or yarn resulting from a single pass or movement of the needle in sewing, knitting, or crocheting.",
+      "examples": []
+    },
+    {
+      "description": "A sudden sharp pain in the side of the body, caused by strenuous exercise.",
+      "examples": [
+        "she ran with a stitch in her side"
+      ],
+      "synonyms": [
+        "sharp pain",
+        "stabbing pain",
+        "shooting pain",
+        "stab of pain",
+        "pang",
+        "twinge",
+        "spasm"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make, mend, or join (something) with stitches.",
+      "examples": [
+        "stitch a plain seam with right sides together",
+        "they stitched the cut on her face",
+        "hand-stitched English dresses"
+      ],
+      "synonyms": [
+        "sew",
+        "baste",
+        "tack",
+        "seam",
+        "hem"
+      ]
+    }
+  ],
+  "phrases": [
+    "his unique brand of droll self-mockery had his audiences in stitches",
+    "The actor-comedian kept the graduates and crowd of 30,000 in stitches.",
+    "It worked so well: the entire area was in stitches laughing, myself included.",
+    "We were in stitches at the idea of him suddenly recognising in horror that the grubby waif loitering around Grand Central for a cheap meal was actually his petite cousin.",
+    "The glorious absurdity of that one line had me in stitches."
+  ],
+  "origin": "Old English stice a puncture, stabbing pain, of Germanic origin; related to German Stich a sting, prick, also to stick. The sense loop (in sewing etc.) arose in Middle English.",
+  "pronounciation": "/stɪtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stitch_us_1.mp3"
+}

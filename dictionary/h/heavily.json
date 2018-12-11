@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "To a great degree; in large amounts.",
+      "examples": [
+        "it was raining heavily",
+        "he had been drinking heavily for six months",
+        "she is heavily pregnant"
+      ],
+      "synonyms": [
+        "laboriously",
+        "slowly",
+        "ponderously",
+        "steadily",
+        "deliberately",
+        "woodenly",
+        "stiffly",
+        "with heavy steps",
+        "with leaden steps"
+      ]
+    },
+    {
+      "description": "With a lot of force or effort; with weight.",
+      "examples": [
+        "she fell heavily to the ground",
+        "he sat down heavily in the chair"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhɛvəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heavily_us_1.mp3"
+}

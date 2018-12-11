@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Unfasten (a clasp or similar device)",
+      "examples": [
+        "they unclasped their seat belts"
+      ],
+      "synonyms": [
+        "remove",
+        "detach",
+        "disentangle",
+        "extricate",
+        "separate",
+        "release",
+        "loosen",
+        "loose",
+        "disconnect",
+        "unfasten",
+        "uncouple",
+        "decouple",
+        "undo",
+        "unhook",
+        "unloose",
+        "unhitch",
+        "untie",
+        "unyoke",
+        "disentwine"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈklæsp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unclasp_us_2.mp3"
+}

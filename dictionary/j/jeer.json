@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Make rude and mocking remarks, typically in a loud voice.",
+      "examples": [
+        "some of the younger men jeered at him"
+      ],
+      "synonyms": [
+        "taunt",
+        "mock",
+        "scoff at",
+        "ridicule",
+        "laugh at",
+        "sneer at",
+        "deride",
+        "tease",
+        "insult",
+        "abuse",
+        "jibe",
+        "jibe at",
+        "scorn",
+        "shout disapproval",
+        "shout disapproval at"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rude and mocking remark.",
+      "examples": [],
+      "synonyms": [
+        "taunt",
+        "sneer",
+        "insult",
+        "shout",
+        "jibe",
+        "boo",
+        "hiss",
+        "catcall"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: of unknown origin.",
+  "pronounciation": "/jir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jeer_us_1.mp3"
+}

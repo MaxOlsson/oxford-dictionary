@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "One of two children or animals born at the same birth.",
+      "examples": [],
+      "synonyms": [
+        "identical twins",
+        "non-identical twins",
+        "fraternal twins"
+      ]
+    },
+    {
+      "description": "Something containing or consisting of two matching or corresponding parts.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Forming, or being one of, a pair born at one birth.",
+      "examples": [
+        "she gave birth to twin boys",
+        "her twin sister"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Link; combine.",
+      "examples": [
+        "the company twinned its core business of brewing with that of distilling"
+      ],
+      "synonyms": [
+        "combine",
+        "join",
+        "link",
+        "couple",
+        "pair",
+        "yoke",
+        "match"
+      ]
+    }
+  ],
+  "origin": "Late Old English twinn double, from twi- two; related to Old Norse tvinnr. Current verb senses date from late Middle English.",
+  "pronounciation": "/twɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/twin_us_1.mp3"
+}

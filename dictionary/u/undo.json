@@ -1,0 +1,98 @@
+{
+  "verb": [
+    {
+      "description": "Unfasten, untie, or loosen (something)",
+      "examples": [
+        "the knot was difficult to undo"
+      ],
+      "synonyms": [
+        "unfasten",
+        "unbutton",
+        "unhook",
+        "untie",
+        "unlace"
+      ]
+    },
+    {
+      "description": "Cancel or reverse the effects or results of (a previous action or measure)",
+      "examples": [
+        "there wasn't any way Evelyn could undo the damage"
+      ],
+      "synonyms": [
+        "revoke",
+        "overrule",
+        "overturn",
+        "repeal",
+        "rescind",
+        "reverse",
+        "retract",
+        "take back",
+        "rule against",
+        "disallow",
+        "veto",
+        "countermand",
+        "cancel",
+        "annul",
+        "nullify",
+        "render null and void",
+        "invalidate",
+        "render invalid",
+        "negate",
+        "abrogate",
+        "disestablish",
+        "make ineffective",
+        "set aside",
+        "do away with",
+        "wipe out",
+        "bring to an end"
+      ]
+    },
+    {
+      "description": "Cause the downfall or ruin of.",
+      "examples": [
+        "Iago's hatred of women undoes him"
+      ],
+      "synonyms": [
+        "ruin",
+        "undermine",
+        "put an end to",
+        "put at risk",
+        "subvert",
+        "overturn",
+        "topple",
+        "scupper",
+        "scotch",
+        "sabotage",
+        "spoil",
+        "mess up",
+        "make a mess of",
+        "quash",
+        "squelch",
+        "crush",
+        "harm",
+        "cripple",
+        "impair",
+        "mar",
+        "destroy",
+        "devastate",
+        "play havoc with",
+        "wreck",
+        "smash",
+        "shatter",
+        "annihilate",
+        "eradicate",
+        "obliterate",
+        "defeat"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A feature of a computer program that allows a user to cancel or reverse the last one or more commands executed.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English undōn (see un-, do).",
+  "pronounciation": "/ˌənˈdu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undo_us_1.mp3"
+}

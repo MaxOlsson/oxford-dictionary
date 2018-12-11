@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "Used in academic or legal texts to refer to someone or something mentioned above or earlier.",
+      "examples": [
+        "the recent work by McAuslan and others (supra)"
+      ],
+      "synonyms": [
+        "foregoing",
+        "previous",
+        "prior",
+        "former",
+        "precursory",
+        "earlier",
+        "above",
+        "above-mentioned",
+        "aforementioned",
+        "above-stated",
+        "above-named",
+        "antecedent"
+      ]
+    }
+  ],
+  "origin": "Latin.",
+  "pronounciation": "/ˈso͞oprə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/supra_us_1.mp3"
+}

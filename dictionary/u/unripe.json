@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Not ripe.",
+      "examples": [
+        "unripe fruit"
+      ],
+      "synonyms": [
+        "immature",
+        "unready",
+        "not ripe",
+        "undeveloped",
+        "unfinished",
+        "incomplete",
+        "half-grown",
+        "unmellowed",
+        "green",
+        "sour"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈrīp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unripe_us_1.mp3"
+}

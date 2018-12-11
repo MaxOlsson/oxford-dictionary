@@ -1,0 +1,102 @@
+{
+  "noun": [
+    {
+      "description": "A formal request to an authority for something.",
+      "examples": [
+        "an application for leave",
+        "an application form",
+        "an application to join the forum"
+      ],
+      "synonyms": [
+        "request",
+        "appeal",
+        "petition",
+        "entreaty",
+        "plea",
+        "solicitation",
+        "supplication",
+        "requisition",
+        "suit",
+        "approach",
+        "enquiry",
+        "claim",
+        "demand"
+      ]
+    },
+    {
+      "description": "The action of putting something into operation.",
+      "examples": [
+        "the application of general rules to particular cases",
+        "massage has far-reaching medical applications"
+      ],
+      "synonyms": [
+        "implementation",
+        "use",
+        "exercise",
+        "employment",
+        "administration",
+        "utilization",
+        "practice",
+        "applying",
+        "discharge",
+        "exertion",
+        "execution",
+        "prosecution",
+        "enactment",
+        "carrying out",
+        "accomplishment",
+        "putting into operation",
+        "putting into practice"
+      ]
+    },
+    {
+      "description": "The action of putting something on a surface.",
+      "examples": [
+        "paints suitable for application on fabric",
+        "a fresh application of makeup"
+      ],
+      "synonyms": [
+        "putting on",
+        "rubbing in",
+        "spreading",
+        "smearing"
+      ]
+    },
+    {
+      "description": "Sustained effort; hard work.",
+      "examples": [
+        "the job takes a great deal of patience and application"
+      ],
+      "synonyms": [
+        "diligence",
+        "industriousness",
+        "industry",
+        "assiduity",
+        "commitment",
+        "dedication",
+        "devotion",
+        "conscientiousness",
+        "perseverance",
+        "persistence",
+        "tenacity",
+        "doggedness",
+        "sedulousness"
+      ]
+    },
+    {
+      "description": "A program or piece of software designed and written to fulfill a particular purpose of the user.",
+      "examples": [
+        "a database application"
+      ],
+      "synonyms": [
+        "program",
+        "software",
+        "routine",
+        "use"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin applicatio(n-), from the verb applicare (see apply).",
+  "pronounciation": "/ˌæpləˈkeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/application_us_1.mp3"
+}

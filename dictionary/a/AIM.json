@@ -1,0 +1,96 @@
+{
+  "verb": [
+    {
+      "description": "Point or direct (a weapon or camera) at a target.",
+      "examples": [
+        "aim the camcorder at some suitable object",
+        "aim for the middle of the target"
+      ],
+      "synonyms": [
+        "point",
+        "direct",
+        "train",
+        "sight",
+        "focus",
+        "level",
+        "line up",
+        "position"
+      ]
+    },
+    {
+      "description": "Have the intention of achieving.",
+      "examples": [
+        "we aim to give you the best possible service",
+        "new French cooking aims at producing clear, fresh flavors and light textures"
+      ],
+      "synonyms": [
+        "work towards",
+        "be after",
+        "set one's sights on",
+        "try for",
+        "strive for",
+        "pursue",
+        "seek",
+        "aspire to",
+        "endeavour to achieve",
+        "have in view",
+        "have designs on",
+        "wish for",
+        "want"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A purpose or intention; a desired outcome.",
+      "examples": [
+        "our primary aim is to achieve financial discipline"
+      ],
+      "synonyms": [
+        "objective",
+        "object",
+        "goal",
+        "end",
+        "target",
+        "grail",
+        "holy grail",
+        "design",
+        "desire",
+        "desired result",
+        "intention",
+        "intent",
+        "plan",
+        "purpose",
+        "idea",
+        "point",
+        "object of the exercise"
+      ]
+    },
+    {
+      "description": "The directing of a weapon or object at a target.",
+      "examples": [
+        "his aim was perfect, and the guard's body collapsed backward"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "American Indian Movement.",
+      "examples": []
+    },
+    {
+      "description": "Alternative Investment Market (a subsidiary market of the London Stock Exchange that allows small companies to be traded without the expense of a full market listing).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I won't make any rash predictions, but we will be aiming high.",
+    "You must aim high - Irish firms must try to be the very best in our globalised world, said Mr. Cronin.",
+    "It's not a great film, but it leaves you with some great moments and aims high.",
+    "The veteran defender said: I'm sure the club will be aiming high, especially after the euphoria of promotion last year.",
+    "One who aims high for the future must not be concerned with present loss or gain."
+  ],
+  "origin": "Middle English: from Old French amer, variant of esmer (from Latin aestimare assess, estimate), reinforced by aemer, aesmer (from late Latin adaestimare, intensified form of aestimare).",
+  "pronounciation": "/ām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aim_us_1.mp3"
+}

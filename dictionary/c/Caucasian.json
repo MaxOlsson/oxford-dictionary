@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "White-skinned; of European origin.",
+      "examples": [
+        "twenty of the therapists were Caucasian, two were African American, and two were Hispanic"
+      ]
+    },
+    {
+      "description": "Relating to the Caucasus.",
+      "examples": []
+    },
+    {
+      "description": "Relating to a group of languages spoken in the region of the Caucasus, of which thirty-eight are known, many not committed to writing. The most widely spoken is Georgian, of the small South Caucasian family, not related to the three North Caucasian families.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A white person; a person of European origin.",
+      "examples": [
+        "the man is described as being a 50-year-old Caucasian with a full head of graying hair"
+      ]
+    },
+    {
+      "description": "A person from the Caucasus.",
+      "examples": [
+        "the Caucasians of Southern Russia"
+      ]
+    }
+  ],
+  "pronounciation": "/kôˈkāZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caucasian_us_2.mp3"
+}

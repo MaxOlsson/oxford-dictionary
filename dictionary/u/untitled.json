@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of a book, composition, or other artistic work) having no name.",
+      "examples": [],
+      "synonyms": [
+        "unnamed",
+        "unidentified",
+        "anonymous",
+        "incognito",
+        "unspecified",
+        "unacknowledged",
+        "uncredited"
+      ]
+    },
+    {
+      "description": "(of a person) not having a title indicating high social or official rank.",
+      "examples": [
+        "lesser untitled officials"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtaɪdld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untitled_us_1.mp3"
+}

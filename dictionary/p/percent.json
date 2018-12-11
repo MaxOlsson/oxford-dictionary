@@ -1,0 +1,22 @@
+{
+  "adverb": [
+    {
+      "description": "By a specified amount in or for every hundred.",
+      "examples": [
+        "new car sales may be down nineteen percent",
+        "staff rejected a 1.8 percent increase"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "One part in every hundred.",
+      "examples": [
+        "a reduction of half a percent or so in price"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from per + cent, perhaps an abbreviation of pseudo-Latin per centum.",
+  "pronounciation": "/pərˈsɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/per_cent_1_us_1.mp3"
+}

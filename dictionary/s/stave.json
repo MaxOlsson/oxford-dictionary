@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "A vertical wooden post or plank in a building or other structure.",
+      "examples": [],
+      "synonyms": [
+        "post",
+        "pole",
+        "stick",
+        "spike",
+        "upright",
+        "support",
+        "prop",
+        "strut",
+        "stave",
+        "pale",
+        "paling",
+        "picket",
+        "pile",
+        "piling",
+        "stanchion",
+        "shaft",
+        "cane",
+        "beanpole",
+        "rod",
+        "mast"
+      ]
+    },
+    {
+      "description": "A verse or stanza of a poem.",
+      "examples": []
+    },
+    {
+      "synonyms": [
+        "stanza",
+        "strophe",
+        "stave",
+        "canto"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Break something by forcing it inward or piercing it roughly.",
+      "examples": [
+        "the door was staved in"
+      ],
+      "synonyms": [
+        "break in",
+        "smash in",
+        "put a hole in",
+        "push in",
+        "kick in",
+        "cave in",
+        "splinter",
+        "shiver",
+        "fracture"
+      ]
+    },
+    {
+      "description": "Avert or delay something bad or dangerous.",
+      "examples": [
+        "a reassuring presence can stave off a panic attack"
+      ],
+      "synonyms": [
+        "avert",
+        "prevent",
+        "avoid",
+        "preclude",
+        "rule out",
+        "counter",
+        "forestall",
+        "nip in the bud"
+      ]
+    }
+  ],
+  "origin": "Middle English: back-formation from staves, archaic plural of staff. Current senses of the verb date from the early 17th century.",
+  "pronounciation": "/steɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stave_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Dark; shadowy or obscure.",
+      "examples": [
+        "the tenebrous spiral staircase of the self"
+      ],
+      "synonyms": [
+        "indistinct",
+        "faint",
+        "vague",
+        "ill-defined",
+        "unclear",
+        "blurred",
+        "blurry",
+        "misty",
+        "hazy",
+        "foggy",
+        "veiled",
+        "cloudy",
+        "clouded",
+        "nebulous",
+        "fuzzy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin tenebrosus, from tenebrae darkness.",
+  "pronounciation": "/ˈtenəbrəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tenebrous_us_1.mp3"
+}

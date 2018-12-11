@@ -1,0 +1,148 @@
+{
+  "verb": [
+    {
+      "description": "Make a light explosive sound.",
+      "examples": [
+        "corks popped, glasses tinkled, and delicate canapés were served"
+      ],
+      "synonyms": [
+        "go bang",
+        "go off with a bang",
+        "go off",
+        "crack",
+        "snap",
+        "burst",
+        "explode"
+      ]
+    },
+    {
+      "description": "Go somewhere for a short time, often without notice.",
+      "examples": [
+        "she popped in to see if she could help"
+      ],
+      "synonyms": [
+        "go",
+        "drop by",
+        "drop in",
+        "drop into",
+        "drop round",
+        "stop by",
+        "visit"
+      ]
+    },
+    {
+      "description": "(of a person's eyes) bulge or appear to bulge when opened wide, especially as an indication of surprise.",
+      "examples": []
+    },
+    {
+      "description": "Appear brighter or more striking in juxtaposition with something of a different or complementary color.",
+      "examples": [
+        "she added a slick of red lipstick to make the outfit pop",
+        "gray creates a calm, neutral backdrop that lets other colors pop"
+      ]
+    },
+    {
+      "description": "Take or inject (a drug)",
+      "examples": [
+        "people who obsessively drink and pop pills"
+      ]
+    },
+    {
+      "description": "Pawn (something).",
+      "examples": []
+    },
+    {
+      "description": "(of a batter) hit a pop fly.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A light explosive sound.",
+      "examples": [
+        "at first there were just a few pops, perhaps from pistols"
+      ],
+      "synonyms": [
+        "bang",
+        "crack",
+        "snap",
+        "boom",
+        "explosion",
+        "report"
+      ]
+    },
+    {
+      "description": "A carbonated soft drink.",
+      "examples": [],
+      "synonyms": [
+        "fizzy drink",
+        "soft drink",
+        "carbonated drink"
+      ]
+    },
+    {
+      "description": "A patch of bright color.",
+      "examples": [
+        "I like wearing a neutral outfit with one pop of yellow"
+      ]
+    },
+    {
+      "description": "A ball hit high in the air but not deep, providing an easy catch.",
+      "examples": []
+    },
+    {
+      "description": "An attempt.",
+      "examples": [
+        "he grabs with a paw and hooks about two hundred berries at a pop"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a light explosive sound.",
+      "examples": [
+        "the champagne went pop"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to commercial popular music.",
+      "examples": [
+        "a pop singer",
+        "a pop song"
+      ]
+    },
+    {
+      "description": "(especially of a technical, scientific, or academic subject) made accessible to the general public; popularized.",
+      "examples": [
+        "pop psychology"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Point of presence, denoting equipment that acts as access to the Internet.",
+      "examples": []
+    },
+    {
+      "description": "Point of purchase, denoting products or promotions located adjacent to a retail checkout or cashier.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "those swimsuits she wears are $50 a pop",
+    "For 99 cents a pop, plus a monthly download fee, you can store a file wherever you'd like.",
+    "The sodas were free, but the booze was four dollars a pop.",
+    "And by then Edison's stock, which had traded as high as $23 a share in the glory days of 2001, was chugging along at 85 cents a pop.",
+    "They spend the time writing, producing and recording the songs and I pay 15 dollars a pop to say thank you.",
+    "Raymond Brown also died recently; all these great guys have all just popped off.",
+    "I felt like cheering when she finally popped off.",
+    "I just want there to be street parties when he pops off.",
+    "I've been thinking about it a lot—I don't want you to imagine I'm just popping off",
+    "But what I'm wondering is, is this going to make people at home when they see various pundits popping off on shows say, I wonder who is paying that guy?"
+  ],
+  "origin": "Late 19th century: originally (in ice pop) shortened from lollipop; in later use probably shortened from Popsicle.",
+  "pronounciation": "/päp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pop_1_us_1.mp3"
+}

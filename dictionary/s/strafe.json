@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Attack repeatedly with bombs or machine-gun fire from low-flying aircraft.",
+      "examples": [
+        "military aircraft strafed the village"
+      ],
+      "synonyms": [
+        "explosive",
+        "incendiary device",
+        "incendiary",
+        "device"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An attack from low-flying aircraft.",
+      "examples": [],
+      "synonyms": [
+        "shelling",
+        "strafing",
+        "pounding",
+        "pelting",
+        "blitz",
+        "air raid",
+        "strafe",
+        "bombing"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: humorous adaptation of the German First World War catchphrase Gott strafe England may God punish England.",
+  "pronounciation": "/strāf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strafe_us_1.mp3"
+}

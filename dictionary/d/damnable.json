@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely bad or unpleasant.",
+      "examples": [
+        "leave this damnable place behind"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "disagreeable",
+        "objectionable",
+        "offensive",
+        "execrable",
+        "horrible",
+        "horrid",
+        "ghastly",
+        "awful",
+        "nasty",
+        "dreadful",
+        "terrible"
+      ]
+    },
+    {
+      "description": "Subject to or worthy of divine condemnation.",
+      "examples": [
+        "suicide was thought damnable in the Middle Ages"
+      ],
+      "synonyms": [
+        "accursed",
+        "cursed",
+        "under a curse",
+        "damned",
+        "diabolical",
+        "devilish",
+        "demonic",
+        "demoniac",
+        "fiendish",
+        "mephistophelian",
+        "hellish",
+        "infernal",
+        "execrable",
+        "base",
+        "wicked",
+        "evil",
+        "sinful",
+        "iniquitous",
+        "heinous"
+      ]
+    }
+  ],
+  "origin": "Middle English (in damnable (sense 2)): from Old French dam(p)nable, from Latin dam(p)nabilis, from dam(p)nare inflict loss on (see damn).",
+  "pronounciation": "/ˈdamnəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/damnable_us_1.mp3"
+}

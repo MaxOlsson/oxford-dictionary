@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Just mentioned or stated; preceding.",
+      "examples": [
+        "the foregoing discussion has juxtaposed management and owner control"
+      ],
+      "synonyms": [
+        "preceding",
+        "aforesaid",
+        "aforementioned",
+        "previously mentioned",
+        "earlier",
+        "above",
+        "above-stated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The things just mentioned or stated.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfɔrɡoʊɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foregoing_us_1.mp3"
+}

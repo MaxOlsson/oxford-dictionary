@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Fit to be eaten (often used to contrast with unpalatable or poisonous examples)",
+      "examples": [
+        "nasturtium seeds are edible"
+      ],
+      "synonyms": [
+        "safe to eat",
+        "fit to eat",
+        "fit to be eaten",
+        "fit for human consumption",
+        "wholesome",
+        "good to eat",
+        "consumable",
+        "digestible",
+        "palatable",
+        "comestible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Items of food.",
+      "examples": [],
+      "synonyms": [
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from late Latin edibilis, from Latin edere eat.",
+  "pronounciation": "/ˈedəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/edible_us_1.mp3"
+}

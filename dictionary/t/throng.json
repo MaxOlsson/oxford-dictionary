@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A large, densely packed crowd of people or animals.",
+      "examples": [
+        "he pushed his way through the throng",
+        "a throng of birds"
+      ],
+      "synonyms": [
+        "crowd",
+        "mass",
+        "multitude",
+        "horde",
+        "host",
+        "mob",
+        "assemblage",
+        "gathering",
+        "congregation",
+        "crush",
+        "press",
+        "body",
+        "band",
+        "army",
+        "troop",
+        "legion",
+        "gang",
+        "stream",
+        "swarm",
+        "flock",
+        "bevy",
+        "herd",
+        "pack",
+        "drove",
+        "array",
+        "sea",
+        "myriad",
+        "pile"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a crowd) fill or be present in (a place or area)",
+      "examples": [
+        "a crowd thronged the station",
+        "the streets are thronged with people"
+      ],
+      "synonyms": [
+        "pack",
+        "pack into",
+        "cram",
+        "cram into",
+        "jam",
+        "fill",
+        "press into",
+        "squeeze into"
+      ]
+    }
+  ],
+  "origin": "Old English (ge)thrang crowd, tumult, of Germanic origin. The early sense of the verb ( Middle English) was press violently, force one's way.",
+  "pronounciation": "/THrôNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/throng_us_1_rr.mp3"
+}

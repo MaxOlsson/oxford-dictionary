@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Type over (another character)",
+      "examples": [
+        "overtype it with the correct number and press Return"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈtīp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overtype_us_1.mp3"
+}

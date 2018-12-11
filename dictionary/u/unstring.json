@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Remove from a string.",
+      "examples": [
+        "unstringing the beads from the rosary"
+      ]
+    },
+    {
+      "description": "Remove or relax the string or strings of (a bow or musical instrument).",
+      "examples": []
+    },
+    {
+      "description": "Unnerve.",
+      "examples": [
+        "a mind unstrung by loneliness"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈstrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unstring_us_1.mp3"
+}

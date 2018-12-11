@@ -1,0 +1,89 @@
+{
+  "verb": [
+    {
+      "description": "Be aware of (a person or object) through touching or being touched.",
+      "examples": [
+        "she felt someone touch her shoulder"
+      ],
+      "synonyms": [
+        "perceive",
+        "sense",
+        "detect",
+        "discern",
+        "make out",
+        "notice",
+        "observe",
+        "identify"
+      ]
+    },
+    {
+      "description": "Experience (an emotion or sensation)",
+      "examples": [
+        "I felt a sense of excitement",
+        "we feel very strongly about freedom of expression",
+        "I felt angry and humiliated"
+      ],
+      "synonyms": [
+        "experience",
+        "undergo",
+        "go through",
+        "bear",
+        "endure",
+        "suffer",
+        "be forced to contend with"
+      ]
+    },
+    {
+      "description": "Have a belief or impression, especially without an identifiable reason.",
+      "examples": [
+        "she felt that the woman positively disliked her"
+      ],
+      "synonyms": [
+        "sense",
+        "have a feeling",
+        "get the impression",
+        "feel in one's bones",
+        "have a hunch",
+        "have a funny feeling",
+        "just know",
+        "intuit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of touching something to examine it.",
+      "examples": []
+    },
+    {
+      "description": "A sensation given by an object or material when touched.",
+      "examples": [
+        "nylon cloth with a cotton feel"
+      ],
+      "synonyms": [
+        "texture",
+        "surface",
+        "finish",
+        "grain",
+        "nap"
+      ]
+    },
+    {
+      "description": "Feelings of heightened emotion.",
+      "examples": [
+        "fans will undoubtedly get the feels when they see how things haven't changed",
+        "I cried a ton because I had too many feels"
+      ]
+    }
+  ],
+  "phrases": [
+    "I most certainly do not feel my age but we are made to feel that we are well and truly past it.",
+    "He doesn't feel his age, 61, and loves performing and meeting the fans that still flock to these performances.",
+    "He misses her terribly, and for the first time, he is truly feeling his age.",
+    "feel free to say what you like",
+    "A manager told me that the lifeguards were confused, that it was not club policy, and that I should feel free to stay."
+  ],
+  "origin": "Old English fēlan, of West Germanic origin; related to Dutch voelen and German fühlen.",
+  "pronounciation": "/fil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feel_us_1.mp3"
+}

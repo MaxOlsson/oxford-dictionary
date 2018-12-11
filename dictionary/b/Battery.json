@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.",
+      "examples": [
+        "battery power"
+      ],
+      "synonyms": [
+        "cell",
+        "accumulator",
+        "power unit"
+      ]
+    },
+    {
+      "description": "A fortified emplacement for heavy guns.",
+      "examples": []
+    },
+    {
+      "description": "A set of units of equipment, typically when connected together.",
+      "examples": [
+        "a battery of equipment to monitor blood pressure"
+      ],
+      "synonyms": [
+        "array",
+        "set",
+        "bank",
+        "group",
+        "row",
+        "line",
+        "line-up",
+        "raft",
+        "collection",
+        "assortment"
+      ]
+    },
+    {
+      "description": "The crime or tort of unconsented physical contact with another person, even where the contact is not violent but merely menacing or offensive.",
+      "examples": [],
+      "synonyms": [
+        "violence",
+        "assault",
+        "mugging"
+      ]
+    },
+    {
+      "description": "The pitcher and the catcher in a game, considered as a unit.",
+      "examples": []
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A historic area at the southern end of Manhattan Island in New York City.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French baterie, from battre to strike, from Latin battuere. The original sense was metal articles wrought by hammering, later a number of pieces of artillery used together, whence a number of Leyden jars connected up so as to discharge simultaneously (mid 18th century), giving rise to battery (sense 1).",
+  "pronounciation": "/ˈbædəri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/battery_us_2.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "The conditions under which land or buildings are held or occupied.",
+      "examples": [],
+      "synonyms": [
+        "tenancy",
+        "occupancy",
+        "holding",
+        "occupation",
+        "residence"
+      ]
+    },
+    {
+      "description": "The holding of an office.",
+      "examples": [
+        "his tenure of the premiership would be threatened"
+      ],
+      "synonyms": [
+        "incumbency",
+        "term of office",
+        "term",
+        "period in office",
+        "period of office",
+        "time",
+        "time in office"
+      ]
+    },
+    {
+      "description": "Guaranteed permanent employment, especially as a teacher or professor, after a probationary period.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give (someone) a permanent post, especially as a teacher or professor.",
+      "examples": [
+        "I had recently been tenured and then promoted to full professor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from tenir to hold, from Latin tenere.",
+  "pronounciation": "/ˈtɛnjər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tenure_us_1.mp3"
+}

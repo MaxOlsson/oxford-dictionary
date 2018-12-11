@@ -1,0 +1,61 @@
+{
+  "noun": [
+    {
+      "description": "A gentle easy trot.",
+      "examples": [],
+      "synonyms": [
+        "run",
+        "jogtrot",
+        "dogtrot",
+        "trot",
+        "lope"
+      ]
+    },
+    {
+      "description": "(in the southern US) an open-ended passage that runs through the center of a house, flanked by two enclosed living spaces.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move at a dogtrot.",
+      "examples": [
+        "they dogtrotted back up the path"
+      ],
+      "synonyms": [
+        "sprint",
+        "race",
+        "dart",
+        "rush",
+        "dash",
+        "hasten",
+        "hurry",
+        "scurry",
+        "scuttle",
+        "scamper",
+        "hare",
+        "bolt",
+        "bound",
+        "fly",
+        "gallop",
+        "career",
+        "charge",
+        "pound",
+        "shoot",
+        "hurtle",
+        "speed",
+        "streak",
+        "whizz",
+        "zoom",
+        "sweep",
+        "go like lightning",
+        "go hell for leather",
+        "go like the wind",
+        "flash",
+        "double"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdɑɡtrɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dogtrot_us_1.mp3"
+}

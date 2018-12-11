@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "Captions displayed at the bottom of a movie or television screen that translate or transcribe the dialogue or narrative.",
+      "examples": []
+    },
+    {
+      "description": "A subordinate title of a published work or article giving additional information about its content.",
+      "examples": [],
+      "synonyms": [
+        "caption",
+        "inscription",
+        "dedication",
+        "motto",
+        "slogan",
+        "device",
+        "heading",
+        "head",
+        "title",
+        "wording",
+        "subheading",
+        "rubric",
+        "colophon"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a movie or program) with subtitles.",
+      "examples": [
+        "much of the film is subtitled"
+      ]
+    },
+    {
+      "description": "Provide (a published work or article) with a subtitle.",
+      "examples": [
+        "the novel was aptly subtitled"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəbˌtaɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/subtitle_us_1.mp3"
+}

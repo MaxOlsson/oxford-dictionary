@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A simplified drawing showing the appearance, structure, or workings of something; a schematic representation.",
+      "examples": [
+        "a diagram of the living room"
+      ],
+      "synonyms": [
+        "drawing",
+        "line drawing",
+        "illustration",
+        "picture",
+        "artist's impression"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Represent (something) in graphic form.",
+      "examples": [
+        "the experiment is diagramed on page fourteen"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin diagramma, from Greek, from diagraphein mark out by lines, from dia through + graphein write.",
+  "pronounciation": "/ˈdīəˌɡram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diagram_us_1.mp3"
+}

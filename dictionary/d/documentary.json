@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of official pieces of written, printed, or other matter.",
+      "examples": [
+        "his book is based on documentary sources"
+      ],
+      "synonyms": [
+        "recorded",
+        "documented",
+        "registered",
+        "written",
+        "chronicled",
+        "archived",
+        "archive",
+        "on record",
+        "in writing",
+        "on paper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A movie or a television or radio program that provides a factual record or report.",
+      "examples": [],
+      "synonyms": [
+        "factual programme",
+        "factual film"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from document + -ary.",
+  "pronounciation": "/ˌdɑkjəˈmɛnt(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/documentary_us_1.mp3"
+}

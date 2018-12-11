@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Not having interest in or enthusiasm for something, especially work or study.",
+      "examples": [],
+      "synonyms": [
+        "uninterested",
+        "indifferent",
+        "unconcerned",
+        "unmoved",
+        "unresponsive",
+        "impassive",
+        "passive",
+        "detached",
+        "uninvolved",
+        "disinterested",
+        "unfeeling",
+        "unemotional",
+        "emotionless",
+        "dispassionate",
+        "lukewarm",
+        "cool",
+        "uncaring",
+        "half-hearted",
+        "lackadaisical",
+        "non-committal"
+      ]
+    },
+    {
+      "description": "Without a reason or motive.",
+      "examples": [
+        "an unmotivated attack"
+      ],
+      "synonyms": [
+        "capricious",
+        "whimsical",
+        "random",
+        "chance",
+        "erratic",
+        "unpredictable",
+        "inconsistent",
+        "wild",
+        "hit-or-miss",
+        "haphazard",
+        "casual"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈmōdəˌvādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unmotivated_us_1.mp3"
+}

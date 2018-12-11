@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Point out; show.",
+      "examples": [
+        "dotted lines indicate the text's margins"
+      ],
+      "synonyms": [
+        "designate",
+        "specify",
+        "stipulate"
+      ]
+    },
+    {
+      "description": "Suggest as a desirable or necessary course of action.",
+      "examples": [
+        "the treatment is likely to be indicated in severely depressed patients"
+      ],
+      "synonyms": [
+        "advisable",
+        "desirable",
+        "recommended",
+        "suggested",
+        "desired",
+        "preferable",
+        "best",
+        "sensible",
+        "wise",
+        "commonsensical",
+        "prudent"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin indicat- pointed out, from the verb indicare, from in- towards + dicare make known.",
+  "pronounciation": "/ˈɪndəˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indicate_us_1.mp3"
+}

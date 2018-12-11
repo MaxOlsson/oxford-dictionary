@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Be unsuccessful in achieving one's goal.",
+      "examples": [
+        "he failed in his attempt to secure election",
+        "they failed to be ranked in the top ten"
+      ]
+    },
+    {
+      "description": "Neglect to do something.",
+      "examples": [
+        "the firm failed to give adequate risk warnings"
+      ]
+    },
+    {
+      "description": "Break down; cease to work well.",
+      "examples": [
+        "a truck whose brakes had failed"
+      ],
+      "synonyms": [
+        "break down",
+        "break",
+        "stop working",
+        "cease to function",
+        "cut out",
+        "stop",
+        "stall",
+        "crash",
+        "give out"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A grade that is not high enough to pass an examination or test.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he caused a stir earlier this month when he said that no company was too big to fail",
+    "For decades, governments across the West have permitted the creation of moral hazard in the banking system by encouraging the belief that banks are too big to fail.",
+    "Today, leveraged speculation has become \"too big to fail.\"",
+    "And the greater the accumulation of foreign liabilities, the more the Monetary Regime became \"too big to fail.\"",
+    "This environment is bringing new meaning to the doctrine of \"Too Big to Fail.\""
+  ],
+  "origin": "Middle English: from Old French faillir (verb), faille (noun), based on Latin fallere deceive.",
+  "pronounciation": "/feɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fail_us_1.mp3"
+}

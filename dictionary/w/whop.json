@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Hit hard.",
+      "examples": [
+        "Smith whopped him on the nose"
+      ],
+      "synonyms": [
+        "cuff",
+        "strike",
+        "hit",
+        "thump",
+        "slap",
+        "smack",
+        "crack",
+        "swat",
+        "punch",
+        "jab",
+        "knock",
+        "thwack",
+        "bang",
+        "wallop",
+        "batter",
+        "pummel",
+        "buffet"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heavy blow, or the sound of such a blow.",
+      "examples": [],
+      "synonyms": [
+        "cuff",
+        "hit",
+        "thump",
+        "slap",
+        "smack",
+        "crack",
+        "swat",
+        "punch",
+        "fist",
+        "jab",
+        "hook",
+        "knock",
+        "thwack",
+        "bang",
+        "wallop"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense take or put sharply): variant of dialect wap strike, of unknown origin.",
+  "pronounciation": "/(h)wɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whop_us_1.mp3"
+}

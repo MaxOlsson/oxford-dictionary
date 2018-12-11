@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not filled.",
+      "examples": [
+        "12% of IT jobs in the city are unfilled"
+      ],
+      "synonyms": [
+        "empty",
+        "unoccupied",
+        "free",
+        "available",
+        "not in use",
+        "unused",
+        "unengaged",
+        "uninhabited",
+        "untenanted",
+        "tenantless",
+        "to let",
+        "for sale",
+        "on the market",
+        "abandoned",
+        "deserted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈfild/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unfilled_us_1.mp3"
+}

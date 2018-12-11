@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Use deception to deprive (someone) of money or possessions.",
+      "examples": [
+        "a businessman swindled investors out of millions of dollars"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fraudulent scheme or action.",
+      "examples": [
+        "he is mixed up in a $10 million insurance swindle"
+      ],
+      "synonyms": [
+        "fraud",
+        "trick",
+        "deception",
+        "deceit",
+        "trickery",
+        "chicanery",
+        "exploitation",
+        "cheat",
+        "imposture",
+        "sham",
+        "sharp practice",
+        "artifice"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: back-formation from swindler, from German Schwindler extravagant maker of schemes, swindler, from schwindeln be giddy, also tell lies.",
+  "pronounciation": "/ˈswindl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swindle_us_1.mp3"
+}

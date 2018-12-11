@@ -1,0 +1,37 @@
+{
+  "adverb": [
+    {
+      "description": "In or into the open air; outside a building or shelter.",
+      "examples": [
+        "it was warm enough to eat outdoors"
+      ],
+      "synonyms": [
+        "outdoors",
+        "out of doors",
+        "out of the house",
+        "on the outside",
+        "externally",
+        "exteriorly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Any area outside buildings or shelter, typically that far away from human habitation.",
+      "examples": [
+        "a lover of the great outdoors"
+      ],
+      "synonyms": [
+        "outside",
+        "outdoors",
+        "out",
+        "in the open air",
+        "into the open air",
+        "al fresco",
+        "out of the house"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoutˈdôrz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outdoors_us_1.mp3"
+}

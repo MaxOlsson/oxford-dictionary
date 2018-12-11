@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling afraid; showing fear or anxiety.",
+      "examples": [
+        "bond traders have remained fearful of inflation",
+        "the mothers were fearful that their daughters would marry and move abroad"
+      ],
+      "synonyms": [
+        "afraid",
+        "frightened",
+        "scared",
+        "scared stiff",
+        "scared to death",
+        "terrified",
+        "petrified"
+      ]
+    },
+    {
+      "description": "Very great.",
+      "examples": [
+        "he could cause a fearful commotion"
+      ],
+      "synonyms": [
+        "very great",
+        "great",
+        "extreme",
+        "real",
+        "dreadful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfirfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fearful_us_1.mp3"
+}

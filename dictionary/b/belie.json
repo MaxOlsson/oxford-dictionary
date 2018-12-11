@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "(of an appearance) fail to give a true notion or impression of (something); disguise or contradict.",
+      "examples": [
+        "his lively, alert manner belied his years"
+      ],
+      "synonyms": [
+        "contradict",
+        "be at odds with",
+        "call into question",
+        "give the lie to",
+        "prove to be false",
+        "show to be false"
+      ]
+    },
+    {
+      "description": "Fail to fulfill or justify (a claim or expectation); betray.",
+      "examples": [
+        "the notebooks belie Darwin's later recollection"
+      ]
+    }
+  ],
+  "origin": "Old English belēogan deceive by lying, from be- about + lēogan to lie. Current senses date from the 17th century.",
+  "pronounciation": "/bəˈlī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/belie_us_1.mp3"
+}

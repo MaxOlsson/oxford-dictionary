@@ -1,0 +1,45 @@
+{
+  "": [],
+  "adjective": [
+    {
+      "description": "Subject to sin or depravity.",
+      "examples": [
+        "fallen human nature"
+      ],
+      "synonyms": [
+        "immoral",
+        "loose",
+        "promiscuous",
+        "unchaste",
+        "sinful",
+        "depraved",
+        "degenerate",
+        "impure",
+        "sullied",
+        "tainted",
+        "dishonoured",
+        "disgraced",
+        "ruined",
+        "shamed"
+      ]
+    },
+    {
+      "description": "(of a soldier) killed in battle.",
+      "examples": [
+        "fallen heroes"
+      ],
+      "synonyms": [
+        "dead",
+        "killed",
+        "murdered",
+        "slain",
+        "slaughtered",
+        "perished",
+        "expired",
+        "deceased"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôlən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fallen_us_3.mp3"
+}

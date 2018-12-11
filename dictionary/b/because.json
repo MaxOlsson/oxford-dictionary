@@ -1,0 +1,30 @@
+{
+  "conjunction": [
+    {
+      "description": "For the reason that; since.",
+      "examples": [
+        "we did it because we felt it our duty",
+        "just because I'm inexperienced doesn't mean that I lack perception"
+      ],
+      "synonyms": [
+        "since",
+        "as",
+        "for the reason that",
+        "in view of the fact that",
+        "owing to the fact that",
+        "seeing as",
+        "seeing that"
+      ]
+    }
+  ],
+  "phrases": [
+    "they moved here because of the baby",
+    "The loss of a handful of email messages because of a technical glitch is an irritation.",
+    "Was this because of the food or were the jumpers on display in the shop the magnet?",
+    "They waded towards the car but could not reach it because of the depth of the water.",
+    "The obvious point being that they were not siding with them because of those values."
+  ],
+  "origin": "Middle English: from the phrase by cause, influenced by Old French par cause de by reason of.",
+  "pronounciation": "/biˈkəz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/because_us_3.mp3"
+}

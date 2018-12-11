@@ -1,0 +1,97 @@
+{
+  "noun": [
+    {
+      "description": "The faculty or state of being able to see.",
+      "examples": [
+        "she had defective vision"
+      ],
+      "synonyms": [
+        "eyesight",
+        "sight",
+        "power of sight",
+        "faculty of sight",
+        "ability to see",
+        "power of seeing",
+        "powers of observation",
+        "observation",
+        "perception",
+        "visual perception"
+      ]
+    },
+    {
+      "description": "The ability to think about or plan the future with imagination or wisdom.",
+      "examples": [
+        "the organization had lost its vision and direction"
+      ],
+      "synonyms": [
+        "imagination",
+        "creativity",
+        "creative power",
+        "inventiveness",
+        "innovation",
+        "inspiration",
+        "intuition",
+        "perceptiveness",
+        "perception",
+        "breadth of view",
+        "foresight",
+        "insight",
+        "far-sightedness",
+        "prescience",
+        "discernment",
+        "awareness",
+        "penetration",
+        "shrewdness",
+        "sharpness",
+        "cleverness"
+      ]
+    },
+    {
+      "description": "An experience of seeing someone or something in a dream or trance, or as a supernatural apparition.",
+      "examples": [
+        "the idea came to him in a vision"
+      ],
+      "synonyms": [
+        "apparition",
+        "spectre",
+        "phantom",
+        "hallucination",
+        "ghost",
+        "wraith",
+        "shadow",
+        "manifestation",
+        "chimera",
+        "illusion",
+        "mirage",
+        "image"
+      ]
+    },
+    {
+      "description": "A person or sight of unusual beauty.",
+      "examples": [],
+      "synonyms": [
+        "beautiful sight",
+        "vision of loveliness",
+        "feast for the eyes",
+        "pleasure to behold",
+        "delight",
+        "dream",
+        "beauty",
+        "spectacle",
+        "picture",
+        "joy",
+        "marvel",
+        "sensation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Imagine.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (denoting a supernatural apparition): via Old French from Latin visio(n-), from videre to see.",
+  "pronounciation": "/ˈviZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vision_us_1.mp3"
+}

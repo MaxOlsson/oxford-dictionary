@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "In a state of sleep.",
+      "examples": [
+        "she had been asleep for over three hours",
+        "a man lay asleep",
+        "he soon fell asleep"
+      ],
+      "synonyms": [
+        "sleeping",
+        "fast asleep",
+        "sound asleep",
+        "in a deep sleep",
+        "slumbering",
+        "napping",
+        "catnapping",
+        "dozing",
+        "resting",
+        "reposing",
+        "drowsing",
+        "dormant",
+        "comatose"
+      ]
+    }
+  ],
+  "phrases": [
+    "let's hope the regulators are not asleep at the wheel",
+    "someone must have been asleep at the switch to allow this",
+    "We've been asleep at the wheel for over forty years, folks.",
+    "As for extras, someone was asleep at the wheel on this disc.",
+    "Nor were our political leaders the only ones asleep at the switch."
+  ],
+  "pronounciation": "/əˈslip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/asleep_us_1.mp3"
+}

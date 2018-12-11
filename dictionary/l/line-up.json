@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A group of people or things brought together for a particular purpose, especially the members of a sports team or a group of musicians or other entertainers.",
+      "examples": [
+        "the instrumental line-up is piano, drums, and lead and bass guitar",
+        "a talented batting line-up"
+      ],
+      "synonyms": [
+        "list of performers",
+        "list",
+        "listing",
+        "cast",
+        "bill",
+        "programme"
+      ]
+    },
+    {
+      "description": "A line or queue of people or things.",
+      "examples": [
+        "hour-long line-ups are common during peak periods"
+      ],
+      "synonyms": [
+        "queue",
+        "line",
+        "row",
+        "column"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlʌɪnʌp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/line_up_1_gb_1.mp3"
+}

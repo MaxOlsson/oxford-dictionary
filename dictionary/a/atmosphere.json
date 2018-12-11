@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "The envelope of gases surrounding the earth or another planet.",
+      "examples": [
+        "part of the sun's energy is absorbed by the earth's atmosphere"
+      ],
+      "synonyms": [
+        "air",
+        "aerosphere",
+        "airspace",
+        "sky"
+      ]
+    },
+    {
+      "description": "The pervading tone or mood of a place, situation, or work of art.",
+      "examples": [
+        "the hotel is famous for its friendly, welcoming atmosphere",
+        "this crisis further compounded the prevailing atmosphere of gloom"
+      ],
+      "synonyms": [
+        "ambience",
+        "aura",
+        "climate",
+        "air",
+        "mood",
+        "feel",
+        "feeling",
+        "character",
+        "tone",
+        "overtone",
+        "undertone",
+        "tenor",
+        "spirit",
+        "quality",
+        "aspect",
+        "element",
+        "undercurrent",
+        "flavour",
+        "colour",
+        "colouring",
+        "look",
+        "impression",
+        "suggestion",
+        "emanation"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin atmosphaera, from Greek atmos vapor + sphaira ball, globe.",
+  "pronounciation": "/ˈatməsˌfir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/atmosphere_us_1.mp3"
+}

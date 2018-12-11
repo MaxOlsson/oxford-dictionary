@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Hold and use (a weapon or tool)",
+      "examples": [
+        "a masked raider wielding a handgun"
+      ],
+      "synonyms": [
+        "brandish",
+        "flourish",
+        "wave",
+        "twirl",
+        "display",
+        "flaunt",
+        "hold aloft",
+        "show off",
+        "swing",
+        "shake"
+      ]
+    }
+  ],
+  "origin": "Old English wealdan, wieldan govern, subdue, direct, of Germanic origin; related to German walten.",
+  "pronounciation": "/wēld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wield_us_1.mp3"
+}

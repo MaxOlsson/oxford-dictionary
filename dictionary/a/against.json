@@ -1,0 +1,83 @@
+{
+  "preposition": [
+    {
+      "description": "In opposition to.",
+      "examples": [
+        "the fight against crime",
+        "he decided against immediate publication",
+        "swimming against the tide"
+      ],
+      "synonyms": [
+        "opposed to",
+        "in opposition to",
+        "hostile to",
+        "averse to",
+        "antagonistic towards",
+        "inimical to",
+        "unsympathetic to",
+        "resistant to",
+        "at odds with",
+        "in disagreement with",
+        "contra"
+      ]
+    },
+    {
+      "description": "In anticipation of and preparation for (a problem or difficulty)",
+      "examples": [
+        "insurance against sickness and unemployment"
+      ],
+      "synonyms": [
+        "in case of",
+        "as provision for",
+        "in provision for",
+        "in preparation for",
+        "in anticipation of",
+        "in expectation of"
+      ]
+    },
+    {
+      "description": "In or into physical contact with (something), so as to be supported by or collide with it.",
+      "examples": [
+        "she stood with her back against the door",
+        "his lips brushed against her hair"
+      ],
+      "synonyms": [
+        "touching",
+        "in contact with",
+        "close up to",
+        "up against",
+        "abutting",
+        "on",
+        "adjacent to"
+      ]
+    },
+    {
+      "description": "In conceptual contrast to.",
+      "examples": [
+        "the benefits must be weighed against the costs",
+        "the instilling of habits as against the development of understanding"
+      ],
+      "synonyms": [
+        "against",
+        "in opposition to",
+        "contrary to",
+        "at variance with",
+        "in defiance of",
+        "in contravention of",
+        "contrarily",
+        "contrariwise",
+        "conversely"
+      ]
+    }
+  ],
+  "phrases": [
+    "I have nothing against you personally",
+    "Somebody obviously has a grudge against us, she said.",
+    "But, just for the record, I really don't have any grudge against you, so don't take it personally.",
+    "I just wanted to tell her that I didn't have any grudges against her!",
+    "I think it must be someone who wants us out of the area or has a grudge against us but we're not moving anywhere."
+  ],
+  "origin": "Middle English: from again + -s (adverbial genitive) + -t probably by association with superlatives (as in amongst).",
+  "pronounciation": "/əˈɡenst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/against_us_1.mp3"
+}

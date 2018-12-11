@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Not coinciding with the beat.",
+      "examples": []
+    },
+    {
+      "description": "Unconventional; unusual.",
+      "examples": [
+        "she's a little offbeat but she's a wonderful actress"
+      ],
+      "synonyms": [
+        "unconventional",
+        "unorthodox",
+        "unusual",
+        "off-centre",
+        "eccentric",
+        "outré",
+        "idiosyncratic",
+        "strange",
+        "bizarre",
+        "weird",
+        "peculiar",
+        "odd",
+        "freakish",
+        "outlandish",
+        "out of the ordinary",
+        "bohemian",
+        "alternative",
+        "left-field",
+        "hippy",
+        "zany",
+        "quirky"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Any of the normally unaccented beats in a bar.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈôfˌbēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/offbeat_us_3.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Acting or done quickly and without thought or care.",
+      "examples": [
+        "her friend was headstrong and impetuous"
+      ],
+      "synonyms": [
+        "impulsive",
+        "rash",
+        "hasty",
+        "overhasty",
+        "reckless",
+        "heedless",
+        "foolhardy",
+        "incautious",
+        "imprudent",
+        "injudicious",
+        "ill-conceived",
+        "ill-considered",
+        "unplanned",
+        "unreasoned",
+        "unthought-out",
+        "unthinking"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French impetueux, from late Latin impetuosus, from impetere to attack.",
+  "pronounciation": "/imˈpeCH(o͞o)əs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impetuous_us_1.mp3"
+}

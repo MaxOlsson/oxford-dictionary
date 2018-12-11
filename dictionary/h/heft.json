@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Lift or carry (something heavy)",
+      "examples": [
+        "Donald hefted another pair of sandbags from the stack"
+      ],
+      "synonyms": [
+        "lift",
+        "lift up",
+        "raise",
+        "raise up",
+        "heave",
+        "hoist",
+        "haul",
+        "manhandle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The weight of someone or something.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a noun): probably from heave, on the pattern of words such as cleft and weft.",
+  "pronounciation": "/heft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heft_us_4.mp3"
+}

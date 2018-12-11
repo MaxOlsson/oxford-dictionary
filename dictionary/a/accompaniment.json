@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A musical part that supports or partners a solo instrument, voice, or group.",
+      "examples": [
+        "she sang to a guitar accompaniment",
+        "sonatas for piano with violin accompaniment"
+      ],
+      "synonyms": [
+        "backing",
+        "support",
+        "background",
+        "soundtrack",
+        "comp"
+      ]
+    },
+    {
+      "description": "Something that is supplementary to or complements something else, typically food.",
+      "examples": [
+        "sugar snap peas make a delicious accompaniment for salmon"
+      ],
+      "synonyms": [
+        "complement",
+        "supplement",
+        "addition",
+        "adjunct",
+        "appendage",
+        "trimming",
+        "companion",
+        "accessory"
+      ]
+    }
+  ],
+  "phrases": [
+    "we filed out to the accompaniment of the organ",
+    "the dam was completed to the accompaniment of numerous scandals",
+    "We arrived in the late morning, after a cold night in SeaTac airport, sleeping under bright lights to the accompaniment of automatic doors swishing open and shut, letting in gasps of snowy, frozen air.",
+    "The Tamil Research Centre organised the traditional event in the open, to the accompaniment of roaring engines, blaring horns and nagaswaram.",
+    "This is very different from events which have politicians and movie stars planting saplings to the accompaniment of camera flashes."
+  ],
+  "origin": "Early 18th century: from French accompagnement, from accompagner accompany.",
+  "pronounciation": "/əˈkəmp(ə)nɪmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accompaniment_us_1.mp3"
+}

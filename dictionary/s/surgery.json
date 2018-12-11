@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "The treatment of injuries or disorders of the body by incision or manipulation, especially with instruments.",
+      "examples": [
+        "cardiac surgery",
+        "he had surgery on his ankle"
+      ],
+      "synonyms": [
+        "therapy",
+        "medical attention",
+        "medical care",
+        "care",
+        "ministrations",
+        "nursing"
+      ]
+    },
+    {
+      "description": "A place where a doctor, dentist, or other medical practitioner treats or advises patients.",
+      "examples": [],
+      "synonyms": [
+        "medical centre",
+        "health centre",
+        "outpatients' department",
+        "doctor's",
+        "polyclinic"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French surgerie, contraction of serurgerie, from serurgien (see surgeon).",
+  "pronounciation": "/ˈsərj(ə)rē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/surgery_us_1.mp3"
+}

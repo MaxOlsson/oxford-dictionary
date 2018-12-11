@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting the giving of a name.",
+      "examples": [],
+      "synonyms": [
+        "eponymous",
+        "identifying"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A common noun, such as “doctor,” “mother,” or “sir,” used as a vocative.",
+      "examples": [],
+      "synonyms": [
+        "name",
+        "title",
+        "term",
+        "designation",
+        "epithet",
+        "label",
+        "tag",
+        "style",
+        "sobriquet",
+        "nickname",
+        "byname"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin appellativus, from appellat- addressed, from the verb appellare (see appeal).",
+  "pronounciation": "/əˈpɛlədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appellative_us_2.mp3"
+}

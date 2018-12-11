@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Lose or cause to lose luster, especially as a result of exposure to air or moisture.",
+      "examples": [
+        "silver tarnishes too easily",
+        "lemon juice would tarnish the gilded metal"
+      ],
+      "synonyms": [
+        "become discoloured",
+        "discolour",
+        "stain",
+        "rust",
+        "oxidize",
+        "corrode",
+        "deteriorate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Dullness of color; loss of brightness.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from French terniss-, lengthened stem of ternir, from terne dark, dull.",
+  "pronounciation": "/ˈtɑrnɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tarnish_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A poem of fourteen lines using any of a number of formal rhyme schemes, in English typically having ten syllables per line.",
+      "examples": [],
+      "synonyms": [
+        "poem",
+        "piece of poetry",
+        "lyric",
+        "ode",
+        "limerick",
+        "rhyme",
+        "composition",
+        "metrical composition",
+        "piece of doggerel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Compose sonnets.",
+      "examples": [
+        "and in delightful Tones sit sonneting"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French, or from Italian sonetto, diminutive of suono a sound.",
+  "pronounciation": "/ˈsänət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sonnet_us_4.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A powered rail vehicle used for pulling trains.",
+      "examples": [
+        "a diesel locomotive"
+      ],
+      "synonyms": [
+        "rolling stock",
+        "trains",
+        "locomotives",
+        "carriages",
+        "wagons"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or effecting locomotion.",
+      "examples": [
+        "locomotive power"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (as an adjective): from modern Latin locomotivus, from Latin loco (ablative of locus place) + late Latin motivus motive, suggested by medieval Latin in loco moveri move by change of position.",
+  "pronounciation": "/ˌloʊkəˈmoʊdɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/locomotive_us_2.mp3"
+}

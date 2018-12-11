@@ -1,0 +1,108 @@
+{
+  "abbreviation": [
+    {
+      "description": "Farad.",
+      "examples": []
+    },
+    {
+      "description": "Farthing.",
+      "examples": []
+    },
+    {
+      "description": "Father.",
+      "examples": []
+    },
+    {
+      "description": "Fathom.",
+      "examples": []
+    },
+    {
+      "description": "Feet.",
+      "examples": []
+    },
+    {
+      "description": "Feminine.",
+      "examples": []
+    },
+    {
+      "description": "Female.",
+      "examples": []
+    },
+    {
+      "description": "(in units of measurement) femto- (10¹⁵).",
+      "examples": []
+    },
+    {
+      "description": "Filly.",
+      "examples": []
+    },
+    {
+      "description": "Fine.",
+      "examples": []
+    },
+    {
+      "description": "(in textual references) folio.",
+      "examples": []
+    },
+    {
+      "description": "Foot.",
+      "examples": []
+    },
+    {
+      "description": "Form.",
+      "examples": []
+    },
+    {
+      "description": "Forte.",
+      "examples": []
+    },
+    {
+      "description": "(in racing results) furlong(s).",
+      "examples": []
+    },
+    {
+      "description": "Franc.",
+      "examples": []
+    },
+    {
+      "description": "From.",
+      "examples": []
+    },
+    {
+      "description": "Denoting electrons and orbitals possessing three units of angular momentum.",
+      "examples": [
+        "f-orbitals"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "Focal length.",
+      "examples": [
+        "apertures of f/5.6 to f/11"
+      ]
+    },
+    {
+      "description": "A function of a specified variable.",
+      "examples": [
+        "the value of f(x)"
+      ]
+    },
+    {
+      "description": "Frequency.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The sixth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "The fourth note of the diatonic scale of C major.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ef/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/f_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "determiner, pronoun, &amp; adverb": [
+    {
+      "description": "Too much.",
+      "examples": [
+        "I would not worry myself overmuch",
+        "the police may have overmuch regard for public order considerations",
+        "she was requiring overmuch from him"
+      ],
+      "synonyms": [
+        "inordinately",
+        "unduly",
+        "unnecessarily",
+        "unreasonably",
+        "absurdly",
+        "ridiculously",
+        "overly",
+        "to too great a degree",
+        "extra",
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "unusually",
+        "impossibly",
+        "illogically",
+        "irrationally"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈmətʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overmuch_us_1.mp3"
+}

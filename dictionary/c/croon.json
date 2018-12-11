@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Hum or sing in a soft, low voice, especially in a sentimental manner.",
+      "examples": [
+        "she was crooning to the child",
+        "the female vocalist crooned smoky blues into the microphone"
+      ],
+      "synonyms": [
+        "sing softly",
+        "hum",
+        "lilt",
+        "carol",
+        "warble",
+        "trill",
+        "quaver"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft, low voice or tone.",
+      "examples": [
+        "he sang in a gentle, highly expressive croon"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (originally Scots and northern English): from Middle Low German and Middle Dutch krōnen groan, lament. The use of croon in standard English was probably popularized by Robert Burns.",
+  "pronounciation": "/kro͞on/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/croon_us_1.mp3"
+}

@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Filled with a continuous humming sound.",
+      "examples": [
+        "the room was abuzz with mosquitoes",
+        "the city was abuzz with rumors"
+      ],
+      "synonyms": [
+        "excitement",
+        "exciting experience",
+        "thrill",
+        "stimulation"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈbəz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abuzz_us_1.mp3"
+}

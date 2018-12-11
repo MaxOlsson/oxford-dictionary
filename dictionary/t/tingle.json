@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Experience or cause to experience a slight prickling or stinging sensation.",
+      "examples": [
+        "she was tingling with excitement",
+        "a standing ovation that tingled your spine"
+      ],
+      "synonyms": [
+        "prickle",
+        "sting",
+        "smart",
+        "prick",
+        "itch",
+        "be itchy",
+        "be irritated",
+        "have a creeping sensation",
+        "have goose pimples",
+        "have gooseflesh",
+        "have pins and needles"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slight prickling or stinging sensation.",
+      "examples": [
+        "a tingle of anticipation",
+        "she felt a tingle in the back of her neck"
+      ],
+      "synonyms": [
+        "prickling",
+        "tingling",
+        "sting",
+        "stinging",
+        "smart",
+        "smarting",
+        "pricking",
+        "itch",
+        "creeping sensation",
+        "goose pimples",
+        "gooseflesh",
+        "pins and needles"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a small tack): related to Middle High German zingel small tack or hook, probably from a Germanic base meaning fasten. The current sense dates from the late 19th century.",
+  "pronounciation": "/ˈtɪŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tingle_us_1.mp3"
+}

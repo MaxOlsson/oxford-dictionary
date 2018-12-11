@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A scraping implement with a rubber-edged blade set on a handle, typically used for cleaning windows.",
+      "examples": [],
+      "synonyms": [
+        "sponge",
+        "swab",
+        "squeegee"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Clean or scrape (something) with a squeegee.",
+      "examples": [
+        "squeegee the shower doors while the surfaces are still wet"
+      ],
+      "synonyms": [
+        "clean",
+        "cleanse",
+        "sponge",
+        "scrub",
+        "mop",
+        "hose down",
+        "sluice",
+        "sluice down",
+        "swill",
+        "swill down",
+        "douse",
+        "swab",
+        "swab down",
+        "flush",
+        "disinfect"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from archaic squeege to press, strengthened form of squeeze.",
+  "pronounciation": "/ˈskwēˌjē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squeegee_us_1.mp3"
+}

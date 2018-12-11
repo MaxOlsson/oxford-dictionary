@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A low flight by one or more aircraft over a specific location.",
+      "examples": [
+        "there were artillery platforms in the hills, making a flyover too risky"
+      ]
+    },
+    {
+      "description": "An overpass.",
+      "examples": [],
+      "synonyms": [
+        "viaduct",
+        "aqueduct",
+        "overpass"
+      ]
+    },
+    {
+      "description": "Denoting central regions of the US regarded as less significant than the East or West coasts.",
+      "examples": [
+        "his appeal extends way beyond the Bible Belt and the flyover states"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflaɪˌoʊvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flyover_us_1.mp3"
+}

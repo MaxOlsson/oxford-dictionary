@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A device or piece of equipment designed to perform a specific task, typically a domestic one.",
+      "examples": [
+        "electrical and gas appliances"
+      ],
+      "synonyms": [
+        "device",
+        "machine",
+        "instrument",
+        "gadget",
+        "contraption",
+        "apparatus",
+        "utensil",
+        "implement",
+        "tool",
+        "mechanism",
+        "contrivance",
+        "labour-saving device",
+        "amenity",
+        "aid"
+      ]
+    },
+    {
+      "description": "The action or process of bringing something into operation.",
+      "examples": [
+        "the appliance of science could increase crop yields"
+      ],
+      "synonyms": [
+        "application",
+        "use",
+        "exercise",
+        "employment",
+        "implementation",
+        "administration",
+        "utilization",
+        "practice",
+        "applying",
+        "discharge",
+        "exertion",
+        "execution",
+        "prosecution",
+        "enactment",
+        "carrying out",
+        "accomplishment",
+        "putting into operation",
+        "putting into practice"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈplīəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appliance_us_1.mp3"
+}

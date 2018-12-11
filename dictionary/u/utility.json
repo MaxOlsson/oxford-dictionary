@@ -1,0 +1,77 @@
+{
+  "noun": [
+    {
+      "description": "The state of being useful, profitable, or beneficial.",
+      "examples": [
+        "he had a poor opinion of the utility of book learning"
+      ],
+      "synonyms": [
+        "usefulness",
+        "use",
+        "advantage",
+        "benefit",
+        "value",
+        "help",
+        "helpfulness",
+        "profitability",
+        "convenience",
+        "practicality",
+        "effectiveness",
+        "efficacy",
+        "avail",
+        "service",
+        "serviceableness",
+        "advantageousness"
+      ]
+    },
+    {
+      "description": "An organization supplying the community with electricity, gas, water, or sewerage.",
+      "examples": []
+    },
+    {
+      "description": "A utility program.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Useful, especially through being able to perform several functions.",
+      "examples": [
+        "a utility truck"
+      ],
+      "synonyms": [
+        "practical",
+        "functional",
+        "serviceable",
+        "useful",
+        "sensible",
+        "effective",
+        "efficient",
+        "to the purpose",
+        "suited to the purpose",
+        "pragmatic",
+        "realistic",
+        "utility",
+        "working",
+        "workaday",
+        "handy",
+        "neat",
+        "ordinary",
+        "down-to-earth"
+      ]
+    },
+    {
+      "description": "Functional rather than attractive.",
+      "examples": [
+        "utility clothing"
+      ]
+    },
+    {
+      "description": "Relating to the lowest US government grade of beef.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French utilite, from Latin utilitas, from utilis useful.",
+  "pronounciation": "/juˈtɪlədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/utility_us_1.mp3"
+}

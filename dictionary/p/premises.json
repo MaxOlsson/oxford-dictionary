@@ -1,0 +1,22 @@
+{
+  "plural noun": [
+    {
+      "description": "A house or building, together with its land and outbuildings, occupied by a business or considered in an official context.",
+      "examples": [
+        "business premises",
+        "supplying alcoholic liquor for consumption on the premises"
+      ],
+      "synonyms": [
+        "building",
+        "buildings",
+        "property",
+        "site",
+        "establishment",
+        "office",
+        "place"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɛməsəz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/premises_us_1.mp3"
+}

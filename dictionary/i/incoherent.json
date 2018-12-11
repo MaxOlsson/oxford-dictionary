@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(of spoken or written language) expressed in an incomprehensible or confusing way; unclear.",
+      "examples": [
+        "he screamed some incoherent threat"
+      ],
+      "synonyms": [
+        "unclear",
+        "confused",
+        "muddled",
+        "unintelligible",
+        "incomprehensible",
+        "hard to follow",
+        "disjointed",
+        "disconnected",
+        "unconnected",
+        "disordered",
+        "mixed up",
+        "garbled",
+        "jumbled",
+        "scrambled"
+      ]
+    },
+    {
+      "description": "(of waves) having no definite or stable phase relationship.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌinkōˈhirənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incoherent_us_1.mp3"
+}

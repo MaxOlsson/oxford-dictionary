@@ -1,0 +1,84 @@
+{
+  "noun": [
+    {
+      "description": "An outline of something, especially a person's face, as seen from one side.",
+      "examples": [
+        "the man turned and she caught his profile"
+      ],
+      "synonyms": [
+        "side view",
+        "outline",
+        "silhouette",
+        "contour",
+        "shape",
+        "form",
+        "figure",
+        "lines"
+      ]
+    },
+    {
+      "description": "A short article giving a description of a person or organization.",
+      "examples": [
+        "a profile of a Texas tycoon"
+      ],
+      "synonyms": [
+        "description",
+        "account",
+        "study",
+        "portrait",
+        "portrayal",
+        "depiction",
+        "rundown",
+        "sketch",
+        "outline"
+      ]
+    },
+    {
+      "description": "The extent to which a person or organization attracts public notice.",
+      "examples": [
+        "raising the profile of women in industry"
+      ]
+    },
+    {
+      "description": "A graphical or other representation of information relating to particular characteristics of something, recorded in quantified form.",
+      "examples": [
+        "the blood profiles of cancer patients"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Describe (a person or organization, especially a public figure) in a short article.",
+      "examples": [
+        "he was to profile each candidate"
+      ],
+      "synonyms": [
+        "describe",
+        "write about",
+        "write an article about",
+        "give an account of",
+        "characterize",
+        "portray",
+        "depict",
+        "outline",
+        "sketch"
+      ]
+    },
+    {
+      "description": "Represent in outline from one side.",
+      "examples": [
+        "he was standing motionless, profiled on the far side of the swimming pool"
+      ]
+    }
+  ],
+  "phrases": [
+    "a photograph of Leon in profile",
+    "This auburn light danced and glinted on my companion's drooping gold earrings as we surveyed the cars below, and held his face in profile as if he might only be a photograph.",
+    "Underwood Side View shows a stately old typewriter in profile, exposing its logical yet formally ornate internal mechanism.",
+    "One can discern a face in profile emerging from the right side of the pool.",
+    "In one photograph, she stands in profile holding a large kitchen knife."
+  ],
+  "origin": "Mid 17th century: from obsolete Italian profilo, from the verb profilare, from pro- forth + filare to spin, formerly draw a line (from Latin filare, from filum thread).",
+  "pronounciation": "/ˈprōˌfīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/profile_us_1.mp3"
+}

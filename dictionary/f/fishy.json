@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or resembling fish or a fish.",
+      "examples": [
+        "a fishy smell"
+      ],
+      "synonyms": [
+        "fishlike",
+        "piscine",
+        "of fish"
+      ]
+    },
+    {
+      "description": "Arousing feelings of doubt or suspicion.",
+      "examples": [
+        "I'm convinced there is something fishy going on"
+      ],
+      "synonyms": [
+        "suspicious",
+        "questionable",
+        "dubious",
+        "doubtful",
+        "suspect"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɪʃi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fishy_us_1.mp3"
+}

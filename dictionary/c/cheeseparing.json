@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Careful or stingy with money.",
+      "examples": [
+        "cheeseparing bureaucrats"
+      ],
+      "synonyms": [
+        "thrifty",
+        "sparing",
+        "economical",
+        "saving"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Stinginess.",
+      "examples": [
+        "Richard accused me of cheeseparing"
+      ],
+      "synonyms": [
+        "avarice",
+        "acquisitiveness",
+        "parsimony",
+        "parsimoniousness",
+        "penny-pinching",
+        "cheese-paring",
+        "thrift"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtʃizˌpɛrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cheeseparing_us_1.mp3"
+}

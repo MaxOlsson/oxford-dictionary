@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "The carrying of a boat or its cargo between two navigable waters.",
+      "examples": [
+        "the return journey was made much simpler by portage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Carry (a boat or its cargo) between navigable waters.",
+      "examples": [
+        "they are incapable of portaging a canoe",
+        "they would only run the rapid if they couldn't portage"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A port city in northwestern Indiana, on Lake Erie, east of Gary; population 36,976 (est. 2008).",
+      "examples": []
+    },
+    {
+      "description": "A city in southwestern Michigan, south of Kalamazoo; population 46,133 (est. 2008).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from French, from porter carry. The sense relating to carrying between navigable waters dates from the late 17th century.",
+  "pronounciation": "/ˈpôrdəj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/portage_1_us_2.mp3"
+}

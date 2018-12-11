@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Attractive in a pretty or endearing way.",
+      "examples": [
+        "a cute kitten"
+      ],
+      "synonyms": [
+        "endearing",
+        "adorable",
+        "lovable",
+        "sweet",
+        "lovely",
+        "appealing",
+        "engaging",
+        "delightful",
+        "dear",
+        "darling",
+        "winning",
+        "winsome",
+        "charming",
+        "enchanting"
+      ]
+    },
+    {
+      "description": "Clever or cunning, especially in a self-seeking or superficial way.",
+      "examples": [
+        "I don't want to be cute with you"
+      ],
+      "synonyms": [
+        "shrewd",
+        "astute",
+        "sharp",
+        "acute",
+        "quick",
+        "sharp-witted",
+        "quick-witted"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (in the sense clever, shrewd): shortening of acute.",
+  "pronounciation": "/kjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cute_us_1.mp3"
+}

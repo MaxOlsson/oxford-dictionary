@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Claim that one has (a quality or feeling), especially when this is not the case.",
+      "examples": [
+        "he had professed his love for her",
+        "I don't profess to be an expert",
+        "he professed himself amazed at the boy's ability"
+      ],
+      "synonyms": [
+        "declare",
+        "announce",
+        "proclaim",
+        "assert",
+        "state",
+        "affirm",
+        "avow",
+        "maintain",
+        "protest",
+        "aver",
+        "vow"
+      ]
+    },
+    {
+      "description": "Affirm one's faith in or allegiance to (a religion or set of beliefs)",
+      "examples": [
+        "a people professing Christianity"
+      ],
+      "synonyms": [
+        "affirm one's faith in",
+        "state one's faith in",
+        "affirm one's allegiance to",
+        "make a public declaration of",
+        "declare publicly",
+        "avow",
+        "confess",
+        "acknowledge publicly"
+      ]
+    },
+    {
+      "description": "Teach (a subject) as a professor.",
+      "examples": [
+        "a professor—what does he profess?"
+      ]
+    }
+  ],
+  "origin": "Middle English (as be professed be received into a religious order): from Latin profess- declared publicly, from the verb profiteri, from pro- before + fateri confess.",
+  "pronounciation": "/prəˈfes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/profess_us_1.mp3"
+}

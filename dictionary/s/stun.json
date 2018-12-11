@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Knock unconscious or into a dazed or semiconscious state.",
+      "examples": [
+        "the man was stunned by a blow to the head"
+      ],
+      "synonyms": [
+        "daze",
+        "stupefy",
+        "knock senseless",
+        "knock unconscious",
+        "knock out",
+        "lay out"
+      ]
+    },
+    {
+      "description": "Astonish or shock (someone) so that they are temporarily unable to react.",
+      "examples": [
+        "the community was stunned by the tragedy"
+      ],
+      "synonyms": [
+        "astound",
+        "amaze",
+        "astonish",
+        "startle",
+        "take someone's breath away",
+        "dumbfound",
+        "stupefy",
+        "overwhelm",
+        "stagger",
+        "shock",
+        "confound",
+        "take aback",
+        "shake up"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old French estoner astonish.",
+  "pronounciation": "/stən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stun_us_1.mp3"
+}

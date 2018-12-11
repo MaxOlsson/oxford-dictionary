@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of a quality, feeling, or belief) claimed or asserted openly but often falsely.",
+      "examples": [
+        "for all her professed populism, she was seen as remote from ordinary people"
+      ],
+      "synonyms": [
+        "supposed",
+        "ostensible",
+        "alleged",
+        "claimed",
+        "so-called",
+        "soi-disant",
+        "self-styled",
+        "apparent",
+        "pretended",
+        "purported",
+        "would-be"
+      ]
+    },
+    {
+      "description": "(of a person) self-acknowledged or openly declared to be.",
+      "examples": [
+        "a professed and conforming Anglican"
+      ],
+      "synonyms": [
+        "declared",
+        "self-acknowledged",
+        "self-confessed",
+        "confessed",
+        "sworn",
+        "avowed",
+        "confirmed",
+        "certified"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈfest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/professed_us_1.mp3"
+}

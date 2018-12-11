@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Of, from, in, or characteristic of a country or language other than one's own.",
+      "examples": [
+        "a foreign language"
+      ],
+      "synonyms": [
+        "overseas",
+        "distant",
+        "remote",
+        "far off",
+        "far flung",
+        "external",
+        "outside"
+      ]
+    },
+    {
+      "description": "Strange and unfamiliar.",
+      "examples": [
+        "I suppose this all feels pretty foreign to you"
+      ],
+      "synonyms": [
+        "unfamiliar",
+        "unknown",
+        "unheard of",
+        "strange",
+        "alien",
+        "exotic",
+        "outlandish",
+        "odd",
+        "peculiar",
+        "curious",
+        "bizarre",
+        "weird",
+        "queer",
+        "funny"
+      ]
+    }
+  ],
+  "origin": "Middle English foren, forein, from Old French forein, forain, based on Latin foras, foris outside, from fores door. The current spelling arose in the 16th century, by association with sovereign.",
+  "pronounciation": "/ˈfôrən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/foreign_us_1_rr.mp3"
+}

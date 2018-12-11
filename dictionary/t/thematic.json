@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Having or relating to subjects or a particular subject.",
+      "examples": [
+        "the orientation of this anthology is essentially thematic"
+      ]
+    },
+    {
+      "description": "Belonging to, relating to, or denoting the theme of a sentence.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A body of topics for study or discussion.",
+      "examples": []
+    },
+    {
+      "description": "A postage stamp forming part of a set with designs connected with the same subject; a topical.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from Greek thematikos, from thema (see theme).",
+  "pronounciation": "/θəˈmædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thematic_us_1.mp3"
+}

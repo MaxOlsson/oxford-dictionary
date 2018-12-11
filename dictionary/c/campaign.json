@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A series of military operations intended to achieve a particular objective, confined to a particular area, or involving a specified type of fighting.",
+      "examples": [
+        "a desert campaign",
+        "the army set off on campaign",
+        "the air campaign"
+      ],
+      "synonyms": [
+        "military operation",
+        "military operations",
+        "manoeuvre",
+        "manoeuvres"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work in an organized and active way toward a particular goal, typically a political or social one.",
+      "examples": [
+        "people who campaigned against child labor",
+        "the services he had campaigned to protect"
+      ],
+      "synonyms": [
+        "crusade",
+        "fight",
+        "battle",
+        "work",
+        "push",
+        "press",
+        "strive",
+        "struggle",
+        "agitate"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (denoting a tract of open country): from French campagne open country, via Italian from late Latin campania, from campus level ground (see camp). The change in sense arose from an army's practice of taking the field (i.e. moving from a fortress or town to open country) at the onset of summer.",
+  "pronounciation": "/kæmˈpeɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/campaign_us_1.mp3"
+}

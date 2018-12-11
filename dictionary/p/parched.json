@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Dried out with heat.",
+      "examples": [
+        "the parched earth"
+      ],
+      "synonyms": [
+        "dry",
+        "as dry as a bone",
+        "bone dry",
+        "dried up",
+        "dried out",
+        "arid",
+        "waterless",
+        "desiccated",
+        "dehydrated",
+        "sun-baked",
+        "baked",
+        "burned",
+        "scorched",
+        "seared",
+        "withered",
+        "shrivelled"
+      ]
+    }
+  ],
+  "pronounciation": "/pärCHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parched_us_1.mp3"
+}

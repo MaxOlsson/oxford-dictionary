@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling or inspiring optimism about a future event.",
+      "examples": [
+        "a hopeful sign",
+        "he remained hopeful that something could be worked out"
+      ],
+      "synonyms": [
+        "optimistic",
+        "full of hope",
+        "confident",
+        "positive",
+        "buoyant",
+        "sanguine",
+        "bullish",
+        "cheerful",
+        "assured",
+        "expectant",
+        "anticipative",
+        "disposed to look on the bright side"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person likely or hoping to succeed.",
+      "examples": [
+        "a leading gubernatorial hopeful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhoʊpfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hopeful_us_1.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "Closely compacted in substance.",
+      "examples": [
+        "dense volcanic rock",
+        "swirling, dense smoke"
+      ],
+      "synonyms": [
+        "thick",
+        "heavy",
+        "opaque",
+        "soupy",
+        "murky",
+        "smoggy",
+        "impenetrable"
+      ]
+    },
+    {
+      "description": "(of a person) stupid.",
+      "examples": [],
+      "synonyms": [
+        "stupid",
+        "unintelligent",
+        "ignorant",
+        "brainless",
+        "mindless",
+        "foolish",
+        "slow",
+        "slow-witted",
+        "dull-witted",
+        "witless",
+        "doltish",
+        "blockish",
+        "dunce-like",
+        "simple-minded",
+        "empty-headed",
+        "vacuous",
+        "vapid",
+        "half-witted",
+        "idiotic",
+        "moronic",
+        "imbecilic",
+        "obtuse",
+        "bovine",
+        "lumpish"
+      ]
+    },
+    {
+      "description": "(of a text) hard to understand because of its complexity of ideas.",
+      "examples": [],
+      "synonyms": [
+        "impervious",
+        "impermeable",
+        "solid",
+        "thick",
+        "hard",
+        "unyielding",
+        "unbreakable",
+        "indestructible",
+        "puncture-proof",
+        "unpierceable",
+        "resistant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin densus.",
+  "pronounciation": "/dɛns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dense_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Erring or straying from the proper course or standards.",
+      "examples": [
+        "he could never forgive his daughter's errant ways"
+      ],
+      "synonyms": [
+        "offending",
+        "guilty",
+        "culpable",
+        "misbehaving",
+        "delinquent",
+        "lawless",
+        "lawbreaking",
+        "criminal",
+        "transgressing",
+        "aberrant",
+        "deviant",
+        "erring",
+        "sinning"
+      ]
+    },
+    {
+      "description": "Traveling in search of adventure.",
+      "examples": [
+        "that same lady errant"
+      ],
+      "synonyms": [
+        "travelling",
+        "wandering",
+        "itinerant",
+        "journeying",
+        "rambling",
+        "roaming",
+        "roving",
+        "drifting",
+        "floating",
+        "wayfaring",
+        "voyaging",
+        "touring"
+      ]
+    }
+  ],
+  "origin": "Middle English (in errant (sense 2)): errant (sense 1) from Latin errant- erring, from the verb errare; errant (sense 2) from Old French errant traveling, present participle of errer, from late Latin iterare go on a journey, from iter journey. Compare with arrant.",
+  "pronounciation": "/ˈɛrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/errant_us_1.mp3"
+}

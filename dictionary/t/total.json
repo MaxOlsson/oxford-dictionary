@@ -1,0 +1,117 @@
+{
+  "adjective": [
+    {
+      "description": "Comprising the whole number or amount.",
+      "examples": [
+        "a total cost of $4,000"
+      ],
+      "synonyms": [
+        "entire",
+        "complete",
+        "whole",
+        "full",
+        "comprehensive",
+        "combined",
+        "aggregate",
+        "gross",
+        "overall",
+        "composite",
+        "integral"
+      ]
+    },
+    {
+      "description": "Complete; absolute.",
+      "examples": [
+        "a total stranger",
+        "they drove home in total silence"
+      ],
+      "synonyms": [
+        "complete",
+        "utter",
+        "absolute",
+        "thorough",
+        "perfect",
+        "downright",
+        "out-and-out",
+        "outright",
+        "thoroughgoing",
+        "all-out",
+        "sheer",
+        "positive",
+        "prize",
+        "rank",
+        "pure",
+        "dyed-in-the-wool",
+        "deep-dyed",
+        "real",
+        "consummate",
+        "veritable",
+        "unmitigated",
+        "unqualified",
+        "unadulterated",
+        "unalloyed",
+        "unconditional",
+        "unequivocal",
+        "full",
+        "unlimited",
+        "limitless",
+        "infinite",
+        "ultimate",
+        "through and through",
+        "in-depth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The whole number or amount of something.",
+      "examples": [
+        "he scored a total of thirty-three points",
+        "in total, 200 people were interviewed"
+      ],
+      "synonyms": [
+        "sum",
+        "sum total",
+        "grand total",
+        "aggregate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Amount in number to.",
+      "examples": [
+        "they were left with debts totaling $6,260"
+      ],
+      "synonyms": [
+        "add up to",
+        "amount to",
+        "mount up to",
+        "come to",
+        "run to",
+        "make",
+        "correspond to",
+        "equal",
+        "work out as",
+        "number"
+      ]
+    },
+    {
+      "description": "Damage (something, typically a vehicle) beyond repair; wreck.",
+      "examples": [
+        "he almost totaled the car"
+      ],
+      "synonyms": [
+        "wreck",
+        "crash",
+        "smash",
+        "destroy",
+        "damage beyond repair",
+        "demolish"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from medieval Latin totalis, from totum the whole, neuter of Latin totus whole, entire. The verb, at first in the sense add up, dates from the late 16th century.",
+  "pronounciation": "/ˈtōdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/total_us_1.mp3"
+}

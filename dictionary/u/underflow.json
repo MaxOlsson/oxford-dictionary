@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "An undercurrent.",
+      "examples": [
+        "the powerful underflow around the wreck"
+      ],
+      "synonyms": [
+        "undertow",
+        "underswell",
+        "underdrift",
+        "understream",
+        "undertide",
+        "underrun"
+      ]
+    },
+    {
+      "description": "The generation of a number that is too small to be represented in the device meant to store it.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈəndərˌfloʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/underflow_us_1.mp3"
+}

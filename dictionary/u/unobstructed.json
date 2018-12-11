@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Not obstructed.",
+      "examples": [
+        "an unobstructed view of the water"
+      ],
+      "synonyms": [
+        "unblocked",
+        "passable",
+        "unimpeded",
+        "open",
+        "empty",
+        "free",
+        "unlimited",
+        "unrestricted",
+        "unhindered"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənəbˈstrəktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unobstructed_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Walk in an awkward way, typically because of pain from an injury.",
+      "examples": [
+        "he was hobbling around on crutches"
+      ],
+      "synonyms": [
+        "limp",
+        "walk with a limp",
+        "walk with difficulty",
+        "move unsteadily",
+        "walk unevenly",
+        "walk lamely",
+        "walk haltingly"
+      ]
+    },
+    {
+      "description": "Tie or strap together (the legs of a horse or other animal) to prevent it from straying.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An awkward way of walking, typically due to pain from an injury.",
+      "examples": [
+        "he finished the game almost reduced to a hobble"
+      ],
+      "synonyms": [
+        "lameness",
+        "hobble",
+        "uneven gait",
+        "shuffle"
+      ]
+    },
+    {
+      "description": "A rope or strap used for hobbling a horse or other animal.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: probably of Dutch or Low German origin and related to Dutch hobbelen rock from side to side. hobble (sense 2 of the verb) is a variant of hopple.",
+  "pronounciation": "/ˈhäbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hobble_us_1.mp3"
+}

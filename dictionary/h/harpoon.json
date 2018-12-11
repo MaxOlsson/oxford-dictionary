@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A barbed missile resembling a spear that is attached to a long rope and thrown by hand or fired from a gun, used for catching whales and other large sea creatures.",
+      "examples": [],
+      "synonyms": [
+        "spear",
+        "trident",
+        "arrow",
+        "dart",
+        "barb"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spear with a harpoon.",
+      "examples": [
+        "Gilbert's father harpooned a five-meter basking shark"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (denoting a barbed dart or spear): from French harpon, from harpe dog's claw, clamp, via Latin from Greek harpē sickle.",
+  "pronounciation": "/ˌhɑrˈpun/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/harpoon_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the abdomen.",
+      "examples": [
+        "abdominal pain"
+      ],
+      "synonyms": [
+        "stomach",
+        "gastric",
+        "intestinal",
+        "stomachic",
+        "enteric",
+        "duodenal",
+        "visceral",
+        "coeliac",
+        "ventral"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An abdominal muscle.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌabˈdämən(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abdominal_us_1.mp3"
+}

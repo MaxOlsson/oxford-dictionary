@@ -1,0 +1,111 @@
+{
+  "noun": [
+    {
+      "description": "A drug taken illegally for recreational purposes, especially marijuana or heroin.",
+      "examples": [],
+      "synonyms": [
+        "drugs",
+        "narcotics",
+        "addictive drugs",
+        "recreational drugs",
+        "illegal drugs"
+      ]
+    },
+    {
+      "description": "A stupid person.",
+      "examples": [
+        "though he wasn't an intellectual giant, he was no dope either"
+      ],
+      "synonyms": [
+        "fool",
+        "idiot",
+        "ass",
+        "halfwit",
+        "nincompoop",
+        "blockhead",
+        "buffoon",
+        "dunce",
+        "dolt",
+        "ignoramus",
+        "cretin",
+        "imbecile",
+        "dullard",
+        "moron",
+        "simpleton",
+        "clod"
+      ]
+    },
+    {
+      "description": "Information about a subject, especially if not generally known.",
+      "examples": [
+        "our reviewer will give you the dope on hot spots around the town"
+      ],
+      "synonyms": [
+        "information",
+        "details",
+        "particulars",
+        "facts",
+        "figures",
+        "statistics",
+        "data"
+      ]
+    },
+    {
+      "description": "A varnish applied to the fabric surface of model aircraft to strengthen them and keep them airtight.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Administer drugs to (a racehorse, greyhound, or athlete) in order to inhibit or enhance sporting performance.",
+      "examples": [
+        "the horse was doped before the race"
+      ],
+      "synonyms": [
+        "drug",
+        "administer drugs to",
+        "administer narcotics to",
+        "administer opiates to"
+      ]
+    },
+    {
+      "description": "Smear or cover with varnish or other thick liquid.",
+      "examples": [
+        "she doped the surface with photographic emulsion"
+      ]
+    },
+    {
+      "description": "Add an impurity to (a semiconductor) to produce a desired electrical characteristic.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Very good.",
+      "examples": [
+        "that suit is dope!"
+      ],
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "splendid",
+        "glorious",
+        "sublime",
+        "lovely",
+        "delightful",
+        "first-class",
+        "first-rate",
+        "outstanding"
+      ]
+    }
+  ],
+  "phrases": [
+    "they met to dope out plans for covering the event"
+  ],
+  "origin": "Early 19th century (in the sense thick liquid): from Dutch doop sauce, from doopen to dip, mix.",
+  "pronounciation": "/dōp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dope_us_1.mp3"
+}

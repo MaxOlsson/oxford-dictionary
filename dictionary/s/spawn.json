@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "(of a fish, frog, mollusk, crustacean, etc.) release or deposit eggs.",
+      "examples": [
+        "the fish spawn among fine-leaved plants",
+        "a large brood is spawned"
+      ]
+    },
+    {
+      "description": "(of a person) produce (offspring)",
+      "examples": [
+        "why had she married a man who could spawn a boy like that?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The eggs of fish, frogs, etc.",
+      "examples": [
+        "the fish covers its spawn with gravel"
+      ]
+    },
+    {
+      "description": "The product or offspring of a person or place (used to express distaste or disgust)",
+      "examples": [
+        "the spawn of chaos: demons and sorcerers"
+      ],
+      "synonyms": [
+        "children",
+        "sons and daughters",
+        "progeny",
+        "family",
+        "youngsters",
+        "babies",
+        "brood"
+      ]
+    },
+    {
+      "description": "The mycelium of a fungus, especially a cultivated mushroom.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: shortening of Anglo-Norman French espaundre to shed roe, variant of Old French espandre pour out, from Latin expandere expand.",
+  "pronounciation": "/spôn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spawn_us_1.mp3"
+}

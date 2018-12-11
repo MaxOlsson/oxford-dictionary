@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Dark or poorly lit, especially so as to appear depressing or frightening.",
+      "examples": [
+        "a gloomy corridor"
+      ],
+      "synonyms": [
+        "dark",
+        "ill-lit",
+        "poorly lit",
+        "shadowy",
+        "sunless",
+        "dim",
+        "sombre",
+        "dingy",
+        "frowzy",
+        "drab",
+        "dismal",
+        "dreary",
+        "murky",
+        "depressing",
+        "unwelcoming",
+        "uninviting",
+        "cheerless",
+        "joyless",
+        "comfortless",
+        "funereal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡlumi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gloomy_us_1.mp3"
+}

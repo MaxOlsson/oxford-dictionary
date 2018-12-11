@@ -1,0 +1,47 @@
+{
+  "pronoun": [
+    {
+      "description": "Not anything; no single thing.",
+      "examples": [
+        "I said nothing",
+        "there's nothing you can do",
+        "they found nothing wrong"
+      ],
+      "synonyms": [
+        "not a thing",
+        "not a single thing",
+        "not anything",
+        "nothing at all",
+        "nil",
+        "zero"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having no prospect of progress; of no value.",
+      "examples": [
+        "he had a series of nothing jobs"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Not at all.",
+      "examples": [
+        "he looks nothing like the others",
+        "she cares nothing for others"
+      ]
+    }
+  ],
+  "phrases": [
+    "working for nothing",
+    "Admission was free and the four played for nothing, which has yet to provoke the organisers' gratitude.",
+    "In effect that meant money for nothing for those prepared to wait.",
+    "Rarely a day passes when letters drop on doorsteps offering an irresistible way to make money or win a free gift for nothing.",
+    "I've even had an offer from a designer to put it together for nothing."
+  ],
+  "origin": "Old English nān thing (see no, thing).",
+  "pronounciation": "/ˈnəθɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nothing_us_1.mp3"
+}

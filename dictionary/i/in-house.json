@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Done or existing within an organization.",
+      "examples": [
+        "in-house publications"
+      ],
+      "synonyms": [
+        "domestic",
+        "home",
+        "interior",
+        "civil",
+        "local"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Without assistance from outside an organization; internally.",
+      "examples": [
+        "services previously provided in-house are being contracted out"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈin ˈhous/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/in_house_1_us_1.mp3"
+}

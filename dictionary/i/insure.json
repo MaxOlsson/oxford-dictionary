@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone), in exchange for regular advance payments to a company or government agency.",
+      "examples": [
+        "the table should be insured for $2,500",
+        "the company had insured itself against a fall of the dollar",
+        "businesses can insure against exchange rate fluctuations"
+      ],
+      "synonyms": [
+        "sponsor",
+        "support",
+        "back",
+        "indemnify",
+        "provide security for",
+        "take the risk for",
+        "subsidize",
+        "contribute to",
+        "pay for",
+        "provide capital for",
+        "finance",
+        "fund"
+      ]
+    },
+    {
+      "description": "Secure or protect someone against (a possible contingency)",
+      "examples": [
+        "by appeasing Celia they might insure themselves against further misfortune",
+        "such changes could insure against further violence and unrest"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense assure someone of something): alteration of ensure.",
+  "pronounciation": "/ɪnˈʃʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insure_us_1.mp3"
+}

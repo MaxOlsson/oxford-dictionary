@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Calculate or reckon (a figure or amount)",
+      "examples": [
+        "we can compute the exact increase",
+        "depreciation is computed by applying the straight-line method"
+      ],
+      "synonyms": [
+        "calculate",
+        "work out",
+        "reckon",
+        "figure",
+        "enumerate",
+        "determine",
+        "evaluate",
+        "assess",
+        "quantify",
+        "put a figure on"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French computer or Latin computare, from com- together + putare to settle (an account).",
+  "pronounciation": "/kəmˈpjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compute_us_1.mp3"
+}

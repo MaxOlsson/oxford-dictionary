@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Not wanted or desirable because harmful, objectionable, or unpleasant.",
+      "examples": [
+        "the drug's undesirable side effects"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "disagreeable",
+        "nasty",
+        "unacceptable",
+        "unwelcome",
+        "unwanted",
+        "unwished-for",
+        "unenviable",
+        "unappealing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person considered to be objectionable in some way.",
+      "examples": [],
+      "synonyms": [
+        "despicable people",
+        "despicable person",
+        "rabble",
+        "riff-raff",
+        "refuse",
+        "garbage",
+        "trash",
+        "vermin",
+        "good-for-nothing",
+        "good-for-nothings",
+        "undesirable",
+        "undesirables",
+        "the lowest of the low",
+        "the dregs of society"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌəndəˈzī(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undesirable_us_1.mp3"
+}

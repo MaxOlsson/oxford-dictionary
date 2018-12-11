@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "The action of forming or process of being formed.",
+      "examples": [
+        "the formation of the Great Rift Valley"
+      ],
+      "synonyms": [
+        "emergence",
+        "coming into being",
+        "genesis",
+        "development",
+        "evolution",
+        "origination",
+        "shaping",
+        "generation"
+      ]
+    },
+    {
+      "description": "A structure or arrangement of something.",
+      "examples": [
+        "a cloud formation"
+      ],
+      "synonyms": [
+        "configuration",
+        "arrangement",
+        "pattern",
+        "array",
+        "alignment",
+        "positioning",
+        "disposition",
+        "order",
+        "ordering",
+        "organization",
+        "design",
+        "marshalling",
+        "grouping",
+        "layout",
+        "format"
+      ]
+    },
+    {
+      "description": "A formal arrangement of aircraft in flight or troops.",
+      "examples": [
+        "a battle formation",
+        "the helicopters hovered overhead in formation"
+      ]
+    },
+    {
+      "description": "An assemblage of rocks or series of strata having some common characteristic.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin formatio(n-), from formare to form (see form).",
+  "pronounciation": "/fɔrˈmeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/formation_us_1.mp3"
+}

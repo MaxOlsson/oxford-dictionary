@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Remove (something) from a tomb.",
+      "examples": [
+        "a mummy that we saw disentombed"
+      ],
+      "synonyms": [
+        "dig up",
+        "excavate",
+        "exhume",
+        "disinter",
+        "bring to the surface",
+        "mine",
+        "quarry",
+        "pull out",
+        "root out",
+        "scoop out",
+        "unbury"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdɪsənˈtum/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disentomb_us_1.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "Extreme anxiety, sorrow, or pain.",
+      "examples": [
+        "to his distress he saw that she was trembling"
+      ],
+      "synonyms": [
+        "anguish",
+        "suffering",
+        "pain",
+        "agony",
+        "ache",
+        "affliction",
+        "torment",
+        "torture",
+        "discomfort",
+        "heartache",
+        "heartbreak"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) anxiety, sorrow, or pain.",
+      "examples": [
+        "I didn't mean to distress you",
+        "he was distressed to find that Anna would not talk to him"
+      ],
+      "synonyms": [
+        "cause anguish to",
+        "cause suffering to",
+        "pain",
+        "upset",
+        "make miserable",
+        "make wretched"
+      ]
+    },
+    {
+      "description": "Give (furniture, leather, or clothing) simulated marks of age and wear.",
+      "examples": [
+        "the manner in which leather jackets are industrially distressed"
+      ],
+      "synonyms": [
+        "age",
+        "season",
+        "condition",
+        "mellow",
+        "weather",
+        "simulate age in"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French destresce (noun), destrecier (verb), based on Latin distringere stretch apart.",
+  "pronounciation": "/dəˈstres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distress_us_1.mp3"
+}

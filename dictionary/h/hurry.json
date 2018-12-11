@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Move or act with great haste.",
+      "examples": [
+        "we'd better hurry",
+        "servants hurried around"
+      ],
+      "synonyms": [
+        "be quick",
+        "hurry up",
+        "move quickly",
+        "go fast",
+        "hasten",
+        "make haste",
+        "speed",
+        "speed up",
+        "lose no time",
+        "press on",
+        "push on",
+        "run",
+        "dash",
+        "rush",
+        "hurtle",
+        "dart",
+        "race",
+        "fly",
+        "flash",
+        "shoot",
+        "streak",
+        "bolt",
+        "bound",
+        "blast",
+        "charge",
+        "chase",
+        "career",
+        "scurry",
+        "scramble",
+        "scamper",
+        "scuttle",
+        "sprint",
+        "gallop",
+        "go hell for leather",
+        "go like lightning"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Great haste.",
+      "examples": [
+        "in my hurry to leave I knocked over a pile of books"
+      ],
+      "synonyms": [
+        "haste",
+        "flurry",
+        "bustle",
+        "confusion",
+        "commotion",
+        "hubbub",
+        "hustle",
+        "urgency",
+        "agitation",
+        "turmoil"
+      ]
+    }
+  ],
+  "phrases": [
+    "the city offers fast food if you're in a hurry",
+    "Mommy jumped from her chair in a hurry, then quickly put her hand to her head.",
+    "Indeed, Sarah was often a woman in a hurry and her household economy was a busy place.",
+    "Our bags were packed in a hurry and we had to rush to our limo that would take us to the ship.",
+    "He paused and he seemed like he was in a hurry so he rushed out."
+  ],
+  "origin": "Late 16th century (as a verb): imitative.",
+  "pronounciation": "/ˈhərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hurry_us_1.mp3"
+}

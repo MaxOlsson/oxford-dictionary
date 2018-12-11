@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "The action of conceiving a child or of a child being conceived.",
+      "examples": [
+        "an unfertilized egg before conception",
+        "a rise in premarital conceptions"
+      ],
+      "synonyms": [
+        "inception of pregnancy",
+        "conceiving",
+        "fertilization",
+        "impregnation",
+        "insemination"
+      ]
+    },
+    {
+      "description": "The forming or devising of a plan or idea.",
+      "examples": [
+        "the time between a product's conception and its launch"
+      ],
+      "synonyms": [
+        "inception",
+        "genesis",
+        "origination",
+        "creation",
+        "formation",
+        "formulation",
+        "invention"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin conceptio(n-), from the verb concipere (see conceive).",
+  "pronounciation": "/kənˈsepSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconception_us_1.mp3"
+}

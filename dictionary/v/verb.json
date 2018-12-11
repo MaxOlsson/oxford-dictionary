@@ -1,0 +1,19 @@
+{
+  "noun": [
+    {
+      "description": "A word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use (a word that is not conventionally used as a verb, typically a noun) as a verb.",
+      "examples": [
+        "any English noun can be verbed, but some are more resistant than others"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French verbe or Latin verbum word, verb.",
+  "pronounciation": "/vərb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/verb_us_1.mp3"
+}

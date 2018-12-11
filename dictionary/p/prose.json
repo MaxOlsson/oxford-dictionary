@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "Written or spoken language in its ordinary form, without metrical structure.",
+      "examples": [
+        "a short story in prose",
+        "a prose passage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Talk tediously.",
+      "examples": [
+        "prosing on about female beauty"
+      ]
+    },
+    {
+      "description": "Compose in or convert into prose.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin prosa (oratio) straightforward (discourse), feminine of prosus, earlier prorsus direct.",
+  "pronounciation": "/proʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prose_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Made smaller or less.",
+      "examples": [
+        "a diminished role for local government"
+      ],
+      "synonyms": [
+        "shortened",
+        "cut",
+        "cut short",
+        "cut down",
+        "concise",
+        "condensed",
+        "contracted",
+        "compressed",
+        "abbreviated",
+        "reduced",
+        "decreased",
+        "shrunk",
+        "curtailed",
+        "truncated",
+        "lessened",
+        "trimmed",
+        "cropped",
+        "clipped",
+        "pruned",
+        "pared down",
+        "stripped down",
+        "bare-bones",
+        "skeleton"
+      ]
+    },
+    {
+      "description": "Denoting or containing an interval which is one semitone less than the corresponding minor or perfect interval.",
+      "examples": [
+        "a diminished fifth"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈmɪnɪʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diminished_us_1.mp3"
+}

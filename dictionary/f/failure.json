@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "Lack of success.",
+      "examples": [
+        "an economic policy that is doomed to failure",
+        "the failures of his policies"
+      ],
+      "synonyms": [
+        "lack of success",
+        "non-success",
+        "non-fulfilment",
+        "abortion",
+        "miscarriage",
+        "defeat",
+        "frustration",
+        "collapse",
+        "foundering",
+        "misfiring",
+        "coming to nothing",
+        "falling through"
+      ]
+    },
+    {
+      "description": "The omission of expected or required action.",
+      "examples": [
+        "their failure to comply with the basic rules"
+      ],
+      "synonyms": [
+        "negligence",
+        "remissness",
+        "non-observance",
+        "non-performance",
+        "dereliction"
+      ]
+    },
+    {
+      "description": "The action or state of not functioning.",
+      "examples": [
+        "symptoms of heart failure",
+        "an engine failure"
+      ],
+      "synonyms": [
+        "breaking down",
+        "breakdown",
+        "non-function",
+        "cutting out",
+        "seizing up"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (originally as failer, in the senses non-occurrence and cessation of supply): from Anglo-Norman French failer for Old French faillir (see fail).",
+  "pronounciation": "/ˈfālyər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/failure_us_1.mp3"
+}

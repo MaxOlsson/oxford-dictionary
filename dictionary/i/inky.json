@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "As dark as ink.",
+      "examples": [
+        "the cold inky blackness of a Mexican cave"
+      ],
+      "synonyms": [
+        "black",
+        "jet-black",
+        "jet",
+        "pitch-black",
+        "pitch-dark",
+        "pitch",
+        "black as pitch",
+        "coal-black",
+        "black as night",
+        "sable",
+        "ebony",
+        "dark"
+      ]
+    },
+    {
+      "description": "Stained with ink.",
+      "examples": [
+        "bureaucrats with inky fingers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪŋki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inky_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The process of developing or being developed.",
+      "examples": [
+        "she traces the development of the novel",
+        "the development of less invasive treatment"
+      ],
+      "synonyms": [
+        "evolution",
+        "growth",
+        "maturing",
+        "expansion",
+        "enlargement",
+        "spread",
+        "buildout",
+        "progress",
+        "success",
+        "blossoming",
+        "blooming",
+        "burgeoning",
+        "headway"
+      ]
+    },
+    {
+      "description": "The process of starting to experience or suffer from an ailment or feeling.",
+      "examples": [
+        "the development of brittle bones"
+      ]
+    },
+    {
+      "description": "The process of treating photographic film with chemicals to make a visible image.",
+      "examples": []
+    },
+    {
+      "description": "The process of bringing one's pieces into play in the opening phase of a game.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/dəˈvɛləpmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/development_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not showing emotion; having one's feelings under control.",
+      "examples": [
+        "his every word seemed to be calm and controlled",
+        "she's a very controlled player and is mentally tough"
+      ]
+    },
+    {
+      "description": "Under the control of someone or something.",
+      "examples": [
+        "the country's tightly controlled financial markets",
+        "rebel-controlled areas of the country"
+      ]
+    },
+    {
+      "description": "(of an experiment, test, etc.) carried out under conditions that preclude error or the influence of extraneous factors.",
+      "examples": [
+        "the first randomized controlled trial to study the effects of copper bracelets on rheumatoid arthritis"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈtroʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontrolled_us_1.mp3"
+}

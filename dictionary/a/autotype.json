@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A facsimile.",
+      "examples": [],
+      "synonyms": [
+        "copy",
+        "reproduction",
+        "duplicate",
+        "photocopy",
+        "mimeograph",
+        "mimeo",
+        "replica",
+        "likeness",
+        "carbon",
+        "carbon copy",
+        "print",
+        "reprint",
+        "offprint",
+        "image"
+      ]
+    },
+    {
+      "description": "A photographic printing process for monochrome reproduction.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈɔːtə(ʊ)tʌɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/autotype_gb_1_8.mp3"
+}

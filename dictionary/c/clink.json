@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A sharp ringing sound, such as that made when metal or glass are struck.",
+      "examples": [
+        "the clink of ice in tall glasses",
+        "a clink of keys"
+      ],
+      "synonyms": [
+        "clank",
+        "clanking",
+        "clink",
+        "clinking",
+        "chink",
+        "chinking",
+        "jangling",
+        "jingle",
+        "jingling",
+        "clash",
+        "clashing",
+        "clang",
+        "clanging",
+        "rattle",
+        "rattling",
+        "clangour"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or cause to make a clink.",
+      "examples": [
+        "his ring clinked against the crystal",
+        "I heard Suzie clink a piece of crockery",
+        "the clinking of glasses"
+      ],
+      "synonyms": [
+        "clank",
+        "clink",
+        "jingle",
+        "tinkle",
+        "ding",
+        "ping",
+        "clang",
+        "clash",
+        "clatter",
+        "rattle",
+        "vibrate",
+        "ring",
+        "chime"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (originally denoting a prison in Southwark, London): of unknown origin.",
+  "pronounciation": "/kliNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clink_us_1.mp3"
+}

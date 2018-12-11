@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "An amount of teaching given at one time; a period of learning or teaching.",
+      "examples": [
+        "an advanced lesson in math",
+        "a driving lesson"
+      ],
+      "synonyms": [
+        "class",
+        "session",
+        "seminar",
+        "tutorial",
+        "lecture",
+        "period"
+      ]
+    },
+    {
+      "description": "A passage from the Bible read aloud during a church service, especially either of two readings at morning and evening prayer in the Anglican Church.",
+      "examples": [],
+      "synonyms": [
+        "bible reading",
+        "bible passage",
+        "scripture",
+        "text",
+        "reading"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Instruct or teach (someone).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "they were teaching me a lesson for daring to complain",
+    "I would like to teach them a lesson, said Mrs North.",
+    "He decided to teach them a lesson and it was a wrong move.",
+    "Our nation's experience with prescription drugs should teach us a lesson.",
+    "Perhaps this will teach you a lesson, and be a warning for any of those thinking of rebelling."
+  ],
+  "origin": "Middle English: from Old French leçon, from Latin lectio (see lection).",
+  "pronounciation": "/ˈlɛs(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lesson_us_1.mp3"
+}

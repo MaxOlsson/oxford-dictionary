@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Pacify or placate (someone) by acceding to their demands.",
+      "examples": [
+        "amendments have been added to appease local pressure groups"
+      ],
+      "synonyms": [
+        "conciliate",
+        "placate",
+        "pacify",
+        "make peace with",
+        "propitiate",
+        "palliate",
+        "allay",
+        "reconcile",
+        "win over"
+      ]
+    },
+    {
+      "description": "Relieve or satisfy (a demand or a feeling)",
+      "examples": [
+        "we give to charity because it appeases our guilt"
+      ],
+      "synonyms": [
+        "satisfy",
+        "fulfil",
+        "gratify",
+        "meet",
+        "fill",
+        "serve",
+        "provide for",
+        "indulge"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French apaisier, from a- (from Latin ad to, at) + pais peace.",
+  "pronounciation": "/əˈpēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/appease_us_1.mp3"
+}

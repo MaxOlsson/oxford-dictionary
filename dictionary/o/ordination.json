@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The action of ordaining or conferring holy orders on someone.",
+      "examples": [
+        "the ordination of women"
+      ],
+      "synonyms": [
+        "induction",
+        "introduction",
+        "admission",
+        "admittance",
+        "installation",
+        "incorporation",
+        "investiture",
+        "investment",
+        "enlistment",
+        "enrolment",
+        "recruitment"
+      ]
+    },
+    {
+      "description": "A statistical technique in which data from a large number of sites or populations are represented as points in a two- or three-dimensional coordinate frame.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the general sense arrangement in order): from Latin ordinatio(n-), from Latin ordinare put in order (see ordain).",
+  "pronounciation": "/ˌɔrdnˈeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ordination_us_1.mp3"
+}

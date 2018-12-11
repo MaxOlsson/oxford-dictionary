@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Shining brightly with flashes of light.",
+      "examples": [
+        "her sparkling blue eyes"
+      ]
+    },
+    {
+      "description": "(of a drink) effervescent.",
+      "examples": [
+        "sparkling wine"
+      ],
+      "synonyms": [
+        "effervescent",
+        "fizzy",
+        "carbonated",
+        "aerated",
+        "gassy",
+        "bubbly",
+        "bubbling",
+        "fizzing",
+        "foaming",
+        "frothy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspärkəliNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sparkling_us_1.mp3"
+}

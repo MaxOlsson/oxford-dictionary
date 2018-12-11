@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Of, resembling, or containing yeast.",
+      "examples": [
+        "the yeasty smell of rising dough"
+      ],
+      "synonyms": [
+        "foaming",
+        "foamy",
+        "bubbling",
+        "bubbly",
+        "fizzy",
+        "sparkling",
+        "effervescent",
+        "gassy",
+        "carbonated",
+        "aerated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈyēstē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yeasty_us_2.mp3"
+}

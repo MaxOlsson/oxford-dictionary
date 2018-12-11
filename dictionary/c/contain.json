@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Have or hold (someone or something) within.",
+      "examples": [
+        "coffee cans that once contained a full pound of coffee"
+      ],
+      "synonyms": [
+        "hold",
+        "have capacity for",
+        "have room for",
+        "have seating for",
+        "have space for",
+        "carry",
+        "accommodate",
+        "seat"
+      ]
+    },
+    {
+      "description": "Control or restrain (oneself or a feeling)",
+      "examples": [
+        "she was scarcely able to contain herself as she waited to spill the beans"
+      ],
+      "synonyms": [
+        "restrain",
+        "curb",
+        "rein in",
+        "suppress",
+        "repress",
+        "stifle",
+        "subdue",
+        "quell",
+        "limit",
+        "swallow",
+        "bottle up",
+        "keep under control",
+        "keep back",
+        "hold in",
+        "keep in check"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French contenir, from Latin continere, from con- altogether + tenere to hold.",
+  "pronounciation": "/kənˈtān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xcontain_us_1.mp3"
+}

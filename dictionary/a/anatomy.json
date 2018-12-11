@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "The branch of science concerned with the bodily structure of humans, animals, and other living organisms, especially as revealed by dissection and the separation of parts.",
+      "examples": []
+    },
+    {
+      "description": "A study of the structure or internal workings of something.",
+      "examples": [
+        "Machiavelli's anatomy of the art of war"
+      ],
+      "synonyms": [
+        "analysis",
+        "examination",
+        "inspection",
+        "survey",
+        "study",
+        "scrutiny",
+        "perusal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French anatomie or late Latin anatomia, from Greek, from ana- up + tomia cutting (from temnein to cut).",
+  "pronounciation": "/əˈnædəmi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anatomy_us_2.mp3"
+}

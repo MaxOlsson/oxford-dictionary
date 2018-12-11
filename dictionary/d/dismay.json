@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "Consternation and distress, typically that caused by something unexpected.",
+      "examples": [
+        "to his dismay, she left him"
+      ],
+      "synonyms": [
+        "alarm",
+        "shock",
+        "surprise",
+        "consternation",
+        "concern",
+        "perturbation",
+        "disquiet",
+        "disquietude",
+        "discomposure",
+        "distress",
+        "upset",
+        "anxiety",
+        "trepidation",
+        "fear"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to feel consternation and distress.",
+      "examples": [
+        "they were dismayed by the U-turn in policy"
+      ],
+      "synonyms": [
+        "appal",
+        "horrify",
+        "shock",
+        "shake",
+        "shake up"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, based on Latin dis- (expressing negation) + the Germanic base of may.",
+  "pronounciation": "/disˈmā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dismay_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "Spun thread used for knitting, weaving, or sewing.",
+      "examples": [],
+      "synonyms": [
+        "thread",
+        "cotton",
+        "wool",
+        "fibre",
+        "filament",
+        "strand"
+      ]
+    },
+    {
+      "description": "A long or rambling story, especially one that is implausible.",
+      "examples": [],
+      "synonyms": [
+        "story",
+        "tale",
+        "anecdote",
+        "fable",
+        "parable",
+        "traveller's tale",
+        "fairy story",
+        "rigmarole",
+        "saga",
+        "sketch",
+        "narrative",
+        "reminiscence",
+        "account",
+        "report",
+        "history"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Tell a long or implausible story.",
+      "examples": [
+        "they were yarning about local legends and superstitions"
+      ]
+    }
+  ],
+  "origin": "Old English gearn; of Germanic origin, related to Dutch garen.",
+  "pronounciation": "/yärn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yarn_us_1.mp3"
+}

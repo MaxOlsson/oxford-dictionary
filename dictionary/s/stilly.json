@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "Quietly and with little movement.",
+      "examples": [
+        "the birds rested stilly"
+      ],
+      "synonyms": [
+        "silently",
+        "in silence",
+        "noiselessly",
+        "soundlessly",
+        "inaudibly"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Still and quiet.",
+      "examples": [
+        "the stilly night"
+      ],
+      "synonyms": [
+        "quiet",
+        "silent",
+        "hushed",
+        "soundless",
+        "noiseless",
+        "undisturbed",
+        "sound-free"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstɪˌli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stilly_us_1.mp3"
+}

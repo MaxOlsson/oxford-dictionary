@@ -1,0 +1,62 @@
+{
+  "adjective": [
+    {
+      "description": "Exceptionally good.",
+      "examples": [
+        "a crackerjack eye surgeon"
+      ],
+      "synonyms": [
+        "expert",
+        "skilled",
+        "skilful",
+        "masterly",
+        "virtuoso",
+        "master",
+        "consummate",
+        "proficient",
+        "accomplished",
+        "talented",
+        "gifted",
+        "adept",
+        "adroit",
+        "deft",
+        "dexterous",
+        "able",
+        "good",
+        "competent",
+        "capable",
+        "efficient",
+        "experienced",
+        "seasoned",
+        "trained",
+        "practised"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An exceptionally good person or thing.",
+      "examples": [],
+      "synonyms": [
+        "genius",
+        "expert",
+        "master",
+        "master hand",
+        "artist",
+        "maestro",
+        "prodigy",
+        "marvel",
+        "adept",
+        "past master",
+        "specialist",
+        "skilled person",
+        "professional",
+        "doyen",
+        "authority",
+        "veteran"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkrækərˌdʒæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crackerjack_us_1.mp3"
+}

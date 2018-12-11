@@ -1,0 +1,31 @@
+{
+  "exclamation": [
+    {
+      "description": "Expressing good wishes before drinking.",
+      "examples": [
+        "“Cheers,” she said, raising her glass"
+      ],
+      "synonyms": [
+        "here's to you",
+        "good health",
+        "your health",
+        "here's health",
+        "skol",
+        "good luck"
+      ]
+    },
+    {
+      "description": "Expressing good wishes on parting or ending a conversation.",
+      "examples": [
+        "“Cheers, Jack, see you later.”"
+      ],
+      "synonyms": [
+        "goodbye",
+        "farewell",
+        "adieu"
+      ]
+    }
+  ],
+  "pronounciation": "/CHirz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cheers_us_1.mp3"
+}

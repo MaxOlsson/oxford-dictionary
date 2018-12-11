@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Throw or hurl forcefully.",
+      "examples": [
+        "he picked up the debris and flung it away",
+        "I was flung into jail"
+      ],
+      "synonyms": [
+        "throw",
+        "toss",
+        "sling",
+        "hurl",
+        "cast",
+        "pitch",
+        "lob",
+        "bowl",
+        "launch",
+        "flip",
+        "shy",
+        "send",
+        "propel",
+        "project",
+        "aim",
+        "direct",
+        "catapult",
+        "fire",
+        "send flying",
+        "let fly with"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short period of enjoyment or wild behavior.",
+      "examples": [
+        "one final fling before a tranquil retirement"
+      ],
+      "synonyms": [
+        "good time",
+        "binge",
+        "spree",
+        "bit of fun",
+        "bit of amusement",
+        "night on the town"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense go violently): perhaps related to Old Norse flengja flog. The main verb sense is based on an earlier sense reckless movement of the body and dates from the early 19th century.",
+  "pronounciation": "/flɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fling_us_1.mp3"
+}

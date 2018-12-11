@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Withdraw or retract (a statement)",
+      "examples": [
+        "once something has been said, it cannot be unsaid",
+        "I cannot unsay it now"
+      ],
+      "synonyms": [
+        "take back",
+        "withdraw",
+        "recant",
+        "disown",
+        "disavow",
+        "disclaim",
+        "abjure",
+        "repudiate",
+        "renounce",
+        "reverse",
+        "revoke",
+        "rescind",
+        "annul",
+        "cancel",
+        "go back on",
+        "backtrack on",
+        "do a u-turn on",
+        "row back on"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsay_us_1.mp3"
+}

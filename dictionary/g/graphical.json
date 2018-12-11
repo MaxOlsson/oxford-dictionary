@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or in the form of a graph.",
+      "examples": [
+        "flowcharts are graphical presentations"
+      ]
+    },
+    {
+      "description": "Relating to visual art or computer graphics.",
+      "examples": [
+        "a high-resolution graphical display"
+      ],
+      "synonyms": [
+        "graphic",
+        "tabular",
+        "pictorial",
+        "delineative",
+        "illustrative",
+        "representational",
+        "representative",
+        "schematic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡrafək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_graphical_1_us_1.mp3"
+}

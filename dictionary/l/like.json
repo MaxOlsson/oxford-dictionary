@@ -1,0 +1,159 @@
+{
+  "preposition": [
+    {
+      "description": "Having the same characteristics or qualities as; similar to.",
+      "examples": [
+        "they were like brothers",
+        "she looked nothing like Audrey Hepburn",
+        "there were other suits like mine in the shop"
+      ],
+      "synonyms": [
+        "similar to",
+        "the same as",
+        "identical to"
+      ]
+    },
+    {
+      "description": "Used to draw attention to the nature of an action or event.",
+      "examples": [
+        "I apologize for coming over unannounced like this",
+        "why are you talking about me like that?"
+      ]
+    },
+    {
+      "description": "Such as; for example.",
+      "examples": [
+        "the cautionary vision of works like Animal Farm and 1984"
+      ],
+      "synonyms": [
+        "such as",
+        "for example",
+        "for instance",
+        "in particular",
+        "as",
+        "namely",
+        "viz."
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "In the same way that; as.",
+      "examples": [
+        "people who change countries like they change clothes"
+      ]
+    },
+    {
+      "description": "As though; as if.",
+      "examples": [
+        "I felt like I'd been kicked by a camel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Used with reference to a person or thing of the same kind as another.",
+      "examples": [
+        "the quotations could be arranged to put like with like",
+        "I know him—him and his like"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person or thing) having similar qualities or characteristics to another person or thing.",
+      "examples": [
+        "I responded in like manner",
+        "the grouping of children of like ability together"
+      ],
+      "synonyms": [
+        "similar",
+        "much the same",
+        "more or less the same",
+        "not unlike",
+        "comparable",
+        "corresponding",
+        "correspondent",
+        "resembling",
+        "alike",
+        "approximating",
+        "analogous",
+        "parallel",
+        "equivalent",
+        "cognate",
+        "related",
+        "of a kind",
+        "akin",
+        "kindred"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used in speech as a meaningless filler or to signify the speaker's uncertainty about an expression just used.",
+      "examples": [
+        "there was this funny smell—sort of dusty like"
+      ]
+    },
+    {
+      "description": "Used to convey a person's reported attitude or feelings in the form of direct speech (whether or not representing an actual quotation)",
+      "examples": [
+        "so she comes into the room and she's like “Where is everybody?”"
+      ]
+    },
+    {
+      "description": "In the manner of.",
+      "examples": [
+        "like as a ship with dreadful storm long tossed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Find agreeable, enjoyable, or satisfactory.",
+      "examples": [
+        "people who don't like reading books",
+        "I like to be the center of attention",
+        "I like all Angela Carter's stories"
+      ],
+      "synonyms": [
+        "be fond of",
+        "be attached to",
+        "have a soft spot for",
+        "have a fondness for",
+        "have a liking for",
+        "have regard for",
+        "think well of",
+        "look on with favour",
+        "hold in esteem",
+        "admire",
+        "respect",
+        "esteem"
+      ]
+    },
+    {
+      "description": "Wish for; want.",
+      "examples": [
+        "would you like a cup of coffee?",
+        "I'd like to rent a car",
+        "I'd like you to stay",
+        "we would like for you to work for us"
+      ]
+    }
+  ],
+  "phrases": [
+    "I've spent the entire day sorting and washing baby clothes and the like.",
+    "The boot includes hooks for shopping bags and the like and the exterior is enhanced by alloy wheels.",
+    "Eton food was all horribly unimaginative, stews and the like, and the only thing I enjoyed was fish.",
+    "Writers of fiction often use the same effect to present swift action, changes in thinking, and the like.",
+    "His siblings all went into law, medicine and the like, but he had a more artistic bent.",
+    "we could go riding if you like",
+    "You can use any vegetables - add leeks, carrots, potatoes or cauliflower if you like.",
+    "Call me a reactionary if you like, but I still think reading a work is an important first step in criticizing it.",
+    "It's cordless, so you can then pick it up and bring it right to the table, if you like.",
+    "There are a variety of committees which you can participate in if you like."
+  ],
+  "origin": "Old English līcian be pleasing, of Germanic origin; related to Dutch lijken.",
+  "pronounciation": "/līk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_like_1_us_1.mp3"
+}

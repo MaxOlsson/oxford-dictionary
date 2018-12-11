@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "An electromagnetic wave of high energy and very short wavelength, which is able to pass through many materials opaque to light.",
+      "examples": []
+    },
+    {
+      "description": "A photographic or digital image of the internal composition of something, especially a part of the body, produced by X-rays being passed through it and being absorbed to different degrees by different materials.",
+      "examples": [],
+      "synonyms": [
+        "radiogram",
+        "radiograph",
+        "x-ray image"
+      ]
+    },
+    {
+      "description": "A code word representing the letter X, used in radio communication.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Photograph or examine with X-rays.",
+      "examples": [
+        "luggage bound for the hold is X-rayed"
+      ]
+    }
+  ],
+  "origin": "Translation of German X-Strahlen (plural), from X- (because, when discovered in 1895, the nature of the rays was unknown) + Strahl ray.",
+  "pronounciation": "/ˈeksˌrā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/x_ray_1_us_1.mp3"
+}

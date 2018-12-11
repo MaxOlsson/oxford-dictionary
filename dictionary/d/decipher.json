@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Convert (a text written in code, or a coded signal) into normal language.",
+      "examples": [
+        "enable the government to decipher coded computer transmissions"
+      ],
+      "synonyms": [
+        "decode",
+        "decrypt",
+        "break",
+        "work out",
+        "solve",
+        "interpret",
+        "translate",
+        "construe",
+        "explain"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from de- (expressing reversal) + cipher, on the pattern of French déchiffrer.",
+  "pronounciation": "/dəˈsaɪfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/decipher_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Covered with plants that have been allowed to grow wild.",
+      "examples": [
+        "the garden was overgrown and deserted"
+      ],
+      "synonyms": [
+        "run down",
+        "derelict",
+        "dilapidated",
+        "tumbledown",
+        "ramshackle",
+        "untended",
+        "unmaintained"
+      ]
+    },
+    {
+      "description": "Grown too large or beyond its normal size.",
+      "examples": [
+        "the town is only an overgrown village"
+      ],
+      "synonyms": [
+        "large",
+        "sizeable",
+        "of considerable size",
+        "substantial",
+        "considerable",
+        "great",
+        "huge",
+        "immense",
+        "enormous",
+        "extensive",
+        "colossal",
+        "massive",
+        "mammoth",
+        "vast",
+        "prodigious",
+        "tremendous",
+        "gigantic",
+        "giant",
+        "monumental",
+        "mighty",
+        "stupendous",
+        "gargantuan",
+        "elephantine",
+        "titanic",
+        "epic",
+        "mountainous",
+        "megalithic",
+        "monstrous",
+        "brobdingnagian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈɡroʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overgrown_us_1.mp3"
+}

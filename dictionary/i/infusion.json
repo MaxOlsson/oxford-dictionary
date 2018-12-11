@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A drink, remedy, or extract prepared by soaking the leaves of a plant or herb in liquid.",
+      "examples": [],
+      "synonyms": [
+        "stock",
+        "broth",
+        "bouillon",
+        "juice",
+        "gravy",
+        "liquid",
+        "extract",
+        "concentrate",
+        "decoction"
+      ]
+    },
+    {
+      "description": "The introduction of a new element or quality into something.",
+      "examples": [
+        "the infusion of $6.3 million for improvements",
+        "an infusion of youthful talent"
+      ],
+      "synonyms": [
+        "introduction",
+        "instilling",
+        "imbuing",
+        "inculcation"
+      ]
+    },
+    {
+      "description": "The slow injection of a substance into a vein or tissue.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting the pouring in of a liquid): from Latin infusio(n-), from the verb infundere (see infuse).",
+  "pronounciation": "/inˈfyo͞oZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/infusion_us_1.mp3"
+}

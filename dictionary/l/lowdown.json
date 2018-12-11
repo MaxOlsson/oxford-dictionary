@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Mean and unfair.",
+      "examples": [
+        "dirty lowdown tricks"
+      ],
+      "synonyms": [
+        "unfair",
+        "mean",
+        "despicable",
+        "reprehensible",
+        "contemptible",
+        "lamentable",
+        "disgusting",
+        "shameful",
+        "low",
+        "abject",
+        "unworthy",
+        "shabby",
+        "uncharitable",
+        "base",
+        "dishonourable",
+        "unprincipled",
+        "ignoble",
+        "sordid",
+        "wretched",
+        "loathsome",
+        "odious",
+        "treacherous",
+        "underhand"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The true facts or relevant information about something.",
+      "examples": [
+        "get the lowdown on the sit-in"
+      ],
+      "synonyms": [
+        "inside information",
+        "the whole story",
+        "the facts"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈloʊdaʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lowdown_us_1.mp3"
+}

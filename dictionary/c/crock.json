@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "An earthenware pot or jar.",
+      "examples": [],
+      "synonyms": [
+        "earthenware pot",
+        "pot",
+        "jar",
+        "urn",
+        "pitcher",
+        "jug",
+        "ewer"
+      ]
+    },
+    {
+      "description": "Something considered to be complete nonsense.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause an injury to (a person or part of the body)",
+      "examples": [
+        "he crocked a shoulder"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps from Flemish, and probably related to crack. Originally a Scots term for an old ewe, it came in the late 19th century to denote an old or broken-down horse.",
+  "pronounciation": "/krɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crock_us_1.mp3"
+}

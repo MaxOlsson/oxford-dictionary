@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Not genuine; fraudulent.",
+      "examples": [
+        "I thought your accent was a bit phony"
+      ],
+      "synonyms": [
+        "bogus",
+        "not genuine",
+        "sham",
+        "false",
+        "fake",
+        "fraudulent",
+        "forged",
+        "feigned",
+        "counterfeit",
+        "so-called",
+        "spurious",
+        "pseudo"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fraudulent person or thing.",
+      "examples": [],
+      "synonyms": [
+        "impostor",
+        "sham",
+        "fake",
+        "fraud",
+        "mountebank",
+        "quack",
+        "cheat",
+        "swindler",
+        "fraudster",
+        "confidence trickster",
+        "defrauder",
+        "hoaxer",
+        "bluffer",
+        "pretender",
+        "masquerader",
+        "charlatan",
+        "rogue",
+        "scoundrel"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: of unknown origin.",
+  "pronounciation": "/ˈfōnē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_phony_1_us_2.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A narrow gorge or ravine.",
+      "examples": [],
+      "synonyms": [
+        "gorge",
+        "abyss",
+        "canyon",
+        "ravine",
+        "gully",
+        "gulf",
+        "pass",
+        "defile",
+        "couloir",
+        "crevasse",
+        "cleft",
+        "rift",
+        "rent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Push, press, or squeeze into a space when climbing.",
+      "examples": [
+        "I thrutched up the final crack to a small pinnacle"
+      ]
+    }
+  ],
+  "origin": "Old English (as a verb), of West Germanic origin.",
+  "pronounciation": "/θrʌtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thrutch_gb_1.mp3"
+}

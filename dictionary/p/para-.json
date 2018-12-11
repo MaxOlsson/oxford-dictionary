@@ -1,0 +1,21 @@
+{
+  "prefix": [
+    {
+      "description": "Beside; adjacent to.",
+      "examples": [
+        "parataxis",
+        "parathyroid",
+        "parameter"
+      ]
+    },
+    {
+      "description": "Denoting substitution at diametrically opposite carbon atoms in a benzene ring, e.g., in 1, 4 positions.",
+      "examples": [
+        "paradichlorobenzene"
+      ]
+    }
+  ],
+  "origin": "From French, from the Italian imperative singular of parare defend, shield (originally meaning prepare, from Latin parare).",
+  "pronounciation": "/ˈparə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/para_1_us_1.mp3"
+}

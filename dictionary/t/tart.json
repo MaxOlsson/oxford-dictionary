@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "An open pastry case containing a filling.",
+      "examples": [
+        "an apple tart"
+      ],
+      "synonyms": [
+        "pastry",
+        "flan",
+        "tartlet",
+        "quiche",
+        "strudel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dress or make oneself up in order to look attractive or eye-catching.",
+      "examples": [],
+      "synonyms": [
+        "dress oneself up",
+        "make oneself up",
+        "smarten oneself up",
+        "preen oneself",
+        "beautify oneself",
+        "groom oneself"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Sharp or acid in taste.",
+      "examples": [
+        "a tart apple"
+      ],
+      "synonyms": [
+        "sour",
+        "sharp",
+        "sharp-tasting",
+        "tangy",
+        "bitter",
+        "acid",
+        "acidic",
+        "zesty",
+        "piquant",
+        "pungent",
+        "strong",
+        "harsh",
+        "unsweetened",
+        "vinegary",
+        "lemony",
+        "citrus",
+        "burning",
+        "acrid",
+        "acetic"
+      ]
+    }
+  ],
+  "origin": "Old English teart harsh, severe, of unknown origin.",
+  "pronounciation": "/tärt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tart_us_1.mp3"
+}

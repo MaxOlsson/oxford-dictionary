@@ -1,0 +1,206 @@
+{
+  "verb": [
+    {
+      "description": "Take action; do something.",
+      "examples": [
+        "they urged Washington to act",
+        "governments must act to reduce pollution"
+      ],
+      "synonyms": [
+        "take action",
+        "take steps",
+        "take measures",
+        "take the initiative",
+        "move",
+        "make a move",
+        "react",
+        "do something",
+        "proceed",
+        "go ahead"
+      ]
+    },
+    {
+      "description": "Behave in the way specified.",
+      "examples": [
+        "they followed the man who was seen acting suspiciously",
+        "he acts as if he owned the place"
+      ],
+      "synonyms": [
+        "behave",
+        "function",
+        "react",
+        "perform"
+      ]
+    },
+    {
+      "description": "Fulfill the function or serve the purpose of.",
+      "examples": [
+        "they need volunteers to act as foster parents"
+      ],
+      "synonyms": [
+        "operate",
+        "work",
+        "take effect",
+        "function",
+        "serve",
+        "be efficacious"
+      ]
+    },
+    {
+      "description": "Take effect; have a particular effect.",
+      "examples": [
+        "bacteria act on proteins and sugar"
+      ],
+      "synonyms": [
+        "affect",
+        "have an effect on",
+        "influence",
+        "exert influence on",
+        "work on",
+        "have an impact on",
+        "impact on",
+        "alter",
+        "change",
+        "modify",
+        "transform",
+        "condition",
+        "control"
+      ]
+    },
+    {
+      "description": "Perform a fictional role in a play, movie, or television production.",
+      "examples": [
+        "she acted in her first professional role at the age of six"
+      ],
+      "synonyms": [
+        "perform",
+        "play",
+        "play a part",
+        "take part",
+        "be an actor",
+        "be an actress",
+        "be one of the cast",
+        "appear"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing done; a deed.",
+      "examples": [
+        "a criminal act",
+        "the act of writing down one's thoughts",
+        "an act of heroism"
+      ],
+      "synonyms": [
+        "deed",
+        "action",
+        "gesture",
+        "feat",
+        "exploit",
+        "move",
+        "performance",
+        "undertaking",
+        "manoeuvre",
+        "stunt",
+        "operation",
+        "venture",
+        "effort",
+        "enterprise",
+        "achievement",
+        "accomplishment"
+      ]
+    },
+    {
+      "description": "A pretense.",
+      "examples": [
+        "she was putting on an act and laughing a lot"
+      ],
+      "synonyms": [
+        "pretence",
+        "false display",
+        "show",
+        "front",
+        "facade",
+        "masquerade",
+        "charade",
+        "guise",
+        "posture",
+        "pose",
+        "affectation",
+        "appearance"
+      ]
+    },
+    {
+      "description": "A written ordinance of Congress, or another legislative body; a statute.",
+      "examples": [
+        "the act to abolish slavery"
+      ],
+      "synonyms": [
+        "law",
+        "decree",
+        "statute",
+        "bill",
+        "act of parliament",
+        "edict",
+        "fiat",
+        "dictum",
+        "dictate",
+        "enactment",
+        "resolution",
+        "ruling",
+        "rule",
+        "judgement",
+        "canon",
+        "ordinance",
+        "proclamation",
+        "command",
+        "commandment",
+        "mandate",
+        "measure",
+        "stipulation",
+        "direction",
+        "requirement"
+      ]
+    },
+    {
+      "description": "A main division of a play, ballet, or opera.",
+      "examples": [],
+      "synonyms": [
+        "division",
+        "section",
+        "subsection",
+        "portion",
+        "part",
+        "segment",
+        "component",
+        "bit"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "American College Test.",
+      "examples": []
+    },
+    {
+      "description": "Australian Capital Territory.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "Escalator failures, too, are system failures, not acts of God.",
+    "Accidents are no longer acts of God but someone's fault and every reasonable step must be taken to avoid them.",
+    "All reasonable people understand that acts of God, accidents, or incidents will happen that will affect the quality of drinking water.",
+    "Storms and other natural disasters are just those: natural disasters and not acts of God.",
+    "Just for starters, we'd probably see way more statistics calculating the economic destructiveness of nature's most underestimated act of God: winter.",
+    "the plane's engine was acting up",
+    "Then again, my body did like to pick the wrong times to start acting up.",
+    "Her right knee was acting up a bit from soccer the day before, and besides, she just didn't feel like it.",
+    "I think the service is messed up here, it was acting up before the phone broke.",
+    "Alas, the desktop computer which was acting up before I'd left has now failed again."
+  ],
+  "origin": "Late Middle English: from Latin actus event, thing done, act- done, from the verb agere, reinforced by the French noun acte.",
+  "pronounciation": "/ˌeɪ ˌsi ˈti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/a_c_t_1_us_1_abbr.mp3"
+}

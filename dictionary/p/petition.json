@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A formal written request, typically one signed by many people, appealing to authority with respect to a particular cause.",
+      "examples": [
+        "she was asked to sign a petition against plans to build on the local playing fields"
+      ],
+      "synonyms": [
+        "appeal",
+        "round robin",
+        "list of protesters",
+        "list of signatures"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or present a formal request to (an authority) with respect to a particular cause.",
+      "examples": [
+        "Americans who moved west petitioned Congress for admission to the Union as states",
+        "leaders petitioned the government to hold free elections soon"
+      ],
+      "synonyms": [
+        "appeal to",
+        "request",
+        "ask",
+        "call on",
+        "entreat",
+        "beg",
+        "implore",
+        "beseech",
+        "plead with",
+        "make a plea to",
+        "pray",
+        "apply to",
+        "solicit",
+        "press",
+        "urge",
+        "adjure",
+        "present one's suit to",
+        "importune"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin petitio(n-), from petit- aimed at, sought, laid claim to, from the verb petere.",
+  "pronounciation": "/pəˈtɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/petition_us_1.mp3"
+}

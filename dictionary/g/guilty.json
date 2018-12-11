@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Culpable of or responsible for a specified wrongdoing.",
+      "examples": [
+        "he was found guilty of manslaughter",
+        "the police will soon discover who the guilty party is",
+        "he found them guilty on a lesser charge"
+      ],
+      "synonyms": [
+        "culpable",
+        "to blame",
+        "blameworthy",
+        "blameable",
+        "at fault",
+        "in the wrong",
+        "responsible",
+        "answerable",
+        "accountable",
+        "liable"
+      ]
+    }
+  ],
+  "phrases": [
+    "he pled not guilty to murder",
+    "He has pleaded not guilty to an additional charge of taking possession of the weapons.",
+    "He had earlier been found not guilty on charges of damaging an aircraft so as to endanger its safety in flight.",
+    "A person who has been found not guilty is innocent in the eyes of the criminal law.",
+    "He pleaded not guilty to the charge when he appeared at the Old Bailey on January 14."
+  ],
+  "origin": "Old English gyltig (see guilt, -y).",
+  "pronounciation": "/ˈɡiltē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guilty_us_1.mp3"
+}

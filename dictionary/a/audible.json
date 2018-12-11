@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be heard.",
+      "examples": [
+        "ultrasound is audible to dogs"
+      ],
+      "synonyms": [
+        "perceptible",
+        "discernible",
+        "detectable",
+        "hearable",
+        "able to be heard",
+        "recognizable",
+        "appreciable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A change in the offensive play called by the quarterback at the line of scrimmage.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from late Latin audibilis, from audire hear.",
+  "pronounciation": "/ˈɔdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/audible_us_1.mp3"
+}

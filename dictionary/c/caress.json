@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Touch or stroke gently or lovingly.",
+      "examples": [
+        "she caressed the girl's forehead",
+        "a gentle breeze caressed his skin"
+      ],
+      "synonyms": [
+        "stroke",
+        "touch",
+        "fondle",
+        "brush",
+        "skim",
+        "pet",
+        "pat",
+        "nuzzle",
+        "kiss"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A gentle or loving touch.",
+      "examples": [],
+      "synonyms": [
+        "stroke",
+        "stroking",
+        "touch",
+        "touching",
+        "fondle",
+        "fondling",
+        "skim",
+        "pat",
+        "nuzzle",
+        "nuzzling",
+        "kiss"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French caresser (verb), caresse (noun), from Italian carezza, based on Latin carus dear.",
+  "pronounciation": "/kəˈrɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caress_us_1.mp3"
+}

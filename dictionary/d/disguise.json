@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Give (someone or oneself) a different appearance in order to conceal one's identity.",
+      "examples": [
+        "we took elaborate measures to disguised ourselves as locals",
+        "Brian was disguised as a priest"
+      ],
+      "synonyms": [
+        "dress oneself up as",
+        "pass oneself of as",
+        "pretend to be",
+        "impersonate",
+        "pose as"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A means of altering one's appearance or concealing one's identity.",
+      "examples": [
+        "his bizarre disguise drew stares from fellow shoppers"
+      ],
+      "synonyms": [
+        "false appearance",
+        "camouflage",
+        "concealment"
+      ]
+    }
+  ],
+  "origin": "Middle English (meaning change one's usual style of dress, with no implication of concealing one's identity): from Old French desguisier.",
+  "pronounciation": "/disˈɡīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disguise_us_1.mp3"
+}

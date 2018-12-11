@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring or produced twice a month or every two months.",
+      "examples": [
+        "a bimonthly newsletter"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Twice a month or every two months.",
+      "examples": [
+        "the magazine appears bimonthly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A periodical produced twice a month or every two months.",
+      "examples": [],
+      "synonyms": [
+        "journal",
+        "publication",
+        "magazine",
+        "newspaper",
+        "paper",
+        "review",
+        "digest",
+        "gazette",
+        "newsletter",
+        "organ",
+        "serial",
+        "annual",
+        "quarterly",
+        "monthly",
+        "fortnightly",
+        "weekly",
+        "biweekly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌbaɪˈmənθli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bimonthly_us_1.mp3"
+}

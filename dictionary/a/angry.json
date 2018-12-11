@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Having a strong feeling of or showing annoyance, displeasure, or hostility; full of anger.",
+      "examples": [
+        "why are you angry with me?",
+        "I'm angry that she didn't call me",
+        "an angry customer",
+        "Christine had made him angry"
+      ],
+      "synonyms": [
+        "irate",
+        "annoyed",
+        "cross",
+        "vexed",
+        "irritated",
+        "exasperated",
+        "indignant",
+        "aggrieved",
+        "irked",
+        "piqued",
+        "displeased",
+        "provoked",
+        "galled",
+        "resentful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaNGɡrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/angry_us_1.mp3"
+}

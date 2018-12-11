@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Demobilize.",
+      "examples": [],
+      "synonyms": [
+        "disband",
+        "decommission",
+        "discharge"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Demobilization.",
+      "examples": [
+        "we were waiting for our demob"
+      ]
+    }
+  ],
+  "origin": "1920s (following the First World War): abbreviation.",
+  "pronounciation": "/dēˈmäb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demob_us_1.mp3"
+}

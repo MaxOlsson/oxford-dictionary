@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "An association or organization dedicated to a particular interest or activity.",
+      "examples": [
+        "a photography club",
+        "the club secretary"
+      ],
+      "synonyms": [
+        "society",
+        "association",
+        "organization",
+        "institution",
+        "group"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Go out to nightclubs.",
+      "examples": [
+        "she enjoys going clubbing in Orlando"
+      ]
+    }
+  ],
+  "phrases": [
+    "The last I heard of him was that his girlfriend was in the club and they left, leaving us alone again.",
+    "if you're confused, join the club!",
+    "So you see, when the Prime Minister says he could do with some co-operation, join the club, so could we.",
+    "But if you're wondering what the hell I'm stammering about in the final minute, join the club!"
+  ],
+  "origin": "Middle English: from Old Norse clubba, variant of klumba; related to clump.",
+  "pronounciation": "/kləb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/club_us_1.mp3"
+}

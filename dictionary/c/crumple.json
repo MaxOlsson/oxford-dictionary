@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Crush (something, typically paper or cloth) so that it becomes creased and wrinkled.",
+      "examples": [
+        "he crumpled up the paper bag"
+      ],
+      "synonyms": [
+        "crush",
+        "scrunch up",
+        "screw up",
+        "squash",
+        "squeeze"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A crushed fold, crease, or wrinkle.",
+      "examples": [],
+      "synonyms": [
+        "crease",
+        "fold",
+        "pucker",
+        "gather",
+        "furrow",
+        "ridge",
+        "line",
+        "corrugation",
+        "groove",
+        "crinkle",
+        "crumple",
+        "rumple"
+      ]
+    }
+  ],
+  "origin": "Middle English: from obsolete crump make or become curved, from Old English crump bent, crooked, of West Germanic origin; related to German krumm.",
+  "pronounciation": "/ˈkrəmpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crumple_us_1.mp3"
+}

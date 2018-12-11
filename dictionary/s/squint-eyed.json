@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) having a squint.",
+      "examples": []
+    },
+    {
+      "description": "Spiteful.",
+      "examples": [],
+      "synonyms": [
+        "malicious",
+        "mean",
+        "nasty",
+        "cruel",
+        "unkind",
+        "unfriendly",
+        "snide",
+        "hurtful",
+        "wounding",
+        "barbed",
+        "cutting",
+        "hateful",
+        "ill-natured",
+        "bitter",
+        "venomous",
+        "poisonous",
+        "acid",
+        "hostile",
+        "rancorous",
+        "malevolent",
+        "evil-intentioned",
+        "baleful",
+        "vindictive",
+        "vengeful",
+        "vitriolic",
+        "vicious",
+        "splenetic",
+        "malign",
+        "malignant",
+        "bilious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskwɪn(t)ˌaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squint_eyed_1_us_1.mp3"
+}

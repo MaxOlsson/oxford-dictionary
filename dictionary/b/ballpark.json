@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A baseball stadium or field.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of prices or costs) approximate; rough.",
+      "examples": [
+        "the ballpark figure is $400–500"
+      ],
+      "synonyms": [
+        "general",
+        "non-specific",
+        "unspecific",
+        "unfocused",
+        "rough",
+        "approximate",
+        "overall",
+        "sweeping",
+        "basic",
+        "loose",
+        "indefinite",
+        "vague",
+        "hazy",
+        "fuzzy",
+        "woolly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbôlˌpärk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ballpark_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Restrict (something) within limits.",
+      "examples": [
+        "their movements were strictly monitored and circumscribed"
+      ],
+      "synonyms": [
+        "restrict",
+        "limit",
+        "impose limits on",
+        "set limits on",
+        "keep within bounds",
+        "delimit",
+        "curb",
+        "confine",
+        "bound",
+        "restrain"
+      ]
+    },
+    {
+      "description": "Draw (a figure) around another, touching it at points but not cutting it.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin circumscribere, from circum around + scribere write.",
+  "pronounciation": "/ˈsərkəmˌskraɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/circumscribe_us_1.mp3"
+}

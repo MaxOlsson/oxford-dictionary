@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of therapy) applied after initial treatment for cancer, especially to suppress secondary tumor formation.",
+      "examples": [],
+      "synonyms": [
+        "additional",
+        "auxiliary",
+        "supporting",
+        "helping",
+        "assisting",
+        "extra",
+        "supplementary",
+        "supplemental",
+        "accessory",
+        "contributory",
+        "attendant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance which enhances the body's immune response to an antigen.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from Latin adjuvant- helping towards, from the verb adjuvare, from ad- towards + juvare to help.",
+  "pronounciation": "/ˈædʒəvənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/adjuvant_us_1.mp3"
+}

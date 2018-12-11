@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Turn the crankshaft of (an internal combustion engine) in order to start the engine.",
+      "examples": [],
+      "synonyms": [
+        "start",
+        "turn",
+        "turn over",
+        "get going"
+      ]
+    },
+    {
+      "description": "Give a bend to (a shaft, bar, etc.).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A part of an axle or shaft bent out at right angles, for converting reciprocal to circular motion and vice versa.",
+      "examples": [],
+      "synonyms": [
+        "lever",
+        "arm",
+        "bar",
+        "pedal"
+      ]
+    },
+    {
+      "description": "The drug methamphetamine.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a sailing ship) easily keeled over, especially by wind or sea through improper design or loading.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century: perhaps from dialect crank weak, shaky (compare with cranky or crank).",
+  "pronounciation": "/kræŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crank_us_1.mp3"
+}

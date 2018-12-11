@@ -1,0 +1,66 @@
+{
+  "adverb": [
+    {
+      "description": "In an unsatisfactory, inadequate, or unsuccessful way.",
+      "examples": [
+        "the war was going badly",
+        "a badly managed company"
+      ],
+      "synonyms": [
+        "poorly",
+        "incompetently",
+        "ineptly",
+        "inexpertly",
+        "inefficiently",
+        "imperfectly",
+        "deficiently",
+        "defectively",
+        "unsatisfactorily",
+        "inadequately",
+        "incorrectly",
+        "faultily",
+        "shoddily",
+        "amateurishly",
+        "carelessly",
+        "negligently"
+      ]
+    },
+    {
+      "description": "To a great or serious degree; severely.",
+      "examples": [
+        "the building was badly damaged by fire",
+        "I wanted a baby so badly",
+        "things had begun to go badly wrong"
+      ],
+      "synonyms": [
+        "severely",
+        "gravely",
+        "critically",
+        "acutely",
+        "sorely",
+        "grievously",
+        "desperately",
+        "alarmingly",
+        "dangerously",
+        "perilously"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Guilty or regretful.",
+      "examples": [
+        "I felt badly about my unfriendliness of the previous evening"
+      ]
+    }
+  ],
+  "phrases": [
+    "with his pension benefits, he shouldn't be too badly off",
+    "she was a lot worse off before the divorce",
+    "They could find that they might not be that badly off if the woman decided to stay at home and mind the children and do the housework herself.",
+    "The fact is that Scotland is not nearly as badly off as other parts of the country when it comes to asylum, he says.",
+    "And Salvadore says there are others as badly off."
+  ],
+  "pronounciation": "/ˈbædli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/badly_us_1.mp3"
+}

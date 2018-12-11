@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Likely to be the case or to happen.",
+      "examples": [
+        "it is probable that the economic situation will deteriorate further",
+        "the probable consequences of his action"
+      ],
+      "synonyms": [
+        "likely",
+        "most likely",
+        "odds-on",
+        "expected",
+        "to be expected",
+        "anticipated",
+        "predictable",
+        "foreseeable",
+        "ten to one",
+        "presumed",
+        "potential",
+        "credible",
+        "quite possible",
+        "possible",
+        "feasible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is likely to become or do something, especially one who is likely to be chosen for a team.",
+      "examples": [
+        "Merson and Wright are probables"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense worthy of belief): via Old French from Latin probabilis, from probare to test, demonstrate.",
+  "pronounciation": "/ˈprɑbəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/probable_us_1.mp3"
+}

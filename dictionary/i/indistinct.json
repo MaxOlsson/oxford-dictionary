@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not clear or sharply defined.",
+      "examples": [
+        "his speech was slurred and indistinct"
+      ],
+      "synonyms": [
+        "blurred",
+        "out of focus",
+        "fuzzy",
+        "hazy",
+        "misty",
+        "foggy",
+        "cloudy",
+        "shadowy",
+        "smoky",
+        "dim",
+        "nebulous"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin indistinctus, from in- not + distinctus separated, distinguished (see distinct).",
+  "pronounciation": "/ˌindəˈstiNG(k)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indistinct_us_1.mp3"
+}

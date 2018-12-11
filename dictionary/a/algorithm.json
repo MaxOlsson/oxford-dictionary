@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+      "examples": [
+        "a basic algorithm for division"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (denoting the Arabic or decimal notation of numbers): variant (influenced by Greek arithmos number) of Middle English algorism, via Old French from medieval Latin algorismus. The Arabic source, al-Ḵwārizmī the man of Ḵwārizm (now Khiva), was a name given to the 9th-century mathematician Abū Jafar Muhammad ibn Mūsa, author of widely translated works on algebra and arithmetic.",
+  "pronounciation": "/ˈælɡəˌrɪðəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/algorithm_us_1.mp3"
+}

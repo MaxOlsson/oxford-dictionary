@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "Severe mental or physical pain or suffering.",
+      "examples": [
+        "she shut her eyes in anguish",
+        "Philip gave a cry of anguish"
+      ],
+      "synonyms": [
+        "agony",
+        "pain",
+        "torment",
+        "torture",
+        "suffering",
+        "distress",
+        "angst",
+        "misery",
+        "sorrow",
+        "grief",
+        "heartache",
+        "heartbreak",
+        "wretchedness",
+        "unhappiness",
+        "woe",
+        "desolation",
+        "despair"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be extremely distressed about something.",
+      "examples": [
+        "he anguished over how to reply"
+      ],
+      "synonyms": [
+        "agonized",
+        "tormented",
+        "racked with pain",
+        "racked with suffering",
+        "tortured",
+        "harrowed"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin angustia tightness, (plural) straits, distress, from angustus narrow.",
+  "pronounciation": "/ˈaNGɡwiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anguish_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "exclamation": [
+    {
+      "description": "Representing the noise of a compressed spring suddenly released.",
+      "examples": [
+        "an idea struck him. Boing!"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The noise representing the sound of a compressed spring suddenly released.",
+      "examples": [
+        "there was a loud boing"
+      ],
+      "synonyms": [
+        "reverberation",
+        "ringing",
+        "ring",
+        "ding-dong",
+        "bong",
+        "peal",
+        "chime",
+        "toll"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a noise like that represented by a compressed spring suddenly released.",
+      "examples": [
+        "this music boings and burbles"
+      ],
+      "synonyms": [
+        "reverberate",
+        "resound",
+        "ring",
+        "bong",
+        "peal",
+        "chime",
+        "toll"
+      ]
+    }
+  ],
+  "origin": "1950s: imitative.",
+  "pronounciation": "/boiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boing_us_1.mp3"
+}

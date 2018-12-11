@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "A projecting support of stone or brick built against a wall.",
+      "examples": [],
+      "synonyms": [
+        "prop",
+        "support",
+        "abutment",
+        "shore",
+        "pier",
+        "reinforcement",
+        "stanchion",
+        "stay",
+        "strut"
+      ]
+    },
+    {
+      "description": "A source of defense or support.",
+      "examples": [
+        "there was a demand for a new stable order as a buttress against social collapse"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a building or structure) with projecting supports built against its walls.",
+      "examples": [
+        "we buttressed the wall as it was showing signs of cracking and collapse"
+      ]
+    },
+    {
+      "description": "Increase the strength of or justification for; reinforce.",
+      "examples": [
+        "authority was buttressed by religious belief"
+      ],
+      "synonyms": [
+        "strengthen",
+        "reinforce",
+        "fortify",
+        "support",
+        "prop up",
+        "bolster up",
+        "shore up",
+        "underpin",
+        "cement",
+        "brace",
+        "uphold",
+        "confirm",
+        "defend",
+        "maintain",
+        "back up",
+        "buoy up"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French (ars) bouterez thrusting (arch), from boter to strike or thrust (see butt).",
+  "pronounciation": "/ˈbətrəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/buttress_us_1.mp3"
+}

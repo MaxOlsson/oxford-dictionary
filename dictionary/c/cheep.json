@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A shrill squeaky cry made by a bird, typically a young one.",
+      "examples": [],
+      "synonyms": [
+        "chirp",
+        "chirrup",
+        "twitter",
+        "tweet",
+        "peep",
+        "chirr",
+        "warble",
+        "trill"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a shrill squeaky sound.",
+      "examples": [],
+      "synonyms": [
+        "chirp",
+        "chirrup",
+        "twitter",
+        "tweet",
+        "peep",
+        "chitter",
+        "chatter",
+        "chirr",
+        "trill",
+        "warble",
+        "sing",
+        "pipe"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (originally Scots): imitative (compare with peep).",
+  "pronounciation": "/CHēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cheep_us_1.mp3"
+}

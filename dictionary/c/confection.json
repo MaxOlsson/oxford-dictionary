@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A dish or delicacy made with sweet ingredients.",
+      "examples": [
+        "a whipped chocolate and cream confection"
+      ],
+      "synonyms": [
+        "delicacy",
+        "tasty morsel",
+        "titbit",
+        "fancy",
+        "luxury",
+        "treat",
+        "nibble",
+        "savoury",
+        "appetizer",
+        "bonne bouche",
+        "bonbon"
+      ]
+    },
+    {
+      "description": "The action of mixing or compounding something.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the general sense something made by mixing, especially a medicinal preparation): via Old French from Latin confectio(n-), from conficere put together (see confect).",
+  "pronounciation": "/kənˈfɛkʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconfection_us_1.mp3"
+}

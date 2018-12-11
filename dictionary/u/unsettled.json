@@ -1,0 +1,62 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking stability.",
+      "examples": [
+        "an unsettled childhood"
+      ],
+      "synonyms": [
+        "aimless",
+        "directionless",
+        "purposeless",
+        "without purpose",
+        "without a goal"
+      ]
+    },
+    {
+      "description": "Not yet resolved.",
+      "examples": [
+        "one important question remains unsettled"
+      ],
+      "synonyms": [
+        "undecided",
+        "to be decided",
+        "unresolved",
+        "undetermined",
+        "uncertain",
+        "open",
+        "arguable",
+        "debatable",
+        "disputed",
+        "unanswered",
+        "open to debate",
+        "doubtful",
+        "in doubt",
+        "moot",
+        "up in the air",
+        "in limbo",
+        "in a state of limbo",
+        "in a state of uncertainty",
+        "indefinite",
+        "inconclusive",
+        "unconfirmed",
+        "unsolved",
+        "ongoing",
+        "pending"
+      ]
+    },
+    {
+      "description": "(of an area) having no settlers or inhabitants.",
+      "examples": [],
+      "synonyms": [
+        "uninhabited",
+        "unpopulated",
+        "unpeopled",
+        "unoccupied",
+        "unfrequented"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsedld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsettled_us_1.mp3"
+}

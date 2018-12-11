@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Raise doubts or objections or show reluctance.",
+      "examples": [
+        "normally she would have accepted the challenge, but she demurred"
+      ],
+      "synonyms": [
+        "raise objections",
+        "object",
+        "take exception",
+        "take issue",
+        "protest",
+        "lodge a protest",
+        "cavil",
+        "dissent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action or process of objecting to or hesitating over something.",
+      "examples": [
+        "they accepted this ruling without demur"
+      ],
+      "synonyms": [
+        "objection",
+        "protest",
+        "protestation",
+        "complaint",
+        "dispute",
+        "dissent",
+        "carping",
+        "cavilling",
+        "recalcitrance",
+        "opposition",
+        "resistance"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense linger, delay): from Old French demourer (verb), demeure (noun), based on Latin de- away, completely + morari delay.",
+  "pronounciation": "/dəˈmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demur_us_1.mp3"
+}

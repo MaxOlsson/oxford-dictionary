@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the southern German state of Bavaria, its people, or their language.",
+      "examples": [
+        "cheerful Bavarian folk music",
+        "the scenic Bavarian foothills"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Bavaria.",
+      "examples": [
+        "a fellow Bavarian"
+      ]
+    },
+    {
+      "description": "The dialect of German spoken in Bavaria, Austria, and surrounding areas.",
+      "examples": [
+        "she was yelling at him loudly in Bavarian"
+      ]
+    }
+  ],
+  "pronounciation": "/bəˈverēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bavarian_1_us_1.mp3"
+}

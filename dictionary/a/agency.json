@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A business or organization established to provide a particular service, typically one that involves organizing transactions between two other parties.",
+      "examples": [
+        "an advertising agency",
+        "aid agencies"
+      ],
+      "synonyms": [
+        "business",
+        "organization",
+        "company",
+        "firm",
+        "office",
+        "bureau",
+        "concern",
+        "service"
+      ]
+    },
+    {
+      "description": "Action or intervention, especially such as to produce a particular effect.",
+      "examples": [
+        "canals carved by the agency of running water",
+        "a belief in various forms of supernatural agency"
+      ],
+      "synonyms": [
+        "action",
+        "activity",
+        "effect",
+        "influence",
+        "force",
+        "power",
+        "work"
+      ]
+    },
+    {
+      "description": "The office or function of an agent.",
+      "examples": [
+        "a contract of agency"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from medieval Latin agentia, from agent- doing (see agent).",
+  "pronounciation": "/ˈājənsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agency_us_1.mp3"
+}

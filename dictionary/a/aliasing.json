@@ -1,0 +1,16 @@
+{
+  "noun": [
+    {
+      "description": "The misidentification of a signal frequency, introducing distortion or error.",
+      "examples": [
+        "high-frequency sounds are prone to aliasing"
+      ]
+    },
+    {
+      "description": "In computer graphics, the jagged, or saw-toothed appearance of curved or diagonal lines on a low-resolution monitor.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈālēəsiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aliasing_us_1.mp3"
+}

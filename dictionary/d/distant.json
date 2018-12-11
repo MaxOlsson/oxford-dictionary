@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Far away in space or time.",
+      "examples": [
+        "distant parts of the world",
+        "I remember that distant afternoon"
+      ],
+      "synonyms": [
+        "faraway",
+        "far off",
+        "far"
+      ]
+    },
+    {
+      "description": "(of a person) not intimate; cool or reserved.",
+      "examples": [
+        "his children found him strangely distant",
+        "she and my father were distant with each other"
+      ],
+      "synonyms": [
+        "aloof",
+        "reserved",
+        "remote",
+        "detached",
+        "unapproachable",
+        "stand-offish",
+        "keeping people at arm's length"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin distant- standing apart, from the verb distare, from dis- apart + stare stand.",
+  "pronounciation": "/ˈdistənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distant_us_1.mp3"
+}

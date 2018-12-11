@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Without foundation in fact.",
+      "examples": [
+        "baseless allegations"
+      ],
+      "synonyms": [
+        "groundless",
+        "unfounded",
+        "unsubstantiated",
+        "unproven",
+        "unsupported",
+        "uncorroborated",
+        "untested",
+        "unconfirmed",
+        "unverified",
+        "unattested",
+        "unjustified",
+        "unwarranted",
+        "foundationless",
+        "ill-founded",
+        "without basis",
+        "without foundation",
+        "not backed up by evidence"
+      ]
+    },
+    {
+      "description": "(of a column) not having a base between the shaft and pedestal.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈbeɪsləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baseless_us_1.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "Care taken to avoid danger or mistakes.",
+      "examples": [
+        "anyone receiving a suspect package should exercise extreme caution"
+      ],
+      "synonyms": [
+        "care",
+        "carefulness",
+        "wariness",
+        "awareness",
+        "heedfulness",
+        "heed",
+        "attention",
+        "attentiveness",
+        "alertness",
+        "watchfulness",
+        "vigilance",
+        "circumspection",
+        "discretion",
+        "prudence",
+        "guardedness",
+        "chariness",
+        "forethought",
+        "mindfulness"
+      ]
+    },
+    {
+      "description": "An amusing or surprising person.",
+      "examples": [],
+      "synonyms": [
+        "joker",
+        "comedian",
+        "comic",
+        "humorist",
+        "wag",
+        "wit",
+        "funny man",
+        "funny woman",
+        "prankster",
+        "jokester",
+        "clown",
+        "buffoon",
+        "character"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Say something as a warning.",
+      "examples": [
+        "the secretary cautioned that economic uncertainties remained",
+        "“Be careful now,” I cautioned"
+      ],
+      "synonyms": [
+        "advise",
+        "warn",
+        "recommend",
+        "counsel",
+        "urge",
+        "admonish",
+        "exhort"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting bail or a guarantee; now chiefly Scots and US): from Latin cautio(n-), from cavere take heed.",
+  "pronounciation": "/ˈkôSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caution_us_1.mp3"
+}

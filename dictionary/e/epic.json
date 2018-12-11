@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A long poem, typically one derived from ancient oral tradition, narrating the deeds and adventures of heroic or legendary figures or the history of a nation.",
+      "examples": [],
+      "synonyms": [
+        "heroic poem",
+        "long poem",
+        "long story"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of an epic or epics.",
+      "examples": [
+        "England's national epic poem Beowulf"
+      ],
+      "synonyms": [
+        "heroic",
+        "long",
+        "grand",
+        "monumental",
+        "vast",
+        "homeric",
+        "miltonian"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as an adjective): via Latin from Greek epikos, from epos word, song, related to eipein say.",
+  "pronounciation": "/ˈɛpɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/epic_us_1.mp3"
+}

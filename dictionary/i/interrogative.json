@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Having or conveying the force of a question.",
+      "examples": [
+        "a hard, interrogative stare"
+      ],
+      "synonyms": [
+        "questioning",
+        "enquiring",
+        "inquisitive",
+        "inquisitorial",
+        "probing",
+        "searching",
+        "quizzing",
+        "quizzical",
+        "curious",
+        "intrigued",
+        "investigative"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A word used in questions, such as how or what.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 16th century: from late Latin interrogativus, from Latin interrogare (see interrogate).",
+  "pronounciation": "/ˌin(t)əˈräɡədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interrogative_us_1.mp3"
+}

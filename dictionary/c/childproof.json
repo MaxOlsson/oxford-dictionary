@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Designed to prevent children from injuring themselves or doing damage.",
+      "examples": [
+        "disinfectants that are fitted with childproof caps"
+      ],
+      "synonyms": [
+        "resistant",
+        "impenetrable",
+        "impervious",
+        "repellent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make inaccessible to children.",
+      "examples": [
+        "childproof those cabinets with safety latches"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈCHīl(d)pro͞of/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/childproof_us_1.mp3"
+}

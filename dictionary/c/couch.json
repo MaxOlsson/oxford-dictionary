@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A long upholstered piece of furniture for several people to sit on.",
+      "examples": [],
+      "synonyms": [
+        "settee",
+        "sofa",
+        "divan",
+        "chaise longue",
+        "chesterfield",
+        "love seat",
+        "settle",
+        "ottoman"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Express (something) in language of a specified style.",
+      "examples": [
+        "many false claims are couched in scientific jargon"
+      ],
+      "synonyms": [
+        "express",
+        "phrase",
+        "word",
+        "frame",
+        "put",
+        "formulate",
+        "style",
+        "render",
+        "set forth",
+        "put across",
+        "convey",
+        "communicate",
+        "say",
+        "state",
+        "utter",
+        "voice"
+      ]
+    },
+    {
+      "description": "Lie down.",
+      "examples": [
+        "two creatures couched side by side in the deep grass"
+      ]
+    },
+    {
+      "description": "Lower (a spear) to the position for attack.",
+      "examples": []
+    },
+    {
+      "description": "Treat (a cataract) by pushing the lens of the eye downward and backward, out of line with the pupil.",
+      "examples": []
+    },
+    {
+      "description": "(in embroidery) fix (a thread) to a fabric by stitching it down flat with another thread.",
+      "examples": [
+        "gold and silver threads couched by hand"
+      ]
+    }
+  ],
+  "phrases": [
+    "All of this sounds a bit too much like the analyst putting himself on the couch."
+  ],
+  "origin": "Late 16th century: variant of quitch.",
+  "pronounciation": "/ˈko͞oCH ˌɡras/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/couch_grass_1_us_1.mp3"
+}

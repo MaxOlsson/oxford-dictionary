@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.",
+      "examples": [],
+      "synonyms": [
+        "blown up",
+        "aerated",
+        "filled",
+        "puffed up",
+        "puffed out",
+        "pumped up"
+      ]
+    },
+    {
+      "description": "Increase (something) by a large or excessive amount.",
+      "examples": [
+        "objectives should be clearly set out so as not to duplicate work and inflate costs"
+      ],
+      "synonyms": [
+        "increase",
+        "raise",
+        "put up",
+        "boost",
+        "escalate",
+        "step up"
+      ]
+    },
+    {
+      "description": "Bring about inflation of (a currency) or in (an economy).",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin inflat- blown into, from the verb inflare, from in- into + flare to blow.",
+  "pronounciation": "/inˈflāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inflate_us_1.mp3"
+}

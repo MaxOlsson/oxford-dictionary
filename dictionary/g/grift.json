@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Engage in petty or small-scale swindling.",
+      "examples": [
+        "how long have you been grifting?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A petty or small-scale swindle.",
+      "examples": [
+        "a Sixth Avenue palmistry grift"
+      ],
+      "synonyms": [
+        "sham",
+        "fraud",
+        "pretence",
+        "imposture",
+        "hoax",
+        "fake",
+        "misrepresentation",
+        "blind",
+        "wile",
+        "artifice",
+        "trojan horse"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: alteration of graft.",
+  "pronounciation": "/ɡrift/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grift_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The alphabet.",
+      "examples": [],
+      "synonyms": [
+        "letters"
+      ]
+    },
+    {
+      "description": "The rudiments of a subject.",
+      "examples": [
+        "the ABCs of emergency heart-lung resuscitation"
+      ],
+      "synonyms": [
+        "basic principles",
+        "basics",
+        "fundamentals",
+        "elements",
+        "essentials",
+        "first principles"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "American Broadcasting Company.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or denoting American-born people of Chinese descent.",
+      "examples": [
+        "some ABC parents send their children to Chinese language schools"
+      ]
+    }
+  ],
+  "phrases": [
+    "economics can be as simple as ABC",
+    "She says teaching children to read is as easy as ABC.",
+    "The pop quiz was as simple as ABC.",
+    "To them, preventing HIV infection is as simple as ABC - A for Abstinence, B for Being faithful and C for Condoms.",
+    "The dazzler was John, for whom kindness and consideration towards his customers in the restaurant is as easy as ABC."
+  ],
+  "origin": "1970s: from the initial letters of American-born Chinese.",
+  "pronounciation": "/ˌeɪˌbiˈsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abc_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to ancient Greek or Latin literature, art, or culture.",
+      "examples": [
+        "classical mythology"
+      ],
+      "synonyms": [
+        "ancient greek",
+        "grecian",
+        "hellenic",
+        "attic"
+      ]
+    },
+    {
+      "description": "(typically of a form of art) regarded as representing an exemplary standard; traditional and long-established in form or style.",
+      "examples": [
+        "a classical ballet"
+      ],
+      "synonyms": [
+        "traditional",
+        "long-established"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense outstanding of its kind): from Latin classicus belonging to a class (see classic) + -al.",
+  "pronounciation": "/ˈklasək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/classical_us_1.mp3"
+}

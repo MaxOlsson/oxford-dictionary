@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A fragrant ointment or preparation used to heal or soothe the skin.",
+      "examples": [],
+      "synonyms": [
+        "ointment",
+        "lotion",
+        "cream",
+        "salve",
+        "liniment",
+        "embrocation",
+        "rub",
+        "gel",
+        "emollient",
+        "unguent",
+        "balsam",
+        "moisturizer"
+      ]
+    },
+    {
+      "description": "A tree which yields a fragrant resinous substance, especially one used in medicine.",
+      "examples": []
+    },
+    {
+      "description": "A bushy herb of the mint family, with leaves smelling and tasting of lemon.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the sense preparation for embalming, fragrant resinous substance): from Old French basme, from Latin balsamum (see balsam).",
+  "pronounciation": "/bä(l)m/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/balm_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Not locked.",
+      "examples": [
+        "unlocked doors"
+      ],
+      "synonyms": [
+        "unguarded",
+        "unprotected",
+        "ill-protected",
+        "vulnerable",
+        "defenceless",
+        "undefended",
+        "unshielded",
+        "exposed",
+        "assailable",
+        "open to attack",
+        "in danger"
+      ]
+    },
+    {
+      "description": "(of a mobile phone) capable of operating on the network of any chosen carrier.",
+      "examples": [
+        "with an unlocked phone you can use SIM cards from any service provider"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈläkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unlocked_us_3.mp3"
+}

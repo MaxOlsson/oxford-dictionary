@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of a subject) of immediate relevance, interest, or importance owing to its relation to current events.",
+      "examples": [
+        "a wide variety of subjects of topical interest"
+      ],
+      "synonyms": [
+        "current",
+        "up to date",
+        "up to the minute",
+        "contemporary",
+        "recent"
+      ]
+    },
+    {
+      "description": "Relating or applied directly to a part of the body.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A postage stamp forming part of a set or collection with designs connected with the same subject.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from Greek topikos + -al. Early use was as a term in logic and rhetoric describing a rule or argument as applicable in most but not all cases.",
+  "pronounciation": "/ˈtäpək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/topical_us_1.mp3"
+}

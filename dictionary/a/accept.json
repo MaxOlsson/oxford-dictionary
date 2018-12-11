@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Consent to receive (a thing offered)",
+      "examples": [
+        "he accepted a pen as a present"
+      ],
+      "synonyms": [
+        "receive",
+        "agree to receive",
+        "welcome",
+        "take",
+        "take receipt of",
+        "get",
+        "gain",
+        "obtain",
+        "acquire",
+        "come by"
+      ]
+    },
+    {
+      "description": "Believe or come to recognize (an opinion, explanation, etc.) as valid or correct.",
+      "examples": [
+        "this tentative explanation came to be accepted by the group",
+        "it is accepted that aging is a continuous process"
+      ],
+      "synonyms": [
+        "recognized",
+        "acknowledged",
+        "traditional",
+        "orthodox",
+        "habitual",
+        "confirmed",
+        "set",
+        "fixed",
+        "settled"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin acceptare, frequentative of accipere take something to oneself, from ad- to + capere take.",
+  "pronounciation": "/əkˈsɛpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accept_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of a sick person or a disease) not able to be cured.",
+      "examples": [],
+      "synonyms": [
+        "untreatable",
+        "inoperable",
+        "irremediable",
+        "beyond cure"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who cannot be cured.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French, or from late Latin incurabilis, from in- not + curabilis (see curable).",
+  "pronounciation": "/ˌinˈkyo͝orəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incurable_us_1.mp3"
+}

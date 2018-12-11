@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A voucher entitling the holder to a discount for a particular product.",
+      "examples": [],
+      "synonyms": [
+        "voucher",
+        "chit",
+        "docket",
+        "stamp",
+        "order",
+        "credit note",
+        "iou"
+      ]
+    },
+    {
+      "description": "A form in a newspaper or magazine that may be filled in and sent as an application for a purchase or information.",
+      "examples": [],
+      "synonyms": [
+        "form",
+        "tear-off slip",
+        "entry form",
+        "application form"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a business) issue or distribute coupons or vouchers offering discounts on particular goods or services.",
+      "examples": [
+        "the company announced plans to reduce its couponing and just cut prices instead"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (denoting a detachable portion of a stock certificate): from French, literally piece cut off, from couper cut, from Old French colper (see cope).",
+  "pronounciation": "/ˈk(y)o͞oˌpän/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/coupon_us_2.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Showing excessive familiarity.",
+      "examples": [
+        "Harold was accustomed to hail-fellow-well-met salesmen"
+      ],
+      "synonyms": [
+        "convivial",
+        "sociable",
+        "outgoing",
+        "gregarious",
+        "companionable",
+        "friendly",
+        "genial",
+        "affable",
+        "amiable",
+        "congenial",
+        "agreeable",
+        "good-humoured",
+        "extrovert",
+        "extroverted",
+        "uninhibited"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhālˌfeləˌwelˈmet/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hail_fellow_well_met_1_us_1.mp3"
+}

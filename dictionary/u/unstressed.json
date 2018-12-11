@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "(of a syllable) not pronounced with stress.",
+      "examples": [
+        "an unstressed syllable"
+      ]
+    },
+    {
+      "description": "Not subjected to stress.",
+      "examples": [
+        "a well-balanced, unstressed person"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈstrɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unstressed_us_1.mp3"
+}

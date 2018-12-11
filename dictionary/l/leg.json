@@ -1,0 +1,92 @@
+{
+  "noun": [
+    {
+      "description": "Each of the limbs on which a person or animal walks and stands.",
+      "examples": [
+        "Adams broke his leg",
+        "he was off as fast as his legs would carry him",
+        "a leg injury"
+      ],
+      "synonyms": [
+        "lower limb",
+        "shank"
+      ]
+    },
+    {
+      "description": "Each of the supports of a chair, table, or other piece of furniture.",
+      "examples": [
+        "table legs"
+      ],
+      "synonyms": [
+        "upright",
+        "support",
+        "prop",
+        "brace",
+        "underpinning",
+        "column"
+      ]
+    },
+    {
+      "description": "A section or stage of a journey or process.",
+      "examples": [
+        "the return leg of his journey"
+      ],
+      "synonyms": [
+        "part",
+        "stage",
+        "portion",
+        "segment",
+        "section",
+        "bit",
+        "phase",
+        "stretch",
+        "lap",
+        "step",
+        "instalment"
+      ]
+    },
+    {
+      "description": "A branch of a forked object.",
+      "examples": []
+    },
+    {
+      "description": "The half of the field (as divided lengthways through the pitch) away from which the batsman's feet are pointed when standing to receive the ball.",
+      "examples": []
+    },
+    {
+      "description": "An obeisance made by drawing back one leg and bending it while keeping the front leg straight.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel by foot; walk.",
+      "examples": [],
+      "synonyms": [
+        "walk",
+        "march",
+        "tramp",
+        "trek",
+        "trudge",
+        "plod",
+        "wander",
+        "ramble",
+        "go on foot"
+      ]
+    },
+    {
+      "description": "Propel (a boat) through a tunnel on a canal by pushing with one's legs against the tunnel roof or sides.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "She began to feel her legs again, so she brought herself up to a stand with little effort.",
+    "She finally finds her legs and she runs to the door that leads to her backyard, expecting to find comfort in her cocker spaniel, Pounce.",
+    "Nikki faltered and found her legs again as she sat down.",
+    "My senses finally rushing back to me, I found my legs and charged out of the elevator with a vivacity that I didn't even know I possessed.",
+    "Fighting for air, Allie found her legs and began kicking upward in the frigid water."
+  ],
+  "origin": "Middle English (superseding shank): from Old Norse leggr (compare with Danish læg calf (of the leg)), of Germanic origin.",
+  "pronounciation": "/leɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leg_us_5.mp3"
+}

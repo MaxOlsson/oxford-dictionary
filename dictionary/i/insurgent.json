@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A rebel or revolutionary.",
+      "examples": [
+        "an attack by armed insurgents"
+      ],
+      "synonyms": [
+        "rebel",
+        "revolutionary",
+        "revolutionist",
+        "mutineer",
+        "agitator",
+        "subversive",
+        "guerrilla",
+        "anarchist",
+        "terrorist",
+        "bioterrorist",
+        "narcoterrorist",
+        "ecoterrorist",
+        "cyberterrorist",
+        "agroterrorist",
+        "rioter"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Rising in active revolt.",
+      "examples": [
+        "alleged links with insurgent groups"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: via French from Latin insurgent- arising, from the verb insurgere, from in- into, towards + surgere to rise.",
+  "pronounciation": "/inˈsərj(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insurgent_us_1.mp3"
+}

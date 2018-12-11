@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Affected by or relating to paralysis of all four limbs; tetraplegic.",
+      "examples": [
+        "quadriplegic patients",
+        "quadriplegic cerebral palsy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person affected by paralysis of all four limbs.",
+      "examples": [
+        "a car accident left him a quadriplegic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkwädrəˈplējik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quadriplegic_us_1.mp3"
+}

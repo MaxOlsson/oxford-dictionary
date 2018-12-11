@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Dull and heavy in motion or thought; sluggish.",
+      "examples": [
+        "the beer made them logy and disinclined to move"
+      ],
+      "synonyms": [
+        "lethargic",
+        "listless",
+        "lacking in energy",
+        "unenergetic",
+        "lifeless",
+        "inert",
+        "inactive",
+        "slow",
+        "torpid",
+        "dull",
+        "languid",
+        "apathetic",
+        "passive",
+        "unresponsive",
+        "weary",
+        "tired",
+        "fatigued",
+        "sleepy",
+        "half asleep",
+        "drowsy",
+        "heavy-eyed",
+        "enervated",
+        "somnolent"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: of uncertain origin; compare with Dutch log heavy, dull.",
+  "pronounciation": "/ˈloʊɡi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/logy_us_1.mp3"
+}

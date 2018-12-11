@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "The side of a ship or aircraft that is on the right when one is facing forward.",
+      "examples": [
+        "I made a steep turn to starboard",
+        "the starboard wing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn (a ship or its helm) to starboard.",
+      "examples": [
+        "a red light is always a signal not to starboard the helm"
+      ]
+    }
+  ],
+  "origin": "Old English stēorbord rudder side (see steer, board), because early Teutonic sailing vessels were steered with a paddle over the right side.",
+  "pronounciation": "/ˈstɑrbərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/starboard_us_1.mp3"
+}

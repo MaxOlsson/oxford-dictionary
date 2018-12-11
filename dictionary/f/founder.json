@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A person who manufactures articles of cast metal; the owner or operator of a foundry.",
+      "examples": [
+        "an iron founder"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a ship) fill with water and sink.",
+      "examples": [
+        "six drowned when the yacht foundered off the Florida coast"
+      ],
+      "synonyms": [
+        "sink",
+        "go to the bottom",
+        "go down",
+        "be lost at sea",
+        "submerge",
+        "capsize",
+        "run aground",
+        "be swamped"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from founder, influenced by obsolete found to chill or numb with cold.",
+  "pronounciation": "/ˈfoundər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/founder_us_1.mp3"
+}

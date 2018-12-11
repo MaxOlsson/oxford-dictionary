@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A long-bladed hand tool with a beveled cutting edge and a plain handle that is struck with a hammer or mallet, used to cut or shape wood, stone, metal, or other hard materials.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut or shape (something) with a chisel.",
+      "examples": [
+        "carefully chisel out a groove for the hinge"
+      ],
+      "synonyms": [
+        "cut",
+        "carve",
+        "shape",
+        "fashion",
+        "form",
+        "chip",
+        "hammer",
+        "sculpt",
+        "sculpture",
+        "model",
+        "whittle",
+        "rough-hew"
+      ]
+    },
+    {
+      "description": "Cheat or swindle (someone) out of something.",
+      "examples": [
+        "he's chiseled me out of my dues"
+      ],
+      "synonyms": [
+        "swindle",
+        "defraud",
+        "cheat",
+        "fleece",
+        "gull"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old Northern French, based on Latin cis- (as in late Latin cisorium), variant of caes-, stem of caedere to cut. Compare with scissors.",
+  "pronounciation": "/ˈCHizəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chisel_us_1.mp3"
+}

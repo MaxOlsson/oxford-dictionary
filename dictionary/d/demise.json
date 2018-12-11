@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A person's death.",
+      "examples": [
+        "Mr. Grisenthwaite's tragic demise"
+      ],
+      "synonyms": [
+        "death",
+        "dying",
+        "passing",
+        "passing away",
+        "passing on",
+        "loss of life",
+        "expiry",
+        "expiration",
+        "end",
+        "departure from life",
+        "final exit"
+      ]
+    },
+    {
+      "description": "Conveyance or transfer of property or a title by demising.",
+      "examples": [],
+      "synonyms": [
+        "transfer",
+        "transference",
+        "transferral",
+        "granting",
+        "ceding",
+        "devolution"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey or grant (an estate) by will or lease.",
+      "examples": [],
+      "synonyms": [
+        "transfer",
+        "give the right of",
+        "give the title of",
+        "grant",
+        "cede",
+        "devolve",
+        "lease"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a legal term): from Anglo-Norman French, past participle (used as a noun) of Old French desmettre dismiss, (in reflexive) abdicate, based on Latin dimittere (see dismiss).",
+  "pronounciation": "/dəˈmaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demise_us_1.mp3"
+}

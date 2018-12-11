@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) not perturbed or distracted.",
+      "examples": [
+        "outwardly they are cool, calm, and collected"
+      ],
+      "synonyms": [
+        "calm",
+        "cool",
+        "cool",
+        "calm",
+        "and collected",
+        "as cool as a cucumber",
+        "cool-headed",
+        "self-possessed",
+        "composed",
+        "controlled",
+        "self-controlled",
+        "poised"
+      ]
+    },
+    {
+      "description": "(of individual works) brought together in one volume or edition.",
+      "examples": [
+        "the collected works of Edgar Allan Poe"
+      ]
+    },
+    {
+      "description": "(of a horse) moving with a shortened stride and with its hind legs correctly placed to achieve balance and impulsion.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/kəˈlɛktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collected_us_1.mp3"
+}

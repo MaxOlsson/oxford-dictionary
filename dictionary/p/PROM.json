@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A formal dance held by a high school at the end of the academic year, typically for students in their junior or senior year.",
+      "examples": [
+        "Ted has a date for the prom",
+        "a prom dress"
+      ],
+      "synonyms": [
+        "ball",
+        "discotheque"
+      ]
+    },
+    {
+      "description": "A paved public walk, typically one along a waterfront at a resort.",
+      "examples": []
+    },
+    {
+      "description": "A concert of classical music at which part of the audience stands, in particular one of a series of concerts performed annually at the Royal Albert Hall in London.",
+      "examples": [
+        "the last night of the Proms"
+      ]
+    }
+  ],
+  "origin": "From p(rogrammable) r(ead-)o(nly) m(emory).",
+  "pronounciation": "/prɑm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prom_us_1.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "The vapor into which water is converted when heated, forming a white mist of minute water droplets in the air.",
+      "examples": [],
+      "synonyms": [
+        "water vapour",
+        "condensation",
+        "mist",
+        "haze",
+        "fog",
+        "exhalation",
+        "moisture",
+        "dampness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give off or produce steam.",
+      "examples": [
+        "a mug of coffee was steaming at her elbow"
+      ]
+    },
+    {
+      "description": "Cook (food) by heating it in steam from boiling water.",
+      "examples": [
+        "steam the vegetables until just tender"
+      ]
+    },
+    {
+      "description": "(of a ship or train) travel somewhere under steam power.",
+      "examples": [
+        "the 11:54 steamed into the station"
+      ]
+    },
+    {
+      "description": "Be or become extremely agitated or angry.",
+      "examples": [
+        "you got all steamed up over nothing!",
+        "after steaming behind the closed door in his office, he came out and screamed at her"
+      ],
+      "synonyms": [
+        "become agitated",
+        "get worked up",
+        "get overwrought",
+        "get flustered",
+        "panic",
+        "become panic-stricken"
+      ]
+    }
+  ],
+  "phrases": [
+    "New York's electoral votes are all going to go to Kerry whether New Yorkers have steam coming out of their ears or are lounging around watching sports and laughing and drinking.",
+    "My face's so hot, if I were a cartoon, I'd have steam coming out of my ears.",
+    "Like his colleagues around the table at Macleans College, he practically has steam coming out of his ears.",
+    "Earlier for the sake of simplicity I told a little fib, and some of you have steam coming out of your ears by now because this fib is driving you crazy.",
+    "Stacy looked as if she could have steam coming out of her ears."
+  ],
+  "origin": "Old English stēam vapor, stēman emit a scent, be exhaled, of Germanic origin; related to Dutch stoom steam.",
+  "pronounciation": "/stēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steam_us_1.mp3"
+}

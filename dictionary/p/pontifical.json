@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(in the Roman Catholic Church) relating to the Pope.",
+      "examples": [
+        "a pontifical commission"
+      ]
+    },
+    {
+      "description": "Characterized by a pompous and superior air of infallibility.",
+      "examples": [
+        "such explanations were greeted with pontifical disdain"
+      ],
+      "synonyms": [
+        "pompous",
+        "cocksure",
+        "self-important",
+        "arrogant",
+        "superior"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in the Roman Catholic Church) an office book of the Western Church containing rites to be performed by the Pope or bishops.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin pontificalis, from pontifex (see pontifex).",
+  "pronounciation": "/pänˈtifik(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pontifical_us_1.mp3"
+}

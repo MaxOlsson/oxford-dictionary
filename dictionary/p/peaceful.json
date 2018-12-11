@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Free from disturbance; tranquil.",
+      "examples": [
+        "everything was so quiet and peaceful in the early morning"
+      ],
+      "synonyms": [
+        "tranquil",
+        "calm",
+        "restful",
+        "pleasant",
+        "quiet",
+        "still",
+        "relaxing",
+        "soothing",
+        "sleepy",
+        "silent",
+        "soundless",
+        "hushed",
+        "noiseless",
+        "undisturbed",
+        "untroubled",
+        "private",
+        "secluded",
+        "solitary",
+        "isolated",
+        "free from disturbance",
+        "free from interference",
+        "free from interruption"
+      ]
+    },
+    {
+      "description": "Not involving war or violence.",
+      "examples": [
+        "a soldier was shot and seriously wounded at an otherwise peaceful demonstration"
+      ],
+      "synonyms": [
+        "harmonious",
+        "at peace",
+        "strife-free",
+        "peaceable",
+        "conflict-free",
+        "on good terms",
+        "amicable",
+        "friendly",
+        "cordial",
+        "non-violent",
+        "unwarlike"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpēsfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peaceful_us_1.mp3"
+}

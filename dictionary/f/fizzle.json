@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make a feeble hissing or spluttering sound.",
+      "examples": [
+        "the strobe lights fizzled and flickered"
+      ],
+      "synonyms": [
+        "crackle",
+        "sputter",
+        "buzz",
+        "hiss",
+        "crack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A feeble hissing or spluttering sound.",
+      "examples": [
+        "the electric fizzle of the waves"
+      ],
+      "synonyms": [
+        "hiss",
+        "hissing",
+        "buzz",
+        "buzzing",
+        "crackle",
+        "crackling",
+        "sputter",
+        "sputtering",
+        "crack",
+        "cracking",
+        "white noise"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense break wind quietly): probably imitative (compare with fizz), but perhaps related to Middle English fist (see feisty). Current senses date from the 19th century.",
+  "pronounciation": "/ˈfizəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fizzle_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Bar or preclude by estoppel.",
+      "examples": [
+        "the company may be estopped from denying either statement"
+      ],
+      "synonyms": [
+        "prohibit",
+        "forbid",
+        "ban",
+        "bar",
+        "veto",
+        "proscribe",
+        "make illegal",
+        "place an embargo on",
+        "embargo",
+        "disallow",
+        "debar",
+        "outlaw",
+        "stop",
+        "put a stop to",
+        "put an end to",
+        "block",
+        "suppress"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense stop up, dam, plug): from Old French estopper stop up, impede, from late Latin stuppare, from Latin stuppa tow, oakum. Compare with stop and stuff.",
+  "pronounciation": "/əˈstɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/estop_us_1.mp3"
+}

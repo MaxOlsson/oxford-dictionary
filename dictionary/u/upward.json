@@ -1,0 +1,40 @@
+{
+  "adverb": [
+    {
+      "description": "Toward a higher place, point, or level.",
+      "examples": [
+        "she peered upward at the sky"
+      ],
+      "synonyms": [
+        "up",
+        "uphill",
+        "towards a higher level",
+        "to the top"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Moving, pointing, or leading to a higher place, point, or level.",
+      "examples": [
+        "an upward trend in sales"
+      ],
+      "synonyms": [
+        "rising",
+        "ascending",
+        "climbing",
+        "mounting"
+      ]
+    }
+  ],
+  "phrases": [
+    "upwards of 3,500 copies",
+    "Gooden can throw the ball at upward of 95 miles per hour",
+    "Demand for gas here is expected to rise by upwards of 30% during the next three years.",
+    "In some cities, such as New York, the drop is upwards of 30 percent from just a few years ago.",
+    "Meanwhile, upwards of 70 percent of the voters say they have heard enough about this."
+  ],
+  "origin": "Old English upweard(es) (see up, -ward).",
+  "pronounciation": "/ˈəpwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upward_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Saturated with liquid, especially water; soaked through.",
+      "examples": [
+        "his clothes were sodden"
+      ],
+      "synonyms": [
+        "soaking",
+        "soaking wet",
+        "soaked",
+        "soaked through",
+        "wet through",
+        "saturated",
+        "drenched",
+        "sopping",
+        "sopping wet",
+        "dripping",
+        "dripping wet",
+        "wringing",
+        "wringing wet",
+        "streaming"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Saturate (something) with water.",
+      "examples": [],
+      "synonyms": [
+        "sprinkle",
+        "moisten",
+        "dampen",
+        "wet",
+        "spray",
+        "splash"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense boiled, cooked by boiling): archaic past participle of seethe.",
+  "pronounciation": "/ˈsɑdn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sodden_us_1.mp3"
+}

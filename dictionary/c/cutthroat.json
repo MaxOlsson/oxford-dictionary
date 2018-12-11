@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A murderer or other violent criminal.",
+      "examples": [],
+      "synonyms": [
+        "murderer",
+        "killer",
+        "assassin",
+        "butcher",
+        "liquidator",
+        "executioner"
+      ]
+    },
+    {
+      "description": "A trout of western North America, with red or orange markings under the jaw.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a competitive situation or activity) fierce and intense; involving the use of ruthless measures.",
+      "examples": [
+        "cutthroat competition led to a lot of bankruptcies",
+        "the cutthroat world of fashion"
+      ],
+      "synonyms": [
+        "ruthless",
+        "merciless",
+        "pitiless",
+        "unfeeling",
+        "relentless",
+        "aggressive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkətθroʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cutthroat_us_1.mp3"
+}

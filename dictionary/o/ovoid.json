@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a solid or a three-dimensional surface) egg-shaped.",
+      "examples": [],
+      "synonyms": [
+        "bulging",
+        "round",
+        "fat",
+        "rotund",
+        "swollen",
+        "spherical",
+        "swelling",
+        "distended",
+        "bloated",
+        "protuberant",
+        "convex",
+        "pear-shaped",
+        "bulb-shaped",
+        "balloon-shaped"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An ovoid body or surface.",
+      "examples": [],
+      "synonyms": [
+        "ball",
+        "pellet",
+        "pill",
+        "globule",
+        "spheroid",
+        "spherule",
+        "sphere",
+        "oval",
+        "orb",
+        "round",
+        "pearl"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from French ovoïde, from modern Latin ovoides, from Latin ovum egg.",
+  "pronounciation": "/ˈōˌvoid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ovoid_us_1.mp3"
+}

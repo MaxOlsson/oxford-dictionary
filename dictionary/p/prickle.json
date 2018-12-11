@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A short, slender, sharp-pointed outgrowth on the bark or epidermis of a plant; a small thorn.",
+      "examples": [
+        "the prickles of the blackberry bushes"
+      ],
+      "synonyms": [
+        "thorn",
+        "needle",
+        "barb",
+        "spike",
+        "point",
+        "spine",
+        "quill",
+        "spur",
+        "bristle",
+        "prong",
+        "tine"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person's skin or a part of the body) experience a tingling sensation, especially as a result of strong emotion.",
+      "examples": [
+        "the sound made her skin prickle with horror"
+      ],
+      "synonyms": [
+        "tingle",
+        "itch",
+        "have a creeping sensation",
+        "have goose pimples",
+        "have gooseflesh",
+        "have goosebumps",
+        "have pins and needles"
+      ]
+    }
+  ],
+  "origin": "Old English pricel instrument for pricking, sensation of being pricked; related to Middle Dutch prickel, from the Germanic base of prick. The verb is partly a diminutive of the verb prick.",
+  "pronounciation": "/ˈprik(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prickle_us_1.mp3"
+}

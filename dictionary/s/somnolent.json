@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Sleepy; drowsy.",
+      "examples": [],
+      "synonyms": [
+        "sleepy",
+        "drowsy",
+        "tired",
+        "languid",
+        "languorous",
+        "heavy-eyed",
+        "dozy",
+        "nodding",
+        "groggy",
+        "half asleep",
+        "asleep on one's feet",
+        "yawning"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense causing sleepiness): from Old French sompnolent or Latin somnolentus, from somnus sleep.",
+  "pronounciation": "/ˈsämnələnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/somnolent_us_1.mp3"
+}

@@ -1,0 +1,178 @@
+{
+  "verb": [
+    {
+      "description": "Fasten (something) securely in a particular place or position.",
+      "examples": [
+        "fix the clamp on a rail",
+        "the upper jaw of an amphibian is firmly fixed to the skull",
+        "he turned back to fix the scene in his mind"
+      ],
+      "synonyms": [
+        "fasten",
+        "attach",
+        "affix",
+        "secure"
+      ]
+    },
+    {
+      "description": "Decide or settle on (a specific price, date, course of action, etc.)",
+      "examples": [
+        "no date has yet been fixed for a hearing",
+        "the rent will be fixed at $600 a month",
+        "their thinking then seemed fixed on conventional projects"
+      ],
+      "synonyms": [
+        "decide on",
+        "select",
+        "choose",
+        "resolve on"
+      ]
+    },
+    {
+      "description": "Mend or repair.",
+      "examples": [
+        "you should fix that shelf"
+      ],
+      "synonyms": [
+        "repair",
+        "mend",
+        "patch up",
+        "put right",
+        "put to rights",
+        "set right",
+        "get working",
+        "make as good as new",
+        "see to"
+      ]
+    },
+    {
+      "description": "Make arrangements for (something); organize.",
+      "examples": [
+        "I've fixed it for you to see him on Thursday",
+        "he's sent her on ahead to fix things up"
+      ],
+      "synonyms": [
+        "arrange",
+        "organize",
+        "contrive",
+        "sort out",
+        "see to",
+        "see about"
+      ]
+    },
+    {
+      "description": "Make (a dye, photographic image, or drawing) permanent.",
+      "examples": [
+        "he perfected a process of fixing a photographic likeness on a silver plate"
+      ],
+      "synonyms": [
+        "make permanent",
+        "make fast",
+        "set"
+      ]
+    },
+    {
+      "description": "Influence the outcome of (something, especially a race, contest, or election) by illegal or underhanded means.",
+      "examples": [
+        "the foundation denies fixing races"
+      ],
+      "synonyms": [
+        "rig",
+        "arrange fraudulently",
+        "prearrange the result of",
+        "predetermine the result of"
+      ]
+    },
+    {
+      "description": "Take an injection of a narcotic drug.",
+      "examples": [],
+      "synonyms": [
+        "inject drugs",
+        "take drugs"
+      ]
+    },
+    {
+      "description": "Castrate or spay (an animal); neuter.",
+      "examples": [],
+      "synonyms": [
+        "castrate",
+        "neuter",
+        "geld",
+        "cut",
+        "emasculate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A difficult or awkward situation from which it is hard to extricate oneself; a predicament.",
+      "examples": [
+        "how on earth did you get into such a fix?"
+      ],
+      "synonyms": [
+        "predicament",
+        "plight",
+        "difficulty",
+        "difficult situation",
+        "awkward situation",
+        "spot of trouble",
+        "bit of bother",
+        "corner",
+        "ticklish situation",
+        "tricky situation",
+        "tight spot"
+      ]
+    },
+    {
+      "description": "A dose of a narcotic drug to which one is addicted.",
+      "examples": [
+        "he hadn't had his fix"
+      ],
+      "synonyms": [
+        "dose"
+      ]
+    },
+    {
+      "description": "A measure taken to resolve a problem or correct a mistake; a solution or remedy.",
+      "examples": [
+        "the company is working on a fix but suggests users consider technical workarounds in the meantime",
+        "representatives trying to find cheap fixes to meet their obligations"
+      ],
+      "synonyms": [
+        "solution",
+        "answer",
+        "resolution",
+        "way out"
+      ]
+    },
+    {
+      "description": "A position determined by visual or radio bearings or astronomical observations.",
+      "examples": []
+    },
+    {
+      "description": "A dishonest or underhanded arrangement.",
+      "examples": [
+        "obviously, his appointment was a fix"
+      ],
+      "synonyms": [
+        "fraud",
+        "swindle",
+        "pretence",
+        "hoax",
+        "trick",
+        "charade",
+        "sham"
+      ]
+    }
+  ],
+  "phrases": [
+    "Once again, I stood there trying to get a fix on his whereabouts.",
+    "You may end up having to tell a human operator where you are if the system cannot get a fix on your phone.",
+    "Satellites get a fix on the signal location and forward it to emergency response agencies on land.",
+    "A colleague rushed to locate him with the standard bit of kit, but couldn't get a fix on the man, even though he was just 50 meters away.",
+    "It doesn't stop after a minute or two, so I go outside, get a fix on the position, and call 911."
+  ],
+  "origin": "Late Middle English: partly from Old French fix fixed, partly from medieval Latin fixare to fix, both from Latin fixus, past participle of figere fix, fasten. The noun dates from the early 19th century.",
+  "pronounciation": "/fiks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fix_us_1.mp3"
+}

@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "A diagram consisting of rectangles whose area is proportional to the frequency of a variable and whose width is equal to the class interval.",
+      "examples": [],
+      "synonyms": [
+        "graph",
+        "table",
+        "tabulation",
+        "grid",
+        "diagram",
+        "guide",
+        "scheme",
+        "figure",
+        "illustration"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from Greek histos mast, web + -gram.",
+  "pronounciation": "/ˈhistəˌɡram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/histogram_us_1.mp3"
+}

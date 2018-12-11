@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "A length or portion of time.",
+      "examples": [
+        "he had long periods of depression",
+        "the period 1977–85",
+        "the training period is between 16 and 18 months",
+        "the ale will be available for a limited period"
+      ],
+      "synonyms": [
+        "time",
+        "spell",
+        "interval",
+        "stretch",
+        "term",
+        "span",
+        "phase",
+        "session",
+        "bout",
+        "run",
+        "space",
+        "duration",
+        "chapter",
+        "stage"
+      ]
+    },
+    {
+      "description": "The interval of time between successive occurrences of the same state in an oscillatory or cyclic phenomenon, such as a mechanical vibration, an alternating current, a variable star, or an electromagnetic wave.",
+      "examples": []
+    },
+    {
+      "description": "A flow of blood and other material from the lining of the uterus, lasting for several days and occurring in sexually mature women who are not pregnant at intervals of about one lunar month until the onset of menopause.",
+      "examples": [],
+      "synonyms": [
+        "menstruation",
+        "menstrual flow"
+      ]
+    },
+    {
+      "description": "A punctuation mark (.) used at the end of a sentence or an abbreviation.",
+      "examples": [],
+      "synonyms": [
+        "full stop",
+        "full point",
+        "point",
+        "stop"
+      ]
+    },
+    {
+      "description": "A set of elements occupying an entire horizontal row in the periodic table.",
+      "examples": []
+    },
+    {
+      "description": "A complex sentence, especially one consisting of several clauses, constructed as part of a formal speech or oration.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Belonging to or characteristic of a past historical time, especially in style or design.",
+      "examples": [
+        "a splendid selection of period furniture"
+      ],
+      "synonyms": [
+        "in period style",
+        "period",
+        "nostalgic",
+        "evocative",
+        "of yesteryear",
+        "olde worlde"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the time during which something, especially a disease, runs its course): from Old French periode, via Latin from Greek periodos orbit, recurrence, course, from peri- around + hodos way, course. The sense portion of time dates from the early 17th century.",
+  "pronounciation": "/ˈpɪriəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/period_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A theater or other performance venue.",
+      "examples": [
+        "“Tuna Does Vegas” is ending this week at the Waco Hippodrome"
+      ],
+      "synonyms": [
+        "playhouse",
+        "auditorium",
+        "amphitheatre",
+        "coliseum"
+      ]
+    },
+    {
+      "description": "(in ancient Greece or Rome) a course for chariot or horse races.",
+      "examples": [],
+      "synonyms": [
+        "stadium",
+        "arena",
+        "amphitheatre",
+        "coliseum",
+        "colosseum"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in hippodrome (sense 2)): from French, via Latin from Greek hippodromos, from hippos horse + dromos race, course. The early sense led to the term's use as a grandiose name for a modern circus, later applied to other places of popular entertainment ( hippodrome (sense 1), late 19th century).",
+  "pronounciation": "/ˈhipəˌdrōm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hippodrome_us_1.mp3"
+}

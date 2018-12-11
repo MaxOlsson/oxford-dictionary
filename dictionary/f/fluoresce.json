@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Shine or glow brightly due to fluorescence.",
+      "examples": [
+        "the molecules fluoresce when excited by ultraviolet radiation"
+      ],
+      "synonyms": [
+        "shine",
+        "glimmer",
+        "glint",
+        "catch the light",
+        "glitter",
+        "shimmer",
+        "glow",
+        "sparkle",
+        "twinkle",
+        "flicker",
+        "blink",
+        "wink",
+        "glisten",
+        "flash",
+        "flare",
+        "beam"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: back-formation from fluorescence.",
+  "pronounciation": "/ˌflo͝oəˈres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fluoresce_us_1.mp3"
+}

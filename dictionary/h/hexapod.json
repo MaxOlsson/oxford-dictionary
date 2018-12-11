@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "A six-legged arthropod belonging to the class Hexapoda.",
+      "examples": [
+        "researchers noted that hexapods and crustaceans shared a different set of important morphological characters",
+        "the oldest known land animal is a hexapod found in Scotland, dated at 405 million years"
+      ]
+    },
+    {
+      "description": "A six-legged robot.",
+      "examples": [
+        "each of the hexapod's legs are equipped with pressure sensors which allow the bot to respond to its terrain"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Greek hexapous, hexapod-, from hex six + pous foot.",
+  "pronounciation": "/ˈhɛksəˌpɑd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hexapod_us_1.mp3"
+}

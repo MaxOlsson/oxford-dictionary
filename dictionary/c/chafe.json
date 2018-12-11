@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "(of something restrictive or too tight) make (a part of the body) sore by rubbing against it.",
+      "examples": [
+        "the collar chafed his neck"
+      ],
+      "synonyms": [
+        "abrade",
+        "graze",
+        "grate",
+        "rub against",
+        "rub painfully",
+        "gall",
+        "skin",
+        "scrape",
+        "scratch",
+        "rasp"
+      ]
+    },
+    {
+      "description": "Rub (a part of the body) to restore warmth or sensation.",
+      "examples": [],
+      "synonyms": [
+        "rub",
+        "warm",
+        "warm up"
+      ]
+    },
+    {
+      "description": "Become or make annoyed or impatient because of a restriction or inconvenience.",
+      "examples": [
+        "the bank chafed at the restrictions imposed upon it",
+        "it chafed him to be confined like this"
+      ],
+      "synonyms": [
+        "be impatient",
+        "be angry",
+        "be annoyed",
+        "be irritated",
+        "be incensed",
+        "be exasperated",
+        "be frustrated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Wear or damage caused by rubbing.",
+      "examples": [
+        "to prevent chafe the ropes should lie flat"
+      ],
+      "synonyms": [
+        "inflammation",
+        "swelling",
+        "lesion"
+      ]
+    },
+    {
+      "description": "A state of annoyance.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the players are chafing at the bit for a game",
+    "the prospective students from Boston were chafing at the bit to start grad school"
+  ],
+  "origin": "Late Middle English (in the sense make warm): from Old French chaufer make hot, based on Latin calefacere, from calere be hot + facere make.",
+  "pronounciation": "/CHāf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chafe_us_1.mp3"
+}

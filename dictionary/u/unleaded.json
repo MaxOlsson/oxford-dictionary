@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of gasoline) without added tetraethyl lead.",
+      "examples": []
+    },
+    {
+      "description": "Not covered, weighted, or framed with lead.",
+      "examples": []
+    },
+    {
+      "description": "(of type) with no space or leads added between lines.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Gasoline without added lead.",
+      "examples": [
+        "the car was converted to run on unleaded"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈlɛdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unleaded_us_2.mp3"
+}

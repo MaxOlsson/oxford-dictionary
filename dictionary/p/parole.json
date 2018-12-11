@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The release of a prisoner temporarily (for a special purpose) or permanently before the completion of a sentence, on the promise of good behavior.",
+      "examples": [
+        "he committed a burglary while on parole"
+      ]
+    },
+    {
+      "description": "The actual linguistic behavior or performance of individuals, in contrast to the linguistic system of a community.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Release (a prisoner) on parole.",
+      "examples": [
+        "he was paroled after serving nine months of a two-year sentence"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French, literally word, also formal promise, from ecclesiastical Latin parabola speech; compare with parol.",
+  "pronounciation": "/pəˈrōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parole_us_1.mp3"
+}

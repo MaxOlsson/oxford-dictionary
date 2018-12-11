@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to China or its language, culture, or people.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Sino-Tibetan language of China.",
+      "examples": []
+    },
+    {
+      "description": "A native or inhabitant of China, or a person of Chinese descent.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌCHīˈnēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chinese_us_1.mp3"
+}

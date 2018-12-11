@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Go to see and spend time with (someone) socially.",
+      "examples": [
+        "I came to visit my grandmother",
+        "he went out to visit with his pals"
+      ],
+      "synonyms": [
+        "call on",
+        "call in on",
+        "pay a call on",
+        "pay a visit to",
+        "pay someone a call",
+        "pay someone a visit",
+        "go to see",
+        "come to see",
+        "look in on"
+      ]
+    },
+    {
+      "description": "Inflict (something harmful or unpleasant) on someone.",
+      "examples": [
+        "the mockery visited upon him by his schoolmates"
+      ],
+      "synonyms": [
+        "happen to",
+        "overtake",
+        "befall",
+        "come upon",
+        "fall upon",
+        "hit",
+        "strike"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of going or coming to see a person or place socially, as a tourist, or for some other purpose.",
+      "examples": [
+        "a visit to the doctor"
+      ],
+      "synonyms": [
+        "social call",
+        "call"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French visiter or Latin visitare go to see, frequentative of visare to view, from videre to see.",
+  "pronounciation": "/ˈvɪzɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/visit_us_1.mp3"
+}

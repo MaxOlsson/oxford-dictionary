@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be molded into shape while soft and then set into a rigid or slightly elastic form.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Made of plastic.",
+      "examples": [
+        "plastic bottles"
+      ]
+    },
+    {
+      "description": "(of a substance or material) easily shaped or molded.",
+      "examples": [
+        "rendering the material more plastic"
+      ],
+      "synonyms": [
+        "malleable",
+        "mouldable",
+        "shapable",
+        "pliable",
+        "pliant",
+        "ductile",
+        "flexible",
+        "soft",
+        "workable",
+        "supple",
+        "bendable"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense characteristic of molding): from French plastique or Latin plasticus, from Greek plastikos, from plassein to mold.",
+  "pronounciation": "/ˈplastik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_plastic_1_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The amount or number of a material or immaterial thing not usually estimated by spatial measurement.",
+      "examples": [
+        "the quantity and quality of the fruit can be controlled",
+        "note down the sizes, colors, and quantities that you require"
+      ],
+      "synonyms": [
+        "amount",
+        "number",
+        "total",
+        "aggregate",
+        "sum",
+        "quota",
+        "group",
+        "size",
+        "mass",
+        "weight",
+        "volume",
+        "bulk",
+        "load",
+        "consignment",
+        "expanse",
+        "extent",
+        "length",
+        "area"
+      ]
+    },
+    {
+      "description": "The perceived length of a vowel sound or syllable.",
+      "examples": []
+    },
+    {
+      "description": "A value or component that may be expressed in numbers.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French quantite, from Latin quantitas (translating Greek posotēs), from quantus how great, how much.",
+  "pronounciation": "/ˈkwän(t)ədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quantity_us_1.mp3"
+}

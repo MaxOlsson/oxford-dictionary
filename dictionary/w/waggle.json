@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Move or cause to move with short quick movements from side to side or up and down.",
+      "examples": [
+        "his arm waggled",
+        "Mary waggled a glass at them"
+      ],
+      "synonyms": [
+        "wag",
+        "shake",
+        "wiggle",
+        "wobble",
+        "wave",
+        "quiver",
+        "jerk",
+        "twitch",
+        "flutter",
+        "jiggle",
+        "joggle",
+        "bobble",
+        "brandish",
+        "flourish",
+        "flail about"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of waggling.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: frequentative of wag.",
+  "pronounciation": "/ˈwaɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/waggle_us_1.mp3"
+}

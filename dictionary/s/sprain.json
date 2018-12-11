@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Wrench or twist the ligaments of (an ankle, wrist, or other joint) violently so as to cause pain and swelling but not dislocation.",
+      "examples": [
+        "he left in a wheelchair after spraining an ankle"
+      ],
+      "synonyms": [
+        "wrench",
+        "twist",
+        "turn",
+        "strain",
+        "crick"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The result of a wrench or twist of the ligaments of a joint.",
+      "examples": [],
+      "synonyms": [
+        "wrench",
+        "strain",
+        "rick",
+        "crick"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: of unknown origin.",
+  "pronounciation": "/sprān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sprain_us_1.mp3"
+}

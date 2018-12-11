@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "The possibility or likelihood of some future event occurring.",
+      "examples": [
+        "there was no prospect of a reconciliation",
+        "training that offered a prospect of continuous employment"
+      ],
+      "synonyms": [
+        "likelihood",
+        "hope",
+        "expectation",
+        "anticipation",
+        "chance",
+        "good chance",
+        "poor chance",
+        "chances",
+        "odds",
+        "probability",
+        "possibility",
+        "likeliness",
+        "promise",
+        "lookout"
+      ]
+    },
+    {
+      "description": "A person regarded as likely to succeed or as a potential customer, client, etc.",
+      "examples": [
+        "clients deemed likely prospects for active party membership",
+        "a great young pitching prospect"
+      ],
+      "synonyms": [
+        "candidate",
+        "possibility"
+      ]
+    },
+    {
+      "description": "An extensive view of landscape.",
+      "examples": [
+        "a viewpoint commanding a magnificent prospect of the estuary"
+      ],
+      "synonyms": [
+        "view",
+        "vista",
+        "outlook",
+        "perspective",
+        "panorama",
+        "aspect",
+        "scene"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Search for mineral deposits in a place, especially by means of experimental drilling and excavation.",
+      "examples": [
+        "the company is also prospecting for gold"
+      ],
+      "synonyms": [
+        "inspect",
+        "survey",
+        "make a survey of",
+        "explore",
+        "search",
+        "scout",
+        "reconnoitre",
+        "examine",
+        "check out"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting the action of looking towards a distant object): from Latin prospectus view, from prospicere look forward, from pro- forward + specere to look. Early use, referring to a view of landscape, gave rise to the meaning mental picture (mid 16th century), whence anticipated event.",
+  "pronounciation": "/ˈprɑˌspɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prospect_us_2.mp3"
+}

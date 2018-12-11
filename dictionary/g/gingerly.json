@@ -1,0 +1,46 @@
+{
+  "adverb": [
+    {
+      "description": "In a careful or cautious manner.",
+      "examples": [
+        "Jackson sat down very gingerly"
+      ],
+      "synonyms": [
+        "cautiously",
+        "carefully",
+        "with caution",
+        "with care",
+        "circumspectly",
+        "delicately",
+        "warily",
+        "charily",
+        "guardedly",
+        "prudently",
+        "judiciously",
+        "on one's guard",
+        "on the alert",
+        "on the lookout",
+        "on the qui vive",
+        "suspiciously",
+        "attentively",
+        "heedfully",
+        "watchfully",
+        "vigilantly",
+        "observantly",
+        "alertly",
+        "cannily"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Showing great care or caution.",
+      "examples": [
+        "with strangers the preliminaries are taken at a gingerly pace"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense daintily, mincingly): perhaps from Old French gensor delicate, comparative of gent graceful, from Latin genitus (well-) born.",
+  "pronounciation": "/ˈdʒɪndʒərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gingerly_us_2.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be answered.",
+      "examples": [
+        "unanswerable questions concerning our own mortality"
+      ],
+      "synonyms": [
+        "insoluble",
+        "unsolvable",
+        "insolvable",
+        "unresolvable",
+        "unexplainable",
+        "inexplicable",
+        "unascertainable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈæns(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unanswerable_us_1.mp3"
+}

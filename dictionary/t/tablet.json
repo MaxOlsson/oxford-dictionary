@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A flat slab of stone, clay, or wood, used especially for an inscription.",
+      "examples": [
+        "at the corner of the apse is a memorial tablet"
+      ],
+      "synonyms": [
+        "slab",
+        "panel",
+        "plaque",
+        "plate",
+        "sign"
+      ]
+    },
+    {
+      "description": "A small disk or cylinder of a compressed solid substance, typically a measured amount of a medicine or drug; a pill.",
+      "examples": [
+        "headache tablets",
+        "ecstasy tablets"
+      ],
+      "synonyms": [
+        "pill",
+        "capsule",
+        "lozenge",
+        "caplet",
+        "pastille",
+        "pellet",
+        "drop",
+        "ball"
+      ]
+    },
+    {
+      "description": "A small portable computer that accepts input directly on to its screen rather than via a keyboard or mouse.",
+      "examples": []
+    },
+    {
+      "description": "A writing pad.",
+      "examples": [],
+      "synonyms": [
+        "notebook",
+        "notepad",
+        "writing pad",
+        "memo pad",
+        "jotter",
+        "block",
+        "sketch pad",
+        "sketchbook"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French tablete, from a diminutive of Latin tabula (see table).",
+  "pronounciation": "/ˈtablət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tablet_us_1.mp3"
+}

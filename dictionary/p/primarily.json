@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "For the most part; mainly.",
+      "examples": [
+        "around 80 percent of personal computers are used primarily for word processing"
+      ],
+      "synonyms": [
+        "first and foremost",
+        "first",
+        "firstly",
+        "essentially",
+        "in essence",
+        "fundamentally",
+        "in the first place",
+        "most importantly",
+        "principally",
+        "predominantly",
+        "predominately",
+        "basically",
+        "elementally",
+        "above all",
+        "especially",
+        "particularly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpraɪˈmɛrəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/primarily_us_1.mp3"
+}

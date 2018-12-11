@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Stare in an angry or fierce way.",
+      "examples": [
+        "she glared at him, her cheeks flushing"
+      ],
+      "synonyms": [
+        "stare angrily",
+        "scowl",
+        "glower",
+        "look daggers",
+        "frown",
+        "lour",
+        "give someone a black look",
+        "look menacingly",
+        "look threateningly"
+      ]
+    },
+    {
+      "description": "(of the sun or an electric light) shine with a strong or dazzling light.",
+      "examples": [
+        "the sun glared out of a clear blue sky"
+      ],
+      "synonyms": [
+        "blaze",
+        "be dazzling",
+        "be blinding",
+        "shine brightly",
+        "flare",
+        "flame",
+        "beam"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fierce or angry stare.",
+      "examples": [],
+      "synonyms": [
+        "angry stare",
+        "scowl",
+        "glower",
+        "frown",
+        "black look",
+        "menacing look",
+        "threatening look"
+      ]
+    },
+    {
+      "description": "Strong and dazzling light.",
+      "examples": [
+        "Murray narrowed his eyes against the glare of the sun"
+      ],
+      "synonyms": [
+        "strong light",
+        "dazzling light",
+        "blaze",
+        "dazzle",
+        "shine",
+        "beam",
+        "flare"
+      ]
+    },
+    {
+      "description": "Dazzling or showy appearance; tawdry brilliance.",
+      "examples": [
+        "the pomp and glare of rhetoric"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense shine strongly): from Middle Dutch and Middle Low German glaren to gleam, glare: perhaps related to glass. The sense stare occurred first in the adjective glaring ( late Middle English).",
+  "pronounciation": "/ɡler/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/glare_us_1.mp3"
+}

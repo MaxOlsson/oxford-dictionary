@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Not polite or friendly.",
+      "examples": [
+        "after Anna's kindness I wouldn't want to seem ungracious"
+      ],
+      "synonyms": [
+        "rude",
+        "impolite",
+        "uncivil",
+        "discourteous",
+        "ill-mannered",
+        "bad-mannered",
+        "unmannerly",
+        "uncouth",
+        "disrespectful",
+        "ungallant",
+        "insolent",
+        "impertinent",
+        "impudent",
+        "churlish",
+        "boorish",
+        "gauche",
+        "cavalier",
+        "offhand",
+        "unladylike",
+        "ungentlemanly",
+        "blunt",
+        "gruff",
+        "curt",
+        "terse",
+        "sharp",
+        "short",
+        "surly",
+        "unfriendly",
+        "hostile",
+        "unkind",
+        "inconsiderate",
+        "insensitive"
+      ]
+    },
+    {
+      "description": "Not graceful or elegant.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈɡreɪʃəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ungracious_us_1.mp3"
+}

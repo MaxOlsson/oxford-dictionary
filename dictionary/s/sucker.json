@@ -1,0 +1,100 @@
+{
+  "noun": [
+    {
+      "description": "A gullible or easily deceived person.",
+      "examples": [],
+      "synonyms": [
+        "fool",
+        "simpleton",
+        "innocent",
+        "dupe",
+        "gull"
+      ]
+    },
+    {
+      "description": "A thing or person not specified by name.",
+      "examples": [
+        "he's one strong sucker"
+      ],
+      "synonyms": [
+        "enthusiast",
+        "fanatic",
+        "maniac",
+        "addict"
+      ]
+    },
+    {
+      "description": "A flat or concave organ enabling an animal to cling to a surface by suction.",
+      "examples": []
+    },
+    {
+      "description": "A shoot springing from the base of a tree or other plant, especially one arising from the root below ground level at some distance from the main stem or trunk.",
+      "examples": [],
+      "synonyms": [
+        "side shoot",
+        "shoot",
+        "tendril",
+        "runner",
+        "scion",
+        "slip",
+        "offset",
+        "sprout",
+        "sprig",
+        "stem",
+        "twig",
+        "branch",
+        "bough",
+        "limb",
+        "spur"
+      ]
+    },
+    {
+      "description": "The piston of a suction pump.",
+      "examples": []
+    },
+    {
+      "description": "A freshwater fish with thick lips that are used to suck up food from the bottom, native to North America and Asia.",
+      "examples": []
+    },
+    {
+      "description": "A lollipop.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fool or trick (someone)",
+      "examples": [
+        "they got suckered into accepting responsibility"
+      ],
+      "synonyms": [
+        "deceive",
+        "delude",
+        "hoodwink",
+        "mislead",
+        "take in",
+        "dupe",
+        "fool",
+        "double-cross",
+        "cheat",
+        "defraud",
+        "swindle",
+        "outwit",
+        "outmanoeuvre",
+        "catch out",
+        "gull",
+        "hoax",
+        "bamboozle",
+        "beguile"
+      ]
+    },
+    {
+      "description": "(of a plant) produce suckers.",
+      "examples": [
+        "it spread rapidly after being left undisturbed to sucker"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsəkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sucker_us_1.mp3"
+}

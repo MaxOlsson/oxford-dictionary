@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the US state of Washington or its inhabitants.",
+      "examples": [
+        "the Washingtonian forests"
+      ]
+    },
+    {
+      "description": "Relating to or characteristic of the US capital city of Washington or its inhabitants.",
+      "examples": [
+        "Washingtonian memoirs"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the US state of Washington.",
+      "examples": [
+        "Washingtonians enjoy all four seasons in a moderate climate"
+      ]
+    },
+    {
+      "description": "A native or inhabitant of the US capital city of Washington.",
+      "examples": [
+        "a well-connected Washingtonian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌwɑʃɪŋˈtoʊniən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/washingtonian_1_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to an embryo.",
+      "examples": [],
+      "synonyms": [
+        "fetal",
+        "unborn",
+        "unhatched"
+      ]
+    },
+    {
+      "description": "(of a system, idea, or organization) in a rudimentary stage with potential for further development.",
+      "examples": [
+        "the plan is still in its embryonic stages"
+      ],
+      "synonyms": [
+        "rudimentary",
+        "undeveloped",
+        "unformed",
+        "immature",
+        "incomplete",
+        "incipient",
+        "inchoate",
+        "just beginning"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from late Latin embryo, embryon- embryo + -ic.",
+  "pronounciation": "/ˌɛmbriˈɑnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/embryonic_us_1.mp3"
+}

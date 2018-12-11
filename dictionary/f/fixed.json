@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Fastened securely in position.",
+      "examples": [
+        "a fixed iron ladder down the port side"
+      ],
+      "synonyms": [
+        "fastened",
+        "secure",
+        "fast",
+        "firm",
+        "stable"
+      ]
+    },
+    {
+      "description": "(especially of a price, rate, or time) predetermined and not subject to or able to be changed.",
+      "examples": [
+        "most trusts locked investors in for a fixed period"
+      ],
+      "synonyms": [
+        "predetermined",
+        "set",
+        "established",
+        "allotted",
+        "settled",
+        "prearranged",
+        "arranged",
+        "specified",
+        "decided",
+        "agreed",
+        "determined",
+        "confirmed",
+        "prescribed",
+        "decreed"
+      ]
+    },
+    {
+      "description": "(of a sports contest) having the outcome dishonestly predetermined.",
+      "examples": [
+        "the fight's fixed—the ref has your card marked"
+      ]
+    },
+    {
+      "description": "Situated with regard to.",
+      "examples": [
+        "how's the club fixed for money now?"
+      ]
+    }
+  ],
+  "pronounciation": "/fɪkst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fixed_us_1.mp3"
+}

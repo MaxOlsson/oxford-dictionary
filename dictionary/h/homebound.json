@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "On the way home; homeward-bound.",
+      "examples": [
+        "her homebound flight"
+      ]
+    },
+    {
+      "description": "Unable to leave one's house, typically due to illness or old age; housebound.",
+      "examples": [
+        "the delivery of care to people who are homebound"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhoʊmˌbaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homebound_us_2.mp3"
+}

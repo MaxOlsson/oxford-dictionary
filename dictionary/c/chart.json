@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A sheet of information in the form of a table, graph, or diagram.",
+      "examples": [
+        "a chart showing how much do-it-yourself costs compared with retail"
+      ],
+      "synonyms": [
+        "graph",
+        "table",
+        "tabulation",
+        "grid",
+        "histogram",
+        "diagram",
+        "guide",
+        "scheme",
+        "figure",
+        "illustration"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a map of (an area).",
+      "examples": [],
+      "synonyms": [
+        "plot",
+        "delineate",
+        "draw",
+        "depict",
+        "portray",
+        "survey"
+      ]
+    },
+    {
+      "description": "(of a record) enter the weekly music charts at a particular position.",
+      "examples": [
+        "the record will probably chart at about No. 74"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French charte, from Latin charta paper, papyrus leaf (see card).",
+  "pronounciation": "/tʃɑrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chart_us_1.mp3"
+}

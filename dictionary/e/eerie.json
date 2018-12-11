@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Strange and frightening.",
+      "examples": [
+        "an eerie green glow in the sky"
+      ],
+      "synonyms": [
+        "uncanny",
+        "sinister",
+        "ghostly",
+        "spectral",
+        "unnatural",
+        "unearthly",
+        "preternatural",
+        "supernatural",
+        "other-worldly",
+        "unreal",
+        "mysterious",
+        "strange",
+        "abnormal",
+        "odd",
+        "curious",
+        "queer",
+        "weird",
+        "bizarre",
+        "freakish"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally northern English and Scots in the sense fearful): probably from Old English earg cowardly, of Germanic origin; related to German arg.",
+  "pronounciation": "/ˈɪri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eerie_us_1.mp3"
+}

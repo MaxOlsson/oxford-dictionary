@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An enlargement of a photograph.",
+      "examples": [],
+      "synonyms": [
+        "blow-up",
+        "magnification",
+        "large print"
+      ]
+    },
+    {
+      "description": "An outburst of anger.",
+      "examples": [],
+      "synonyms": [
+        "fit of temper",
+        "fit of rage",
+        "fit of pique",
+        "fit",
+        "outburst",
+        "flare-up",
+        "blow-up",
+        "pet",
+        "paroxysm",
+        "frenzy",
+        "bad mood",
+        "mood",
+        "huff",
+        "scene"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Inflatable.",
+      "examples": [
+        "a blowup neck pillow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbloʊˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blow_up_1_us_2.mp3"
+}

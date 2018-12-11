@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling weary because one is unoccupied or lacks interest in one's current activity.",
+      "examples": [
+        "she got bored with staring out of the window",
+        "they would hang around all day, bored stiff"
+      ],
+      "synonyms": [
+        "with nothing to do",
+        "unoccupied",
+        "unemployed",
+        "at leisure",
+        "idle",
+        "purposeless",
+        "aimless",
+        "adrift",
+        "with time to kill"
+      ]
+    }
+  ],
+  "pronounciation": "/bôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bored_us_1.mp3"
+}

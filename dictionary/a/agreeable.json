@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Enjoyable and pleasurable; pleasant.",
+      "examples": [
+        "a cheerful and agreeable companion"
+      ],
+      "synonyms": [
+        "pleasant",
+        "pleasing",
+        "enjoyable",
+        "pleasurable",
+        "nice",
+        "to one's liking",
+        "appealing",
+        "engaging",
+        "satisfying",
+        "fine",
+        "charming",
+        "delightful"
+      ]
+    },
+    {
+      "description": "Willing to agree to something.",
+      "examples": [
+        "they were agreeable to its publication"
+      ],
+      "synonyms": [
+        "willing",
+        "amenable",
+        "compliant",
+        "complying",
+        "consenting",
+        "assenting",
+        "in accord",
+        "in agreement",
+        "disposed",
+        "accommodating",
+        "acquiescent",
+        "tractable",
+        "obliging",
+        "complaisant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French agreable, from agreer make agreeable to (see agree).",
+  "pronounciation": "/əˈɡriəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/agreeable_us_1.mp3"
+}

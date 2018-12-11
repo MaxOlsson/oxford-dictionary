@@ -1,0 +1,92 @@
+{
+  "noun": [
+    {
+      "description": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
+      "examples": [],
+      "synonyms": [
+        "levy",
+        "tariff",
+        "duty",
+        "toll",
+        "excise",
+        "impost",
+        "contribution",
+        "assessment",
+        "tribute",
+        "tithe",
+        "charge",
+        "fee"
+      ]
+    },
+    {
+      "description": "A strain or heavy demand.",
+      "examples": [
+        "a heavy tax on the reader's attention"
+      ],
+      "synonyms": [
+        "burden",
+        "load",
+        "weight",
+        "encumbrance",
+        "demand",
+        "strain",
+        "pressure",
+        "stress",
+        "drain",
+        "imposition"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Impose a tax on (someone or something)",
+      "examples": [
+        "hardware and software is taxed at 7.5 percent"
+      ],
+      "synonyms": [
+        "levy a tax on",
+        "impose a toll on",
+        "charge duty on",
+        "exact a tax on",
+        "demand a tax on"
+      ]
+    },
+    {
+      "description": "Make heavy demands on (someone's powers or resources)",
+      "examples": [
+        "she knew that the ordeal to come would tax all her strength"
+      ],
+      "synonyms": [
+        "strain",
+        "stretch",
+        "put a strain on",
+        "make demands on",
+        "weigh heavily on",
+        "weigh down"
+      ]
+    },
+    {
+      "description": "Confront (someone) with a fault or wrongdoing.",
+      "examples": [
+        "why are you taxing me with these preposterous allegations?"
+      ],
+      "synonyms": [
+        "confront",
+        "accuse",
+        "call to account",
+        "charge",
+        "blame",
+        "censure",
+        "condemn",
+        "denounce"
+      ]
+    },
+    {
+      "description": "Examine and assess (the costs of a case).",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (also in the sense estimate or determine the amount of a penalty or damages, surviving in tax (sense 4 of the verb)): from Old French taxer, from Latin taxare to censure, charge, compute, perhaps from Greek tassein fix.",
+  "pronounciation": "/tæks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tax_us_1.mp3"
+}

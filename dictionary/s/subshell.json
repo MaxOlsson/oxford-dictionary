@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Located or occurring beneath a shell.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "Chiefly Geology. A shell that lies beneath another shell; a subsidiary layer within a shell.",
+      "examples": []
+    },
+    {
+      "description": "Physics and Chemistry. A set of allowed quantum states within a shell of an atom which can be occupied by electrons having the same value of the orbital quantum number l. Also: a corresponding set of allowed quantum states of nucleons in a nucleus.",
+      "examples": []
+    },
+    {
+      "description": "Computing. An instance of a shell initiated by another shell.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century; earliest use found in Annals and Magazine of Natural History. From sub- + shell.",
+  "pronounciation": "/ˈsʌbʃɛl/"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not mixed.",
+      "examples": [
+        "these poisons in their uncompounded form may only be supplied to persons known to the pharmacist"
+      ],
+      "synonyms": [
+        "non-compound",
+        "non-complex",
+        "uncombined",
+        "unmixed",
+        "unblended",
+        "unalloyed",
+        "pure",
+        "basic",
+        "single",
+        "elementary",
+        "fundamental"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnkəmˈpaʊndɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uncompounded_gb_1_8.mp3"
+}

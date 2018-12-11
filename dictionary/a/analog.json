@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.",
+      "examples": [
+        "analog signals",
+        "the information on a gramophone record is analog"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing seen as comparable to another.",
+      "examples": [
+        "an interior analogue of the exterior world",
+        "the idea that the fertilized egg contains a miniature analogue of every adult structure"
+      ],
+      "synonyms": [
+        "counterpart",
+        "analogue",
+        "equivalent",
+        "likeness",
+        "correspondent",
+        "match",
+        "twin",
+        "duplicate",
+        "equal",
+        "coequal",
+        "mirror"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (as noun): from French, from Greek analogon, neuter of analogos proportionate.",
+  "pronounciation": "/ˈanlˌôɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/analog_us_1.mp3"
+}

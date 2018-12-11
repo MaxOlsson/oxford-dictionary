@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Twice as great or as numerous.",
+      "examples": [
+        "a twofold increase in the risk"
+      ],
+      "synonyms": [
+        "dual",
+        "duplex",
+        "twin",
+        "binary",
+        "duplicate",
+        "matched",
+        "matching",
+        "paired",
+        "in pairs",
+        "complementary",
+        "coupled"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to double; to twice the number or amount.",
+      "examples": [
+        "use increased more than twofold from 1979 to 1989"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈto͞oˌfōld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/twofold_us_1.mp3"
+}

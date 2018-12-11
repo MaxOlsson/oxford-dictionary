@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A chemical substance used to preserve or stabilize biological material prior to microscopy or other examination.",
+      "examples": [
+        "an alcoholic fixative",
+        "ten double drops of fixative"
+      ]
+    },
+    {
+      "description": "A substance used to keep things in position or stick them together.",
+      "examples": [
+        "the swift glues these thin twigs to a wall using its own saliva as a fixative"
+      ],
+      "synonyms": [
+        "adhesive",
+        "glue",
+        "gum",
+        "paste",
+        "bonding",
+        "binder",
+        "sealer",
+        "sealant"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a substance) used to fix or stabilize something.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfiksədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fixative_us_1.mp3"
+}

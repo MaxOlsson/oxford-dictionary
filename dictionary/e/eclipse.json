@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination.",
+      "examples": [
+        "an eclipse of the sun"
+      ],
+      "synonyms": [
+        "blotting out",
+        "blocking",
+        "covering",
+        "obscuring",
+        "hiding",
+        "concealing",
+        "veiling",
+        "shrouding",
+        "darkening"
+      ]
+    },
+    {
+      "description": "A phase during which the distinctive markings of a bird (especially a male duck) are obscured by molting of the breeding plumage.",
+      "examples": [
+        "eclipse plumage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a celestial body) obscure the light from or to (another celestial body)",
+      "examples": [
+        "as the last piece of the sun was eclipsed by the moon"
+      ]
+    }
+  ],
+  "phrases": [
+    "his political power was in eclipse",
+    "At the end of WWI, with the Ottoman Empire in eclipse, they had the chance to expand influence in Egypt, Saudi Arabia, Palestine etc and control both the geopolitics and the economy.",
+    "Both drew on market forces energized in the process of liberalization, on the support of middle classes asserting their newly legitimated right to consume and of business groups seeking a successor to a developmentalist regime in eclipse.",
+    "Historical novels were in eclipse, but Hornblower's loyal public was a target worth aiming at.",
+    "In today's political climate, with this ideal in eclipse, the Civil Rights Act of 1968 may appear to represent the use of governmental power to dictate individuals' decisions about their own private property."
+  ],
+  "origin": "Middle English: from Old French e(s)clipse (noun), eclipser (verb), via Latin from Greek ekleipsis, from ekleipein fail to appear, be eclipsed, from ek out + leipein to leave.",
+  "pronounciation": "/əˈklɪps/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eclipse_us_1.mp3"
+}

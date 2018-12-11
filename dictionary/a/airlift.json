@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An act of transporting supplies by aircraft, typically in a blockade or other emergency.",
+      "examples": [
+        "a massive airlift of food, blankets, and medical supplies"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transport (troops or supplies) by aircraft, typically when transportation by land is difficult.",
+      "examples": [
+        "helicopters were employed to airlift the troops out of danger"
+      ],
+      "synonyms": [
+        "transport by air",
+        "transport",
+        "move",
+        "transfer",
+        "fly",
+        "convey",
+        "shift"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɛrˌlɪft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/airlift_us_1.mp3"
+}

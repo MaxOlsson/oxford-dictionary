@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Unusual or remarkable.",
+      "examples": [],
+      "synonyms": [
+        "extraordinary",
+        "exceptional",
+        "amazing",
+        "astonishing",
+        "astounding",
+        "marvellous",
+        "wonderful",
+        "sensational",
+        "stunning",
+        "incredible",
+        "unbelievable",
+        "miraculous",
+        "phenomenal",
+        "prodigious"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Remarkably; very.",
+      "examples": [
+        "it's got an unco fine taste"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "vastly",
+        "hugely"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stranger.",
+      "examples": [],
+      "synonyms": [
+        "unknown person"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense unknown, strange): alteration of uncouth.",
+  "pronounciation": "/ˈəNGkō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unco_us_1.mp3"
+}

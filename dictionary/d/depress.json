@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) feel utterly dispirited or dejected.",
+      "examples": [
+        "that first day at school depressed me"
+      ],
+      "synonyms": [
+        "make sad",
+        "sadden",
+        "make unhappy",
+        "cast down",
+        "get down",
+        "make gloomy",
+        "make despondent",
+        "dispirit"
+      ]
+    },
+    {
+      "description": "Reduce the level or strength of activity in (something, especially an economic or biological system)",
+      "examples": [
+        "fear of inflation in America depressed bond markets",
+        "alcohol depresses the nervous system"
+      ],
+      "synonyms": [
+        "slow down",
+        "slow up",
+        "reduce",
+        "lower",
+        "weaken",
+        "sap",
+        "devitalize",
+        "impair",
+        "deflate"
+      ]
+    },
+    {
+      "description": "Push or pull (something) down into a lower position.",
+      "examples": [
+        "depress the lever"
+      ],
+      "synonyms": [
+        "push",
+        "push down",
+        "press",
+        "press down",
+        "exert pressure on",
+        "lower",
+        "hold down"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French depresser, from late Latin depressare, frequentative of deprimere press down.",
+  "pronounciation": "/dəˈpres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/depress_us_1.mp3"
+}

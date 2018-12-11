@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Full of danger or uncertainty; precarious.",
+      "examples": [
+        "the parlous state of the economy"
+      ],
+      "synonyms": [
+        "bad",
+        "dire",
+        "dreadful",
+        "awful",
+        "terrible",
+        "appalling",
+        "frightful",
+        "grave",
+        "serious",
+        "desperate",
+        "precarious",
+        "uncertain",
+        "touch-and-go",
+        "difficult",
+        "unsafe",
+        "perilous",
+        "dangerous",
+        "risky"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Greatly or excessively.",
+      "examples": [
+        "she is parlous handsome"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: contraction of perilous.",
+  "pronounciation": "/ˈpɑrləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parlous_us_1.mp3"
+}

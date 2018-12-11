@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement.",
+      "examples": [
+        "an undercover agent bribed the judge into giving a lenient sentence",
+        "you weren't willing to be good to your sister without being bribed with a lollipop",
+        "he has no money to bribe with"
+      ],
+      "synonyms": [
+        "buy off",
+        "pay off",
+        "suborn",
+        "give an inducement to",
+        "corrupt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sum of money or other inducement offered or given to bribe someone.",
+      "examples": [
+        "lawmakers were caught accepting bribes to bring in legalized gambling"
+      ],
+      "synonyms": [
+        "inducement",
+        "incentive"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French briber, brimber beg, of unknown origin. The original sense was rob, extort, hence (as a noun) theft, stolen goods, also money extorted or demanded for favors, later offer money as an inducement (early 16th century).",
+  "pronounciation": "/braɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bribe_us_1.mp3"
+}

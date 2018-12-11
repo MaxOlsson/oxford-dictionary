@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "The time in the evening when the sun disappears or daylight fades.",
+      "examples": [
+        "sunset was still a couple of hours away"
+      ],
+      "synonyms": [
+        "nightfall",
+        "close of day",
+        "twilight",
+        "dusk",
+        "evening",
+        "half-light"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting a legal provision under which a program, agency, regulation, etc., is automatically terminated at the end of a fixed period unless renewed by legislative action.",
+      "examples": [
+        "the bill will have a two-year sunset clause, so the decision will need to be revisited after the next election",
+        "the fiscal stimulus is temporary, with sunset provisions built in from the beginning"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a program, agency, regulation, etc.) expire or be terminated automatically at the end of a fixed period unless renewed by legislative action.",
+      "examples": [
+        "the tax cut will sunset after three years unless lawmakers extend it"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsənˌsɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sunset_us_2.mp3"
+}

@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "A long, narrow cut or depression, especially one made to guide motion or receive a corresponding ridge.",
+      "examples": [],
+      "synonyms": [
+        "furrow",
+        "channel",
+        "trench",
+        "trough",
+        "canal",
+        "gouge",
+        "hollow",
+        "indentation",
+        "rut",
+        "gutter",
+        "cutting",
+        "cut",
+        "score",
+        "fissure",
+        "seam"
+      ]
+    },
+    {
+      "description": "An established routine or habit.",
+      "examples": [
+        "his thoughts were slipping into a familiar groove"
+      ],
+      "synonyms": [
+        "rut",
+        "routine",
+        "boring routine",
+        "habit",
+        "dead end",
+        "humdrum existence",
+        "same old round",
+        "grind",
+        "daily grind",
+        "treadmill"
+      ]
+    },
+    {
+      "description": "A rhythmic pattern in popular or jazz music.",
+      "examples": [
+        "the groove laid down by the drummer and bassist is tough and funky"
+      ],
+      "synonyms": [
+        "rhythm",
+        "beat",
+        "pulse",
+        "cadence",
+        "pace",
+        "rhythmical flow",
+        "rhythmical pattern",
+        "measure",
+        "metre",
+        "tempo",
+        "lilt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a groove or grooves in.",
+      "examples": [
+        "deep lines grooved her face"
+      ]
+    },
+    {
+      "description": "Dance or listen to popular or jazz music, especially that with an insistent rhythm.",
+      "examples": [
+        "they were grooving to Motown"
+      ]
+    },
+    {
+      "description": "Pitch (a ball) in the center of the strike zone.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "it might take me a couple of races to get back into the groove",
+    "They were, of course, splendid, well into the groove.",
+    "While he started out shaky, as he's done in his previous performances, he got into the groove quickly and stuck with it through the end of the song.",
+    "It's been tough all year to get in the groove and get confident, he says.",
+    "The prospect of having just one week to pick themselves up, repair shattered morale, and get everyone back into the groove before taking on Clare in the first round of the championship was uninviting to say the very least."
+  ],
+  "origin": "Middle English (denoting a mine or shaft): from Dutch groeve furrow, pit; related to grave.",
+  "pronounciation": "/ɡruv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/groove_us_1.mp3"
+}

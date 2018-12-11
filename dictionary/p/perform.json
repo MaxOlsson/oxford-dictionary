@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Carry out, accomplish, or fulfill (an action, task, or function)",
+      "examples": [
+        "I have my duties to perform"
+      ],
+      "synonyms": [
+        "carry out",
+        "do",
+        "execute",
+        "discharge",
+        "bring about",
+        "bring off",
+        "accomplish",
+        "achieve",
+        "fulfil",
+        "complete",
+        "conduct",
+        "effect",
+        "dispatch",
+        "work",
+        "implement"
+      ]
+    },
+    {
+      "description": "Present (a form of entertainment) to an audience.",
+      "examples": [
+        "the cast of 14 perform the play superbly"
+      ],
+      "synonyms": [
+        "stage",
+        "put on",
+        "present",
+        "mount",
+        "enact",
+        "act",
+        "represent",
+        "do",
+        "produce"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French parfourmer, alteration (by association with forme form) of Old French parfournir, from par through, to completion + fournir furnish, provide.",
+  "pronounciation": "/pərˈfɔrm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perform_us_1.mp3"
+}

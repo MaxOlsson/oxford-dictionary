@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "An ordinary in the form of a broad horizontal stripe across the middle of the shield.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Confess; own up.",
+      "examples": [
+        "“Fess up,” she demanded. “What were you doing in Peter's private office?”"
+      ],
+      "synonyms": [
+        "own up",
+        "admit guilt",
+        "plead guilty",
+        "accept blame",
+        "accept responsibility",
+        "be completely honest",
+        "tell the truth",
+        "tell all",
+        "make a clean breast of it",
+        "unbosom oneself"
+      ]
+    }
+  ],
+  "phrases": [
+    "On Gawsworth church tower this shield has, in addition, two lozenges in fess.",
+    "Two or more charges arranged in a horizontal row are blazoned in fess."
+  ],
+  "origin": "Early 19th century: shortening of confess.",
+  "pronounciation": "/fes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fess_us_1.mp3"
+}

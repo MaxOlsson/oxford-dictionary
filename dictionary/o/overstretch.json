@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Stretch too much.",
+      "examples": [
+        "the aches and pains of overstretched muscles"
+      ],
+      "synonyms": [
+        "overtax",
+        "push to the limit",
+        "pressurize",
+        "pressure",
+        "burden",
+        "make tense",
+        "cause to feel emotional strain",
+        "cause to feel mental strain"
+      ]
+    },
+    {
+      "description": "Make excessive demands on.",
+      "examples": [
+        "classes are very large and facilities are overstretched"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈstrɛtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overstretch_us_1.mp3"
+}

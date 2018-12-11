@@ -1,0 +1,117 @@
+{
+  "noun": [
+    {
+      "description": "Evidence or argument establishing or helping to establish a fact or the truth of a statement.",
+      "examples": [
+        "you will be asked to give proof of your identity",
+        "this is not a proof for the existence of God"
+      ],
+      "synonyms": [
+        "evidence",
+        "verification",
+        "corroboration",
+        "authentication",
+        "confirmation",
+        "certification",
+        "validation",
+        "attestation",
+        "demonstration",
+        "substantiation",
+        "witness",
+        "testament"
+      ]
+    },
+    {
+      "description": "A trial impression of a page, taken from type or film and used for making corrections before final printing.",
+      "examples": [],
+      "synonyms": [
+        "page proof",
+        "galley proof",
+        "galley",
+        "pull",
+        "slip",
+        "trial print"
+      ]
+    },
+    {
+      "description": "The strength of distilled alcoholic liquor, relative to proof spirit taken as a standard of 100.",
+      "examples": [
+        "powerful 132-proof rum"
+      ]
+    },
+    {
+      "description": "A test or trial of something.",
+      "examples": [],
+      "synonyms": [
+        "criterion",
+        "indication",
+        "yardstick",
+        "touchstone",
+        "standard",
+        "measure",
+        "litmus test",
+        "barometer"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Able to withstand something damaging; resistant.",
+      "examples": [
+        "the marine battle armor was proof against most weapons",
+        "the system comes with idiot-proof instructions"
+      ],
+      "synonyms": [
+        "resistant",
+        "impenetrable",
+        "impervious",
+        "repellent"
+      ]
+    },
+    {
+      "description": "Denoting a trial impression of a page or printed work.",
+      "examples": [
+        "a proof copy is sent up for checking"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (fabric) waterproof.",
+      "examples": [
+        "if you are using a piece of lightweight canvas it will be necessary to proof the fabric when complete"
+      ]
+    },
+    {
+      "description": "Make a proof of (a printed work, engraving, etc.)",
+      "examples": [
+        "proof each plate and print it on acetate first"
+      ],
+      "synonyms": [
+        "set in print",
+        "send to press",
+        "run off",
+        "preprint",
+        "reprint",
+        "pull",
+        "proof",
+        "copy",
+        "reproduce"
+      ]
+    },
+    {
+      "description": "Activate (yeast) by the addition of liquid.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "In this, as in every other human endeavour, the proof of the pudding is in the eating.",
+    "They say small is beautiful and in the case of the city's new tapas bar, the proof of the pudding is in the eating.",
+    "What he said today I think reduces the chances of us having to move into a confrontational position but the proof of the pudding is in the eating, he said.",
+    "Whatever about the argument in theory before the films were made, the proof of the pudding is in the eating, and I suspect that few new Beckett fans will have been created by the series.",
+    "This is a small victory, but the proof of the pudding is in the eating."
+  ],
+  "origin": "Middle English preve, from Old French proeve, from late Latin proba, from Latin probare to test, prove. The change of vowel in late Middle English was due to the influence of prove. Current senses of the verb date from the late 19th century.",
+  "pronounciation": "/pruf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/proof_us_1.mp3"
+}

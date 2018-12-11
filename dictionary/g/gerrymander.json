@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Manipulate the boundaries of (an electoral constituency) so as to favor one party or class.",
+      "examples": [],
+      "synonyms": [
+        "manipulate",
+        "arrange fraudulently",
+        "interfere with",
+        "influence",
+        "juggle",
+        "massage",
+        "distort",
+        "misrepresent",
+        "pervert",
+        "manoeuvre",
+        "tamper with",
+        "tinker with",
+        "doctor"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of gerrymandering.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 19th century: from the name of Governor Elbridge Gerry of Massachusetts + salamander, from the supposed similarity between a salamander and the shape of a new voting district on a map drawn when he was in office (1812), the creation of which was felt to favor his party; the map (with claws, wings, and fangs added) was published in the Boston Weekly Messenger, with the title The Gerry-Mander.",
+  "pronounciation": "/ˈdʒɛriˌmændər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gerrymander_us_1.mp3"
+}

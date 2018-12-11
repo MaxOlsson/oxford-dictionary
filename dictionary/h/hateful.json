@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Arousing, deserving of, or filled with hatred.",
+      "examples": [
+        "hateful letters of abuse that had come unsigned"
+      ],
+      "synonyms": [
+        "shameful",
+        "shocking",
+        "scandalous",
+        "deplorable",
+        "despicable",
+        "contemptible",
+        "beyond contempt",
+        "beyond the pale",
+        "dishonourable",
+        "discreditable",
+        "reprehensible",
+        "objectionable",
+        "base",
+        "mean",
+        "low",
+        "blameworthy",
+        "unworthy",
+        "ignoble",
+        "shabby",
+        "inglorious",
+        "infamous",
+        "unprincipled",
+        "outrageous",
+        "abominable",
+        "atrocious",
+        "appalling",
+        "dreadful",
+        "terrible",
+        "disgusting",
+        "shameless",
+        "vile",
+        "odious",
+        "monstrous",
+        "heinous",
+        "iniquitous",
+        "unspeakable",
+        "loathsome",
+        "sordid",
+        "bad",
+        "wicked",
+        "immoral",
+        "nefarious",
+        "indefensible",
+        "inexcusable",
+        "unforgivable",
+        "intolerable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhātfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hateful_us_2.mp3"
+}

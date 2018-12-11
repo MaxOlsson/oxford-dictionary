@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a speech sound) produced in the throat; harsh-sounding.",
+      "examples": [],
+      "synonyms": [
+        "throaty",
+        "husky",
+        "gruff",
+        "gravelly",
+        "growly",
+        "growling",
+        "croaky",
+        "croaking",
+        "harsh",
+        "harsh-sounding",
+        "rough",
+        "rasping",
+        "raspy",
+        "grating",
+        "jarring"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A guttural consonant (e.g. k, g) or other speech sound.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: from French, or from medieval Latin gutturalis, from Latin guttur throat.",
+  "pronounciation": "/ˈɡədərəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/guttural_us_1.mp3"
+}

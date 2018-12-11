@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with.",
+      "examples": [
+        "the tolerance of corruption",
+        "an advocate of religious tolerance"
+      ],
+      "synonyms": [
+        "forbearance",
+        "toleration",
+        "sufferance",
+        "liberality",
+        "open-mindedness",
+        "lack of prejudice",
+        "lack of bias",
+        "broad-mindedness",
+        "liberalism"
+      ]
+    },
+    {
+      "description": "The capacity to endure continued subjection to something, especially a drug, transplant, antigen, or environmental conditions, without adverse reaction.",
+      "examples": [
+        "the desert camel shows the greatest tolerance to dehydration",
+        "various species of diatoms display different tolerances to acid",
+        "species were grouped according to pollution tolerance"
+      ],
+      "synonyms": [
+        "endurance of",
+        "acceptance of"
+      ]
+    },
+    {
+      "description": "An allowable amount of variation of a specified quantity, especially in the dimensions of a machine or part.",
+      "examples": [
+        "250 parts in his cars were made to tolerances of one thousandth of an inch"
+      ],
+      "synonyms": [
+        "deviation",
+        "fluctuation",
+        "variation",
+        "allowance",
+        "play",
+        "clearance",
+        "leeway"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the action of bearing hardship, or the ability to bear pain and hardship): via Old French from Latin tolerantia, from tolerare (see tolerate).",
+  "pronounciation": "/ˈtäl(ə)rəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tolerance_us_1.mp3"
+}

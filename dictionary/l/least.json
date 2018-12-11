@@ -1,0 +1,49 @@
+{
+  "determiner &amp; pronoun": [
+    {
+      "description": "Smallest in amount, extent, or significance.",
+      "examples": [
+        "who has the least money?",
+        "he never had the least idea what to do about it",
+        "how others see me is the least of my worries",
+        "it's the least I can do"
+      ],
+      "synonyms": [
+        "slightest",
+        "smallest",
+        "minimum",
+        "minimal",
+        "minutest",
+        "tiniest",
+        "littlest"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To the smallest extent or degree.",
+      "examples": [
+        "my best number was the one I had practiced the least",
+        "turning up when he was least expected",
+        "only the least expensive lot sold",
+        "I never hid the truth, least of all from you"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Used in names of very small animals and plants, e.g. least shrew.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "clean the windows at least once a week",
+    "They were blocking every exit, and Whitehall had at least ten vans full of officers.",
+    "I see many blokes my age around, carrying at least as much weight and full of vim and vigour.",
+    "No one could cheat by swallowing anything whole because we had to chew it all at least five times.",
+    "Truth, or at least the whole truth and nothing but the truth, seems way down the list."
+  ],
+  "origin": "Old English lǣst, lǣsest, of Germanic origin; related to less.",
+  "pronounciation": "/lēst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/least_us_1.mp3"
+}

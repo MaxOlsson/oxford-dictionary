@@ -1,0 +1,126 @@
+{
+  "noun": [
+    {
+      "description": "A piece of cloth or other material used to mend or strengthen a torn or weak point.",
+      "examples": [],
+      "synonyms": [
+        "piece of cloth",
+        "piece of fabric",
+        "piece of leather",
+        "piece of material",
+        "reinforcement"
+      ]
+    },
+    {
+      "description": "A part of something marked out from the rest by a particular characteristic.",
+      "examples": [
+        "his hair was combed forward to hide a growing bald patch"
+      ],
+      "synonyms": [
+        "blotch",
+        "mark",
+        "pop",
+        "spot",
+        "smudge",
+        "dot",
+        "speck",
+        "speckle",
+        "smear",
+        "stain",
+        "streak",
+        "stripe",
+        "blemish"
+      ]
+    },
+    {
+      "description": "A small piece of ground, especially one used for gardening.",
+      "examples": [
+        "they spent Sundays digging their vegetable patch"
+      ],
+      "synonyms": [
+        "plot",
+        "area",
+        "piece",
+        "strip",
+        "row",
+        "lot",
+        "tract",
+        "parcel"
+      ]
+    },
+    {
+      "description": "A period of time seen as a distinct unit with a characteristic quality.",
+      "examples": [
+        "he may have been going through a bad patch"
+      ],
+      "synonyms": [
+        "period",
+        "time",
+        "spell",
+        "phase",
+        "stretch",
+        "interval"
+      ]
+    },
+    {
+      "description": "A temporary electrical or telephone connection.",
+      "examples": []
+    },
+    {
+      "description": "A small piece of code inserted into a program to improve its functioning or to correct an error.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mend or strengthen (fabric or an item of clothing) by putting a piece of material over a hole or weak point in it.",
+      "examples": [
+        "her jeans were neatly patched"
+      ],
+      "synonyms": [
+        "mend",
+        "repair",
+        "put a patch on",
+        "cover",
+        "sew",
+        "sew up",
+        "stitch",
+        "stitch up"
+      ]
+    },
+    {
+      "description": "Treat someone's injuries or repair the damage to something, especially hastily.",
+      "examples": [
+        "they did their best to patch up the gaping wounds"
+      ],
+      "synonyms": [
+        "repair",
+        "mend",
+        "fix hastily",
+        "do a makeshift repair on",
+        "fix temporarily",
+        "repair temporarily"
+      ]
+    },
+    {
+      "description": "Connect by a temporary electrical, radio, or telephonic connection.",
+      "examples": [
+        "Ralph had patched her through to the meeting by walkie-talkie"
+      ]
+    },
+    {
+      "description": "Correct, enhance, or modify (a routine or program) by inserting a patch.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he no longer looked so handsome—he wasn't a patch on Peter",
+    "Even as she lay beside him, Erin couldn't help but notice his lean body wasn't a patch on Cade's hard-muscled form.",
+    "It IS indeed very cold at the moment, but I think not a patch on the ice storms mentioned in previous weeks by our friends on the US East Coast.",
+    "It's not a patch on what I have at the moment, but perhaps it'll grow on me.",
+    "The line-up of performers is - in theory at least - not too bad, although it's definitely not a patch on the original line-up."
+  ],
+  "origin": "Late Middle English: perhaps from a variant of Old French pieche, dialect variant of piece piece.",
+  "pronounciation": "/paCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/patch_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adverb": [
+    {
+      "description": "Further on in this document.",
+      "examples": [
+        "grievous bodily harm (hereinafter GBH)"
+      ],
+      "synonyms": [
+        "upcoming",
+        "about to be mentioned",
+        "about to be specified",
+        "further on",
+        "below",
+        "underneath",
+        "at the end"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌhɪrənˈæftər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hereinafter_us_2.mp3"
+}

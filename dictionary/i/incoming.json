@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "In the process of coming in; arriving.",
+      "examples": [
+        "incoming passengers",
+        "the incoming tide"
+      ],
+      "synonyms": [
+        "arriving",
+        "entering"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Revenue; income.",
+      "examples": [
+        "keep an account of your incomings and outgoings"
+      ],
+      "synonyms": [
+        "earnings",
+        "salary",
+        "pay",
+        "remuneration",
+        "wages",
+        "stipend",
+        "emolument"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈinˌkəmiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incoming_us_1.mp3"
+}

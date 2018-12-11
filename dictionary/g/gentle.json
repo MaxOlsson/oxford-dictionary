@@ -1,0 +1,79 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a mild, kind, or tender temperament or character.",
+      "examples": [
+        "he was a gentle, sensitive man",
+        "her gentle voice"
+      ],
+      "synonyms": [
+        "kind",
+        "kindly",
+        "tender",
+        "benign",
+        "humane",
+        "lenient",
+        "merciful",
+        "forgiving",
+        "forbearing",
+        "sympathetic",
+        "considerate",
+        "understanding",
+        "clement",
+        "compassionate",
+        "benevolent",
+        "kind-hearted",
+        "tender-hearted",
+        "good-natured",
+        "sweet-tempered",
+        "loving"
+      ]
+    },
+    {
+      "description": "Moderate in action, effect, or degree; not harsh or severe.",
+      "examples": [
+        "a gentle breeze",
+        "a little gentle persuasion"
+      ],
+      "synonyms": [
+        "light",
+        "soft",
+        "zephyr-like",
+        "moderate",
+        "pleasant"
+      ]
+    },
+    {
+      "description": "(of a person) noble or having the qualities attributed to noble birth; courteous and chivalrous.",
+      "examples": [],
+      "synonyms": [
+        "aristocratic",
+        "noble",
+        "titled",
+        "upper-class",
+        "blue-blooded",
+        "high-born",
+        "well born",
+        "patrician",
+        "elite"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become gentle; calm or pacify.",
+      "examples": [
+        "Cobb's tone gentled a little"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A maggot, especially the larva of a blowfly, used as bait.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 16th century: probably from an obsolete sense of the adjective, soft, pliant.",
+  "pronounciation": "/ˈdʒɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gentle_us_1.mp3"
+}

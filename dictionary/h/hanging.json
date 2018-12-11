@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "The practice of hanging condemned people as a form of capital punishment.",
+      "examples": [],
+      "synonyms": [
+        "gibbeting"
+      ]
+    },
+    {
+      "description": "A decorative piece of fabric or curtain hung on the wall of a room or around a bed.",
+      "examples": [
+        "a beautiful wall hanging"
+      ],
+      "synonyms": [
+        "drape",
+        "curtain",
+        "drop",
+        "drop cloth",
+        "drop curtain",
+        "drop scene",
+        "tableau curtain",
+        "frontal",
+        "dossal"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Suspended in the air.",
+      "examples": [
+        "hanging palls of smoke"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhaNGiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hanging_us_1.mp3"
+}

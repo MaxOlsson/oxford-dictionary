@@ -1,0 +1,226 @@
+{
+  "noun": [
+    {
+      "description": "The visible shape or configuration of something.",
+      "examples": [
+        "the form, color, and texture of the tree"
+      ],
+      "synonyms": [
+        "shape",
+        "configuration",
+        "formation",
+        "conformation",
+        "structure",
+        "construction",
+        "arrangement",
+        "disposition",
+        "appearance",
+        "outward appearance",
+        "outward form",
+        "exterior"
+      ]
+    },
+    {
+      "description": "A particular way in which a thing exists or appears; a manifestation.",
+      "examples": [
+        "her obsession has taken the form of compulsive exercise"
+      ],
+      "synonyms": [
+        "manifestation",
+        "appearance",
+        "embodiment",
+        "incarnation",
+        "semblance",
+        "shape",
+        "guise",
+        "character",
+        "description",
+        "expression"
+      ]
+    },
+    {
+      "description": "A type or variety of something.",
+      "examples": [
+        "sponsorship is a form of advertising"
+      ],
+      "synonyms": [
+        "kind",
+        "sort",
+        "type",
+        "order",
+        "class",
+        "classification",
+        "category",
+        "variety",
+        "genre",
+        "brand",
+        "style"
+      ]
+    },
+    {
+      "description": "The customary or correct method or procedure; what is usually done.",
+      "examples": [
+        "an excessive concern for legal form and precedent"
+      ],
+      "synonyms": [
+        "etiquette",
+        "social practice",
+        "custom",
+        "usage",
+        "use",
+        "habit",
+        "wont",
+        "protocol",
+        "procedure",
+        "rules",
+        "convention",
+        "tradition",
+        "fashion",
+        "style",
+        "routine",
+        "ritual",
+        "pattern",
+        "regimen",
+        "policy",
+        "method",
+        "system",
+        "way",
+        "rule",
+        "formula",
+        "set formula"
+      ]
+    },
+    {
+      "description": "A mold, frame, or block in or on which something is shaped.",
+      "examples": []
+    },
+    {
+      "description": "A printed document with blank spaces for information to be inserted.",
+      "examples": [
+        "an application form"
+      ],
+      "synonyms": [
+        "questionnaire",
+        "document",
+        "coupon",
+        "tear-off slip",
+        "sheet of paper",
+        "paper"
+      ]
+    },
+    {
+      "description": "A class or year in a school, usually given a specifying number.",
+      "examples": [
+        "the fifth form"
+      ],
+      "synonyms": [
+        "class",
+        "year",
+        "school group",
+        "tutor group",
+        "set",
+        "stream",
+        "band"
+      ]
+    },
+    {
+      "description": "The state of an athlete or sports team with regard to their current standard of performance.",
+      "examples": [
+        "illness has affected his form",
+        "they've been in good form this season"
+      ],
+      "synonyms": [
+        "fitness",
+        "physical fitness",
+        "condition",
+        "fettle",
+        "shape",
+        "trim",
+        "health",
+        "state of health"
+      ]
+    },
+    {
+      "description": "A long bench without a back.",
+      "examples": [],
+      "synonyms": [
+        "bench",
+        "long seat",
+        "pew",
+        "settle",
+        "stall"
+      ]
+    },
+    {
+      "description": "A hare's lair.",
+      "examples": []
+    },
+    {
+      "synonyms": [
+        "lair",
+        "den",
+        "drey",
+        "lodge",
+        "burrow",
+        "set"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring together parts or combine to create (something)",
+      "examples": [
+        "the company was formed in 1982"
+      ],
+      "synonyms": [
+        "set up",
+        "devise",
+        "establish",
+        "found",
+        "launch",
+        "float",
+        "create",
+        "bring into being",
+        "put in place",
+        "organize",
+        "institute",
+        "start",
+        "begin",
+        "get going",
+        "initiate",
+        "bring about",
+        "inaugurate",
+        "lay the foundations of"
+      ]
+    },
+    {
+      "description": "Make or fashion into a certain shape or form.",
+      "examples": [
+        "form the dough into balls"
+      ],
+      "synonyms": [
+        "make",
+        "fashion",
+        "shape",
+        "model",
+        "mould",
+        "forge",
+        "found",
+        "cast",
+        "sculpt",
+        "hew",
+        "carve"
+      ]
+    }
+  ],
+  "phrases": [
+    "She went out in the second round of the women's doubles but hopes to be back on form for this month's Commonwealth Games.",
+    "When they are on form they look great but when they're not they look very average.",
+    "Gough said all of England's players needed to be in form by the start of the Test series in July.",
+    "He is very fast and skillful, and when on form he is the best player in the team.",
+    "France's Philippe Lima, with wins in Spain and his home county in the last two months, is clearly the man in form."
+  ],
+  "origin": "Middle English: from Old French forme (noun), fo(u)rmer (verb, from Latin formare to form), both based on Latin forma a mold or form.",
+  "pronounciation": "/fôrm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/form_us_1.mp3"
+}

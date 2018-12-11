@@ -1,0 +1,84 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) sitting or standing with the back straight.",
+      "examples": [
+        "an upright posture"
+      ],
+      "synonyms": [
+        "erect",
+        "vertical",
+        "plumb",
+        "upended",
+        "on end",
+        "rearing",
+        "straight",
+        "straight up and down",
+        "perpendicular"
+      ]
+    },
+    {
+      "description": "(of a person or their behavior) strictly honorable or honest.",
+      "examples": [
+        "an upright member of the community"
+      ],
+      "synonyms": [
+        "honest",
+        "honourable",
+        "upstanding",
+        "respectable",
+        "reputable",
+        "high-minded",
+        "law-abiding",
+        "right-minded",
+        "worthy",
+        "moral",
+        "ethical",
+        "righteous",
+        "decent",
+        "good",
+        "virtuous",
+        "principled",
+        "high-principled",
+        "of principle",
+        "proper",
+        "correct",
+        "just",
+        "noble",
+        "incorruptible",
+        "anti-corruption",
+        "conscientious"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In or into a vertical position.",
+      "examples": [
+        "she was sitting upright in bed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A post or rod fixed vertically, especially as a structural support.",
+      "examples": [
+        "the stone uprights of the parapet"
+      ],
+      "synonyms": [
+        "column",
+        "standard",
+        "stanchion",
+        "post",
+        "pole"
+      ]
+    },
+    {
+      "description": "An upright piano.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English upriht, of Germanic origin; related to Dutch oprecht and German aufrecht (see up, right).",
+  "pronounciation": "/ˈəpˌraɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/upright_us_1.mp3"
+}

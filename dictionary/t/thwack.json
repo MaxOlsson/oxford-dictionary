@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Strike forcefully with a sharp blow.",
+      "examples": [
+        "she thwacked the back of their knees with a cane"
+      ],
+      "synonyms": [
+        "hit",
+        "strike",
+        "beat",
+        "batter",
+        "pound",
+        "attack",
+        "assault",
+        "knock",
+        "rap",
+        "smack",
+        "slap",
+        "pummel",
+        "thump",
+        "punch",
+        "cudgel",
+        "thrash",
+        "bang",
+        "drub",
+        "welt",
+        "cuff",
+        "crack",
+        "buffet",
+        "box someone's ears"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sharp blow.",
+      "examples": [
+        "he hit it with a hefty thwack"
+      ],
+      "synonyms": [
+        "blow",
+        "hit",
+        "punch",
+        "thump",
+        "smack",
+        "slap",
+        "bang",
+        "welt",
+        "cuff",
+        "box",
+        "crack"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative.",
+  "pronounciation": "/THwak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thwack_us_1.mp3"
+}

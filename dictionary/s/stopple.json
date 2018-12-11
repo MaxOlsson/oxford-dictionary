@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A stopper or plug.",
+      "examples": [],
+      "synonyms": [
+        "stopper",
+        "stop",
+        "plug",
+        "bung",
+        "peg",
+        "spigot",
+        "spile",
+        "seal"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Seal with a stopper.",
+      "examples": [],
+      "synonyms": [
+        "block",
+        "block off",
+        "block up",
+        "stop up",
+        "plug",
+        "seal",
+        "seal off",
+        "seal up",
+        "shut off",
+        "shut up",
+        "cork",
+        "stopper",
+        "bung",
+        "bung up"
+      ]
+    }
+  ],
+  "origin": "Middle English: partly a shortening of Old French estouppail bung, reinforced by the verb stop.",
+  "pronounciation": "/ˈstäpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stopple_us_1.mp3"
+}

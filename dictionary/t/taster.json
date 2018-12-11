@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A person employed to test food or drink for quality by tasting it.",
+      "examples": [
+        "experienced tasters can tell which plantation coffee beans are from"
+      ],
+      "synonyms": [
+        "exhibition",
+        "presentation",
+        "display",
+        "illustration",
+        "exposition",
+        "teach-in"
+      ]
+    },
+    {
+      "description": "A small quantity or brief experience of something, intended as a sample; a taste.",
+      "examples": [
+        "the song is a taster for the band's new LP"
+      ],
+      "synonyms": [
+        "sample",
+        "example",
+        "bit",
+        "snippet",
+        "illustration",
+        "demonstration",
+        "exemplification",
+        "instance",
+        "selection",
+        "representative piece"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: in early use from Anglo-Norman French tastour, from Old French taster to taste; later from taste + -er.",
+  "pronounciation": "/ˈtāstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/taster_us_1.mp3"
+}

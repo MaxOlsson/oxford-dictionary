@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A punch delivered with an upward motion and the arm bent.",
+      "examples": [],
+      "synonyms": [
+        "blow",
+        "hit",
+        "knock",
+        "thump",
+        "thwack",
+        "box",
+        "jab",
+        "fist",
+        "cuff",
+        "clip",
+        "smash",
+        "slam",
+        "welt",
+        "straight",
+        "hook",
+        "body blow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hit with an uppercut.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈəpərˌkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uppercut_us_1.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "determiner &amp; pronoun": [
+    {
+      "description": "A smaller amount of; not as much.",
+      "examples": [
+        "the less time spent there, the better",
+        "storage is less of a problem than it used to be",
+        "ready in less than an hour"
+      ],
+      "synonyms": [
+        "not so much",
+        "not so great",
+        "smaller",
+        "slighter",
+        "shorter",
+        "reduced"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of lower rank or importance.",
+      "examples": [
+        "James the Less"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To a smaller extent; not so much.",
+      "examples": [
+        "that this is a positive stereotype makes it no less a stereotype",
+        "he listened less to the answer than to Kate's voice"
+      ],
+      "synonyms": [
+        "to a lesser degree",
+        "to a smaller extent",
+        "not so much",
+        "not as much"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "Before subtracting (something); minus.",
+      "examples": [
+        "$900,000 less tax"
+      ],
+      "synonyms": [
+        "minus",
+        "subtracting",
+        "excepting",
+        "without",
+        "lacking"
+      ]
+    }
+  ],
+  "phrases": [
+    "Those interesting searches seem to be coming less and less now than they did before.",
+    "This is happening less and less, though the laid-back Holmes claims he never got uptight about it.",
+    "We live in an age of exploding information, but we act less and less on what we hear.",
+    "The chance of people learning by experience gets less and less as the jobs become few and far between.",
+    "I just wonder why he has been replying less and less to my attempts to contact him."
+  ],
+  "origin": "Old English lǣssa, of Germanic origin; related to Old Frisian lēssa, from an Indo-European root shared by Greek loisthos last.",
+  "pronounciation": "/les/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/less_us_1.mp3"
+}

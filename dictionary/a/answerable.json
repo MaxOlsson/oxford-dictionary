@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Required to explain or justify one's actions to; responsible or having to report to.",
+      "examples": [
+        "I'm not answerable to you for my every movement"
+      ],
+      "synonyms": [
+        "subordinate to",
+        "junior to",
+        "inferior to",
+        "secondary to",
+        "subservient to",
+        "reporting to",
+        "answerable to",
+        "responsible to",
+        "subject to"
+      ]
+    },
+    {
+      "description": "(of a question) able to be answered.",
+      "examples": [
+        "straightforward and answerable questions"
+      ],
+      "synonyms": [
+        "accountable",
+        "responsible",
+        "liable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈæns(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/answerable_us_1.mp3"
+}

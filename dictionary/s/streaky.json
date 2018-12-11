@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Having streaks of different colors or textures.",
+      "examples": [
+        "streaky blond hair"
+      ],
+      "synonyms": [
+        "striped",
+        "stripy",
+        "streaked",
+        "banded",
+        "barred"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstrēkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/streaky_us_1.mp3"
+}

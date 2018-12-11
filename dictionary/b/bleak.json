@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(of an area of land) lacking vegetation and exposed to the elements.",
+      "examples": [
+        "a bleak and barren moor"
+      ],
+      "synonyms": [
+        "bare",
+        "exposed",
+        "desolate",
+        "stark",
+        "arid",
+        "desert",
+        "denuded",
+        "lunar",
+        "open",
+        "empty",
+        "windswept"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small silvery shoaling fish of the minnow family, found in Eurasian rivers.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from Old Norse bleikja.",
+  "pronounciation": "/blik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bleak_us_1.mp3"
+}

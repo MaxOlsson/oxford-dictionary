@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Done with little effort or care; incompetent or inadequate.",
+      "examples": [
+        "a half-assed attempt to rectify the problem"
+      ],
+      "synonyms": [
+        "foolish",
+        "silly",
+        "unintelligent",
+        "idiotic",
+        "brainless",
+        "mindless",
+        "scatterbrained",
+        "crackbrained",
+        "nonsensical",
+        "senseless",
+        "irresponsible",
+        "unthinking",
+        "ill-advised",
+        "ill-considered",
+        "inept",
+        "witless",
+        "damfool",
+        "unwise",
+        "injudicious",
+        "indiscreet",
+        "short-sighted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhafast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/half_assed_1_us_1.mp3"
+}

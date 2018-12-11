@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Increase the volume of (sound), especially using an amplifier.",
+      "examples": [
+        "the accompanying chords have been amplified in our arrangement"
+      ],
+      "synonyms": [
+        "louden",
+        "make louder",
+        "turn up",
+        "increase",
+        "boost",
+        "step up",
+        "raise",
+        "magnify",
+        "intensify",
+        "escalate",
+        "swell",
+        "heighten"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the general sense increase, augment): from Old French amplifier, from Latin amplificare, from amplus large, abundant.",
+  "pronounciation": "/ˈampləˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/amplify_us_1.mp3"
+}

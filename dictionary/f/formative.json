@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Serving to form something, especially having a profound and lasting influence on a person's development.",
+      "examples": [
+        "his formative years"
+      ],
+      "synonyms": [
+        "developmental",
+        "developing",
+        "growing",
+        "mouldable",
+        "malleable",
+        "impressionable",
+        "susceptible"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A formative element.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 15th century: from Old French formatif, -ive or medieval Latin formativus, from Latin formare to form (see form).",
+  "pronounciation": "/ˈfôrmədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/formative_us_1.mp3"
+}

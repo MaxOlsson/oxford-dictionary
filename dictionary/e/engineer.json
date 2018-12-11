@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A person who designs, builds, or maintains engines, machines, or public works.",
+      "examples": [],
+      "synonyms": [
+        "designer",
+        "planner",
+        "builder",
+        "architect",
+        "producer",
+        "fabricator",
+        "developer",
+        "creator"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Design and build (a machine or structure)",
+      "examples": [
+        "the men who engineered the tunnel"
+      ],
+      "synonyms": [
+        "formulate",
+        "form",
+        "put together"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a designer and constructor of fortifications and weapons; formerly also as ingineer): in early use from Old French engigneor, from medieval Latin ingeniator, from ingeniare contrive, devise, from Latin ingenium (see engine); in later use from French ingénieur or Italian ingegnere, also based on Latin ingenium, with the ending influenced by -eer.",
+  "pronounciation": "/ˌenjəˈnir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/engineer_us_1.mp3"
+}

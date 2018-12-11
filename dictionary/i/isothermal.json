@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Involving or possessing a constant temperature.",
+      "examples": [
+        "the isothermal layer of the atmosphere",
+        "the cells remained approximately isothermal during freezing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A line connecting points having the same temperature; an isotherm.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌīsəˈTHərm(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/isothermal_us_1.mp3"
+}

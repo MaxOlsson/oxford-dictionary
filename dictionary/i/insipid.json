@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking flavor.",
+      "examples": [
+        "mugs of insipid coffee"
+      ],
+      "synonyms": [
+        "tasteless",
+        "flavourless",
+        "unflavoured",
+        "savourless",
+        "bland",
+        "weak",
+        "thin",
+        "watery",
+        "watered-down",
+        "unappetizing",
+        "unpalatable"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French insipide or late Latin insipidus, from in- not + sapidus (see sapid).",
+  "pronounciation": "/ɪnˈsɪpɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insipid_us_1.mp3"
+}

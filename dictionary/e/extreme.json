@@ -1,0 +1,91 @@
+{
+  "adjective": [
+    {
+      "description": "Reaching a high or the highest degree; very great.",
+      "examples": [
+        "extreme cold"
+      ],
+      "synonyms": [
+        "utmost",
+        "uttermost",
+        "very great",
+        "greatest",
+        "greatest possible",
+        "maximum",
+        "maximal",
+        "highest",
+        "ultimate",
+        "supreme",
+        "paramount",
+        "great",
+        "acute",
+        "major",
+        "intense",
+        "enormous",
+        "severe",
+        "high",
+        "superlative",
+        "exceptional",
+        "extraordinary"
+      ]
+    },
+    {
+      "description": "Furthest from the center or a given point; outermost.",
+      "examples": [
+        "the extreme northwest of Scotland"
+      ],
+      "synonyms": [
+        "furthest",
+        "farthest",
+        "furthermost",
+        "farthermost",
+        "farthest away",
+        "furthest away",
+        "very",
+        "utmost",
+        "outermost",
+        "most distant",
+        "aftermost",
+        "endmost",
+        "ultimate",
+        "final",
+        "last",
+        "terminal",
+        "remotest"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Either of two abstract things that are as different from each other as possible.",
+      "examples": [
+        "unbridled talk at one extreme and total silence at the other"
+      ],
+      "synonyms": [
+        "opposite",
+        "antithesis",
+        "side of the coin",
+        "other side of the coin",
+        "pole",
+        "opposite pole",
+        "contrary",
+        "alternative",
+        "exclusive alternative"
+      ]
+    },
+    {
+      "description": "The subject or predicate in a proposition, or the major or minor term in a syllogism (as contrasted with the middle term).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "In the recesses of the Middle East where extremes meet, dismay at the loss of innocent lives was tempered with happier emotions ranging from quiet satisfaction to open celebration.",
+    "This is a place of ambivalence, a place where extremes meet.",
+    "Genovese is, it should be said, an illuminating example of the way in which left-wing and right-wing extremes meet in a love of tyranny and a hatred of freedom.",
+    "Ironically enough, in Gramsci the extremes meet, confirming the overlapping lineage of both left and right ideologies.",
+    "John and Yoko were people whose fantastic freedom became - where extremes meet - a fantastic prison."
+  ],
+  "origin": "Late Middle English: via Old French from Latin extremus outermost, utmost, superlative of exterus outer.",
+  "pronounciation": "/ikˈstrēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/extreme_us_1.mp3"
+}

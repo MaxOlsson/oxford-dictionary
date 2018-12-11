@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Containing or relating to alcoholic liquor.",
+      "examples": [
+        "beer is the favorite alcoholic drink"
+      ],
+      "synonyms": [
+        "intoxicating",
+        "inebriating",
+        "containing alcohol"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person suffering from alcoholism.",
+      "examples": [],
+      "synonyms": [
+        "dipsomaniac",
+        "drunk",
+        "drunkard",
+        "hard drinker",
+        "heavy drinker",
+        "serious drinker",
+        "problem drinker",
+        "drinker",
+        "alcohol-abuser",
+        "alcohol addict",
+        "person with a drink problem"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌælkəˈhɔlɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/alcoholic_us_1_rr.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A fight or brawl.",
+      "examples": [],
+      "synonyms": [
+        "fight",
+        "scuffle",
+        "fracas",
+        "brawl",
+        "struggle",
+        "tussle",
+        "fist fight",
+        "fisticuffs",
+        "melee",
+        "scrimmage",
+        "free-for-all",
+        "free fight",
+        "affray",
+        "fray",
+        "riot",
+        "skirmish",
+        "exchange",
+        "clash",
+        "encounter"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fight or brawl.",
+      "examples": [],
+      "synonyms": [
+        "brawl",
+        "come to blows",
+        "exchange blows",
+        "assault each other",
+        "attack each other",
+        "hit each other",
+        "punch each other"
+      ]
+    }
+  ],
+  "origin": "Perhaps related to dialect swag sway heavily.",
+  "pronounciation": "/swɛdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swedge_gb_1.mp3"
+}

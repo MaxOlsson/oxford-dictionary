@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A short stiff hair, typically one of those on an animal's skin, a man's face, or a plant.",
+      "examples": [],
+      "synonyms": [
+        "hair",
+        "whisker"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of hair or fur) stand upright away from the skin, especially in anger or fear.",
+      "examples": [
+        "the hair on the back of his neck bristled"
+      ],
+      "synonyms": [
+        "rise",
+        "stand up",
+        "stand on end"
+      ]
+    },
+    {
+      "description": "Be covered with or abundant in.",
+      "examples": [
+        "the roof bristled with antennas"
+      ],
+      "synonyms": [
+        "abound",
+        "swarm",
+        "teem",
+        "crawl",
+        "overflow",
+        "hum",
+        "be alive",
+        "be packed",
+        "be crowded",
+        "be thronged",
+        "be jammed",
+        "be infested",
+        "be full",
+        "be covered"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old English byrst (of Germanic origin, related to German Borste) + -le.",
+  "pronounciation": "/ˈbrɪsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bristle_us_1.mp3"
+}

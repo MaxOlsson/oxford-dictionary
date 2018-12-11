@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Providing necessary support to the primary activities or operation of an organization, institution, industry, or system.",
+      "examples": [
+        "the development of ancillary services to support its products"
+      ],
+      "synonyms": [
+        "subordinate",
+        "secondary",
+        "supportive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person whose work provides necessary support to the primary activities of an organization, institution, or industry.",
+      "examples": [
+        "the employment of specialist teachers and ancillaries"
+      ],
+      "synonyms": [
+        "replacement",
+        "deputy",
+        "relief",
+        "proxy",
+        "reserve",
+        "surrogate",
+        "cover",
+        "fill-in",
+        "stand-in",
+        "standby",
+        "locum",
+        "locum tenens",
+        "understudy",
+        "stopgap",
+        "alternative",
+        "ancillary"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin ancillaris, from ancilla maidservant.",
+  "pronounciation": "/ˈansəˌlerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ancillary_us_1.mp3"
+}

@@ -1,0 +1,88 @@
+{
+  "noun": [
+    {
+      "description": "The action of providing or supplying something for use.",
+      "examples": [
+        "new contracts for the provision of services"
+      ],
+      "synonyms": [
+        "supplying",
+        "supply",
+        "providing",
+        "purveying",
+        "delivery",
+        "furnishing",
+        "equipping",
+        "giving",
+        "donation",
+        "allocation",
+        "distribution",
+        "presentation"
+      ]
+    },
+    {
+      "description": "An amount or thing supplied or provided.",
+      "examples": [
+        "low levels of social provision"
+      ],
+      "synonyms": [
+        "facilities",
+        "services",
+        "amenities",
+        "resource",
+        "resources",
+        "equipment",
+        "arrangements",
+        "solutions"
+      ]
+    },
+    {
+      "description": "A condition or requirement in a legal document.",
+      "examples": [
+        "a key provision in civil rights law",
+        "an appraisal under the provisions of the National Housing Act"
+      ],
+      "synonyms": [
+        "term",
+        "clause",
+        "requirement",
+        "specification",
+        "stipulation"
+      ]
+    },
+    {
+      "description": "An appointment to a benefice, especially directly by the Pope rather than by the patron, and originally before it became vacant.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Supply with food, drink, or equipment, especially for a journey.",
+      "examples": [
+        "civilian contractors were responsible for provisioning these armies"
+      ],
+      "synonyms": [
+        "supply",
+        "provide",
+        "furnish",
+        "arm",
+        "equip",
+        "fit out",
+        "rig out",
+        "kit out",
+        "accoutre",
+        "outfit",
+        "fit up"
+      ]
+    },
+    {
+      "description": "Set aside an amount in an organization's accounts for a known liability.",
+      "examples": [
+        "financial institutions have to provision against loan losses"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense foresight): via Old French from Latin provisio(n-), from providere foresee, attend to (see provide). The verb dates from the early 19th century.",
+  "pronounciation": "/prəˈviZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/provision_us_1.mp3"
+}

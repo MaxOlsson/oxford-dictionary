@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A piece of cloth tied around the head to cover someone's eyes.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deprive (someone) of sight by tying a piece of cloth around the head so as to cover the eyes.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Wearing a blindfold.",
+      "examples": []
+    }
+  ],
+  "adverb": [
+    {
+      "description": "With a blindfold covering the eyes.",
+      "examples": [
+        "the reporter was driven blindfold to meet the gangster"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: alteration, by association with fold, of blindfeld, past participle of obsolete blindfell strike blind, blindfold, from Old English geblindfellan (see blind, fell).",
+  "pronounciation": "/ˈblīn(d)fōld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blindfold_us_1.mp3"
+}

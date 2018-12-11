@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A homogeneous noncrystalline substance consisting of large molecules or ultramicroscopic particles of one substance dispersed through a second substance. Colloids include gels, sols, and emulsions; the particles do not settle, and cannot be separated out by ordinary filtering or centrifuging like those in a suspension.",
+      "examples": [],
+      "synonyms": [
+        "mixture",
+        "mix",
+        "blend",
+        "compound",
+        "suspension",
+        "tincture",
+        "infusion",
+        "emulsion",
+        "gel",
+        "fluid"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of the nature relating to or characterized by a colloid or colloids.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 19th century: from Greek kolla glue + -oid.",
+  "pronounciation": "/ˈkäloid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/colloid_us_1.mp3"
+}

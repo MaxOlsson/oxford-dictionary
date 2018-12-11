@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not even or regular in pattern or movement; unpredictable.",
+      "examples": [
+        "her breathing was erratic"
+      ],
+      "synonyms": [
+        "unpredictable",
+        "inconsistent",
+        "changeable",
+        "variable",
+        "inconstant",
+        "uncertain",
+        "irregular",
+        "unstable",
+        "turbulent",
+        "unsteady",
+        "unsettled",
+        "unreliable",
+        "undependable",
+        "changing",
+        "ever-changing",
+        "volatile",
+        "varying",
+        "shifting",
+        "fluctuating",
+        "fluid",
+        "mutable",
+        "protean",
+        "fitful",
+        "wavering",
+        "full of ups and downs"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rock or boulder that differs from the surrounding rock and is believed to have been brought from a distance by glacial action.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French erratique, from Latin erraticus, from errare to stray, err.",
+  "pronounciation": "/əˈrædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/erratic_us_1.mp3"
+}

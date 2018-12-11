@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.",
+      "examples": [],
+      "synonyms": [
+        "reynard"
+      ]
+    },
+    {
+      "description": "A cunning or sly person.",
+      "examples": [
+        "a wily old fox"
+      ]
+    },
+    {
+      "description": "A sexually attractive woman.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Baffle or deceive (someone)",
+      "examples": [
+        "the bad light and dark shadows foxed him"
+      ],
+      "synonyms": [
+        "baffle",
+        "bewilder",
+        "mystify",
+        "bemuse",
+        "perplex",
+        "puzzle",
+        "confuse",
+        "confound",
+        "nonplus",
+        "disconcert",
+        "throw",
+        "throw off balance",
+        "disorientate",
+        "take aback",
+        "set thinking"
+      ]
+    },
+    {
+      "description": "Repair (a boot or shoe) by renewing the upper leather.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to the Fox or their language.",
+      "examples": []
+    }
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch vos and German Fuchs.",
+  "pronounciation": "/fɑks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fox_us_1.mp3"
+}

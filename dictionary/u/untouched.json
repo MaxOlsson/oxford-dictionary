@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not handled, used, or tasted.",
+      "examples": [
+        "Annabel pushed aside her untouched plate"
+      ],
+      "synonyms": [
+        "uneaten",
+        "unconsumed",
+        "undrunk"
+      ]
+    },
+    {
+      "description": "Not affected, changed, or damaged in any way.",
+      "examples": [
+        "Prague was relatively untouched by the war"
+      ],
+      "synonyms": [
+        "unspoilt",
+        "unmarked",
+        "unblemished",
+        "untarnished",
+        "unsullied",
+        "undefiled",
+        "undamaged",
+        "unharmed",
+        "unscathed",
+        "unmarred",
+        "unpolluted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtəCHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untouched_us_1.mp3"
+}

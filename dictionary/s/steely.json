@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling steel in color, brightness, or strength.",
+      "examples": [
+        "a steely blue"
+      ],
+      "synonyms": [
+        "blue-grey",
+        "grey",
+        "steel-coloured",
+        "steel-grey",
+        "iron-grey"
+      ]
+    },
+    {
+      "description": "Coldly determined; hard.",
+      "examples": [
+        "there was a steely edge to his questions"
+      ],
+      "synonyms": [
+        "cruel",
+        "unfeeling",
+        "merciless",
+        "ruthless",
+        "pitiless",
+        "heartless",
+        "hard-hearted",
+        "hard",
+        "stony",
+        "cold-blooded",
+        "cold-hearted",
+        "harsh",
+        "callous",
+        "severe",
+        "unmerciful",
+        "unrelenting",
+        "relentless",
+        "unpitying",
+        "unsparing",
+        "unforgiving",
+        "uncaring",
+        "unsympathetic",
+        "uncharitable",
+        "lacking compassion",
+        "remorseless",
+        "unbending",
+        "unmoved",
+        "inflexible",
+        "inexorable",
+        "implacable",
+        "unremitting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstēlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/steely_us_1.mp3"
+}

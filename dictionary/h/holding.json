@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "An area of land held by lease.",
+      "examples": [],
+      "synonyms": [
+        "territory",
+        "region",
+        "state",
+        "department",
+        "canton",
+        "area",
+        "district",
+        "sector",
+        "zone",
+        "division",
+        "administrative area",
+        "administrative district",
+        "administrative division",
+        "administrative unit"
+      ]
+    },
+    {
+      "description": "Stocks, property, and other financial assets in someone's possession.",
+      "examples": [
+        "commercial property holdings"
+      ],
+      "synonyms": [
+        "possessions",
+        "belongings",
+        "valuables"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhoʊldɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/holding_us_1.mp3"
+}

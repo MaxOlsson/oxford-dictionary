@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A man who is not and has never been married.",
+      "examples": [
+        "one of the country's most eligible bachelors",
+        "Mark is a confirmed bachelor"
+      ],
+      "synonyms": [
+        "unwed",
+        "unwedded",
+        "single",
+        "spouseless",
+        "partnerless",
+        "husbandless",
+        "wifeless"
+      ]
+    },
+    {
+      "description": "A person who holds an undergraduate degree from a university or college (only in titles or set expressions)",
+      "examples": [
+        "a Bachelor of Arts",
+        "he graduated with a bachelor's degree in philosophy"
+      ]
+    },
+    {
+      "description": "A young knight serving under another's banner.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French bacheler; of uncertain origin.",
+  "pronounciation": "/ˈbaCH(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bachelor_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of mental attributes) sharp; profound.",
+      "examples": [
+        "her piercing analysis"
+      ],
+      "synonyms": [
+        "shrewd",
+        "discerning",
+        "perceptive",
+        "probing",
+        "searching",
+        "observant",
+        "penetrating",
+        "penetrative",
+        "sharp",
+        "keen",
+        "alert",
+        "intent",
+        "inquisitive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small hole in a part of the body, typically other than the ears, made so as to insert a ring, stud, or other piece of jewelry.",
+      "examples": [
+        "this is the place to get your tattoo or piercing done"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɪrsɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/piercing_us_1.mp3"
+}

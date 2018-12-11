@@ -1,0 +1,84 @@
+{
+  "verb": [
+    {
+      "description": "Scatter or pour small drops or particles of a substance over (an object or surface)",
+      "examples": [
+        "I sprinkled the floor with water"
+      ],
+      "synonyms": [
+        "dredge",
+        "dust",
+        "powder"
+      ]
+    },
+    {
+      "description": "Rain very lightly.",
+      "examples": [
+        "it began to sprinkle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small quantity or amount of something scattered over an object or surface.",
+      "examples": [
+        "a generous sprinkle of pepper",
+        "fiction with a sprinkle of fact"
+      ],
+      "synonyms": [
+        "small amount",
+        "touch",
+        "sprinkle",
+        "pinch",
+        "taste",
+        "lick",
+        "spot",
+        "drop",
+        "dab",
+        "speck",
+        "smack",
+        "smattering",
+        "sprinkling",
+        "splash",
+        "dribble",
+        "trickle",
+        "grain",
+        "soupçon",
+        "trace",
+        "bit",
+        "modicum",
+        "little",
+        "suggestion",
+        "suspicion",
+        "hint",
+        "scintilla",
+        "tinge",
+        "tincture",
+        "whiff",
+        "whisper",
+        "overtone",
+        "undertone",
+        "nuance",
+        "colouring"
+      ]
+    },
+    {
+      "description": "A light rain.",
+      "examples": [],
+      "synonyms": [
+        "rainfall",
+        "precipitation",
+        "raindrops",
+        "rainwater",
+        "wet weather"
+      ]
+    },
+    {
+      "description": "Tiny sugar shapes, typically rods and balls, used for decorating cakes, ice cream, and other desserts.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: perhaps from Middle Dutch sprenkelen.",
+  "pronounciation": "/ˈsprɪŋk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sprinkle_us_1.mp3"
+}

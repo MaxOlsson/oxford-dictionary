@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A comprehensive description and explanation of an idea or theory.",
+      "examples": [
+        "the exposition and defense of his ethics"
+      ],
+      "synonyms": [
+        "explanation",
+        "description",
+        "elucidation",
+        "explication",
+        "interpretation",
+        "illustration"
+      ]
+    },
+    {
+      "description": "A large public exhibition of art or trade goods.",
+      "examples": [],
+      "synonyms": [
+        "exhibition",
+        "fair",
+        "trade fair",
+        "display",
+        "show",
+        "presentation",
+        "demonstration"
+      ]
+    },
+    {
+      "description": "The action of making public; exposure.",
+      "examples": [
+        "the country squires dreaded the exposition of their rustic conversation"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin expositio(n-), from the verb exponere expose, publish, explain.",
+  "pronounciation": "/ˌɛkspəˈzɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exposition_us_1.mp3"
+}

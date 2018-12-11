@@ -1,0 +1,78 @@
+{
+  "verb": [],
+  "adjective": [
+    {
+      "description": "Having been fractured or damaged and no longer in one piece or in working order.",
+      "examples": [
+        "he had a broken arm"
+      ],
+      "synonyms": [
+        "smashed",
+        "shattered",
+        "burst",
+        "fragmented",
+        "splintered",
+        "shivered",
+        "crushed",
+        "snapped",
+        "rent",
+        "torn",
+        "ruptured",
+        "separated",
+        "severed",
+        "in bits",
+        "in pieces"
+      ]
+    },
+    {
+      "description": "(of a person) having given up all hope; despairing.",
+      "examples": [
+        "he went to his grave a broken man"
+      ],
+      "synonyms": [
+        "defeated",
+        "beaten",
+        "vanquished",
+        "overpowered",
+        "overwhelmed",
+        "subdued"
+      ]
+    },
+    {
+      "description": "Having breaks or gaps in continuity.",
+      "examples": [
+        "a broken white line across the road"
+      ],
+      "synonyms": [
+        "interrupted",
+        "disturbed",
+        "fitful",
+        "disrupted",
+        "disconnected",
+        "discontinuous",
+        "fragmentary",
+        "intermittent",
+        "unsettled",
+        "sporadic",
+        "spasmodic",
+        "erratic",
+        "troubled",
+        "incomplete"
+      ]
+    },
+    {
+      "description": "Having an uneven and rough surface.",
+      "examples": [
+        "broken ground"
+      ],
+      "synonyms": [
+        "uneven",
+        "rough",
+        "irregular",
+        "bumpy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbroʊkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broken_us_1.mp3"
+}

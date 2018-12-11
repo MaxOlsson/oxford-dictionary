@@ -1,0 +1,77 @@
+{
+  "adjective": [
+    {
+      "description": "(of a problem or issue) difficult and much debated; problematic.",
+      "examples": [
+        "the vexed question of exactly how much money the government is going to spend"
+      ],
+      "synonyms": [
+        "disputed",
+        "in dispute",
+        "contested",
+        "in contention",
+        "contentious",
+        "debated",
+        "debatable",
+        "open to debate",
+        "open to question",
+        "questionable",
+        "at issue",
+        "open to doubt",
+        "controversial",
+        "moot",
+        "unresolved",
+        "unsettled",
+        "up in the air",
+        "undecided",
+        "yet to be decided",
+        "undetermined",
+        "unconcluded",
+        "ongoing"
+      ]
+    },
+    {
+      "description": "Annoyed, frustrated, or worried.",
+      "examples": [
+        "I'm very vexed with you!"
+      ],
+      "synonyms": [
+        "annoyed",
+        "irritated",
+        "angry",
+        "irate",
+        "furious",
+        "incensed",
+        "inflamed",
+        "enraged",
+        "infuriated",
+        "maddened",
+        "fuming",
+        "wrathful",
+        "choleric",
+        "exasperated",
+        "piqued",
+        "irked",
+        "nettled",
+        "ill-humoured",
+        "hot-tempered",
+        "testy",
+        "cross",
+        "in a bad mood",
+        "in a temper",
+        "in high dudgeon",
+        "huffy",
+        "in a huff",
+        "put out",
+        "fed up",
+        "disgruntled",
+        "displeased",
+        "dissatisfied",
+        "frustrated",
+        "resentful"
+      ]
+    }
+  ],
+  "pronounciation": "/vekst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vexed_us_1.mp3"
+}

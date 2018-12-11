@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A person who tends to see the worst aspect of things or believe that the worst will happen.",
+      "examples": [
+        "the pessimists point to ways in which life has deteriorated"
+      ],
+      "synonyms": [
+        "defeatist",
+        "fatalist",
+        "alarmist",
+        "prophet of doom",
+        "cynic",
+        "doomsayer",
+        "doomster",
+        "gloom-monger",
+        "doom-monger",
+        "doomwatcher",
+        "cassandra"
+      ]
+    },
+    {
+      "description": "A person who believes that this world is as bad as it could be or that evil will ultimately prevail over good.",
+      "examples": [
+        "he finds solace in the writings of pessimist philosophers"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpɛsəməst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pessimist_us_1.mp3"
+}

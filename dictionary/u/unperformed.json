@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Not having been performed.",
+      "examples": [
+        "an unperformed play"
+      ],
+      "synonyms": [
+        "unfinished",
+        "incomplete",
+        "half-done"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənpərˈfɔrmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unperformed_us_1.mp3"
+}

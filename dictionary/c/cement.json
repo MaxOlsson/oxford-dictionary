@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A powdery substance made with calcined lime and clay. It is mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attach with cement.",
+      "examples": [
+        "wooden posts were cemented into the ground"
+      ],
+      "synonyms": [
+        "stick",
+        "bond",
+        "join",
+        "connect"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French ciment (noun), cimenter (verb), from Latin caementum quarry stone, from caedere hew.",
+  "pronounciation": "/səˈmɛnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cement_us_1.mp3"
+}

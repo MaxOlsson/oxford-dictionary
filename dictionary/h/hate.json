@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "Feel intense or passionate dislike for (someone)",
+      "examples": [
+        "the boys hate each other",
+        "he was particularly hated by the extreme right"
+      ],
+      "synonyms": [
+        "loathe",
+        "detest",
+        "dislike greatly",
+        "abhor",
+        "abominate",
+        "despise",
+        "execrate",
+        "feel aversion towards",
+        "feel revulsion towards",
+        "feel hostile towards",
+        "be repelled by",
+        "be revolted by",
+        "regard with disgust",
+        "not be able to bear",
+        "not be able to stand",
+        "be unable to stomach",
+        "find intolerable",
+        "shudder at",
+        "recoil from",
+        "shrink from"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Intense or passionate dislike.",
+      "examples": [
+        "feelings of hate and revenge"
+      ],
+      "synonyms": [
+        "loathing",
+        "hatred",
+        "detestation",
+        "dislike",
+        "distaste",
+        "abhorrence",
+        "abomination",
+        "execration",
+        "resentment",
+        "aversion",
+        "hostility",
+        "ill will",
+        "ill feeling",
+        "bad feeling"
+      ]
+    }
+  ],
+  "origin": "Old English hatian (verb), hete (noun), of Germanic origin; related to Dutch haten (verb) and German hassen (verb), Hass hatred.",
+  "pronounciation": "/hāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hate_us_1.mp3"
+}

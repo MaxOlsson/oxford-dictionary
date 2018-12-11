@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a door or window) not bolted.",
+      "examples": [],
+      "synonyms": [
+        "unguarded",
+        "unprotected",
+        "ill-protected",
+        "vulnerable",
+        "defenceless",
+        "undefended",
+        "unshielded",
+        "exposed",
+        "assailable",
+        "open to attack",
+        "in danger"
+      ]
+    },
+    {
+      "description": "(of flour, etc.) not sifted.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈbōltəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbolted_us_2.mp3"
+}

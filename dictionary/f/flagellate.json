@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Flog (someone), either as a religious discipline or for sexual gratification.",
+      "examples": [
+        "he flagellated himself with branches"
+      ],
+      "synonyms": [
+        "flog",
+        "whip",
+        "beat",
+        "scourge",
+        "lash",
+        "birch",
+        "switch",
+        "tan",
+        "strap",
+        "belt",
+        "cane",
+        "thrash",
+        "leather",
+        "flail",
+        "flay",
+        "welt",
+        "horsewhip",
+        "tan someone's hide",
+        "whip someone's hide",
+        "give someone a hiding",
+        "strike",
+        "hit",
+        "spank"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A protozoan that has one or more flagella used for swimming.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a cell or single-celled organism) bearing one or more flagella.",
+      "examples": [
+        "motile flagellate cells"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from flagellum + -ate.",
+  "pronounciation": "/ˈflajəˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flagellate_us_1.mp3"
+}

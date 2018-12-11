@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "An abrupt, heavy sound of impact.",
+      "examples": [],
+      "synonyms": [
+        "bang",
+        "sharp noise",
+        "crack",
+        "boom",
+        "clang",
+        "peal",
+        "clap",
+        "pop",
+        "snap",
+        "knock",
+        "tap",
+        "slam",
+        "thud",
+        "thump",
+        "clunk",
+        "clash",
+        "crash",
+        "smash",
+        "smack"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move with or make such a sound.",
+      "examples": [
+        "the horses clonked and snorted softly"
+      ],
+      "synonyms": [
+        "thump",
+        "clunk",
+        "clonk",
+        "crash",
+        "smash",
+        "smack",
+        "bang",
+        "thunder"
+      ]
+    },
+    {
+      "description": "Hit.",
+      "examples": [
+        "I'll clonk you on the head"
+      ],
+      "synonyms": [
+        "hit over the head",
+        "hit on the head",
+        "hit",
+        "strike",
+        "buffet",
+        "bang",
+        "knock",
+        "thwack",
+        "slug",
+        "welt",
+        "cuff",
+        "punch",
+        "smash"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: imitative.",
+  "pronounciation": "/kläNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clonk_us_1.mp3"
+}

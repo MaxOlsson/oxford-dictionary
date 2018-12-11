@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Worried, troubled, or anxious.",
+      "examples": [
+        "the villagers are concerned about burglaries"
+      ],
+      "synonyms": [
+        "worried",
+        "anxious",
+        "disturbed",
+        "perturbed",
+        "troubled",
+        "bothered",
+        "distressed",
+        "upset",
+        "disquieted",
+        "uneasy",
+        "ill at ease",
+        "apprehensive",
+        "agitated"
+      ]
+    }
+  ],
+  "pronounciation": "/kənˈsərnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcerned_us_1.mp3"
+}

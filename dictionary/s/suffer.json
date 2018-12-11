@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Experience or be subjected to (something bad or unpleasant)",
+      "examples": [
+        "he'd suffered intense pain",
+        "he'd suffered a great deal since his arrest"
+      ],
+      "synonyms": [
+        "hardship",
+        "distress",
+        "misery",
+        "wretchedness",
+        "adversity",
+        "tribulation"
+      ]
+    },
+    {
+      "description": "Tolerate.",
+      "examples": [
+        "France will no longer suffer the existing government"
+      ],
+      "synonyms": [
+        "tolerate",
+        "put up with",
+        "bear",
+        "brook",
+        "stand",
+        "abide",
+        "endure",
+        "support",
+        "accept",
+        "weather"
+      ]
+    }
+  ],
+  "phrases": [
+    "It is said she doesn't suffer fools gladly, that the public's perception of her is fearsome.",
+    "She's very easy-going but she doesn't suffer fools gladly.",
+    "While he doesn't suffer fools gladly or mince words when something annoys him, those who know him well swear by Jagjit Singh's generosity and purity of heart.",
+    "She doesn't suffer fools gladly, although she can charm anybody.",
+    "He doesn't suffer fools gladly, and he will not put up with prima-donnas."
+  ],
+  "origin": "Middle English: from Anglo-Norman French suffrir, from Latin sufferre, from sub- from below + ferre to bear.",
+  "pronounciation": "/ˈsəfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/suffer_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Cause (a liquid) to be ejected from a small opening in a thin, fast stream or jet.",
+      "examples": [
+        "she squirted soda into a glass"
+      ],
+      "synonyms": [
+        "shoot",
+        "spray",
+        "fountain",
+        "jet",
+        "erupt"
+      ]
+    },
+    {
+      "description": "Transmit (information) in highly compressed or speeded-up form.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thin stream or small quantity of liquid ejected from something.",
+      "examples": [
+        "a quick squirt of perfume"
+      ],
+      "synonyms": [
+        "spurt",
+        "jet",
+        "spray",
+        "spritz",
+        "fountain",
+        "gush",
+        "stream",
+        "surge",
+        "flow"
+      ]
+    },
+    {
+      "description": "A person perceived to be insignificant, impudent, or presumptuous.",
+      "examples": [
+        "what did he see in this patronizing little squirt?"
+      ],
+      "synonyms": [
+        "impudent person",
+        "insignificant person",
+        "gnat",
+        "insect"
+      ]
+    },
+    {
+      "description": "A compressed radio signal transmitted at high speed.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (as a verb): imitative.",
+  "pronounciation": "/skwərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squirt_us_1.mp3"
+}

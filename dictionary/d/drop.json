@@ -1,0 +1,187 @@
+{
+  "verb": [
+    {
+      "description": "Let or make (something) fall vertically.",
+      "examples": [
+        "the fire was caused by someone dropping a lighted cigarette",
+        "they dropped bombs on London during the raid"
+      ],
+      "synonyms": [
+        "let fall",
+        "let go",
+        "let go of",
+        "fail to hold",
+        "lose one's grip on"
+      ]
+    },
+    {
+      "description": "Fall vertically.",
+      "examples": [
+        "the spoon dropped with a clatter from her hand"
+      ],
+      "synonyms": [
+        "drip",
+        "fall in drops",
+        "fall",
+        "dribble",
+        "trickle",
+        "drizzle",
+        "flow",
+        "run",
+        "plop",
+        "leak"
+      ]
+    },
+    {
+      "description": "Make or become lower, weaker, or less.",
+      "examples": [
+        "he dropped his voice as she came into the room",
+        "pretax profits dropped by 37 percent",
+        "tourism has dropped off in the last few years"
+      ],
+      "synonyms": [
+        "decrease",
+        "lessen",
+        "make less",
+        "reduce",
+        "diminish",
+        "depreciate"
+      ]
+    },
+    {
+      "description": "Abandon or discontinue (a course of action or study)",
+      "examples": [
+        "the charges against him were dropped last year",
+        "drop everything and get over here!"
+      ],
+      "synonyms": [
+        "give up",
+        "finish with",
+        "withdraw from",
+        "retire from",
+        "cancel"
+      ]
+    },
+    {
+      "description": "Set down or unload (a passenger or goods), especially on the way to somewhere else.",
+      "examples": [
+        "he dropped the load off at a dealer's",
+        "his mom dropped him outside and drove off to work"
+      ],
+      "synonyms": [
+        "remove",
+        "offload",
+        "discharge",
+        "jettison",
+        "deliver",
+        "deposit",
+        "set down",
+        "leave",
+        "put off",
+        "tip out",
+        "pour out"
+      ]
+    },
+    {
+      "description": "(in sports) fail to win (a point, game, or match).",
+      "examples": [],
+      "synonyms": [
+        "lose",
+        "fail to win",
+        "concede",
+        "miss out on",
+        "give away",
+        "let slip"
+      ]
+    },
+    {
+      "description": "Force or be forced to play (a relatively high card) as a loser under an opponent's higher card, because it is the only card in its suit held in the hand.",
+      "examples": [
+        "West dropped the nine",
+        "the queen dropped"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small round or pear-shaped portion of liquid that hangs or falls or adheres to a surface.",
+      "examples": [
+        "the first drops of rain splashed on the ground"
+      ],
+      "synonyms": [
+        "droplet",
+        "blob",
+        "globule",
+        "bead",
+        "bubble",
+        "tear",
+        "dot",
+        "spheroid",
+        "oval"
+      ]
+    },
+    {
+      "description": "An instance of falling or dropping.",
+      "examples": [
+        "they left within five minutes of the drop of the curtain"
+      ]
+    },
+    {
+      "description": "A delivery.",
+      "examples": [
+        "I got to the depot and made the drop"
+      ]
+    },
+    {
+      "description": "A piece of candy or a lozenge.",
+      "examples": [
+        "a lemon drop"
+      ],
+      "synonyms": [
+        "sweet",
+        "lozenge",
+        "pastille",
+        "piece of confectionery"
+      ]
+    },
+    {
+      "description": "An earring that hangs down from the earlobe.",
+      "examples": [
+        "simple amethyst and diamond drops"
+      ]
+    },
+    {
+      "description": "A section of theatrical scenery lowered from the flies; a drop cloth or drop curtain.",
+      "examples": [],
+      "synonyms": [
+        "drape",
+        "curtain",
+        "drop cloth",
+        "drop curtain",
+        "drop scene",
+        "tableau curtain",
+        "frontal",
+        "dossal"
+      ]
+    },
+    {
+      "description": "A trapdoor on a gallows, the opening of which causes the prisoner to fall and thus be hanged.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he used to be very bashful, blushing at the drop of a hat",
+    "Today, car loans are available at the drop of a hat, and second hand cars come at throwaway prices.",
+    "Most small business employers aren't callous mongrels who sack workers unfairly or at the drop of a hat to gain a sense of power.",
+    "He's dangerously self-absorbed, and bursts into tears at the drop of a hat.",
+    "Lisa's inclined to change her mind at the drop of a hat.",
+    "the colt was struggling to stay with the pace and started to drop back",
+    "Earlier this season Metcalfe, who despite his recurring misfortune in the matter of untimely injuries has hung on to his pace pretty well, appeared to be dropping back in the queue at full-back.",
+    "With Brindley dropping back, less than two seconds covered Webster, Steinhausen and Reeves, but the North Yorkshire ace upped the pace.",
+    "A few others were behind us, but they were dropping behind farther with every step.",
+    "I didn't get a very good start and I was stuck behind Ralf in turn one, so I dropped back to eighth."
+  ],
+  "origin": "Old English dropa (noun), droppian (verb), of Germanic origin; related to German Tropfen a drop, tropfen to drip, also to drip and droop.",
+  "pronounciation": "/drɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drop_us_1.mp3"
+}

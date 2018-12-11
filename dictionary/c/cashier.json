@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A person handling payments and receipts in a store, bank, or other business.",
+      "examples": [],
+      "synonyms": [
+        "clerk",
+        "bank clerk",
+        "teller",
+        "bank teller",
+        "banker",
+        "treasurer",
+        "bursar",
+        "purser"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dismiss (someone) from the armed forces in disgrace because of a serious misdemeanor.",
+      "examples": [
+        "he was found guilty and cashiered",
+        "a cashiered National Guard major"
+      ],
+      "synonyms": [
+        "dismiss",
+        "discharge",
+        "expel",
+        "drum out",
+        "throw out",
+        "cast out",
+        "discard",
+        "get rid of"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense dismiss or disband troops): from Flemish kasseren disband (troops) or revoke (a will), from French casser revoke, dismiss, from Latin quassare (see quash).",
+  "pronounciation": "/kæˈʃɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cashier_us_1.mp3"
+}

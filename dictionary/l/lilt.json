@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A characteristic rising and falling of the voice when speaking; a pleasant gentle accent.",
+      "examples": [
+        "he spoke with a faint but recognizable Irish lilt"
+      ],
+      "synonyms": [
+        "cadence",
+        "rise and fall",
+        "inflection",
+        "intonation",
+        "upswing",
+        "emphasis",
+        "stress",
+        "rhythm",
+        "swing",
+        "sway",
+        "beat",
+        "pulse",
+        "measure",
+        "metre",
+        "tempo"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Speak, sing, or sound with a lilt.",
+      "examples": [
+        "a lilting Welsh accent"
+      ],
+      "synonyms": [
+        "melodious",
+        "melodic",
+        "musical",
+        "mellifluous",
+        "sweet-sounding",
+        "pleasant-sounding",
+        "dulcet",
+        "euphonious",
+        "harmonious",
+        "lyrical",
+        "lilting"
+      ]
+    }
+  ],
+  "origin": "Late Middle English lulte (in the senses sound an alarm or lift up the voice), of unknown origin.",
+  "pronounciation": "/lɪlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lilt_us_1.mp3"
+}

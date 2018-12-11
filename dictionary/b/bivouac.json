@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A temporary camp without tents or cover, used especially by soldiers or mountaineers.",
+      "examples": [],
+      "synonyms": [
+        "camp",
+        "military camp",
+        "cantonment",
+        "barracks",
+        "base",
+        "station",
+        "post"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Stay in a temporary camp without cover.",
+      "examples": [
+        "he'd bivouacked on the north side of the town",
+        "the battalion was now bivouacked in a field"
+      ],
+      "synonyms": [
+        "pitch tents",
+        "set up camp",
+        "pitch camp",
+        "encamp",
+        "bivouac"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (denoting a night watch by the whole army): from French, probably from Swiss German Bîwacht additional guard at night, apparently denoting a citizens' patrol supporting the ordinary town watch.",
+  "pronounciation": "/ˈbɪvuˌæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bivouac_us_1.mp3"
+}

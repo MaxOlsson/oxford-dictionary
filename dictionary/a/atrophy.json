@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "(of body tissue or an organ) waste away, typically due to the degeneration of cells, or become vestigial during evolution.",
+      "examples": [
+        "without exercise, the muscles will atrophy"
+      ],
+      "synonyms": [
+        "waste away",
+        "waste",
+        "become emaciated",
+        "wither",
+        "shrivel",
+        "shrivel up",
+        "shrink",
+        "become shrunken",
+        "dry up",
+        "decay",
+        "wilt"
+      ]
+    },
+    {
+      "description": "Gradually decline in effectiveness or vigor due to underuse or neglect.",
+      "examples": [
+        "her artistic skills atrophied from lack of use"
+      ],
+      "synonyms": [
+        "peter out",
+        "taper off",
+        "tail off",
+        "dwindle",
+        "deteriorate",
+        "decline",
+        "wane",
+        "fade",
+        "fade away",
+        "fade out",
+        "give in",
+        "give up",
+        "give way",
+        "crumble",
+        "disintegrate",
+        "collapse",
+        "slump",
+        "go downhill",
+        "draw to a close",
+        "subside"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The process of atrophying or state of having atrophied.",
+      "examples": [
+        "gastric atrophy",
+        "extensive TV viewing may lead to atrophy of children's imaginations"
+      ],
+      "synonyms": [
+        "wasting",
+        "wasting away",
+        "emaciation",
+        "withering",
+        "shrivelling",
+        "shrivelling up",
+        "shrinking",
+        "drying up",
+        "wilting",
+        "decaying",
+        "decay"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French atrophier (verb), atrophie (noun), from late Latin atrophia, from Greek, lack of food, from a- without + trophē food.",
+  "pronounciation": "/ˈatrəfē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/atrophy_us_1.mp3"
+}

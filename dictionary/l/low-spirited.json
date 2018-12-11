@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Sad and despondent; depressed.",
+      "examples": [
+        "he was a bit low-spirited"
+      ],
+      "synonyms": [
+        "depressed",
+        "dejected",
+        "despondent",
+        "downhearted",
+        "downcast",
+        "low",
+        "down",
+        "sorrowful",
+        "gloomy",
+        "glum",
+        "unhappy",
+        "sad",
+        "melancholy",
+        "blue",
+        "fed up",
+        "morose",
+        "moody",
+        "miserable",
+        "dismal",
+        "heavy-hearted",
+        "mournful",
+        "forlorn",
+        "woebegone"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌlōˈspiridəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/low_spirited_1_us_2.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "All the people in a country or area who are entitled to vote in an election.",
+      "examples": [
+        "75 percent of the electorate voted for a Scottish parliament in some form"
+      ],
+      "synonyms": [
+        "people",
+        "citizens",
+        "subjects",
+        "general public",
+        "electors",
+        "voters",
+        "taxpayers",
+        "ratepayers",
+        "residents",
+        "inhabitants",
+        "citizenry",
+        "population",
+        "populace",
+        "community",
+        "society",
+        "country",
+        "nation",
+        "world"
+      ]
+    },
+    {
+      "description": "The office or territories of a German elector.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˈlekt(ə)rət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/electorate_us_1.mp3"
+}

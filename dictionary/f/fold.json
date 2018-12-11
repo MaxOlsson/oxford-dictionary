@@ -1,0 +1,80 @@
+{
+  "verb": [
+    {
+      "description": "Bend (something flexible and relatively flat) over on itself so that one part of it covers another.",
+      "examples": [
+        "she folded all her clothes and packed all her bags"
+      ],
+      "synonyms": [
+        "double",
+        "double over",
+        "double up",
+        "crease",
+        "turn under",
+        "turn up",
+        "turn over",
+        "bend",
+        "overlap"
+      ]
+    },
+    {
+      "description": "Cover or wrap something in (a soft or flexible material)",
+      "examples": [
+        "a plastic bag was folded around the book"
+      ]
+    },
+    {
+      "description": "(of an enterprise or organization) cease operating as a result of financial problems or a lack of support.",
+      "examples": [
+        "the club folded earlier this year"
+      ],
+      "synonyms": [
+        "fail",
+        "collapse",
+        "crash",
+        "founder",
+        "be ruined",
+        "cave in"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A form or shape produced by the gentle draping of a loose, full garment or piece of cloth.",
+      "examples": [
+        "the fabric fell in soft folds"
+      ],
+      "synonyms": [
+        "pleat",
+        "gather",
+        "ruffle",
+        "bunch",
+        "turn",
+        "folded portion",
+        "double thickness",
+        "overlap",
+        "layer"
+      ]
+    },
+    {
+      "description": "An undulation or gentle curve of the ground; a slight hill or hollow.",
+      "examples": [
+        "the house lay in a fold of the hills"
+      ]
+    },
+    {
+      "description": "A line or crease produced in paper or cloth as the result of folding it.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "they're holding four column inches above the fold",
+    "The Los Angeles Times ran the story on the 25th (front page below the fold) and used three microphotographs from the Science article.",
+    "But \"The Washington Post\" or \"The New York Times\" is not going to run a silly frivolous story above the fold.",
+    "Then fight to get your story on the front page, above the fold, with the big headline and a photo.",
+    "What reporters really want is their byline on the front page above the fold."
+  ],
+  "origin": "Old English fald, of Germanic origin; related to Dutch vaalt.",
+  "pronounciation": "/foʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_fold_1_us_1.mp3"
+}

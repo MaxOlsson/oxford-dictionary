@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A slender threadlike object or fiber, especially one found in animal or plant structures.",
+      "examples": [
+        "each myosin filament is usually surrounded by 12 actin filaments"
+      ],
+      "synonyms": [
+        "fibre",
+        "thread",
+        "strand",
+        "tendril"
+      ]
+    },
+    {
+      "description": "A conducting wire or thread with a high melting point, forming part of an electric bulb or vacuum tube and heated or made incandescent by an electric current.",
+      "examples": [],
+      "synonyms": [
+        "cord",
+        "rope",
+        "string",
+        "cable",
+        "wire",
+        "thread",
+        "twine",
+        "strand",
+        "ligature"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French, or from modern Latin filamentum, from late Latin filare to spin, from Latin filum thread.",
+  "pronounciation": "/ˈfiləmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filament_us_1.mp3"
+}

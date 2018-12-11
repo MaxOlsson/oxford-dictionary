@@ -1,0 +1,50 @@
+{
+  "relative pronoun &amp; determiner": [
+    {
+      "description": "Used to emphasize a lack of restriction in referring to any thing or amount, no matter what.",
+      "examples": [
+        "do whatever you like",
+        "take whatever action is needed"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Used for emphasis instead of “what” in questions, typically expressing surprise or confusion.",
+      "examples": [
+        "whatever is the matter?"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At all; of any kind (used for emphasis)",
+      "examples": [
+        "they received no help whatever"
+      ]
+    },
+    {
+      "description": "No matter what happens.",
+      "examples": [
+        "we told him we'd back him whatever"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Said as a response indicating a reluctance to discuss something, implying indifference, skepticism, or exasperation.",
+      "examples": [
+        "Joseph's commentary amounted to “Yeah, well. Whatever.”"
+      ]
+    }
+  ],
+  "phrases": [
+    "use chopped herbs, nuts, garlic, or whatever",
+    "If people do get it wrong, people should not be sacked or demoted or whatever, as long as it is done with good intent.",
+    "Whether it is a leadership academy or whatever, is a matter for others, I expect.",
+    "I suppose if you are doing a serious thing you need things to spice it up or whatever.",
+    "Directors can no longer plead ignorance, or whatever other excuse they choose."
+  ],
+  "pronounciation": "/(h)wətˈevər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whatever_us_3_rr.mp3"
+}

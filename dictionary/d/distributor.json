@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An agent who supplies goods to stores and other businesses that sell to consumers.",
+      "examples": [
+        "a wholesale liquor distributor",
+        "the movie's distributor booked the film into theaters"
+      ],
+      "synonyms": [
+        "dealer",
+        "merchant",
+        "buyer",
+        "seller",
+        "salesman",
+        "saleswoman",
+        "buyer and seller",
+        "marketeer",
+        "merchandiser",
+        "broker",
+        "agent"
+      ]
+    },
+    {
+      "description": "A device in a gasoline engine for passing electric current to each spark plug in turn.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/dəˈstribyədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distributor_us_1.mp3"
+}

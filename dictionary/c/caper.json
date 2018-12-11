@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Skip or dance about in a lively or playful way.",
+      "examples": [
+        "children were capering about the room"
+      ],
+      "synonyms": [
+        "skip",
+        "dance",
+        "romp",
+        "jig",
+        "frisk",
+        "gambol",
+        "cavort",
+        "prance",
+        "frolic",
+        "leap",
+        "hop",
+        "jump",
+        "bound",
+        "spring"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A playful skipping movement.",
+      "examples": [
+        "she did a little caper"
+      ],
+      "synonyms": [
+        "dance",
+        "skip",
+        "hop",
+        "leap",
+        "jump"
+      ]
+    },
+    {
+      "description": "An activity or escapade, typically one that is illicit or ridiculous.",
+      "examples": [],
+      "synonyms": [
+        "escapade",
+        "stunt",
+        "prank",
+        "trick",
+        "practical joke",
+        "antics",
+        "high jinks",
+        "mischief",
+        "game",
+        "sport",
+        "fun",
+        "jest",
+        "jesting",
+        "jape"
+      ]
+    }
+  ],
+  "phrases": [
+    "Without another word, Tom flings himself on the old gentleman's neck; throws up his hat; cuts a caper; defies the waiting-maid; and refers her to the butcher.",
+    "Dressed in white for her next entrance, in ACT III, she smokes a cigarette and laughs at Ariel, who cuts a caper, mincing air with someone's sword.",
+    "Darlene Enke and Jessica Hanel cut a caper in Threepenny Opera.",
+    "The poor little fellow could neither sing nor dance, and had not sufficient breath left to cut a caper or turn a back somersault.",
+    "And the hag, insisting that she felt a child quick within her, begged Bourgeois to feel how the wee jester cut a caper in her belly."
+  ],
+  "origin": "Late Middle English: from French câpres or Latin capparis, from Greek kapparis; later interpreted as plural, hence the loss of the final -s in the 16th century.",
+  "pronounciation": "/ˈkāpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caper_us_1.mp3"
+}

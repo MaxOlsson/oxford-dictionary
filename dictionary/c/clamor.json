@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A loud and confused noise, especially that of people shouting vehemently.",
+      "examples": [
+        "the questions rose to a clamor"
+      ],
+      "synonyms": [
+        "din",
+        "racket",
+        "loud noise",
+        "uproar",
+        "tumult",
+        "babel",
+        "shouting",
+        "yelling",
+        "screaming",
+        "baying",
+        "roaring",
+        "blaring",
+        "clangour"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a group of people) shout loudly and insistently.",
+      "examples": [
+        "the surging crowds clamored for attention"
+      ],
+      "synonyms": [
+        "yell",
+        "shout loudly",
+        "bay",
+        "scream",
+        "shriek",
+        "roar"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin clamor, from clamare cry out.",
+  "pronounciation": "/ˈklæmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clamor_us_1.mp3"
+}

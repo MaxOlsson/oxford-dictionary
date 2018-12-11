@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "(in some US states) a meeting at which local members of a political party register their preference among candidates running for office or select delegates to attend a convention.",
+      "examples": [
+        "Hawaii holds its nominating caucuses next Tuesday",
+        "he stumbled through the Iowa caucuses and the New Hampshire primary"
+      ],
+      "synonyms": [
+        "meeting",
+        "assembly",
+        "gathering",
+        "congress",
+        "conference",
+        "convention",
+        "rally",
+        "conclave",
+        "congregation",
+        "convocation",
+        "synod",
+        "council",
+        "session",
+        "parley"
+      ]
+    },
+    {
+      "description": "A conference of members of a legislative body who belong to a particular party or faction.",
+      "examples": [
+        "Mr. Kerry attended the morning caucus in the Old Senate Chamber where his fellow Democrats selected the new minority leadership"
+      ],
+      "synonyms": [
+        "parliamentary party"
+      ]
+    },
+    {
+      "description": "A group within an organization or political party which meets independently to discuss strategy or tactics.",
+      "examples": [
+        "up to fifty caucuses met daily on conference grounds to discuss lobbying strategies",
+        "he was forced out by a hard-left caucus which had taken over his constituency party"
+      ],
+      "synonyms": [
+        "faction",
+        "camp",
+        "bloc",
+        "group",
+        "gang",
+        "set",
+        "band",
+        "ring",
+        "party",
+        "league",
+        "cabal",
+        "camarilla",
+        "clique",
+        "coterie",
+        "junta",
+        "pressure group"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hold or form a legislative caucus.",
+      "examples": [
+        "Republicans briefly caucused",
+        "there is one Independent who caucuses with the Democrats"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: perhaps from Algonquian cau'-cau'-as'u adviser.",
+  "pronounciation": "/ˈkôkəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/caucus_us_1.mp3"
+}

@@ -1,0 +1,105 @@
+{
+  "verb": [
+    {
+      "description": "Present or constitute (a problem, danger, or difficulty)",
+      "examples": [
+        "the sheer number of visitors is posing a threat to the area"
+      ],
+      "synonyms": [
+        "constitute",
+        "present",
+        "create",
+        "cause",
+        "produce",
+        "give rise to",
+        "lead to",
+        "result in"
+      ]
+    },
+    {
+      "description": "Assume a particular attitude or position in order to be photographed, painted, or drawn.",
+      "examples": [
+        "she posed for a swarm of TV cameramen"
+      ],
+      "synonyms": [
+        "be a model",
+        "model",
+        "sit",
+        "take up a position",
+        "assume an attitude",
+        "strike a pose"
+      ]
+    },
+    {
+      "description": "Pretend to be (someone or something)",
+      "examples": [
+        "a literary novel posing as a spy thriller",
+        "a detective posing as a customer"
+      ],
+      "synonyms": [
+        "pretend to be",
+        "impersonate",
+        "pass oneself off as",
+        "be disguised as",
+        "masquerade as",
+        "profess to be",
+        "purport to be",
+        "set oneself up as",
+        "assume the identity of",
+        "feign the identity of",
+        "pass for",
+        "represent oneself as"
+      ]
+    },
+    {
+      "description": "Behave affectedly in order to impress others.",
+      "examples": [
+        "some people like to drive these cars, but most just like to pose in them"
+      ],
+      "synonyms": [
+        "behave affectedly",
+        "strike an attitude",
+        "strike a pose",
+        "posture",
+        "attitudinize",
+        "put on airs",
+        "put on an act"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A particular way of standing or sitting, usually adopted for effect or in order to be photographed, painted, or drawn.",
+      "examples": [
+        "photographs of boxers in ferocious poses"
+      ],
+      "synonyms": [
+        "posture",
+        "position",
+        "stance",
+        "attitude",
+        "bearing"
+      ]
+    },
+    {
+      "description": "A particular way of behaving adopted in order to give others a false impression or to impress others.",
+      "examples": [
+        "the man dropped his pose of amiability"
+      ],
+      "synonyms": [
+        "pretence",
+        "act",
+        "affectation",
+        "facade",
+        "show",
+        "front",
+        "display",
+        "masquerade",
+        "posture"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: shortening of obsolete appose, from Old French aposer, variant of oposer oppose.",
+  "pronounciation": "/pōz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pose_us_1.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "adjective": [
+    {
+      "description": "Tending or designed to stick to things on contact or covered with something that sticks.",
+      "examples": [
+        "her sticky bubblegum",
+        "sticky tape"
+      ],
+      "synonyms": [
+        "adhesive",
+        "adherent",
+        "gummed"
+      ]
+    },
+    {
+      "description": "(of the weather) hot and damp; muggy.",
+      "examples": [
+        "it was an unusually hot and sticky summer"
+      ],
+      "synonyms": [
+        "humid",
+        "muggy",
+        "close",
+        "sultry",
+        "sweltering",
+        "steamy",
+        "oppressive",
+        "airless",
+        "stifling",
+        "suffocating",
+        "sweaty",
+        "soupy",
+        "like a turkish bath",
+        "like a sauna"
+      ]
+    },
+    {
+      "description": "Involving problems; difficult or awkward.",
+      "examples": [
+        "the relationship is going through a sticky patch"
+      ],
+      "synonyms": [
+        "awkward",
+        "difficult",
+        "tricky",
+        "ticklish",
+        "problematic",
+        "delicate",
+        "touch-and-go",
+        "embarrassing",
+        "sensitive",
+        "uncomfortable"
+      ]
+    },
+    {
+      "description": "(of a website or its content) attracting a long visit or repeat visits from users.",
+      "examples": [
+        "make your site as sticky as possible to keep visitors there longer",
+        "more and more often, web designers focus on the need to add sticky features to their sites"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in an online forum) a thread containing important information that is set to remain at the top of the other threads regardless of when it was last updated.",
+      "examples": [
+        "could you put a sticky in the forum for those of us that are confused?"
+      ]
+    }
+  ],
+  "phrases": [
+    "This is especially surprising in such a wealthy county - sticky fingers perhaps, somewhere?",
+    "Who knows what really happened in that hotel where they are being accused of getting a major case of sticky fingers around a vending machine.",
+    "Caught with sticky fingers Bob dismissed the sum as pocket change and handed it back.",
+    "Oh, I enjoying firing people when I catch them with sticky fingers, stealing.",
+    "And we have had a spot of bother with sticky fingers as well."
+  ],
+  "pronounciation": "/ˈstikē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sticky_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a towel or garment) made of or lined with a soft, warm fabric.",
+      "examples": [
+        "a fleecy sweatshirt"
+      ],
+      "synonyms": [
+        "fluffy",
+        "woolly",
+        "downy",
+        "fuzzy",
+        "feathery",
+        "furry",
+        "velvety",
+        "shaggy"
+      ]
+    },
+    {
+      "description": "(especially of a cloud) white and fluffy.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈflēsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fleecy_us_1.mp3"
+}

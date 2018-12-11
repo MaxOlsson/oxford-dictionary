@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Covered with grass.",
+      "examples": [
+        "grassy slopes"
+      ],
+      "synonyms": [
+        "green",
+        "leafy",
+        "grass-covered"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡræsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grassy_us_1.mp3"
+}

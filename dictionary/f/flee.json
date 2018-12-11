@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Run away from a place or situation of danger.",
+      "examples": [
+        "a man was shot twice as he fled from five masked youths"
+      ],
+      "synonyms": [
+        "run",
+        "run away",
+        "run off",
+        "make a run for it",
+        "run for it",
+        "take flight",
+        "be gone",
+        "make off",
+        "take off",
+        "take to one's heels",
+        "make a break for it",
+        "bolt",
+        "beat a retreat",
+        "beat a hasty retreat",
+        "make a quick exit",
+        "make one's getaway",
+        "escape",
+        "absent oneself",
+        "make oneself scarce",
+        "abscond",
+        "head for the hills",
+        "do a disappearing act"
+      ]
+    }
+  ],
+  "origin": "Old English flēon, of Germanic origin; related to Dutch vlieden and German fliehen.",
+  "pronounciation": "/fli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flee_us_1.mp3"
+}

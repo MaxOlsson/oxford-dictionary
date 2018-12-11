@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of showing the existence or truth of something by giving proof or evidence.",
+      "examples": [
+        "it is not capable of mathematical demonstration",
+        "Lind's demonstration that citrus fruits cure scurvy"
+      ],
+      "synonyms": [
+        "proof",
+        "substantiation",
+        "confirmation",
+        "affirmation",
+        "corroboration",
+        "verification",
+        "validation"
+      ]
+    },
+    {
+      "description": "A practical exhibition and explanation of how something works or is performed.",
+      "examples": [
+        "a microwave cooking demonstration"
+      ],
+      "synonyms": [
+        "exhibition",
+        "presentation",
+        "display",
+        "illustration",
+        "exposition",
+        "teach-in"
+      ]
+    },
+    {
+      "description": "A public meeting or march protesting against something or expressing views on a political issue.",
+      "examples": [],
+      "synonyms": [
+        "protest",
+        "protest march",
+        "march",
+        "parade",
+        "rally",
+        "lobby",
+        "sit-in",
+        "sit-down",
+        "sleep-in",
+        "stoppage",
+        "strike",
+        "walkout",
+        "picket",
+        "picket line",
+        "blockade"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the senses proof provided by logic and sign, indication): from Latin demonstratio(n-), from demonstrare point out (see demonstrate). demonstration (sense 3) dates from the mid 19th century.",
+  "pronounciation": "/ˌdemənˈstrāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/demonstration_us_1.mp3"
+}

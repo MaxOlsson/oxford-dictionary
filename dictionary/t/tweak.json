@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "Twist or pull (something) sharply.",
+      "examples": [
+        "he tweaked the boy's ear"
+      ],
+      "synonyms": [
+        "pull sharply",
+        "twist",
+        "tug",
+        "pinch",
+        "nip",
+        "twitch",
+        "squeeze",
+        "jerk"
+      ]
+    },
+    {
+      "description": "Improve (a mechanism or system) by making fine adjustments to it.",
+      "examples": [
+        "engineers tweak the car's operating systems during the race"
+      ],
+      "synonyms": [
+        "adjust",
+        "make adjustments to",
+        "modify",
+        "alter",
+        "make alterations to",
+        "change",
+        "adapt"
+      ]
+    },
+    {
+      "description": "Become or cause to become agitated or excited, typically from taking amphetamines or another stimulant.",
+      "examples": [
+        "I just about went crazy yesterday—I was totally tweaking out",
+        "caffeine is a natural mood elevator but if you're stressed to begin with it can kind of tweak you out"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sharp twist or pull.",
+      "examples": [],
+      "synonyms": [
+        "sharp pull",
+        "twist",
+        "tug",
+        "pinch",
+        "nip",
+        "twitch",
+        "squeeze",
+        "jerk"
+      ]
+    },
+    {
+      "description": "A fine adjustment to a mechanism or system.",
+      "examples": [],
+      "synonyms": [
+        "adjustment",
+        "modification",
+        "alteration",
+        "change",
+        "adaptation"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: probably an alteration of dialect twick pull sharply; related to twitch.",
+  "pronounciation": "/twik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tweak_us_1.mp3"
+}

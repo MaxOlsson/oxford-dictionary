@@ -1,0 +1,19 @@
+{
+  "verb": [
+    {
+      "description": "Open (a door or window) by drawing back a bolt.",
+      "examples": [
+        "he ran down the stairs and unbolted the heavy wooden door"
+      ],
+      "synonyms": [
+        "unfasten",
+        "unbutton",
+        "unhook",
+        "untie",
+        "unlace"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈboʊlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unbolt_us_2.mp3"
+}

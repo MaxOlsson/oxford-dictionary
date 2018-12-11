@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Grasp or seize (something) tightly or eagerly.",
+      "examples": [
+        "he stood clutching a microphone",
+        "Mrs. Longhill clutched at the idea"
+      ],
+      "synonyms": [
+        "grip",
+        "grasp",
+        "clasp",
+        "cling to",
+        "hang on to",
+        "clench",
+        "hold"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tight grasp or an act of grasping something.",
+      "examples": [
+        "she made a clutch at his body"
+      ]
+    },
+    {
+      "description": "A mechanism for connecting and disconnecting a vehicle engine from its transmission system.",
+      "examples": []
+    },
+    {
+      "description": "A slim, flat handbag without handles or a strap.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(in sport) denoting or occurring in a critical situation in which the outcome of a game or competition is at stake.",
+      "examples": [
+        "they both are hard-nosed players who seem to thrive in clutch situations"
+      ]
+    }
+  ],
+  "phrases": [
+    "apparently everyone at the film festival is clutching their pearls in horror over the explicit sex scenes in his new film",
+    "why are some athletes able to perform in the clutch while others choke?",
+    "Hunte also spoke highly of his two veteran players, Vernon Lewis and Kane Easter, who both came through in the clutch.",
+    "It's not that robots don't bleed, but more that they don't play hurt, or brawl, or choke in the clutch.",
+    "But the arrogance that enables him to be such a reliable shooter in the clutch prevents him from countenancing the fact that he's a defensive liability."
+  ],
+  "origin": "Early 18th century: probably a southern variant of northern English dialect cletch, related to Middle English cleck to hatch, from Old Norse klekja.",
+  "pronounciation": "/kləCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clutch_us_1.mp3"
+}

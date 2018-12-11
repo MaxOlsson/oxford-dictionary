@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Justifiable by argument.",
+      "examples": [
+        "a morally defensible penal system"
+      ],
+      "synonyms": [
+        "justifiable",
+        "arguable",
+        "tenable",
+        "defendable",
+        "maintainable",
+        "sustainable",
+        "supportable",
+        "plausible",
+        "well founded",
+        "sound",
+        "sensible",
+        "reasonable",
+        "rational",
+        "logical",
+        "able to hold water"
+      ]
+    },
+    {
+      "description": "Able to be protected.",
+      "examples": [
+        "a fort with a defensible yard at its feet"
+      ],
+      "synonyms": [
+        "secure",
+        "safe",
+        "fortified",
+        "protectable",
+        "able to be protected",
+        "holdable"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense capable of giving protective defense): from late Latin defensibilis, from Latin defendere (see defend).",
+  "pronounciation": "/dəˈfensəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defensible_us_1.mp3"
+}

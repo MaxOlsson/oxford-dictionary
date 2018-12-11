@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Consecutive.",
+      "examples": [
+        "back-to-back homers in a major league baseball game"
+      ],
+      "synonyms": [
+        "successive",
+        "succeeding",
+        "following",
+        "in succession",
+        "running",
+        "in a row",
+        "one after the other",
+        "continuous",
+        "solid",
+        "straight",
+        "uninterrupted",
+        "unbroken"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "(of two people) facing in opposite directions with their backs touching.",
+      "examples": [
+        "they sat on the ground, leaning back to back"
+      ]
+    },
+    {
+      "description": "Consecutively; in succession.",
+      "examples": [
+        "the games were played back to back"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌbaktəˈbak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/back_to_back_1_us_1.mp3"
+}

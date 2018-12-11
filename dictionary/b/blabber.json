@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Talk foolishly, mindlessly, or excessively.",
+      "examples": [
+        "she blabbered on and on"
+      ],
+      "synonyms": [
+        "prattle",
+        "chatter",
+        "babble",
+        "prate",
+        "blather",
+        "blether",
+        "ramble",
+        "gabble",
+        "jabber",
+        "twitter",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "blither",
+        "maunder",
+        "drivel",
+        "patter",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who talks foolishly or indiscreetly.",
+      "examples": [],
+      "synonyms": [
+        "gossip",
+        "gossipmonger",
+        "scandalmonger",
+        "blabbermouth",
+        "blabber",
+        "busybody",
+        "chatterer",
+        "prattler",
+        "babbler"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈblabər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blabber_us_1.mp3"
+}

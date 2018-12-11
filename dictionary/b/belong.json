@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Be the property of.",
+      "examples": [
+        "the vehicle did not belong to him"
+      ],
+      "synonyms": [
+        "be owned by",
+        "be the property of",
+        "be the possession of",
+        "be in the ownership of",
+        "be held by",
+        "be at the disposal of",
+        "be in the hands of"
+      ]
+    },
+    {
+      "description": "Be a member or part of (a particular group, organization, or class)",
+      "examples": [
+        "they belong to garden and bridge clubs"
+      ],
+      "synonyms": [
+        "be a member of",
+        "be in",
+        "be included in",
+        "be affiliated to",
+        "be allied to",
+        "be associated with",
+        "be connected to",
+        "be linked to",
+        "be an adherent of"
+      ]
+    },
+    {
+      "description": "(of a thing) be rightly placed in a specified position.",
+      "examples": [
+        "learning to place the blame where it belongs"
+      ]
+    }
+  ],
+  "origin": "Old English belangian, of Germanic origin.",
+  "pronounciation": "/bəˈlôNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/belong_us_2.mp3"
+}

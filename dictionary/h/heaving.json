@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a place) extremely crowded.",
+      "examples": [
+        "the foyer was absolutely heaving with people"
+      ],
+      "synonyms": [
+        "packed",
+        "congested",
+        "crushed",
+        "cramped",
+        "overcrowded",
+        "full",
+        "filled to capacity",
+        "full to bursting",
+        "overfull",
+        "overflowing",
+        "teeming",
+        "swarming",
+        "thronged",
+        "populous",
+        "overpopulated",
+        "overpeopled",
+        "busy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhēviNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heaving_us_1.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "An act of breaking or failing to observe a law, agreement, or code of conduct.",
+      "examples": [
+        "a breach of confidence",
+        "they alleged breach of copyright"
+      ],
+      "synonyms": [
+        "contravention",
+        "violation",
+        "breaking",
+        "non-observance",
+        "infringement",
+        "transgression",
+        "neglect",
+        "dereliction"
+      ]
+    },
+    {
+      "description": "A gap in a wall, barrier, or defense, especially one made by an attacking army.",
+      "examples": [],
+      "synonyms": [
+        "break",
+        "rupture",
+        "split",
+        "crack",
+        "fracture",
+        "rent",
+        "rift"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a gap in and break through (a wall, barrier, or defense)",
+      "examples": [
+        "the river breached its bank"
+      ],
+      "synonyms": [
+        "break",
+        "break through",
+        "burst",
+        "burst through",
+        "rupture",
+        "force itself through",
+        "split"
+      ]
+    },
+    {
+      "description": "(of a whale) rise and break through the surface of the water.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "I'm going to raise this as a breach of contract",
+    "the theater promptly sued him for breach of contract",
+    "If the judges found the real reason he had to leave was because he had special educational needs, then there would have been a breach of contract.",
+    "The company is seeking both past and future commissions totalling over £4 million together with damages for a breach of contract.",
+    "The group argues that its unwillingness to give the council written details of its activities constitute a breach of contract, which should now be terminated."
+  ],
+  "origin": "Middle English: from Old French breche, ultimately of Germanic origin; related to break.",
+  "pronounciation": "/britʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breach_us_1.mp3"
+}

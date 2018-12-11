@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of or involving three parts, things, or people.",
+      "examples": [
+        "a triple murder",
+        "triple somersaults"
+      ],
+      "synonyms": [
+        "three-way",
+        "tripartite"
+      ]
+    }
+  ],
+  "predeterminer": [
+    {
+      "description": "Three times as much or as many.",
+      "examples": [
+        "the copper energy cells had triple the efficiency of silicon cells"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is three times as large as usual or is made up of three standard units or items.",
+      "examples": [],
+      "synonyms": [
+        "trio",
+        "threesome",
+        "triumvirate",
+        "triad",
+        "troika"
+      ]
+    },
+    {
+      "description": "A sporting contest in which each side has three players.",
+      "examples": []
+    },
+    {
+      "description": "A system of change ringing using seven bells, with three pairs changing places each time.",
+      "examples": []
+    },
+    {
+      "description": "A hit which enables the batter to reach third base.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become three times as much or as many.",
+      "examples": [
+        "grain prices were expected to triple"
+      ],
+      "synonyms": [
+        "treble",
+        "increase by three"
+      ]
+    },
+    {
+      "description": "Hit a triple.",
+      "examples": [
+        "he tripled into right field"
+      ]
+    }
+  ],
+  "origin": "Middle English (as an adjective and adverb): from Old French, or from Latin triplus, from Greek triplous.",
+  "pronounciation": "/ˈtripəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/triple_us_1.mp3"
+}

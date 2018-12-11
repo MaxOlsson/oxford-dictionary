@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Wet thoroughly; soak.",
+      "examples": [
+        "I fell in the stream and got drenched",
+        "a severe drenching would kill his uncle"
+      ],
+      "synonyms": [
+        "soak",
+        "saturate",
+        "wet through",
+        "wet thoroughly",
+        "permeate",
+        "drown",
+        "swamp",
+        "submerge",
+        "inundate",
+        "flood"
+      ]
+    },
+    {
+      "description": "Forcibly administer a drug in liquid form orally to (an animal).",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dose of medicine administered to an animal.",
+      "examples": [],
+      "synonyms": [
+        "amount",
+        "quantity",
+        "measure",
+        "portion",
+        "dosage",
+        "drench",
+        "draught"
+      ]
+    }
+  ],
+  "origin": "Old English drencan force to drink, drenc a drink or draft, of Germanic origin; related to German tränken (verb), Trank (noun), also to drink.",
+  "pronounciation": "/drɛn(t)ʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drench_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The area on the outer surface of a ship's hull where the bottom curves to meet the vertical sides.",
+      "examples": []
+    },
+    {
+      "description": "Nonsense; rubbish.",
+      "examples": [
+        "romantic bilge dreamed up by journalists"
+      ],
+      "synonyms": [
+        "rubbish",
+        "balderdash",
+        "gibberish",
+        "claptrap",
+        "blarney",
+        "guff",
+        "blather",
+        "blether"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Break a hole in the bilge of (a ship)",
+      "examples": [
+        "she was hopelessly bilged, her back broken"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: probably a variant of bulge.",
+  "pronounciation": "/bɪldʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bilge_us_1.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Not disputed or questioned.",
+      "examples": [
+        "the report's findings did not go unchallenged"
+      ],
+      "synonyms": [
+        "unquestionable",
+        "sure",
+        "definite",
+        "beyond question",
+        "not in question",
+        "not in doubt",
+        "beyond doubt",
+        "unequivocal",
+        "indubitable",
+        "undeniable",
+        "irrefutable",
+        "indisputable",
+        "incontrovertible",
+        "incontestable",
+        "obvious",
+        "patent",
+        "manifest",
+        "evident",
+        "plain",
+        "clear",
+        "transparent",
+        "palpable",
+        "unmistakable",
+        "conclusive",
+        "recognized",
+        "confirmed",
+        "accepted",
+        "acknowledged",
+        "undisputed",
+        "undoubted",
+        "unquestioned",
+        "uncontested"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtʃæləndʒd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unchallenged_us_1.mp3"
+}

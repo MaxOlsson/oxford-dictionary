@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Set to the value or put in the condition appropriate to the start of an operation.",
+      "examples": [
+        "the counter is initialized to one"
+      ],
+      "synonyms": [
+        "operate",
+        "switch on",
+        "turn on",
+        "start",
+        "start off",
+        "start up",
+        "set going",
+        "get going",
+        "trigger off",
+        "trigger",
+        "trip",
+        "set in motion",
+        "actuate",
+        "initiate",
+        "energize",
+        "animate"
+      ]
+    },
+    {
+      "description": "Format (a computer disk).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ɪˈnɪʃəˌlaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/initialize_us_1.mp3"
+}

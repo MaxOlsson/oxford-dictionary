@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be maintained at a certain rate or level.",
+      "examples": [
+        "sustainable fusion reactions"
+      ],
+      "synonyms": [
+        "acceptable",
+        "trustworthy",
+        "reliable",
+        "dependable",
+        "sure",
+        "good",
+        "valid"
+      ]
+    },
+    {
+      "description": "Able to be upheld or defended.",
+      "examples": [
+        "sustainable definitions of good educational practice"
+      ],
+      "synonyms": [
+        "valid",
+        "legitimate",
+        "warranted",
+        "well founded",
+        "justified",
+        "just",
+        "sound",
+        "reasonable",
+        "sensible"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈsteɪnəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sustainable_us_1.mp3"
+}

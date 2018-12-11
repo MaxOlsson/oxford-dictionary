@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A dish of sweetened and flavored curds of milk, often served with fruit.",
+      "examples": [
+        "junkets of apple-flavored cream",
+        "her plate of junket"
+      ]
+    },
+    {
+      "description": "An extravagant trip or celebration, in particular one enjoyed by a government official at public expense.",
+      "examples": [
+        "the latest row over city council junkets"
+      ],
+      "synonyms": [
+        "social gathering",
+        "gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée",
+        "social"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attend or go on a trip or celebration at public expense.",
+      "examples": [
+        "your MP's worldwide junketing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French jonquette rush basket, from jonc rush, from Latin juncus. Originally denoting a rush basket, especially one for fish (remaining in dialect use), the term also denoted a cream cheese, formerly made in a rush basket or served on a rush mat. A later extended sense, feast, merrymaking, gave rise to junket (sense 2 of the noun).",
+  "pronounciation": "/ˈjəNGkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/junket_us_1.mp3"
+}

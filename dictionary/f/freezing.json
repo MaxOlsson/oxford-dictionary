@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Below 32°F (0°C)",
+      "examples": [
+        "strong winds and freezing temperatures"
+      ],
+      "synonyms": [
+        "bitterly cold",
+        "cold",
+        "chill",
+        "chilling",
+        "frosty",
+        "frozen",
+        "glacial",
+        "wintry",
+        "sub-zero"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The freezing point of water.",
+      "examples": [
+        "the temperature was well above freezing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfrēziNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/freezing_us_1.mp3"
+}

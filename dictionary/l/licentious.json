@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Promiscuous and unprincipled in sexual matters.",
+      "examples": [
+        "the ruler's tyrannical and licentious behavior",
+        "unlike many of the artists who frequented the Soho scene of the 1960s, he did not lead a licentious life"
+      ],
+      "synonyms": [
+        "dissolute",
+        "dissipated",
+        "debauched",
+        "degenerate",
+        "salacious",
+        "immoral",
+        "wanton",
+        "decadent",
+        "depraved",
+        "profligate",
+        "impure",
+        "sinful",
+        "wicked",
+        "corrupt",
+        "indecent",
+        "libertine"
+      ]
+    },
+    {
+      "description": "Disregarding accepted rules or conventions, especially in grammar or literary style.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin licentiosus, from licentia freedom.",
+  "pronounciation": "/līˈsenSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/licentious_us_1.mp3"
+}

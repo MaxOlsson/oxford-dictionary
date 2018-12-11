@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Gush out in a sudden and forceful stream.",
+      "examples": [
+        "he cut his finger, and blood spurted over the sliced potatoes"
+      ],
+      "synonyms": [
+        "squirt",
+        "shoot",
+        "spray",
+        "fountain",
+        "jet",
+        "erupt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden gushing stream.",
+      "examples": [
+        "a sudden spurt of blood gushed into her eyes"
+      ],
+      "synonyms": [
+        "squirt",
+        "spray",
+        "fountain",
+        "jet",
+        "spout"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: of unknown origin.",
+  "pronounciation": "/spərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spurt_us_1.mp3"
+}

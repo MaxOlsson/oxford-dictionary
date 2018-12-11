@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the macula of the eye.",
+      "examples": [
+        "macular degeneration"
+      ]
+    },
+    {
+      "description": "Consisting of a distinct spot or spots.",
+      "examples": [
+        "a red macular rash"
+      ],
+      "synonyms": [
+        "spotty",
+        "spotted",
+        "blemished",
+        "blotched",
+        "patchy",
+        "uneven",
+        "smudged",
+        "freckled",
+        "marked",
+        "smeary",
+        "streaked",
+        "stippled",
+        "covered with blotches"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmækjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/macular_us_2.mp3"
+}

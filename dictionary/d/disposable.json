@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of an article) intended to be used once, or until no longer useful, and then thrown away.",
+      "examples": [
+        "disposable diapers",
+        "a disposable razor"
+      ],
+      "synonyms": [
+        "throwaway",
+        "expendable",
+        "one-use",
+        "non-returnable",
+        "replaceable"
+      ]
+    },
+    {
+      "description": "(chiefly of financial assets) readily available for the owner's use as required.",
+      "examples": [
+        "he made a mental inventory of his disposable assets"
+      ],
+      "synonyms": [
+        "available",
+        "usable",
+        "accessible",
+        "obtainable",
+        "spendable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An article designed to be thrown away after use.",
+      "examples": [
+        "don't buy disposables, such as razors, cups, and plates"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈspōzəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disposable_us_1.mp3"
+}

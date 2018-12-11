@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring in pairs or as a pair.",
+      "examples": [
+        "a characteristic arrangement of paired fins"
+      ],
+      "synonyms": [
+        "corresponding",
+        "equivalent",
+        "parallel",
+        "analogous",
+        "coordinating",
+        "complementing",
+        "complementary",
+        "harmonizing",
+        "blending",
+        "toning",
+        "harmonious",
+        "the same",
+        "twin",
+        "coupled",
+        "double",
+        "duplicate",
+        "identical",
+        "of a piece",
+        "all of a piece",
+        "like",
+        "like peas in a pod",
+        "like two peas in a pod",
+        "alike",
+        "comparable",
+        "similar",
+        "correlative",
+        "congruent",
+        "tallying",
+        "agreeing",
+        "concordant",
+        "consonant"
+      ]
+    }
+  ],
+  "pronounciation": "/perd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paired_us_1.mp3"
+}

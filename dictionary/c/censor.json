@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "An official who examines material that is about to be released, such as books, movies, news, and art, and suppresses any parts that are considered obscene, politically unacceptable, or a threat to security.",
+      "examples": [],
+      "synonyms": [
+        "expurgator"
+      ]
+    },
+    {
+      "description": "(in ancient Rome) either of two magistrates who held censuses and supervised public morals.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Examine (a book, movie, etc.) officially and suppress unacceptable parts of it.",
+      "examples": [
+        "my mail was being censored"
+      ],
+      "synonyms": [
+        "cut",
+        "delete",
+        "delete parts of",
+        "redact",
+        "make cuts in",
+        "blue-pencil",
+        "unpublish"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in censor (sense 2 of the noun)): from Latin, from censere assess.",
+  "pronounciation": "/ˈsensər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/censor_us_1.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "An amount to be paid for an insurance policy.",
+      "examples": [],
+      "synonyms": [
+        "insurance charge",
+        "insurance payment",
+        "regular payment",
+        "instalment"
+      ]
+    },
+    {
+      "description": "A sum added to an ordinary price or charge.",
+      "examples": [
+        "customers are reluctant to pay a premium for organic fruit"
+      ],
+      "synonyms": [
+        "surcharge",
+        "additional payment",
+        "extra amount",
+        "extra charge",
+        "additional fee"
+      ]
+    },
+    {
+      "description": "Something given as a reward, prize, or incentive.",
+      "examples": [
+        "the Society of Arts awarded him a premium"
+      ],
+      "synonyms": [
+        "bonus",
+        "extra",
+        "percentage",
+        "perk",
+        "recompense",
+        "remuneration",
+        "prize",
+        "reward"
+      ]
+    }
+  ],
+  "phrases": [
+    "space was at a premium",
+    "That half-foot makes a big difference when space is at a premium, he says.",
+    "Anyone unfamiliar with Hong Kong is probably at least aware of its reputation for being a city where space is at a premium.",
+    "Property is an excellent investment, particularly in Dublin, where space is at a premium but demand remains high.",
+    "Yes, in our increasingly crowded city, space is at a premium and self-storage like this is a good idea, but why on earth does it have to be built in a residential area?"
+  ],
+  "origin": "Early 17th century (in the sense reward, prize): from Latin praemium booty, reward, from prae before + emere buy, take.",
+  "pronounciation": "/ˈprimiəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/premium_us_1.mp3"
+}

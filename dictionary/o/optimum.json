@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Most conducive to a favorable outcome; best.",
+      "examples": [
+        "the optimum childbearing age"
+      ],
+      "synonyms": [
+        "best",
+        "most favourable",
+        "most advantageous",
+        "most appropriate",
+        "ideal",
+        "perfect",
+        "prime",
+        "optimal",
+        "model"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The most favorable conditions or level for growth, reproduction, or success.",
+      "examples": [],
+      "synonyms": [
+        "peak",
+        "pinnacle",
+        "zenith",
+        "highest point",
+        "high point",
+        "crown",
+        "crest",
+        "summit",
+        "top",
+        "tip",
+        "apex",
+        "apogee"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from Latin, neuter (used as a noun) of optimus best.",
+  "pronounciation": "/ˈäptəməm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/optimum_us_1.mp3"
+}

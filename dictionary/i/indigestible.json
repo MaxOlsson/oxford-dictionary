@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) difficult or impossible to digest.",
+      "examples": [],
+      "synonyms": [
+        "starchy",
+        "filling",
+        "heavy",
+        "solid",
+        "substantial",
+        "lumpy",
+        "leaden"
+      ]
+    },
+    {
+      "description": "Too complex or awkward to read or understand easily.",
+      "examples": [
+        "a turgid and indigestible book"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: via French from late Latin indigestibilis, from in- not + digestibilis (see digestible).",
+  "pronounciation": "/ˌɪndəˈdʒɛstəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indigestible_us_1.mp3"
+}

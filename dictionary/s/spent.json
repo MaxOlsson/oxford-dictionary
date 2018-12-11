@@ -1,0 +1,22 @@
+{
+  "verb": [],
+  "adjective": [
+    {
+      "description": "Having been used and unable to be used again.",
+      "examples": [
+        "a spent matchstick"
+      ],
+      "synonyms": [
+        "used up",
+        "consumed",
+        "exhausted",
+        "finished",
+        "depleted",
+        "drained",
+        "emptied"
+      ]
+    }
+  ],
+  "pronounciation": "/spent/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spent_us_1.mp3"
+}

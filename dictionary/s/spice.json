@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An aromatic or pungent vegetable substance used to flavor food, e.g., cloves, pepper, or mace.",
+      "examples": [
+        "enjoy the taste and aroma of freshly ground spices"
+      ],
+      "synonyms": [
+        "flavouring",
+        "seasoning",
+        "herb"
+      ]
+    },
+    {
+      "description": "A russet color.",
+      "examples": []
+    },
+    {
+      "description": "A type of synthetic marijuana.",
+      "examples": [
+        "he was smoking spice to cope with his anxiety"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Flavor with spice.",
+      "examples": [
+        "turbot with a spiced sauce"
+      ],
+      "synonyms": [
+        "spicy",
+        "tangy",
+        "spiced",
+        "peppery",
+        "hot"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old French espice, from Latin species sort, kind, in late Latin wares.",
+  "pronounciation": "/spīs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spice_us_1.mp3"
+}

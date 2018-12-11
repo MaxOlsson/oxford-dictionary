@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A drop of a thick liquid or viscous substance.",
+      "examples": [
+        "blobs of paint"
+      ],
+      "synonyms": [
+        "drop",
+        "droplet",
+        "globule",
+        "bead",
+        "ball",
+        "bubble",
+        "pellet",
+        "pill",
+        "pearl"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put small drops of thick liquid or spots of color on.",
+      "examples": [
+        "her nose was blobbed with paint"
+      ],
+      "synonyms": [
+        "daub",
+        "dab",
+        "spot",
+        "smear",
+        "bedaub",
+        "splash",
+        "slap",
+        "slop"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a bubble): perhaps symbolic of a drop of liquid; compare with blotch, blubber, and plop.",
+  "pronounciation": "/bläb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blob_1_us_1.mp3"
+}

@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Remove ice from.",
+      "examples": [
+        "airplanes are de-iced before takeoff"
+      ]
+    }
+  ],
+  "pronounciation": "/diˈaɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/de_ice_1_us_1.mp3"
+}

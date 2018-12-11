@@ -1,0 +1,54 @@
+{
+  "adverb": [
+    {
+      "description": "At that time; at the time in question.",
+      "examples": [
+        "I was living in Cairo then",
+        "Phoebe by then was exhausted",
+        "a hotel where the then prime minister, Margaret Thatcher, was staying"
+      ],
+      "synonyms": [
+        "at that time",
+        "at that point",
+        "in those days"
+      ]
+    },
+    {
+      "description": "After that; next; afterward.",
+      "examples": [
+        "she won the first and then the second game"
+      ],
+      "synonyms": [
+        "next",
+        "after that",
+        "afterwards",
+        "subsequently",
+        "later"
+      ]
+    },
+    {
+      "description": "In that case; therefore.",
+      "examples": [
+        "if you do what I tell you, then there's nothing to worry about",
+        "well, that's okay then"
+      ],
+      "synonyms": [
+        "in that case",
+        "that being the case",
+        "that being so",
+        "under those circumstances",
+        "it follows that"
+      ]
+    }
+  ],
+  "phrases": [
+    "she made up her mind then and there",
+    "Call me fussy and prudish, but I realised then and there that the relationship would not survive the evening.",
+    "I decided then and there that, as far as relationships went, e-mail was just great.",
+    "Will made up his mind then and there, that no matter what, he needed to keep himself alive.",
+    "It was emotional for both of us, and we decided then and there to do what we could to help find a cure."
+  ],
+  "origin": "Old English thænne, thanne, thonne, of Germanic origin; related to Dutch dan and German dann, also to that and the.",
+  "pronounciation": "/ðɛn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/then_us_1.mp3"
+}

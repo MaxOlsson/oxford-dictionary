@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Not subtle; obvious; clumsy.",
+      "examples": [
+        "a grindingly unsubtle joke"
+      ],
+      "synonyms": [
+        "insensitive",
+        "inconsiderate",
+        "thoughtless",
+        "unthinking",
+        "indelicate",
+        "undiplomatic",
+        "impolitic",
+        "indiscreet",
+        "clumsy",
+        "heavy-handed",
+        "graceless",
+        "awkward",
+        "unpolished",
+        "inept",
+        "bungling",
+        "maladroit",
+        "gauche",
+        "undiscerning",
+        "unsophisticated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsəd(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsubtle_us_1.mp3"
+}

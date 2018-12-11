@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Rummage; search.",
+      "examples": [
+        "he spent years fossicking through documents"
+      ],
+      "synonyms": [
+        "rummage",
+        "search about",
+        "scrabble around",
+        "feel around",
+        "grope around",
+        "forage around",
+        "fish about",
+        "fish around",
+        "poke about",
+        "poke around",
+        "scratch about",
+        "scratch around",
+        "delve",
+        "dig",
+        "hunt"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century (referring to mining): probably from the English dialect sense obtain by asking (i.e. ferret out).",
+  "pronounciation": "/ˈfɑsɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fossick_us_1.mp3"
+}

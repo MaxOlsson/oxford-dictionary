@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Voluntary self-punishment inflicted as an outward expression of repentance for having done wrong.",
+      "examples": [
+        "he had done public penance for those hasty words"
+      ],
+      "synonyms": [
+        "atonement",
+        "expiation",
+        "self-punishment",
+        "self-mortification",
+        "self-abasement",
+        "reparation",
+        "amends",
+        "penalty",
+        "punishment"
+      ]
+    },
+    {
+      "description": "A Christian sacrament in which a member of the Church confesses sins to a priest and is given absolution.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Impose a penance on.",
+      "examples": [
+        "a hair shirt to penance him for his folly in offending"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin paenitentia repentance, from the verb paenitere be sorry.",
+  "pronounciation": "/ˈpenəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/penance_us_1.mp3"
+}

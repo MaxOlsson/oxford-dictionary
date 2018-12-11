@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Having no basis or justification; unfounded.",
+      "examples": [
+        "ungrounded fears"
+      ],
+      "synonyms": [
+        "untenable",
+        "flawed",
+        "defective",
+        "faulty",
+        "ill-founded",
+        "flimsy",
+        "weak",
+        "shaky",
+        "unreliable",
+        "questionable",
+        "dubious",
+        "tenuous",
+        "suspect",
+        "illogical",
+        "irrational",
+        "unfounded",
+        "unsubstantiated",
+        "unsupported",
+        "specious",
+        "hollow",
+        "spurious",
+        "false",
+        "fallacious",
+        "fallible",
+        "erroneous",
+        "wrong",
+        "sophistic",
+        "casuistic"
+      ]
+    },
+    {
+      "description": "Not electrically grounded.",
+      "examples": []
+    },
+    {
+      "description": "Not properly instructed or proficient in (a subject or activity).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˌənˈɡroundəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ungrounded_us_1.mp3"
+}

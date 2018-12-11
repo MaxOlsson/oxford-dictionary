@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Come before (something) in time.",
+      "examples": [
+        "a gun battle had preceded the explosions"
+      ],
+      "synonyms": [
+        "come before",
+        "go before",
+        "go in advance of",
+        "lead up to",
+        "lead to",
+        "pave the way for",
+        "prepare the way for",
+        "set the scene for",
+        "herald",
+        "introduce",
+        "usher in",
+        "antecede",
+        "predate",
+        "antedate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French preceder, from Latin praecedere, from prae before + cedere go.",
+  "pronounciation": "/prəˈsēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precede_us_1.mp3"
+}

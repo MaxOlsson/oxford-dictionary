@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Not arousing curiosity or interest.",
+      "examples": [
+        "the scenery is dull and uninteresting"
+      ],
+      "synonyms": [
+        "unexciting",
+        "boring",
+        "dull",
+        "tiresome",
+        "wearisome",
+        "tedious",
+        "dreary",
+        "tiring",
+        "flat",
+        "lifeless",
+        "monotonous",
+        "humdrum",
+        "uneventful",
+        "slow",
+        "unvaried",
+        "repetitious",
+        "commonplace",
+        "colourless",
+        "bland",
+        "insipid",
+        "banal",
+        "dry",
+        "pedestrian",
+        "prosaic",
+        "hackneyed",
+        "trite",
+        "clichéd",
+        "stale"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈɪnt(ə)rəstɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uninteresting_us_2.mp3"
+}

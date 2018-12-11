@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A person who gives financial or other support to a person, organization, cause, or activity.",
+      "examples": [
+        "a celebrated patron of the arts",
+        "Charles became a patron of Rubens and van Dyck"
+      ],
+      "synonyms": [
+        "sponsor",
+        "backer",
+        "financier",
+        "subsidizer",
+        "underwriter",
+        "guarantor",
+        "benefactor",
+        "benefactress",
+        "contributor",
+        "subscriber",
+        "donor"
+      ]
+    },
+    {
+      "description": "A customer, especially a regular one, of a store, restaurant, or theater.",
+      "examples": [
+        "we surveyed the plushness of the hotel and its sleek, well-dressed patrons"
+      ],
+      "synonyms": [
+        "customer",
+        "client",
+        "frequenter"
+      ]
+    },
+    {
+      "description": "(in ancient Rome) a patrician in relation to a client.",
+      "examples": []
+    },
+    {
+      "description": "A person or institution with the right to grant a benefice to a member of the clergy.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin patronus protector of clients, defender, from pater, patr- father.",
+  "pronounciation": "/ˈpeɪtrən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/patron_us_1.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A natural or synthetic substance used to add a color to or change the color of something.",
+      "examples": [],
+      "synonyms": [
+        "colourant",
+        "colouring agent",
+        "colouring",
+        "colour",
+        "dyestuff",
+        "pigment",
+        "tint",
+        "stain",
+        "wash"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Add a color to or change the color of (something) by soaking it in a solution impregnated with a dye.",
+      "examples": [
+        "I dyed my hair blond"
+      ],
+      "synonyms": [
+        "colour",
+        "tint",
+        "pigment",
+        "stain",
+        "wash",
+        "colour-wash",
+        "tinge",
+        "shade"
+      ]
+    }
+  ],
+  "phrases": [
+    "she's a dyed-in-the-wool conservative",
+    "Now I am a dyed in the wool Alabama fan, but I must admit I had a great time at the game.",
+    "Well, I suppose if you were a Dodger fan you might have a different view of things, but, as I am a dyed in the wool Angel fan, I was ecstatic with our 9-shelling of the Dodger bullpen.",
+    "Being a dyed in the wool researcher, he uncovers many facts not generally known, in his quest for the real origins of present day English.",
+    "Being a dyed in the wool racer, I admit I will watch anything going round and round, even if it has a lawn mower engine."
+  ],
+  "origin": "Old English dēag (noun), dēagian (verb). The noun is not recorded from Old English to the late 16th century, when it was re-formed from the verb.",
+  "pronounciation": "/daɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dye_us_1.mp3"
+}

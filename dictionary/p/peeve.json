@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Annoy; irritate.",
+      "examples": [
+        "he was peeved at being left out of the cabinet",
+        "a somewhat peeved tone"
+      ],
+      "synonyms": [
+        "irritate",
+        "annoy",
+        "anger",
+        "vex",
+        "bother",
+        "provoke",
+        "displease",
+        "upset",
+        "exasperate",
+        "agitate",
+        "gall",
+        "irk",
+        "get someone's back up",
+        "put someone's back up",
+        "disgruntle",
+        "put out",
+        "pique",
+        "rankle with",
+        "nettle",
+        "bait",
+        "goad",
+        "needle",
+        "get on someone's nerves",
+        "ruffle",
+        "ruffle someone's feathers",
+        "make someone's hackles rise",
+        "raise someone's hackles"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cause of annoyance.",
+      "examples": [
+        "my peeve is people treating me like a moron"
+      ],
+      "synonyms": [
+        "irritant",
+        "source of irritation",
+        "source of vexation",
+        "annoyance",
+        "source of annoyance",
+        "thorn in someone's flesh",
+        "thorn in someone's side",
+        "pinprick",
+        "pest",
+        "bother",
+        "trial",
+        "torment",
+        "plague",
+        "inconvenience",
+        "nuisance",
+        "bugbear",
+        "menace"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: back-formation from peevish.",
+  "pronounciation": "/piv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peeve_us_1.mp3"
+}

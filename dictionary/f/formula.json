@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A mathematical relationship or rule expressed in symbols.",
+      "examples": []
+    },
+    {
+      "description": "A list of ingredients for or constituents of something.",
+      "examples": [
+        "the soft drink company closely guards its secret formula"
+      ],
+      "synonyms": [
+        "recipe",
+        "blueprint",
+        "magic formula",
+        "key",
+        "answer",
+        "solution"
+      ]
+    },
+    {
+      "description": "A method, statement, or procedure for achieving something, especially reconciling different aims or positions.",
+      "examples": [
+        "the forlorn hope of finding a peace formula"
+      ],
+      "synonyms": [
+        "recipe",
+        "prescription",
+        "blueprint",
+        "plan",
+        "method",
+        "procedure",
+        "technique",
+        "system"
+      ]
+    },
+    {
+      "description": "A fixed form of words, especially one used in particular contexts or as a conventional usage.",
+      "examples": [
+        "a legal formula"
+      ],
+      "synonyms": [
+        "form of words",
+        "set expression",
+        "phrase",
+        "saying",
+        "aphorism"
+      ]
+    },
+    {
+      "description": "(usually followed by a number) a classification of race car, especially by engine capacity.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 17th century (in the sense fixed form of words): from Latin, diminutive of forma shape, mold.",
+  "pronounciation": "/ˈfɔrmjələ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/formula_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Working badly or unreliably because of imperfections.",
+      "examples": [
+        "a car with faulty brakes"
+      ],
+      "synonyms": [
+        "malfunctioning",
+        "broken",
+        "damaged",
+        "defective",
+        "not working",
+        "not functioning",
+        "in disrepair",
+        "out of order",
+        "out of commission",
+        "inoperative",
+        "unsound",
+        "unusable",
+        "useless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôltē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faulty_us_1.mp3"
+}

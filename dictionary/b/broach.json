@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Raise (a sensitive or difficult subject) for discussion.",
+      "examples": [
+        "he broached the subject he had been avoiding all evening"
+      ],
+      "synonyms": [
+        "bring up",
+        "raise",
+        "introduce",
+        "talk about",
+        "mention",
+        "touch on",
+        "open",
+        "embark on",
+        "enter on",
+        "air",
+        "ventilate"
+      ]
+    },
+    {
+      "description": "Pierce (a cask) to draw liquor.",
+      "examples": [],
+      "synonyms": [
+        "pierce",
+        "puncture",
+        "tap"
+      ]
+    },
+    {
+      "description": "(of a fish or sea mammal) rise through the water and break the surface.",
+      "examples": [
+        "the salmon broach, then fall to slap the water"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sudden and hazardous veering or pitching of a ship.",
+      "examples": []
+    }
+  ],
+  "origin": "Early 18th century: of unknown origin.",
+  "pronounciation": "/broʊtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broach_us_1.mp3"
+}

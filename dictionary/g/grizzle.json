@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "(of hair or fur) having dark and white hairs mixed.",
+      "examples": [
+        "grizzle-haired"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mixture of dark and white hairs.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a child) cry fretfully.",
+      "examples": [
+        "a grizzling baby"
+      ],
+      "synonyms": [
+        "cry",
+        "cry fretfully",
+        "weep",
+        "whimper",
+        "whine",
+        "whinge",
+        "mewl",
+        "moan",
+        "bleat",
+        "snivel",
+        "sob",
+        "wail",
+        "howl",
+        "bawl"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (in the sense show the teeth, grin): of unknown origin.",
+  "pronounciation": "/ˈɡrizəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grizzle_us_1.mp3"
+}

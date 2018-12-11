@@ -1,0 +1,186 @@
+{
+  "verb": [
+    {
+      "description": "Move forward in a purposeful way.",
+      "examples": [
+        "the troops advanced on the capital",
+        "she stood up and advanced toward him"
+      ],
+      "synonyms": [
+        "move forward",
+        "proceed",
+        "move along",
+        "press on",
+        "push on",
+        "push forward",
+        "make progress",
+        "make headway",
+        "forge on",
+        "forge ahead",
+        "gain ground",
+        "approach",
+        "come closer",
+        "move closer",
+        "move nearer",
+        "draw nearer",
+        "near"
+      ]
+    },
+    {
+      "description": "Make or cause to make progress.",
+      "examples": [
+        "our knowledge is advancing all the time",
+        "it was a chance to advance his own interests"
+      ],
+      "synonyms": [
+        "promote",
+        "further",
+        "forward",
+        "help",
+        "aid",
+        "assist",
+        "facilitate",
+        "boost",
+        "strengthen",
+        "improve",
+        "make better",
+        "benefit",
+        "foster",
+        "cultivate",
+        "encourage",
+        "support",
+        "back"
+      ]
+    },
+    {
+      "description": "Put forward (a theory or suggestion)",
+      "examples": [
+        "the hypothesis I wish to advance in this article"
+      ],
+      "synonyms": [
+        "put forward",
+        "present",
+        "come up with",
+        "submit",
+        "suggest",
+        "propose",
+        "introduce",
+        "put up",
+        "offer",
+        "proffer",
+        "adduce",
+        "moot"
+      ]
+    },
+    {
+      "description": "Lend (money) to (someone)",
+      "examples": [
+        "the bank advanced them a loan"
+      ],
+      "synonyms": [
+        "lend",
+        "loan",
+        "credit",
+        "pay in advance",
+        "supply on credit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A forward movement.",
+      "examples": [
+        "the rebels' advance on Madrid was well under way",
+        "the advance of civilization"
+      ],
+      "synonyms": [
+        "progress",
+        "headway",
+        "moving forward",
+        "forward movement"
+      ]
+    },
+    {
+      "description": "A development or improvement.",
+      "examples": [
+        "genuine advances in engineering techniques",
+        "decades of great scientific advance"
+      ],
+      "synonyms": [
+        "breakthrough",
+        "development",
+        "step forward",
+        "step in the right direction",
+        "leap",
+        "quantum leap",
+        "find",
+        "finding",
+        "discovery",
+        "invention",
+        "success"
+      ]
+    },
+    {
+      "description": "An amount of money paid before it is due or for work only partly completed.",
+      "examples": [
+        "the author was paid a $250,000 advance",
+        "I asked for an advance on next month's salary"
+      ],
+      "synonyms": [
+        "down payment",
+        "advance against royalty",
+        "deposit",
+        "retainer",
+        "prepayment",
+        "front money",
+        "money up front"
+      ]
+    },
+    {
+      "description": "An approach made to someone, typically with the aim of initiating a sexual encounter.",
+      "examples": [
+        "women accused him of making improper advances"
+      ],
+      "synonyms": [
+        "sexual approaches",
+        "overtures",
+        "moves"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done, sent, or supplied beforehand.",
+      "examples": [
+        "advance notice",
+        "advance payment"
+      ],
+      "synonyms": [
+        "preliminary",
+        "leading",
+        "forward",
+        "foremost",
+        "at the fore",
+        "sent ahead",
+        "sent on ahead",
+        "first",
+        "exploratory",
+        "explorative",
+        "pilot",
+        "vanguard",
+        "test",
+        "trial"
+      ]
+    }
+  ],
+  "phrases": [
+    "you need to book weeks in advance",
+    "If you know what you are going to buy in advance, ring ahead to check availability.",
+    "I had the impression that guest speaking gigs at Harvard were booked well in advance.",
+    "If booking things weeks in advance is the only way to get in, that's what we do.",
+    "The travel agent told me that there are only so many cheap seats, and you have to book well in advance to get one."
+  ],
+  "origin": "Middle English: from Old French avance (noun), avancer (verb), from late Latin abante in front, from ab from + ante before. The initial a- was erroneously assimilated to ad- in the 16th century.",
+  "pronounciation": "/ədˈvans/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/advance_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Look at someone or something with one or both eyes partly closed in an attempt to see more clearly or as a reaction to strong light.",
+      "examples": [
+        "the bright sun made them squint"
+      ],
+      "synonyms": [
+        "screw up one's eyes",
+        "narrow one's eyes",
+        "look through narrowed eyes",
+        "look with narrowed eyes",
+        "peer",
+        "blink"
+      ]
+    },
+    {
+      "description": "Have eyes that look in different directions.",
+      "examples": [
+        "Melanie did not squint"
+      ],
+      "synonyms": [
+        "be cross-eyed",
+        "have a squint"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A permanent deviation in the direction of the gaze of one eye.",
+      "examples": [
+        "I had a bad squint"
+      ],
+      "synonyms": [
+        "cross-eyes"
+      ]
+    },
+    {
+      "description": "A quick or casual look.",
+      "examples": [
+        "let me have a squint"
+      ],
+      "synonyms": [
+        "look",
+        "glance",
+        "peep",
+        "peek",
+        "glimpse"
+      ]
+    },
+    {
+      "description": "An oblique opening through a wall in a church permitting a view of the altar from an aisle or side chapel.",
+      "examples": []
+    }
+  ],
+  "origin": "Mid 16th century (in the sense squinting, as in squint-eyed): shortening of asquint.",
+  "pronounciation": "/skwɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squint_us_1.mp3"
+}

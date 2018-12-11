@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "(of a politician or political campaigner) take part actively and energetically in the activities of an election campaign.",
+      "examples": [
+        "the election will not be lost or won as the result of a few weeks of electioneering"
+      ],
+      "synonyms": [
+        "campaign",
+        "canvass",
+        "go on the hustings",
+        "doorstep"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A campaigning politician during an election.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/əˌlekSHəˈnir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/electioneer_us_1.mp3"
+}

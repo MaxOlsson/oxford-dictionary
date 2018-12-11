@@ -1,0 +1,85 @@
+{
+  "noun": [
+    {
+      "description": "The power of apparently influencing the course of events by using mysterious or supernatural forces.",
+      "examples": [
+        "suddenly, as if by magic, the doors start to open",
+        "do you believe in magic?"
+      ],
+      "synonyms": [
+        "sorcery",
+        "witchcraft",
+        "wizardry",
+        "necromancy",
+        "enchantment",
+        "spellworking",
+        "incantation",
+        "the supernatural",
+        "occultism",
+        "the occult",
+        "black magic",
+        "the black arts",
+        "devilry",
+        "divination",
+        "malediction",
+        "voodoo",
+        "hoodoo",
+        "sympathetic magic",
+        "white magic",
+        "witching",
+        "witchery"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Used in magic or working by magic; having or apparently having supernatural powers.",
+      "examples": [
+        "a magic wand"
+      ],
+      "synonyms": [
+        "supernatural",
+        "enchanted",
+        "occult",
+        "druidical"
+      ]
+    },
+    {
+      "description": "Wonderful; exciting.",
+      "examples": [
+        "what a magic moment"
+      ],
+      "synonyms": [
+        "fascinating",
+        "captivating",
+        "charming",
+        "glamorous",
+        "magical",
+        "enchanting",
+        "entrancing",
+        "spellbinding",
+        "magnetic",
+        "irresistible",
+        "hypnotic"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move, change, or create by or as if by magic.",
+      "examples": [
+        "he must have been magicked out of the car at the precise second it exploded"
+      ]
+    }
+  ],
+  "phrases": [
+    "it repels rain like magic",
+    "If you wanted the information in Chinese, all you had to do was reply with a C, and like magic you had what you needed.",
+    "The joints are staggered in a brick-like fashion and patted down firmly with the head of a metal rake; a new lawn appears like magic, before your very eyes!",
+    "After I finished reading the ad, I called the phone number posted in the ad and, like magic, a week later I was in Japan.",
+    "You can drink a cup of strong coffee at the first sign of a migraine, lie down in a dark room, and it'll work like magic."
+  ],
+  "origin": "Late Middle English: from Old French magique, from Latin magicus (adjective), late Latin magica (noun), from Greek magikē (tekhnē) (art of) a magus: magi were regarded as magicians.",
+  "pronounciation": "/ˈmædʒɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/magic_us_1.mp3"
+}

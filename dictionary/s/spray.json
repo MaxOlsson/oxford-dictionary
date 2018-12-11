@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "Liquid that is blown or driven through the air in the form of tiny drops.",
+      "examples": [
+        "a torrent of white foam and spray",
+        "a fine spray of mud"
+      ],
+      "synonyms": [
+        "shower",
+        "sprinkling",
+        "sprinkle",
+        "spritz",
+        "jet",
+        "mist",
+        "drizzle",
+        "droplets"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply (liquid) to someone or something in the form of a shower of tiny drops.",
+      "examples": [
+        "the product can be sprayed onto wet or dry hair"
+      ],
+      "synonyms": [
+        "sprinkle",
+        "shower",
+        "spritz",
+        "spread in droplets",
+        "spatter"
+      ]
+    }
+  ],
+  "origin": "Middle English: representing late Old English (e)sprei, recorded in personal and place names, of unknown origin.",
+  "pronounciation": "/spreɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spray_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A strange or eccentric person.",
+      "examples": [],
+      "synonyms": [
+        "eccentric",
+        "oddity",
+        "odd fellow",
+        "unorthodox person",
+        "individualist",
+        "nonconformist",
+        "free spirit",
+        "bohemian",
+        "maverick",
+        "deviant",
+        "pervert",
+        "misfit",
+        "hippy",
+        "dropout"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Strange; bizarre.",
+      "examples": [
+        "oddball training methods"
+      ],
+      "synonyms": [
+        "strange",
+        "peculiar",
+        "weird",
+        "queer",
+        "funny",
+        "bizarre",
+        "eccentric",
+        "unusual",
+        "abnormal",
+        "idiosyncratic",
+        "unconventional",
+        "outlandish",
+        "offbeat",
+        "freakish",
+        "quirky",
+        "quaint",
+        "zany",
+        "off-centre"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɑdˌbɔl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oddball_us_1.mp3"
+}

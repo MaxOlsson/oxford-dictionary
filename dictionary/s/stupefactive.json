@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of a drug) inducing unconsciousness or insensibility.",
+      "examples": [],
+      "synonyms": [
+        "soporific",
+        "sleep-inducing",
+        "opiate",
+        "hypnotic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A drug which induces unconsciousness or insensibility.",
+      "examples": [],
+      "synonyms": [
+        "soporific drug",
+        "opiate",
+        "sleeping pill",
+        "soporific"
+      ]
+    }
+  ],
+  "pronounciation": "/stjuːpɪˈfaktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stupefactive_gb_1.mp3"
+}

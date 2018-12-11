@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of adhering to a surface or object.",
+      "examples": [
+        "the adhesion of the Scotch tape to the paper"
+      ],
+      "synonyms": [
+        "sticking",
+        "adherence",
+        "gluing",
+        "fixing",
+        "fastening",
+        "union"
+      ]
+    },
+    {
+      "description": "An abnormal union of membranous surfaces due to inflammation or injury.",
+      "examples": [
+        "endoscopic surgery for pelvic adhesions"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from French adhésion, from Latin adhaesio(n-), from the verb adhaerere (see adhere).",
+  "pronounciation": "/ədˈhiʒ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/adhesion_us_1.mp3"
+}

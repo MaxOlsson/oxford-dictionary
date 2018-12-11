@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Marked with spots.",
+      "examples": [
+        "a spotty purple flower"
+      ],
+      "synonyms": [
+        "spotted",
+        "mottled",
+        "speckled",
+        "speckly",
+        "flecked",
+        "specked",
+        "stippled"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspädē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spotty_us_1.mp3"
+}

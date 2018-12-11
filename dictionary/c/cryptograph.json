@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A coded message.",
+      "examples": [
+        "you must solve the cryptograph to find the correct coordinates"
+      ],
+      "synonyms": [
+        "cipher",
+        "secret language",
+        "secret writing",
+        "set of symbols",
+        "key",
+        "hieroglyphics"
+      ]
+    },
+    {
+      "description": "A device for encoding or decoding messages.",
+      "examples": [
+        "in 1867 he unveiled his cryptograph, which used two clock-like hands, connected by gears"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkriptəˌɡraf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cryptograph_us_1.mp3"
+}

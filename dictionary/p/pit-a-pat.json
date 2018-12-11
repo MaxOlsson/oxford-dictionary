@@ -1,0 +1,59 @@
+{
+  "adverb": [
+    {
+      "description": "With a sound like quick light steps or taps.",
+      "examples": [
+        "my heart goes pit-a-pat"
+      ],
+      "synonyms": [
+        "beat rapidly",
+        "palpitate",
+        "pound",
+        "throb",
+        "pulsate",
+        "pulse",
+        "thud",
+        "thump",
+        "hammer",
+        "flutter",
+        "pitter-patter",
+        "quiver",
+        "pump",
+        "race",
+        "pant",
+        "thrill"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sound like quick light taps.",
+      "examples": [],
+      "synonyms": [
+        "beat",
+        "rhythm",
+        "patter",
+        "tap",
+        "chatter",
+        "pounding",
+        "thump",
+        "thumping",
+        "thud",
+        "thudding",
+        "rattle",
+        "rattling",
+        "pitter-patter",
+        "rat-a-tat",
+        "thrum",
+        "tattoo",
+        "vibration",
+        "throb",
+        "throbbing",
+        "pulsation"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: imitative of alternating sounds.",
+  "pronounciation": "/ˈpidəˌpat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pit_a_pat_1_us_1.mp3"
+}

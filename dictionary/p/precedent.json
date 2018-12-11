@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.",
+      "examples": [
+        "there are substantial precedents for using interactive media in training",
+        "breaking with all precedent"
+      ],
+      "synonyms": [
+        "model",
+        "exemplar",
+        "example",
+        "pattern",
+        "previous case",
+        "prior case",
+        "previous example",
+        "previous instance",
+        "prior example",
+        "prior instance"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Preceding in time, order, or importance.",
+      "examples": [
+        "a precedent case"
+      ],
+      "synonyms": [
+        "one-time",
+        "erstwhile",
+        "sometime",
+        "late",
+        "as was"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, literally preceding.",
+  "pronounciation": "/ˈpresəd(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precedent_us_1.mp3"
+}

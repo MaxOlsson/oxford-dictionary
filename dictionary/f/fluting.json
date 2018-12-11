@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "Sound reminiscent of that of a flute.",
+      "examples": [
+        "the silvery fluting of a blackbird"
+      ]
+    },
+    {
+      "description": "A groove or set of grooves forming a surface decoration.",
+      "examples": [
+        "a hollow stem with vertical flutings",
+        "pieces decorated with fluting"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Reminiscent of the sound of a flute.",
+      "examples": [
+        "the golden, fluting voice filled the room"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfludɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fluting_us_2.mp3"
+}

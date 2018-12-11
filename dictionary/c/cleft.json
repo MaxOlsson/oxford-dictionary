@@ -1,0 +1,44 @@
+{
+  "": [],
+  "adjective": [
+    {
+      "description": "Split, divided, or partially divided into two.",
+      "examples": [
+        "a cleft chin"
+      ],
+      "synonyms": [
+        "split",
+        "divided",
+        "cloven",
+        "parted",
+        "separated"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fissure or split, especially one in rock or the ground.",
+      "examples": [
+        "the third peak is divided from the eastern one by a deep cleft"
+      ],
+      "synonyms": [
+        "split",
+        "slit",
+        "crack",
+        "fissure",
+        "crevice",
+        "chasm",
+        "opening",
+        "rift",
+        "break",
+        "fracture",
+        "rent",
+        "breach",
+        "gash"
+      ]
+    }
+  ],
+  "origin": "Middle English clift: of Germanic origin; related to Dutch kluft and German Kluft, also to cleave. The form of the word was altered in the 16th century by association with cleft.",
+  "pronounciation": "/kleft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cleft_us_1.mp3"
+}

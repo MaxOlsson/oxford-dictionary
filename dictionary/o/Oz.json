@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Australian.",
+      "examples": [
+        "Oz hospitality"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Australia.",
+      "examples": [
+        "he spent the last few years in Oz"
+      ]
+    }
+  ],
+  "origin": "1940s: representing a pronunciation of an abbreviation of Australia.",
+  "pronounciation": "/ɑz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oz_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Unpleasant or repulsive, especially in appearance.",
+      "examples": [
+        "people in school always told me I was ugly",
+        "the ugly sound of a fire alarm"
+      ],
+      "synonyms": [
+        "unattractive",
+        "ill-favoured",
+        "hideous",
+        "plain",
+        "plain-featured",
+        "plain-looking",
+        "unlovely",
+        "unprepossessing",
+        "unsightly",
+        "displeasing",
+        "disagreeable"
+      ]
+    },
+    {
+      "description": "Involving or likely to involve violence or other unpleasantness.",
+      "examples": [
+        "the mood in the room turned ugly"
+      ],
+      "synonyms": [
+        "unpleasant",
+        "nasty",
+        "alarming",
+        "disagreeable",
+        "tense",
+        "charged",
+        "serious",
+        "grave",
+        "dangerous",
+        "perilous",
+        "threatening",
+        "menacing",
+        "hostile",
+        "ominous",
+        "sinister"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse uggligr to be dreaded, from ugga to dread.",
+  "pronounciation": "/ˈəɡli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ugly_us_1.mp3"
+}

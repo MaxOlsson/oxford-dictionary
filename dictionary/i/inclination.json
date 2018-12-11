@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.",
+      "examples": [
+        "John was a scientist by training and inclination",
+        "he was free to follow his inclinations"
+      ],
+      "synonyms": [
+        "tendency",
+        "propensity",
+        "proclivity",
+        "leaning"
+      ]
+    },
+    {
+      "description": "A slope or slant.",
+      "examples": [
+        "changes in inclination of the line on the graph"
+      ]
+    },
+    {
+      "description": "The angle at which a straight line or plane is inclined to another.",
+      "examples": [],
+      "synonyms": [
+        "gradient",
+        "incline",
+        "slope",
+        "pitch",
+        "ramp",
+        "bank",
+        "ascent",
+        "rise",
+        "acclivity",
+        "descent",
+        "declivity"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin inclinatio(n-), from inclinare bend towards (see incline).",
+  "pronounciation": "/ˌinkləˈnāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inclination_us_1.mp3"
+}

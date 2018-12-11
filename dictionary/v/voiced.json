@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Speaking or singing with a voice of a specified kind.",
+      "examples": [
+        "a squeaky-voiced comedian",
+        "a passionate deep-voiced singer"
+      ]
+    },
+    {
+      "description": "(of an opinion or attitude) expressed in a particular way.",
+      "examples": [
+        "a commonly voiced concern among doctors",
+        "strongly voiced sentiments"
+      ]
+    },
+    {
+      "description": "(of a speech sound) uttered with resonance of the vocal cords (e.g. b, d, g)",
+      "examples": [
+        "a voiced velar fricative"
+      ]
+    }
+  ],
+  "pronounciation": "/vɔɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/voiced_us_1.mp3"
+}

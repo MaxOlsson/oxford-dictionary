@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Inexpensive; reasonably priced.",
+      "examples": [
+        "affordable housing"
+      ],
+      "synonyms": [
+        "cheap",
+        "low-priced",
+        "low-price",
+        "low-cost",
+        "economical",
+        "economic",
+        "competitive",
+        "reasonable",
+        "reasonably priced",
+        "moderately priced",
+        "keenly priced",
+        "budget",
+        "economy",
+        "cheap and cheerful",
+        "bargain",
+        "cut-rate",
+        "cut-price",
+        "half-price",
+        "sale-price",
+        "sale",
+        "reduced",
+        "on special offer",
+        "marked down",
+        "discounted",
+        "discount",
+        "rock-bottom",
+        "giveaway"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈfôrdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/affordable_us_1.mp3"
+}

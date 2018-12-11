@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "(of a monarch) renounce one's throne.",
+      "examples": [
+        "in 1918 Kaiser Wilhelm abdicated as German emperor",
+        "Ferdinand abdicated the throne in favor of the emperor's brother"
+      ],
+      "synonyms": [
+        "resign",
+        "retire",
+        "quit",
+        "stand down",
+        "step down",
+        "bow out",
+        "renounce the throne"
+      ]
+    },
+    {
+      "description": "Fail to fulfill or undertake (a responsibility or duty)",
+      "examples": [
+        "the government was accused of abdicating its responsibility",
+        "the secretary of state should not abdicate from leadership on educational issues"
+      ],
+      "synonyms": [
+        "disown",
+        "turn down",
+        "spurn",
+        "reject",
+        "renounce",
+        "give up",
+        "avoid",
+        "refuse",
+        "abnegate",
+        "relinquish",
+        "abjure",
+        "repudiate",
+        "waive",
+        "yield",
+        "forgo",
+        "abandon",
+        "surrender",
+        "deliver up",
+        "disgorge",
+        "cast aside",
+        "drop",
+        "turn one's back on",
+        "wash one's hands of"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin abdicat- renounced, from the verb abdicare, from ab- away, from + dicare declare.",
+  "pronounciation": "/ˈæbdəˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abdicate_us_1.mp3"
+}

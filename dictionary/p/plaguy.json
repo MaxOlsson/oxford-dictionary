@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Troublesome or annoying.",
+      "examples": [
+        "it was crazy to hope that good might come out of this plaguy mess"
+      ],
+      "synonyms": [
+        "annoying",
+        "irritating",
+        "exasperating",
+        "maddening",
+        "infuriating",
+        "irksome",
+        "vexatious",
+        "vexing",
+        "inconvenient",
+        "bothersome",
+        "tiresome",
+        "worrying",
+        "worrisome",
+        "disturbing",
+        "upsetting",
+        "distressing",
+        "perturbing",
+        "concerning",
+        "niggling",
+        "nagging"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpleɪɡi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plaguy_us_1.mp3"
+}

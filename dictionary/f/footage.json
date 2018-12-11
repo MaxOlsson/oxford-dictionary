@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A length of film made for movies or television.",
+      "examples": [
+        "film footage of the riot"
+      ]
+    },
+    {
+      "description": "Size or length measured in feet.",
+      "examples": [
+        "the square footage of the room"
+      ],
+      "synonyms": [
+        "value",
+        "amount",
+        "quantity",
+        "area",
+        "length",
+        "height",
+        "depth",
+        "weight",
+        "width",
+        "range",
+        "acreage",
+        "mileage",
+        "tonnage"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfo͝odij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/footage_us_1.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "Used or expended carelessly, extravagantly, or to no purpose.",
+      "examples": [
+        "wasted fuel",
+        "a wasted opportunity"
+      ],
+      "synonyms": [
+        "squandered",
+        "misspent",
+        "misdirected",
+        "misused",
+        "dissipated",
+        "frittered away"
+      ]
+    },
+    {
+      "description": "(of a person or a part of the body) weak or emaciated.",
+      "examples": [
+        "her wasted arm"
+      ],
+      "synonyms": [
+        "emaciated",
+        "atrophied",
+        "withered",
+        "shrivelled",
+        "weak",
+        "weakened",
+        "frail",
+        "shrunken",
+        "skeletal",
+        "rickety",
+        "scrawny",
+        "cadaverous",
+        "wilted",
+        "faded",
+        "flagging",
+        "deteriorating",
+        "degenerative"
+      ]
+    },
+    {
+      "description": "Under the influence of alcohol or illegal drugs.",
+      "examples": [
+        "he looked kind of wasted"
+      ],
+      "synonyms": [
+        "drunk",
+        "drunken",
+        "inebriated",
+        "intoxicated",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwāstəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wasted_us_1.mp3"
+}

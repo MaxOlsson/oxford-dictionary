@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A game in which players in turn vault with parted legs over the backs of others who are bending down.",
+      "examples": [],
+      "synonyms": [
+        "jump",
+        "leap",
+        "spring",
+        "bound",
+        "skip",
+        "hurdle",
+        "clearance",
+        "leapfrog",
+        "pole vault"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "With legs parted, vault oneself over the backs of others who are bending down.",
+      "examples": [
+        "they leapfrogged around the courtyard"
+      ],
+      "synonyms": [
+        "jump over",
+        "jump",
+        "vault over",
+        "vault",
+        "spring over",
+        "bound over",
+        "hurdle",
+        "skip",
+        "skip over",
+        "cross over",
+        "sail over",
+        "hop",
+        "hop over",
+        "high jump",
+        "clear",
+        "negotiate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlipˌfrɔɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leapfrog_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not consenting.",
+      "examples": [
+        "it is too heavy a burden to be borne unconsenting"
+      ],
+      "synonyms": [
+        "compulsory",
+        "obligatory",
+        "mandatory",
+        "forced",
+        "coerced",
+        "coercive",
+        "compelled",
+        "exacted",
+        "imposed",
+        "demanded",
+        "required",
+        "constrained",
+        "ordained",
+        "prescribed"
+      ]
+    }
+  ],
+  "pronounciation": "/ʌnkənˈsɛntɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconsenting_gb_1_8.mp3"
+}

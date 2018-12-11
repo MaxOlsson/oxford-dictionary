@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The twenty-fourth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a letter X.",
+      "examples": [
+        "two wires in the form of an X",
+        "an X-shaped cross"
+      ]
+    },
+    {
+      "description": "A cross-shaped written symbol.",
+      "examples": []
+    },
+    {
+      "description": "The Roman numeral for ten.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark or make a sign with an X.",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "A rating assigned to movies classified as suitable for adults only (replaced in 1990 by NC-17).",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "The drug ecstasy.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/eks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/x_us_1.mp3"
+}

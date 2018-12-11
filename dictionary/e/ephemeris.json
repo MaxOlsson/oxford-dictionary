@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "A table or data file giving the calculated positions of a celestial object at regular intervals throughout a period.",
+      "examples": [
+        "you can compute an ephemeris for any comet that is discovered and plot an accurate finder chart"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin, from Greek ephēmeros lasting only a day.",
+  "pronounciation": "/əˈfem(ə)rəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ephemeris_us_1.mp3"
+}

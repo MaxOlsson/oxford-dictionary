@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Covering or affecting a large area.",
+      "examples": [
+        "an extensive garden"
+      ],
+      "synonyms": [
+        "large",
+        "large-scale",
+        "sizeable",
+        "substantial",
+        "considerable",
+        "ample",
+        "great",
+        "huge",
+        "vast",
+        "immense",
+        "boundless",
+        "immeasurable"
+      ]
+    },
+    {
+      "description": "(of agriculture) obtaining a relatively small crop from a large area with a minimum of attention and expense.",
+      "examples": [
+        "extensive farming techniques"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French extensif, -ive or late Latin extensivus, from extens- stretched out, from the verb extendere (see extend).",
+  "pronounciation": "/ɪkˈstɛnsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/extensive_us_1.mp3"
+}

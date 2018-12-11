@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "At all times; on all occasions.",
+      "examples": [
+        "the sun always rises in the east"
+      ],
+      "synonyms": [
+        "every time",
+        "each time",
+        "at all times",
+        "all the time",
+        "on every occasion",
+        "on all occasions",
+        "consistently",
+        "invariably",
+        "without fail",
+        "without exception",
+        "regularly",
+        "repeatedly",
+        "habitually",
+        "unfailingly",
+        "infallibly",
+        "inevitably"
+      ]
+    },
+    {
+      "description": "As a last resort; failing all else.",
+      "examples": [
+        "if the marriage doesn't work out, we can always get divorced"
+      ],
+      "synonyms": [
+        "as a last resort",
+        "whatever the circumstances",
+        "no matter what",
+        "in any event",
+        "in any case",
+        "come what may"
+      ]
+    }
+  ],
+  "origin": "Middle English: genitive case of all way, the inflection probably giving the sense at every time as opposed to at one uninterrupted time: the difference between the two is no longer distinct.",
+  "pronounciation": "/ˈɔlˌweɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/always_us_1_rr.mp3"
+}

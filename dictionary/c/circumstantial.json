@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Pointing indirectly toward someone's guilt but not conclusively proving it.",
+      "examples": [],
+      "synonyms": [
+        "indirect",
+        "inferred",
+        "inferential",
+        "deduced",
+        "presumed",
+        "conjectural"
+      ]
+    },
+    {
+      "description": "(of a description) containing full details.",
+      "examples": [
+        "the picture was circumstantial and therefore convincing"
+      ],
+      "synonyms": [
+        "detailed",
+        "particularized",
+        "particular",
+        "precise",
+        "minute",
+        "blow-by-blow"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin circumstantia (see circumstance) + -al.",
+  "pronounciation": "/ˌsərkəmˈstæn(t)ʃ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/circumstantial_us_1.mp3"
+}

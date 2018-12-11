@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "Almost.",
+      "examples": [
+        "a task that is well-nigh impossible"
+      ],
+      "synonyms": [
+        "almost",
+        "nearly",
+        "just about",
+        "about",
+        "more or less",
+        "practically",
+        "virtually",
+        "all but",
+        "as good as",
+        "next to",
+        "close to",
+        "near",
+        "nigh on",
+        "to all intents and purposes",
+        "approaching",
+        "bordering on",
+        "verging on",
+        "nearing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwel ˈˌnī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/well_nigh_1_us_1.mp3"
+}

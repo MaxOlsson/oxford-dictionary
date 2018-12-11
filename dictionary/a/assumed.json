@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "(of a manner or identity) taken on or adopted, sometimes falsely.",
+      "examples": [
+        "a man living under an assumed name"
+      ],
+      "synonyms": [
+        "false",
+        "fictitious",
+        "invented",
+        "made-up",
+        "concocted",
+        "feigned",
+        "pretended",
+        "faked",
+        "fake",
+        "bogus",
+        "sham",
+        "spurious",
+        "counterfeit",
+        "pseudo",
+        "make-believe",
+        "improvised",
+        "affected",
+        "adopted"
+      ]
+    },
+    {
+      "description": "Adopted as a basis of reasoning; expected.",
+      "examples": [
+        "the assumed result of the election",
+        "the assumed rate of return"
+      ]
+    }
+  ],
+  "pronounciation": "/əˈso͞oːmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/assumed_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Designed to correct or counteract something harmful or undesirable.",
+      "examples": [
+        "management was informed so that corrective action could be taken"
+      ],
+      "synonyms": [
+        "remedial",
+        "therapeutic",
+        "restorative",
+        "curative",
+        "reparatory",
+        "reparative",
+        "rehabilitative",
+        "ameliorative"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing intended to correct or counteract something else.",
+      "examples": [
+        "the move might be a corrective to some inefficient practices within hospitals"
+      ],
+      "synonyms": [
+        "remedy",
+        "curative",
+        "medicine",
+        "medication",
+        "medicament",
+        "restorative",
+        "corrective",
+        "antidote",
+        "antiserum"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French correctif, -ive or late Latin correctivus, from Latin correct- brought into order from the verb corrigere (see correct).",
+  "pronounciation": "/kəˈrektiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/corrective_us_1.mp3"
+}

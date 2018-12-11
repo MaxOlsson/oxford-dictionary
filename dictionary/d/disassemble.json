@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Take (something) apart.",
+      "examples": [
+        "the piston can be disassembled for transport"
+      ],
+      "synonyms": [
+        "dismantle",
+        "take apart",
+        "take to pieces",
+        "pull apart",
+        "pull to pieces",
+        "pull to bits",
+        "take to bits",
+        "deconstruct",
+        "break up",
+        "strip down"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌdisəˈsembəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/disassemble_us_1.mp3"
+}

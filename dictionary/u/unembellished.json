@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not embellished or decorated.",
+      "examples": [
+        "the unembellished truth"
+      ],
+      "synonyms": [
+        "straightforward",
+        "frank",
+        "plain-spoken",
+        "candid",
+        "direct",
+        "bluff",
+        "to the point",
+        "forthright",
+        "unequivocal",
+        "point-blank",
+        "unceremonious",
+        "undiplomatic",
+        "indelicate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənemˈbeliSHt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unembellished_us_1.mp3"
+}

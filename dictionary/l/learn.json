@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+      "examples": [
+        "they'd started learning French",
+        "she is learning to play the piano",
+        "we learn from experience"
+      ],
+      "synonyms": [
+        "acquire a knowledge of",
+        "gain an understanding of",
+        "acquire skill in",
+        "become competent in",
+        "become proficient in",
+        "grasp",
+        "master",
+        "take in",
+        "absorb",
+        "assimilate",
+        "pick up",
+        "digest",
+        "familiarize oneself with"
+      ]
+    },
+    {
+      "description": "Teach (someone)",
+      "examples": [
+        "“That'll learn you,” he chuckled",
+        "we'll have to learn you to milk cows"
+      ]
+    }
+  ],
+  "origin": "Old English leornian learn (in Middle English also teach), of West Germanic origin; related to German lernen, also to lore.",
+  "pronounciation": "/lərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/learn_us_1.mp3"
+}

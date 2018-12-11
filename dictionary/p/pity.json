@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "The feeling of sorrow and compassion caused by the suffering and misfortunes of others.",
+      "examples": [
+        "her voice was full of pity"
+      ],
+      "synonyms": [
+        "compassion",
+        "commiseration",
+        "condolence",
+        "sorrow",
+        "regret",
+        "sadness",
+        "distress",
+        "sympathy",
+        "fellow feeling",
+        "understanding",
+        "feeling",
+        "emotion"
+      ]
+    },
+    {
+      "description": "A cause for regret or disappointment.",
+      "examples": [
+        "what a pity we can't be friends"
+      ],
+      "synonyms": [
+        "shame",
+        "crying shame",
+        "cause for disappointment",
+        "cause for regret",
+        "source of regret",
+        "sad thing",
+        "unfortunate thing",
+        "bad luck",
+        "misfortune"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Feel sorrow for the misfortunes of.",
+      "examples": [
+        "Clare didn't know whether to envy or pity them"
+      ],
+      "synonyms": [
+        "feel sorry for",
+        "feel pity for",
+        "feel for",
+        "feel sympathy for",
+        "sympathize with",
+        "be sympathetic towards",
+        "empathize with",
+        "commiserate with",
+        "have compassion for",
+        "be compassionate towards",
+        "take pity on",
+        "be moved by",
+        "bleed for",
+        "have one's heart go out to",
+        "condole with",
+        "weep for",
+        "grieve for"
+      ]
+    }
+  ],
+  "phrases": [
+    "Make a battery out of them and harness electricity for pity's sake!",
+    "I had to sit through an hour of it, for pity's sake.",
+    "It's slightly sad - this is a World Heritage Site, for pity's sake.",
+    "No, he seemed exasperated, just let me in for pity's sake.",
+    "I'm 36, for pity's sake, and I'm not a defenseless kid now."
+  ],
+  "origin": "Middle English (also in the sense clemency, mildness): from Old French pite compassion, from Latin pietas piety; compare with piety.",
+  "pronounciation": "/ˈpɪdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pity_us_1.mp3"
+}

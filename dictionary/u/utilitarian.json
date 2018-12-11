@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Designed to be useful or practical rather than attractive.",
+      "examples": [],
+      "synonyms": [
+        "practical",
+        "functional",
+        "serviceable",
+        "useful",
+        "sensible",
+        "effective",
+        "efficient",
+        "to the purpose",
+        "suited to the purpose",
+        "pragmatic",
+        "realistic",
+        "utility",
+        "working",
+        "workaday",
+        "handy",
+        "neat",
+        "ordinary",
+        "down-to-earth"
+      ]
+    },
+    {
+      "description": "Relating to or adhering to the doctrine of utilitarianism.",
+      "examples": [
+        "a utilitarian theorist"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An adherent of utilitarianism.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/juˌtɪləˈtɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/utilitarian_us_1.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A portion of an object or of material, produced by cutting, tearing, or breaking the whole.",
+      "examples": [
+        "a piece of cheese",
+        "the dish lay in pieces upon the floor",
+        "she tore his letters to pieces"
+      ],
+      "synonyms": [
+        "bit",
+        "section",
+        "slice",
+        "chunk",
+        "segment",
+        "lump",
+        "hunk"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Assemble something from individual parts.",
+      "examples": [
+        "the children took turns piecing together each other's jigsaw puzzle"
+      ],
+      "synonyms": [
+        "put together",
+        "assemble",
+        "compose",
+        "construct",
+        "join up",
+        "fit together",
+        "join",
+        "unite",
+        "reassemble",
+        "reconstruct",
+        "put back together",
+        "mend",
+        "repair",
+        "patch up",
+        "sew",
+        "sew up"
+      ]
+    },
+    {
+      "description": "Extend something.",
+      "examples": []
+    },
+    {
+      "description": "Patch (something)",
+      "examples": [
+        "if it be broken it must be pieced"
+      ]
+    }
+  ],
+  "phrases": [
+    "I never said that training him would be a piece of cake",
+    "When Beryl was diagnosed I just went to pieces, he said.",
+    "We were not complacent and we started off well but they had a lucky break and we went to pieces.",
+    "Some of them go to pieces, some disintegrate, but others rebel.",
+    "But it all went to pieces when all the computers turned out to have viruses and support services didn't show up until 10 minutes before the class ended."
+  ],
+  "origin": "Middle English: from Old French piece (compare with medieval Latin pecia, petium), of obscure ultimate origin.",
+  "pronounciation": "/pēs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/piece_us_1.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "noun": [
+    {
+      "description": "A regular short, sharp sound, especially that made by a clock or watch.",
+      "examples": [],
+      "synonyms": [
+        "clicking",
+        "click",
+        "clack",
+        "clacking",
+        "click-clack",
+        "ticking",
+        "tick-tock",
+        "snick",
+        "snicking",
+        "plock",
+        "plocking",
+        "beat",
+        "tap",
+        "tapping"
+      ]
+    },
+    {
+      "description": "A mark (✓) used to indicate that an item in a list or text is correct or has been chosen, checked, or dealt with; a check mark.",
+      "examples": [],
+      "synonyms": [
+        "mark",
+        "stroke",
+        "dash",
+        "line"
+      ]
+    },
+    {
+      "description": "The smallest recognized amount by which a price of a security or future may fluctuate.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a clock or other mechanical device) make regular short sharp sounds, typically one for every second of time that passes.",
+      "examples": [
+        "I could hear the clock ticking"
+      ],
+      "synonyms": [
+        "click",
+        "clack",
+        "tick-tock",
+        "snick",
+        "plock",
+        "beat",
+        "tap"
+      ]
+    },
+    {
+      "description": "Mark (an item) with a tick or select (a box) on a form, questionnaire, etc., to indicate that something has been chosen, checked, approved, or dealt with.",
+      "examples": [
+        "just tick the appropriate box below"
+      ],
+      "synonyms": [
+        "mark",
+        "mark off",
+        "check off",
+        "indicate"
+      ]
+    }
+  ],
+  "phrases": [
+    "people are curious to know what makes these men tick",
+    "I'd like the opportunity to find out a bit what they were like as people, what makes them tick, and, you know, enjoy their company.",
+    "You come to a place in your life, though, where you really learn what makes you tick as an actress.",
+    "In evaluating anyone's ability, I look at what kind of person they are first, try to find out what makes them tick, their ambitions, what switches them on.",
+    "We're good at finding out about people, what makes them tick, what they are interested in, what they have bees in their bonnets about - a key networking skill.",
+    "I'll make some people mad for saying this, but I'll tell you what really ticks me off.",
+    "So at this point, was I worried about ticking them off?",
+    "Let what is deep within you come out whenever I write something that ticks you off!",
+    "Those girls were always doing something to tick him off, angering him more than humanly possible.",
+    "So, if any of you are ticked off by the thing, my apologies."
+  ],
+  "origin": "Mid 17th century: apparently short for ticket in the phrase on the ticket, referring to an IOU or promise to pay.",
+  "pronounciation": "/tɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tick_us_1.mp3"
+}

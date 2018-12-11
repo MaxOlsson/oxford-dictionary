@@ -1,0 +1,43 @@
+{
+  "adverb": [
+    {
+      "description": "Nearly; almost.",
+      "examples": [
+        "the college became virtually bankrupt",
+        "virtually all those arrested were accused"
+      ],
+      "synonyms": [
+        "in effect",
+        "effectively",
+        "all but",
+        "more or less",
+        "practically",
+        "almost",
+        "nearly",
+        "close to",
+        "approaching",
+        "not far from",
+        "nearing",
+        "verging on",
+        "bordering on",
+        "well nigh",
+        "nigh on",
+        "just about",
+        "as good as",
+        "essentially",
+        "in essence",
+        "in practical terms",
+        "for all practical purposes",
+        "to all intents and purposes",
+        "in all but name",
+        "as near as dammit"
+      ]
+    },
+    {
+      "description": "By means of virtual reality techniques.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈvərCH(o͞o)əlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/virtually_us_1.mp3"
+}

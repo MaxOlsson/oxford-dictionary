@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of several terms.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An expression of more than two algebraic terms, especially the sum of several terms that contain different powers of the same variable(s).",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from poly- many, on the pattern of multinomial.",
+  "pronounciation": "/ˌpɑləˈnoʊmiəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/polynomial_us_2.mp3"
+}

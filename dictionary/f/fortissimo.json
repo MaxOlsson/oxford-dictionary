@@ -1,0 +1,37 @@
+{
+  "adjective &amp; adverb": [
+    {
+      "description": "(especially as a direction) very loud or loudly.",
+      "examples": [
+        "the movement ends with a fortissimo coda"
+      ],
+      "synonyms": [
+        "noisy",
+        "blaring",
+        "booming",
+        "deafening",
+        "roaring",
+        "thunderous",
+        "thundering",
+        "tumultuous",
+        "clamorous",
+        "blasting",
+        "head-splitting",
+        "ear-splitting",
+        "ear-piercing",
+        "piercing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A passage marked to be performed very loudly.",
+      "examples": [
+        "Tchaikovsky's fortissimos are given plenty of weight in the bass"
+      ]
+    }
+  ],
+  "origin": "Italian, from Latin fortissimus very strong.",
+  "pronounciation": "/fɔrˈtɪsəˌmoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fortissimo_us_1.mp3"
+}

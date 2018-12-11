@@ -1,0 +1,11 @@
+{
+  "noun": [
+    {
+      "description": "A unit of transmission speed equal to the number of times a signal changes state per second. For one baud is equivalent to one bit per second.",
+      "examples": []
+    }
+  ],
+  "origin": "1930s: coined in French from the name of Jean M. E. Baudot (1845–1903), French engineer who invented a telegraph printing system.",
+  "pronounciation": "/bɔd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/baud_us_1.mp3"
+}

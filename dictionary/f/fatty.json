@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Containing a large amount of fat.",
+      "examples": [
+        "go easy on fatty foods",
+        "fatty tissue"
+      ],
+      "synonyms": [
+        "greasy",
+        "oily",
+        "fat",
+        "oleaginous",
+        "unctuous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fat person (often as a nickname).",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈfædi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fatty_us_2.mp3"
+}

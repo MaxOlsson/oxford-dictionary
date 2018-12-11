@@ -1,0 +1,67 @@
+{
+  "verb": [
+    {
+      "description": "Hit (someone or something) heavily, especially with the fist or a blunt implement.",
+      "examples": [
+        "Holman thumped the desk with his hand",
+        "she thumped on the door"
+      ],
+      "synonyms": [
+        "hit",
+        "strike",
+        "beat",
+        "batter",
+        "pound",
+        "attack",
+        "assault",
+        "knock",
+        "rap",
+        "smack",
+        "thwack",
+        "slap",
+        "pummel",
+        "punch",
+        "rain blows on",
+        "belabour",
+        "hammer",
+        "cudgel",
+        "thrash",
+        "bang",
+        "drub",
+        "welt",
+        "cuff",
+        "crack",
+        "buffet",
+        "box someone's ears"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heavy dull blow with a person's fist or a blunt implement.",
+      "examples": [
+        "I felt a thump on my back"
+      ],
+      "synonyms": [
+        "blow",
+        "hit",
+        "punch",
+        "smack",
+        "thwack",
+        "slap",
+        "thrashing",
+        "bang",
+        "hiding",
+        "drubbing",
+        "lambasting",
+        "welt",
+        "cuff",
+        "box",
+        "crack"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: imitative.",
+  "pronounciation": "/THəmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/thump_us_1.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Made or produced by human beings rather than occurring naturally, especially as a copy of something natural.",
+      "examples": [
+        "her skin glowed in the artificial light",
+        "an artificial limb",
+        "artificial flowers"
+      ],
+      "synonyms": [
+        "synthetic",
+        "manufactured",
+        "machine-made",
+        "fabricated"
+      ]
+    },
+    {
+      "description": "(of a person or their behavior) insincere or affected.",
+      "examples": [
+        "an artificial smile"
+      ],
+      "synonyms": [
+        "feigned",
+        "insincere",
+        "false",
+        "affected",
+        "mannered",
+        "unnatural",
+        "stilted",
+        "contrived",
+        "pretended",
+        "put-on",
+        "exaggerated",
+        "actorly",
+        "overdone",
+        "overripe",
+        "forced",
+        "laboured",
+        "strained",
+        "hollow",
+        "spurious"
+      ]
+    },
+    {
+      "description": "(of a bid) conventional as opposed to natural.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Old French artificiel or Latin artificialis, from artificium handicraft (see artifice).",
+  "pronounciation": "/ˌärdəˈfiSHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/artificial_us_1.mp3"
+}

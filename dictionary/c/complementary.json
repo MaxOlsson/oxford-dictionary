@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Combining in such a way as to enhance or emphasize the qualities of each other or another.",
+      "examples": [
+        "three guitarists playing interlocking, complementary parts",
+        "Internet technology is actually complementary to traditional technologies"
+      ],
+      "synonyms": [
+        "harmonizing",
+        "harmonious",
+        "complementing",
+        "supportive",
+        "supporting",
+        "reciprocal",
+        "interdependent",
+        "interrelated",
+        "compatible",
+        "corresponding",
+        "matching",
+        "twin"
+      ]
+    },
+    {
+      "description": "Relating to complementary medicine.",
+      "examples": [
+        "complementary therapies such as aromatherapy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkämpləˈment(ə)rē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/complementary_us_1.mp3"
+}

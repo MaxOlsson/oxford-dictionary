@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A strip of material used to bind a wound or to protect an injured part of the body.",
+      "examples": [
+        "her leg was swathed in bandages",
+        "a sterile adhesive bandage with nonstick pad"
+      ],
+      "synonyms": [
+        "dressing",
+        "covering",
+        "gauze",
+        "lint",
+        "compress",
+        "plaster",
+        "ligature",
+        "tourniquet",
+        "swathe",
+        "strap",
+        "sling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bind (a wound or a part of the body) with a protective strip of material.",
+      "examples": [
+        "bandage the foot so that the ankle is supported",
+        "the doctors bandaged up his wounds"
+      ],
+      "synonyms": [
+        "bind",
+        "bind up",
+        "dress",
+        "cover",
+        "wrap",
+        "swaddle",
+        "swathe",
+        "strap",
+        "strap up",
+        "plaster",
+        "put a plaster on"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French, from bande (see band).",
+  "pronounciation": "/ˈbandij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bandage_us_1.mp3"
+}

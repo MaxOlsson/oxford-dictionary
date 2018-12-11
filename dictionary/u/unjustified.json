@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Not shown to be right or reasonable.",
+      "examples": [
+        "unjustified price increases"
+      ],
+      "synonyms": [
+        "irrational",
+        "unreasonable",
+        "unsound",
+        "unreasoned",
+        "unfounded",
+        "groundless",
+        "unjustifiable"
+      ]
+    },
+    {
+      "description": "(of printed text) not justified.",
+      "examples": [],
+      "synonyms": [
+        "unacceptable",
+        "unfair",
+        "unjust",
+        "unjustified",
+        "uncalled for",
+        "below the belt",
+        "out of turn",
+        "not done",
+        "unreasonable",
+        "unwarranted",
+        "unnecessary",
+        "wrong",
+        "beyond the pale",
+        "improper",
+        "irregular"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈjəstəˌfīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unjustified_us_2.mp3"
+}

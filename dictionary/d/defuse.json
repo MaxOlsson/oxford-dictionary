@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Remove the fuse from (an explosive device) in order to prevent it from exploding.",
+      "examples": [
+        "explosives specialists tried to defuse the grenade"
+      ],
+      "synonyms": [
+        "deactivate",
+        "disarm",
+        "disable",
+        "make safe"
+      ]
+    }
+  ],
+  "pronounciation": "/dēˈfyo͞oz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defuse_us_1.mp3"
+}

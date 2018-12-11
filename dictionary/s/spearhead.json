@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "The point of a spear.",
+      "examples": [],
+      "synonyms": [
+        "spear tip",
+        "spear point"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Lead (an attack or movement)",
+      "examples": [
+        "he's spearheading a campaign to reduce the number of accidents at work"
+      ],
+      "synonyms": [
+        "lead",
+        "head",
+        "front",
+        "be the driving force behind"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspirˌhed/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spearhead_us_1.mp3"
+}

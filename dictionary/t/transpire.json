@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Occur; happen.",
+      "examples": [
+        "I'm going to find out exactly what transpired"
+      ],
+      "synonyms": [
+        "happen",
+        "occur",
+        "take place",
+        "come about",
+        "come to pass",
+        "crop up",
+        "turn up",
+        "arise",
+        "chance",
+        "ensue",
+        "befall",
+        "be realized",
+        "take shape"
+      ]
+    },
+    {
+      "description": "(of a plant or leaf) give off water vapor through the stomata.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense emit as vapor through the surface): from French transpirer or medieval Latin transpirare, from Latin trans- through + spirare breathe. Sense 1 (mid 18th century) is a figurative use comparable with leak out.",
+  "pronounciation": "/tran(t)ˈspī(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/transpire_us_1.mp3"
+}

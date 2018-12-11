@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely poor; poverty-stricken.",
+      "examples": [
+        "a penurious old tramp"
+      ],
+      "synonyms": [
+        "poor",
+        "as poor as a church mouse",
+        "poverty-stricken",
+        "destitute",
+        "necessitous",
+        "in penury",
+        "impecunious",
+        "impoverished",
+        "indigent",
+        "needy",
+        "in need",
+        "in want",
+        "badly off",
+        "in reduced circumstances",
+        "in straitened circumstances",
+        "hard up",
+        "on one's beam-ends",
+        "unable to make ends meet",
+        "underprivileged",
+        "penniless",
+        "without a sou",
+        "moneyless",
+        "bankrupt",
+        "bust",
+        "insolvent"
+      ]
+    },
+    {
+      "description": "Parsimonious; mean.",
+      "examples": [
+        "a tight-fisted, penurious boss whose wage scale is well below other bandleaders"
+      ],
+      "synonyms": [
+        "mean",
+        "miserly",
+        "niggardly",
+        "parsimonious",
+        "penny-pinching",
+        "close-fisted",
+        "cheese-paring",
+        "scrimping",
+        "grasping",
+        "greedy",
+        "avaricious",
+        "scrooge-like",
+        "ungenerous",
+        "illiberal",
+        "close"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from medieval Latin penuriosus, from Latin penuria need, scarcity (see penury).",
+  "pronounciation": "/pəˈn(j)ʊriəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/penurious_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A unit of weight equal to 2,000 pounds avoirdupois (907.19 kg).",
+      "examples": []
+    },
+    {
+      "description": "A unit of gross internal capacity, equal to 100 cubic feet (2.83 cu. m).",
+      "examples": []
+    },
+    {
+      "description": "A large number or amount.",
+      "examples": [
+        "all of a sudden I had tons of friends",
+        "that bag of yours weighs a ton"
+      ],
+      "synonyms": [
+        "abundance",
+        "profusion",
+        "plethora",
+        "mine",
+        "store",
+        "treasury",
+        "copiousness",
+        "plenitude",
+        "amplitude",
+        "bounty",
+        "cornucopia"
+      ]
+    }
+  ],
+  "phrases": [
+    "his boots were completely waterlogged and weighed a ton",
+    "These deluxe mattresses weigh a ton, and you can't get the fitted sheets on without hauling them on to one side.",
+    "To start with, the bag weighs a ton.",
+    "The book, titled To Be or Not to Be, weighs a ton!",
+    "He's had to cross the Alps with a backpack strapped to him that weighs a ton."
+  ],
+  "origin": "French, from Latin tonus (see tone).",
+  "pronounciation": "/tɔn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ton_us_2.mp3"
+}

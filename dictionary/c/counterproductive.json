@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Having the opposite of the desired effect.",
+      "examples": [
+        "the response to the disaster was unsuccessful and perhaps even counterproductive"
+      ],
+      "synonyms": [
+        "harmful",
+        "damaging",
+        "injurious",
+        "hurtful",
+        "inimical",
+        "deleterious",
+        "dangerous",
+        "destructive",
+        "ruinous",
+        "calamitous",
+        "disastrous",
+        "pernicious",
+        "environmentally unfriendly",
+        "ill",
+        "bad",
+        "evil",
+        "baleful",
+        "malign",
+        "corrupting",
+        "malignant",
+        "adverse",
+        "undesirable",
+        "prejudicial",
+        "unfavourable",
+        "unfortunate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkaʊn(t)ərprəˈdəktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterproductive_us_1.mp3"
+}

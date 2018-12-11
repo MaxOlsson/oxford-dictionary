@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Having no particular interest or sympathy; unconcerned.",
+      "examples": [
+        "most workers were indifferent to foreign affairs",
+        "they all seemed indifferent rather than angry"
+      ],
+      "synonyms": [
+        "unconcerned about",
+        "apathetic about",
+        "apathetic towards",
+        "uncaring about",
+        "casual about",
+        "nonchalant about",
+        "offhand about",
+        "uninterested in",
+        "uninvolved in",
+        "uninvolved with"
+      ]
+    },
+    {
+      "description": "Neither good nor bad; mediocre.",
+      "examples": [
+        "attempts to distinguish between good, bad, and indifferent work"
+      ],
+      "synonyms": [
+        "mediocre",
+        "ordinary",
+        "commonplace",
+        "average",
+        "middle-of-the-road",
+        "middling",
+        "medium",
+        "moderate",
+        "everyday",
+        "workaday",
+        "tolerable",
+        "passable",
+        "adequate",
+        "fair"
+      ]
+    },
+    {
+      "description": "Neutral in respect of some specified physical property.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (in the sense having no partiality for or against): via Old French from Latin indifferent- not making any difference, from in- not + different- differing (see different).",
+  "pronounciation": "/ɪnˈdɪf(ə)rənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indifferent_us_1.mp3"
+}

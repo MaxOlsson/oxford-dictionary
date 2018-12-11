@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "The twenty-second letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a letter V.",
+      "examples": [
+        "deep, V-shaped valleys"
+      ]
+    },
+    {
+      "description": "The Roman numeral for five.",
+      "examples": []
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Volt(s).",
+      "examples": []
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element vanadium.",
+      "examples": []
+    },
+    {
+      "description": "Voltage or potential difference.",
+      "examples": [
+        "V = IR"
+      ]
+    },
+    {
+      "description": "(in mathematical formulae) volume.",
+      "examples": [
+        "pV = nRT"
+      ]
+    }
+  ],
+  "pronounciation": "/vē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/v_us_1.mp3"
+}

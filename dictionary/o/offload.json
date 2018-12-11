@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Unload (a cargo)",
+      "examples": [
+        "men were offloading bags of salt"
+      ],
+      "synonyms": [
+        "unload",
+        "dump",
+        "jettison",
+        "discharge",
+        "unship",
+        "deposit",
+        "empty",
+        "empty out",
+        "tip",
+        "tip out",
+        "drop",
+        "get rid of"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌôfˈlōd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/offload_us_3.mp3"
+}

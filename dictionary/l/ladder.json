@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing up or down something.",
+      "examples": []
+    },
+    {
+      "description": "A vertical strip of unraveled fabric in tights or stockings; a run.",
+      "examples": [],
+      "synonyms": [
+        "rip",
+        "hole",
+        "split",
+        "rent",
+        "cut",
+        "slash",
+        "slit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(with reference to tights or stockings) develop or cause to develop a run.",
+      "examples": [
+        "I laddered my tights as I arrived this morning",
+        "the first time I put them on, one of the stockings laddered"
+      ]
+    }
+  ],
+  "origin": "Old English hlǣd(d)er, of West Germanic origin; related to Dutch leer and German Leiter.",
+  "pronounciation": "/ˈladər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ladder_us_1.mp3"
+}

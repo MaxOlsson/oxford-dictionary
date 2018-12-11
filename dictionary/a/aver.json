@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "State or assert to be the case.",
+      "examples": [
+        "he averred that he was innocent of the allegations",
+        "I don't have to do anything—it's his problem, he averred"
+      ],
+      "synonyms": [
+        "proclaim",
+        "announce",
+        "make known",
+        "state",
+        "communicate",
+        "reveal",
+        "divulge",
+        "mention",
+        "talk about",
+        "raise",
+        "moot",
+        "air",
+        "bring into the open",
+        "voice",
+        "articulate",
+        "pronounce",
+        "express",
+        "vent",
+        "set forth",
+        "make public",
+        "publicize",
+        "disseminate",
+        "circulate",
+        "publish",
+        "broadcast",
+        "promulgate",
+        "trumpet",
+        "blazon"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense declare or confirm to be true): from Old French averer, based on Latin ad to (implying cause to be) + verus true.",
+  "pronounciation": "/əˈvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aver_us_1.mp3"
+}

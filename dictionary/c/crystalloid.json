@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling a crystal in shape or structure.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small crystal-like mass of protein in a plant cell.",
+      "examples": []
+    },
+    {
+      "description": "A substance that, when dissolved, forms a true solution rather than a colloid and is able to pass through a semipermeable membrane.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/ˈkristəˌloid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/crystalloid_us_1.mp3"
+}

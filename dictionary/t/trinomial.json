@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of an algebraic expression) consisting of three terms.",
+      "examples": []
+    },
+    {
+      "description": "(of a systematic name for a taxon) consisting of three terms of which the first is the name of the genus, the second that of the species, and the third that of the subspecies or variety.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "An algebraic expression of three terms.",
+      "examples": []
+    },
+    {
+      "description": "A trinomial taxonomic name.",
+      "examples": []
+    }
+  ],
+  "origin": "Late 17th century: from tri- three, on the pattern of binomial.",
+  "pronounciation": "/traɪˈnoʊmiəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trinomial_us_1.mp3"
+}

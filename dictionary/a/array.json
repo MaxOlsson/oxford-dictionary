@@ -1,0 +1,111 @@
+{
+  "noun": [
+    {
+      "description": "An impressive display or range of a particular type of thing.",
+      "examples": [
+        "there is a vast array of literature on the topic",
+        "a bewildering array of choices"
+      ],
+      "synonyms": [
+        "exhibition",
+        "exposition",
+        "exhibit",
+        "arrangement",
+        "presentation",
+        "demonstration"
+      ]
+    },
+    {
+      "description": "An ordered series or arrangement.",
+      "examples": [
+        "several arrays of solar panels will help provide power",
+        "the lens focuses light onto an array of pixels"
+      ],
+      "synonyms": [
+        "arrangement",
+        "assembling",
+        "assemblage",
+        "line-up",
+        "formation",
+        "ordering",
+        "disposition",
+        "marshalling",
+        "muster",
+        "amassing"
+      ]
+    },
+    {
+      "description": "Elaborate or beautiful clothing.",
+      "examples": [
+        "he was clothed in fine array"
+      ],
+      "synonyms": [
+        "dress",
+        "attire",
+        "apparel",
+        "clothing",
+        "garb",
+        "finery"
+      ]
+    },
+    {
+      "description": "A list of jurors empaneled.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Display or arrange (things) in a particular way.",
+      "examples": [
+        "the forces arrayed against him",
+        "arrayed across the table was a buffet"
+      ],
+      "synonyms": [
+        "arrange",
+        "assemble",
+        "draw up",
+        "group",
+        "order",
+        "range",
+        "place",
+        "position",
+        "set out",
+        "set forth",
+        "dispose",
+        "marshal",
+        "muster"
+      ]
+    },
+    {
+      "description": "Dress someone in (the clothes specified)",
+      "examples": [
+        "they were arrayed in Hungarian national dress"
+      ],
+      "synonyms": [
+        "dress",
+        "attire",
+        "clothe",
+        "robe",
+        "garb",
+        "deck",
+        "deck out",
+        "drape",
+        "accoutre",
+        "outfit",
+        "fit out",
+        "costume",
+        "get up",
+        "turn out",
+        "trick out",
+        "trick up"
+      ]
+    },
+    {
+      "description": "Empanel (a jury).",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (in the senses preparedness and place in readiness): from Old French arei (noun), areer (verb), based on Latin ad- towards + a Germanic base meaning prepare.",
+  "pronounciation": "/əˈreɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/array_us_1.mp3"
+}

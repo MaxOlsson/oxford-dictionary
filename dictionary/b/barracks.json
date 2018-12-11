@@ -1,0 +1,25 @@
+{
+  "plural noun": [
+    {
+      "description": "A building or group of buildings used to house soldiers.",
+      "examples": [
+        "the troops were ordered back to barracks",
+        "the main army barracks"
+      ],
+      "synonyms": [
+        "garrison",
+        "camp",
+        "encampment",
+        "depot",
+        "billet",
+        "quarters",
+        "fort",
+        "cantonment",
+        "guardhouse"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: barrack from French baraque, from Italian baracca or Spanish barraca soldier's tent, of unknown origin.",
+  "pronounciation": "/ˈberəks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/barracks_us_1.mp3"
+}

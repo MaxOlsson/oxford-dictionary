@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Cheerful and lively.",
+      "examples": [
+        "she certainly looked less than her usual perky self"
+      ],
+      "synonyms": [
+        "cheerful",
+        "lively",
+        "vivacious",
+        "animated",
+        "bubbly",
+        "effervescent",
+        "bouncy",
+        "bouncing",
+        "spirited",
+        "high-spirited",
+        "in high spirits",
+        "cheery",
+        "merry",
+        "buoyant",
+        "ebullient",
+        "exuberant",
+        "jaunty",
+        "frisky",
+        "sprightly",
+        "spry",
+        "bright",
+        "sunny",
+        "jolly",
+        "full of the joys of spring",
+        "sparkly",
+        "pert"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpərkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/perky_us_1.mp3"
+}

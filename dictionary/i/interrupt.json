@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Stop the continuous progress of (an activity or process)",
+      "examples": [
+        "the buzzer interrupted his thoughts"
+      ],
+      "synonyms": [
+        "cut in",
+        "cut in on",
+        "break in",
+        "break in on",
+        "barge in",
+        "barge in on",
+        "intrude",
+        "intrude on",
+        "interfere",
+        "interfere with",
+        "intervene",
+        "intervene in"
+      ]
+    },
+    {
+      "description": "Break the continuity of (a line or surface)",
+      "examples": [
+        "the coastal plain is interrupted by chains of large lagoons"
+      ],
+      "synonyms": [
+        "break up",
+        "break",
+        "punctuate",
+        "intersperse"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin interrupt- broken, interrupted, from the verb interrumpere, from inter- between + rumpere to break.",
+  "pronounciation": "/ˌin(t)əˈrəpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interrupt_us_1.mp3"
+}

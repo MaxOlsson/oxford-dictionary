@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A tournament.",
+      "examples": [],
+      "synonyms": [
+        "contest",
+        "competition",
+        "game",
+        "tournament",
+        "tie",
+        "cup tie",
+        "event",
+        "fixture",
+        "trial",
+        "test",
+        "test match",
+        "meet",
+        "bout",
+        "fight",
+        "duel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Take part in a tournament.",
+      "examples": [
+        "French knights also tourneyed in England"
+      ],
+      "synonyms": [
+        "joust",
+        "tourney",
+        "enter the lists"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French tornei (noun), torneier (verb), based on Latin tornus a turn.",
+  "pronounciation": "/ˈtərnē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tourney_us_2_rr.mp3"
+}

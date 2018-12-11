@@ -1,0 +1,91 @@
+{
+  "noun": [
+    {
+      "description": "The larva of an insect, especially a beetle.",
+      "examples": [],
+      "synonyms": [
+        "larva",
+        "maggot"
+      ]
+    },
+    {
+      "description": "Food.",
+      "examples": [
+        "a popular bar serving excellent grub"
+      ],
+      "synonyms": [
+        "food",
+        "nourishment",
+        "sustenance",
+        "nutriment",
+        "subsistence",
+        "fare",
+        "bread",
+        "daily bread"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Dig or poke superficially at the earth; dig shallowly in soil.",
+      "examples": [
+        "the damage done to pastures by badgers grubbing for worms"
+      ],
+      "synonyms": [
+        "dig",
+        "excavate",
+        "burrow",
+        "tunnel"
+      ]
+    },
+    {
+      "description": "Search for something in a clumsy and unmethodical manner; rummage.",
+      "examples": [
+        "I began grubbing about in the wastepaper basket to find the envelope"
+      ],
+      "synonyms": [
+        "search",
+        "hunt",
+        "delve",
+        "dig",
+        "rummage",
+        "scrabble",
+        "scour",
+        "probe",
+        "ferret",
+        "ferret about",
+        "ferret around",
+        "root",
+        "rifle",
+        "fish",
+        "poke"
+      ]
+    },
+    {
+      "description": "Do demeaning or humiliating work in order to achieve something.",
+      "examples": [
+        "she has achieved material independence without having to grub for it"
+      ],
+      "synonyms": [
+        "work hard",
+        "toil",
+        "labour",
+        "work one's fingers to the bone",
+        "work like a dog",
+        "work like a trojan",
+        "work day and night",
+        "exert oneself",
+        "keep at it",
+        "keep one's nose to the grindstone",
+        "grind",
+        "slave",
+        "plough",
+        "plod",
+        "peg"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps related to Dutch grobbelen, also to grave.",
+  "pronounciation": "/ɡrəb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grub_us_1.mp3"
+}

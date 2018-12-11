@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The cost required for something; the money spent on something.",
+      "examples": [
+        "we had ordered suits at great expense",
+        "the committee does not expect members to be put to any expense"
+      ],
+      "synonyms": [
+        "cost",
+        "price"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Offset (an item of expenditure) as an expense against taxable income.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the document was printed at the taxpayer's expense",
+    "It seems very likely, one way or another, that lawyers will make money from this at the taxpayer's expense.",
+    "The trade commission opens an investigation and demands the physician group turn over thousands of pages of documents at the group's expense.",
+    "These privileged persons arrive with families and hangers-on in helicopters, which land them at a helipad near the Park entrance, all at the taxpayer's expense.",
+    "Politicians last night dismissed suggestions that a new service giving MPs special access to a London medical centre was queue-jumping at the taxpayer's expense."
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French, alteration of Old French espense, from late Latin expensa (pecunia) (money) spent, from Latin expendere pay out (see expend).",
+  "pronounciation": "/ikˈspens/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expense_us_1.mp3"
+}

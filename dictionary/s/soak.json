@@ -1,0 +1,70 @@
+{
+  "verb": [
+    {
+      "description": "Make or allow (something) to become thoroughly wet by immersing it in liquid.",
+      "examples": [
+        "soak the beans overnight in water"
+      ],
+      "synonyms": [
+        "immerse",
+        "steep",
+        "submerge",
+        "submerse",
+        "dip",
+        "sink",
+        "dunk",
+        "bathe",
+        "wet",
+        "rinse",
+        "douse",
+        "marinate",
+        "souse",
+        "pickle",
+        "ret"
+      ]
+    },
+    {
+      "description": "Impose heavy charges or taxation on.",
+      "examples": [
+        "few of us common people care how much tax Congress soaks on racing motorboats"
+      ]
+    },
+    {
+      "description": "Drink heavily.",
+      "examples": [
+        "you keep soaking in taverns"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of immersing someone or something in liquid for a period of time.",
+      "examples": [
+        "I'm looking forward to a long soak in the tub"
+      ]
+    },
+    {
+      "description": "A heavy drinker.",
+      "examples": [
+        "his daughter stayed up to put the old soak to bed"
+      ],
+      "synonyms": [
+        "drinker",
+        "serious drinker",
+        "hard drinker",
+        "problem drinker",
+        "alcoholic"
+      ]
+    }
+  ],
+  "phrases": [
+    "he soaked himself in the music of Mozart",
+    "I tried to soak myself in the story, to let the notes and phrases marinate in my head.",
+    "He grew up soaking himself in the traditional Greek music.",
+    "He went about researching the war meticulously, soaking himself in the plentiful documentary material from this most media-infiltrated of conflicts.",
+    "He had soaked himself in all his books from the intervening years."
+  ],
+  "origin": "Old English socian become saturated with a liquid by immersion; related to sūcan to suck.",
+  "pronounciation": "/soʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soak_us_1.mp3"
+}

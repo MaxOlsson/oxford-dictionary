@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An attack made in response to one by an enemy or opponent.",
+      "examples": [],
+      "synonyms": [
+        "revenge",
+        "vengeance",
+        "reprisal",
+        "retribution",
+        "requital",
+        "recrimination",
+        "an eye for an eye",
+        "an eye for an eye and a tooth for a tooth",
+        "getting even",
+        "redress",
+        "repayment",
+        "payback"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack in response.",
+      "examples": [
+        "as deputies tried to dislodge him, he counterattacked by forcing through elections"
+      ],
+      "synonyms": [
+        "be against",
+        "object to",
+        "be hostile to",
+        "be anti",
+        "be in opposition to",
+        "disagree with",
+        "dislike",
+        "disapprove of"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkoun(t)ərəˌtak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/counterattack_us_1.mp3"
+}

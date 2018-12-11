@@ -1,0 +1,64 @@
+{
+  "noun": [
+    {
+      "description": "An area of land and its buildings used for growing crops and rearing animals, typically under the control of one owner or manager.",
+      "examples": [],
+      "synonyms": [
+        "smallholding",
+        "holding",
+        "farmstead",
+        "steading",
+        "grange",
+        "plantation",
+        "estate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make one's living by growing crops or keeping livestock.",
+      "examples": [
+        "he has farmed organically for five years"
+      ],
+      "synonyms": [
+        "be a farmer",
+        "practise farming",
+        "cultivate the land",
+        "till the land",
+        "work the land",
+        "till the soil",
+        "rear livestock",
+        "do agricultural work"
+      ]
+    },
+    {
+      "description": "Send out or subcontract work to others.",
+      "examples": [
+        "it saves time and money to farm out some writing work to specialized companies"
+      ],
+      "synonyms": [
+        "contract out",
+        "outsource",
+        "assign to others",
+        "subcontract",
+        "delegate"
+      ]
+    },
+    {
+      "description": "Allow someone to collect and keep the revenues from (a tax) on payment of a fee.",
+      "examples": [
+        "the customs had been farmed to the collector for a fixed sum"
+      ]
+    }
+  ],
+  "phrases": [
+    "they're betting the farm on this merger bid",
+    "a catering industry initiative that allows certified traceability of fresh meat and eggs from farm to fork",
+    "each of these countries has farm-to-fork legislation",
+    "But from farm to table, the industry could well lose a quarter of a billion dollars.",
+    "According to the company, it controls the temperature of food products \"from farm to fork\"."
+  ],
+  "origin": "Middle English: from Old French ferme, from medieval Latin firma fixed payment, from Latin firmare fix, settle (in medieval Latin contract for), from firmus constant, firm; compare with firm. The noun originally denoted a fixed annual amount payable as rent or tax; this is reflected in farm (sense 3 of the verb), which later gave rise to to subcontract ( farm (sense 2 of the verb)). The noun came to denote a lease, and, in the early 16th century, land leased for farming. The verb sense grow crops or keep livestock dates from the early 19th century.",
+  "pronounciation": "/färm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/farm_us_1.mp3"
+}

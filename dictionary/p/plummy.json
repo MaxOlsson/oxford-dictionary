@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling a plum in taste, scent, or color.",
+      "examples": [
+        "cozy reds and plummy blues"
+      ]
+    },
+    {
+      "description": "(of a person's voice) having an accent thought typical of the English upper classes.",
+      "examples": [],
+      "synonyms": [
+        "upper-class",
+        "refined",
+        "aristocratic",
+        "affected",
+        "home counties",
+        "fruity",
+        "grand"
+      ]
+    },
+    {
+      "description": "Choice; highly desirable.",
+      "examples": [
+        "there are some plummy roles for the taking here"
+      ],
+      "synonyms": [
+        "excellent",
+        "very good",
+        "wonderful",
+        "marvellous",
+        "choice",
+        "best",
+        "prize",
+        "first-class"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpləmi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plummy_us_1.mp3"
+}

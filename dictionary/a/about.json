@@ -1,0 +1,145 @@
+{
+  "preposition": [
+    {
+      "description": "On the subject of; concerning.",
+      "examples": [
+        "I was thinking about you",
+        "it's all about having fun",
+        "an article about yellow fever"
+      ],
+      "synonyms": [
+        "regarding",
+        "concerning",
+        "with reference to",
+        "referring to",
+        "with regard to",
+        "with respect to",
+        "respecting",
+        "relating to",
+        "on",
+        "touching on",
+        "dealing with",
+        "relevant to",
+        "with relevance to",
+        "connected with",
+        "in connection with",
+        "on the subject of",
+        "in the matter of",
+        "apropos",
+        "re"
+      ]
+    },
+    {
+      "description": "Used to indicate movement within a particular area.",
+      "examples": [
+        "she looked about the room"
+      ],
+      "synonyms": [
+        "around",
+        "round",
+        "throughout",
+        "over",
+        "through",
+        "all over",
+        "in all parts of",
+        "on every side of",
+        "encircling",
+        "surrounding"
+      ]
+    },
+    {
+      "description": "Used to express location in a particular place.",
+      "examples": [
+        "rugs strewn about the hall",
+        "he produced a knife from somewhere about his person"
+      ],
+      "synonyms": [
+        "around",
+        "in circulation",
+        "in existence",
+        "current",
+        "going on",
+        "prevailing",
+        "prevalent",
+        "widespread",
+        "pervasive",
+        "endemic",
+        "happening",
+        "in the air",
+        "abroad"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used to indicate movement in an area.",
+      "examples": [
+        "men were floundering about",
+        "finding my way about"
+      ],
+      "synonyms": [
+        "around",
+        "here and there",
+        "to and fro",
+        "back and forth",
+        "from place to place",
+        "hither and thither",
+        "in every direction",
+        "in all directions",
+        "abroad"
+      ]
+    },
+    {
+      "description": "Used to express location in a particular place.",
+      "examples": [
+        "there was a lot of flu about",
+        "a thief about in the hotel"
+      ],
+      "synonyms": [
+        "near",
+        "nearby",
+        "around",
+        "about the place",
+        "hereabouts",
+        "not far away",
+        "not far off",
+        "close by",
+        "in the vicinity",
+        "in the neighbourhood",
+        "at hand",
+        "within reach",
+        "on the doorstep",
+        "around the corner",
+        "just around the corner"
+      ]
+    },
+    {
+      "description": "(used with a number or quantity) approximately.",
+      "examples": [
+        "reduced by about 5 percent",
+        "he's about 35"
+      ],
+      "synonyms": [
+        "approximately",
+        "roughly",
+        "around",
+        "round about",
+        "in the neighbourhood of",
+        "in the region of",
+        "in the area of",
+        "of the order of",
+        "something like"
+      ]
+    }
+  ],
+  "phrases": [
+    "the ceremony was about to begin",
+    "He leaps aboard and the most extraordinary adventure of his young life is about to begin.",
+    "Nicol easily controlled the next two games, and seemed to be about to close out the match.",
+    "The Government is about to close the door and stop all new referrals from receiving these drugs.",
+    "The first major battle over public sector pensions could be about to begin."
+  ],
+  "origin": "Old English onbūtan, from on in, on + būtan outside of (see but).",
+  "pronounciation": "/əˈbout/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/about_us_1.mp3"
+}

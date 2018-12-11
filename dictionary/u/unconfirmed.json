@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Not confirmed as to truth or validity.",
+      "examples": [
+        "an unconfirmed report of shots being fired"
+      ],
+      "synonyms": [
+        "unsupported",
+        "uncorroborated",
+        "not backed up by evidence",
+        "unverified",
+        "unattested",
+        "unproven",
+        "not validated",
+        "untested"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənkənˈfərmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unconfirmed_us_1.mp3"
+}

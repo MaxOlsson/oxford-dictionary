@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Color slightly.",
+      "examples": [
+        "a mass of white blossom tinged with pink",
+        "toward the sun the sky was tinged crimson"
+      ],
+      "synonyms": [
+        "tint",
+        "colour",
+        "dye",
+        "stain",
+        "shade",
+        "suffuse",
+        "flush",
+        "imbue",
+        "wash",
+        "overlay",
+        "bathe",
+        "saturate",
+        "steep",
+        "impregnate",
+        "permeate",
+        "penetrate",
+        "pervade",
+        "run through"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tendency toward or trace of some color.",
+      "examples": [
+        "there was a faint pink tinge to the sky"
+      ],
+      "synonyms": [
+        "tint",
+        "colour",
+        "shade",
+        "tone",
+        "hue",
+        "tincture",
+        "cast",
+        "flush",
+        "blush"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin tingere to dip or color. The noun dates from the mid 18th century.",
+  "pronounciation": "/tinj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/tinge_us_1.mp3"
+}

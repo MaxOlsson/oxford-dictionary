@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Conferred as an honor, without the usual requirements or functions.",
+      "examples": [
+        "an honorary doctorate"
+      ],
+      "synonyms": [
+        "titular",
+        "nominal",
+        "in name only",
+        "in title only",
+        "unofficial",
+        "token",
+        "so-called"
+      ]
+    },
+    {
+      "description": "(of an office or its holder) unpaid.",
+      "examples": [
+        "Honorary Secretary of the Association"
+      ],
+      "synonyms": [
+        "unpaid",
+        "unsalaried",
+        "without pay",
+        "without payment",
+        "for nothing"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin honorarius, from honor honor.",
+  "pronounciation": "/ˈänəˌrerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/honorary_us_1.mp3"
+}

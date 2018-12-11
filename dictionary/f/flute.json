@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A wind instrument made from a tube with holes along it that are stopped by the fingers or keys, held vertically or horizontally so that the player's breath strikes a narrow edge. The modern orchestral form, typically made of metal, is held horizontally and has an elaborate set of keys.",
+      "examples": [],
+      "synonyms": [
+        "whistle",
+        "penny whistle",
+        "flute",
+        "recorder",
+        "fife"
+      ]
+    },
+    {
+      "description": "An ornamental vertical groove in a column.",
+      "examples": []
+    },
+    {
+      "description": "A tall, narrow wine glass.",
+      "examples": [
+        "a flute of champagne"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Speak in a melodious way reminiscent of the sound of a flute.",
+      "examples": [
+        "“What do you do?” she fluted"
+      ]
+    },
+    {
+      "description": "Make flutes or grooves in.",
+      "examples": [
+        "fluted columns"
+      ],
+      "synonyms": [
+        "grooved",
+        "channelled",
+        "furrowed",
+        "ribbed",
+        "corrugated",
+        "ridged"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French flahute, probably from Provençal flaüt, perhaps a blend of flaujol flageolet + laüt lute.",
+  "pronounciation": "/flo͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flute_us_1.mp3"
+}

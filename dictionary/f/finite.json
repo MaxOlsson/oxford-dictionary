@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Having limits or bounds.",
+      "examples": [
+        "every computer has a finite amount of memory"
+      ],
+      "synonyms": [
+        "limited",
+        "not infinite",
+        "subject to limitations",
+        "restricted"
+      ]
+    },
+    {
+      "description": "(of a verb form) having a specific tense, number, and person.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from Latin finitus finished, past participle of finire (see finish).",
+  "pronounciation": "/ˈfaɪnaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/finite_us_1.mp3"
+}

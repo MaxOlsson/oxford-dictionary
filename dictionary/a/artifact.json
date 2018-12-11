@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An object made by a human being, typically an item of cultural or historical interest.",
+      "examples": [
+        "gold and silver artifacts"
+      ],
+      "synonyms": [
+        "artefact",
+        "historical object",
+        "ancient object",
+        "antiquity",
+        "antique",
+        "heirloom",
+        "object of virtu",
+        "curio"
+      ]
+    },
+    {
+      "description": "Something observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure.",
+      "examples": [
+        "widespread tissue infection may be a technical artifact"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Latin arte by or using art + factum something made (neuter past participle of facere make).",
+  "pronounciation": "/ˈärdəfakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/artifact_us_2.mp3"
+}

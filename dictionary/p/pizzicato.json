@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "(often as a direction) plucking the strings of a violin or other stringed instrument with one's finger.",
+      "examples": []
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Performed pizzicato.",
+      "examples": [
+        "an inspired pizzicato movement by the Philharmonic strings"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The technique of playing pizzicato.",
+      "examples": []
+    }
+  ],
+  "origin": "Italian, literally pinched, twitched, past participle of pizzicare, based on pizza point, edge.",
+  "pronounciation": "/ˌpɪtsəˈkɑdoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pizzicato_us_1.mp3"
+}

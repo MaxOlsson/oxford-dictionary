@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Engaged in, involving, or reflecting deep or serious thought.",
+      "examples": [
+        "a pensive mood"
+      ],
+      "synonyms": [
+        "thoughtful",
+        "thinking",
+        "reflective",
+        "contemplative",
+        "musing",
+        "meditative",
+        "introspective",
+        "prayerful",
+        "philosophical",
+        "cogitative",
+        "ruminative",
+        "absorbed",
+        "engrossed",
+        "rapt",
+        "preoccupied",
+        "deep in thought",
+        "immersed in thought",
+        "lost in thought",
+        "in a brown study",
+        "broody",
+        "serious",
+        "studious",
+        "solemn",
+        "dreamy",
+        "dreaming"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French pensif, -ive, from penser think, from Latin pensare ponder, frequentative of pendere weigh.",
+  "pronounciation": "/ˈpensiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pensive_us_1.mp3"
+}

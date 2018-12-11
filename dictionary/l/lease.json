@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.",
+      "examples": [],
+      "synonyms": [
+        "leasehold",
+        "rental agreement",
+        "hire agreement",
+        "charter",
+        "contract"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Grant (property) on lease; let.",
+      "examples": [
+        "she leased the site to a local company"
+      ],
+      "synonyms": [
+        "rent out",
+        "rent",
+        "let",
+        "let out",
+        "hire",
+        "hire out",
+        "sublet",
+        "sublease",
+        "farm out",
+        "charge for the use of"
+      ]
+    }
+  ],
+  "phrases": [
+    "It's a satisfying and fulfilling experience - working with the physically and mentally challenged to give them a new lease of life, help them become independent and enable them to lead normal lives, she says.",
+    "New audio drama and old-time radio dramas find a new lease of life on the Internet.",
+    "The Committee has been re-formed and given a new lease on life following more than two years of inactivity.",
+    "This popular event at the Grad House, along with other unique aspects of the atmosphere-soaked hangout, stand to gain a new lease on life.",
+    "The National Culture Fund - set up to facilitate private and public sector funding into heritage - is all set to get a new lease of life."
+  ],
+  "origin": "Late Middle English: from Old French lais, leis, from lesser, laissier let, leave, from Latin laxare make loose, from laxus loose, lax.",
+  "pronounciation": "/lis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lease_us_1.mp3"
+}

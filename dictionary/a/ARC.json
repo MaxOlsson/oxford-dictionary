@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A part of the circumference of a circle or other curve.",
+      "examples": [],
+      "synonyms": [
+        "curve",
+        "bend",
+        "bow",
+        "arch"
+      ]
+    },
+    {
+      "description": "A luminous electrical discharge between two electrodes or other points.",
+      "examples": []
+    },
+    {
+      "description": "(in a novel, play, or movie) the development or resolution of the narrative or principal theme.",
+      "examples": [
+        "his transformation provides the emotional arc of the story"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move with a curving trajectory.",
+      "examples": [
+        "the ball arced across the room"
+      ],
+      "synonyms": [
+        "curl",
+        "curve",
+        "swerve",
+        "spin",
+        "turn"
+      ]
+    },
+    {
+      "description": "Form an electric arc.",
+      "examples": [
+        "check that switches operate properly with no sign of arcing"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "AIDS-related complex.",
+      "examples": []
+    },
+    {
+      "description": "American Red Cross.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English (denoting the path of a celestial object, especially the sun, from horizon to horizon): via Old French from Latin arcus bow, curve.",
+  "pronounciation": "/ɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/arc_us_1.mp3"
+}

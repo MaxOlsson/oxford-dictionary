@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "A musical direction indicating that a section of players should be divided into two or more groups each playing a different part.",
+      "examples": [
+        "violas divisi",
+        "divisi passages"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A divisi passage of music.",
+      "examples": []
+    }
+  ],
+  "origin": "Italian, literally divided (plural), from dividere to divide.",
+  "pronounciation": "/diˈvēzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/divisi_us_1.mp3"
+}

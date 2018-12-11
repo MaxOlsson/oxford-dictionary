@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Form (fabric or a fabric item) by interlacing long threads passing in one direction with others at a right angle to them.",
+      "examples": [
+        "linen was woven in the district"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A particular style or manner in which something is woven.",
+      "examples": [
+        "scarlet cloth of a very fine weave"
+      ]
+    },
+    {
+      "description": "A hairstyle created by weaving pieces of real or artificial hair into a person's existing hair, typically in order to increase its length or thickness.",
+      "examples": [
+        "trailers show him with dyed blond hair and, in one scene, a flowing blond weave"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: probably from Old Norse veifa to wave, brandish.",
+  "pronounciation": "/wēv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weave_us_1.mp3"
+}

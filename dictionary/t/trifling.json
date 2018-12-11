@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Unimportant or trivial.",
+      "examples": [
+        "a trifling sum"
+      ],
+      "synonyms": [
+        "trivial",
+        "unimportant",
+        "insignificant",
+        "inconsequential",
+        "petty",
+        "minor",
+        "of little account",
+        "of no account",
+        "of little consequence",
+        "of no consequence",
+        "not worth mentioning",
+        "not worth bothering about",
+        "light",
+        "footling",
+        "fiddling",
+        "pettifogging",
+        "incidental"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈtrīf(ə)liNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trifling_us_1.mp3"
+}

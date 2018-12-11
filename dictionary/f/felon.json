@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A person who has been convicted of a felony.",
+      "examples": [],
+      "synonyms": [
+        "criminal",
+        "lawbreaker",
+        "offender",
+        "villain",
+        "black hat",
+        "delinquent",
+        "malefactor",
+        "culprit",
+        "wrongdoer",
+        "transgressor",
+        "sinner"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Cruel; wicked.",
+      "examples": [
+        "the felon undermining hand of dark corruption"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps a specific use of felon; medieval Latin fello, fellon- had the same sense.",
+  "pronounciation": "/ˈfɛlən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/felon_us_1.mp3"
+}

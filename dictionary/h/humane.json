@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing compassion or benevolence.",
+      "examples": [
+        "regulations ensuring the humane treatment of animals"
+      ],
+      "synonyms": [
+        "compassionate",
+        "kind",
+        "kindly",
+        "kind-hearted",
+        "considerate",
+        "understanding",
+        "sympathetic",
+        "tolerant",
+        "civilized",
+        "good",
+        "good-natured",
+        "gentle"
+      ]
+    },
+    {
+      "description": "(of a branch of learning) intended to have a civilizing or refining effect on people.",
+      "examples": [
+        "the center emphasizes economics as a humane discipline"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: the earlier form of human, restricted to the senses above in the 18th century.",
+  "pronounciation": "/(h)juˈmeɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/humane_us_1.mp3"
+}

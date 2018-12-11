@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Spend the winter.",
+      "examples": [
+        "many birds overwinter in equatorial regions"
+      ],
+      "synonyms": [
+        "hibernate",
+        "lie dormant",
+        "winter",
+        "overwinter",
+        "lie torpid",
+        "go to sleep"
+      ]
+    },
+    {
+      "description": "(of an insect, plant, etc.) live through the winter.",
+      "examples": [
+        "the germinated seeds will overwinter"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈōvərˈwin(t)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overwinter_us_1.mp3"
+}

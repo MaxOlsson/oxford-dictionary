@@ -1,0 +1,125 @@
+{
+  "verb": [
+    {
+      "description": "Relate to; be about.",
+      "examples": [
+        "the story concerns a friend of mine",
+        "this fable is concerned with forgiveness and redemption"
+      ],
+      "synonyms": [
+        "be about",
+        "deal with",
+        "cover",
+        "treat",
+        "have to do with"
+      ]
+    },
+    {
+      "description": "Worry (someone); make anxious.",
+      "examples": [
+        "the roof of the barn concerns me because eventually it will fall in",
+        "you must not concern yourself about me"
+      ],
+      "synonyms": [
+        "worry",
+        "disturb",
+        "trouble",
+        "bother",
+        "perturb",
+        "unsettle",
+        "make anxious",
+        "distress",
+        "upset",
+        "agitate",
+        "cause disquiet to",
+        "disquiet"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Anxiety; worry.",
+      "examples": [
+        "such unsatisfactory work gives cause for concern"
+      ],
+      "synonyms": [
+        "anxiety",
+        "worry",
+        "disquiet",
+        "disquietude",
+        "apprehension",
+        "apprehensiveness",
+        "unease",
+        "uneasiness",
+        "perturbation",
+        "consternation",
+        "distress",
+        "agitation"
+      ]
+    },
+    {
+      "description": "A matter of interest or importance to someone.",
+      "examples": [
+        "oil reserves are the concern of the Energy Department",
+        "the survival of an endangered species is of concern to wildlife biologists"
+      ],
+      "synonyms": [
+        "responsibility",
+        "business",
+        "affair",
+        "charge",
+        "duty",
+        "job",
+        "task",
+        "occupation"
+      ]
+    },
+    {
+      "description": "A business; a firm.",
+      "examples": [
+        "a small, debt-ridden concern"
+      ],
+      "synonyms": [
+        "company",
+        "business",
+        "firm",
+        "enterprise",
+        "venture",
+        "organization",
+        "operation",
+        "undertaking",
+        "industry",
+        "corporation",
+        "establishment",
+        "house",
+        "shop",
+        "office",
+        "bureau",
+        "agency",
+        "franchise",
+        "practice",
+        "partnership",
+        "consortium",
+        "cooperative",
+        "conglomerate",
+        "group",
+        "combine",
+        "syndicate"
+      ]
+    },
+    {
+      "description": "A complicated or awkward object or structure.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "the measures are irrelevant as far as inflation is concerned",
+    "For me this traffic warden scheme is probably the final nail in the coffin as far as Burnley is concerned regards shopping.",
+    "But I never plan the future so far as my private life is concerned.",
+    "He has also admitted employing someone at the petrol station, who was in receipt of family credit, or income support, but that is irrelevant so far as this enquiry is concerned.",
+    "Baxter has been used to attracting interest as far as the Scottish game is concerned."
+  ],
+  "origin": "Late Middle English: from French concerner or late Latin concernere (in medieval Latin be relevant to), from con- (expressing intensive force) + cernere sift, discern.",
+  "pronounciation": "/kənˈsərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/xconcern_us_1.mp3"
+}

@@ -1,0 +1,124 @@
+{
+  "verb": [
+    {
+      "description": "Bear all or part of the weight of; hold up.",
+      "examples": [
+        "the dome was supported by a hundred white columns"
+      ],
+      "synonyms": [
+        "hold up",
+        "bear",
+        "carry",
+        "prop up",
+        "keep up",
+        "bolster up",
+        "brace",
+        "shore up",
+        "underpin",
+        "buttress",
+        "reinforce"
+      ]
+    },
+    {
+      "description": "Give assistance to, especially financially; enable to function or act.",
+      "examples": [
+        "the government gives $2.5 billion a year to support the activities of the voluntary sector"
+      ],
+      "synonyms": [
+        "help",
+        "aid",
+        "assist"
+      ]
+    },
+    {
+      "description": "Suggest the truth of; corroborate.",
+      "examples": [
+        "the studies support our findings"
+      ],
+      "synonyms": [
+        "substantiate",
+        "back up",
+        "give force to",
+        "give weight to",
+        "bear out",
+        "corroborate",
+        "confirm",
+        "attest to",
+        "verify",
+        "prove",
+        "validate",
+        "authenticate",
+        "endorse",
+        "ratify",
+        "document"
+      ]
+    },
+    {
+      "description": "(of a computer or operating system) allow the use or operation of (a program, language, or device)",
+      "examples": [
+        "the new versions do not support the graphical user interface standard"
+      ]
+    },
+    {
+      "description": "Endure; tolerate.",
+      "examples": [
+        "at work during the day I could support the grief"
+      ],
+      "synonyms": [
+        "endure",
+        "bear",
+        "put up with",
+        "tolerate",
+        "stand",
+        "abide",
+        "suffer",
+        "stomach",
+        "brook",
+        "sustain",
+        "shoulder",
+        "weather"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that bears the weight of something or keeps it upright.",
+      "examples": [
+        "the best support for a camera is a tripod"
+      ],
+      "synonyms": [
+        "pillar",
+        "post",
+        "prop",
+        "underprop",
+        "underpinning",
+        "base",
+        "substructure",
+        "foundation"
+      ]
+    },
+    {
+      "description": "Material assistance.",
+      "examples": [
+        "he urged that military support be sent to protect humanitarian convoys",
+        "support staff"
+      ],
+      "synonyms": [
+        "maintenance",
+        "keep",
+        "sustenance",
+        "subsistence"
+      ]
+    }
+  ],
+  "phrases": [
+    "air operations in support of the land forces",
+    "The earlier doctrines were written for urban operations in support of conventional forces.",
+    "Some users may require other centralized utility systems in support of their operations.",
+    "The army, however, wanted the air force to operate primarily in support of land operations.",
+    "Substantial numbers of police officers preserve the peace in support of operational police colleagues."
+  ],
+  "origin": "Middle English (originally in the sense tolerate): from Old French supporter, from Latin supportare, from sub- from below + portare carry.",
+  "pronounciation": "/səˈpôrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/support_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or affecting cats or other members of the cat family.",
+      "examples": [
+        "feline leukemia"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cat or other member of the cat family.",
+      "examples": [],
+      "synonyms": [
+        "cat",
+        "domestic cat",
+        "wild cat",
+        "alley cat",
+        "kitten"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Latin felinus, from feles cat.",
+  "pronounciation": "/ˈfēˌlīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/feline_us_1.mp3"
+}

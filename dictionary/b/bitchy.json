@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's comments or behavior) malicious or unpleasant.",
+      "examples": [
+        "bitchy remarks"
+      ],
+      "synonyms": [
+        "malicious",
+        "mean",
+        "nasty",
+        "cruel",
+        "unkind",
+        "unfriendly",
+        "snide",
+        "hurtful",
+        "wounding",
+        "barbed",
+        "cutting",
+        "hateful",
+        "ill-natured",
+        "bitter",
+        "venomous",
+        "poisonous",
+        "acid",
+        "hostile",
+        "rancorous",
+        "malevolent",
+        "evil-intentioned",
+        "baleful",
+        "vindictive",
+        "vengeful",
+        "vitriolic",
+        "vicious",
+        "splenetic",
+        "malign",
+        "malignant",
+        "bilious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɪtʃi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bitchy_us_1.mp3"
+}

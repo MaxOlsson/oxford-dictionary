@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to concentrate because one's mind is preoccupied.",
+      "examples": [
+        "Charlotte seemed too distracted to give him much attention",
+        "she ran her fingers through her hair in a distracted fashion"
+      ],
+      "synonyms": [
+        "preoccupied",
+        "diverted",
+        "inattentive",
+        "vague",
+        "absorbed",
+        "engrossed",
+        "abstracted",
+        "distrait",
+        "distant",
+        "absent",
+        "absent-minded",
+        "faraway"
+      ]
+    }
+  ],
+  "pronounciation": "/dəˈstræktəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/distracted_us_1.mp3"
+}

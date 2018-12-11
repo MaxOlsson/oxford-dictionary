@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A large trunk or suitcase, typically made of stiff leather and opening into two equal parts.",
+      "examples": [],
+      "synonyms": [
+        "suitcase",
+        "case",
+        "valise",
+        "holdall",
+        "carryall",
+        "grip",
+        "overnight bag",
+        "overnighter",
+        "flight bag",
+        "travelling bag",
+        "gladstone bag",
+        "carpet bag"
+      ]
+    },
+    {
+      "description": "A word blending the sounds and combining the meanings of two others, for example motel (from motor and hotel) or brunch (from breakfast and lunch)",
+      "examples": [
+        "podcast is a portmanteau, a made-up word coined from a combination of the words iPod and broadcast",
+        "a portmanteau word combining smoke and fog"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French portemanteau, from porter carry + manteau mantle.",
+  "pronounciation": "/ˌpɔrtˈmæntoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/portmanteau_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The complete range or scope of something.",
+      "examples": [
+        "the whole gamut of human emotion"
+      ],
+      "synonyms": [
+        "range",
+        "spectrum",
+        "span",
+        "sweep",
+        "compass",
+        "scope",
+        "area",
+        "breadth",
+        "width",
+        "reach",
+        "extent",
+        "catalogue",
+        "scale",
+        "sequence",
+        "series"
+      ]
+    },
+    {
+      "description": "A complete scale of musical notes; the compass or range of a voice or instrument.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "wines that run the gamut from dry to sweet",
+    "Her performance runs the gamut from physical perfection to emotional exhaustion and she never falters.",
+    "This compilation offers a wide range of genres, running the gamut from garage rock through funk, new wave and electroclash to atmospheric rock, and even mellow jazz.",
+    "The food runs the gamut from solid and reliable to off the beaten path and utterly charming.",
+    "They run the gamut from callousness and cruelty to kindness and sorrow, with contrasting qualities often converging in the same incident or person."
+  ],
+  "origin": "Late Middle English: from medieval Latin gamma ut, originally the name of the lowest note in the medieval scale (bass G an octave and a half below middle C), then applied to the whole range of notes used in medieval music. The Greek letter Γ (gamma) was used for bass G, with ut indicating that it was the first note in the lowest of the hexachords or six-note scales (see solmization).",
+  "pronounciation": "/ˈɡæmət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gamut_us_1.mp3"
+}

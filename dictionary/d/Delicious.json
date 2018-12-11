@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Highly pleasant to the taste.",
+      "examples": [
+        "delicious home-baked brown bread"
+      ],
+      "synonyms": [
+        "mouth-watering",
+        "appetizing",
+        "tasty",
+        "flavoursome",
+        "flavourful",
+        "delectable",
+        "toothsome",
+        "inviting",
+        "very enjoyable",
+        "very palatable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A red or yellow variety of eating apple with a sweet flavor and a slightly elongated shape, originally cultivated in the US.",
+      "examples": []
+    }
+  ],
+  "origin": "Middle English (also in the sense characterized by sensuous indulgence): via Old French from late Latin deliciosus, from Latin deliciae (plural) delight, pleasure.",
+  "pronounciation": "/dəˈlɪʃəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delicious_us_1.mp3"
+}

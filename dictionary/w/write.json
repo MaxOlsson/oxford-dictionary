@@ -1,0 +1,97 @@
+{
+  "verb": [
+    {
+      "description": "Mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement.",
+      "examples": [
+        "he wrote his name on the paper",
+        "Alice wrote down the address",
+        "he wrote very neatly in blue ink"
+      ],
+      "synonyms": [
+        "put in writing",
+        "write down",
+        "put down",
+        "put in black and white",
+        "commit to paper",
+        "jot down",
+        "note",
+        "note down",
+        "make a note of",
+        "set down",
+        "take down",
+        "mark down",
+        "record",
+        "register",
+        "log",
+        "list",
+        "make a list of",
+        "inscribe",
+        "sign",
+        "scribble",
+        "scrawl",
+        "pencil"
+      ]
+    },
+    {
+      "description": "Compose, write, and send (a letter) to someone.",
+      "examples": [
+        "I wrote a letter to Alison",
+        "I wrote him a short letter",
+        "he wrote almost every day"
+      ],
+      "synonyms": [
+        "correspond",
+        "write a letter",
+        "communicate",
+        "get in touch",
+        "keep in touch",
+        "keep in contact"
+      ]
+    },
+    {
+      "description": "Compose (a text or work) for written or printed reproduction or publication; put into literary form and set down in writing.",
+      "examples": [
+        "I didn't know you wrote poetry",
+        "he wrote under a pseudonym",
+        "he had written about the beauty of Andalucia"
+      ],
+      "synonyms": [
+        "compose",
+        "draft",
+        "create",
+        "invent",
+        "think up",
+        "draw up",
+        "formulate",
+        "compile",
+        "put together",
+        "pen",
+        "dash off",
+        "produce"
+      ]
+    },
+    {
+      "description": "Enter (data) into a specified storage medium or location in store.",
+      "examples": []
+    },
+    {
+      "description": "Underwrite (an insurance policy).",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "There are several tea houses and eating establishments which appear interesting but on the whole offer nothing to write home about.",
+    "It got mediocre but promising ratings in the first season - nothing to write home about, but enough to warrant a second season.",
+    "Alas, most of the food is nothing to write home about: the salad dressing is quite bland, the shrimps are fresh though boring, and, incredibly, garlic is nowhere to be found.",
+    "The coral cover was nothing to write home about and the usual reef fish-life seemed poor.",
+    "The story's nothing to write home about - a family gathers for the laying to rest of their mother and sister who has just died.",
+    "Following poor sales, stocks had been written down by £288,000 on 31 March.",
+    "Specific stocks were written down to fair value if an impairment in the value of the entire stock portfolio was considered to be other than temporary.",
+    "The stocks had been written down and a book profit was realisable.",
+    "As a result, over $82 million of borrowings were written down to $20 million and the company will be able to keep going for another bit.",
+    "How far those assets have been written down over the years, no one knows."
+  ],
+  "origin": "Old English wrītan score, form (letters) by carving, write, of Germanic origin; related to German reissen sketch, drag.",
+  "pronounciation": "/rīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/write_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not special, unusual, or interesting in any way; ordinary.",
+      "examples": [
+        "your humble workaday PC"
+      ],
+      "synonyms": [
+        "ordinary",
+        "average",
+        "run-of-the-mill",
+        "middle-of-the-road",
+        "mainstream",
+        "conventional",
+        "unremarkable",
+        "unexceptional",
+        "unpretentious",
+        "plain",
+        "simple",
+        "undistinguished",
+        "nondescript",
+        "characterless",
+        "colourless",
+        "commonplace",
+        "humdrum",
+        "mundane",
+        "unmemorable",
+        "unspectacular",
+        "pedestrian",
+        "prosaic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwərkəˌdeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/workaday_us_1.mp3"
+}

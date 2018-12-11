@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Not planned or meant.",
+      "examples": [
+        "the unintended consequences of people's actions"
+      ],
+      "synonyms": [
+        "absent-minded",
+        "heedless",
+        "thoughtless",
+        "unmindful",
+        "careless",
+        "injudicious",
+        "ill-advised",
+        "ill-considered",
+        "imprudent",
+        "unwise",
+        "foolish",
+        "silly",
+        "stupid",
+        "reckless",
+        "rash",
+        "precipitate",
+        "negligent",
+        "neglectful",
+        "remiss"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənənˈtendəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unintended_us_1.mp3"
+}

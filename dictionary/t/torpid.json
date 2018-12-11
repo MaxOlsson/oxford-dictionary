@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Mentally or physically inactive; lethargic.",
+      "examples": [
+        "we sat around in a torpid state"
+      ],
+      "synonyms": [
+        "lethargic",
+        "sluggish",
+        "inert",
+        "inactive",
+        "slow",
+        "slow-moving",
+        "lifeless",
+        "dull",
+        "listless",
+        "languid",
+        "lazy",
+        "idle",
+        "indolent",
+        "shiftless",
+        "slothful",
+        "heavy",
+        "stagnant",
+        "somnolent",
+        "sleepy",
+        "tired",
+        "fatigued",
+        "languorous",
+        "apathetic",
+        "passive",
+        "supine",
+        "comatose",
+        "narcotic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin torpidus, from torpere be numb or sluggish.",
+  "pronounciation": "/ˈtôrpəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/torpid_us_1.mp3"
+}

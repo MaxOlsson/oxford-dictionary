@@ -1,0 +1,94 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) be turned into ice or another solid as a result of extreme cold.",
+      "examples": [
+        "in the winter the milk froze"
+      ]
+    },
+    {
+      "description": "Store (something) at a very low temperature in order to preserve it.",
+      "examples": [
+        "the cake can be frozen"
+      ],
+      "synonyms": [
+        "deep-freeze",
+        "quick-freeze",
+        "freeze-dry",
+        "put in the freezer",
+        "pack in ice",
+        "put on ice",
+        "ice"
+      ]
+    },
+    {
+      "description": "Become suddenly motionless or paralyzed with fear or shock.",
+      "examples": [
+        "Mathewson froze on the spot, unable to take the next step"
+      ],
+      "synonyms": [
+        "stop dead",
+        "stop in one's tracks",
+        "stop",
+        "stand still",
+        "stand stock still",
+        "go rigid",
+        "become motionless",
+        "become paralysed"
+      ]
+    },
+    {
+      "description": "Hold (something) at a fixed level or in a fixed state for a period of time.",
+      "examples": [
+        "new spending on defense was to be frozen"
+      ],
+      "synonyms": [
+        "fix",
+        "suspend",
+        "hold",
+        "peg",
+        "set"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of holding or being held at a fixed level or in a fixed state.",
+      "examples": [
+        "workers faced a pay freeze"
+      ],
+      "synonyms": [
+        "fix",
+        "suspension",
+        "hold"
+      ]
+    },
+    {
+      "description": "A period of frost or very cold weather.",
+      "examples": [
+        "the big freeze surprised the weathermen"
+      ],
+      "synonyms": [
+        "cold snap",
+        "spell of cold weather",
+        "freeze-up",
+        "frost"
+      ]
+    }
+  ],
+  "phrases": [
+    "And just at that moment, she heard the opening notes of a haunting melody that froze her blood.",
+    "Brian looked back at the empty chairs, a sudden terrifying thought making his blood freeze.",
+    "I laughed lightly, though memory of my nightmare seemed to freeze my blood.",
+    "When Nazar saw the tiger, his blood froze, and everything went dark before his eyes.",
+    "Starting to her feet, her eyes met a sight which froze her blood with terror.",
+    "They have always said that they were frozen out and left in the dark about how the case was proceeding.",
+    "The Times quoted big business lobbyists claiming they were frozen out during the Clinton years of over-regulation.",
+    "Olive, full of hatred for Ransom and now passionately attached to the girl, tries to freeze him out.",
+    "The original American producers say they were frozen out of the show because the Canadian government offers huge financial incentives to lure productions away from the United States.",
+    "The NUT has been frozen out because it refuses to sign up to the government's proposals over classroom assistants."
+  ],
+  "origin": "Old English frēosan (in the phrase hit frēoseth it is freezing), of Germanic origin; related to Dutch vriezen and German frieren, from an Indo-European root shared by Latin pruina hoar frost and frost.",
+  "pronounciation": "/friz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/freeze_us_1.mp3"
+}

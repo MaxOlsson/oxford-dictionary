@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "A piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration during public festivities.",
+      "examples": [
+        "the American flag"
+      ],
+      "synonyms": [
+        "banner",
+        "standard",
+        "ensign",
+        "pennant",
+        "pennon",
+        "banderole",
+        "streamer",
+        "jack"
+      ]
+    },
+    {
+      "description": "A small piece of cloth attached at one edge to a pole and used as a marker or signal in various sports.",
+      "examples": [
+        "jumped the starter's flag, did he?"
+      ]
+    },
+    {
+      "description": "A variable used to indicate a particular property of the data in a record.",
+      "examples": []
+    },
+    {
+      "description": "A hook attached to the stem of a musical note, determining the rhythmic value of the note.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark (an item) for attention or treatment in a specified way.",
+      "examples": [
+        "“greatfully” would be flagged as a misspelling of “gratefully.”"
+      ],
+      "synonyms": [
+        "indicate",
+        "identify",
+        "pick out",
+        "point out"
+      ]
+    },
+    {
+      "description": "Signal to a vehicle or driver to stop, especially by waving one's arm.",
+      "examples": [
+        "she flagged down a patrol car"
+      ],
+      "synonyms": [
+        "hail",
+        "wave down",
+        "signal to stop",
+        "gesture to stop",
+        "motion to stop",
+        "make a sign to"
+      ]
+    },
+    {
+      "description": "Provide or decorate with a flag or flags.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "We were told it was a freighter flying the flag of neutral Portugal.",
+    "Two ships appeared on the horizon flying the flag that I was taught to be of Spain.",
+    "At the time, all the major cruise lines were incorporated abroad, and every major ship they sailed flew the flag of a country other than the United States.",
+    "It was therefore supposed to fly the flag of its nation of registry, i.e. Liberia.",
+    "On 12 January 2003, the MV Dorine, a Polish bulk carrier flying the flag of Cyprus, berthed in Bell Bay, Launceston."
+  ],
+  "origin": "Mid 16th century (in the sense flap about loosely, hang down): related to obsolete flag hanging down.",
+  "pronounciation": "/flæɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flag_us_1.mp3"
+}

@@ -1,0 +1,133 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.",
+      "examples": [
+        "her bruised knee was already swelling up",
+        "the sky was black and swollen with rain",
+        "swollen glands"
+      ],
+      "synonyms": [
+        "expand",
+        "bulge",
+        "distend",
+        "become distended",
+        "inflate",
+        "become inflated",
+        "dilate",
+        "become bloated",
+        "bloat",
+        "blow out",
+        "blow up",
+        "puff up",
+        "balloon",
+        "fatten",
+        "fill out",
+        "tumefy",
+        "intumesce"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A full or gently rounded shape or form.",
+      "examples": [
+        "the soft swell of her breast"
+      ]
+    },
+    {
+      "description": "A gradual increase in sound, amount, or intensity.",
+      "examples": [
+        "there was a swell of support in favor of him"
+      ],
+      "synonyms": [
+        "increase",
+        "rise",
+        "growth",
+        "expansion",
+        "escalation",
+        "acceleration",
+        "surge",
+        "stepping-up",
+        "proliferation",
+        "snowballing",
+        "mushrooming",
+        "skyrocketing"
+      ]
+    },
+    {
+      "description": "A slow, regular movement of the sea in rolling waves that do not break.",
+      "examples": [
+        "there was a heavy swell"
+      ],
+      "synonyms": [
+        "billow",
+        "billowing",
+        "undulation",
+        "surge",
+        "surging",
+        "wave",
+        "roll",
+        "rolling",
+        "bulge",
+        "bulging",
+        "rush",
+        "deluge",
+        "movement"
+      ]
+    },
+    {
+      "description": "A mechanism for producing a crescendo or diminuendo in an organ or harmonium.",
+      "examples": []
+    },
+    {
+      "description": "A person of wealth or high social position, typically one perceived as fashionable or stylish.",
+      "examples": [
+        "a crowd of city swells"
+      ],
+      "synonyms": [
+        "fop",
+        "beau",
+        "man about town",
+        "bright young thing",
+        "glamour boy",
+        "rake"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Excellent; very good.",
+      "examples": [
+        "you're looking swell"
+      ],
+      "synonyms": [
+        "excellent",
+        "marvellous",
+        "wonderful",
+        "splendid",
+        "magnificent",
+        "superb",
+        "first-rate"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Excellently; very well.",
+      "examples": [
+        "everything was just going swell"
+      ]
+    }
+  ],
+  "phrases": [
+    "I am not saying this to make your head swell",
+    "if I say this, you'll get swollen-headed",
+    "And I love Rufus and I am prepared to shout that from the rooftops as the orchestra in my head swells.",
+    "People get relaxed with their routines, they get lazy, and their head swells up since they're the one with all the information.",
+    "Mike murmurs in agreement, and my head swells with ridiculously disproportionate pride."
+  ],
+  "origin": "Old English swellan (verb), of Germanic origin; related to German schwellen. Current senses of the noun date from the early 16th century; the informal adjectival use derives from noun swell (sense 5 of the noun) (late 18th century).",
+  "pronounciation": "/swel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swell_us_1.mp3"
+}

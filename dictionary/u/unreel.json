@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Unwind (something wrapped around another object)",
+      "examples": [
+        "she unreeled the plug from her headset"
+      ],
+      "synonyms": [
+        "unroll",
+        "uncoil",
+        "undo",
+        "unravel",
+        "untwine",
+        "untwist",
+        "disentangle",
+        "spread out",
+        "unfurl",
+        "open",
+        "open out",
+        "lay out",
+        "straighten",
+        "straighten out",
+        "unkink"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈril/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unreel_us_1.mp3"
+}

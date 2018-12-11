@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A system for transmitting messages from a distance along a wire, especially one creating signals by making and breaking an electrical connection.",
+      "examples": [
+        "news came from the outside world by telegraph"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send (someone) a message by telegraph.",
+      "examples": [
+        "I must go and telegraph Mom"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from French télégraphe, from télé- at a distance + -graphe (see -graph).",
+  "pronounciation": "/ˈteləˌɡraf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/telegraph_us_1.mp3"
+}

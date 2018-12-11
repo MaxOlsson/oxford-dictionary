@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "(of a patient, disease, or other condition) not given medical care.",
+      "examples": [
+        "untreated cholera can kill up to half of those infected"
+      ],
+      "synonyms": [
+        "bare",
+        "plain",
+        "unpainted",
+        "unlacquered",
+        "unpolished",
+        "unfinished",
+        "raw",
+        "natural",
+        "matt"
+      ]
+    },
+    {
+      "description": "Not preserved, improved, or altered by the use of a chemical, physical, or biological agent.",
+      "examples": [
+        "untreated sewage is pumped directly into the sea"
+      ],
+      "synonyms": [
+        "unprocessed",
+        "unpurified",
+        "crude",
+        "raw",
+        "natural",
+        "plain",
+        "coarse",
+        "rough",
+        "unworked",
+        "unprepared",
+        "unmilled",
+        "unfinished"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈtridəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untreated_us_1.mp3"
+}

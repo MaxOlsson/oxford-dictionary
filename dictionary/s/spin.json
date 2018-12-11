@@ -1,0 +1,96 @@
+{
+  "verb": [
+    {
+      "description": "Turn or cause to turn or whirl around quickly.",
+      "examples": [
+        "the girl spun around in alarm",
+        "the rear wheels spun violently",
+        "he fiddled with the radio, spinning the dial"
+      ],
+      "synonyms": [
+        "revolve",
+        "rotate",
+        "turn",
+        "turn round",
+        "go round",
+        "whirl",
+        "gyrate",
+        "circle"
+      ]
+    },
+    {
+      "description": "Draw out (wool, cotton, or other material) and convert it into threads, either by hand or with machinery.",
+      "examples": [
+        "they spin wool into the yarn for weaving"
+      ]
+    },
+    {
+      "description": "Give (a news story or other information) a particular interpretation, especially a favorable one.",
+      "examples": []
+    },
+    {
+      "description": "Fish with a spinner.",
+      "examples": [
+        "they were spinning for salmon in the lake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rapid turning or whirling motion.",
+      "examples": [
+        "he concluded the dance with a double spin"
+      ],
+      "synonyms": [
+        "rotation",
+        "revolution",
+        "turn",
+        "whirl",
+        "twirl",
+        "gyration"
+      ]
+    },
+    {
+      "description": "A brief trip in a vehicle for pleasure.",
+      "examples": [
+        "a spin around town"
+      ],
+      "synonyms": [
+        "trip",
+        "jaunt",
+        "outing",
+        "excursion",
+        "short journey",
+        "expedition",
+        "sally"
+      ]
+    },
+    {
+      "description": "A particular bias, interpretation, or point of view, intended to create a favorable (or sometimes, unfavorable) impression when presented to the public.",
+      "examples": [
+        "he tried to put a positive spin on the president's campaign"
+      ],
+      "synonyms": [
+        "slant",
+        "angle",
+        "twist",
+        "bias"
+      ]
+    }
+  ],
+  "phrases": [
+    "But let's not spin our wheels with the siren song of cool-sounding phrases and poorly thought out arguments.",
+    "I'm just spinning my wheels, getting ready to turn 30.",
+    "You're probably right about us spinning our wheels, so I'll move on.",
+    "It's a show mainly fueled by ire: If his guests are courteous and prepared, he spins his wheels.",
+    "We are spinning our wheels while falling further behind.",
+    "The companies began as subsidiaries of Cabletron, with the plan to eventually spin them off as separate public companies.",
+    "Well, many companies in the service industry support manufacturers and in some cases have been spun off from them.",
+    "The company could sell the unit or go ahead with its original plan of spinning it off as a separate entity.",
+    "If the dismal finances persist, some carriers may try to unlock the value of their miles programs by spinning them off as separate publicly traded companies.",
+    "The bankers told us it was a fantastic opportunity to create a separate entity, spin it off, and make lots of money."
+  ],
+  "origin": "Old English spinnan draw out and twist (fiber); related to German spinnen. The noun dates from the mid 19th century.",
+  "pronounciation": "/spɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spin_us_1.mp3"
+}

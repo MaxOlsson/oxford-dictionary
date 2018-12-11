@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A device, typically flexible or worked by a spring, for holding an object or objects together or in place.",
+      "examples": [],
+      "synonyms": [
+        "fastener",
+        "clasp",
+        "hasp",
+        "catch",
+        "pin",
+        "hook",
+        "buckle",
+        "lock",
+        "coupler",
+        "link"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or be fastened with a clip or clips.",
+      "examples": [
+        "she clipped on a pair of diamond earrings",
+        "the panels simply clip onto the framework"
+      ],
+      "synonyms": [
+        "fasten",
+        "attach",
+        "fix",
+        "affix",
+        "hold",
+        "join",
+        "connect",
+        "secure"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse klippa, probably imitative.",
+  "phrases": [
+    "I spent several days with him, eight hours at a clip",
+    "I saw her twice a year, two weeks at a clip but now she can see me always.",
+    "Veteran eater Conti used the sprint as well, but defined his by quantity, not time, speed-eating six matzo balls at a clip.",
+    "We will focus on the small, mister-style heads first, knocking off 20 or so at a clip, then tackle the larger leaks later.",
+    "Because my family and I can only go for about six hours at a clip before engaging in some massive argument, it didn't seem worth the $300 for me to fly home."
+  ],
+  "pronounciation": "/klip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clip_us_1.mp3"
+}

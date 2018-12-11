@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Shameless and undisguised.",
+      "examples": [
+        "a barefaced lie"
+      ],
+      "synonyms": [
+        "flagrant",
+        "blatant",
+        "glaring",
+        "obvious",
+        "undisguised",
+        "unconcealed",
+        "overt",
+        "open",
+        "transparent",
+        "patent",
+        "evident",
+        "manifest",
+        "palpable",
+        "unmistakable"
+      ]
+    },
+    {
+      "description": "Having an uncovered face, so as to be exposed or vulnerable to something.",
+      "examples": [
+        "his years of working barefaced, breathing down dust"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɛrˌfeɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/barefaced_us_1.mp3"
+}

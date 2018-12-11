@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury.",
+      "examples": [
+        "he had an accident at the factory",
+        "if you are unable to work owing to accident or sickness",
+        "an accident investigator"
+      ],
+      "synonyms": [
+        "mishap",
+        "misfortune",
+        "misadventure",
+        "mischance",
+        "unfortunate incident",
+        "injury",
+        "disaster",
+        "tragedy",
+        "catastrophe",
+        "contretemps",
+        "calamity",
+        "blow",
+        "trouble",
+        "problem",
+        "difficulty"
+      ]
+    },
+    {
+      "description": "An event that happens by chance or that is without apparent or deliberate cause.",
+      "examples": [
+        "the pregnancy was an accident",
+        "it is no accident that my tale features a tragic romance"
+      ],
+      "synonyms": [
+        "chance",
+        "mere chance",
+        "coincidence",
+        "twist of fate",
+        "freak",
+        "hazard"
+      ]
+    },
+    {
+      "description": "(in Aristotelian thought) a property of a thing which is not essential to its nature.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "He has been corresponding with North Vancouver District for 16 months attempting to get some sort of pedestrian control on the stretch of road which he thinks is an accident waiting to happen.",
+    "His death was, in my judgment, the result of an accident waiting to happen in circumstances where there was a clear and foreseeable risk of injury or worse, said Judge Paul Hoffman.",
+    "IT MAY be slap bang in the middle of a shipping channel and regarded as an accident waiting to happen - but the city's controversial swing bridge is nearing completion.",
+    "It was an accident waiting to happen, he said.",
+    "The situation is an accident waiting to happen and there are already frequent prangs and bumps around the junction."
+  ],
+  "origin": "Late Middle English (in the general sense an event): via Old French from Latin accident- happening, from the verb accidere, from ad- towards, to + cadere to fall.",
+  "pronounciation": "/ˈæksədənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/accident_us_1.mp3"
+}

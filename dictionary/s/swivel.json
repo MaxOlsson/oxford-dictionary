@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A coupling between two parts enabling one to revolve without turning the other.",
+      "examples": [],
+      "synonyms": [
+        "pivot",
+        "axle",
+        "spindle",
+        "hinge",
+        "axis",
+        "fulcrum",
+        "pin",
+        "hub",
+        "kingpin",
+        "gudgeon",
+        "trunnion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn around a point or axis or on a swivel.",
+      "examples": [
+        "he swiveled in the chair",
+        "she swiveled her eyes round"
+      ],
+      "synonyms": [
+        "turn",
+        "spin",
+        "swing",
+        "rotate",
+        "revolve",
+        "pivot",
+        "twirl",
+        "whirl",
+        "wheel",
+        "gyrate",
+        "pirouette"
+      ]
+    }
+  ],
+  "origin": "Middle English, from the base of Old English swīfan to move (along a course), sweep.",
+  "pronounciation": "/ˈswɪvəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/swivel_us_1.mp3"
+}

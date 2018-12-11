@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having a magical or pleasantly unreal quality; dreamlike.",
+      "examples": [
+        "a slow dreamy melody"
+      ],
+      "synonyms": [
+        "dreamlike",
+        "vague",
+        "dim",
+        "hazy",
+        "shadowy",
+        "misty",
+        "faint",
+        "indistinct",
+        "unclear"
+      ]
+    },
+    {
+      "description": "(of a person) not practical; given to daydreaming.",
+      "examples": [
+        "a dreamy boy who grew up absorbed in poetry"
+      ],
+      "synonyms": [
+        "daydreaming",
+        "dreaming"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrēmē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dreamy_us_1.mp3"
+}

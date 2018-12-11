@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Not quite right; inappropriate or out of place.",
+      "examples": [
+        "there was something amiss about his calculations"
+      ],
+      "synonyms": [
+        "wrong",
+        "awry",
+        "faulty",
+        "out of order",
+        "defective",
+        "unsatisfactory",
+        "incorrect",
+        "untoward",
+        "adrift",
+        "astray",
+        "inappropriate",
+        "improper",
+        "unsuitable"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Wrongly or inappropriately.",
+      "examples": [
+        "how terrible was the danger of her loving amiss"
+      ]
+    }
+  ],
+  "phrases": [
+    "don't take this amiss, it's all good-humored teasing",
+    "Nobody there takes it amiss when things suddenly harden or go soft.",
+    "So I am sure that Keith will not take it amiss if I make a few comments (in my usual take no prisoners way) about his theories.",
+    "Then he added in embarrassment, Please don't take it amiss, but above all I lack the detachment desirable between penitent and confessor.",
+    "However, a company should never say to an examiner, But last week you said…, because the examiner will most likely take it amiss."
+  ],
+  "origin": "Middle English: probably from Old Norse á mis so as to miss, from á on + mis (related to miss).",
+  "pronounciation": "/əˈmis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/amiss_us_1.mp3"
+}

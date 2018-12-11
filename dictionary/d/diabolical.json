@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "Characteristic of the Devil, or so evil as to be suggestive of the Devil.",
+      "examples": [
+        "his diabolical cunning"
+      ],
+      "synonyms": [
+        "devilish",
+        "diabolic",
+        "fiendish",
+        "satanic",
+        "mephistophelian",
+        "demonic",
+        "demoniacal",
+        "hellish",
+        "infernal",
+        "evil",
+        "wicked",
+        "ungodly",
+        "unholy"
+      ]
+    },
+    {
+      "description": "Disgracefully bad or unpleasant.",
+      "examples": [
+        "a singer with an absolutely diabolical voice"
+      ],
+      "synonyms": [
+        "very bad",
+        "poor",
+        "dreadful",
+        "awful",
+        "terrible",
+        "frightful",
+        "disgraceful",
+        "shameful",
+        "lamentable",
+        "deplorable",
+        "appalling",
+        "atrocious"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as diabolic): from Old French diabolique or ecclesiastical Latin diabolicus, from diabolus devil; the form diabolical dates from the early 16th century.",
+  "pronounciation": "/ˌdīəˈbälək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/diabolical_us_1.mp3"
+}

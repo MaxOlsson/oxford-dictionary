@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Not impeded or encumbered.",
+      "examples": [
+        "a press unhampered by government censorship"
+      ],
+      "synonyms": [
+        "uncontrolled",
+        "unconstrained",
+        "unrestricted",
+        "unchecked",
+        "unbridled",
+        "unlimited",
+        "unfettered",
+        "unshackled",
+        "untrammelled",
+        "uninhibited",
+        "unconfined",
+        "unimpeded",
+        "unbounded",
+        "boundless",
+        "unsuppressed",
+        "undisciplined",
+        "uncontrollable",
+        "out of control",
+        "out of hand"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈhampərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unhampered_us_1.mp3"
+}

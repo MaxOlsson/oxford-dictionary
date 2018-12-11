@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A person who grows a particular type of crop.",
+      "examples": [
+        "a fruit grower"
+      ],
+      "synonyms": [
+        "farmer"
+      ]
+    },
+    {
+      "description": "A plant that grows in a specified way.",
+      "examples": [
+        "a fast grower"
+      ]
+    },
+    {
+      "description": "A song or piece of music that is initially unimpressive but becomes more appealing when heard several times.",
+      "examples": [
+        "their last two albums were real growers for me"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡroʊ(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grower_us_1.mp3"
+}

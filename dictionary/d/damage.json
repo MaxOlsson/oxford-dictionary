@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.",
+      "examples": [],
+      "synonyms": [
+        "harm",
+        "injury",
+        "destruction",
+        "vandalization",
+        "vandalism"
+      ]
+    },
+    {
+      "description": "A sum of money claimed or awarded in compensation for a loss or an injury.",
+      "examples": [
+        "she was awarded $284,000 in damages"
+      ],
+      "synonyms": [
+        "compensation",
+        "recompense",
+        "restitution",
+        "redress",
+        "reparation",
+        "reparations"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Inflict physical harm on (something) so as to impair its value, usefulness, or normal function.",
+      "examples": [
+        "the car was badly damaged in the accident",
+        "damaged ligaments"
+      ],
+      "synonyms": [
+        "harm",
+        "do damage to",
+        "injure",
+        "mar",
+        "deface",
+        "mutilate",
+        "mangle",
+        "impair",
+        "blemish",
+        "disfigure",
+        "vandalize",
+        "blight",
+        "spoil",
+        "defile",
+        "desecrate"
+      ]
+    }
+  ],
+  "phrases": [
+    "I'll settle up now, what's the damage?",
+    "What's the damage? Forty quid a session."
+  ],
+  "origin": "Middle English: from Old French, from dam, damne loss or damage, from Latin damnum loss or hurt; compare with damn.",
+  "pronounciation": "/ˈdamij/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/damage_us_1.mp3"
+}

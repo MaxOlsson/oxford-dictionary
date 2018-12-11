@@ -1,0 +1,183 @@
+{
+  "verb": [
+    {
+      "description": "Throw (something) forcefully in a specified direction.",
+      "examples": [
+        "individuals who do not accept the norms are cast out from the group",
+        "lemmings cast themselves off the cliff"
+      ],
+      "synonyms": [
+        "throw",
+        "toss",
+        "fling",
+        "pitch",
+        "hurl",
+        "bowl",
+        "dash",
+        "shy",
+        "lob",
+        "launch",
+        "flip",
+        "let fly",
+        "direct",
+        "discharge",
+        "project",
+        "propel",
+        "send"
+      ]
+    },
+    {
+      "description": "Cause (light or shadow) to appear on a surface.",
+      "examples": [
+        "the moon cast a pale light over the cottages",
+        "running costs were already casting a shadow over the program"
+      ],
+      "synonyms": [
+        "emit",
+        "give off",
+        "send out",
+        "send forth",
+        "shed",
+        "radiate",
+        "diffuse",
+        "spread out"
+      ]
+    },
+    {
+      "description": "Discard.",
+      "examples": [
+        "the issue was cast from the list of concerns"
+      ],
+      "synonyms": [
+        "discard",
+        "reject",
+        "cast away",
+        "throw away",
+        "cast out",
+        "throw out",
+        "dispense with",
+        "get rid of",
+        "dispose of",
+        "abandon"
+      ]
+    },
+    {
+      "description": "Shape (metal or other material) by pouring it into a mold while molten.",
+      "examples": [],
+      "synonyms": [
+        "mould",
+        "fashion",
+        "form",
+        "shape",
+        "model"
+      ]
+    },
+    {
+      "description": "Register (a vote)",
+      "examples": [
+        "residents turned out in record numbers to cast their votes"
+      ],
+      "synonyms": [
+        "register",
+        "record",
+        "enter",
+        "file",
+        "lodge",
+        "post",
+        "set down",
+        "vote"
+      ]
+    },
+    {
+      "description": "Cause (a magic spell) to take effect.",
+      "examples": [
+        "the witch cast a spell on her to turn her into a beast",
+        "the city casts a spell on the visitor"
+      ],
+      "synonyms": [
+        "bewitch",
+        "enchant"
+      ]
+    },
+    {
+      "description": "Calculate and record details of (a horoscope).",
+      "examples": [],
+      "synonyms": [
+        "calculate",
+        "devise",
+        "compute",
+        "reckon",
+        "determine",
+        "assess",
+        "work out",
+        "formulate",
+        "record",
+        "write"
+      ]
+    },
+    {
+      "description": "(in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing.",
+      "examples": []
+    },
+    {
+      "description": "(of a dog) search in different directions for a lost scent.",
+      "examples": [
+        "the dog cast furiously for the vanished rabbit"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An object made by shaping molten metal or similar material in a mold.",
+      "examples": [
+        "bronze casts of the sculpture"
+      ]
+    },
+    {
+      "description": "An act of throwing something forcefully.",
+      "examples": [
+        "he grabbed a spear for a third cast"
+      ]
+    },
+    {
+      "description": "The form or appearance of something, especially someone's features or complexion.",
+      "examples": [
+        "she had a somewhat masculine cast of countenance",
+        "the colors he wore emphasized the olive cast of his skin"
+      ]
+    },
+    {
+      "description": "A slight squint.",
+      "examples": [
+        "he had a cast in one eye"
+      ],
+      "synonyms": [
+        "squint",
+        "cross-eyes"
+      ]
+    },
+    {
+      "description": "A convoluted mass of earth or sand ejected onto the surface by a burrowing worm.",
+      "examples": []
+    },
+    {
+      "description": "A search made by a hound or pack of hounds over a wide area to find a trail.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "he was cast in a cautious mold",
+    "Our thinking throughout the Session of 1943 was cast in a serious mold, and the legislation it developed was geared to enabling the State of California and its people to make an outstanding contribution to victory and peace.",
+    "In this respect, he was cast in a similar mould to Leonardo da Vinci.",
+    "An adamantine character cast in a republican mold helped anchor his pedestal in the national pantheon.",
+    "His arrest and deportation in 1907 was his first baptism in fire from which he emerged a high-minded statesman cast in a heroic mould.",
+    "he is restlessly casting about for novelties",
+    "The American obsession with dieting dates back to 1961, when a housewife who was seriously obese began casting around for diets.",
+    "I know it is completely unrealistic, because formally I am not searching, I cast about with my eyes.",
+    "While I've been casting around for reasons to undergo blood transfusions, my father took the time to become genuinely ill.",
+    "A biographer in search of a subject must usually cast about among people who have achieved something."
+  ],
+  "origin": "Mid 17th century: a special use of cast in cast (sense 4 of the verb).",
+  "pronounciation": "/kæst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_cast_1_us_1.mp3"
+}

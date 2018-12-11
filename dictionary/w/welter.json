@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Move in a turbulent fashion.",
+      "examples": [
+        "the streams foam and welter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A large number of items in no order; a confused mass.",
+      "examples": [
+        "there's such a welter of conflicting rules"
+      ],
+      "synonyms": [
+        "confusion",
+        "jumble",
+        "tangle",
+        "clutter",
+        "mess",
+        "hotchpotch",
+        "mishmash",
+        "flurry",
+        "rush",
+        "mass"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense writhe, wallow): from Middle Dutch, Middle Low German welteren.",
+  "pronounciation": "/ˈwɛltər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/welter_us_1.mp3"
+}

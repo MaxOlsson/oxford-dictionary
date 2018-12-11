@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing the capacity to become or develop into something in the future.",
+      "examples": [
+        "a two-pronged campaign to woo potential customers"
+      ],
+      "synonyms": [
+        "possible",
+        "likely",
+        "prospective",
+        "future",
+        "probable",
+        "budding",
+        "in the making"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Latent qualities or abilities that may be developed and lead to future success or usefulness.",
+      "examples": [
+        "a young broadcaster with great potential",
+        "the potentials of the technology were never wholly controllable"
+      ],
+      "synonyms": [
+        "possibilities",
+        "potentiality",
+        "prospects"
+      ]
+    },
+    {
+      "description": "The quantity determining the energy of mass in a gravitational field or of charge in an electric field.",
+      "examples": []
+    }
+  ],
+  "origin": "Late Middle English: from late Latin potentialis, from potentia power, from potent- being able (see potent). The noun dates from the early 19th century.",
+  "pronounciation": "/pəˈten(t)SHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/potential_us_1.mp3"
+}

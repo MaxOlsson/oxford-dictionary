@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Make the surface of (something) smooth and shiny by rubbing it.",
+      "examples": [
+        "she unloaded the dishwasher and polished the glasses"
+      ],
+      "synonyms": [
+        "shine",
+        "wax",
+        "buff",
+        "rub up",
+        "rub down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance used to give something a smooth and shiny surface when rubbed in.",
+      "examples": [
+        "furniture polish"
+      ],
+      "synonyms": [
+        "wax",
+        "varnish",
+        "glaze",
+        "lacquer",
+        "enamel",
+        "japan",
+        "shellac"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to Poland, its inhabitants, or their language.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "they polished off most of the sausages",
+    "The mussels were huge and plentiful, and I gladly helped my wife finish off the plate after having polished off my own dish.",
+    "I remember polishing off my rusks, knocking back my baby milk and jumping down from my high chair to assist.",
+    "Squid rings and the latter were the choices to start, and were polished off really quickly, despite there being only five of us.",
+    "Desserts of chocolate cake and hyper-decadent peach meringue sundae were quickly polished off, followed a fine selection of Isle of Mull cheeses and coffee."
+  ],
+  "origin": "Middle English: from Old French poliss-, lengthened stem of polir to polish, from Latin polire.",
+  "pronounciation": "/ˈpōliSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/polish_1_us_3.mp3"
+}

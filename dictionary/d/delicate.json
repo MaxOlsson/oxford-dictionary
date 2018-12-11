@@ -1,0 +1,69 @@
+{
+  "adjective": [
+    {
+      "description": "Very fine in texture or structure; of intricate workmanship or quality.",
+      "examples": [
+        "a spider's web, strong yet delicate"
+      ],
+      "synonyms": [
+        "fine",
+        "exquisite",
+        "intricate",
+        "dainty",
+        "airy",
+        "elegant",
+        "graceful"
+      ]
+    },
+    {
+      "description": "Easily broken or damaged; fragile.",
+      "examples": [
+        "delicate china"
+      ],
+      "synonyms": [
+        "fragile",
+        "breakable",
+        "easily broken",
+        "easily damaged",
+        "frail",
+        "frangible"
+      ]
+    },
+    {
+      "description": "Requiring sensitive or careful handling.",
+      "examples": [
+        "delicate negotiations"
+      ],
+      "synonyms": [
+        "difficult",
+        "tricky",
+        "sensitive",
+        "ticklish",
+        "awkward",
+        "problematic",
+        "problematical",
+        "touchy",
+        "prickly",
+        "controversial",
+        "emotive",
+        "embarrassing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A delicate fabric or garment made of such fabric.",
+      "examples": []
+    }
+  ],
+  "phrases": [
+    "To her dismay, she soon found herself in a delicate condition and was obliged to marry George.",
+    "If it wasn't for the fact that you are in a delicate condition, I would have tickled you mercilessly for that last comment.",
+    "And don't be shy about telling someone who has bad breath, noxious perfume or cigarette smells on them that you're in a delicate condition and need some fresh air.",
+    "I try to help out around the house, but the family insists that I am in a delicate condition and must rest.",
+    "The timeline suggests, although I don't have proof, that she may have been in a delicate condition while she was at Yale."
+  ],
+  "origin": "Late Middle English (in the sense delightful, charming): from French délicat or Latin delicatus, of unknown origin. Senses also expressed in Middle English (now obsolete) include voluptuous, self-indulgent, fastidious, and effeminate.",
+  "pronounciation": "/ˈdɛlɪkət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delicate_us_1.mp3"
+}

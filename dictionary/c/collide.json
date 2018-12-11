@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Hit with force when moving.",
+      "examples": [
+        "she collided with someone",
+        "two suburban trains collided"
+      ],
+      "synonyms": [
+        "crash",
+        "crash into",
+        "come into collision",
+        "come into collision with",
+        "bang",
+        "bang into",
+        "slam",
+        "slam into",
+        "impact",
+        "impact with"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the sense cause to collide): from Latin collidere, from col- together + laedere to strike.",
+  "pronounciation": "/kəˈlīd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/collide_us_1.mp3"
+}

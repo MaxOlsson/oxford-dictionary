@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Having no knowledge, understanding, or ability.",
+      "examples": [
+        "you're clueless about how to deal with the world"
+      ],
+      "synonyms": [
+        "bewildered",
+        "bemused",
+        "puzzled",
+        "perplexed",
+        "baffled",
+        "stumped",
+        "mystified",
+        "stupefied",
+        "nonplussed",
+        "muddled",
+        "befuddled",
+        "fuddled",
+        "dumbfounded",
+        "at sea",
+        "at a loss",
+        "at sixes and sevens",
+        "thrown",
+        "thrown off balance",
+        "taken aback",
+        "disoriented",
+        "disconcerted",
+        "discomposed",
+        "troubled",
+        "discomfited",
+        "unnerved",
+        "shaken",
+        "shaken up",
+        "dazed",
+        "stunned",
+        "astonished",
+        "astounded"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkluləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clueless_us_1.mp3"
+}

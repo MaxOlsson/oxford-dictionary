@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Release or untie the knot or knots in.",
+      "examples": [
+        "he swiftly unknotted his tie"
+      ],
+      "synonyms": [
+        "untie",
+        "unchain",
+        "unfetter",
+        "unshackle",
+        "unmanacle",
+        "unyoke",
+        "unfasten",
+        "untether",
+        "unlace",
+        "undo",
+        "loosen",
+        "unloose",
+        "disentangle"
+      ]
+    },
+    {
+      "description": "(of a muscle) relax after being tense and hard.",
+      "examples": [
+        "his shoulders unknotted"
+      ],
+      "synonyms": [
+        "become less tense",
+        "become less rigid",
+        "become less stiff",
+        "loosen",
+        "slacken",
+        "ease"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈnɑt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unknot_us_2.mp3"
+}

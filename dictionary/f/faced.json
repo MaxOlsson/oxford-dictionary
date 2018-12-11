@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having a face or expression of a specified kind.",
+      "examples": [
+        "a pimply-faced teenager",
+        "a burly, square-faced doorman",
+        "sad-faced children"
+      ]
+    },
+    {
+      "description": "Having a surface or front of a specified kind.",
+      "examples": [
+        "a heavy, square-faced hammer",
+        "a stone-faced building"
+      ]
+    },
+    {
+      "description": "(of a piece of stone or other material) having a smoothed or polished surface.",
+      "examples": [
+        "walls and pillars had faced stone on the outer surfaces"
+      ]
+    },
+    {
+      "description": "(of a playing card) turned face up.",
+      "examples": [
+        "he gets the faced card as his first card"
+      ]
+    }
+  ],
+  "pronounciation": "/fāst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faced_us_1.mp3"
+}

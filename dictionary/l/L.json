@@ -1,0 +1,60 @@
+{
+  "abbreviation": [
+    {
+      "description": "(giving position or direction) left.",
+      "examples": [
+        "l to r: Gordon, Anthony, Jerry, and Mark"
+      ]
+    },
+    {
+      "description": "(chiefly in horse racing) length(s)",
+      "examples": [
+        "distances 5 l, 3 l"
+      ]
+    },
+    {
+      "description": "(in textual references) line.",
+      "examples": [
+        "l. 648"
+      ]
+    },
+    {
+      "description": "Liquid.",
+      "examples": []
+    },
+    {
+      "description": "Liter(s).",
+      "examples": []
+    },
+    {
+      "description": "Pound(s)",
+      "examples": [
+        "a salary of 4l. a week"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "(in mathematical formulas) length.",
+      "examples": []
+    }
+  ],
+  "noun": [
+    {
+      "description": "The twelfth letter of the alphabet.",
+      "examples": []
+    },
+    {
+      "description": "A shape like that of a capital L.",
+      "examples": [
+        "a four-story L-shaped building"
+      ]
+    },
+    {
+      "description": "The Roman numeral for 50.",
+      "examples": []
+    }
+  ],
+  "pronounciation": "/el/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/l_us_1.mp3"
+}

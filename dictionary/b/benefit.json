@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "An advantage or profit gained from something.",
+      "examples": [
+        "enjoy the benefits of being a member",
+        "tenants bought their houses with the benefit of a discount",
+        "uninformed criticism is of benefit to no one"
+      ],
+      "synonyms": [
+        "good",
+        "sake",
+        "interest",
+        "welfare",
+        "well-being",
+        "satisfaction",
+        "enjoyment",
+        "advantage",
+        "comfort",
+        "ease",
+        "convenience"
+      ]
+    },
+    {
+      "description": "A payment or gift made by an employer, the state, or an insurance company.",
+      "examples": [
+        "welfare benefits",
+        "wages and benefits"
+      ],
+      "synonyms": [
+        "social security payments",
+        "social security",
+        "state benefit",
+        "unemployment benefit",
+        "government benefit",
+        "benefit payments",
+        "public assistance allowance",
+        "welfare",
+        "insurance money",
+        "sick pay",
+        "pension"
+      ]
+    },
+    {
+      "description": "A public performance or other entertainment of which the proceeds go to a particular charitable cause.",
+      "examples": []
+    }
+  ],
+  "verb": [
+    {
+      "description": "Receive an advantage; profit.",
+      "examples": [
+        "the areas would benefit from regeneration"
+      ],
+      "synonyms": [
+        "profit",
+        "gain",
+        "reap benefits",
+        "reap financial reward",
+        "make money"
+      ]
+    }
+  ],
+  "phrases": [
+    "On conviction of a felony the felon was liable to forfeiture of his land and goods (abolished by the Forfeiture Act 1870) and, if Parliament had declared a crime to be a felony without benefit of clergy, the penalty was death.",
+    "In the 12th cent. the boundaries between royal and ecclesiastical jurisdiction and the extent of benefit of clergy were hotly disputed and contributed much to the conflict between Henry II and Becket.",
+    "He was convicted and escaped hanging only by pleading benefit of clergy.",
+    "In England and America, branding on the thumb was a standard non-capital sentence for those granted benefit of clergy after conviction for many crimes such as grand larceny.",
+    "Much of this disparity was due to the fact that women could not plead benefit of clergy, a legal fiction that helped a great many male thieves escape with a branding."
+  ],
+  "origin": "Late Middle English (originally denoting a kind deed or something well done): from Old French bienfet, from Latin benefactum good deed, from bene facere do good (to).",
+  "pronounciation": "/ˈbenəfit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/benefit_us_1.mp3"
+}
