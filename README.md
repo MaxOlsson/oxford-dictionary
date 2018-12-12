@@ -1,7 +1,7 @@
 # oxford-dictionary
 Oxford dictionary (US)
 
-Easily acceptable version of the (US) Oxford dictionary in JSON format.
+Easily accessible version of the (US) Oxford dictionary in JSON format.
 
 If you find something missing, erroneous, or just room for improvement, please create a PR and contribute!
 
