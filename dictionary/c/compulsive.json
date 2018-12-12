@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Resulting from or relating to an irresistible urge, especially one that is against one's conscious wishes.",
+      "examples": [
+        "compulsive eating"
+      ],
+      "synonyms": [
+        "irresistible",
+        "uncontrollable",
+        "compelling",
+        "driving",
+        "overwhelming",
+        "overpowering",
+        "urgent",
+        "besetting"
+      ]
+    },
+    {
+      "description": "Irresistibly interesting or exciting; compelling.",
+      "examples": [
+        "this play is compulsive viewing"
+      ],
+      "synonyms": [
+        "fascinating",
+        "compelling",
+        "gripping",
+        "riveting",
+        "engrossing",
+        "totally absorbing",
+        "enthralling",
+        "captivating",
+        "spellbinding",
+        "mesmerizing",
+        "mesmeric",
+        "entrancing"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense compulsory): from medieval Latin compulsivus, from compuls- driven, forced, from the verb compellere (see compel). compulsive (sense 1) (originally a term in psychology) dates from the early 20th century.",
+  "pronounciation": "/kəmˈpəlsiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/compulsive_us_1.mp3"
+}

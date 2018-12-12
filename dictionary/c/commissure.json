@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The joint between two bones.",
+      "synonyms": [
+        "join",
+        "junction",
+        "juncture",
+        "intersection",
+        "link",
+        "linkage",
+        "connection",
+        "nexus"
+      ]
+    },
+    {
+      "description": "A band of nerve tissue connecting the hemispheres of the brain, the two sides of the spinal cord, etc.",
+      "synonyms": [
+        "join",
+        "joint",
+        "intersection",
+        "link",
+        "bond",
+        "weld",
+        "seam",
+        "coupling",
+        "connection",
+        "union",
+        "juncture"
+      ]
+    },
+    {
+      "description": "The line where the upper and lower lips or eyelids meet."
+    }
+  ],
+  "origin": "Late Middle English: from Latin commissura junction, from committere join (see commit).",
+  "pronounciation": "/ˈkäməˌSHo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/commissure_us_1.mp3"
+}

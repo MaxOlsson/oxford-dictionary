@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Indicate the faults of (someone or something) in a disapproving way.",
+      "examples": [
+        "technicians were criticized for defective workmanship",
+        "states criticized the failure to provide an adequate and permanent compensation"
+      ],
+      "synonyms": [
+        "find fault with",
+        "censure",
+        "denounce",
+        "condemn",
+        "arraign",
+        "attack",
+        "lambaste",
+        "pillory",
+        "disapprove of",
+        "carp at",
+        "cavil at",
+        "rail against",
+        "inveigh against",
+        "cast aspersions on",
+        "pour scorn on",
+        "disparage",
+        "denigrate",
+        "deprecate",
+        "malign",
+        "vilify",
+        "besmirch",
+        "run down",
+        "give a bad press to"
+      ]
+    },
+    {
+      "description": "Form and express a sophisticated judgment of (a literary or artistic work)",
+      "examples": [
+        "a literary text may be criticized on two grounds: the semantic and the expressive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkridəˌsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/criticize_us_1.mp3"
+}

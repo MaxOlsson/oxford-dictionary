@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Damage the good reputation of (someone); slander or libel.",
+      "examples": [
+        "he claimed that the article defamed his family"
+      ],
+      "synonyms": [
+        "libel",
+        "slander",
+        "malign",
+        "cast aspersions on",
+        "smear",
+        "traduce",
+        "blacken the character of",
+        "blacken the name of",
+        "give someone a bad name",
+        "defame someone's character",
+        "sully someone's reputation",
+        "run down",
+        "speak evil of",
+        "speak ill of",
+        "back-bite",
+        "run a smear campaign against",
+        "calumniate",
+        "vilify",
+        "besmirch",
+        "tarnish",
+        "stigmatize",
+        "disparage",
+        "denigrate",
+        "discredit",
+        "decry",
+        "insult",
+        "lie about",
+        "tell lies about"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French diffamer, from Latin diffamare spread evil report, from dis- (expressing removal) + fama report.",
+  "pronounciation": "/dəˈfām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/defame_us_4.mp3"
+}

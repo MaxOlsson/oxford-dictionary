@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the heart.",
+      "examples": [
+        "a cardiac arrest"
+      ]
+    },
+    {
+      "description": "Relating to the part of the stomach nearest the esophagus."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with heart disease.",
+      "examples": [
+        "some medical patients, such as cardiacs, need rest and quiet"
+      ]
+    },
+    {
+      "description": "A heart attack.",
+      "examples": [
+        "I thought I was going to have a cardiac when the water hit me"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting heart disease): from French cardiaque or Latin cardiacus, from Greek kardiakos, from kardia heart or upper opening of the stomach. The adjective dates from the early 17th century.",
+  "pronounciation": "/ˈkɑrdiˌæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cardiac_us_1.mp3"
+}

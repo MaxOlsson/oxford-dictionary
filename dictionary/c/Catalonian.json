@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the Spanish region of Catalonia, its people, or its language.",
+      "examples": [
+        "a monumental 12th-century Catalonian fresco"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the Spanish region of Catalonia.",
+      "examples": [
+        "he is bilingual like many Catalonians"
+      ]
+    },
+    {
+      "description": "The language of the Spanish region of Catalonia, also widely spoken in Andorra, the Balearic Islands, and parts of southern France; Catalan.",
+      "examples": [
+        "my faltering attempts at Catalonian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌkædəˈloʊniən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/catalonian_1_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "prefix": [
+    {
+      "description": "(forming nouns) joint; mutual; common.",
+      "examples": [
+        "coeducation"
+      ]
+    },
+    {
+      "description": "(forming adjectives) jointly; mutually.",
+      "examples": [
+        "coequal"
+      ]
+    },
+    {
+      "description": "(forming verbs) together with another or others.",
+      "examples": [
+        "coproduce",
+        "co-own"
+      ]
+    },
+    {
+      "description": "Of the complement of an angle.",
+      "examples": [
+        "cosine"
+      ]
+    }
+  ],
+  "origin": "From Latin, originally a form of com-.",
+  "pronounciation": "/kō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/co_1_us_3_rr.mp3"
+}

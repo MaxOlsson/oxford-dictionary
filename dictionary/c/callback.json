@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "An invitation to return for a second audition or interview.",
+      "synonyms": [
+        "summon back",
+        "order back",
+        "call back",
+        "bring back"
+      ]
+    },
+    {
+      "description": "A telephone call made to return a call received."
+    },
+    {
+      "description": "A security feature used by systems accessed by telephone, in which a remote user must log on using a previously registered phone number, to which the system then places a return call."
+    },
+    {
+      "description": "A recall of a defective product.",
+      "examples": [
+        "ask which products have the most callbacks"
+      ]
+    },
+    {
+      "description": "An emergency call summoning an employee to work after hours.",
+      "examples": [
+        "uncontrolled air leakage results in increased callbacks"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkôlˌbak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/callback_us_1.mp3"
+}
