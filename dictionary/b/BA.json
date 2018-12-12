@@ -1,8 +1,7 @@
 {
   "": [
     {
-      "description": "The chemical element barium.",
-      "examples": []
+      "description": "The chemical element barium."
     }
   ],
   "abbreviation": [
@@ -17,12 +16,10 @@
       ]
     },
     {
-      "description": "Buenos Aires.",
-      "examples": []
+      "description": "Buenos Aires."
     },
     {
-      "description": "Batting average.",
-      "examples": []
+      "description": "Batting average."
     }
   ],
   "pronounciation": "/ˌbiˈeɪ/",

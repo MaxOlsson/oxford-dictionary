@@ -1,8 +1,7 @@
 {
   "": [
     {
-      "description": "The imaginary quantity equal to the square root of minus one.",
-      "examples": []
+      "description": "The imaginary quantity equal to the square root of minus one."
     }
   ],
   "pronoun": [
@@ -15,26 +14,21 @@
   ],
   "noun": [
     {
-      "description": "The ninth letter of the alphabet.",
-      "examples": []
+      "description": "The ninth letter of the alphabet."
     },
     {
-      "description": "The Roman numeral for one.",
-      "examples": []
+      "description": "The Roman numeral for one."
     }
   ],
   "abbreviation": [
     {
-      "description": "Independent.",
-      "examples": []
+      "description": "Independent."
     },
     {
-      "description": "(preceding a highway number) Interstate.",
-      "examples": []
+      "description": "(preceding a highway number) Interstate."
     },
     {
-      "description": "Island(s) or Isle(s) (chiefly on maps).",
-      "examples": []
+      "description": "Island(s) or Isle(s) (chiefly on maps)."
     }
   ],
   "origin": "Old English, of Germanic origin; related to Dutch ik and German ich, from an Indo-European root shared by Latin ego and Greek egō.",

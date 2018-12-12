@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Start (a line of text) or position (a block of text, table, etc.) further from the margin than the main part of the text.",
-      "examples": [],
       "synonyms": [
         "move to the right",
         "move further from the margin",
@@ -36,7 +35,6 @@
     },
     {
       "description": "Make a requisition or written order for something.",
-      "examples": [],
       "synonyms": [
         "order",
         "put in an order for",
@@ -53,14 +51,12 @@
       ]
     },
     {
-      "description": "Divide (a document drawn up in duplicate) into its two copies with a zigzag line, thus ensuring identification.",
-      "examples": []
+      "description": "Divide (a document drawn up in duplicate) into its two copies with a zigzag line, thus ensuring identification."
     }
   ],
   "noun": [
     {
-      "description": "A space left by indenting a line or block of text.",
-      "examples": []
+      "description": "A space left by indenting a line or block of text."
     },
     {
       "description": "An indentation.",
@@ -70,7 +66,6 @@
     },
     {
       "description": "An official order or requisition for specified goods or stores.",
-      "examples": [],
       "synonyms": [
         "order",
         "requisition",
@@ -81,8 +76,7 @@
       ]
     },
     {
-      "description": "An indenture.",
-      "examples": []
+      "description": "An indenture."
     }
   ],
   "origin": "Late Middle English (as a verb in the sense give a zigzag outline to, divide by a zigzag line): from Anglo-Norman French endenter or medieval Latin indentare, from en-, in- into + Latin dens, dent- tooth.",

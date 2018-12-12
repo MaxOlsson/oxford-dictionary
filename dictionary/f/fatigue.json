@@ -20,7 +20,6 @@
     },
     {
       "description": "Menial non-military tasks performed by a soldier, sometimes as a punishment.",
-      "examples": [],
       "synonyms": [
         "menial work",
         "drudgery",
@@ -63,8 +62,7 @@
       ]
     },
     {
-      "description": "Weaken (a material, especially metal) by repeated variations of stress.",
-      "examples": []
+      "description": "Weaken (a material, especially metal) by repeated variations of stress."
     }
   ],
   "origin": "Mid 17th century (in the sense task that causes weariness): from French fatigue (noun), fatiguer (verb), from Latin fatigare tire out, from ad fatim, affatim to satiety or surfeit.",

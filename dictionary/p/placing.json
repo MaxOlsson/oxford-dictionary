@@ -29,7 +29,6 @@
     },
     {
       "description": "A post that is found for a job-seeker.",
-      "examples": [],
       "synonyms": [
         "job",
         "day job",
@@ -43,8 +42,7 @@
       ]
     },
     {
-      "description": "A sale or new issue of a large quantity of shares.",
-      "examples": []
+      "description": "A sale or new issue of a large quantity of shares."
     }
   ],
   "pronounciation": "/ˈpleɪsɪŋ/",

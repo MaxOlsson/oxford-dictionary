@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A statement that the values of two mathematical expressions are equal (indicated by the sign =).",
-      "examples": [],
       "synonyms": [
         "mathematical problem",
         "sum",
@@ -26,8 +25,7 @@
       ]
     },
     {
-      "description": "A symbolic representation of the changes which occur in a chemical reaction, expressed in terms of the formulae of the molecules or other species involved.",
-      "examples": []
+      "description": "A symbolic representation of the changes which occur in a chemical reaction, expressed in terms of the formulae of the molecules or other species involved."
     }
   ],
   "phrases": [

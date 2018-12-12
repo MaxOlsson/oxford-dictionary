@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Convert (a coded message) into intelligible language.",
-      "examples": [],
       "synonyms": [
         "decipher",
         "decrypt",
@@ -25,8 +24,7 @@
   ],
   "noun": [
     {
-      "description": "A translation of a coded message.",
-      "examples": []
+      "description": "A translation of a coded message."
     }
   ],
   "pronounciation": "/diˈkoʊd/",

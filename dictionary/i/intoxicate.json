@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "(of alcoholic drink or a drug) cause (someone) to lose control of their faculties or behavior.",
-      "examples": [],
       "synonyms": [
         "drunk",
         "inebriated",
@@ -14,8 +13,7 @@
       ]
     },
     {
-      "description": "Poison (someone).",
-      "examples": []
+      "description": "Poison (someone)."
     }
   ],
   "origin": "Late Middle English (in the sense poison): from medieval Latin intoxicare, from in- into + toxicare to poison, from Latin toxicum (see toxic).",

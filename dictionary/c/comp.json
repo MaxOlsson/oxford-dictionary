@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A compilation.",
-      "examples": []
+      "description": "A compilation."
     },
     {
       "description": "A complimentary ticket or voucher.",
-      "examples": [],
       "synonyms": [
         "voucher",
         "token",
@@ -18,7 +16,6 @@
     },
     {
       "description": "Compensation.",
-      "examples": [],
       "synonyms": [
         "recompense",
         "repayment",
@@ -33,12 +30,10 @@
       ]
     },
     {
-      "description": "A composition.",
-      "examples": []
+      "description": "A composition."
     },
     {
       "description": "A musical accompaniment.",
-      "examples": [],
       "synonyms": [
         "backing",
         "support",
@@ -47,8 +42,7 @@
       ]
     },
     {
-      "description": "A comprehensive examination.",
-      "examples": []
+      "description": "A comprehensive examination."
     }
   ],
   "verb": [

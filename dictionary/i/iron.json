@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A strong, hard magnetic silvery-gray metal, the chemical element of atomic number 26, much used as a material for construction and manufacturing, especially in the form of steel.",
-      "examples": [],
       "synonyms": [
         "made of iron"
       ]
@@ -26,7 +25,6 @@
     },
     {
       "description": "A handheld implement with a flat steel base that is heated (typically with electricity) to smooth clothes, sheets, etc.",
-      "examples": [],
       "synonyms": [
         "flat iron",
         "electric iron",
@@ -35,18 +33,15 @@
       ]
     },
     {
-      "description": "A golf club with a metal head (typically with a numeral indicating the degree to which the head is angled in order to loft the ball).",
-      "examples": []
+      "description": "A golf club with a metal head (typically with a numeral indicating the degree to which the head is angled in order to loft the ball)."
     },
     {
-      "description": "A meteorite containing a high proportion of iron.",
-      "examples": []
+      "description": "A meteorite containing a high proportion of iron."
     }
   ],
   "verb": [
     {
       "description": "Smooth (clothes, sheets, etc.) with an iron.",
-      "examples": [],
       "synonyms": [
         "press"
       ]

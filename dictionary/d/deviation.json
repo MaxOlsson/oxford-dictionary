@@ -32,12 +32,10 @@
       ]
     },
     {
-      "description": "The amount by which a single measurement differs from a fixed value such as the mean.",
-      "examples": []
+      "description": "The amount by which a single measurement differs from a fixed value such as the mean."
     },
     {
-      "description": "The deflection of a vessel's compass needle caused by iron in the vessel, which varies with the vessel's heading.",
-      "examples": []
+      "description": "The deflection of a vessel's compass needle caused by iron in the vessel, which varies with the vessel's heading."
     }
   ],
   "origin": "Late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate).",

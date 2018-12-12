@@ -27,7 +27,6 @@
   "noun": [
     {
       "description": "The end of a railroad or other transport route, or a station at such a point.",
-      "examples": [],
       "synonyms": [
         "stopping place",
         "stop",
@@ -37,12 +36,10 @@
       ]
     },
     {
-      "description": "A point of connection for closing an electric circuit.",
-      "examples": []
+      "description": "A point of connection for closing an electric circuit."
     },
     {
       "description": "A device at which a user enters data or commands for a computer system and which displays the received output.",
-      "examples": [],
       "synonyms": [
         "workstation",
         "vdu",

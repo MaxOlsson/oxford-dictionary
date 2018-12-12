@@ -1,14 +1,12 @@
 {
   "adjective": [
     {
-      "description": "Relating to heat.",
-      "examples": []
+      "description": "Relating to heat."
     }
   ],
   "noun": [
     {
       "description": "An upward current of warm air, used by gliders, balloons, and birds to gain height.",
-      "examples": [],
       "synonyms": [
         "steady flow",
         "stream",
@@ -17,8 +15,7 @@
       ]
     },
     {
-      "description": "A thermal garment, especially underwear.",
-      "examples": []
+      "description": "A thermal garment, especially underwear."
     }
   ],
   "origin": "Mid 18th century (in the sense relating to hot springs): from French, from Greek thermē heat.",

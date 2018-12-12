@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small peg or plug, especially for insertion into the vent of a cask.",
-      "examples": [],
       "synonyms": [
         "stopper",
         "stop",
@@ -15,7 +14,6 @@
     },
     {
       "description": "A faucet.",
-      "examples": [],
       "synonyms": [
         "valve",
         "spout",
@@ -25,8 +23,7 @@
       ]
     },
     {
-      "description": "The plain end of a section of a pipe fitting into the socket of the next one.",
-      "examples": []
+      "description": "The plain end of a section of a pipe fitting into the socket of the next one."
     }
   ],
   "origin": "Middle English: perhaps an alteration of Provençal espigou(n), from Latin spiculum, diminutive of spicum, variant of spica (see spica).",

@@ -72,7 +72,6 @@
     },
     {
       "description": "Enter (a party) without an invitation or permission.",
-      "examples": [],
       "synonyms": [
         "gatecrash",
         "come uninvited to",
@@ -141,8 +140,7 @@
       ]
     },
     {
-      "description": "A sudden failure which puts a system out of action.",
-      "examples": []
+      "description": "A sudden failure which puts a system out of action."
     }
   ],
   "adjective": [

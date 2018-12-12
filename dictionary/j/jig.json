@@ -1,16 +1,13 @@
 {
   "noun": [
     {
-      "description": "A lively dance with leaping movements.",
-      "examples": []
+      "description": "A lively dance with leaping movements."
     },
     {
-      "description": "A device that holds a piece of work and guides the tools operating on it.",
-      "examples": []
+      "description": "A device that holds a piece of work and guides the tools operating on it."
     },
     {
       "description": "A type of artificial bait that is jerked up and down through the water.",
-      "examples": [],
       "synonyms": [
         "lure",
         "decoy",
@@ -25,7 +22,6 @@
   "verb": [
     {
       "description": "Dance a jig.",
-      "examples": [],
       "synonyms": [
         "bob up and down",
         "leap up and down",
@@ -36,8 +32,7 @@
       ]
     },
     {
-      "description": "Equip (a factory or workshop) with a jig or jigs.",
-      "examples": []
+      "description": "Equip (a factory or workshop) with a jig or jigs."
     },
     {
       "description": "Fish with a jig.",

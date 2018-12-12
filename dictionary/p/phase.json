@@ -20,7 +20,6 @@
     },
     {
       "description": "Each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.",
-      "examples": [],
       "synonyms": [
         "aspect",
         "shape",
@@ -31,16 +30,13 @@
       ]
     },
     {
-      "description": "A genetic or seasonal variety of an animal's coloration.",
-      "examples": []
+      "description": "A genetic or seasonal variety of an animal's coloration."
     },
     {
-      "description": "A distinct and homogeneous form of matter (i.e. a particular solid, liquid, or gas) separated by its surface from other forms.",
-      "examples": []
+      "description": "A distinct and homogeneous form of matter (i.e. a particular solid, liquid, or gas) separated by its surface from other forms."
     },
     {
-      "description": "The relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony.",
-      "examples": []
+      "description": "The relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony."
     }
   ],
   "verb": [
@@ -51,8 +47,7 @@
       ]
     },
     {
-      "description": "Adjust the phase of (something), especially so as to synchronize it with something else.",
-      "examples": []
+      "description": "Adjust the phase of (something), especially so as to synchronize it with something else."
     }
   ],
   "phrases": [

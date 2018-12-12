@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A way or track laid down for walking or made by continual treading.",
-      "examples": [],
       "synonyms": [
         "footpath",
         "pathway",
@@ -37,8 +36,7 @@
   ],
   "verb": [
     {
-      "description": "(especially in computing and railroad contexts) allocate a path.",
-      "examples": []
+      "description": "(especially in computing and railroad contexts) allocate a path."
     }
   ],
   "origin": "Old English pæth, of West Germanic origin; related to Dutch pad, German Pfad, of unknown ultimate origin.",

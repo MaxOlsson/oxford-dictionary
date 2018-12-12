@@ -1,14 +1,12 @@
 {
   "verb": [
     {
-      "description": "Analyze (a sentence) into its parts and describe their syntactic roles.",
-      "examples": []
+      "description": "Analyze (a sentence) into its parts and describe their syntactic roles."
     }
   ],
   "noun": [
     {
-      "description": "An act of or the result obtained by parsing a string or a text.",
-      "examples": []
+      "description": "An act of or the result obtained by parsing a string or a text."
     }
   ],
   "origin": "Mid 16th century: perhaps from Middle English pars parts of speech, from Old French pars parts (influenced by Latin pars part).",

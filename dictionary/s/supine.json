@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a person) lying face upward.",
-      "examples": [],
       "synonyms": [
         "flat on one's back",
         "prone",
@@ -28,8 +27,7 @@
   ],
   "noun": [
     {
-      "description": "A Latin verbal noun used only in the accusative and ablative cases, especially to denote purpose (e.g., dictu in mirabile dictu “wonderful to relate”).",
-      "examples": []
+      "description": "A Latin verbal noun used only in the accusative and ablative cases, especially to denote purpose (e.g., dictu in mirabile dictu “wonderful to relate”)."
     }
   ],
   "origin": "Late Middle English: the adjective from Latin supinus bent backwards (related to super above); the noun from late Latin supinum, neuter of supinus.",

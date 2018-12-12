@@ -31,7 +31,6 @@
     },
     {
       "description": "A dose of an immunizing agent increasing or renewing the effect of an earlier one.",
-      "examples": [],
       "synonyms": [
         "inoculation",
         "vaccination",
@@ -41,16 +40,13 @@
       ]
     },
     {
-      "description": "The first stage of a rocket or spacecraft, used to give initial acceleration.",
-      "examples": []
+      "description": "The first stage of a rocket or spacecraft, used to give initial acceleration."
     },
     {
-      "description": "A device for increasing electrical voltage or signal strength.",
-      "examples": []
+      "description": "A device for increasing electrical voltage or signal strength."
     },
     {
-      "description": "A shoplifter.",
-      "examples": []
+      "description": "A shoplifter."
     }
   ],
   "pronounciation": "/ˈbustər/",

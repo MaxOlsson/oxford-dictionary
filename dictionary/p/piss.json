@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Urinate.",
-      "examples": [],
       "synonyms": [
         "pass water",
         "go to the loo",
@@ -14,8 +13,7 @@
   ],
   "noun": [
     {
-      "description": "Urine.",
-      "examples": []
+      "description": "Urine."
     }
   ],
   "origin": "Middle English: from Old French pisser, probably of imitative origin.",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "Wheat or any other cultivated cereal crop used as food.",
-      "examples": [],
       "synonyms": [
         "cereal",
         "cereal crops"
@@ -21,8 +20,7 @@
       ]
     },
     {
-      "description": "The smallest unit of weight in the troy and avoirdupois systems, equal to 1/5760 of a pound troy and 1/7000 of a pound avoirdupois (approximately 0.0648 grams).",
-      "examples": []
+      "description": "The smallest unit of weight in the troy and avoirdupois systems, equal to 1/5760 of a pound troy and 1/7000 of a pound avoirdupois (approximately 0.0648 grams)."
     },
     {
       "description": "The longitudinal arrangement or pattern of fibers in wood, paper, etc.",
@@ -39,7 +37,6 @@
     },
     {
       "description": "A person's character or natural tendency.",
-      "examples": [],
       "synonyms": [
         "personality",
         "nature",
@@ -59,8 +56,7 @@
       ]
     },
     {
-      "description": "Kermes or cochineal, or dye made from either of these.",
-      "examples": []
+      "description": "Kermes or cochineal, or dye made from either of these."
     }
   ],
   "verb": [
@@ -83,8 +79,7 @@
       ]
     },
     {
-      "description": "Feed (a horse) on grain.",
-      "examples": []
+      "description": "Feed (a horse) on grain."
     }
   ],
   "phrases": [

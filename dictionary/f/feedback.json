@@ -2,18 +2,15 @@
   "noun": [
     {
       "description": "Information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement.",
-      "examples": [],
       "synonyms": [
         "response"
       ]
     },
     {
-      "description": "The modification or control of a process or system by its results or effects, e.g., in a biochemical pathway or behavioral response.",
-      "examples": []
+      "description": "The modification or control of a process or system by its results or effects, e.g., in a biochemical pathway or behavioral response."
     },
     {
-      "description": "The return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device; sound distortion produced by this.",
-      "examples": []
+      "description": "The return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device; sound distortion produced by this."
     }
   ],
   "pronounciation": "/ˈfēdˌbak/",

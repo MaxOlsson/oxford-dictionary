@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.",
-      "examples": []
+      "description": "A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system."
     },
     {
       "description": "Lack of order or predictability; gradual decline into disorder.",
@@ -38,8 +37,7 @@
       ]
     },
     {
-      "description": "(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language.",
-      "examples": []
+      "description": "(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language."
     }
   ],
   "origin": "Mid 19th century: from en- inside + Greek tropē transformation.",

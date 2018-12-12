@@ -1,18 +1,15 @@
 {
   "": [
     {
-      "description": "The chemical element cobalt.",
-      "examples": []
+      "description": "The chemical element cobalt."
     }
   ],
   "abbreviation": [
     {
-      "description": "Colorado (in official postal use).",
-      "examples": []
+      "description": "Colorado (in official postal use)."
     },
     {
       "description": "Commanding Officer.",
-      "examples": [],
       "synonyms": [
         "leader",
         "head",
@@ -27,8 +24,7 @@
       ]
     },
     {
-      "description": "Conscientious objector.",
-      "examples": []
+      "description": "Conscientious objector."
     }
   ],
   "pronounciation": "/ˌsiˈoʊ/",

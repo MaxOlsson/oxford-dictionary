@@ -16,7 +16,6 @@
     },
     {
       "description": "Travel by hitchhiking.",
-      "examples": [],
       "synonyms": [
         "hitch-hike"
       ]
@@ -64,12 +63,10 @@
       ]
     },
     {
-      "description": "A knot used for fastening a rope to another rope or something else.",
-      "examples": []
+      "description": "A knot used for fastening a rope to another rope or something else."
     },
     {
       "description": "An act of hitchhiking.",
-      "examples": [],
       "synonyms": [
         "car ride",
         "ride",

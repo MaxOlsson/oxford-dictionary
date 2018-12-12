@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small saclike cavity in a gland, surrounded by secretory cells.",
-      "examples": [],
       "synonyms": [
         "bag",
         "pouch",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "A region of the lung supplied with air from one of the terminal bronchioles.",
-      "examples": []
+      "description": "A region of the lung supplied with air from one of the terminal bronchioles."
     }
   ],
   "origin": "Mid 18th century: Latin, literally a kernel.",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A drink, remedy, or extract prepared by soaking the leaves of a plant or herb in liquid.",
-      "examples": [],
       "synonyms": [
         "stock",
         "broth",
@@ -29,8 +28,7 @@
       ]
     },
     {
-      "description": "The slow injection of a substance into a vein or tissue.",
-      "examples": []
+      "description": "The slow injection of a substance into a vein or tissue."
     }
   ],
   "origin": "Late Middle English (denoting the pouring in of a liquid): from Latin infusio(n-), from the verb infundere (see infuse).",

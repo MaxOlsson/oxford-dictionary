@@ -1,18 +1,15 @@
 {
   "adjective": [
     {
-      "description": "Relating to the Netherlands, its people, or their language.",
-      "examples": []
+      "description": "Relating to the Netherlands, its people, or their language."
     },
     {
-      "description": "Relating to the people of Germany; German.",
-      "examples": []
+      "description": "Relating to the people of Germany; German."
     }
   ],
   "noun": [
     {
       "description": "The West Germanic language of the Netherlands.",
-      "examples": [],
       "synonyms": [
         "girlfriend",
         "girl",
@@ -24,8 +21,7 @@
       ]
     },
     {
-      "description": "The people of the Netherlands collectively.",
-      "examples": []
+      "description": "The people of the Netherlands collectively."
     }
   ],
   "phrases": [

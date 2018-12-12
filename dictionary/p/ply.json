@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A thickness or layer of a folded or laminated material.",
-      "examples": [],
       "synonyms": [
         "layer",
         "thickness",
@@ -14,8 +13,7 @@
       ]
     },
     {
-      "description": "(in game theory) the number of levels at which branching occurs in a tree of possible outcomes, typically corresponding to the number of moves ahead (in chess strictly half-moves ahead) considered by a computer program.",
-      "examples": []
+      "description": "(in game theory) the number of levels at which branching occurs in a tree of possible outcomes, typically corresponding to the number of moves ahead (in chess strictly half-moves ahead) considered by a computer program."
     }
   ],
   "verb": [

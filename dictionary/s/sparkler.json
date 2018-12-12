@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A handheld firework that emits sparks.",
-      "examples": []
+      "description": "A handheld firework that emits sparks."
     },
     {
       "description": "A gemstone, especially a diamond.",
-      "examples": [],
       "synonyms": [
         "gem",
         "gemstone",
@@ -18,7 +16,6 @@
     },
     {
       "description": "A sparkling wine.",
-      "examples": [],
       "synonyms": [
         "champagne",
         "sparkling wine"
@@ -26,7 +23,6 @@
     },
     {
       "description": "A nozzle attached to the spout on a beer pump to give the beer a frothy head.",
-      "examples": [],
       "synonyms": [
         "nozzle",
         "head",

@@ -26,7 +26,6 @@
   "noun": [
     {
       "description": "A freelance worker.",
-      "examples": [],
       "synonyms": [
         "writer",
         "feature writer",
@@ -39,7 +38,6 @@
     },
     {
       "description": "A medieval mercenary.",
-      "examples": [],
       "synonyms": [
         "soldier of fortune",
         "professional soldier",
@@ -50,8 +48,7 @@
   ],
   "verb": [
     {
-      "description": "Earn one's living as a freelance.",
-      "examples": []
+      "description": "Earn one's living as a freelance."
     }
   ],
   "origin": "Early 19th century (denoting a mercenary): originally as two words.",

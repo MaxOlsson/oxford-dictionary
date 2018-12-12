@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An officer in the British army below the rank of captain, especially a second lieutenant.",
-      "examples": [],
       "synonyms": [
         "second in command",
         "second",
@@ -31,8 +30,7 @@
       ]
     },
     {
-      "description": "(of a proposition) implied by another proposition (e.g. as a particular affirmative is by a universal one), but not implying it in return.",
-      "examples": []
+      "description": "(of a proposition) implied by another proposition (e.g. as a particular affirmative is by a universal one), but not implying it in return."
     }
   ],
   "origin": "Late 16th century (as an adjective): from late Latin subalternus, from Latin sub- next below + alternus every other.",

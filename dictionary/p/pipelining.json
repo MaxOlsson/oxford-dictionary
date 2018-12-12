@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "The laying of pipelines.",
-      "examples": []
+      "description": "The laying of pipelines."
     },
     {
-      "description": "A form of computer organization in which successive steps of an instruction sequence are executed in turn by a sequence of modules able to operate concurrently, so that another instruction can be begun before the previous one is finished.",
-      "examples": []
+      "description": "A form of computer organization in which successive steps of an instruction sequence are executed in turn by a sequence of modules able to operate concurrently, so that another instruction can be begun before the previous one is finished."
     }
   ],
   "pronounciation": "/ˈpīpˌlīniNG/",

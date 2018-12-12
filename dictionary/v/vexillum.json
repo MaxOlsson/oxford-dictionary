@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A Roman military standard or banner, especially one of a maniple.",
-      "examples": [],
       "synonyms": [
         "banner",
         "standard",
@@ -15,12 +14,10 @@
       ]
     },
     {
-      "description": "The standard of a papilionaceous flower.",
-      "examples": []
+      "description": "The standard of a papilionaceous flower."
     },
     {
-      "description": "The vane of a feather.",
-      "examples": []
+      "description": "The vane of a feather."
     }
   ],
   "origin": "Latin, from vehere carry.",

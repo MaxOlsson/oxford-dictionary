@@ -1,22 +1,18 @@
 {
   "noun": [
     {
-      "description": "Aeronautics. A manoeuvre in which an aircraft in level flight loses altitude and then resumes level flight. rare.",
-      "examples": []
+      "description": "Aeronautics. A manoeuvre in which an aircraft in level flight loses altitude and then resumes level flight. rare."
     },
     {
-      "description": "Computing and Linguistics. A push-down store or list.",
-      "examples": []
+      "description": "Computing and Linguistics. A push-down store or list."
     }
   ],
   "adjective": [
     {
-      "description": "Computing and Linguistics. Designating a linear store or list that receives and loses items at one end only, the first to be removed being always the last to have been added; relating to or employing such a store or list.",
-      "examples": []
+      "description": "Computing and Linguistics. Designating a linear store or list that receives and loses items at one end only, the first to be removed being always the last to have been added; relating to or employing such a store or list."
     },
     {
-      "description": "That may be, or is designed to be, pushed down.",
-      "examples": []
+      "description": "That may be, or is designed to be, pushed down."
     }
   ],
   "origin": "1930s; earliest use found in Journal of the Royal Aeronautical Society. From push + down, after to push down.",

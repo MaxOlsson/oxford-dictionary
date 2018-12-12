@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small lockable closet or compartment, typically as one of a number placed together for public or general use, e.g., in schools, gymnasiums, or train stations.",
-      "examples": [],
       "synonyms": [
         "cupboard",
         "wardrobe",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "description": "A device that locks something.",
-      "examples": []
+      "description": "A device that locks something."
     }
   ],
   "origin": "Late Middle English: probably related to Flemish loker.",

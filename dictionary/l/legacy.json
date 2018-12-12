@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An amount of money or property left to someone in a will.",
-      "examples": [],
       "synonyms": [
         "bequest",
         "inheritance",
@@ -28,8 +27,7 @@
   ],
   "adjective": [
     {
-      "description": "Denoting or relating to software or hardware that has been superseded but is difficult to replace because of its wide use.",
-      "examples": []
+      "description": "Denoting or relating to software or hardware that has been superseded but is difficult to replace because of its wide use."
     }
   ],
   "origin": "Late Middle English (also denoting the function or office of a deputy, especially a papal legate): from Old French legacie, from medieval Latin legatia legateship, from legatus person delegated (see legate).",

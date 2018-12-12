@@ -49,12 +49,10 @@
       ]
     },
     {
-      "description": "A tune or song of established popularity.",
-      "examples": []
+      "description": "A tune or song of established popularity."
     },
     {
       "description": "A military or ceremonial flag carried on a pole or hoisted on a rope.",
-      "examples": [],
       "synonyms": [
         "flag",
         "banner",
@@ -68,12 +66,10 @@
       ]
     },
     {
-      "description": "A tree or shrub that grows on an erect stem of full height.",
-      "examples": []
+      "description": "A tree or shrub that grows on an erect stem of full height."
     },
     {
-      "description": "An upright water or gas pipe.",
-      "examples": []
+      "description": "An upright water or gas pipe."
     }
   ],
   "adjective": [
@@ -111,8 +107,7 @@
       ]
     },
     {
-      "description": "(of a tree or shrub) growing on an erect stem of full height.",
-      "examples": []
+      "description": "(of a tree or shrub) growing on an erect stem of full height."
     }
   ],
   "phrases": [

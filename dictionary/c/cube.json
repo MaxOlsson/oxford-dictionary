@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares.",
-      "examples": [],
       "synonyms": [
         "hexahedron",
         "cuboid",
@@ -12,8 +11,7 @@
   ],
   "verb": [
     {
-      "description": "Raise (a number or value) to its cube.",
-      "examples": []
+      "description": "Raise (a number or value) to its cube."
     },
     {
       "description": "Cut (food) into small cubes.",

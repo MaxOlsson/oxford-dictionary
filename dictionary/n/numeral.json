@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A figure, symbol, or group of these denoting a number.",
-      "examples": [],
       "synonyms": [
         "number",
         "integer",
@@ -13,8 +12,7 @@
   ],
   "adjective": [
     {
-      "description": "Of or denoting a number.",
-      "examples": []
+      "description": "Of or denoting a number."
     }
   ],
   "origin": "Late Middle English (as an adjective): from late Latin numeralis, adjective from Latin numerus a number (see number).",

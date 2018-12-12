@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An apartment on the top floor of a tall building, typically luxuriously fitted and offering fine views.",
-      "examples": [],
       "synonyms": [
         "apartment",
         "set of rooms",
@@ -12,8 +11,7 @@
       ]
     },
     {
-      "description": "An outhouse or shelter built onto the side of a building, having a sloping roof.",
-      "examples": []
+      "description": "An outhouse or shelter built onto the side of a building, having a sloping roof."
     }
   ],
   "origin": "Middle English pentis (in penthouse (sense 2)), shortening of Old French apentis, based on late Latin appendicium appendage, from Latin appendere hang on. The change of form in the 16th century was by association with French pente slope and house.",

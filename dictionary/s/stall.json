@@ -16,7 +16,6 @@
     },
     {
       "description": "An individual compartment for an animal in a stable or barn, enclosed on three sides.",
-      "examples": [],
       "synonyms": [
         "pen",
         "coop",
@@ -28,12 +27,10 @@
       ]
     },
     {
-      "description": "A fixed seat in the choir or chancel of a church, more or less enclosed at the back and sides and often canopied, typically reserved for a particular member of the clergy.",
-      "examples": []
+      "description": "A fixed seat in the choir or chancel of a church, more or less enclosed at the back and sides and often canopied, typically reserved for a particular member of the clergy."
     },
     {
       "description": "The seats on the ground floor in a theater.",
-      "examples": [],
       "synonyms": [
         "orchestra",
         "parterre"
@@ -100,8 +97,7 @@
       ]
     },
     {
-      "description": "Put or keep (an animal) in a stall, especially in order to fatten it.",
-      "examples": []
+      "description": "Put or keep (an animal) in a stall, especially in order to fatten it."
     }
   ],
   "origin": "Old English steall stable or cattle shed, of Germanic origin; related to Dutch stal, also to stand. Early senses of the verb included reside, dwell and bring to a halt.",

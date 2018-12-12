@@ -74,7 +74,6 @@
   "noun": [
     {
       "description": "A wooden stake or post used as an upright along with others to form a fence.",
-      "examples": [],
       "synonyms": [
         "stake",
         "post",
@@ -85,12 +84,10 @@
       ]
     },
     {
-      "description": "An area within determined bounds, or subject to a particular jurisdiction.",
-      "examples": []
+      "description": "An area within determined bounds, or subject to a particular jurisdiction."
     },
     {
-      "description": "A broad vertical stripe down the middle of a shield.",
-      "examples": []
+      "description": "A broad vertical stripe down the middle of a shield."
     }
   ],
   "origin": "Middle English: from Old French pal, from Latin palus stake.",

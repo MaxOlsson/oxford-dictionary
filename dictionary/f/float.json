@@ -28,7 +28,6 @@
     },
     {
       "description": "Put forward (an idea) as a suggestion or test of reactions.",
-      "examples": [],
       "synonyms": [
         "suggest",
         "put forward",
@@ -55,8 +54,7 @@
   ],
   "noun": [
     {
-      "description": "A thing that is buoyant in water.",
-      "examples": []
+      "description": "A thing that is buoyant in water."
     },
     {
       "description": "A platform mounted on a truck and carrying a display in a parade.",
@@ -65,8 +63,7 @@
       ]
     },
     {
-      "description": "A hand tool with a rectangular blade used for smoothing plaster or concrete.",
-      "examples": []
+      "description": "A hand tool with a rectangular blade used for smoothing plaster or concrete."
     },
     {
       "description": "A soft drink with a scoop of ice cream floating in it.",
@@ -75,8 +72,7 @@
       ]
     },
     {
-      "description": "(in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process.",
-      "examples": []
+      "description": "(in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process."
     }
   ],
   "phrases": [

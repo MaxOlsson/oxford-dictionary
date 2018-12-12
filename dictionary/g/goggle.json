@@ -22,7 +22,6 @@
   "adjective": [
     {
       "description": "(of the eyes) protuberant or rolling.",
-      "examples": [],
       "synonyms": [
         "bulging",
         "bulbous",
@@ -39,12 +38,10 @@
   ],
   "noun": [
     {
-      "description": "Close-fitting eyeglasses with side shields, for protecting the eyes from glare, dust, water, etc.",
-      "examples": []
+      "description": "Close-fitting eyeglasses with side shields, for protecting the eyes from glare, dust, water, etc."
     },
     {
-      "description": "A stare with protruding eyes.",
-      "examples": []
+      "description": "A stare with protruding eyes."
     }
   ],
   "origin": "Middle English (in the sense look to one side, squint): probably from a base symbolic of oscillating movement.",

@@ -1,8 +1,7 @@
 {
   "exclamation": [
     {
-      "description": "A huntsman's cry to the hounds on sighting a fox.",
-      "examples": []
+      "description": "A huntsman's cry to the hounds on sighting a fox."
     }
   ],
   "noun": [
@@ -13,14 +12,12 @@
       ]
     },
     {
-      "description": "A fast horse-drawn coach.",
-      "examples": []
+      "description": "A fast horse-drawn coach."
     }
   ],
   "verb": [
     {
-      "description": "Utter a cry of “tallyho”.",
-      "examples": []
+      "description": "Utter a cry of “tallyho”."
     }
   ],
   "origin": "Late 18th century: apparently an alteration of French taïaut, of unknown origin.",

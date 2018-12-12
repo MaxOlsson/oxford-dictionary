@@ -38,16 +38,13 @@
       ]
     },
     {
-      "description": "An independent variable associated with a function and determining the value of the function. For example, in the expression y = F(x₁, x₂), the arguments of the function F are x₁ and x₂, and the value is y.",
-      "examples": []
+      "description": "An independent variable associated with a function and determining the value of the function. For example, in the expression y = F(x₁, x₂), the arguments of the function F are x₁ and x₂, and the value is y."
     },
     {
-      "description": "Any of the noun phrases in a clause that are related directly to the verb, typically the subject, direct object, and indirect object.",
-      "examples": []
+      "description": "Any of the noun phrases in a clause that are related directly to the verb, typically the subject, direct object, and indirect object."
     },
     {
       "description": "A summary of the subject matter of a book.",
-      "examples": [],
       "synonyms": [
         "theme",
         "topic",

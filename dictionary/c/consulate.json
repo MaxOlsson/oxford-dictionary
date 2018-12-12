@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "The place or building in which a consul's duties are carried out.",
-      "examples": [],
       "synonyms": [
         "diplomatic mission",
         "mission",
@@ -16,12 +15,10 @@
       ]
     },
     {
-      "description": "The period of office of a Roman consul.",
-      "examples": []
+      "description": "The period of office of a Roman consul."
     },
     {
-      "description": "The government of the first French republic (1799–1804) by three consuls.",
-      "examples": []
+      "description": "The government of the first French republic (1799–1804) by three consuls."
     }
   ],
   "origin": "Late Middle English (denoting the government of Rome by consuls): from Latin consulatus, from consul (see consul).",

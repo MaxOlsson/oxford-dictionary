@@ -50,7 +50,6 @@
     },
     {
       "description": "Ignite (a match) by rubbing it briskly against an abrasive surface.",
-      "examples": [],
       "synonyms": [
         "ignite",
         "light"
@@ -93,7 +92,6 @@
     },
     {
       "description": "Make (a coin or medal) by stamping metal.",
-      "examples": [],
       "synonyms": [
         "mint",
         "stamp",
@@ -126,7 +124,6 @@
     },
     {
       "description": "Discover (gold, minerals, or oil) by drilling or mining.",
-      "examples": [],
       "synonyms": [
         "discover",
         "find",
@@ -168,12 +165,10 @@
       ]
     },
     {
-      "description": "Insert (a cutting of a plant) in soil to take root.",
-      "examples": []
+      "description": "Insert (a cutting of a plant) in soil to take root."
     },
     {
-      "description": "Secure a hook in the mouth of a fish by jerking or tightening the line after it has taken the bait or fly.",
-      "examples": []
+      "description": "Secure a hook in the mouth of a fish by jerking or tightening the line after it has taken the bait or fly."
     }
   ],
   "noun": [
@@ -216,12 +211,10 @@
       ]
     },
     {
-      "description": "A pitch that is counted against the batter, in particular one that the batter swings at and misses, or that passes through the strike zone without the batter swinging, or that the batter hits foul (unless two strikes have already been called). A batter accumulating three strikes is out.",
-      "examples": []
+      "description": "A pitch that is counted against the batter, in particular one that the batter swings at and misses, or that passes through the strike zone without the batter swinging, or that the batter hits foul (unless two strikes have already been called). A batter accumulating three strikes is out."
     },
     {
-      "description": "The horizontal or compass direction of a stratum, fault, or other geological feature.",
-      "examples": []
+      "description": "The horizontal or compass direction of a stratum, fault, or other geological feature."
     }
   ],
   "phrases": [

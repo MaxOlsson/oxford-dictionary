@@ -18,7 +18,6 @@
     },
     {
       "description": "A small illustration or portrait photograph which fades into its background without a definite border.",
-      "examples": [],
       "synonyms": [
         "photograph",
         "photo",
@@ -33,7 +32,6 @@
     },
     {
       "description": "A small ornamental design filling a space in a book or carving, typically based on foliage.",
-      "examples": [],
       "synonyms": [
         "picture",
         "design",
@@ -51,8 +49,7 @@
   ],
   "verb": [
     {
-      "description": "Portray (someone) in the style of a vignette.",
-      "examples": []
+      "description": "Portray (someone) in the style of a vignette."
     }
   ],
   "origin": "Late Middle English (in vignette (sense 3 of the noun); also as an architectural term denoting a carved representation of a vine): from French, diminutive of vigne vine.",

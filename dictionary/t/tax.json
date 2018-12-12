@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
-      "examples": [],
       "synonyms": [
         "levy",
         "tariff",
@@ -82,8 +81,7 @@
       ]
     },
     {
-      "description": "Examine and assess (the costs of a case).",
-      "examples": []
+      "description": "Examine and assess (the costs of a case)."
     }
   ],
   "origin": "Middle English (also in the sense estimate or determine the amount of a penalty or damages, surviving in tax (sense 4 of the verb)): from Old French taxer, from Latin taxare to censure, charge, compute, perhaps from Greek tassein fix.",

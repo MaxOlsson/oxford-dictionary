@@ -1,12 +1,10 @@
 {
   "abbreviation": [
     {
-      "description": "Parental guidance suggested, a rating in the Voluntary Movie Rating System indicating that some material may not be suitable for children.",
-      "examples": []
+      "description": "Parental guidance suggested, a rating in the Voluntary Movie Rating System indicating that some material may not be suitable for children."
     },
     {
       "description": "Paying guest.",
-      "examples": [],
       "synonyms": [
         "patron",
         "client",

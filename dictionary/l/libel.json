@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A published false statement that is damaging to a person's reputation; a written defamation.",
-      "examples": [],
       "synonyms": [
         "defamation",
         "defamation of character",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "description": "(in admiralty and ecclesiastical law) a plaintiff's written declaration.",
-      "examples": []
+      "description": "(in admiralty and ecclesiastical law) a plaintiff's written declaration."
     }
   ],
   "verb": [
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "description": "(in admiralty and ecclesiastical law) bring a suit against.",
-      "examples": []
+      "description": "(in admiralty and ecclesiastical law) bring a suit against."
     }
   ],
   "origin": "Middle English (in the general sense a document, a written statement): via Old French from Latin libellus, diminutive of liber book.",

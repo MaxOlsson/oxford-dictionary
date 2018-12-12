@@ -1,8 +1,7 @@
 {
   "adjective": [
     {
-      "description": "(of a word) having the same linguistic derivation as another; from the same original word or root (e.g., English is, German ist, Latin est, from Indo-European esti).",
-      "examples": []
+      "description": "(of a word) having the same linguistic derivation as another; from the same original word or root (e.g., English is, German ist, Latin est, from Indo-European esti)."
     },
     {
       "description": "Related; connected.",
@@ -23,12 +22,10 @@
   ],
   "noun": [
     {
-      "description": "A cognate word.",
-      "examples": []
+      "description": "A cognate word."
     },
     {
-      "description": "A blood relative.",
-      "examples": []
+      "description": "A blood relative."
     }
   ],
   "origin": "Early 17th century: from Latin cognatus, from co- together with + natus born.",

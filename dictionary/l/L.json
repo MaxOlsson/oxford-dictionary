@@ -19,12 +19,10 @@
       ]
     },
     {
-      "description": "Liquid.",
-      "examples": []
+      "description": "Liquid."
     },
     {
-      "description": "Liter(s).",
-      "examples": []
+      "description": "Liter(s)."
     },
     {
       "description": "Pound(s)",
@@ -35,14 +33,12 @@
   ],
   "": [
     {
-      "description": "(in mathematical formulas) length.",
-      "examples": []
+      "description": "(in mathematical formulas) length."
     }
   ],
   "noun": [
     {
-      "description": "The twelfth letter of the alphabet.",
-      "examples": []
+      "description": "The twelfth letter of the alphabet."
     },
     {
       "description": "A shape like that of a capital L.",
@@ -51,8 +47,7 @@
       ]
     },
     {
-      "description": "The Roman numeral for 50.",
-      "examples": []
+      "description": "The Roman numeral for 50."
     }
   ],
   "pronounciation": "/el/",

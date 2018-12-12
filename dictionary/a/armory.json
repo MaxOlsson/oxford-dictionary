@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A place where weapons are kept.",
-      "examples": [],
       "synonyms": [
         "arsenal",
         "arms depot",
@@ -19,8 +18,7 @@
       ]
     },
     {
-      "description": "A place where military reservists are trained or headquartered.",
-      "examples": []
+      "description": "A place where military reservists are trained or headquartered."
     }
   ],
   "origin": "Late Middle English: from Old French armoierie (see armoury).",

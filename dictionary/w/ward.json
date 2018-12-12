@@ -16,7 +16,6 @@
     },
     {
       "description": "An administrative division of a city or borough that typically elects and is represented by a councilor or councilors.",
-      "examples": [],
       "synonyms": [
         "district",
         "constituency",
@@ -31,7 +30,6 @@
     },
     {
       "description": "A person, usually a minor, under the care and control of a guardian appointed by their parents or a court.",
-      "examples": [],
       "synonyms": [
         "dependant",
         "charge",
@@ -42,8 +40,7 @@
       ]
     },
     {
-      "description": "Any of the internal ridges or bars in a lock which prevent the turning of any key which does not have grooves of corresponding form or size.",
-      "examples": []
+      "description": "Any of the internal ridges or bars in a lock which prevent the turning of any key which does not have grooves of corresponding form or size."
     },
     {
       "description": "The action of keeping a lookout for danger.",
@@ -52,12 +49,10 @@
       ]
     },
     {
-      "description": "An area of ground enclosed by the encircling walls of a fortress or castle.",
-      "examples": []
+      "description": "An area of ground enclosed by the encircling walls of a fortress or castle."
     },
     {
-      "description": "A defensive position or motion.",
-      "examples": []
+      "description": "A defensive position or motion."
     }
   ],
   "verb": [
@@ -69,7 +64,6 @@
     },
     {
       "description": "Admit (a patient) to a hospital ward.",
-      "examples": [],
       "synonyms": [
         "admit to hospital",
         "admit",

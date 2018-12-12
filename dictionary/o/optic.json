@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Relating to the eye or vision.",
-      "examples": [],
       "synonyms": [
         "optical",
         "seeing",
@@ -13,12 +12,10 @@
   ],
   "noun": [
     {
-      "description": "A lens or other optical component in an optical instrument.",
-      "examples": []
+      "description": "A lens or other optical component in an optical instrument."
     },
     {
       "description": "The eye.",
-      "examples": [],
       "synonyms": [
         "organ of sight",
         "eyeball"

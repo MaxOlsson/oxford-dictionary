@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of therapy) applied after initial treatment for cancer, especially to suppress secondary tumor formation.",
-      "examples": [],
       "synonyms": [
         "additional",
         "auxiliary",
@@ -20,8 +19,7 @@
   ],
   "noun": [
     {
-      "description": "A substance which enhances the body's immune response to an antigen.",
-      "examples": []
+      "description": "A substance which enhances the body's immune response to an antigen."
     }
   ],
   "origin": "Late 16th century: from Latin adjuvant- helping towards, from the verb adjuvare, from ad- towards + juvare to help.",

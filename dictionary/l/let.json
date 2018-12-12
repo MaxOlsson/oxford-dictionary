@@ -24,7 +24,6 @@
     },
     {
       "description": "Used in the imperative to formulate various expressions.",
-      "examples": [],
       "synonyms": [
         "allow",
         "permit",
@@ -66,8 +65,7 @@
   ],
   "noun": [
     {
-      "description": "(in racket sports) a play that is nullified and has to be played again, especially when a served ball touches the top of the net.",
-      "examples": []
+      "description": "(in racket sports) a play that is nullified and has to be played again, especially when a served ball touches the top of the net."
     }
   ],
   "phrases": [

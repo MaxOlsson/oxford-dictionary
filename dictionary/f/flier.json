@@ -13,7 +13,6 @@
     },
     {
       "description": "A small handbill advertising an event or product.",
-      "examples": [],
       "synonyms": [
         "handbill",
         "bill",
@@ -30,12 +29,10 @@
       ]
     },
     {
-      "description": "A speculative investment.",
-      "examples": []
+      "description": "A speculative investment."
     },
     {
-      "description": "A step in a straight flight of stairs.",
-      "examples": []
+      "description": "A step in a straight flight of stairs."
     }
   ],
   "phrases": [

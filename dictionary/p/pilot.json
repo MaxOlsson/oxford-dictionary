@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A person who operates the flying controls of an aircraft.",
-      "examples": [],
       "synonyms": [
         "airman",
         "airwoman",
@@ -12,7 +11,6 @@
     },
     {
       "description": "A television program made to test audience reaction with a view to the production of a series.",
-      "examples": [],
       "synonyms": [
         "trial episode",
         "pilot episode",
@@ -20,8 +18,7 @@
       ]
     },
     {
-      "description": "An unmodulated reference signal transmitted with another signal for the purposes of control or synchronization.",
-      "examples": []
+      "description": "An unmodulated reference signal transmitted with another signal for the purposes of control or synchronization."
     }
   ],
   "adjective": [
@@ -46,7 +43,6 @@
   "verb": [
     {
       "description": "Act as a pilot of (an aircraft or ship).",
-      "examples": [],
       "synonyms": [
         "fly",
         "be at the controls of",

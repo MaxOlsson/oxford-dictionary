@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a drug) having a sedative effect.",
-      "examples": [],
       "synonyms": [
         "sleep-inducing",
         "somnolent",
@@ -19,8 +18,7 @@
   ],
   "noun": [
     {
-      "description": "A calmative drug.",
-      "examples": []
+      "description": "A calmative drug."
     }
   ],
   "pronounciation": "/ˈkä(l)mədiv/",

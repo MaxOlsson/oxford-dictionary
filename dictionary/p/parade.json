@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A public procession, especially one celebrating a special day or event and including marching bands and floats.",
-      "examples": [],
       "synonyms": [
         "procession",
         "march",
@@ -22,7 +21,6 @@
     },
     {
       "description": "A public square or promenade.",
-      "examples": [],
       "synonyms": [
         "promenade",
         "walk",
@@ -32,8 +30,7 @@
       ]
     },
     {
-      "description": "A parade ground.",
-      "examples": []
+      "description": "A parade ground."
     }
   ],
   "verb": [

@@ -84,8 +84,7 @@
       ]
     },
     {
-      "description": "The extent to which something is angled downward from the horizontal.",
-      "examples": []
+      "description": "The extent to which something is angled downward from the horizontal."
     },
     {
       "description": "Powdered or finely cut tobacco that is held in the mouth, typically between the gums and lip, rather than smoked.",
@@ -95,7 +94,6 @@
     },
     {
       "description": "A stupid or foolish person.",
-      "examples": [],
       "synonyms": [
         "idiot",
         "ass",
@@ -115,12 +113,10 @@
       ]
     },
     {
-      "description": "A pickpocket.",
-      "examples": []
+      "description": "A pickpocket."
     },
     {
       "description": "A candle made by immersing a wick repeatedly in hot wax.",
-      "examples": [],
       "synonyms": [
         "candle",
         "spill",
@@ -131,12 +127,10 @@
   ],
   "abbreviation": [
     {
-      "description": "Document image processing, a system for the digital storage and retrieval of documents as scanned images.",
-      "examples": []
+      "description": "Document image processing, a system for the digital storage and retrieval of documents as scanned images."
     },
     {
-      "description": "Dual in-line package, a package for an integrated circuit consisting of a rectangular sealed unit with two parallel rows of downward-pointing pins.",
-      "examples": []
+      "description": "Dual in-line package, a package for an integrated circuit consisting of a rectangular sealed unit with two parallel rows of downward-pointing pins."
     }
   ],
   "phrases": [

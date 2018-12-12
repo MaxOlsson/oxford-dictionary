@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "An alphabetical list of names, subjects, etc., with references to the places where they occur, typically found at the end of a book.",
-      "examples": []
+      "description": "An alphabetical list of names, subjects, etc., with references to the places where they occur, typically found at the end of a book."
     },
     {
       "description": "An indicator, sign, or measure of something.",
@@ -28,12 +27,10 @@
       ]
     },
     {
-      "description": "An exponent or other superscript or subscript number appended to a quantity.",
-      "examples": []
+      "description": "An exponent or other superscript or subscript number appended to a quantity."
     },
     {
       "description": "A pointer on an instrument, showing a quantity, a position on a scale, etc.",
-      "examples": [],
       "synonyms": [
         "pointer",
         "indicator",
@@ -58,8 +55,7 @@
       ]
     },
     {
-      "description": "(of a machine or part of one) rotate or otherwise move from one predetermined position to another in order to carry out a sequence of operations.",
-      "examples": []
+      "description": "(of a machine or part of one) rotate or otherwise move from one predetermined position to another in order to carry out a sequence of operations."
     }
   ],
   "origin": "Late Middle English: from Latin index, indic- forefinger, informer, sign, from in- towards + a second element related to dicere say or dicare make known; compare with indicate. The original sense index finger (with which one points), came to mean pointer (late 16th century), and figuratively something that serves to point to a fact or conclusion; hence a list of topics in a book (pointing to their location).",

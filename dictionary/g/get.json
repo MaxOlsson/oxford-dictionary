@@ -86,11 +86,12 @@
       ]
     },
     {
-      "description": "Catch or apprehend (someone)",
-      "examples": []
+      "description": "Catch or apprehend (someone)"
     },
     {
-      "examples": [],
+      "examples": [
+        "the police have got him"
+      ],
       "synonyms": [
         "apprehend",
         "catch",
@@ -133,8 +134,7 @@
       ]
     },
     {
-      "description": "A person whom the speaker dislikes or despises.",
-      "examples": []
+      "description": "A person whom the speaker dislikes or despises."
     }
   ],
   "phrases": [

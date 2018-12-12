@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "An oval fleshy fruit that is purple, reddish, or yellow when ripe and contains a flattish pointed pit.",
-      "examples": []
+      "description": "An oval fleshy fruit that is purple, reddish, or yellow when ripe and contains a flattish pointed pit."
     },
     {
-      "description": "The deciduous tree that bears the plum.",
-      "examples": []
+      "description": "The deciduous tree that bears the plum."
     },
     {
       "description": "A reddish-purple color.",
@@ -33,7 +31,9 @@
   ],
   "adverb": [
     {
-      "examples": []
+      "examples": [
+        "the helicopter crashed plum on the cabins"
+      ]
     }
   ],
   "origin": "Old English plūme, from medieval Latin pruna, from Latin prunum (see prune).",

@@ -16,7 +16,6 @@
     },
     {
       "description": "An electrical device receiving a plug or light bulb to make a connection.",
-      "examples": [],
       "synonyms": [
         "aperture",
         "opening",
@@ -34,8 +33,7 @@
   ],
   "verb": [
     {
-      "description": "Place in or fit with a socket.",
-      "examples": []
+      "description": "Place in or fit with a socket."
     }
   ],
   "origin": "Middle English (in the sense head of a spear, resembling a plowshare): from an Anglo-Norman French diminutive of Old French soc plowshare, probably of Celtic origin.",

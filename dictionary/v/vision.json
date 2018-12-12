@@ -68,7 +68,6 @@
     },
     {
       "description": "A person or sight of unusual beauty.",
-      "examples": [],
       "synonyms": [
         "beautiful sight",
         "vision of loveliness",
@@ -87,8 +86,7 @@
   ],
   "verb": [
     {
-      "description": "Imagine.",
-      "examples": []
+      "description": "Imagine."
     }
   ],
   "origin": "Middle English (denoting a supernatural apparition): via Old French from Latin visio(n-), from videre to see.",

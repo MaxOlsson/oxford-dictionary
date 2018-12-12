@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Shaped like a disc.",
-      "examples": [],
       "synonyms": [
         "circular",
         "disc-shaped",
@@ -12,8 +11,7 @@
   ],
   "noun": [
     {
-      "description": "A thing that is shaped like a disc, particularly a type of ancient stone tool.",
-      "examples": []
+      "description": "A thing that is shaped like a disc, particularly a type of ancient stone tool."
     }
   ],
   "origin": "Late 18th century: from Greek diskoeidēs, from diskos (see discus).",

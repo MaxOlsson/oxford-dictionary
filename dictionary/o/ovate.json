@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Having an oval outline or ovoid shape, like an egg.",
-      "examples": [],
       "synonyms": [
         "oval",
         "egg-shaped",
@@ -15,8 +14,7 @@
   ],
   "noun": [
     {
-      "description": "A member of an order of Welsh bards recognized at an Eisteddfod.",
-      "examples": []
+      "description": "A member of an order of Welsh bards recognized at an Eisteddfod."
     }
   ],
   "origin": "Early 18th century: from the Greek plural ouateis soothsayers.",

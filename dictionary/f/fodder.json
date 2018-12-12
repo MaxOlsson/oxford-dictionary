@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "Food, especially dried hay or feed, for cattle and other livestock.",
-      "examples": [],
       "synonyms": [
         "feed",
         "food",
@@ -14,8 +13,7 @@
   ],
   "verb": [
     {
-      "description": "Give fodder to (cattle or other livestock).",
-      "examples": []
+      "description": "Give fodder to (cattle or other livestock)."
     }
   ],
   "origin": "Old English fōdor, of Germanic origin; related to Dutch voeder and German Futter, also to food.",

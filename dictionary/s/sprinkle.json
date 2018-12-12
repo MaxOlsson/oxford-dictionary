@@ -64,7 +64,6 @@
     },
     {
       "description": "A light rain.",
-      "examples": [],
       "synonyms": [
         "rainfall",
         "precipitation",
@@ -74,8 +73,7 @@
       ]
     },
     {
-      "description": "Tiny sugar shapes, typically rods and balls, used for decorating cakes, ice cream, and other desserts.",
-      "examples": []
+      "description": "Tiny sugar shapes, typically rods and balls, used for decorating cakes, ice cream, and other desserts."
     }
   ],
   "origin": "Late Middle English: perhaps from Middle Dutch sprenkelen.",

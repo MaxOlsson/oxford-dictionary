@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Swallow (food) hastily or greedily.",
-      "examples": [],
       "synonyms": [
         "consume",
         "devour",
@@ -25,8 +24,7 @@
   ],
   "noun": [
     {
-      "description": "A hasty gulp.",
-      "examples": []
+      "description": "A hasty gulp."
     }
   ],
   "origin": "Early 19th century: perhaps from gulp, influenced by gobble.",

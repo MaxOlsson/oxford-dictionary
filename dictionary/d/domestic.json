@@ -32,7 +32,6 @@
   "noun": [
     {
       "description": "A person who is paid to help with menial tasks such as cleaning.",
-      "examples": [],
       "synonyms": [
         "servant",
         "domestic servant",
@@ -50,8 +49,7 @@
       ]
     },
     {
-      "description": "A product not made abroad.",
-      "examples": []
+      "description": "A product not made abroad."
     }
   ],
   "origin": "Late Middle English: from French domestique, from Latin domesticus, from domus house.",

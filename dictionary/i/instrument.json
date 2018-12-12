@@ -21,7 +21,6 @@
     },
     {
       "description": "A measuring device used to gauge the level, position, speed, etc. of something, especially a motor vehicle or aircraft.",
-      "examples": [],
       "synonyms": [
         "measuring device",
         "gauge",
@@ -44,8 +43,7 @@
   ],
   "verb": [
     {
-      "description": "Equip (something) with measuring instruments.",
-      "examples": []
+      "description": "Equip (something) with measuring instruments."
     }
   ],
   "origin": "Middle English: from Old French, or from Latin instrumentum equipment, implement, from the verb instruere construct, equip.",

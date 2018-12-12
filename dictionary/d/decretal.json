@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A papal decree concerning a point of canon law.",
-      "examples": [],
       "synonyms": [
         "decree",
         "order",
@@ -21,8 +20,7 @@
   ],
   "adjective": [
     {
-      "description": "Of the nature of a decree.",
-      "examples": []
+      "description": "Of the nature of a decree."
     }
   ],
   "origin": "Middle English: from late Latin decretale, neuter of decretalis (adjective), from Latin decret- decided, from the verb decernere.",

@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "(of a police officer or other official) pass the hands over (someone) in a search for hidden weapons, drugs, or other items.",
-      "examples": [],
       "synonyms": [
         "search",
         "body-search",
@@ -40,12 +39,10 @@
   ],
   "noun": [
     {
-      "description": "An act of frisking someone.",
-      "examples": []
+      "description": "An act of frisking someone."
     },
     {
-      "description": "A playful skip or leap.",
-      "examples": []
+      "description": "A playful skip or leap."
     }
   ],
   "origin": "Early 16th century (in frisk (sense 2 of the noun)): from obsolete frisk lively, frisky, from Old French frisque alert, lively, merry, perhaps of Germanic origin. frisk (sense 1 of the noun), originally a slang term, dates from the late 18th century.",

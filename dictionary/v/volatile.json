@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a substance) easily evaporated at normal temperatures.",
-      "examples": [],
       "synonyms": [
         "evaporative",
         "vaporous",
@@ -30,14 +29,12 @@
       ]
     },
     {
-      "description": "(of a computer's memory) retaining data only as long as there is a power supply connected.",
-      "examples": []
+      "description": "(of a computer's memory) retaining data only as long as there is a power supply connected."
     }
   ],
   "noun": [
     {
-      "description": "A volatile substance.",
-      "examples": []
+      "description": "A volatile substance."
     }
   ],
   "origin": "Middle English (in the sense creature that flies, also, as a collective, birds): from Old French volatil or Latin volatilis, from volare to fly.",

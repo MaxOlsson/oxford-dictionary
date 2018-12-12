@@ -23,7 +23,6 @@
     },
     {
       "description": "A thing that is given as security for the fulfillment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.",
-      "examples": [],
       "synonyms": [
         "surety",
         "bond",
@@ -36,7 +35,6 @@
     },
     {
       "description": "The drinking to a person's health; a toast.",
-      "examples": [],
       "synonyms": [
         "tribute",
         "salute",
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "description": "A person who has promised to join a fraternity or sorority.",
-      "examples": []
+      "description": "A person who has promised to join a fraternity or sorority."
     }
   ],
   "verb": [
@@ -69,7 +66,6 @@
     },
     {
       "description": "Drink to the health of.",
-      "examples": [],
       "synonyms": [
         "pay tribute to",
         "drink the health of",

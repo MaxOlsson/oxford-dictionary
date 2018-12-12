@@ -16,7 +16,6 @@
     },
     {
       "description": "A stupid person.",
-      "examples": [],
       "synonyms": [
         "idiot",
         "fool",
@@ -35,8 +34,7 @@
       ]
     },
     {
-      "description": "The declarer's partner, whose cards are exposed on the table after the opening lead and played by the declarer.",
-      "examples": []
+      "description": "The declarer's partner, whose cards are exposed on the table after the opening lead and played by the declarer."
     }
   ],
   "verb": [

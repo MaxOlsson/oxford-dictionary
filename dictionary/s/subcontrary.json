@@ -1,14 +1,12 @@
 {
   "adjective": [
     {
-      "description": "Denoting propositions which can both be true, but cannot both be false (e.g. some X are Y and some X are not Y).",
-      "examples": []
+      "description": "Denoting propositions which can both be true, but cannot both be false (e.g. some X are Y and some X are not Y)."
     }
   ],
   "noun": [
     {
-      "description": "A subcontrary proposition.",
-      "examples": []
+      "description": "A subcontrary proposition."
     }
   ],
   "origin": "Late 16th century: from late Latin subcontrarius, translation of Greek hupenantios.",

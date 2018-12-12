@@ -1,12 +1,10 @@
 {
   "adjective": [
     {
-      "description": "Relating to or denoting a case (especially in Latin) of nouns and pronouns (and words in grammatical agreement with them) indicating separation or an agent, instrument, or location.",
-      "examples": []
+      "description": "Relating to or denoting a case (especially in Latin) of nouns and pronouns (and words in grammatical agreement with them) indicating separation or an agent, instrument, or location."
     },
     {
-      "description": "(of surgical treatment) involving ablation.",
-      "examples": []
+      "description": "(of surgical treatment) involving ablation."
     },
     {
       "description": "Relating to or subject to ablation through melting or evaporation.",
@@ -17,8 +15,7 @@
   ],
   "noun": [
     {
-      "description": "A word in the ablative case.",
-      "examples": []
+      "description": "A word in the ablative case."
     }
   ],
   "origin": "Late Middle English: from Old French ablative (feminine of ablatif), Latin ablativus, from ablat- taken away (see ablation).",

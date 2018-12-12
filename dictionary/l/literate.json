@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a person) able to read and write.",
-      "examples": [],
       "synonyms": [
         "able to read and write"
       ]
@@ -10,8 +9,7 @@
   ],
   "noun": [
     {
-      "description": "A literate person.",
-      "examples": []
+      "description": "A literate person."
     }
   ],
   "origin": "Late Middle English: from Latin litteratus, from littera (see letter).",

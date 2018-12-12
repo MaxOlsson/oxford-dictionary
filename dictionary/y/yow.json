@@ -1,13 +1,14 @@
 {
   "exclamation": [
     {
-      "description": "Used to express pain or shock.",
-      "examples": []
+      "description": "Used to express pain or shock."
     }
   ],
   "pronoun": [
     {
-      "examples": []
+      "examples": [
+        "yow did that on purpose!"
+      ]
     }
   ],
   "origin": "Late Middle English: imitative. The word was not recorded again until the early 19th century, when it was used to express the cry of a dog or cat. Compare with yeow.",

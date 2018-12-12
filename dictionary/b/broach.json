@@ -21,7 +21,6 @@
     },
     {
       "description": "Pierce (a cask) to draw liquor.",
-      "examples": [],
       "synonyms": [
         "pierce",
         "puncture",
@@ -37,8 +36,7 @@
   ],
   "noun": [
     {
-      "description": "A sudden and hazardous veering or pitching of a ship.",
-      "examples": []
+      "description": "A sudden and hazardous veering or pitching of a ship."
     }
   ],
   "origin": "Early 18th century: of unknown origin.",

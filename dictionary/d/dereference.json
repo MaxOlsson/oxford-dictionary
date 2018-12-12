@@ -1,8 +1,7 @@
 {
   "verb": [
     {
-      "description": "Obtain from (a pointer) the address of a data item held in another location.",
-      "examples": []
+      "description": "Obtain from (a pointer) the address of a data item held in another location."
     }
   ],
   "pronounciation": "/dēˈrefərəns/",

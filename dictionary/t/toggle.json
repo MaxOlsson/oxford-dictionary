@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A short rod of wood or plastic sewn to one side of a coat or other garment, pushed through a hole or loop on the other side and twisted so as to act as a fastener.",
-      "examples": [],
       "synonyms": [
         "fastener",
         "stud",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "description": "A key or command that toggles between two modes, such as the caps lock key.",
-      "examples": []
+      "description": "A key or command that toggles between two modes, such as the caps lock key."
     }
   ],
   "verb": [

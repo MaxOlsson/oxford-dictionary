@@ -1,8 +1,7 @@
 {
   "abbreviation": [
     {
-      "description": "Karat.",
-      "examples": []
+      "description": "Karat."
     },
     {
       "description": "(in units of measurement) kilo-",
@@ -11,24 +10,20 @@
       ]
     },
     {
-      "description": "Kopeck(s).",
-      "examples": []
+      "description": "Kopeck(s)."
     }
   ],
   "": [
     {
-      "description": "A constant in a formula or equation.",
-      "examples": []
+      "description": "A constant in a formula or equation."
     },
     {
-      "description": "Boltzmann's constant.",
-      "examples": []
+      "description": "Boltzmann's constant."
     }
   ],
   "noun": [
     {
       "description": "The eleventh letter of the alphabet.",
-      "examples": [],
       "synonyms": [
         "thousand dollars",
         "thousand pounds"

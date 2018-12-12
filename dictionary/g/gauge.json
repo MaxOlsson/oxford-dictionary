@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An instrument or device for measuring the magnitude, amount, or contents of something, typically with a visual display of such information.",
-      "examples": [],
       "synonyms": [
         "measuring instrument",
         "measuring device",
@@ -12,7 +11,6 @@
     },
     {
       "description": "The thickness, size, or capacity of something, especially as a standard measure.",
-      "examples": [],
       "synonyms": [
         "size",
         "measure",
@@ -24,8 +22,7 @@
       ]
     },
     {
-      "description": "The position of a sailing vessel to windward (weather gage) or leeward (lee gage) of another.",
-      "examples": []
+      "description": "The position of a sailing vessel to windward (weather gage) or leeward (lee gage) of another."
     }
   ],
   "verb": [

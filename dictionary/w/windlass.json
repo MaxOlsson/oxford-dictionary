@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A type of winch used especially on ships to hoist anchors and haul on mooring lines and, especially formerly, to lower buckets into and hoist them up from wells.",
-      "examples": [],
       "synonyms": [
         "system of pulleys",
         "hoisting gear",
@@ -18,8 +17,7 @@
   ],
   "verb": [
     {
-      "description": "Haul or lift (something) with a windlass.",
-      "examples": []
+      "description": "Haul or lift (something) with a windlass."
     }
   ],
   "origin": "Late Middle English: probably an alteration of obsolete windas, via Anglo-Norman French from Old Norse vindáss, literally winding pole.",

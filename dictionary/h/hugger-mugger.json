@@ -21,7 +21,6 @@
     },
     {
       "description": "Secret; clandestine.",
-      "examples": [],
       "synonyms": [
         "clandestine",
         "secret",
@@ -39,12 +38,10 @@
   ],
   "noun": [
     {
-      "description": "Confusion; muddle.",
-      "examples": []
+      "description": "Confusion; muddle."
     },
     {
-      "description": "Secrecy.",
-      "examples": []
+      "description": "Secrecy."
     }
   ],
   "origin": "Early 16th century (in hugger-mugger (sense 2 of the noun)): probably related to huddle and to dialect mucker hoard money, conceal. This is one of a number of similar formations from late Middle English to the 16th century, including hucker-mucker and hudder-mudder, with the basic sense secrecy, concealment.",

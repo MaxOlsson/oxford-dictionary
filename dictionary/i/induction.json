@@ -14,7 +14,6 @@
     },
     {
       "description": "The inference of a general law from particular instances.",
-      "examples": [],
       "synonyms": [
         "deriving",
         "deduction",
@@ -29,12 +28,10 @@
       ]
     },
     {
-      "description": "The production of an electric or magnetic state by the proximity (without contact) of an electrified or magnetized body.",
-      "examples": []
+      "description": "The production of an electric or magnetic state by the proximity (without contact) of an electrified or magnetized body."
     },
     {
-      "description": "The stage of the working cycle of an internal combustion engine in which the fuel mixture is drawn into the cylinders.",
-      "examples": []
+      "description": "The stage of the working cycle of an internal combustion engine in which the fuel mixture is drawn into the cylinders."
     }
   ],
   "origin": "Late Middle English: from Latin inductio(n-), from the verb inducere lead into (see induce).",

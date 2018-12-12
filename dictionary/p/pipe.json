@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A tube of metal, plastic, or other material used to convey water, gas, oil, or other fluid substances.",
-      "examples": [],
       "synonyms": [
         "tube",
         "conduit",
@@ -23,7 +22,6 @@
     },
     {
       "description": "A narrow tube made from wood, clay, etc., with a bowl at one end for containing burning tobacco, the smoke from which is drawn into the mouth.",
-      "examples": [],
       "synonyms": [
         "tobacco pipe",
         "briar",
@@ -46,12 +44,10 @@
       ]
     },
     {
-      "description": "A command which causes the output from one routine to be the input for another.",
-      "examples": []
+      "description": "A command which causes the output from one routine to be the input for another."
     },
     {
-      "description": "A cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters).",
-      "examples": []
+      "description": "A cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters)."
     }
   ],
   "verb": [
@@ -72,14 +68,12 @@
     },
     {
       "description": "Play (a tune) on a pipe or pipes.",
-      "examples": [],
       "synonyms": [
         "play on a pipe"
       ]
     },
     {
       "description": "(of a bird) sing in a high or shrill voice.",
-      "examples": [],
       "synonyms": [
         "chirp",
         "cheep",
@@ -96,12 +90,10 @@
       ]
     },
     {
-      "description": "Decorate (clothing or soft furnishings) with a thin cord covered in fabric.",
-      "examples": []
+      "description": "Decorate (clothing or soft furnishings) with a thin cord covered in fabric."
     },
     {
-      "description": "Put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc.",
-      "examples": []
+      "description": "Put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc."
     }
   ],
   "phrases": [

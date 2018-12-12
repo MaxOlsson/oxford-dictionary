@@ -19,8 +19,7 @@
       ]
     },
     {
-      "description": "An event of two or more records being assigned the same identifier or location in memory.",
-      "examples": []
+      "description": "An event of two or more records being assigned the same identifier or location in memory."
     }
   ],
   "phrases": [

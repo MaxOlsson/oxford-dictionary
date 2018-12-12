@@ -79,7 +79,6 @@
     },
     {
       "description": "Give a mark to (a student or a piece of work).",
-      "examples": [],
       "synonyms": [
         "assess",
         "mark",
@@ -105,12 +104,10 @@
       ]
     },
     {
-      "description": "Reduce (a road) to an easy gradient.",
-      "examples": []
+      "description": "Reduce (a road) to an easy gradient."
     },
     {
-      "description": "Cross (livestock) with a superior breed.",
-      "examples": []
+      "description": "Cross (livestock) with a superior breed."
     }
   ],
   "phrases": [

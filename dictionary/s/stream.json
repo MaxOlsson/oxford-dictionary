@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small, narrow river.",
-      "examples": [],
       "synonyms": [
         "brook",
         "rivulet",
@@ -37,12 +36,10 @@
       ]
     },
     {
-      "description": "A continuous flow of data or instructions, typically one having a constant or predictable rate.",
-      "examples": []
+      "description": "A continuous flow of data or instructions, typically one having a constant or predictable rate."
     },
     {
-      "description": "A group in which schoolchildren of the same age and ability are taught; a track.",
-      "examples": []
+      "description": "A group in which schoolchildren of the same age and ability are taught; a track."
     }
   ],
   "verb": [
@@ -66,8 +63,7 @@
       ]
     },
     {
-      "description": "Transmit or receive (data, especially video and audio material) over the Internet as a steady, continuous flow.",
-      "examples": []
+      "description": "Transmit or receive (data, especially video and audio material) over the Internet as a steady, continuous flow."
     },
     {
       "description": "Put (schoolchildren) in groups of the same age and ability to be taught together; track.",

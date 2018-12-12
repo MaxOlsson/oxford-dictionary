@@ -63,7 +63,6 @@
     },
     {
       "description": "Shape (metal or other material) by pouring it into a mold while molten.",
-      "examples": [],
       "synonyms": [
         "mould",
         "fashion",
@@ -101,7 +100,6 @@
     },
     {
       "description": "Calculate and record details of (a horoscope).",
-      "examples": [],
       "synonyms": [
         "calculate",
         "devise",
@@ -116,8 +114,7 @@
       ]
     },
     {
-      "description": "(in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing.",
-      "examples": []
+      "description": "(in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing."
     },
     {
       "description": "(of a dog) search in different directions for a lost scent.",
@@ -157,12 +154,10 @@
       ]
     },
     {
-      "description": "A convoluted mass of earth or sand ejected onto the surface by a burrowing worm.",
-      "examples": []
+      "description": "A convoluted mass of earth or sand ejected onto the surface by a burrowing worm."
     },
     {
-      "description": "A search made by a hound or pack of hounds over a wide area to find a trail.",
-      "examples": []
+      "description": "A search made by a hound or pack of hounds over a wide area to find a trail."
     }
   ],
   "phrases": [

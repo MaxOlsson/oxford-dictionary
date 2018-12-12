@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A disk or circle of light shown surrounding or above the head of a saint or holy person to represent their holiness.",
-      "examples": [],
       "synonyms": [
         "ring of light",
         "nimbus",
@@ -18,7 +17,6 @@
     },
     {
       "description": "A circle of white or colored light around the sun, moon, or other luminous body caused by refraction through ice crystals in the atmosphere.",
-      "examples": [],
       "synonyms": [
         "ring of light",
         "nimbus",
@@ -35,8 +33,7 @@
   ],
   "verb": [
     {
-      "description": "Surround with or as if with a halo.",
-      "examples": []
+      "description": "Surround with or as if with a halo."
     }
   ],
   "origin": "Mid 16th century (denoting a circle of light round the sun etc.): from medieval Latin, from Latin halos, from Greek halōs disk of the sun or moon.",

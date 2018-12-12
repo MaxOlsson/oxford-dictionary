@@ -2,7 +2,6 @@
   "abbreviation": [
     {
       "description": "Physical education.",
-      "examples": [],
       "synonyms": [
         "physical activity",
         "movement",
@@ -12,8 +11,7 @@
       ]
     },
     {
-      "description": "Prince Edward Island (in official postal use).",
-      "examples": []
+      "description": "Prince Edward Island (in official postal use)."
     }
   ],
   "pronounciation": "/ˌpē ˈē/",

@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Fine, outstanding, or excellent.",
-      "examples": [],
       "synonyms": [
         "excellent",
         "wonderful",
@@ -22,8 +21,7 @@
   ],
   "noun": [
     {
-      "description": "An excellent or notable person or thing.",
-      "examples": []
+      "description": "An excellent or notable person or thing."
     }
   ],
   "origin": "Late 19th century: from the given name Jim (pet form of James) + dandy.",

@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "A marine bivalve mollusk with shells of equal size.",
-      "examples": []
+      "description": "A marine bivalve mollusk with shells of equal size."
     },
     {
       "description": "A dollar.",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "A shy or withdrawn person.",
-      "examples": []
+      "description": "A shy or withdrawn person."
     }
   ],
   "verb": [
@@ -24,7 +22,6 @@
     },
     {
       "description": "Abruptly stop talking, either for fear of revealing a secret or from shyness.",
-      "examples": [],
       "synonyms": [
         "be quiet",
         "keep quiet",

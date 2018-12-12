@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Relating to, characterized by, or suffering from anorexia.",
-      "examples": [],
       "synonyms": [
         "pale",
         "deathly pale",
@@ -27,12 +26,10 @@
   ],
   "noun": [
     {
-      "description": "A person suffering from anorexia.",
-      "examples": []
+      "description": "A person suffering from anorexia."
     },
     {
-      "description": "A medicine which produces a loss of appetite.",
-      "examples": []
+      "description": "A medicine which produces a loss of appetite."
     }
   ],
   "pronounciation": "/ˌænəˈrɛksɪk/",

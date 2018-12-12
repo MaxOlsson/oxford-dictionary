@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Concerning interpretation, especially of the Bible or literary texts.",
-      "examples": [],
       "synonyms": [
         "explaining",
         "descriptive",
@@ -22,8 +21,7 @@
   ],
   "noun": [
     {
-      "description": "A method or theory of interpretation.",
-      "examples": []
+      "description": "A method or theory of interpretation."
     }
   ],
   "origin": "Late 17th century: from Greek hermēneutikos, from hermēneuein interpret.",

@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of land) used or suitable for growing crops.",
-      "examples": [],
       "synonyms": [
         "fertile",
         "productive",
@@ -14,8 +13,7 @@
   ],
   "noun": [
     {
-      "description": "Arable land or crops.",
-      "examples": []
+      "description": "Arable land or crops."
     }
   ],
   "origin": "Late Middle English: from Old French, or from Latin arabilis, from arare to plow.",

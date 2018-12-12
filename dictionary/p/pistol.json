@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small firearm designed to be held in one hand.",
-      "examples": [],
       "synonyms": [
         "revolver",
         "gun",
@@ -19,8 +18,7 @@
   ],
   "verb": [
     {
-      "description": "Shoot (someone) with a pistol.",
-      "examples": []
+      "description": "Shoot (someone) with a pistol."
     }
   ],
   "origin": "Mid 16th century: from obsolete French pistole, from German Pistole, from Czech pišt'ala, of which the original meaning was whistle, hence a firearm by the resemblance in shape.",

@@ -3,7 +3,6 @@
   "verb": [
     {
       "description": "Cut down (a tree).",
-      "examples": [],
       "synonyms": [
         "cut down",
         "chop down",
@@ -28,8 +27,7 @@
   ],
   "noun": [
     {
-      "description": "An amount of timber cut.",
-      "examples": []
+      "description": "An amount of timber cut."
     }
   ],
   "adjective": [

@@ -23,12 +23,10 @@
       ]
     },
     {
-      "description": "A variable used to indicate a particular property of the data in a record.",
-      "examples": []
+      "description": "A variable used to indicate a particular property of the data in a record."
     },
     {
-      "description": "A hook attached to the stem of a musical note, determining the rhythmic value of the note.",
-      "examples": []
+      "description": "A hook attached to the stem of a musical note, determining the rhythmic value of the note."
     }
   ],
   "verb": [
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "description": "Provide or decorate with a flag or flags.",
-      "examples": []
+      "description": "Provide or decorate with a flag or flags."
     }
   ],
   "phrases": [

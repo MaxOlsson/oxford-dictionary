@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(for fresh water at sea level) at 212°F (100°C).",
-      "examples": [],
       "synonyms": [
         "at boiling point",
         "at 100 degrees celsius",
@@ -12,8 +11,7 @@
   ],
   "noun": [
     {
-      "description": "The action of bringing a liquid to the temperature at which it bubbles and turns to vapor.",
-      "examples": []
+      "description": "The action of bringing a liquid to the temperature at which it bubbles and turns to vapor."
     }
   ],
   "pronounciation": "/ˈbɔɪlɪŋ/",

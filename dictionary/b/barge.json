@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A flat-bottomed boat for carrying freight, typically on canals and rivers, either under its own power or towed by another.",
-      "examples": [],
       "synonyms": [
         "lighter",
         "canal boat",
@@ -29,8 +28,7 @@
       ]
     },
     {
-      "description": "Convey (freight) by barge.",
-      "examples": []
+      "description": "Convey (freight) by barge."
     }
   ],
   "origin": "Middle English (denoting a small seagoing vessel): from Old French, perhaps based on Greek baris Egyptian boat.",

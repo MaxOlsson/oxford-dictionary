@@ -129,7 +129,6 @@
     },
     {
       "description": "A sweepstake.",
-      "examples": [],
       "synonyms": [
         "lottery",
         "draw",
@@ -159,12 +158,10 @@
       ]
     },
     {
-      "description": "A sail of a windmill.",
-      "examples": []
+      "description": "A sail of a windmill."
     },
     {
-      "description": "A long pole mounted as a lever for raising buckets from a well.",
-      "examples": []
+      "description": "A long pole mounted as a lever for raising buckets from a well."
     }
   ],
   "phrases": [

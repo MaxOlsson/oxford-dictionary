@@ -49,8 +49,7 @@
       ]
     },
     {
-      "description": "A list of jurors empaneled.",
-      "examples": []
+      "description": "A list of jurors empaneled."
     }
   ],
   "verb": [
@@ -101,8 +100,7 @@
       ]
     },
     {
-      "description": "Empanel (a jury).",
-      "examples": []
+      "description": "Empanel (a jury)."
     }
   ],
   "origin": "Middle English (in the senses preparedness and place in readiness): from Old French arei (noun), areer (verb), based on Latin ad- towards + a Germanic base meaning prepare.",

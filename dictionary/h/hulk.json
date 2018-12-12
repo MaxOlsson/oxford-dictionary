@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An old ship stripped of fittings and permanently moored, especially for use as storage or (formerly) as a prison.",
-      "examples": [],
       "synonyms": [
         "wreck",
         "shipwreck",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "description": "A large or unwieldy boat or other object.",
-      "examples": []
+      "description": "A large or unwieldy boat or other object."
     }
   ],
   "origin": "Old English hulc fast ship, probably reinforced in Middle English by Middle Low German and Middle Dutch hulk; probably of Mediterranean origin and related to Greek holkas cargo ship.",

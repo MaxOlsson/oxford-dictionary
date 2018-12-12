@@ -47,7 +47,6 @@
     },
     {
       "description": "Pluck the strings of (a guitar or banjo).",
-      "examples": [],
       "synonyms": [
         "strum",
         "twang",
@@ -72,8 +71,7 @@
       ]
     },
     {
-      "description": "An act of blocking or screening a defensive player from the ball handler, allowing an open shot.",
-      "examples": []
+      "description": "An act of blocking or screening a defensive player from the ball handler, allowing an open shot."
     }
   ],
   "phrases": [

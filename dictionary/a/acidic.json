@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Having the properties of an acid, or containing acid; having a pH below 7.",
-      "examples": [],
       "synonyms": [
         "sour",
         "tart",
@@ -46,8 +45,7 @@
       ]
     },
     {
-      "description": "(of rock, especially lava) relatively rich in silica.",
-      "examples": []
+      "description": "(of rock, especially lava) relatively rich in silica."
     }
   ],
   "pronounciation": "/əˈsɪdɪk/",

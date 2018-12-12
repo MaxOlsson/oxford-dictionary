@@ -25,7 +25,6 @@
     },
     {
       "description": "A person in a novel, play, or movie.",
-      "examples": [],
       "synonyms": [
         "persona",
         "person",
@@ -34,12 +33,10 @@
       ]
     },
     {
-      "description": "A printed or written letter or symbol.",
-      "examples": []
+      "description": "A printed or written letter or symbol."
     },
     {
       "description": "A characteristic, especially one that assists in the identification of a species.",
-      "examples": [],
       "synonyms": [
         "sort",
         "variety",
@@ -67,8 +64,7 @@
   ],
   "verb": [
     {
-      "description": "Inscribe; engrave.",
-      "examples": []
+      "description": "Inscribe; engrave."
     }
   ],
   "phrases": [

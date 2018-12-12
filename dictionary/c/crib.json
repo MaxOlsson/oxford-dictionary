@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A young child's bed with barred or latticed sides.",
-      "examples": [],
       "synonyms": [
         "cot",
         "cradle",
@@ -24,7 +23,6 @@
     },
     {
       "description": "An apartment or house.",
-      "examples": [],
       "synonyms": [
         "house",
         "flat",
@@ -35,8 +33,7 @@
       ]
     },
     {
-      "description": "A heavy timber framework used in foundations for a building or to line a mine shaft.",
-      "examples": []
+      "description": "A heavy timber framework used in foundations for a building or to line a mine shaft."
     }
   ],
   "verb": [

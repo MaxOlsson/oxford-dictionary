@@ -44,7 +44,6 @@
     },
     {
       "description": "A continuous musical note of low pitch.",
-      "examples": [],
       "synonyms": [
         "hum",
         "drone",
@@ -53,12 +52,10 @@
       ]
     },
     {
-      "description": "A male bee in a colony of social bees, which does no work but can fertilize a queen.",
-      "examples": []
+      "description": "A male bee in a colony of social bees, which does no work but can fertilize a queen."
     },
     {
-      "description": "A remote-controlled pilotless aircraft or missile.",
-      "examples": []
+      "description": "A remote-controlled pilotless aircraft or missile."
     }
   ],
   "origin": "Old English drān, drǣn male bee, from a West Germanic verb meaning resound, boom; related to Dutch dreunen to drone, German dröhnen to roar, and Swedish dröna to drowse.",

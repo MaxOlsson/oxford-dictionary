@@ -14,12 +14,10 @@
       ]
     },
     {
-      "description": "A certificate or warrant.",
-      "examples": []
+      "description": "A certificate or warrant."
     },
     {
       "description": "A label attached to a retail product, giving its price, size, and other details.",
-      "examples": [],
       "synonyms": [
         "label",
         "tag",

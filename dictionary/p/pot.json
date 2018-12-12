@@ -30,7 +30,6 @@
     },
     {
       "description": "A potbelly.",
-      "examples": [],
       "synonyms": [
         "paunch",
         "belly",
@@ -41,8 +40,7 @@
       ]
     },
     {
-      "description": "A toilet.",
-      "examples": []
+      "description": "A toilet."
     }
   ],
   "verb": [
@@ -59,11 +57,12 @@
       ]
     },
     {
-      "description": "Hit or kill (someone or something) by shooting.",
-      "examples": []
+      "description": "Hit or kill (someone or something) by shooting."
     },
     {
-      "examples": []
+      "examples": [
+        "he was shot in the eye as neighbors potted clay pigeons"
+      ]
     }
   ],
   "phrases": [

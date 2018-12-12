@@ -24,7 +24,6 @@
     },
     {
       "description": "A thin coating containing unoxidized metal which gives an iridescent glaze to ceramics.",
-      "examples": [],
       "synonyms": [
         "glaze",
         "lacquer",
@@ -39,12 +38,10 @@
       ]
     },
     {
-      "description": "A fabric or yarn with a sheen or gloss.",
-      "examples": []
+      "description": "A fabric or yarn with a sheen or gloss."
     },
     {
-      "description": "A prismatic glass pendant on a chandelier or other ornament.",
-      "examples": []
+      "description": "A prismatic glass pendant on a chandelier or other ornament."
     }
   ],
   "origin": "Early 16th century: from French, from Italian lustro, from the verb lustrare, from Latin lustrare illuminate.",

@@ -1,14 +1,12 @@
 {
   "adjective": [
     {
-      "description": "Consisting of several terms.",
-      "examples": []
+      "description": "Consisting of several terms."
     }
   ],
   "noun": [
     {
-      "description": "An expression of more than two algebraic terms, especially the sum of several terms that contain different powers of the same variable(s).",
-      "examples": []
+      "description": "An expression of more than two algebraic terms, especially the sum of several terms that contain different powers of the same variable(s)."
     }
   ],
   "origin": "Late 17th century: from poly- many, on the pattern of multinomial.",

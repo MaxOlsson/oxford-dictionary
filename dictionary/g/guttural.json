@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a speech sound) produced in the throat; harsh-sounding.",
-      "examples": [],
       "synonyms": [
         "throaty",
         "husky",
@@ -24,8 +23,7 @@
   ],
   "noun": [
     {
-      "description": "A guttural consonant (e.g. k, g) or other speech sound.",
-      "examples": []
+      "description": "A guttural consonant (e.g. k, g) or other speech sound."
     }
   ],
   "origin": "Late 16th century: from French, or from medieval Latin gutturalis, from Latin guttur throat.",

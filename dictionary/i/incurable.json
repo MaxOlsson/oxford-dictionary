@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a sick person or a disease) not able to be cured.",
-      "examples": [],
       "synonyms": [
         "untreatable",
         "inoperable",
@@ -13,8 +12,7 @@
   ],
   "noun": [
     {
-      "description": "A person who cannot be cured.",
-      "examples": []
+      "description": "A person who cannot be cured."
     }
   ],
   "origin": "Middle English: from Old French, or from late Latin incurabilis, from in- not + curabilis (see curable).",

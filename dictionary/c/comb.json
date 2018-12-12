@@ -1,22 +1,18 @@
 {
   "noun": [
     {
-      "description": "A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.",
-      "examples": []
+      "description": "A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair."
     },
     {
-      "description": "A device for separating and dressing textile fibers.",
-      "examples": []
+      "description": "A device for separating and dressing textile fibers."
     },
     {
-      "description": "The red fleshy crest on the head of a domestic fowl, especially a rooster.",
-      "examples": []
+      "description": "The red fleshy crest on the head of a domestic fowl, especially a rooster."
     }
   ],
   "verb": [
     {
       "description": "Untangle or arrange (the hair) by drawing a comb through it.",
-      "examples": [],
       "synonyms": [
         "groom",
         "untangle",
@@ -32,7 +28,6 @@
     },
     {
       "description": "Prepare (wool, flax, or cotton) for manufacture with a comb.",
-      "examples": [],
       "synonyms": [
         "separate",
         "dress",

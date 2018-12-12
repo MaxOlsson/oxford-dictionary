@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A regular short, sharp sound, especially that made by a clock or watch.",
-      "examples": [],
       "synonyms": [
         "clicking",
         "click",
@@ -22,7 +21,6 @@
     },
     {
       "description": "A mark (✓) used to indicate that an item in a list or text is correct or has been chosen, checked, or dealt with; a check mark.",
-      "examples": [],
       "synonyms": [
         "mark",
         "stroke",
@@ -31,8 +29,7 @@
       ]
     },
     {
-      "description": "The smallest recognized amount by which a price of a security or future may fluctuate.",
-      "examples": []
+      "description": "The smallest recognized amount by which a price of a security or future may fluctuate."
     }
   ],
   "verb": [

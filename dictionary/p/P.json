@@ -1,8 +1,7 @@
 {
   "abbreviation": [
     {
-      "description": "Page.",
-      "examples": []
+      "description": "Page."
     },
     {
       "description": "Para-",
@@ -11,12 +10,10 @@
       ]
     },
     {
-      "description": "Penny or pence.",
-      "examples": []
+      "description": "Penny or pence."
     },
     {
-      "description": "Piano (softly).",
-      "examples": []
+      "description": "Piano (softly)."
     },
     {
       "description": "(in units of measurement) pico- (10¹²)",
@@ -25,24 +22,20 @@
       ]
     },
     {
-      "description": "Denoting electrons and orbitals possessing one unit of angular momentum.",
-      "examples": []
+      "description": "Denoting electrons and orbitals possessing one unit of angular momentum."
     }
   ],
   "": [
     {
-      "description": "Pressure.",
-      "examples": []
+      "description": "Pressure."
     },
     {
-      "description": "Probability.",
-      "examples": []
+      "description": "Probability."
     }
   ],
   "noun": [
     {
-      "description": "The sixteenth letter of the alphabet.",
-      "examples": []
+      "description": "The sixteenth letter of the alphabet."
     }
   ],
   "pronounciation": "/pē/",

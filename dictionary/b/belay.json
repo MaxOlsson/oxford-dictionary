@@ -1,8 +1,7 @@
 {
   "verb": [
     {
-      "description": "Fix (a running rope) around a cleat, rock, pin, or other object, to secure it.",
-      "examples": []
+      "description": "Fix (a running rope) around a cleat, rock, pin, or other object, to secure it."
     },
     {
       "description": "Stop; enough!",
@@ -26,8 +25,7 @@
       ]
     },
     {
-      "description": "A spike of rock or other hard material used for belaying.",
-      "examples": []
+      "description": "A spike of rock or other hard material used for belaying."
     }
   ],
   "origin": "Mid 16th century (originally in nautical use): from be- + lay, on the pattern of Dutch beleggen.",

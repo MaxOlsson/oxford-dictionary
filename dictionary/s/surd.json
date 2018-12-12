@@ -1,22 +1,18 @@
 {
   "adjective": [
     {
-      "description": "(of a number) irrational.",
-      "examples": []
+      "description": "(of a number) irrational."
     },
     {
-      "description": "(of a speech sound) uttered with the breath and not the voice (e.g. f, k, p, s, t).",
-      "examples": []
+      "description": "(of a speech sound) uttered with the breath and not the voice (e.g. f, k, p, s, t)."
     }
   ],
   "noun": [
     {
-      "description": "A surd number, especially the irrational root of an integer.",
-      "examples": []
+      "description": "A surd number, especially the irrational root of an integer."
     },
     {
-      "description": "A surd consonant.",
-      "examples": []
+      "description": "A surd consonant."
     }
   ],
   "origin": "Mid 16th century: from Latin surdus deaf, mute; as a mathematical term, translating Greek (Euclid) alogos irrational, speechless, apparently via Arabic jiḏr aṣamm, literally deaf root. surd (sense 2 of the adjective) dates from the mid 18th century.",

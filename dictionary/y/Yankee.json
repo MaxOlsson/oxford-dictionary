@@ -1,16 +1,13 @@
 {
   "noun": [
     {
-      "description": "A person who lives in, or is from, the US.",
-      "examples": []
+      "description": "A person who lives in, or is from, the US."
     },
     {
-      "description": "An inhabitant of New England or one of the northern states.",
-      "examples": []
+      "description": "An inhabitant of New England or one of the northern states."
     },
     {
       "description": "A bet on four or more horses to win (or be placed) in different races.",
-      "examples": [],
       "synonyms": [
         "wager",
         "stake",
@@ -19,12 +16,10 @@
       ]
     },
     {
-      "description": "A large jib set forward of a staysail in light winds.",
-      "examples": []
+      "description": "A large jib set forward of a staysail in light winds."
     },
     {
-      "description": "A code word representing the letter Y, used in radio communication.",
-      "examples": []
+      "description": "A code word representing the letter Y, used in radio communication."
     }
   ],
   "origin": "Mid 18th century: origin uncertain; recorded in the late 17th century as a nickname; perhaps from Dutch Janke, diminutive of Jan John.",

@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "A mapping that is both one-to-one (an injection) and onto (a surjection), i.e. a function which relates each member of a set S (the domain) to a separate and distinct member of another set T (the range), where each member in T also has a corresponding member in S.",
-      "examples": []
+      "description": "A mapping that is both one-to-one (an injection) and onto (a surjection), i.e. a function which relates each member of a set S (the domain) to a separate and distinct member of another set T (the range), where each member in T also has a corresponding member in S."
     }
   ],
   "pronounciation": "/bʌɪˈdʒɛkʃ(ə)n/",

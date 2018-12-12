@@ -28,8 +28,7 @@
       ]
     },
     {
-      "description": "A thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient.",
-      "examples": []
+      "description": "A thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient."
     }
   ],
   "origin": "Late Middle English: from French activité or late Latin activitas, from Latin act- done, from the verb agere.",

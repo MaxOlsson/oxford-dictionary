@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "The action or fact of going in or entering.",
-      "examples": [],
       "synonyms": [
         "entry",
         "entrance",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "description": "The arrival of the sun, moon, or a planet in a specified constellation or part of the sky.",
-      "examples": []
+      "description": "The arrival of the sun, moon, or a planet in a specified constellation or part of the sky."
     }
   ],
   "origin": "Late Middle English (in the sense an entrance or beginning): from Latin ingressus, from the verb ingredi enter.",

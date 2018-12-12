@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A part of the circumference of a circle or other curve.",
-      "examples": [],
       "synonyms": [
         "curve",
         "bend",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "A luminous electrical discharge between two electrodes or other points.",
-      "examples": []
+      "description": "A luminous electrical discharge between two electrodes or other points."
     },
     {
       "description": "(in a novel, play, or movie) the development or resolution of the narrative or principal theme.",
@@ -44,12 +42,10 @@
   ],
   "abbreviation": [
     {
-      "description": "AIDS-related complex.",
-      "examples": []
+      "description": "AIDS-related complex."
     },
     {
-      "description": "American Red Cross.",
-      "examples": []
+      "description": "American Red Cross."
     }
   ],
   "origin": "Late Middle English (denoting the path of a celestial object, especially the sun, from horizon to horizon): via Old French from Latin arcus bow, curve.",

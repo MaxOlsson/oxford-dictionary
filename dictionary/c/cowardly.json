@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Lacking courage.",
-      "examples": [],
       "synonyms": [
         "faint-hearted",
         "lily-livered",
@@ -16,8 +15,7 @@
   ],
   "adverb": [
     {
-      "description": "In a way which shows a lack of courage.",
-      "examples": []
+      "description": "In a way which shows a lack of courage."
     }
   ],
   "pronounciation": "/ˈkouərdlē/",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A person who receives Holy Communion.",
-      "examples": [],
       "synonyms": [
         "parishioners",
         "parish",
@@ -24,8 +23,7 @@
       ]
     },
     {
-      "description": "A person who imparts information.",
-      "examples": []
+      "description": "A person who imparts information."
     }
   ],
   "origin": "Mid 16th century: from Latin communicant- sharing, from the verb communicare (see communicate).",

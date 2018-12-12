@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An infant's bed or crib, typically one mounted on rockers.",
-      "examples": [],
       "synonyms": [
         "crib",
         "bassinet",
@@ -13,7 +12,6 @@
     },
     {
       "description": "A framework on which a ship or boat rests during construction or repairs.",
-      "examples": [],
       "synonyms": [
         "framework",
         "rack",
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "description": "Place (a telephone receiver) in its cradle.",
-      "examples": []
+      "description": "Place (a telephone receiver) in its cradle."
     }
   ],
   "origin": "Old English cradol, of uncertain origin; perhaps related to German Kratte basket.",

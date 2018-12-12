@@ -1,18 +1,15 @@
 {
   "": [
     {
-      "description": "The chemical element gold.",
-      "examples": []
+      "description": "The chemical element gold."
     }
   ],
   "abbreviation": [
     {
-      "description": "Ångström unit(s).",
-      "examples": []
+      "description": "Ångström unit(s)."
     },
     {
-      "description": "Astronomical unit(s).",
-      "examples": []
+      "description": "Astronomical unit(s)."
     }
   ],
   "origin": "From Latin aurum.",

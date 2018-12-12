@@ -13,7 +13,6 @@
     },
     {
       "description": "A zero; a figure 0.",
-      "examples": [],
       "synonyms": [
         "zero",
         "nought",
@@ -23,7 +22,6 @@
     },
     {
       "description": "A monogram.",
-      "examples": [],
       "synonyms": [
         "numeral",
         "number",
@@ -35,12 +33,10 @@
   ],
   "verb": [
     {
-      "description": "Put (a message) into secret writing; encode.",
-      "examples": []
+      "description": "Put (a message) into secret writing; encode."
     },
     {
-      "description": "Do arithmetic.",
-      "examples": []
+      "description": "Do arithmetic."
     }
   ],
   "origin": "Late 18th century: perhaps from cipher.",

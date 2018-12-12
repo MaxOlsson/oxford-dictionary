@@ -2,7 +2,6 @@
   "plural noun": [
     {
       "description": "Large ruminant animals with horns and cloven hoofs, domesticated for meat or milk, or as beasts of burden; cows.",
-      "examples": [],
       "synonyms": [
         "cows",
         "bovines",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "Similar animals of a group related to domestic cattle, including yak, bison, and buffalo.",
-      "examples": []
+      "description": "Similar animals of a group related to domestic cattle, including yak, bison, and buffalo."
     }
   ],
   "origin": "Middle English (also denoting personal property or wealth): from Anglo-Norman French catel, variant of Old French chatel (see chattel).",

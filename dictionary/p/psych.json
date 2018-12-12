@@ -25,20 +25,20 @@
       ]
     },
     {
-      "description": "Make a psychic bid.",
-      "examples": []
+      "description": "Make a psychic bid."
     }
   ],
   "noun": [
     {
-      "description": "A psychic bid.",
-      "examples": []
+      "description": "A psychic bid."
     }
   ],
   "adjective": [
     null,
     {
-      "examples": []
+      "examples": [
+        "a rare old psych album"
+      ]
     }
   ],
   "phrases": [

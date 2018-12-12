@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Relating to or dealing in antiques or rare books.",
-      "examples": [],
       "synonyms": [
         "old style",
         "former",
@@ -27,8 +26,7 @@
   ],
   "noun": [
     {
-      "description": "A person who studies or collects antiques or antiquities.",
-      "examples": []
+      "description": "A person who studies or collects antiques or antiquities."
     }
   ],
   "origin": "Early 17th century: from Latin antiquarius (see antiquary).",

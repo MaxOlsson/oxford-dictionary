@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "(of a motor vehicle or boat) pull (another vehicle or boat) along with a rope, chain, or tow bar.",
-      "examples": [],
       "synonyms": [
         "pull",
         "draw",
@@ -21,7 +20,6 @@
   "noun": [
     {
       "description": "An act of towing a vehicle or boat.",
-      "examples": [],
       "synonyms": [
         "tug",
         "towing",
@@ -36,8 +34,7 @@
   ],
   "abbreviation": [
     {
-      "description": "Tube-launched, optically tracked, wire-guided (missile).",
-      "examples": []
+      "description": "Tube-launched, optically tracked, wire-guided (missile)."
     }
   ],
   "phrases": [

@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A large receptacle or storage chamber, especially for liquid or gas.",
-      "examples": []
+      "description": "A large receptacle or storage chamber, especially for liquid or gas."
     },
     {
       "description": "A heavy armored fighting vehicle carrying guns and moving on a continuous articulated metal track.",
-      "examples": [],
       "synonyms": [
         "armoured vehicle",
         "armoured car",
@@ -15,7 +13,6 @@
     },
     {
       "description": "A cell in a police station or jail.",
-      "examples": [],
       "synonyms": [
         "dungeon",
         "oubliette",
@@ -32,8 +29,7 @@
       ]
     },
     {
-      "description": "Fail completely, especially at great financial cost.",
-      "examples": []
+      "description": "Fail completely, especially at great financial cost."
     }
   ],
   "origin": "Early 17th century: perhaps from Gujarati tānkũ or Marathi tānkẽ underground cistern, from Sanskrit tadāga pond, probably influenced by Portuguese tangue pond, from Latin stagnum. The military vehicle took its name from the use of tank as a secret code word during manufacture in 1915.",

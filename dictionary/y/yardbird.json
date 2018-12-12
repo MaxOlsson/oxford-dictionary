@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A new military recruit, especially one assigned to menial tasks.",
-      "examples": [],
       "synonyms": [
         "novice",
         "starter",
@@ -16,7 +15,6 @@
     },
     {
       "description": "A convict.",
-      "examples": [],
       "synonyms": [
         "prisoner",
         "convict",
@@ -25,8 +23,7 @@
       ]
     },
     {
-      "description": "A chicken.",
-      "examples": []
+      "description": "A chicken."
     }
   ],
   "origin": "1940s: perhaps suggested by jailbird.",

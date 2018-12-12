@@ -37,7 +37,6 @@
     },
     {
       "description": "An item or items of a particular color or combination of colors worn to identify an individual or a member of a school, group, or organization.",
-      "examples": [],
       "synonyms": [
         "clothes",
         "clothing",
@@ -57,18 +56,15 @@
       ]
     },
     {
-      "description": "A quantized property of quarks which can take three values (designated blue, green, and red) for each flavor.",
-      "examples": []
+      "description": "A quantized property of quarks which can take three values (designated blue, green, and red) for each flavor."
     },
     {
-      "description": "A particle of gold remaining in a mining pan after most of the mud and gravel have been washed away.",
-      "examples": []
+      "description": "A particle of gold remaining in a mining pan after most of the mud and gravel have been washed away."
     }
   ],
   "verb": [
     {
       "description": "Change the color of (something) by painting, dyeing, or shading it.",
-      "examples": [],
       "synonyms": [
         "tint",
         "dye",

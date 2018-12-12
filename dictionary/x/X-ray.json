@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "An electromagnetic wave of high energy and very short wavelength, which is able to pass through many materials opaque to light.",
-      "examples": []
+      "description": "An electromagnetic wave of high energy and very short wavelength, which is able to pass through many materials opaque to light."
     },
     {
       "description": "A photographic or digital image of the internal composition of something, especially a part of the body, produced by X-rays being passed through it and being absorbed to different degrees by different materials.",
-      "examples": [],
       "synonyms": [
         "radiogram",
         "radiograph",
@@ -14,8 +12,7 @@
       ]
     },
     {
-      "description": "A code word representing the letter X, used in radio communication.",
-      "examples": []
+      "description": "A code word representing the letter X, used in radio communication."
     }
   ],
   "verb": [

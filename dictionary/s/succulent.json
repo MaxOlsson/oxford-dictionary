@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of food) tender, juicy, and tasty.",
-      "examples": [],
       "synonyms": [
         "juicy",
         "moist",
@@ -19,8 +18,7 @@
   ],
   "noun": [
     {
-      "description": "A succulent plant.",
-      "examples": []
+      "description": "A succulent plant."
     }
   ],
   "origin": "Early 17th century: from Latin succulentus, from succus juice.",

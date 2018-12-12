@@ -43,12 +43,10 @@
       ]
     },
     {
-      "description": "A piece of cloth or clothing, especially one used as a patch.",
-      "examples": []
+      "description": "A piece of cloth or clothing, especially one used as a patch."
     },
     {
-      "description": "A target used in long-distance shooting, placed flat on the ground with a flag marking its center.",
-      "examples": []
+      "description": "A target used in long-distance shooting, placed flat on the ground with a flag marking its center."
     }
   ],
   "verb": [
@@ -81,7 +79,6 @@
     },
     {
       "description": "Mend with a patch.",
-      "examples": [],
       "synonyms": [
         "repair",
         "fix",

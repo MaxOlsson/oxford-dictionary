@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Relating to the south polar region or Antarctica.",
-      "examples": [],
       "synonyms": [
         "arctic"
       ]
@@ -10,8 +9,7 @@
   ],
   "noun": [
     {
-      "description": "The Antarctic region.",
-      "examples": []
+      "description": "The Antarctic region."
     }
   ],
   "origin": "Late Middle English: from Old French antartique or Latin antarcticus, from Greek antarktikos opposite to the north, from ant- against + arktikos (see Arctic).",

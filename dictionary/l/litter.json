@@ -33,12 +33,10 @@
       ]
     },
     {
-      "description": "Absorbent material, typically in granular form, used to line a shallow receptacle in which a cat can urinate and defecate when indoors.",
-      "examples": []
+      "description": "Absorbent material, typically in granular form, used to line a shallow receptacle in which a cat can urinate and defecate when indoors."
     },
     {
       "description": "Straw or other plant matter used as bedding for animals.",
-      "examples": [],
       "synonyms": [
         "animal bedding",
         "bedding",
@@ -48,7 +46,6 @@
     },
     {
       "description": "A vehicle containing a bed or seat enclosed by curtains and carried on men's shoulders or by animals.",
-      "examples": [],
       "synonyms": [
         "sedan chair",
         "palanquin"
@@ -74,8 +71,7 @@
       ]
     },
     {
-      "description": "Provide (a horse or other animal) with litter as bedding.",
-      "examples": []
+      "description": "Provide (a horse or other animal) with litter as bedding."
     }
   ],
   "origin": "Middle English (in litter (sense 5 of the noun)): from Old French litiere, from medieval Latin lectaria, from Latin lectus bed. Sense 1 dates from the mid 18th century.",

@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Relating to or characteristic of Europe or its inhabitants.",
-      "examples": [],
       "synonyms": [
         "caucasian",
         "non-black"
@@ -11,8 +10,7 @@
   ],
   "noun": [
     {
-      "description": "A native or inhabitant of Europe.",
-      "examples": []
+      "description": "A native or inhabitant of Europe."
     }
   ],
   "origin": "From French européen, from Latin europaeus, based on Greek Eurōpē Europe.",

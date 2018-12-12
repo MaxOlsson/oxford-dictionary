@@ -15,7 +15,6 @@
   "noun": [
     {
       "description": "A car with a folding or detachable roof.",
-      "examples": [],
       "synonyms": [
         "soft-top",
         "ragtop",
@@ -23,8 +22,7 @@
       ]
     },
     {
-      "description": "A convertible security.",
-      "examples": []
+      "description": "A convertible security."
     }
   ],
   "origin": "Late Middle English (in the sense interchangeable): from Old French, from Latin convertibilis, from convertere turn about (see convert).",

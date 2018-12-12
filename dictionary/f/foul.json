@@ -94,7 +94,6 @@
     },
     {
       "description": "(of the weather) wet and stormy.",
-      "examples": [],
       "synonyms": [
         "inclement",
         "unpleasant",
@@ -109,7 +108,6 @@
   "noun": [
     {
       "description": "(in sports) an unfair or invalid stroke or piece of play, especially one involving interference with an opponent.",
-      "examples": [],
       "synonyms": [
         "unfair",
         "against the rules",
@@ -138,8 +136,7 @@
   ],
   "adverb": [
     {
-      "description": "Unfairly; contrary to the rules.",
-      "examples": []
+      "description": "Unfairly; contrary to the rules."
     }
   ],
   "verb": [
@@ -173,12 +170,10 @@
       ]
     },
     {
-      "description": "(in sports) commit a foul against (an opponent).",
-      "examples": []
+      "description": "(in sports) commit a foul against (an opponent)."
     },
     {
-      "description": "(of a ship) collide with or interfere with the passage of (another).",
-      "examples": []
+      "description": "(of a ship) collide with or interfere with the passage of (another)."
     }
   ],
   "phrases": [

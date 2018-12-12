@@ -1,7 +1,9 @@
 {
   "noun": [
     {
-      "examples": [],
+      "examples": [
+        "a hotchpotch of uncoordinated services"
+      ],
       "synonyms": [
         "mixture",
         "mix",
@@ -19,8 +21,7 @@
       ]
     },
     {
-      "description": "A mutton stew with mixed vegetables.",
-      "examples": []
+      "description": "A mutton stew with mixed vegetables."
     }
   ],
   "origin": "Late Middle English: variant of hotchpot.",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A garland or wreath for a person's head.",
-      "examples": [],
       "synonyms": [
         "festoon",
         "lei",
@@ -17,7 +16,6 @@
     },
     {
       "description": "A string of 55 beads (one third of the rosary number) for counting prayers, or as a necklace.",
-      "examples": [],
       "synonyms": [
         "strand",
         "rope",
@@ -26,8 +24,7 @@
       ]
     },
     {
-      "description": "A metal support for the core of a hollow casting mold.",
-      "examples": []
+      "description": "A metal support for the core of a hollow casting mold."
     }
   ],
   "origin": "Late Middle English: from Old French chapelet, diminutive of chapel hat, based on late Latin cappa cap.",

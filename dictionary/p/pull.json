@@ -70,12 +70,10 @@
       ]
     },
     {
-      "description": "(of a lineman) withdraw from position and cross parallel to and behind the line of scrimmage to block opposing players for a runner.",
-      "examples": []
+      "description": "(of a lineman) withdraw from position and cross parallel to and behind the line of scrimmage to block opposing players for a runner."
     },
     {
       "description": "Print (a proof).",
-      "examples": [],
       "synonyms": [
         "set in print",
         "send to press",
@@ -119,7 +117,6 @@
     },
     {
       "description": "A printer's proof.",
-      "examples": [],
       "synonyms": [
         "page proof",
         "galley proof",

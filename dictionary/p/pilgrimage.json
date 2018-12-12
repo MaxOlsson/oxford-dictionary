@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A pilgrim's journey.",
-      "examples": [],
       "synonyms": [
         "religious journey",
         "holy expedition",
@@ -16,8 +15,7 @@
   ],
   "verb": [
     {
-      "description": "Go on a pilgrimage.",
-      "examples": []
+      "description": "Go on a pilgrimage."
     }
   ],
   "origin": "Middle English: from Provençal pelegrinage, from pelegrin (see pilgrim).",

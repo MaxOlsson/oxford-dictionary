@@ -42,16 +42,13 @@
       ]
     },
     {
-      "description": "Move a piece or pawn so that (the opposing king) is under attack.",
-      "examples": []
+      "description": "Move a piece or pawn so that (the opposing king) is under attack."
     },
     {
-      "description": "(in poker) choose not to make a bet when called upon, allowing the action to move to another player.",
-      "examples": []
+      "description": "(in poker) choose not to make a bet when called upon, allowing the action to move to another player."
     },
     {
-      "description": "(of a hound) pause to make sure of or regain a scent.",
-      "examples": []
+      "description": "(of a hound) pause to make sure of or regain a scent."
     }
   ],
   "noun": [
@@ -84,8 +81,7 @@
       ]
     },
     {
-      "description": "A move by which a piece or pawn directly attacks the opponent's king. If the defending player cannot counter the attack, the king is checkmated.",
-      "examples": []
+      "description": "A move by which a piece or pawn directly attacks the opponent's king. If the defending player cannot counter the attack, the king is checkmated."
     },
     {
       "description": "A written order to a bank to pay a stated sum from the drawer's account.",
@@ -94,30 +90,24 @@
       ]
     },
     {
-      "description": "A token of identification for left luggage.",
-      "examples": []
+      "description": "A token of identification for left luggage."
     },
     {
-      "description": "A counter used as a stake in a gambling game.",
-      "examples": []
+      "description": "A counter used as a stake in a gambling game."
     },
     {
-      "description": "A part of a piano that catches the hammer and prevents it from retouching the strings.",
-      "examples": []
+      "description": "A part of a piano that catches the hammer and prevents it from retouching the strings."
     },
     {
-      "description": "A crack or flaw in timber.",
-      "examples": []
+      "description": "A crack or flaw in timber."
     }
   ],
   "exclamation": [
     {
-      "description": "Expressing assent or agreement.",
-      "examples": []
+      "description": "Expressing assent or agreement."
     },
     {
-      "description": "Used by a chess player to announce that the opponent's king has been placed in check.",
-      "examples": []
+      "description": "Used by a chess player to announce that the opponent's king has been placed in check."
     }
   ],
   "adjective": [

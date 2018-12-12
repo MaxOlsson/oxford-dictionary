@@ -16,7 +16,6 @@
   "noun": [
     {
       "description": "A report or rumor.",
-      "examples": [],
       "synonyms": [
         "rumour",
         "story",
@@ -28,8 +27,7 @@
       ]
     },
     {
-      "description": "A sound, especially an abnormal one, heard through a stethoscope; a murmur.",
-      "examples": []
+      "description": "A sound, especially an abnormal one, heard through a stethoscope; a murmur."
     }
   ],
   "origin": "Late Middle English (as a noun): from Old French bruit noise, from bruire to roar.",

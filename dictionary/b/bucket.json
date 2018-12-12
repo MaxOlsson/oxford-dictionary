@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A roughly cylindrical open container, typically made of metal or plastic, with a handle, used to hold and carry liquids or other material.",
-      "examples": [],
       "synonyms": [
         "pail",
         "scuttle",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "description": "A unit of data that can be transferred from secondary storage in a single operation.",
-      "examples": []
+      "description": "A unit of data that can be transferred from secondary storage in a single operation."
     }
   ],
   "verb": [

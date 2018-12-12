@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "(in imperial Russia) a whip used to inflict punishment, often causing death.",
-      "examples": [],
       "synonyms": [
         "whip",
         "horsewhip",
@@ -22,8 +21,7 @@
   ],
   "verb": [
     {
-      "description": "Flog (someone) with a knout.",
-      "examples": []
+      "description": "Flog (someone) with a knout."
     }
   ],
   "origin": "Mid 17th century: via French from Russian knut, from Old Norse knútr; related to knot.",

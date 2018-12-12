@@ -18,8 +18,7 @@
       ]
     },
     {
-      "description": "A server that distributes synchronized time information to all members of a network.",
-      "examples": []
+      "description": "A server that distributes synchronized time information to all members of a network."
     }
   ],
   "pronounciation": "/taɪm ˈsərvər/",

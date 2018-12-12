@@ -15,12 +15,10 @@
       ]
     },
     {
-      "description": "A senior officer in the diplomatic service.",
-      "examples": []
+      "description": "A senior officer in the diplomatic service."
     },
     {
       "description": "A trial lawyer.",
-      "examples": [],
       "synonyms": [
         "barrister",
         "lawyer",
@@ -30,7 +28,6 @@
     },
     {
       "description": "A person who supervises children at a camp.",
-      "examples": [],
       "synonyms": [
         "educator",
         "tutor",

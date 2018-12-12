@@ -73,8 +73,7 @@
       ]
     },
     {
-      "description": "Ensure that one's remaining cards in (a suit) will be winners (if not trumped) by playing off the high cards in that suit.",
-      "examples": []
+      "description": "Ensure that one's remaining cards in (a suit) will be winners (if not trumped) by playing off the high cards in that suit."
     }
   ],
   "origin": "Late Middle English (recorded earlier as stablish): from Old French establiss-, lengthened stem of establir, from Latin stabilire make firm, from stabilis (adjective) stable.",

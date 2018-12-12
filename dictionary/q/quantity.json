@@ -28,12 +28,10 @@
       ]
     },
     {
-      "description": "The perceived length of a vowel sound or syllable.",
-      "examples": []
+      "description": "The perceived length of a vowel sound or syllable."
     },
     {
-      "description": "A value or component that may be expressed in numbers.",
-      "examples": []
+      "description": "A value or component that may be expressed in numbers."
     }
   ],
   "origin": "Middle English: from Old French quantite, from Latin quantitas (translating Greek posotēs), from quantus how great, how much.",

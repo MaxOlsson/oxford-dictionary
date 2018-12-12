@@ -35,7 +35,6 @@
     },
     {
       "description": "A right-angled support attached to and projecting from a wall for holding a shelf, lamp, or other object.",
-      "examples": [],
       "synonyms": [
         "support",
         "prop",
@@ -46,8 +45,7 @@
       ]
     },
     {
-      "description": "The distance between two artillery shots fired either side of the target to establish range.",
-      "examples": []
+      "description": "The distance between two artillery shots fired either side of the target to establish range."
     },
     {
       "description": "A diagram representing the sequence of games in a sports tournament, especially as used for making predictions about its outcome.",
@@ -88,8 +86,7 @@
       ]
     },
     {
-      "description": "Establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it.",
-      "examples": []
+      "description": "Establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it."
     }
   ],
   "origin": "Late 16th century: from French braguette or Spanish bragueta codpiece, bracket, corbel, from Provençal braga, from Latin braca, (plural) bracae breeches.",

@@ -8,7 +8,6 @@
     },
     {
       "description": "A container filled with food for birds or mammals.",
-      "examples": [],
       "synonyms": [
         "manger",
         "feeding container",
@@ -18,8 +17,7 @@
       ]
     },
     {
-      "description": "A person or thing that supplies something.",
-      "examples": []
+      "description": "A person or thing that supplies something."
     }
   ],
   "pronounciation": "/ˈfidər/",

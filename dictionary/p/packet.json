@@ -19,7 +19,6 @@
     },
     {
       "description": "A ship traveling at regular intervals between two ports, originally for the conveyance of mail.",
-      "examples": [],
       "synonyms": [
         "passenger boat",
         "passenger ship",
@@ -29,8 +28,7 @@
       ]
     },
     {
-      "description": "A block of data transmitted across a network.",
-      "examples": []
+      "description": "A block of data transmitted across a network."
     }
   ],
   "verb": [

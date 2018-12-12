@@ -42,7 +42,6 @@
     },
     {
       "description": "An area of land set aside and prepared for racing, golf, or another sport.",
-      "examples": [],
       "synonyms": [
         "track",
         "racetrack",
@@ -73,7 +72,6 @@
     },
     {
       "description": "A continuous horizontal layer of brick, stone, or other material in a building.",
-      "examples": [],
       "synonyms": [
         "layer",
         "thickness",
@@ -86,7 +84,6 @@
     },
     {
       "description": "A pursuit of game (especially hares) with greyhounds by sight rather than scent.",
-      "examples": [],
       "synonyms": [
         "pursuit",
         "hunt",
@@ -94,12 +91,10 @@
       ]
     },
     {
-      "description": "The lowest sail on a square-rigged mast.",
-      "examples": []
+      "description": "The lowest sail on a square-rigged mast."
     },
     {
-      "description": "A set of adjacent strings on a guitar, lute, etc., tuned to the same note.",
-      "examples": []
+      "description": "A set of adjacent strings on a guitar, lute, etc., tuned to the same note."
     }
   ],
   "verb": [

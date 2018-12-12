@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An iron that was heated externally and used for pressing clothes.",
-      "examples": [],
       "synonyms": [
         "flat iron",
         "electric iron",
@@ -11,14 +10,12 @@
       ]
     },
     {
-      "description": "A heated device for straightening and styling hair.",
-      "examples": []
+      "description": "A heated device for straightening and styling hair."
     }
   ],
   "verb": [
     {
-      "description": "Straighten or style (hair) with a flat iron.",
-      "examples": []
+      "description": "Straighten or style (hair) with a flat iron."
     }
   ],
   "pronounciation": "/ˈflatˌīərn/",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A long pipe, typically underground, for conveying oil, gas, etc. over long distances.",
-      "examples": [],
       "synonyms": [
         "pipe",
         "conduit",
@@ -15,22 +14,18 @@
       ]
     },
     {
-      "description": "A linear sequence of specialized modules used for pipelining.",
-      "examples": []
+      "description": "A linear sequence of specialized modules used for pipelining."
     },
     {
-      "description": "(in surfing) the hollow formed by the breaking of a large wave.",
-      "examples": []
+      "description": "(in surfing) the hollow formed by the breaking of a large wave."
     }
   ],
   "verb": [
     {
-      "description": "Convey (a substance) by a pipeline.",
-      "examples": []
+      "description": "Convey (a substance) by a pipeline."
     },
     {
-      "description": "Design or execute (a computer or instruction) using the technique of pipelining.",
-      "examples": []
+      "description": "Design or execute (a computer or instruction) using the technique of pipelining."
     }
   ],
   "phrases": [

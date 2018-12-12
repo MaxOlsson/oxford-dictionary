@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small room in which a prisoner is locked up or in which a monk or nun sleeps.",
-      "examples": [],
       "synonyms": [
         "dungeon",
         "oubliette",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane. Microscopic organisms typically consist of a single cell, which is either eukaryotic or prokaryotic.",
-      "examples": []
+      "description": "The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane. Microscopic organisms typically consist of a single cell, which is either eukaryotic or prokaryotic."
     },
     {
       "description": "A small group forming a nucleus of political activity, typically a secret, subversive one.",
@@ -36,15 +34,13 @@
     },
     {
       "description": "A device containing electrodes immersed in an electrolyte, used for current-generation or electrolysis.",
-      "examples": [],
       "synonyms": [
         "accumulator",
         "power unit"
       ]
     },
     {
-      "description": "The local area covered by one of the short-range transmitters in a cellular telephone system.",
-      "examples": []
+      "description": "The local area covered by one of the short-range transmitters in a cellular telephone system."
     }
   ],
   "origin": "Old English, from Old French celle or Latin cella storeroom or chamber.",

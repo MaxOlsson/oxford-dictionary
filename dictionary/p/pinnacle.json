@@ -28,7 +28,6 @@
     },
     {
       "description": "A high, pointed piece of rock.",
-      "examples": [],
       "synonyms": [
         "peak",
         "needle",
@@ -52,8 +51,7 @@
       ]
     },
     {
-      "description": "Form the culminating point or example of.",
-      "examples": []
+      "description": "Form the culminating point or example of."
     }
   ],
   "origin": "Middle English: from Old French, from late Latin pinnaculum, diminutive of pinna wing, point.",

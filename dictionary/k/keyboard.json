@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A panel of keys that operate a computer or typewriter.",
-      "examples": [],
       "synonyms": [
         "workstation",
         "vdu",
@@ -13,14 +12,12 @@
       ]
     },
     {
-      "description": "A set of keys on a piano or similar musical instrument.",
-      "examples": []
+      "description": "A set of keys on a piano or similar musical instrument."
     }
   ],
   "verb": [
     {
       "description": "Enter (data) by means of a keyboard.",
-      "examples": [],
       "synonyms": [
         "office",
         "desk",

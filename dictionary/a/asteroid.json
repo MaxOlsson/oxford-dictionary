@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small rocky body orbiting the sun. Large numbers of these, ranging in size from nearly 600 miles (1,000 km) across (Ceres) to dust particles, are found (as the asteroid belt) especially between the orbits of Mars and Jupiter, though some have more eccentric orbits, and a few pass close to the earth or enter the atmosphere as meteors.",
-      "examples": [],
       "synonyms": [
         "celestial body",
         "heavenly body",
@@ -10,14 +9,12 @@
       ]
     },
     {
-      "description": "An echinoderm of the class Asteroidea, which comprises the starfishes.",
-      "examples": []
+      "description": "An echinoderm of the class Asteroidea, which comprises the starfishes."
     }
   ],
   "adjective": [
     {
-      "description": "Relating to or denoting echinoderms of the class Asteroidea.",
-      "examples": []
+      "description": "Relating to or denoting echinoderms of the class Asteroidea."
     }
   ],
   "origin": "Early 19th century: from Greek asteroeidēs starlike, from astēr star.",

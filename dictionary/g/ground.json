@@ -50,12 +50,10 @@
       ]
     },
     {
-      "description": "A prepared surface to which paint is applied.",
-      "examples": []
+      "description": "A prepared surface to which paint is applied."
     },
     {
       "description": "Solid particles, especially of ground coffee, that form a residue; sediment.",
-      "examples": [],
       "synonyms": [
         "sediment",
         "precipitate",
@@ -68,8 +66,7 @@
       ]
     },
     {
-      "description": "Electrical connection of a circuit or conductor to the earth.",
-      "examples": []
+      "description": "Electrical connection of a circuit or conductor to the earth."
     }
   ],
   "verb": [
@@ -123,8 +120,7 @@
       ]
     },
     {
-      "description": "Connect (an electrical device) with the ground.",
-      "examples": []
+      "description": "Connect (an electrical device) with the ground."
     },
     {
       "description": "(of a batter) hit a pitched ball so that it bounces on the ground.",

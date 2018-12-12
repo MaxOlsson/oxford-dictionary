@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases, lying dormant over winter.",
-      "examples": [],
       "synonyms": [
         "tuber",
         "corm",
@@ -10,12 +9,10 @@
       ]
     },
     {
-      "description": "A light bulb.",
-      "examples": []
+      "description": "A light bulb."
     },
     {
-      "description": "An expanded part of a glass tube such as that forming the reservoir of a thermometer.",
-      "examples": []
+      "description": "An expanded part of a glass tube such as that forming the reservoir of a thermometer."
     }
   ],
   "origin": "Late Middle English: via Latin from Greek bolbos onion, bulbous root.",

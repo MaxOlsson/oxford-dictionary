@@ -13,7 +13,6 @@
     },
     {
       "description": "A new item added to an existing collection of books, paintings, or artifacts.",
-      "examples": [],
       "synonyms": [
         "addition",
         "acquisition",
@@ -28,8 +27,7 @@
   ],
   "verb": [
     {
-      "description": "Record the addition of (a new item) to a library, museum, or other collection.",
-      "examples": []
+      "description": "Record the addition of (a new item) to a library, museum, or other collection."
     }
   ],
   "origin": "Late 16th century (in the general sense something added): from Latin accessio(n-), from the verb accedere approach, come to (see accede).",

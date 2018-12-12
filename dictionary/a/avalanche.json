@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A mass of snow, ice, and rocks falling rapidly down a mountainside.",
-      "examples": [],
       "synonyms": [
         "snowslide",
         "snow slip"
@@ -19,18 +18,15 @@
       ]
     },
     {
-      "description": "A cumulative process in which a fast-moving ion or electron generates further ions and electrons by collision.",
-      "examples": []
+      "description": "A cumulative process in which a fast-moving ion or electron generates further ions and electrons by collision."
     }
   ],
   "verb": [
     {
-      "description": "(of a mass of snow, ice, and rocks) descend rapidly down a mountainside.",
-      "examples": []
+      "description": "(of a mass of snow, ice, and rocks) descend rapidly down a mountainside."
     },
     {
-      "description": "Undergo a rapid increase in conductivity due to an avalanche process.",
-      "examples": []
+      "description": "Undergo a rapid increase in conductivity due to an avalanche process."
     }
   ],
   "origin": "Late 18th century: from French, alteration of the Alpine dialect word lavanche (of unknown origin), influenced by avaler descend; compare with Italian valanga.",

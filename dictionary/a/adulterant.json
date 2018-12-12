@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A substance used to adulterate another.",
-      "examples": [],
       "synonyms": [
         "contaminant",
         "pollutant",
@@ -12,8 +11,7 @@
   ],
   "adjective": [
     {
-      "description": "Used in adulterating something.",
-      "examples": []
+      "description": "Used in adulterating something."
     }
   ],
   "origin": "Mid 18th century: from Latin adulterant- corrupting, from the verb adulterare (see adulterate).",

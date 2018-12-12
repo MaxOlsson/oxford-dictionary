@@ -21,7 +21,6 @@
     },
     {
       "description": "Not regular or permanent.",
-      "examples": [],
       "synonyms": [
         "temporary",
         "part-time",
@@ -83,8 +82,7 @@
       ]
     },
     {
-      "description": "Clothes or shoes suitable for everyday wear rather than formal occasions.",
-      "examples": []
+      "description": "Clothes or shoes suitable for everyday wear rather than formal occasions."
     }
   ],
   "origin": "Late Middle English (in casual (sense 2 of the adjective,): from Old French casuel and Latin casualis, from casus fall (compare with case).",

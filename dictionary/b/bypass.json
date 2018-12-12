@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A road passing around a town or its center to provide an alternative route for through traffic.",
-      "examples": [],
       "synonyms": [
         "ring road",
         "detour",
@@ -13,12 +12,10 @@
       ]
     },
     {
-      "description": "A secondary channel, pipe, or connection to allow a flow when the main one is closed or blocked.",
-      "examples": []
+      "description": "A secondary channel, pipe, or connection to allow a flow when the main one is closed or blocked."
     },
     {
-      "description": "The alternative channel created during a bypass operation.",
-      "examples": []
+      "description": "The alternative channel created during a bypass operation."
     }
   ],
   "verb": [

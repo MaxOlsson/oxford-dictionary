@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A Spanish title prefixed to a male forename.",
-      "examples": []
+      "description": "A Spanish title prefixed to a male forename."
     },
     {
       "description": "A university teacher, especially a senior member of a college at Oxford or Cambridge.",
-      "examples": [],
       "synonyms": [
         "university teacher",
         "lecturer",
@@ -52,16 +50,13 @@
   ],
   "proper noun": [
     {
-      "description": "A river in Russia that rises near Tula, southeast of Moscow, and flows for 1,224 miles (1,958 km) to the Sea of Azov.",
-      "examples": []
+      "description": "A river in Russia that rises near Tula, southeast of Moscow, and flows for 1,224 miles (1,958 km) to the Sea of Azov."
     },
     {
-      "description": "A river in Scotland that rises in the Grampian Mountains and flows east for 82 miles (131 km) to the North Sea at Aberdeen.",
-      "examples": []
+      "description": "A river in Scotland that rises in the Grampian Mountains and flows east for 82 miles (131 km) to the North Sea at Aberdeen."
     },
     {
-      "description": "A river in northern England that rises in the Pennine Hills and flows east for 70 miles (112 km) to join the Ouse River shortly before it, in turn, joins the Humber River.",
-      "examples": []
+      "description": "A river in northern England that rises in the Pennine Hills and flows east for 70 miles (112 km) to join the Ouse River shortly before it, in turn, joins the Humber River."
     }
   ],
   "origin": "Late Middle English: contraction of do on. Compare with doff.",

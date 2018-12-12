@@ -34,7 +34,6 @@
     },
     {
       "description": "A slender, flexible shoot cut from a tree.",
-      "examples": [],
       "synonyms": [
         "branch",
         "twig",
@@ -44,12 +43,10 @@
       ]
     },
     {
-      "description": "A junction of two railroad tracks, with a pair of linked tapering rails that can be moved laterally to allow a train to pass from one line to the other.",
-      "examples": []
+      "description": "A junction of two railroad tracks, with a pair of linked tapering rails that can be moved laterally to allow a train to pass from one line to the other."
     },
     {
-      "description": "A tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair.",
-      "examples": []
+      "description": "A tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair."
     }
   ],
   "verb": [
@@ -68,7 +65,6 @@
     },
     {
       "description": "Beat or flick with or as if with a switch.",
-      "examples": [],
       "synonyms": [
         "hit",
         "beat",

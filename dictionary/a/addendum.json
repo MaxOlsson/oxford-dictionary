@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An item of additional material, typically omissions, added at the end of a book or other publication.",
-      "examples": [],
       "synonyms": [
         "appendix",
         "codicil",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "description": "The radial distance from the pitch circle of a cogwheel, worm wheel, etc., to the crests of the teeth or ridges.",
-      "examples": []
+      "description": "The radial distance from the pitch circle of a cogwheel, worm wheel, etc., to the crests of the teeth or ridges."
     }
   ],
   "origin": "Late 17th century: Latin, that which is to be added, gerundive of addere (see add).",

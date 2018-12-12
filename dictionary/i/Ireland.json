@@ -2,7 +2,6 @@
   "proper noun": [
     {
       "description": "An island of the British Isles, lying west of Great Britain. Approximately four fifths of the area of Ireland forms the Republic of Ireland, with the remaining one fifth forming Northern Ireland.",
-      "examples": [],
       "synonyms": [
         "eire",
         "the republic of ireland",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "The Republic of Ireland.",
-      "examples": []
+      "description": "The Republic of Ireland."
     }
   ],
   "pronounciation": "/ˈī(ə)rlənd/",

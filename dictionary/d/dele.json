@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Delete or mark (a part of a text) for deletion.",
-      "examples": [],
       "synonyms": [
         "remove",
         "cut out",
@@ -18,8 +17,7 @@
   ],
   "noun": [
     {
-      "description": "A proofreader's sign indicating matter to be deleted.",
-      "examples": []
+      "description": "A proofreader's sign indicating matter to be deleted."
     }
   ],
   "origin": "Latin, blot out! efface!, imperative of delere.",

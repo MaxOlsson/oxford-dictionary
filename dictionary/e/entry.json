@@ -20,7 +20,6 @@
     },
     {
       "description": "An item written or printed in a diary, list, ledger, or reference book.",
-      "examples": [],
       "synonyms": [
         "item",
         "record",
@@ -48,8 +47,7 @@
       ]
     },
     {
-      "description": "The forward part of a ship's hull below the waterline, considered in terms of breadth or narrowness.",
-      "examples": []
+      "description": "The forward part of a ship's hull below the waterline, considered in terms of breadth or narrowness."
     }
   ],
   "origin": "Middle English: from Old French entree, based on Latin intrata, feminine past participle of intrare (see enter).",

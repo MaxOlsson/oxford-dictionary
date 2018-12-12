@@ -25,12 +25,10 @@
       ]
     },
     {
-      "description": "An organization supplying the community with electricity, gas, water, or sewerage.",
-      "examples": []
+      "description": "An organization supplying the community with electricity, gas, water, or sewerage."
     },
     {
-      "description": "A utility program.",
-      "examples": []
+      "description": "A utility program."
     }
   ],
   "adjective": [
@@ -67,8 +65,7 @@
       ]
     },
     {
-      "description": "Relating to the lowest US government grade of beef.",
-      "examples": []
+      "description": "Relating to the lowest US government grade of beef."
     }
   ],
   "origin": "Late Middle English: from Old French utilite, from Latin utilitas, from utilis useful.",

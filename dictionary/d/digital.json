@@ -1,16 +1,13 @@
 {
   "adjective": [
     {
-      "description": "(of signals or data) expressed as series of the digits 0 and 1, typically represented by values of a physical quantity such as voltage or magnetic polarization.",
-      "examples": []
+      "description": "(of signals or data) expressed as series of the digits 0 and 1, typically represented by values of a physical quantity such as voltage or magnetic polarization."
     },
     {
-      "description": "(of a clock or watch) showing the time by means of displayed digits rather than hands or a pointer.",
-      "examples": []
+      "description": "(of a clock or watch) showing the time by means of displayed digits rather than hands or a pointer."
     },
     {
-      "description": "Relating to a finger or fingers.",
-      "examples": []
+      "description": "Relating to a finger or fingers."
     }
   ],
   "origin": "Late 15th century: from Latin digitalis, from digitus finger, toe.",

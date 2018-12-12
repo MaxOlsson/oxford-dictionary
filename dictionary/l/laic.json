@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Nonclerical; lay.",
-      "examples": [],
       "synonyms": [
         "earthly",
         "terrestrial",
@@ -31,8 +30,7 @@
   ],
   "noun": [
     {
-      "description": "A layperson; a noncleric.",
-      "examples": []
+      "description": "A layperson; a noncleric."
     }
   ],
   "origin": "Mid 16th century: from late Latin laicus (see lay).",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A place where two roads, two railroad lines, or a road and a railroad line cross.",
-      "examples": [],
       "synonyms": [
         "junction",
         "crossroads",
@@ -12,7 +11,6 @@
     },
     {
       "description": "A place at which one may safely cross something, especially a street.",
-      "examples": [],
       "synonyms": [
         "pedestrian crossing",
         "street crossing",
@@ -27,8 +25,7 @@
       ]
     },
     {
-      "description": "Crossbreeding.",
-      "examples": []
+      "description": "Crossbreeding."
     }
   ],
   "pronounciation": "/ˈkrôsiNG/",

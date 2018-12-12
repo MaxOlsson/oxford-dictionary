@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A repeated or additional performance of an item at the end of a concert, as called for by an audience.",
-      "examples": [],
       "synonyms": [
         "repeat performance",
         "extra performance",
@@ -15,14 +14,12 @@
   ],
   "exclamation": [
     {
-      "description": "Called out by an audience at the end of a concert to request an additional performance.",
-      "examples": []
+      "description": "Called out by an audience at the end of a concert to request an additional performance."
     }
   ],
   "verb": [
     {
-      "description": "Give or call for a repeated or additional performance of (an item) at the end of a concert.",
-      "examples": []
+      "description": "Give or call for a repeated or additional performance of (an item) at the end of a concert."
     }
   ],
   "origin": "Early 18th century: French, literally still, again.",

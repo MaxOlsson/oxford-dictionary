@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A liquid made of shellac dissolved in alcohol, or of synthetic substances, that dries to form a hard protective coating for wood, metal, etc.",
-      "examples": [],
       "synonyms": [
         "glaze",
         "shellac",
@@ -17,7 +16,6 @@
     },
     {
       "description": "The sap of the lacquer tree used to varnish wood or other materials.",
-      "examples": [],
       "synonyms": [
         "lacquer",
         "lac",
@@ -32,8 +30,7 @@
       ]
     },
     {
-      "description": "A solution sprayed on to a person's hair to keep it in place; hairspray.",
-      "examples": []
+      "description": "A solution sprayed on to a person's hair to keep it in place; hairspray."
     }
   ],
   "verb": [

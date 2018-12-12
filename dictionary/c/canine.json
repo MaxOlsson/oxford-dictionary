@@ -10,7 +10,6 @@
   "noun": [
     {
       "description": "A dog.",
-      "examples": [],
       "synonyms": [
         "hound",
         "mongrel",
@@ -19,8 +18,7 @@
       ]
     },
     {
-      "description": "A pointed tooth between the incisors and premolars of a mammal, often greatly enlarged in carnivores.",
-      "examples": []
+      "description": "A pointed tooth between the incisors and premolars of a mammal, often greatly enlarged in carnivores."
     }
   ],
   "origin": "Late Middle English (in canine (sense 2 of the noun)): from French, from Latin caninus, from canis dog.",

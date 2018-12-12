@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "A type of hypercomplex number with eight coefficients, having the form x = x0 + x1e1 + x2e2 + x3e3 + x4e4 + x5e5 + x6e6 + x7e7, where the xn are real numbers and the en are imaginary units which, in conjunction with 1 and −1, form a closed, non-commutative, non-associative system under multiplication.",
-      "examples": []
+      "description": "A type of hypercomplex number with eight coefficients, having the form x = x0 + x1e1 + x2e2 + x3e3 + x4e4 + x5e5 + x6e6 + x7e7, where the xn are real numbers and the en are imaginary units which, in conjunction with 1 and −1, form a closed, non-commutative, non-associative system under multiplication."
     }
   ],
   "origin": "Late 19th century (in an earlier sense). From classical Latin octōnī eight each, eight at a time + -ion, after quaternion.",

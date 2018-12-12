@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A leather rim sewn around the edge of a shoe upper to which the sole is attached.",
-      "examples": []
+      "description": "A leather rim sewn around the edge of a shoe upper to which the sole is attached."
     },
     {
       "description": "A red, swollen mark left on flesh by a blow or pressure.",
-      "examples": [],
       "synonyms": [
         "wound",
         "lesion",
@@ -15,7 +13,6 @@
     },
     {
       "description": "A heavy blow.",
-      "examples": [],
       "synonyms": [
         "blow",
         "hit",
@@ -35,7 +32,6 @@
   "verb": [
     {
       "description": "Provide with a welt.",
-      "examples": [],
       "synonyms": [
         "flogging",
         "whipping",

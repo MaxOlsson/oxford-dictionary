@@ -17,7 +17,6 @@
     },
     {
       "description": "A puff or breath of air or smoke.",
-      "examples": [],
       "synonyms": [
         "puff",
         "gust",
@@ -31,8 +30,7 @@
       ]
     },
     {
-      "description": "(chiefly in baseball or golf) an unsuccessful attempt to hit the ball.",
-      "examples": []
+      "description": "(chiefly in baseball or golf) an unsuccessful attempt to hit the ball."
     }
   ],
   "verb": [
@@ -43,8 +41,7 @@
       ]
     },
     {
-      "description": "(chiefly in baseball or golf) try unsuccessfully to hit the ball.",
-      "examples": []
+      "description": "(chiefly in baseball or golf) try unsuccessfully to hit the ball."
     }
   ],
   "origin": "Early 18th century: perhaps from whiff.",

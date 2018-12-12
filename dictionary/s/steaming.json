@@ -23,7 +23,6 @@
     },
     {
       "description": "Extremely drunk.",
-      "examples": [],
       "synonyms": [
         "intoxicated",
         "inebriated",
@@ -38,7 +37,6 @@
     },
     {
       "description": "Very angry.",
-      "examples": [],
       "synonyms": [
         "heated",
         "piping",
@@ -56,8 +54,7 @@
   ],
   "adverb": [
     {
-      "description": "Extremely hot.",
-      "examples": []
+      "description": "Extremely hot."
     }
   ],
   "pronounciation": "/ˈstimɪŋ/",

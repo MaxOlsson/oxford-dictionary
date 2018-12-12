@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium.",
-      "examples": []
+      "description": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium."
     },
     {
-      "description": "The angular distance of a celestial object from the true east or west point of the horizon at rising or setting.",
-      "examples": []
+      "description": "The angular distance of a celestial object from the true east or west point of the horizon at rising or setting."
     },
     {
       "description": "Breadth, range, or magnitude.",
@@ -22,8 +20,7 @@
       ]
     },
     {
-      "description": "The angle between the real axis of an Argand diagram and a vector representing a complex number.",
-      "examples": []
+      "description": "The angle between the real axis of an Argand diagram and a vector representing a complex number."
     }
   ],
   "origin": "Mid 16th century (in the senses physical extent and grandeur): from Latin amplitudo, from amplus large, abundant.",

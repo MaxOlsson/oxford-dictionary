@@ -17,7 +17,6 @@
     },
     {
       "description": "An act of surgery performed on a patient.",
-      "examples": [],
       "synonyms": [
         "surgery",
         "surgical operation",
@@ -50,8 +49,7 @@
       ]
     },
     {
-      "description": "A process in which a number, quantity, expression, etc., is altered or manipulated according to formal rules, such as those of addition, multiplication, and differentiation.",
-      "examples": []
+      "description": "A process in which a number, quantity, expression, etc., is altered or manipulated according to formal rules, such as those of addition, multiplication, and differentiation."
     }
   ],
   "origin": "Late Middle English: via Old French from Latin operatio(n-), from the verb operari expend labor on (see operate).",

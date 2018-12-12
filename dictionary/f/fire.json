@@ -68,7 +68,6 @@
     },
     {
       "description": "Supply (a furnace, engine, boiler, or power station) with fuel.",
-      "examples": [],
       "synonyms": [
         "power",
         "charge",
@@ -101,8 +100,7 @@
       ]
     },
     {
-      "description": "Bake or dry (pottery, bricks, etc.) in a kiln.",
-      "examples": []
+      "description": "Bake or dry (pottery, bricks, etc.) in a kiln."
     }
   ],
   "phrases": [

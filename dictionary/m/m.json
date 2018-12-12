@@ -1,8 +1,7 @@
 {
   "abbreviation": [
     {
-      "description": "Mare.",
-      "examples": []
+      "description": "Mare."
     },
     {
       "description": "Married.",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "Masculine.",
-      "examples": []
+      "description": "Masculine."
     },
     {
       "description": "Meta-",
@@ -21,12 +19,10 @@
       ]
     },
     {
-      "description": "Meter(s).",
-      "examples": []
+      "description": "Meter(s)."
     },
     {
-      "description": "Mile(s).",
-      "examples": []
+      "description": "Mile(s)."
     },
     {
       "description": "(in units of measurement) milli-",
@@ -41,52 +37,40 @@
       ]
     },
     {
-      "description": "Minute(s).",
-      "examples": []
+      "description": "Minute(s)."
     },
     {
-      "description": "(in Germany) mark; marks.",
-      "examples": []
+      "description": "(in Germany) mark; marks."
     },
     {
-      "description": "Middle.",
-      "examples": []
+      "description": "Middle."
     },
     {
-      "description": "(in prescriptions) mix.",
-      "examples": []
+      "description": "(in prescriptions) mix."
     },
     {
-      "description": "Modification of.",
-      "examples": []
+      "description": "Modification of."
     },
     {
-      "description": "Modulus.",
-      "examples": []
+      "description": "Modulus."
     },
     {
-      "description": "Molar.",
-      "examples": []
+      "description": "Molar."
     },
     {
-      "description": "Month.",
-      "examples": []
+      "description": "Month."
     },
     {
-      "description": "Moon.",
-      "examples": []
+      "description": "Moon."
     },
     {
-      "description": "Morning.",
-      "examples": []
+      "description": "Morning."
     },
     {
-      "description": "Mouth.",
-      "examples": []
+      "description": "Mouth."
     },
     {
-      "description": "Noon.",
-      "examples": []
+      "description": "Noon."
     }
   ],
   "": [
@@ -99,16 +83,13 @@
   ],
   "noun": [
     {
-      "description": "The thirteenth letter of the alphabet.",
-      "examples": []
+      "description": "The thirteenth letter of the alphabet."
     },
     {
-      "description": "The Roman numeral for 1,000.",
-      "examples": []
+      "description": "The Roman numeral for 1,000."
     },
     {
-      "description": "A shape like that of a capital M.",
-      "examples": []
+      "description": "A shape like that of a capital M."
     }
   ],
   "pronounciation": "/ɛm/",

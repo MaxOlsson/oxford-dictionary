@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A young unfledged pigeon.",
-      "examples": []
+      "description": "A young unfledged pigeon."
     },
     {
       "description": "A thick stuffed cushion, especially one covering the seat of a chair or sofa.",
-      "examples": [],
       "synonyms": [
         "cushion",
         "pillow",
@@ -16,8 +14,7 @@
   ],
   "adjective": [
     {
-      "description": "(of a person) short and fat.",
-      "examples": []
+      "description": "(of a person) short and fat."
     }
   ],
   "origin": "Mid 17th century (in the sense inexperienced person): of unknown origin; compare with obsolete quab shapeless thing and Swedish dialect skvabba fat woman.",

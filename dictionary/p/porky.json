@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a person or part of their body) fleshy or fat.",
-      "examples": [],
       "synonyms": [
         "fat",
         "fattish",
@@ -22,14 +21,12 @@
       ]
     },
     {
-      "description": "Of or resembling pork.",
-      "examples": []
+      "description": "Of or resembling pork."
     }
   ],
   "noun": [
     {
-      "description": "A porcupine.",
-      "examples": []
+      "description": "A porcupine."
     }
   ],
   "pronounciation": "/ˈpɔrki/",

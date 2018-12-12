@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A strong underground prison cell, especially in a castle.",
-      "examples": [],
       "synonyms": [
         "underground cell",
         "underground prison",
@@ -12,8 +11,7 @@
   ],
   "verb": [
     {
-      "description": "Imprison (someone) in a dungeon.",
-      "examples": []
+      "description": "Imprison (someone) in a dungeon."
     }
   ],
   "origin": "Middle English (also with the sense castle keep): from Old French (perhaps originally with the sense lord's tower or mistress tower), based on Latin dominus lord, master. Compare with donjon.",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "An apparatus for cooking or heating that operates by burning fuel or using electricity.",
-      "examples": [],
       "synonyms": [
         "oven",
         "range"
@@ -11,12 +10,10 @@
   ],
   "verb": [
     {
-      "description": "Treat (an object) by heating it in a stove in order to apply a desired surface coating.",
-      "examples": []
+      "description": "Treat (an object) by heating it in a stove in order to apply a desired surface coating."
     },
     {
-      "description": "Raise (plants) in a hothouse.",
-      "examples": []
+      "description": "Raise (plants) in a hothouse."
     }
   ],
   "": [],

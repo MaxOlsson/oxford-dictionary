@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A chart or series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.",
-      "examples": [],
       "synonyms": [
         "almanac"
       ]
@@ -10,8 +9,7 @@
   ],
   "verb": [
     {
-      "description": "Enter (something) in a calendar or timetable.",
-      "examples": []
+      "description": "Enter (something) in a calendar or timetable."
     }
   ],
   "origin": "Middle English: from Old French calendier, from Latin kalendarium account book, from kalendae (see calends).",

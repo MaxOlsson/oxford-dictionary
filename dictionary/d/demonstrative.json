@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a person) tending to show feelings, especially of affection, openly.",
-      "examples": [],
       "synonyms": [
         "expressive",
         "open",
@@ -38,14 +37,12 @@
       ]
     },
     {
-      "description": "(of a determiner or pronoun) indicating the person or thing referred to (e.g. this, that, those).",
-      "examples": []
+      "description": "(of a determiner or pronoun) indicating the person or thing referred to (e.g. this, that, those)."
     }
   ],
   "noun": [
     {
-      "description": "A demonstrative determiner or pronoun.",
-      "examples": []
+      "description": "A demonstrative determiner or pronoun."
     }
   ],
   "origin": "Late Middle English (in the senses serving as conclusive evidence of and making manifest): from Old French demonstratif, -ive, from Latin demonstrativus, from demonstrare point out (see demonstrate).",

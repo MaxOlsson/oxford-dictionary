@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.",
-      "examples": [],
       "synonyms": [
         "stretchy",
         "elasticated",
@@ -24,8 +23,7 @@
   ],
   "noun": [
     {
-      "description": "Cord, tape, or fabric, woven with strips of rubber, which returns to its original length or shape after being stretched.",
-      "examples": []
+      "description": "Cord, tape, or fabric, woven with strips of rubber, which returns to its original length or shape after being stretched."
     }
   ],
   "origin": "Mid 17th century (originally describing a gas in the sense expanding spontaneously to fill the available space): from modern Latin elasticus, from Greek elastikos propulsive, from elaunein to drive.",

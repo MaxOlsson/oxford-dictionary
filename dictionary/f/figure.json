@@ -65,12 +65,10 @@
       ]
     },
     {
-      "description": "A short succession of notes producing a single impression.",
-      "examples": []
+      "description": "A short succession of notes producing a single impression."
     },
     {
-      "description": "The form of a syllogism, classified according to the position of the middle term.",
-      "examples": []
+      "description": "The form of a syllogism, classified according to the position of the middle term."
     }
   ],
   "verb": [
@@ -89,7 +87,6 @@
     },
     {
       "description": "Calculate or work out (an amount or value) arithmetically.",
-      "examples": [],
       "synonyms": [
         "calculate",
         "work out",

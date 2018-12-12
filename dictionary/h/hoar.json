@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Grayish white; gray or gray-haired with age.",
-      "examples": [],
       "synonyms": [
         "grey",
         "greying",
@@ -21,8 +20,7 @@
   ],
   "noun": [
     {
-      "description": "Hoarfrost.",
-      "examples": []
+      "description": "Hoarfrost."
     }
   ],
   "origin": "Old English hār, of Germanic origin; related to German hehr majestic, noble.",

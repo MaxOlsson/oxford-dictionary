@@ -27,12 +27,10 @@
       ]
     },
     {
-      "description": "A transformation that leaves an object unchanged.",
-      "examples": []
+      "description": "A transformation that leaves an object unchanged."
     },
     {
-      "description": "The equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. (x + 1)² = x² + 2x + 1.",
-      "examples": []
+      "description": "The equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. (x + 1)² = x² + 2x + 1."
     }
   ],
   "origin": "Late 16th century (in the sense quality of being identical): from late Latin identitas, from Latin idem same.",

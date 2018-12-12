@@ -2,7 +2,6 @@
   "verb": [
     {
       "description": "Play a keyboard or plucked stringed instrument, especially in an inexpressive or unskilled way.",
-      "examples": [],
       "synonyms": [
         "strum",
         "pick",
@@ -13,7 +12,6 @@
     },
     {
       "description": "Hit (someone) abruptly.",
-      "examples": [],
       "synonyms": [
         "bang",
         "slam",
@@ -52,12 +50,10 @@
   ],
   "noun": [
     {
-      "description": "The sound made by abruptly plucking a string of a stringed instrument.",
-      "examples": []
+      "description": "The sound made by abruptly plucking a string of a stringed instrument."
     },
     {
-      "description": "A heavy blow.",
-      "examples": []
+      "description": "A heavy blow."
     }
   ],
   "origin": "Early 19th century: probably imitative.",

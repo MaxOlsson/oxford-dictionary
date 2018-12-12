@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "(of a deity) having unlimited power; able to do anything.",
-      "examples": [],
       "synonyms": [
         "all-powerful",
         "almighty",
@@ -14,8 +13,7 @@
   ],
   "noun": [
     {
-      "description": "God.",
-      "examples": []
+      "description": "God."
     }
   ],
   "origin": "Middle English (as a divine attribute): via Old French from Latin omnipotent- all-powerful.",

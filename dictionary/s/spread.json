@@ -49,8 +49,7 @@
       ]
     },
     {
-      "description": "Lay (a table) for a meal.",
-      "examples": []
+      "description": "Lay (a table) for a meal."
     }
   ],
   "noun": [
@@ -101,7 +100,6 @@
     },
     {
       "description": "A soft paste that can be applied in a layer to bread or other food.",
-      "examples": [],
       "synonyms": [
         "pâté"
       ]
@@ -114,7 +112,6 @@
     },
     {
       "description": "A large and impressively elaborate meal.",
-      "examples": [],
       "synonyms": [
         "elaborate meal",
         "large meal",
@@ -125,7 +122,6 @@
     },
     {
       "description": "A bedspread.",
-      "examples": [],
       "synonyms": [
         "bedspread",
         "bedcover",

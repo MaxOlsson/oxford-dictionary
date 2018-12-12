@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body.",
-      "examples": [],
       "synonyms": [
         "snare",
         "net"
@@ -27,19 +26,18 @@
       ]
     },
     {
-      "description": "A light, two-wheeled carriage pulled by a horse or pony.",
-      "examples": []
+      "description": "A light, two-wheeled carriage pulled by a horse or pony."
     },
     {
-      "description": "A device for hurling an object such as a clay pigeon into the air to be shot at.",
-      "examples": []
+      "description": "A device for hurling an object such as a clay pigeon into the air to be shot at."
     },
     {
-      "description": "A person's mouth (used in expressions to do with speaking)",
-      "examples": []
+      "description": "A person's mouth (used in expressions to do with speaking)"
     },
     {
-      "examples": [],
+      "examples": [
+        "keep your trap shut!"
+      ],
       "synonyms": [
         "mouth",
         "jaws",
@@ -48,8 +46,7 @@
       ]
     },
     {
-      "description": "Percussion instruments, typically in a jazz band.",
-      "examples": []
+      "description": "Percussion instruments, typically in a jazz band."
     },
     {
       "description": "A place where drugs are sold.",
@@ -58,14 +55,12 @@
       ]
     },
     {
-      "description": "An act of trapping the ball.",
-      "examples": []
+      "description": "An act of trapping the ball."
     }
   ],
   "verb": [
     {
       "description": "Catch (an animal) in a trap.",
-      "examples": [],
       "synonyms": [
         "confine",
         "catch",

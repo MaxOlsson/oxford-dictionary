@@ -37,7 +37,6 @@
   "noun": [
     {
       "description": "A vitreous substance fused on to the surface of pottery to form an impervious decorative coating.",
-      "examples": [],
       "synonyms": [
         "varnish",
         "enamel",
@@ -48,15 +47,13 @@
     },
     {
       "description": "A liquid such as milk or beaten egg used to form a smooth, shiny coating on food.",
-      "examples": [],
       "synonyms": [
         "coating",
         "topping"
       ]
     },
     {
-      "description": "A thin, glassy coating of ice on the ground or the surface of water.",
-      "examples": []
+      "description": "A thin, glassy coating of ice on the ground or the surface of water."
     }
   ],
   "origin": "Late Middle English glase, from glass.",

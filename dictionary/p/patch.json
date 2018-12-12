@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A piece of cloth or other material used to mend or strengthen a torn or weak point.",
-      "examples": [],
       "synonyms": [
         "piece of cloth",
         "piece of fabric",
@@ -63,12 +62,10 @@
       ]
     },
     {
-      "description": "A temporary electrical or telephone connection.",
-      "examples": []
+      "description": "A temporary electrical or telephone connection."
     },
     {
-      "description": "A small piece of code inserted into a program to improve its functioning or to correct an error.",
-      "examples": []
+      "description": "A small piece of code inserted into a program to improve its functioning or to correct an error."
     }
   ],
   "verb": [
@@ -109,8 +106,7 @@
       ]
     },
     {
-      "description": "Correct, enhance, or modify (a routine or program) by inserting a patch.",
-      "examples": []
+      "description": "Correct, enhance, or modify (a routine or program) by inserting a patch."
     }
   ],
   "phrases": [

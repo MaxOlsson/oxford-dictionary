@@ -1,8 +1,7 @@
 {
   "noun": [
     {
-      "description": "The elected executive head of a state of the US.",
-      "examples": []
+      "description": "The elected executive head of a state of the US."
     },
     {
       "description": "The head of a public institution.",
@@ -20,7 +19,6 @@
     },
     {
       "description": "The person in authority; one's employer.",
-      "examples": [],
       "synonyms": [
         "supervisor",
         "overseer",
@@ -33,8 +31,7 @@
       ]
     },
     {
-      "description": "A device automatically regulating the supply of fuel, steam, or water to a machine, ensuring uniform motion or limiting speed.",
-      "examples": []
+      "description": "A device automatically regulating the supply of fuel, steam, or water to a machine, ensuring uniform motion or limiting speed."
     }
   ],
   "origin": "Middle English: from Old French governeour, from Latin gubernator, from gubernare (see govern).",

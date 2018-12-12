@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Having few trees.",
-      "examples": [],
       "synonyms": [
         "bare",
         "exposed",
@@ -18,8 +17,7 @@
       ]
     },
     {
-      "description": "(of a wine) not having been stored in a wooden cask.",
-      "examples": []
+      "description": "(of a wine) not having been stored in a wooden cask."
     }
   ],
   "pronounciation": "/ˌənˈwʊdəd/",

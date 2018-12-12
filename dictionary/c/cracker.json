@@ -1,19 +1,18 @@
 {
   "noun": [
     {
-      "description": "A thin, crisp wafer often eaten with cheese or other savory toppings.",
-      "examples": []
+      "description": "A thin, crisp wafer often eaten with cheese or other savory toppings."
     },
     {
-      "description": "A person or thing that cracks.",
-      "examples": []
+      "description": "A person or thing that cracks."
     },
     {
-      "description": "A fine example of something.",
-      "examples": []
+      "description": "A fine example of something."
     },
     {
-      "examples": [],
+      "examples": [
+        "don't miss this cracker of a CD"
+      ],
       "synonyms": [
         "masterpiece",
         "sensation",
@@ -28,8 +27,7 @@
       ]
     },
     {
-      "description": "A paper cylinder that is pulled apart at Christmas or other celebrations, making a sharp noise and releasing a small toy or other novelty.",
-      "examples": []
+      "description": "A paper cylinder that is pulled apart at Christmas or other celebrations, making a sharp noise and releasing a small toy or other novelty."
     }
   ],
   "pronounciation": "/ˈkrakər/",

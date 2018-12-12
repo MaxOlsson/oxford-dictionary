@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "Food; nourishment.",
-      "examples": [],
       "synonyms": [
         "nourishment",
         "sustenance",
@@ -16,8 +15,7 @@
   ],
   "verb": [
     {
-      "description": "Provide with nourishment or sustenance.",
-      "examples": []
+      "description": "Provide with nourishment or sustenance."
     }
   ],
   "origin": "Late 15th century: from Latin alimentum, from alere nourish.",

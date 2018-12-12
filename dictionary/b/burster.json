@@ -1,12 +1,10 @@
 {
   "noun": [
     {
-      "description": "A cosmic source of powerful short-lived bursts of X-rays or other radiation.",
-      "examples": []
+      "description": "A cosmic source of powerful short-lived bursts of X-rays or other radiation."
     },
     {
       "description": "A violent gale.",
-      "examples": [],
       "synonyms": [
         "storm",
         "tempest",
@@ -20,8 +18,7 @@
       ]
     },
     {
-      "description": "A machine which separates continuous stationery into single sheets.",
-      "examples": []
+      "description": "A machine which separates continuous stationery into single sheets."
     }
   ],
   "pronounciation": "/ˈbərstər/",

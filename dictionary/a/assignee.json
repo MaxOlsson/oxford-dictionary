@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A person to whom a right or liability is legally transferred.",
-      "examples": [],
       "synonyms": [
         "heir",
         "heiress",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "description": "A person appointed to act for another.",
-      "examples": []
+      "description": "A person appointed to act for another."
     }
   ],
   "origin": "Middle English: from Old French assigne, past participle of assigner allot (see assign).",

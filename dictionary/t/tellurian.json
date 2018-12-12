@@ -2,7 +2,6 @@
   "adjective": [
     {
       "description": "Of or inhabiting the earth.",
-      "examples": [],
       "synonyms": [
         "earthly",
         "worldly",
@@ -13,8 +12,7 @@
   ],
   "noun": [
     {
-      "description": "An inhabitant of the earth.",
-      "examples": []
+      "description": "An inhabitant of the earth."
     }
   ],
   "origin": "Mid 19th century: from Latin tellus, tellur- earth + -ian.",

@@ -2,7 +2,6 @@
   "noun": [
     {
       "description": "A small waterfall, typically one of several that fall in stages down a steep rocky slope.",
-      "examples": [],
       "synonyms": [
         "waterfall",
         "falls",
@@ -45,8 +44,7 @@
       ]
     },
     {
-      "description": "Arrange (a number of devices or objects) in a series or sequence.",
-      "examples": []
+      "description": "Arrange (a number of devices or objects) in a series or sequence."
     }
   ],
   "origin": "Mid 17th century: from French, from Italian cascata, from cascare to fall, based on Latin casus (see case).",
