@@ -1,0 +1,90 @@
+{
+  "verb": [
+    {
+      "description": "Make or become different.",
+      "examples": [
+        "a proposal to change the law",
+        "a Virginia creeper just beginning to change from green to gold"
+      ],
+      "synonyms": [
+        "convert",
+        "transform",
+        "make"
+      ]
+    },
+    {
+      "description": "Take or use another instead of.",
+      "examples": [
+        "she decided to change her name"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The act or instance of making or becoming different.",
+      "examples": [
+        "the change from a nomadic to an agricultural society",
+        "environmental change"
+      ]
+    },
+    {
+      "description": "Coins as opposed to paper currency.",
+      "examples": [
+        "a handful of loose change"
+      ],
+      "synonyms": [
+        "coins",
+        "loose change",
+        "small change",
+        "cash",
+        "petty cash",
+        "coinage",
+        "coin",
+        "coin of the realm",
+        "hard cash",
+        "silver",
+        "copper",
+        "coppers",
+        "gold"
+      ]
+    },
+    {
+      "description": "An order in which a peal of bells can be rung.",
+      "synonyms": [
+        "chime",
+        "carillon",
+        "ring",
+        "ringing",
+        "knell",
+        "toll",
+        "tolling",
+        "sound",
+        "sounding",
+        "death knell",
+        "clang",
+        "boom",
+        "resounding",
+        "reverberation",
+        "touch"
+      ]
+    },
+    {
+      "description": "A place where merchants met to do business."
+    }
+  ],
+  "phrases": [
+    "Then he turned towards the young lady to reproach her, but saw that she had changed colour and her face was pale.",
+    "His face changes colour and he is visibly angry.",
+    "His face often changed color with anger, despair, passion and fear.",
+    "As he warmed to his subject his face changed colour from red to purple.",
+    "Andrew changed colour and his friend, who was trained in first aid, dragged him off the couch on to the floor checked his airway was clear and started administering resuscitation techniques.",
+    "crop farmers have to change over to dairy farming",
+    "Slowly add a little water, stirring with a wooden spoon until it forms a thick, smooth paste, then change over to an electric whisk and beat in the rest of the water.",
+    "I think that, if I ever buy a new computer, I shall grasp the nettle and change over to a decently powerful laptop.",
+    "Employers can change over to euro before that date if they choose, as long as they give prior notice to the Revenue Commissioners.",
+    "If we change over to the thumbnail view, then it has a max size of 100 px on a side which is about right for us in terms of limiting size."
+  ],
+  "origin": "Middle English: from Old French change (noun), changer (verb), from late Latin cambiare, from Latin cambire barter, probably of Celtic origin.",
+  "pronounciation": "/CHānj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/change_us_3.mp3"
+}

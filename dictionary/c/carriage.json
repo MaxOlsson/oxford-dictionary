@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A four-wheeled passenger vehicle pulled by two or more horses.",
+      "examples": [
+        "a horse-drawn carriage"
+      ],
+      "synonyms": [
+        "wagon",
+        "hackney",
+        "hansom",
+        "gig",
+        "landau",
+        "trap",
+        "caravan",
+        "car"
+      ]
+    },
+    {
+      "description": "The transporting of items or merchandise from one place to another.",
+      "synonyms": [
+        "transport",
+        "transportation",
+        "conveyance",
+        "transfer",
+        "transference",
+        "delivery",
+        "distribution",
+        "carrying",
+        "transmission",
+        "movement",
+        "haulage",
+        "freight",
+        "freightage",
+        "portage",
+        "cartage",
+        "shipment"
+      ]
+    },
+    {
+      "description": "A moving part of a machine that carries other parts into the required position.",
+      "examples": [
+        "a typewriter carriage"
+      ]
+    },
+    {
+      "description": "A person's bearing or deportment.",
+      "examples": [
+        "her carriage was graceful, her movements quick and deft"
+      ],
+      "synonyms": [
+        "posture",
+        "bearing",
+        "stance",
+        "gait",
+        "comportment"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old Northern French cariage, from carier (see carry).",
+  "pronounciation": "/ˈkɛrɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/carriage_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Decide or announce that (a planned event) will not take place.",
+      "examples": [
+        "he was forced to cancel his visit"
+      ],
+      "synonyms": [
+        "call off",
+        "abandon",
+        "scrap",
+        "drop"
+      ]
+    },
+    {
+      "description": "(of a factor or circumstance) neutralize or negate the force or effect of (another)",
+      "examples": [
+        "the electric fields may cancel each other out"
+      ],
+      "synonyms": [
+        "neutralize",
+        "counterbalance",
+        "counteract",
+        "balance",
+        "balance out",
+        "countervail"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mark made on a postage stamp to show that it has been used."
+    },
+    {
+      "description": "A new page or section inserted in a book to replace the original text, typically to correct an error.",
+      "examples": [
+        "a cancel title page"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense obliterate or delete writing by drawing or stamping lines across it): from Old French canceller, from Latin cancellare, from cancelli crossbars.",
+  "pronounciation": "/ˈkansəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cancel_us_1.mp3"
+}

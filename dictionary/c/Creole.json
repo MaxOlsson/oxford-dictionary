@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A person of mixed European and black descent, especially in the Caribbean."
+    },
+    {
+      "description": "A mother tongue formed from the contact of two languages through an earlier pidgin stage.",
+      "examples": [
+        "a Portuguese-based Creole"
+      ],
+      "synonyms": [
+        "language",
+        "dialect",
+        "patois",
+        "vernacular",
+        "mother tongue",
+        "native tongue",
+        "jargon",
+        "argot",
+        "cant",
+        "pidgin",
+        "creole",
+        "lingua franca"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to a Creole or Creoles."
+    }
+  ],
+  "origin": "From French créole, criole, from Spanish criollo, probably from Portuguese crioulo black person born in Brazil, from criar to breed, from Latin creare produce, create.",
+  "pronounciation": "/ˈkriˌoʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/creole_us_1.mp3"
+}

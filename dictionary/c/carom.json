@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "A stroke in which the cue ball strikes two balls successively."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a carom; strike and rebound.",
+      "synonyms": [
+        "ricochet",
+        "rebound",
+        "be deflected"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: abbreviation of carambole, from Spanish carambola, apparently from bola ball.",
+  "pronounciation": "/ˈkerəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/carom_us_1.mp3"
+}

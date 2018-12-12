@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A narrow, keelless boat with pointed ends, propelled by a paddle or paddles.",
+      "synonyms": [
+        "kayak",
+        "dugout",
+        "outrigger"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel in or paddle a canoe.",
+      "examples": [
+        "he had once canoed down the Nile"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Spanish canoa, from Arawak, from Carib canaoua.",
+  "pronounciation": "/kəˈno͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/canoe_us_1.mp3"
+}

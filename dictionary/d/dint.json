@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "An impression or hollow in a surface.",
+      "examples": [
+        "the soft dints at the top of a coconut"
+      ],
+      "synonyms": [
+        "dent",
+        "indentation",
+        "depression",
+        "dip",
+        "dimple",
+        "cleft",
+        "hollow",
+        "crater",
+        "pit"
+      ]
+    },
+    {
+      "description": "A blow or stroke, typically one made with a weapon in fighting."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark (a surface) with impressions or hollows.",
+      "examples": [
+        "the metal was dull and dinted"
+      ],
+      "synonyms": [
+        "make holes in",
+        "make hollows in",
+        "hole",
+        "dent",
+        "indent",
+        "depress",
+        "dint",
+        "pothole"
+      ]
+    }
+  ],
+  "phrases": [
+    "he had gotten to where he was today by dint of sheer hard work",
+    "The song succeeds by dint of sheer density and passion.",
+    "Creative work is done not by dint of will power, by some kind of mental exertion; instead, and paradoxically, it comes with the least effort, out of the blue.",
+    "But one day by dint of sheer chance and perverse good luck Vernon happened to be struck by a rather smashing train of thought.",
+    "She reaches this position by dint of sheer competence."
+  ],
+  "origin": "Old English dynt stroke with a weapon, reinforced in Middle English by the related Old Norse word dyntr; of unknown ultimate origin. Compare with dent.",
+  "pronounciation": "/dɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dint_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Remove or obliterate (written or printed matter), especially by drawing a line through it or marking it with a delete sign.",
+      "examples": [
+        "the passage was deleted"
+      ],
+      "synonyms": [
+        "remove",
+        "cut out",
+        "take out",
+        "edit out",
+        "expunge",
+        "excise",
+        "eradicate",
+        "cancel",
+        "unpublish"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A command or key on a computer which erases text."
+    }
+  ],
+  "origin": "Late Middle English (in the sense destroy): from Latin delet- blotted out, effaced, from the verb delere.",
+  "pronounciation": "/dəˈlit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/delete_us_1.mp3"
+}

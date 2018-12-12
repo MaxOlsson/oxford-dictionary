@@ -1,0 +1,102 @@
+{
+  "adjective": [
+    {
+      "description": "Not showing or feeling nervousness, anger, or other strong emotions.",
+      "examples": [
+        "she had to keep calm at all costs",
+        "his voice was calm"
+      ],
+      "synonyms": [
+        "serene",
+        "tranquil",
+        "relaxed",
+        "unruffled",
+        "unperturbed",
+        "unflustered",
+        "undisturbed",
+        "unagitated",
+        "unmoved",
+        "unbothered",
+        "untroubled"
+      ]
+    },
+    {
+      "description": "(of the weather) pleasantly free from wind.",
+      "examples": [
+        "the night was clear and calm"
+      ],
+      "synonyms": [
+        "windless",
+        "still",
+        "tranquil",
+        "quiet",
+        "serene",
+        "peaceful",
+        "pacific",
+        "undisturbed",
+        "restful",
+        "balmy",
+        "halcyon"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The absence of violent or confrontational activity within a place or group.",
+      "examples": [
+        "the elections proceeded in an atmosphere of relative calm",
+        "an edgy calm reigned in the capital"
+      ],
+      "synonyms": [
+        "tranquillity",
+        "stillness",
+        "calmness",
+        "quiet",
+        "quietness",
+        "quietude",
+        "peace",
+        "peacefulness",
+        "serenity",
+        "silence",
+        "hush"
+      ]
+    },
+    {
+      "description": "The absence of wind.",
+      "examples": [
+        "in the center of the storm calm prevailed"
+      ],
+      "synonyms": [
+        "stillness",
+        "tranquillity",
+        "calmness",
+        "lull",
+        "silence",
+        "windlessness",
+        "oppressiveness",
+        "heaviness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (someone) tranquil and quiet; soothe.",
+      "examples": [
+        "I took him inside and tried to calm him down",
+        "he lit a cigarette to calm his nerves",
+        "a cup of tea will have a calming effect"
+      ],
+      "synonyms": [
+        "soothe",
+        "pacify",
+        "placate",
+        "mollify",
+        "appease",
+        "conciliate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via one of the Romance languages from Greek kauma heat (of the day).",
+  "pronounciation": "/kä(l)m/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/calm_us_1.mp3"
+}

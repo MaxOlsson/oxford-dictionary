@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate.",
+      "synonyms": [
+        "expression",
+        "group of words",
+        "word group",
+        "construction",
+        "locution",
+        "wording",
+        "term",
+        "turn of phrase",
+        "idiom",
+        "idiomatic expression",
+        "set phrase",
+        "phrasal idiom",
+        "phrasal verb"
+      ]
+    },
+    {
+      "description": "A particular and separate article, stipulation, or proviso in a treaty, bill, or contract.",
+      "synonyms": [
+        "section",
+        "paragraph",
+        "article",
+        "subsection",
+        "note",
+        "item",
+        "point",
+        "passage",
+        "part",
+        "heading"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French clause, based on Latin claus- shut, closed, from the verb claudere.",
+  "pronounciation": "/klɔz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/clause_us_1.mp3"
+}

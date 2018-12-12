@@ -1,0 +1,56 @@
+{
+  "adjective": [
+    {
+      "description": "Judged over a period of time to be of the highest quality and outstanding of its kind.",
+      "examples": [
+        "a classic novel",
+        "a classic car"
+      ],
+      "synonyms": [
+        "definitive",
+        "authoritative"
+      ]
+    },
+    {
+      "description": "Remarkably and instructively typical.",
+      "examples": [
+        "Hamlet is the classic example of a tragedy",
+        "I had all the classic symptoms of flu"
+      ],
+      "synonyms": [
+        "typical",
+        "archetypal",
+        "quintessential",
+        "vintage"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A work of art of recognized and established value.",
+      "examples": [
+        "his books have become classics"
+      ],
+      "synonyms": [
+        "definitive example",
+        "model",
+        "epitome",
+        "paradigm",
+        "exemplar",
+        "prototype"
+      ]
+    },
+    {
+      "description": "A school subject that involves the study of ancient Greek and Latin literature, philosophy, and history."
+    },
+    {
+      "description": "A major sports tournament or competition, as in golf or tennis.",
+      "examples": [
+        "dozens of celebrity golfers attended the Bob Hope Desert Classic"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French classique or Latin classicus belonging to a class or division, later of the highest class, from classis (see class).",
+  "pronounciation": "/ˈklasik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/classic_us_1.mp3"
+}

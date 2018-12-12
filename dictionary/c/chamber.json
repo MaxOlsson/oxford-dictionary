@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A large room used for formal or public events.",
+      "synonyms": [
+        "room",
+        "hall",
+        "assembly room",
+        "auditorium"
+      ]
+    },
+    {
+      "description": "A private room, especially a bedroom.",
+      "examples": [
+        "he had his meals brought to his chamber"
+      ],
+      "synonyms": [
+        "bedroom",
+        "bedchamber",
+        "boudoir",
+        "room"
+      ]
+    },
+    {
+      "description": "An enclosed space or cavity.",
+      "examples": [
+        "an echo chamber"
+      ]
+    },
+    {
+      "description": "Of or for a small group of instruments.",
+      "examples": [
+        "a chamber concert"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place (a bullet) into the chamber of a gun."
+    }
+  ],
+  "origin": "Middle English (in the sense private room): from Old French chambre, from Latin camera vault, arched chamber, from Greek kamara object with an arched cover.",
+  "pronounciation": "/ˈCHāmbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/chamber_us_1.mp3"
+}

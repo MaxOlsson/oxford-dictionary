@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by refined taste and manners and good education.",
+      "examples": [
+        "the development of a modern, cultured society"
+      ],
+      "synonyms": [
+        "cultivated",
+        "artistically aware",
+        "intellectually aware",
+        "artistic",
+        "enlightened",
+        "civilized",
+        "educated",
+        "well educated",
+        "well read",
+        "well informed",
+        "learned",
+        "knowledgeable",
+        "discerning",
+        "discriminating",
+        "with good taste",
+        "refined",
+        "polished"
+      ]
+    },
+    {
+      "description": "(of tissue cells, bacteria, etc.) grown or propagated in an artificial medium."
+    }
+  ],
+  "pronounciation": "/ˈkəltʃərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/cultured_us_1.mp3"
+}

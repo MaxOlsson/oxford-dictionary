@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Not clearly belonging to any particular period, therefore not likely to go out of date.",
+      "examples": [
+        "a dateless dress"
+      ],
+      "synonyms": [
+        "ancient",
+        "old",
+        "very old",
+        "age-old",
+        "antediluvian",
+        "timeless",
+        "archaic",
+        "long-standing",
+        "long-lived",
+        "time-worn",
+        "time-honoured"
+      ]
+    },
+    {
+      "description": "Without social or romantic engagements.",
+      "examples": [
+        "I have been dateless for two years",
+        "lonely, dateless nights"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdātlis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dateless_us_1.mp3"
+}

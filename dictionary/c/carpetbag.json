@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A traveling bag of a kind originally made of the thick woven fabric used for carpets.",
+      "synonyms": [
+        "suitcase",
+        "case",
+        "valise",
+        "portmanteau",
+        "holdall",
+        "carryall",
+        "grip",
+        "overnight bag",
+        "overnighter",
+        "flight bag",
+        "travelling bag",
+        "gladstone bag",
+        "carpet bag"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as a carpetbagger.",
+      "examples": [
+        "he carpetbagged over to New Hampshire and lost a Senate race there"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkärpətˌbaɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/carpetbag_us_1.mp3"
+}
