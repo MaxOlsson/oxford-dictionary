@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The state of being bankrupt.",
+      "examples": [
+        "many companies were facing bankruptcy",
+        "a series of bankruptcies and scandals",
+        "bankruptcy proceedings"
+      ],
+      "synonyms": [
+        "insolvency",
+        "liquidation",
+        "failure",
+        "ruin",
+        "financial ruin",
+        "ruination",
+        "debt",
+        "indebtedness"
+      ]
+    },
+    {
+      "description": "The state of being completely lacking in a particular quality or value.",
+      "examples": [
+        "the moral bankruptcy of turning away desperate people"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbæŋkˌrəp(t)si/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bankruptcy_us_1.mp3"
+}

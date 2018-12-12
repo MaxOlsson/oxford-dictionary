@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "In general and with the exception of minor details.",
+      "examples": [
+        "the climate is broadly similar in the two regions"
+      ],
+      "synonyms": [
+        "in general",
+        "on the whole",
+        "as a rule",
+        "in the main",
+        "mainly",
+        "predominantly"
+      ]
+    },
+    {
+      "description": "Widely and openly.",
+      "examples": [
+        "he was grinning broadly"
+      ],
+      "synonyms": [
+        "widely",
+        "openly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrɔdli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/broadly_us_1.mp3"
+}

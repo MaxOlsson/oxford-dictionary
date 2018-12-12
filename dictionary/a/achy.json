@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Suffering from continuous dull pain.",
+      "examples": [
+        "she felt tired and achy"
+      ],
+      "synonyms": [
+        "painful",
+        "sore",
+        "stiff",
+        "hurt",
+        "tender",
+        "uncomfortable",
+        "troublesome"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈeɪki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/achy_us_1.mp3"
+}

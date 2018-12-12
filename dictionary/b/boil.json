@@ -1,0 +1,83 @@
+{
+  "verb": [
+    {
+      "description": "(with reference to a liquid) reach or cause to reach the temperature at which it bubbles and turns to vapor.",
+      "examples": [
+        "we tried to get people to boil their drinking water",
+        "he waited for the water to boil",
+        "I'll boil up the stock"
+      ],
+      "synonyms": [
+        "simmer",
+        "bubble",
+        "seethe",
+        "heat",
+        "cook",
+        "stew"
+      ]
+    },
+    {
+      "description": "(with reference to food) cook or be cooked by immersing in boiling water or stock.",
+      "examples": [
+        "boil the potatoes until well done",
+        "make the sauce while the lobsters are boiling"
+      ],
+      "synonyms": [
+        "bring to the boil",
+        "simmer",
+        "heat"
+      ]
+    },
+    {
+      "description": "(of the sea or clouds) be turbulent and stormy.",
+      "examples": [
+        "a huge cliff with the black sea boiling below"
+      ],
+      "synonyms": [
+        "be turbulent",
+        "be agitated",
+        "froth",
+        "foam",
+        "churn",
+        "seethe",
+        "bubble",
+        "fizz",
+        "effervesce"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The temperature at which a liquid bubbles and turns to vapor.",
+      "examples": [
+        "stir in cream and bring to a boil"
+      ],
+      "synonyms": [
+        "boiling point",
+        "100 degrees celsius",
+        "100 degrees centigrade"
+      ]
+    },
+    {
+      "description": "A casual outdoor meal at which shellfish is prepared by boiling.",
+      "examples": [
+        "the reappearance of warm days signals another revival: weekend crawfish boils"
+      ]
+    }
+  ],
+  "phrases": [
+    "The chance to keep the pot boiling after a good win is an obvious temptation, but their fly-half will benefit from a week's recovery time after coming off with a thigh strain.",
+    "However, because of the engine's unusual power and torque characteristics, you really have to work at the gear lever to keep the pot boiling.",
+    "What the radicals can do is keep the pot boiling indefinitely, and that suits them just fine.",
+    "They have genuine promotion ambitions if they can keep the pot boiling.",
+    "Graham did all he could on the spot and then repaired home, keeping the pot boiling with a daily fax and phone call.",
+    "everything boiled down to cash in the end",
+    "It boils down to one simple fact: this society rewards effort rather than results.",
+    "That wasn't the actual topic, but that's what it boiled down to.",
+    "I guess it all boils down to a matter of confidence in the long term future of space research.",
+    "As in any legal-ethical debate, the question boils down to a matter of someone's rights."
+  ],
+  "origin": "Old English bȳle, bȳl, of West Germanic origin; related to Dutch buil and German Beule.",
+  "pronounciation": "/boil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boil_us_1.mp3"
+}

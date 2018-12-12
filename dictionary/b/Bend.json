@@ -1,0 +1,134 @@
+{
+  "verb": [
+    {
+      "description": "Shape or force (something straight) into a curve or angle.",
+      "examples": [
+        "the rising wind bent the long grass"
+      ],
+      "synonyms": [
+        "curve",
+        "crook",
+        "make crooked",
+        "make curved",
+        "flex",
+        "angle",
+        "hook",
+        "bow",
+        "arc",
+        "arch",
+        "buckle",
+        "warp",
+        "contort",
+        "distort",
+        "deform"
+      ]
+    },
+    {
+      "description": "(of a person) incline the body downward from the vertical.",
+      "examples": [
+        "I bent over my plate",
+        "he bent down and picked her up",
+        "he bent to tie his shoelaces"
+      ],
+      "synonyms": [
+        "stoop",
+        "bow",
+        "crouch",
+        "squat",
+        "kneel",
+        "hunch"
+      ]
+    },
+    {
+      "description": "Force or be forced to submit.",
+      "examples": [
+        "they want to bend me to their will",
+        "a refusal to bend to mob rule"
+      ],
+      "synonyms": [
+        "mould",
+        "shape",
+        "manipulate",
+        "direct",
+        "force",
+        "press",
+        "influence",
+        "incline",
+        "sway",
+        "bias",
+        "warp",
+        "impress",
+        "compel",
+        "persuade"
+      ]
+    },
+    {
+      "description": "Direct or devote (one's attention or energies) to a task.",
+      "examples": [
+        "Eric bent all his efforts to persuading them to donate some blankets",
+        "she bent once more to the task of diverting the wedding guests"
+      ],
+      "synonyms": [
+        "direct",
+        "point",
+        "aim",
+        "turn",
+        "train",
+        "steer",
+        "set"
+      ]
+    },
+    {
+      "description": "Attach (a sail or rope) by means of a knot.",
+      "examples": [
+        "sailors were bending sails to the spars"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A curve, especially a sharp one, in a road, river, racecourse, or path.",
+      "synonyms": [
+        "curve",
+        "turn",
+        "corner",
+        "kink",
+        "angle",
+        "arc",
+        "crescent",
+        "twist",
+        "crook",
+        "deviation",
+        "deflection",
+        "loop"
+      ]
+    },
+    {
+      "description": "A curved or angled part or form of something.",
+      "examples": [
+        "making a bend in the wire"
+      ]
+    },
+    {
+      "description": "A kind of knot used to join two ropes, or to tie a rope to another object, e.g. a carrick bend."
+    },
+    {
+      "description": "Decompression sickness, especially in divers."
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A city in central Oregon; population 77,181 (est. 2008)."
+    }
+  ],
+  "phrases": [
+    "she regularly bent Michael's ear with her problems",
+    "Can I bend your ear for a minute about a veterans' issue?",
+    "In the following highlights of the day's activities, managers and employees had an opportunity to bend the boss 's ear - and some did.",
+    "I've just had Mr Brisedale bending my ear for ten minutes about the quality of my warehouse staff.",
+    "I think I've bent your ear enough for today and I have to be at work in an hour."
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French bande, Old French bende flat strip.",
+  "pronounciation": "/bɛnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bend_us_1.mp3"
+}

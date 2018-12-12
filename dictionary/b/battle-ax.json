@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A large broad-bladed ax used in ancient warfare.",
+      "synonyms": [
+        "poleaxe",
+        "axe",
+        "pike",
+        "halberd",
+        "tomahawk",
+        "war mattock",
+        "mace"
+      ]
+    },
+    {
+      "description": "A formidably aggressive older woman.",
+      "examples": [
+        "a battle-ax with inflexible house rules"
+      ],
+      "synonyms": [
+        "harridan",
+        "dragon",
+        "crone",
+        "witch",
+        "hag",
+        "gorgon",
+        "ogress",
+        "hellcat",
+        "harpy",
+        "tartar",
+        "martinet",
+        "termagant",
+        "virago",
+        "fury"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbædlæks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/battle_ax_1_us_1.mp3"
+}

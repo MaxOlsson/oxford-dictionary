@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "Lose blood from the body as a result of injury or illness.",
+      "examples": [
+        "the cut was bleeding steadily",
+        "some casualties were left to bleed to death",
+        "the bleeding has stopped now"
+      ],
+      "synonyms": [
+        "lose blood",
+        "haemorrhage"
+      ]
+    },
+    {
+      "description": "Draw blood from (someone), especially as a once-common method of treatment in medicine.",
+      "synonyms": [
+        "draw blood from"
+      ]
+    },
+    {
+      "description": "Allow (fluid or gas) to escape from a closed system through a valve.",
+      "examples": [
+        "open the valves and bleed air from the pump chamber"
+      ]
+    },
+    {
+      "description": "(of a dye or color) seep into an adjacent color or area.",
+      "examples": [
+        "I worked loosely with the oils, allowing colors to bleed into one another"
+      ],
+      "synonyms": [
+        "flow",
+        "run",
+        "ooze",
+        "seep",
+        "trickle",
+        "leak",
+        "filter",
+        "percolate",
+        "escape",
+        "leach"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of bleeding.",
+      "examples": [
+        "a lot of blood was lost from the placental bleed"
+      ]
+    },
+    {
+      "description": "The escape of fluid or gas from a closed system through a valve.",
+      "examples": [
+        "the amount of air bleed from the compressor"
+      ]
+    },
+    {
+      "description": "An instance of printing an illustration, design, or text to the edge of the page.",
+      "examples": [
+        "it allows printing of a tabloid page with full bleed"
+      ]
+    }
+  ],
+  "phrases": [
+    "this car has been bleeding me dry",
+    "the industry had been bled dry by piracy",
+    "Apparently she is nicknamed the vampire for eating up millionaires, bleeding them dry and spitting them out again.",
+    "Then he says Joseph had stated he intended to bleed Mr McKenna dry, before noting that during the case some of Joseph's editorial board resigned.",
+    "Water bosses are not the only ones bleeding us dry."
+  ],
+  "origin": "Old English blēdan, of Germanic origin; related to blood.",
+  "pronounciation": "/blid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bleed_us_1.mp3"
+}

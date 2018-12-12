@@ -1,0 +1,22 @@
+{
+  "noun": [
+    {
+      "description": "A small bag filled with dried beans and used in children's games."
+    },
+    {
+      "description": "A large cushion filled with polystyrene beads and used as a seat.",
+      "synonyms": [
+        "pillow",
+        "bolster",
+        "headrest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Indicate (a penalty) or charge (a player) with a penalty using a beanbag."
+    }
+  ],
+  "pronounciation": "/ˈbēnˌbaɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beanbag_us_1.mp3"
+}

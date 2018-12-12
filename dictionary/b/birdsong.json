@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The musical vocalizations of a bird or birds, typically uttered by a male songbird in characteristic bursts or phrases for territorial purposes.",
+      "synonyms": [
+        "trill",
+        "trilling",
+        "song",
+        "cry",
+        "warbling",
+        "chirp",
+        "chirping",
+        "chirrup",
+        "chirruping",
+        "chirr",
+        "chirring",
+        "cheep",
+        "cheeping",
+        "twitter",
+        "twittering",
+        "tweet",
+        "tweeting",
+        "whistle",
+        "whistling",
+        "chatter",
+        "chattering",
+        "squeak",
+        "squeaking",
+        "pipe",
+        "piping",
+        "peep",
+        "peeping",
+        "call",
+        "calling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbərdˌsɔŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/birdsong_us_1.mp3"
+}

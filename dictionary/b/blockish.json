@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Big, bulky, or crude in form or appearance.",
+      "examples": [
+        "his blockish architecture is ugly if functional"
+      ]
+    },
+    {
+      "description": "Unintelligent and stupid.",
+      "synonyms": [
+        "stupid",
+        "unintelligent",
+        "ignorant",
+        "dense",
+        "brainless",
+        "mindless",
+        "foolish",
+        "slow-witted",
+        "slow",
+        "dull",
+        "dull-witted",
+        "witless",
+        "half-witted",
+        "doltish",
+        "dunce-like",
+        "simple",
+        "simple-minded",
+        "empty-headed",
+        "vacuous",
+        "vapid",
+        "idiotic",
+        "moronic",
+        "imbecilic",
+        "cretinous",
+        "obtuse",
+        "bovine",
+        "lumpish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbläkiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blockish_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to both Britain and the US.",
+      "examples": [
+        "Anglo-American folk music",
+        "the first Anglo-American agreement on the future of air transport"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An American born in England or of English ancestry.",
+      "examples": [
+        "I'm an Anglo-American who moved to the US in early adulthood"
+      ]
+    }
+  ],
+  "pronounciation": "/æŋɡloʊəˈmɛrəkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/anglo_american_1_us_2.mp3"
+}

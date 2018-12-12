@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A short description of a book, movie, or other product written for promotional purposes and appearing on the cover of a book or in an advertisement.",
+      "synonyms": [
+        "notice",
+        "announcement",
+        "bulletin"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Write or contribute a blurb for (a book, movie, or other product)",
+      "examples": [
+        "this is the first time I have blurbed a whole line of books"
+      ],
+      "synonyms": [
+        "publicize",
+        "make public",
+        "make known",
+        "give publicity to",
+        "bill",
+        "post",
+        "announce",
+        "broadcast",
+        "proclaim",
+        "trumpet",
+        "shout from the rooftops",
+        "give notice of",
+        "call attention to",
+        "promulgate"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: coined by Gelett Burgess (died 1951), American humorist.",
+  "pronounciation": "/blərb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blurb_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A writer of a book, article, or report.",
+      "examples": [
+        "he is the author of several books on the subject"
+      ],
+      "synonyms": [
+        "writer",
+        "man of letters",
+        "woman of letters",
+        "wordsmith"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be the author of (a book or piece of writing)",
+      "examples": [
+        "she has authored several articles on wildlife"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense a person who invents or causes something): from Old French autor, from Latin auctor, from augere increase, originate, promote. The spelling with th arose in the 15th century, and perhaps became established under the influence of authentic.",
+  "pronounciation": "/ˈɔθər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/author_us_1.mp3"
+}

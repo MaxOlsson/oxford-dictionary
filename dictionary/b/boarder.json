@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A person who receives regular meals when staying somewhere, in return for payment or services.",
+      "synonyms": [
+        "patron",
+        "client",
+        "person staying"
+      ]
+    },
+    {
+      "description": "A person who boards a ship during or after an attack."
+    },
+    {
+      "description": "A person who takes part in a sport using a board, such as surfing or snowboarding.",
+      "examples": [
+        "skiing purists say the boarders tear up the snow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɔrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/boarder_us_1.mp3"
+}

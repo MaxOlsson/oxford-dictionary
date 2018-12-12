@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "Threads of silk, cotton, or other material woven into a decorative band for edging or trimming garments.",
+      "examples": [
+        "a coat trimmed with gold braid",
+        "fancy braids"
+      ],
+      "synonyms": [
+        "cord",
+        "cording",
+        "braiding",
+        "bullion",
+        "thread",
+        "twine",
+        "yarn",
+        "tape",
+        "binding",
+        "rickrack",
+        "ribbon"
+      ]
+    },
+    {
+      "description": "A length of hair made up of three or more interlaced strands.",
+      "examples": [
+        "women with long black braids"
+      ],
+      "synonyms": [
+        "plait",
+        "pigtail",
+        "twist"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Interlace three or more strands of (hair or other flexible material) to form a length.",
+      "examples": [
+        "their long hair was tightly braided",
+        "horses with braided manes"
+      ],
+      "synonyms": [
+        "plait",
+        "entwine",
+        "intertwine",
+        "interweave",
+        "interlace",
+        "interthread",
+        "criss-cross",
+        "weave",
+        "knit",
+        "lace",
+        "twist",
+        "twine",
+        "wind"
+      ]
+    },
+    {
+      "description": "Edge or trim (a garment) with braid.",
+      "examples": [
+        "braided red trousers"
+      ],
+      "synonyms": [
+        "trim",
+        "edge",
+        "border",
+        "pipe",
+        "hem",
+        "fringe",
+        "frill"
+      ]
+    },
+    {
+      "description": "(of a river or stream) flow into shallow interwoven channels divided by deposits of sediment."
+    }
+  ],
+  "origin": "Old English bregdan make a sudden movement, also interweave, of Germanic origin; related to Dutch breien (verb).",
+  "pronounciation": "/brād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/braid_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Free (someone) from a criminal charge by a verdict of not guilty.",
+      "examples": [
+        "she was acquitted on all counts",
+        "the jury acquitted him of murder"
+      ],
+      "synonyms": [
+        "absolve",
+        "clear",
+        "exonerate",
+        "exculpate",
+        "declare innocent",
+        "find innocent",
+        "pronounce not guilty"
+      ]
+    },
+    {
+      "description": "Conduct oneself or perform in a specified way.",
+      "examples": [
+        "all the young women in the contest acquitted themselves well"
+      ],
+      "synonyms": [
+        "conduct oneself",
+        "bear oneself"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense pay a debt, discharge a liability): from Old French acquiter, from medieval Latin acquitare pay a debt, from ad- to + quitare set free.",
+  "pronounciation": "/əˈkwɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/acquit_us_1.mp3"
+}

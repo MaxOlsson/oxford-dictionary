@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "A load, typically a heavy one.",
+      "synonyms": [
+        "load",
+        "cargo",
+        "freight",
+        "weight"
+      ]
+    },
+    {
+      "description": "The main theme or gist of a speech, book, or argument.",
+      "examples": [
+        "the burden of his views"
+      ],
+      "synonyms": [
+        "gist",
+        "substance",
+        "drift",
+        "implication",
+        "intention",
+        "thrust",
+        "meaning",
+        "significance",
+        "signification",
+        "sense",
+        "essence",
+        "thesis",
+        "import",
+        "purport",
+        "tenor",
+        "message",
+        "spirit"
+      ]
+    },
+    {
+      "description": "The refrain or chorus of a song.",
+      "synonyms": [
+        "refrain",
+        "strain"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Load heavily.",
+      "examples": [
+        "she walked forward burdened with a wooden box"
+      ],
+      "synonyms": [
+        "load",
+        "weight",
+        "charge"
+      ]
+    }
+  ],
+  "phrases": [
+    "It also made clear that the burden of proof would be put on the concerned governments.",
+    "This new emphasis must push further the burden of proof from the prosecution to the defence.",
+    "It may well be that the ultimate objection is that such a pleading places a burden of proof on the claimant to prove his innocence.",
+    "He also says that the burden of proof in Ireland for a successful prosecution is far higher than in other countries.",
+    "The Crown continues to have the burden of proof of proving an offence beyond a reasonable doubt."
+  ],
+  "origin": "Old English byrthen, of West Germanic origin; related to bear.",
+  "pronounciation": "/ˈbərdn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/burden_us_1.mp3"
+}

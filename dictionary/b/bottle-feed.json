@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Feed (a baby) with milk from a bottle.",
+      "examples": [
+        "we still bottle-feed her",
+        "if you bottle-feed, make sure your baby is sitting upright while drinking"
+      ],
+      "synonyms": [
+        "give food to",
+        "provide food for",
+        "provide for",
+        "cater for",
+        "prepare food for",
+        "cook for",
+        "make a meal for",
+        "wine and dine"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɑdlˌfid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bottle_feed_1_us_1.mp3"
+}

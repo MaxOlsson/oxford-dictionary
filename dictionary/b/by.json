@@ -1,0 +1,119 @@
+{
+  "preposition": [
+    {
+      "description": "Identifying the agent performing an action.",
+      "synonyms": [
+        "by means of",
+        "by use of",
+        "by virtue of",
+        "on account of",
+        "as a result of",
+        "as a consequence of",
+        "owing to",
+        "by reason of",
+        "on grounds of",
+        "on the strength of",
+        "due to",
+        "thanks to",
+        "by",
+        "via"
+      ]
+    },
+    {
+      "description": "Indicating the means of achieving something.",
+      "examples": [
+        "malaria can be controlled by attacking the parasite",
+        "they plan to provide further working capital by means of borrowing"
+      ]
+    },
+    {
+      "description": "Indicating the amount or size of a margin.",
+      "examples": [
+        "the shot missed her by miles",
+        "the raising of taxes by 2.5%"
+      ]
+    },
+    {
+      "description": "Indicating a deadline or the end of a particular time period.",
+      "examples": [
+        "I've got to do this report by Monday",
+        "by now Kelly needed extensive physiotherapy"
+      ],
+      "synonyms": [
+        "no later than",
+        "in good time for",
+        "at",
+        "before"
+      ]
+    },
+    {
+      "description": "Indicating location of a physical object beside a place or object.",
+      "examples": [
+        "remains were discovered by the roadside",
+        "the lamp was by the door"
+      ],
+      "synonyms": [
+        "next to",
+        "beside",
+        "next door to",
+        "alongside",
+        "at the side of",
+        "by the side of",
+        "abreast of",
+        "adjacent to",
+        "cheek by jowl with",
+        "side by side with"
+      ]
+    },
+    {
+      "description": "Indicating the period in which something happens.",
+      "examples": [
+        "this animal always hunts by night"
+      ]
+    },
+    {
+      "description": "Concerning; according to.",
+      "examples": [
+        "anything you do is all right by me",
+        "she had done her duty by him"
+      ],
+      "synonyms": [
+        "according to",
+        "with",
+        "as far as … is concerned",
+        "concerning"
+      ]
+    },
+    {
+      "description": "Used in mild oaths.",
+      "examples": [
+        "it was the least he could do, by God"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "So as to go past.",
+      "examples": [
+        "a car flashed by on the other side of the road",
+        "he let only a moment go by"
+      ],
+      "synonyms": [
+        "past",
+        "on",
+        "along",
+        "beyond"
+      ]
+    }
+  ],
+  "noun": [],
+  "phrases": [
+    "where's Hector, by the by?",
+    "mammals have, by and large, bigger brains than reptiles",
+    "living in that big house by himself",
+    "the patient often learns to undress by himself"
+  ],
+  "origin": "Old English bī, bi, be, of Germanic origin; related to Dutch bij and German bei.",
+  "pronounciation": "/baɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/by_us_1.mp3"
+}

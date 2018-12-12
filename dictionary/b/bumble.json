@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Move or act in an awkward or confused manner.",
+      "examples": [
+        "they bumbled around the house"
+      ],
+      "synonyms": [
+        "blunder",
+        "lurch",
+        "stumble",
+        "wobble",
+        "lumber",
+        "shamble",
+        "shuffle",
+        "stagger",
+        "totter",
+        "teeter",
+        "reel",
+        "weave",
+        "pitch",
+        "muddle",
+        "flounder",
+        "falter"
+      ]
+    },
+    {
+      "description": "Speak in a confused or indistinct way.",
+      "examples": [
+        "the succeeding speakers bumbled"
+      ],
+      "synonyms": [
+        "ramble",
+        "babble",
+        "burble",
+        "drivel",
+        "gibber",
+        "blather",
+        "mumble",
+        "mutter",
+        "stumble"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense hum, drone): from boom + -le.",
+  "pronounciation": "/ˈbəmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bumble_us_4.mp3"
+}

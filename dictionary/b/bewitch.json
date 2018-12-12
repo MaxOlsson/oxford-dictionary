@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Enchant and delight (someone)",
+      "examples": [
+        "they both were bewitched by the country and its culture"
+      ],
+      "synonyms": [
+        "captivate",
+        "enchant",
+        "entrance",
+        "enrapture",
+        "charm",
+        "beguile",
+        "delight",
+        "fascinate",
+        "enthral",
+        "seduce",
+        "ravish",
+        "spellbind",
+        "hold spellbound",
+        "mesmerize",
+        "hypnotize",
+        "transfix"
+      ]
+    },
+    {
+      "description": "Cast a spell over (someone)",
+      "examples": [
+        "his relatives were firmly convinced that he was bewitched"
+      ],
+      "synonyms": [
+        "cast a spell on",
+        "put a spell on",
+        "enchant"
+      ]
+    }
+  ],
+  "origin": "Middle English: from be- thoroughly + witch.",
+  "pronounciation": "/bəˈwiCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bewitch_us_1.mp3"
+}

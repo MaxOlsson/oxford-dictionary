@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "A board for making an experimental model of an electric circuit."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (an experimental circuit)",
+      "examples": [
+        "a modem I breadboarded myself",
+        "an article describes the technique of breadboarding"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbredbôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breadboard_us_1.mp3"
+}
