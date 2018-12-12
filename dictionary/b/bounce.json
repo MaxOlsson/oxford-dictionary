@@ -1,0 +1,97 @@
+{
+  "verb": [
+    {
+      "description": "(of an object, especially a ball) move quickly up, back, or away from a surface after hitting it; rebound (once or repeatedly)",
+      "examples": [
+        "the ball bounced away and he chased it",
+        "he was bouncing the ball against the wall",
+        "the ball bounced off the rim"
+      ],
+      "synonyms": [
+        "rebound",
+        "spring back",
+        "bob",
+        "recoil",
+        "ricochet",
+        "jounce"
+      ]
+    },
+    {
+      "description": "(of a person) jump repeatedly up and down, typically on something springy.",
+      "examples": [
+        "bouncing up and down on the mattress"
+      ],
+      "synonyms": [
+        "bound",
+        "leap",
+        "jump",
+        "spring",
+        "bob",
+        "hop",
+        "skip",
+        "trip",
+        "gambol",
+        "dance",
+        "prance",
+        "romp",
+        "caper",
+        "cavort",
+        "frisk",
+        "frolic",
+        "sport"
+      ]
+    },
+    {
+      "description": "(of a check) be returned by a bank when there are insufficient funds to meet it.",
+      "examples": [
+        "my rent check bounced"
+      ]
+    },
+    {
+      "description": "Eject (a troublemaker) forcibly from a nightclub or similar establishment.",
+      "synonyms": [
+        "expel",
+        "throw out",
+        "turn out",
+        "put out",
+        "cast out",
+        "remove",
+        "oust"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rebound of a ball or other object.",
+      "examples": [
+        "a bad bounce caused the ball to get away from the second baseman"
+      ],
+      "synonyms": [
+        "springiness",
+        "spring"
+      ]
+    },
+    {
+      "description": "An act of jumping or an instance of being moved up and down.",
+      "examples": [
+        "every bounce of the truck brought them into fresh contact",
+        "a bounce on your knee or a cuddle and pat on the back"
+      ],
+      "synonyms": [
+        "rebound",
+        "reflection",
+        "ricochet"
+      ]
+    }
+  ],
+  "phrases": [
+    "Some days she is bouncing off the walls because she took too many pills; the next all she can do is complain because she took too few.",
+    "My students were bouncing off the walls by the time I dismissed them for Christmas break on the 17th of December.",
+    "I was bouncing off the walls, being very, very energetic.",
+    "If it weren't so early, you'd be bouncing off the walls, and you know it!",
+    "I'm ecstatic, I haven't stopped talking about it and I'm just bouncing off the walls at the moment, said Chris."
+  ],
+  "origin": "Middle English bunsen beat, thump, perhaps imitative, or from Low German bunsen beat, Dutch bons a thump.",
+  "pronounciation": "/baʊns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bounce_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Floating in water; not sinking.",
+      "examples": [
+        "they trod water to keep afloat",
+        "the canoes were still afloat"
+      ],
+      "synonyms": [
+        "buoyant",
+        "floating",
+        "buoyed up",
+        "non-submerged",
+        "suspended",
+        "drifting",
+        "above the surface",
+        "on the surface",
+        "above water",
+        "keeping one's head above water"
+      ]
+    },
+    {
+      "description": "Out of debt or difficulty.",
+      "examples": [
+        "I contrived to stay afloat in honest self-employment"
+      ]
+    }
+  ],
+  "origin": "Old English on flote (see a-, float), influenced in Middle English by Old Norse á flot(i) and Old French en flot.",
+  "pronounciation": "/əˈflōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/afloat_us_1.mp3"
+}

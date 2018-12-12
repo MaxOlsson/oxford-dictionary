@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of Bhutan, its inhabitants, or their language.",
+      "examples": [
+        "a remote Bhutanese village"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Bhutan.",
+      "examples": [
+        "the average Bhutanese speaks at least three to four languages",
+        "the Bhutanese are well known for their archery skills"
+      ]
+    },
+    {
+      "description": "The language of Bhutan.",
+      "examples": [
+        "one man who had been living there for some time could speak Bhutanese"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌbudəˈniz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bhutanese_1_us_2.mp3"
+}

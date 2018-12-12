@@ -1,0 +1,85 @@
+{
+  "noun": [
+    {
+      "description": "The flesh of a cow, bull, or ox, used as food."
+    },
+    {
+      "description": "Flesh or muscle, typically when well developed.",
+      "examples": [
+        "he needs a little more beef on his bones"
+      ],
+      "synonyms": [
+        "muscle",
+        "muscularity",
+        "brawn",
+        "bulk",
+        "heftiness",
+        "burliness",
+        "huskiness",
+        "physique"
+      ]
+    },
+    {
+      "description": "A complaint or grievance.",
+      "examples": [
+        "he has a beef with American education: it doesn't teach the basics of investing"
+      ],
+      "synonyms": [
+        "complaint",
+        "criticism",
+        "objection",
+        "protestation",
+        "cavil",
+        "quibble",
+        "grievance",
+        "grumble",
+        "moan",
+        "grumbling",
+        "carping"
+      ]
+    },
+    {
+      "description": "A criminal charge.",
+      "examples": [
+        "a drunk-driving beef"
+      ],
+      "synonyms": [
+        "charge",
+        "accusation",
+        "arraignment",
+        "citation",
+        "summons"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Complain.",
+      "examples": [
+        "he was beefing about how the recession was killing the business"
+      ],
+      "synonyms": [
+        "protest",
+        "grumble",
+        "moan",
+        "whine",
+        "bleat",
+        "carp",
+        "cavil",
+        "lodge a complaint",
+        "make a complaint",
+        "make a fuss"
+      ]
+    }
+  ],
+  "phrases": [
+    "cost-cutting measures are planned to beef up performance",
+    "So those penalties will be beefed up substantially.",
+    "Safety is on the forefront of everyone's minds, and the government is beefing up security everywhere.",
+    "We were writing regulations, we were beefing up legislation.",
+    "It is beefing up its capabilities in electronic investigation and cross-border operations."
+  ],
+  "origin": "Middle English: from Old French boef, from Latin bos, bov- ox.",
+  "pronounciation": "/bif/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/beef_us_1.mp3"
+}

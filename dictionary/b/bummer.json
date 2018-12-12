@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A thing that is annoying or disappointing.",
+      "examples": [
+        "the party was a real bummer"
+      ],
+      "synonyms": [
+        "disaster",
+        "calamity",
+        "catastrophe",
+        "cataclysm",
+        "devastation",
+        "misfortune",
+        "misadventure",
+        "mishap",
+        "reverse",
+        "vicissitude",
+        "setback",
+        "trial",
+        "tribulation",
+        "affliction",
+        "blight",
+        "injury",
+        "adversity",
+        "sad event",
+        "serious accident"
+      ]
+    },
+    {
+      "description": "A loafer or vagrant."
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express frustration or disappointment, typically sympathetically.",
+      "examples": [
+        "You lost your wallet? Bummer!"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: perhaps from German Bummler, from bummeln stroll, loaf about.",
+  "pronounciation": "/ˈbəmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bummer_us_1.mp3"
+}

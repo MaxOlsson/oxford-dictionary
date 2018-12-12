@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A small ball made of strands of wool used as a decoration on a hat or on furnishings.",
+      "examples": [
+        "a woolen ski hat with a bobble on top",
+        "a bobble hat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move with an irregular bouncing motion.",
+      "examples": [
+        "the glare of the snow made the landscape bobble"
+      ],
+      "synonyms": [
+        "jiggle",
+        "wriggle",
+        "twitch",
+        "flutter",
+        "shimmy",
+        "joggle",
+        "wag",
+        "wobble",
+        "shake",
+        "twist",
+        "squirm",
+        "writhe",
+        "wave",
+        "quiver",
+        "jerk"
+      ]
+    },
+    {
+      "description": "Mishandle (a ball)",
+      "examples": [
+        "Andy bobbled the ball, so his throw home was too late"
+      ],
+      "synonyms": [
+        "make a mess of",
+        "bungle",
+        "botch",
+        "fluff",
+        "fumble",
+        "butcher",
+        "mess up"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: frequentative of bob.",
+  "pronounciation": "/ˈbɑbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bobble_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The neck or mouth of a bottle."
+    },
+    {
+      "description": "A narrow section of road or a junction that impedes traffic flow.",
+      "examples": [
+        "narrow streets and a lack of parking space combine to make the town a bottleneck"
+      ],
+      "synonyms": [
+        "traffic jam",
+        "jam",
+        "congestion",
+        "hold-up",
+        "gridlock",
+        "queue",
+        "tailback"
+      ]
+    },
+    {
+      "description": "A device shaped like the neck of a bottle, worn on a guitarist's finger to produce special sound effects."
+    }
+  ],
+  "pronounciation": "/ˈbädlˌnek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bottleneck_us_1.mp3"
+}

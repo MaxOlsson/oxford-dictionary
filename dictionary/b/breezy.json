@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Pleasantly windy.",
+      "examples": [
+        "it was a bright, breezy day"
+      ],
+      "synonyms": [
+        "windy",
+        "fresh",
+        "brisk",
+        "airy"
+      ]
+    },
+    {
+      "description": "Appearing relaxed, informal, and cheerily brisk.",
+      "examples": [
+        "the text is written in a breezy matter-of-fact manner"
+      ],
+      "synonyms": [
+        "jaunty",
+        "cheerful",
+        "cheery",
+        "brisk",
+        "airy",
+        "carefree",
+        "free and easy",
+        "easy",
+        "easy-going",
+        "casual",
+        "relaxed",
+        "informal",
+        "light-hearted",
+        "lively",
+        "spirited",
+        "buoyant",
+        "sparkling",
+        "animated",
+        "vivacious",
+        "frisky",
+        "sprightly",
+        "sunny",
+        "full of the joys of spring"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbrēzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/breezy_us_1.mp3"
+}

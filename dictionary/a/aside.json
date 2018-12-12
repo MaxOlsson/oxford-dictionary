@@ -1,0 +1,39 @@
+{
+  "adverb": [
+    {
+      "description": "To one side; out of the way.",
+      "examples": [
+        "he pushed his plate aside",
+        "they stood aside to let a car pass",
+        "she must put aside all her antagonistic feelings"
+      ],
+      "synonyms": [
+        "to one side",
+        "to the side"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A remark or passage in a play that is intended to be heard by the audience but unheard by the other characters in the play.",
+      "examples": [
+        "Shakespeare's use of asides and soliloquies"
+      ],
+      "synonyms": [
+        "whispered remark",
+        "confidential remark",
+        "stage whisper"
+      ]
+    }
+  ],
+  "phrases": [
+    "His jovial manner and friendly approach sets him aside from all others that ever worked in town.",
+    "It's a an exciting pageant of anniversaries this week, even aside from my own birthday.",
+    "In fact, aside from the occasional pan of seafood, Jonathan is virtually vegetarian.",
+    "I have been through emotional agony in almost every relationship with men, aside from my father and Robert.",
+    "A full scale search was launched and thankfully she was found unharmed, aside from suffering from the cold."
+  ],
+  "origin": "Middle English (originally on side): see a, side.",
+  "pronounciation": "/əˈsaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/aside_us_1.mp3"
+}

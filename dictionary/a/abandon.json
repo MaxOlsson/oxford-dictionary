@@ -1,0 +1,80 @@
+{
+  "verb": [
+    {
+      "description": "Cease to support or look after (someone); desert.",
+      "examples": [
+        "her natural mother had abandoned her at an early age"
+      ],
+      "synonyms": [
+        "desert",
+        "leave",
+        "leave high and dry",
+        "turn one's back on",
+        "cast aside",
+        "break with",
+        "break up with"
+      ]
+    },
+    {
+      "description": "Give up completely (a course of action, a practice, or a way of thinking)",
+      "examples": [
+        "he had clearly abandoned all pretense of trying to succeed"
+      ],
+      "synonyms": [
+        "renounce",
+        "relinquish",
+        "dispense with",
+        "forswear",
+        "disclaim",
+        "disown",
+        "disavow",
+        "discard",
+        "wash one's hands of"
+      ]
+    },
+    {
+      "description": "Allow oneself to indulge in (a desire or impulse)",
+      "examples": [
+        "they abandoned themselves to despair"
+      ],
+      "synonyms": [
+        "indulge in",
+        "give way to",
+        "give oneself up to",
+        "yield to",
+        "lose oneself in",
+        "lose oneself to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Complete lack of inhibition or restraint.",
+      "examples": [
+        "she sings and sways with total abandon"
+      ],
+      "synonyms": [
+        "uninhibitedness",
+        "recklessness",
+        "lack of restraint",
+        "lack of inhibition",
+        "unruliness",
+        "wildness",
+        "impulsiveness",
+        "impetuosity",
+        "immoderation",
+        "wantonness"
+      ]
+    }
+  ],
+  "phrases": [
+    "The boat started sinking and we all had to abandon ship.",
+    "For an hour her crew fought to save her before the order was given to abandon ship.",
+    "A fire in the engine-room spread to the hold, causing the crew to abandon ship.",
+    "Submarines were supposed to surface and give crews time to abandon ship before sinking their vessels.",
+    "All the ferry's passengers and crew had been ordered to put on life jackets and prepare to abandon ship."
+  ],
+  "origin": "Late Middle English: from Old French abandoner, from a- (from Latin ad to, at) + bandon control (related to ban). The original sense was bring under control, later give in to the control of, surrender to ( abandon (sense 3 of the verb)).",
+  "pronounciation": "/əˈbandən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/abandon_us_1.mp3"
+}

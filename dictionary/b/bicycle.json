@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
+      "synonyms": [
+        "cycle",
+        "two-wheeler",
+        "pedal cycle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Ride a bicycle in a particular direction.",
+      "examples": [
+        "they had spent the day bicycling around the island"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from bi- two + Greek kuklos wheel.",
+  "pronounciation": "/ˈbaɪsək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bicycle_us_1.mp3"
+}

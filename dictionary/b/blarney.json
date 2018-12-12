@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "Talk that aims to charm, pleasantly flatter, or persuade.",
+      "examples": [
+        "he had the “street charm” of an Irish politician, but this blarney concealed his inner self"
+      ],
+      "synonyms": [
+        "blandishments",
+        "honeyed words",
+        "smooth talk",
+        "soft words",
+        "flattery",
+        "cajolery",
+        "coaxing",
+        "wheedling",
+        "compliments"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Influence or persuade (someone) using charm and pleasant flattery."
+    }
+  ],
+  "origin": "Late 18th century: named after Blarney, a castle near Cork in Ireland, where there is a stone said to give the gift of persuasive speech to anyone who kisses it.",
+  "pronounciation": "/ˈblärnē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/blarney_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Talk in a loud, aggressive, or indignant way with little effect.",
+      "examples": [
+        "you threaten and bluster, but won't carry it through",
+        "“I don't care what he says,” I blustered"
+      ],
+      "synonyms": [
+        "rant",
+        "thunder"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Loud, aggressive, or indignant talk with little effect.",
+      "examples": [
+        "their threats contained a measure of bluster"
+      ],
+      "synonyms": [
+        "ranting",
+        "hectoring",
+        "thundering",
+        "threatening",
+        "threats",
+        "bullying",
+        "domineering"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: ultimately imitative.",
+  "pronounciation": "/ˈbləstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bluster_us_1.mp3"
+}

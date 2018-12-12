@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "A number which is added to another.",
+      "examples": [
+        "as its name suggests the Accumulator accumulates by keeping its addend in memory and incrementing by the addend it receives from another transmitting unit"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Latin addendus to be added, gerundive of addere (see add).",
+  "pronounciation": "/ˈaˌdend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/addend_us_1.mp3"
+}

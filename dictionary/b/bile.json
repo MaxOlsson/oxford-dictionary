@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A bitter greenish-brown alkaline fluid that aids digestion and is secreted by the liver and stored in the gallbladder.",
+      "synonyms": [
+        "acrimony",
+        "resentment",
+        "rancour",
+        "sourness",
+        "acerbity",
+        "asperity"
+      ]
+    },
+    {
+      "description": "Anger; irritability.",
+      "examples": [
+        "that topic is sure to stir up plenty of bile"
+      ],
+      "synonyms": [
+        "annoyance",
+        "vexation",
+        "exasperation",
+        "crossness",
+        "irritation",
+        "irritability",
+        "indignation",
+        "pique",
+        "displeasure",
+        "resentment"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French, from Latin bilis.",
+  "pronounciation": "/baɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bile_us_1.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "An abdominal pain.",
+      "synonyms": [
+        "complaint",
+        "complaining",
+        "grouse",
+        "grousing",
+        "moan",
+        "moaning",
+        "moans and groans",
+        "grouch",
+        "grouching",
+        "grumble",
+        "whining",
+        "carping",
+        "muttering",
+        "murmur",
+        "murmuring",
+        "whispering"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Complain noisily or persistently.",
+      "examples": [
+        "heads of departments bellyaching about lack of resources",
+        "there was plenty of bellyaching"
+      ],
+      "synonyms": [
+        "grumble",
+        "complain",
+        "moan",
+        "groan",
+        "protest",
+        "whine",
+        "bleat",
+        "carp",
+        "cavil",
+        "lodge a complaint",
+        "make a complaint",
+        "make a fuss"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈbɛliˌeɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/bellyache_us_1.mp3"
+}
