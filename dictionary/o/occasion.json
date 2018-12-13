@@ -1,0 +1,87 @@
+{
+  "noun": [
+    {
+      "description": "A particular time or instance of an event.",
+      "examples": [
+        "on one occasion I stayed up until two in the morning"
+      ],
+      "synonyms": [
+        "instance",
+        "time",
+        "moment",
+        "juncture",
+        "point"
+      ]
+    },
+    {
+      "description": "Reason; cause.",
+      "examples": [
+        "it's the first time that I've had occasion to complain"
+      ],
+      "synonyms": [
+        "reason",
+        "cause",
+        "call",
+        "grounds",
+        "justification",
+        "need",
+        "necessity",
+        "requirement",
+        "excuse",
+        "pretext",
+        "stimulus",
+        "inducement",
+        "provocation",
+        "motive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (something)",
+      "examples": [
+        "something vital must have occasioned this visit",
+        "his death occasioned her much grief"
+      ],
+      "synonyms": [
+        "cause",
+        "give rise to",
+        "bring about",
+        "result in",
+        "lead to",
+        "prompt",
+        "provoke",
+        "evoke",
+        "elicit",
+        "call forth",
+        "produce",
+        "create",
+        "arouse",
+        "make",
+        "make for",
+        "generate",
+        "engender",
+        "originate",
+        "effect",
+        "bring on",
+        "induce",
+        "precipitate",
+        "stir up",
+        "inspire",
+        "spark off",
+        "trigger",
+        "breed"
+      ]
+    }
+  ],
+  "phrases": [
+    "on occasion, the state was asked to intervene",
+    "We have lost by half a point and one point on occasions and probably have the most second places in Panorama.",
+    "Now bear in mind this is the same person who, on occasions, will spend hours on her make-up before she'll set foot out the door.",
+    "My students used to ask on occasions whether they were different from my students in Czechoslovakia.",
+    "The Laois lads continued to dominate the exchanges but on occasions were guilty of some wayward passes."
+  ],
+  "origin": "Late Middle English: from Latin occasio(n-) juncture, reason, from occidere go down, set, from ob- towards + cadere to fall.",
+  "pronounciation": "/əˈkeɪʒən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/occasion_us_1.mp3"
+}

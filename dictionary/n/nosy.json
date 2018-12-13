@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) showing too much curiosity about other people's affairs.",
+      "examples": [
+        "he had to whisper to avoid being overheard by their nosy neighbors"
+      ],
+      "synonyms": [
+        "prying",
+        "inquisitive",
+        "curious",
+        "busybody",
+        "probing",
+        "spying",
+        "eavesdropping",
+        "intrusive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pry into something.",
+      "examples": [
+        "they don't nosy into your business like some people"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnōzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nosy_us_1.mp3"
+}

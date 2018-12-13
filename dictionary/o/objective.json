@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.",
+      "examples": [
+        "historians try to be objective and impartial"
+      ],
+      "synonyms": [
+        "impartial",
+        "unbiased",
+        "unprejudiced",
+        "non-partisan",
+        "disinterested",
+        "non-discriminatory",
+        "neutral",
+        "uninvolved",
+        "even-handed",
+        "equitable",
+        "fair",
+        "fair-minded",
+        "just",
+        "open-minded",
+        "dispassionate",
+        "detached",
+        "impersonal",
+        "unemotional",
+        "clinical"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a case of nouns and pronouns used as the object of a transitive verb or a preposition."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing aimed at or sought; a goal.",
+      "examples": [
+        "the system has achieved its objective"
+      ],
+      "synonyms": [
+        "aim",
+        "intention",
+        "purpose",
+        "target",
+        "goal",
+        "intent",
+        "object",
+        "end",
+        "end in view",
+        "grail",
+        "holy grail"
+      ]
+    },
+    {
+      "description": "The objective case."
+    },
+    {
+      "description": "The lens in a telescope or microscope nearest to the object observed."
+    }
+  ],
+  "origin": "Early 17th century: from medieval Latin objectivus, from objectum (see object).",
+  "pronounciation": "/əbˈdʒɛktɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/objective_us_1.mp3"
+}

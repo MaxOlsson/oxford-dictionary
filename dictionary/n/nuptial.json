@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to marriage or weddings.",
+      "examples": [
+        "moments of nuptial bliss"
+      ],
+      "synonyms": [
+        "matrimonial",
+        "marital",
+        "marriage",
+        "wedding",
+        "conjugal",
+        "connubial",
+        "bridal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A wedding.",
+      "examples": [
+        "the forthcoming nuptials between Richard and Jocelyn"
+      ],
+      "synonyms": [
+        "wedding",
+        "wedding ceremony",
+        "marriage",
+        "marriage ceremony",
+        "union"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French, or from Latin nuptialis, from nuptiae wedding, from nubere to wed; related to nubile.",
+  "pronounciation": "/ˈnəp(t)SHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nuptial_us_1.mp3"
+}

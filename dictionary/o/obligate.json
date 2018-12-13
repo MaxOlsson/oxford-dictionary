@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Bind or compel (someone), especially legally or morally.",
+      "examples": [
+        "the medical establishment is obligated to take action in the best interest of the public"
+      ],
+      "synonyms": [
+        "require",
+        "compel",
+        "bind",
+        "make",
+        "constrain",
+        "force",
+        "put under an obligation",
+        "leave someone no option",
+        "impel",
+        "coerce",
+        "pressure",
+        "pressurize"
+      ]
+    },
+    {
+      "description": "Commit (assets) as security.",
+      "examples": [
+        "the money must be obligated within 30 days"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Restricted to a particular function or mode of life.",
+      "examples": [
+        "an obligate intracellular parasite"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective in the sense bound by law): from Latin obligatus, past participle of obligare (see oblige). The current adjectival use dates from the late 19th century.",
+  "pronounciation": "/ˈäbləɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/obligate_us_1.mp3"
+}

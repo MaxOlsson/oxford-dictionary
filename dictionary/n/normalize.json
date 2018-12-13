@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Bring or return to a normal or standard condition or state.",
+      "examples": [
+        "the situation had normalized",
+        "he wants to begin negotiations to normalize relations"
+      ],
+      "synonyms": [
+        "modify",
+        "alter",
+        "regulate",
+        "tune",
+        "fine-tune",
+        "calibrate",
+        "balance"
+      ]
+    },
+    {
+      "description": "Multiply (a series, function or item of data) by a factor that makes the norm or some associated quantity such as an integral equal to a desired value (usually 1)."
+    }
+  ],
+  "pronounciation": "/ˈnôrməˌlīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/normalize_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The direction towards the point of the horizon midway between north and west.",
+      "examples": [
+        "he pointed to the north-west"
+      ]
+    },
+    {
+      "description": "The north-western part of a country, region, or town.",
+      "examples": [
+        "the north-west of London"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lying towards, near, or facing the north-west.",
+      "examples": [
+        "the north-west corner of the square"
+      ]
+    },
+    {
+      "description": "Of or denoting the north-western part of a country, region, or town, or its inhabitants.",
+      "examples": [
+        "north-west Europe"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To or towards the north-west.",
+      "examples": [
+        "he turned on to the motorway and headed north-west"
+      ]
+    }
+  ],
+  "pronounciation": "/nɔːθˈwɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/north_west_1_gb_1.mp3"
+}

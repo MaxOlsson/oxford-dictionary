@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Somewhat indecent or in poor taste.",
+      "examples": [
+        "off-color jokes"
+      ]
+    },
+    {
+      "description": "Of the wrong or an inferior color.",
+      "examples": [
+        "the new paint doesn't match, it's off-color"
+      ]
+    },
+    {
+      "description": "Slightly unwell.",
+      "examples": [
+        "I'm feeling a bit off-color"
+      ],
+      "synonyms": [
+        "unwell",
+        "ill",
+        "poorly",
+        "bad",
+        "out of sorts",
+        "indisposed",
+        "not oneself",
+        "sick",
+        "queasy",
+        "nauseous",
+        "nauseated",
+        "peaky",
+        "liverish",
+        "green about the gills",
+        "run down",
+        "washed out"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌôfˈkələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/off_color_1_us_1.mp3"
+}

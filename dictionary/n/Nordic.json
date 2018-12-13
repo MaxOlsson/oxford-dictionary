@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Scandinavia, Finland, Iceland, and the Faroe Islands.",
+      "examples": [
+        "the Nordic countries"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native of Scandinavia, Finland, or Iceland.",
+      "examples": [
+        "the Nordics might share a common history, speak similar languages, enjoy the same culture"
+      ]
+    }
+  ],
+  "origin": "From French nordique, from nord north.",
+  "pronounciation": "/ˈnôrdik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nordic_us_1.mp3"
+}
