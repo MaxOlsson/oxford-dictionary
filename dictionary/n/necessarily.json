@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "As a necessary result; inevitably.",
+      "examples": [
+        "the prognosis can necessarily be only an educated guess"
+      ],
+      "synonyms": [
+        "automatically",
+        "as a direct consequence",
+        "as a direct result",
+        "as an automatic consequence",
+        "as an automatic result",
+        "as a matter of course",
+        "by definition",
+        "certainly",
+        "surely",
+        "definitely",
+        "incontrovertibly",
+        "undoubtedly",
+        "axiomatically"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnɛsəˈsɛrəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/necessarily_us_1.mp3"
+}

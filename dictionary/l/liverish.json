@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Slightly ill, as though having a disordered liver.",
+      "synonyms": [
+        "slightly unwell",
+        "not well",
+        "not very well",
+        "not oneself",
+        "not in good shape",
+        "out of sorts"
+      ]
+    },
+    {
+      "description": "Resembling liver in color.",
+      "examples": [
+        "a liverish red"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlɪv(ə)rɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/liverish_us_1.mp3"
+}

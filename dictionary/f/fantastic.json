@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Extraordinarily good or attractive.",
+      "examples": [
+        "they did a fantastic job",
+        "your support has been fantastic"
+      ],
+      "synonyms": [
+        "tremendous",
+        "remarkable",
+        "great",
+        "terrific",
+        "enormous",
+        "huge",
+        "striking",
+        "impressive",
+        "outstanding",
+        "phenomenal",
+        "monumental",
+        "overwhelming"
+      ]
+    },
+    {
+      "description": "Imaginative or fanciful; remote from reality.",
+      "examples": [
+        "fantastic hybrid creatures",
+        "novels are capable of mixing fantastic and realistic elements"
+      ],
+      "synonyms": [
+        "fanciful",
+        "extravagant",
+        "extraordinary",
+        "irrational",
+        "wild",
+        "mad",
+        "absurd",
+        "far-fetched",
+        "nonsensical",
+        "incredible",
+        "unbelievable",
+        "unthinkable",
+        "implausible",
+        "improbable",
+        "unlikely",
+        "doubtful",
+        "dubious"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense unreal): from Old French fantastique, via medieval Latin from Greek phantastikos, from phantazein make visible, phantazesthai have visions, imagine, from phantos visible (related to phainein to show). From the 16th to the 19th centuries the Latinized spelling phantastic was also used.",
+  "pronounciation": "/fanˈtastik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fantastic_us_1.mp3"
+}

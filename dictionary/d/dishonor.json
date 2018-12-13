@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "A state of shame or disgrace.",
+      "examples": [
+        "they have brought dishonor upon our family"
+      ],
+      "synonyms": [
+        "disgrace",
+        "shame",
+        "discredit",
+        "humiliation",
+        "degradation",
+        "ignominy",
+        "scandal",
+        "infamy",
+        "disrepute",
+        "ill repute",
+        "loss of face",
+        "disfavour",
+        "ill favour",
+        "unpopularity",
+        "ill fame",
+        "notoriety",
+        "debasement",
+        "abasement",
+        "odium",
+        "opprobrium",
+        "obloquy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bring shame or disgrace on.",
+      "examples": [
+        "the mayor dishonors his good battle by resorting to sniping"
+      ],
+      "synonyms": [
+        "disgrace",
+        "bring dishonour to",
+        "bring discredit to",
+        "bring shame to",
+        "shame",
+        "embarrass",
+        "humiliate",
+        "discredit",
+        "degrade",
+        "debase",
+        "lower",
+        "cheapen",
+        "drag down",
+        "drag through the mud",
+        "blacken the name of",
+        "give a bad name to",
+        "show in a bad light"
+      ]
+    },
+    {
+      "description": "Fail to observe or respect (an agreement or principle)",
+      "examples": [
+        "the community has its own principles it can itself honor or dishonor"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French deshonor (noun), deshonorer (verb), based on Latin honor honor.",
+  "pronounciation": "/disˈänər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dishonor_us_1.mp3"
+}

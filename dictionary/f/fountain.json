@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "An ornamental structure in a pool or lake from which one or more jets of water are pumped into the air.",
+      "synonyms": [
+        "jet",
+        "spray",
+        "spout",
+        "spurt",
+        "well",
+        "fount",
+        "cascade"
+      ]
+    },
+    {
+      "description": "A natural spring of water."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spurt or cascade like a fountain.",
+      "examples": [
+        "an enormous curtain of lava fountained into the sky"
+      ],
+      "synonyms": [
+        "spurt",
+        "shoot",
+        "spray",
+        "spritz",
+        "fountain",
+        "jet",
+        "erupt"
+      ]
+    }
+  ],
+  "origin": "Middle English (in fountain (sense 2 of the noun)): from Old French fontaine, from late Latin fontana, feminine of Latin fontanus, adjective from fons, font- a spring.",
+  "pronounciation": "/ˈfaʊnt(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fountain_us_1.mp3"
+}

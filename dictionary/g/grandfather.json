@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "The father of one's father or mother.",
+      "synonyms": [
+        "grandad",
+        "grandpa",
+        "grandpop"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exempt (someone or something) from a new law or regulation.",
+      "examples": [
+        "smokers who worked here before the ban have been grandfathered"
+      ],
+      "synonyms": [
+        "exempt",
+        "excuse",
+        "make an exception for",
+        "make an exception of",
+        "give immunity to",
+        "grant immunity to",
+        "let off",
+        "release",
+        "exclude",
+        "exonerate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɡran(d)ˌfäT͟Hər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grandfather_us_1.mp3"
+}

@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Mexico or its people.",
+      "examples": [
+        "authentic Mexican cuisine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Mexico, or a person of Mexican descent.",
+      "examples": [
+        "urban scenes depicting the daily life of Mexicans"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɛksək(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mexican_us_1.mp3"
+}

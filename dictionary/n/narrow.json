@@ -1,0 +1,126 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of something that is considerably longer or higher than it is wide) of small width.",
+      "examples": [
+        "he made his way down the narrow road"
+      ],
+      "synonyms": [
+        "small",
+        "tapered",
+        "tapering",
+        "narrowing",
+        "narrow-gauged"
+      ]
+    },
+    {
+      "description": "Limited in extent, amount, or scope; restricted.",
+      "examples": [
+        "his ability to get good results within narrow constraints of money and manpower"
+      ],
+      "synonyms": [
+        "limited",
+        "restricted",
+        "circumscribed",
+        "straitened",
+        "small",
+        "inadequate",
+        "insufficient",
+        "deficient",
+        "lacking",
+        "wanting"
+      ]
+    },
+    {
+      "description": "Denoting or relating to a contest that is won or lost by only a very small margin.",
+      "examples": [
+        "the home team just hung on for a narrow victory"
+      ],
+      "synonyms": [
+        "marginal"
+      ]
+    },
+    {
+      "description": "Denoting a vowel pronounced with the root of the tongue drawn back so as to narrow the pharynx."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become or make less wide.",
+      "examples": [
+        "the road narrowed and crossed an old bridge",
+        "the embankment was built to narrow the river"
+      ],
+      "synonyms": [
+        "become narrower",
+        "get narrower",
+        "make narrower",
+        "become smaller",
+        "get smaller",
+        "make smaller",
+        "taper",
+        "diminish",
+        "decrease",
+        "reduce",
+        "contract",
+        "shrink",
+        "constrict"
+      ]
+    },
+    {
+      "description": "Become or make more limited or restricted in extent or scope.",
+      "examples": [
+        "their trade surplus narrowed to $70 million in January",
+        "New England had narrowed Denver's lead from 13 points to 4"
+      ],
+      "synonyms": [
+        "reduce",
+        "curtail",
+        "cut",
+        "cut down",
+        "cut back",
+        "prune",
+        "pare down",
+        "lessen",
+        "lower",
+        "decrease",
+        "shrink",
+        "contract",
+        "constrict",
+        "restrict",
+        "limit",
+        "curb",
+        "check",
+        "blunt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A narrow channel connecting two larger areas of water.",
+      "examples": [
+        "a basaltic fang rising from the narrows of the Upper Missouri"
+      ],
+      "synonyms": [
+        "strait",
+        "straits",
+        "sound",
+        "neck",
+        "channel",
+        "waterway",
+        "passage",
+        "sea passage"
+      ]
+    }
+  ],
+  "phrases": [
+    "the company has narrowed down the candidates for the job to two",
+    "So far I've narrowed the options down to ten papers.",
+    "During my internship, I was able to narrow down exactly what I wanted to do with my career.",
+    "Now we are able to narrow down likely suspects in a very short space of time.",
+    "Post again if you need help narrowing down the options for a specific location."
+  ],
+  "origin": "Old English nearu, of Germanic origin; related to Dutch naar dismal, unpleasant and German Narbe scar. Early senses in English included constricted and mean.",
+  "pronounciation": "/ˈnerō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/narrow_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A device such as a pattern of letters, ideas, or associations that assists in remembering something.",
+      "examples": [
+        "the usual mnemonic for star types is O Be A Fine Girl Kiss Me"
+      ],
+      "synonyms": [
+        "prompt",
+        "prompting",
+        "cue",
+        "nudge"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Aiding or designed to aid the memory.",
+      "synonyms": [
+        "figurative",
+        "representative",
+        "illustrative",
+        "emblematic",
+        "allegorical",
+        "parabolic",
+        "non-literal",
+        "allusive",
+        "denotative",
+        "connotative",
+        "suggestive"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (as an adjective): via medieval Latin from Greek mnēmonikos, from mnēmōn mindful.",
+  "pronounciation": "/nəˈmɑnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mnemonic_us_1.mp3"
+}

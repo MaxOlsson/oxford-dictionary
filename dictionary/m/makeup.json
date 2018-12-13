@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "Cosmetics such as lipstick or powder applied to the face, used to enhance or alter the appearance.",
+      "synonyms": [
+        "cosmetics",
+        "greasepaint"
+      ]
+    },
+    {
+      "description": "The composition or constitution of something.",
+      "examples": [
+        "studying the makeup of ocean sediments"
+      ],
+      "synonyms": [
+        "composition",
+        "constitution",
+        "configuration",
+        "form",
+        "arrangement",
+        "format",
+        "structure",
+        "construction",
+        "formation",
+        "assembly",
+        "organization",
+        "fabric",
+        "framework"
+      ]
+    },
+    {
+      "description": "The arrangement of type, illustrations, etc., on a printed page.",
+      "examples": [
+        "page makeup"
+      ],
+      "synonyms": [
+        "design",
+        "style",
+        "presentation",
+        "appearance",
+        "look"
+      ]
+    },
+    {
+      "description": "A supplementary test or assignment given to a student who missed or failed the original one.",
+      "examples": [
+        "Tony has a makeup exam"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmeɪkˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/makeup_us_1.mp3"
+}

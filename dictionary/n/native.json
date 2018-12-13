@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A person born in a specified place or associated with a place by birth, whether subsequently resident there or not.",
+      "examples": [
+        "a native of Montreal",
+        "an eighteen-year-old Brooklyn native"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Associated with the place or circumstances of a person's birth.",
+      "examples": [
+        "he's a native New Yorker",
+        "her native country"
+      ],
+      "synonyms": [
+        "mother",
+        "vernacular"
+      ]
+    },
+    {
+      "description": "(of a plant or animal) of indigenous origin or growth.",
+      "examples": [
+        "these plants are native to North America",
+        "America's native black bear"
+      ],
+      "synonyms": [
+        "domestic",
+        "home-grown",
+        "home-made",
+        "home",
+        "local"
+      ]
+    },
+    {
+      "description": "(of a quality) belonging to a person's character from birth rather than acquired; innate.",
+      "examples": [
+        "some last vestige of native wit prompted Guy to say nothing",
+        "a jealousy and rage native to him"
+      ],
+      "synonyms": [
+        "innate",
+        "inherent",
+        "inborn",
+        "intrinsic",
+        "instinctive",
+        "instinctual",
+        "intuitive",
+        "natural",
+        "natural-born",
+        "deep-seated",
+        "deep-rooted"
+      ]
+    },
+    {
+      "description": "(of a metal or other mineral) found in a pure or uncombined state."
+    },
+    {
+      "description": "Designed for or built into a given system, especially denoting the language associated with a given processor, computer, or compiler, and programs written in it."
+    }
+  ],
+  "phrases": [
+    "In other regions, Norman nobles married the daughters of Irish chiefs and went native.",
+    "That's for tourists, and these guys went native a long time ago.",
+    "He rejects suggestions that his almost 30 years of involvement in the region has caused him to go native, claiming it takes years even to begin to grapple with its complexities.",
+    "Does this bespeak the subconscious choice of a position between cultures, observing from without rather than going native?",
+    "While I've gone native in many respects - honking my horn to say hello, sucking my teeth when I get annoyed, and so on - there are still things that mark me out as a foreigner."
+  ],
+  "origin": "Late Middle English: from Latin nativus, from nat- born, from the verb nasci.",
+  "pronounciation": "/ˈneɪdɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/native_us_2.mp3"
+}

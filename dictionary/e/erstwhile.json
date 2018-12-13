@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Former.",
+      "examples": [
+        "his erstwhile rivals"
+      ],
+      "synonyms": [
+        "former",
+        "old",
+        "past",
+        "one-time",
+        "sometime",
+        "as was",
+        "ex-",
+        "late",
+        "then"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Formerly.",
+      "examples": [
+        "Mary Anderson, erstwhile the queen of America's stage"
+      ],
+      "synonyms": [
+        "formerly",
+        "previously",
+        "in the past",
+        "at one time",
+        "at one point",
+        "once upon a time",
+        "on a former occasion",
+        "on one occasion",
+        "one time",
+        "in one case",
+        "time was when",
+        "in days gone by",
+        "in times gone by",
+        "back in the day",
+        "in times past",
+        "in the old days",
+        "in the good old days",
+        "long ago"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈərstˌ(h)wīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/erstwhile_us_1.mp3"
+}

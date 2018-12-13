@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Subject (milk) to a process in which the fat droplets are emulsified and the cream does not separate.",
+      "examples": [
+        "the milk is pasteurized and homogenized"
+      ]
+    },
+    {
+      "description": "Make uniform or similar.",
+      "examples": [
+        "should the role of the law be to homogenize society?"
+      ],
+      "synonyms": [
+        "make uniform",
+        "make similar",
+        "unite",
+        "integrate",
+        "fuse",
+        "merge",
+        "blend",
+        "meld",
+        "coalesce",
+        "amalgamate",
+        "synthesize",
+        "combine",
+        "join together"
+      ]
+    }
+  ],
+  "pronounciation": "/həˈmäjəˌnīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homogenize_us_1.mp3"
+}

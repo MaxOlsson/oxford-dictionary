@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of or based on the meter as a unit of length; relating to the metric system.",
+      "examples": [
+        "all measurements are given in metric form"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a metric."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A system or standard of measurement."
+    },
+    {
+      "description": "Metric units, or the metric system.",
+      "examples": [
+        "it's easier to work in metric"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (denoting the branch of study dealing with meter): via Latin from Greek metrikos, from metron (see metre).",
+  "pronounciation": "/ˈmɛtrɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_metric_1_us_1.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to think clearly; confused.",
+      "examples": [
+        "she was shivering and her head felt muzzy from sleep"
+      ],
+      "synonyms": [
+        "groggy",
+        "light-headed",
+        "faint",
+        "dizzy",
+        "shaky",
+        "confused",
+        "muddled",
+        "fuddled",
+        "befuddled",
+        "addled",
+        "befogged"
+      ]
+    },
+    {
+      "description": "Blurred; indistinct.",
+      "examples": [
+        "a slightly muzzy picture",
+        "the bass and drums are, even on CD, appallingly muzzy"
+      ],
+      "synonyms": [
+        "blurred",
+        "blurry",
+        "fuzzy",
+        "unfocused",
+        "unclear",
+        "indistinct",
+        "ill-defined",
+        "woolly",
+        "foggy",
+        "hazy",
+        "faint"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: of unknown origin.",
+  "pronounciation": "/ˈməzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/muzzy_us_1.mp3"
+}

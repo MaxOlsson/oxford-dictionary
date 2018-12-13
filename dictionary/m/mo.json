@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A short period of time.",
+      "examples": [
+        "hang on a mo!"
+      ],
+      "synonyms": [
+        "little while",
+        "short time",
+        "bit",
+        "minute",
+        "second",
+        "instant",
+        "split second"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element molybdenum."
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "(of a disk or disk drive) magneto-optical."
+    },
+    {
+      "description": "Medical Officer.",
+      "examples": [
+        "that looks nasty—better go and see the MO"
+      ]
+    },
+    {
+      "description": "Missouri (in official postal use)."
+    },
+    {
+      "description": "Money order."
+    }
+  ],
+  "origin": "1950s: abbreviation of modus operandi.",
+  "pronounciation": "/ˌɛmˈoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mo_1_us_1.mp3"
+}

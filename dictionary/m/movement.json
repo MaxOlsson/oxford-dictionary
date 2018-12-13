@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "An act of changing physical location or position or of having this changed.",
+      "examples": [
+        "a slight movement of the upper body",
+        "the principle of the free movement of goods between member states"
+      ],
+      "synonyms": [
+        "motion",
+        "move",
+        "manoeuvre"
+      ]
+    },
+    {
+      "description": "A change or development.",
+      "examples": [
+        "movements in the underlying financial markets"
+      ],
+      "synonyms": [
+        "development",
+        "change",
+        "fluctuation",
+        "rise",
+        "fall",
+        "variation"
+      ]
+    },
+    {
+      "description": "A group of people working together to advance their shared political, social, or artistic ideas.",
+      "examples": [
+        "the labor movement"
+      ],
+      "synonyms": [
+        "political group",
+        "party",
+        "faction",
+        "organization",
+        "grouping",
+        "wing",
+        "front",
+        "lobby",
+        "camp"
+      ]
+    },
+    {
+      "description": "A principal division of a longer musical work, self-sufficient in terms of key, tempo, and structure.",
+      "examples": [
+        "the slow movement of his violin concerto"
+      ],
+      "synonyms": [
+        "part",
+        "section",
+        "division",
+        "passage"
+      ]
+    },
+    {
+      "description": "An act of defecation."
+    }
+  ],
+  "origin": "Late Middle English: via Old French from medieval Latin movimentum, from Latin movere to move.",
+  "pronounciation": "/ˈmo͞ovmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/movement_us_1.mp3"
+}

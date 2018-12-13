@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A structure of hexagonal cells of wax, made by bees to store honey and eggs."
+    },
+    {
+      "description": "A structure of adjoining cavities or cells.",
+      "examples": [
+        "a honeycomb of caves"
+      ]
+    },
+    {
+      "description": "Tripe from the second stomach of a ruminant."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fill with cavities or tunnels.",
+      "examples": [
+        "whole hillsides were honeycombed with mines"
+      ]
+    }
+  ],
+  "origin": "Old English hunigcamb (see honey, comb).",
+  "pronounciation": "/ˈhəniˌkoʊm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/honeycomb_us_1.mp3"
+}

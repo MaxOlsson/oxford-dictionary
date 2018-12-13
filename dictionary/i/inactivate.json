@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Make inactive or inoperative.",
+      "examples": [
+        "household bleach does not inactivate the virus"
+      ],
+      "synonyms": [
+        "disable",
+        "deactivate",
+        "render inactive",
+        "make inoperative",
+        "prevent from working",
+        "halt",
+        "stop",
+        "immobilize"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈaktəˌvāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inactivate_us_1.mp3"
+}

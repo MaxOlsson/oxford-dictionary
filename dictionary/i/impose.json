@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Force (something unwelcome or unfamiliar) to be accepted or put in place.",
+      "examples": [
+        "the decision was theirs and was not imposed on them by others"
+      ],
+      "synonyms": [
+        "foist",
+        "force",
+        "thrust",
+        "inflict",
+        "obtrude",
+        "press",
+        "urge"
+      ]
+    },
+    {
+      "description": "Take advantage of someone by demanding their attention or commitment.",
+      "examples": [
+        "she realized that she had imposed on Miss Hatherby's kindness"
+      ],
+      "synonyms": [
+        "take advantage of",
+        "abuse",
+        "exploit",
+        "take liberties with",
+        "misuse",
+        "ill-treat",
+        "treat unfairly",
+        "manipulate"
+      ]
+    },
+    {
+      "description": "Arrange (pages of type) so that they will be in the correct order after printing and folding."
+    }
+  ],
+  "origin": "Late 15th century (in the sense impute): from French imposer, from Latin imponere inflict, deceive (from in- in, upon + ponere put), but influenced by impositus inflicted and Old French poser to place.",
+  "pronounciation": "/ɪmˈpoʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impose_us_1.mp3"
+}

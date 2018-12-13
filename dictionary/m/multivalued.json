@@ -1,0 +1,15 @@
+{
+  "adjective": [
+    {
+      "description": "Mathematics. Of a function: having the property that a single argument may map to more than one value."
+    },
+    {
+      "description": "Logic. Designating a logic in which a proposition can be assigned any of three or more values, rather than being restricted to the values of truth and falsity. Cf many-valued."
+    },
+    {
+      "description": "Generally. Having or involving more than one value."
+    }
+  ],
+  "origin": "Early 20th century; earliest use found in American Journal of Mathematics. From multi- + valued. With sense 1 compare earlier one-valued, single-valued.",
+  "pronounciation": "/ˌmʌltɪˈvaljuːd/"
+}

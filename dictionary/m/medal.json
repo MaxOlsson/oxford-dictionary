@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A metal disk with an inscription or design, made to commemorate an event or awarded as a distinction to someone such as a soldier, athlete, or scholar.",
+      "synonyms": [
+        "honour",
+        "decoration",
+        "ribbon",
+        "star",
+        "order",
+        "badge",
+        "pin",
+        "laurel",
+        "wreath",
+        "palm",
+        "colours",
+        "insignia",
+        "plaque",
+        "award",
+        "trophy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Earn a medal, especially in an athletic contest.",
+      "examples": [
+        "Norwegian athletes medaled in 12 of the 14 events"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French médaille, from Italian medaglia, from medieval Latin medalia half a denarius, from Latin medialis medial.",
+  "pronounciation": "/ˈmedl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/medal_us_1.mp3"
+}

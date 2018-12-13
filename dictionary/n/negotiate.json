@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Obtain or bring about by discussion.",
+      "examples": [
+        "he negotiated a new contract with the sellers"
+      ],
+      "synonyms": [
+        "arrange",
+        "work out",
+        "thrash out",
+        "hammer out",
+        "reach an agreement on",
+        "agree on",
+        "come to terms about",
+        "reach terms on",
+        "broker"
+      ]
+    },
+    {
+      "description": "Find a way over or through (an obstacle or difficult path)",
+      "examples": [
+        "there was a puddle to be negotiated"
+      ],
+      "synonyms": [
+        "get over",
+        "get past",
+        "get round",
+        "make one's way over",
+        "make one's way past",
+        "make one's way round",
+        "make it over",
+        "make it past",
+        "make it round",
+        "clear",
+        "cross",
+        "pass over"
+      ]
+    },
+    {
+      "description": "Transfer (a check, bill, or other document) to the legal ownership of another person."
+    }
+  ],
+  "origin": "Early 17th century: from Latin negotiat- done in the course of business, from the verb negotiari, from negotium business, from neg- not + otium leisure.",
+  "pronounciation": "/nəˈɡōSHēˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/negotiate_us_1.mp3"
+}

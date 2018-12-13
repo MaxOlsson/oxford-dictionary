@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "The seventh letter of the Greek alphabet (Η, η), transliterated as e or ē."
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A Basque separatist movement in Spain, founded in 1959."
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Edited to add (used in online discussions to indicate that one has modified the content of a post one has made, typically in order to add something)",
+      "examples": [
+        "ETA: sorry, didn't see your post before I posted mine, @Abc!"
+      ]
+    }
+  ],
+  "origin": "Basque acronym, from Euzkadi ta Azkatasuna Basque homeland and liberty.",
+  "pronounciation": "/ˌēˌtēˈā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eta_1_us_2.mp3"
+}

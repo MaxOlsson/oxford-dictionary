@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "Toward the left.",
+      "examples": [
+        "all the wheels were going leftward"
+      ]
+    },
+    {
+      "description": "Toward support of radical, reforming, or socialist views.",
+      "examples": [
+        "his politics moved sharply leftward",
+        "public opinion is shifting leftwards"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Going toward or facing the left.",
+      "examples": [
+        "they moved their eyes in a leftward direction"
+      ]
+    },
+    {
+      "description": "Tending to support radical, reforming, or socialist views.",
+      "examples": [
+        "the leftward shift in Western European politics"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlef(t)wərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/leftward_us_1.mp3"
+}

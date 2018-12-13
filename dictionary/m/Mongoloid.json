@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the broad division of humankind including the indigenous peoples of East Asia, Southeast Asia, and the Arctic region of North America."
+    },
+    {
+      "description": "Having Down syndrome."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person belonging to the division of humankind including the indigenous peoples of East Asia, Southeast Asia, and the Arctic region of North America."
+    },
+    {
+      "description": "A person with Down syndrome."
+    }
+  ],
+  "pronounciation": "/ˈmäNGɡəˌloid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mongoloid_1_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing an inadequate awareness of the facts.",
+      "examples": [
+        "ill-informed opinions"
+      ],
+      "synonyms": [
+        "untaught",
+        "unschooled",
+        "ill-educated",
+        "untutored",
+        "untrained",
+        "unread",
+        "unscholarly",
+        "illiterate",
+        "unlettered",
+        "ignorant",
+        "uninformed",
+        "lowbrow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪlɪnˈfɔːmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ill_informed_1_gb_2.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog; strictly, with visibility remaining above 1.5 miles (1 km)",
+      "examples": [
+        "the peaks were shrouded in mist",
+        "a mist rose out of the river"
+      ],
+      "synonyms": [
+        "haze",
+        "fog",
+        "smog",
+        "murk",
+        "cloud",
+        "cloudiness",
+        "mistiness",
+        "scotch mist",
+        "haar",
+        "vapour",
+        "drizzle",
+        "spray"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover or become covered with mist.",
+      "examples": [
+        "the windows were misted up with condensation",
+        "the glass was beginning to mist up"
+      ],
+      "synonyms": [
+        "steam up",
+        "become misty",
+        "fog over",
+        "fog up",
+        "become covered with condensation",
+        "haze over",
+        "film over",
+        "cloud over",
+        "become cloudy",
+        "become blurred"
+      ]
+    }
+  ],
+  "origin": "Old English, of Germanic origin; from an Indo-European root shared by Greek omikhlē mist, fog.",
+  "pronounciation": "/mɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mist_us_1.mp3"
+}

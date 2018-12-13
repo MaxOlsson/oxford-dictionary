@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Unassuming or moderate in the estimation of one's abilities or achievements.",
+      "examples": [
+        "he was a very modest man, refusing to take any credit for the enterprise"
+      ],
+      "synonyms": [
+        "self-effacing",
+        "self-deprecating",
+        "humble",
+        "unpretentious",
+        "unassuming",
+        "unpresuming",
+        "unostentatious",
+        "low-key",
+        "free from vanity",
+        "keeping one's light under a bushel"
+      ]
+    },
+    {
+      "description": "(of an amount, rate, or level) relatively moderate, limited, or small.",
+      "examples": [
+        "drink modest amounts of alcohol",
+        "employment growth was relatively modest"
+      ],
+      "synonyms": [
+        "moderate",
+        "fair",
+        "tolerable",
+        "passable",
+        "adequate",
+        "satisfactory",
+        "acceptable",
+        "unexceptional",
+        "small"
+      ]
+    },
+    {
+      "description": "(of a woman) dressing or behaving so as to avoid impropriety or indecency, especially to avoid attracting sexual attention."
+    }
+  ],
+  "origin": "Mid 16th century: from French modeste, from Latin modestus keeping due measure, related to modus measure.",
+  "pronounciation": "/ˈmädəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/modest_us_1.mp3"
+}

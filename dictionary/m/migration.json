@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "Seasonal movement of animals from one region to another.",
+      "examples": [
+        "this butterfly's annual migration across North America"
+      ],
+      "synonyms": [
+        "relocation",
+        "resettling",
+        "population movement",
+        "transhumance",
+        "moving",
+        "moving abroad",
+        "emigration",
+        "expatriation",
+        "posting",
+        "exodus",
+        "departure",
+        "hegira",
+        "defection",
+        "trek",
+        "diaspora"
+      ]
+    },
+    {
+      "description": "Movement from one part of something to another.",
+      "examples": [
+        "there is virtually no cell migration in plants"
+      ]
+    }
+  ],
+  "pronounciation": "/mīˈɡrāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/migration_us_1.mp3"
+}

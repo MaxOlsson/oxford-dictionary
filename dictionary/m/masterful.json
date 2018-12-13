@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Powerful and able to control others.",
+      "examples": [
+        "behind the lace and ruffles was a masterful woman"
+      ],
+      "synonyms": [
+        "commanding",
+        "powerful",
+        "controlling",
+        "imposing",
+        "magisterial",
+        "lordly",
+        "authoritative",
+        "dominating",
+        "domineering",
+        "overbearing",
+        "overweening",
+        "imperious",
+        "bossy",
+        "peremptory",
+        "high-handed",
+        "arrogant",
+        "autocratic",
+        "dictatorial",
+        "tyrannical",
+        "despotic"
+      ]
+    },
+    {
+      "description": "Performed or performing very skillfully.",
+      "examples": [
+        "a masterful assessment of the difficulties"
+      ],
+      "synonyms": [
+        "expert",
+        "adept",
+        "clever",
+        "masterly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmæstərfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/masterful_us_1.mp3"
+}

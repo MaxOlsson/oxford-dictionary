@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Created and performed spontaneously or without preparation; impromptu.",
+      "examples": [
+        "an improvised short speech"
+      ],
+      "synonyms": [
+        "impromptu",
+        "improvisational",
+        "improvisatory",
+        "unrehearsed",
+        "unprepared",
+        "unscripted",
+        "extempore",
+        "extemporized",
+        "spontaneous",
+        "unstudied",
+        "unpremeditated",
+        "unarranged",
+        "unplanned",
+        "on the spot",
+        "ad lib"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪmprəˌvaɪzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/improvised_us_1.mp3"
+}

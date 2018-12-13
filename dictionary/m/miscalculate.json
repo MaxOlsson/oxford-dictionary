@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "Calculate (an amount, distance, or measurement) wrongly.",
+      "synonyms": [
+        "misjudge",
+        "make a mistake",
+        "make a mistake about",
+        "calculate wrongly",
+        "estimate wrongly",
+        "overestimate",
+        "underestimate",
+        "overvalue",
+        "undervalue"
+      ]
+    }
+  ],
+  "pronounciation": "/mɪsˈkælkjəˌleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/miscalculate_us_1.mp3"
+}

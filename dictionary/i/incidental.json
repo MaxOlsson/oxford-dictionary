@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Accompanying but not a major part of something.",
+      "examples": [
+        "for the fieldworker who deals with real problems, paperwork is incidental",
+        "incidental expenses"
+      ],
+      "synonyms": [
+        "less important",
+        "of less importance",
+        "secondary",
+        "subsidiary",
+        "subordinate",
+        "ancillary",
+        "auxiliary"
+      ]
+    },
+    {
+      "description": "Liable to happen as a consequence of (an activity)",
+      "examples": [
+        "the ordinary risks incidental to a fireman's job"
+      ],
+      "synonyms": [
+        "connected with",
+        "related to",
+        "associated with",
+        "accompanying",
+        "attending",
+        "attendant on",
+        "concomitant to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An incidental detail, expense, event, etc.",
+      "examples": [
+        "an allowance to cover meals, taxis, and other incidentals"
+      ],
+      "synonyms": [
+        "extras",
+        "contingencies",
+        "odds and ends"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: originally from medieval Latin incidentalis, from Latin incident- falling upon, happening to (from the verb incidere).",
+  "pronounciation": "/ˌinsəˈden(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incidental_us_1.mp3"
+}

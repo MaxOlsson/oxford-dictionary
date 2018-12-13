@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Marking the beginning of an institution, activity, or period of office.",
+      "examples": [
+        "his inaugural concert as Music Director"
+      ],
+      "synonyms": [
+        "first",
+        "initial",
+        "introductory",
+        "initiatory",
+        "launching"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inaugural speech, especially one made by an incoming US president."
+    }
+  ],
+  "origin": "Late 17th century: from French (from inaugurer inaugurate, from Latin inaugurare) + -al.",
+  "pronounciation": "/ɪnˈɔɡ(j)ərəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inaugural_us_1.mp3"
+}

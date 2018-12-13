@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Create and perform (music, drama, or verse) spontaneously or without preparation.",
+      "examples": [
+        "he was improvising to a backing of guitar chords",
+        "the ability to improvise operatic arias in any given style"
+      ],
+      "synonyms": [
+        "extemporize",
+        "ad lib",
+        "speak impromptu",
+        "make it up as one goes along",
+        "think on one's feet",
+        "take it as it comes"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (earlier ( late 18th century) as improvisation): from French improviser or its source, Italian improvvisare, from improvviso extempore, from Latin improvisus unforeseen, based on provisus, past participle of providere make preparation for.",
+  "pronounciation": "/ˈɪmprəˌvaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/improvise_us_1.mp3"
+}

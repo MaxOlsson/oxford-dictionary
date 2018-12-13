@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Having no name or no known name.",
+      "synonyms": [
+        "unknown",
+        "unfamiliar",
+        "new",
+        "little known",
+        "undiscovered",
+        "obscure",
+        "unsung",
+        "unheralded",
+        "groundbreaking"
+      ]
+    },
+    {
+      "description": "(especially of an emotion) not easy to describe; indefinable.",
+      "examples": [
+        "a nameless yearning for transcendence"
+      ],
+      "synonyms": [
+        "unspeakable",
+        "unutterable",
+        "inexpressible",
+        "unmentionable",
+        "indescribable",
+        "abominable",
+        "horrible",
+        "dreadful",
+        "appalling",
+        "shocking",
+        "awful",
+        "terrible",
+        "frightful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈneɪmləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nameless_us_1.mp3"
+}

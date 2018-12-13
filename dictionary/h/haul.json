@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) pull or drag with effort or force.",
+      "examples": [
+        "he hauled his bike out of the shed",
+        "she hauled on the reins"
+      ],
+      "synonyms": [
+        "drag",
+        "pull",
+        "tug",
+        "heave",
+        "hump",
+        "trail",
+        "draw",
+        "tow",
+        "manhandle"
+      ]
+    },
+    {
+      "description": "(of a vehicle) pull (an attached trailer or load) behind it.",
+      "examples": [
+        "the train was hauling a cargo of liquid chemicals"
+      ]
+    },
+    {
+      "description": "(especially of a sailing ship) make an abrupt change of course."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quantity of something that was stolen or is possessed illegally.",
+      "examples": [
+        "they escaped with a haul of antiques"
+      ],
+      "synonyms": [
+        "booty",
+        "loot",
+        "plunder"
+      ]
+    },
+    {
+      "description": "A distance to be traversed.",
+      "examples": [
+        "the thirty-mile haul to Tallahassee"
+      ]
+    }
+  ],
+  "phrases": [
+    "Rather than hurrying to finish my last doodle, I carefully pack it away in my bag and, along with the rest of my gear, haul off to my locker.",
+    "he hauled off and smacked the kid",
+    "He growled and I didn't hesitate this time to just haul off and smack him.",
+    "Suddenly without warning, he hauls off and smacks her across the face.",
+    "seals haul out to bask in areas where they can see and smell approaching predators"
+  ],
+  "origin": "Mid 16th century (originally in the nautical sense trim sails for sailing closer to the wind): variant of hale.",
+  "pronounciation": "/hɔl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/haul_us_1.mp3"
+}

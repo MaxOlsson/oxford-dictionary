@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the mind.",
+      "examples": [
+        "mental faculties",
+        "mental phenomena"
+      ],
+      "synonyms": [
+        "intellectual",
+        "cerebral",
+        "brain",
+        "rational",
+        "psychological",
+        "cognitive",
+        "abstract",
+        "conceptual",
+        "theoretical"
+      ]
+    },
+    {
+      "description": "Relating to disorders of the mind.",
+      "examples": [
+        "a mental hospital"
+      ],
+      "synonyms": [
+        "psychiatric",
+        "psychogenic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin mentalis, from Latin mens, ment- mind.",
+  "pronounciation": "/ˈmen(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mental_us_1.mp3"
+}

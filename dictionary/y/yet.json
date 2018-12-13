@@ -1,0 +1,82 @@
+{
+  "adverb": [
+    {
+      "description": "Up until the present or a specified or implied time; by now or then.",
+      "examples": [
+        "I haven't told anyone else yet",
+        "aren't you ready to go yet?",
+        "I have yet to be convinced",
+        "the congress was widely acclaimed as the best yet"
+      ],
+      "synonyms": [
+        "so far",
+        "thus far",
+        "as yet",
+        "still",
+        "even now",
+        "up till now",
+        "up to now",
+        "until now",
+        "up to the present time"
+      ]
+    },
+    {
+      "description": "Still; even (used to emphasize increase or repetition)",
+      "examples": [
+        "snow, snow, and yet more snow",
+        "yet another diet book",
+        "the rations were reduced yet again"
+      ],
+      "synonyms": [
+        "even",
+        "still",
+        "further",
+        "in addition",
+        "additionally",
+        "besides",
+        "into the bargain",
+        "to boot"
+      ]
+    },
+    {
+      "description": "Nevertheless; in spite of that.",
+      "examples": [
+        "every week she gets worse, and yet it could go on for years"
+      ],
+      "synonyms": [
+        "nevertheless",
+        "nonetheless",
+        "even so",
+        "but",
+        "however",
+        "still",
+        "notwithstanding",
+        "despite that",
+        "in spite of that",
+        "for all that",
+        "all the same",
+        "just the same",
+        "at the same time",
+        "be that as it may"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "But at the same time; but nevertheless.",
+      "examples": [
+        "the path was dark, yet I slowly found my way"
+      ]
+    }
+  ],
+  "phrases": [
+    "Then he could not bear to look at it, nor yet to turn his back upon it.",
+    "The latter has neither been published nor yet given to the theatre.",
+    "Not Siberian cold, of course, nor yet Canadian or New England cold.",
+    "When I go to bed I put my head on the pillow, shut my eyes and drop straight off into a nice, healthy sleep, not too deep nor yet too shallow.",
+    "We don't know how long it will take, nor yet if we'll succeed."
+  ],
+  "origin": "Old English gīet(a), of unknown origin.",
+  "pronounciation": "/yet/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yet_us_1.mp3"
+}

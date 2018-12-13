@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "The practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.",
+      "examples": [
+        "a lack of proper parental and school discipline"
+      ],
+      "synonyms": [
+        "control",
+        "regulation",
+        "direction",
+        "order",
+        "authority",
+        "rule",
+        "strictness",
+        "a firm hand"
+      ]
+    },
+    {
+      "description": "A branch of knowledge, typically one studied in higher education.",
+      "examples": [
+        "sociology is a fairly new discipline"
+      ],
+      "synonyms": [
+        "field",
+        "field of study",
+        "branch of knowledge",
+        "course of study",
+        "subject",
+        "area"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Train (someone) to obey rules or a code of behavior, using punishment to correct disobedience.",
+      "examples": [
+        "many parents have been afraid to discipline their children"
+      ],
+      "synonyms": [
+        "train",
+        "drill",
+        "teach",
+        "school",
+        "coach",
+        "educate",
+        "regiment",
+        "indoctrinate"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense mortification by scourging oneself): via Old French from Latin disciplina instruction, knowledge, from discipulus (see disciple).",
+  "pronounciation": "/ˈdɪsəplən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/discipline_us_1.mp3"
+}

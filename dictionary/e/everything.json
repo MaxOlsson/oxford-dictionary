@@ -1,0 +1,38 @@
+{
+  "pronoun": [
+    {
+      "description": "All things; all the things of a group or class.",
+      "examples": [
+        "he taught me everything I know",
+        "herbal cures for everything from leprosy to rheumatism"
+      ],
+      "synonyms": [
+        "each item",
+        "each thing",
+        "every article",
+        "every single thing",
+        "the lot",
+        "the whole lot",
+        "the entirety",
+        "the total",
+        "the aggregate"
+      ]
+    },
+    {
+      "description": "The current situation; life in general.",
+      "examples": [
+        "how's everything?",
+        "everything is going okay"
+      ]
+    }
+  ],
+  "phrases": [
+    "you'll still get paid and everything",
+    "She hadn't got a break planned what with the wedding preparations and everything.",
+    "I could see you all and I was shouting and everything but no words would come out.",
+    "You recall how I was all chuffed and everything about how ace he is and how he finds the coolest things?",
+    "Why couldn't they have told me this when I was having the plans done and everything?"
+  ],
+  "pronounciation": "/ˈɛvriˌθɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/everything_us_1.mp3"
+}

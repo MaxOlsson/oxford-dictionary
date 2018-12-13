@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Harmed, damaged, or impaired.",
+      "examples": [
+        "a road accident left him severely injured"
+      ],
+      "synonyms": [
+        "hurt",
+        "wounded",
+        "harmed",
+        "sore",
+        "damaged",
+        "bruised",
+        "on the sick list",
+        "disabled"
+      ]
+    },
+    {
+      "description": "Offended.",
+      "examples": [
+        "his injured pride"
+      ],
+      "synonyms": [
+        "wronged",
+        "offended",
+        "abused",
+        "maltreated",
+        "mistreated",
+        "ill-treated",
+        "ill-used",
+        "harmed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪndʒərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/injured_us_1.mp3"
+}

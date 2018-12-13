@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A literal, word-for-word translation, as opposed to a paraphrase.",
+      "synonyms": [
+        "rendering",
+        "rendition",
+        "gloss",
+        "conversion",
+        "construing",
+        "transcription",
+        "transliteration"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Alter the phrasing or language of.",
+      "examples": [
+        "the sentence may be metaphrased into “what does homo sapiens wish to say by right?”"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (denoting a metrical translation): from Greek metaphrazein, literally word differently.",
+  "pronounciation": "/ˈmɛdəˌfreɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/metaphrase_us_1.mp3"
+}

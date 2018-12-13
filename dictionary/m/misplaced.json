@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Incorrectly positioned.",
+      "examples": [
+        "a million dollars had been lost because of a misplaced comma"
+      ]
+    },
+    {
+      "description": "Temporarily lost.",
+      "examples": [
+        "her misplaced keys"
+      ],
+      "synonyms": [
+        "lost",
+        "mislaid",
+        "missing",
+        "nowhere to be found"
+      ]
+    }
+  ],
+  "pronounciation": "/misˈplāst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misplaced_us_1.mp3"
+}

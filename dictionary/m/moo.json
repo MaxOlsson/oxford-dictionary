@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Make the characteristic deep vocal sound of a cow.",
+      "synonyms": [
+        "bellow"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The characteristic deep vocal sound of a cow."
+    }
+  ],
+  "origin": "Mid 16th century: imitative.",
+  "pronounciation": "/mu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moo_us_1.mp3"
+}

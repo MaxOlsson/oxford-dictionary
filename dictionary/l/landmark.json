@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "An object or feature of a landscape or town that is easily seen and recognized from a distance, especially one that enables someone to establish their location.",
+      "examples": [
+        "the spire was once a landmark for ships sailing up the river"
+      ],
+      "synonyms": [
+        "marker",
+        "mark",
+        "indicator",
+        "guiding light",
+        "leading light",
+        "signal",
+        "beacon",
+        "lodestar",
+        "sign"
+      ]
+    },
+    {
+      "description": "An event, discovery, or change marking an important stage or turning point in something.",
+      "examples": [
+        "the birth of a child is an important landmark in the lives of all concerned",
+        "a landmark decision"
+      ],
+      "synonyms": [
+        "turning point",
+        "milestone",
+        "watershed",
+        "critical point",
+        "historic event",
+        "major achievement"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlæn(d)ˌmɑrk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/landmark_us_1.mp3"
+}

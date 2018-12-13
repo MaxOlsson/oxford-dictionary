@@ -1,0 +1,76 @@
+{
+  "adjective": [
+    {
+      "description": "(of a living human being, often in contrast to a divine being) subject to death.",
+      "examples": [
+        "all men are mortal"
+      ],
+      "synonyms": [
+        "perishable",
+        "physical",
+        "bodily",
+        "corporeal",
+        "fleshly",
+        "corporal",
+        "earthly"
+      ]
+    },
+    {
+      "description": "Causing or liable to cause death; fatal.",
+      "examples": [
+        "a mortal disease",
+        "the scandal appeared to have struck a mortal blow to the government"
+      ],
+      "synonyms": [
+        "deadly",
+        "fatal",
+        "lethal",
+        "death-dealing",
+        "killing",
+        "murderous",
+        "destructive",
+        "terminal",
+        "incurable"
+      ]
+    },
+    {
+      "description": "Denoting a grave sin that is regarded as depriving the soul of divine grace.",
+      "synonyms": [
+        "unpardonable",
+        "unforgivable",
+        "irremissible"
+      ]
+    },
+    {
+      "description": "Conceivable or imaginable.",
+      "examples": [
+        "punishment out of all mortal proportion to the offense"
+      ],
+      "synonyms": [
+        "conceivable",
+        "imaginable",
+        "perceivable",
+        "possible",
+        "earthly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A human being subject to death, often contrasted with a divine being.",
+      "synonyms": [
+        "human being",
+        "human",
+        "person",
+        "man",
+        "woman",
+        "being",
+        "creature",
+        "individual"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin mortalis, from mors, mort- death.",
+  "pronounciation": "/ˈmɔrdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortal_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A shelf above a fireplace.",
+      "synonyms": [
+        "ledge",
+        "bracket",
+        "sill",
+        "rack"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Perform a mantelshelf move.",
+      "examples": [
+        "she mantelshelfed on a hold as big as a dinner plate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈman(t)lˌSHelf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mantelshelf_us_1.mp3"
+}

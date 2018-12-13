@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The time taken by a planet to make one revolution around the sun."
+    },
+    {
+      "description": "The period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary affairs."
+    },
+    {
+      "description": "One's age or time of life.",
+      "examples": [
+        "she had a composure well beyond her years"
+      ],
+      "synonyms": [
+        "number of years",
+        "lifetime",
+        "duration",
+        "length of life"
+      ]
+    },
+    {
+      "description": "A very long time; ages.",
+      "examples": [
+        "it's going to take years to put that right"
+      ]
+    },
+    {
+      "description": "A set of students grouped together as being of roughly similar ages, mostly entering a school or college in the same academic year.",
+      "examples": [
+        "most of the girls in my year were leaving school at the end of the term"
+      ],
+      "synonyms": [
+        "class",
+        "form",
+        "study group",
+        "school group",
+        "set",
+        "stream",
+        "band"
+      ]
+    }
+  ],
+  "phrases": [
+    "I was born in the year of our Lord 1786",
+    "Given at Paderborn in the year of grace 1241, on August the ninth, in the twelfth year of our pontificate.",
+    "Done in the City of Manila, this 27th day of June, in the year Our Lord, nineteen hundred and eight-six.",
+    "Given in Paris the eighteenth day of December in the year of grace one thousand six hundred and three, and of our reign the fifteenth, thus signed Henry.",
+    "Given at the monastery of Arbroath in Scotland on the sixth day of the month of April in the year of grace thirteen hundred and twenty and the fifteenth year of the reign of our King aforesaid."
+  ],
+  "origin": "Old English gē(a)r, of Germanic origin; related to Dutch jaar and German Jahr, from an Indo-European root shared by Greek hōra season.",
+  "pronounciation": "/jɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/year_us_1.mp3"
+}

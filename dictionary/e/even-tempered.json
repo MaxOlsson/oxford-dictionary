@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Not easily annoyed or angered.",
+      "examples": [
+        "a gentle and even-tempered man"
+      ],
+      "synonyms": [
+        "serene",
+        "calm",
+        "composed",
+        "poised",
+        "tranquil",
+        "relaxed",
+        "easy-going",
+        "mild",
+        "mellow",
+        "unworried",
+        "untroubled",
+        "unbothered",
+        "unruffled",
+        "unflustered",
+        "unexcitable",
+        "imperturbable",
+        "placid",
+        "equable",
+        "stable",
+        "well balanced",
+        "level-headed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌivənˈtɛmpərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/even_tempered_1_us_1.mp3"
+}

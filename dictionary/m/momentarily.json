@@ -1,0 +1,47 @@
+{
+  "adverb": [
+    {
+      "description": "For a very short time.",
+      "examples": [
+        "as he passed Jenny's door, he paused momentarily"
+      ],
+      "synonyms": [
+        "briefly",
+        "temporarily",
+        "fleetingly",
+        "for a moment",
+        "for a second",
+        "for an instant",
+        "for a minute",
+        "for a little while"
+      ]
+    },
+    {
+      "description": "At any moment; very soon.",
+      "examples": [
+        "my husband will be here to pick me up momentarily"
+      ],
+      "synonyms": [
+        "soon",
+        "very soon",
+        "in a minute",
+        "in a second",
+        "in a trice",
+        "in a flash",
+        "shortly",
+        "any minute",
+        "any minute now",
+        "in a short time",
+        "in an instant",
+        "in the twinkling of an eye",
+        "in no time",
+        "in less than no time",
+        "in no time at all",
+        "before you know it",
+        "before long"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmoʊmənˈtɛrəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/momentarily_us_1.mp3"
+}

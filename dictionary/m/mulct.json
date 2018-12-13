@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Extract money from (someone) by fine or taxation.",
+      "examples": [
+        "no government dared propose to mulct the taxpayer for such a purpose"
+      ],
+      "synonyms": [
+        "deceive",
+        "trick",
+        "dupe",
+        "outwit",
+        "fool",
+        "delude",
+        "cheat",
+        "take in",
+        "bluff",
+        "hoax",
+        "mislead",
+        "misguide",
+        "lead on",
+        "defraud",
+        "double-cross",
+        "swindle",
+        "gull",
+        "finagle",
+        "get the better of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fine or compulsory payment.",
+      "synonyms": [
+        "tax",
+        "tariff",
+        "toll",
+        "excise",
+        "duty",
+        "fee",
+        "imposition",
+        "impost",
+        "exaction",
+        "assessment",
+        "tithe",
+        "payment"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin mulctare, multare, from mulcta a fine.",
+  "pronounciation": "/məlkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mulct_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "(in tennis and other racket sports) with a forehand stroke."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(in tennis and other racket sports) denoting a stroke played with the palm of the hand facing in the direction of the stroke; forehand.",
+      "examples": [
+        "a forehanded shot"
+      ]
+    },
+    {
+      "description": "Looking to the future; prudent or thrifty.",
+      "examples": [
+        "his faculty for forehanded thought about problems to be resolved in the future"
+      ],
+      "synonyms": [
+        "thrifty",
+        "sparing",
+        "economical",
+        "saving"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfôrˌhandəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forehanded_us_1.mp3"
+}

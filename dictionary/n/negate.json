@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Nullify; make ineffective.",
+      "examples": [
+        "alcohol negates the effects of the drug"
+      ],
+      "synonyms": [
+        "invalidate",
+        "nullify",
+        "render null and void",
+        "render invalid",
+        "make ineffective",
+        "neutralize",
+        "cancel",
+        "cancel out"
+      ]
+    },
+    {
+      "description": "Make (a clause, sentence, or proposition) negative in meaning."
+    },
+    {
+      "description": "Deny the existence of (something)",
+      "examples": [
+        "negating the political nature of education"
+      ],
+      "synonyms": [
+        "deny",
+        "dispute",
+        "call into question",
+        "contradict",
+        "refute",
+        "rebut",
+        "discredit",
+        "disclaim",
+        "reject",
+        "repudiate"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in negate (sense 1, negate sense 3)): from Latin negat- denied, from the verb negare.",
+  "pronounciation": "/nəˈɡāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/negate_us_1.mp3"
+}

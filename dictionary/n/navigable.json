@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of a waterway or sea) able to be sailed on by ships or boats.",
+      "examples": [
+        "a navigable channel",
+        "many of the rivers ceased to be navigable"
+      ],
+      "synonyms": [
+        "passable",
+        "negotiable",
+        "traversable",
+        "able to be sailed on",
+        "able to be travelled on",
+        "crossable"
+      ]
+    },
+    {
+      "description": "(of a website) easy to move around in.",
+      "examples": [
+        "the use of white space can help make your mobile-optimized site clearer and more navigable"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from French navigable or Latin navigabilis, from the verb navigare to sail (see navigate).",
+  "pronounciation": "/ˈnævəɡəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/navigable_us_1.mp3"
+}

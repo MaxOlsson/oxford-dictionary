@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking exactness and accuracy of expression or detail.",
+      "examples": [
+        "the witness could give only vague and imprecise descriptions"
+      ],
+      "synonyms": [
+        "vague",
+        "loose",
+        "indefinite",
+        "inexplicit",
+        "indistinct",
+        "non-specific",
+        "unspecific",
+        "coarse-grained",
+        "broad",
+        "general",
+        "sweeping"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌimprəˈsīs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imprecise_us_1.mp3"
+}

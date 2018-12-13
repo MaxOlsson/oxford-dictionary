@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "That is solely or no more or better than what is specified.",
+      "examples": [
+        "questions that cannot be answered by mere mortals",
+        "it happened a mere decade ago"
+      ],
+      "synonyms": [
+        "trifling",
+        "meagre",
+        "bare",
+        "trivial",
+        "paltry",
+        "basic",
+        "scant",
+        "scanty",
+        "skimpy",
+        "minimal",
+        "slender"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A lake, pond, or arm of the sea.",
+      "examples": [
+        "the stream widens into a mere where hundreds of geese gather",
+        "Hornsea Mere"
+      ]
+    }
+  ],
+  "origin": "Maori.",
+  "pronounciation": "/ˈmɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/merry_us_1.mp3"
+}

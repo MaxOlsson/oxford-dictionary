@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Dip (bread or other food) into a drink or soup before eating it.",
+      "examples": [
+        "she dunked a piece of bread into her coffee"
+      ],
+      "synonyms": [
+        "scald",
+        "boil"
+      ]
+    },
+    {
+      "description": "Score by shooting the ball down through the basket with the hands above the rim."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shot downward into the basket with the hands above the rim."
+    }
+  ],
+  "origin": "Early 20th century: from Pennsylvanian German dunke dip, from German tunken dip or plunge.",
+  "pronounciation": "/dəŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dunk_us_1.mp3"
+}

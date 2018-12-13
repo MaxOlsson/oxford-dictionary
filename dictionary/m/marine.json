@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Of, found in, or produced by the sea.",
+      "examples": [
+        "marine plants",
+        "marine biology"
+      ],
+      "synonyms": [
+        "saltwater",
+        "seawater",
+        "sea",
+        "oceanic",
+        "aquatic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of a body of troops trained to serve on land or at sea, in particular a member of the US Marine Corps."
+    }
+  ],
+  "origin": "Middle English (as a noun in the sense seashore): from Old French marin, marine, from Latin marinus, from mare sea.",
+  "pronounciation": "/məˈrēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/marine_us_1.mp3"
+}

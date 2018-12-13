@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Moving or able to move through the air with wings.",
+      "examples": [
+        "a flying ant"
+      ],
+      "synonyms": [
+        "airborne",
+        "in the air",
+        "in flight"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Flight, especially in an aircraft.",
+      "examples": [
+        "she hates flying"
+      ],
+      "synonyms": [
+        "aviation",
+        "flying",
+        "air transport",
+        "aerial navigation",
+        "aeronautics"
+      ]
+    }
+  ],
+  "phrases": [
+    "Sylvia had passed her exams with flying colors",
+    "After seven days on flat roads this was a sudden and violent examination of heart as much as stamina and it was a test that Lance Armstrong would pass with flying colours.",
+    "On the basis that there are few better guides to a restaurant's quality than how it cooks its steaks, the Howgate passed with flying colours.",
+    "Is it success to pass a graduation exam with flying colors only to forget the whole thing in 2-3 years' time?",
+    "If that's the biggest criticism a dedicated nit-picker can deliver, then the restaurant has passed with flying colours."
+  ],
+  "pronounciation": "/ˈflīiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flying_us_1.mp3"
+}

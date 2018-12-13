@@ -1,0 +1,95 @@
+{
+  "noun": [
+    {
+      "description": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "examples": [
+        "exercise improves your heart and lung power",
+        "loosening-up exercises"
+      ],
+      "synonyms": [
+        "physical activity",
+        "movement",
+        "exertion",
+        "effort",
+        "work"
+      ]
+    },
+    {
+      "description": "A process or activity carried out for a specific purpose, especially one concerned with a specified area or skill.",
+      "examples": [
+        "an exercise in public relations"
+      ]
+    },
+    {
+      "description": "The use or application of a faculty, right, or process.",
+      "examples": [
+        "the free exercise of religion"
+      ],
+      "synonyms": [
+        "use",
+        "utilization",
+        "employment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Use or apply (a faculty, right, or process)",
+      "examples": [
+        "control is exercised by the Board",
+        "anyone receiving a suspect package should exercise extreme caution"
+      ],
+      "synonyms": [
+        "use",
+        "employ",
+        "make use of",
+        "utilize",
+        "avail oneself of",
+        "put to use"
+      ]
+    },
+    {
+      "description": "Engage in physical activity to sustain or improve health and fitness; take exercise.",
+      "examples": [
+        "she still exercised every day"
+      ],
+      "synonyms": [
+        "work out",
+        "do exercises",
+        "keep fit",
+        "train",
+        "drill",
+        "engage in physical activity"
+      ]
+    },
+    {
+      "description": "Occupy the thoughts of; worry or perplex.",
+      "examples": [
+        "the knowledge that a larger margin was possible still exercised him"
+      ],
+      "synonyms": [
+        "worry",
+        "trouble",
+        "concern",
+        "make anxious",
+        "bother",
+        "disturb",
+        "perturb",
+        "perplex",
+        "puzzle",
+        "distress",
+        "occupy someone's thoughts",
+        "preoccupy",
+        "prey on someone's mind",
+        "gnaw at",
+        "lie heavy on",
+        "burden",
+        "make uneasy",
+        "agitate"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense application of a right): via Old French from Latin exercitium, from exercere keep busy, practice, from ex- thoroughly + arcere keep in or away.",
+  "pronounciation": "/ˈeksərˌsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exercise_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Of, for, or relating to the nose.",
+      "examples": [
+        "the nasal passages",
+        "a nasal spray"
+      ]
+    },
+    {
+      "description": "(of a speech sound) pronounced by the voice resonating in the nose, e.g., m, n, ng."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A nasal speech sound."
+    },
+    {
+      "description": "A nosepiece on a helmet."
+    }
+  ],
+  "origin": "Middle English (in nasal (sense 2 of the noun)): from medieval Latin nasalis, from Latin nasus nose.",
+  "pronounciation": "/ˈnāzəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nasal_us_1.mp3"
+}

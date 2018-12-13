@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be supported or justified.",
+      "examples": [
+        "he had arrived at a wholly insupportable conclusion"
+      ],
+      "synonyms": [
+        "unjustifiable",
+        "without justification",
+        "indefensible",
+        "inexcusable",
+        "unforgivable",
+        "unpardonable",
+        "unwarrantable",
+        "unreasonable"
+      ]
+    },
+    {
+      "description": "Unable to be endured; intolerable.",
+      "examples": [
+        "the heat was insupportable"
+      ],
+      "synonyms": [
+        "intolerable",
+        "insufferable",
+        "unbearable",
+        "unendurable",
+        "unacceptable",
+        "oppressive",
+        "overwhelming",
+        "overpowering",
+        "impossible",
+        "not to be borne",
+        "past bearing",
+        "too much to bear",
+        "more than one can stand",
+        "more than flesh and blood can stand"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from French, from in- not + supportable (from supporter to support).",
+  "pronounciation": "/ˌɪnsəˈpɔrdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insupportable_us_1.mp3"
+}

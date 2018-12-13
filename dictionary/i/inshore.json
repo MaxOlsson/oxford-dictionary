@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "At sea but close to the shore.",
+      "examples": [
+        "both mackerel and bluefish have returned to inshore waters by now"
+      ],
+      "synonyms": [
+        "inland",
+        "upcountry",
+        "non-coastal",
+        "inner",
+        "innermost",
+        "central"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward or closer to the shore.",
+      "examples": [
+        "birds heading inshore to their breeding sites"
+      ]
+    }
+  ],
+  "phrases": [
+    "After all this excitement and another cup of coffee, we waited until white water appeared along a reef inshore of the Knivestone, the Farnes' most offshore island.",
+    "It's easy to find, night or day, by the huge stacks of its power plant, right inshore of the marina complex.",
+    "I would recommend beginning the dive just inshore of this, and to the south side."
+  ],
+  "pronounciation": "/ˈinˌSHôr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inshore_us_1.mp3"
+}

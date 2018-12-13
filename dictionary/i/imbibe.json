@@ -1,0 +1,29 @@
+{
+  "verb": [
+    {
+      "description": "Drink (alcohol)",
+      "examples": [
+        "they were imbibing far too many pitchers of beer",
+        "having imbibed too freely, he fell over"
+      ],
+      "synonyms": [
+        "drink",
+        "consume",
+        "sup",
+        "sip",
+        "quaff",
+        "swallow",
+        "down",
+        "guzzle",
+        "gulp",
+        "gulp down",
+        "swill",
+        "lap",
+        "slurp"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses absorb or cause to absorb moisture and take into solution): from Latin imbibere, from in- in + bibere to drink.",
+  "pronounciation": "/ɪmˈbaɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imbibe_us_1.mp3"
+}

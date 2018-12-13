@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the planet Mars or its supposed inhabitants.",
+      "examples": [
+        "the Martian atmosphere",
+        "the first Martian colony"
+      ],
+      "synonyms": [
+        "extraterrestrial",
+        "other-worldly",
+        "unearthly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hypothetical or fictional inhabitant of Mars.",
+      "examples": [
+        "a nest of Martians"
+      ],
+      "synonyms": [
+        "extraterrestrial",
+        "et"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses subject to Mars's influence and martial): from Latin Mars, Mart- (see Mars) + -ian.",
+  "pronounciation": "/ˈmɑrʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/martian_us_1.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "Large and heavy or solid.",
+      "examples": [
+        "a massive rampart of stone"
+      ],
+      "synonyms": [
+        "huge",
+        "enormous",
+        "gigantic",
+        "very big",
+        "very large",
+        "great",
+        "giant",
+        "colossal",
+        "mammoth",
+        "vast",
+        "immense",
+        "tremendous",
+        "mighty",
+        "stupendous",
+        "monumental",
+        "epic",
+        "prodigious",
+        "mountainous",
+        "monstrous",
+        "titanic",
+        "towering",
+        "elephantine",
+        "king-sized",
+        "king-size",
+        "gargantuan",
+        "herculean",
+        "brobdingnagian",
+        "substantial",
+        "extensive",
+        "hefty",
+        "bulky",
+        "weighty",
+        "heavy",
+        "gross"
+      ]
+    },
+    {
+      "description": "Exceptionally large.",
+      "examples": [
+        "massive crowds are expected"
+      ],
+      "synonyms": [
+        "huge",
+        "great",
+        "enormous",
+        "gigantic",
+        "colossal",
+        "mammoth",
+        "immense",
+        "tremendous",
+        "mighty",
+        "stupendous",
+        "vast",
+        "prodigious",
+        "herculean",
+        "titanic",
+        "gargantuan",
+        "staggering",
+        "exceptional",
+        "extraordinary"
+      ]
+    },
+    {
+      "description": "(of rocks or beds) having no discernible form or structure."
+    }
+  ],
+  "origin": "Late Middle English: from French massif, -ive, from Old French massis, based on Latin massa (see mass).",
+  "pronounciation": "/ˈmæsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/massive_us_1.mp3"
+}

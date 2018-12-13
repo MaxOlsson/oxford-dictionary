@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Boldly disrespectful to a person of higher standing.",
+      "synonyms": [
+        "ill-mannered",
+        "bad-mannered",
+        "impolite",
+        "discourteous",
+        "impertinent",
+        "insolent",
+        "impudent",
+        "cheeky",
+        "audacious",
+        "presumptuous",
+        "uncivil",
+        "disrespectful",
+        "unmannerly",
+        "ill-bred",
+        "churlish",
+        "crass",
+        "curt",
+        "brusque",
+        "blunt",
+        "ungracious",
+        "graceless",
+        "brash",
+        "unpleasant",
+        "disagreeable",
+        "offhand",
+        "short",
+        "sharp"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An impudent person.",
+      "synonyms": [
+        "impudent person",
+        "insignificant person",
+        "gnat",
+        "insect"
+      ]
+    }
+  ],
+  "origin": "Middle English: from mal- improperly + archaic apert insolent.",
+  "pronounciation": "/ˈmaləpərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malapert_us_1.mp3"
+}

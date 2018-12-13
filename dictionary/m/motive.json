@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A reason for doing something, especially one that is hidden or not obvious.",
+      "examples": [
+        "a motive for his murder"
+      ],
+      "synonyms": [
+        "reason",
+        "motivation",
+        "motivating force",
+        "rationale",
+        "grounds",
+        "cause",
+        "basis",
+        "occasion",
+        "thinking",
+        "the whys and wherefores",
+        "object",
+        "purpose",
+        "intention",
+        "design"
+      ]
+    },
+    {
+      "description": "(in art, literature, or music) a motif.",
+      "examples": [
+        "the entire work grows organically from the opening horn motive"
+      ],
+      "synonyms": [
+        "motif",
+        "theme",
+        "idea",
+        "concept",
+        "subject",
+        "topic",
+        "leitmotif",
+        "trope",
+        "element"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Producing physical or mechanical motion.",
+      "examples": [
+        "the charge of gas is the motive force for every piston stroke"
+      ],
+      "synonyms": [
+        "kinetic",
+        "driving",
+        "impelling",
+        "propelling",
+        "propulsive",
+        "operative",
+        "moving",
+        "motor"
+      ]
+    },
+    {
+      "description": "Causing or being the reason for something.",
+      "examples": [
+        "the motive principle of a writer's work"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French motif (adjective used as a noun), from late Latin motivus, from movere to move.",
+  "pronounciation": "/ˈmoʊdɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/motive_us_1.mp3"
+}

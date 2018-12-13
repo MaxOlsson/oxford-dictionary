@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Of a brownish-crimson color.",
+      "examples": [
+        "ornate maroon and gold wallpaper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A brownish-crimson color.",
+      "examples": [
+        "the hat is available in either white or maroon",
+        "cold pinks, purples, and maroons"
+      ]
+    },
+    {
+      "description": "A firework that makes a loud bang, used mainly as a signal or warning."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Leave (someone) trapped and isolated in an inaccessible place, especially an island.",
+      "examples": [
+        "a novel about schoolboys marooned on a desert island"
+      ],
+      "synonyms": [
+        "strand",
+        "leave stranded",
+        "cast away",
+        "cast ashore",
+        "abandon",
+        "leave behind",
+        "leave",
+        "leave in the lurch",
+        "desert",
+        "turn one's back on",
+        "leave isolated"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French marron feral, from Spanish cimarrón wild, (as a noun) runaway slave.",
+  "pronounciation": "/məˈro͞on/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maroon_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "In an inopportune or inappropriate way."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Inopportune; inappropriate.",
+      "examples": [
+        "these terms applied to him seem to me malapropos"
+      ],
+      "synonyms": [
+        "inappropriate",
+        "unsuitable",
+        "inapposite",
+        "infelicitous",
+        "inapt",
+        "unseemly",
+        "inopportune",
+        "ill-timed",
+        "untimely",
+        "uncalled for",
+        "tactless"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French mal à propos, from mal ill + à to + propos purpose.",
+  "pronounciation": "/ˌmælˌæprəˈpoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malapropos_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "An ode sung by a single actor in a Greek tragedy."
+    },
+    {
+      "description": "A poem lamenting a person's death.",
+      "synonyms": [
+        "lament",
+        "dirge",
+        "requiem",
+        "elegy",
+        "funeral chant",
+        "funeral song",
+        "burial hymn",
+        "dead march",
+        "keen",
+        "plaint",
+        "knell"
+      ]
+    },
+    {
+      "description": "Music with only one melodic line, especially an early Baroque style with one singer and continuo accompaniment.",
+      "examples": [
+        "the Italian masters of monody"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: via late Latin from Greek monōdia, from monōdos singing alone.",
+  "pronounciation": "/ˈmänədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monody_us_1.mp3"
+}

@@ -1,0 +1,120 @@
+{
+  "verb": [
+    {
+      "description": "Ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units or by comparing it with an object of known size.",
+      "examples": [
+        "the amount of water collected is measured in pints",
+        "they will measure up the room and install the cabinets"
+      ],
+      "synonyms": [
+        "take the measurements of",
+        "calculate",
+        "compute",
+        "estimate",
+        "count",
+        "meter",
+        "quantify",
+        "weigh",
+        "size",
+        "evaluate",
+        "rate",
+        "assess",
+        "appraise",
+        "gauge",
+        "plumb",
+        "measure out",
+        "determine",
+        "judge",
+        "survey"
+      ]
+    },
+    {
+      "description": "Estimate or assess the extent, quality, value, or effect of (something)",
+      "examples": [
+        "it is hard to measure teaching ability"
+      ],
+      "synonyms": [
+        "choose carefully",
+        "select with care",
+        "consider",
+        "think carefully about",
+        "plan",
+        "calculate"
+      ]
+    },
+    {
+      "description": "Travel over (a certain distance or area)",
+      "examples": [
+        "we must measure twenty miles today"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A plan or course of action taken to achieve a particular purpose.",
+      "examples": [
+        "cost-cutting measures",
+        "children were evacuated as a precautionary measure"
+      ],
+      "synonyms": [
+        "action",
+        "act",
+        "course",
+        "course of action",
+        "deed",
+        "proceeding",
+        "procedure",
+        "step",
+        "means",
+        "expedient"
+      ]
+    },
+    {
+      "description": "A standard unit used to express the size, amount, or degree of something.",
+      "examples": [
+        "a furlong is an obsolete measure of length",
+        "tables of weights and measures"
+      ],
+      "synonyms": [
+        "system",
+        "standard",
+        "units",
+        "scale"
+      ]
+    },
+    {
+      "description": "A certain quantity or degree of something.",
+      "examples": [
+        "the states retain a large measure of independence"
+      ],
+      "synonyms": [
+        "certain amount",
+        "amount",
+        "degree",
+        "quantity"
+      ]
+    },
+    {
+      "description": "The rhythm of a piece of poetry or a piece of music.",
+      "synonyms": [
+        "metre",
+        "cadence",
+        "rhythm",
+        "foot"
+      ]
+    },
+    {
+      "description": "A group of rock strata."
+    }
+  ],
+  "phrases": [
+    "it irritates him beyond measure",
+    "The previous night had rendered me absolutely useless, as I had stayed up all night working on the next-to-last chapter of my book, and was exhausted beyond measure.",
+    "It was perverse beyond measure, but it was not selfish.",
+    "He had been rich beyond measure, and suddenly he was poor.",
+    "The idea that she might kill him terrified him beyond measure."
+  ],
+  "origin": "Middle English (as a noun in the senses moderation, instrument for measuring, unit of capacity): from Old French mesure, from Latin mensura, from mens- measured, from the verb metiri.",
+  "pronounciation": "/ˈmeZHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/measure_us_1.mp3"
+}

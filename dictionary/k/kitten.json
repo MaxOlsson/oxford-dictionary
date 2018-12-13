@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A young cat.",
+      "synonyms": [
+        "cat",
+        "domestic cat",
+        "wild cat",
+        "alley cat"
+      ]
+    },
+    {
+      "description": "A stout furry gray and white moth, the caterpillar of which resembles that of the puss moth."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a cat or certain other animals) give birth."
+    }
+  ],
+  "phrases": [
+    "Can't say as I blame her, if I was her I'd be having kittens over it too.",
+    "I don't know how captain Rhona Martin managed it because I was having kittens just watching.",
+    "When the surgery said a doctor was in the area and would call round, she nearly had kittens.",
+    "His mother would probably have kittens if she could see him.",
+    "The PM's bodyguards must be having kittens."
+  ],
+  "origin": "Late Middle English kitoun, ketoun, from an Anglo-Norman French variant of Old French chitoun, diminutive of chat cat.",
+  "pronounciation": "/ˈkɪtn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kitten_us_1.mp3"
+}

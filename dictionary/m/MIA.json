@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "examples": [
+        "the elderly mother of an MIA soldier",
+        "he was declared MIA"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of the armed forces who is missing in action.",
+      "examples": [
+        "prisoners of war and MIAs"
+      ],
+      "synonyms": [
+        "victim",
+        "fatality",
+        "mortality"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌɛm ˈˌaɪ ˈeɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/m_i_a_1_us_1_abbr.mp3"
+}

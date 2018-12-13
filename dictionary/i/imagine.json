@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Form a mental image or concept of.",
+      "examples": [
+        "I couldn't imagine what she expected to tell them",
+        "imagine a road trip from Philadelphia to Chicago"
+      ],
+      "synonyms": [
+        "visualize",
+        "envisage",
+        "envision",
+        "picture",
+        "form a picture of",
+        "see in the mind's eye",
+        "conjure up",
+        "conceptualize"
+      ]
+    },
+    {
+      "description": "Suppose or assume.",
+      "examples": [
+        "after Ned died, everyone imagined that Mabel would move away"
+      ],
+      "synonyms": [
+        "assume",
+        "presume",
+        "expect",
+        "take it",
+        "take it for granted",
+        "take it as read",
+        "take it as given",
+        "presuppose"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French imaginer, from Latin imaginare form an image of, represent and imaginari picture to oneself, both from imago, imagin- image.",
+  "pronounciation": "/iˈmajən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imagine_us_1.mp3"
+}

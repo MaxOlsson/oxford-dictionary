@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "The part of a logarithm that follows the decimal point."
+    },
+    {
+      "description": "The part of a floating-point number that represents the significant digits of that number, and that is multiplied by the base raised to the exponent to give the actual value of the number."
+    }
+  ],
+  "origin": "Mid 17th century: from Latin, literally makeweight, perhaps from Etruscan.",
+  "pronounciation": "/manˈtisə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mantissa_us_1.mp3"
+}

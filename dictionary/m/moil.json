@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Work hard.",
+      "examples": [
+        "men who moiled for gold"
+      ],
+      "synonyms": [
+        "work hard",
+        "labour",
+        "work one's fingers to the bone",
+        "work like a trojan",
+        "work like a dog",
+        "work day and night",
+        "exert oneself",
+        "keep at it",
+        "keep one's nose to the grindstone",
+        "grind away",
+        "slave away",
+        "grub away",
+        "plough away",
+        "plod away"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Hard work; drudgery.",
+      "synonyms": [
+        "hard work",
+        "toiling",
+        "labour",
+        "slaving",
+        "struggle",
+        "effort",
+        "exertion",
+        "application",
+        "industry",
+        "grind",
+        "slog",
+        "blood",
+        "sweat",
+        "and tears",
+        "drudgery"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense moisten or bedaub): from Old French moillier paddle in mud, moisten, based on Latin mollis soft. The sense work dates from the mid 16th century, often in the phrase toil and moil.",
+  "pronounciation": "/mɔɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moil_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A mentally ill person (not in technical use).",
+      "synonyms": [
+        "maniac",
+        "madman",
+        "madwoman",
+        "psychopath",
+        "psychotic"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Mentally ill (not in technical use).",
+      "synonyms": [
+        "deranged",
+        "demented",
+        "unbalanced",
+        "out of one's mind",
+        "crazed",
+        "mad",
+        "insane"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French lunatique, from late Latin lunaticus, from Latin luna moon (from the belief that changes of the moon caused intermittent insanity).",
+  "pronounciation": "/ˈlunəˌtɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lunatic_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "An educational talk to an audience, especially to students in a university or college.",
+      "synonyms": [
+        "speech",
+        "talk",
+        "address",
+        "discourse",
+        "disquisition",
+        "presentation",
+        "oration",
+        "lesson",
+        "recitation",
+        "monologue",
+        "sermon",
+        "homily"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deliver an educational lecture or lectures.",
+      "examples": [
+        "she was lecturing to her class of eighty students"
+      ],
+      "synonyms": [
+        "give a lecture",
+        "give a talk",
+        "talk",
+        "give a speech",
+        "make a speech",
+        "speak",
+        "give an address",
+        "discourse",
+        "expound",
+        "hold forth",
+        "declaim",
+        "expatiate",
+        "give a sermon",
+        "sermonize",
+        "pontificate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense reading, a text to read): from Old French, or from medieval Latin lectura, from Latin lect- read, chosen, from the verb legere.",
+  "pronounciation": "/ˈlɛk(t)ʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lecture_us_1.mp3"
+}

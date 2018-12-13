@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A system of parts working together in a machine; a piece of machinery.",
+      "examples": [
+        "the gunner injured his arm in the turret mechanism"
+      ],
+      "synonyms": [
+        "apparatus",
+        "machine",
+        "appliance",
+        "tool",
+        "device",
+        "implement",
+        "utensil",
+        "instrument",
+        "contraption",
+        "contrivance",
+        "gadget",
+        "tackle",
+        "structure",
+        "system"
+      ]
+    },
+    {
+      "description": "A natural or established process by which something takes place or is brought about.",
+      "examples": [
+        "we have no mechanism for assessing the success of forwarded inquiries",
+        "the mechanism by which genes build bodies"
+      ],
+      "synonyms": [
+        "procedure",
+        "process",
+        "system",
+        "operation",
+        "method",
+        "technique",
+        "workings",
+        "means",
+        "medium",
+        "agency",
+        "channel",
+        "channels",
+        "vehicle",
+        "structure"
+      ]
+    },
+    {
+      "description": "The doctrine that all natural phenomena, including life and thought, allow mechanical explanation by physics and chemistry."
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin mechanismus, from Greek mēkhanē (see machine).",
+  "pronounciation": "/ˈmɛkəˌnɪzəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mechanism_us_1.mp3"
+}

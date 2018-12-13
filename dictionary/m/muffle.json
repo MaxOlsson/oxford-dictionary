@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Wrap or cover for warmth.",
+      "examples": [
+        "on a chair by the far wall, muffled in an absurd overcoat"
+      ],
+      "synonyms": [
+        "wrap",
+        "wrap up",
+        "swathe",
+        "swaddle",
+        "enfold",
+        "envelop",
+        "cloak",
+        "cover up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A receptacle in a furnace or kiln in which things can be heated without contact with combustion products."
+    }
+  ],
+  "origin": "Late Middle English (as a verb): perhaps a shortening of Old French enmoufler; the noun (mid 17th century) from Old French moufle thick glove.",
+  "pronounciation": "/ˈməfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/muffle_us_1.mp3"
+}

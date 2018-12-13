@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking knowledge or awareness in general; uneducated or unsophisticated.",
+      "examples": [
+        "he was told constantly that he was ignorant and stupid"
+      ],
+      "synonyms": [
+        "uneducated",
+        "unknowledgeable",
+        "untaught",
+        "unschooled",
+        "untutored",
+        "untrained",
+        "illiterate",
+        "unlettered",
+        "unlearned",
+        "unread",
+        "uninformed",
+        "unenlightened",
+        "unscholarly",
+        "unqualified",
+        "benighted",
+        "backward"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin ignorant- not knowing, from the verb ignorare (see ignore).",
+  "pronounciation": "/ˈiɡnərənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ignorant_us_1.mp3"
+}

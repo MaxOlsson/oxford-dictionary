@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Comprise or contain as part of a whole.",
+      "examples": [
+        "the price includes dinner, bed, and breakfast",
+        "other changes included the abolition of the death penalty"
+      ],
+      "synonyms": [
+        "incorporate",
+        "comprise",
+        "encompass",
+        "cover",
+        "embrace",
+        "involve",
+        "take in",
+        "number",
+        "contain"
+      ]
+    },
+    {
+      "description": "Make part of a whole or set.",
+      "examples": [
+        "we have included some hints for beginners in this section"
+      ],
+      "synonyms": [
+        "add",
+        "insert",
+        "put in",
+        "append",
+        "enter",
+        "build in"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense shut in): from Latin includere, from in- into + claudere to shut.",
+  "pronounciation": "/inˈklo͞od/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/include_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Annoy.",
+      "examples": [
+        "she was slightly miffed at not being invited"
+      ],
+      "synonyms": [
+        "annoyed",
+        "displeased",
+        "offended",
+        "aggrieved",
+        "piqued",
+        "riled",
+        "nettled",
+        "vexed",
+        "irked",
+        "irritated",
+        "upset",
+        "hurt",
+        "pained",
+        "put out",
+        "in a huff",
+        "fed up",
+        "chagrined",
+        "disgruntled",
+        "discontented",
+        "resentful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A petty quarrel or fit of pique.",
+      "synonyms": [
+        "argument",
+        "row",
+        "fight",
+        "disagreement",
+        "difference of opinion",
+        "dissension",
+        "falling-out"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: perhaps imitative; compare with early modern German muff, an exclamation of disgust.",
+  "pronounciation": "/mɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/miff_us_1.mp3"
+}

@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Chew (food)",
+      "examples": [
+        "dentition affects how well food is masticated and absorbed",
+        "try to masticate slowly"
+      ],
+      "synonyms": [
+        "chew",
+        "munch",
+        "champ",
+        "chomp",
+        "crunch",
+        "eat"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (earlier ( Middle English) as mastication): from late Latin masticat- chewed, from the verb masticare, from Greek mastikhan gnash the teeth (related to masasthai to chew).",
+  "pronounciation": "/ˈmæstəˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/masticate_us_1.mp3"
+}

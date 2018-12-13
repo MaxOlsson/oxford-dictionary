@@ -1,0 +1,72 @@
+{
+  "adjective": [
+    {
+      "description": "Refraining from speech or temporarily speechless.",
+      "examples": [
+        "Irene, the talkative one, was now mute"
+      ],
+      "synonyms": [
+        "silent",
+        "speechless",
+        "dumb",
+        "unspeaking",
+        "wordless",
+        "voiceless",
+        "tongue-tied",
+        "at a loss for words",
+        "tight-lipped",
+        "close-mouthed",
+        "taciturn",
+        "uncommunicative"
+      ]
+    },
+    {
+      "description": "(of a person) lacking the faculty of speech.",
+      "synonyms": [
+        "unable to speak"
+      ]
+    },
+    {
+      "description": "(of a letter) not pronounced.",
+      "examples": [
+        "mute e is generally dropped before suffixes beginning with a vowel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person lacking the faculty of speech."
+    },
+    {
+      "description": "A clamp placed over the bridge of a stringed instrument to deaden the resonance without affecting the vibration of the strings."
+    },
+    {
+      "description": "A device on a television, telephone, or other appliance that temporarily turns off the sound.",
+      "examples": [
+        "she put the remote on mute"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Deaden, muffle, or soften the sound of.",
+      "examples": [
+        "her footsteps were muted by the thick carpet"
+      ],
+      "synonyms": [
+        "deaden",
+        "muffle",
+        "mask",
+        "dull",
+        "dampen",
+        "damp down",
+        "soften",
+        "quieten",
+        "silence"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman mut, mute, moute pack of hounds trained for hunting, from Latin movere to move.",
+  "pronounciation": "/mjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mute_us_1.mp3"
+}

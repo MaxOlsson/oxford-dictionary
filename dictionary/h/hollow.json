@@ -1,0 +1,83 @@
+{
+  "adjective": [
+    {
+      "description": "Having a hole or empty space inside.",
+      "examples": [
+        "each fiber has a hollow core"
+      ],
+      "synonyms": [
+        "empty",
+        "not solid",
+        "void",
+        "unfilled",
+        "vacant",
+        "hollowed out"
+      ]
+    },
+    {
+      "description": "Without significance.",
+      "examples": [
+        "the result was a hollow victory"
+      ],
+      "synonyms": [
+        "meaningless",
+        "empty",
+        "valueless",
+        "worthless",
+        "useless",
+        "pyrrhic",
+        "futile",
+        "of no use",
+        "of no value",
+        "of no avail",
+        "fruitless",
+        "profitless",
+        "pointless",
+        "unavailing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A hole or depression in something.",
+      "examples": [
+        "a hollow at the base of a large tree"
+      ],
+      "synonyms": [
+        "hole",
+        "pit",
+        "cavity",
+        "crater",
+        "trough",
+        "cave",
+        "cavern"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form by making a hole.",
+      "examples": [
+        "a tunnel was hollowed out in a mountain range"
+      ],
+      "synonyms": [
+        "gouge out",
+        "scoop out",
+        "dig out",
+        "cut out",
+        "excavate",
+        "channel"
+      ]
+    }
+  ],
+  "phrases": [
+    "Given the standards of Indian movies, the splendid three-hour session will ensure that you beat the romance on the screen hollow!",
+    "Kerala's Shiva Priya's dream run came to an end in the 63 kg division where Asian champion Aruna Mishra beat her hollow in the first round.",
+    "I had the pleasure of beating him hollow at Pro Evolution Soccer 4.",
+    "Team-Pakistan beat India hollow at the Kotla grounds.",
+    "Irish landlords were bad enough in the past, but this new importation from England beats them hollow."
+  ],
+  "origin": "Old English holh cave; obscurely related to hole.",
+  "pronounciation": "/ˈhälō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hollow_us_1.mp3"
+}

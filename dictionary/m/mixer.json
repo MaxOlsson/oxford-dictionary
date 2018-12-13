@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A machine or device for mixing things, especially an electrical appliance for mixing foods.",
+      "examples": [
+        "a food mixer"
+      ],
+      "synonyms": [
+        "blender",
+        "food processor",
+        "liquidizer",
+        "stirrer",
+        "beater",
+        "churn",
+        "whisk"
+      ]
+    },
+    {
+      "description": "A person considered in terms of their ability to mix socially with others.",
+      "examples": [
+        "media people need to be good mixers"
+      ]
+    },
+    {
+      "description": "A soft drink that can be mixed with alcohol."
+    },
+    {
+      "description": "(in sound recording and cinematography) a device for merging input signals to produce a combined output in the form of sound or pictures."
+    }
+  ],
+  "pronounciation": "/ˈmɪksər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mixer_us_1.mp3"
+}

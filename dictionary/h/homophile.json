@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to homosexuals.",
+      "synonyms": [
+        "gay",
+        "lesbian",
+        "sapphic",
+        "lesbigay"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A homosexual man or woman.",
+      "synonyms": [
+        "gay",
+        "lesbian",
+        "gay person",
+        "lesbigay"
+      ]
+    }
+  ],
+  "origin": "1960s: from homosexual + -phile.",
+  "pronounciation": "/ˈhoʊməˌfaɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/homophile_us_1.mp3"
+}

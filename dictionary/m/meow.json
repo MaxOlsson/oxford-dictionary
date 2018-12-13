@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "The characteristic crying sound of a cat.",
+      "examples": [
+        "with a meow the brown kitten jumped down"
+      ],
+      "synonyms": [
+        "howl",
+        "howling",
+        "wail",
+        "wailing",
+        "screech",
+        "screeching",
+        "shriek",
+        "shrieking",
+        "scream",
+        "screaming",
+        "bawl",
+        "bawling",
+        "cry",
+        "crying",
+        "yell",
+        "yelling",
+        "yelp",
+        "yelping",
+        "yowl",
+        "yowling",
+        "squall",
+        "squalling",
+        "whine",
+        "whining",
+        "ululating"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a cat) make a characteristic crying sound.",
+      "examples": [
+        "the cat meowed again piteously"
+      ],
+      "synonyms": [
+        "howl",
+        "howling",
+        "wail",
+        "wailing",
+        "screech",
+        "screeching",
+        "shriek",
+        "shrieking",
+        "scream",
+        "screaming",
+        "bawl",
+        "bawling",
+        "cry",
+        "crying",
+        "yell",
+        "yelling",
+        "yelp",
+        "yelping",
+        "yowl",
+        "yowling",
+        "squall",
+        "squalling",
+        "whine",
+        "whining",
+        "ululating"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: imitative.",
+  "pronounciation": "/mēˈou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meow_us_1.mp3"
+}

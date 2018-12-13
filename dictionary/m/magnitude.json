@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The great size or extent of something.",
+      "examples": [
+        "they may feel discouraged at the magnitude of the task before them"
+      ],
+      "synonyms": [
+        "immensity",
+        "vastness",
+        "hugeness",
+        "enormity",
+        "enormousness",
+        "expanse"
+      ]
+    },
+    {
+      "description": "Size.",
+      "examples": [
+        "electorates of less than average magnitude"
+      ],
+      "synonyms": [
+        "size",
+        "extent",
+        "measure",
+        "proportions",
+        "dimensions",
+        "breadth",
+        "volume",
+        "weight",
+        "quantity",
+        "mass",
+        "bulk"
+      ]
+    },
+    {
+      "description": "The degree of brightness of a star. The magnitude of an astronomical object is now reckoned as the negative logarithm of the brightness; a decrease of one magnitude represents an increase in brightness of 2.512 times. A star with an apparent magnitude of six is barely visible to the naked eye.",
+      "synonyms": [
+        "brightness",
+        "brilliance",
+        "radiance",
+        "luminosity"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense greatness of character): from Latin magnitudo, from magnus great.",
+  "pronounciation": "/ˈmæɡnəˌt(j)ud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/magnitude_us_1.mp3"
+}

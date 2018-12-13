@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Mixed with foreign matter; adulterated.",
+      "examples": [
+        "bullets cast from an impure lead"
+      ],
+      "synonyms": [
+        "adulterated",
+        "mixed",
+        "combined",
+        "blended",
+        "alloyed"
+      ]
+    },
+    {
+      "description": "Morally wrong, especially in sexual matters.",
+      "examples": [
+        "citizens suspected of harboring impure thoughts"
+      ],
+      "synonyms": [
+        "immoral",
+        "corrupt",
+        "sinful",
+        "wrongful",
+        "wicked",
+        "dishonourable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense dirty, containing offensive matter): from Latin impurus, from in- not + purus pure.",
+  "pronounciation": "/ɪmˈpjʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impure_us_1.mp3"
+}

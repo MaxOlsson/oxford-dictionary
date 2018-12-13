@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Not severe, serious, or harsh.",
+      "examples": [
+        "he received a mild sentence"
+      ],
+      "synonyms": [
+        "lenient",
+        "clement",
+        "light"
+      ]
+    },
+    {
+      "description": "Gentle and not easily provoked.",
+      "examples": [
+        "she was implacable, despite her mild exterior"
+      ],
+      "synonyms": [
+        "gentle",
+        "tender",
+        "soft",
+        "soft-hearted",
+        "tender-hearted",
+        "sensitive",
+        "sympathetic",
+        "warm",
+        "warm-hearted",
+        "unassuming",
+        "conciliatory",
+        "placid",
+        "meek",
+        "modest",
+        "docile",
+        "calm",
+        "tranquil",
+        "serene",
+        "peaceful",
+        "peaceable",
+        "pacific",
+        "good-natured",
+        "amiable",
+        "affable",
+        "genial",
+        "easy",
+        "easy-going",
+        "mellow"
+      ]
+    }
+  ],
+  "origin": "Old English milde (originally in the sense gracious, not severe in command), of Germanic origin; related to Dutch and German mild, from an Indo-European root shared by Latin mollis and Greek malthakos soft.",
+  "pronounciation": "/maɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mild_us_1.mp3"
+}

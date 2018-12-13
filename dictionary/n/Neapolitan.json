@@ -1,0 +1,19 @@
+{
+  "noun": [
+    {
+      "description": "A native or citizen of Naples."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to Naples.",
+      "examples": [
+        "he is Neapolitan by birth",
+        "the Neapolitan Riviera"
+      ]
+    }
+  ],
+  "origin": "From Latin Neapolitanus, from Latin Neapolis Naples, from Greek neos new + polis city.",
+  "pronounciation": "/ˌnēəˈpälətn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neapolitan_1_us_1.mp3"
+}

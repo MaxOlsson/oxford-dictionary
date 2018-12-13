@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "In a direction parallel with a thing's length.",
+      "examples": [
+        "halve the potatoes lengthwise"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Lying or moving lengthwise.",
+      "examples": [
+        "a lengthwise crack"
+      ],
+      "synonyms": [
+        "in length",
+        "lengthways"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈleNG(k)THˌwīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lengthwise_us_1_rr.mp3"
+}

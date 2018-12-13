@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Attended by bad omens.",
+      "examples": [
+        "ill-omened birds of prey"
+      ],
+      "synonyms": [
+        "inauspicious",
+        "unfavourable",
+        "adverse",
+        "disadvantageous",
+        "unpropitious",
+        "uninviting",
+        "discouraging",
+        "disheartening",
+        "gloomy",
+        "bleak",
+        "black",
+        "portentous",
+        "foreboding",
+        "hopeless",
+        "ominous",
+        "creepy",
+        "baleful",
+        "doomed",
+        "jinxed",
+        "damned",
+        "cursed",
+        "ill-fated"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈil ˈˌōmənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ill_omened_1_us_1.mp3"
+}

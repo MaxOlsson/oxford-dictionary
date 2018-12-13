@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A very brief period of time.",
+      "examples": [
+        "she was silent for a moment before replying",
+        "a few moments later he returned to the office"
+      ],
+      "synonyms": [
+        "little while",
+        "short time",
+        "bit",
+        "minute",
+        "second",
+        "instant",
+        "split second"
+      ]
+    },
+    {
+      "description": "Importance.",
+      "examples": [
+        "the issues were of little moment to the electorate"
+      ],
+      "synonyms": [
+        "importance",
+        "import",
+        "significance",
+        "consequence",
+        "substance",
+        "note",
+        "mark",
+        "prominence",
+        "value",
+        "weight",
+        "concern",
+        "interest",
+        "gravity",
+        "seriousness"
+      ]
+    },
+    {
+      "description": "A turning effect produced by a force acting at a distance on an object."
+    },
+    {
+      "description": "A quantity that expresses the average or expected value of the first, second, third, or fourth power of the deviation of each component of a frequency distribution from some given value, typically mean or zero. The first moment is the mean, the second moment the variance, the third moment the skew, and the fourth moment the kurtosis."
+    }
+  ],
+  "phrases": [
+    "Dark clouds that kept gathering in the sky from afternoon threatened to burst at any moment.",
+    "Whether it's fire or flood, disaster is never far away and can strike at any moment.",
+    "She has the rather adventurous view that life can change at any moment.",
+    "She was back, this time to tell us that the delay was continuing but that we should be moving at any moment.",
+    "Anyway, I watched every frame expecting the screen to go black at any moment."
+  ],
+  "origin": "Late Middle English: from Latin momentum (see momentum).",
+  "pronounciation": "/ˈmoʊmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moment_us_1.mp3"
+}

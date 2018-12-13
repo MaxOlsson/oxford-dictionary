@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A short smoothbore gun for firing shells (technically called bombs) at high angles."
+    },
+    {
+      "description": "A cup-shaped receptacle made of hard material, in which ingredients are crushed or ground, used especially in cooking or pharmacy.",
+      "examples": [
+        "a mortar and pestle"
+      ],
+      "synonyms": [
+        "dish",
+        "basin",
+        "pan",
+        "pot",
+        "crock",
+        "crucible"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack or bombard with shells fired from a mortar."
+    }
+  ],
+  "origin": "Middle English: from Old French mortier, from Latin mortarium, probably a transferred sense of the word denoting a container (see mortar).",
+  "pronounciation": "/ˈmôrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortar_us_1.mp3"
+}

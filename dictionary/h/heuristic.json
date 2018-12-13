@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Enabling a person to discover or learn something for themselves.",
+      "examples": [
+        "a “hands-on” or interactive heuristic approach to learning"
+      ],
+      "synonyms": [
+        "informative",
+        "instructional",
+        "informational",
+        "illuminating",
+        "enlightening",
+        "revealing",
+        "explanatory",
+        "telling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heuristic process or method."
+    }
+  ],
+  "origin": "Early 19th century: formed irregularly from Greek heuriskein find.",
+  "pronounciation": "/hyo͞oˈristik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heuristic_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.",
+      "examples": [
+        "male children"
+      ],
+      "synonyms": [
+        "masculine",
+        "to do with men",
+        "he-"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A male person, plant, or animal.",
+      "examples": [
+        "the audience consisted of adult males",
+        "the male of the species"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "The capital of the Maldives; population 111,000 (est. 2007)."
+    }
+  ],
+  "origin": "Late Middle English: from Old French masle, from Latin masculus, from mas a male.",
+  "pronounciation": "/ˈmälā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/male_1_us_2.mp3"
+}

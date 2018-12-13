@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Emitting light as a result of being heated.",
+      "examples": [
+        "plumes of incandescent liquid rock"
+      ],
+      "synonyms": [
+        "white-hot",
+        "intensely hot",
+        "red-hot",
+        "burning",
+        "fiery",
+        "on fire",
+        "blazing",
+        "ablaze",
+        "aflame"
+      ]
+    },
+    {
+      "description": "Full of strong emotion; passionate.",
+      "examples": [
+        "Mravinsky's incandescent performance of Siegfried's Funeral March"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from French, from Latin incandescent- glowing, from the verb incandescere, from in- (expressing intensive force) + candescere become white (from candidus white).",
+  "pronounciation": "/ˌɪnkənˈdɛs(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incandescent_us_1.mp3"
+}

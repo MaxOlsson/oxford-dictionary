@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of or appropriate to war; warlike.",
+      "examples": [
+        "martial bravery"
+      ],
+      "synonyms": [
+        "military",
+        "soldierly",
+        "soldier-like",
+        "army",
+        "naval",
+        "fighting",
+        "service"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "(c.40–c.AD 104), Roman epigrammatist, born in Spain; Latin name Marcus Valerius Martialis. His 15 books of epigrams, in a variety of meters, reflect all facets of Roman life."
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin martialis, from Mars, Mart- (see Mars).",
+  "pronounciation": "/ˈmɑrʃəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/martial_us_1.mp3"
+}

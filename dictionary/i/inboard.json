@@ -1,0 +1,18 @@
+{
+  "adverb &amp; adjective": [
+    {
+      "description": "Within a ship, aircraft, or vehicle.",
+      "examples": [
+        "the spray was coming inboard now",
+        "the uncovered inboard engine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A boat's engine housed inside its hull."
+    }
+  ],
+  "pronounciation": "/ˈinbôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inboard_us_1.mp3"
+}

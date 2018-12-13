@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Slowly decay or disintegrate, especially because of neglect.",
+      "examples": [
+        "I couldn't permit someone of your abilities to molder away in a backwater",
+        "there was a mushroomy smell of disuse and moldering books"
+      ],
+      "synonyms": [
+        "decay",
+        "decompose",
+        "rot",
+        "rot away",
+        "go mouldy",
+        "perish",
+        "go off",
+        "go bad",
+        "spoil",
+        "putrefy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing that molds something.",
+      "examples": [
+        "a molder of public opinion"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: perhaps from mold, but compare with Norwegian dialect muldra crumble.",
+  "pronounciation": "/ˈmoʊldər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/molder_us_1.mp3"
+}

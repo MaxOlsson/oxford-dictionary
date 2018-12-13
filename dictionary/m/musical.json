@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to music.",
+      "examples": [
+        "they shared similar musical tastes"
+      ]
+    },
+    {
+      "description": "Having a pleasant sound; melodious or tuneful.",
+      "examples": [
+        "they burst out into rich, musical laughter"
+      ],
+      "synonyms": [
+        "tuneful",
+        "melodic",
+        "melodious",
+        "harmonious",
+        "sweet-sounding",
+        "sweet",
+        "mellifluous",
+        "dulcet",
+        "lyrical",
+        "lilting",
+        "liquid",
+        "euphonious",
+        "euphonic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A play or movie in which singing and dancing play an essential part. Musicals developed from light opera in the early 20th century.",
+      "synonyms": [
+        "musical comedy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from medieval Latin musicalis, from Latin musica (see music).",
+  "pronounciation": "/ˈmyo͞ozək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/musical_us_1.mp3"
+}

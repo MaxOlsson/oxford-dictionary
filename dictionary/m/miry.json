@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Very muddy or boggy.",
+      "examples": [
+        "the roads were miry in winter"
+      ],
+      "synonyms": [
+        "muddy",
+        "oozy",
+        "slushy",
+        "slimy",
+        "swampy",
+        "marshy",
+        "boggy",
+        "fenny",
+        "watery",
+        "sodden",
+        "sopping",
+        "saturated",
+        "squelchy",
+        "waterlogged",
+        "soggy",
+        "soft",
+        "heavy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmīrē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/miry_us_1.mp3"
+}

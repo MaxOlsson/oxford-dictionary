@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The fundamental unit of length in the metric system, equal to 100 centimeters or approximately 39.37 inches.",
+      "examples": [
+        "sit two meters away from the TV screen",
+        "the wall was less than a meter high"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Measure by means of a meter.",
+      "examples": [
+        "a metered supply of water"
+      ],
+      "synonyms": [
+        "take the measurements of",
+        "calculate",
+        "compute",
+        "estimate",
+        "count",
+        "meter",
+        "quantify",
+        "weigh",
+        "size",
+        "evaluate",
+        "rate",
+        "assess",
+        "appraise",
+        "gauge",
+        "plumb",
+        "measure out",
+        "determine",
+        "judge",
+        "survey"
+      ]
+    }
+  ],
+  "origin": "Old English, reinforced in Middle English by Old French metre, from Latin metrum, from Greek metron measure.",
+  "pronounciation": "/ˈmēdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meter_us_1.mp3"
+}

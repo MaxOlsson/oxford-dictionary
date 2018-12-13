@@ -1,0 +1,25 @@
+{
+  "abbreviation": [
+    {
+      "description": "For example.",
+      "examples": [
+        "life events (e.g. birth, death and marriage)"
+      ],
+      "synonyms": [
+        "for instance",
+        "e.g.",
+        "to give an example",
+        "to give an instance",
+        "by way of illustration",
+        "as an illustration",
+        "to illustrate",
+        "such as",
+        "as",
+        "like"
+      ]
+    }
+  ],
+  "origin": "From Latin exempli gratia for the sake of example.",
+  "pronounciation": "/ˌiˈdʒi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/e_g_1_us_1.mp3"
+}

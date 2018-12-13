@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be measured.",
+      "examples": [
+        "objectives should be measurable and achievable"
+      ],
+      "synonyms": [
+        "quantifiable",
+        "assessable",
+        "gaugeable",
+        "appraisable",
+        "computable",
+        "fathomable",
+        "resolvable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something that can be quantified, especially a sports player's height and weight.",
+      "examples": [
+        "he had the worst measurables in the draft for his position"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense moderate): from Old French mesurable, from late Latin mensurabilis, from Latin mensurare to measure.",
+  "pronounciation": "/ˈmɛʒ(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/measurable_us_1.mp3"
+}

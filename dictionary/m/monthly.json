@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Done, produced, or occurring once a month.",
+      "examples": [
+        "the Council held monthly meetings"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Once a month; every month; from month to month.",
+      "examples": [
+        "most of us get paid monthly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A magazine that is published once a month.",
+      "synonyms": [
+        "book",
+        "volume",
+        "hardback",
+        "paperback",
+        "title",
+        "work",
+        "tome",
+        "opus",
+        "treatise",
+        "manual",
+        "register",
+        "almanac",
+        "yearbook",
+        "compendium"
+      ]
+    },
+    {
+      "description": "A menstrual period."
+    }
+  ],
+  "pronounciation": "/ˈmənθli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monthly_us_1.mp3"
+}

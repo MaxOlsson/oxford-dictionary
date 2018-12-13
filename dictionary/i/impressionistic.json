@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Based on subjective reactions presented unsystematically.",
+      "examples": [
+        "a personal and impressionistic view of the war"
+      ],
+      "synonyms": [
+        "personal",
+        "personalized",
+        "individual",
+        "internal",
+        "emotional",
+        "instinctive",
+        "intuitive"
+      ]
+    },
+    {
+      "description": "In the style of impressionism.",
+      "examples": [
+        "an impressionistic portrait"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪmˌprɛʃəˈnɪstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impressionistic_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or composed in poetic meter.",
+      "examples": [
+        "metrical translations of the Psalms"
+      ],
+      "synonyms": [
+        "in verse",
+        "verse",
+        "rhythmical"
+      ]
+    },
+    {
+      "description": "Of or involving measurement.",
+      "examples": [
+        "a metrical analysis of male and female scapulae"
+      ],
+      "synonyms": [
+        "pulsing",
+        "with a steady pulse",
+        "rhythmical",
+        "measured",
+        "throbbing",
+        "beating",
+        "pulsating",
+        "cadenced",
+        "lilting",
+        "repeated",
+        "periodic",
+        "regular",
+        "steady",
+        "even",
+        "paced"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Latin from Greek metrikos (from metron: see metre)+ -al.",
+  "pronounciation": "/ˈmetrək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/metrical_us_1.mp3"
+}

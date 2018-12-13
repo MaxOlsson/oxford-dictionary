@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Considerable in size or quantity.",
+      "examples": [
+        "we ran up a goodly bar bill"
+      ],
+      "synonyms": [
+        "fairly large",
+        "sizeable",
+        "substantial",
+        "considerable",
+        "not inconsiderable",
+        "respectable",
+        "significant",
+        "largish",
+        "biggish",
+        "decent",
+        "decent-sized",
+        "generous",
+        "handsome"
+      ]
+    },
+    {
+      "description": "Attractive, excellent, or admirable.",
+      "synonyms": [
+        "wonderful",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "sublime",
+        "spectacular",
+        "lovely",
+        "excellent",
+        "fine",
+        "delightful",
+        "enjoyable",
+        "pleasurable"
+      ]
+    }
+  ],
+  "origin": "Old English gōdlic (see good, -ly).",
+  "pronounciation": "/ˈɡʊdli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/goodly_us_1.mp3"
+}

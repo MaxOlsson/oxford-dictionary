@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to speak distinctly or express oneself clearly.",
+      "examples": [
+        "he was inarticulate with abashment and regret"
+      ],
+      "synonyms": [
+        "tongue-tied",
+        "lost for words",
+        "at a loss for words",
+        "unable to express oneself",
+        "unable to get a word out",
+        "poorly spoken"
+      ]
+    },
+    {
+      "description": "Without joints or articulations."
+    }
+  ],
+  "origin": "Early 17th century: from in- not + the adjective articulate; the sense not clearly pronounced corresponds to that of late Latin inarticulatus.",
+  "pronounciation": "/ˌinärˈtikyələt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inarticulate_us_1.mp3"
+}

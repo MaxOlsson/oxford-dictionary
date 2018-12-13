@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "(of an office or position) given as a mark of respect, but having few or no duties.",
+      "examples": [
+        "an honorific award for military valor"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A title or word implying or expressing high status, politeness, or respect.",
+      "examples": [
+        "he will be able to put the honorific after his name: licenciado, “college graduate.”"
+      ],
+      "synonyms": [
+        "title",
+        "denomination",
+        "label"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin honorificus, from honor honor.",
+  "pronounciation": "/ˌɑnəˈrɪfɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/honorific_us_1.mp3"
+}

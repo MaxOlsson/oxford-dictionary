@@ -1,0 +1,83 @@
+{
+  "preposition": [
+    {
+      "description": "With the subtraction of.",
+      "examples": [
+        "what's ninety-three minus seven?"
+      ],
+      "synonyms": [
+        "take away",
+        "take from",
+        "take off",
+        "deduct",
+        "debit",
+        "abstract",
+        "discount",
+        "dock",
+        "remove",
+        "withdraw"
+      ]
+    },
+    {
+      "description": "(of temperature) below zero.",
+      "examples": [
+        "minus 10° Fahrenheit"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(before a number) below zero; negative.",
+      "examples": [
+        "minus five"
+      ],
+      "synonyms": [
+        "unencumbered by",
+        "unaffected by",
+        "clear of",
+        "without",
+        "devoid of",
+        "lacking in"
+      ]
+    },
+    {
+      "description": "(after a grade) slightly worse than.",
+      "examples": [
+        "my lowest grade was a B minus"
+      ]
+    },
+    {
+      "description": "Having a negative electric charge."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A disadvantage."
+    },
+    {
+      "examples": [
+        "for every plus with this equipment there can be a minus"
+      ],
+      "synonyms": [
+        "disadvantage",
+        "snag",
+        "downside",
+        "stumbling block",
+        "catch",
+        "hitch",
+        "pitfall",
+        "fly in the ointment"
+      ]
+    }
+  ],
+  "phrases": [
+    "on the minus side, the economy is unbalanced",
+    "On the minus side, no sooner had the money been saved than the city had to tap it to cover an unexpected $4.5-million deficit.",
+    "On the minus side, man-made fibres are less breathable than cotton and don't absorb moisture as well, so they can be less comfortable in the summer.",
+    "On the minus side, boot space is limited - but big enough for two people travelling light with a toothbrush.",
+    "On the plus side I'm somewhat handy with lumber and tools, on the minus side I'm pushing 71."
+  ],
+  "origin": "Late 15th century: from Latin, neuter of minor less.",
+  "pronounciation": "/ˈmaɪnəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/minus_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the ancient city of Meroe, located in present-day Sudan, or its inhabitants or language.",
+      "examples": [
+        "the Meroitic civilization"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or citizen of the ancient city of Meroe, located in present-day Sudan.",
+      "examples": [
+        "the Meroitics processed the ore near the river"
+      ]
+    },
+    {
+      "description": "The language spoken in the ancient city of Meroe, located in present-day Sudan.",
+      "examples": [
+        "one of the longest known monumental texts in Meroitic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmerōˈidik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meroitic_1_us_1.mp3"
+}

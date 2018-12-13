@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Badly thought out.",
+      "examples": [
+        "an ill-considered remark"
+      ],
+      "synonyms": [
+        "rash",
+        "unconsidered",
+        "ill-advised",
+        "ill-judged",
+        "injudicious",
+        "imprudent",
+        "unwise",
+        "hasty",
+        "overhasty"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪl kənˈˌsɪdərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ill_considered_1_us_1.mp3"
+}

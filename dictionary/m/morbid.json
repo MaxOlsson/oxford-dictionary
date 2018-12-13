@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease.",
+      "examples": [
+        "he had long held a morbid fascination with the horrors of contemporary warfare"
+      ],
+      "synonyms": [
+        "ghoulish",
+        "macabre",
+        "unhealthy",
+        "gruesome",
+        "grisly",
+        "grotesque",
+        "ghastly",
+        "horrible",
+        "unwholesome",
+        "death-obsessed"
+      ]
+    },
+    {
+      "description": "Of the nature of or indicative of disease.",
+      "examples": [
+        "the treatment of morbid obesity"
+      ],
+      "synonyms": [
+        "diseased",
+        "pathological"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the medical sense): from Latin morbidus, from morbus disease.",
+  "pronounciation": "/ˈmôrbəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/morbid_us_1.mp3"
+}

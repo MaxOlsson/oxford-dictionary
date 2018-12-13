@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(of a substance or plant) having healing properties.",
+      "examples": [
+        "medicinal herbs",
+        "a large medicinal Scotch"
+      ],
+      "synonyms": [
+        "curative",
+        "healing",
+        "curing",
+        "remedial",
+        "therapeutic",
+        "restorative",
+        "corrective",
+        "health-giving"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicinal substance.",
+      "synonyms": [
+        "medication",
+        "medicament",
+        "remedy",
+        "cure",
+        "nostrum",
+        "patent medicine",
+        "quack remedy",
+        "panacea",
+        "cure-all",
+        "placebo",
+        "drug",
+        "prescription",
+        "dose",
+        "treatment"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin medicinalis, from medicina (see medicine).",
+  "pronounciation": "/məˈdɪsənl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/medicinal_us_1.mp3"
+}

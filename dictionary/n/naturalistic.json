@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Derived from real life or nature, or imitating it very closely.",
+      "examples": [
+        "verbatim records of children's speech in naturalistic settings"
+      ]
+    },
+    {
+      "description": "Based on the theory of naturalism in art or literature.",
+      "examples": [
+        "naturalistic paintings of the city"
+      ],
+      "synonyms": [
+        "realistic",
+        "real-life",
+        "true-to-life",
+        "lifelike",
+        "vivid",
+        "graphic",
+        "representational",
+        "photographic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnætʃ(ə)rəˈlɪstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/naturalistic_us_1.mp3"
+}

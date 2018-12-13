@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Too great to be calculated or estimated.",
+      "examples": [
+        "an archive of incalculable value"
+      ],
+      "synonyms": [
+        "inestimable",
+        "indeterminable",
+        "untold",
+        "immeasurable",
+        "uncountable",
+        "incomputable",
+        "not to be reckoned"
+      ]
+    },
+    {
+      "description": "Not able to be calculated or estimated.",
+      "examples": [
+        "the cost is incalculable but colossal"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈkalkyələb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incalculable_us_1.mp3"
+}

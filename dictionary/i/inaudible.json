@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be heard.",
+      "examples": [
+        "inaudible pulses of high-frequency sound"
+      ],
+      "synonyms": [
+        "unheard",
+        "not heard",
+        "out of earshot"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin inaudibilis, from in- not + audibilis (see audible).",
+  "pronounciation": "/ˌinˈôdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inaudible_us_1.mp3"
+}

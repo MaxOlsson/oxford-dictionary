@@ -1,0 +1,62 @@
+{
+  "adjective": [
+    {
+      "description": "Without one's mental faculties, typically a result of violence or intoxication; unconscious.",
+      "examples": [
+        "they knocked each other insensible with their fists",
+        "insensible with drink"
+      ],
+      "synonyms": [
+        "unconscious",
+        "insensate",
+        "senseless",
+        "insentient",
+        "comatose",
+        "knocked out",
+        "passed out",
+        "blacked out",
+        "inert",
+        "stupefied",
+        "stunned"
+      ]
+    },
+    {
+      "description": "Unaware of or indifferent to.",
+      "examples": [
+        "they slept on, insensible to the headlight beams"
+      ],
+      "synonyms": [
+        "unaware of",
+        "ignorant of",
+        "without knowledge of",
+        "unconscious of",
+        "unmindful of",
+        "mindless of",
+        "oblivious to"
+      ]
+    },
+    {
+      "description": "Too small or gradual to be perceived; inappreciable.",
+      "examples": [
+        "varying by insensible degrees"
+      ],
+      "synonyms": [
+        "imperceptible",
+        "unnoticeable",
+        "undetectable",
+        "indistinguishable",
+        "indiscernible",
+        "unapparent",
+        "inappreciable",
+        "invisible",
+        "inaudible",
+        "impalpable",
+        "unobtrusive",
+        "impossible to detect"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the senses unable to be perceived and incapable of physical sensation): partly from Old French insensible (from Latin insensibilis, from in- not + sensibilis, from sensus sense), partly from in- not + sensible.",
+  "pronounciation": "/inˈsensəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insensible_us_1.mp3"
+}

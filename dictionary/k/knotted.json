@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Fastened with or having a knot or knots.",
+      "examples": [
+        "a knotted rope"
+      ]
+    },
+    {
+      "description": "(of a stem, branch, or root) knobbly, gnarled, or twisted.",
+      "examples": [
+        "the knotted roots of a large oak tree",
+        "knotted wood beams"
+      ]
+    },
+    {
+      "description": "(of hair) tangled.",
+      "examples": [
+        "he brushed through his knotted hair"
+      ]
+    },
+    {
+      "description": "(of a muscle) tense and hard.",
+      "examples": [
+        "a neck rub can relieve knotted muscles"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnɑdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/knotted_us_1.mp3"
+}

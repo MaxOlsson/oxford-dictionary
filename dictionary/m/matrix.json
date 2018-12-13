@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An environment or material in which something develops; a surrounding medium or structure.",
+      "examples": [
+        "free choices become the matrix of human life"
+      ]
+    },
+    {
+      "description": "A mass of fine-grained rock in which gems, crystals, or fossils are embedded."
+    },
+    {
+      "description": "A mold in which something, such as printing type or a phonograph record, is cast or shaped.",
+      "synonyms": [
+        "mould",
+        "die",
+        "form",
+        "shape",
+        "casting",
+        "template",
+        "pattern",
+        "frame"
+      ]
+    },
+    {
+      "description": "A rectangular array of quantities or expressions in rows and columns that is treated as a single entity and manipulated according to particular rules.",
+      "synonyms": [
+        "network",
+        "reticulation",
+        "reticulum"
+      ]
+    },
+    {
+      "description": "An organizational structure in which two or more lines of command, responsibility, or communication may run through the same individual."
+    }
+  ],
+  "origin": "Late Middle English (in the sense womb): from Latin, breeding female, later womb, from mater, matr- mother.",
+  "pronounciation": "/ˈmeɪtrɪks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/matrix_us_1.mp3"
+}

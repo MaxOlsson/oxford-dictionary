@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to mathematics.",
+      "examples": [
+        "mathematical equations"
+      ],
+      "synonyms": [
+        "arithmetical",
+        "arithmetic",
+        "numerical",
+        "statistical",
+        "algebraic",
+        "geometric",
+        "geometrical",
+        "trigonometric",
+        "trigonometrical",
+        "topological"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin mathematicalis, from Greek mathēmatikos, from mathēma, mathēmat- science, from the base of manthanein learn.",
+  "pronounciation": "/ˌmæθ(ə)ˈmædək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mathematical_us_1.mp3"
+}

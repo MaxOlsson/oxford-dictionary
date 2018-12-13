@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A legal agreement by which a bank or other creditor lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "synonyms": [
+        "credit",
+        "advance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Convey (a property) to a creditor as security on a loan.",
+      "examples": [
+        "the estate was mortgaged up to the hilt"
+      ],
+      "synonyms": [
+        "put up as collateral",
+        "guarantee",
+        "pawn"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, literally dead pledge, from mort (from Latin mortuus dead) + gage pledge.",
+  "pronounciation": "/ˈmɔrɡɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortgage_us_1.mp3"
+}

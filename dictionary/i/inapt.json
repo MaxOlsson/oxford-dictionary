@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not suitable or appropriate in the circumstances.",
+      "examples": [
+        "a more inapt name I cannot imagine"
+      ],
+      "synonyms": [
+        "unsuitable",
+        "unfitting",
+        "ill-suited",
+        "unseemly",
+        "unbecoming",
+        "unprofessional",
+        "unfit",
+        "unbefitting",
+        "indecorous",
+        "improper",
+        "lacking in propriety",
+        "ungentlemanly",
+        "unladylike"
+      ]
+    }
+  ],
+  "pronounciation": "/iˈnapt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inapt_us_1.mp3"
+}

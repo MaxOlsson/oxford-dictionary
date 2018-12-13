@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "So as to be impossible.",
+      "examples": [
+        "impossibly high standards"
+      ],
+      "synonyms": [
+        "inordinately",
+        "unduly",
+        "unnecessarily",
+        "unreasonably",
+        "absurdly",
+        "ridiculously",
+        "overly",
+        "to too great a degree",
+        "extra",
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "unusually",
+        "impossibly",
+        "illogically",
+        "irrationally"
+      ]
+    },
+    {
+      "description": "Possessing the specified quality to an unbelievably high degree.",
+      "examples": [
+        "impossibly blond hair"
+      ],
+      "synonyms": [
+        "preposterously",
+        "ridiculously",
+        "ludicrously",
+        "farcically",
+        "laughably",
+        "risibly"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪmˈpɑsəbli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impossibly_us_1.mp3"
+}

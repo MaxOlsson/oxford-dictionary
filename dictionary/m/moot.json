@@ -1,0 +1,80 @@
+{
+  "adjective": [
+    {
+      "description": "Subject to debate, dispute, or uncertainty.",
+      "examples": [
+        "whether the temperature rise was mainly due to the greenhouse effect was a moot point",
+        "it is a moot point whether such a controversial scheme would have succeeded"
+      ],
+      "synonyms": [
+        "debatable",
+        "open to debate",
+        "open to discussion",
+        "arguable",
+        "questionable",
+        "at issue",
+        "open to question",
+        "open",
+        "doubtful",
+        "open to doubt",
+        "disputable",
+        "contestable",
+        "controvertible",
+        "problematic",
+        "problematical",
+        "controversial",
+        "contentious",
+        "vexed",
+        "disputed",
+        "unresolved",
+        "unsettled",
+        "up in the air",
+        "undecided",
+        "yet to be decided",
+        "undetermined",
+        "unconcluded"
+      ]
+    },
+    {
+      "description": "Having little or no practical relevance, typically because the subject is too uncertain to allow a decision.",
+      "examples": [
+        "the whole matter is becoming increasingly moot"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Raise (a question or topic) for discussion; suggest (an idea or possibility)",
+      "examples": [
+        "Sylvia needed a vacation, and a trip to Ireland had been mooted"
+      ],
+      "synonyms": [
+        "raise",
+        "bring up",
+        "broach",
+        "mention",
+        "put forward",
+        "introduce",
+        "advance",
+        "present",
+        "propose",
+        "suggest",
+        "submit",
+        "propound",
+        "air",
+        "ventilate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An assembly held for debate, especially in Anglo-Saxon and medieval times."
+    },
+    {
+      "description": "A mock trial set up to examine a hypothetical case as an academic exercise."
+    }
+  ],
+  "origin": "Old English mōt assembly or meeting and mōtian to converse, of Germanic origin; related to meet. The adjective (originally an attributive noun use: see moot court) dates from the mid 16th century; the current verb sense dates from the mid 17th century.",
+  "pronounciation": "/mut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moot_us_1.mp3"
+}

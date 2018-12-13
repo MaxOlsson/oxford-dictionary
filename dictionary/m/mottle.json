@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Mark with spots or smears of color.",
+      "examples": [
+        "the cow's coat was light red mottled with white"
+      ],
+      "synonyms": [
+        "blotchy",
+        "blotched",
+        "spotted",
+        "spotty"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An irregular arrangement of spots or patches of color.",
+      "examples": [
+        "the ship was a mottle of khaki and black"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: probably a back-formation from motley.",
+  "pronounciation": "/ˈmädl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mottle_us_1.mp3"
+}

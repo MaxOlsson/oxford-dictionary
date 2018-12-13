@@ -1,0 +1,50 @@
+{
+  "adverb": [
+    {
+      "description": "At once; instantly.",
+      "examples": [
+        "I called immediately for an ambulance"
+      ],
+      "synonyms": [
+        "straight away",
+        "at once",
+        "right away",
+        "right now",
+        "instantly",
+        "now",
+        "directly",
+        "promptly",
+        "forthwith",
+        "that minute",
+        "this minute",
+        "that very minute",
+        "this very minute",
+        "that instant",
+        "this instant",
+        "there and then",
+        "here and now",
+        "in a flash",
+        "without delay",
+        "without hesitation",
+        "without further ado",
+        "post-haste"
+      ]
+    },
+    {
+      "description": "Without any intervening time or space.",
+      "examples": [
+        "she was sitting immediately behind me"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "As soon as.",
+      "examples": [
+        "let me know immediately she arrives"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪˈmidiətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/immediately_us_1.mp3"
+}

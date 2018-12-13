@@ -1,0 +1,79 @@
+{
+  "adjective": [
+    {
+      "description": "Existing in or caused by nature; not made or caused by humankind.",
+      "examples": [
+        "carrots contain a natural antiseptic that fights bacteria",
+        "natural disasters such as earthquakes"
+      ]
+    },
+    {
+      "description": "Of or in agreement with the character or makeup of, or circumstances surrounding, someone or something.",
+      "examples": [
+        "sharks have no natural enemies"
+      ]
+    },
+    {
+      "description": "(of a parent or child) related by blood.",
+      "examples": [
+        "such adopted children always knew who their natural parents were"
+      ]
+    },
+    {
+      "description": "(of a note) not sharped or flatted.",
+      "examples": [
+        "the bassoon plays G-natural instead of A-flat"
+      ]
+    },
+    {
+      "description": "Relating to earthly or unredeemed human or physical nature as distinct from the spiritual or supernatural realm."
+    },
+    {
+      "description": "(of a bid) straightforwardly reflecting one's holding of cards."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person regarded as having an innate gift or talent for a particular task or activity.",
+      "examples": [
+        "she was a natural for the sort of television work required of her"
+      ]
+    },
+    {
+      "description": "A sign (♮) denoting a natural note when a previous sign or the key signature would otherwise demand a sharp or a flat."
+    },
+    {
+      "description": "A creamy beige color."
+    },
+    {
+      "description": "(in a gambling game) a combination or score that immediately wins."
+    },
+    {
+      "description": "An insect or other small creature used as bait, rather than an artificial imitation."
+    },
+    {
+      "description": "A person born with a learning disability."
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Naturally.",
+      "examples": [
+        "keep walking—just act natural"
+      ],
+      "synonyms": [
+        "normally",
+        "in a natural manner",
+        "in a natural way",
+        "unaffectedly",
+        "spontaneously",
+        "genuinely",
+        "artlessly",
+        "unpretentiously"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense having a certain status by birth): from Old French, from Latin naturalis, from natura birth, nature, quality (see nature).",
+  "pronounciation": "/ˈnætʃ(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/natural_us_1.mp3"
+}

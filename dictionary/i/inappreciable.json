@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Too small or insignificant to be valued or perceived.",
+      "examples": [
+        "they are few in number and those numbers are inappreciable"
+      ],
+      "synonyms": [
+        "imperceptible",
+        "barely perceptible",
+        "minute",
+        "tiny",
+        "minuscule",
+        "slight",
+        "small",
+        "infinitesimal",
+        "microscopic",
+        "nanoscopic"
+      ]
+    },
+    {
+      "description": "Too valuable to be properly estimated."
+    }
+  ],
+  "pronounciation": "/ˌɪnəˈpriʃ(i)əbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inappreciable_us_1.mp3"
+}

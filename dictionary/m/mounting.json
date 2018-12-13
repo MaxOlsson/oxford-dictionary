@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A backing, setting, or support for something.",
+      "examples": [
+        "he pulled the curtain rod from its mounting"
+      ],
+      "synonyms": [
+        "framework",
+        "rack",
+        "holder",
+        "stand",
+        "base",
+        "support",
+        "mount",
+        "platform",
+        "prop",
+        "horse",
+        "rest",
+        "chock",
+        "plinth",
+        "bottom",
+        "trivet",
+        "bracket",
+        "frame",
+        "subframe",
+        "structure",
+        "substructure",
+        "chassis"
+      ]
+    },
+    {
+      "description": "The action of mounting something.",
+      "examples": [
+        "the mounting of rapid-fire guns"
+      ],
+      "synonyms": [
+        "display",
+        "public display",
+        "show",
+        "showing",
+        "presentation",
+        "demonstration",
+        "showcase",
+        "spectacle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmaʊn(t)ɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mounting_us_2.mp3"
+}

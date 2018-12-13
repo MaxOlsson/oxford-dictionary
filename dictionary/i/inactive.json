@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Not engaging in or involving any or much physical activity.",
+      "examples": [
+        "an inactive lifestyle"
+      ],
+      "synonyms": [
+        "idle",
+        "indolent",
+        "lazy",
+        "lifeless",
+        "slothful",
+        "lethargic",
+        "inert",
+        "slow",
+        "sluggish",
+        "stagnant",
+        "dozy",
+        "unenergetic",
+        "listless",
+        "languishing",
+        "vegetating",
+        "torpid"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈaktiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inactive_us_1.mp3"
+}

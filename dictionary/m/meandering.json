@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Following a winding course.",
+      "examples": [
+        "a meandering lane"
+      ],
+      "synonyms": [
+        "winding",
+        "windy",
+        "zigzag",
+        "zigzagging",
+        "twisting",
+        "turning",
+        "curving",
+        "serpentine",
+        "sinuous",
+        "snaking",
+        "snaky",
+        "twisty",
+        "tortuous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of following a winding course.",
+      "examples": [
+        "oxbow lagoons left by the river's meanderings"
+      ]
+    }
+  ],
+  "pronounciation": "/miˈændərɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meandering_us_1.mp3"
+}

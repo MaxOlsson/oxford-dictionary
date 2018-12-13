@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Join in marriage.",
+      "examples": [
+        "I was married in church",
+        "the priest who married us",
+        "he was engaged to get married to Ginger"
+      ],
+      "synonyms": [
+        "be married",
+        "get married",
+        "wed",
+        "be wed",
+        "become man and wife",
+        "pledge one's troth",
+        "plight one's troth"
+      ]
+    },
+    {
+      "description": "Cause to meet or fit together; combine.",
+      "examples": [
+        "the show marries poetry with art",
+        "the two halves are trimmed and married up"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing surprise, indignation, or emphatic assertion."
+    }
+  ],
+  "phrases": [
+    "I'm not the marrying kind",
+    "These findings may help marriage-minded women identify the men who are most likely to be the marrying kind.",
+    "She isn't the marrying kind. If you knew her, she'd be nice to you till she got a good chance to flay you alive.",
+    "Ashley is the marrying kind, Elaine is not, and she has denied his five proposals.",
+    "They just… neither seemed to be the marrying kind."
+  ],
+  "origin": "Late Middle English: variant of Mary.",
+  "pronounciation": "/ˈmɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/marry_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "prefix": [
+    {
+      "description": "(added to nouns) forming verbs expressing entry into the specified state or location.",
+      "examples": [
+        "engulf",
+        "embed"
+      ]
+    },
+    {
+      "description": "(added to nouns and adjectives) forming verbs expressing conversion into the specified state as in encrust, ennoble, or (in combination with the suffix -en) embolden, enliven."
+    },
+    {
+      "description": "(added to verbs) in; into; on.",
+      "examples": [
+        "ensnare"
+      ]
+    }
+  ],
+  "origin": "From Greek.",
+  "pronounciation": "/ɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/en_1_us_1.mp3"
+}

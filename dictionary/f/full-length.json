@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Of the standard length.",
+      "examples": [
+        "a full-length Disney cartoon"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "(of a person) with the body lying stretched out and flat.",
+      "examples": [
+        "Lucy flung herself full length on the floor"
+      ],
+      "synonyms": [
+        "full length",
+        "length of time",
+        "time",
+        "time span",
+        "time scale",
+        "period",
+        "term",
+        "span",
+        "spell",
+        "stretch",
+        "fullness",
+        "length",
+        "extent",
+        "continuation",
+        "continuance",
+        "perpetuation",
+        "prolongation"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌfo͝olˈleNGTH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/full_length_1_us_1.mp3"
+}

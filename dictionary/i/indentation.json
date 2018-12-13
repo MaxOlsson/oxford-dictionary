@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The action of indenting or the state of being indented.",
+      "examples": [
+        "paragraphs are marked off by indentation",
+        "an indentation for each change of speaker"
+      ]
+    },
+    {
+      "description": "A deep recess or notch on the edge or surface of something.",
+      "examples": [
+        "the indentation between the upper lip and the nose"
+      ],
+      "synonyms": [
+        "hollow",
+        "depression",
+        "dent",
+        "dint",
+        "cavity",
+        "concavity",
+        "dip",
+        "pit",
+        "trough",
+        "crater"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪndɛnˈteɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indentation_us_1.mp3"
+}

@@ -1,0 +1,97 @@
+{
+  "verb": [
+    {
+      "description": "Remain alive.",
+      "examples": [
+        "the doctors said she had only six months to live",
+        "both cats lived to a ripe age"
+      ]
+    },
+    {
+      "description": "Make one's home in a particular place or with a particular person.",
+      "examples": [
+        "I've lived in New England all my life",
+        "they lived with his grandparents"
+      ],
+      "synonyms": [
+        "reside",
+        "have one's home",
+        "have one's residence",
+        "be settled"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not dead or inanimate; living.",
+      "examples": [
+        "live animals",
+        "the number of live births and deaths"
+      ],
+      "synonyms": [
+        "living",
+        "alive",
+        "having life",
+        "breathing"
+      ]
+    },
+    {
+      "description": "Relating to a musical performance given in concert, not on a recording.",
+      "examples": [
+        "there is traditional live music played most nights",
+        "a live album"
+      ]
+    },
+    {
+      "description": "(of a wire or device) connected to a source of electric current.",
+      "synonyms": [
+        "electrified",
+        "charged",
+        "powered",
+        "connected",
+        "active",
+        "switched on"
+      ]
+    },
+    {
+      "description": "(of a question or subject) of current or continuing interest and importance.",
+      "examples": [
+        "the future organization of Europe has become a live issue"
+      ],
+      "synonyms": [
+        "topical",
+        "current",
+        "of current interest",
+        "contemporary"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "As or at an actual event or performance.",
+      "examples": [
+        "the match will be televised live"
+      ]
+    }
+  ],
+  "phrases": [
+    "good Lord, Jack Stone, as I live and breathe!",
+    "Well, well, as I live and breathe, it's Nellie.",
+    "Well, well, she said, Malak Harr, as I live and breathe.",
+    "Dawn Tinsley, as I live and breathe…",
+    "Well, as I live and breathe… if it ain't Hallie Lennox, he said in an unmistakable Savannah drawl.",
+    "It had taken two full years for me to live that episode down.",
+    "One guy left his house keys in my bedroom one Christmas Eve and never lived it down since.",
+    "Let's just hope I get it right or I'll never live it down!",
+    "I was never, ever allowed to live the incident down by my housemates, who took great delight in reciting it to everyone who came round for the rest of the year.",
+    "He'd never live it down if he turned up at the park wearing purple.",
+    "The new Cambridge Journals Online system went live in October 2000.",
+    "The University of Liverpool today unveiled a new supercomputer cluster which is expected to be one of the World's 100 most powerful systems when it goes live next month.",
+    "Six months later, in June 2001, our new Web site went live.",
+    "In almost every case, the client would be better off waiting until the application goes live before testing, rather than testing an incomplete ensemble of code and components.",
+    "After the system has gone live, the consultants continue to train the users while they're doing their jobs."
+  ],
+  "origin": "Mid 16th century: shortening of alive.",
+  "pronounciation": "/līv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/live_us_2.mp3"
+}

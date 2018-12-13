@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking brightness or interest; drearily dull.",
+      "examples": [
+        "the landscape was drab and gray",
+        "her drab suburban existence"
+      ],
+      "synonyms": [
+        "colourless",
+        "grey",
+        "greyish",
+        "dull",
+        "dull-coloured",
+        "washed out",
+        "neutral",
+        "pale",
+        "muted",
+        "lacklustre",
+        "lustreless",
+        "muddy",
+        "watery"
+      ]
+    },
+    {
+      "description": "Of a dull light brown color.",
+      "examples": [
+        "drab camouflage uniforms"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Fabric of a dull brownish color."
+    }
+  ],
+  "origin": "Early 16th century: perhaps related to Low German drabbe mire and Dutch drab dregs.",
+  "pronounciation": "/dræb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drab_us_1.mp3"
+}

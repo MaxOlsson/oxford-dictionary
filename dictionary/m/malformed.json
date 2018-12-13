@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or part of the body) abnormally formed; misshapen.",
+      "examples": [
+        "her ribs are malformed"
+      ],
+      "synonyms": [
+        "deformed",
+        "distorted",
+        "crooked",
+        "contorted",
+        "wry",
+        "misshapen",
+        "twisted",
+        "warped",
+        "out of shape",
+        "bent",
+        "bandy",
+        "skewed",
+        "asymmetrical",
+        "irregular",
+        "misproportioned",
+        "ill-proportioned",
+        "ill-shaped",
+        "disfigured",
+        "hunchbacked",
+        "abnormal",
+        "grotesque",
+        "monstrous"
+      ]
+    }
+  ],
+  "pronounciation": "/malˈfôrmd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malformed_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Of a minimum amount, quantity, or degree; negligible.",
+      "examples": [
+        "production costs are minimal",
+        "a minimal amount of information"
+      ],
+      "synonyms": [
+        "very little",
+        "minimum",
+        "the smallest amount of"
+      ]
+    },
+    {
+      "description": "Characterized by the use of simple or primary forms or structures, especially geometric or massive ones."
+    },
+    {
+      "description": "Characterized by the repetition and gradual alteration of short phrases."
+    },
+    {
+      "description": "(of a pair of forms) distinguished by only one feature.",
+      "examples": [
+        "“p” and “b” are a minimal pair, distinguished by the feature of voicing"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin minimus smallest + -al.",
+  "pronounciation": "/ˈminəməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/minimal_us_1.mp3"
+}

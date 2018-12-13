@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A varied mixture of people or things; a miscellany.",
+      "examples": [
+        "an interesting medley of flavors"
+      ],
+      "synonyms": [
+        "assortment",
+        "miscellany",
+        "mixture",
+        "melange",
+        "blend",
+        "variety",
+        "mixed bag",
+        "mix",
+        "diversity",
+        "collection",
+        "selection",
+        "assemblage",
+        "combination",
+        "motley collection",
+        "pot-pourri",
+        "conglomeration",
+        "jumble",
+        "mess",
+        "confusion",
+        "mishmash",
+        "hotchpotch",
+        "hodgepodge",
+        "ragbag",
+        "pastiche",
+        "patchwork",
+        "farrago",
+        "hash"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Mixed; motley.",
+      "examples": [
+        "a medley range of vague and variable impressions"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a medley of; intermix."
+    }
+  ],
+  "origin": "Middle English (denoting hand-to-hand combat, also cloth made of variegated wool): from Old French medlee, variant of meslee melee, based on medieval Latin misculare to mix; compare with meddle.",
+  "pronounciation": "/ˈmedlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/medley_us_1.mp3"
+}

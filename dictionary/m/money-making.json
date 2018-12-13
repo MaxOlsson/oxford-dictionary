@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Producing a profit, especially with little effort; profitable.",
+      "examples": [
+        "he hit on an unusual money-making scheme"
+      ],
+      "synonyms": [
+        "profitable",
+        "profit-making",
+        "remunerative",
+        "lucrative",
+        "gainful",
+        "paying",
+        "successful",
+        "financially rewarding",
+        "productive",
+        "thriving",
+        "going"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of earning a lot of money.",
+      "examples": [
+        "this cynical exercise in moneymaking"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈməniˌmeɪkɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/money_making_1_us_1.mp3"
+}

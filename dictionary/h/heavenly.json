@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Of heaven; divine.",
+      "examples": [
+        "heavenly Father"
+      ],
+      "synonyms": [
+        "divine",
+        "holy",
+        "celestial",
+        "godlike",
+        "godly",
+        "angelic",
+        "seraphic",
+        "cherubic",
+        "blessed",
+        "blest",
+        "beatific",
+        "immortal"
+      ]
+    },
+    {
+      "description": "Of the heavens or sky.",
+      "examples": [
+        "heavenly constellations"
+      ],
+      "synonyms": [
+        "celestial",
+        "cosmic",
+        "stellar"
+      ]
+    },
+    {
+      "description": "Very pleasing; wonderful.",
+      "examples": [
+        "their shampoos smell heavenly",
+        "it was a heavenly morning for a ride"
+      ],
+      "synonyms": [
+        "delightful",
+        "wonderful",
+        "marvellous",
+        "glorious",
+        "perfect",
+        "excellent",
+        "ideal",
+        "superb",
+        "sublime",
+        "idyllic",
+        "first-class",
+        "first-rate"
+      ]
+    }
+  ],
+  "origin": "Old English heofonlic (see heaven, -ly).",
+  "pronounciation": "/ˈhevənlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heavenly_us_1.mp3"
+}

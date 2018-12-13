@@ -1,0 +1,232 @@
+{
+  "verb": [
+    {
+      "description": "Intend to convey, indicate, or refer to (a particular thing or notion); signify.",
+      "examples": [
+        "I don't know what you mean",
+        "he was asked to clarify what his remarks meant",
+        "I meant you, not Jones"
+      ],
+      "synonyms": [
+        "signify",
+        "convey",
+        "denote",
+        "designate",
+        "indicate",
+        "connote",
+        "show",
+        "express",
+        "spell out",
+        "stand for",
+        "represent",
+        "symbolize",
+        "imply",
+        "purport",
+        "suggest",
+        "allude to",
+        "intimate",
+        "hint at",
+        "insinuate",
+        "drive at",
+        "refer to"
+      ]
+    },
+    {
+      "description": "Intend (something) to occur or be the case.",
+      "examples": [
+        "they mean no harm",
+        "it was meant to be a secret"
+      ],
+      "synonyms": [
+        "intend",
+        "aim",
+        "plan",
+        "design",
+        "have in mind",
+        "have in view",
+        "contemplate",
+        "think of",
+        "purpose",
+        "propose",
+        "have plans",
+        "set out",
+        "aspire",
+        "desire",
+        "want",
+        "wish",
+        "expect"
+      ]
+    },
+    {
+      "description": "Have as a consequence or result.",
+      "examples": [
+        "the proposals are likely to mean another hundred closures",
+        "heavy rain meant that the ground was waterlogged"
+      ],
+      "synonyms": [
+        "entail",
+        "involve",
+        "necessitate",
+        "lead to",
+        "result in",
+        "give rise to",
+        "bring about",
+        "cause",
+        "engender",
+        "produce",
+        "effect"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Unwilling to give or share things, especially money; not generous.",
+      "examples": [
+        "she felt mean not giving a tip",
+        "they're not mean with the garlic"
+      ],
+      "synonyms": [
+        "miserly",
+        "niggardly",
+        "close-fisted",
+        "parsimonious",
+        "penny-pinching",
+        "cheese-paring",
+        "ungenerous",
+        "penurious",
+        "illiberal",
+        "close",
+        "grasping",
+        "greedy",
+        "avaricious",
+        "acquisitive",
+        "scrooge-like"
+      ]
+    },
+    {
+      "description": "Unkind, spiteful, or unfair.",
+      "examples": [
+        "it was very mean of me",
+        "she is always mean to my little brother"
+      ],
+      "synonyms": [
+        "unkind",
+        "nasty",
+        "spiteful",
+        "foul",
+        "malicious",
+        "malevolent",
+        "despicable",
+        "contemptible",
+        "obnoxious",
+        "vile",
+        "odious",
+        "loathsome",
+        "disagreeable",
+        "unpleasant",
+        "unfriendly",
+        "uncharitable",
+        "shabby",
+        "unfair",
+        "callous",
+        "cruel",
+        "vicious",
+        "base",
+        "low"
+      ]
+    },
+    {
+      "description": "(especially of a place) poor in quality and appearance; shabby.",
+      "examples": [
+        "her home was mean and small"
+      ],
+      "synonyms": [
+        "squalid",
+        "shabby",
+        "dilapidated",
+        "sordid",
+        "seedy",
+        "slummy",
+        "sleazy",
+        "insalubrious",
+        "poor",
+        "sorry",
+        "wretched",
+        "dismal",
+        "dingy",
+        "miserable",
+        "mangy",
+        "broken-down",
+        "run down",
+        "down at heel"
+      ]
+    },
+    {
+      "description": "Excellent; very skillful or effective.",
+      "examples": [
+        "he's a mean cook",
+        "she dances a mean Charleston"
+      ],
+      "synonyms": [
+        "excellent",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "fine",
+        "wonderful",
+        "outstanding",
+        "exceptional",
+        "formidable",
+        "first-class",
+        "first-rate",
+        "virtuoso",
+        "skilful",
+        "masterful",
+        "masterly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The value obtained by dividing the sum of several quantities by their number; an average.",
+      "examples": [
+        "acid output was calculated by taking the mean of all three samples"
+      ]
+    },
+    {
+      "description": "A condition, quality, or course of action equally removed from two opposite (usually unsatisfactory) extremes.",
+      "examples": [
+        "the mean between two extremes"
+      ],
+      "synonyms": [
+        "middle course",
+        "middle way",
+        "mid point",
+        "central point",
+        "middle",
+        "happy medium",
+        "golden mean",
+        "compromise",
+        "balance",
+        "median",
+        "norm",
+        "average"
+      ]
+    }
+  ],
+  "phrases": [
+    "I mean, it's not as if I owned property",
+    "By today, I mean the date at the bottom of the page, not the day I'm writing this, or whenever you may be reading it.",
+    "It's the least you can do for her, I mean, she let us in her house in the middle of the night.",
+    "She had four children, so I mean obviously four times she did have some kind of bodily intimacy.",
+    "I had to do something, I mean, I didn't want him to not have fun because of me.",
+    "it was no mean feat",
+    "It is also very well recorded and that is no mean achievement.",
+    "They were holding their own which was no mean feat.",
+    "This is no mean feat, considering the size and relative complexity of the cast.",
+    "Physically imposing and capable of more than one facial expression, he even holds his own in the fight scenes, no mean feat given the martial calibre of the cast."
+  ],
+  "origin": "Middle English: from Old French meien, from Latin medianus middle (see median).",
+  "pronounciation": "/min/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mean_us_1.mp3"
+}

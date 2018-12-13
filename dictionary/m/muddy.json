@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Covered in or full of mud.",
+      "examples": [
+        "they changed their muddy boots",
+        "it was very muddy underfoot"
+      ],
+      "synonyms": [
+        "mud-caked",
+        "mud-spattered",
+        "muddied",
+        "dirty",
+        "filthy",
+        "mucky",
+        "grubby",
+        "grimy",
+        "soiled",
+        "begrimed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to become covered in or full of mud.",
+      "examples": [
+        "the linoleum floor was muddied",
+        "cold, muddied feet"
+      ],
+      "synonyms": [
+        "make muddy",
+        "cake with dirt",
+        "cake with mud",
+        "dirty",
+        "soil",
+        "begrime",
+        "grime",
+        "mire",
+        "spatter",
+        "bespatter"
+      ]
+    }
+  ],
+  "phrases": [
+    "I'm bound to say that I can't see the difference, and suspect he wants to muddy the waters and befuddle the voters.",
+    "When, however, they begin competing with each other to offer large sums of money as inducements to potential witnesses, they are muddying the waters of justice rather than clarifying them.",
+    "Obviously, the Republicans read the same polls as Democrats, and will try to muddy the waters on key issues like education and Social Security.",
+    "If anything, it has served to only further muddy the waters.",
+    "Indonesia's economic collapse only served to muddy the waters."
+  ],
+  "pronounciation": "/ˈmədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/muddy_us_1.mp3"
+}

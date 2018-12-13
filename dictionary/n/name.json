@@ -1,0 +1,89 @@
+{
+  "noun": [
+    {
+      "description": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+      "examples": [
+        "my name is Parsons, John Parsons",
+        "Köln is the German name for Cologne"
+      ],
+      "synonyms": [
+        "title",
+        "denomination",
+        "designation",
+        "honorific",
+        "tag",
+        "epithet",
+        "label"
+      ]
+    },
+    {
+      "description": "A famous person.",
+      "examples": [
+        "as usual, the big race will lure the top names"
+      ],
+      "synonyms": [
+        "celebrity",
+        "star",
+        "superstar",
+        "vip",
+        "famous person",
+        "important person",
+        "leading light",
+        "celebutante",
+        "big name",
+        "luminary",
+        "mogul",
+        "person of note",
+        "dignitary",
+        "personage",
+        "worthy"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a name to.",
+      "examples": [
+        "hundreds of diseases had not yet been isolated or named",
+        "she named the child Edward"
+      ],
+      "synonyms": [
+        "called",
+        "by the name of",
+        "baptized",
+        "christened",
+        "known as",
+        "under the name of"
+      ]
+    },
+    {
+      "description": "Specify (an amount, time, or place) as something desired, suggested, or decided on.",
+      "examples": [
+        "he showed them the picture and named a price"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person or commercial product) having a name that is widely known.",
+      "examples": [
+        "countless specialized name brands geared to niche markets"
+      ]
+    }
+  ],
+  "phrases": [
+    "ask for the street by name",
+    "As you may have noticed, I did not mention by name the venue in question for fear of legal action.",
+    "Familiar faces hove into view and the barman greets me by name even though I've not been here for eight months.",
+    "The head of state has called for me by name, but I don't have time for him.",
+    "The Full Court in the present case did so by naming the applicant by identifiers and not by name.",
+    "Nathaniel was named after his maternal grandfather",
+    "Ricksburg, Idaho, was named for one Thomas Ricks",
+    "How about naming some theater for George S. Kaufman?",
+    "I've even gone so far as to reaffirm my father's life by naming my son after him.",
+    "Seriously, who names their daughter after a piece of fruit?"
+  ],
+  "origin": "Old English nama, noma (noun), (ge)namian (verb), of Germanic origin; related to Dutch naam and German Name, from a root shared by Latin nomen and Greek onoma.",
+  "pronounciation": "/nām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/name_us_1.mp3"
+}

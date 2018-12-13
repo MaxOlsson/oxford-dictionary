@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Light up.",
+      "examples": [
+        "a flash of lightning illuminated the house",
+        "his face was illuminated by a smile"
+      ],
+      "synonyms": [
+        "light",
+        "light up",
+        "throw light on",
+        "cast light upon",
+        "brighten",
+        "make brighter",
+        "shine on",
+        "flood with light",
+        "floodlight",
+        "irradiate"
+      ]
+    },
+    {
+      "description": "Decorate (a page or initial letter in a manuscript) with gold, silver, or colored designs.",
+      "synonyms": [
+        "decorate",
+        "illustrate",
+        "embellish",
+        "adorn",
+        "ornament",
+        "enhance",
+        "emblazon",
+        "highlight"
+      ]
+    },
+    {
+      "description": "Help to clarify or explain (a subject or matter)",
+      "examples": [
+        "a most illuminating discussion"
+      ],
+      "synonyms": [
+        "clarify",
+        "elucidate",
+        "explain",
+        "reveal",
+        "make clear",
+        "shed light on",
+        "cast light on",
+        "give insight into",
+        "clear up"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin illuminat- illuminated, from the verb illuminare, from in- upon + lumen, lumin- light.",
+  "pronounciation": "/ɪˈluməˌneɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/illuminate_us_1.mp3"
+}

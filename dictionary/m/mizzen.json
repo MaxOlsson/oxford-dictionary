@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The mast aft of a ship's mainmast.",
+      "synonyms": [
+        "spar",
+        "boom",
+        "yard",
+        "gaff",
+        "foremast",
+        "mainmast",
+        "topmast",
+        "mizzenmast",
+        "royal mast"
+      ]
+    },
+    {
+      "description": "The lowest sail on a mizzenmast.",
+      "examples": [
+        "mizzen yard"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Italian mezzana mizzensail, feminine (used as a noun) of mezzano middle, from Latin medianus (see median).",
+  "pronounciation": "/ˈmizən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mizzen_us_1.mp3"
+}

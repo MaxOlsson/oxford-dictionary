@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Be suspicious of; have no confidence in.",
+      "examples": [
+        "she had no cause to mistrust him"
+      ],
+      "synonyms": [
+        "be suspicious of",
+        "be mistrustful of",
+        "be distrustful of",
+        "be sceptical of",
+        "be wary of",
+        "be chary of",
+        "harbour suspicions about",
+        "be uneasy about",
+        "distrust",
+        "have doubts about",
+        "have misgivings about",
+        "have reservations about",
+        "have qualms about",
+        "suspect",
+        "wonder about"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Lack of trust; suspicion.",
+      "examples": [
+        "the public mistrust of government"
+      ],
+      "synonyms": [
+        "suspicion",
+        "distrust",
+        "doubt",
+        "misgivings",
+        "wariness",
+        "circumspection"
+      ]
+    }
+  ],
+  "pronounciation": "/mɪsˈtrəst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mistrust_us_1.mp3"
+}

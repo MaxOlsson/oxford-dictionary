@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of a cat or some kinds of bird) make a characteristic high-pitched crying noise.",
+      "examples": [
+        "a throng of cats and kittens mewing to be fed"
+      ],
+      "synonyms": [
+        "miaow",
+        "meow",
+        "mewl",
+        "yowl",
+        "cry"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The high-pitched crying noise made by a cat or bird.",
+      "examples": [
+        "a kitten's mew"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French mue, from muer to molt, from Latin mutare to change.",
+  "pronounciation": "/mju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mew_us_1.mp3"
+}

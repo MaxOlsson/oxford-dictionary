@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Manage or deal with (something) wrongly or ineffectively.",
+      "examples": [
+        "the officer had mishandled the situation"
+      ],
+      "synonyms": [
+        "botch",
+        "bungle",
+        "fluff",
+        "fumble",
+        "make a mess of"
+      ]
+    },
+    {
+      "description": "Manipulate roughly or carelessly.",
+      "examples": [
+        "the equipment could be dangerous if mishandled"
+      ],
+      "synonyms": [
+        "misuse",
+        "abuse",
+        "use inexpertly",
+        "misapply",
+        "handle roughly",
+        "treat roughly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmɪsˈhænd(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mishandle_us_1.mp3"
+}

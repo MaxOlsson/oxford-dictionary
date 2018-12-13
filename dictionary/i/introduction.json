@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "The action of introducing something.",
+      "examples": [
+        "issues arising from the introduction of new technology",
+        "the introduction of muskrats into central Europe"
+      ],
+      "synonyms": [
+        "institution",
+        "establishment",
+        "initiation",
+        "launch",
+        "inauguration",
+        "foundation",
+        "instigation"
+      ]
+    },
+    {
+      "description": "A formal presentation of one person to another, in which each is told the other's name.",
+      "examples": [
+        "he returned to his desk, leaving Michael to make the introductions",
+        "a letter of introduction"
+      ],
+      "synonyms": [
+        "presentation",
+        "formal presentation"
+      ]
+    },
+    {
+      "description": "A thing preliminary to something else, especially an explanatory section at the beginning of a book, report, or speech.",
+      "examples": [
+        "your talk will need an introduction that states clearly what you are talking about and why"
+      ],
+      "synonyms": [
+        "foreword",
+        "preface",
+        "preamble",
+        "prologue",
+        "prelude",
+        "front matter",
+        "lead-in"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin introductio(n-), from the verb introducere (see introduce).",
+  "pronounciation": "/ˌintrəˈdəkSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/introduction_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "Make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it.",
+      "synonyms": [
+        "hammer out",
+        "beat into shape",
+        "found",
+        "cast",
+        "mould",
+        "model"
+      ]
+    },
+    {
+      "description": "Create (a relationship or new conditions)",
+      "examples": [
+        "the two women forged a close bond",
+        "the country is forging a bright new future"
+      ],
+      "synonyms": [
+        "build",
+        "build up",
+        "construct",
+        "form",
+        "create",
+        "establish",
+        "set up",
+        "put together"
+      ]
+    },
+    {
+      "description": "Produce a copy or imitation of (a document, signature, banknote, or work or art) for the purpose of deception.",
+      "synonyms": [
+        "fake",
+        "faked",
+        "false",
+        "counterfeit",
+        "imitation",
+        "reproduction",
+        "replica",
+        "copied"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A blacksmith's workshop; a smithy."
+    }
+  ],
+  "origin": "Mid 18th century: perhaps an aberrant pronunciation of force.",
+  "phrases": [
+    "Beckingsale attacked on the strength sapping drag on lap 5 and only Stander could match him and together they forged ahead of the chasing trio.",
+    "the government is forging ahead with reforms",
+    "But local leaders are forging ahead with the stadium plan, no matter how many holes it has in it, with or without public support.",
+    "All are forging ahead with alternative fuel technologies.",
+    "Professors, recognizing their students' needs, either forged new and relevant material into their courses or steadfastly forged ahead with their planned syllabus."
+  ],
+  "pronounciation": "/fôrj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/forge_us_1.mp3"
+}

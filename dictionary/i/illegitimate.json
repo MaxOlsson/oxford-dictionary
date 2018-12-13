@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not authorized by the law; not in accordance with accepted standards or rules.",
+      "examples": [
+        "an illegitimate exercise of power by the military"
+      ],
+      "synonyms": [
+        "illegal",
+        "unlawful",
+        "illicit",
+        "against the law",
+        "criminal",
+        "lawbreaking",
+        "actionable",
+        "felonious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is illegitimate by birth."
+    }
+  ],
+  "origin": "Mid 16th century: from late Latin illegitimus (from in- not + legitimus lawful), suggested by legitimate.",
+  "pronounciation": "/ˌiləˈjidəmət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/illegitimate_us_1.mp3"
+}

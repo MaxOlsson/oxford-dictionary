@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An area of muddy or boggy ground.",
+      "synonyms": [
+        "quagmire",
+        "swamp",
+        "bog",
+        "marsh",
+        "mire",
+        "quag",
+        "marshland",
+        "peat bog",
+        "fen",
+        "slough",
+        "quicksand"
+      ]
+    },
+    {
+      "description": "A complicated or confused situation.",
+      "examples": [
+        "she would become lost in a morass of lies and explanations"
+      ],
+      "synonyms": [
+        "confusion",
+        "chaos",
+        "muddle",
+        "tangle",
+        "entanglement",
+        "imbroglio",
+        "mix-up",
+        "jumble",
+        "clutter"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Dutch moeras, alteration (by assimilation to moer moor) of Middle Dutch marasch, from Old French marais marsh, from medieval Latin mariscus.",
+  "pronounciation": "/məˈræs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/morass_us_1.mp3"
+}

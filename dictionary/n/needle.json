@@ -1,0 +1,85 @@
+{
+  "noun": [
+    {
+      "description": "A very fine slender piece of metal with a point at one end and a hole or eye for thread at the other, used in sewing."
+    },
+    {
+      "description": "The pointed hollow end of a hypodermic syringe."
+    },
+    {
+      "description": "A thin pointer on a dial, compass, or other instrument.",
+      "synonyms": [
+        "indicator",
+        "pointer",
+        "marker",
+        "arrow",
+        "hand"
+      ]
+    },
+    {
+      "description": "A stylus used to play phonograph records.",
+      "synonyms": [
+        "stylus"
+      ]
+    },
+    {
+      "description": "The sharp, stiff, slender leaf of a fir or pine tree.",
+      "synonyms": [
+        "frond"
+      ]
+    },
+    {
+      "description": "A pointed rock or peak.",
+      "synonyms": [
+        "top",
+        "peak",
+        "mountaintop",
+        "crest",
+        "crown",
+        "apex",
+        "vertex",
+        "apogee",
+        "tip",
+        "cap"
+      ]
+    },
+    {
+      "description": "A beam used as a temporary support during underpinning."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Prick or pierce (something) with or as if with a needle.",
+      "examples": [
+        "dust needled his eyes"
+      ]
+    },
+    {
+      "description": "Provoke or annoy (someone) by continual criticism or questioning.",
+      "examples": [
+        "I just said that to Charlie to needle him"
+      ],
+      "synonyms": [
+        "goad",
+        "provoke",
+        "bait",
+        "taunt",
+        "pester",
+        "harass",
+        "prick",
+        "prod",
+        "sting"
+      ]
+    }
+  ],
+  "phrases": [
+    "His heart in smashed into pieces so small they could pass through the eye of a needle.",
+    "An army of tiny red eyes met him, none larger than the eye of a needle.",
+    "I mean, if a camel can pass through the eye of a needle, anything's possible, right?",
+    "I'd just as soon pass through the eye of a needle.",
+    "In reality, however, it may be easier for a camel to pass through the eye of a needle than for bloggers to deliver you the election."
+  ],
+  "origin": "Old English nǣdl, of Germanic origin; related to Dutch naald and German Nadel, from an Indo-European root shared by Latin nere to spin and Greek nēma thread.",
+  "pronounciation": "/ˈnēdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/needle_us_1.mp3"
+}

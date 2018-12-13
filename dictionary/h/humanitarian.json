@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Concerned with or seeking to promote human welfare.",
+      "examples": [
+        "groups sending humanitarian aid",
+        "a humanitarian organization"
+      ],
+      "synonyms": [
+        "compassionate",
+        "humane"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who seeks to promote human welfare; a philanthropist.",
+      "synonyms": [
+        "philanthropist",
+        "altruist",
+        "benefactor",
+        "social reformer",
+        "do-gooder",
+        "good samaritan"
+      ]
+    }
+  ],
+  "pronounciation": "/(h)juˌmænəˈtɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/humanitarian_us_2.mp3"
+}

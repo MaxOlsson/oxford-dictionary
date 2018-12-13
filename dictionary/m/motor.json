@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "A machine, especially one powered by electricity or internal combustion, that supplies motive power for a vehicle or for some other device with moving parts.",
+      "synonyms": [
+        "apparatus",
+        "appliance",
+        "instrument",
+        "tool",
+        "utensil",
+        "device",
+        "unit",
+        "contraption",
+        "contrivance",
+        "gadget",
+        "mechanism",
+        "engine",
+        "lever",
+        "pulley"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Giving, imparting, or producing motion or action.",
+      "examples": [
+        "demand is the principle motor force governing economic activity"
+      ],
+      "synonyms": [
+        "kinetic",
+        "driving",
+        "impelling",
+        "propelling",
+        "propulsive",
+        "operative",
+        "moving"
+      ]
+    },
+    {
+      "description": "Driven by a motor."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel in a motor vehicle, typically a car or a boat.",
+      "examples": [
+        "we motored along a narrow road",
+        "we motored out of Breton Bay to begin our return trip down the Potomac"
+      ],
+      "synonyms": [
+        "hurtle",
+        "speed",
+        "career",
+        "shoot",
+        "streak",
+        "sweep",
+        "hare",
+        "fly",
+        "wing"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a person who imparts motion): from Latin, literally mover, based on movere to move. The current sense of the noun dates from the mid 19th century.",
+  "pronounciation": "/ˈmoʊdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/motor_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "(of a moving ship or aircraft) twist or oscillate about a vertical axis.",
+      "examples": [
+        "the jet yawed sharply to the right"
+      ],
+      "synonyms": [
+        "swerve",
+        "swing",
+        "veer",
+        "slew",
+        "skew",
+        "change course",
+        "drift"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A twisting or oscillation of a moving ship or aircraft around a vertical axis."
+    }
+  ],
+  "origin": "Mid 16th century: of unknown origin.",
+  "pronounciation": "/yô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yaw_us_2.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "combining form": [
+    {
+      "description": "Denoting a change of position or condition.",
+      "examples": [
+        "metamorphosis",
+        "metathesis"
+      ]
+    },
+    {
+      "description": "Denoting position behind, after, or beyond.",
+      "examples": [
+        "metacarpus"
+      ]
+    },
+    {
+      "description": "Denoting something of a higher or second-order kind.",
+      "examples": [
+        "metalanguage",
+        "metonym"
+      ]
+    },
+    {
+      "description": "Denoting substitution at two carbon atoms separated by one other in a benzene ring, e.g. in 1,3 positions.",
+      "examples": [
+        "metadichlorobenzene"
+      ]
+    },
+    {
+      "description": "Denoting a compound formed by dehydration.",
+      "examples": [
+        "metaphosphoric acid"
+      ]
+    }
+  ],
+  "origin": "From Greek meta with, across, or after.",
+  "pronounciation": "/ˌmɛtə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meta_1_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A subway system in a city, especially Paris.",
+      "synonyms": [
+        "underground railway"
+      ]
+    },
+    {
+      "description": "A major city or metropolitan region.",
+      "examples": [
+        "auditions were held in all major metros of the country"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Metropolitan.",
+      "examples": [
+        "the Detroit metro area"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from French métro, abbreviation of métropolitain (from Chemin de Fer Métropolitain Metropolitan Railway).",
+  "pronounciation": "/ˈmɛtroʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/metro_1_us_2.mp3"
+}

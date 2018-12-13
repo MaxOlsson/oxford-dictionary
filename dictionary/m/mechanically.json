@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "By means of a machine or machinery.",
+      "examples": [
+        "the rice is harvested mechanically",
+        "a mechanically propelled vehicle"
+      ]
+    },
+    {
+      "description": "Without thought or spontaneity; automatically.",
+      "examples": [
+        "the words are repeated mechanically",
+        "I nodded mechanically"
+      ]
+    }
+  ],
+  "pronounciation": "/məˈkænək(ə)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mechanically_us_1.mp3"
+}

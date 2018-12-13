@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A movement or series of moves requiring skill and care.",
+      "examples": [
+        "spectacular jumps and other daring maneuvers"
+      ],
+      "synonyms": [
+        "operation",
+        "exercise",
+        "activity",
+        "move",
+        "movement",
+        "action"
+      ]
+    },
+    {
+      "description": "A large-scale military exercise of troops, warships, and other forces.",
+      "examples": [
+        "the Russian vessel was on maneuvers"
+      ],
+      "synonyms": [
+        "training exercises",
+        "exercises",
+        "war games",
+        "operations"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move skillfully or carefully.",
+      "examples": [
+        "the truck was unable to maneuver comfortably in the narrow street",
+        "I'm maneuvering a loaded tray around the floor"
+      ],
+      "synonyms": [
+        "steer",
+        "guide",
+        "drive",
+        "negotiate",
+        "navigate",
+        "pilot",
+        "direct",
+        "manipulate",
+        "move",
+        "work",
+        "jockey"
+      ]
+    },
+    {
+      "description": "Carefully guide or manipulate (someone or something) in order to achieve an end.",
+      "examples": [
+        "they were maneuvering him into a betrayal of his countryman"
+      ],
+      "synonyms": [
+        "intrigue",
+        "plot",
+        "scheme",
+        "plan",
+        "lay plans",
+        "conspire",
+        "pull strings"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century (as a noun in the sense tactical movement): from French manœuvre (noun), manœuvrer (verb), from medieval Latin manuoperare from Latin manus hand + operari to work.",
+  "pronounciation": "/məˈnuvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maneuver_us_2.mp3"
+}

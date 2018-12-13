@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "In motion.",
+      "examples": [
+        "a fast-moving river"
+      ],
+      "synonyms": [
+        "in motion",
+        "operating",
+        "operational",
+        "working",
+        "going",
+        "on the move",
+        "active"
+      ]
+    },
+    {
+      "description": "Producing strong emotion, especially sadness or sympathy.",
+      "examples": [
+        "an unforgettable and moving book"
+      ],
+      "synonyms": [
+        "affecting",
+        "touching",
+        "emotive",
+        "poignant",
+        "heart-warming",
+        "heart-rending",
+        "emotional",
+        "upsetting",
+        "disturbing"
+      ]
+    },
+    {
+      "description": "Relating to the process of changing one's residence.",
+      "examples": [
+        "moving expenses"
+      ]
+    },
+    {
+      "description": "Involving a moving vehicle.",
+      "examples": [
+        "tickets for moving violations"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmuvɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moving_us_1.mp3"
+}

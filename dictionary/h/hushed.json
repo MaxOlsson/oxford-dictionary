@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Having a calm and still silence.",
+      "examples": [
+        "he addressed the hushed courtroom"
+      ],
+      "synonyms": [
+        "indistinct",
+        "muffled",
+        "stifled",
+        "muted",
+        "faint",
+        "low",
+        "scarcely audible"
+      ]
+    }
+  ],
+  "pronounciation": "/həʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hushed_us_1.mp3"
+}

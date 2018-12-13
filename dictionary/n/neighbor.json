@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A person living near or next door to the speaker or person referred to.",
+      "examples": [
+        "our garden was the envy of the neighbors"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a place or thing) be situated next to or very near (another)",
+      "examples": [
+        "the square neighbors the old quarter of the town"
+      ],
+      "synonyms": [
+        "adjacent",
+        "nearest",
+        "closest",
+        "next-door",
+        "next",
+        "adjoining",
+        "bordering",
+        "connecting",
+        "abutting",
+        "contiguous",
+        "proximate"
+      ]
+    }
+  ],
+  "origin": "Old English nēahgebūr, from nēah nigh, near + gebūr inhabitant, peasant, farmer (compare with boor).",
+  "pronounciation": "/ˈneɪbər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neighbor_us_1.mp3"
+}

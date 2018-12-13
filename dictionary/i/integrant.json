@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of parts) making up or contributing to a whole; constituent.",
+      "synonyms": [
+        "built-in",
+        "inbuilt",
+        "integrated",
+        "incorporated",
+        "fitted",
+        "component",
+        "constituent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A component.",
+      "examples": [
+        "the scenes function as dramatic integrants"
+      ],
+      "synonyms": [
+        "constituent",
+        "component",
+        "component part",
+        "element"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as an adjective): from French intégrant, from the verb intégrer, from Latin integrare (see integrate).",
+  "pronounciation": "/ˈin(t)əɡrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/integrant_us_1.mp3"
+}

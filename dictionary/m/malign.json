@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "Evil in nature or effect; malevolent.",
+      "examples": [
+        "she had a strong and malign influence"
+      ],
+      "synonyms": [
+        "harmful",
+        "evil",
+        "bad",
+        "baleful",
+        "hostile",
+        "inimical",
+        "destructive",
+        "malevolent",
+        "evil-intentioned",
+        "malignant",
+        "injurious",
+        "spiteful",
+        "malicious",
+        "vicious"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Speak about (someone) in a spitefully critical manner.",
+      "examples": [
+        "don't you dare malign her in my presence"
+      ],
+      "synonyms": [
+        "defame",
+        "slander",
+        "libel",
+        "blacken someone's character",
+        "blacken someone's name",
+        "smear",
+        "run a smear campaign against",
+        "vilify",
+        "speak ill of",
+        "spread lies about",
+        "accuse falsely",
+        "cast aspersions on",
+        "run down",
+        "misrepresent",
+        "calumniate",
+        "traduce",
+        "denigrate",
+        "disparage",
+        "slur",
+        "derogate",
+        "abuse",
+        "revile"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French maligne (adjective), malignier (verb), based on Latin malignus tending to evil, from malus bad.",
+  "pronounciation": "/məˈlaɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malign_us_1.mp3"
+}

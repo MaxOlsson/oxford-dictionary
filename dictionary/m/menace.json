@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that is likely to cause harm; a threat or danger.",
+      "examples": [
+        "a new initiative aimed at beating the menace of drugs",
+        "the snakes are a menace to farm animals"
+      ],
+      "synonyms": [
+        "danger",
+        "peril",
+        "risk",
+        "hazard",
+        "threat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Threaten, especially in a malignant or hostile manner.",
+      "examples": [
+        "Africa's elephants are still menaced by poaching"
+      ],
+      "synonyms": [
+        "threatening",
+        "ominous",
+        "black",
+        "thunderous",
+        "glowering",
+        "brooding",
+        "sinister",
+        "intimidating",
+        "frightening",
+        "terrifying",
+        "fearsome",
+        "mean-looking",
+        "alarming",
+        "forbidding",
+        "baleful",
+        "warning"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from late Latin minacia, from Latin minax, minac- threatening, from minae threats.",
+  "pronounciation": "/ˈmenəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/menace_us_1.mp3"
+}

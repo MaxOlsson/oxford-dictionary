@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A confusion of one thing with another, or a misunderstanding or mistake that results in confusion.",
+      "examples": [
+        "there's a mix-up over the tickets"
+      ],
+      "synonyms": [
+        "confusion",
+        "muddle",
+        "misunderstanding",
+        "mistake",
+        "error",
+        "mess",
+        "jumble"
+      ]
+    },
+    {
+      "description": "A combination of different things, especially one whose effect is inharmonious.",
+      "examples": [
+        "a ghastly mix-up of furniture styles"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmiks ˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mix_up_1_us_1.mp3"
+}

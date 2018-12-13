@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of mutating.",
+      "examples": [
+        "the mutation of cooking into a form of show business",
+        "his first novel went through several mutations"
+      ],
+      "synonyms": [
+        "alteration",
+        "change",
+        "variation",
+        "modification",
+        "transformation",
+        "metamorphosis",
+        "transmutation",
+        "transfiguration",
+        "sea change",
+        "evolution"
+      ]
+    },
+    {
+      "description": "The changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations, caused by the alteration of single base units in DNA, or the deletion, insertion, or rearrangement of larger sections of genes or chromosomes.",
+      "examples": [
+        "mutation is, ultimately, the only way in which new variation enters the species"
+      ],
+      "synonyms": [
+        "alteration",
+        "change",
+        "variation",
+        "modification",
+        "transformation",
+        "metamorphosis",
+        "transmutation",
+        "transfiguration",
+        "sea change",
+        "evolution"
+      ]
+    },
+    {
+      "description": "Regular change of a sound when it occurs adjacent to another."
+    }
+  ],
+  "origin": "Late Middle English: from Latin mutatio(n-), from mutare to change.",
+  "pronounciation": "/myo͞oˈtāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mutation_us_1.mp3"
+}

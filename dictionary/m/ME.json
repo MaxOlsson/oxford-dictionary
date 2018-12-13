@@ -1,0 +1,55 @@
+{
+  "pronoun": [
+    {
+      "description": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+      "examples": [
+        "do you understand me?",
+        "wait for me!"
+      ],
+      "synonyms": [
+        "in secret",
+        "secretly",
+        "in private",
+        "privately",
+        "in confidence",
+        "confidentially",
+        "behind closed doors",
+        "surreptitiously",
+        "discreetly",
+        "furtively",
+        "clandestinely",
+        "on the quiet",
+        "on the sly",
+        "unofficially",
+        "off the record",
+        "between ourselves"
+      ]
+    },
+    {
+      "description": "Used in exclamations.",
+      "examples": [
+        "dear me!",
+        "silly me!"
+      ]
+    }
+  ],
+  "noun": [],
+  "abbreviation": [
+    {
+      "description": "Maine."
+    },
+    {
+      "description": "Maître (title of a French advocate)."
+    }
+  ],
+  "phrases": [
+    "It's the least you can do after all that you and your kind have done to me and mine.",
+    "You know, I could let this turn me bitter and hateful, but that's only affecting me and mine.",
+    "I consider it a great compliment to me and mine that you would consider our family worthy to be joined.",
+    "Any mercenary who comes after me and mine will pay the ultimate price.",
+    "You have led me and mine to the ultimate victory."
+  ],
+  "origin": "1980s: short for myalgic encephalomyelitis or myalgic encephalopathy.",
+  "pronounciation": "/ˈˌɛm ˈi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/m_e_1_us_1_abbr.mp3"
+}

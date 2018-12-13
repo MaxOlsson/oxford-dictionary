@@ -1,0 +1,70 @@
+{
+  "adjective": [
+    {
+      "description": "Not genuine; counterfeit.",
+      "examples": [
+        "fake designer clothing",
+        "expressing fake emotions"
+      ],
+      "synonyms": [
+        "forgery",
+        "counterfeit",
+        "copy",
+        "sham",
+        "fraud",
+        "hoax",
+        "imitation",
+        "mock-up",
+        "dummy",
+        "reproduction",
+        "lookalike",
+        "likeness"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is not genuine; a forgery or sham.",
+      "examples": [
+        "the painting was a fake"
+      ],
+      "synonyms": [
+        "forgery",
+        "counterfeit",
+        "copy",
+        "sham",
+        "fraud",
+        "hoax",
+        "imitation",
+        "mock-up",
+        "dummy",
+        "reproduction",
+        "lookalike",
+        "likeness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Forge or counterfeit (something)",
+      "examples": [
+        "the woman faked her spouse's signature"
+      ],
+      "synonyms": [
+        "forge",
+        "counterfeit",
+        "falsify",
+        "sham",
+        "feign",
+        "mock up",
+        "copy",
+        "reproduce",
+        "replicate"
+      ]
+    }
+  ],
+  "verb &amp; noun": [],
+  "origin": "Late Middle English (as a verb): of unknown origin.",
+  "pronounciation": "/feɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fake_us_1.mp3"
+}

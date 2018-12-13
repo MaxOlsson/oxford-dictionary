@@ -1,0 +1,24 @@
+{
+  "adverb": [
+    {
+      "description": "Not regularly or continuously; intermittently.",
+      "examples": [
+        "he slept fitfully"
+      ],
+      "synonyms": [
+        "intermittently",
+        "sporadically",
+        "spasmodically",
+        "irregularly",
+        "patchily",
+        "discontinuously",
+        "erratically",
+        "by fits and starts",
+        "in fits and starts",
+        "in snatches"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɪtfəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fitfully_us_1.mp3"
+}

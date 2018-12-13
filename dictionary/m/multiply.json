@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Obtain from (a number) another that contains the first number a specified number of times.",
+      "examples": [
+        "I asked you to multiply fourteen by nineteen",
+        "we all know how to multiply by ten"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In several different ways or respects.",
+      "examples": [
+        "multiply injured patients"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French multiplier, from Latin multiplicare.",
+  "pronounciation": "/ˈməltəpli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/multiply_us_2.mp3"
+}

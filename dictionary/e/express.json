@@ -1,0 +1,97 @@
+{
+  "verb": [
+    {
+      "description": "Convey (a thought or feeling) in words or by gestures and conduct.",
+      "examples": [
+        "he expressed complete satisfaction"
+      ],
+      "synonyms": [
+        "communicate",
+        "convey",
+        "indicate",
+        "show",
+        "demonstrate",
+        "reveal",
+        "intimate",
+        "manifest",
+        "make manifest",
+        "exhibit",
+        "evidence",
+        "put across",
+        "put over",
+        "get across",
+        "get over"
+      ]
+    },
+    {
+      "description": "Squeeze out (liquid or air)",
+      "examples": [
+        "she would express her milk using a pump and take it home for her baby"
+      ],
+      "synonyms": [
+        "squeeze out",
+        "press out",
+        "wring out",
+        "force out",
+        "extract",
+        "expel"
+      ]
+    },
+    {
+      "description": "Cause (an inherited characteristic or gene) to appear in a phenotype."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Operating at high speed.",
+      "examples": [
+        "express elevators take you directly to the eighth floor"
+      ],
+      "synonyms": [
+        "rapid",
+        "swift",
+        "fast",
+        "quick",
+        "speedy",
+        "high-speed",
+        "brisk",
+        "flying",
+        "prompt",
+        "expeditious"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "By express train or delivery service.",
+      "examples": [
+        "I got my wife to send my gloves express to the hotel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An express train or other vehicle of public transportation.",
+      "examples": [
+        "we embarked for the south of France on an overnight express"
+      ],
+      "synonyms": [
+        "express train",
+        "fast train",
+        "direct train"
+      ]
+    },
+    {
+      "description": "An overnight or rapid delivery service.",
+      "examples": [
+        "the books arrived by express"
+      ]
+    },
+    {
+      "description": "An express rifle."
+    }
+  ],
+  "origin": "Late Middle English: from Old French expres, from Latin expressus distinctly presented, past participle of exprimere press out, from ex- out + primere press.",
+  "pronounciation": "/ikˈspres/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/express_us_1.mp3"
+}

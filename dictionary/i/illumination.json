@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "Lighting or light.",
+      "examples": [
+        "higher levels of illumination are needed for reading"
+      ],
+      "synonyms": [
+        "light",
+        "lighting",
+        "radiance",
+        "gleam",
+        "glitter",
+        "brilliance",
+        "glow",
+        "glare",
+        "dazzle",
+        "flash",
+        "shimmer"
+      ]
+    },
+    {
+      "description": "The art of illuminating a manuscript.",
+      "synonyms": [
+        "decoration",
+        "illustration",
+        "embellishment",
+        "adornment",
+        "ornamentation"
+      ]
+    },
+    {
+      "description": "Clarification.",
+      "examples": [
+        "these books form the most sustained analysis and illumination of the subject"
+      ],
+      "synonyms": [
+        "clarification",
+        "elucidation",
+        "explanation",
+        "revelation",
+        "explication",
+        "exposition",
+        "exegesis",
+        "rationalization"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from late Latin illuminatio(n-), from the verb illuminare (see illuminate).",
+  "pronounciation": "/ɪˌluməˈneɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/illumination_us_1.mp3"
+}

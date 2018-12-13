@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "An object used to indicate a position, place, or route.",
+      "examples": [
+        "they erected a granite marker at the crash site",
+        "marker posts",
+        "the most portable marker of class privilege, the wearing of natural fibers"
+      ],
+      "synonyms": [
+        "notice",
+        "signpost",
+        "signboard",
+        "warning sign",
+        "road sign",
+        "traffic sign"
+      ]
+    },
+    {
+      "description": "A felt-tip pen with a broad tip."
+    },
+    {
+      "description": "(chiefly in soccer) a player who is assigned to mark a particular opponent."
+    },
+    {
+      "description": "A person who records the score in a game, especially in snooker or billiards.",
+      "synonyms": [
+        "token",
+        "counter",
+        "man",
+        "disc",
+        "chip"
+      ]
+    },
+    {
+      "description": "A promissory note; an IOU.",
+      "examples": [
+        "Phyllis owed a marker in the neighborhood of $100,000"
+      ],
+      "synonyms": [
+        "label",
+        "ticket",
+        "badge",
+        "mark",
+        "tab",
+        "tally",
+        "sticker",
+        "docket",
+        "stub",
+        "chit",
+        "chitty",
+        "counterfoil",
+        "flag",
+        "stamp"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɑrkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/marker_us_1.mp3"
+}

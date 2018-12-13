@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Cause (someone) to feel embarrassed, ashamed, or humiliated.",
+      "examples": [
+        "she was mortified to see her wrinkles in the mirror"
+      ],
+      "synonyms": [
+        "embarrass",
+        "humiliate",
+        "chagrin",
+        "shame",
+        "discomfit",
+        "abash",
+        "horrify",
+        "appal",
+        "crush"
+      ]
+    },
+    {
+      "description": "Subdue (the body or its needs and desires) by self-denial or discipline.",
+      "examples": [
+        "return to heaven by mortifying the flesh"
+      ],
+      "synonyms": [
+        "subdue",
+        "suppress",
+        "subjugate",
+        "control",
+        "restrain",
+        "get under control"
+      ]
+    },
+    {
+      "description": "(of flesh) be affected by gangrene or necrosis.",
+      "examples": [
+        "the cut in Henry's arm had mortified"
+      ],
+      "synonyms": [
+        "become gangrenous",
+        "fester",
+        "putrefy",
+        "gangrene",
+        "rot",
+        "decay",
+        "decompose"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses put to death, deaden, and subdue by self-denial): from Old French mortifier, from ecclesiastical Latin mortificare kill, subdue, from mors, mort- death.",
+  "pronounciation": "/ˈmɔrdəˌfaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortify_us_1.mp3"
+}

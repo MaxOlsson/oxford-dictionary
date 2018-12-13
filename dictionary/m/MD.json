@@ -1,0 +1,54 @@
+{
+  "": [
+    {
+      "description": "The chemical element mendelevium."
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Doctor of Medicine.",
+      "examples": [
+        "he attained the degree of MD"
+      ],
+      "synonyms": [
+        "physician",
+        "medical practitioner",
+        "medical man",
+        "medical woman",
+        "clinician",
+        "doctor of medicine",
+        "md"
+      ]
+    },
+    {
+      "description": "Managing Director.",
+      "examples": [
+        "the MD of a small airline"
+      ]
+    },
+    {
+      "description": "Maryland (in official postal use)."
+    },
+    {
+      "description": "Musical director.",
+      "synonyms": [
+        "administrator",
+        "manager",
+        "chairman",
+        "chairwoman",
+        "chairperson",
+        "chair",
+        "head",
+        "chief",
+        "boss",
+        "principal",
+        "leader",
+        "governor",
+        "president",
+        "premier"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɛm ˈdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/md_us_1.mp3"
+}

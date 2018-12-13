@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of wine) sparkling.",
+      "examples": [
+        "vin mousseux"
+      ],
+      "synonyms": [
+        "effervescent",
+        "fizzy",
+        "carbonated",
+        "aerated",
+        "gassy",
+        "bubbly",
+        "bubbling",
+        "fizzing",
+        "foaming",
+        "frothy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Sparkling wine.",
+      "synonyms": [
+        "champagne",
+        "sparkling wine"
+      ]
+    }
+  ],
+  "origin": "From French, from mousse froth.",
+  "pronounciation": "/mo͞oˈsə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mousseux_us_2.mp3"
+}

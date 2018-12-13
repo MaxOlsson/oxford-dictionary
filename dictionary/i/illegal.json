@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Contrary to or forbidden by law, especially criminal law.",
+      "examples": [
+        "illegal drugs"
+      ],
+      "synonyms": [
+        "unlawful",
+        "illicit",
+        "illegitimate",
+        "against the law",
+        "criminal",
+        "lawbreaking",
+        "actionable",
+        "felonious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person present in a country without official authorization."
+    }
+  ],
+  "origin": "Early 17th century: from French illégal or medieval Latin illegalis, from Latin in- not + legalis according to the law.",
+  "pronounciation": "/ɪ(l)ˈliɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/illegal_us_1.mp3"
+}

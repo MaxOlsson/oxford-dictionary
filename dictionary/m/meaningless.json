@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Having no meaning or significance.",
+      "examples": [
+        "the paragraph was a jumble of meaningless words"
+      ],
+      "synonyms": [
+        "unintelligible",
+        "incomprehensible",
+        "incoherent",
+        "illogical",
+        "senseless",
+        "unmeaning",
+        "foolish",
+        "silly",
+        "absurd",
+        "fatuous",
+        "ridiculous",
+        "nonsensical",
+        "idle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈminɪŋləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meaningless_us_1.mp3"
+}

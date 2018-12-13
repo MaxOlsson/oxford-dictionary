@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "An open rebellion against the proper authorities, especially by soldiers or sailors against their officers.",
+      "examples": [
+        "a mutiny by those manning the weapons could trigger a global war",
+        "mutiny at sea"
+      ],
+      "synonyms": [
+        "insurrection",
+        "rebellion",
+        "revolt",
+        "riot",
+        "revolution",
+        "uprising",
+        "rising",
+        "coup",
+        "coup d'état",
+        "putsch",
+        "protest",
+        "strike"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Refuse to obey the orders of a person in authority.",
+      "synonyms": [
+        "rise up",
+        "rebel",
+        "revolt",
+        "riot",
+        "take part in an insurrection",
+        "take part in an uprising",
+        "oppose authority",
+        "resist authority",
+        "defy authority",
+        "disobey authority",
+        "refuse to obey orders"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from obsolete mutine rebellion, from French mutin mutineer, based on Latin movere to move.",
+  "pronounciation": "/ˈmjutni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mutiny_us_1.mp3"
+}

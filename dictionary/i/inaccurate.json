@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not accurate.",
+      "examples": [
+        "false or inaccurate descriptions of goods",
+        "a forecast that proved wildly inaccurate"
+      ],
+      "synonyms": [
+        "inexact",
+        "imprecise",
+        "incorrect",
+        "wrong",
+        "erroneous",
+        "faulty",
+        "imperfect",
+        "flawed",
+        "defective",
+        "unsound",
+        "unreliable"
+      ]
+    }
+  ],
+  "pronounciation": "/inˈakyərət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inaccurate_us_1.mp3"
+}

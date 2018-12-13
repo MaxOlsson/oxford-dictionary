@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "An intervening time or space.",
+      "examples": [
+        "after his departure, there was an interval of many years without any meetings",
+        "the intervals between meals were very short"
+      ],
+      "synonyms": [
+        "interim",
+        "interlude",
+        "intervening time",
+        "intervening period",
+        "meantime",
+        "meanwhile"
+      ]
+    },
+    {
+      "description": "A pause or break in activity.",
+      "examples": [
+        "an interval of mourning"
+      ],
+      "synonyms": [
+        "intermission",
+        "interlude",
+        "entr'acte",
+        "break",
+        "recess",
+        "pause",
+        "gap"
+      ]
+    },
+    {
+      "description": "A space between two things; a gap.",
+      "synonyms": [
+        "stretch",
+        "distance",
+        "span",
+        "area"
+      ]
+    },
+    {
+      "description": "The difference in pitch between two musical sounds."
+    }
+  ],
+  "phrases": [
+    "the light flashed at intervals",
+    "After she had chewed most of the sandwich, she continued, still swallowing at intervals.",
+    "Attendees are served white rum and strong coffee at intervals throughout the event, which may continue well into the night.",
+    "They had clung to each other for warmth through the night, with Michael flashing his torch into the darkness at intervals.",
+    "Tallages continued to be demanded at intervals until 1340, when Edward III agreed that the consent of Parliament must be obtained."
+  ],
+  "origin": "Middle English: from Old French entrevalle, based on Latin intervallum space between ramparts, interval, from inter- between + vallum rampart.",
+  "pronounciation": "/ˈɪn(t)ərvəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interval_us_1.mp3"
+}

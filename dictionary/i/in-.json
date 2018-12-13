@@ -1,0 +1,21 @@
+{
+  "prefix": [
+    {
+      "description": "(added to adjectives) not.",
+      "examples": [
+        "inanimate",
+        "intolerant"
+      ]
+    },
+    {
+      "description": "(added to nouns) without; lacking.",
+      "examples": [
+        "inappreciation",
+        "inadvertence"
+      ]
+    }
+  ],
+  "origin": "Representing in or the Latin preposition in.",
+  "pronounciation": "/ɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/in_1_us_1.mp3"
+}

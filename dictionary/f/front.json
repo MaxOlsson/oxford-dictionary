@@ -1,0 +1,179 @@
+{
+  "noun": [
+    {
+      "description": "The side or part of an object that presents itself to view or that is normally seen or used first; the most forward part of something.",
+      "examples": [
+        "a page at the front of the book had been torn out",
+        "he sealed the envelope and wrote on the front"
+      ],
+      "synonyms": [
+        "forepart",
+        "fore",
+        "foremost part",
+        "anterior",
+        "forefront",
+        "nose",
+        "head"
+      ]
+    },
+    {
+      "description": "The foremost line or part of an armed force; the furthest position that an army has reached and where the enemy is or may be engaged.",
+      "examples": [
+        "his regiment was immediately sent to the front"
+      ],
+      "synonyms": [
+        "front line",
+        "vanguard",
+        "van",
+        "first line",
+        "firing line",
+        "battlefield",
+        "battleground",
+        "field of battle",
+        "combat zone"
+      ]
+    },
+    {
+      "description": "An appearance or form of behavior assumed by a person to conceal their genuine feelings.",
+      "examples": [
+        "she put on a brave front"
+      ],
+      "synonyms": [
+        "appearance",
+        "look",
+        "expression",
+        "face",
+        "manner",
+        "air",
+        "countenance",
+        "demeanour",
+        "bearing",
+        "posture",
+        "pose",
+        "mien",
+        "aspect",
+        "exterior",
+        "veneer",
+        "show",
+        "outward show",
+        "false display",
+        "act",
+        "pretence",
+        "affectation"
+      ]
+    },
+    {
+      "description": "Boldness and confidence of manner.",
+      "examples": [
+        "he's got a bit of talent and a lot of front"
+      ],
+      "synonyms": [
+        "self-confidence",
+        "boldness",
+        "forwardness",
+        "audacity",
+        "audaciousness",
+        "temerity",
+        "brazenness",
+        "presumption",
+        "presumptuousness"
+      ]
+    },
+    {
+      "description": "A person's face or forehead."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of or at the front.",
+      "examples": [
+        "the front cover of the magazine",
+        "she was in the front yard"
+      ],
+      "synonyms": [
+        "at the front",
+        "foremost"
+      ]
+    },
+    {
+      "description": "(of a vowel sound) formed by raising the tongue, excluding the blade and tip, toward the hard palate."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a building or piece of land) have the front facing or directed toward.",
+      "examples": [
+        "the houses that front Beacon Street",
+        "we sold the uphill land that fronted on the road"
+      ],
+      "synonyms": [
+        "overlook",
+        "look on to",
+        "look out on",
+        "look out over",
+        "look towards",
+        "face",
+        "face towards",
+        "lie opposite",
+        "lie opposite to"
+      ]
+    },
+    {
+      "description": "Provide (something) with a front or facing of a particular type or material.",
+      "examples": [
+        "a metal box fronted by an alloy panel",
+        "a glass-fronted bookcase"
+      ]
+    },
+    {
+      "description": "Lead or be the most prominent member in (an organization, activity, or group of musicians)",
+      "examples": [
+        "the group is fronted by two girl singers"
+      ],
+      "synonyms": [
+        "lead",
+        "head",
+        "be the driving force behind"
+      ]
+    },
+    {
+      "description": "Act as a front or cover for someone or something acting illegally or wishing to conceal something.",
+      "examples": [
+        "he fronted for them in illegal property deals"
+      ]
+    },
+    {
+      "description": "Stand face to face with; confront.",
+      "examples": [
+        "Tom fronted him with unwavering eyes"
+      ]
+    },
+    {
+      "description": "Articulate (a vowel sound) with the tongue further forward.",
+      "examples": [
+        "all speakers use raised and fronted variants more in spontaneous speech"
+      ]
+    },
+    {
+      "description": "Place (a sentence element) at the beginning of a sentence instead of in its usual position, typically for emphasis or as a feature of some dialects, as in horrible it was."
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to summon someone to the front or to command them to assume a forward-facing position, as in calling a bellhop to the front desk or giving orders to troops on parade.",
+      "examples": [
+        "scouts, front and center!"
+      ]
+    }
+  ],
+  "phrases": [
+    "the car in front stopped suddenly",
+    "The tank in front moved forward and engaged the convoy in the open area.",
+    "Should a child run out in front, we can stop far quicker than any car.",
+    "So it is extremely hard to get close to the car in front, let alone pass it.",
+    "On one side fields stretch out into blackness, but in front and to the right blaze thousands of halogen lamps."
+  ],
+  "origin": "Middle English (denoting the forehead): from Old French front (noun), fronter (verb), from Latin frons, front- forehead, front.",
+  "pronounciation": "/frənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/front_us_1.mp3"
+}

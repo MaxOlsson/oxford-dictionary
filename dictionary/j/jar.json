@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A wide-mouthed cylindrical container made of glass or pottery, especially one used for storing food.",
+      "synonyms": [
+        "earthenware container",
+        "glass container",
+        "pot",
+        "crock",
+        "urn",
+        "pitcher",
+        "jug",
+        "flask",
+        "decanter",
+        "carafe",
+        "flagon",
+        "ewer",
+        "drum",
+        "canister"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send a painful or damaging shock through (something, especially a part of the body)",
+      "examples": [
+        "he jarred his knee in training"
+      ],
+      "synonyms": [
+        "jolt",
+        "jerk",
+        "shake",
+        "vibrate"
+      ]
+    },
+    {
+      "description": "Have an unpleasant, annoying, or disturbing effect.",
+      "examples": [
+        "a laugh that jarred on the ears",
+        "the difference in their background began to jar"
+      ],
+      "synonyms": [
+        "grate on",
+        "set someone's teeth on edge"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: later form of obsolete char turn (see also ajar and charwoman).",
+  "pronounciation": "/jär/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jar_us_1.mp3"
+}

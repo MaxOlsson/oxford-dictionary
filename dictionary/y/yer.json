@@ -1,0 +1,33 @@
+{
+  "pronoun": [
+    {
+      "examples": [
+        "well, are yer comin'?"
+      ]
+    }
+  ],
+  "possessive determiner": [
+    {
+      "examples": [
+        "eat yer dinner"
+      ]
+    }
+  ],
+  "contraction": [
+    {
+      "description": "You are, used in representing dialectal speech.",
+      "examples": [
+        "yer a dang fool"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "examples": [
+        "I hate mighty bad to bus up dis yer ax-helve"
+      ]
+    }
+  ],
+  "pronounciation": "/yər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yer_us_1.mp3"
+}

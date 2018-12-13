@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Smelling stale, damp, or stuffy.",
+      "examples": [
+        "the fusty odor of decay"
+      ],
+      "synonyms": [
+        "stuffy",
+        "musty",
+        "stale",
+        "stagnant",
+        "airless",
+        "unventilated",
+        "close",
+        "suffocating",
+        "oppressive",
+        "mouldering"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Old French fuste smelling of the cask, from fust cask, tree trunk, from Latin fustis cudgel.",
+  "pronounciation": "/ˈfəsti/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fusty_us_1.mp3"
+}

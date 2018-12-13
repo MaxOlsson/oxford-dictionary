@@ -1,0 +1,19 @@
+{
+  "adverb": [
+    {
+      "description": "With affection or liking.",
+      "examples": [
+        "he talks fondly of his grandfather",
+        "things I fondly recall from my childhood"
+      ]
+    },
+    {
+      "description": "With foolishly optimistic hope or belief; naively.",
+      "examples": [
+        "they fondly believed the cheers were for them"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfɑndli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fondly_us_1.mp3"
+}

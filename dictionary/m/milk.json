@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.",
+      "examples": [
+        "a healthy mother will produce enough milk for her baby"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Draw milk from (a cow or other animal), either by hand or mechanically."
+    },
+    {
+      "description": "Exploit or defraud (someone), typically by taking regular small amounts of money over a period of time.",
+      "examples": [
+        "he had milked his grandmother dry of all her money"
+      ],
+      "synonyms": [
+        "exploit",
+        "take advantage of",
+        "cash in on",
+        "impose on",
+        "bleed",
+        "suck dry",
+        "fleece",
+        "squeeze",
+        "wring",
+        "blackmail"
+      ]
+    }
+  ],
+  "phrases": [
+    "I will refer to goats in milk and to milking goats to reflect the distinction.",
+    "The champion Friesian heifer in milk saw an honour awarded to Aidan Foody from Ardagh.",
+    "The data were adjusted for previous lactation milk yield and days in milk at last test day.",
+    "I guess it's no use crying over spilt milk, but I do remember feeling a sense of disappointment as these features were dropped from Vista.",
+    "It's obviously very disappointing when you lose your captain and inspiration but it's no use crying over spilt milk, said Wigan coach Dennis Betts."
+  ],
+  "origin": "Old English milc, milcian, of Germanic origin; related to Dutch melk and German Milch, from an Indo-European root shared by Latin mulgere and Greek amelgein to milk.",
+  "pronounciation": "/milk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/milk_us_1.mp3"
+}

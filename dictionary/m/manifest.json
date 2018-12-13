@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Clear or obvious to the eye or mind.",
+      "examples": [
+        "the system's manifest failings"
+      ],
+      "synonyms": [
+        "obvious",
+        "clear",
+        "plain",
+        "apparent",
+        "evident",
+        "patent",
+        "palpable",
+        "distinct",
+        "definite",
+        "blatant",
+        "overt",
+        "glaring",
+        "barefaced",
+        "explicit",
+        "transparent",
+        "conspicuous",
+        "undisguised",
+        "unmistakable",
+        "unquestionable",
+        "undeniable",
+        "noticeable",
+        "perceptible",
+        "visible",
+        "recognizable",
+        "observable"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Display or show (a quality or feeling) by one's acts or appearance; demonstrate.",
+      "examples": [
+        "Ray manifested signs of severe depression"
+      ],
+      "synonyms": [
+        "display",
+        "show",
+        "exhibit",
+        "demonstrate",
+        "betray",
+        "present",
+        "evince",
+        "reveal",
+        "indicate",
+        "make plain",
+        "express",
+        "declare"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A document giving comprehensive details of a ship and its cargo and other contents, passengers, and crew for the use of customs officers."
+    }
+  ],
+  "origin": "Mid 16th century (denoting a manifestation): from Italian manifesto (see manifesto). The current sense dates from the early 17th century.",
+  "pronounciation": "/ˈmanəˌfest/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/manifest_us_1.mp3"
+}

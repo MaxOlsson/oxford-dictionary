@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Of or characteristic of the Mediterranean Sea, the countries bordering it, or their inhabitants.",
+      "examples": [
+        "a leisurely Mediterranean cruise",
+        "our temperatures are Mediterranean"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Mediterranean Sea or the countries bordering it."
+    },
+    {
+      "description": "A native of a country bordering on the Mediterranean."
+    }
+  ],
+  "origin": "Mid 16th century: from Latin mediterraneus inland (from medius middle + terra land) + -an.",
+  "pronounciation": "/ˌmedətəˈrānēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mediterranean_us_1.mp3"
+}

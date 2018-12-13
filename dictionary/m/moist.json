@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Slightly wet; damp or humid.",
+      "examples": [
+        "the air was moist and heavy"
+      ],
+      "synonyms": [
+        "damp",
+        "dampish",
+        "steamy",
+        "humid",
+        "muggy",
+        "clammy",
+        "dank",
+        "moisture-laden",
+        "wet",
+        "wettish",
+        "rainy",
+        "drizzly",
+        "drizzling",
+        "dewy",
+        "dripping",
+        "soggy",
+        "sweaty",
+        "sticky"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French moiste, based on Latin mucidus moldy (influenced by musteus fresh, from mustum: see must).",
+  "pronounciation": "/moist/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moist_us_1.mp3"
+}

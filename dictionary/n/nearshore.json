@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting the region of the sea or seabed relatively close to a shore.",
+      "examples": [
+        "volunteers monitor humpback whales in nearshore waters",
+        "corals are essential to the nearshore ecosystem"
+      ]
+    },
+    {
+      "description": "Relating to the transfer of a business operation to a nearby country.",
+      "examples": [
+        "nearshore IT services",
+        "we set up a nearshore operation in Poland"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a company) transfer (a business operation) to a nearby country, especially in preference to a more distant location.",
+      "examples": [
+        "many capital market firms are starting to nearshore their operations"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnɪrˌʃɔr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nearshore_us_1.mp3"
+}

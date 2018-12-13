@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "Working or produced by machines or machinery.",
+      "examples": [
+        "a mechanical device"
+      ]
+    },
+    {
+      "description": "(of a person or action) not having or showing thought or spontaneity; automatic.",
+      "examples": [
+        "she stopped the mechanical brushing of her hair"
+      ],
+      "synonyms": [
+        "automatic",
+        "machine-like",
+        "unthinking",
+        "unemotional",
+        "unconscious",
+        "involuntary",
+        "instinctive",
+        "routine",
+        "matter-of-fact",
+        "habitual",
+        "inattentive"
+      ]
+    },
+    {
+      "description": "Relating to physical forces or motion; physical.",
+      "examples": [
+        "the smoothness was the result of mechanical abrasion"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The working parts of a machine, especially a car."
+    },
+    {
+      "description": "(especially with allusion to Shakespeare's A Midsummer Night's Dream) a manual worker.",
+      "examples": [
+        "rude mechanicals"
+      ],
+      "synonyms": [
+        "employee",
+        "member of staff",
+        "working man",
+        "working woman",
+        "workman",
+        "labourer",
+        "hand",
+        "operative",
+        "operator"
+      ]
+    },
+    {
+      "description": "A completed assembly of artwork and copy, typically mounted on a sheet of stiff paper."
+    }
+  ],
+  "origin": "Late Middle English (describing an art or occupation concerned with the construction of machines): via Latin from Greek mēkhanikos (see mechanic) + -al.",
+  "pronounciation": "/məˈkanək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mechanical_us_1.mp3"
+}

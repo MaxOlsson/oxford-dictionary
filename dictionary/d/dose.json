@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A quantity of a medicine or drug taken or recommended to be taken at a particular time.",
+      "examples": [
+        "he took a dose of cough medicine"
+      ],
+      "synonyms": [
+        "amount",
+        "quantity",
+        "measure",
+        "portion",
+        "dosage",
+        "drench",
+        "draught"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Administer a dose to (a person or animal)",
+      "examples": [
+        "he dosed himself with vitamins"
+      ],
+      "synonyms": [
+        "treat",
+        "medicate",
+        "dose",
+        "soothe",
+        "cure",
+        "heal"
+      ]
+    }
+  ],
+  "phrases": [
+    "computer games are great in small doses",
+    "I believe it's slightly overrated but it's fun in small doses.",
+    "I'm used to being able to tolerate wheat in small doses.",
+    "And I can be almost tolerable, if you take me in small doses.",
+    "Even more than dance music (which he can just about tolerate in small doses and at low volumes, if pushed), this represents everything he hates."
+  ],
+  "origin": "Late Middle English: from French, via late Latin from Greek dosis gift, from didonai give.",
+  "pronounciation": "/dōs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dose_us_1.mp3"
+}

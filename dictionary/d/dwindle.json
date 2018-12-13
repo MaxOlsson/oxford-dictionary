@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Diminish gradually in size, amount, or strength.",
+      "examples": [
+        "traffic has dwindled to a trickle"
+      ],
+      "synonyms": [
+        "diminish",
+        "decrease",
+        "reduce",
+        "get smaller",
+        "become smaller",
+        "grow smaller",
+        "become less",
+        "grow less",
+        "lessen",
+        "wane",
+        "contract",
+        "shrink",
+        "fall off",
+        "taper off",
+        "tail off",
+        "drop",
+        "fall",
+        "go down",
+        "sink",
+        "slump",
+        "plummet"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: frequentative of Scots and dialect dwine fade away, from Old English dwīnan, of Germanic origin; related to Middle Dutch dwīnen and Old Norse dvína.",
+  "pronounciation": "/ˈdwindl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dwindle_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Not honorable in character or purpose.",
+      "examples": [
+        "ignoble feelings of intense jealousy"
+      ],
+      "synonyms": [
+        "dishonourable",
+        "unworthy",
+        "base",
+        "shameful",
+        "contemptible",
+        "despicable",
+        "shabby",
+        "abject",
+        "low",
+        "sordid",
+        "degraded",
+        "corrupt",
+        "mean",
+        "wrong"
+      ]
+    },
+    {
+      "description": "Of humble origin or social status.",
+      "synonyms": [
+        "humble",
+        "low",
+        "low-born",
+        "low-bred",
+        "low-ranking",
+        "plebeian",
+        "proletarian",
+        "peasant",
+        "poor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in ignoble (sense 2)): from French, or from Latin ignobilis, from in- not + gnobilis, older form of nobilis noble.",
+  "pronounciation": "/ɪɡˈnoʊbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ignoble_us_1.mp3"
+}

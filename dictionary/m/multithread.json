@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having more than one thread, multithreaded (also figurative); (Engineering, of a screw) = &quot;multithreaded&quot;."
+    },
+    {
+      "description": "Computing. = &quot;multithreaded&quot;."
+    }
+  ],
+  "noun": [
+    {
+      "description": "Engineering. A multithreaded screw."
+    },
+    {
+      "description": "Computing. Each of the multiple parts of a program executed concurrently in multithreading."
+    }
+  ],
+  "verb": [
+    {
+      "description": "To employ multithreading in the performance of (a program or process)."
+    }
+  ],
+  "origin": "Early 20th century. From multi- + thread. Compare earlier multithreaded&lt;br&gt;1970s; earliest use found in Computer Bulletin. From multi- + thread.",
+  "pronounciation": "/ˈmʌltɪθrɛd/"
+}

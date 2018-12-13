@@ -1,0 +1,9 @@
+{
+  "noun": [
+    {
+      "description": "A mathematical entity consisting of a finite set E together with a collection ℐ of subsets of E such that (i) the empty set is a member of ℐ, (ii) any subset of a member of ℐ is also a member of ℐ, and (iii) if two subsets I₁ and I₂ are in ℐ, where the cardinality of I₁ is less than that of I₂, then there exists an element e that is in I₂ but not I₁ such that the union of I₁ with {e} is also an element of ℐ."
+    }
+  ],
+  "origin": "1930s. From matr- + -oid.",
+  "pronounciation": "/ˈmeɪtrɔɪd/"
+}
