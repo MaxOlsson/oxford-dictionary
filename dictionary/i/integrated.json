@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "(of an institution, body, etc.) desegregated, especially racially.",
+      "examples": [
+        "integrated education"
+      ],
+      "synonyms": [
+        "desegregated",
+        "non-segregated",
+        "unsegregated",
+        "racially mixed",
+        "racially balanced"
+      ]
+    },
+    {
+      "description": "With various parts or aspects linked or coordinated.",
+      "examples": [
+        "an integrated and high-quality public transportation system"
+      ],
+      "synonyms": [
+        "unified",
+        "united",
+        "consolidated",
+        "amalgamated",
+        "joined",
+        "combined",
+        "merged",
+        "fused",
+        "blended",
+        "meshed",
+        "coherent",
+        "homogeneous",
+        "homogenized",
+        "mutually dependent",
+        "assimilated",
+        "cohesive",
+        "concatenated"
+      ]
+    },
+    {
+      "description": "Indicating the mean value or total sum of (temperature, an area, etc.)",
+      "examples": [
+        "integrated electron density along the line of sight"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈin(t)əˌɡrādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/integrated_us_1.mp3"
+}

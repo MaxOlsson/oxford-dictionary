@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Affected by or relating to an extreme tendency to fall asleep.",
+      "examples": [
+        "he is narcoleptic, so he takes a drug that helps keep him awake",
+        "a narcoleptic coma"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person affected by an extreme tendency to fall asleep.",
+      "examples": [
+        "a narcoleptic who falls asleep up against the wall"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnɑrkəˈlɛptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/narcoleptic_us_2.mp3"
+}

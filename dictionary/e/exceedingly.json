@@ -1,0 +1,43 @@
+{
+  "adverb": [
+    {
+      "description": "Extremely.",
+      "examples": [
+        "the team played exceedingly well"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "supremely",
+        "very",
+        "really",
+        "truly",
+        "most",
+        "distinctly",
+        "decidedly"
+      ]
+    },
+    {
+      "description": "To a great extent.",
+      "examples": [
+        "the supply multiplied exceedingly"
+      ],
+      "synonyms": [
+        "greatly",
+        "to a great degree",
+        "to a great extent",
+        "a great deal",
+        "a lot",
+        "considerably",
+        "appreciably",
+        "decidedly",
+        "indeed"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪkˈsidɪŋli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/exceedingly_us_1.mp3"
+}

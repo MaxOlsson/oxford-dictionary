@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "So pleasant to eat that one wants more.",
+      "examples": [
+        "a moreish aubergine dip"
+      ],
+      "synonyms": [
+        "juicy",
+        "moist",
+        "luscious",
+        "lush",
+        "fleshy",
+        "pulpy",
+        "soft",
+        "tender",
+        "fresh",
+        "ripe"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɔːrɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moreish_gb_1.mp3"
+}

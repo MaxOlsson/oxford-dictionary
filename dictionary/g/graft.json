@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A shoot or twig inserted into a slit on the trunk or stem of a living plant, from which it receives sap.",
+      "synonyms": [
+        "scion",
+        "cutting",
+        "shoot",
+        "offshoot",
+        "bud",
+        "slip",
+        "new growth",
+        "sprout",
+        "sprig"
+      ]
+    },
+    {
+      "description": "A piece of living tissue that is transplanted surgically.",
+      "synonyms": [
+        "transplant",
+        "implant",
+        "implantation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Insert (a shoot or twig) as a graft.",
+      "examples": [
+        "it was common to graft different varieties onto a single tree trunk"
+      ]
+    },
+    {
+      "description": "Transplant (living tissue) as a graft.",
+      "examples": [
+        "they can graft a new hand onto the arm"
+      ],
+      "synonyms": [
+        "transplant",
+        "implant",
+        "transfer"
+      ]
+    },
+    {
+      "description": "Insert or fix (something) permanently to something else, typically in a way considered inappropriate.",
+      "examples": [
+        "western-style government could not easily be grafted onto a profoundly different country"
+      ],
+      "synonyms": [
+        "fasten",
+        "attach",
+        "add",
+        "fix",
+        "join",
+        "insert"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: perhaps related to the phrase spade's graft the amount of earth that one stroke of a spade will move, based on Old Norse grǫftr digging.",
+  "pronounciation": "/ɡraft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3"
+}

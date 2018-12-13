@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Malevolent.",
+      "examples": [
+        "in the hands of malignant fate"
+      ],
+      "synonyms": [
+        "spiteful",
+        "hostile",
+        "malevolent",
+        "malicious",
+        "malign",
+        "evil-intentioned",
+        "baleful",
+        "full of hate",
+        "vicious",
+        "nasty",
+        "poisonous",
+        "venomous",
+        "acrimonious",
+        "rancorous",
+        "splenetic",
+        "cruel"
+      ]
+    },
+    {
+      "description": "(of a disease) very virulent or infectious.",
+      "synonyms": [
+        "virulent",
+        "infectious",
+        "invasive",
+        "uncontrollable",
+        "dangerous",
+        "harmful",
+        "pernicious"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (also in the sense likely to rebel against God or authority): from late Latin malignant- contriving maliciously, from the verb malignare. The term was used in its early sense to describe Royalist sympathizers during the English Civil War.",
+  "pronounciation": "/məˈliɡnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malignant_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or their behavior) primarily concerned with making money at the expense of ethics.",
+      "examples": [
+        "she's nothing but a mercenary little gold digger"
+      ],
+      "synonyms": [
+        "money-oriented",
+        "grasping",
+        "greedy",
+        "acquisitive",
+        "avaricious",
+        "covetous",
+        "rapacious",
+        "bribable",
+        "venal",
+        "materialistic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A professional soldier hired to serve in a foreign army.",
+      "synonyms": [
+        "soldier of fortune",
+        "professional soldier",
+        "hired soldier",
+        "hireling"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Latin mercenarius hireling, from merces, merced- reward.",
+  "pronounciation": "/ˈmərsəˌnɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mercenary_us_1.mp3"
+}

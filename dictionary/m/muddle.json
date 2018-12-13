@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Bring into a disordered or confusing state.",
+      "examples": [
+        "I fear he may have muddled the message",
+        "they were muddling up the cards"
+      ],
+      "synonyms": [
+        "jumbled",
+        "in a jumble",
+        "in a muddle",
+        "in a mess",
+        "chaotic",
+        "in disorder",
+        "in disarray",
+        "topsy-turvy",
+        "disorganized",
+        "disordered",
+        "disorderly",
+        "out of place",
+        "out of order",
+        "mixed up",
+        "upside-down",
+        "at sixes and sevens",
+        "untidy",
+        "messy",
+        "scrambled",
+        "tangled"
+      ]
+    },
+    {
+      "description": "Mix (a drink) or stir (an ingredient) into a drink.",
+      "examples": [
+        "muddle the kiwi slices with the sugar"
+      ],
+      "synonyms": [
+        "mix",
+        "blend",
+        "agitate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An untidy and disorganized state or collection.",
+      "examples": [
+        "the finances were in a muddle",
+        "a muddle of French, English, Ojibwa, and a dash of Gaelic"
+      ],
+      "synonyms": [
+        "untidiness",
+        "disorder",
+        "disarray",
+        "clutter",
+        "heap",
+        "shambles",
+        "litter",
+        "tangle",
+        "jumble",
+        "mishmash",
+        "chaos",
+        "confusion",
+        "disorganization",
+        "turmoil"
+      ]
+    }
+  ],
+  "phrases": [
+    "we don't have an ultimate ambition; we just muddle through",
+    "However, I have enough faith in the inherent common sense of the human race to believe that we will, as ever, just manage to muddle through.",
+    "I noticed this morning that London Bridge station, after years of muddling through without a logo, has gained one.",
+    "Unfortunately, there's no hard and fast guidelines for us to follow - we just have to muddle through, minds fogged by desire.",
+    "Those of us who'd been happily muddling along for years and years were faced with a for us or against us ultimatum from the more political of our younger brothers and sisters."
+  ],
+  "origin": "Late Middle English (in the sense wallow in mud): perhaps from Middle Dutch moddelen, frequentative of modden dabble in mud; compare with mud. The sense confuse was initially associated with alcoholic drink (late 17th century), giving rise to busy oneself in a confused way and jumble up (mid 19th century).",
+  "pronounciation": "/ˈmədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/muddle_us_1.mp3"
+}

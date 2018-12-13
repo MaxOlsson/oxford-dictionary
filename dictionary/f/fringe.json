@@ -1,0 +1,81 @@
+{
+  "noun": [
+    {
+      "description": "An ornamental border of threads left loose or formed into tassels or twists, used to edge clothing or material.",
+      "synonyms": [
+        "edging",
+        "edge",
+        "border",
+        "hem",
+        "trimming",
+        "frill",
+        "flounce",
+        "ruffle"
+      ]
+    },
+    {
+      "description": "The front part of a person's hair cut so as to hang over the forehead; bangs."
+    },
+    {
+      "description": "The outer, marginal, or extreme part of an area, group, or sphere of activity.",
+      "examples": [
+        "his uncles were on the fringes of crooked activity"
+      ],
+      "synonyms": [
+        "unconventional",
+        "unorthodox",
+        "offbeat",
+        "alternative",
+        "avant-garde",
+        "experimental",
+        "innovative",
+        "innovatory",
+        "radical",
+        "extreme"
+      ]
+    },
+    {
+      "description": "A band of contrasting brightness or darkness produced by diffraction or interference of light."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not part of the mainstream; unconventional, peripheral, or extreme.",
+      "examples": [
+        "fringe theater"
+      ],
+      "synonyms": [
+        "unconventional",
+        "unorthodox",
+        "offbeat",
+        "alternative",
+        "avant-garde",
+        "experimental",
+        "innovative",
+        "innovatory",
+        "radical",
+        "extreme"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate (clothing or material) with a fringe.",
+      "examples": [
+        "a rich robe of gold, fringed with black velvet"
+      ],
+      "synonyms": [
+        "trim",
+        "hem",
+        "edge",
+        "border",
+        "rim",
+        "bind",
+        "braid"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French frenge, based on late Latin fimbria, earlier a plural noun meaning fibers, shreds.",
+  "pronounciation": "/frinj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fringe_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Containing or constituting a libel.",
+      "examples": [
+        "a libelous newspaper story"
+      ],
+      "synonyms": [
+        "defamatory",
+        "denigratory",
+        "vilifying",
+        "disparaging",
+        "derogatory",
+        "aspersive",
+        "calumnious",
+        "calumniatory",
+        "slanderous",
+        "false",
+        "untrue",
+        "misrepresentative",
+        "traducing",
+        "maligning",
+        "insulting",
+        "scurrilous",
+        "slurring",
+        "smearing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈlaɪbələs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/libelous_us_1.mp3"
+}

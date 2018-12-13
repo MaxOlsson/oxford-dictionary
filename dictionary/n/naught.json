@@ -1,0 +1,32 @@
+{
+  "pronoun": [
+    {
+      "description": "Nothing.",
+      "examples": [
+        "he's naught but a worthless fool"
+      ],
+      "synonyms": [
+        "nothing",
+        "nothing at all",
+        "nought",
+        "nil",
+        "zero"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The digit 0; zero."
+    }
+  ],
+  "phrases": [
+    "Such recommendations will only bring to naught efforts to increase cooperation and decrease politicization among States.",
+    "In 1989, courageous people brought to naught the Berlin Wall.",
+    "All of the divisions of Us, predicated upon the beast within, are brought to naught.",
+    "All the extravagant statements come to naught.",
+    "Many years of work and negotiations came to naught."
+  ],
+  "origin": "Old English nāwiht, -wuht, from nā no + wiht thing (see wight).",
+  "pronounciation": "/nôt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/naught_us_2.mp3"
+}

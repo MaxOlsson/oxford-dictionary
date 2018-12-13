@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Reduce (a food or other substance) to a uniform mass by crushing it.",
+      "examples": [
+        "mash the beans to a paste"
+      ],
+      "synonyms": [
+        "crush",
+        "squeeze",
+        "squash",
+        "compress",
+        "pulp",
+        "reduce",
+        "clamp",
+        "pack down",
+        "tamp",
+        "condense",
+        "compact",
+        "trample",
+        "stamp",
+        "tread",
+        "grind",
+        "mill",
+        "pound",
+        "pulverize",
+        "macerate"
+      ]
+    },
+    {
+      "description": "(in brewing) mix (powdered malt) with hot water to form wort."
+    },
+    {
+      "description": "(with reference to tea) brew or infuse.",
+      "synonyms": [
+        "infuse",
+        "be in preparation"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A uniform mass made by crushing a substance into a soft pulp, sometimes with the addition of liquid.",
+      "examples": [
+        "pound the garlic to a mash"
+      ],
+      "synonyms": [
+        "pulp",
+        "purée",
+        "mush",
+        "paste",
+        "pâté",
+        "crush",
+        "slush",
+        "liquid"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Mobile army surgical hospital."
+    }
+  ],
+  "phrases": [
+    "in my films I've always tried to artfully mash up genres",
+    "Dinsdale mashes up dance styles like UK garage, house, and hip-hop with masterful aplomb",
+    "Mashing up the superhero genre with the high school comedy, Mike Mitchell's Sky High is the kind of movie Disney should produce more often.",
+    "Director Adrian Lyne mashes up motifs from some of his past films, most notably 9 1/2 weeks, Flashdance and Fatal Attraction.",
+    "That would help scientists and students gain easy access to the latest research data, and help websites that mash up material from a variety of sources."
+  ],
+  "origin": "Old English māsc (as a brewing term), of West Germanic origin; perhaps ultimately related to mix.",
+  "pronounciation": "/maSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mash_us_1.mp3"
+}

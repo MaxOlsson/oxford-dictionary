@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking the will or ability to act effectively.",
+      "examples": [
+        "a milk-and-water rebel"
+      ],
+      "synonyms": [
+        "insipid",
+        "uninspired",
+        "colourless",
+        "uninteresting",
+        "feeble",
+        "flat",
+        "dead",
+        "dull",
+        "boring",
+        "tedious",
+        "tired",
+        "unexciting",
+        "uninspiring",
+        "unimaginative",
+        "lifeless",
+        "zestless",
+        "spiritless",
+        "sterile",
+        "anaemic",
+        "tame",
+        "bloodless",
+        "jejune",
+        "vacuous",
+        "bland",
+        "stale",
+        "trite",
+        "pallid",
+        "wishy-washy",
+        "watery",
+        "tasteless",
+        "flavourless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmilkənˈwädər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/milk_and_water_1_us_1.mp3"
+}

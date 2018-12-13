@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Pronounce (a word) incorrectly.",
+      "examples": [
+        "she mispronounced my name"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmɪsprəˈnaʊns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mispronounce_us_1.mp3"
+}

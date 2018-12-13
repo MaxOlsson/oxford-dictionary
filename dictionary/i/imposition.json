@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of imposing something or of being imposed.",
+      "examples": [
+        "the imposition of martial law"
+      ],
+      "synonyms": [
+        "tax",
+        "levy",
+        "duty",
+        "charge",
+        "tariff",
+        "toll",
+        "excise",
+        "tithe",
+        "fee",
+        "impost",
+        "exaction",
+        "payment"
+      ]
+    },
+    {
+      "description": "A thing that is imposed, in particular an unfair or unwelcome demand or burden.",
+      "examples": [
+        "I'd like to see you, if that wouldn't be too much of an imposition"
+      ],
+      "synonyms": [
+        "burden",
+        "load",
+        "onus",
+        "encumbrance",
+        "strain",
+        "demand",
+        "pressure",
+        "charge",
+        "bother",
+        "worry"
+      ]
+    },
+    {
+      "description": "The imposing of pages of type."
+    }
+  ],
+  "origin": "Late Middle English: from Latin impositio(n-), from the verb imponere (see impose).",
+  "pronounciation": "/ˌɪmpəˈzɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imposition_us_1.mp3"
+}

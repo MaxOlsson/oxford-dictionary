@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "A motif of two or more letters, typically a person's initials, usually interwoven or otherwise combined in a decorative design, used as a logo or to identify a personal possession.",
+      "synonyms": [
+        "emblem",
+        "symbol",
+        "logo",
+        "badge",
+        "stamp",
+        "trademark",
+        "crest",
+        "insignia",
+        "coat of arms",
+        "escutcheon",
+        "seal",
+        "mark",
+        "figure",
+        "design",
+        "rune",
+        "logotype",
+        "logogram",
+        "hallmark",
+        "tag",
+        "motto",
+        "token",
+        "motif",
+        "colophon",
+        "ideogram"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate with a monogram.",
+      "examples": [
+        "monogrammed sheets"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from French monogramme, from late Latin monogramma, from Greek.",
+  "pronounciation": "/ˈmänəˌɡram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monogram_us_1.mp3"
+}

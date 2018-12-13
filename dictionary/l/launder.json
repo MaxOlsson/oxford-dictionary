@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Wash, or wash and iron, (clothes or linens)",
+      "examples": [
+        "he wasn't used to laundering his own bed linens"
+      ],
+      "synonyms": [
+        "wash",
+        "clean",
+        "wash and iron",
+        "wash and press",
+        "dry-clean"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A trough for holding or conveying water, especially (in mining) one used for washing ore."
+    }
+  ],
+  "origin": "Middle English (as a noun denoting a person who washes linen): contraction of lavender, from Old French lavandier, based on Latin lavanda things to be washed, from lavare to wash.",
+  "pronounciation": "/ˈlôndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/launder_us_1.mp3"
+}

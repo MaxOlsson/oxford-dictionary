@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Trivial or very small.",
+      "examples": [
+        "America's banks no longer look Lilliputian in comparison with Japan's"
+      ],
+      "synonyms": [
+        "minute",
+        "small-scale",
+        "scaled-down",
+        "mini",
+        "baby",
+        "toy",
+        "pocket",
+        "fun-size",
+        "petite",
+        "dwarfish",
+        "knee-high",
+        "miniature",
+        "minuscule",
+        "microscopic",
+        "nanoscopic",
+        "infinitesimal",
+        "micro",
+        "diminutive",
+        "pocket-sized",
+        "reduced"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A trivial or very small person or thing."
+    }
+  ],
+  "origin": "Early 18th century: from the imaginary country of Lilliput in Swift's Gulliver's Travels, inhabited by people 6 inches (15 cm) high, + -ian.",
+  "pronounciation": "/ˌlɪləˈpjuʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lilliputian_us_1.mp3"
+}

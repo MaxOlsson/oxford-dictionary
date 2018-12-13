@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Smelling very unpleasant.",
+      "examples": [
+        "leaking taps and malodorous drains"
+      ],
+      "synonyms": [
+        "foul-smelling",
+        "evil-smelling",
+        "fetid",
+        "smelly",
+        "stinking",
+        "stinking to high heaven",
+        "reeking",
+        "reeky",
+        "pungent",
+        "acrid",
+        "rank",
+        "high",
+        "putrid",
+        "noxious"
+      ]
+    }
+  ],
+  "pronounciation": "/mælˈoʊdərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malodorous_us_1.mp3"
+}

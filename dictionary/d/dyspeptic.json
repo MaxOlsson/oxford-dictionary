@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Of or having indigestion or consequent irritability or depression.",
+      "synonyms": [
+        "bad-tempered",
+        "short-tempered",
+        "irritable",
+        "snappish",
+        "testy",
+        "tetchy",
+        "touchy",
+        "crabbed",
+        "crabby",
+        "crotchety",
+        "grouchy",
+        "cantankerous",
+        "peevish",
+        "cross",
+        "fractious",
+        "disagreeable",
+        "pettish",
+        "waspish",
+        "prickly",
+        "peppery",
+        "cross-grained"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who suffers from indigestion or irritability."
+    }
+  ],
+  "pronounciation": "/dɪsˈpɛptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dyspeptic_us_1.mp3"
+}

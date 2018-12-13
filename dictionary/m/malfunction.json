@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "(of a piece of equipment or machinery) fail to function normally or satisfactorily.",
+      "examples": [
+        "the unit is clearly malfunctioning"
+      ],
+      "synonyms": [
+        "crash",
+        "develop a fault",
+        "go wrong",
+        "break down",
+        "break",
+        "act up",
+        "be defective",
+        "be faulty",
+        "fail",
+        "cease to function",
+        "cease to work",
+        "stop working"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A failure to function in a normal or satisfactory manner.",
+      "synonyms": [
+        "crash",
+        "breakdown",
+        "fault",
+        "failure",
+        "defect",
+        "flaw",
+        "collapse",
+        "impairment"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmælˈfəŋ(k)ʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malfunction_us_1.mp3"
+}

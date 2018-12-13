@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) on a large scale using machinery.",
+      "examples": [
+        "a company that manufactured paint-by-number sets"
+      ],
+      "synonyms": [
+        "make",
+        "produce",
+        "mass produce",
+        "build",
+        "construct",
+        "assemble",
+        "put together",
+        "create",
+        "fabricate",
+        "prefabricate",
+        "turn out",
+        "process",
+        "form",
+        "fashion",
+        "model",
+        "mould",
+        "shape",
+        "forge",
+        "engineer"
+      ]
+    },
+    {
+      "description": "Invent or fabricate (evidence or a story)",
+      "examples": [
+        "the tabloid industry that manufactures epochal discoveries out of thin air"
+      ],
+      "synonyms": [
+        "make up",
+        "invent",
+        "fabricate",
+        "concoct",
+        "hatch",
+        "dream up",
+        "think up",
+        "trump up",
+        "devise",
+        "formulate",
+        "frame",
+        "contrive",
+        "construct",
+        "coin"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The making of articles on a large scale using machinery.",
+      "examples": [
+        "the manufacture of armored vehicles"
+      ],
+      "synonyms": [
+        "production",
+        "making",
+        "manufacturing",
+        "mass-production",
+        "construction",
+        "building",
+        "assembly",
+        "creation",
+        "fabrication",
+        "prefabrication",
+        "processing",
+        "putting together",
+        "turning out",
+        "engineering",
+        "forging"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (as noun, denoting something made by hand): from French (re-formed by association with Latin manu factum made by hand), from Italian manifattura. The verb dates from the mid 17th century.",
+  "pronounciation": "/ˌman(y)əˈfak(t)SHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/manufacture_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Cut down (an area of grass) with a machine.",
+      "examples": [
+        "Roger mowed the lawn"
+      ],
+      "synonyms": [
+        "cut",
+        "cut down",
+        "scythe",
+        "shear",
+        "trim"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A stack of hay, grain, or other similar crop.",
+      "examples": [
+        "a hay mow"
+      ]
+    }
+  ],
+  "phrases": [
+    "If I had to spend our time constantly comforting them, they would mow us down with machine guns before you could say Big Bertha.",
+    "The peacekeepers rushed out of the shuttle onto the planet, weapons drawn and ready to mow down any hostiles.",
+    "Multiple natives are mowed down by automatic gunfire.",
+    "Convicted felons could be encouraged to run across a distance of, say, a hundred metres, while the marksmen took turns to mow them down.",
+    "It is not surprising that they were mown down by machine-gun fire."
+  ],
+  "origin": "Old English mūga; of unknown ultimate origin; compare with Swedish and Norwegian muga heap.",
+  "pronounciation": "/mou/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mow_us_2.mp3"
+}

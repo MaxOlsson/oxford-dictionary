@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting a metropolis, often inclusive of its surrounding areas.",
+      "examples": [
+        "the Boston metropolitan area"
+      ],
+      "synonyms": [
+        "civic",
+        "civil",
+        "urban",
+        "city",
+        "town",
+        "borough",
+        "community",
+        "district",
+        "local",
+        "council",
+        "public"
+      ]
+    },
+    {
+      "description": "Relating to or denoting the parent state of a colony or dependency.",
+      "examples": [
+        "metropolitan Spain"
+      ],
+      "synonyms": [
+        "state",
+        "national",
+        "federal",
+        "government"
+      ]
+    },
+    {
+      "description": "Relating to or denoting a metropolitan or his see.",
+      "examples": [
+        "a metropolitan bishop"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bishop having authority over the bishops of a province, in particular (in many Orthodox Churches) one ranking above archbishop and below patriarch."
+    },
+    {
+      "description": "An inhabitant of a metropolis.",
+      "examples": [
+        "the sophisticated metropolitan"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the ecclesiastical sense): from late Latin metropolitanus, from Greek mētropolitēs citizen of a mother state, from mētropolis (see metropolis).",
+  "pronounciation": "/ˌmetrəˈpälətn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/metropolitan_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Load (a ship or other vessel).",
+      "synonyms": [
+        "fill",
+        "fill up",
+        "pack",
+        "stuff",
+        "cram",
+        "pile",
+        "heap",
+        "stack"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A channel constructed to carry the swift current of water that drives a mill wheel.",
+      "examples": [
+        "a lade from off the Tarland Burn"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the sense watercourse, mouth of a river): probably a variation of lead; perhaps confused with lade, the Scots and Northern form of lode.",
+  "pronounciation": "/lād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lade_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A habitual gesture or way of speaking or behaving; an idiosyncrasy.",
+      "examples": [
+        "learning the great man's speeches and studying his mannerisms"
+      ],
+      "synonyms": [
+        "idiosyncrasy",
+        "quirk",
+        "oddity",
+        "foible",
+        "trait",
+        "peculiarity",
+        "habit",
+        "characteristic",
+        "characteristic gesture",
+        "trick"
+      ]
+    },
+    {
+      "description": "Excessive or self-conscious use of a distinctive style in art, literature, or music.",
+      "examples": [
+        "he seemed deliberately to be stripping his art of mannerism"
+      ]
+    },
+    {
+      "description": "A style of 16th-century Italian art preceding the Baroque, characterized by unusual effects of scale, lighting, and perspective, and the use of bright, often lurid colors. It is particularly associated with the work of Pontormo, Vasari,and the later Michelangelo."
+    }
+  ],
+  "pronounciation": "/ˈmanəˌrizəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mannerism_us_1.mp3"
+}

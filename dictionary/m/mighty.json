@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Possessing great and impressive power or strength, especially on account of size.",
+      "examples": [
+        "three mighty industrial countries",
+        "mighty beasts"
+      ],
+      "synonyms": [
+        "fearsome",
+        "ferocious"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Extremely.",
+      "examples": [
+        "this is mighty early to be planning a presidential campaign"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceedingly",
+        "enormously",
+        "vastly",
+        "immensely",
+        "tremendously",
+        "hugely",
+        "markedly",
+        "remarkably",
+        "abundantly",
+        "deadly",
+        "awfully",
+        "dreadfully",
+        "mightily",
+        "very",
+        "very much",
+        "most",
+        "so",
+        "to a great extent"
+      ]
+    }
+  ],
+  "origin": "Old English mihtig (see might, -y).",
+  "pronounciation": "/ˈmaɪdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mighty_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "Excellently.",
+      "examples": [
+        "he wasn't difficult at all—we got on famously"
+      ],
+      "synonyms": [
+        "harmoniously",
+        "agreeably",
+        "pleasantly",
+        "nicely",
+        "happily",
+        "politely",
+        "amicably",
+        "amiably",
+        "affably",
+        "genially",
+        "peaceably"
+      ]
+    },
+    {
+      "description": "Indicating that the fact asserted is widely known.",
+      "examples": [
+        "they have famously reclusive lifestyles"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfāməslē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/famously_us_1.mp3"
+}

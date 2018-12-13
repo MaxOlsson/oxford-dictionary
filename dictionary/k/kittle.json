@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Difficult to deal with; prone to erratic behavior.",
+      "synonyms": [
+        "unpredictable",
+        "temperamental",
+        "emotional",
+        "volatile",
+        "capricious",
+        "changeable",
+        "mercurial",
+        "unstable",
+        "fickle",
+        "flighty",
+        "inconstant",
+        "undependable",
+        "unsteady",
+        "erratic",
+        "fitful",
+        "impulsive"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a cat) give birth.",
+      "examples": [
+        "she has kittled in my chair"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: perhaps a back-formation of kitling young animal, cub.",
+  "pronounciation": "/ˈkidl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/kittle_us_1.mp3"
+}

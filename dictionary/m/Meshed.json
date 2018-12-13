@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having the form or appearance of a mesh or network.",
+      "examples": [
+        "a meshed grille",
+        "fine-meshed sieves"
+      ]
+    },
+    {
+      "description": "(of a geometric object) represented by an arrangement of a finite number of geometric components.",
+      "examples": [
+        "a meshed sphere"
+      ]
+    }
+  ],
+  "proper noun": [],
+  "pronounciation": "/məˌSHed/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meshed_1_us_1.mp3"
+}

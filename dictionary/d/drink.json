@@ -1,0 +1,64 @@
+{
+  "verb": [
+    {
+      "description": "Take (a liquid) into the mouth and swallow.",
+      "examples": [
+        "we sat by the fire, drinking our coffee",
+        "he drank thirstily"
+      ],
+      "synonyms": [
+        "swallow",
+        "gulp down",
+        "quaff",
+        "swill",
+        "guzzle",
+        "sup"
+      ]
+    },
+    {
+      "description": "Watch or listen to something with eager pleasure or interest.",
+      "examples": [
+        "she strolled to the window to drink in the view"
+      ],
+      "synonyms": [
+        "absorb",
+        "assimilate",
+        "digest",
+        "ingest",
+        "take in",
+        "be absorbed in",
+        "be immersed in",
+        "be rapt in",
+        "be lost in",
+        "be fascinated by",
+        "pay close attention to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A liquid that can be swallowed as refreshment or nourishment.",
+      "examples": [
+        "a table covered with food and drink",
+        "cans of soda and other drinks"
+      ],
+      "synonyms": [
+        "beverage",
+        "drinkable liquid",
+        "potable liquid",
+        "liquid refreshment",
+        "thirst quencher"
+      ]
+    }
+  ],
+  "phrases": [
+    "Alcohol impairs the senses, and people do all sorts of foolishness on the road when they drink and drive.",
+    "Since then, the message has been remorselessly driven home: do not drink and drive.",
+    "He urged motorists to stick to speed limits, pay attention when driving, wear seatbelts at all times, never drink and drive and always drive according to road conditions.",
+    "He was very popular and not the type of lad to drink and drive or take drugs.",
+    "He added: There is a hardcore of reckless drivers who continue to drink and drive."
+  ],
+  "origin": "Old English drincan (verb), drinc (noun), of Germanic origin; related to Dutch drinken and German trinken.",
+  "pronounciation": "/driNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drink_us_1.mp3"
+}

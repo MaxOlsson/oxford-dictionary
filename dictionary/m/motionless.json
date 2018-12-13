@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not moving; stationary.",
+      "examples": [
+        "an eagle hung almost motionless close to the ground"
+      ],
+      "synonyms": [
+        "unmoving",
+        "still",
+        "stationary",
+        "stock-still",
+        "at a standstill",
+        "immobile",
+        "immovable",
+        "static",
+        "at rest",
+        "halted",
+        "stopped",
+        "not moving a muscle",
+        "rooted to the spot",
+        "transfixed",
+        "paralysed",
+        "frozen",
+        "inert",
+        "inanimate",
+        "quiescent",
+        "lifeless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmoʊʃ(ə)nləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/motionless_us_1.mp3"
+}

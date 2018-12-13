@@ -1,0 +1,75 @@
+{
+  "exclamation": [
+    {
+      "description": "Used to give an affirmative response.",
+      "examples": [
+        "“Do you understand?” “Yes.”"
+      ],
+      "synonyms": [
+        "all right",
+        "alright",
+        "very well",
+        "of course",
+        "by all means",
+        "sure",
+        "certainly",
+        "absolutely",
+        "indeed",
+        "affirmative",
+        "in the affirmative",
+        "agreed",
+        "roger"
+      ]
+    },
+    {
+      "description": "Used as a response to someone addressing one or otherwise trying to attract one's attention.",
+      "examples": [
+        "“Oh, Mr. Lawrence.” “Yes?”"
+      ]
+    },
+    {
+      "description": "Used to question a remark or ask for more detail about it.",
+      "examples": [
+        "“It should be easy to check.” “Oh yes? How?”"
+      ]
+    },
+    {
+      "description": "Encouraging someone to continue speaking.",
+      "examples": [
+        "“When you bought those photographs …” “Yes?”"
+      ]
+    },
+    {
+      "description": "Expressing delight.",
+      "examples": [
+        "plenty to eat, including hot roast beef sandwiches (yes!)"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An affirmative answer or decision, especially in voting.",
+      "examples": [
+        "answering with assured and ardent yeses"
+      ],
+      "synonyms": [
+        "approval",
+        "seal of approval",
+        "approbation",
+        "endorsement",
+        "welcome",
+        "encouragement"
+      ]
+    }
+  ],
+  "phrases": [
+    "“Did it come as a surprise to you?” “Yes and no.”",
+    "Yet no one has offered to suggest that Ablett's woes are anything other than those of his own making - but I would argue yes and no?",
+    "Asked if he was still doing legal work, he replied: The answer is yes and no in that I have always done wee bits and pieces.",
+    "Larissa Behrendt: I think the answer to that is yes and no.",
+    "The answer, like so many things in politics, is yes and no."
+  ],
+  "origin": "Old English gēse, gīse, probably from an unrecorded phrase meaning may it be so.",
+  "pronounciation": "/yes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yes_us_2.mp3"
+}

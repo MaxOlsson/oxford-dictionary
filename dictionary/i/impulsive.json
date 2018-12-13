@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Acting or done without forethought.",
+      "examples": [
+        "they had married as young impulsive teenagers",
+        "perhaps he's regretting his impulsive offer"
+      ],
+      "synonyms": [
+        "impetuous",
+        "spontaneous",
+        "hasty",
+        "passionate",
+        "emotional",
+        "uninhibited",
+        "unrepressed",
+        "abandoned"
+      ]
+    },
+    {
+      "description": "Acting as an impulse."
+    }
+  ],
+  "origin": "Late Middle English (in the sense tending to impel): from French impulsif, -ive or late Latin impulsivus, from Latin impuls- driven onwards (see impulse). impulsive (sense 1) dates from the mid 18th century.",
+  "pronounciation": "/ɪmˈpəlsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impulsive_us_1.mp3"
+}

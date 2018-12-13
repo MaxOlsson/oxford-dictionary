@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to take effective action; helpless or powerless.",
+      "examples": [
+        "he was seized with an impotent anger"
+      ],
+      "synonyms": [
+        "powerless",
+        "ineffective",
+        "ineffectual",
+        "inadequate",
+        "weak",
+        "useless",
+        "worthless",
+        "vain",
+        "futile",
+        "unavailing",
+        "unsuccessful",
+        "profitless",
+        "fruitless"
+      ]
+    },
+    {
+      "description": "(of a man) abnormally unable to achieve a sexual erection."
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin impotent- powerless, from in- not + potent- (see potent).",
+  "pronounciation": "/ˈimpətnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impotent_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A large funnel-shaped device for amplifying and directing the voice.",
+      "synonyms": [
+        "public address system",
+        "pa system",
+        "speaker",
+        "speaker unit",
+        "speaker system",
+        "microphone"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Utter through, or as if through, a megaphone.",
+      "examples": [
+        "the director stood around megaphoning orders",
+        "it was only their guides megaphoning to them"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɛɡəˌfoʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/megaphone_us_1.mp3"
+}

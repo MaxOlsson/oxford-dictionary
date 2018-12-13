@@ -1,0 +1,50 @@
+{
+  "pronoun &amp; determiner": [
+    {
+      "description": "Used to refer to every one of two or more people or things, regarded and identified separately.",
+      "examples": [
+        "each battery is in a separate compartment",
+        "each one of us was asked what went on",
+        "Doug had money from each of his five uncles",
+        "they each have their own personality"
+      ],
+      "synonyms": [
+        "every one",
+        "each one",
+        "each and every one",
+        "one and all",
+        "all",
+        "the whole lot"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To, for, or by every one of a group (used after a noun or an amount)",
+      "examples": [
+        "Paul and Bill have a glass each",
+        "they cost $35 each"
+      ],
+      "synonyms": [
+        "apiece",
+        "per person",
+        "per capita",
+        "to each",
+        "for each",
+        "from each",
+        "individually",
+        "respectively"
+      ]
+    }
+  ],
+  "phrases": [
+    "taking each and every opportunity",
+    "Nonetheless my thoughts and best wishes are with each and every athlete who will wear the British colours.",
+    "It is a rare opportunity for each and every individual member to say what he or she thinks.",
+    "Great credit goes to each and every one of the players and their management team.",
+    "With a complete script, each and every frame of the film is very clear in my mind."
+  ],
+  "origin": "Old English ǣlc; related to Dutch elk and German jeglich, based on a West Germanic phrase meaning ever alike (see aye, alike).",
+  "pronounciation": "/itʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/each_us_1.mp3"
+}

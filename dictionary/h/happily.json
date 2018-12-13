@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "In a happy way.",
+      "examples": [
+        "Eleanor giggled happily"
+      ],
+      "synonyms": [
+        "contentedly",
+        "merrily",
+        "delightedly",
+        "joyfully",
+        "gaily",
+        "cheerfully",
+        "cheerily",
+        "agreeably",
+        "blithely",
+        "light-heartedly",
+        "gleefully",
+        "blissfully",
+        "with pleasure",
+        "to one's heart's content"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhapəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/happily_us_1.mp3"
+}

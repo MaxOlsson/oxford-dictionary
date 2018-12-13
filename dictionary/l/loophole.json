@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "An ambiguity or inadequacy in the law or a set of rules.",
+      "examples": [
+        "they exploited tax loopholes"
+      ],
+      "synonyms": [
+        "means of avoidance",
+        "means of evasion",
+        "means of escape",
+        "escape clause",
+        "escape route"
+      ]
+    },
+    {
+      "description": "An arrow slit in a wall.",
+      "synonyms": [
+        "hole",
+        "gap",
+        "opening",
+        "aperture",
+        "chink",
+        "slit",
+        "slot"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make arrow slits in (a wall or building)."
+    }
+  ],
+  "origin": "Late 16th century (denoting an arrow slit): from obsolete loop embrasure + hole.",
+  "pronounciation": "/ˈlupˌ(h)oʊl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/loophole_us_1.mp3"
+}

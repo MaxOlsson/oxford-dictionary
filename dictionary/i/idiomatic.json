@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Using, containing, or denoting expressions that are natural to a native speaker.",
+      "examples": [
+        "distinctive idiomatic dialogue"
+      ],
+      "synonyms": [
+        "natural",
+        "native-speaker",
+        "grammatical",
+        "correct"
+      ]
+    },
+    {
+      "description": "Appropriate to the style of art or music associated with a particular period, individual, or group.",
+      "examples": [
+        "a short Bach piece containing lots of idiomatic motifs"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Greek idiōmatikos peculiar, characteristic, from idiōma (see idiom).",
+  "pronounciation": "/ˌidēəˈmadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/idiomatic_us_2.mp3"
+}

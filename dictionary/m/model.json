@@ -1,0 +1,105 @@
+{
+  "noun": [
+    {
+      "description": "A three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original.",
+      "examples": [
+        "a model of St. Paul's Cathedral",
+        "a model airplane"
+      ],
+      "synonyms": [
+        "replica",
+        "copy",
+        "representation",
+        "mock-up",
+        "dummy",
+        "imitation",
+        "double",
+        "duplicate",
+        "lookalike",
+        "reproduction"
+      ]
+    },
+    {
+      "description": "A system or thing used as an example to follow or imitate.",
+      "examples": [
+        "the law became a model for dozens of laws banning nondegradable plastic products",
+        "a model farm"
+      ],
+      "synonyms": [
+        "prototype",
+        "stereotype",
+        "archetype",
+        "type",
+        "version",
+        "style"
+      ]
+    },
+    {
+      "description": "A simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions.",
+      "examples": [
+        "a statistical model used for predicting the survival rates of endangered species"
+      ],
+      "synonyms": [
+        "prototype",
+        "stereotype",
+        "archetype",
+        "type",
+        "version",
+        "style"
+      ]
+    },
+    {
+      "description": "A person employed to display clothes by wearing them.",
+      "examples": [
+        "a fashion model"
+      ],
+      "synonyms": [
+        "fashion model",
+        "supermodel",
+        "mannequin"
+      ]
+    },
+    {
+      "description": "A particular design or version of a product.",
+      "examples": [
+        "trading your car in for a newer model"
+      ],
+      "synonyms": [
+        "version",
+        "type",
+        "design",
+        "mark",
+        "configuration",
+        "variety",
+        "kind",
+        "sort"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fashion or shape (a three-dimensional figure or object) in a malleable material such as clay or wax.",
+      "examples": [
+        "use the icing to model a house"
+      ]
+    },
+    {
+      "description": "Use (a system, procedure, etc.) as an example to follow or imitate.",
+      "examples": [
+        "the research method will be modeled on previous work"
+      ]
+    },
+    {
+      "description": "Devise a representation, especially a mathematical one, of (a phenomenon or system)",
+      "examples": [
+        "a computer program that can model how smoke behaves"
+      ]
+    },
+    {
+      "description": "Display (clothes) by wearing them."
+    }
+  ],
+  "origin": "Late 16th century (denoting a set of plans of a building): from French modelle, from Italian modello, from an alteration of Latin modulus (see modulus).",
+  "pronounciation": "/ˈmädl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/model_us_1.mp3"
+}

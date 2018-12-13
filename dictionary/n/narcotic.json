@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A drug or other substance affecting mood or behavior and sold for nonmedical purposes, especially an illegal one.",
+      "synonyms": [
+        "drugs",
+        "narcotics",
+        "addictive drugs",
+        "recreational drugs",
+        "illegal drugs"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or denoting narcotics or their effects or use.",
+      "examples": [
+        "the substance has a mild narcotic effect"
+      ],
+      "synonyms": [
+        "soporific",
+        "sleep-inducing",
+        "opiate",
+        "hypnotic"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French narcotique, via medieval Latin from Greek narkōtikos, from narkoun make numb.",
+  "pronounciation": "/närˈkädik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/narcotic_us_2.mp3"
+}

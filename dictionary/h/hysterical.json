@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Deriving from or affected by uncontrolled extreme emotion.",
+      "examples": [
+        "the band was mobbed by hysterical fans",
+        "hysterical laughter"
+      ],
+      "synonyms": [
+        "overwrought",
+        "emotional",
+        "uncontrolled",
+        "uncontrollable",
+        "out of control",
+        "unrestrained",
+        "unrestrainable",
+        "frenzied",
+        "in a frenzy",
+        "frantic",
+        "wild",
+        "feverish"
+      ]
+    },
+    {
+      "description": "Relating to, associated with, or suffering from hysteria.",
+      "examples": [
+        "the doctor thinks the condition is partly hysterical"
+      ]
+    }
+  ],
+  "pronounciation": "/həˈsterək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hysterical_us_1.mp3"
+}

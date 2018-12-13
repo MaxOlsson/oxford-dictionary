@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A light ringing sound such as that made by metal objects being shaken together.",
+      "synonyms": [
+        "clink",
+        "chink",
+        "tinkle",
+        "jangle",
+        "rattle"
+      ]
+    },
+    {
+      "description": "A short slogan, verse, or tune designed to be easily remembered, especially as used in advertising.",
+      "synonyms": [
+        "slogan",
+        "catchline",
+        "catchphrase"
+      ]
+    },
+    {
+      "description": "A bivalve mollusk with a fragile, slightly translucent shell, the lower valve of which has a hole through which pass byssus threads for anchorage."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or cause to make a light metallic ringing sound.",
+      "examples": [
+        "her bracelets were jingling",
+        "he jingled the coins in his pocket"
+      ],
+      "synonyms": [
+        "clink",
+        "chink",
+        "tinkle",
+        "jangle",
+        "rattle",
+        "clank"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative.",
+  "pronounciation": "/ˈjiNGɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jingle_us_1.mp3"
+}

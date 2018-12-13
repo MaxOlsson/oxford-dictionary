@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of hair or fur) tangled into a thick mass.",
+      "examples": [
+        "a cardigan of matted gray wool"
+      ],
+      "synonyms": [
+        "tangled",
+        "tangly",
+        "entangled",
+        "knotted",
+        "knotty",
+        "natty",
+        "tousled",
+        "dishevelled",
+        "uncombed",
+        "unkempt",
+        "felted",
+        "ratty",
+        "greasy",
+        "dirty"
+      ]
+    },
+    {
+      "description": "Covered or furnished with mats.",
+      "examples": [
+        "the matted floor"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmadəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/matted_us_2.mp3"
+}

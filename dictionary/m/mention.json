@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Refer to something briefly and without going into detail.",
+      "examples": [
+        "I haven't mentioned it to William yet",
+        "I mentioned that my father was meeting me later"
+      ],
+      "synonyms": [
+        "allude to",
+        "refer to",
+        "touch on",
+        "touch upon",
+        "speak briefly of",
+        "hint at"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reference to someone or something.",
+      "examples": [
+        "their eyes light up at a mention of Sartre",
+        "she made no mention of her disastrous trip to Paris"
+      ],
+      "synonyms": [
+        "reference to",
+        "allusion to",
+        "comment on",
+        "remark about"
+      ]
+    }
+  ],
+  "phrases": [
+    "Oh, that, don't mention it, said Karen, with a chuckle.",
+    "No, don't mention it; I'm sorry I knocked you over.",
+    "Please don't mention it, Vicki snapped slightly.",
+    "Aw, don't mention it, I said, trying to sound cheerful.",
+    "Man, don't mention it; what are friends for?"
+  ],
+  "origin": "Middle English (originally in make mention of): via Old French from Latin mentio(n-); related to mind.",
+  "pronounciation": "/ˈmɛn(t)ʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mention_us_1.mp3"
+}

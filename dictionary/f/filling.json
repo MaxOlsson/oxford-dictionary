@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A quantity of material that fills or is used to fill something.",
+      "examples": [
+        "a cushion with polyester filling"
+      ],
+      "synonyms": [
+        "stuffing",
+        "padding",
+        "wadding",
+        "filler",
+        "quilting",
+        "cushioning",
+        "lining",
+        "packing"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of food) leaving one with a pleasantly satiated feeling.",
+      "examples": [
+        "a filling spicy bean soup"
+      ],
+      "synonyms": [
+        "substantial",
+        "hearty",
+        "ample",
+        "abundant",
+        "solid",
+        "nutritious",
+        "nourishing",
+        "satisfying",
+        "square"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfiliNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/filling_us_1.mp3"
+}

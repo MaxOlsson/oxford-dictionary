@@ -1,0 +1,48 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's eyes) looking downward.",
+      "examples": [
+        "her modestly downcast eyes"
+      ]
+    },
+    {
+      "description": "(of a person) feeling despondent.",
+      "synonyms": [
+        "despondent",
+        "disheartened",
+        "discouraged",
+        "dispirited",
+        "downhearted",
+        "low-spirited",
+        "in low spirits",
+        "hopeless",
+        "cast down",
+        "crestfallen",
+        "down",
+        "low",
+        "disconsolate",
+        "in despair",
+        "despairing",
+        "wretched",
+        "oppressed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shaft dug in a mine for extra ventilation.",
+      "synonyms": [
+        "mineshaft",
+        "tunnel",
+        "passage",
+        "pit",
+        "adit",
+        "downcast",
+        "upcast"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdounˌkast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downcast_us_1.mp3"
+}

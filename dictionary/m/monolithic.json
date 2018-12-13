@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Formed of a single large block of stone."
+    },
+    {
+      "description": "(of an organization or system) large, powerful, and intractably indivisible and uniform.",
+      "examples": [
+        "rejecting any move toward a monolithic European superstate"
+      ],
+      "synonyms": [
+        "inflexible",
+        "rigid",
+        "unbending",
+        "unchanging",
+        "intractable",
+        "immovable",
+        "impenetrable",
+        "fossilized",
+        "hidebound"
+      ]
+    },
+    {
+      "description": "(of a solid-state circuit) composed of active and passive components formed in a single chip."
+    }
+  ],
+  "pronounciation": "/ˌmɑnəˈlɪθɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monolithic_us_1.mp3"
+}

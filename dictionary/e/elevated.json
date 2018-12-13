@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Situated or placed higher than the surrounding area.",
+      "examples": [
+        "this hotel has an elevated position above the village",
+        "the elevated section of the freeway"
+      ],
+      "synonyms": [
+        "raised",
+        "upraised",
+        "uplifted",
+        "lifted up",
+        "high up",
+        "aloft",
+        "aerial",
+        "overhead",
+        "hoisted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An elevated railroad."
+    }
+  ],
+  "pronounciation": "/ˈeləˌvādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elevated_us_1.mp3"
+}

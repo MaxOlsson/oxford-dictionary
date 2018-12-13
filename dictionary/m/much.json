@@ -1,0 +1,61 @@
+{
+  "pronoun &amp; determiner": [
+    {
+      "description": "A large amount.",
+      "examples": [
+        "I did not get much sleep",
+        "I did so much shopping",
+        "he does not eat much",
+        "they must bear much of the blame"
+      ],
+      "synonyms": [
+        "a lot of",
+        "a good deal of",
+        "a great deal of",
+        "a great amount of",
+        "a large amount of",
+        "plenty of",
+        "ample",
+        "copious",
+        "abundant",
+        "plentiful",
+        "considerable",
+        "substantial"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To a great extent; a great deal.",
+      "examples": [
+        "did it hurt much?",
+        "thanks very much",
+        "they did not mind, much to my surprise",
+        "they look much better",
+        "Nicolai's English was much the worst"
+      ],
+      "synonyms": [
+        "greatly",
+        "to a great degree",
+        "to a great extent",
+        "a great deal",
+        "a lot",
+        "exceedingly",
+        "considerably",
+        "appreciably",
+        "decidedly",
+        "indeed"
+      ]
+    }
+  ],
+  "phrases": [
+    "I am sure she would do as much for me",
+    "I hoped as much, thanks for confirming that.",
+    "Those of us who have to travel on the Northern line have suspected as much for years.",
+    "I figured as much: I had a feeling this was the case.",
+    "his earnestness can be a bit much"
+  ],
+  "origin": "Middle English: shortened from muchel, from Old English micel (see mickle).",
+  "pronounciation": "/mətʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/much_us_1.mp3"
+}

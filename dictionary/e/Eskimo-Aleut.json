@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the family of languages comprising Inuit, Yupik, and Aleut."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Eskimo-Aleut family of languages.",
+      "examples": [
+        "the Eskimo-Aleut languages"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌeskəˌmōəˈlo͞ot/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/eskimo_aleut_1_us_1.mp3"
+}

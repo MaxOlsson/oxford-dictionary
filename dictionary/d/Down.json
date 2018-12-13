@@ -1,0 +1,260 @@
+{
+  "adverb": [
+    {
+      "description": "Toward or in a lower place or position, especially to or on the ground or another surface.",
+      "examples": [
+        "she looked down",
+        "the sun started to go down",
+        "he put his glass down",
+        "he swung the ax to chop down the tree",
+        "she flicked the switch up and down"
+      ],
+      "synonyms": [
+        "towards a lower position",
+        "downwards",
+        "downstairs",
+        "towards the bottom",
+        "from top to bottom"
+      ]
+    },
+    {
+      "description": "To or at a lower level of intensity, volume, or activity.",
+      "examples": [
+        "keep the noise down",
+        "the panic was dying down",
+        "at night it would cool down"
+      ]
+    },
+    {
+      "description": "In or into a weaker or worse position, mood, or condition.",
+      "examples": [
+        "the scandal brought down the government",
+        "he was down with the flu"
+      ]
+    },
+    {
+      "description": "In or into writing.",
+      "examples": [
+        "taking down notes",
+        "I just write down whatever comes into my head"
+      ]
+    },
+    {
+      "description": "(with reference to partial payment of a sum of money) made initially or on the spot.",
+      "examples": [
+        "pay $500 down and the rest at the end of the month"
+      ]
+    },
+    {
+      "description": "(of sailing) with the current or the wind."
+    },
+    {
+      "description": "(of the ball or a player in possession) not in play, typically because forward progress has been stopped."
+    }
+  ],
+  "preposition": [
+    {
+      "description": "From a higher to a lower point of (something)",
+      "examples": [
+        "up and down the stairs",
+        "tears streaming down her face"
+      ],
+      "synonyms": [
+        "lower in",
+        "lower on",
+        "to the bottom of"
+      ]
+    },
+    {
+      "description": "Throughout (a period of time)",
+      "examples": [
+        "astrologers down the ages"
+      ],
+      "synonyms": [
+        "throughout",
+        "through",
+        "during",
+        "in"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Directed or moving toward a lower place or position.",
+      "examples": [
+        "the down escalator",
+        "click on the down arrow"
+      ]
+    },
+    {
+      "description": "Unhappy; depressed.",
+      "examples": [
+        "he's been so down lately"
+      ],
+      "synonyms": [
+        "depressed",
+        "sad",
+        "saddened",
+        "unhappy",
+        "melancholy",
+        "miserable",
+        "wretched",
+        "sorrowful",
+        "gloomy",
+        "dejected",
+        "downhearted",
+        "disheartened",
+        "despondent",
+        "dispirited",
+        "low",
+        "in low spirits",
+        "low-spirited",
+        "heavy-hearted",
+        "glum",
+        "morose",
+        "dismal",
+        "downcast",
+        "cast down",
+        "tearful"
+      ]
+    },
+    {
+      "description": "(of a computer system) temporarily out of action or unavailable.",
+      "examples": [
+        "sorry, but the computer's down"
+      ],
+      "synonyms": [
+        "not working",
+        "not functioning",
+        "not functional",
+        "not in working order",
+        "not in operation",
+        "inoperative",
+        "malfunctioning",
+        "out of order",
+        "broken",
+        "broken-down",
+        "acting up",
+        "unserviceable",
+        "faulty",
+        "defective",
+        "in disrepair"
+      ]
+    },
+    {
+      "description": "Supporting or going along with someone or something.",
+      "examples": [
+        "you got to be down with me",
+        "she was totally down for a selfie",
+        "“You going to the movies?” “Yo, I'm down.”"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Knock or bring to the ground.",
+      "examples": [
+        "175 enemy aircraft had been downed",
+        "he struck Slater on the face, downing him"
+      ],
+      "synonyms": [
+        "knock down",
+        "knock over",
+        "knock to the ground",
+        "throw to the ground",
+        "bring down",
+        "bring to the ground",
+        "fell",
+        "topple",
+        "prostrate",
+        "tackle",
+        "rugby-tackle",
+        "trip up"
+      ]
+    },
+    {
+      "description": "Consume (something, typically a drink)",
+      "examples": [
+        "he downed a six-pack"
+      ],
+      "synonyms": [
+        "drink",
+        "drink down",
+        "drink up",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "quaff",
+        "drain",
+        "imbibe",
+        "sup",
+        "slurp",
+        "suck",
+        "sip",
+        "swallow",
+        "finish off",
+        "polish off"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A chance for a team to advance the ball, ending when the ball carrier is tackled or the ball becomes out of play. A team must advance at least ten yards in a series of four downs in order to keep possession."
+    },
+    {
+      "description": "Unwelcome experiences or events.",
+      "examples": [
+        "there had been more downs than ups during his years at the company"
+      ],
+      "synonyms": [
+        "setbacks",
+        "upsets",
+        "reverses",
+        "reversals",
+        "reversals of fortune",
+        "downturns",
+        "mishaps",
+        "strokes of ill luck",
+        "strokes of bad luck",
+        "accidents",
+        "shocks",
+        "vicissitudes",
+        "crises",
+        "catastrophes",
+        "tragedies",
+        "calamities",
+        "trials",
+        "crosses",
+        "knocks",
+        "burdens",
+        "blows",
+        "buffets"
+      ]
+    },
+    {
+      "description": "A feeling or period of unhappiness or depression.",
+      "examples": [
+        "everyone gets their downs, their depressive periods"
+      ],
+      "synonyms": [
+        "fit of depression",
+        "period of despondency"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "One of the six counties of Northern Ireland, formerly an administrative area; chief town, Downpatrick."
+    }
+  ],
+  "phrases": [
+    "To be fair, we were down on Episode III from the outset.",
+    "Before I agreed to join Wigan, everyone was down on me and having a go because I was even considering it, he says.",
+    "Over the years, readers may have gained the idea that the police in general, and London's Met police in particular, had a down on demonstrations.",
+    "I am going to be accused of having a down on female drivers.",
+    "I really don't understand why they are so down on her."
+  ],
+  "origin": "Old English dūn hill (related to Dutch duin dune), perhaps ultimately of Celtic origin and related to Old Irish dún and obsolete Welsh din fort, which are from an Indo-European root shared by town.",
+  "pronounciation": "/daʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/down_us_1.mp3"
+}

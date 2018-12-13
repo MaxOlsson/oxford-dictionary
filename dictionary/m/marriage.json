@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The legally or formally recognized union of two people as partners in a personal relationship (historically and in some jurisdictions specifically a union between a man and a woman)",
+      "examples": [
+        "a happy marriage",
+        "the children from his first marriage",
+        "marriage vows"
+      ],
+      "synonyms": [
+        "wedding",
+        "wedding ceremony",
+        "marriage ceremony",
+        "nuptials",
+        "union"
+      ]
+    },
+    {
+      "description": "A combination or mixture of two or more elements.",
+      "examples": [
+        "a marriage of jazz, pop, blues, and gospel"
+      ],
+      "synonyms": [
+        "union",
+        "alliance",
+        "fusion",
+        "amalgamation",
+        "combination",
+        "affiliation",
+        "association",
+        "connection",
+        "coupling",
+        "merger",
+        "unification"
+      ]
+    }
+  ],
+  "phrases": [
+    "a distant cousin by marriage",
+    "The sense of family identity extended to grandparents, aunts and uncles, cousins, and relatives by marriage.",
+    "She was some sort of cousin by marriage to Antonia's mother and the pair would sometimes engage in conversation.",
+    "That commitment is then reinforced by the web of familial and other relations, created by marriage, that they have around them.",
+    "The terms of the order prevent him downloading or viewing images of children under the age of 16 unless they are blood relatives, relatives by marriage or godchildren."
+  ],
+  "origin": "Middle English: from Old French mariage, from marier marry.",
+  "pronounciation": "/ˈmɛrɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/marriage_us_1.mp3"
+}

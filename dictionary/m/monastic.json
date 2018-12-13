@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to monks, nuns, or others living under religious vows, or the buildings in which they live.",
+      "examples": [
+        "a monastic order"
+      ],
+      "synonyms": [
+        "cloistered",
+        "conventual",
+        "cloistral",
+        "claustral",
+        "canonical",
+        "monastical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A monk or other follower of a monastic rule.",
+      "synonyms": [
+        "monk",
+        "cleric",
+        "friar",
+        "religious",
+        "regular",
+        "monastic",
+        "contemplative"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense anchoritic): from late Latin monasticus, from Greek monastikos, from monazein live alone.",
+  "pronounciation": "/məˈnæstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monastic_us_1.mp3"
+}

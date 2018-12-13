@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "Animal dung used for fertilizing land.",
+      "synonyms": [
+        "dung",
+        "muck",
+        "droppings",
+        "ordure",
+        "guano",
+        "cowpats"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Apply manure to (land)",
+      "examples": [
+        "the ground should be well dug and manured"
+      ],
+      "synonyms": [
+        "add fertilizer to",
+        "enrich with fertilizer",
+        "feed",
+        "mulch",
+        "compost",
+        "manure",
+        "dung",
+        "dress",
+        "top-dress"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb in the sense cultivate (land)): from Anglo-Norman French mainoverer, Old French manouvrer (see maneuver). The noun sense dates from the mid 16th century.",
+  "pronounciation": "/məˈn(j)ʊr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/manure_us_1.mp3"
+}

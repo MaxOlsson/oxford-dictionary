@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A point where two systems, subjects, organizations, etc. meet and interact.",
+      "examples": [
+        "the interface between accountancy and the law"
+      ]
+    },
+    {
+      "description": "A device or program enabling a user to communicate with a computer."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Interact with (another system, person, organization, etc.)",
+      "examples": [
+        "his goal is to get people interfacing with each other"
+      ],
+      "synonyms": [
+        "liaise",
+        "be in touch",
+        "be in contact",
+        "be in communication",
+        "make contact",
+        "have dealings",
+        "commune",
+        "meet",
+        "meet up"
+      ]
+    },
+    {
+      "description": "Connect with (another computer or piece of equipment) by an interface.",
+      "synonyms": [
+        "cooperate",
+        "work together",
+        "collaborate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈin(t)ərˌfās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/interface_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone's hair or clothes) untidy or messy.",
+      "examples": [
+        "she sat down carefully so she wouldn't muss her clothes"
+      ],
+      "synonyms": [
+        "ruffle",
+        "tousle",
+        "dishevel",
+        "rumple",
+        "mess up",
+        "make a mess of",
+        "disarrange",
+        "make untidy",
+        "tumble",
+        "put out of place",
+        "disorder"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A state of disorder."
+    }
+  ],
+  "origin": "Mid 19th century (also as a noun in the sense disturbance or row): apparently a variant of mess.",
+  "pronounciation": "/məs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/muss_us_1.mp3"
+}

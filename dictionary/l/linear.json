@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Arranged in or extending along a straight or nearly straight line.",
+      "examples": [
+        "linear movement",
+        "linear arrangements",
+        "linear in shape"
+      ],
+      "synonyms": [
+        "unswerving",
+        "undeviating",
+        "direct",
+        "as straight as an arrow",
+        "uncurving",
+        "unbending"
+      ]
+    },
+    {
+      "description": "Progressing from one stage to another in a single series of steps; sequential.",
+      "examples": [
+        "a linear narrative"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin linearis, from linea a line (see line).",
+  "pronounciation": "/ˈlɪniər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/linear_us_1.mp3"
+}

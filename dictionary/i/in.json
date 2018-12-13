@@ -1,0 +1,193 @@
+{
+  "preposition": [
+    {
+      "description": "Expressing the situation of something that is or appears to be enclosed or surrounded by something else.",
+      "examples": [
+        "dressed in their Sunday best",
+        "she saw it in the rearview mirror",
+        "living in Deep River",
+        "soak it in warm soapy water"
+      ],
+      "synonyms": [
+        "inside",
+        "within",
+        "in the middle of",
+        "within the bounds of",
+        "within the confines of"
+      ]
+    },
+    {
+      "description": "Expressing a period of time during which an event takes place or a situation remains the case.",
+      "examples": [
+        "they met in 1885",
+        "at one o'clock in the morning",
+        "I hadn't seen him in years"
+      ],
+      "synonyms": [
+        "during",
+        "in the course of",
+        "in the time of",
+        "over"
+      ]
+    },
+    {
+      "description": "Expressing the length of time before a future event is expected to take place.",
+      "examples": [
+        "I'll see you in fifteen minutes"
+      ],
+      "synonyms": [
+        "after",
+        "at the end of",
+        "following",
+        "subsequent to"
+      ]
+    },
+    {
+      "description": "(often followed by a noun without a determiner) expressing a state or condition.",
+      "examples": [
+        "to be in love",
+        "I've got to put my affairs in order",
+        "a woman in her thirties",
+        "laid out in a straight line"
+      ]
+    },
+    {
+      "description": "Expressing inclusion or involvement.",
+      "examples": [
+        "I read it in a book",
+        "acting in a film"
+      ]
+    },
+    {
+      "description": "Indicating someone's occupation or profession.",
+      "examples": [
+        "she works in publishing"
+      ]
+    },
+    {
+      "description": "Indicating the language or medium used.",
+      "examples": [
+        "say it in Polish",
+        "put it in writing"
+      ]
+    },
+    {
+      "description": "As an integral part of (an activity)",
+      "examples": [
+        "in planning public expenditure it is better to be prudent"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Expressing movement with the result that someone or something becomes enclosed or surrounded by something else.",
+      "examples": [
+        "come in",
+        "presently the admiral breezed in",
+        "bring it in"
+      ],
+      "synonyms": [
+        "inside",
+        "indoors",
+        "into the interior",
+        "into the building",
+        "into the house",
+        "into the room",
+        "within"
+      ]
+    },
+    {
+      "description": "Expressing the situation of being enclosed or surrounded by something.",
+      "examples": [
+        "we were locked in"
+      ]
+    },
+    {
+      "description": "Expressing arrival at a destination.",
+      "examples": [
+        "the train got in very late"
+      ]
+    },
+    {
+      "description": "(of the tide) rising or at its highest level.",
+      "synonyms": [
+        "high",
+        "at its highest level",
+        "rising"
+      ]
+    },
+    {
+      "description": "(of an infielder or outfielder) playing closer to home plate than usual.",
+      "examples": [
+        "looking for a force, they brought the infield in"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person) present at one's home or office.",
+      "examples": [
+        "we knocked at the door but there was no one in"
+      ],
+      "synonyms": [
+        "present",
+        "home",
+        "at home"
+      ]
+    },
+    {
+      "description": "Fashionable.",
+      "examples": [
+        "pastels and light colors are in this year",
+        "the in thing to do"
+      ],
+      "synonyms": [
+        "fashionable",
+        "in fashion",
+        "in vogue",
+        "voguish",
+        "stylish",
+        "in style",
+        "popular",
+        "up to date",
+        "bang up to date",
+        "up to the minute",
+        "modern",
+        "modish",
+        "trendsetting",
+        "chic"
+      ]
+    },
+    {
+      "description": "(of the ball in tennis and similar games) landing within the designated playing area."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A position of influence with someone powerful or famous.",
+      "examples": [
+        "he would ensure an in with the nominee"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "The chemical element indium."
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Indiana (in official postal use)."
+    }
+  ],
+  "phrases": [
+    "it looks as if we're in for a storm",
+    "These fine visitors, I thought, were in for what I can only describe as a culinary comeuppance.",
+    "However, the two of them were in for quite a startling surprise.",
+    "CBI members must have known what they were in for when they elected him.",
+    "Anyone who buys this album expecting gentle country wailing will be in for the rudest of shocks."
+  ],
+  "origin": "Old English in (preposition), inn, inne (adverb), of Germanic origin; related to Dutch and German in (preposition), German ein (adverb), from an Indo-European root shared by Latin in and Greek en.",
+  "pronounciation": "/ɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/in_us_1.mp3"
+}

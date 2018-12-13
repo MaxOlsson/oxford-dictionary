@@ -1,0 +1,17 @@
+{
+  "noun": [
+    {
+      "description": "A device for transferring data by means of punching holes or notches on a series of cards or paper tape."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put into the form of punched cards or paper tape by means of a keypunch.",
+      "examples": [
+        "there have been thousands of lines of poetry keypunched in order to produce concordances"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkēˌpən(t)SH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/keypunch_us_1.mp3"
+}

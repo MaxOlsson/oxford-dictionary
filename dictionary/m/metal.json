@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g., iron, gold, silver, copper, and aluminum, and alloys such as brass and steel)",
+      "examples": [
+        "being a metal, aluminum readily conducts heat",
+        "vessels made of ceramics or metal"
+      ],
+      "synonyms": [
+        "rail",
+        "line"
+      ]
+    },
+    {
+      "description": "Broken stone for use in making roads."
+    },
+    {
+      "description": "Molten glass before it is blown or cast."
+    },
+    {
+      "description": "Heavy metal or similar rock music."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make out of or coat with metal.",
+      "examples": [
+        "metaled key rings"
+      ]
+    },
+    {
+      "description": "Make or mend (a road) with road metal.",
+      "examples": [
+        "follow the metalled road for about 200 yards"
+      ],
+      "synonyms": [
+        "cover",
+        "surface",
+        "floor",
+        "top",
+        "finish",
+        "concrete",
+        "concrete over",
+        "asphalt",
+        "flag",
+        "tile",
+        "tar",
+        "tarmac"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French metal or Latin metallum, from Greek metallon mine, quarry, or metal.",
+  "pronounciation": "/ˈmɛdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/metal_us_1.mp3"
+}

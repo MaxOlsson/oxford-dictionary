@@ -1,0 +1,18 @@
+{
+  "verb": [
+    {
+      "description": "Change smoothly from one image to another by small gradual steps using computer animation techniques.",
+      "examples": [
+        "3-D objects can be morphed into other objects"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An image that has been morphed by computer animation."
+    }
+  ],
+  "origin": "1940s: from Greek morphē form.",
+  "pronounciation": "/mɔrf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_morph_1_us_1.mp3"
+}

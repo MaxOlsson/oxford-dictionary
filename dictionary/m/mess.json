@@ -1,0 +1,119 @@
+{
+  "noun": [
+    {
+      "description": "A dirty or untidy state of things or of a place.",
+      "examples": [
+        "she made a mess of the kitchen",
+        "my hair was a mess"
+      ],
+      "synonyms": [
+        "untidiness",
+        "disorder",
+        "disarray",
+        "clutter",
+        "heap",
+        "shambles",
+        "litter",
+        "tangle",
+        "jumble",
+        "muddle",
+        "mishmash",
+        "chaos",
+        "confusion",
+        "disorganization",
+        "turmoil"
+      ]
+    },
+    {
+      "description": "A situation or state of affairs that is confused or full of difficulties.",
+      "examples": [
+        "the economy is still in a terrible mess"
+      ],
+      "synonyms": [
+        "plight",
+        "predicament",
+        "emergency",
+        "tight spot",
+        "tight corner",
+        "difficulty",
+        "straits",
+        "trouble",
+        "quandary",
+        "dilemma",
+        "problem",
+        "muddle",
+        "mix-up",
+        "confusion",
+        "complication",
+        "imbroglio",
+        "entanglement",
+        "mire"
+      ]
+    },
+    {
+      "description": "A portion of semisolid or pulpy food, especially one that looks unappetizing.",
+      "examples": [
+        "a mess of mashed black beans and rice"
+      ],
+      "synonyms": [
+        "mash",
+        "mush",
+        "purée",
+        "cream",
+        "pressé",
+        "pap",
+        "slop",
+        "paste",
+        "slush",
+        "mulch",
+        "swill",
+        "slurry",
+        "semi-liquid",
+        "semi-fluid"
+      ]
+    },
+    {
+      "description": "A building or room in which members of the armed forces take their meals; mess hall.",
+      "examples": [
+        "the sergeants' mess"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make untidy or dirty.",
+      "examples": [
+        "you've messed up my beautiful carpet"
+      ],
+      "synonyms": [
+        "dirty",
+        "befoul",
+        "litter",
+        "besmirch",
+        "pollute"
+      ]
+    },
+    {
+      "description": "Take one's meals in a particular place or with a particular person, especially in an armed forces' mess.",
+      "examples": [
+        "I messed at first with Harry, who was to become a lifelong friend",
+        "they messed together"
+      ]
+    }
+  ],
+  "phrases": [
+    "all the eggs broke and made a mess",
+    "A responsible adult knows that if you make a mess, you're expected to clean it up, regardless if anyone compliments you for your efforts.",
+    "We can do whatever we want as long as we don't make a mess or at least clean up after ourselves.",
+    "When someone else makes a mess, Brad will hunt down whoever did it and make that person clean up the mess.",
+    "The triplets love painting and making a mess.",
+    "he singled out the health care fiasco as an example of how the government has messed up",
+    "If by any chance you land up messing up you need not get perturbed.",
+    "It's an extremely messed up situation when one innocent man has to die to protect others.",
+    "I had other police agencies say, Look, we don't like to talk about brother cops messing up.",
+    "If it all begins with humans messing up, and causing an imperfect world it all ends with Jesus sorting it out, and causing a perfect one!"
+  ],
+  "origin": "Middle English: from Old French mes portion of food, from late Latin missum something put on the table, past participle of mittere send, put. The original sense was a serving of (semiliquid) food, later liquid food for an animal; this gave rise (early 19th century) to the senses unappetizing concoction and predicament, on which sense 1 is based. In late Middle English the term also denoted any of the small groups into which the company at a banquet was divided (who were served from the same dishes); hence, a group who regularly eat together (recorded in military use from the mid 16th century).",
+  "pronounciation": "/mes/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mess_us_1.mp3"
+}

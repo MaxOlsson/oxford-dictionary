@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Walk or move in a leisurely manner.",
+      "examples": [
+        "we decided to mosey on up to Montgomery"
+      ],
+      "synonyms": [
+        "stroll",
+        "saunter",
+        "amble",
+        "wend one's way",
+        "trudge",
+        "plod",
+        "hike",
+        "tramp",
+        "trek",
+        "march",
+        "stride",
+        "troop",
+        "patrol",
+        "step out",
+        "wander",
+        "ramble",
+        "tread",
+        "prowl",
+        "footslog",
+        "promenade",
+        "roam",
+        "traipse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A leisurely walk or drive."
+    }
+  ],
+  "origin": "Early 19th century (originally US): of unknown origin. The original sense was go away quickly.",
+  "pronounciation": "/ˈmōzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mosey_us_1.mp3"
+}

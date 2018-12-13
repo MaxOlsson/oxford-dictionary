@@ -1,0 +1,91 @@
+{
+  "adjective": [
+    {
+      "description": "Achieved without great effort; presenting few difficulties.",
+      "examples": [
+        "an easy way of retrieving information"
+      ],
+      "synonyms": [
+        "uncomplicated",
+        "not difficult",
+        "undemanding",
+        "unexacting",
+        "unchallenging",
+        "effortless",
+        "painless",
+        "trouble-free",
+        "facile",
+        "simple",
+        "straightforward",
+        "elementary",
+        "idiot-proof",
+        "plain sailing"
+      ]
+    },
+    {
+      "description": "(of a period of time or way of life) free from worries or problems.",
+      "examples": [
+        "promises of an easy life in the New World"
+      ],
+      "synonyms": [
+        "calm",
+        "tranquil",
+        "serene",
+        "quiet",
+        "peaceful",
+        "trouble-free",
+        "untroubled",
+        "undisturbed",
+        "unworried",
+        "contented",
+        "relaxed",
+        "comfortable",
+        "secure",
+        "safe"
+      ]
+    },
+    {
+      "description": "(of an object of attack or criticism) having no defense; vulnerable.",
+      "examples": [
+        "he was vulnerable and an easy target"
+      ],
+      "synonyms": [
+        "vulnerable",
+        "susceptible",
+        "exploitable",
+        "defenceless",
+        "naive",
+        "gullible",
+        "trusting",
+        "credulous",
+        "impressionable"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Without difficulty or effort.",
+      "examples": [
+        "we all scared real easy in those days"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Be careful.",
+      "examples": [
+        "easy, girl—you'll knock me over!"
+      ]
+    }
+  ],
+  "phrases": [
+    "The problem is that growing protein crystals is a lot easier said than done - at least on terra firma.",
+    "I know, it's easier said than done, but it is something to aim for.",
+    "Though I know that is easier said than done, I can support that goal as an ideal.",
+    "At the other end the Westport forwards will have to step up to the plate in a big way but that's easier said than done against the Nallens and company.",
+    "The etiquette rule is to use the furthest outside one as the different courses are served, but that is easier said than done."
+  ],
+  "origin": "Middle English (also in the sense comfortable, tranquil): from Old French aisie, past participle of aisier put at ease, facilitate (see ease).",
+  "pronounciation": "/ˈēzē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/easy_us_1.mp3"
+}

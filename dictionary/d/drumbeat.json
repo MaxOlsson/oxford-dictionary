@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A stroke or pattern of strokes on a drum.",
+      "examples": [
+        "she was aware of a constant, faint drumbeat"
+      ],
+      "synonyms": [
+        "rumble",
+        "rumbling",
+        "boom",
+        "booming",
+        "roar",
+        "roaring",
+        "pounding",
+        "thud",
+        "thudding",
+        "thump",
+        "thumping",
+        "crash",
+        "crashing",
+        "bang",
+        "banging",
+        "ring",
+        "ringing",
+        "grumble",
+        "growl",
+        "resounding",
+        "reverberation",
+        "echo"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdrəmˌbit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/drumbeat_us_1.mp3"
+}

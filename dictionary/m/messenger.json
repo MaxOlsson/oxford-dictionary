@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A person who carries a message or is employed to carry messages.",
+      "synonyms": [
+        "message-bearer",
+        "message-carrier",
+        "postman",
+        "courier",
+        "errand boy",
+        "errand girl",
+        "runner",
+        "dispatch rider",
+        "envoy",
+        "emissary",
+        "agent",
+        "go-between",
+        "legate",
+        "nuncio",
+        "herald",
+        "harbinger"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send (a document or package) by messenger.",
+      "examples": [
+        "could you have it messengered over to me?"
+      ]
+    }
+  ],
+  "phrases": [
+    "When people don't believe bad news, or don't want to believe it can affect them, the tendency is to shoot the messenger.",
+    "If it were not for the Press, this situation could have continued indefinitely - so please don't shoot the messenger.",
+    "If only such people could focus their energies on the real issues in society, rather than insisting on shooting the messenger.",
+    "There is no time to be wasted by shooting the messenger of bad news.",
+    "Calling them names for doing so is like shooting the messenger who brings bad news."
+  ],
+  "origin": "Middle English: from Old Northern French messanger, variant of Old French messager, from Latin missus (see message).",
+  "pronounciation": "/ˈmes(ə)njər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/messenger_us_1.mp3"
+}

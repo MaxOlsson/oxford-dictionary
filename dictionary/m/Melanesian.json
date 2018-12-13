@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Melanesia, its peoples, or their languages."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of any of the islands of Melanesia."
+    },
+    {
+      "description": "Any of the languages of Melanesia, mostly Austronesian languages related to Malay but also including Neo-Melanesian (or Tok Pisin), an English-based pidgin."
+    }
+  ],
+  "pronounciation": "/ˌmeləˈnēZHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/melanesian_1_us_1.mp3"
+}

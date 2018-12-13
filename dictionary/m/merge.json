@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Combine or cause to combine to form a single entity.",
+      "examples": [
+        "the utility companies are cutting costs and merging with other companies",
+        "the company plans to merge its U.S. oil production operations with those of a London-based organization",
+        "the files were merged using the patient identification code as the common variable"
+      ],
+      "synonyms": [
+        "join",
+        "join together",
+        "join forces",
+        "amalgamate",
+        "consolidate",
+        "integrate",
+        "unite",
+        "unify",
+        "combine",
+        "incorporate",
+        "affiliate",
+        "coalesce",
+        "meld",
+        "agglutinate",
+        "team up",
+        "link",
+        "link up",
+        "band",
+        "band together",
+        "ally",
+        "league",
+        "federate"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense immerse oneself): from Latin mergere to dip, plunge; the legal sense is from Anglo-Norman French merger.",
+  "pronounciation": "/mərj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/merge_us_1.mp3"
+}

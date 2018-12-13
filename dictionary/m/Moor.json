@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A tract of open uncultivated upland; a heath.",
+      "synonyms": [
+        "upland",
+        "moorland",
+        "heath",
+        "plateau"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make fast (a boat) by attaching it by cable or rope to the shore or to an anchor.",
+      "examples": [
+        "twenty or so fishing boats were moored to the pier"
+      ],
+      "synonyms": [
+        "tie up",
+        "secure",
+        "make fast",
+        "fix firmly",
+        "fasten",
+        "anchor",
+        "berth",
+        "dock"
+      ]
+    }
+  ],
+  "origin": "From Old French More, via Latin from Greek Mauros inhabitant of Mauretania.",
+  "pronounciation": "/mo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moor_us_2.mp3"
+}

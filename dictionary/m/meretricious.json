@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Apparently attractive but having in reality no value or integrity.",
+      "examples": [
+        "meretricious souvenirs for the tourist trade"
+      ],
+      "synonyms": [
+        "flashy",
+        "pretentious",
+        "gaudy",
+        "tawdry",
+        "trashy",
+        "garish",
+        "chintzy",
+        "brummagem",
+        "loud",
+        "tinselly",
+        "cheap",
+        "tasteless",
+        "kitschy"
+      ]
+    },
+    {
+      "description": "Relating to or characteristic of a prostitute."
+    }
+  ],
+  "origin": "Early 17th century: from Latin meretricius (adjective from meretrix, meretric- prostitute, from mereri be hired) + -ous.",
+  "pronounciation": "/ˌmerəˈtriSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meretricious_us_1.mp3"
+}

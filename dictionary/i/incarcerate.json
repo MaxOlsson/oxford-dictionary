@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Imprison or confine.",
+      "examples": [
+        "many are incarcerated for property offenses"
+      ],
+      "synonyms": [
+        "imprison",
+        "put in prison",
+        "send to prison",
+        "jail",
+        "lock up",
+        "take into custody",
+        "put under lock and key",
+        "put away",
+        "intern",
+        "confine",
+        "detain",
+        "hold",
+        "put into detention",
+        "immure",
+        "put in chains",
+        "clap in irons",
+        "hold prisoner",
+        "hold captive"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (earlier ( late Middle English) as incarceration): from medieval Latin incarcerat- imprisoned, from the verb incarcerare, from in- into + Latin carcer prison.",
+  "pronounciation": "/inˈkärsəˌrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incarcerate_us_1.mp3"
+}

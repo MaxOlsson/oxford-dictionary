@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A poem of serious reflection, typically a lament for the dead.",
+      "synonyms": [
+        "funeral poem",
+        "funeral song",
+        "burial hymn",
+        "lament",
+        "dirge",
+        "plaint",
+        "requiem",
+        "keening"
+      ]
+    },
+    {
+      "description": "(in Greek and Roman poetry) a poem written in elegiac couplets, as notably by Catullus and Propertius."
+    }
+  ],
+  "origin": "Early 16th century: from French élégie, or via Latin, from Greek elegeia, from elegos mournful poem.",
+  "pronounciation": "/ˈeləjē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/elegy_us_1.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of sound, taste, and color) pleasantly smooth or soft; free from harshness.",
+      "examples": [
+        "she was hypnotized by the mellow tone of his voice",
+        "slow cooking gives the dish a sweet, mellow flavor"
+      ],
+      "synonyms": [
+        "dulcet",
+        "sweet-sounding",
+        "tuneful",
+        "euphonious",
+        "lyric",
+        "melodious",
+        "mellifluous"
+      ]
+    },
+    {
+      "description": "(of a person's character) softened or matured by age or experience.",
+      "examples": [
+        "a more mellow personality"
+      ],
+      "synonyms": [
+        "easy-going",
+        "tolerant",
+        "amicable",
+        "amiable",
+        "warm-hearted",
+        "warm",
+        "sympathetic",
+        "good-natured",
+        "affable",
+        "gracious",
+        "gentle",
+        "pleasant",
+        "kindly",
+        "kind-hearted"
+      ]
+    },
+    {
+      "description": "(of earth) rich and loamy."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become mellow.",
+      "examples": [
+        "fuller-flavored whiskeys mellow with wood maturation",
+        "getting older does mellow the hard edges around the anger"
+      ],
+      "synonyms": [
+        "relax",
+        "calm",
+        "settle",
+        "mature",
+        "improve"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense ripe, sweet, and juicy): perhaps from attributive use of Old English melu, melw- (see meal). The verb dates from the late 16th century.",
+  "pronounciation": "/ˈmelō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mellow_us_1.mp3"
+}

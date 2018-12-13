@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A person who moves from one place to another, especially in order to find work or better living conditions.",
+      "synonyms": [
+        "immigrant",
+        "emigrant",
+        "incomer",
+        "newcomer",
+        "asylum seeker",
+        "settler",
+        "expatriate",
+        "expat",
+        "exile"
+      ]
+    },
+    {
+      "description": "An animal that migrates."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Tending to migrate or having migrated.",
+      "examples": [
+        "migrant birds"
+      ],
+      "synonyms": [
+        "travelling",
+        "wandering",
+        "moving",
+        "migrating",
+        "migratory",
+        "expatriate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmaɪɡrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/migrant_us_1.mp3"
+}

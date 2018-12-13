@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A person who behaves badly or in a way that breaks the law.",
+      "synonyms": [
+        "criminal",
+        "culprit",
+        "wrongdoer",
+        "malefactor",
+        "offender",
+        "villain",
+        "black hat",
+        "lawbreaker",
+        "evil-doer",
+        "convict",
+        "delinquent",
+        "sinner",
+        "transgressor",
+        "outlaw",
+        "trespasser",
+        "scoundrel",
+        "wretch",
+        "reprobate",
+        "rogue",
+        "rascal"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a person) behaving badly or in a way that breaks a law or rule.",
+      "examples": [
+        "her miscreant husband"
+      ],
+      "synonyms": [
+        "unethical",
+        "bad",
+        "morally wrong",
+        "wrongful",
+        "wicked",
+        "evil",
+        "unprincipled",
+        "unscrupulous",
+        "dishonourable",
+        "dishonest",
+        "unconscionable",
+        "iniquitous",
+        "disreputable",
+        "fraudulent",
+        "corrupt",
+        "depraved",
+        "vile",
+        "villainous",
+        "nefarious",
+        "base",
+        "unfair",
+        "underhand",
+        "devious"
+      ]
+    }
+  ],
+  "origin": "Middle English (as an adjective in the sense disbelieving): from Old French mescreant, present participle of mescreire disbelieve, from mes- mis- + creire believe (from Latin credere).",
+  "pronounciation": "/ˈmiskrēənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/miscreant_us_1.mp3"
+}

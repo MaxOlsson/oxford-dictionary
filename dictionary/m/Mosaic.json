@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A picture or pattern produced by arranging together small colored pieces of hard material, such as stone, tile, or glass.",
+      "examples": [
+        "the walls and vaults are decorated by marble and mosaic",
+        "the mosaic shows the baptism of Christ",
+        "a mosaic floor"
+      ]
+    },
+    {
+      "description": "An individual (especially an animal) composed of cells of two genetically different types."
+    },
+    {
+      "description": "A viral disease that results in leaf variegation in tobacco, corn, sugar cane, and other plants."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decorate with a mosaic.",
+      "examples": [
+        "he mosaicked the walls, ceilings, and floors"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of or associated with Moses."
+    }
+  ],
+  "origin": "Mid 17th century: from French mosaïque or modern Latin Mosaicus.",
+  "pronounciation": "/mōˈzāik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mosaic_us_1.mp3"
+}

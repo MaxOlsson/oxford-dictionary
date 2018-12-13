@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a tendency to be quickly irritated or provoked.",
+      "examples": [
+        "an impatient motorist blaring his horn",
+        "she was impatient with any restriction"
+      ],
+      "synonyms": [
+        "irritated",
+        "annoyed",
+        "angry",
+        "testy",
+        "tetchy",
+        "snappy",
+        "cross",
+        "crabby",
+        "moody",
+        "grumpy",
+        "querulous",
+        "fretful",
+        "peevish",
+        "peeved",
+        "piqued",
+        "discontented",
+        "displeased",
+        "disgruntled"
+      ]
+    },
+    {
+      "description": "Restlessly eager.",
+      "examples": [
+        "they are impatient for change",
+        "he was impatient to be on his way"
+      ],
+      "synonyms": [
+        "restless",
+        "restive",
+        "agitated",
+        "nervous",
+        "anxious",
+        "ill at ease",
+        "fretful",
+        "edgy",
+        "jumpy",
+        "jittery",
+        "worked up",
+        "keyed up"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses lacking patience and unbearable): via Old French from Latin impatient- not bearing, impatient, from in- not + pati suffer, bear.",
+  "pronounciation": "/imˈpāSHənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impatient_us_1.mp3"
+}

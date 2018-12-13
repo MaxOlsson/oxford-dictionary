@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A grumpy person.",
+      "synonyms": [
+        "shrew",
+        "curmudgeon",
+        "discontent",
+        "complainer",
+        "grumbler",
+        "moaner",
+        "fault-finder",
+        "carper"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act in a sulky, grumbling manner.",
+      "examples": [
+        "he grumped at me when I moved the papers"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: imitating inarticulate sounds expressing displeasure.",
+  "pronounciation": "/ɡrəmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/grump_us_1.mp3"
+}

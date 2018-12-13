@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "So small as to be visible only with a microscope.",
+      "examples": [
+        "microscopic algae"
+      ],
+      "synonyms": [
+        "tiny",
+        "very small",
+        "minute",
+        "infinitesimal",
+        "minuscule",
+        "nanoscopic",
+        "nanosized",
+        "invisible to the naked eye"
+      ]
+    },
+    {
+      "description": "Relating to a microscope.",
+      "examples": [
+        "microscopic analysis of the soil"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmīkrəˈskäpik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/microscopic_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Required to be done, achieved, or present; needed; essential.",
+      "examples": [
+        "it's not necessary for you to be here",
+        "members are admitted only after they have gained the necessary experience"
+      ],
+      "synonyms": [
+        "obligatory",
+        "requisite",
+        "required",
+        "compulsory",
+        "mandatory",
+        "imperative",
+        "demanded",
+        "needed",
+        "called for",
+        "needful"
+      ]
+    },
+    {
+      "description": "Determined, existing, or happening by natural laws or predestination; inevitable.",
+      "examples": [
+        "a necessary consequence"
+      ],
+      "synonyms": [
+        "inevitable",
+        "unavoidable",
+        "certain",
+        "sure",
+        "inescapable",
+        "inexorable",
+        "ineluctable",
+        "fated",
+        "destined",
+        "predetermined",
+        "predestined",
+        "preordained"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The basic requirements of life, such as food and warmth."
+    }
+  ],
+  "phrases": [
+    "So in that sense, I agree that litigation can be a necessary evil.",
+    "To others, myself included, cleaning a dirty weapon is a necessary evil.",
+    "Many investors say they care less for animal than human lives, taking the view that animal testing is a necessary evil if medical developments are to progress.",
+    "Forest fires are a necessary evil, argue scientists and government officials.",
+    "Despite this, the daily commute is considered by most to be a necessary evil to be tolerated in order to call a place your own."
+  ],
+  "origin": "Late Middle English: from Latin necessarius, from necesse be needful.",
+  "pronounciation": "/ˈnesəˌserē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/necessary_us_1.mp3"
+}

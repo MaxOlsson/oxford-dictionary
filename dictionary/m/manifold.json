@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Many and various.",
+      "examples": [
+        "the implications of this decision were manifold"
+      ],
+      "synonyms": [
+        "many",
+        "numerous",
+        "multiple",
+        "multifarious",
+        "multitudinous",
+        "multiplex",
+        "legion",
+        "diverse",
+        "various",
+        "several",
+        "varied",
+        "different",
+        "miscellaneous",
+        "assorted",
+        "sundry",
+        "copious",
+        "abundant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pipe or chamber branching into several openings.",
+      "examples": [
+        "the pipeline manifold"
+      ]
+    },
+    {
+      "description": "A collection of points forming a certain kind of set, such as those of a topologically closed surface or an analog of this in three or more dimensions."
+    },
+    {
+      "description": "(in Kantian philosophy) the sum of the particulars furnished by sense before they have been unified by the synthesis of the understanding."
+    }
+  ],
+  "origin": "Old English manigfeald; current noun senses date from the mid 19th century.",
+  "pronounciation": "/ˈmænəˌfoʊld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/manifold_us_1.mp3"
+}

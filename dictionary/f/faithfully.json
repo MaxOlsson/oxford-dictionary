@@ -1,0 +1,41 @@
+{
+  "adverb": [
+    {
+      "description": "In a loyal manner.",
+      "synonyms": [
+        "verbatim",
+        "line for line",
+        "letter for letter",
+        "to the letter"
+      ]
+    },
+    {
+      "description": "In a manner that is true to the facts or the original.",
+      "examples": [
+        "she translated the novel as faithfully as possible"
+      ],
+      "synonyms": [
+        "factually",
+        "literally",
+        "correctly",
+        "faithfully",
+        "exactly",
+        "closely",
+        "truly",
+        "truthfully",
+        "veraciously",
+        "like it is",
+        "as it really happened",
+        "authentically",
+        "realistically",
+        "fairly"
+      ]
+    }
+  ],
+  "phrases": [
+    "We write yours sincerely or yours faithfully at the bottom of a letter, then fret for days about whether we chose the right one.",
+    "However the basic rule is that when you use Dear Sir/Madam then you end with yours faithfully."
+  ],
+  "pronounciation": "/ˈfāTHfəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/faithfully_us_1.mp3"
+}

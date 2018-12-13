@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Fail to interpret or understand (something) correctly.",
+      "examples": [
+        "he had misunderstood the policeman's hand signals",
+        "I must have misunderstood—I thought you were anxious to leave"
+      ],
+      "synonyms": [
+        "misapprehend",
+        "misinterpret",
+        "put a wrong interpretation on",
+        "misconstrue",
+        "misconceive",
+        "mistake",
+        "misread",
+        "miss",
+        "confuse",
+        "confound",
+        "take amiss"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmisˌəndərˈstand/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misunderstand_us_1.mp3"
+}

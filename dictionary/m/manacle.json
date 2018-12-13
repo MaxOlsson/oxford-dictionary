@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A metal band, chain, or shackle for fastening someone's hands or ankles.",
+      "examples": [
+        "the practice of keeping prisoners in manacles"
+      ],
+      "synonyms": [
+        "handcuffs",
+        "shackles",
+        "chains",
+        "irons",
+        "fetters",
+        "restraints",
+        "bonds"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fetter (a person or a part of the body) with manacles.",
+      "examples": [
+        "his hands were manacled behind his back"
+      ],
+      "synonyms": [
+        "shackle",
+        "fetter",
+        "chain",
+        "chain up",
+        "put in chains",
+        "clap in irons",
+        "put in irons",
+        "handcuff",
+        "restrain"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French manicle handcuff, from Latin manicula, diminutive of manus hand.",
+  "pronounciation": "/ˈmanək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/manacle_us_1.mp3"
+}

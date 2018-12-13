@@ -1,0 +1,65 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) feel admiration and respect.",
+      "examples": [
+        "they immediately impressed the judges",
+        "he has to put on an act to impress"
+      ],
+      "synonyms": [
+        "make an impression on",
+        "have an impact on",
+        "influence",
+        "affect",
+        "leave a mark on",
+        "move",
+        "stir",
+        "rouse",
+        "excite",
+        "inspire",
+        "galvanize"
+      ]
+    },
+    {
+      "description": "Make a mark or design on (an object) using a stamp or seal; imprint.",
+      "examples": [
+        "she impressed the damp clay with her seal"
+      ]
+    },
+    {
+      "description": "Fix an idea in (someone's mind)",
+      "examples": [
+        "nobody impressed on me the need to save"
+      ],
+      "synonyms": [
+        "emphasize to",
+        "stress to",
+        "bring home to",
+        "establish in someone's mind",
+        "fix deeply in someone's mind",
+        "instil in",
+        "inculcate in",
+        "drum into",
+        "knock into",
+        "drive into",
+        "din into",
+        "ingrain in",
+        "leave in no doubt"
+      ]
+    },
+    {
+      "description": "Apply (an electric current or potential) from an external source."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of making an impression or mark.",
+      "examples": [
+        "bluish marks made by the impress of his fingers"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from in- into + press.",
+  "pronounciation": "/ɪmˈprɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impress_us_1.mp3"
+}

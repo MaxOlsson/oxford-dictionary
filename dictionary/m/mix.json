@@ -1,0 +1,104 @@
+{
+  "verb": [
+    {
+      "description": "Combine or put together to form one substance or mass.",
+      "examples": [
+        "peppercorns are sometimes mixed with other spices for a table condiment",
+        "these two chemicals, when mixed together, literally explode"
+      ],
+      "synonyms": [
+        "blend",
+        "mingle",
+        "combine",
+        "put together",
+        "stir",
+        "jumble",
+        "merge"
+      ]
+    },
+    {
+      "description": "(of a person) associate with others socially.",
+      "examples": [
+        "the people he mixed with were nothing to do with show business"
+      ],
+      "synonyms": [
+        "associate",
+        "socialize",
+        "mingle",
+        "meet",
+        "get together",
+        "have dealings",
+        "fraternize",
+        "circulate",
+        "keep company",
+        "rub shoulders",
+        "consort",
+        "move",
+        "go out"
+      ]
+    },
+    {
+      "description": "(especially in sound recording) combine (two or more signals or soundtracks) into one.",
+      "examples": [
+        "up to eight tracks can be mixed simultaneously"
+      ]
+    },
+    {
+      "description": "Be belligerent physically or verbally."
+    }
+  ],
+  "noun": [
+    {
+      "description": "Two or more different qualities, things, or people placed, combined, or considered together.",
+      "examples": [
+        "the decor is a mix of antique and modern"
+      ],
+      "synonyms": [
+        "mixture",
+        "blend",
+        "mingling",
+        "combination",
+        "compound",
+        "fusion",
+        "composition",
+        "concoction",
+        "brew",
+        "alloy",
+        "merger",
+        "union",
+        "amalgamation",
+        "amalgam",
+        "coalition",
+        "cross",
+        "hybrid"
+      ]
+    },
+    {
+      "description": "A commercially prepared mixture of ingredients for making a particular type of food or a product such as concrete.",
+      "examples": [
+        "cake mixes have made cooking easier"
+      ]
+    },
+    {
+      "description": "A version of a recording in which the component tracks are mixed in a different way from the original.",
+      "examples": [
+        "a dance mix version of “This Charming Man.”"
+      ]
+    }
+  ],
+  "phrases": [
+    "Steve was mixed up in an insurance swindle",
+    "I was so terrified; I just pressed myself as far back against the wall as I could so I did not get mixed up in it.",
+    "When children are not in school they can get mixed up in crime or become victims of crime.",
+    "I wasn't really planning on hurting you until you got mixed up in all this.",
+    "And then, things get sillier and sillier until you find yourself waking up in the middle of the night thinking, How, in the name of sanity, did I get mixed up in all this?",
+    "disconnect all the cables, mix them up, then try to reconnect them",
+    "Every item received in this laboratory has its own unique identifier, so no two items can be mixed up.",
+    "We just like to mix things up a lot - we try to stay away from homogeneity.",
+    "Conceptually, a simple random sample can be drawn by putting the identity numbers of the 10 million actual voters in a box. you stir, shake and mix the numbers up and then you select 20, 832 of them at random.",
+    "A dyslexic mistake had meant that the reps. and weights had been mixed up, so I lifted four times the weight I should have."
+  ],
+  "origin": "Late Middle English: back-formation from mixed (taken as a past participle).",
+  "pronounciation": "/miks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mix_us_1.mp3"
+}

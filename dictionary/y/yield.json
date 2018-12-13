@@ -1,0 +1,81 @@
+{
+  "verb": [
+    {
+      "description": "Produce or provide (a natural, agricultural, or industrial product)",
+      "examples": [
+        "the land yields grapes and tobacco"
+      ],
+      "synonyms": [
+        "produce",
+        "bear",
+        "give",
+        "supply",
+        "provide",
+        "afford",
+        "return",
+        "bring in",
+        "pull in",
+        "haul in",
+        "gather in",
+        "fetch",
+        "earn",
+        "net",
+        "realize",
+        "generate",
+        "furnish",
+        "bestow",
+        "pay out",
+        "contribute"
+      ]
+    },
+    {
+      "description": "Give way to arguments, demands, or pressure.",
+      "examples": [
+        "the Western powers now yielded when they should have resisted",
+        "he yielded to the demands of his partners"
+      ],
+      "synonyms": [
+        "surrender",
+        "capitulate",
+        "submit",
+        "relent",
+        "admit defeat",
+        "accept defeat",
+        "concede defeat",
+        "back down",
+        "climb down",
+        "quit",
+        "give in",
+        "give up the struggle",
+        "lay down one's arms",
+        "raise the white flag",
+        "show the white flag",
+        "knuckle under"
+      ]
+    },
+    {
+      "description": "(of a mass or structure) give way under force or pressure.",
+      "examples": [
+        "he reeled into the house as the door yielded"
+      ],
+      "synonyms": [
+        "bend",
+        "give",
+        "flex",
+        "be flexible",
+        "be pliant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The full amount of an agricultural or industrial product.",
+      "examples": [
+        "the milk yield was poor"
+      ]
+    }
+  ],
+  "origin": "Old English g(i)eldan pay, repay, of Germanic origin. The senses produce, bear and surrender arose in Middle English.",
+  "pronounciation": "/yēld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/yield_us_1.mp3"
+}

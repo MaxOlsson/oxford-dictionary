@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "Casual or unconstrained conversation or reports about other people, typically involving details that are not confirmed as being true.",
+      "examples": [
+        "he became the subject of much local gossip"
+      ],
+      "synonyms": [
+        "chat",
+        "talk",
+        "conversation",
+        "chatter",
+        "heart-to-heart",
+        "tête-à-tête",
+        "powwow",
+        "blether",
+        "blather"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Engage in gossip.",
+      "examples": [
+        "they would start gossiping about her as soon as she left"
+      ],
+      "synonyms": [
+        "spread rumours",
+        "spread gossip",
+        "circulate rumours",
+        "spread stories",
+        "tittle-tattle",
+        "tattle",
+        "talk",
+        "whisper",
+        "tell tales",
+        "muckrake"
+      ]
+    }
+  ],
+  "origin": "Late Old English godsibb, godfather, godmother, baptismal sponsor, literally a person related to one in God, from god God + sibb a relative (see sib). In Middle English the sense was a close friend, a person with whom one gossips, hence a person who gossips, later (early 19th century) idle talk (from the verb, which dates from the early 17th century).",
+  "pronounciation": "/ˈɡɑsəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gossip_us_1.mp3"
+}

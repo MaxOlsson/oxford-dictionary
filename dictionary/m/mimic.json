@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Imitate (someone or their actions or words), especially in order to entertain or ridicule.",
+      "examples": [
+        "she mimicked Eileen's voice"
+      ],
+      "synonyms": [
+        "imitate",
+        "copy",
+        "impersonate",
+        "do an impression of",
+        "take off",
+        "do an impersonation of",
+        "do",
+        "ape",
+        "caricature",
+        "mock",
+        "make fun of",
+        "parody",
+        "satirize",
+        "lampoon",
+        "burlesque",
+        "travesty"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person skilled in imitating the voice, mannerisms, or movements of others in an entertaining way.",
+      "synonyms": [
+        "impersonator",
+        "impressionist",
+        "imitator",
+        "mimicker"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Imitative of something, especially for amusement.",
+      "examples": [
+        "they were waging mimic war"
+      ],
+      "synonyms": [
+        "simulated",
+        "mock",
+        "imitation",
+        "make-believe",
+        "sham",
+        "imitative",
+        "mimetic"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as noun and adjective): via Latin from Greek mimikos, from mimos mime.",
+  "pronounciation": "/ˈmimik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mimic_us_1.mp3"
+}

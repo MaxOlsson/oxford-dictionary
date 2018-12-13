@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Produced by inbreeding.",
+      "examples": [
+        "they are a bunch of inbred idiots"
+      ]
+    },
+    {
+      "description": "Existing in a person, animal, or plant from birth; congenital.",
+      "examples": [
+        "inbred disease resistance in crops"
+      ],
+      "synonyms": [
+        "innate",
+        "congenital",
+        "existing from birth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person born as a result of inbreeding, typically perceived as unattractive and lacking intelligence (often used as a general term of abuse)",
+      "examples": [
+        "he provoked criticism when he said the town was full of inbreds"
+      ]
+    },
+    {
+      "description": "A crop produced by repeated inbreeding over multiple generations, typically through self-pollination.",
+      "examples": [
+        "the magnitude of this effect is expected to be greater in inbreds than in hybrids"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɪnbrɛd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inbred_us_1.mp3"
+}

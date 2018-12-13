@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Put or keep in prison or a place like a prison.",
+      "examples": [
+        "he was imprisoned for six months for contempt of court"
+      ],
+      "synonyms": [
+        "incarcerate",
+        "put in prison",
+        "send to prison",
+        "jail",
+        "lock up",
+        "take into custody",
+        "put under lock and key",
+        "put away",
+        "intern",
+        "confine",
+        "detain",
+        "hold prisoner",
+        "hold captive",
+        "hold",
+        "put into detention",
+        "put in chains",
+        "put in irons",
+        "clap in irons"
+      ]
+    }
+  ],
+  "origin": "Middle English emprison, from Old French emprisoner, from em- in + prison.",
+  "pronounciation": "/imˈpriz(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imprison_us_1.mp3"
+}

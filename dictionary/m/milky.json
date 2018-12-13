@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Containing or mixed with a large amount of milk.",
+      "examples": [
+        "a cup of sweet milky coffee"
+      ]
+    },
+    {
+      "description": "Resembling milk in color.",
+      "examples": [
+        "not a blemish marred her milky skin"
+      ]
+    },
+    {
+      "description": "Weak and compliant.",
+      "examples": [
+        "they just talk that way to make you turn milky"
+      ],
+      "synonyms": [
+        "acquiescent",
+        "amenable",
+        "biddable",
+        "tractable",
+        "complaisant",
+        "accommodating",
+        "cooperative",
+        "adaptable"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɪlki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/milky_us_1.mp3"
+}

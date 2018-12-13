@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A detailed inspection or investigation.",
+      "examples": [
+        "an examination of marketing behavior",
+        "a medical examination is conducted without delay"
+      ],
+      "synonyms": [
+        "scrutiny",
+        "inspection",
+        "perusal",
+        "study",
+        "scanning",
+        "vetting",
+        "investigation",
+        "exploration",
+        "consideration",
+        "analysis",
+        "appraisal",
+        "evaluation"
+      ]
+    },
+    {
+      "description": "A formal test of a person's knowledge or proficiency in a particular subject or skill.",
+      "examples": [
+        "he scraped through the examinations at the end of his first year"
+      ],
+      "synonyms": [
+        "test",
+        "exam",
+        "paper",
+        "question paper",
+        "oral",
+        "practical",
+        "assessment"
+      ]
+    },
+    {
+      "description": "The formal questioning of a witness in court.",
+      "synonyms": [
+        "questioning",
+        "interrogation",
+        "cross-questioning",
+        "cross-examination",
+        "inquisition"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense testing (one's conscience) by a standard): via Old French from Latin examinatio(n-), from examinare weigh, test (see examine).",
+  "pronounciation": "/iɡˌzaməˈnāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/examination_us_2.mp3"
+}

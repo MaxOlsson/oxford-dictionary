@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Covered or protected with iron.",
+      "synonyms": [
+        "armour-plated",
+        "steel-plated",
+        "mailed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A 19th-century warship with armor plating."
+    }
+  ],
+  "pronounciation": "/ˈaɪərnˌklæd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ironclad_us_1.mp3"
+}

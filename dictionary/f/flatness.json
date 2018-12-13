@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "The quality of having a level surface without raised areas or indentations.",
+      "examples": [
+        "the flatness of the external surface",
+        "make sure that the paper is of uniform flatness"
+      ]
+    },
+    {
+      "description": "Lack of emotion or enthusiasm; dullness.",
+      "examples": [
+        "neither the editing nor the score do much to help the film's emotional flatness",
+        "there's no escaping the flatness of the characters"
+      ]
+    },
+    {
+      "description": "Loss of effervescence in a sparkling drink."
+    },
+    {
+      "description": "The quality of a musical sound being below normal pitch.",
+      "examples": [
+        "the flatness of the vocals"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈflatnəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flatness_us_1.mp3"
+}

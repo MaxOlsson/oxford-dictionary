@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Of or situated on the inside.",
+      "examples": [
+        "the tube had an internal diameter of 1.1 mm"
+      ],
+      "synonyms": [
+        "inner",
+        "interior",
+        "inside",
+        "intramural"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Inner parts or features.",
+      "examples": [
+        "all the weapon's internals are well finished and highly polished"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (in the sense intrinsic): from modern Latin internalis, from Latin internus inward, internal.",
+  "pronounciation": "/inˈtərnl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/internal_us_1.mp3"
+}

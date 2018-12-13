@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of an object or course of action) not adapted for use or action; not sensible or realistic.",
+      "examples": [
+        "impractical high heels",
+        "his impractical romanticism"
+      ],
+      "synonyms": [
+        "unsuitable",
+        "not sensible",
+        "inappropriate",
+        "unserviceable"
+      ]
+    },
+    {
+      "description": "Impossible to do; impracticable.",
+      "synonyms": [
+        "unrealistic",
+        "unworkable",
+        "unfeasible",
+        "non-viable",
+        "impracticable"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪmˈpræktək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impractical_us_1.mp3"
+}

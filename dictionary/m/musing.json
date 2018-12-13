@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A period of reflection or thought.",
+      "examples": [
+        "his musings were interrupted by the sound of the telephone"
+      ],
+      "synonyms": [
+        "meditation",
+        "thinking",
+        "contemplation",
+        "deliberation",
+        "pondering",
+        "reflection",
+        "rumination",
+        "cogitation",
+        "introspection",
+        "daydreaming",
+        "dreaming",
+        "reverie",
+        "brown study",
+        "abstraction",
+        "preoccupation",
+        "brooding",
+        "wool-gathering"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Characterized by reflection or deep thought.",
+      "examples": [
+        "the sad musing gaze"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmyo͞oziNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/musing_us_1.mp3"
+}

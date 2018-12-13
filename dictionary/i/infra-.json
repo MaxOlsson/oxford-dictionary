@@ -1,0 +1,14 @@
+{
+  "prefix": [
+    {
+      "description": "Below.",
+      "examples": [
+        "infrasonic",
+        "infrared"
+      ]
+    }
+  ],
+  "origin": "From Latin infra below.",
+  "pronounciation": "/ˈɪnfrə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/infra_1_us_1.mp3"
+}

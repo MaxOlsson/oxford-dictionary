@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Combative and aggressive in support of a political or social cause, and typically favoring extreme, violent, or confrontational methods.",
+      "examples": [
+        "a militant nationalist"
+      ],
+      "synonyms": [
+        "aggressive",
+        "violent",
+        "belligerent",
+        "bellicose",
+        "assertive",
+        "pushy",
+        "vigorous",
+        "forceful",
+        "active",
+        "ultra-active",
+        "fierce",
+        "combative",
+        "pugnacious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A militant person.",
+      "synonyms": [
+        "activist",
+        "extremist",
+        "radical",
+        "enthusiast",
+        "supporter",
+        "follower",
+        "devotee",
+        "young turk",
+        "zealot",
+        "fanatic",
+        "sectarian",
+        "partisan"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense engaged in warfare): from Old French, or from Latin militant- serving as a soldier, from the verb militare (see militate). The current sense dates from the early 20th century.",
+  "pronounciation": "/ˈmɪləd(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/militant_us_2.mp3"
+}

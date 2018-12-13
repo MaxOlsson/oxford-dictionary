@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "The status of belonging to a particular nation.",
+      "examples": [
+        "they changed their nationality and became Lebanese"
+      ],
+      "synonyms": [
+        "citizenship"
+      ]
+    },
+    {
+      "description": "An ethnic group forming a part of one or more political nations.",
+      "examples": [
+        "all the main nationalities of Ethiopia"
+      ],
+      "synonyms": [
+        "ethnic group",
+        "ethnic minority",
+        "tribe",
+        "clan",
+        "race",
+        "nation"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnæʃəˈnælədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nationality_us_2.mp3"
+}

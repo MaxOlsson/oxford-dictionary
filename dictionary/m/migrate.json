@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal, typically a bird or fish) move from one region or habitat to another according to the seasons.",
+      "examples": [
+        "as autumn arrives, the birds migrate south"
+      ],
+      "synonyms": [
+        "roam",
+        "wander",
+        "drift",
+        "rove",
+        "travel",
+        "travel around",
+        "voyage",
+        "journey",
+        "trek",
+        "hike",
+        "itinerate",
+        "globetrot"
+      ]
+    },
+    {
+      "description": "Move from one part of something to another.",
+      "examples": [
+        "cells that can form pigment migrate beneath the skin"
+      ],
+      "synonyms": [
+        "relocate",
+        "resettle",
+        "move",
+        "move house"
+      ]
+    },
+    {
+      "description": "Change or cause to change from one system to another.",
+      "examples": [
+        "customers are migrating from mainframes to client-server environments",
+        "save time by efficiently migrating data to secondary storage systems"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in the general sense move from one place to another): from Latin migrat- moved, shifted, from the verb migrare.",
+  "pronounciation": "/ˈmīˌɡrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/migrate_us_1.mp3"
+}

@@ -1,0 +1,97 @@
+{
+  "noun": [
+    {
+      "description": "A fine open fabric, typically one of cotton or silk, made by looping, twisting, or knitting thread in patterns and used especially for trimming garments.",
+      "synonyms": [
+        "openwork",
+        "lacework",
+        "tatting",
+        "netting",
+        "net",
+        "tulle",
+        "meshwork",
+        "mesh",
+        "webbing"
+      ]
+    },
+    {
+      "description": "A cord or leather strip passed through eyelets or hooks on opposite sides of a shoe or garment and then pulled tight and fastened.",
+      "synonyms": [
+        "shoelace",
+        "bootlace",
+        "shoestring",
+        "lacing",
+        "string",
+        "cord",
+        "thong",
+        "twine",
+        "tie"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten or tighten (a shoe or garment) by tying the laces.",
+      "examples": [
+        "he put the shoes on and laced them up"
+      ],
+      "synonyms": [
+        "fasten",
+        "do up",
+        "tie up",
+        "secure"
+      ]
+    },
+    {
+      "description": "Entwine or tangle (things, especially fingers) together.",
+      "examples": [
+        "he laced his fingers together and sat back"
+      ],
+      "synonyms": [
+        "entwine",
+        "intertwine",
+        "twine",
+        "entangle",
+        "interweave",
+        "interlink",
+        "link"
+      ]
+    },
+    {
+      "description": "Add an ingredient, especially alcohol, to (a drink or dish) to enhance its flavor or strength.",
+      "examples": [
+        "he gave us coffee laced with brandy"
+      ],
+      "synonyms": [
+        "flavour",
+        "mix",
+        "mix in",
+        "blend",
+        "fortify",
+        "strengthen",
+        "stiffen",
+        "season",
+        "spice",
+        "spice up",
+        "imbue",
+        "infuse",
+        "enrich",
+        "enliven",
+        "liven up"
+      ]
+    },
+    {
+      "description": "Hit (something, especially a baseball) hard.",
+      "examples": [
+        "he laced a double down the first-base line"
+      ]
+    }
+  ],
+  "phrases": [
+    "Marion laced into her opponent with a blistering criticism",
+    "One group he laces into is the Royal Society - its astronomers, physicists, and mathematicians."
+  ],
+  "origin": "Middle English: from Old French laz, las (noun), lacier (verb), based on Latin laqueus noose (also an early sense in English). Compare with lasso.",
+  "pronounciation": "/lās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lace_us_1.mp3"
+}

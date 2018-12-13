@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Pay attention to; take notice of.",
+      "examples": [
+        "he should have heeded the warnings"
+      ],
+      "synonyms": [
+        "pay attention to",
+        "take notice of",
+        "take note of",
+        "pay heed to",
+        "be heedful of",
+        "attend to",
+        "listen to",
+        "notice",
+        "note",
+        "pay regard to",
+        "bear in mind",
+        "be mindful of",
+        "mind",
+        "mark",
+        "consider",
+        "take into account",
+        "take into consideration",
+        "be guided by",
+        "follow",
+        "obey",
+        "keep",
+        "keep to",
+        "adhere to",
+        "abide by",
+        "observe",
+        "take to heart",
+        "give ear to",
+        "be alert to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Careful attention.",
+      "examples": [
+        "if he heard, he paid no heed",
+        "we must take heed of the suggestions"
+      ],
+      "synonyms": [
+        "attention",
+        "notice",
+        "note",
+        "regard",
+        "heedfulness",
+        "attentiveness",
+        "consideration",
+        "thought",
+        "care"
+      ]
+    }
+  ],
+  "origin": "Old English hēdan, of West Germanic origin; related to Dutch hoeden and German hüten.",
+  "pronounciation": "/hēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/heed_us_1.mp3"
+}

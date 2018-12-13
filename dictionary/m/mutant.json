@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Resulting from or showing the effect of mutation.",
+      "examples": [
+        "a mutant gene"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mutant form.",
+      "synonyms": [
+        "freak",
+        "freak of nature",
+        "deviant",
+        "oddity",
+        "monstrosity",
+        "monster",
+        "mutation",
+        "variant",
+        "variation"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from Latin mutant- changing, from the verb mutare.",
+  "pronounciation": "/ˈmjutnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mutant_us_1.mp3"
+}

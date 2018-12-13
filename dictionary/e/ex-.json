@@ -1,0 +1,57 @@
+{
+  "prefix": [
+    {
+      "description": "Out; outside of.",
+      "examples": [
+        "expand",
+        "express"
+      ]
+    },
+    {
+      "description": "Up and away; upward.",
+      "examples": [
+        "extol",
+        "excel"
+      ]
+    },
+    {
+      "description": "Thoroughly.",
+      "examples": [
+        "excruciate",
+        "exacerbate"
+      ]
+    },
+    {
+      "description": "Removal or release.",
+      "examples": [
+        "excommunicate",
+        "exculpate",
+        "expel"
+      ]
+    },
+    {
+      "description": "Forming verbs expressing inducement of a state.",
+      "examples": [
+        "exasperate",
+        "excite"
+      ]
+    },
+    {
+      "description": "Forming nouns (from titles of office, status, etc.) expressing a former state.",
+      "examples": [
+        "ex-husband",
+        "ex-convict"
+      ],
+      "synonyms": [
+        "one-time",
+        "erstwhile",
+        "sometime",
+        "late",
+        "as was"
+      ]
+    }
+  ],
+  "origin": "From Greek ex out of.",
+  "pronounciation": "/ɛks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ex_1_us_1.mp3"
+}

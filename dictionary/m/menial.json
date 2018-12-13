@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of work) not requiring much skill and lacking prestige.",
+      "examples": [
+        "menial factory jobs"
+      ],
+      "synonyms": [
+        "unskilled",
+        "lowly",
+        "humble",
+        "low-grade",
+        "low-status",
+        "routine",
+        "humdrum",
+        "boring",
+        "dull"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with a menial job."
+    }
+  ],
+  "origin": "Late Middle English (in the sense domestic): from Old French, from mesnee household.",
+  "pronounciation": "/ˈminiəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/menial_us_1.mp3"
+}

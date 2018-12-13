@@ -1,0 +1,90 @@
+{
+  "adjective": [
+    {
+      "description": "Good; pleasant.",
+      "examples": [
+        "the lekker local flavour of South Africa"
+      ],
+      "synonyms": [
+        "enjoyable",
+        "pleasing",
+        "pleasurable",
+        "nice",
+        "agreeable",
+        "satisfying",
+        "gratifying",
+        "welcome",
+        "good",
+        "acceptable",
+        "to one's liking"
+      ]
+    },
+    {
+      "description": "Slightly intoxicated.",
+      "examples": [
+        "the snacks helped keep people only lekker"
+      ],
+      "synonyms": [
+        "intoxicated",
+        "inebriated",
+        "drunken",
+        "befuddled",
+        "incapable",
+        "tipsy",
+        "the worse for drink",
+        "under the influence",
+        "maudlin"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Well.",
+      "examples": [
+        "we got on lekker"
+      ]
+    },
+    {
+      "description": "Extremely.",
+      "examples": [
+        "he was lekker drunk"
+      ],
+      "synonyms": [
+        "extremely",
+        "very",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "extraordinarily",
+        "tremendously",
+        "vastly",
+        "hugely",
+        "abundantly",
+        "intensely",
+        "acutely",
+        "singularly",
+        "significantly",
+        "distinctly",
+        "outstandingly",
+        "uncommonly",
+        "unusually",
+        "decidedly",
+        "particularly",
+        "eminently",
+        "supremely",
+        "highly",
+        "remarkably",
+        "really",
+        "truly",
+        "mightily",
+        "thoroughly",
+        "to a fault",
+        "in the extreme",
+        "extra"
+      ]
+    }
+  ],
+  "origin": "Afrikaans, from Dutch, literally delicious.",
+  "pronounciation": "/ˈlɛkə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lekker_gb_2.mp3"
+}

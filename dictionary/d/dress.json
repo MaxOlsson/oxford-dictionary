@@ -1,0 +1,108 @@
+{
+  "verb": [
+    {
+      "description": "Put on one's clothes.",
+      "examples": [
+        "Graham showered and dressed quickly",
+        "I'll go and get dressed"
+      ],
+      "synonyms": [
+        "put on clothes",
+        "don clothes",
+        "slip into clothes",
+        "clothe oneself",
+        "get dressed"
+      ]
+    },
+    {
+      "description": "Decorate (something) in an artistic or attractive way.",
+      "examples": [
+        "they had dressed the doorframes with sprays of bittersweet"
+      ],
+      "synonyms": [
+        "decorate",
+        "adorn",
+        "ornament",
+        "trim",
+        "deck",
+        "bedeck",
+        "embellish",
+        "beautify",
+        "prettify",
+        "array",
+        "festoon",
+        "garland",
+        "rig",
+        "drape"
+      ]
+    },
+    {
+      "description": "Treat or prepare (something) in a certain way."
+    },
+    {
+      "description": "Draw up (troops) in the proper alignment.",
+      "synonyms": [
+        "line up",
+        "put in line",
+        "align",
+        "straighten",
+        "arrange",
+        "put into order",
+        "dispose",
+        "set out",
+        "get into columns",
+        "get into rows"
+      ]
+    },
+    {
+      "description": "Prepare (an artificial fly) for use in fishing.",
+      "examples": [
+        "after you dress a dry fly, be sure to remove any oil before you make your next cast"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A one-piece garment for a woman or girl that covers the body and extends down over the legs.",
+      "synonyms": [
+        "frock",
+        "gown",
+        "robe",
+        "shift"
+      ]
+    },
+    {
+      "description": "Clothing of a specified kind for men or women.",
+      "examples": [
+        "traditional African dress",
+        "the underlying theme is recognizable even when it appears in feminist dress"
+      ],
+      "synonyms": [
+        "clothes",
+        "clothing",
+        "garments",
+        "attire",
+        "costume",
+        "outfit",
+        "ensemble",
+        "garb",
+        "turnout"
+      ]
+    }
+  ],
+  "phrases": [
+    "there I was, all dressed up with nowhere to go, in the ritziest part of town",
+    "the last-minute withdrawal of two star singers left the orchestra all dressed up with nowhere to go",
+    "Then Sally emerged, dressed to kill - in skin tight black leggings, black thigh length PVC stiletto boots, and an outrageous Puffa jacket.",
+    "Yet made up and dressed to kill, some of them could have passed for 28.",
+    "They have three things in common: they have been friends for years, they are all single, and they are dressed to kill.",
+    "Sue dressed down in old jeans and a white blouse",
+    "Charcoal, black - even neon green, these jackets are perfect for dressing up or dressing down.",
+    "The same juvenile impulse that once inspired liberals to dress down as slobs now inspires them to assume the role of high school snobs.",
+    "While dressing down is all good and fun, award shows are about the red carpet.",
+    "The annual Halloween Fancy Dress Night is a fundraiser for the Hospice, so guests should use their imaginations while dressing up or dressing down as the case may be."
+  ],
+  "origin": "Middle English (in the sense put straight): from Old French dresser arrange, prepare, based on Latin directus direct, straight.",
+  "pronounciation": "/drɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/dress_us_1.mp3"
+}

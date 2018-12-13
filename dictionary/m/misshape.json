@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Shape or form badly or wrongly.",
+      "examples": [
+        "a new novel about the way childhood trauma shapes and misshapes the life of the adult"
+      ],
+      "synonyms": [
+        "warp",
+        "become warped",
+        "make warped",
+        "bend",
+        "bend out of shape",
+        "become bent",
+        "make bent",
+        "twist",
+        "become twisted",
+        "make twisted",
+        "curve",
+        "become curved",
+        "make curved",
+        "distort",
+        "become distorted",
+        "make distorted",
+        "contort",
+        "become contorted",
+        "make contorted",
+        "become crooked",
+        "make crooked",
+        "deform",
+        "become deformed",
+        "make deformed",
+        "malform",
+        "become malformed",
+        "make malformed",
+        "become misshapen",
+        "make misshapen",
+        "mangle",
+        "become mangled",
+        "make mangled",
+        "develop a fold",
+        "develop a kink",
+        "develop a wrinkle",
+        "bulge",
+        "arc",
+        "arch",
+        "wrinkle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A misshapen chocolate or other item of food, sold cheaply.",
+      "examples": [
+        "she brought home bags of misshapes"
+      ]
+    }
+  ],
+  "pronounciation": "/misˈSHāp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misshape_us_1.mp3"
+}

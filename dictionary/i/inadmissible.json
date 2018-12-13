@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of evidence in court) not accepted as valid.",
+      "synonyms": [
+        "not allowable",
+        "invalid",
+        "not acceptable",
+        "unacceptable",
+        "unallowable",
+        "impermissible",
+        "disallowed",
+        "forbidden",
+        "prohibited",
+        "precluded"
+      ]
+    },
+    {
+      "description": "Not to be allowed or tolerated.",
+      "examples": [
+        "an inadmissible interference in the affairs of the Church"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌinədˈmisəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inadmissible_us_1.mp3"
+}

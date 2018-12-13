@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Covered by insurance.",
+      "examples": [
+        "the insured car",
+        "a privately insured patient",
+        "an insured risk"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or organization covered by insurance."
+    }
+  ],
+  "pronounciation": "/inˈSHo͝ord/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/insured_us_1.mp3"
+}

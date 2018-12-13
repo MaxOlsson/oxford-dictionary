@@ -1,0 +1,82 @@
+{
+  "verb": [
+    {
+      "description": "Tease or laugh at in a scornful or contemptuous manner.",
+      "examples": [
+        "he mocks them as Washington insiders"
+      ],
+      "synonyms": [
+        "ridicule",
+        "jeer at",
+        "sneer at",
+        "deride",
+        "treat with contempt",
+        "treat contemptuously",
+        "scorn",
+        "make fun of",
+        "poke fun at",
+        "laugh at",
+        "make jokes about",
+        "laugh to scorn",
+        "scoff at",
+        "pillory",
+        "be sarcastic about",
+        "tease",
+        "taunt",
+        "make a monkey of",
+        "rag",
+        "chaff",
+        "jibe at"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not authentic or real, but without the intention to deceive.",
+      "examples": [
+        "a mock-Georgian red brick house",
+        "Jim threw up his hands in mock horror"
+      ],
+      "synonyms": [
+        "imitation",
+        "artificial",
+        "man-made",
+        "manufactured",
+        "simulated",
+        "synthetic",
+        "ersatz",
+        "plastic",
+        "so-called",
+        "fake",
+        "false",
+        "faux",
+        "reproduction",
+        "replica",
+        "facsimile",
+        "dummy",
+        "model",
+        "toy",
+        "make-believe",
+        "sham",
+        "spurious",
+        "bogus",
+        "counterfeit",
+        "fraudulent",
+        "forged",
+        "pseudo",
+        "pretended"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An object of derision.",
+      "examples": [
+        "he has become the mock of all his contemporaries"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French mocquer deride.",
+  "pronounciation": "/mɑk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mock_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to do or achieve (something)",
+      "examples": [
+        "Wilson blushed and was incapable of speech"
+      ],
+      "synonyms": [
+        "unable to",
+        "not capable of",
+        "lacking the ability to",
+        "not equipped to",
+        "lacking the experience to"
+      ]
+    },
+    {
+      "description": "Unable to behave rationally or manage one's affairs; incompetent.",
+      "examples": [
+        "the pilot may become incapable from the lack of oxygen"
+      ],
+      "synonyms": [
+        "incapacitated",
+        "helpless",
+        "powerless",
+        "impotent"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French, or from late Latin incapabilis, from in- not + capabilis (see capable).",
+  "pronounciation": "/ˌɪnˈkeɪpəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/incapable_us_1.mp3"
+}

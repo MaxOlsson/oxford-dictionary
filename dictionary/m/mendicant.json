@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Given to begging.",
+      "synonyms": [
+        "begging",
+        "cadging"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A beggar.",
+      "synonyms": [
+        "beggar",
+        "beggarman",
+        "beggarwoman",
+        "tramp",
+        "vagrant",
+        "vagabond",
+        "cadger"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin mendicant- begging, from the verb mendicare, from mendicus beggar, from mendum fault.",
+  "pronounciation": "/ˈmɛndəkənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mendicant_us_1.mp3"
+}

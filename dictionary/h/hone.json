@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Sharpen (a blade)",
+      "examples": [
+        "he was carefully honing the curved blade"
+      ],
+      "synonyms": [
+        "sharpen",
+        "make sharper",
+        "make sharp",
+        "whet",
+        "strop",
+        "grind",
+        "file",
+        "put an edge on"
+      ]
+    },
+    {
+      "description": "Refine or perfect (something) over a period of time.",
+      "examples": [
+        "she has taken numerous workshops to hone her skills over the years"
+      ]
+    },
+    {
+      "examples": [
+        "the detectives honed in on the suspect",
+        "I started to hone in on the problem"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A whetstone, especially one used to sharpen razors."
+    }
+  ],
+  "origin": "Middle English: from Old English hān stone, of Germanic origin; related to Old Norse hein.",
+  "pronounciation": "/hoʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hone_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A thing designed to be put in or against the mouth.",
+      "examples": [
+        "the snorkel's mouthpiece"
+      ],
+      "synonyms": [
+        "embouchure"
+      ]
+    },
+    {
+      "description": "A person or organization that speaks on behalf of another person or organization.",
+      "examples": [
+        "they become nothing more than a mouthpiece for the company"
+      ],
+      "synonyms": [
+        "spokesperson",
+        "spokesman",
+        "spokeswoman",
+        "frontman",
+        "agent",
+        "representative",
+        "propagandist",
+        "organ",
+        "voice"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmaʊθˌpis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mouthpiece_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A connection to a public electric, water, or sewer line, or to a similar service.",
+      "examples": [
+        "the campground has 70 sites with water and sewer hookups"
+      ],
+      "synonyms": [
+        "amalgamation",
+        "combination",
+        "merging",
+        "union",
+        "fusion",
+        "coalition",
+        "affiliation",
+        "coupling",
+        "unification",
+        "incorporation",
+        "coalescence",
+        "consolidation",
+        "confederation",
+        "hook-up",
+        "link-up"
+      ]
+    },
+    {
+      "description": "An instance of people meeting, communicating, or cooperating.",
+      "examples": [
+        "he had an hour-long phone hookup with his six Senate colleagues"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈhʊkˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hookup_us_1.mp3"
+}

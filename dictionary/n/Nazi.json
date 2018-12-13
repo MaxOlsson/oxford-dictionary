@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A member of the National Socialist German Workers' Party."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of or concerning the Nazis or Nazism.",
+      "synonyms": [
+        "authoritarian",
+        "totalitarian",
+        "dictatorial",
+        "despotic",
+        "draconian",
+        "autocratic",
+        "nazi",
+        "undemocratic",
+        "anti-democratic",
+        "illiberal",
+        "extreme right-wing",
+        "far right-wing",
+        "rightist",
+        "militarist"
+      ]
+    }
+  ],
+  "origin": "German, abbreviation representing the pronunciation of Nati- in Nationalsozialist national socialist, probably by analogy with Sozi, from Sozialist socialist.",
+  "pronounciation": "/ˈnätsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nazi_us_1.mp3"
+}

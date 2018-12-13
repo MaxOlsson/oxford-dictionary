@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Not quite accurate or correct.",
+      "examples": [
+        "an inexact description"
+      ],
+      "synonyms": [
+        "imprecise",
+        "not accurate",
+        "not exact",
+        "approximate",
+        "rough",
+        "crude",
+        "coarse-grained",
+        "general",
+        "vague",
+        "hazy",
+        "woolly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌiniɡˈzakt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inexact_us_1.mp3"
+}

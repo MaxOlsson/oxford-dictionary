@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Having or involving several parts, elements, or members.",
+      "examples": [
+        "multiple occupancy",
+        "a multiple birth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A number that can be divided by another number without a remainder.",
+      "examples": [
+        "15, 20, or any other multiple of five"
+      ]
+    },
+    {
+      "description": "An arrangement of terminals that allows connection with an electrical circuit at any one of several points."
+    }
+  ],
+  "origin": "Mid 17th century: from French, from late Latin multiplus, alteration of Latin multiplex (see multiplex).",
+  "pronounciation": "/ˈməltəpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/multiple_us_1.mp3"
+}

@@ -1,0 +1,96 @@
+{
+  "adjective": [
+    {
+      "description": "Containing nothing; not filled or occupied.",
+      "examples": [
+        "the room was empty of furniture",
+        "he took his empty coffee cup back to the counter"
+      ],
+      "synonyms": [
+        "vacant",
+        "unoccupied",
+        "uninhabited",
+        "untenanted",
+        "clear",
+        "free",
+        "bare",
+        "desolate",
+        "deserted",
+        "abandoned"
+      ]
+    },
+    {
+      "description": "(of words or a gesture) lacking meaning or sincerity.",
+      "examples": [
+        "his answer sounded a little empty",
+        "empty threats"
+      ],
+      "synonyms": [
+        "meaningless",
+        "aimless",
+        "worthless",
+        "useless",
+        "idle",
+        "vain",
+        "insubstantial",
+        "ineffective",
+        "ineffectual"
+      ]
+    },
+    {
+      "description": "Having no value or purpose.",
+      "examples": [
+        "her life felt empty and meaningless"
+      ],
+      "synonyms": [
+        "meaningless",
+        "aimless",
+        "worthless",
+        "useless",
+        "idle",
+        "vain",
+        "insubstantial",
+        "ineffective",
+        "ineffectual"
+      ]
+    },
+    {
+      "description": "Hungry."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Remove all the contents of (a container)",
+      "examples": [
+        "we empty the cash register each night at closing time",
+        "pockets were emptied of loose change"
+      ],
+      "synonyms": [
+        "unload",
+        "unpack",
+        "unburden",
+        "disburden",
+        "clear",
+        "make vacant",
+        "vacate",
+        "evacuate",
+        "void"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A container (especially a bottle or glass) left empty of its contents."
+    }
+  ],
+  "phrases": [
+    "After about three hours of high-intensity movement, you're essentially running on empty.",
+    "I will be running on empty, my life fuelled only by the adrenaline created by feelings of constant panic and dread.",
+    "He goes on to suggest that America is now an empire running on empty, backing away from the crucial imperial commitments of time, money and manpower - and resting on perilous financial foundations.",
+    "I'd been away for a long time and I was running on empty by the end.",
+    "Next time you're running on empty, reach for an apple with a tablespoon of peanut butter, plain low-fat yogurt with a cup of berries, or wholegrain toast with an ounce of cheese."
+  ],
+  "origin": "Old English ǣmtig, ǣmetig at leisure, empty, from ǣmetta leisure, perhaps from ā no, not + mōt meeting (see moot).",
+  "pronounciation": "/ˈem(p)tē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/empty_us_1.mp3"
+}

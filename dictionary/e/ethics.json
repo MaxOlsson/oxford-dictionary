@@ -1,0 +1,54 @@
+{
+  "plural noun": [
+    {
+      "description": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "examples": [
+        "medical ethics also enter into the question",
+        "a code of ethics"
+      ],
+      "synonyms": [
+        "moral code",
+        "morals",
+        "morality",
+        "moral stand",
+        "moral principles",
+        "moral values",
+        "rights and wrongs",
+        "principles",
+        "ideals",
+        "creed",
+        "credo",
+        "ethos",
+        "rules of conduct",
+        "standards",
+        "standards of behaviour",
+        "virtues",
+        "dictates of conscience"
+      ]
+    },
+    {
+      "description": "The branch of knowledge that deals with moral principles.",
+      "synonyms": [
+        "fairness",
+        "justness",
+        "fair play",
+        "fair-mindedness",
+        "equity",
+        "equitableness",
+        "even-handedness",
+        "egalitarianism",
+        "impartiality",
+        "impartialness",
+        "lack of bias",
+        "objectivity",
+        "neutrality",
+        "disinterestedness",
+        "lack of prejudice",
+        "open-mindedness",
+        "non-partisanship"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɛθɪks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ethics_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Say something in a low or barely audible voice, especially in dissatisfaction or irritation.",
+      "examples": [
+        "he muttered something under his breath",
+        "“I knew she was a troublemaker,” Rebecca muttered",
+        "she muttered in annoyance as the keys slid from her fingers"
+      ],
+      "synonyms": [
+        "talk under one's breath",
+        "murmur",
+        "mumble",
+        "whisper",
+        "speak in an undertone",
+        "speak sotto voce",
+        "speak in hushed tones"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A barely audible utterance, especially one expressing dissatisfaction or irritation.",
+      "examples": [
+        "a little mutter of disgust"
+      ],
+      "synonyms": [
+        "complaint",
+        "grumble",
+        "moan",
+        "mutter",
+        "murmur",
+        "grouse",
+        "objection",
+        "protest",
+        "protestation",
+        "outcry",
+        "demur",
+        "argument",
+        "remonstrance",
+        "remonstration",
+        "exception",
+        "grievance",
+        "cavil",
+        "quibble",
+        "word",
+        "sound"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative; compare with German dialect muttern.",
+  "pronounciation": "/ˈmədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mutter_us_2.mp3"
+}

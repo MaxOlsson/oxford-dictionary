@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Very cold in temperature.",
+      "examples": [
+        "frigid water"
+      ],
+      "synonyms": [
+        "very cold",
+        "bitterly cold",
+        "bitter",
+        "freezing",
+        "frozen",
+        "frosty",
+        "icy",
+        "icy-cold",
+        "ice-cold",
+        "chilly",
+        "wintry",
+        "bleak",
+        "sub-zero",
+        "arctic",
+        "siberian",
+        "polar",
+        "glacial"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin frigidus, from frigere be cold, from frigus (noun) cold.",
+  "pronounciation": "/ˈfrijid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/frigid_us_1.mp3"
+}

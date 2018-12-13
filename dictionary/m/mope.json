@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Be dejected and apathetic.",
+      "examples": [
+        "no use moping—things could be worse"
+      ],
+      "synonyms": [
+        "brood",
+        "sulk",
+        "be miserable",
+        "be gloomy",
+        "be sad",
+        "be despondent",
+        "pine",
+        "eat one's heart out",
+        "fret",
+        "grieve",
+        "despair"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person given to prolonged spells of low spirits.",
+      "examples": [
+        "they're just a bunch of mopes"
+      ],
+      "synonyms": [
+        "melancholic",
+        "depressive",
+        "pessimist",
+        "prophet of doom",
+        "killjoy",
+        "moaner"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (the early noun sense being fool or simpleton): perhaps of Scandinavian origin; compare with Swedish dialect mopa to sulk.",
+  "pronounciation": "/mōp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mope_us_1.mp3"
+}

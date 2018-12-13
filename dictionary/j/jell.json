@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid or semiliquid substance) set or become more solid.",
+      "examples": [
+        "she works at it all day but can't get the jelly to jell",
+        "chicken or fish stock will jell when chilled"
+      ],
+      "synonyms": [
+        "set",
+        "stiffen",
+        "solidify",
+        "thicken",
+        "harden"
+      ]
+    },
+    {
+      "description": "(of a project or idea) take a definite form or begin to work well.",
+      "examples": [
+        "he decided to do a different film that would jell at the box office"
+      ],
+      "synonyms": [
+        "take shape",
+        "come together",
+        "fall into place",
+        "happen",
+        "take form",
+        "form",
+        "emerge",
+        "crystallize",
+        "materialize",
+        "become definite"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: back-formation from jelly. See also gel.",
+  "pronounciation": "/jel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/gel_us_1.mp3"
+}

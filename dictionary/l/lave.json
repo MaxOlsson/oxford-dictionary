@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Wash.",
+      "examples": [
+        "she ran cold water in the basin, laving her face and hands"
+      ],
+      "synonyms": [
+        "wash",
+        "cleanse",
+        "wipe",
+        "sponge",
+        "scrub",
+        "mop",
+        "rinse",
+        "scour",
+        "swab",
+        "hose down",
+        "sluice",
+        "sluice down",
+        "flush",
+        "polish",
+        "disinfect"
+      ]
+    }
+  ],
+  "origin": "Old English lafian, from Latin lavare to wash; reinforced in Middle English by Old French laver.",
+  "pronounciation": "/leɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lave_us_1.mp3"
+}

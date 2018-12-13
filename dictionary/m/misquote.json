@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Quote (a person or a piece of written or spoken text) inaccurately.",
+      "examples": [
+        "the foreign secretary had misquoted Qian"
+      ],
+      "synonyms": [
+        "misreport",
+        "misrepresent",
+        "misstate",
+        "quote incorrectly",
+        "quote out of context",
+        "take out of context",
+        "distort",
+        "twist",
+        "slant",
+        "bias",
+        "put a spin on",
+        "pervert",
+        "falsify",
+        "garble",
+        "muddle",
+        "mistranslate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A passage or remark quoted inaccurately.",
+      "examples": [
+        "a misquote from a poem by Robert Burns"
+      ]
+    }
+  ],
+  "pronounciation": "/misˈkwōt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misquote_us_1.mp3"
+}

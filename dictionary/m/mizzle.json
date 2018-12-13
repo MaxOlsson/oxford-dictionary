@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "Light rain; drizzle.",
+      "synonyms": [
+        "rainfall",
+        "precipitation",
+        "raindrops",
+        "rainwater",
+        "wet weather"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rain lightly.",
+      "examples": [
+        "it was mizzling steadily"
+      ],
+      "synonyms": [
+        "rain",
+        "fall",
+        "drizzle",
+        "spray",
+        "mizzle",
+        "hail"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: of unknown origin.",
+  "pronounciation": "/ˈmizəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mizzle_us_1.mp3"
+}

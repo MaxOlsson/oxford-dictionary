@@ -1,0 +1,34 @@
+{
+  "adverb": [
+    {
+      "description": "Substantially; considerably.",
+      "examples": [
+        "materially different circumstances"
+      ],
+      "synonyms": [
+        "significantly",
+        "greatly",
+        "much",
+        "very much",
+        "to a great extent",
+        "considerably",
+        "substantially",
+        "a great deal",
+        "appreciably",
+        "markedly",
+        "seriously",
+        "gravely",
+        "essentially",
+        "fundamentally"
+      ]
+    },
+    {
+      "description": "In terms of wealth or material possessions.",
+      "examples": [
+        "a materially and culturally rich area"
+      ]
+    }
+  ],
+  "pronounciation": "/məˈtɪriəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/materially_us_1.mp3"
+}

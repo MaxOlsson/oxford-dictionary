@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "Material made of a network of wire or thread.",
+      "examples": [
+        "mesh for fishing nets",
+        "finer wire meshes are used for smaller particles"
+      ],
+      "synonyms": [
+        "netting",
+        "net",
+        "network",
+        "tracery",
+        "reticulation"
+      ]
+    },
+    {
+      "description": "An interlaced structure.",
+      "examples": [
+        "cell fragments that agglutinate and form intricate meshes"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of the teeth of a gearwheel) lock together or be engaged with another gearwheel.",
+      "examples": [
+        "one gear meshes with the input gear"
+      ],
+      "synonyms": [
+        "engage",
+        "be engaged",
+        "mate",
+        "connect",
+        "lock",
+        "interlock"
+      ]
+    },
+    {
+      "description": "Represent (a geometric object) as a set of finite elements for computational analysis or modeling."
+    }
+  ],
+  "phrases": [
+    "The first and the end gearwheels 141 and 145 are in mesh with the motor pinion.",
+    "Said rotating gearwheels have regions, which are axially separated from one another and are in mesh in each case with one of the two adjusting gearwheels.",
+    "The teeth on a gearwheel are of course never a precise fit in the troughs defined between the teeth of a gearwheel with which it is in mesh, since this would render rotation of the two gearwheels impossible."
+  ],
+  "origin": "Late Middle English: probably from an unrecorded Old English word related to (and perhaps reinforced in Middle English by) Middle Dutch maesche, of Germanic origin.",
+  "pronounciation": "/meSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mesh_us_1.mp3"
+}

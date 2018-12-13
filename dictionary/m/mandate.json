@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "An official order or commission to do something.",
+      "examples": [
+        "a mandate to seek the release of political prisoners"
+      ],
+      "synonyms": [
+        "instruction",
+        "directive",
+        "direction",
+        "decree",
+        "command",
+        "order",
+        "injunction",
+        "edict",
+        "charge",
+        "commission",
+        "bidding",
+        "warrant",
+        "ruling",
+        "ordinance",
+        "law",
+        "statute",
+        "fiat"
+      ]
+    },
+    {
+      "description": "The authority to carry out a policy or course of action, regarded as given by the electorate to a candidate or party that is victorious in an election.",
+      "examples": [
+        "a sick leader living beyond his mandate"
+      ],
+      "synonyms": [
+        "authority",
+        "approval",
+        "acceptance",
+        "ratification",
+        "endorsement"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give (someone) authority to act in a certain way.",
+      "examples": [
+        "other colleges have mandated coed fraternities"
+      ],
+      "synonyms": [
+        "authorize",
+        "commission",
+        "depute",
+        "appoint",
+        "nominate",
+        "name",
+        "mandate",
+        "empower",
+        "charge",
+        "choose",
+        "select",
+        "designate",
+        "elect"
+      ]
+    },
+    {
+      "description": "Assign (territory) under a mandate of the League of Nations.",
+      "examples": [
+        "mandated territories"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from Latin mandatum something commanded, neuter past participle of mandare, from manus hand + dare give. Sense 2 of the noun has been influenced by French mandat.",
+  "pronounciation": "/ˈmænˌdeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mandate_us_1.mp3"
+}

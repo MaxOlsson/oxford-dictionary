@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Material (such as decaying leaves, bark, or compost) spread around or over a plant to enrich or insulate the soil.",
+      "synonyms": [
+        "fertilizer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Treat or cover with mulch.",
+      "synonyms": [
+        "till",
+        "plough",
+        "dig",
+        "turn",
+        "hoe"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: probably from dialect mulch soft used as a noun, from Old English melsc, mylsc.",
+  "pronounciation": "/məltʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mulch_us_1.mp3"
+}

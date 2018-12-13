@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Unwise or imprudent.",
+      "examples": [
+        "you would be ill-advised to go on your own"
+      ],
+      "synonyms": [
+        "unwise",
+        "injudicious",
+        "misguided",
+        "imprudent",
+        "impolitic",
+        "incautious",
+        "ill-considered",
+        "ill-judged",
+        "ill-conceived",
+        "ill-thought-out",
+        "badly planned",
+        "inexpedient"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌil ədˈvīzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ill_advised_1_us_1.mp3"
+}

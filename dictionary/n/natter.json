@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Talk casually, especially about unimportant matters; chatter.",
+      "examples": [
+        "they nattered away for hours"
+      ],
+      "synonyms": [
+        "chat",
+        "talk idly",
+        "chatter",
+        "prattle",
+        "prate",
+        "go on",
+        "run on",
+        "rattle away",
+        "rattle on",
+        "gossip",
+        "tittle-tattle",
+        "tattle",
+        "ramble",
+        "gabble",
+        "jabber",
+        "babble",
+        "blather",
+        "blether",
+        "blither",
+        "twitter",
+        "maunder",
+        "drivel",
+        "patter",
+        "yap",
+        "jibber-jabber",
+        "cackle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A casual and leisurely conversation.",
+      "examples": [
+        "I could do with a drink and a natter"
+      ],
+      "synonyms": [
+        "discussion",
+        "talk",
+        "chat",
+        "gossip",
+        "tête-à-tête",
+        "heart-to-heart",
+        "head-to-head",
+        "exchange",
+        "dialogue",
+        "parley",
+        "consultation",
+        "conference"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (in the dialect sense grumble, fret): imitative.",
+  "pronounciation": "/ˈnædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/natter_us_1.mp3"
+}

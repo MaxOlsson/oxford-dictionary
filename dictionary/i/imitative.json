@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Copying or following a model or example.",
+      "examples": [
+        "the derring-do of our film heroes inspired us to imitative feats"
+      ],
+      "synonyms": [
+        "similar",
+        "like"
+      ]
+    },
+    {
+      "description": "(of a word) reproducing a natural sound (e.g. fizz) or pronounced in a way that is thought to correspond to the appearance or character of the object or action described (e.g. blob).",
+      "synonyms": [
+        "onomatopoeic",
+        "echoic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈiməˌtādiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/imitative_us_1.mp3"
+}

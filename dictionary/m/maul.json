@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal) wound (a person or animal) by scratching and tearing.",
+      "examples": [
+        "the herdsmen were mauled by lions"
+      ],
+      "synonyms": [
+        "savage",
+        "attack",
+        "tear to pieces",
+        "lacerate",
+        "claw",
+        "mutilate",
+        "mangle",
+        "scratch"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tool with a heavy head and a handle, used for tasks such as ramming, crushing, and driving wedges; a beetle."
+    }
+  ],
+  "origin": "Middle English (in the sense hammer or wooden club, also strike with a heavy weapon): from Old French mail, from Latin malleus hammer.",
+  "pronounciation": "/môl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/maul_us_1.mp3"
+}

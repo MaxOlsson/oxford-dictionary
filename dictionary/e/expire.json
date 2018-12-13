@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "(of a document, authorization, or agreement) cease to be valid, typically after a fixed period of time.",
+      "examples": [
+        "the old contract had expired"
+      ],
+      "synonyms": [
+        "run out",
+        "become invalid",
+        "become void",
+        "be no longer valid",
+        "lapse",
+        "cease",
+        "become obsolete"
+      ]
+    },
+    {
+      "description": "(of a person) die.",
+      "synonyms": [
+        "die",
+        "pass away",
+        "pass on",
+        "decease",
+        "perish",
+        "depart this life",
+        "be no more",
+        "breathe one's last",
+        "draw one's last breath",
+        "meet one's end",
+        "meet one's death",
+        "meet one's maker",
+        "give up the ghost",
+        "go to the great beyond",
+        "cross the great divide",
+        "shuffle off this mortal coil",
+        "go the way of all flesh",
+        "go the way of the flesh",
+        "go to one's last resting place"
+      ]
+    },
+    {
+      "description": "Exhale (air) from the lung.",
+      "synonyms": [
+        "breathe out",
+        "exhale",
+        "puff out",
+        "blow out",
+        "expel",
+        "emit"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French expirer, from Latin exspirare breathe out, from ex- out + spirare breathe.",
+  "pronounciation": "/ˌikˈspī(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/expire_us_1.mp3"
+}

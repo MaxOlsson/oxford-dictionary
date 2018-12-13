@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "An amount of food, air, or another substance taken into the body.",
+      "examples": [
+        "your daily intake of calories",
+        "his alcohol intake"
+      ],
+      "synonyms": [
+        "batch",
+        "lot",
+        "assortment",
+        "selection",
+        "collection",
+        "supply"
+      ]
+    },
+    {
+      "description": "A location or structure through which something is taken in, e.g., water into a channel or pipe from a river, fuel or air into an engine or machine, commodities into a place, etc.",
+      "examples": [
+        "cut rectangular holes for the air intake"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally Scots and northern English): from in + take.",
+  "pronounciation": "/ˈɪnˌteɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/intake_us_1.mp3"
+}

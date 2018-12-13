@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Existing from birth.",
+      "examples": [
+        "an inborn defect in the formation of collagen"
+      ],
+      "synonyms": [
+        "genetic",
+        "genetical",
+        "congenital",
+        "inherent",
+        "inherited",
+        "inbred",
+        "innate",
+        "in the family",
+        "in the blood",
+        "in the genes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌinˈbôrn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inborn_us_1.mp3"
+}

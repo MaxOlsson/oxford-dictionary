@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal) shed old feathers, hair, or skin, or an old shell, to make way for a new growth.",
+      "examples": [
+        "the snake molts its skin",
+        "the adult birds were already molting into their winter shades of gray"
+      ],
+      "synonyms": [
+        "shed",
+        "discard",
+        "slough off",
+        "throw off",
+        "get rid of",
+        "let fall",
+        "let drop"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loss of plumage, skin, or hair, especially as a regular feature of an animal's life cycle."
+    }
+  ],
+  "origin": "Middle English moute, from an Old English verb based on Latin mutare to change. For the intrusive -l-, compare with words such as fault.",
+  "pronounciation": "/moʊlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/molt_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A funeral home or morgue.",
+      "synonyms": [
+        "morgue",
+        "funeral parlour",
+        "funeral chapel",
+        "funeral home"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to burial or tombs.",
+      "examples": [
+        "mortuary rituals",
+        "a mortuary temple"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting a gift claimed by a parish priest from a deceased person's estate): from Latin mortuarius, from mortuus dead. The current noun sense dates from the mid 19th century.",
+  "pronounciation": "/ˈmôrCHo͞oˌerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortuary_us_1.mp3"
+}

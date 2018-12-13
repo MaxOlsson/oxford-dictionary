@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of many elements in a complex relationship.",
+      "examples": [
+        "multiplex ties of work and friendship"
+      ],
+      "synonyms": [
+        "compound",
+        "composite",
+        "compounded"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A system or signal involving simultaneous transmission of several messages along a single channel of communication."
+    },
+    {
+      "description": "A movie theater with several separate screens."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Incorporate into a multiplex signal or system."
+    }
+  ],
+  "origin": "Late Middle English in the mathematical sense multiple: from Latin.",
+  "pronounciation": "/ˈməltəˌplɛks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/multiplex_us_1.mp3"
+}

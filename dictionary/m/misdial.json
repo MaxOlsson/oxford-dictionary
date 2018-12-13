@@ -1,0 +1,17 @@
+{
+  "verb": [
+    {
+      "description": "Dial a telephone number incorrectly."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of dialing a telephone number incorrectly.",
+      "examples": [
+        "BT said the number of misdials was lower than expected"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmɪsˈdaɪ(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misdial_us_1.mp3"
+}

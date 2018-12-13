@@ -1,0 +1,38 @@
+{
+  "adverb &amp; adjective": [
+    {
+      "description": "Done without being planned, organized, or rehearsed.",
+      "examples": [
+        "an impromptu press conference",
+        "he spoke impromptu"
+      ],
+      "synonyms": [
+        "unrehearsed",
+        "unprepared",
+        "unscripted",
+        "extempore",
+        "extemporized",
+        "improvised",
+        "improvisational",
+        "improvisatory",
+        "improvisatorial",
+        "spontaneous",
+        "unstudied",
+        "unpremeditated",
+        "unarranged",
+        "unplanned",
+        "on the spot",
+        "snap",
+        "ad lib"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A short piece of instrumental music, especially a solo, that is reminiscent of an improvisation."
+    }
+  ],
+  "origin": "Mid 17th century (as an adverb): from French, from Latin in promptu in readiness, from promptus (see prompt).",
+  "pronounciation": "/imˈpräm(p)ˌt(y)o͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impromptu_us_1.mp3"
+}

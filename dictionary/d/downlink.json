@@ -1,0 +1,17 @@
+{
+  "noun": [
+    {
+      "description": "A telecommunications link for signals coming to the earth from a satellite, spacecraft, or aircraft."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Relay to the earth (a telecommunications signal or the information it conveys)",
+      "examples": [
+        "any TV station can downlink just about any game"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈdounliNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/downlink_us_1.mp3"
+}

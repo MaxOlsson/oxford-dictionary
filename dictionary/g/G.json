@@ -1,0 +1,35 @@
+{
+  "abbreviation": [
+    {
+      "description": "Gas."
+    },
+    {
+      "description": "Gelding."
+    },
+    {
+      "description": "Gram(s)."
+    },
+    {
+      "description": "Denoting quantum states or wave functions which do not change sign on inversion through the origin."
+    }
+  ],
+  "": [
+    {
+      "description": "The acceleration due to gravity, equal to 9.81 m/s²."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The seventh letter of the alphabet.",
+      "synonyms": [
+        "thousand dollars",
+        "thousand pounds"
+      ]
+    },
+    {
+      "description": "The fifth note in the diatonic scale of C major."
+    }
+  ],
+  "pronounciation": "/dʒi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/g_us_1.mp3"
+}

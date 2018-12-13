@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A paid position of regular employment.",
+      "examples": [
+        "a part-time job",
+        "jobs are created in the private sector, not in Washington"
+      ],
+      "synonyms": [
+        "position of employment",
+        "position",
+        "post",
+        "situation",
+        "place",
+        "appointment",
+        "posting",
+        "placement",
+        "day job"
+      ]
+    },
+    {
+      "description": "A task or piece of work, especially one that is paid.",
+      "examples": [
+        "she wants to be left alone to get on with the job",
+        "you did a good job of explaining"
+      ],
+      "synonyms": [
+        "task",
+        "piece of work",
+        "assignment",
+        "project"
+      ]
+    },
+    {
+      "description": "A thing of a specified kind.",
+      "examples": [
+        "the car was a blue malevolent-looking job"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Do casual or occasional work.",
+      "examples": [
+        "a jobbing builder"
+      ]
+    },
+    {
+      "description": "Buy and sell (stocks) as a broker-dealer, especially on a small scale."
+    },
+    {
+      "description": "Cheat; betray."
+    },
+    {
+      "description": "Turn a public office or a position of trust to private advantage."
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "(in the Bible) a prosperous man whose patience and piety were tried by undeserved misfortunes, and who, in spite of his bitter lamentations, remained confident in the goodness and justice of God."
+    }
+  ],
+  "phrases": [
+    "a piece of board will do the job",
+    "The ever-diminishing crew suddenly discover that the nukes on board just will not do the job.",
+    "Not that women can't do the job, just that they tend to do other vital jobs better.",
+    "Not only does he have the ability to do the job, he also has the integrity to do the job.",
+    "It did the job, but requires an extra hole being cut in your boat, plus cumbersome additional steps during fueling.",
+    "all the work done by the middleman can be jobbed out at a much lower cost"
+  ],
+  "origin": "Late Middle English: apparently symbolic of a brief forceful action (compare with jab).",
+  "pronounciation": "/dʒoʊb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/job_us_1.mp3"
+}

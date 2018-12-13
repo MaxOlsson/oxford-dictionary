@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A situation that causes delay.",
+      "examples": [
+        "the road closure will cause lengthy hold-ups"
+      ],
+      "synonyms": [
+        "delay",
+        "setback",
+        "hitch",
+        "snag",
+        "difficulty",
+        "problem",
+        "issue",
+        "trouble",
+        "wait",
+        "waiting period",
+        "stoppage"
+      ]
+    },
+    {
+      "description": "A robbery conducted with the use of threats or violence.",
+      "examples": [
+        "the shocked victims of an armed hold-up"
+      ],
+      "synonyms": [
+        "robbery",
+        "raid",
+        "armed robbery",
+        "armed raid",
+        "theft",
+        "burglary",
+        "mugging"
+      ]
+    },
+    {
+      "description": "A stocking held up by an elasticated top rather than by suspenders."
+    }
+  ],
+  "pronounciation": "/ˈhəʊldʌp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hold_up_1_gb_1.mp3"
+}

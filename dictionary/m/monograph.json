@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A detailed written study of a single specialized subject or an aspect of it.",
+      "examples": [
+        "a series of monographs on music in late medieval and Renaissance cities"
+      ],
+      "synonyms": [
+        "article",
+        "piece of writing",
+        "composition",
+        "study",
+        "paper",
+        "dissertation",
+        "assignment",
+        "thesis",
+        "discourse",
+        "treatise",
+        "text",
+        "tract",
+        "disquisition"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Write a monograph on; treat in a monograph."
+    }
+  ],
+  "origin": "Early 19th century (earlier monography): from modern Latin monographia, from monographus writer on a single genus or species.",
+  "pronounciation": "/ˈmɑnəˌɡræf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/monograph_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "What is meant by a word, text, concept, or action.",
+      "examples": [
+        "the meaning of the word “supermarket”",
+        "it was as if time had lost all meaning"
+      ],
+      "synonyms": [
+        "definition",
+        "sense",
+        "explanation",
+        "denotation",
+        "connotation",
+        "interpretation",
+        "elucidation",
+        "explication"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Intended to communicate something that is not directly expressed.",
+      "examples": [
+        "she gave Gabriel a meaning look"
+      ],
+      "synonyms": [
+        "meaningful",
+        "significant",
+        "pointed",
+        "eloquent",
+        "expressive",
+        "pregnant",
+        "speaking",
+        "telltale",
+        "revealing",
+        "suggestive"
+      ]
+    }
+  ],
+  "phrases": [
+    "“Humanity?” You don't know the meaning of the word!",
+    "These people don't know the meaning of the word defeat.",
+    "Rudy tells the story of a boy who doesn't know the meaning of the word quit.",
+    "You don't know the meaning of the word, he told her as he dragged her toward the car, but you're going to learn.",
+    "I'm sorry, Hannah, he doesn't know the meaning of the word."
+  ],
+  "origin": "Late Middle English: verbal noun from mean.",
+  "pronounciation": "/ˈminɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meaning_us_1.mp3"
+}

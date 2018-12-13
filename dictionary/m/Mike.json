@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A microphone.",
+      "synonyms": [
+        "public address system",
+        "pa system",
+        "speaker",
+        "speaker unit",
+        "speaker system",
+        "microphone"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place a microphone close to (someone or something) or in (a place)",
+      "examples": [
+        "the minister was already miked up for the interview"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: of unknown origin.",
+  "pronounciation": "/maɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mike_us_1.mp3"
+}

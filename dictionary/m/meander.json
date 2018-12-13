@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "(of a river or road) follow a winding course.",
+      "examples": [
+        "a river that meandered gently through a meadow"
+      ],
+      "synonyms": [
+        "zigzag",
+        "wind",
+        "twist",
+        "turn",
+        "curve",
+        "curl",
+        "bend",
+        "snake"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A winding curve or bend of a river or road.",
+      "examples": [
+        "the river flows in sweeping meanders"
+      ],
+      "synonyms": [
+        "bend",
+        "loop",
+        "curve",
+        "twist",
+        "turn",
+        "turning",
+        "coil",
+        "zigzag",
+        "oxbow",
+        "convolution"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as a noun): from Latin maeander, from Greek Maiandros, the name of a river (see Menderes).",
+  "pronounciation": "/mēˈandər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/meander_us_1.mp3"
+}

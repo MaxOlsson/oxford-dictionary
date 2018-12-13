@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Embroidery worked over canvas, typically in a diagonal stitch covering the entire surface of the fabric."
+    },
+    {
+      "description": "Lace made by hand using a needle rather than bobbins.",
+      "synonyms": [
+        "openwork",
+        "lacework",
+        "tatting",
+        "netting",
+        "net",
+        "tulle",
+        "meshwork",
+        "mesh",
+        "webbing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Embroider in needlepoint."
+    }
+  ],
+  "pronounciation": "/ˈnidlˌpɔɪnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/needlepoint_us_1.mp3"
+}

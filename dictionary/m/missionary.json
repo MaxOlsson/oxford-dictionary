@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A person sent on a religious mission, especially one sent to promote Christianity in a foreign country.",
+      "synonyms": [
+        "evangelist",
+        "apostle",
+        "proselytizer",
+        "preacher",
+        "televangelist",
+        "minister",
+        "priest"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of a missionary or a religious mission.",
+      "examples": [
+        "missionary work",
+        "they have lost the missionary zeal they once had"
+      ],
+      "synonyms": [
+        "evangelistic",
+        "evangelizing",
+        "missionary",
+        "crusading",
+        "propagandist",
+        "propagandizing",
+        "converting",
+        "proselytizing",
+        "televangelical"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from modern Latin missionarius, from Latin missio (see mission).",
+  "pronounciation": "/ˈmiSHəˌnerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/missionary_us_1.mp3"
+}

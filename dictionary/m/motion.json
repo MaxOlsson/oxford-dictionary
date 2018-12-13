@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of moving or being moved.",
+      "examples": [
+        "the laws of planetary motion",
+        "a cushioned shoe that doesn't restrict motion"
+      ],
+      "synonyms": [
+        "movement",
+        "moving",
+        "locomotion",
+        "rise and fall",
+        "shifting",
+        "stirring",
+        "to and fro",
+        "toing and froing",
+        "coming and going"
+      ]
+    },
+    {
+      "description": "A formal proposal put to a legislature or committee.",
+      "examples": [
+        "the head of our commission made a motion that we rewrite the constitution"
+      ],
+      "synonyms": [
+        "proposal",
+        "proposition",
+        "submission",
+        "recommendation",
+        "suggestion"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Direct or command (someone) with a movement of the hand or head.",
+      "examples": [
+        "he motioned Dennis to a plush chair",
+        "he motioned the young officer to sit down",
+        "he motioned for a time out"
+      ],
+      "synonyms": [
+        "gesture",
+        "gesticulate",
+        "signal",
+        "sign",
+        "direct",
+        "indicate"
+      ]
+    },
+    {
+      "description": "Propose for discussion and resolution at a meeting or legislative assembly.",
+      "examples": [
+        "a resolution, motioned by Adam Tyler, proposed that members without a CCL could still belong to the association",
+        "Councillor Byrne motioned that the committee call on the area manager to install street lighting"
+      ]
+    }
+  ],
+  "phrases": [
+    "no drive, no ambition; the team was just turning up to go through the motions",
+    "It was an exercise in uncomfortableness - Dr. S., dressed in a painfully tight suit, clutching a juice box, went through the motions of interviewing people he disliked and resented.",
+    "It amazes me how often we find ourselves inadvertently going through the motions of achieving things, doing everything we know we're supposed or told to do, but eventually not reaching the finish line, or reaching it a bit too late.",
+    "Although the Department went through the motions of investigating complaints, its commitment to enforcing the corporal punishment regulations was half-hearted at best.",
+    "With stars in my eyes, I went through the motions of finishing high school, followed by junior college and then engineering college."
+  ],
+  "origin": "Late Middle English: via Old French from Latin motio(n-), from movere to move.",
+  "pronounciation": "/ˈmoʊʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/motion_us_1.mp3"
+}

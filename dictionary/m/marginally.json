@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "To only a limited extent; slightly.",
+      "examples": [
+        "inflation is predicted to drop marginally",
+        "he's marginally worse than he was"
+      ],
+      "synonyms": [
+        "slightly",
+        "a little",
+        "a bit",
+        "somewhat",
+        "rather",
+        "moderately",
+        "to some degree",
+        "to a certain extent",
+        "in a way",
+        "to a slight extent",
+        "faintly",
+        "obscurely",
+        "dimly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɑrdʒənəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/marginally_us_1.mp3"
+}

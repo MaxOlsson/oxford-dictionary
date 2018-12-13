@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Say something indistinctly and quietly, making it difficult for others to hear.",
+      "examples": [
+        "he mumbled something she didn't catch",
+        "“Sorry,” she mumbled"
+      ],
+      "synonyms": [
+        "mutter",
+        "murmur",
+        "speak indistinctly",
+        "talk under one's breath",
+        "speak sotto voce",
+        "talk to oneself"
+      ]
+    },
+    {
+      "description": "Bite or chew with toothless gums or eat without making much use of the teeth."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quiet and indistinct utterance.",
+      "examples": [
+        "Rosie had replied in a mumble"
+      ],
+      "synonyms": [
+        "murmur",
+        "mutter",
+        "mumble",
+        "low voice",
+        "hushed tone",
+        "undertone"
+      ]
+    }
+  ],
+  "origin": "Middle English: frequentative of mum.",
+  "pronounciation": "/ˈməmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mumble_us_1.mp3"
+}

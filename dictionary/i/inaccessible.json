@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to be reached.",
+      "examples": [
+        "a remote and inaccessible cave"
+      ],
+      "synonyms": [
+        "unreachable",
+        "out of reach",
+        "beyond reach"
+      ]
+    },
+    {
+      "description": "(of language or an artistic work) difficult to understand or appreciate.",
+      "synonyms": [
+        "esoteric",
+        "obscure",
+        "abstruse",
+        "recondite",
+        "recherché",
+        "arcane",
+        "rarefied"
+      ]
+    },
+    {
+      "description": "(of a person) not open to advances or influence; unapproachable."
+    }
+  ],
+  "origin": "Late Middle English: from French, or from late Latin inaccessibilis, from in- not + accessibilis (see accessible).",
+  "pronounciation": "/ˌinakˈsesəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inaccessible_us_1.mp3"
+}

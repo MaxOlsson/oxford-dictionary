@@ -1,0 +1,73 @@
+{
+  "abbreviation": [
+    {
+      "description": "Name."
+    },
+    {
+      "description": "(in units of measurement) nano- (10⁹)",
+      "examples": [
+        "the plates were coated with 500 ng of protein in sodium carbonate buffer"
+      ]
+    },
+    {
+      "description": "Born."
+    },
+    {
+      "description": "Nephew."
+    },
+    {
+      "description": "Net."
+    },
+    {
+      "description": "Neuter."
+    },
+    {
+      "description": "New."
+    },
+    {
+      "description": "Nominative."
+    },
+    {
+      "description": "Noon."
+    },
+    {
+      "description": "Normal (denoting straight-chain hydrocarbons)",
+      "examples": [
+        "n-hexane"
+      ]
+    },
+    {
+      "description": "North or northern."
+    },
+    {
+      "description": "Note (used in a book's index to refer to a footnote)",
+      "examples": [
+        "450n"
+      ]
+    },
+    {
+      "description": "Note."
+    },
+    {
+      "description": "Noun."
+    },
+    {
+      "description": "Number."
+    }
+  ],
+  "": [
+    {
+      "description": "An unspecified or variable number.",
+      "examples": [
+        "at the limit where n equals infinity"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The fourteenth letter of the alphabet."
+    }
+  ],
+  "pronounciation": "/ɛn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/n_us_1.mp3"
+}

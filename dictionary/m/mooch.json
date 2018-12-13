@@ -1,0 +1,58 @@
+{
+  "verb": [
+    {
+      "description": "Ask for or obtain (something) without paying for it.",
+      "examples": [
+        "a bunch of your friends will show up, mooching food",
+        "I'm mooching off you all the time"
+      ],
+      "synonyms": [
+        "ask for money",
+        "solicit money",
+        "seek charity",
+        "seek alms"
+      ]
+    },
+    {
+      "description": "Loiter in a bored or listless manner.",
+      "examples": [
+        "he didn't want them mooching around all day"
+      ],
+      "synonyms": [
+        "dawdle",
+        "dally",
+        "stroll",
+        "saunter",
+        "loll",
+        "go slowly",
+        "take one's time",
+        "go at a snail's pace",
+        "move at a snail's pace",
+        "drag one's feet",
+        "delay"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A beggar or scrounger.",
+      "examples": [
+        "the mooch who got everything from his dad"
+      ],
+      "synonyms": [
+        "tramp",
+        "beggarman",
+        "beggarwoman",
+        "vagrant",
+        "vagabond",
+        "down-and-out",
+        "homeless person",
+        "derelict",
+        "mendicant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense to hoard): probably from Old French muchier ( Anglo-Norman muscher) hide, skulk: compare with mitch. Current senses date from the mid 19th century.",
+  "pronounciation": "/mutʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mooch_us_1.mp3"
+}

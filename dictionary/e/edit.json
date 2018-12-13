@@ -1,0 +1,54 @@
+{
+  "verb": [
+    {
+      "description": "Prepare (written material) for publication by correcting, condensing, or otherwise modifying it.",
+      "examples": [
+        "Volume I was edited by J. Johnson"
+      ],
+      "synonyms": [
+        "correct",
+        "check",
+        "copy-edit"
+      ]
+    },
+    {
+      "description": "Be editor of (a newspaper or magazine).",
+      "synonyms": [
+        "be the editor of",
+        "control the content of",
+        "control",
+        "direct",
+        "run",
+        "manage",
+        "be in charge of",
+        "be responsible for",
+        "be at the helm of",
+        "be chief of",
+        "head",
+        "lead",
+        "supervise",
+        "superintend",
+        "oversee",
+        "preside over",
+        "be the boss of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A change or correction made as a result of editing.",
+      "synonyms": [
+        "revision",
+        "alteration",
+        "change",
+        "modification",
+        "qualification",
+        "adaptation",
+        "adjustment"
+      ]
+    }
+  ],
+  "origin": "Late 18th century (as a verb): partly a back-formation from editor, reinforced by French éditer to edit (from édition edition).",
+  "pronounciation": "/ˈɛdət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/edit_us_1.mp3"
+}

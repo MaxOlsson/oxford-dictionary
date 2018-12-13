@@ -1,0 +1,81 @@
+{
+  "": [],
+  "adverb": [
+    {
+      "description": "At, to, or by a greater distance (used to indicate the extent to which one thing or person is or becomes distant from another)",
+      "examples": [
+        "for some time I had wanted to move farther from Lynne",
+        "the committee seems to have moved further away from its original aims"
+      ]
+    },
+    {
+      "description": "Over a greater expanse of space or time; for a longer way.",
+      "examples": [
+        "we had walked further than I realized",
+        "wages have been driven down even further"
+      ]
+    },
+    {
+      "description": "Beyond or in addition to what has already been done.",
+      "examples": [
+        "we are investigating ways to further increase customer satisfaction",
+        "this theme will be developed further in Chapter 6",
+        "I shall not trouble you any further"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "More distant in space than something else of the same kind.",
+      "examples": [
+        "two men were standing at the further end of the clearing"
+      ],
+      "synonyms": [
+        "more distant",
+        "more remote",
+        "remoter",
+        "more advanced",
+        "more extreme",
+        "further away",
+        "further off",
+        "farther"
+      ]
+    },
+    {
+      "description": "Additional to what already exists or has already taken place, been done, or been accounted for.",
+      "examples": [
+        "cook for a further ten minutes"
+      ],
+      "synonyms": [
+        "additionally",
+        "more",
+        "to a greater extent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Help the progress or development of (something); promote.",
+      "examples": [
+        "he had depended on using them to further his own career"
+      ],
+      "synonyms": [
+        "promote",
+        "advance",
+        "forward",
+        "develop",
+        "stimulate"
+      ]
+    }
+  ],
+  "phrases": [
+    "the museum is closed to the public until further notice",
+    "After the fire, the office has temporarily suspended services to the public until further notice.",
+    "A bonus of $5 will be paid for the best written local story each week, until further notice.",
+    "However the council stressed this week that the precautionary boil water notice will continue until further notice.",
+    "The latest wave of detainees arriving Friday at Guantanamo Bay will also be the last group until further notice."
+  ],
+  "origin": "Old English furthor (adverb), furthra (adjective), fyrthrian (verb), of Germanic origin; related to forth.",
+  "pronounciation": "/ˈfərT͟Hər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/further_us_1.mp3"
+}

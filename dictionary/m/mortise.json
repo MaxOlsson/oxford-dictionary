@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A hole or recess cut into a part which is designed to receive a corresponding projection (a tenon) on another part so as to join or lock the parts together."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Join securely by using a mortise and tenon.",
+      "synonyms": [
+        "joint",
+        "join",
+        "fit together",
+        "link",
+        "interlock",
+        "splice",
+        "tenon"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French mortaise.",
+  "pronounciation": "/ˈmɔrdəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mortise_us_1.mp3"
+}

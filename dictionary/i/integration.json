@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of integrating.",
+      "examples": [
+        "economic and political integration",
+        "integration of individual countries into trading blocs"
+      ],
+      "synonyms": [
+        "combination",
+        "amalgamation",
+        "incorporation",
+        "unification",
+        "consolidation",
+        "merger",
+        "fusing",
+        "blending",
+        "meshing",
+        "homogenization",
+        "homogenizing",
+        "coalescing",
+        "assimilation",
+        "concatenation"
+      ]
+    },
+    {
+      "description": "The finding of an integral or integrals.",
+      "examples": [
+        "integration of an ordinary differential equation",
+        "mathematical integrations"
+      ]
+    },
+    {
+      "description": "The coordination of processes in the nervous system, including diverse sensory information and motor impulses.",
+      "examples": [
+        "visuomotor integration"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌin(t)əˈɡrāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/integration_us_1.mp3"
+}

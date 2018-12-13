@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A jail, especially a temporary one.",
+      "synonyms": [
+        "jail",
+        "prison",
+        "cell",
+        "police cell",
+        "place of detention",
+        "place of confinement",
+        "detention centre"
+      ]
+    },
+    {
+      "description": "The locking up of premises for the night."
+    },
+    {
+      "description": "The action of becoming fixed or immovable.",
+      "examples": [
+        "anti-lock braking helps prevent wheel lockup"
+      ]
+    },
+    {
+      "description": "An investment in assets which cannot readily be realized or sold on in the short term."
+    }
+  ],
+  "pronounciation": "/ˈläkˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/lock_up_1_us_2.mp3"
+}

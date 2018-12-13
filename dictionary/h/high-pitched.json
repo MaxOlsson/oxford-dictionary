@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of a sound) high in pitch.",
+      "examples": [
+        "a high-pitched wail"
+      ],
+      "synonyms": [
+        "high",
+        "high-frequency",
+        "soprano",
+        "treble",
+        "falsetto",
+        "shrill",
+        "acute",
+        "sharp",
+        "piping",
+        "piercing",
+        "penetrating"
+      ]
+    },
+    {
+      "description": "(of a roof) steep."
+    }
+  ],
+  "pronounciation": "/ˈhaɪ ˈˌpɪtʃt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/high_pitched_1_us_1.mp3"
+}

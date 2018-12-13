@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Flanders, its people, or their language."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Dutch language as spoken in Flanders, one of the two official languages of Belgium."
+    },
+    {
+      "description": "The people of Flanders."
+    }
+  ],
+  "origin": "Middle English: from Middle Dutch Vlāmisch, related to Vlaanderen Flanders.",
+  "pronounciation": "/ˈflɛmɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/flemish_us_1.mp3"
+}

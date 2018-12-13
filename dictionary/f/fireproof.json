@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Able to withstand fire or great heat.",
+      "examples": [
+        "a fireproof dish"
+      ],
+      "synonyms": [
+        "non-flammable",
+        "non-inflammable",
+        "incombustible",
+        "unburnable",
+        "fire resistant",
+        "flame resistant",
+        "flame retardant",
+        "heatproof"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (something) fireproof.",
+      "examples": [
+        "nearby museum buildings will be fireproofed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈfaɪ(ə)rˌpruf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/fireproof_us_1.mp3"
+}

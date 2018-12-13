@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Feeling, expressing, or inducing sadness, regret, or grief.",
+      "examples": [
+        "the third boy stared fixedly at me with mournful, basset-hound eyes",
+        "his voice on one track, mournful piano on another"
+      ],
+      "synonyms": [
+        "sad",
+        "sorrowful",
+        "sorrowing",
+        "doleful",
+        "melancholy",
+        "melancholic",
+        "woeful",
+        "grief-stricken",
+        "miserable",
+        "unhappy",
+        "heartbroken",
+        "broken-hearted",
+        "heavy-hearted",
+        "gloomy",
+        "dismal",
+        "tragic",
+        "desolate",
+        "dejected",
+        "despondent",
+        "depressed",
+        "downcast",
+        "disconsolate",
+        "woebegone",
+        "forlorn",
+        "rueful",
+        "lugubrious",
+        "sombre",
+        "joyless",
+        "cheerless",
+        "mirthless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɔrnfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mournful_us_1.mp3"
+}

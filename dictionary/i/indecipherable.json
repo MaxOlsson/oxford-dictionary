@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be read or understood.",
+      "examples": [
+        "indecipherable scrawls"
+      ],
+      "synonyms": [
+        "illegible",
+        "unreadable",
+        "hard to read",
+        "indistinguishable",
+        "indiscernible",
+        "unclear",
+        "indistinct"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪndəˈsaɪf(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/indecipherable_us_1.mp3"
+}

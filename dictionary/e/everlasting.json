@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Lasting forever or a very long time.",
+      "examples": [
+        "the damned would suffer everlasting torment",
+        "it would be an everlasting reminder of this evening"
+      ],
+      "synonyms": [
+        "eternal",
+        "never-ending",
+        "endless",
+        "without end",
+        "perpetual",
+        "undying",
+        "immortal",
+        "deathless",
+        "indestructible",
+        "immutable",
+        "abiding",
+        "enduring",
+        "infinite",
+        "boundless",
+        "timeless"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Eternity."
+    },
+    {
+      "description": "A flower of the daisy family with a papery texture, retaining its shape and color after being dried, especially a helichrysum."
+    }
+  ],
+  "pronounciation": "/ˌɛvərˈlæstɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/everlasting_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A feeling of pensive sadness, typically with no obvious cause.",
+      "examples": [
+        "an air of melancholy surrounded him",
+        "he had an ability to convey a sense of deep melancholy and yearning through much of his work",
+        "at the center of his music lies a profound melancholy and nostalgia"
+      ],
+      "synonyms": [
+        "desolation",
+        "sadness",
+        "pensiveness",
+        "woe",
+        "sorrow",
+        "melancholia"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having a feeling of melancholy; sad and pensive.",
+      "examples": [
+        "she felt a little melancholy",
+        "the dog has a melancholy expression"
+      ],
+      "synonyms": [
+        "sad",
+        "sorrowful",
+        "desolate",
+        "melancholic",
+        "mournful",
+        "lugubrious",
+        "gloomy",
+        "pensive"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French melancolie, via late Latin from Greek melankholia, from melas, melan- black + kholē bile, an excess of which was formerly believed to cause depression.",
+  "pronounciation": "/ˈmɛlənˌkɑli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/melancholy_us_1.mp3"
+}

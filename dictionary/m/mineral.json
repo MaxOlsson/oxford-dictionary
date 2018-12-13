@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A solid inorganic substance of natural occurrence."
+    },
+    {
+      "description": "(in commercial use) effervescent soft drinks."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Of or denoting a mineral.",
+      "examples": [
+        "mineral ingredients such as zinc oxide"
+      ],
+      "synonyms": [
+        "lifeless",
+        "insentient",
+        "insensate",
+        "without life",
+        "inert",
+        "motionless"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from medieval Latin minerale, neuter (used as a noun) of mineralis, from minera ore.",
+  "pronounciation": "/ˈmin(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mineral_us_1.mp3"
+}

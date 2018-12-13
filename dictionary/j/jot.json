@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Write (something) quickly.",
+      "examples": [
+        "when you've found the answers, jot them down"
+      ],
+      "synonyms": [
+        "write down",
+        "note down",
+        "make a note of",
+        "take down",
+        "set down",
+        "put down",
+        "put on paper",
+        "mark down"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A very small amount.",
+      "examples": [
+        "you didn't care a jot",
+        "I have yet to see one jot of evidence"
+      ],
+      "synonyms": [
+        "iota",
+        "scrap",
+        "shred",
+        "whit",
+        "grain",
+        "crumb",
+        "ounce",
+        "little bit",
+        "bit",
+        "tiniest bit",
+        "jot or tittle",
+        "fraction",
+        "speck",
+        "atom",
+        "particle",
+        "scintilla",
+        "trace",
+        "hint",
+        "mite"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun): via Latin from Greek iōta, the smallest letter of the Greek alphabet: see iota.",
+  "pronounciation": "/jät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/jot_us_1.mp3"
+}

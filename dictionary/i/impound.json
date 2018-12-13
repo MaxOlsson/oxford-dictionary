@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Seize and take legal custody of (something, especially a vehicle, goods, or documents) because of an infringement of a law or regulation.",
+      "examples": [
+        "vehicles parked where they cause an obstruction will be impounded"
+      ],
+      "synonyms": [
+        "confiscate",
+        "appropriate",
+        "take possession of",
+        "seize",
+        "commandeer",
+        "expropriate",
+        "requisition",
+        "sequester",
+        "sequestrate",
+        "take"
+      ]
+    },
+    {
+      "description": "Shut up (domestic animals) in a pound or enclosure.",
+      "synonyms": [
+        "pen in",
+        "shut in",
+        "shut up",
+        "fence in",
+        "coop up",
+        "hem in",
+        "box in",
+        "hedge in",
+        "rail in"
+      ]
+    },
+    {
+      "description": "(of a dam) hold back or confine (water)."
+    }
+  ],
+  "pronounciation": "/ɪmˈpaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/impound_us_1.mp3"
+}

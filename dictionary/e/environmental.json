@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the natural world and the impact of human activity on its condition.",
+      "examples": [
+        "acid rain may have caused major environmental damage"
+      ],
+      "synonyms": [
+        "natural",
+        "atmospheric",
+        "meteorological"
+      ]
+    },
+    {
+      "description": "Relating to or arising from a person's surroundings.",
+      "examples": [
+        "environmental noise"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪnˌvaɪrənˈmɛn(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/environmental_us_1.mp3"
+}

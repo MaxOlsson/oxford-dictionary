@@ -1,0 +1,20 @@
+{
+  "prefix": [
+    {
+      "description": "Between; among.",
+      "examples": [
+        "interagency",
+        "interblend"
+      ]
+    },
+    {
+      "description": "Mutually; reciprocally.",
+      "examples": [
+        "interactive"
+      ]
+    }
+  ],
+  "origin": "From Old French entre- or Latin inter between, among.",
+  "pronounciation": "/ˈin(t)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inter_1_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Showing no expression.",
+      "examples": [
+        "an inexpressive face"
+      ],
+      "synonyms": [
+        "expressionless",
+        "unexpressive",
+        "impassive",
+        "inscrutable",
+        "unreadable",
+        "emotionless",
+        "blank",
+        "bland",
+        "vacant",
+        "empty",
+        "glazed",
+        "fixed",
+        "lifeless",
+        "inanimate",
+        "deadpan",
+        "wooden",
+        "stony"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌɪnɪkˈsprɛsɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/inexpressive_us_1.mp3"
+}

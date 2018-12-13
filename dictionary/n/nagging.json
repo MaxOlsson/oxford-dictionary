@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) constantly harassing someone to do something.",
+      "examples": [
+        "jokes about nagging wives and tyrannous mothers-in-law"
+      ],
+      "synonyms": [
+        "shrewish",
+        "complaining",
+        "grumbling",
+        "fault-finding",
+        "scolding",
+        "carping",
+        "cavilling",
+        "criticizing"
+      ]
+    },
+    {
+      "description": "Persistently painful or worrying.",
+      "examples": [
+        "a nagging pain",
+        "only a handful of nagging doubts remained"
+      ],
+      "synonyms": [
+        "persistent",
+        "continuous",
+        "lingering",
+        "niggling",
+        "troublesome",
+        "unrelenting",
+        "unremitting",
+        "unabating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnaɡiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nagging_us_1.mp3"
+}

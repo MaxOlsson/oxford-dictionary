@@ -1,0 +1,105 @@
+{
+  "verb": [
+    {
+      "description": "Require (something) because it is essential or very important.",
+      "examples": [
+        "I need help now",
+        "this shirt needs washing",
+        "they need to win tomorrow"
+      ],
+      "synonyms": [
+        "obligatory",
+        "requisite",
+        "required",
+        "compulsory",
+        "mandatory",
+        "imperative",
+        "demanded",
+        "needed",
+        "called for",
+        "needful"
+      ]
+    },
+    {
+      "description": "Expressing necessity or obligation.",
+      "examples": [
+        "need I say more?",
+        "I need not have worried"
+      ],
+      "synonyms": [
+        "have to",
+        "be under an obligation to",
+        "be obliged to",
+        "be compelled to",
+        "be under a compulsion to"
+      ]
+    },
+    {
+      "description": "Be necessary.",
+      "examples": [
+        "lest you, even more than needs, embitter our parting"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Circumstances in which something is necessary, or that require some course of action; necessity.",
+      "examples": [
+        "the basic human need for food",
+        "there's no need to cry"
+      ],
+      "synonyms": [
+        "necessity",
+        "obligation",
+        "requirement",
+        "call",
+        "demand"
+      ]
+    },
+    {
+      "description": "A thing that is wanted or required.",
+      "examples": [
+        "his day-to-day needs"
+      ],
+      "synonyms": [
+        "requirement",
+        "essential",
+        "necessity",
+        "want",
+        "requisite",
+        "prerequisite",
+        "wish",
+        "demand"
+      ]
+    },
+    {
+      "description": "The state of requiring help, or of lacking basic necessities such as food.",
+      "examples": [
+        "help us in our hour of need",
+        "children in need"
+      ],
+      "synonyms": [
+        "neediness",
+        "want",
+        "poverty",
+        "deprivation",
+        "privation",
+        "hardship",
+        "penury",
+        "destitution",
+        "indigence",
+        "impecuniousness"
+      ]
+    }
+  ],
+  "phrases": [
+    "men whose experience could be called upon at need",
+    "In truth, those fighting in the north were able to retreat westward at need, but their numbers and strength were sorely needed to help prevent, or at the least, hinder the Enemy from driving directly south through Alin.",
+    "The spears that they carry - frameae is the native word - have short and narrow heads, but are so sharp and easy to handle, that the same weapon serves at need for close or distant fighting.",
+    "We have but a hundred competent horse, fifty more in training we could use as shock troops at need.",
+    "James spoke little, their routine for the last year that they were silent for most of the day, speaking only at need to each other."
+  ],
+  "origin": "Old English nēodian (verb), nēod, nēd (noun), of Germanic origin; related to Dutch nood and German Not danger.",
+  "pronounciation": "/nid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/need_us_1.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A spoken or written account of connected events; a story.",
+      "examples": [
+        "the hero of his modest narrative"
+      ],
+      "synonyms": [
+        "account",
+        "story",
+        "tale",
+        "chronicle",
+        "history",
+        "description",
+        "record",
+        "portrayal",
+        "sketch",
+        "portrait",
+        "statement",
+        "report",
+        "rehearsal",
+        "recital",
+        "rendering"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "In the form of or concerned with narration.",
+      "examples": [
+        "a narrative poem",
+        "narrative technique"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective): from French narratif, -ive, from late Latin narrativus telling a story, from the verb narrare (see narrate).",
+  "pronounciation": "/ˈnɛrədɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/narrative_us_1.mp3"
+}

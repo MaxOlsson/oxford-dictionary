@@ -1,0 +1,13 @@
+{
+  "preposition": [
+    {
+      "description": "(in number theory) with respect to or using a modulus of a specified number. Two numbers are congruent modulo a given number if they give the same remainder when divided by that number.",
+      "examples": [
+        "19 and 64 are congruent modulo 5"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from Latin, ablative of modulus (see modulus).",
+  "pronounciation": "/ˈmäjəˌlō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/modulo_us_1.mp3"
+}

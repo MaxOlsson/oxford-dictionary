@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A tide just after the first or third quarters of the moon when there is least difference between high and low water.",
+      "examples": [
+        "neaps occur at 6 a.m. and 6 p.m."
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a boat) be kept aground or in harbor by a neap tide.",
+      "examples": [
+        "a change of wind could leave you neaped"
+      ]
+    }
+  ],
+  "origin": "Late Middle English, originally an adjective from Old English nēp, first element of nēpflōd neap flood, of unknown origin.",
+  "pronounciation": "/nēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neap_us_1.mp3"
+}

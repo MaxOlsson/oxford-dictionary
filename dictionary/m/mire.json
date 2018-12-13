@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A stretch of swampy or boggy ground.",
+      "synonyms": [
+        "swamp",
+        "morass",
+        "bog",
+        "peat bog",
+        "marsh",
+        "quag",
+        "marshland",
+        "fen",
+        "slough",
+        "quicksand"
+      ]
+    },
+    {
+      "description": "A situation or state of difficulty, distress, or embarrassment from which it is hard to extricate oneself.",
+      "examples": [
+        "he has been left to squirm in a mire of new allegations"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to become stuck in mud.",
+      "examples": [
+        "sometimes a heavy truck gets mired down"
+      ],
+      "synonyms": [
+        "get bogged down",
+        "sink",
+        "sink down",
+        "stick in the mud"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse mýrr, of Germanic origin; related to moss.",
+  "pronounciation": "/ˈmaɪ(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mire_us_1.mp3"
+}

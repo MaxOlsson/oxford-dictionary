@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of humor) having or showing a sharp or critical quality; biting.",
+      "examples": [
+        "a mordant sense of humor"
+      ],
+      "synonyms": [
+        "caustic",
+        "trenchant",
+        "biting",
+        "cutting",
+        "acerbic",
+        "sardonic",
+        "sarcastic",
+        "scathing",
+        "acid",
+        "sharp",
+        "keen",
+        "tart",
+        "pungent",
+        "stinging",
+        "astringent",
+        "incisive",
+        "devastating",
+        "piercing",
+        "rapier-like",
+        "razor-edged"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance, typically an inorganic oxide, that combines with a dye or stain and thereby fixes it in a material."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Impregnate or treat (a fabric) with a mordant."
+    }
+  ],
+  "origin": "Late 15th century: from French, present participle of mordre to bite, from Latin mordere.",
+  "pronounciation": "/ˈmôrdnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mordant_us_1.mp3"
+}

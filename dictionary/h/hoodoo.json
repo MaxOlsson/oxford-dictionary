@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "Voodoo or witchcraft.",
+      "synonyms": [
+        "witchcraft",
+        "magic",
+        "black magic",
+        "sorcery",
+        "wizardry",
+        "devilry",
+        "voodoo",
+        "necromancy"
+      ]
+    },
+    {
+      "description": "A column or pinnacle of weathered rock.",
+      "examples": [
+        "a towering sandstone hoodoo"
+      ],
+      "synonyms": [
+        "peak",
+        "needle",
+        "crag",
+        "tor",
+        "summit",
+        "top",
+        "mountaintop",
+        "crest",
+        "apex",
+        "tip",
+        "vertex"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Bewitch.",
+      "examples": [
+        "she's hoodooed you"
+      ],
+      "synonyms": [
+        "cast a spell on",
+        "put a spell on",
+        "enchant"
+      ]
+    }
+  ],
+  "origin": "Late 19th century (originally US): apparently an alteration of voodoo. It originally denoted a person who practiced voodoo, hence a hidden cause of bad luck ( hoodoo (sense 1 of the noun)). hoodoo (sense 2 of the noun) is apparently due to the resemblance of the rock column to a strange human form, often topped by an overhanging hat of harder rock.",
+  "pronounciation": "/ˈhuˌdu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/hoodoo_us_1.mp3"
+}

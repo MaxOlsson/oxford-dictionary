@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Of or denoting bacterial fermentation which converts malic acid to lactic acid, especially as a secondary process used to reduce the acidity of some wines.",
+      "examples": [
+        "malolactic fermentation is essential in poor years when the grapes are not fully ripe"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Malolactic fermentation.",
+      "examples": [
+        "most Champagnes undergo malolactic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmālə-/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/malolactic_us_1.mp3"
+}

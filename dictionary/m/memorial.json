@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Something, especially a structure, established to remind people of a person or event.",
+      "examples": [
+        "a monument built as a memorial to those who fell in the Civil War"
+      ],
+      "synonyms": [
+        "monument",
+        "shrine",
+        "mausoleum",
+        "cenotaph"
+      ]
+    },
+    {
+      "description": "A statement of facts, especially as the basis of a petition.",
+      "examples": [
+        "the council sent a strongly worded memorial to the chancellor"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin memoriale record, memory, monument, from Latin memorialis serving as a reminder, from memoria memory.",
+  "pronounciation": "/məˈmɔriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/memorial_us_1.mp3"
+}

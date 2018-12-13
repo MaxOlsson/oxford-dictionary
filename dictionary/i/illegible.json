@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Not clear enough to be read.",
+      "examples": [
+        "his handwriting is totally illegible"
+      ],
+      "synonyms": [
+        "unreadable",
+        "indecipherable",
+        "unintelligible",
+        "hard to read"
+      ]
+    }
+  ],
+  "pronounciation": "/ɪ(l)ˈlɛdʒəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/illegible_us_1.mp3"
+}

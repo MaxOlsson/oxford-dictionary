@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A flock of starlings."
+    },
+    {
+      "description": "The action of murmuring.",
+      "examples": [
+        "the murmuration of a flock of warblers"
+      ],
+      "synonyms": [
+        "hum",
+        "humming",
+        "buzz",
+        "buzzing",
+        "whir",
+        "thrum",
+        "thrumming",
+        "drone",
+        "sigh"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, from Latin murmuratio(n-), from murmurare to murmur. The usage as a collective noun dates from the late 15th century.",
+  "pronounciation": "/ˌmərməˈrāSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/murmuration_us_1.mp3"
+}

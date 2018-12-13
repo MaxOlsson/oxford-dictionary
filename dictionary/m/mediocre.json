@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Of only moderate quality; not very good.",
+      "examples": [
+        "a mediocre actor"
+      ],
+      "synonyms": [
+        "ordinary",
+        "common",
+        "commonplace",
+        "indifferent",
+        "average",
+        "middle-of-the-road",
+        "middling",
+        "medium",
+        "moderate",
+        "everyday",
+        "workaday",
+        "tolerable",
+        "passable",
+        "adequate",
+        "fair"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French médiocre, from Latin mediocris of middle height or degree, literally somewhat mountainous, from medius middle + ocris rugged mountain.",
+  "pronounciation": "/ˌmēdēˈōkər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/mediocre_us_1.mp3"
+}

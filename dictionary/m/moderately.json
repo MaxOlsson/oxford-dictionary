@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "To a certain extent; quite; fairly.",
+      "examples": [
+        "these events were moderately successful",
+        "he answered all the questions moderately well"
+      ],
+      "synonyms": [
+        "somewhat",
+        "quite",
+        "rather",
+        "fairly",
+        "reasonably",
+        "comparatively",
+        "relatively",
+        "to a limited degree",
+        "to a limited extent",
+        "to a certain degree",
+        "to some extent",
+        "within reason",
+        "within limits",
+        "tolerably",
+        "passably",
+        "adequately",
+        "satisfactorily"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈmɑd(ə)rətli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/moderately_us_1.mp3"
+}

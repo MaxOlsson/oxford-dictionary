@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Giving the wrong idea or impression.",
+      "examples": [
+        "your article contains a number of misleading statements"
+      ],
+      "synonyms": [
+        "deceptive",
+        "confusing",
+        "deceiving",
+        "equivocal",
+        "ambiguous",
+        "fallacious",
+        "specious",
+        "spurious",
+        "false",
+        "mock",
+        "pseudo",
+        "illusory",
+        "delusive",
+        "evasive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌmisˈlēdiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/misleading_us_1.mp3"
+}
