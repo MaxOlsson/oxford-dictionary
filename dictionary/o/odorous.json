@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Having or giving off a smell.",
+      "examples": [
+        "a dark and odorous cave"
+      ],
+      "synonyms": [
+        "foul-smelling",
+        "evil-smelling",
+        "smelly",
+        "stinking",
+        "reeking",
+        "reeky",
+        "malodorous",
+        "pungent",
+        "acrid",
+        "fetid",
+        "rank"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin odorus fragrant (from odor odor) + -ous.",
+  "pronounciation": "/ˈoʊdərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/odorous_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A steep downward plunge by an aircraft.",
+      "synonyms": [
+        "dive",
+        "drop",
+        "plunge",
+        "descent",
+        "plummet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of an aircraft) make a nosedive.",
+      "synonyms": [
+        "dive",
+        "plunge",
+        "pitch",
+        "pitch down",
+        "drop rapidly",
+        "swoop",
+        "plummet",
+        "crash-dive"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnōzˌdīv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nosedive_us_1.mp3"
+}

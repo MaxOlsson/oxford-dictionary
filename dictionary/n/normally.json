@@ -1,0 +1,47 @@
+{
+  "adverb": [
+    {
+      "description": "Under normal or usual conditions; as a rule.",
+      "examples": [
+        "normally, it takes three or four years to complete the training"
+      ],
+      "synonyms": [
+        "usually",
+        "ordinarily",
+        "commonly",
+        "as a rule",
+        "as a general rule",
+        "generally",
+        "in general",
+        "in the general run of things",
+        "mostly",
+        "for the most part",
+        "by and large",
+        "mainly",
+        "most of the time",
+        "almost always",
+        "more often than not",
+        "on the whole"
+      ]
+    },
+    {
+      "description": "In a normal manner; in the usual way.",
+      "examples": [
+        "try to breathe normally"
+      ],
+      "synonyms": [
+        "as usual",
+        "as normal",
+        "ordinarily",
+        "naturally",
+        "conventionally",
+        "regularly"
+      ]
+    },
+    {
+      "description": "At right angles to a given line or surface."
+    }
+  ],
+  "pronounciation": "/ˈnɔrməli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/normally_us_1.mp3"
+}

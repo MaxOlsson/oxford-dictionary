@@ -1,0 +1,61 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) surprised and confused so much that they are unsure how to react.",
+      "examples": [
+        "he would be completely nonplussed and embarrassed at the idea"
+      ],
+      "synonyms": [
+        "confused",
+        "bewildered",
+        "bemused",
+        "puzzled",
+        "perplexed",
+        "baffled",
+        "stumped",
+        "mystified",
+        "stupefied",
+        "muddled",
+        "befuddled",
+        "fuddled",
+        "dumbfounded",
+        "at sea",
+        "at a loss",
+        "at sixes and sevens",
+        "thrown",
+        "thrown off balance",
+        "taken aback",
+        "disoriented",
+        "disconcerted",
+        "discomposed",
+        "troubled",
+        "discomfited",
+        "unnerved",
+        "shaken",
+        "shaken up",
+        "dazed",
+        "stunned",
+        "surprised",
+        "astonished",
+        "astounded"
+      ]
+    },
+    {
+      "description": "(of a person) not disconcerted; unperturbed.",
+      "synonyms": [
+        "unperturbed",
+        "untroubled",
+        "undisturbed",
+        "unworried",
+        "unconcerned",
+        "unmoved",
+        "unflustered",
+        "unruffled",
+        "unshaken",
+        "undismayed"
+      ]
+    }
+  ],
+  "pronounciation": "/nänˈpləst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonplussed_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or engaged in a paid occupation that does not require advanced education or training.",
+      "examples": [
+        "nonprofessional grades of staff"
+      ],
+      "synonyms": [
+        "unskilled",
+        "untaught",
+        "non-technical",
+        "unschooled",
+        "untutored",
+        "unpractised",
+        "inexperienced",
+        "unequipped",
+        "unversed",
+        "uninformed",
+        "unacquainted"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A nonprofessional person.",
+      "synonyms": [
+        "non-professional",
+        "non-specialist",
+        "layman",
+        "layperson"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänprəˈfeSHənəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonprofessional_us_1.mp3"
+}

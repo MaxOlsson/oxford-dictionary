@@ -1,0 +1,88 @@
+{
+  "adjective": [
+    {
+      "description": "Conforming to a standard; usual, typical, or expected.",
+      "examples": [
+        "it's quite normal for puppies to bolt their food",
+        "normal working hours"
+      ],
+      "synonyms": [
+        "usual",
+        "standard",
+        "typical",
+        "stock",
+        "common",
+        "ordinary",
+        "customary",
+        "conventional",
+        "habitual",
+        "accustomed",
+        "expected",
+        "wonted",
+        "everyday",
+        "regular",
+        "routine",
+        "day-to-day",
+        "daily",
+        "established",
+        "settled",
+        "set",
+        "fixed",
+        "traditional",
+        "quotidian",
+        "prevailing"
+      ]
+    },
+    {
+      "description": "(of a line, ray, or other linear feature) intersecting a given line or surface at right angles."
+    },
+    {
+      "description": "(of a salt solution) containing the same salt concentration as the blood."
+    },
+    {
+      "description": "Denoting a fault or faulting in which a relative downward movement occurred in the strata situated on the upper side of the fault plane."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The usual, average, or typical state or condition.",
+      "examples": [
+        "her temperature was above normal",
+        "the service will be back to normal next week"
+      ],
+      "synonyms": [
+        "standard",
+        "usual",
+        "normal",
+        "typical",
+        "average",
+        "the rule",
+        "predictable",
+        "unexceptional",
+        "par for the course",
+        "what one would expect",
+        "expected",
+        "to be expected",
+        "only to be expected"
+      ]
+    },
+    {
+      "description": "A line at right angles to a given line or surface."
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A town in central Illinois, home to Illinois State University (originally a normal, or teachers, school); population 52,056 (est. 2008)."
+    }
+  ],
+  "phrases": [
+    "32% of Americans say spending less is the new normal, according to a recent poll",
+    "The new normal, to use the American term, will be very different from the old.",
+    "Crisis has become the new normal for the nuclear medicine department at the Trois-Rivieres regional hospital, he said.",
+    "The new normal is that there are going to be inconveniences from time to time that you don't expect.",
+    "\"The new normal is where we were in the first six months of the year,\" he said."
+  ],
+  "origin": "Mid 17th century (in the sense right-angled): from Latin normalis, from norma carpenter's square (see norm). Current senses date from the early 19th century.",
+  "pronounciation": "/ˈnôrməl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/normal_us_1.mp3"
+}

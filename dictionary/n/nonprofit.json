@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Not making or conducted primarily to make a profit.",
+      "examples": [
+        "charities and other nonprofit organizations"
+      ],
+      "synonyms": [
+        "philanthropic",
+        "humanitarian",
+        "humane",
+        "altruistic",
+        "benevolent",
+        "beneficent",
+        "welfare",
+        "public-spirited",
+        "socially concerned",
+        "doing good works"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A nonprofit organization.",
+      "examples": [
+        "I spent the next six years working for small nonprofits"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänˈpräfit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonprofit_us_2.mp3"
+}

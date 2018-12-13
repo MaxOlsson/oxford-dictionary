@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not considered in relation to something else.",
+      "examples": [
+        "nonrelative judgements of beauty"
+      ],
+      "synonyms": [
+        "universal",
+        "fixed",
+        "independent",
+        "non-relative",
+        "non-variable",
+        "absolutist"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is not connected by blood or marriage.",
+      "examples": [
+        "I've never been to a wedding of a nonrelative"
+      ]
+    }
+  ],
+  "pronounciation": "/nänˈrelədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonrelative_us_1.mp3"
+}

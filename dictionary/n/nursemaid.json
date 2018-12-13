@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A woman or girl employed to look after a young child or children.",
+      "synonyms": [
+        "nanny",
+        "governess",
+        "nursery nurse",
+        "nurserymaid",
+        "childminder",
+        "au pair",
+        "childcarer"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Look after or be overprotective toward.",
+      "examples": [
+        "I haven't got time to nursemaid you through these blips"
+      ],
+      "synonyms": [
+        "pamper",
+        "spoil",
+        "overindulge",
+        "coddle",
+        "mollycoddle",
+        "cosset",
+        "nanny",
+        "nursemaid",
+        "mother",
+        "baby",
+        "pet",
+        "spoon-feed",
+        "feather-bed",
+        "wrap in cotton wool",
+        "overparent"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnərsˌmād/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nursemaid_us_1.mp3"
+}

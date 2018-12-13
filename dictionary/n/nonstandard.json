@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Not average, normal, or usual.",
+      "examples": [
+        "people working nonstandard hours"
+      ],
+      "synonyms": [
+        "colloquial",
+        "vernacular",
+        "idiomatic",
+        "demotic",
+        "non-standard",
+        "popular",
+        "dialectal",
+        "non-literary"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänˈstandərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonstandard_us_1.mp3"
+}

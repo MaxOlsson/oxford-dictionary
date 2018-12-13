@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Having no match or equal; unrivaled.",
+      "examples": [
+        "he is a nonpareil storyteller",
+        "a film critic nonpareil"
+      ],
+      "synonyms": [
+        "incomparable",
+        "matchless",
+        "unrivalled",
+        "unparalleled",
+        "unequalled",
+        "without equal",
+        "peerless",
+        "unmatched",
+        "beyond comparison",
+        "beyond compare",
+        "second to none",
+        "unsurpassed",
+        "unsurpassable",
+        "unbeatable",
+        "inimitable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unrivaled or matchless person or thing.",
+      "synonyms": [
+        "best",
+        "finest",
+        "paragon",
+        "crème de la crème",
+        "peak of perfection",
+        "elite",
+        "jewel",
+        "jewel in the crown",
+        "gem"
+      ]
+    },
+    {
+      "description": "A flat round candy made of chocolate covered with white sugar sprinkles."
+    },
+    {
+      "description": "An old type size equal to six points (larger than ruby or agate, smaller than emerald or minion)."
+    }
+  ],
+  "origin": "Late Middle English: from French, from non- not + pareil equal (from popular Latin pariculus, diminutive of Latin par equal).",
+  "pronounciation": "/ˌnɑnpəˈrɛl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonpareil_us_1.mp3"
+}

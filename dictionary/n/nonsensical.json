@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "Having no meaning; making no sense.",
+      "examples": [
+        "a nonsensical argument",
+        "he dismissed the claim as nonsensical"
+      ],
+      "synonyms": [
+        "meaningless",
+        "senseless",
+        "illogical",
+        "unmeaning"
+      ]
+    },
+    {
+      "description": "Ridiculously impractical or ill-advised.",
+      "examples": [
+        "a tax that everyone recognizes was nonsensical"
+      ],
+      "synonyms": [
+        "foolish",
+        "insane",
+        "stupid",
+        "lunatic",
+        "idiotic",
+        "illogical",
+        "irrational",
+        "zany",
+        "senseless",
+        "absurd",
+        "silly",
+        "inane",
+        "asinine",
+        "hare-brained",
+        "ridiculous",
+        "ludicrous",
+        "wild",
+        "preposterous",
+        "fatuous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänˈsensək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonsensical_us_1.mp3"
+}

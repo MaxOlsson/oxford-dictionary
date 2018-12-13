@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Not living in a particular place, especially a country or a place of work.",
+      "examples": [
+        "the building had a nonresident, part-time caretaker"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person not living in a particular place.",
+      "examples": [
+        "parking permits are available for Richmond residents and nonresidents"
+      ]
+    }
+  ],
+  "pronounciation": "/nänˈrezidənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonresident_us_1.mp3"
+}
