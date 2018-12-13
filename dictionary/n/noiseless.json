@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Silent; quiet.",
+      "examples": [
+        "the bicycle is a benign form of transportation, being noiseless and nonpolluting"
+      ],
+      "synonyms": [
+        "silent",
+        "still",
+        "hushed",
+        "soundless"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnoizləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/noiseless_us_1.mp3"
+}

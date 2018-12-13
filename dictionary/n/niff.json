@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "An unpleasant smell.",
+      "examples": [
+        "the horrible fishy niff"
+      ],
+      "synonyms": [
+        "smell",
+        "scent",
+        "aroma",
+        "perfume",
+        "fragrance",
+        "bouquet",
+        "savour",
+        "nose",
+        "tang",
+        "essence",
+        "redolence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Have an unpleasant smell.",
+      "examples": [
+        "a dark room that always niffed a bit"
+      ],
+      "synonyms": [
+        "foul-smelling",
+        "evil-smelling",
+        "stinking",
+        "stinking to high heaven",
+        "reeking",
+        "fetid",
+        "malodorous",
+        "pungent",
+        "acrid",
+        "rank",
+        "putrid",
+        "noxious"
+      ]
+    }
+  ],
+  "origin": "Early 20th century (originally dialect): perhaps from sniff.",
+  "pronounciation": "/nɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/niff_gb_1_8.mp3"
+}

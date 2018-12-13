@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Take small bites out of.",
+      "examples": [
+        "she nibbled at her food",
+        "he sat nibbling a cookie"
+      ],
+      "synonyms": [
+        "take small bites",
+        "take small bites from",
+        "pick",
+        "pick at",
+        "gnaw",
+        "gnaw at",
+        "peck at",
+        "pick over",
+        "eat listlessly",
+        "toy with",
+        "eat like a bird"
+      ]
+    },
+    {
+      "description": "Show cautious interest in a project or proposal.",
+      "examples": [
+        "there's a New York agent nibbling"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of nibbling something.",
+      "synonyms": [
+        "bite",
+        "gnaw",
+        "peck",
+        "taste"
+      ]
+    },
+    {
+      "description": "An expression of cautious interest in a project or proposal.",
+      "examples": [
+        "now and then she gets a nibble, but no one will commit to an interview"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: probably of Low German or Dutch origin; compare with Low German nibbeln gnaw.",
+  "pronounciation": "/ˈnibəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nibble_us_1.mp3"
+}

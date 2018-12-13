@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "Recently.",
+      "examples": [
+        "a newly acquired skill"
+      ],
+      "synonyms": [
+        "not long ago",
+        "a short time ago",
+        "in the last few days",
+        "in the last few months",
+        "in the last few weeks",
+        "in the past few days",
+        "in the past few months",
+        "in the past few weeks",
+        "a little while back"
+      ]
+    },
+    {
+      "description": "Again; afresh.",
+      "examples": [
+        "social confidence for the newly single"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈn(j)uli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/newly_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a child or animal) recently or just born.",
+      "examples": [
+        "a picture of the happy couple and their newborn baby",
+        "a newborn star"
+      ],
+      "synonyms": [
+        "just born",
+        "newly born",
+        "recently born"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A recently born child or animal.",
+      "examples": [
+        "she's incapable of looking after a newborn"
+      ],
+      "synonyms": [
+        "newly born child",
+        "new baby",
+        "tiny baby",
+        "young baby",
+        "infant",
+        "young"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈn(y)o͞oˌbôrn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/newborn_us_1.mp3"
+}

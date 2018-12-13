@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Not denoting, involving, or arranged in a straight line.",
+      "synonyms": [
+        "unmethodical",
+        "uncoordinated",
+        "undirected",
+        "disorganized",
+        "unarranged",
+        "unplanned",
+        "unpremeditated",
+        "indiscriminate"
+      ]
+    },
+    {
+      "description": "Not linear, sequential, or straightforward; random.",
+      "examples": [
+        "Joyce's stream-of-consciousness, nonlinear narrative"
+      ]
+    },
+    {
+      "description": "Of or denoting digital editing whereby a sequence of edits is stored on computer as opposed to videotape, thus facilitating further editing."
+    }
+  ],
+  "pronounciation": "/nänˈlinēər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/non_linear_1_us_2.mp3"
+}

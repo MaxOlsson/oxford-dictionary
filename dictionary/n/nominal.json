@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "(of a role or status) existing in name only.",
+      "examples": [
+        "Thailand retained nominal independence under Japanese military occupation"
+      ],
+      "synonyms": [
+        "in name only",
+        "in title only",
+        "titular",
+        "formal",
+        "official",
+        "ceremonial"
+      ]
+    },
+    {
+      "description": "(of a price or amount of money) very small; far below the real value or cost.",
+      "examples": [
+        "some firms charge only a nominal fee for the service"
+      ],
+      "synonyms": [
+        "token",
+        "symbolic",
+        "emblematic",
+        "peppercorn"
+      ]
+    },
+    {
+      "description": "(of a quantity or dimension, especially of manufactured articles) stated or expressed but not necessarily corresponding exactly to the real value.",
+      "examples": [
+        "legislation allowed variation around the nominal weight (that printed on each packet)"
+      ]
+    },
+    {
+      "description": "Relating to, headed by, or having the function of a noun."
+    },
+    {
+      "description": "(chiefly in the context of space travel) functioning normally or acceptably."
+    }
+  ],
+  "origin": "Late 15th century (as a term in grammar): from Latin nominalis, from nomen, nomin- name.",
+  "pronounciation": "/ˈnämən(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nominal_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to chemical processes occurring in nerve tissue and the nervous system.",
+      "examples": [
+        "neurochemical pathways in the brain",
+        "severe neurochemical imbalance"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A neurotransmitter or other chemical substance that affects the nervous system.",
+      "examples": [
+        "we can monitor neurochemicals in the brain"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌn(y)o͝orōˈkemək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neurochemical_us_1.mp3"
+}

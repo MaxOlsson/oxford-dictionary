@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "(of a horse) give a soft breathy whinny.",
+      "examples": [
+        "the foal nichered"
+      ],
+      "synonyms": [
+        "whinny",
+        "bray",
+        "nicker",
+        "snicker",
+        "whicker"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft whinnying sound.",
+      "examples": [
+        "the beast gave a low nicher of welcome"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: imitative.",
+  "pronounciation": "/ˈnɪxə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nicher_gb_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A silvery-white metal, the chemical element of atomic number 28."
+    },
+    {
+      "description": "A five-cent coin; five cents.",
+      "examples": [
+        "a button the size of a nickel",
+        "we will see gasoline prices go up about a nickel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Coat with nickel.",
+      "examples": [
+        "heavily nickeled iron castings"
+      ],
+      "synonyms": [
+        "cover",
+        "coat",
+        "overlay",
+        "laminate",
+        "veneer"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: shortening of German Kupfernickel, the copper-colored ore from which nickel was first obtained, from Kupfer copper + Nickel demon (with reference to the ore's failure to yield copper).",
+  "pronounciation": "/ˈnɪk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nickel_us_1.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Of little or no importance, value, or use; worthless.",
+      "examples": [
+        "a series of no-account boyfriends"
+      ],
+      "synonyms": [
+        "good-for-nothing",
+        "ne'er-do-well",
+        "useless",
+        "despicable",
+        "contemptible",
+        "base",
+        "low",
+        "vile",
+        "abject",
+        "debased",
+        "degraded",
+        "ignominious",
+        "mean",
+        "corrupt",
+        "villainous",
+        "depraved",
+        "degenerate",
+        "wretched",
+        "miserable",
+        "sorry",
+        "shiftless",
+        "feckless",
+        "incompetent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person of little value or use.",
+      "examples": [
+        "I do not intend to let some no-account get his hands on my money"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnōəˌkount/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/no_account_1_us_2.mp3"
+}

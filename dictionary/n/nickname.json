@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A familiar or humorous name given to a person or thing instead of or as well as the real name.",
+      "synonyms": [
+        "sobriquet",
+        "byname",
+        "tag",
+        "label",
+        "familiar name",
+        "epithet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give a nickname to; call by a nickname.",
+      "examples": [
+        "his fraternity brothers nicknamed him “The Bird” because of his skydiving skills"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from an eke-name ( eke meaning addition: see eke), misinterpreted, by wrong division, as a neke name.",
+  "pronounciation": "/ˈnɪkˌneɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nickname_us_1.mp3"
+}

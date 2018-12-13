@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An arrangement of intersecting horizontal and vertical lines.",
+      "synonyms": [
+        "web",
+        "criss-cross",
+        "grid",
+        "lattice",
+        "net",
+        "matrix",
+        "mesh",
+        "webbing",
+        "tracery",
+        "trellis"
+      ]
+    },
+    {
+      "description": "A group or system of interconnected people or things.",
+      "examples": [
+        "a trade network"
+      ],
+      "synonyms": [
+        "system",
+        "complex",
+        "interconnected structure",
+        "interconnected system",
+        "complex arrangement",
+        "complex system",
+        "nexus",
+        "web"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Connect as or operate with a network.",
+      "examples": [
+        "the stock exchanges have proven to be resourceful in networking these deals"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnɛtˌwərk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/network_us_1.mp3"
+}

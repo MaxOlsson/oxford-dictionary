@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A small swelling or aggregation of cells in the body, especially an abnormal one.",
+      "examples": [
+        "the area feels firm but has irregular nodules which can be painful to touch",
+        "laparotomy showed white nodules in the liver"
+      ],
+      "synonyms": [
+        "growth",
+        "lump",
+        "swelling",
+        "protuberance",
+        "protrusion",
+        "knob",
+        "outgrowth"
+      ]
+    },
+    {
+      "description": "A small rounded lump of matter distinct from its surroundings, for example, of flint in chalk, carbon in cast iron, or a mineral on the seabed.",
+      "examples": [
+        "flint nodules",
+        "in the coal pits nodules of iron ore were mined"
+      ],
+      "synonyms": [
+        "lump",
+        "bump",
+        "protuberance",
+        "projection",
+        "protrusion",
+        "bulge",
+        "swelling",
+        "knot",
+        "node",
+        "gnarl",
+        "growth",
+        "outgrowth",
+        "excrescence",
+        "carbuncle",
+        "tumour"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin nodulus, diminutive of nodus knot.",
+  "pronounciation": "/ˈnäjo͞ol/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nodule_us_1.mp3"
+}

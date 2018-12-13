@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A sound, especially one that is loud or unpleasant or that causes disturbance.",
+      "examples": [
+        "making a noise like a pig in a trough",
+        "what's that rustling noise outside the door?"
+      ],
+      "synonyms": [
+        "sound",
+        "loud sound",
+        "din",
+        "hubbub",
+        "clamour",
+        "racket",
+        "uproar",
+        "tumult",
+        "commotion",
+        "pandemonium",
+        "clangour"
+      ]
+    },
+    {
+      "description": "Irregular fluctuations that accompany a transmitted electrical signal but are not part of it and tend to obscure it."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Talk about or make known publicly.",
+      "examples": [
+        "you've discovered something that should not be noised about"
+      ]
+    }
+  ],
+  "origin": "Middle English (also in the sense quarreling): from Old French, from Latin nausea seasickness (see nausea).",
+  "pronounciation": "/nɔɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/noise_us_1.mp3"
+}

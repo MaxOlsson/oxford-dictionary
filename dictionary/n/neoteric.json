@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "New or modern; recent.",
+      "examples": [
+        "another effort by the White House to display its neoteric wizardry went awry"
+      ],
+      "synonyms": [
+        "original",
+        "innovatory",
+        "innovational",
+        "new",
+        "novel",
+        "fresh",
+        "unconventional",
+        "unorthodox",
+        "off-centre",
+        "unusual",
+        "unfamiliar",
+        "unprecedented",
+        "avant-garde",
+        "experimental",
+        "inventive",
+        "ingenious"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A modern person; a person who advocates new ideas."
+    }
+  ],
+  "origin": "Late 16th century: via late Latin from Greek neōterikos, from neōteros newer, comparative of neos.",
+  "pronounciation": "/ˌnēəˈterik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neoteric_us_1.mp3"
+}

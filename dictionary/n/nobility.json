@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being noble in character, mind, birth, or rank.",
+      "synonyms": [
+        "virtue",
+        "goodness",
+        "honour",
+        "honesty",
+        "decency",
+        "integrity",
+        "magnanimity",
+        "generosity",
+        "selflessness",
+        "bravery"
+      ]
+    },
+    {
+      "description": "The group of people belonging to the noble class in a country, especially those with a hereditary or honorary title.",
+      "examples": [
+        "a member of the English nobility"
+      ],
+      "synonyms": [
+        "aristocracy",
+        "aristocrats",
+        "lords",
+        "ladies",
+        "peerage",
+        "peers",
+        "peers of the realm",
+        "peeresses",
+        "nobles",
+        "noblemen",
+        "noblewomen",
+        "titled men",
+        "titled people",
+        "titled women",
+        "members of the aristocracy",
+        "members of the nobility",
+        "members of the peerage",
+        "patricians"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French nobilite or Latin nobilitas, from nobilis noted, high-born (see noble).",
+  "pronounciation": "/noʊˈbɪlədi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nobility_us_1.mp3"
+}

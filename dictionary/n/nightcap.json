@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A cap worn in bed."
+    },
+    {
+      "description": "An alcoholic or hot drink taken at the end of the day or before going to bed.",
+      "synonyms": [
+        "beverage",
+        "drinkable liquid",
+        "potable liquid",
+        "liquid refreshment",
+        "thirst quencher"
+      ]
+    },
+    {
+      "description": "The second game of a doubleheader.",
+      "examples": [
+        "he pitched a four-hit shutout in the nightcap"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnaɪtˌkæp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nightcap_us_1.mp3"
+}

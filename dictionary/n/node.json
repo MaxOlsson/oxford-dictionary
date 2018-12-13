@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A point at which lines or pathways intersect or branch; a central or connecting point.",
+      "examples": [
+        "the intersections of two or more such arteries would clearly become major nodes of traffic and urban activity"
+      ],
+      "synonyms": [
+        "junction",
+        "fork",
+        "branching",
+        "intersection",
+        "interchange",
+        "confluence",
+        "convergence",
+        "meeting point",
+        "crossing",
+        "criss-crossing",
+        "vertex",
+        "apex"
+      ]
+    },
+    {
+      "description": "The part of a plant stem from which one or more leaves emerge, often forming a slight swelling or knob.",
+      "examples": [
+        "the stem is cut midway between nodes"
+      ]
+    },
+    {
+      "description": "A lymph node or other structure consisting of a small mass of differentiated tissue.",
+      "examples": [
+        "infection in these nodes may lead to backache"
+      ]
+    },
+    {
+      "description": "A point at which the amplitude of vibration in a standing wave system is zero."
+    }
+  ],
+  "origin": "Late Middle English (denoting a knotty swelling or a protuberance): from Latin nodus knot.",
+  "pronounciation": "/nōd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/node_us_1.mp3"
+}

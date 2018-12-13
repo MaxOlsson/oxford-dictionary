@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Not generous; stingy.",
+      "examples": [
+        "serving out the rations with a niggardly hand"
+      ],
+      "synonyms": [
+        "mean",
+        "miserly",
+        "parsimonious",
+        "close-fisted",
+        "penny-pinching",
+        "cheese-paring",
+        "penurious",
+        "grasping",
+        "greedy",
+        "avaricious",
+        "scrooge-like",
+        "ungenerous",
+        "illiberal",
+        "close"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a stingy or meager manner."
+    }
+  ],
+  "origin": "Mid 16th century: from niggard + -ly.",
+  "pronounciation": "/ˈniɡərdlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/niggardly_us_1.mp3"
+}

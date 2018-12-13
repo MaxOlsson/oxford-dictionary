@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Inert; lacking vigor or feeling.",
+      "examples": [
+        "the knife dropped from Grant's nerveless fingers"
+      ],
+      "synonyms": [
+        "inert",
+        "lifeless",
+        "lacking feeling"
+      ]
+    },
+    {
+      "description": "Confident; not nervous.",
+      "examples": [
+        "with nerveless panache"
+      ],
+      "synonyms": [
+        "confident",
+        "self-confident",
+        "self-assured",
+        "self-possessed",
+        "cool",
+        "cool-headed",
+        "calm",
+        "collected",
+        "cool",
+        "calm",
+        "and collected",
+        "composed",
+        "controlled",
+        "relaxed"
+      ]
+    },
+    {
+      "description": "Lacking nerves or nervures."
+    }
+  ],
+  "pronounciation": "/ˈnərvləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nerveless_us_1.mp3"
+}

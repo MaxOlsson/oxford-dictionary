@@ -1,0 +1,47 @@
+{
+  "pronoun": [
+    {
+      "description": "Not any.",
+      "examples": [
+        "none of you want to work",
+        "don't use any more water, or there'll be none left for me"
+      ],
+      "synonyms": [
+        "not one",
+        "not a one"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "By no amount; not at all.",
+      "examples": [
+        "it is made none the easier by the differences in approach"
+      ],
+      "synonyms": [
+        "not at all",
+        "not a bit",
+        "not the slightest bit",
+        "in no way",
+        "to no extent",
+        "by no means any",
+        "not for a moment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A service forming part of the Divine Office of the Western Christian Church, traditionally said (or chanted) at the ninth hour of the day (3 p.m.)."
+    }
+  ],
+  "phrases": [
+    "her first customer was none other than Henry du Pont",
+    "And it was none other than Rossellini who advised him to turn professional.",
+    "The first victims of his surprise visit were none other than presspersons themselves.",
+    "With a wee bit of searching, I found out the mystery presenter is none other than Nance.",
+    "The show had to be good as it was choreographed by none other than irrepressible Padamsee."
+  ],
+  "origin": "Mid 19th century: from French, from Latin nona, feminine singular of nonus ninth. Compare with noon.",
+  "pronounciation": "/nən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/none_us_1.mp3"
+}
