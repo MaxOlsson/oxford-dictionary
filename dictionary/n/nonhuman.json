@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Not human.",
+      "examples": [
+        "ascribing human characteristics to nonhuman animals"
+      ],
+      "synonyms": [
+        "non-human",
+        "non-mortal",
+        "monstrous",
+        "devilish",
+        "demonic",
+        "demoniac",
+        "ghostly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A creature that is not a human being."
+    }
+  ],
+  "pronounciation": "/ˌnɑnˈ(h)jumən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonhuman_us_1.mp3"
+}

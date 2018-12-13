@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not absolutely necessary.",
+      "examples": [
+        "during the strike nonessential hospital services were halted"
+      ],
+      "synonyms": [
+        "unnecessary",
+        "inessential",
+        "unessential",
+        "needless",
+        "unneeded",
+        "not required",
+        "superfluous",
+        "uncalled for",
+        "redundant",
+        "dispensable",
+        "expendable",
+        "peripheral",
+        "unimportant",
+        "incidental",
+        "optional",
+        "extraneous",
+        "cosmetic"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A nonessential thing."
+    }
+  ],
+  "pronounciation": "/ˌnänəˈsen(t)SH(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/non_essential_1_us_2.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "adjective": [
+    {
+      "description": "Bold or impudent.",
+      "examples": [
+        "it was kind of nervy for Billy to be telling him how to play"
+      ],
+      "synonyms": [
+        "impertinent",
+        "impudent",
+        "cheeky",
+        "ill-mannered",
+        "bad mannered",
+        "unmannerly",
+        "rude",
+        "impolite",
+        "uncivil",
+        "lacking civility",
+        "discourteous",
+        "disrespectful",
+        "insubordinate",
+        "contemptuous",
+        "presumptuous"
+      ]
+    },
+    {
+      "description": "Easily agitated or alarmed; nervous.",
+      "examples": [
+        "he was nervy and on edge"
+      ],
+      "synonyms": [
+        "nervous",
+        "anxious",
+        "tense",
+        "on edge",
+        "edgy",
+        "strained",
+        "stressed",
+        "agitated",
+        "apprehensive",
+        "in a state of nerves",
+        "in a state of agitation",
+        "uneasy",
+        "restless",
+        "worked up",
+        "keyed up",
+        "overwrought",
+        "wrought up",
+        "strung out",
+        "jumpy",
+        "on tenterhooks",
+        "with one's stomach in knots",
+        "fidgety",
+        "fearful",
+        "frightened",
+        "scared",
+        "with one's heart in one's mouth",
+        "like a cat on a hot tin roof",
+        "quaking",
+        "trembling",
+        "shaking",
+        "shaking in one's shoes",
+        "shaky",
+        "on pins and needles",
+        "in a cold sweat",
+        "fevered",
+        "febrile"
+      ]
+    },
+    {
+      "description": "Sinewy or strong."
+    }
+  ],
+  "pronounciation": "/ˈnərvi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nervy_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "(of the weather) rather cold; chilly.",
+      "examples": [
+        "it's a bit nippy this morning"
+      ],
+      "synonyms": [
+        "cold",
+        "chilly",
+        "icy",
+        "bitter",
+        "raw"
+      ]
+    },
+    {
+      "description": "Inclined to nip or bite.",
+      "examples": [
+        "macaws can be nippy and unpredictable"
+      ]
+    },
+    {
+      "description": "Quick; nimble.",
+      "synonyms": [
+        "agile",
+        "lithe",
+        "sprightly",
+        "acrobatic",
+        "light-footed",
+        "nimble-footed",
+        "light",
+        "light on one's feet",
+        "fleet-footed",
+        "spry",
+        "lively",
+        "active",
+        "graceful",
+        "supple",
+        "limber",
+        "lissom",
+        "flexible",
+        "skilful",
+        "deft",
+        "dexterous",
+        "adroit"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnipē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nippy_us_1.mp3"
+}

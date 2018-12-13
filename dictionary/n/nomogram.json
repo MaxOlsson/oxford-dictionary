@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "A diagram representing the relations between three or more variable quantities by means of a number of scales, so arranged that the value of one variable can be found by a simple geometric construction, for example, by drawing a straight line intersecting the other scales at the appropriate values.",
+      "examples": [
+        "in calculating dosage we encourage the use of a nomogram that takes account of age, sex, renal function, and body weight"
+      ],
+      "synonyms": [
+        "chart",
+        "diagram",
+        "grid"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: from Greek nomos law + -gram.",
+  "pronounciation": "/ˈnäməˌɡram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nomogram_us_1.mp3"
+}

@@ -1,0 +1,81 @@
+{
+  "adjective": [
+    {
+      "description": "Not helping or supporting either side in a conflict, disagreement, etc.; impartial.",
+      "examples": [
+        "during the Second World War, Portugal was neutral"
+      ],
+      "synonyms": [
+        "impartial",
+        "unbiased",
+        "unprejudiced",
+        "objective",
+        "without favouritism",
+        "open-minded",
+        "non-partisan",
+        "non-discriminatory",
+        "disinterested",
+        "even-handed",
+        "equitable",
+        "fair",
+        "fair-minded",
+        "dispassionate",
+        "detached",
+        "impersonal",
+        "unemotional",
+        "clinical",
+        "indifferent",
+        "removed"
+      ]
+    },
+    {
+      "description": "Having no strongly marked or positive characteristics or features.",
+      "examples": [
+        "the tone was neutral, devoid of sentiment",
+        "a fairly neutral background will make any small splash of color stand out"
+      ],
+      "synonyms": [
+        "inoffensive",
+        "bland",
+        "unobjectionable",
+        "unexceptionable",
+        "anodyne",
+        "unremarkable",
+        "ordinary",
+        "commonplace",
+        "run-of-the-mill",
+        "everyday"
+      ]
+    },
+    {
+      "description": "Neither acid nor alkaline; having a pH of about 7."
+    },
+    {
+      "description": "Electrically neither positive nor negative."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An impartial or unbiased country or person.",
+      "examples": [
+        "Sweden and its fellow neutrals",
+        "he acted as a neutral between the parties"
+      ]
+    },
+    {
+      "description": "A neutral color or shade, especially light gray or beige."
+    },
+    {
+      "description": "A disengaged position of gears in which the engine is disconnected from the driven parts.",
+      "examples": [
+        "she slipped the gear into neutral"
+      ]
+    },
+    {
+      "description": "An electrically neutral point, terminal, conductor, or wire."
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Latin neutralis of neuter gender, from Latin neuter (see neuter).",
+  "pronounciation": "/ˈn(j)utrəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neutral_us_1.mp3"
+}

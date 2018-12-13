@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not relating to or derived from living matter.",
+      "examples": [
+        "nonorganic archaeological finds"
+      ],
+      "synonyms": [
+        "lifeless",
+        "insentient",
+        "insensate",
+        "without life",
+        "inert",
+        "motionless"
+      ]
+    },
+    {
+      "description": "(especially of food or farming methods) not involving or relating to production by organic methods.",
+      "examples": [
+        "nonorganic hens' eggs",
+        "nonorganic pesticides"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnɑnɔrˈɡænɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/non_organic_1_us_1.mp3"
+}

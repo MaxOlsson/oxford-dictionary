@@ -1,0 +1,39 @@
+{
+  "adverb": [
+    {
+      "description": "In spite of that; nevertheless.",
+      "examples": [
+        "it was the barest of welcomes, but it was a welcome nonetheless"
+      ],
+      "synonyms": [
+        "in spite of everything",
+        "in spite of that",
+        "even so",
+        "however",
+        "but",
+        "still",
+        "yet",
+        "though",
+        "be that as it may",
+        "for all that",
+        "despite everything",
+        "despite that",
+        "after everything",
+        "having said that",
+        "that said",
+        "just the same",
+        "all the same",
+        "at the same time",
+        "in any event",
+        "come what may",
+        "at any rate",
+        "notwithstanding",
+        "regardless",
+        "anyway",
+        "anyhow"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnənðəˈlɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonetheless_us_1.mp3"
+}

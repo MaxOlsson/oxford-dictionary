@@ -1,0 +1,30 @@
+{
+  "prefix": [
+    {
+      "description": "Expressing negation or absence.",
+      "examples": [
+        "nonaggression",
+        "nonrecognition"
+      ]
+    },
+    {
+      "description": "(added to adverbs) not in the way described.",
+      "examples": [
+        "nonuniformly"
+      ]
+    },
+    {
+      "description": "(added to verbs to form adjectives) not causing or requiring.",
+      "examples": [
+        "nonskid",
+        "noniron"
+      ]
+    },
+    {
+      "description": "Expressing a neutral negative sense when a corresponding form beginning with in- or un- has a special connotation (such as nonhuman compared with inhuman)."
+    }
+  ],
+  "origin": "From Latin non not.",
+  "pronounciation": "/nän/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/non_us_1.mp3"
+}

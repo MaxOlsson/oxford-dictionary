@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A person without professional or specialized knowledge in a particular subject.",
+      "examples": [
+        "a review article is often superior when it is written by a nonexpert"
+      ],
+      "synonyms": [
+        "non-expert",
+        "layman",
+        "non-professional",
+        "amateur",
+        "non-specialist",
+        "man in the street",
+        "man on the street"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not having or involving professional or specialized knowledge.",
+      "examples": [
+        "nonexpert witnesses"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänˈekˌspərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonexpert_us_1.mp3"
+}

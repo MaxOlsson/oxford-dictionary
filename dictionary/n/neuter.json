@@ -1,0 +1,38 @@
+{
+  "adjective": [
+    {
+      "description": "Of or denoting a gender of nouns in some languages, typically contrasting with masculine and feminine or common.",
+      "examples": [
+        "it is a neuter word in Greek"
+      ]
+    },
+    {
+      "description": "(of an animal) lacking developed sexual organs, or having had them removed."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A neuter word."
+    },
+    {
+      "description": "A nonfertile caste of social insect, especially a worker bee or ant."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Castrate or spay (a domestic animal)",
+      "examples": [
+        "a neutered tomcat"
+      ],
+      "synonyms": [
+        "castrate",
+        "geld",
+        "cut",
+        "emasculate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: via Old French from Latin neuter neither, from ne- not + uter either.",
+  "pronounciation": "/ˈn(j)udər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/neuter_us_1.mp3"
+}

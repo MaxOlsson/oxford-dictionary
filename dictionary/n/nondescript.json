@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Lacking distinctive or interesting features or characteristics.",
+      "examples": [
+        "she lived in a nondescript suburban apartment block"
+      ],
+      "synonyms": [
+        "undistinguished",
+        "featureless",
+        "characterless",
+        "unremarkable",
+        "unexceptional",
+        "unmemorable",
+        "blending into the background"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A nondescript person or thing."
+    }
+  ],
+  "origin": "Late 17th century (in the sense not previously described or identified scientifically): from non- + obsolete descript described, engraved (from Latin descriptus).",
+  "pronounciation": "/ˌnɑndəˈskrɪpt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nondescript_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "adverb": [
+    {
+      "description": "At no time in the past or future; on no occasion; not ever.",
+      "examples": [
+        "they had never been camping in their lives",
+        "I will never ever forget it"
+      ],
+      "synonyms": [
+        "at no time",
+        "not at any time",
+        "not ever",
+        "not once",
+        "on no occasion"
+      ]
+    },
+    {
+      "description": "Not at all.",
+      "examples": [
+        "he never turned up"
+      ],
+      "synonyms": [
+        "not at all",
+        "certainly not",
+        "not for a moment",
+        "not in any circumstances",
+        "not under any circumstances",
+        "in no circumstances",
+        "under no circumstances",
+        "on no account"
+      ]
+    }
+  ],
+  "phrases": [
+    "Well I never—that's not like you!",
+    "There was the mother in her alpine attire staring rigidly ahead muttering well I never!"
+  ],
+  "origin": "Old English nǣfre, from ne not + ǣfre ever.",
+  "pronounciation": "/ˈnevər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/never_us_1.mp3"
+}

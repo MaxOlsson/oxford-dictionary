@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Happening or done every night.",
+      "examples": [
+        "his prime-time, nightly TV talk show"
+      ],
+      "synonyms": [
+        "every night",
+        "each night",
+        "night after night",
+        "night in",
+        "night out"
+      ]
+    },
+    {
+      "description": "Happening, done, or existing in the night.",
+      "synonyms": [
+        "nocturnal",
+        "night-time",
+        "at night"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Every night.",
+      "examples": [
+        "the hotel features live music nightly"
+      ],
+      "synonyms": [
+        "every night",
+        "each night",
+        "night after night",
+        "night in",
+        "night out"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈnītlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nightly_us_1.mp3"
+}

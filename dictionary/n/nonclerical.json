@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Not doing or involving routine clerical work in an office."
+    },
+    {
+      "description": "Not relating to or belonging to the clergy.",
+      "synonyms": [
+        "non-clerical",
+        "non-ordained",
+        "non-ecclesiastical",
+        "secular",
+        "temporal"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌnänˈklerikəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/nonclerical_us_1.mp3"
+}

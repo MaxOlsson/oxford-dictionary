@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+      "examples": [
+        "a moonless night",
+        "the office door is always locked at night"
+      ],
+      "synonyms": [
+        "darkness",
+        "dark",
+        "hours of darkness",
+        "night-time",
+        "dead of night"
+      ]
+    },
+    {
+      "description": "The period of time between afternoon and bedtime; an evening.",
+      "examples": [
+        "he was not allowed to go out on weekday nights"
+      ]
+    }
+  ],
+  "exclamation": [],
+  "adverb": [
+    {
+      "description": "During the night; at night.",
+      "examples": [
+        "investments that won't keep us awake nights with worry"
+      ]
+    }
+  ],
+  "phrases": [
+    "she studied night and day",
+    "As the words flowed night and day, we felt we were giving voice to a new generation of rebels.",
+    "During the past week, the people involved in the project have worked night and day to have the centre ready for the opening.",
+    "Put simply, Scotland has to watch and listen, night and day, to every little thing that affects English sporting teams.",
+    "Would it be better if the city were dependent for its wealth on huge factories belching out pollution night and day?"
+  ],
+  "origin": "Old English neaht, niht, of Germanic origin; related to Dutch nacht and German Nacht, from an Indo-European root shared by Latin nox and Greek nux.",
+  "pronounciation": "/nīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/night_us_1.mp3"
+}
