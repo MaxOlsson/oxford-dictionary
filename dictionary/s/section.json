@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "Any of the more or less distinct parts into which something is or may be divided or from which it is made up.",
+      "examples": [
+        "arrange orange sections on a platter"
+      ],
+      "synonyms": [
+        "segment",
+        "part",
+        "component",
+        "division",
+        "piece",
+        "portion",
+        "length",
+        "element",
+        "module",
+        "unit",
+        "constituent",
+        "bit",
+        "slice",
+        "fraction",
+        "fragment"
+      ]
+    },
+    {
+      "description": "A distinct group within a larger body of people or things.",
+      "examples": [
+        "the children's section of the library"
+      ],
+      "synonyms": [
+        "department",
+        "part",
+        "division",
+        "branch",
+        "sector",
+        "wing",
+        "compartment"
+      ]
+    },
+    {
+      "description": "The cutting of a solid by or along a plane."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Divide into sections.",
+      "examples": [
+        "she began to section the grapefruit"
+      ]
+    },
+    {
+      "description": "Commit (someone) compulsorily to a psychiatric hospital in accordance with a section of a mental health act.",
+      "examples": [
+        "should she be sectioned?"
+      ],
+      "synonyms": [
+        "commit",
+        "certify",
+        "section",
+        "hospitalize",
+        "institutionalize"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from French section or Latin sectio(n-), from secare to cut. The verb dates from the early 19th century.",
+  "pronounciation": "/ˈsɛkʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/section_us_1.mp3"
+}

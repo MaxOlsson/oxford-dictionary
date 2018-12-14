@@ -1,0 +1,13 @@
+{
+  "noun": [
+    {
+      "description": "The nonresistive component of impedance in an AC circuit, arising from the effect of inductance or capacitance or both and causing the current to be out of phase with the electromotive force causing it.",
+      "examples": [
+        "the capacitor exhibits negligible reactance at the operating frequency",
+        "complicated combinations of reactances and resistances"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌriˈæktəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reactance_us_1.mp3"
+}

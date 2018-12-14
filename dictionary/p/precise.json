@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "Marked by exactness and accuracy of expression or detail.",
+      "examples": [
+        "precise directions",
+        "I want as precise a time of death as I can get"
+      ],
+      "synonyms": [
+        "exact",
+        "accurate",
+        "correct",
+        "error-free",
+        "pinpoint",
+        "specific",
+        "detailed",
+        "explicit",
+        "clear-cut",
+        "unambiguous",
+        "meticulous",
+        "close",
+        "strict",
+        "definite",
+        "particular",
+        "express"
+      ]
+    }
+  ],
+  "phrases": [
+    "there were not many—five, to be precise",
+    "I got in touch with a local artist - a painter actually, well, my wife to be precise - and asked her if she had any ideas.",
+    "South Africa has more Nobel laureates than any other African country - six to be precise.",
+    "A little under a minute later - 55.03 secs to be precise - what was left of her career lay in tatters.",
+    "Hannah Honner has a lot of sisters at home, five to be precise and just one brother called William."
+  ],
+  "origin": "Late Middle English: from Old French prescis, from Latin praecis- cut short, from the verb praecidere, from prae in advance + caedere to cut.",
+  "pronounciation": "/prəˈsīs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/precise_us_1.mp3"
+}

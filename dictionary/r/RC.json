@@ -1,0 +1,24 @@
+{
+  "abbreviation": [
+    {
+      "description": "Radio compass."
+    },
+    {
+      "description": "Radio-controlled."
+    },
+    {
+      "description": "Red Cross."
+    },
+    {
+      "description": "Reinforced concrete."
+    },
+    {
+      "description": "Resistance/capacitance (or resistor/capacitor)."
+    },
+    {
+      "description": "Roman Catholic."
+    }
+  ],
+  "pronounciation": "/ˌɑːrˈsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rc_us_1.mp3"
+}

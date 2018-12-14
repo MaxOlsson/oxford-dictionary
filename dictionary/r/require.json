@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Need for a particular purpose.",
+      "examples": [
+        "three patients required operations",
+        "please indicate how many tickets you require"
+      ],
+      "synonyms": [
+        "essential",
+        "vital",
+        "indispensable",
+        "necessary",
+        "needed",
+        "called for",
+        "requisite",
+        "prerequisite"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French requere, from Latin requirere, from re- (expressing intensive force) + quaerere seek.",
+  "pronounciation": "/rəˈkwī(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/require_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) a priest or minister; confer holy orders on.",
+      "synonyms": [
+        "confer holy orders on",
+        "appoint",
+        "induct",
+        "install",
+        "invest",
+        "anoint",
+        "consecrate"
+      ]
+    },
+    {
+      "description": "Order or decree (something) officially.",
+      "examples": [
+        "equal punishment was ordained for the two crimes"
+      ],
+      "synonyms": [
+        "decree",
+        "rule",
+        "order",
+        "command",
+        "enjoin",
+        "lay down",
+        "set down",
+        "establish",
+        "fix",
+        "enact",
+        "legislate",
+        "dictate",
+        "prescribe",
+        "pronounce"
+      ]
+    }
+  ],
+  "origin": "Middle English (also in the sense put in order): from Anglo-Norman French ordeiner, from Latin ordinare, from ordo, ordin- (see order).",
+  "pronounciation": "/ôrˈdān/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ordain_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "The action of cooking something in an oven or over an open fire."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Very hot and dry.",
+      "examples": [
+        "a roasting day in Miami"
+      ],
+      "synonyms": [
+        "extremely hot",
+        "baking",
+        "baking hot",
+        "blazing",
+        "blazing hot",
+        "sweltering",
+        "scorching",
+        "blistering",
+        "searing",
+        "torrid"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈroʊstɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roasting_us_1.mp3"
+}

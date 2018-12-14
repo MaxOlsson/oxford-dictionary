@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting or relating to a knitting stitch made by putting the needle through the front of the stitch from right to left."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Knit with a purl stitch.",
+      "examples": [
+        "knit one, purl one"
+      ],
+      "synonyms": [
+        "gurgle",
+        "bubble",
+        "murmur",
+        "purr",
+        "tinkle",
+        "whir",
+        "drone",
+        "rumble",
+        "buzz",
+        "hum"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cord of twisted gold or silver wire used for bordering or edging something."
+    }
+  ],
+  "origin": "Early 16th century (denoting a small swirling stream): probably imitative; compare with Norwegian purla bubble up.",
+  "pronounciation": "/pərl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/purl_us_1.mp3"
+}

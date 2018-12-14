@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Look quickly and furtively at something, especially through a narrow opening.",
+      "examples": [
+        "the door was ajar and she couldn't resist peeping in"
+      ],
+      "synonyms": [
+        "look quickly",
+        "cast a brief look",
+        "take a secret look",
+        "spy",
+        "take a sly look",
+        "take a stealthy look",
+        "sneak a look",
+        "peek",
+        "have a peek",
+        "glance",
+        "peer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quick or furtive look.",
+      "examples": [
+        "Jonathan took a peep at his watch"
+      ],
+      "synonyms": [
+        "quick look",
+        "brief look",
+        "sly look",
+        "stealthy look",
+        "sneaky look",
+        "peek",
+        "glance",
+        "glimpse",
+        "look",
+        "peer"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: imitative; compare with cheep.",
+  "pronounciation": "/pip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peep_us_1.mp3"
+}

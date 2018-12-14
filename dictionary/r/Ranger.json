@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A keeper of a park, forest, or area of countryside.",
+      "synonyms": [
+        "custodian",
+        "keeper",
+        "guardian",
+        "protector",
+        "preserver",
+        "curator"
+      ]
+    },
+    {
+      "description": "A member of a body of armed men."
+    },
+    {
+      "description": "A person or thing that wanders or ranges over a particular area or domain.",
+      "examples": [
+        "rangers of the mountains"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A series of nine American moon probes launched between 1961 and 1965, the last three of which took many photographs before crashing into the moon."
+    }
+  ],
+  "pronounciation": "/ˈrānjər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ranger_us_1.mp3"
+}

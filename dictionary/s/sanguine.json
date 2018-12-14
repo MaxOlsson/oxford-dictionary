@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+      "examples": [
+        "he is sanguine about prospects for the global economy",
+        "the committee takes a more sanguine view"
+      ],
+      "synonyms": [
+        "optimistic",
+        "bullish",
+        "hopeful",
+        "buoyant",
+        "positive",
+        "disposed to look on the bright side",
+        "confident",
+        "cheerful",
+        "cheery",
+        "bright",
+        "assured"
+      ]
+    },
+    {
+      "description": "Blood-red.",
+      "synonyms": [
+        "scarlet",
+        "vermilion",
+        "ruby",
+        "ruby-red",
+        "ruby-coloured",
+        "cherry",
+        "cherry-red",
+        "cerise",
+        "cardinal",
+        "carmine",
+        "wine",
+        "wine-red",
+        "wine-coloured",
+        "claret",
+        "claret-red",
+        "claret-coloured",
+        "blood-red"
+      ]
+    },
+    {
+      "description": "Bloody or bloodthirsty."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A blood-red color."
+    }
+  ],
+  "origin": "Middle English: from Old French sanguin(e) blood red, from Latin sanguineus of blood, from sanguis, sanguin- blood.",
+  "pronounciation": "/ˈsaNGɡwən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sanguine_us_1.mp3"
+}

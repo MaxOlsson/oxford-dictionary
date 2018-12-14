@@ -1,0 +1,75 @@
+{
+  "adjective": [
+    {
+      "description": "(of cloth or clothes) old and torn.",
+      "synonyms": [
+        "tattered",
+        "in tatters",
+        "torn",
+        "ripped",
+        "split",
+        "in holes",
+        "holey",
+        "moth-eaten",
+        "frayed",
+        "worn",
+        "worn out",
+        "well worn",
+        "worn to shreds",
+        "falling to pieces",
+        "threadbare",
+        "the worse for wear",
+        "patched",
+        "scruffy",
+        "shabby",
+        "decrepit",
+        "old"
+      ]
+    },
+    {
+      "description": "Having an irregular or uneven surface, edge, or outline.",
+      "examples": [
+        "a ragged coastline"
+      ],
+      "synonyms": [
+        "jagged",
+        "craggy",
+        "rugged",
+        "uneven",
+        "rough",
+        "irregular",
+        "broken"
+      ]
+    },
+    {
+      "description": "Lacking finish, smoothness, or uniformity.",
+      "examples": [
+        "the ragged discipline of the players"
+      ],
+      "synonyms": [
+        "disorganized",
+        "in disarray",
+        "confused",
+        "in confusion",
+        "disordered",
+        "disorderly"
+      ]
+    },
+    {
+      "description": "Suffering from exhaustion or stress.",
+      "examples": [
+        "he looked a little ragged, a little shadowy beneath the eyes"
+      ]
+    }
+  ],
+  "phrases": [
+    "Using every square yard of the pitch, those high-powered Adare forwards ran Croom ragged, pulled them wide then exploited the spaces in between.",
+    "Despite admitting that he was run ragged by playing basketball with the kids, he said he was considering making it an annual event for the future.",
+    "Those kids must really be running you ragged; you look terrible.",
+    "There were certain areas where we had youths in gangs of 20 or 25 causing serious problems for residents and running us ragged.",
+    "O'Driscoll was continuing to run Listowel ragged and the inevitable happened in the 26th minute when Camp scored again."
+  ],
+  "origin": "Middle English: of Scandinavian origin; compare with Old Norse rǫgvathr tufted and Norwegian ragget shaggy.",
+  "pronounciation": "/ˈraɡəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ragged_us_1.mp3"
+}

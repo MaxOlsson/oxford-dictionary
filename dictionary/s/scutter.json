@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a small animal) move hurriedly with short steps.",
+      "examples": [
+        "a little dog scuttered up from the cabin"
+      ],
+      "synonyms": [
+        "be quick",
+        "hurry up",
+        "move quickly",
+        "go fast",
+        "hasten",
+        "make haste",
+        "speed",
+        "speed up",
+        "lose no time",
+        "press on",
+        "push on",
+        "run",
+        "dash",
+        "rush",
+        "hurtle",
+        "dart",
+        "race",
+        "fly",
+        "flash",
+        "shoot",
+        "streak",
+        "bolt",
+        "bound",
+        "blast",
+        "charge",
+        "chase",
+        "career",
+        "scurry",
+        "scramble",
+        "scamper",
+        "scuttle",
+        "sprint",
+        "gallop",
+        "go hell for leather",
+        "go like lightning"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of scuttering.",
+      "synonyms": [
+        "scamper",
+        "scampering noise",
+        "scurry",
+        "scurrying"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: perhaps an alteration of the verb scuttle.",
+  "pronounciation": "/ˈskədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scutter_us_1.mp3"
+}

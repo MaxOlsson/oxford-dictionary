@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes (bubonic plague) and sometimes infection of the lungs (pneumonic plague)",
+      "examples": [
+        "an outbreak of plague",
+        "they died of the plague"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause continual trouble or distress to.",
+      "examples": [
+        "he has been plagued by ill health",
+        "the problems that plagued the company"
+      ],
+      "synonyms": [
+        "afflict",
+        "bedevil",
+        "cause suffering to",
+        "torture",
+        "torment",
+        "trouble",
+        "beset",
+        "dog",
+        "curse",
+        "rack"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: Latin plaga stroke, wound, probably from Greek ( Doric dialect) plaga, from a base meaning strike.",
+  "pronounciation": "/pleɪɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plague_us_1.mp3"
+}

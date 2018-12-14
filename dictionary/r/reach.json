@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Stretch out an arm in a specified direction in order to touch or grasp something.",
+      "examples": [
+        "he reached over and turned off his bedside light",
+        "she reached out to squeeze Hope's hand"
+      ],
+      "synonyms": [
+        "stretch out",
+        "hold out",
+        "extend",
+        "outstretch",
+        "thrust out",
+        "stick out"
+      ]
+    },
+    {
+      "description": "Arrive at; get as far as.",
+      "examples": [
+        "“Goodbye,” she said as they reached the door",
+        "the show is due to reach our screens early next year"
+      ],
+      "synonyms": [
+        "arrive at",
+        "get to",
+        "get as far as",
+        "come to",
+        "make it to",
+        "gain"
+      ]
+    },
+    {
+      "description": "Sail with the wind blowing from the side, or from slightly behind the side, of the ship."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of reaching out with one's arm.",
+      "examples": [
+        "she made a reach for him"
+      ]
+    },
+    {
+      "description": "The extent or range of application, effect, or influence.",
+      "examples": [
+        "the diameter and the reach of the spark plug varies from engine to engine"
+      ],
+      "synonyms": [
+        "capabilities",
+        "capacity"
+      ]
+    },
+    {
+      "description": "A continuous extent of land or water, especially a stretch of river between two bends, or the part of a canal between locks.",
+      "examples": [
+        "the upper reaches of the Nile"
+      ]
+    },
+    {
+      "description": "A distance traversed in reaching."
+    }
+  ],
+  "phrases": [
+    "Adrienne snapped as she reached for the remote back but Leigh held it out of reach.",
+    "And if you must have a gun in the house, keep it in a locked place, out of reach and unloaded.",
+    "she thought college was out of her reach",
+    "They're a talented group of musicians with an obvious passion for their music and a goal in mind that is not too far out of reach.",
+    "An Evening Press survey this spring found that traditional starter homes were now out of reach for someone on an average York salary."
+  ],
+  "origin": "Old English rǣcan, of West Germanic origin; related to Dutch reiken and German reichen.",
+  "pronounciation": "/ritʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reach_us_1.mp3"
+}

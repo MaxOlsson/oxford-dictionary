@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Carefully choose as being the best or most suitable.",
+      "examples": [
+        "he has been selected to take part",
+        "you can select from a range of quality products",
+        "students must select their own program"
+      ],
+      "synonyms": [
+        "choose",
+        "pick",
+        "hand-pick",
+        "single out",
+        "pick out",
+        "sort out",
+        "take",
+        "opt for",
+        "decide on",
+        "settle on",
+        "set",
+        "fix",
+        "fix on",
+        "adopt",
+        "determine",
+        "designate",
+        "name",
+        "nominate",
+        "appoint",
+        "elect",
+        "specify",
+        "stipulate",
+        "prefer",
+        "favour"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a group of people or things) carefully chosen from a larger number as being the best or most valuable.",
+      "examples": [
+        "he joined his select team of young Intelligence operatives"
+      ],
+      "synonyms": [
+        "choice",
+        "hand-picked",
+        "carefully chosen",
+        "prime",
+        "first-rate",
+        "first-class",
+        "high-grade",
+        "grade a",
+        "superior",
+        "finest",
+        "best",
+        "high-quality",
+        "top-quality",
+        "top-class",
+        "a-list",
+        "supreme",
+        "superb",
+        "excellent",
+        "rare",
+        "prize",
+        "prize-winning",
+        "award-winning"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin select- chosen, from the verb seligere, from se- apart + legere choose.",
+  "pronounciation": "/səˈlɛkt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/select_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Full of the possibility of danger, failure, or loss.",
+      "examples": [
+        "it was much too risky to try to disarm him"
+      ],
+      "synonyms": [
+        "dangerous",
+        "fraught with danger",
+        "high-risk",
+        "hazardous",
+        "perilous",
+        "unsafe",
+        "insecure",
+        "exposed",
+        "defenceless",
+        "precarious",
+        "touch-and-go",
+        "tricky",
+        "treacherous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈriskē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/risky_us_1.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A short, confused fight or struggle at close quarters.",
+      "examples": [
+        "there were minor scuffles with police"
+      ],
+      "synonyms": [
+        "fight",
+        "struggle",
+        "tussle",
+        "brawl",
+        "fracas",
+        "rumpus",
+        "melee",
+        "free-for-all",
+        "rough and tumble",
+        "scrimmage",
+        "disturbance",
+        "brouhaha",
+        "commotion"
+      ]
+    },
+    {
+      "description": "An act or sound of moving in a hurried, confused, or shuffling manner.",
+      "examples": [
+        "he heard the scuffle of feet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Engage in a short, confused fight or struggle at close quarters.",
+      "examples": [
+        "the teacher noticed two students scuffling in the corridor"
+      ],
+      "synonyms": [
+        "fight",
+        "struggle",
+        "tussle",
+        "exchange blows",
+        "come to blows",
+        "brawl",
+        "grapple",
+        "clash",
+        "scrimmage"
+      ]
+    },
+    {
+      "description": "Move in a hurried, confused, or awkward way, making a rustling or shuffling sound.",
+      "examples": [
+        "a drenched woman scuffled through the doorway"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (as a verb): probably of Scandinavian origin; compare with Swedish skuffa to push; related to shove and shuffle.",
+  "pronounciation": "/ˈskəfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scuffle_us_1.mp3"
+}

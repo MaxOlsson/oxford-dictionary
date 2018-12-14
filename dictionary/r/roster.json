@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A list or plan showing turns of duty or leave for individuals or groups in an organization.",
+      "examples": [
+        "next week's duty roster"
+      ],
+      "synonyms": [
+        "list",
+        "listing",
+        "register",
+        "schedule",
+        "agenda",
+        "calendar",
+        "roll",
+        "directory",
+        "table"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Assign according to a duty roster.",
+      "examples": [
+        "the locomotive is rostered for service on Sunday"
+      ]
+    }
+  ],
+  "origin": "Early 18th century (originally denoting a list of duties and leave for military personnel): from Dutch rooster list, earlier gridiron, from roosten to roast, with reference to its parallel lines.",
+  "pronounciation": "/ˈrɑstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roster_us_1.mp3"
+}

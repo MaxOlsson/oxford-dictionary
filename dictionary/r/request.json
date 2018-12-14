@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "An act of asking politely or formally for something.",
+      "examples": [
+        "a request for information",
+        "the club's excursion was postponed at the request of some of the members"
+      ],
+      "synonyms": [
+        "appeal",
+        "entreaty",
+        "plea",
+        "petition",
+        "solicitation",
+        "supplication",
+        "prayer",
+        "invocation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Politely or formally ask for.",
+      "examples": [
+        "he received the information he had requested",
+        "the chairman requested that the reports be considered"
+      ],
+      "synonyms": [
+        "ask for",
+        "appeal for",
+        "call for",
+        "seek",
+        "solicit",
+        "plead for",
+        "put in a plea for",
+        "pray for",
+        "petition",
+        "sue for",
+        "supplicate for"
+      ]
+    }
+  ],
+  "phrases": [
+    "Many are two bedroom with cots available on request, making them ideal for families.",
+    "A list of the furniture and effects included in the sale is available on request.",
+    "Don't list references or state, References available on request.",
+    "But cassette and video recorders are usually available on request or at least by arrangement.",
+    "It is also available by request to any school that would like to increase its awareness of threatened and endangered species and what can be done to protect them."
+  ],
+  "origin": "Middle English: from Old French requeste (noun), based on Latin requirere (see require).",
+  "pronounciation": "/rəˈkwɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/request_us_1.mp3"
+}

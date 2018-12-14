@@ -1,0 +1,36 @@
+{
+  "adverb": [
+    {
+      "description": "In a painful manner or to a painful degree.",
+      "examples": [
+        "she coughed painfully"
+      ],
+      "synonyms": [
+        "distressingly",
+        "worryingly",
+        "upsettingly",
+        "disturbingly",
+        "sadly",
+        "pitifully",
+        "unfortunately",
+        "agonizingly",
+        "harrowingly",
+        "excruciatingly",
+        "chillingly",
+        "alarmingly",
+        "insufferably",
+        "unendurably",
+        "unbearably",
+        "torturously",
+        "cruelly",
+        "uncomfortably",
+        "embarrassingly",
+        "disconcertingly",
+        "unenviably",
+        "unpleasantly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpeɪnfəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/painfully_us_1.mp3"
+}

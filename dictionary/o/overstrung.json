@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "(of a piano) with strings in sets crossing each other obliquely."
+    },
+    {
+      "description": "(of a person) extremely nervous or tense.",
+      "examples": [
+        "at two in the morning the overstrung youth finally ran out of questions"
+      ],
+      "synonyms": [
+        "nervous",
+        "anxious",
+        "tense",
+        "on edge",
+        "edgy",
+        "strained",
+        "stressed",
+        "agitated",
+        "apprehensive",
+        "in a state of nerves",
+        "in a state of agitation",
+        "uneasy",
+        "restless",
+        "worked up",
+        "keyed up",
+        "overwrought",
+        "wrought up",
+        "strung out",
+        "jumpy",
+        "on tenterhooks",
+        "with one's stomach in knots",
+        "fidgety",
+        "fearful",
+        "frightened",
+        "scared",
+        "with one's heart in one's mouth",
+        "like a cat on a hot tin roof",
+        "quaking",
+        "trembling",
+        "shaking",
+        "shaking in one's shoes",
+        "shaky",
+        "on pins and needles",
+        "in a cold sweat",
+        "fevered",
+        "febrile"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈōvərˌstrəNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overstrung_us_2.mp3"
+}

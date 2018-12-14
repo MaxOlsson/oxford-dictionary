@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A person who lives somewhere permanently or on a long-term basis.",
+      "synonyms": [
+        "inhabitant",
+        "local"
+      ]
+    },
+    {
+      "description": "A medical graduate engaged in specialized practice under supervision in a hospital."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Living somewhere on a long-term basis.",
+      "examples": [
+        "he has been resident in Brazil for a long time"
+      ],
+      "synonyms": [
+        "living",
+        "residing",
+        "in residence",
+        "staying",
+        "remaining"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Latin resident- remaining, from the verb residere (see reside).",
+  "pronounciation": "/ˈrɛz(ə)dənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resident_us_1.mp3"
+}

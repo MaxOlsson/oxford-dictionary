@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Say or estimate that (a specified thing) will happen in the future or will be a consequence of something.",
+      "examples": [
+        "it is too early to predict a result",
+        "he predicts that the trend will continue"
+      ],
+      "synonyms": [
+        "forecast",
+        "foretell",
+        "foresee",
+        "prophesy",
+        "divine",
+        "prognosticate",
+        "anticipate",
+        "see",
+        "say",
+        "tell in advance",
+        "project",
+        "speculate",
+        "envision",
+        "envisage",
+        "imagine",
+        "picture",
+        "estimate",
+        "conjecture",
+        "guess",
+        "hazard a guess"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin praedict- made known beforehand, declared, from the verb praedicere, from prae- beforehand + dicere say.",
+  "pronounciation": "/prəˈdikt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/predict_us_1.mp3"
+}

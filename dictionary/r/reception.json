@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of receiving something sent, given, or inflicted.",
+      "examples": [
+        "the reception of impulses from other neurons",
+        "the reception of the sacrament"
+      ],
+      "synonyms": [
+        "receipt",
+        "receiving",
+        "getting",
+        "acceptance"
+      ]
+    },
+    {
+      "description": "A formal social occasion held to welcome someone or to celebrate a particular event.",
+      "examples": [
+        "a wedding reception"
+      ],
+      "synonyms": [
+        "party",
+        "formal party",
+        "function",
+        "social occasion",
+        "social event",
+        "entertainment",
+        "soirée",
+        "gathering",
+        "get-together",
+        "celebration"
+      ]
+    },
+    {
+      "description": "The area in a hotel, office, or other establishment where guests and visitors are greeted and dealt with.",
+      "examples": [
+        "the reception desk"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin receptio(n-), from the verb recipere (see receive).",
+  "pronounciation": "/rəˈsepSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reception_us_1.mp3"
+}

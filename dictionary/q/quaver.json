@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "(of a person's voice) shake or tremble in speaking, typically through nervousness or emotion.",
+      "examples": [
+        "his voice quavered with rage",
+        "“I'm not safe here, am I?” she said in a quavering voice"
+      ],
+      "synonyms": [
+        "tremble",
+        "quiver",
+        "shake",
+        "flutter",
+        "vibrate",
+        "pulsate",
+        "oscillate",
+        "fluctuate",
+        "waver",
+        "ripple",
+        "falter",
+        "trill",
+        "twitter",
+        "warble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shake or tremble in a person's voice.",
+      "examples": [
+        "it was impossible to hide the slight quaver in her voice"
+      ],
+      "synonyms": [
+        "trembling",
+        "shaking",
+        "shakiness",
+        "tremble",
+        "shake",
+        "quivering",
+        "quiver",
+        "twitching",
+        "twitch",
+        "convulsion",
+        "vibration",
+        "juddering",
+        "judder"
+      ]
+    },
+    {
+      "description": "A note having the time value of an eighth of a whole note or half a quarter note, represented by a large dot with a hooked stem."
+    }
+  ],
+  "origin": "Late Middle English (as a verb in the general sense tremble): from dialect quave quake, tremble, probably from an Old English word related to quake. The noun is first recorded (mid 16th century) as a musical term.",
+  "pronounciation": "/ˈkwāvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quaver_us_1.mp3"
+}

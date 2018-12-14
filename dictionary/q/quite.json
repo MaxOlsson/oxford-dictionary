@@ -1,0 +1,91 @@
+{
+  "adverb": [
+    {
+      "description": "To the utmost or most absolute extent or degree; absolutely; completely.",
+      "examples": [
+        "it's quite out of the question",
+        "are you quite certain about this?",
+        "this is quite a different problem",
+        "I quite agree",
+        "quite frankly, I don't blame you"
+      ],
+      "synonyms": [
+        "completely",
+        "fully",
+        "entirely",
+        "totally",
+        "wholly",
+        "absolutely",
+        "utterly",
+        "outright",
+        "thoroughly",
+        "altogether",
+        "in every respect",
+        "in all respects",
+        "without reservation",
+        "without exception"
+      ]
+    },
+    {
+      "description": "To a certain or fairly significant extent or degree; fairly.",
+      "examples": [
+        "it's quite warm outside",
+        "he's quite an attractive man",
+        "I was quite embarrassed, actually",
+        "she did quite well at school"
+      ],
+      "synonyms": [
+        "fairly",
+        "rather",
+        "somewhat",
+        "a bit",
+        "a little",
+        "slightly",
+        "relatively",
+        "comparatively",
+        "moderately",
+        "after a fashion",
+        "reasonably",
+        "to some degree",
+        "to some extent",
+        "to a certain extent"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Expressing agreement with or understanding of a remark or statement.",
+      "examples": [
+        "“I don't want to talk about that now.” “Quite.”"
+      ],
+      "synonyms": [
+        "precisely",
+        "yes",
+        "right",
+        "that's right",
+        "just so",
+        "quite so",
+        "quite",
+        "indeed",
+        "absolutely",
+        "truly",
+        "certainly",
+        "definitely",
+        "assuredly",
+        "undoubtedly",
+        "indubitably",
+        "without a doubt"
+      ]
+    }
+  ],
+  "phrases": [
+    "my hair's not quite dry",
+    "she hasn't quite got the hang of it yet",
+    "It's not quite leaping a tall building in a single bound, but it's the next best thing.",
+    "If it has not quite been able to reach its goal, it does not seem to be from lack of effort.",
+    "It was one of those mornings when you half wake up but not quite all the way."
+  ],
+  "origin": "Middle English: from the obsolete adjective quite, variant of quit.",
+  "pronounciation": "/kwīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quite_us_1.mp3"
+}

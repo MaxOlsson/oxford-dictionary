@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Strongly flavored with pepper or other hot spices.",
+      "examples": [
+        "a hot, peppery dish"
+      ],
+      "synonyms": [
+        "spicy",
+        "spiced",
+        "peppered",
+        "hot",
+        "highly seasoned",
+        "pungent",
+        "fiery",
+        "gingery",
+        "piquant",
+        "sharp"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpepərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peppery_us_1.mp3"
+}

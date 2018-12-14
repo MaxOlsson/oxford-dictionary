@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A place or office where registers or records are kept.",
+      "synonyms": [
+        "book",
+        "account book",
+        "record book",
+        "register",
+        "log"
+      ]
+    },
+    {
+      "description": "Registration.",
+      "synonyms": [
+        "record office",
+        "repository",
+        "museum",
+        "chancery"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrɛdʒəstri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/registry_us_1.mp3"
+}

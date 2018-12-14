@@ -1,0 +1,68 @@
+{
+  "adjective": [
+    {
+      "description": "Able to repel a particular thing; impervious to a particular substance.",
+      "examples": [
+        "water-repellent nylon"
+      ],
+      "synonyms": [
+        "impermeable",
+        "impervious",
+        "resistant"
+      ]
+    },
+    {
+      "description": "Causing disgust or distaste.",
+      "examples": [
+        "the idea was slightly repellent to her"
+      ],
+      "synonyms": [
+        "revolting",
+        "repulsive",
+        "disgusting",
+        "repugnant",
+        "sickening",
+        "nauseating",
+        "stomach-turning",
+        "stomach-churning",
+        "nauseous",
+        "emetic",
+        "vile",
+        "nasty",
+        "foul",
+        "appalling",
+        "abominable",
+        "hideous",
+        "horrible",
+        "awful",
+        "dreadful",
+        "terrible",
+        "obnoxious",
+        "loathsome",
+        "offensive",
+        "objectionable",
+        "off-putting",
+        "distasteful",
+        "disagreeable",
+        "uninviting"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance that deters insects or other pests from approaching or settling.",
+      "examples": [
+        "a flea repellent"
+      ]
+    },
+    {
+      "description": "A substance used to treat something, especially fabric or stone, so as to make it impervious to water.",
+      "examples": [
+        "treat brick with a silicone water repellent"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin repellent- driving back, from the verb repellere (see repel).",
+  "pronounciation": "/rəˈpelənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repellent_us_1.mp3"
+}

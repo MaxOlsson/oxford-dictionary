@@ -1,0 +1,176 @@
+{
+  "adjective": [
+    {
+      "description": "Shaped like or approximately like a circle or cylinder.",
+      "examples": [
+        "she was seated at a small, round table"
+      ],
+      "synonyms": [
+        "circular",
+        "disc-shaped",
+        "disc-like"
+      ]
+    },
+    {
+      "description": "Shaped like or approximately like a sphere.",
+      "examples": [
+        "a round glass ball",
+        "the grapes are small and round"
+      ]
+    },
+    {
+      "description": "(of a voice) rich and mellow; not harsh.",
+      "synonyms": [
+        "sonorous",
+        "resonant",
+        "rich",
+        "full",
+        "full-toned",
+        "full-bodied",
+        "mellow",
+        "mellifluous",
+        "rounded",
+        "reverberant",
+        "orotund"
+      ]
+    },
+    {
+      "description": "(of a number) altered for convenience of expression or calculation, for example to the nearest whole number or multiple of ten or five.",
+      "examples": [
+        "the size of the fleet is given in round numbers"
+      ]
+    },
+    {
+      "description": "(of a person or their manner of speaking) not omitting or disguising anything; frank and truthful.",
+      "examples": [
+        "she berated him in good round terms"
+      ],
+      "synonyms": [
+        "candid",
+        "frank",
+        "direct",
+        "honest",
+        "truthful",
+        "straightforward",
+        "plain",
+        "plain-spoken",
+        "blunt",
+        "outspoken",
+        "forthright",
+        "downright",
+        "unvarnished",
+        "bald",
+        "straight from the shoulder",
+        "explicit",
+        "unequivocal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A circular piece of a particular substance.",
+      "examples": [
+        "cut the pastry into rounds"
+      ],
+      "synonyms": [
+        "circle",
+        "disc",
+        "circlet"
+      ]
+    },
+    {
+      "description": "An act of visiting each of a number of people or places.",
+      "examples": [
+        "she did the rounds of her family to say goodbye",
+        "he made the rounds of the city's churches"
+      ]
+    },
+    {
+      "description": "One of a sequence of sessions or groups of related actions or events, typically such that development or progress can be seen between one group and another.",
+      "examples": [
+        "the two sides held three rounds of talks"
+      ],
+      "synonyms": [
+        "spell",
+        "period",
+        "time",
+        "stretch",
+        "stint",
+        "turn",
+        "run",
+        "session",
+        "cycle"
+      ]
+    },
+    {
+      "description": "A regularly recurring sequence of activities or functions.",
+      "examples": [
+        "their lives were a daily round of housework and laundry"
+      ],
+      "synonyms": [
+        "succession",
+        "sequence",
+        "series",
+        "cycle"
+      ]
+    },
+    {
+      "description": "A song for three or more unaccompanied voices or parts, each singing the same theme but starting one after another, at the same pitch or in octaves; a simple canon."
+    },
+    {
+      "description": "The amount of ammunition needed to fire one shot.",
+      "synonyms": [
+        "bullet",
+        "cartridge",
+        "shell",
+        "shot"
+      ]
+    }
+  ],
+  "adverb": [],
+  "preposition": [],
+  "verb": [
+    {
+      "description": "Pass and go around (something) so as to move on in a changed direction.",
+      "examples": [
+        "the ship rounded the cape and sailed north"
+      ],
+      "synonyms": [
+        "go round",
+        "move round",
+        "travel round",
+        "sail round",
+        "circumnavigate"
+      ]
+    },
+    {
+      "description": "Alter (a number) to one less exact but more convenient for calculations.",
+      "examples": [
+        "we'll round the weight up to the nearest pound",
+        "the committee rounded down the figure",
+        "let's just round it off to an even ten dollars"
+      ]
+    },
+    {
+      "description": "Give a round shape to.",
+      "examples": [
+        "a lathe that rounded chair legs"
+      ]
+    }
+  ],
+  "phrases": [
+    "The turn from relief to sculpture in the round led to radical changes in his work.",
+    "Whether in reliefs or figures carved in the round, he achieved dramatic expression of emotion through the intense faces, emphatic gestures, and cascading draperies of his figures.",
+    "They are not sculpture in the round, but the pieces can be viewed from either side.",
+    "Standing just 36 cm high, and carved in the round, the model for the Queen Charlotte's figurehead is a tour de force of the woodcarver's art, although its maker's name is as yet unknown.",
+    "Also carved in the round is a seated female figure just over one inch in height.",
+    "round off the spars with a soft plastic fitting",
+    "I tested the tip of one, but evidently they were purely aesthetic, the tips and edges were rounded off so that they couldn't possibly harm anyone.",
+    "The sharp edges, corners and points have been rounded off and smoothed away.",
+    "One nice thing about this case is that all of the edges are rounded off, you'd be hard pressed to find a place where you could cut yourself without really trying.",
+    "The square edges will be rounded off to prevent further damage to the wall."
+  ],
+  "origin": "Middle English: from the Old French stem round-, from a variant of Latin rotundus rotund.",
+  "pronounciation": "/raʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/round_us_1.mp3"
+}

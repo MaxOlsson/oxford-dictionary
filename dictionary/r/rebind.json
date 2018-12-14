@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Give a new binding to (a book)",
+      "examples": [
+        "the Book of Kells was repaired and rebound in 1953 in four volumes"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈbaɪnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rebind_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "Matter that settles to the bottom of a liquid; dregs.",
+      "synonyms": [
+        "dregs",
+        "lees",
+        "deposit",
+        "grounds",
+        "settlings",
+        "residue",
+        "remains",
+        "accumulation",
+        "silt",
+        "sludge",
+        "alluvium"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Settle as sediment."
+    }
+  ],
+  "origin": "Mid 16th century: from French sédiment or Latin sedimentum settling, from sedere sit.",
+  "pronounciation": "/ˈsedəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sediment_us_1.mp3"
+}

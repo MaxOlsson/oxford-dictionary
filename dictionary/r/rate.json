@@ -1,0 +1,78 @@
+{
+  "noun": [
+    {
+      "description": "A measure, quantity, or frequency, typically one measured against some other quantity or measure.",
+      "examples": [
+        "the crime rate rose by 26 percent"
+      ]
+    },
+    {
+      "description": "A fixed price paid or charged for something, especially goods or services.",
+      "examples": [
+        "advertising rates",
+        "the basic rate of pay"
+      ],
+      "synonyms": [
+        "charge",
+        "price",
+        "cost",
+        "tariff",
+        "hire",
+        "fare",
+        "figure",
+        "amount",
+        "outlay"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Assign a standard or value to (something) according to a particular scale.",
+      "examples": [
+        "they were asked to rate their ability at different driving maneuvers",
+        "the hotel, rated four star, had no hot water and no sink plugs"
+      ],
+      "synonyms": [
+        "assess",
+        "evaluate",
+        "appraise",
+        "weigh up",
+        "judge",
+        "estimate",
+        "calculate",
+        "compute",
+        "gauge",
+        "measure",
+        "adjudge",
+        "value",
+        "put a value on"
+      ]
+    },
+    {
+      "description": "Consider to be of a certain quality, standard, or rank.",
+      "examples": [
+        "the program has been rated a great success",
+        "he rates the company's stock a “buy.”"
+      ],
+      "synonyms": [
+        "consider to be",
+        "judge to be",
+        "reckon to be",
+        "think to be",
+        "hold to be",
+        "deem to be",
+        "find to be"
+      ]
+    }
+  ],
+  "phrases": [
+    "for the moment, at any rate, he was safe",
+    "But at any rate, what taboos will cinema breach after the next twenty-five years, the next fifty?",
+    "We know only that the transfer was made, at any rate, according to a public statement by Earl Huntley.",
+    "I am, at any rate, tempted to apply it to creatures like Professors Thornton and Campbell.",
+    "Such, at any rate, was the answer that rang back at my moment of frustration and paralysis and panic."
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/rāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rate_us_1.mp3"
+}

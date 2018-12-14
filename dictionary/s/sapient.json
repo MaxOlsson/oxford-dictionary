@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "Wise, or attempting to appear wise.",
+      "synonyms": [
+        "wise",
+        "sensible",
+        "prudent",
+        "politic",
+        "shrewd",
+        "astute",
+        "canny",
+        "sagacious",
+        "common-sense",
+        "commonsensical",
+        "sound",
+        "well advised",
+        "well judged",
+        "well thought out",
+        "considered",
+        "thoughtful",
+        "perceptive",
+        "discerning",
+        "clear-sighted",
+        "insightful",
+        "far-sighted",
+        "percipient",
+        "discriminating",
+        "informed",
+        "intelligent",
+        "clever",
+        "enlightened",
+        "logical",
+        "rational"
+      ]
+    },
+    {
+      "description": "Relating to the human species (Homo sapiens)",
+      "examples": [
+        "our sapient ancestors of 40,000 years ago"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A human of the species Homo sapiens."
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin sapient- being wise, from the verb sapere.",
+  "pronounciation": "/ˈseɪpiənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sapient_us_1.mp3"
+}

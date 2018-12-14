@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Take the place of.",
+      "examples": [
+        "Ian's smile was replaced by a frown"
+      ]
+    },
+    {
+      "description": "Put (something) back in a previous place or position.",
+      "examples": [
+        "he drained his glass and replaced it on the bar"
+      ],
+      "synonyms": [
+        "put back",
+        "return",
+        "return to its place",
+        "restore"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈplās/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/replace_us_1.mp3"
+}

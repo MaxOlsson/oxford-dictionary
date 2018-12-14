@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Offering resistance to something or someone.",
+      "examples": [
+        "some of the old Churches are resistant to change",
+        "a water-resistant adhesive"
+      ],
+      "synonyms": [
+        "impervious to",
+        "proof against",
+        "unaffected by",
+        "repellent of"
+      ]
+    },
+    {
+      "description": "Denoting starch that is not easily broken down by enzymes within the body and is therefore minimally absorbed during digestion.",
+      "examples": [
+        "cooked rice, like bread, contains a useful amount of resistant starch, which acts like fiber in the digestive system"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈzistənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resistant_us_1.mp3"
+}

@@ -1,0 +1,95 @@
+{
+  "adjective": [
+    {
+      "description": "Of a color at the end of the spectrum next to orange and opposite violet, as of blood, fire, or rubies.",
+      "examples": [
+        "her red lips",
+        "the sky was turning red outside"
+      ],
+      "synonyms": [
+        "scarlet",
+        "vermilion",
+        "ruby",
+        "ruby-red",
+        "ruby-coloured",
+        "cherry",
+        "cherry-red",
+        "cerise",
+        "cardinal",
+        "carmine",
+        "wine",
+        "wine-red",
+        "wine-coloured",
+        "claret",
+        "claret-red",
+        "claret-coloured",
+        "blood-red"
+      ]
+    },
+    {
+      "description": "Communist or socialist (used especially during the Cold War with reference to the Soviet Union)."
+    },
+    {
+      "description": "Stained with blood, or involving bloodshed or violence.",
+      "examples": [
+        "red battle stamps his foot and nations feel the shock"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Red color or pigment.",
+      "examples": [
+        "their work is marked in red by the teacher",
+        "colors range from yellow to deep red",
+        "the reds and browns of wood"
+      ]
+    },
+    {
+      "description": "A red thing.",
+      "examples": [
+        "which dress - the black or the red?"
+      ]
+    },
+    {
+      "description": "A communist or socialist.",
+      "synonyms": [
+        "communist",
+        "marxist",
+        "socialist",
+        "left-winger",
+        "leftist",
+        "bolshevik",
+        "revolutionary",
+        "anti-capitalist"
+      ]
+    },
+    {
+      "description": "The situation of owing money to a bank or making a loss in a business operation.",
+      "examples": [
+        "the company was $4 million in the red",
+        "small declines in revenue can soon send an airline plunging into the red",
+        "they would have been struggling to keep their businesses out of the red"
+      ],
+      "synonyms": [
+        "overdrawn",
+        "in debt",
+        "in debit",
+        "in deficit",
+        "owing money",
+        "in arrears",
+        "showing a loss"
+      ]
+    }
+  ],
+  "phrases": [
+    "Ever notice how that kind of rhymes with better dead than red?",
+    "This was particularly true during the McCarthy era of the 1950s when anti-Communist hysteria - better dead than red - reached great heights, especially in Catholic circles.",
+    "Having quite happily countenanced that MAD idea myself - better dead than red - I feel bound in conscience at least to give today's extremists the benefit of the doubt.",
+    "Tony suddenly grew angry and his face turned as red as a beetroot.",
+    "When I opened the door, his face was a red as a beetroot and I thought he was going to explode."
+  ],
+  "origin": "Old English rēad, of Germanic origin; related to Dutch rood and German rot, from an Indo-European root shared by Latin rufus, ruber, Greek eruthros, and Sanskrit rudhira red.",
+  "pronounciation": "/red/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/red_us_1.mp3"
+}

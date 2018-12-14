@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "Mounted guns; artillery.",
+      "examples": [
+        "the gun was a brand new piece of ordnance"
+      ],
+      "synonyms": [
+        "guns",
+        "cannon",
+        "artillery",
+        "weapons",
+        "arms",
+        "munitions",
+        "military supplies",
+        "materiel"
+      ]
+    },
+    {
+      "description": "A branch of the armed forces dealing with the supply and storage of weapons, ammunition, and related equipment.",
+      "examples": [
+        "the ordnance corps"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: variant of ordinance.",
+  "pronounciation": "/ˈɔrdnəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ordnance_us_1.mp3"
+}

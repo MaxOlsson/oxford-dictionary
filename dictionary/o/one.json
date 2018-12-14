@@ -1,0 +1,55 @@
+{
+  "cardinal number": [
+    {
+      "description": "The lowest cardinal number; half of two; 1.",
+      "examples": [
+        "there's only room for one person",
+        "two could live as cheaply as one",
+        "one hundred miles",
+        "World War One",
+        "a one-bedroom apartment"
+      ],
+      "synonyms": [
+        "a single",
+        "a solitary",
+        "a sole",
+        "a lone"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "Referring to a person or thing previously mentioned or easily identified.",
+      "examples": [
+        "her mood changed from one of moroseness to one of joy",
+        "her best apron, the white one",
+        "do you want one?"
+      ]
+    },
+    {
+      "description": "A person of a specified kind.",
+      "examples": [
+        "you're the one who ruined her life",
+        "my friends and loved ones",
+        "Eleanor was never one to be trifled with"
+      ]
+    },
+    {
+      "description": "Used to refer to the speaker, or any person, as representing people in general.",
+      "examples": [
+        "one must admire him for his willingness",
+        "one gets the impression that he is ahead"
+      ]
+    }
+  ],
+  "phrases": [
+    "they were completely at one with their environment",
+    "It was a jazz record both timeless and at one with the hippy spirit of the early 1970s.",
+    "What was less satisfactory was that the documentation and the underlying philosophy did not appear to be at one.",
+    "And if you feel at one with nature, you can hike on one of the challenging trails or experience mountain biking.",
+    "Both are at one with a certain instinct of frugality, by which I do not mean meanness."
+  ],
+  "origin": "Old English ān, of Germanic origin; related to Dutch een and German ein, from an Indo-European root shared by Latin unus. The initial w sound developed before the 15th century and was occasionally represented in the spelling; it was not accepted into standard English until the late 17th century.",
+  "pronounciation": "/wən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/one_us_1.mp3"
+}

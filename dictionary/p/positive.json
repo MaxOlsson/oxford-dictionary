@@ -1,0 +1,114 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting in or characterized by the presence or possession of features or qualities rather than their absence."
+    },
+    {
+      "description": "Constructive, optimistic, or confident.",
+      "examples": [
+        "there needs to be a positive approach to youthful offenders",
+        "adopt a positive outlook on life"
+      ],
+      "synonyms": [
+        "constructive",
+        "practical",
+        "useful",
+        "pragmatic",
+        "productive",
+        "helpful",
+        "worthwhile",
+        "beneficial",
+        "effective",
+        "efficacious"
+      ]
+    },
+    {
+      "description": "With no possibility of doubt; clear and definite.",
+      "examples": [
+        "he made a positive identification of a glossy ibis"
+      ],
+      "synonyms": [
+        "definite",
+        "conclusive",
+        "certain",
+        "categorical",
+        "unequivocal",
+        "incontrovertible",
+        "indisputable",
+        "undeniable",
+        "incontestable",
+        "unmistakable",
+        "unambiguous",
+        "indubitable",
+        "unquestionable",
+        "irrefutable",
+        "beyond question",
+        "beyond a doubt",
+        "absolute",
+        "reliable",
+        "persuasive",
+        "convincing",
+        "concrete",
+        "tangible",
+        "clear",
+        "clear-cut",
+        "precise",
+        "direct",
+        "explicit",
+        "express",
+        "firm",
+        "decisive",
+        "real",
+        "actual"
+      ]
+    },
+    {
+      "description": "(of a quantity) greater than zero."
+    },
+    {
+      "description": "Of, containing, producing, or denoting an electric charge opposite to that carried by electrons."
+    },
+    {
+      "description": "(of a photographic image) showing lights and shades or colors true to the original."
+    },
+    {
+      "description": "(of an adjective or adverb) expressing a quality in its basic, primary degree."
+    },
+    {
+      "description": "Dealing only with matters of fact and experience; not speculative or theoretical."
+    },
+    {
+      "description": "Relating to or denoting any of the air or fire signs, considered active in nature."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A good, affirmative, or constructive quality or attribute.",
+      "examples": [
+        "take your weaknesses and translate them into positives",
+        "to manage your way out of recession, accentuate the positive"
+      ]
+    },
+    {
+      "description": "A photographic image showing lights and shades or colors true to the original, especially one printed from a negative."
+    },
+    {
+      "description": "A result of a test or experiment indicating the presence of something.",
+      "examples": [
+        "let us look at the distribution of those positives"
+      ]
+    },
+    {
+      "description": "The part of an electric circuit that is at a higher electrical potential than another point designated as having zero electrical potential."
+    },
+    {
+      "description": "A number greater than zero."
+    },
+    {
+      "description": "An adjective or adverb in the positive degree."
+    }
+  ],
+  "origin": "Late Middle English: from Old French positif, -ive or Latin positivus, from posit- placed, from the verb ponere. The original sense referred to laws as being formally laid down, which gave rise to the sense explicitly laid down and admitting no question, hence certain.",
+  "pronounciation": "/ˈpäzədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/positive_us_2.mp3"
+}

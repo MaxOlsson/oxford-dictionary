@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Put forward (someone or something) with approval as being suitable for a particular purpose or role.",
+      "examples": [
+        "George had recommended some local architects",
+        "a book I recommended to a friend of mine"
+      ],
+      "synonyms": [
+        "advocate",
+        "endorse",
+        "commend",
+        "approve",
+        "suggest",
+        "put forward",
+        "propose",
+        "advance",
+        "nominate",
+        "put up",
+        "mention"
+      ]
+    },
+    {
+      "description": "Commend or entrust someone or something to (someone)",
+      "examples": [
+        "I devoutly recommended my spirit to its maker"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in recommend (sense 2)): from medieval Latin recommendare, from Latin re- (expressing intensive force) + commendare commit to the care of.",
+  "pronounciation": "/ˌrekəˈmend/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recommend_us_1.mp3"
+}

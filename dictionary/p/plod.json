@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Walk doggedly and slowly with heavy steps.",
+      "examples": [
+        "we plodded back up the hill",
+        "talks on a new constitution have plodded on"
+      ],
+      "synonyms": [
+        "trudge",
+        "walk heavily",
+        "clump",
+        "stomp",
+        "stump",
+        "tramp",
+        "drag oneself",
+        "lumber",
+        "slog"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slow, heavy walk.",
+      "examples": [
+        "he settled down to a steady plod"
+      ],
+      "synonyms": [
+        "walk",
+        "trek",
+        "tramp",
+        "trudge",
+        "traipse",
+        "slog",
+        "footslog",
+        "plod",
+        "march",
+        "journey on foot"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: probably symbolic of a heavy gait.",
+  "pronounciation": "/pläd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plod_us_1.mp3"
+}

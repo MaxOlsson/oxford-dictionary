@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Unmistakable; emphatic.",
+      "examples": [
+        "the evening was a resounding success"
+      ],
+      "synonyms": [
+        "enormous",
+        "huge",
+        "massive",
+        "very great",
+        "tremendous",
+        "terrific",
+        "colossal"
+      ]
+    },
+    {
+      "description": "(of a sound) loud enough to reverberate.",
+      "examples": [
+        "a resounding smack across the face"
+      ],
+      "synonyms": [
+        "reverberant",
+        "reverberating",
+        "resonant",
+        "resonating",
+        "echoing",
+        "vibrant",
+        "ringing",
+        "sonorous",
+        "deep",
+        "rich",
+        "clear"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈzoundiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resounding_us_1.mp3"
+}

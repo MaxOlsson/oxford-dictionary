@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A return to a former or less developed state.",
+      "synonyms": [
+        "decline",
+        "downturn",
+        "fall",
+        "falling",
+        "falling away",
+        "slipping",
+        "drop",
+        "deterioration",
+        "worsening",
+        "degeneration",
+        "dereliction",
+        "backsliding",
+        "retrogression",
+        "decay",
+        "descent",
+        "sinking",
+        "slide",
+        "ebb",
+        "waning",
+        "corruption",
+        "debasement",
+        "tainting",
+        "corrosion",
+        "impairment"
+      ]
+    },
+    {
+      "description": "A measure of the relation between the mean value of one variable (e.g. output) and corresponding values of other variables (e.g. time and cost)."
+    }
+  ],
+  "pronounciation": "/rəˈɡrɛʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regression_us_1.mp3"
+}

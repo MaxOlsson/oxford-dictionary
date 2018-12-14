@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a structure or piece of equipment) poorly made and likely to collapse.",
+      "examples": [
+        "we went carefully up the rickety stairs",
+        "a rickety banking system"
+      ],
+      "synonyms": [
+        "shaky",
+        "unsteady",
+        "unsound",
+        "unsafe",
+        "tottering",
+        "crumbling",
+        "decaying",
+        "disintegrating",
+        "tumbledown",
+        "broken-down",
+        "dilapidated",
+        "ramshackle",
+        "derelict",
+        "ruinous",
+        "falling to pieces",
+        "decrepit"
+      ]
+    },
+    {
+      "description": "(of a person) suffering from rickets."
+    }
+  ],
+  "origin": "Late 17th century: from rickets + -y.",
+  "pronounciation": "/ˈrɪkɪdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rickety_us_1.mp3"
+}

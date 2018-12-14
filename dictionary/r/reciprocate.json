@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Respond to (a gesture or action) by making a corresponding one.",
+      "examples": [
+        "the favor was reciprocated",
+        "perhaps I was expected to reciprocate with some remark of my own"
+      ],
+      "synonyms": [
+        "do the same",
+        "do the same in return",
+        "respond in kind",
+        "return the favour"
+      ]
+    },
+    {
+      "description": "(of a part of a machine) move backward and forward in a straight line.",
+      "examples": [
+        "a reciprocating blade"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin reciprocat- moved backwards and forwards, from the verb reciprocare, from reciprocus (see reciprocal).",
+  "pronounciation": "/rəˈsɪprəˌkeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reciprocate_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Assume as a fact; put forward as a basis of argument.",
+      "examples": [
+        "the Confucian view posits a perfectible human nature",
+        "he posited that the world economy is a system with its own particular equilibrium"
+      ],
+      "synonyms": [
+        "postulate",
+        "put forward",
+        "advance",
+        "propound",
+        "submit",
+        "predicate",
+        "hypothesize",
+        "take as a hypothesis",
+        "set forth",
+        "propose",
+        "pose",
+        "assert"
+      ]
+    },
+    {
+      "description": "Put in position; place.",
+      "examples": [
+        "the Professor posits Cohen in his second category of poets"
+      ],
+      "synonyms": [
+        "put",
+        "place",
+        "locate",
+        "situate",
+        "set",
+        "site",
+        "stand",
+        "station"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A statement which is made on the assumption that it will prove to be true."
+    }
+  ],
+  "origin": "Mid 17th century: from Latin posit- placed, from the verb ponere.",
+  "pronounciation": "/ˈpɑzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/posit_us_1.mp3"
+}

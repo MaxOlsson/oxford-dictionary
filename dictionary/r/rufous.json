@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Reddish brown in color.",
+      "examples": [
+        "handsome rufous plumage"
+      ],
+      "synonyms": [
+        "scarlet",
+        "vermilion",
+        "ruby",
+        "ruby-red",
+        "ruby-coloured",
+        "cherry",
+        "cherry-red",
+        "cerise",
+        "cardinal",
+        "carmine",
+        "wine",
+        "wine-red",
+        "wine-coloured",
+        "claret",
+        "claret-red",
+        "claret-coloured",
+        "blood-red"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reddish-brown color.",
+      "examples": [
+        "pale southern races of peregrine have some rufous on nape"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: from Latin rufus red, reddish + -ous.",
+  "pronounciation": "/ˈro͞ofəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rufous_us_1.mp3"
+}

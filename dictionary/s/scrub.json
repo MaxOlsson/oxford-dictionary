@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Rub (someone or something) hard so as to clean them, typically with a brush and water.",
+      "examples": [
+        "he had to scrub the floor",
+        "she was scrubbing herself down at the sink",
+        "she scrubbed furiously at the plates"
+      ],
+      "synonyms": [
+        "scour",
+        "rub",
+        "brush",
+        "sponge",
+        "swab",
+        "clean",
+        "cleanse",
+        "wash",
+        "wipe"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of scrubbing something or someone.",
+      "examples": [
+        "give the floor a good scrub"
+      ]
+    },
+    {
+      "description": "A semiabrasive cosmetic lotion applied to the face or body in order to cleanse the skin."
+    }
+  ],
+  "origin": "Late Middle English (in the sense stunted tree): variant of shrub.",
+  "pronounciation": "/skrəb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scrub_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Leave one's job and cease to work, typically upon reaching the normal age for leaving employment.",
+      "examples": [
+        "he retired from the navy in 1966"
+      ],
+      "synonyms": [
+        "give up work",
+        "stop working",
+        "stop work"
+      ]
+    },
+    {
+      "description": "Withdraw to or from a particular place.",
+      "examples": [
+        "she retired into the bathroom with her toothbrush"
+      ],
+      "synonyms": [
+        "go off",
+        "withdraw",
+        "go away",
+        "go out",
+        "exit",
+        "make an exit",
+        "take oneself off",
+        "depart",
+        "decamp",
+        "adjourn",
+        "leave for"
+      ]
+    },
+    {
+      "description": "Withdraw (a bill or note) from circulation or currency."
+    },
+    {
+      "description": "Pay off or cancel (a debt)",
+      "examples": [
+        "the debt is to be retired from state gaming-tax receipts"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A movement in which one leg is bent and raised at right angles to the body until the toe is in line with the knee of the supporting leg."
+    }
+  ],
+  "origin": "French, literally drawn back.",
+  "pronounciation": "/rəˌtēˈrā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retire_1_us_1.mp3"
+}

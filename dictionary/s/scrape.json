@@ -1,0 +1,114 @@
+{
+  "verb": [
+    {
+      "description": "Push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter.",
+      "examples": [
+        "we scraped the dishes clean",
+        "rinse off the carrots and scrape them"
+      ],
+      "synonyms": [
+        "rake",
+        "drag",
+        "push",
+        "brush",
+        "sweep"
+      ]
+    },
+    {
+      "description": "Rub or cause to rub by accident against a rough or hard surface, causing damage or injury.",
+      "examples": [
+        "he smashed into the wall and felt his knee scrape against the plaster",
+        "she reversed in a reckless sweep, scraping the left front fender"
+      ],
+      "synonyms": [
+        "graze",
+        "scratch",
+        "abrade",
+        "scuff",
+        "rasp",
+        "skin",
+        "rub raw",
+        "cut",
+        "lacerate",
+        "bark",
+        "chafe",
+        "strip",
+        "flay",
+        "wound"
+      ]
+    },
+    {
+      "description": "Narrowly pass by or through something.",
+      "examples": [
+        "there was only just room to scrape through between the tree and the edge of the stream"
+      ]
+    },
+    {
+      "description": "Copy (data) from a website using a computer program.",
+      "examples": [
+        "all search engines scrape content from sites without permission and display it on their own sites"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of scraping.",
+      "examples": [
+        "he heard the scrape of his mother's key in the lock"
+      ],
+      "synonyms": [
+        "grate",
+        "grating",
+        "creak",
+        "creaking",
+        "grind",
+        "grinding",
+        "jar",
+        "jarring",
+        "rasp",
+        "rasping",
+        "scratch",
+        "scratching",
+        "rub",
+        "rubbing",
+        "squeak",
+        "squeaking",
+        "screech",
+        "screeching"
+      ]
+    },
+    {
+      "description": "A procedure of dilatation of the cervix and curettage of the uterus."
+    },
+    {
+      "description": "An embarrassing or difficult predicament caused by one's own unwise behavior.",
+      "examples": [
+        "he'd been in worse scrapes than this before now"
+      ],
+      "synonyms": [
+        "predicament",
+        "plight",
+        "tight corner",
+        "tight spot",
+        "ticklish situation",
+        "tricky situation",
+        "problem",
+        "quandary",
+        "dilemma",
+        "crisis",
+        "mess",
+        "muddle"
+      ]
+    }
+  ],
+  "phrases": [
+    "aboard the ship, a nice girl scraped acquaintance with me",
+    "And then they pretend to scrape acquaintance with us again, said the lady.",
+    "People have to be scraping the barrel when they have to break into a charity shop and its very sad.",
+    "They are scraping the barrel when they resort to the mindless attack made in the newspapers.",
+    "The senseless killing of several citizens in a cruel heartless manner is indicative of our little country scraping the bottom of the barrel of human kindness."
+  ],
+  "origin": "Old English scrapian scratch with the fingernails, of Germanic origin, reinforced in Middle English by Old Norse skrapa or Middle Dutch schrapen to scratch.",
+  "pronounciation": "/skrāp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scrape_us_1.mp3"
+}

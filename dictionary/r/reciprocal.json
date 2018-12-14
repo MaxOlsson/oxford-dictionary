@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Given, felt, or done in return.",
+      "examples": [
+        "she was hoping for some reciprocal comment or gesture"
+      ],
+      "synonyms": [
+        "felt in return",
+        "given in return",
+        "corresponding"
+      ]
+    },
+    {
+      "description": "(of an agreement or obligation) bearing on or binding each of two parties equally.",
+      "examples": [
+        "the treaty is a bilateral commitment with reciprocal rights and duties"
+      ],
+      "synonyms": [
+        "mutual",
+        "common",
+        "shared",
+        "joint",
+        "corresponding",
+        "correlative",
+        "give-and-take",
+        "exchanged",
+        "complementary"
+      ]
+    },
+    {
+      "description": "(of a course or bearing) differing from a given course or bearing by 180 degrees."
+    },
+    {
+      "description": "(of a quantity or function) related to another so that their product is one."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mathematical expression or function so related to another that their product is one; the quantity obtained by dividing the number one by a given quantity."
+    },
+    {
+      "description": "A pronoun or verb expressing mutual action or relationship, e.g. each other, fight."
+    }
+  ],
+  "origin": "Late 16th century: from Latin reciprocus (based on re- back + pro- forward) + -al.",
+  "pronounciation": "/rəˈsiprək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reciprocal_us_1.mp3"
+}

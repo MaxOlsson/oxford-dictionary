@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be received.",
+      "synonyms": [
+        "unsettled",
+        "outstanding",
+        "unresolved",
+        "unattended to",
+        "due",
+        "overdue",
+        "owing",
+        "owed",
+        "to be paid",
+        "payable",
+        "undischarged",
+        "in arrears",
+        "in the red"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Amounts owed to a business, regarded as assets."
+    }
+  ],
+  "pronounciation": "/rəˈsēvəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/receivable_us_1.mp3"
+}

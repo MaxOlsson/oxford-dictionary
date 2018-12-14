@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Provide with a fresh supply.",
+      "examples": [
+        "ships can be resupplied at a number of deepwater ports worldwide"
+      ],
+      "synonyms": [
+        "fill",
+        "refill",
+        "refresh",
+        "freshen",
+        "replenish",
+        "recharge",
+        "resupply"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of resupplying something or being resupplied."
+    }
+  ],
+  "pronounciation": "/risəˈplaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resupply_us_3.mp3"
+}

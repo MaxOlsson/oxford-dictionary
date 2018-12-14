@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Move about or travel aimlessly or unsystematically, especially over a wide area.",
+      "examples": [
+        "tigers once roamed over most of Asia"
+      ],
+      "synonyms": [
+        "stroll",
+        "saunter",
+        "amble",
+        "wend one's way",
+        "trudge",
+        "plod",
+        "hike",
+        "tramp",
+        "trek",
+        "march",
+        "stride",
+        "troop",
+        "patrol",
+        "step out",
+        "wander",
+        "ramble",
+        "tread",
+        "prowl",
+        "footslog",
+        "promenade",
+        "traipse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An aimless walk.",
+      "examples": [
+        "did you get to explore the city or have a roam around Bath?"
+      ]
+    }
+  ],
+  "origin": "Middle English: of unknown origin.",
+  "pronounciation": "/roʊm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roam_us_1.mp3"
+}

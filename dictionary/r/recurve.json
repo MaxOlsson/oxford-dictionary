@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Bend backward.",
+      "examples": [
+        "the petals recurve, elevating the flower"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A bow that curves forward at the ends, which straighten out under tension when the bow is drawn.",
+      "synonyms": [
+        "longbow",
+        "crossbow"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin recurvare bend something back, from re- back + curvare to bend.",
+  "pronounciation": "/rəˈkərv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recurve_us_1.mp3"
+}

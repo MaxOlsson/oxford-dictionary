@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting research undertaken after the completion of doctoral research.",
+      "examples": [
+        "he is currently seeking a postdoctorate position"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A period of research undertaken after the completion of doctoral research.",
+      "examples": [
+        "a two-year postdoctorate on sensory biology"
+      ]
+    },
+    {
+      "description": "A person engaged in postdoctorate research.",
+      "examples": [
+        "the team will be composed of two scientists and two postdoctorates"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpōs(t)ˈdäkt(ə)rət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/postdoctorate_us_1.mp3"
+}

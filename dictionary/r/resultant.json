@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Occurring or produced as a result or consequence of something.",
+      "examples": [
+        "restructuring and the resultant cost savings"
+      ],
+      "synonyms": [
+        "resulting",
+        "ensuing",
+        "consequent"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A force, velocity, or other vector quantity which is equivalent to the combined effect of two or more component vectors acting at the same point."
+    }
+  ],
+  "origin": "Mid 17th century (in the adjectival sense): from Latin resultant- springing back, from the verb resultare (see result). The noun sense dates from the early 19th century.",
+  "pronounciation": "/rəˈzəltnt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resultant_us_1.mp3"
+}

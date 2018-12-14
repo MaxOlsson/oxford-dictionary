@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "The restoration of something lost or stolen to its proper owner.",
+      "examples": [
+        "seeking the restitution of land taken from blacks under apartheid"
+      ],
+      "synonyms": [
+        "return",
+        "restoration",
+        "handing back",
+        "replacement",
+        "surrender",
+        "yielding",
+        "recovery"
+      ]
+    },
+    {
+      "description": "Recompense for injury or loss.",
+      "examples": [
+        "he was ordered to pay $6,000 in restitution"
+      ],
+      "synonyms": [
+        "compensation",
+        "recompense",
+        "reparation",
+        "damages",
+        "indemnification",
+        "indemnity",
+        "reimbursement",
+        "repayment",
+        "remuneration",
+        "reward",
+        "redress",
+        "satisfaction"
+      ]
+    },
+    {
+      "description": "The restoration of something to its original state.",
+      "examples": [
+        "restitution of the damaged mucosa"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, or from Latin restitutio(n-), from restituere restore, from re- again + statuere establish.",
+  "pronounciation": "/ˌrɛstəˈt(j)uʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/restitution_us_1.mp3"
+}

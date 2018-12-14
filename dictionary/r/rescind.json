@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Revoke, cancel, or repeal (a law, order, or agreement)",
+      "examples": [
+        "the government eventually rescinded the directive"
+      ],
+      "synonyms": [
+        "revoke",
+        "repeal",
+        "cancel",
+        "reverse",
+        "abrogate",
+        "overturn",
+        "overrule",
+        "override",
+        "annul",
+        "nullify",
+        "declare null and void",
+        "make void",
+        "void",
+        "invalidate",
+        "render invalid",
+        "quash",
+        "abolish",
+        "set aside",
+        "countermand",
+        "retract",
+        "withdraw"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin rescindere, from re- (expressing intensive force) + scindere to divide, split.",
+  "pronounciation": "/rəˈsɪnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rescind_us_1.mp3"
+}

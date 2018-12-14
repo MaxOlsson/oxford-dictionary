@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A pitched ball that moves in a direction opposite to that of a curveball."
+    },
+    {
+      "description": "A crazy or eccentric person.",
+      "examples": [
+        "she was dating a real screwball"
+      ],
+      "synonyms": [
+        "madman",
+        "madwoman",
+        "maniac",
+        "lunatic"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Crazy; absurd.",
+      "examples": [
+        "what possessed you to ask a screwball question like that?"
+      ],
+      "synonyms": [
+        "zany",
+        "madcap",
+        "offbeat",
+        "quirky",
+        "outlandish",
+        "eccentric",
+        "idiosyncratic",
+        "surreal",
+        "ridiculous",
+        "nonsensical",
+        "crazy",
+        "absurd",
+        "insane",
+        "far out",
+        "fantastic",
+        "bizarre",
+        "peculiar",
+        "weird",
+        "odd",
+        "strange",
+        "cranky",
+        "freakish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskruˌbɔl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/screwball_us_1.mp3"
+}

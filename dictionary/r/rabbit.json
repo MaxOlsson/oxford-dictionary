@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+      "synonyms": [
+        "coney"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hunt rabbits.",
+      "examples": [
+        "locate the area where you can go rabbiting"
+      ]
+    },
+    {
+      "description": "Talk at length, especially about trivial matters.",
+      "examples": [
+        "stop rabbiting on, will you, and go to bed!"
+      ],
+      "synonyms": [
+        "talk",
+        "gossip",
+        "chatter",
+        "chitter-chatter",
+        "speak",
+        "converse",
+        "have a conversation",
+        "engage in conversation",
+        "tittle-tattle",
+        "prattle",
+        "jabber",
+        "jibber-jabber",
+        "babble",
+        "prate",
+        "go on",
+        "run on"
+      ]
+    },
+    {
+      "description": "Move quickly; run away.",
+      "examples": [
+        "he rabbited as soon as he saw us coming"
+      ]
+    }
+  ],
+  "phrases": [
+    "Yes, you would get the impression that conditions in the United States would lead to people breeding like rabbits.",
+    "Indeed, the main reason for the continued increase in world population is, in the words of a UN consultant, not that people suddenly started breeding like rabbits; it's just that they stopped dying like flies .",
+    "The only thing that keeps the system going is the ability of the prey to - for lack of a better analogy - breed like rabbits.",
+    "The problem is, the things breed like rabbits, if we can mix our mammalian metaphors.",
+    "He is trying to prevent bunnies breeding like rabbits."
+  ],
+  "origin": "Late Middle English: apparently from Old French (compare with French dialect rabotte young rabbit), perhaps of Dutch origin (compare with Flemish robbe).",
+  "pronounciation": "/ˈræbət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rabbit_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Cause severe and extensive damage to.",
+      "examples": [
+        "fears that a war could ravage their country"
+      ],
+      "synonyms": [
+        "lay waste",
+        "devastate",
+        "ruin",
+        "leave in ruins",
+        "destroy",
+        "wreak havoc on",
+        "leave desolate",
+        "level",
+        "raze",
+        "demolish",
+        "wipe out",
+        "wreck",
+        "damage"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The severely damaging or destructive effects of something.",
+      "examples": [
+        "his face had withstood the ravages of time"
+      ],
+      "synonyms": [
+        "damaging effects",
+        "ill effects",
+        "scars"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French ravager, from earlier ravage, alteration of ravine rush of water.",
+  "pronounciation": "/ˈrævɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ravage_us_1.mp3"
+}

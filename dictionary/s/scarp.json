@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A very steep bank or slope; an escarpment.",
+      "examples": [
+        "the north face is a very steep scarp"
+      ],
+      "synonyms": [
+        "hill",
+        "hillside",
+        "hillock",
+        "bank",
+        "rise",
+        "escarpment"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut or erode (a slope or hillside) so that it becomes steep, perpendicular, or precipitous.",
+      "examples": [
+        "the scarped edge of the central plateau"
+      ],
+      "synonyms": [
+        "precipitous",
+        "sheer",
+        "abrupt",
+        "sharp",
+        "perpendicular",
+        "vertical",
+        "bluff",
+        "vertiginous",
+        "dizzy"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (with reference to fortification): from Italian scarpa.",
+  "pronounciation": "/skärp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scarp_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A witty remark.",
+      "synonyms": [
+        "joke",
+        "witty remark",
+        "witticism",
+        "jest",
+        "pun",
+        "sally",
+        "pleasantry",
+        "epigram",
+        "aphorism"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a witty remark.",
+      "examples": [
+        "“Flattery will get you nowhere,” she quipped"
+      ],
+      "synonyms": [
+        "joke",
+        "jest",
+        "pun",
+        "sally",
+        "banter"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: perhaps from Latin quippe indeed, forsooth.",
+  "pronounciation": "/kwɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quip_us_1.mp3"
+}

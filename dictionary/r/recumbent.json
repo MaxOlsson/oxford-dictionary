@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a person or human figure) lying down.",
+      "examples": [
+        "recumbent statues"
+      ],
+      "synonyms": [
+        "lying",
+        "flat",
+        "horizontal",
+        "stretched out",
+        "sprawled",
+        "spreadeagled",
+        "reclining",
+        "resting",
+        "lounging",
+        "prone",
+        "prostrate",
+        "supine"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A recumbent bicycle."
+    }
+  ],
+  "origin": "Mid 17th century: from Latin recumbent- reclining, from the verb recumbere, from re- back + a verb related to cubare to lie.",
+  "pronounciation": "/rəˈkəmbənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recumbent_us_1.mp3"
+}

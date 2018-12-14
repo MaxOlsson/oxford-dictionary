@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Learn (something) again.",
+      "examples": [
+        "I've been relearning my Latin and Greek"
+      ],
+      "synonyms": [
+        "revise",
+        "read up",
+        "go over",
+        "refresh one's memory of",
+        "relearn",
+        "cram",
+        "study",
+        "learn"
+      ]
+    }
+  ],
+  "pronounciation": "/rēˈlərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/relearn_us_1.mp3"
+}

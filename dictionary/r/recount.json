@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Tell someone about something; give an account of an event or experience.",
+      "examples": [
+        "I recounted the tale to Steve",
+        "he recounts how they often talked of politics"
+      ],
+      "synonyms": [
+        "tell",
+        "relate",
+        "narrate",
+        "give an account of",
+        "describe",
+        "portray",
+        "depict",
+        "paint",
+        "unfold",
+        "set forth",
+        "present",
+        "report",
+        "outline",
+        "delineate",
+        "retail",
+        "recite",
+        "repeat",
+        "rehearse",
+        "relay",
+        "convey",
+        "communicate",
+        "impart"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of giving an account of an event or experience.",
+      "examples": [
+        "one woman's recount of a prolonged battle with “huge centipedes.”"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old Northern French reconter tell again, based on Old French counter (see count).",
+  "pronounciation": "/rēˈkount/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recount_us_1.mp3"
+}

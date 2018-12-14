@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A full, deep, prolonged cry uttered by a lion or other large wild animal."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a lion or other large wild animal) utter a full, deep, prolonged cry."
+    },
+    {
+      "description": "(especially of a vehicle) move at high speed making a loud prolonged sound.",
+      "examples": [
+        "a car roared past"
+      ],
+      "synonyms": [
+        "speed",
+        "zoom",
+        "whizz",
+        "flash"
+      ]
+    }
+  ],
+  "origin": "Old English rārian (verb), imitative of a deep prolonged cry, of West Germanic origin; related to German röhren. The noun dates from late Middle English.",
+  "pronounciation": "/rɔr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roar_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Typical of a class, group, or body of opinion.",
+      "examples": [
+        "these courses are representative of those taken by most Harvard undergraduates"
+      ],
+      "synonyms": [
+        "typical",
+        "prototypical",
+        "characteristic",
+        "illustrative",
+        "indicative"
+      ]
+    },
+    {
+      "description": "(of a legislative or deliberative assembly) consisting of people chosen to act and speak on behalf of a wider group."
+    },
+    {
+      "description": "Serving as a portrayal or symbol of something.",
+      "examples": [
+        "the show should be more representative of how women really are"
+      ],
+      "synonyms": [
+        "symbolic",
+        "emblematic",
+        "evocative"
+      ]
+    },
+    {
+      "description": "Relating to mental representation."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person chosen or appointed to act or speak for another or others.",
+      "examples": [
+        "the Duke of Gloucester would attend the coronation as the representative of his father, King George V"
+      ],
+      "synonyms": [
+        "spokesperson",
+        "spokesman",
+        "spokeswoman",
+        "agent"
+      ]
+    },
+    {
+      "description": "An example of a class or group.",
+      "examples": [
+        "fossil representatives of lampreys and hagfishes"
+      ],
+      "synonyms": [
+        "example",
+        "specimen"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌreprəˈzen(t)ədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/representative_us_1.mp3"
+}

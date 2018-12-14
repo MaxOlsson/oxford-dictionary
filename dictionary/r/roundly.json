@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "In a vehement or emphatic manner.",
+      "examples": [
+        "the latest attacks have been roundly condemned by campaigners for peace"
+      ],
+      "synonyms": [
+        "sharply",
+        "soundly",
+        "fiercely",
+        "scathingly",
+        "savagely"
+      ]
+    },
+    {
+      "description": "So as to form a circular or roughly circular shape.",
+      "examples": [
+        "he was a middle-aged, roundly built man"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈroun(d)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roundly_us_1.mp3"
+}

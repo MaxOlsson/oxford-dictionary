@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "Each of a series of slender curved bones articulated in pairs to the spine (twelve pairs in humans), protecting the thoracic cavity and its organs."
+    },
+    {
+      "description": "A long raised piece of stronger or thicker material across a surface or through a structure, and typically serving to support or strengthen it."
+    },
+    {
+      "description": "A vein of a leaf (especially the midrib) or an insect's wing."
+    },
+    {
+      "description": "A combination of alternate knit (plain) and purl stitches producing a ridged, slightly elastic fabric, used especially for the cuffs and bottom edges of sweaters."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Mark with or form into raised bands or ridges.",
+      "examples": [
+        "the road ahead was ribbed with furrows of slush"
+      ],
+      "synonyms": [
+        "grooved",
+        "channelled",
+        "furrowed",
+        "ribbed",
+        "corrugated",
+        "ridged"
+      ]
+    },
+    {
+      "description": "Tease good-naturedly.",
+      "examples": [
+        "the first time I appeared in the outfit I was ribbed mercilessly"
+      ],
+      "synonyms": [
+        "make fun of",
+        "poke fun at",
+        "chaff",
+        "make jokes about",
+        "rag",
+        "mock",
+        "laugh at",
+        "guy",
+        "satirize",
+        "be sarcastic about"
+      ]
+    }
+  ],
+  "origin": "Acronym from rigid inflatable boat.",
+  "pronounciation": "/rib/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rib_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Run away.",
+      "examples": [
+        "they left the stuff where it was and scarpered"
+      ],
+      "synonyms": [
+        "run away",
+        "flee",
+        "run off",
+        "make a run for it",
+        "run for it",
+        "take flight",
+        "make off",
+        "take off",
+        "take to one's heels",
+        "make a break for it",
+        "bolt",
+        "beat a retreat",
+        "beat a hasty retreat",
+        "make a quick exit",
+        "make one's getaway",
+        "escape",
+        "head for the hills"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: probably from Italian scappare to escape, influenced by rhyming slang Scapa Flow go.",
+  "pronounciation": "/ˈskärpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scarper_us_1.mp3"
+}

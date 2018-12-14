@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A gentle slope leading from the base of mountains to a region of flat land.",
+      "synonyms": [
+        "hill",
+        "hillside",
+        "hillock",
+        "bank",
+        "rise",
+        "escarpment",
+        "scarp"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A region of northwestern Italy, in the foothills of the Alps; capital, Turin. Dominated by Savoy from 1400, it became a part of the kingdom of Sardinia in 1720. It was the center of the movement for a united Italy in the 19th century."
+    },
+    {
+      "description": "In the US, a hilly highland region between the Appalachian Mountains and the Atlantic coast. The Piedmont ends at the Fall Line, where rivers drop to the coastal plain."
+    }
+  ],
+  "origin": "From Italian piemonte mountain foot.",
+  "pronounciation": "/ˈpēdmänt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/piedmont_us_1.mp3"
+}

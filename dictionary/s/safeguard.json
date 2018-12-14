@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A measure taken to protect someone or something or to prevent something undesirable.",
+      "examples": [
+        "there were multiple safeguards to prevent the accidental release of a virus"
+      ],
+      "synonyms": [
+        "protection",
+        "defence",
+        "guard",
+        "shelter",
+        "screen",
+        "buffer",
+        "preventive",
+        "precaution",
+        "prophylactic",
+        "provision",
+        "security",
+        "safety measure",
+        "surety",
+        "cover",
+        "insurance",
+        "indemnity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Protect from harm or damage with an appropriate measure.",
+      "examples": [
+        "low interest rates are offering the opportunity to safeguard their financial futures"
+      ],
+      "synonyms": [
+        "protect",
+        "afford protection to",
+        "shield",
+        "screen",
+        "defend",
+        "guard",
+        "keep safe",
+        "shelter"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting protection or safe conduct): from Old French sauve garde, from sauve safe + garde guard. Compare with sagger.",
+  "pronounciation": "/ˈsāfˌɡärd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/safeguard_us_1.mp3"
+}

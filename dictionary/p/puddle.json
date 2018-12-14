@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A small pool of liquid, especially of rainwater on the ground.",
+      "examples": [
+        "splashing through deep puddles",
+        "a little puddle of light"
+      ],
+      "synonyms": [
+        "pool",
+        "spill",
+        "splash"
+      ]
+    },
+    {
+      "description": "Clay and sand mixed with water and used as a watertight covering for embankments."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wet or cover (a surface) with water, especially rainwater.",
+      "examples": [
+        "the cobbles under our feet were wet and puddled"
+      ]
+    },
+    {
+      "description": "Line (a hole) with puddle."
+    }
+  ],
+  "origin": "Middle English: diminutive of Old English pudd ditch, furrow; compare with German dialect Pfudel pool.",
+  "pronounciation": "/ˈpədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/puddle_us_1.mp3"
+}

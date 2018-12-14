@@ -1,0 +1,51 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or favoring schism.",
+      "examples": [
+        "schismatic religious movements were gaining currency"
+      ],
+      "synonyms": [
+        "separatist",
+        "heterodox",
+        "dissident",
+        "dissentient",
+        "dissenting",
+        "heretical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(especially in the Christian Church) a person who promotes schism; an adherent of a schismatic group.",
+      "synonyms": [
+        "dissenter",
+        "dissentient",
+        "protester",
+        "rebel",
+        "renegade",
+        "freethinker",
+        "apostate",
+        "heretic",
+        "schismatic",
+        "recusant",
+        "seceder",
+        "individualist",
+        "free spirit",
+        "maverick",
+        "unorthodox person",
+        "eccentric",
+        "original",
+        "deviant",
+        "misfit",
+        "hippy",
+        "dropout",
+        "fish out of water",
+        "outsider"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French scismatique, via ecclesiastical Latin from ecclesiastical Greek skhismatikos, from skhisma (see schism).",
+  "pronounciation": "/s(k)izˈmadik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/schismatic_us_1.mp3"
+}

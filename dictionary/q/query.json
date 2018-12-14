@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A question, especially one addressed to an official or organization.",
+      "examples": [
+        "a spokeswoman said queries could not be answered until Monday"
+      ],
+      "synonyms": [
+        "question",
+        "enquiry"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Ask a question about something, especially in order to express one's doubts about it or to check its validity or accuracy.",
+      "examples": [
+        "many people queried whether any harm had been done",
+        "“Why not?” he queried",
+        "he queried the medical database"
+      ],
+      "synonyms": [
+        "ask",
+        "enquire",
+        "question"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: anglicized form of the Latin imperative quaere!, used in the 16th century in English as a verb in the sense inquire and as a noun meaning query, from Latin quaerere ask, seek.",
+  "pronounciation": "/ˈkwirē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/query_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Supporting or advancing gradual reform rather than abolition or revolution.",
+      "examples": [
+        "the reformist policies of the government"
+      ],
+      "synonyms": [
+        "modern",
+        "liberal",
+        "advanced",
+        "forward-looking",
+        "forward-thinking",
+        "go-ahead",
+        "enlightened",
+        "enterprising",
+        "innovative",
+        "up-and-coming",
+        "new",
+        "dynamic",
+        "avant-garde",
+        "modernistic",
+        "disruptive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who advocates gradual reform rather than abolition or revolution.",
+      "synonyms": [
+        "pioneer",
+        "developer",
+        "groundbreaker",
+        "trailblazer",
+        "pathfinder",
+        "front runner",
+        "spearhead",
+        "prime mover"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈfôrməst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reformist_us_1.mp3"
+}

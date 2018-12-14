@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "The action or fact of making a specified thing smaller or less in amount, degree, or size.",
+      "examples": [
+        "talks on arms reduction",
+        "there had been a reduction in the number of casualties"
+      ],
+      "synonyms": [
+        "depletion",
+        "cut",
+        "cutting",
+        "cutback",
+        "scaling down",
+        "trimming",
+        "slimming",
+        "slimming down",
+        "pruning",
+        "axing",
+        "chopping",
+        "curtailment",
+        "limiting"
+      ]
+    },
+    {
+      "description": "A thing that is made smaller or less in size or amount."
+    },
+    {
+      "description": "The action of remedying a dislocation or fracture by returning the affected part of the body to its normal position."
+    },
+    {
+      "description": "The process or result of reducing or being reduced."
+    },
+    {
+      "description": "Substitution of a sound which requires less muscular effort to articulate.",
+      "examples": [
+        "the process of vowel reduction"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the action of bringing back): from Old French, or from Latin reductio(n-), from reducere bring back, restore (see reduce). The sense development was broadly similar to that of reduce; sense 1 dates from the late 17th century.",
+  "pronounciation": "/rəˈdəkSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reduction_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "Plaster of lime, cement, and gravel, used on outside walls."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a building or part of a building) coated with roughcast.",
+      "examples": [
+        "a plain stone building, roughcast and whitewashed"
+      ]
+    },
+    {
+      "description": "(of a person) lacking refinement.",
+      "examples": [
+        "she thought of the roughcast yeomen she would meet"
+      ],
+      "synonyms": [
+        "boorish",
+        "loutish",
+        "oafish",
+        "brutish",
+        "coarse",
+        "crude",
+        "uncouth",
+        "rough-hewn",
+        "vulgar",
+        "unrefined",
+        "unladylike",
+        "ungentlemanly",
+        "uncultured",
+        "ill-bred",
+        "ill-mannered",
+        "unmannerly",
+        "impolite",
+        "churlish",
+        "discourteous",
+        "uncivil",
+        "ungracious",
+        "rude",
+        "brusque",
+        "blunt",
+        "curt"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Coat (a wall) with roughcast.",
+      "examples": [
+        "the walls were to have been roughcast at the entrance bay"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrəfˌkæst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roughcast_us_1.mp3"
+}

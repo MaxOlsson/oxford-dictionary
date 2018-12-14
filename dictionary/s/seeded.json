@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "(of a plant or fruit) having a seed or seeds of a specified kind or number.",
+      "examples": [
+        "a single-seeded fruit"
+      ]
+    },
+    {
+      "description": "(of a fruit or vegetable) having had the seeds removed.",
+      "examples": [
+        "seeded, chopped tomatoes"
+      ]
+    },
+    {
+      "description": "Given the status of seed in a sports tournament.",
+      "examples": [
+        "Italy is one of the eight seeded teams"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsēdəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seeded_us_1.mp3"
+}

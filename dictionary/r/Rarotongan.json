@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or characteristic of the island of Rarotonga in the South Pacific, the chief island of the Cook Islands, or its people or language.",
+      "examples": [
+        "the website was designed by a Rarotongan company"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of the island of Rarotonga in the South Pacific, the chief island of the Cook Islands.",
+      "examples": [
+        "they took in the Rarotongan as a foster child"
+      ]
+    },
+    {
+      "description": "The language of the island of Rarotonga in the South Pacific, the chief island of the Cook Islands.",
+      "examples": [
+        "students fluent in Rarotongan"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrɛrəˈtɑŋɡ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rarotongan_1_us_1.mp3"
+}

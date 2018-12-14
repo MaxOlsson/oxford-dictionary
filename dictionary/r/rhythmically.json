@@ -1,0 +1,20 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that relates to rhythm.",
+      "examples": [
+        "rhythmically complex music",
+        "rhythmically precise passages of dialogue"
+      ]
+    },
+    {
+      "description": "In a rhythmic manner.",
+      "examples": [
+        "the verses are rhythmically chanted",
+        "they all moved rhythmically to the music"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈriT͟Hmik(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rhythmically_us_2.mp3"
+}

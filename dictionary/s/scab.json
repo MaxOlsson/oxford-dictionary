@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A dry, rough protective crust that forms over a cut or wound during healing.",
+      "synonyms": [
+        "covering",
+        "layer",
+        "coating",
+        "cover",
+        "coat",
+        "sheet",
+        "thickness",
+        "film",
+        "skin"
+      ]
+    },
+    {
+      "description": "Mange or a similar skin disease in animals."
+    },
+    {
+      "description": "A person or thing regarded with dislike and disgust."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become encrusted or covered with a scab or scabs.",
+      "examples": [
+        "she rested her scabbed fingers on his arm"
+      ]
+    },
+    {
+      "description": "Act or work as a scab."
+    }
+  ],
+  "origin": "Middle English (as a noun): from Old Norse skabb; related to dialect shab (compare with shabby). The sense contemptible person (dating from the late 16th century) was probably influenced by Middle Dutch schabbe slut.",
+  "pronounciation": "/skæb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scab_us_1.mp3"
+}

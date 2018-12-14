@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A medicine or treatment for a disease or injury.",
+      "examples": [
+        "herbal remedies for aches and pains"
+      ],
+      "synonyms": [
+        "treatment",
+        "cure",
+        "medicine",
+        "medication",
+        "medicament",
+        "drug",
+        "restorative"
+      ]
+    },
+    {
+      "description": "The margin within which coins as minted may differ from the standard fineness and weight."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Set right (an undesirable situation)",
+      "examples": [
+        "by the time a problem becomes patently obvious, it may be almost too late to remedy it"
+      ],
+      "synonyms": [
+        "put right",
+        "set right",
+        "set to rights",
+        "put to rights",
+        "right",
+        "rectify",
+        "retrieve",
+        "solve",
+        "fix",
+        "sort out",
+        "put in order",
+        "straighten out",
+        "resolve",
+        "deal with",
+        "correct",
+        "repair",
+        "mend",
+        "redress",
+        "make good"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French remedie, from Latin remedium, from re- back (also expressing intensive force) + mederi heal.",
+  "pronounciation": "/ˈremədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/remedy_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or represent (a form) by carving, casting, or other shaping techniques.",
+      "examples": [
+        "the choir stalls were each carefully sculptured"
+      ],
+      "synonyms": [
+        "sculpt",
+        "carve",
+        "chisel",
+        "model",
+        "fashion",
+        "form",
+        "shape",
+        "cast",
+        "cut",
+        "hew"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin sculptura, from sculpere carve.",
+  "pronounciation": "/ˈskəlpCHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sculpture_us_1.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "verb": [
+    {
+      "description": "Try to find something by looking or otherwise seeking carefully and thoroughly.",
+      "examples": [
+        "I searched among the rocks, but there was nothing",
+        "Daniel is then able to search out the most advantageous mortgage",
+        "Hugh will be searching for the truth"
+      ],
+      "synonyms": [
+        "hunt",
+        "look",
+        "explore",
+        "forage",
+        "fish about",
+        "fish around",
+        "look high and low",
+        "cast about",
+        "cast around",
+        "cast round",
+        "ferret",
+        "ferret about",
+        "ferret around",
+        "root about",
+        "root around",
+        "rummage about",
+        "rummage around"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of searching for someone or something.",
+      "examples": [
+        "the police carried out a thorough search of the premises",
+        "he plans to go to the Himalayas in search of a yeti"
+      ],
+      "synonyms": [
+        "hunt",
+        "look",
+        "exploration",
+        "scout",
+        "probe",
+        "dig",
+        "digging",
+        "forage",
+        "foraging",
+        "scavenge",
+        "scavenging",
+        "ferreting",
+        "ferreting about",
+        "ferreting around",
+        "rummage",
+        "rummaging about",
+        "rummaging around",
+        "rooting about",
+        "rooting around",
+        "rifling",
+        "scouring",
+        "quest",
+        "pursuit of",
+        "seeking after"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French cerchier (verb), from late Latin circare go round, from Latin circus circle.",
+  "pronounciation": "/sərtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/search_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A state of rest, sleep, or tranquility.",
+      "examples": [
+        "in repose her face looked relaxed"
+      ],
+      "synonyms": [
+        "rest",
+        "relaxation",
+        "inactivity",
+        "restfulness",
+        "stillness",
+        "idleness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be lying, situated, or kept in a particular place.",
+      "examples": [
+        "the diamond now reposes in the Louvre"
+      ],
+      "synonyms": [
+        "lie",
+        "be placed",
+        "be set",
+        "be situated",
+        "be positioned",
+        "be supported",
+        "rest"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense put back in the same position): from re- again + the verb pose, suggested by Latin reponere replace, from re- (expressing intensive force) + ponere to place.",
+  "pronounciation": "/rəˈpoʊz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repose_us_1.mp3"
+}

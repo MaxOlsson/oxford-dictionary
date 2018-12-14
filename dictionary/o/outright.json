@@ -1,0 +1,80 @@
+{
+  "adverb": [
+    {
+      "description": "Altogether; completely.",
+      "examples": [
+        "logging has been banned outright"
+      ],
+      "synonyms": [
+        "completely",
+        "entirely",
+        "wholly",
+        "fully",
+        "totally",
+        "categorically",
+        "absolutely",
+        "altogether",
+        "utterly",
+        "flatly",
+        "in every respect",
+        "unreservedly",
+        "without reservation",
+        "without exception",
+        "thoroughly",
+        "quite"
+      ]
+    },
+    {
+      "description": "Immediately.",
+      "examples": [
+        "the impact killed four horses outright"
+      ],
+      "synonyms": [
+        "instantly",
+        "instantaneously",
+        "immediately",
+        "at once",
+        "straight away",
+        "there and then",
+        "then and there",
+        "on the spot"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Open and direct; not concealed.",
+      "examples": [
+        "an outright refusal"
+      ],
+      "synonyms": [
+        "out-and-out",
+        "absolute",
+        "complete",
+        "utter",
+        "downright",
+        "sheer",
+        "stark",
+        "thorough",
+        "thoroughgoing",
+        "categorical",
+        "unequivocal",
+        "undeniable",
+        "unqualified",
+        "unmodified",
+        "unrestricted",
+        "unmitigated",
+        "unconditional",
+        "positive",
+        "simple",
+        "wholesale",
+        "all-out",
+        "rank",
+        "consummate",
+        "pure"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈaʊtraɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outright_us_1.mp3"
+}

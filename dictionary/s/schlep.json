@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Haul or carry (something heavy or awkward)",
+      "examples": [
+        "she schlepped her groceries home"
+      ],
+      "synonyms": [
+        "carry",
+        "lift",
+        "bear",
+        "tote",
+        "heave",
+        "hoist",
+        "shoulder",
+        "manhandle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A tedious or difficult journey.",
+      "synonyms": [
+        "hike",
+        "trek",
+        "slog",
+        "traipse",
+        "trudge",
+        "tramp",
+        "walk",
+        "march",
+        "route march",
+        "long haul"
+      ]
+    }
+  ],
+  "origin": "Early 20th century (as a verb): from Yiddish shlepn drag, from Middle High German sleppen.",
+  "pronounciation": "/SHlep/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/schlep_us_1.mp3"
+}

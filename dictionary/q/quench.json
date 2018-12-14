@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Satisfy (one's thirst) by drinking.",
+      "synonyms": [
+        "fulfil",
+        "gratify",
+        "meet",
+        "fill",
+        "serve",
+        "provide for",
+        "supply"
+      ]
+    },
+    {
+      "description": "Extinguish (a fire)",
+      "examples": [
+        "firemen hauled on hoses in a desperate bid to quench the flames"
+      ],
+      "synonyms": [
+        "extinguish",
+        "put out",
+        "snuff out",
+        "smother",
+        "douse",
+        "dampen down"
+      ]
+    },
+    {
+      "description": "Rapidly cool (red-hot metal or other material), especially in cold water or oil."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of quenching something very hot."
+    }
+  ],
+  "origin": "Old English -cwencan (in acwencan put out, extinguish), of Germanic origin.",
+  "pronounciation": "/kwen(t)SH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quench_us_1.mp3"
+}

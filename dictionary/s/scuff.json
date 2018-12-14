@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Scrape or brush the surface of (a shoe or other object) against something.",
+      "examples": [
+        "I scuffed the heel of my shoe on a stone"
+      ],
+      "synonyms": [
+        "scrape",
+        "rub",
+        "drag",
+        "brush",
+        "scratch",
+        "graze",
+        "abrade",
+        "rasp",
+        "lacerate",
+        "chafe",
+        "roughen"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mark made by scraping or grazing a surface or object.",
+      "examples": [
+        "dark colors don't show scuffs"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: perhaps of imitative origin.",
+  "pronounciation": "/skəf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scuff_us_1.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Put an end to the validity or operation of (a decree, decision, or promise)",
+      "examples": [
+        "the men appealed and the sentence was revoked"
+      ],
+      "synonyms": [
+        "cancel",
+        "repeal",
+        "rescind",
+        "reverse",
+        "abrogate",
+        "annul",
+        "nullify",
+        "declare null and void",
+        "make void",
+        "void",
+        "invalidate",
+        "render invalid",
+        "quash",
+        "abolish",
+        "set aside",
+        "countermand",
+        "retract",
+        "withdraw",
+        "overrule",
+        "override"
+      ]
+    },
+    {
+      "description": "(in bridge, whist, and other card games) fail to follow suit despite being able to do so."
+    }
+  ],
+  "origin": "Late Middle English: from Old French revoquer or Latin revocare, from re- back + vocare to call.",
+  "pronounciation": "/rəˈvoʊk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/revoke_us_1.mp3"
+}

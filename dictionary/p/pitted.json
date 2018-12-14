@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Having a hollow or indentation on the surface.",
+      "examples": [
+        "a dusty pitted road"
+      ],
+      "synonyms": [
+        "pockmarked",
+        "pocked",
+        "scarred",
+        "blemished",
+        "marked"
+      ]
+    },
+    {
+      "description": "(of a fruit) having had the stone removed."
+    }
+  ],
+  "pronounciation": "/ˈpidəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pitted_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be read or deciphered; legible.",
+      "synonyms": [
+        "legible",
+        "easy to read",
+        "decipherable",
+        "easily deciphered",
+        "clear",
+        "intelligible",
+        "understandable",
+        "comprehensible",
+        "easy to understand"
+      ]
+    },
+    {
+      "description": "(of data or a storage medium or device) capable of being processed or interpreted by a computer or other electronic device."
+    }
+  ],
+  "pronounciation": "/ˈridəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/readable_us_1.mp3"
+}

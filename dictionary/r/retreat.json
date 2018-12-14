@@ -1,0 +1,76 @@
+{
+  "verb": [
+    {
+      "description": "(of an army) withdraw from enemy forces as a result of their superior power or after a defeat.",
+      "examples": [
+        "the French retreated in disarray"
+      ],
+      "synonyms": [
+        "withdraw",
+        "retire",
+        "draw back",
+        "pull back",
+        "pull out",
+        "fall back",
+        "give way",
+        "give ground",
+        "recoil",
+        "flee",
+        "take flight",
+        "beat a retreat",
+        "beat a hasty retreat",
+        "run away",
+        "run off",
+        "make a run for it",
+        "run for it",
+        "make off",
+        "take off",
+        "take to one's heels",
+        "make a break for it",
+        "bolt",
+        "make a quick exit",
+        "clear out",
+        "make one's getaway",
+        "escape",
+        "head for the hills"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of moving back or withdrawing.",
+      "examples": [
+        "a speedy retreat",
+        "the army was in retreat"
+      ],
+      "synonyms": [
+        "withdrawal",
+        "pulling back",
+        "flight"
+      ]
+    },
+    {
+      "description": "A signal for a military force to withdraw.",
+      "examples": [
+        "the bugle sounded a retreat"
+      ]
+    },
+    {
+      "description": "A quiet or secluded place in which one can rest and relax.",
+      "examples": [
+        "their mountain retreat in New Hampshire"
+      ],
+      "synonyms": [
+        "refuge",
+        "haven",
+        "resort",
+        "asylum",
+        "sanctuary",
+        "sanctum sanctorum"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French retret (noun), retraiter (verb), from Latin retrahere pull back (see retract).",
+  "pronounciation": "/rəˈtrēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retreat_us_1.mp3"
+}

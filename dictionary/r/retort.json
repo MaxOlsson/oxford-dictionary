@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "Say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
+      "examples": [
+        "“No need to be rude,” retorted Isabel",
+        "he retorted that this was nonsense",
+        "I resisted the urge to retort"
+      ],
+      "synonyms": [
+        "answer",
+        "reply",
+        "respond",
+        "say in response",
+        "acknowledge",
+        "return",
+        "counter",
+        "rejoin",
+        "riposte",
+        "retaliate",
+        "hurl back",
+        "fling back",
+        "snap back"
+      ]
+    },
+    {
+      "description": "Repay (an insult or injury)",
+      "examples": [
+        "it was now his time to retort the humiliation"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sharp, angry, or wittily incisive reply to a remark.",
+      "examples": [
+        "she opened her mouth to make a suitably cutting retort"
+      ],
+      "synonyms": [
+        "answer",
+        "reply",
+        "response",
+        "acknowledgement",
+        "return",
+        "counter",
+        "rejoinder",
+        "riposte",
+        "sally",
+        "retaliation"
+      ]
+    }
+  ],
+  "origin": "Early 16th century: from French retorte, from medieval Latin retorta, feminine past participle of retorquere twist back (with reference to the long recurved neck of the laboratory container).",
+  "pronounciation": "/rəˈtɔrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retort_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Unable to bend or be forced out of shape; not flexible.",
+      "examples": [
+        "a seat of rigid orange plastic",
+        "rigid ships are the dirigibles in which the bag is built around a metallic framework"
+      ],
+      "synonyms": [
+        "stiff",
+        "hard",
+        "firm",
+        "inflexible",
+        "non-flexible",
+        "unbending",
+        "unyielding",
+        "inelastic"
+      ]
+    },
+    {
+      "description": "Not able to be changed or adapted.",
+      "examples": [
+        "teachers are being asked to unlearn rigid rules for labeling children"
+      ],
+      "synonyms": [
+        "fixed",
+        "set",
+        "firm",
+        "inflexible",
+        "unalterable",
+        "unchangeable",
+        "immutable",
+        "unvarying",
+        "invariable",
+        "hard and fast",
+        "cast-iron"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin rigidus, from rigere be stiff.",
+  "pronounciation": "/ˈrijid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rigid_us_1.mp3"
+}

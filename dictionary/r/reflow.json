@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "(in word processing) the action of rearranging text on a page after having changed such features as type size, line length, and spacing."
+    },
+    {
+      "description": "A soldering technique in which surface-mount components are held in position on a circuit board using a paste containing solder which melts to form soldered joints when the circuit board is heated."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(in word processing) rearrange (text) on a page, having changed such features as type size, line length, and spacing.",
+      "examples": [
+        "my desktop publisher must reflow copy from one column to another automatically"
+      ]
+    },
+    {
+      "description": "Attach (a surface-mount component) using the reflow technique.",
+      "examples": [
+        "a kit designed to reflow the majority of surface-mounted devices"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrēˌflō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reflow_us_1.mp3"
+}

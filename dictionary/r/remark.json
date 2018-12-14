@@ -1,0 +1,50 @@
+{
+  "verb": [
+    {
+      "description": "Say something as a comment; mention.",
+      "examples": [
+        "“Tom's looking peaked,” she remarked",
+        "he remarked that he had some work to finish",
+        "the judges remarked on the high standard of the entries"
+      ],
+      "synonyms": [
+        "comment",
+        "say",
+        "observe",
+        "mention",
+        "reflect",
+        "state",
+        "declare",
+        "announce",
+        "pronounce",
+        "assert"
+      ]
+    },
+    {
+      "description": "Regard with attention; notice.",
+      "examples": [
+        "he remarked the man's inflamed eyelids"
+      ],
+      "synonyms": [
+        "note",
+        "notice",
+        "observe",
+        "take note of",
+        "mark",
+        "perceive",
+        "discern"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A written or spoken comment.",
+      "examples": [
+        "I decided to ignore his rude remarks"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in remark (sense 2 of the verb)): from French remarquer note again, from re- (expressing intensive force) + marquer to mark, note.",
+  "pronounciation": "/rəˈmärk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/remark_us_1.mp3"
+}

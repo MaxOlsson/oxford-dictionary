@@ -1,0 +1,33 @@
+{
+  "noun": [
+    {
+      "description": "A rapidly consumed alcoholic drink."
+    },
+    {
+      "description": "A brief act of sexual intercourse."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done or made quickly.",
+      "examples": [
+        "a quickie divorce"
+      ],
+      "synonyms": [
+        "rapid",
+        "swift",
+        "quick",
+        "fast",
+        "prompt",
+        "immediate",
+        "expeditious",
+        "express",
+        "brisk",
+        "sharp",
+        "unhesitating"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkwɪki/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quickie_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "adverb": [
+    {
+      "description": "In actual fact, as opposed to what is said or imagined to be true or possible.",
+      "examples": [
+        "so what really happened?",
+        "they're not really my aunt and uncle",
+        "really, there are only three options"
+      ],
+      "synonyms": [
+        "in fact",
+        "in actual fact",
+        "actually",
+        "in reality",
+        "in point of fact",
+        "as a matter of fact",
+        "in truth",
+        "if truth be told",
+        "to tell the truth",
+        "in actuality"
+      ]
+    },
+    {
+      "description": "Very; thoroughly.",
+      "examples": [
+        "I think she's really great",
+        "a really cold day",
+        "he writes really well"
+      ],
+      "synonyms": [
+        "genuinely",
+        "truly",
+        "honestly"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express interest, surprise, or doubt.",
+      "examples": [
+        "“I've been working hard.” “Really?”"
+      ],
+      "synonyms": [
+        "is that so",
+        "is that a fact",
+        "well i never",
+        "well i never did"
+      ]
+    }
+  ],
+  "phrases": [
+    "I sometimes wonder whether you really and truly love me",
+    "You are really and truly, happy for your friend because something fantastic is happening in their life, but at the same time you are so jealous of them that you want to scream.",
+    "What seems to have been forgotten in all this recent discussion of the fairness of lodging house bylaws is that students, really and truly, are very different from average citizens.",
+    "I mean, really and truly, how do you get by during the day?",
+    "But despite all that, it is still not a proper job and I continue to have the distinct feeling that, really and truly, I should have been at work."
+  ],
+  "pronounciation": "/ˈrē(ə)lē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/really_us_1.mp3"
+}

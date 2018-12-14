@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Having, relating to, or characteristic of schizophrenia.",
+      "examples": [
+        "schizophrenic patients",
+        "schizophrenic symptoms"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with schizophrenia.",
+      "examples": [
+        "she was diagnosed as a paranoid schizophrenic",
+        "he became known for his success in treating schizophrenics"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌskɪtsəˈfrɛnɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/schizophrenic_us_1.mp3"
+}

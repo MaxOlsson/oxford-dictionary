@@ -1,0 +1,49 @@
+{
+  "adverb": [
+    {
+      "description": "In a manner lacking gentleness; harshly or violently.",
+      "examples": [
+        "the man picked me up roughly"
+      ],
+      "synonyms": [
+        "violently",
+        "forcefully",
+        "forcibly",
+        "abruptly",
+        "unceremoniously"
+      ]
+    },
+    {
+      "description": "In a manner lacking refinement and precision.",
+      "examples": [
+        "people were crouching over roughly built brick fireplaces"
+      ]
+    },
+    {
+      "description": "Approximately.",
+      "examples": [
+        "this is a walk of roughly 13 miles",
+        "the narrative is, roughly speaking, contemporary with the earliest of the gospels"
+      ],
+      "synonyms": [
+        "approximately",
+        "about",
+        "around",
+        "round about",
+        "in the region of",
+        "something like",
+        "in the area of",
+        "in the neighbourhood of",
+        "of the order of",
+        "or so",
+        "or thereabouts",
+        "there or thereabouts",
+        "more or less",
+        "give or take a few",
+        "plus or minus a few"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrəflē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roughly_us_1.mp3"
+}

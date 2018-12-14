@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The place where an incident in real life or fiction occurs or occurred.",
+      "examples": [
+        "the emergency team were among the first on the scene",
+        "relatives left flowers at the scene of the crash"
+      ],
+      "synonyms": [
+        "location",
+        "site",
+        "place",
+        "position",
+        "point",
+        "spot"
+      ]
+    },
+    {
+      "description": "A sequence of continuous action in a play, movie, opera, or book.",
+      "examples": [
+        "a scene from Brando's first film"
+      ],
+      "synonyms": [
+        "section",
+        "segment",
+        "part",
+        "clip",
+        "sequence"
+      ]
+    }
+  ],
+  "phrases": [
+    "As Damian gives me a guided tour behind the scenes at the Theatre Royal, I lose count of the animal parts lying around.",
+    "A Swindon theatre company has given people a peek behind the scenes of its operations during an open day.",
+    "The whole set has been rotated to reveal what it looks like from backstage, and we see what really goes on behind the scenes.",
+    "Organisers are working busily away behind the scenes to make sure it is a day to remember.",
+    "Two young brothers will soon be making their mark in the theatre both on stage and behind the scenes."
+  ],
+  "origin": "Mid 16th century (denoting a subdivision of a play, or (a piece of) stage scenery): from Latin scena, from Greek skēnē tent, stage.",
+  "pronounciation": "/sin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scene_us_1.mp3"
+}

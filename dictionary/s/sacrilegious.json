@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Involving or committing sacrilege.",
+      "examples": [
+        "a sacrilegious act",
+        "it seems sacrilegious to say this, but it's really not that great a movie"
+      ],
+      "synonyms": [
+        "profane",
+        "blasphemous",
+        "impious",
+        "sinful",
+        "irreverent",
+        "irreligious",
+        "godless",
+        "ungodly",
+        "unholy",
+        "disrespectful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsækrəˈlɪdʒəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sacrilegious_us_1.mp3"
+}

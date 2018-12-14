@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A telephone.",
+      "examples": [
+        "a few seconds later the phone rang",
+        "a receptionist answered the phone",
+        "a phone number"
+      ],
+      "synonyms": [
+        "telephone",
+        "mobile phone",
+        "mobile",
+        "cell phone",
+        "car phone",
+        "radio-telephone",
+        "cordless phone",
+        "videophone",
+        "extension"
+      ]
+    },
+    {
+      "description": "Headphones or earphones."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Call someone on the telephone.",
+      "examples": [
+        "he phoned her at work",
+        "she phoned about twenty minutes ago"
+      ],
+      "synonyms": [
+        "telephone",
+        "call",
+        "call up",
+        "give someone a call",
+        "give someone a ring",
+        "ring",
+        "ring up",
+        "get someone on the phone",
+        "get on the phone to",
+        "get",
+        "reach",
+        "dial",
+        "make a call",
+        "place a call",
+        "make a call to",
+        "place a call to"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Greek phōnē sound, voice.",
+  "pronounciation": "/fōn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_phone_1_us_1.mp3"
+}

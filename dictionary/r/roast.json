@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.",
+      "examples": [
+        "she was going to roast a leg of lamb for Sunday dinner"
+      ],
+      "synonyms": [
+        "cook",
+        "bake",
+        "grill"
+      ]
+    },
+    {
+      "description": "Criticize or reprimand severely.",
+      "examples": [
+        "if you waste his time he'll roast you"
+      ],
+      "synonyms": [
+        "criticize",
+        "censure",
+        "condemn",
+        "castigate",
+        "chastise",
+        "lambaste",
+        "pillory",
+        "savage",
+        "attack",
+        "find fault with",
+        "fulminate against",
+        "abuse"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of food) having been roasted.",
+      "examples": [
+        "a plate of cold roast beef"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cut of meat that has been roasted or that is intended for roasting.",
+      "examples": [
+        "carving the Sunday roast"
+      ]
+    },
+    {
+      "description": "A banquet at which the guest of honor is subjected to good-natured ridicule."
+    }
+  ],
+  "origin": "Middle English: from Old French rostir, of West Germanic origin.",
+  "pronounciation": "/rōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roast_us_1.mp3"
+}

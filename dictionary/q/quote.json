@@ -1,0 +1,83 @@
+{
+  "verb": [
+    {
+      "description": "Repeat or copy out (a group of words from a text or speech), typically with an indication that one is not the original author or speaker.",
+      "examples": [
+        "he quoted a passage from the Psalms",
+        "“The stream mysterious glides beneath,” Melinda quoted",
+        "when we told her this she said, and I quote, “Phooey!”"
+      ],
+      "synonyms": [
+        "recite",
+        "repeat",
+        "say again",
+        "reproduce",
+        "restate",
+        "retell",
+        "echo",
+        "iterate",
+        "parrot"
+      ]
+    },
+    {
+      "description": "Give someone (the estimated price of a job or service)",
+      "examples": [
+        "the agent quoted him a fare of $180"
+      ],
+      "synonyms": [
+        "estimate",
+        "state",
+        "set",
+        "tender",
+        "bid",
+        "offer"
+      ]
+    },
+    {
+      "description": "Give (a company) a quotation or listing on a stock exchange.",
+      "examples": [
+        "an organization that is quoted on the Stock Exchange"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A quotation from a text or speech.",
+      "examples": [
+        "a quote from Wordsworth"
+      ]
+    },
+    {
+      "description": "A quotation giving the estimated cost for a particular job or service.",
+      "examples": [
+        "quotes from different insurance companies"
+      ],
+      "synonyms": [
+        "estimate",
+        "estimated price",
+        "price",
+        "quote",
+        "tender",
+        "bid",
+        "cost",
+        "charge",
+        "rate",
+        "figure"
+      ]
+    },
+    {
+      "description": "Quotation marks.",
+      "examples": [
+        "use double quotes around precise phrases you wish to search for"
+      ]
+    }
+  ],
+  "phrases": [
+    "the second sentence says, quote, There has never been a better time to invest in the commodities market, unquote",
+    "the brochure describes the view as, quote, unquote, unforgettably breathtaking",
+    "But when you're the editor of a magazine at a convention full of quote healers unquote, people will trip over themselves trying to show you how their particular shtick will make you feel better."
+  ],
+  "origin": "Late Middle English: from medieval Latin quotare, from quot how many, or from medieval Latin quota (see quota). The original sense was mark a book with numbers, or with marginal references, later give a reference by page or chapter, hence cite a text or person (late 16th century).",
+  "pronounciation": "/kwoʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quote_us_1.mp3"
+}

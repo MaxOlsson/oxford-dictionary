@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) having sound judgment; fair and sensible.",
+      "examples": [
+        "no reasonable person could have objected"
+      ],
+      "synonyms": [
+        "sensible",
+        "rational",
+        "open to reason",
+        "full of common sense",
+        "logical",
+        "fair",
+        "fair-minded",
+        "just",
+        "equitable",
+        "decent"
+      ]
+    },
+    {
+      "description": "As much as is appropriate or fair; moderate.",
+      "examples": [
+        "a police officer may use reasonable force to gain entry"
+      ],
+      "synonyms": [
+        "within reason",
+        "practicable",
+        "sensible"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French raisonable, suggested by Latin rationabilis rational, from ratio (see reason).",
+  "pronounciation": "/ˈrēz(ə)nəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reasonable_us_1.mp3"
+}

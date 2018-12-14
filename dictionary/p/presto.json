@@ -1,0 +1,23 @@
+{
+  "adverb &amp; adjective": [
+    {
+      "description": "(especially as a direction) in a quick tempo."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A movement or passage marked to be performed in a quick tempo."
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "A phrase announcing the successful completion of a trick, or suggesting that something has been done so easily that it seems to be magic.",
+      "examples": [
+        "just one quick squeeze and presto! A stir fry in seconds"
+      ]
+    }
+  ],
+  "origin": "Italian, quick, quickly, from late Latin praestus ready, from Latin praesto at hand.",
+  "pronounciation": "/ˈprestō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/presto_us_1.mp3"
+}

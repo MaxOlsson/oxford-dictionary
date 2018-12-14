@@ -1,0 +1,86 @@
+{
+  "noun": [
+    {
+      "description": "A threatened penalty for disobeying a law or rule.",
+      "examples": [
+        "a range of sanctions aimed at deterring insider abuse"
+      ],
+      "synonyms": [
+        "penalty",
+        "punishment",
+        "deterrent"
+      ]
+    },
+    {
+      "description": "Official permission or approval for an action.",
+      "examples": [
+        "he appealed to the bishop for his sanction"
+      ],
+      "synonyms": [
+        "authorization",
+        "consent",
+        "leave",
+        "permission",
+        "authority",
+        "warrant",
+        "licence",
+        "dispensation",
+        "assent",
+        "acquiescence",
+        "agreement",
+        "approval",
+        "seal of approval",
+        "stamp of approval",
+        "approbation",
+        "recognition",
+        "endorsement",
+        "accreditation",
+        "confirmation",
+        "ratification",
+        "validation",
+        "blessing",
+        "imprimatur",
+        "clearance",
+        "acceptance",
+        "allowance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give official permission or approval for (an action)",
+      "examples": [
+        "only two treatments have been sanctioned by the Food and Drug Administration"
+      ],
+      "synonyms": [
+        "authorize",
+        "consent to",
+        "permit",
+        "allow",
+        "give leave for",
+        "give permission for",
+        "warrant",
+        "accredit",
+        "license",
+        "give assent to",
+        "endorse",
+        "agree to",
+        "approve",
+        "accept",
+        "give one's blessing to",
+        "back",
+        "support"
+      ]
+    },
+    {
+      "description": "Impose a sanction or penalty on.",
+      "synonyms": [
+        "punish",
+        "discipline someone for"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting an ecclesiastical decree): from French, from Latin sanctio(n-), from sancire ratify. The verb dates from the late 18th century.",
+  "pronounciation": "/ˈsæŋ(k)ʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sanction_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "Each of a pair of small oars used by a single rower."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Propel a boat with sculls.",
+      "examples": [
+        "he built boats and taught the gentlemen how to scull"
+      ],
+      "synonyms": [
+        "row gently",
+        "pull",
+        "scull"
+      ]
+    }
+  ],
+  "origin": "Variant of school.",
+  "pronounciation": "/skəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scull_us_1.mp3"
+}

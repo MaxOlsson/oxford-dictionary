@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "Attempt to achieve (something) again.",
+      "examples": [
+        "I reattempted entry"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A second or subsequent attempt.",
+      "examples": [
+        "a reattempt to start the engine"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrēəˈtem(p)t/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reattempt_us_1.mp3"
+}

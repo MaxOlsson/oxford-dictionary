@@ -1,0 +1,83 @@
+{
+  "noun": [
+    {
+      "description": "A piece of material extended on a mast to catch the wind and propel a boat or ship or other vessel.",
+      "examples": [
+        "all the sails were unfurled"
+      ],
+      "synonyms": [
+        "canvas"
+      ]
+    },
+    {
+      "description": "A wind-catching apparatus, typically one consisting of canvas or a set of boards, attached to the arm of a windmill."
+    },
+    {
+      "description": "A voyage or excursion in a ship, especially a sailing ship or boat.",
+      "examples": [
+        "they went for a sail"
+      ],
+      "synonyms": [
+        "journey",
+        "trip",
+        "expedition",
+        "excursion",
+        "tour",
+        "hike",
+        "trek",
+        "tramp",
+        "safari",
+        "pilgrimage",
+        "quest",
+        "crusade",
+        "odyssey"
+      ]
+    },
+    {
+      "description": "The conning tower of a submarine."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel in a boat with sails, especially as a sport or recreation.",
+      "examples": [
+        "Ian took us out sailing on the lake"
+      ],
+      "synonyms": [
+        "yacht",
+        "boat",
+        "go sailing"
+      ]
+    },
+    {
+      "description": "Move smoothly and rapidly or in a stately or confident manner.",
+      "examples": [
+        "she sailed into the conference room at 2:30 sharp"
+      ],
+      "synonyms": [
+        "glide",
+        "drift",
+        "float",
+        "flow",
+        "slide",
+        "slip",
+        "sweep",
+        "skim",
+        "coast",
+        "skate",
+        "breeze",
+        "flit"
+      ]
+    }
+  ],
+  "phrases": [
+    "a galleon in full sail",
+    "We stopped at Ranworth village for an ice-cream, feeling the superiority and relief of successfully mooring under full sail beneath the critical gaze of the crews of the engine-driven, plastic boats.",
+    "My favourite memory of a tall ship is standing at the helm of the Lord Nelson under full sail, feeling her heel over in a stiff breeze until her port deck was awash.",
+    "Soon they were sailing away under full sail, on their way to the Lost Island.",
+    "When the ship was under full sail, he described the experience as very exhilarating and very different compared to listening to diesel engines."
+  ],
+  "origin": "Old English segel (noun), seglian (verb), of Germanic origin; related to Dutch zeil and German Segel (nouns).",
+  "pronounciation": "/sāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sail_us_1.mp3"
+}

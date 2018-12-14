@@ -1,0 +1,67 @@
+{
+  "verb": [
+    {
+      "description": "Remedy or set right (an undesirable or unfair situation)",
+      "examples": [
+        "the power to redress the grievances of our citizens"
+      ],
+      "synonyms": [
+        "rectify",
+        "correct",
+        "make right",
+        "put right",
+        "set right",
+        "right",
+        "put to rights",
+        "compensate for",
+        "sort out",
+        "deal with",
+        "amend",
+        "remedy",
+        "repair",
+        "fix",
+        "cure",
+        "heal",
+        "make good",
+        "reform",
+        "harmonize",
+        "retrieve",
+        "improve",
+        "better",
+        "ameliorate",
+        "adjust",
+        "resolve",
+        "settle",
+        "square"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Remedy or compensation for a wrong or grievance.",
+      "examples": [
+        "those seeking redress for an infringement of public law rights"
+      ],
+      "synonyms": [
+        "compensation",
+        "reparation",
+        "restitution",
+        "recompense",
+        "repayment",
+        "damages",
+        "indemnity",
+        "indemnification"
+      ]
+    }
+  ],
+  "phrases": [
+    "This is the first step to redressing the balance.",
+    "We took the view that this was an opportunity to redress the balance.",
+    "At least this, in some way, redresses the balance.",
+    "It now leads with eight new comments (two against, six for), somewhat redressing the balance.",
+    "Still, Radio Scotland redressed the balance somewhat by airing a whopping 11 hours of consecutive football output yesterday."
+  ],
+  "origin": "Middle English: the verb from Old French redresser; the noun via Anglo-Norman French redresse.",
+  "pronounciation": "/rəˈdrɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/redress_us_4.mp3"
+}

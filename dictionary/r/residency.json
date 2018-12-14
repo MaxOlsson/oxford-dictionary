@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "The fact of living in a place.",
+      "examples": [
+        "a government ruling confirmed the returning refugees' right to residency"
+      ],
+      "synonyms": [
+        "occupancy",
+        "occupation",
+        "residence",
+        "living in",
+        "housing",
+        "billeting",
+        "quartering",
+        "tenure"
+      ]
+    },
+    {
+      "description": "The official residence of the British governor general's representative or other government agent, especially at the court of an Indian state."
+    },
+    {
+      "description": "A group or organization of intelligence agents in a foreign country."
+    },
+    {
+      "description": "A period of specialized medical training in a hospital; the position of a resident."
+    }
+  ],
+  "pronounciation": "/ˈrez(ə)dənsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/residency_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Make (previously unknown or secret information) known to others.",
+      "examples": [
+        "Brenda was forced to reveal Robbie's whereabouts",
+        "he revealed that he and his children had received death threats"
+      ],
+      "synonyms": [
+        "divulge",
+        "disclose",
+        "tell",
+        "let out",
+        "let slip",
+        "let drop",
+        "let fall",
+        "give away",
+        "give the game away",
+        "give the show away",
+        "blurt",
+        "blurt out",
+        "babble",
+        "give out",
+        "release",
+        "leak",
+        "betray",
+        "open up",
+        "unveil",
+        "bring out into the open"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in a movie or television show) a final revelation of information that has previously been kept from the characters or viewers.",
+      "examples": [
+        "the big reveal at the end of the movie answers all questions"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from obsolete revale to lower, from Old French revaler, from re- back + avaler go down, sink.",
+  "pronounciation": "/rəˈvēl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reveal_us_1.mp3"
+}

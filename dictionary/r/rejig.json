@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Organize (something) differently; rejigger.",
+      "examples": [
+        "the organizers scrambled frantically to rejig schedules"
+      ],
+      "synonyms": [
+        "reorganize",
+        "alter",
+        "adjust",
+        "change",
+        "change round",
+        "reorder",
+        "reschedule",
+        "reshuffle"
+      ]
+    },
+    {
+      "description": "Re-equip with machinery; refit.",
+      "examples": [
+        "Britain will send experts to help rejig French factories"
+      ],
+      "synonyms": [
+        "renovate",
+        "redecorate",
+        "refurbish",
+        "recondition",
+        "rehabilitate",
+        "rebuild",
+        "reconstruct",
+        "overhaul",
+        "make over"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reorganization.",
+      "examples": [
+        "a cabinet rejig"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈdʒɪɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rejig_us_1.mp3"
+}

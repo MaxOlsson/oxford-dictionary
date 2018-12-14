@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "In a fair and sensible way.",
+      "examples": [
+        "he began to talk calmly and reasonably about his future"
+      ]
+    },
+    {
+      "description": "To a moderate or acceptable degree: fairly; quite.",
+      "examples": [
+        "she played the piano reasonably well"
+      ],
+      "synonyms": [
+        "reasonably",
+        "passably",
+        "tolerably",
+        "satisfactorily",
+        "sufficiently",
+        "adequately",
+        "moderately",
+        "quite",
+        "rather",
+        "somewhat",
+        "relatively",
+        "comparatively"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrēz(ə)nəblē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reasonably_us_1.mp3"
+}

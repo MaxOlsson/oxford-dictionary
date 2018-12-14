@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Covered in scales.",
+      "examples": [
+        "scaly reptiles"
+      ],
+      "synonyms": [
+        "squamate",
+        "squamose",
+        "squamous",
+        "lamellate",
+        "lamellar",
+        "lamelliform",
+        "lamellose"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskeɪli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scaly_us_1.mp3"
+}

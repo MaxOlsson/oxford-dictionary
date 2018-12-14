@@ -1,0 +1,73 @@
+{
+  "noun": [
+    {
+      "description": "An economy of or reduction in money, time, or another resource.",
+      "examples": [
+        "this resulted in a considerable saving in development costs"
+      ],
+      "synonyms": [
+        "economizing",
+        "economy",
+        "frugality",
+        "thrift",
+        "thriftiness",
+        "retrenchment",
+        "cutting back",
+        "belt-tightening",
+        "penny-pinching"
+      ]
+    },
+    {
+      "description": "The money one has saved, especially through a bank or official scheme.",
+      "examples": [
+        "the agents were cheating them out of their life savings"
+      ],
+      "synonyms": [
+        "nest egg",
+        "money put by for a rainy day",
+        "life savings"
+      ]
+    },
+    {
+      "description": "A reservation; an exception."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Preventing waste of a particular resource.",
+      "examples": [
+        "a fuel-saving vehicle"
+      ]
+    }
+  ],
+  "preposition": [
+    {
+      "description": "With the exception of; except.",
+      "synonyms": [
+        "except for",
+        "with the exception of",
+        "excepting",
+        "if there are no",
+        "if there is no",
+        "bar",
+        "discounting",
+        "short of",
+        "apart from",
+        "but for",
+        "other than",
+        "aside from",
+        "excluding",
+        "omitting",
+        "leaving out",
+        "save for",
+        "saving"
+      ]
+    },
+    {
+      "description": "With due respect to."
+    }
+  ],
+  "origin": "Middle English: from save; the preposition probably from save, on the pattern of touching.",
+  "pronounciation": "/ˈseɪvɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saving_us_1.mp3"
+}

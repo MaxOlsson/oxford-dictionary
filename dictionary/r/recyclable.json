@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Able to be recycled.",
+      "examples": [
+        "recyclable plastic",
+        "the containers are recyclable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance or object that can be recycled.",
+      "examples": [
+        "the city could sell recyclables at a profit"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈsaɪk(ə)ləb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recyclable_us_1.mp3"
+}

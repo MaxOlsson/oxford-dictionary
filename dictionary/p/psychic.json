@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting faculties or phenomena that are apparently inexplicable by natural laws, especially involving telepathy or clairvoyance.",
+      "examples": [
+        "psychic powers"
+      ],
+      "synonyms": [
+        "supernatural",
+        "paranormal",
+        "other-worldly",
+        "supernormal",
+        "preternatural",
+        "metaphysical",
+        "extrasensory",
+        "transcendental",
+        "magic",
+        "magical",
+        "mystical",
+        "mystic",
+        "occult"
+      ]
+    },
+    {
+      "description": "Relating to the soul or mind.",
+      "examples": [
+        "he dulled his psychic pain with gin"
+      ],
+      "synonyms": [
+        "emotional",
+        "spiritual",
+        "inner"
+      ]
+    },
+    {
+      "description": "Denoting a bid that deliberately misrepresents the bidder's hand, in order to mislead the opponents."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person considered or claiming to have psychic powers; a medium.",
+      "synonyms": [
+        "clairvoyant",
+        "fortune teller",
+        "prophet",
+        "seer",
+        "soothsayer",
+        "forecaster of the future",
+        "crystal gazer",
+        "astrologer",
+        "prognosticator",
+        "prophesier",
+        "oracle",
+        "augur",
+        "sibyl",
+        "cassandra",
+        "mind reader",
+        "palmist",
+        "palm reader",
+        "chiromancer",
+        "medium",
+        "telepathist",
+        "spiritualist",
+        "spiritist"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Greek psukhikos (see psyche).",
+  "pronounciation": "/ˈsīkik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/psychic_us_1.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A long deep track made by the repeated passage of the wheels of vehicles.",
+      "synonyms": [
+        "wheel track",
+        "furrow",
+        "groove",
+        "track",
+        "trough",
+        "ditch",
+        "trench",
+        "gutter",
+        "gouge",
+        "crack",
+        "hollow",
+        "hole",
+        "pothole",
+        "cavity",
+        "crater"
+      ]
+    },
+    {
+      "description": "A habit or pattern of behavior that has become dull and unproductive but is hard to change.",
+      "examples": [
+        "the administration was stuck in a rut and was losing its direction"
+      ],
+      "synonyms": [
+        "boring routine",
+        "humdrum existence",
+        "routine job",
+        "same old round",
+        "groove",
+        "grind",
+        "daily grind",
+        "treadmill",
+        "dead end",
+        "assembly line"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Engage in rutting.",
+      "examples": [
+        "a rutting stag"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin rugitus, from rugire to roar.",
+  "pronounciation": "/rət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rut_us_1.mp3"
+}

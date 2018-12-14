@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A continuous deep, resonant sound.",
+      "examples": [
+        "the rumbling of wheels in the distance"
+      ],
+      "synonyms": [
+        "reverberation",
+        "resonance",
+        "throbbing",
+        "throb",
+        "vibrating",
+        "pulsation",
+        "pulsing",
+        "rumble",
+        "beating",
+        "beat",
+        "drumming",
+        "drum",
+        "thumping",
+        "thump",
+        "thrumming",
+        "thrum",
+        "pounding",
+        "pound",
+        "palpitating",
+        "palpitation"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Making or constituting a deep resonant sound.",
+      "examples": [
+        "a rumbling noise",
+        "a rumbling ancient air conditioner"
+      ],
+      "synonyms": [
+        "resonant",
+        "sonorous",
+        "ringing",
+        "resounding",
+        "reverberating",
+        "reverberative",
+        "reverberant",
+        "reverberatory",
+        "carrying",
+        "thundering",
+        "thunderous",
+        "roaring"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrəmb(ə)lɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rumbling_us_1.mp3"
+}

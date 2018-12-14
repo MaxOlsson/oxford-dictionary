@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Begin to do or pursue (something) again after a pause or interruption.",
+      "examples": [
+        "a day later normal service was resumed",
+        "hostilities had ceased and normal life had resumed"
+      ],
+      "synonyms": [
+        "restart",
+        "recommence",
+        "begin again",
+        "start again",
+        "reopen"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A brief account of a persons education, qualifications, and previous experience, typically sent with a job application.",
+      "synonyms": [
+        "cv",
+        "life history",
+        "biography",
+        "details"
+      ]
+    },
+    {
+      "description": "A summary.",
+      "examples": [
+        "I gave him a quick résumé of events"
+      ],
+      "synonyms": [
+        "summary",
+        "precis",
+        "synopsis",
+        "abstract",
+        "outline",
+        "summarization",
+        "summation"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: French, literally resumed, past participle (used as a noun) of résumer.",
+  "pronounciation": "/ˈrezəˌmā/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resume_1_us_3.mp3"
+}

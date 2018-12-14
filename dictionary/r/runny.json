@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Somewhat liquid; not firm.",
+      "examples": [
+        "the soufflé was hard on top and quite runny underneath"
+      ],
+      "synonyms": [
+        "liquefied",
+        "liquid",
+        "fluid",
+        "melted",
+        "molten",
+        "flowing"
+      ]
+    },
+    {
+      "description": "(of a person's nose) producing or discharging mucus; running."
+    }
+  ],
+  "pronounciation": "/ˈrəni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/runny_us_1.mp3"
+}

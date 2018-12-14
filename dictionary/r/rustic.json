@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to the countryside; rural."
+    },
+    {
+      "description": "Made in a plain and simple fashion.",
+      "examples": [
+        "rustic pottery"
+      ],
+      "synonyms": [
+        "plain",
+        "simple",
+        "homely",
+        "unsophisticated",
+        "homespun"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unsophisticated country person.",
+      "examples": [
+        "they paused to watch the rustics dance and carouse"
+      ],
+      "synonyms": [
+        "countryman",
+        "countrywoman",
+        "peasant",
+        "daughter of the soil",
+        "son of the soil",
+        "country bumpkin",
+        "bumpkin",
+        "yokel",
+        "country cousin"
+      ]
+    },
+    {
+      "description": "A small brownish European moth."
+    }
+  ],
+  "origin": "Late Middle English (in the sense rural): from Latin rusticus, from rus the country.",
+  "pronounciation": "/ˈrəstɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rustic_us_1.mp3"
+}

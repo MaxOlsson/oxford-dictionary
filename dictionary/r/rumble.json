@@ -1,0 +1,109 @@
+{
+  "verb": [
+    {
+      "description": "Make a continuous deep, resonant sound.",
+      "examples": [
+        "thunder rumbled, lightning flickered"
+      ],
+      "synonyms": [
+        "boom",
+        "thunder",
+        "roll",
+        "roar",
+        "resound",
+        "reverberate",
+        "echo",
+        "grumble",
+        "growl"
+      ]
+    },
+    {
+      "description": "Discover (an illicit activity or its perpetrator)",
+      "examples": [
+        "it wouldn't need a genius to rumble my little game"
+      ],
+      "synonyms": [
+        "discover",
+        "become aware",
+        "learn",
+        "detect",
+        "discern",
+        "perceive",
+        "observe",
+        "notice",
+        "note",
+        "come to know",
+        "get to know",
+        "work out",
+        "deduce",
+        "fathom out",
+        "realize"
+      ]
+    },
+    {
+      "description": "Take part in a street fight between gangs or large groups.",
+      "examples": [
+        "the five of them rumbled with the men in the other car"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A continuous deep, resonant sound like distant thunder.",
+      "examples": [
+        "the steady rumble of traffic",
+        "there were rumbles of discontent from small retailers"
+      ],
+      "synonyms": [
+        "rumble",
+        "rumbling",
+        "boom",
+        "booming",
+        "roar",
+        "roaring",
+        "pounding",
+        "thud",
+        "thudding",
+        "thump",
+        "thumping",
+        "crash",
+        "crashing",
+        "bang",
+        "banging",
+        "ring",
+        "ringing",
+        "grumble",
+        "growl",
+        "resounding",
+        "reverberation",
+        "echo"
+      ]
+    },
+    {
+      "description": "A street fight between gangs or large groups.",
+      "synonyms": [
+        "fight",
+        "fist fight",
+        "skirmish",
+        "scuffle",
+        "tussle",
+        "fracas",
+        "scrimmage",
+        "fray",
+        "melee",
+        "rumpus",
+        "altercation",
+        "wrangle",
+        "clash",
+        "free-for-all",
+        "scrum",
+        "brouhaha",
+        "commotion",
+        "uproar"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably from Middle Dutch rommelen, rummelen, of imitative origin. Sense 2 of the verb may be a different word.",
+  "pronounciation": "/ˈrəmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rumble_us_1.mp3"
+}

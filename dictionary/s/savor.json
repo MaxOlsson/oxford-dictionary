@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Taste (good food or drink) and enjoy it completely.",
+      "examples": [
+        "gourmets will want to savor our game specialties"
+      ]
+    },
+    {
+      "description": "Have a suggestion or trace of (something, especially something bad)",
+      "examples": [
+        "their genuflections savored of superstition and popery"
+      ],
+      "synonyms": [
+        "suggest",
+        "smack of",
+        "have the hallmarks of",
+        "have all the signs of",
+        "give the impression of",
+        "seem like",
+        "have the air of",
+        "have a suggestion of",
+        "be indicative of",
+        "hint at",
+        "have overtones of"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A characteristic taste, flavor, or smell, especially a pleasant one.",
+      "examples": [
+        "the subtle savor of wood smoke"
+      ],
+      "synonyms": [
+        "taste",
+        "flavour",
+        "tang",
+        "smack"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin sapor, from sapere to taste.",
+  "pronounciation": "/ˈsāvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/savor_us_1.mp3"
+}

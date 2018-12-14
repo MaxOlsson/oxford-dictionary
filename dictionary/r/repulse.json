@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Drive back (an attack or attacking enemy) by force.",
+      "examples": [
+        "rioters tried to storm ministry buildings but were repulsed by police"
+      ],
+      "synonyms": [
+        "repel",
+        "drive back",
+        "drive away",
+        "fight back",
+        "fight off",
+        "put to flight",
+        "force back",
+        "beat off",
+        "beat back",
+        "push back",
+        "thrust back"
+      ]
+    },
+    {
+      "description": "Cause (someone) to feel intense distaste and aversion.",
+      "examples": [
+        "audiences at early screenings of the film were repulsed by its brutality"
+      ],
+      "synonyms": [
+        "revolt",
+        "disgust",
+        "repel",
+        "sicken",
+        "nauseate",
+        "make someone feel sick",
+        "turn someone's stomach",
+        "be repulsive to",
+        "be extremely distasteful to",
+        "make shudder",
+        "be repugnant to",
+        "make someone's flesh creep",
+        "make someone's skin crawl",
+        "make someone's gorge rise",
+        "offend",
+        "horrify"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of driving back an attacking force or of being driven back.",
+      "examples": [
+        "the repulse of the invaders"
+      ],
+      "synonyms": [
+        "repelling",
+        "driving back",
+        "putting to flight"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin repuls- driven back, from the verb repellere (see repel).",
+  "pronounciation": "/rəˈpəls/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repulse_us_1.mp3"
+}

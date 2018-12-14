@@ -1,0 +1,45 @@
+{
+  "adverb": [
+    {
+      "description": "Usually.",
+      "examples": [
+        "the fixings that would ordinarily appear at a grand turkey dinner",
+        "ordinarily, Linda was the handy one around the house"
+      ],
+      "synonyms": [
+        "usually",
+        "normally",
+        "as a rule",
+        "generally",
+        "as a general rule",
+        "in general",
+        "in the general run of things",
+        "for the most part",
+        "by and large",
+        "mainly",
+        "mostly",
+        "most of the time",
+        "customarily",
+        "typically",
+        "habitually",
+        "commonly",
+        "routinely"
+      ]
+    },
+    {
+      "description": "In a normal way.",
+      "examples": [
+        "an effort to behave ordinarily"
+      ],
+      "synonyms": [
+        "as usual",
+        "as normal",
+        "naturally",
+        "conventionally",
+        "regularly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌôrdnˈerəlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ordinarily_us_1.mp3"
+}

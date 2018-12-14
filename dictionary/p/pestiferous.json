@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Harboring infection and disease.",
+      "examples": [
+        "the pestiferous area around the prison"
+      ],
+      "synonyms": [
+        "highly infectious",
+        "highly infective",
+        "highly contagious",
+        "infectious",
+        "infective",
+        "contagious",
+        "rapidly spreading",
+        "communicable",
+        "transmittable",
+        "transmissible",
+        "spreading",
+        "malignant",
+        "uncontrollable",
+        "pernicious",
+        "pestilential"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense morally corrupting): from Latin pestifer bringing pestilence + -ous.",
+  "pronounciation": "/pɛˈstɪfərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pestiferous_us_1.mp3"
+}

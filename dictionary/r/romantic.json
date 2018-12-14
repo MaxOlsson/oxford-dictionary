@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "Conducive to or characterized by the expression of love.",
+      "examples": [
+        "a romantic candlelit dinner"
+      ],
+      "synonyms": [
+        "amorous",
+        "intimate",
+        "passionate"
+      ]
+    },
+    {
+      "description": "Of, characterized by, or suggestive of an idealized view of reality.",
+      "examples": [
+        "a romantic attitude toward the past",
+        "some romantic dream of country peace"
+      ],
+      "synonyms": [
+        "idyllic",
+        "picturesque",
+        "fairy-tale"
+      ]
+    },
+    {
+      "description": "Relating to or denoting the artistic and literary movement of romanticism.",
+      "examples": [
+        "the romantic tradition"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person with romantic beliefs or attitudes.",
+      "examples": [
+        "I am an incurable romantic"
+      ],
+      "synonyms": [
+        "idealist",
+        "sentimentalist",
+        "romanticist"
+      ]
+    },
+    {
+      "description": "A writer or artist of the romantic movement.",
+      "examples": [
+        "Wordsworth, Coleridge, and the later romantics"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (referring to the characteristics of romance in a narrative): from archaic romaunt tale of chivalry, from an Old French variant of romanz (see romance).",
+  "pronounciation": "/roʊˈmæn(t)ɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/romantic_us_2.mp3"
+}

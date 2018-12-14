@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "(of a sound, voice, etc.) fill a place with sound; be loud enough to echo.",
+      "examples": [
+        "another scream resounded through the school"
+      ],
+      "synonyms": [
+        "echo",
+        "re-echo",
+        "reverberate",
+        "ring out",
+        "fill the air",
+        "boom",
+        "peal",
+        "thunder",
+        "rumble"
+      ]
+    },
+    {
+      "description": "Sing (the praises) of.",
+      "examples": [
+        "Horace resounds the praises of Italy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from re- again + the verb sound, suggested by Old French resoner or Latin resonare sound again.",
+  "pronounciation": "/rəˈzound/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resound_us_1.mp3"
+}

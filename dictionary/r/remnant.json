@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A small remaining quantity of something.",
+      "synonyms": [
+        "remains",
+        "remainder",
+        "leftovers",
+        "leavings",
+        "residue",
+        "rest"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Remaining.",
+      "examples": [
+        "remnant strands of hair"
+      ]
+    }
+  ],
+  "origin": "Middle English: contraction of obsolete remenant from Old French remenant, from remenoir, remanoir remain.",
+  "pronounciation": "/ˈrɛmnənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/remnant_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Seek to obtain (something, typically food or money) at the expense or through the generosity of others or by stealth.",
+      "examples": [
+        "he had managed to scrounge a free meal",
+        "we didn't scrounge off the social security"
+      ],
+      "synonyms": [
+        "beg",
+        "borrow"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of scrounging."
+    }
+  ],
+  "origin": "Early 20th century: variant of dialect scrunge steal.",
+  "pronounciation": "/skrounj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scrounge_us_1.mp3"
+}

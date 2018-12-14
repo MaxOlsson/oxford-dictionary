@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "Frost formed on cold objects by the rapid freezing of water vapor in cloud or fog.",
+      "synonyms": [
+        "ice crystals",
+        "ice",
+        "rime ice",
+        "verglas"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover (an object) with hoarfrost.",
+      "examples": [
+        "he does not brush away the frost that rimes his beard"
+      ]
+    }
+  ],
+  "noun &amp; verb": [],
+  "origin": "Old English hrīm, of Germanic origin; related to Dutch rijm. The word became rare in Middle English but was revived in literary use at the end of the 18th century.",
+  "pronounciation": "/rīm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rime_us_1.mp3"
+}

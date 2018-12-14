@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A place of refuge or safety.",
+      "examples": [
+        "his sons took sanctuary in the church",
+        "people automatically sought a sanctuary in time of trouble"
+      ],
+      "synonyms": [
+        "refuge",
+        "haven",
+        "harbour",
+        "port in a storm",
+        "oasis",
+        "shelter",
+        "retreat",
+        "bolt-hole",
+        "foxhole",
+        "hideout",
+        "hiding place",
+        "hideaway",
+        "den",
+        "asylum",
+        "safe house",
+        "fastness"
+      ]
+    },
+    {
+      "description": "A nature reserve.",
+      "examples": [
+        "a bird sanctuary"
+      ],
+      "synonyms": [
+        "reserve",
+        "park",
+        "wildlife reserve",
+        "nature reserve",
+        "reservation",
+        "preserve",
+        "home",
+        "shelter"
+      ]
+    },
+    {
+      "description": "A holy place; a temple or church.",
+      "synonyms": [
+        "holy place",
+        "temple",
+        "shrine",
+        "tabernacle",
+        "altar",
+        "sanctum",
+        "inner sanctum",
+        "holy of holies",
+        "sacrarium",
+        "bema",
+        "naos",
+        "adytum"
+      ]
+    }
+  ],
+  "origin": "Middle English (in sanctuary (sense 3)): from Old French sanctuaire, from Latin sanctuarium, from sanctus holy. Early use in reference to a church or other sacred place where a fugitive was immune, by the law of the medieval Church, from arrest, gave rise to sanctuary (sense 1,.",
+  "pronounciation": "/ˈsæŋk(t)ʃəˌwɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sanctuary_us_1.mp3"
+}

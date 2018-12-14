@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of sound) deep, clear, and continuing to sound or ring.",
+      "examples": [
+        "a full-throated and resonant guffaw"
+      ],
+      "synonyms": [
+        "deep",
+        "low",
+        "sonorous",
+        "full",
+        "full-bodied",
+        "vibrant",
+        "rich",
+        "clear",
+        "ringing",
+        "orotund"
+      ]
+    },
+    {
+      "description": "(of a room, musical instrument, or hollow body) tending to reinforce or prolong sounds, especially by synchronous vibration."
+    },
+    {
+      "description": "Relating to or bringing about resonance in a circuit, atom, or other object."
+    },
+    {
+      "description": "(of a color) enhancing or enriching another color or colors by contrast."
+    }
+  ],
+  "origin": "Late 16th century: from French résonnant or Latin resonant- resounding, from the verb resonare, from re- (expressing intensive force) + sonare to sound.",
+  "pronounciation": "/ˈrezənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resonant_us_1.mp3"
+}

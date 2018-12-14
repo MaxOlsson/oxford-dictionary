@@ -1,0 +1,52 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of a horse) short of breath; asthmatic.",
+      "synonyms": [
+        "short",
+        "squat",
+        "stubby"
+      ]
+    },
+    {
+      "description": "(of a person) fat.",
+      "synonyms": [
+        "fat",
+        "fattish",
+        "obese",
+        "overweight",
+        "plump",
+        "portly",
+        "stout",
+        "chubby",
+        "paunchy",
+        "beer-bellied",
+        "thickset",
+        "hefty",
+        "heavy",
+        "heavyset",
+        "burly",
+        "bulky",
+        "chunky",
+        "well padded",
+        "well covered",
+        "well upholstered",
+        "meaty",
+        "fleshy",
+        "rotund",
+        "round",
+        "well rounded",
+        "broad",
+        "broad in the beam",
+        "of ample proportions",
+        "big",
+        "large",
+        "gargantuan",
+        "elephantine"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: reduction of Anglo-Norman French porsif, alteration of Old French polsif, from polser breathe with difficulty, from Latin pulsare set in violent motion.",
+  "pronounciation": "/ˈpərsē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pursy_us_1.mp3"
+}

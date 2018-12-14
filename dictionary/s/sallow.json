@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person's face or complexion) of an unhealthy yellow or pale brown color.",
+      "examples": [
+        "his skin was sallow and pitted",
+        "sallow-faced addicts"
+      ],
+      "synonyms": [
+        "yellowish",
+        "jaundiced",
+        "pallid",
+        "wan",
+        "pale",
+        "waxen",
+        "anaemic",
+        "bloodless",
+        "colourless",
+        "pasty",
+        "pasty-faced"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A willow tree, especially one of a low-growing or shrubby kind."
+    },
+    {
+      "description": "A moth with dull yellow, orange, and brown patterned wings. The larvae of some species feed on sallow catkins."
+    }
+  ],
+  "origin": "Old English salh, of Germanic origin; related to Old Norse selja, and Latin salix willow.",
+  "pronounciation": "/ˈsæloʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sallow_us_1.mp3"
+}

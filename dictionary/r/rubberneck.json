@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Turn one's head to stare at something in a foolish manner.",
+      "examples": [
+        "a passerby rubbernecking at the accident scene"
+      ],
+      "synonyms": [
+        "glance",
+        "gaze",
+        "stare",
+        "gape",
+        "peer",
+        "fix one's gaze",
+        "focus"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who rubbernecks.",
+      "synonyms": [
+        "meddler",
+        "interferer",
+        "mischief-maker",
+        "troublemaker",
+        "gossip",
+        "scandalmonger",
+        "muckraker",
+        "eavesdropper",
+        "intruder",
+        "ghoul",
+        "gawker"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrəbərˌnek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rubberneck_us_1.mp3"
+}

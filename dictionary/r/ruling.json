@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An authoritative decision or pronouncement, especially one made by a judge.",
+      "synonyms": [
+        "decision",
+        "pronouncement",
+        "resolution",
+        "decree",
+        "determination",
+        "injunction"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Currently exercising authority or influence.",
+      "examples": [
+        "the ruling coalition"
+      ],
+      "synonyms": [
+        "reigning",
+        "sovereign",
+        "on the throne"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈro͞oliNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ruling_us_1.mp3"
+}

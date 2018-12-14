@@ -1,0 +1,21 @@
+{
+  "adverb": [
+    {
+      "description": "In a fixed or stable manner.",
+      "examples": [
+        "keep the lid securely fastened",
+        "make sure keys are stored securely",
+        "prisoners held securely behind bars"
+      ]
+    },
+    {
+      "description": "Without threat or danger.",
+      "examples": [
+        "the data remains securely protected",
+        "he is securely employed"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈkyo͝orlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/securely_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "Paper with sand or another abrasive stuck to it, used for smoothing or polishing woodwork or other surfaces."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Smooth with sandpaper.",
+      "synonyms": [
+        "smooth",
+        "buff",
+        "rub",
+        "rub down",
+        "polish",
+        "burnish",
+        "furbish"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsæn(d)ˌpeɪpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sandpaper_us_1.mp3"
+}

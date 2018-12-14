@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Wash (something) with clean water to remove soap, detergent, dirt, or impurities.",
+      "examples": [
+        "always rinse your hair thoroughly",
+        "mussels should be well rinsed before use"
+      ],
+      "synonyms": [
+        "wash",
+        "wash out",
+        "wash lightly",
+        "clean",
+        "cleanse",
+        "bathe",
+        "dip",
+        "drench",
+        "splash",
+        "hose down",
+        "swill",
+        "sluice"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of rinsing something.",
+      "examples": [
+        "I gave my hands a quick rinse"
+      ],
+      "synonyms": [
+        "immersion",
+        "plunge",
+        "ducking",
+        "dunking"
+      ]
+    },
+    {
+      "description": "An antiseptic solution for cleansing the mouth."
+    },
+    {
+      "description": "A preparation for conditioning or temporarily tinting the hair."
+    }
+  ],
+  "phrases": [
+    "If the sun doesn't come out soon, I'm going to kill myself. Rain, clouds, grey, cold. Rinse, repeat",
+    "Most scary movies have the build up, the scary moment, then they let you relax for a while. Lather, rinse, repeat",
+    "People are introduced. Stuff happens to them. Occasionally, it involves Martians. Colonel Wilder shows up. Stuff happens to him. Lather, rinse, repeat.",
+    "He's up at 6: 30 a.m., at his desk by 7: 30 a.m., to the golf course at 2 p.m. for 18 holes, back home by 6 p.m., nap until 6: 30 p.m., dinner at 7, work a few more hours, rinse, repeat.",
+    "Plotline for every song here: narrator's heart is broken so he goes and gets drunk, lather, rinse, repeat."
+  ],
+  "origin": "Middle English (as a verb): from Old French rincer, of unknown ultimate origin.",
+  "pronounciation": "/rɪns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rinse_us_1.mp3"
+}

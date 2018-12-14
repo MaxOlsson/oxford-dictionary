@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Make smaller or less in amount, degree, or size.",
+      "examples": [
+        "the need for businesses to reduce costs",
+        "the workforce has been reduced to some 6,100",
+        "a reduced risk of coronary disease"
+      ],
+      "synonyms": [
+        "lessen",
+        "make less",
+        "make smaller",
+        "lower",
+        "bring down",
+        "decrease",
+        "turn down",
+        "diminish",
+        "take the edge off",
+        "minimize"
+      ]
+    },
+    {
+      "description": "Bring someone or something to (a lower or weaker state, condition, or role)",
+      "examples": [
+        "she has been reduced to near poverty",
+        "the church was reduced to rubble"
+      ],
+      "synonyms": [
+        "bring to",
+        "bring to the point of",
+        "force into",
+        "drive into"
+      ]
+    },
+    {
+      "description": "Change a substance to (a different or more basic form)",
+      "examples": [
+        "it is difficult to understand how lava could have been reduced to dust"
+      ]
+    },
+    {
+      "description": "Cause to combine chemically with hydrogen."
+    },
+    {
+      "description": "Restore (a dislocated part) to its proper position by manipulation or surgery."
+    },
+    {
+      "description": "Besiege and capture (a town or fortress)."
+    }
+  ],
+  "phrases": [
+    "a divorcee living in reduced circumstances",
+    "Don't get too depressed at your newly reduced circumstances.",
+    "These were difficult years financially, and he never fully recovered from his reduced circumstances even after he moved back to New York in 1783.",
+    "However, many of these women were living in reduced circumstances, and in order to increase their productivity they were forced to enlist the help of their own children, which kept them out of school.",
+    "This told the story of a family struggling to survive in reduced circumstances after the father had been falsely imprisoned."
+  ],
+  "origin": "Late Middle English: from Latin reducere, from re- back, again + ducere bring, lead. The original sense was bring back (hence restore, now surviving in reduce (sense 5)); this led to bring to a different state, then bring to a simpler or lower state (hence reduce (sense 3)); and finally diminish in size or amount ( reduce (sense 1), dating from the late 18th century).",
+  "pronounciation": "/rəˈd(j)us/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reduce_us_1.mp3"
+}

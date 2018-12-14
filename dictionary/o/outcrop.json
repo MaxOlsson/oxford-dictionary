@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A rock formation that is visible on the surface.",
+      "examples": [
+        "dramatic limestone outcrops"
+      ],
+      "synonyms": [
+        "hillock",
+        "mound",
+        "rise",
+        "hummock",
+        "hill",
+        "hump",
+        "knob",
+        "tor",
+        "tump",
+        "barrow",
+        "bank",
+        "ridge",
+        "dune",
+        "elevation",
+        "acclivity",
+        "eminence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Appear as an outcrop.",
+      "synonyms": [
+        "crag",
+        "cliff",
+        "tor",
+        "outcrop",
+        "outcropping"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈoutˌkräp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outcrop_us_1.mp3"
+}

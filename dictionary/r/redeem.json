@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Compensate for the faults or bad aspects of (something)",
+      "examples": [
+        "a disappointing debate redeemed only by an outstanding speech",
+        "the splendid views are the one redeeming feature of the center"
+      ],
+      "synonyms": [
+        "compensating",
+        "compensatory",
+        "extenuating",
+        "offsetting",
+        "qualifying",
+        "redemptive"
+      ]
+    },
+    {
+      "description": "Gain or regain possession of (something) in exchange for payment.",
+      "examples": [
+        "his best suit had been redeemed from the pawnbrokers"
+      ],
+      "synonyms": [
+        "retrieve",
+        "regain",
+        "recover",
+        "get back",
+        "reclaim",
+        "repossess",
+        "have something returned",
+        "rescue"
+      ]
+    },
+    {
+      "description": "Fulfill or carry out (a pledge or promise)",
+      "examples": [
+        "the party prepared to redeem the pledges of the past three years"
+      ],
+      "synonyms": [
+        "fulfil",
+        "carry out",
+        "discharge",
+        "make good",
+        "execute"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense buy back): from Old French redimer or Latin redimere, from re- back + emere buy.",
+  "pronounciation": "/rəˈdēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/redeem_us_1.mp3"
+}

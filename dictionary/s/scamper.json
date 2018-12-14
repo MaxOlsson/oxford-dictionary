@@ -1,0 +1,56 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a small animal or child) run with quick light steps, especially through fear or excitement.",
+      "examples": [
+        "he scampered in like an overgrown puppy"
+      ],
+      "synonyms": [
+        "scurry",
+        "scuttle",
+        "dart",
+        "run",
+        "rush",
+        "dash",
+        "race",
+        "sprint",
+        "hurry",
+        "hasten",
+        "make haste"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of scampering.",
+      "synonyms": [
+        "dash",
+        "rush",
+        "run",
+        "bolt",
+        "break",
+        "charge",
+        "race",
+        "sprint",
+        "bound",
+        "spring",
+        "leap",
+        "jump",
+        "lunge",
+        "pounce",
+        "dive",
+        "swoop",
+        "gallop",
+        "scurry",
+        "scamper",
+        "stampede",
+        "scramble",
+        "start",
+        "flight"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (in the sense run away): probably from scamp.",
+  "pronounciation": "/ˈskæmpər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scamper_us_1.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Bake too much or for too long.",
+      "examples": [
+        "take care not to overbake them; their centres should remain soft and chewy"
+      ],
+      "synonyms": [
+        "overcook",
+        "burn",
+        "burn to a cinder",
+        "burn to a crisp"
+      ]
+    },
+    {
+      "description": "Do (something) to excess; exaggerate.",
+      "examples": [
+        "are we in the national news media overbaking this thing just a bit?"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈbāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overbake_us_1.mp3"
+}

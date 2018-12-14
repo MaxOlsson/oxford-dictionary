@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Fearful; frightened.",
+      "examples": [
+        "she's scared stiff of her dad",
+        "I was scared I was going to kill myself",
+        "he's scared to come to you and ask for help"
+      ],
+      "synonyms": [
+        "frightened",
+        "afraid",
+        "fearful",
+        "nervous",
+        "panicky",
+        "agitated",
+        "alarmed",
+        "worried",
+        "intimidated"
+      ]
+    }
+  ],
+  "pronounciation": "/skerd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scared_us_1.mp3"
+}

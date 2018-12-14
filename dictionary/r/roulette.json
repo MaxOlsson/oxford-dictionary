@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A gambling game in which a ball is dropped onto a revolving wheel (roulette wheel) with numbered compartments, the players betting on the number at which the ball will come to rest."
+    },
+    {
+      "description": "A tool or machine with a revolving toothed wheel, used in engraving or for making slit-shaped perforations between postage stamps."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make slit-shaped perforations in (paper, especially sheets of postage stamps)",
+      "examples": [
+        "the pages are rouletted next to the binding"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: from French, diminutive of rouelle wheel, from late Latin rotella, diminutive of Latin rota wheel.",
+  "pronounciation": "/ruˈlɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roulette_us_1.mp3"
+}

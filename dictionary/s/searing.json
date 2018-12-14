@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Extremely hot or intense.",
+      "examples": [
+        "the searing heat of the sun",
+        "a searing pain"
+      ],
+      "synonyms": [
+        "scorching",
+        "blistering",
+        "flaming",
+        "blazing",
+        "blazing hot",
+        "baking",
+        "baking hot",
+        "burning",
+        "fiery",
+        "torrid",
+        "parching",
+        "withering"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsiriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/searing_us_1.mp3"
+}

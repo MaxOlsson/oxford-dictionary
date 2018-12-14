@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Give (a metal object) a different form by melting it down and reshaping it.",
+      "synonyms": [
+        "adapt",
+        "turn",
+        "rework",
+        "reshape",
+        "refashion",
+        "remodel",
+        "remould"
+      ]
+    },
+    {
+      "description": "Allocate the parts in (a play or film) to different actors.",
+      "examples": [
+        "there were moves to recast the play"
+      ],
+      "synonyms": [
+        "emendation",
+        "correction",
+        "alteration",
+        "changing",
+        "adaptation",
+        "editing",
+        "copy-editing",
+        "rewriting",
+        "redrafting",
+        "recasting",
+        "rephrasing",
+        "reworking",
+        "updating",
+        "revamping"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈkæst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recast_us_1.mp3"
+}

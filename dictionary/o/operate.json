@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) control the functioning of (a machine, process, or system)",
+      "examples": [
+        "a shortage of workers to operate new machines"
+      ],
+      "synonyms": [
+        "work",
+        "make go",
+        "run",
+        "set off",
+        "use",
+        "utilize",
+        "employ",
+        "handle",
+        "control",
+        "wield",
+        "ply",
+        "manage",
+        "be in charge of"
+      ]
+    },
+    {
+      "description": "Perform a surgical operation.",
+      "examples": [
+        "surgeons operated on on his jaw yesterday morning",
+        "doctors refused to operate because of the risks involved"
+      ],
+      "synonyms": [
+        "perform surgery",
+        "carry out an operation",
+        "intervene"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from Latin operat- done by labor, from the verb operari, from opus, oper- work.",
+  "pronounciation": "/ˈäpəˌrāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/operate_us_1.mp3"
+}

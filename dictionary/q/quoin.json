@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An external angle of a wall or building.",
+      "examples": [
+        "smaller stations followed the same pattern; stone-built, with strongly accented quoins"
+      ]
+    },
+    {
+      "description": "A wedge or expanding mechanical device used for locking a letterpress form into a chase."
+    },
+    {
+      "description": "A wedge for raising the level of a gun barrel or for keeping it from rolling."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (a wall) with quoins or corners.",
+      "examples": [
+        "the white plaster walls quoined with red sandstone blocks"
+      ]
+    },
+    {
+      "description": "Lock up (a form) with a quoin."
+    }
+  ],
+  "origin": "Middle English: variant of coin, used earlier in the sense cornerstone and wedge.",
+  "pronounciation": "/k(w)ɔɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quoin_us_1.mp3"
+}

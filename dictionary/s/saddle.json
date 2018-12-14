@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A seat fastened on the back of a horse or other animal for riding, typically made of leather and raised at the front and rear."
+    },
+    {
+      "description": "A low part of a ridge between two higher points or peaks."
+    },
+    {
+      "description": "A shaped support on which a cable, wire, or pipe rests."
+    },
+    {
+      "description": "The lower part of the back in a mammal or fowl, especially when distinct in shape or marking."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Put a saddle on (a horse)",
+      "examples": [
+        "he was in the stable saddling up his horse"
+      ]
+    }
+  ],
+  "phrases": [
+    "Warm temperatures during the week made plenty of stops essential to water the horses but the riders coped well, spending up to six hours a day in the saddle.",
+    "If your legs are weak, your entire sense of balance in the saddle will be off.",
+    "A lot of beginners can be rhythmical on the ground but once they're in the saddle, they tend to hold their breath and react when they get frightened.",
+    "The Irish rider, winner of six jockey titles in the UK, has few equals in the saddle and boasts a habit of bouncing back from troubles.",
+    "Manolo, the horseman, haggard after twelve hours in the saddle and a sleepless night, reached out to shake me fully awake."
+  ],
+  "origin": "Old English sadol, sadul, of Germanic origin; related to Dutch zadel and German Sattel, perhaps from an Indo-European root shared by Latin sella seat and sit.",
+  "pronounciation": "/ˈsadl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saddle_us_1.mp3"
+}

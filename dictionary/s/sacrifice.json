@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "An act of slaughtering an animal or person or surrendering a possession as an offering to God or to a divine or supernatural figure.",
+      "examples": [
+        "they offer sacrifices to the spirits",
+        "the ancient laws of animal sacrifice"
+      ],
+      "synonyms": [
+        "ritual slaughter",
+        "hecatomb",
+        "immolation",
+        "offering",
+        "oblation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Offer or kill as a religious sacrifice.",
+      "examples": [
+        "the goat was sacrificed at the shrine"
+      ],
+      "synonyms": [
+        "offer up",
+        "immolate",
+        "slaughter"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin sacrificium; related to sacrificus sacrificial, from sacer holy.",
+  "pronounciation": "/ˈsækrəˌfaɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sacrifice_us_1.mp3"
+}

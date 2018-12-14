@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a pipe, a vessel, or a bodily part such as an organ or membrane) break or burst suddenly.",
+      "examples": [
+        "if the main artery ruptures he could die"
+      ],
+      "synonyms": [
+        "break",
+        "fracture",
+        "crack"
+      ]
+    },
+    {
+      "description": "Breach or disturb (a harmonious feeling or situation)",
+      "examples": [
+        "once trust has been ruptured it can be difficult to regain"
+      ],
+      "synonyms": [
+        "sever",
+        "break",
+        "cut off",
+        "break off",
+        "breach",
+        "disrupt"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of breaking or bursting suddenly and completely.",
+      "examples": [
+        "a small hairline crack could develop into a rupture",
+        "the patient died after rupture of an aneurysm"
+      ],
+      "synonyms": [
+        "breaking",
+        "breakage",
+        "cracking",
+        "cleavage",
+        "shattering",
+        "fragmentation",
+        "splintering",
+        "splitting",
+        "separation",
+        "bursting",
+        "disintegration"
+      ]
+    },
+    {
+      "description": "A breach of a harmonious relationship.",
+      "examples": [
+        "the rupture with his father would never be healed"
+      ],
+      "synonyms": [
+        "rift",
+        "estrangement",
+        "break-up",
+        "breach",
+        "split",
+        "severance",
+        "separation",
+        "parting",
+        "division",
+        "alienation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Old French rupture or Latin ruptura, from rumpere to break. The verb dates from the mid 18th century.",
+  "pronounciation": "/ˈrəpCHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rupture_us_1.mp3"
+}

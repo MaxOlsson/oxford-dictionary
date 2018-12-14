@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Made, done, happening, or chosen without method or conscious decision.",
+      "examples": [
+        "a random sample of 100 households"
+      ],
+      "synonyms": [
+        "haphazard",
+        "disorganized",
+        "undisciplined",
+        "erratic",
+        "unmethodical",
+        "uneven",
+        "careless",
+        "slapdash",
+        "slipshod",
+        "casual",
+        "offhand",
+        "remiss",
+        "cursory",
+        "lackadaisical",
+        "perfunctory",
+        "aimless",
+        "undirected",
+        "indiscriminate",
+        "trial-and-error"
+      ]
+    },
+    {
+      "description": "Unfamiliar or unspecified.",
+      "examples": [
+        "are you going to take some random guy on Twitter's word?",
+        "we stumbled on another live band playing at a random bar"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unknown, unspecified, or odd person.",
+      "examples": [
+        "I just sat down by myself and talked to some randoms",
+        "some randoms in the crowd asked Ivan Ljubicic to take a photo for them",
+        "unlike other fan mail from randoms, this was special"
+      ]
+    }
+  ],
+  "phrases": [
+    "he opened the book at random",
+    "The chicken will begin its walk from a corner of the field chosen at random just moments before the event takes place.",
+    "Manu and Nadine meet up, and go on a road trip, picking up men, and killing at random.",
+    "He put unbound sheets into a box and invited us to read them at random!",
+    "The questions are generated on the computer system at random from a question bank."
+  ],
+  "origin": "Middle English (in the sense impetuous headlong rush): from Old French randon great speed, from randir gallop, from a Germanic root shared by rand.",
+  "pronounciation": "/ˈrændəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/random_us_1.mp3"
+}

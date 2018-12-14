@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(chiefly of a synthetic or treated fabric or substance) not readily susceptible to fire.",
+      "examples": [
+        "fire-retardant polymers"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fabric or substance that prevents or inhibits something, especially the outbreak of fire.",
+      "synonyms": [
+        "constraint",
+        "check",
+        "control",
+        "restriction",
+        "limitation",
+        "curtailment"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈtärd(ə)nt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retardant_us_1.mp3"
+}

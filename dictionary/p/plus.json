@@ -1,0 +1,94 @@
+{
+  "preposition": [
+    {
+      "description": "With the addition of.",
+      "examples": [
+        "two plus four is six",
+        "he was awarded the full amount plus interest"
+      ],
+      "synonyms": [
+        "and",
+        "added to",
+        "increased by",
+        "with the addition of"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(after a number or amount) at least.",
+      "examples": [
+        "companies put losses at $500,000 plus"
+      ]
+    },
+    {
+      "description": "(before a number) above zero; positive.",
+      "examples": [
+        "plus 60 degrees centigrade"
+      ]
+    },
+    {
+      "description": "Having a positive electric charge."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An advantage."
+    },
+    {
+      "examples": [
+        "knowing the language is a decided plus"
+      ],
+      "synonyms": [
+        "advantage",
+        "good point",
+        "plus point",
+        "asset",
+        "pro",
+        "benefit",
+        "added advantage",
+        "additional benefit",
+        "fringe benefit",
+        "bonus",
+        "extra",
+        "added extra",
+        "perk",
+        "dividend",
+        "attraction",
+        "attractive feature",
+        "beauty"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "Furthermore; also.",
+      "examples": [
+        "it's packed full of medical advice, plus it keeps you informed about the latest research"
+      ],
+      "synonyms": [
+        "also",
+        "as well",
+        "in addition",
+        "additionally",
+        "into the bargain",
+        "besides",
+        "furthermore",
+        "moreover",
+        "yet",
+        "on top of that",
+        "to boot"
+      ]
+    }
+  ],
+  "phrases": [
+    "on the plus side, the staff are enthusiastic and good-natured",
+    "The comparison information wasn't as good as its more established competitors, but on the plus side it returned a lot more hits and found a much lower price.",
+    "On the plus side, there is no background distortion or hiss that I could make out.",
+    "On the plus side, Paris is one of the best holiday destinations if the weather isn't great, because there are so many beautiful buildings and galleries to discover.",
+    "On the plus side, the high-calibre cast is uniformly excellent."
+  ],
+  "origin": "Mid 16th century: from Latin, literally more.",
+  "pronounciation": "/pləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plus_us_1.mp3"
+}

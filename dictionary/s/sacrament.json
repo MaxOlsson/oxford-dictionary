@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "(in the Christian Church) a religious ceremony or ritual regarded as imparting divine grace, such as baptism, the Eucharist and (in the Roman Catholic and many Orthodox Churches) penance and the anointing of the sick.",
+      "synonyms": [
+        "rite",
+        "ritual",
+        "ceremony",
+        "observance",
+        "service",
+        "usage",
+        "institution",
+        "practice"
+      ]
+    },
+    {
+      "description": "(in Roman Catholic use) the consecrated elements of the Eucharist, especially the bread or Host.",
+      "examples": [
+        "he heard Mass and received the sacrament"
+      ]
+    },
+    {
+      "description": "A thing of mysterious and sacred significance; a religious symbol."
+    }
+  ],
+  "origin": "Middle English: from Old French sacrement, from Latin sacramentum solemn oath (from sacrare to hallow, from sacer sacred), used in Christian Latin as a translation of Greek mustērion mystery.",
+  "pronounciation": "/ˈsækrəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sacrament_us_1.mp3"
+}

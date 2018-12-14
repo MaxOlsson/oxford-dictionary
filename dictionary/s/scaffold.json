@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "A raised wooden platform used formerly for the public execution of criminals."
+    },
+    {
+      "description": "A structure made using scaffolding."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attach scaffolding to (a building)",
+      "examples": [
+        "they scaffolded the building, then removed the roof"
+      ]
+    }
+  ],
+  "origin": "Middle English (denoting a temporary platform from which to repair or erect a building): from Anglo-Norman French, from Old French ( e)schaffaut, from the base of catafalque.",
+  "pronounciation": "/ˈskafəld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scaffold_us_1.mp3"
+}

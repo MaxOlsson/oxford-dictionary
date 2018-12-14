@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Mention or allude to.",
+      "examples": [
+        "the reports of the commission are often referred to in the media",
+        "New York, referred to as the Big Apple"
+      ],
+      "synonyms": [
+        "mention",
+        "make mention of",
+        "make reference to",
+        "allude to",
+        "touch on",
+        "speak about",
+        "speak of",
+        "talk about",
+        "talk of",
+        "write about",
+        "cite",
+        "name",
+        "comment on",
+        "deal with",
+        "go into",
+        "treat",
+        "treat of",
+        "note",
+        "point out",
+        "call attention to",
+        "bring up",
+        "raise",
+        "broach",
+        "introduce"
+      ]
+    },
+    {
+      "description": "Pass a matter to (another body, typically one with more authority or expertise) for a decision.",
+      "examples": [
+        "disagreement arose and the issue was referred back to the Executive Committee"
+      ]
+    },
+    {
+      "description": "Trace or attribute something to (someone or something) as a cause or source.",
+      "examples": [
+        "the God to whom he habitually referred his highest inspirations"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French referer or Latin referre carry back, from re- back + ferre bring.",
+  "pronounciation": "/rəˈfər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/refer_us_1.mp3"
+}

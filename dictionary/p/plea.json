@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A request made in an urgent and emotional manner.",
+      "examples": [
+        "he made a dramatic plea for disarmament"
+      ],
+      "synonyms": [
+        "appeal",
+        "entreaty",
+        "supplication",
+        "petition",
+        "prayer"
+      ]
+    },
+    {
+      "description": "A formal statement by or on behalf of a defendant or prisoner, stating guilt or innocence in response to a charge, offering an allegation of fact, or claiming that a point of law should apply.",
+      "examples": [
+        "he changed his plea to not guilty"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense lawsuit): from Old French plait, plaid agreement, discussion, from Latin placitum a decree, neuter past participle of placere to please.",
+  "pronounciation": "/plē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plea_us_1.mp3"
+}

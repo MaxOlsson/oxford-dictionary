@@ -1,0 +1,91 @@
+{
+  "verb": [
+    {
+      "description": "(of troops) come together again in order to continue fighting after a defeat or dispersion.",
+      "examples": [
+        "De Montfort's troops rallied and drove back the king's infantry"
+      ],
+      "synonyms": [
+        "reassemble",
+        "regroup",
+        "re-form",
+        "reunite",
+        "gather together again",
+        "get together again"
+      ]
+    },
+    {
+      "description": "Recover or cause to recover in health, spirits, or poise.",
+      "examples": [
+        "she floundered for a moment, then rallied again",
+        "they rallied her with a drink"
+      ],
+      "synonyms": [
+        "recover",
+        "improve",
+        "get better",
+        "pick up",
+        "revive",
+        "come back",
+        "make a comeback",
+        "rebound",
+        "bounce back",
+        "perk up",
+        "look up",
+        "take a turn for the better",
+        "turn a corner",
+        "turn the corner",
+        "be given a new lease of life",
+        "take on a new lease of life"
+      ]
+    },
+    {
+      "description": "Drive in a rally."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A mass meeting of people making a political protest or showing support for a cause.",
+      "examples": [
+        "a rally attended by around 100,000 people"
+      ],
+      "synonyms": [
+        "meeting",
+        "mass meeting",
+        "gathering",
+        "assembly",
+        "tweetup"
+      ]
+    },
+    {
+      "description": "A competition for motor vehicles in which they are driven a long distance over public roads or rough terrain, typically in stages and through checkpoints.",
+      "examples": [
+        "a rally driver"
+      ]
+    },
+    {
+      "description": "A quick or marked recovery after a reverse or a period of weakness.",
+      "examples": [
+        "the market staged a late rally"
+      ],
+      "synonyms": [
+        "recovery",
+        "upturn",
+        "improvement",
+        "revival",
+        "comeback",
+        "rebound",
+        "resurgence",
+        "renewal",
+        "a turn for the better",
+        "reaction"
+      ]
+    },
+    {
+      "description": "(in tennis and other racket sports) an extended exchange of strokes between players."
+    }
+  ],
+  "origin": "Mid 17th century: from French railler to rib, tease (see rail).",
+  "pronounciation": "/ˈræli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rally_us_1.mp3"
+}

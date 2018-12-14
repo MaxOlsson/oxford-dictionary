@@ -1,0 +1,28 @@
+{
+  "adverb": [
+    {
+      "description": "Toward the sea.",
+      "examples": [
+        "after about a mile they turned seaward"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Going or pointing toward the sea.",
+      "examples": [
+        "there was a seaward movement of water on the bottom"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The side that faces or is nearer to the sea.",
+      "examples": [
+        "breakwaters were extended further to seaward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsiwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seaward_us_1.mp3"
+}

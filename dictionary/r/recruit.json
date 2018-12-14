@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Enlist (someone) in the armed forces.",
+      "examples": [
+        "they recruit their toughest soldiers from the desert tribes",
+        "the regiment was still actively recruiting"
+      ],
+      "synonyms": [
+        "enlist",
+        "sign up",
+        "enrol",
+        "engage",
+        "take on",
+        "round up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person newly enlisted in the armed forces and not yet fully trained.",
+      "examples": [
+        "3,000 army recruits at Ft. Benjamin"
+      ],
+      "synonyms": [
+        "conscript",
+        "new soldier"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the senses fresh body of troops and supplement the numbers in a group): from obsolete French dialect recrute, based on Latin recrescere grow again, from re- again + crescere grow.",
+  "pronounciation": "/rəˈkrut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recruit_us_1.mp3"
+}

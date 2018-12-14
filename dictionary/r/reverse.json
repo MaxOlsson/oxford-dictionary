@@ -1,0 +1,120 @@
+{
+  "verb": [
+    {
+      "description": "Move backward.",
+      "examples": [
+        "the truck reversed into the back of a bus"
+      ],
+      "synonyms": [
+        "back",
+        "go back",
+        "go backwards",
+        "drive back",
+        "drive backwards",
+        "move back",
+        "move backwards",
+        "send back",
+        "send backwards"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Going in or turned toward the direction opposite to that previously stated.",
+      "examples": [
+        "the trend appears to be going in the reverse direction"
+      ],
+      "synonyms": [
+        "opposite",
+        "contrary",
+        "converse",
+        "counter",
+        "inverse",
+        "obverse",
+        "opposing",
+        "contrasting",
+        "antithetical"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A complete change of direction or action.",
+      "examples": [
+        "the growth actuates a reverse of photosynthesis"
+      ]
+    },
+    {
+      "description": "The opposite or contrary to that previously stated.",
+      "examples": [
+        "he didn't feel homesick—quite the reverse"
+      ],
+      "synonyms": [
+        "opposite",
+        "contrary",
+        "converse",
+        "inverse",
+        "obverse",
+        "antithesis",
+        "opposite extreme",
+        "other extreme"
+      ]
+    },
+    {
+      "description": "An adverse change of fortune; a setback or defeat.",
+      "examples": [
+        "the team suffered its heaviest reverse of the season"
+      ],
+      "synonyms": [
+        "setback",
+        "reversal",
+        "upset",
+        "check",
+        "non-success",
+        "failure",
+        "misfortune",
+        "mishap",
+        "misadventure",
+        "accident",
+        "disaster",
+        "tragedy",
+        "catastrophe",
+        "blow",
+        "disappointment",
+        "adversity",
+        "hardship",
+        "affliction",
+        "vicissitude",
+        "defeat",
+        "rout"
+      ]
+    },
+    {
+      "description": "The opposite side or face to the observer.",
+      "examples": [
+        "the address is given on the reverse of this leaflet"
+      ],
+      "synonyms": [
+        "other side",
+        "reverse side",
+        "back",
+        "rear",
+        "underside",
+        "wrong side",
+        "flip side",
+        "b-side",
+        "verso"
+      ]
+    }
+  ],
+  "phrases": [
+    "he put the Cadillac into reverse",
+    "She threw the van into reverse and sped backwards, gaining enough distance that she could turn the big van around and flee from the scene of battle.",
+    "Then the seven vehicles started to move away, travelling in reverse.",
+    "Justin shifted into reverse and began to drive backwards until the headlights showed us the path to the correct exit.",
+    "I stepped off to the side so he wouldn't run over my feet as he threw the car into reverse and gunned it backwards, oblivious to the fact that there might be a car coming over the crest of the hill at 50 mph."
+  ],
+  "origin": "Middle English: from Old French revers, reverse (nouns), reverser (verb), from Latin reversus turned back, past participle of revertere, from re- back + vertere to turn.",
+  "pronounciation": "/rəˈvərs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reverse_us_1.mp3"
+}

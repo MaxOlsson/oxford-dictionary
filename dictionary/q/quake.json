@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "(especially of the earth) shake or tremble.",
+      "examples": [
+        "the rumbling vibrations set the whole valley quaking"
+      ],
+      "synonyms": [
+        "shake",
+        "tremble",
+        "quiver",
+        "shiver",
+        "shudder",
+        "sway",
+        "rock",
+        "wobble",
+        "move",
+        "heave",
+        "convulse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An earthquake.",
+      "synonyms": [
+        "earth tremor",
+        "tremor",
+        "convulsion",
+        "shock",
+        "foreshock",
+        "aftershock"
+      ]
+    }
+  ],
+  "origin": "Old English cwacian.",
+  "pronounciation": "/kweɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quake_us_1.mp3"
+}

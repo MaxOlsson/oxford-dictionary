@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Serving as a typical example of something.",
+      "examples": [
+        "his biography is paradigmatic of the experiences of this generation"
+      ]
+    },
+    {
+      "description": "Of or denoting the relationship between a set of linguistic items that form mutually exclusive choices in particular syntactic roles.",
+      "synonyms": [
+        "most typical",
+        "most characteristic",
+        "representative",
+        "standard",
+        "conventional",
+        "classic",
+        "model",
+        "exemplary",
+        "quintessential",
+        "prime",
+        "textbook",
+        "copybook"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpɛrədɪɡˈmædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paradigmatic_us_2.mp3"
+}

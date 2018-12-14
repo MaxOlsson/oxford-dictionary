@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Having left one's job and ceased to work.",
+      "examples": [
+        "a retired teacher"
+      ],
+      "synonyms": [
+        "former",
+        "ex-",
+        "emeritus",
+        "past",
+        "in retirement",
+        "pensioned",
+        "pensioned off"
+      ]
+    },
+    {
+      "description": "(of a place) quiet and secluded; not seen or frequented by many people.",
+      "examples": [
+        "this retired corner of the world"
+      ],
+      "synonyms": [
+        "peaceful",
+        "sleepy",
+        "tranquil",
+        "calm",
+        "still",
+        "relaxing",
+        "soothing",
+        "pleasant",
+        "restful",
+        "undisturbed",
+        "free from disturbance",
+        "free from interruption",
+        "free from interference",
+        "untroubled"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈtī(ə)rd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retired_us_1.mp3"
+}

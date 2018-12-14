@@ -1,0 +1,27 @@
+{
+  "exclamation": [
+    {
+      "description": "Expressing agreement or assent.",
+      "examples": [
+        "“Coming to pick up the kids?” “Righto.”"
+      ],
+      "synonyms": [
+        "all right",
+        "alright",
+        "very well",
+        "of course",
+        "by all means",
+        "sure",
+        "certainly",
+        "absolutely",
+        "indeed",
+        "affirmative",
+        "in the affirmative",
+        "agreed",
+        "roger"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌraɪˈdoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/righto_us_2.mp3"
+}

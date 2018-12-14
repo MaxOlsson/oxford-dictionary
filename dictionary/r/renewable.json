@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of a contract, agreement, etc.) capable of being renewed.",
+      "examples": [
+        "the 30-day truce is renewable by mutual agreement"
+      ]
+    },
+    {
+      "description": "(of a natural resource or source of energy) not depleted when used.",
+      "examples": [
+        "a shift away from fossil fuels to renewable energy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A source of energy that is not depleted by use, such as water, wind, or solar power."
+    }
+  ],
+  "pronounciation": "/rəˈn(y)o͞oəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/renewable_us_1.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Suffering from decay.",
+      "examples": [
+        "rotten eggs",
+        "the supporting beams were rotten"
+      ],
+      "synonyms": [
+        "decaying",
+        "decayed",
+        "rotting",
+        "bad",
+        "off",
+        "decomposed",
+        "decomposing",
+        "putrid",
+        "putrescent",
+        "spoiled",
+        "spoilt",
+        "tainted",
+        "perished",
+        "mouldy",
+        "mouldering",
+        "mildewy",
+        "sour",
+        "rancid",
+        "rank",
+        "festering",
+        "fetid",
+        "stinking",
+        "smelly",
+        "unfit for human consumption"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To an extreme degree; very much.",
+      "examples": [
+        "your mother said that I spoiled you rotten"
+      ],
+      "synonyms": [
+        "very much",
+        "a lot",
+        "a great deal"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old Norse rotinn.",
+  "pronounciation": "/ˈrätn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rotten_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) widely known.",
+      "examples": [
+        "use the magazine to publicize human rights abuses"
+      ],
+      "synonyms": [
+        "make known",
+        "make public",
+        "bring to public attention",
+        "bring to public notice",
+        "announce",
+        "report",
+        "communicate",
+        "impart",
+        "disclose",
+        "reveal",
+        "divulge",
+        "leak",
+        "publish",
+        "broadcast",
+        "transmit",
+        "issue",
+        "put out",
+        "distribute",
+        "spread",
+        "unfold",
+        "disseminate",
+        "circulate",
+        "air",
+        "blazon",
+        "herald",
+        "proclaim",
+        "promulgate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpəbləˌsīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/publicize_us_1.mp3"
+}

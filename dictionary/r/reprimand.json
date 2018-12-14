@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A rebuke, especially an official one.",
+      "synonyms": [
+        "rebuke",
+        "reproof",
+        "admonishment",
+        "admonition",
+        "reproach",
+        "reproval",
+        "scolding",
+        "remonstration",
+        "upbraiding",
+        "castigation",
+        "lambasting",
+        "lecture",
+        "criticism",
+        "censure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rebuke (someone), especially officially.",
+      "examples": [
+        "officials were dismissed or reprimanded for poor work"
+      ],
+      "synonyms": [
+        "rebuke",
+        "admonish",
+        "chastise",
+        "chide",
+        "upbraid",
+        "reprove",
+        "reproach",
+        "scold",
+        "remonstrate with",
+        "berate",
+        "take to task",
+        "pull up",
+        "castigate",
+        "lambaste",
+        "read someone the riot act",
+        "give someone a piece of one's mind",
+        "lecture",
+        "criticize",
+        "censure"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French réprimande, via Spanish from Latin reprimenda, things to be held in check, neuter plural gerundive of reprimere (see repress).",
+  "pronounciation": "/ˈreprəˌmand/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reprimand_us_1.mp3"
+}

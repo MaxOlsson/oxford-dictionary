@@ -1,0 +1,42 @@
+{
+  "prefix": [
+    {
+      "description": "Once more; afresh; anew.",
+      "examples": [
+        "reaccustom",
+        "reactivate"
+      ]
+    },
+    {
+      "description": "In return; mutually.",
+      "examples": [
+        "react",
+        "resemble"
+      ]
+    },
+    {
+      "description": "Behind or after.",
+      "examples": [
+        "relic",
+        "remain"
+      ]
+    },
+    {
+      "description": "With frequentative or intensive force.",
+      "examples": [
+        "resound",
+        "redouble"
+      ]
+    },
+    {
+      "description": "With negative force.",
+      "examples": [
+        "recant",
+        "rebuff"
+      ]
+    }
+  ],
+  "origin": "From Latin re-, red- again, back.",
+  "pronounciation": "/rē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/re_1_us_1.mp3"
+}

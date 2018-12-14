@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "Spongy white tissue lining the rind of an orange, lemon, and other citrus fruits."
+    },
+    {
+      "description": "The essence of something.",
+      "examples": [
+        "a book that he considered contained the pith of all his work"
+      ],
+      "synonyms": [
+        "essence",
+        "essential part",
+        "main point",
+        "fundamental point",
+        "heart",
+        "substance",
+        "heart of the matter",
+        "nub",
+        "core",
+        "quintessence",
+        "point",
+        "crux",
+        "gist",
+        "salient point",
+        "focal point",
+        "nucleus",
+        "meat",
+        "kernel",
+        "marrow",
+        "burden"
+      ]
+    },
+    {
+      "description": "Forceful and concise expression.",
+      "examples": [
+        "he writes with a combination of pith and exactitude"
+      ],
+      "synonyms": [
+        "succinctness",
+        "conciseness",
+        "concision",
+        "pithiness",
+        "economy of language",
+        "brevity"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Remove the pith from."
+    },
+    {
+      "description": "Pierce or sever the spinal cord of (an animal) so as to kill or immobilize it."
+    }
+  ],
+  "origin": "Old English pitha, of West Germanic origin.",
+  "pronounciation": "/piTH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pith_us_1.mp3"
+}

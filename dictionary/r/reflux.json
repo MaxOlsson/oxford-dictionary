@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The flow of a fluid through a vessel or valve in the body in a direction opposite to normal.",
+      "examples": [
+        "the majority of leg ulcer patients are elderly with simple superficial vein reflux",
+        "the main culprit is bile reflux, a backup of digestive fluid that is supposed to remain in the small intestine"
+      ]
+    },
+    {
+      "description": "The process of boiling a liquid so that any vapor is liquefied and returned to the stock.",
+      "examples": [
+        "the mixture was heated at reflux under nitrogen"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a fluid) flow backwards through a vessel or valve in the body.",
+      "examples": [
+        "acidic secretions of the stomach can reflux back upwards"
+      ]
+    },
+    {
+      "description": "Boil or cause to boil in circumstances such that the vapor returns to the stock of liquid after condensing.",
+      "examples": [
+        "the liquid is allowed to reflux until the thermometer records the lowest temperature possible",
+        "the solutions were refluxed for 9–12 hours"
+      ]
+    }
+  ],
+  "origin": "Middle English: from re- and flux.",
+  "pronounciation": "/ˈrēˌfləks/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reflux_us_1.mp3"
+}

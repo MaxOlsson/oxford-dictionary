@@ -1,0 +1,107 @@
+{
+  "noun": [
+    {
+      "description": "The number of points, goals, runs, etc. achieved in a game or by a team or an individual.",
+      "examples": [
+        "the final score was 25–16 in favor of Washington"
+      ],
+      "synonyms": [
+        "result",
+        "outcome"
+      ]
+    },
+    {
+      "description": "A group or set of twenty or about twenty.",
+      "examples": [
+        "a score of men lost their lives in the battle",
+        "Doyle's success brought imitators by the score"
+      ]
+    },
+    {
+      "description": "A written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other."
+    },
+    {
+      "description": "A notch or line cut or scratched into a surface.",
+      "synonyms": [
+        "scratch",
+        "nick",
+        "notch",
+        "snick",
+        "scrape",
+        "groove",
+        "chip",
+        "cut",
+        "gouge",
+        "incision",
+        "slit",
+        "gash"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Gain (a point, goal, run, etc.) in a competitive game.",
+      "examples": [
+        "Penn State scored two touchdowns in the fourth quarter",
+        "Martinez scored on Anderson's sacrifice fly"
+      ],
+      "synonyms": [
+        "get",
+        "gain",
+        "chalk up",
+        "win",
+        "achieve",
+        "attain",
+        "make"
+      ]
+    },
+    {
+      "description": "Orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.",
+      "examples": [
+        "the Quartet Suite was scored for flute, violin, viola da gamba, and continuo"
+      ],
+      "synonyms": [
+        "orchestrate",
+        "arrange",
+        "set",
+        "adapt"
+      ]
+    },
+    {
+      "description": "Cut or scratch a notch or line on (a surface)",
+      "examples": [
+        "score the card until you cut through"
+      ],
+      "synonyms": [
+        "scratch",
+        "cut",
+        "make a notch in",
+        "make a notches in",
+        "make a groove in",
+        "make a grooves in",
+        "notch",
+        "incise",
+        "scrape",
+        "nick",
+        "snick",
+        "chip",
+        "gouge",
+        "slit",
+        "gash"
+      ]
+    },
+    {
+      "description": "Examine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character."
+    }
+  ],
+  "phrases": [
+    "Those people can feel the fine balance between linear and interactive, between rules and freedom, between keeping score and not keeping score.",
+    "Managing a game is not simply blowing the whistle when an infringement occurs and keeping the score and time.",
+    "The variety of techniques used for keeping score in games is extremely diverse.",
+    "Each parent is involved in the sport - her mother is a competitor's steward and her father referees and keeps score at events.",
+    "From time to time I have read critical comments about the means of keeping score provided in some board games."
+  ],
+  "origin": "Late Old English scoru set of twenty, from Old Norse skor notch, tally, twenty, of Germanic origin; related to shear. The verb ( late Middle English) is from Old Norse skora make an incision.",
+  "pronounciation": "/skôr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/score_us_1.mp3"
+}

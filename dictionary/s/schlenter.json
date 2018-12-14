@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Not genuine; counterfeit.",
+      "examples": [
+        "boys learn to tell the difference between genuine and schlenter diamonds"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fake diamond."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Achieve or acquire by underhand means.",
+      "examples": [
+        "I can always manage to schlenter a car"
+      ],
+      "synonyms": [
+        "get",
+        "acquire",
+        "come by",
+        "secure",
+        "procure",
+        "come into possession of",
+        "pick up",
+        "be given"
+      ]
+    }
+  ],
+  "origin": "From Dutch and Afrikaans slenter trick. The sch- probably reflects Yiddish influence in the 19th century in diamond mining.",
+  "pronounciation": "/ˈʃlɛntə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/schlenter_gb_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The push or surge created by a wave."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a vessel) pitch or surge up in a heavy sea.",
+      "examples": [
+        "she scended forward, heavily and sickly, on the long swell"
+      ],
+      "synonyms": [
+        "throw",
+        "fling",
+        "cast",
+        "toss",
+        "hurl",
+        "lob",
+        "pitch",
+        "send",
+        "dash",
+        "let fly"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a verb): alteration of send or descend. The noun dates from the early 18th century.",
+  "pronounciation": "/send/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scend_us_1.mp3"
+}

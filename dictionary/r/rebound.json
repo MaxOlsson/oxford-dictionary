@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Bounce back through the air after hitting a hard surface or object.",
+      "examples": [
+        "his shot hammered into the post and rebounded across the goal"
+      ],
+      "synonyms": [
+        "bounce",
+        "bounce back",
+        "spring back",
+        "ricochet",
+        "boomerang",
+        "glance",
+        "recoil"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "(in sporting contexts) a ball or shot that bounces back after striking a hard surface.",
+      "examples": [
+        "he blasted the rebound into the net"
+      ]
+    }
+  ],
+  "": [],
+  "phrases": [
+    "I was on the rebound when I met Jack",
+    "Emily's on the rebound and uninterested in attachments, but Oliver is one smitten kitten, and he follows her around New York City, which is, luckily, uncrowded that afternoon.",
+    "Between courses we glanced around at our fellow diners who included trendy Londoners, confirmed bachelors and women who had finally given up on the yo-yo dieting cycle, or maybe they were just on the rebound.",
+    "After this enforced break, however, Stewart is on the rebound.",
+    "She is on the rebound, living and bickering with her mother in a chalet."
+  ],
+  "origin": "Late Middle English: from Old French rebondir, from re- back + bondir bounce up.",
+  "pronounciation": "/riˈbaʊnd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rebound_us_1.mp3"
+}

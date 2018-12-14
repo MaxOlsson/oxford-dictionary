@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) flow or leak slowly through porous material or small holes.",
+      "examples": [
+        "water began to seep through the soles of his boots"
+      ],
+      "synonyms": [
+        "ooze",
+        "trickle",
+        "exude",
+        "drip",
+        "dribble",
+        "flow",
+        "issue",
+        "discharge",
+        "excrete",
+        "escape",
+        "leak",
+        "drain",
+        "bleed",
+        "sweat",
+        "well",
+        "leach",
+        "filter",
+        "percolate",
+        "permeate",
+        "soak"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A place where petroleum or water oozes slowly out of the ground."
+    }
+  ],
+  "origin": "Late 18th century: perhaps a dialect form of Old English sīpian to soak.",
+  "pronounciation": "/sēp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seep_us_1.mp3"
+}

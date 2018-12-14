@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "A group of words taken from a text or speech and repeated by someone other than the original author or speaker.",
+      "examples": [
+        "a quotation from Mark Twain",
+        "biblical quotations"
+      ],
+      "synonyms": [
+        "citation",
+        "quote",
+        "reference",
+        "mention",
+        "allusion",
+        "excerpt",
+        "extract",
+        "selection",
+        "passage",
+        "line",
+        "cutting",
+        "clip",
+        "clipping",
+        "snippet",
+        "reading",
+        "section",
+        "piece",
+        "part",
+        "fragment",
+        "portion",
+        "paragraph",
+        "verse",
+        "stanza",
+        "canto",
+        "sentence",
+        "phrase"
+      ]
+    },
+    {
+      "description": "A formal statement setting out the estimated cost for a particular job or service.",
+      "examples": [
+        "you will be sent a written quotation for the cost of repairing your machine"
+      ],
+      "synonyms": [
+        "estimate",
+        "estimated price",
+        "price",
+        "quote",
+        "tender",
+        "bid",
+        "cost",
+        "charge",
+        "rate",
+        "figure"
+      ]
+    },
+    {
+      "description": "A registration granted to a company enabling their shares to be officially listed and traded."
+    }
+  ],
+  "origin": "Mid 16th century (denoting a marginal reference to a passage of text): from medieval Latin quotatio(n-), from the verb quotare (see quote).",
+  "pronounciation": "/ˌkwōˈtāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quotation_us_1.mp3"
+}

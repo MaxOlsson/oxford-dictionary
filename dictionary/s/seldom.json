@@ -1,0 +1,39 @@
+{
+  "adverb": [
+    {
+      "description": "Not often; rarely.",
+      "examples": [
+        "Islay is seldom visited by tourists",
+        "he was seldom absent",
+        "an old seldom-used church"
+      ],
+      "synonyms": [
+        "rarely",
+        "infrequently",
+        "on rare occasions",
+        "hardly ever",
+        "scarcely ever",
+        "hardly",
+        "scarcely",
+        "almost never",
+        "once in a while",
+        "every once in a while",
+        "only now and then",
+        "not often",
+        "only occasionally",
+        "sporadically"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not common; infrequent.",
+      "examples": [
+        "a great but seldom pleasure"
+      ]
+    }
+  ],
+  "origin": "Old English seldan, of Germanic origin; related to Dutch zelden and German selten, from a base meaning strange, wonderful.",
+  "pronounciation": "/ˈsɛldəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seldom_us_1.mp3"
+}

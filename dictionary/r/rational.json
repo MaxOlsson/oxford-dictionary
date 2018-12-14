@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Based on or in accordance with reason or logic.",
+      "examples": [
+        "I'm sure there's a perfectly rational explanation"
+      ],
+      "synonyms": [
+        "logical",
+        "reasoned",
+        "well reasoned",
+        "sensible",
+        "reasonable",
+        "cogent",
+        "coherent",
+        "intelligent",
+        "wise",
+        "judicious",
+        "sagacious",
+        "astute",
+        "shrewd",
+        "perceptive",
+        "enlightened",
+        "clear-eyed",
+        "clear-sighted",
+        "commonsensical",
+        "common-sense",
+        "well advised",
+        "well grounded",
+        "sound",
+        "sober",
+        "prudent",
+        "circumspect",
+        "politic"
+      ]
+    },
+    {
+      "description": "(of a number, quantity, or expression) expressible, or containing quantities that are expressible, as a ratio of whole numbers. When expressed as a decimal, a rational number has a finite or recurring expansion."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rational number."
+    }
+  ],
+  "origin": "Late Middle English (in the sense having the ability to reason): from Latin rationalis, from ratio(n-) reckoning, reason (see ratio).",
+  "pronounciation": "/ˈraSH(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rational_us_2.mp3"
+}

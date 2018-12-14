@@ -1,0 +1,180 @@
+{
+  "noun": [
+    {
+      "description": "The arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.",
+      "examples": [
+        "I filed the cards in alphabetical order"
+      ],
+      "synonyms": [
+        "sequence",
+        "arrangement",
+        "organization",
+        "disposition",
+        "structure",
+        "system",
+        "series",
+        "succession"
+      ]
+    },
+    {
+      "description": "An authoritative command, direction, or instruction.",
+      "examples": [
+        "he was not going to take orders from a mere administrator",
+        "the skipper gave the order to abandon ship"
+      ],
+      "synonyms": [
+        "command",
+        "instruction",
+        "directive",
+        "direction",
+        "decree",
+        "edict",
+        "injunction",
+        "mandate",
+        "dictate",
+        "commandment"
+      ]
+    },
+    {
+      "description": "A particular social, political, or economic system.",
+      "examples": [
+        "if only the peasantry would rise up against the established order",
+        "the social order of Britain"
+      ],
+      "synonyms": [
+        "system",
+        "class system",
+        "hierarchy",
+        "pecking order",
+        "grouping",
+        "grading",
+        "ranking",
+        "scale"
+      ]
+    },
+    {
+      "description": "A society of monks, priests, nuns, etc., living according to certain religious and social regulations and discipline and at least some of whose members take solemn vows.",
+      "examples": [
+        "the Franciscan Order"
+      ],
+      "synonyms": [
+        "community",
+        "brotherhood",
+        "sisterhood"
+      ]
+    },
+    {
+      "description": "The quality, nature, or importance of something.",
+      "examples": [
+        "with musical talent of this order, von Karajan would have been a phenomenon in any age"
+      ],
+      "synonyms": [
+        "type",
+        "kind",
+        "sort",
+        "nature",
+        "variety",
+        "ilk",
+        "genre",
+        "cast",
+        "style",
+        "brand",
+        "vintage"
+      ]
+    },
+    {
+      "description": "A principal taxonomic category that ranks below class and above family.",
+      "synonyms": [
+        "taxonomic group",
+        "class",
+        "subclass",
+        "family",
+        "species",
+        "breed"
+      ]
+    },
+    {
+      "description": "Any of the five classical styles of architecture (Doric, Ionic, Corinthian, Tuscan, and Composite) based on the proportions of columns, amount of decoration, etc."
+    },
+    {
+      "description": "Equipment or uniform for a specified purpose or of a specified type.",
+      "examples": [
+        "drill order"
+      ]
+    },
+    {
+      "description": "The degree of complexity of an equation, expression, etc., as denoted by an ordinal number."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give an authoritative direction or instruction to do something.",
+      "examples": [
+        "she ordered me to leave",
+        "“Stop frowning,” he ordered",
+        "the judge ordered a retrial",
+        "the court ordered that the case should be heard at the end of August",
+        "her father ordered her back home"
+      ],
+      "synonyms": [
+        "instruct",
+        "command",
+        "direct",
+        "enjoin",
+        "give the order to",
+        "give the command to",
+        "tell",
+        "require",
+        "charge",
+        "adjure"
+      ]
+    },
+    {
+      "description": "Request (something) to be made, supplied, or served.",
+      "examples": [
+        "my friend ordered the tickets last week",
+        "I asked the security guard to order me a taxi",
+        "are you ready to order, sir?"
+      ],
+      "synonyms": [
+        "request",
+        "apply for",
+        "send away for",
+        "send off for",
+        "write off for",
+        "put in an order for",
+        "place an order for",
+        "requisition"
+      ]
+    },
+    {
+      "description": "Arrange (something) in a methodical or appropriate way.",
+      "examples": [
+        "all entries are ordered by date",
+        "her normally well-ordered life"
+      ],
+      "synonyms": [
+        "organize",
+        "put in order",
+        "set in order",
+        "arrange",
+        "sort out",
+        "straighten out",
+        "marshal",
+        "dispose",
+        "lay out",
+        "regulate"
+      ]
+    }
+  ],
+  "phrases": [
+    "But on top of that, you have to put the chronology in order here.",
+    "Keep the cheques in order, and cash them in order, and don't forget to tick each one off your list each night you get back to the hotel.",
+    "Every item needed to be kept, in order, between the correct allocated colour coded dividers.",
+    "Aaron scrambled to pick up the papers and put them in order.",
+    "The history portion isn't always in order, which can be a bit confusing."
+  ],
+  "origin": "Middle English: from Old French ordre, from Latin ordo, ordin- row, series, rank.",
+  "pronounciation": "/ˈɔrdər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/order_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Slow to reveal emotion or opinions.",
+      "examples": [
+        "he is a reserved, almost taciturn man"
+      ],
+      "synonyms": [
+        "reticent",
+        "self-restrained",
+        "restrained",
+        "quiet",
+        "private",
+        "self-contained"
+      ]
+    },
+    {
+      "description": "Kept specially for a particular purpose or person.",
+      "examples": [
+        "a reserved seat"
+      ],
+      "synonyms": [
+        "booked",
+        "taken",
+        "spoken for",
+        "prearranged"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈzərvd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reserved_us_1.mp3"
+}

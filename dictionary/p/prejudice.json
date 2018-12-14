@@ -1,0 +1,89 @@
+{
+  "noun": [
+    {
+      "description": "Preconceived opinion that is not based on reason or actual experience.",
+      "examples": [
+        "English prejudice against foreigners",
+        "ingrained religious prejudices"
+      ],
+      "synonyms": [
+        "preconceived idea",
+        "preconception",
+        "preconceived notion"
+      ]
+    },
+    {
+      "description": "Harm or injury that results or may result from some action or judgment.",
+      "examples": [
+        "prejudice resulting from delay in the institution of the proceedings"
+      ],
+      "synonyms": [
+        "detriment",
+        "harm",
+        "disadvantage",
+        "damage",
+        "injury",
+        "hurt",
+        "impairment",
+        "loss"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give rise to prejudice in (someone); make biased.",
+      "examples": [
+        "the statement might prejudice the jury"
+      ],
+      "synonyms": [
+        "bias",
+        "influence",
+        "sway",
+        "predispose",
+        "make biased",
+        "make partial",
+        "make partisan",
+        "colour",
+        "poison",
+        "jaundice",
+        "warp",
+        "twist",
+        "slant",
+        "distort"
+      ]
+    },
+    {
+      "description": "Cause harm to (a state of affairs)",
+      "examples": [
+        "delay is likely to prejudice the child's welfare"
+      ],
+      "synonyms": [
+        "damage",
+        "be detrimental to",
+        "be prejudicial to",
+        "be disadvantageous to",
+        "injure",
+        "harm",
+        "hurt",
+        "mar",
+        "spoil",
+        "impair",
+        "undermine",
+        "be deleterious to",
+        "hinder",
+        "compromise",
+        "drive a nail into the coffin of"
+      ]
+    }
+  ],
+  "phrases": [
+    "the payment was made without any prejudice to her rights",
+    "This procedure is without prejudice to the Supervising Officer's responsibility under the building contract.",
+    "He is to stress that any acceptance by us of the keys is without prejudice to the dilapidations claim.",
+    "The order included a provision that it was without prejudice to the right of the defendants to add her name if they so chose.",
+    "The motion was dismissed, on terms, without prejudice to the defendant's right to renew the motion at trial."
+  ],
+  "origin": "Middle English (in prejudice (sense 2 of the noun)): from Old French, from Latin praejudicium, from prae in advance + judicium judgement.",
+  "pronounciation": "/ˈprejədəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prejudice_us_1.mp3"
+}

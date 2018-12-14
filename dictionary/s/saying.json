@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A short, pithy expression that generally contains advice or wisdom.",
+      "synonyms": [
+        "proverb",
+        "maxim",
+        "aphorism",
+        "axiom",
+        "adage",
+        "saw",
+        "tag",
+        "motto",
+        "precept",
+        "epigram",
+        "epigraph",
+        "dictum",
+        "gnome",
+        "pearl of wisdom"
+      ]
+    }
+  ],
+  "phrases": [
+    "I am, as the saying goes, burned out",
+    "Better late than never, so the saying goes, and no phrase sums up the 2001 tennis season better.",
+    "Every cloud has a silver lining - or so the saying goes - but it now seems that every home has one, too.",
+    "Desperate times call for desperate measures, as the saying goes.",
+    "Time and again, the musicians prove that - as the saying goes - God is in the details."
+  ],
+  "pronounciation": "/ˈsāiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saying_us_1.mp3"
+}

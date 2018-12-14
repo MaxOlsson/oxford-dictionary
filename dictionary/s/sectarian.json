@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting or concerning a sect or sects.",
+      "examples": [
+        "ethnic and sectarian differences"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of a sect.",
+      "synonyms": [
+        "separatist",
+        "dissenter",
+        "dissident",
+        "nonconformist",
+        "free thinker",
+        "renegade",
+        "recusant",
+        "schismatic",
+        "revisionist"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from sectary + -an, reinforced by sect.",
+  "pronounciation": "/ˌsɛkˈtɛriən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sectarian_us_1.mp3"
+}

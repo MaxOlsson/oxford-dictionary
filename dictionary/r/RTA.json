@@ -1,0 +1,20 @@
+{
+  "abbreviation": [
+    {
+      "description": "Road traffic accident.",
+      "synonyms": [
+        "crash",
+        "accident",
+        "smash",
+        "bump",
+        "knock",
+        "impact",
+        "hit",
+        "strike",
+        "clash"
+      ]
+    }
+  ],
+  "pronounciation": "/ɑːr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rta_us_1.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Happening in a short time or at a fast pace.",
+      "examples": [
+        "the country's rapid economic decline",
+        "he was disposing of wives in rapid succession"
+      ],
+      "synonyms": [
+        "quick",
+        "fast",
+        "swift",
+        "speedy",
+        "high-speed",
+        "expeditious",
+        "express",
+        "brisk",
+        "lively",
+        "prompt",
+        "flying",
+        "fleeting",
+        "lightning",
+        "meteoric",
+        "overnight",
+        "whirlwind",
+        "fast-track",
+        "whistle-stop"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A fast-flowing and turbulent part of the course of a river.",
+      "synonyms": [
+        "waterfall",
+        "falls",
+        "water chute",
+        "cataract",
+        "rapids",
+        "torrent",
+        "flood",
+        "deluge",
+        "outpouring",
+        "white water",
+        "fountain",
+        "shower",
+        "avalanche"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin rapidus, from rapere take by force.",
+  "pronounciation": "/ˈrapəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rapid_us_1.mp3"
+}

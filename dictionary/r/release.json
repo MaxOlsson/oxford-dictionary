@@ -1,0 +1,113 @@
+{
+  "verb": [
+    {
+      "description": "Allow or enable to escape from confinement; set free.",
+      "examples": [
+        "the government announced that the prisoners would be released"
+      ],
+      "synonyms": [
+        "free",
+        "set free",
+        "let go",
+        "allow to leave",
+        "let loose",
+        "set loose",
+        "turn loose",
+        "let out",
+        "liberate",
+        "set at liberty",
+        "deliver",
+        "rescue",
+        "ransom",
+        "emancipate"
+      ]
+    },
+    {
+      "description": "Allow (something) to move, act, or flow freely.",
+      "examples": [
+        "she released his arm and pushed him aside",
+        "growth hormone is released into the blood during the first part of sleep"
+      ]
+    },
+    {
+      "description": "Allow (information) to be generally available.",
+      "examples": [
+        "no details about the contents of the talks were released"
+      ],
+      "synonyms": [
+        "make public",
+        "make known",
+        "bring to public attention",
+        "bring to public notice",
+        "issue",
+        "break",
+        "announce",
+        "declare",
+        "report",
+        "post",
+        "reveal",
+        "divulge",
+        "disclose",
+        "publish",
+        "publicize",
+        "print",
+        "broadcast",
+        "air",
+        "transmit",
+        "put out",
+        "circulate",
+        "communicate",
+        "impart",
+        "disseminate",
+        "distribute",
+        "spread",
+        "propagate",
+        "purvey"
+      ]
+    },
+    {
+      "description": "Remit or discharge (a debt).",
+      "synonyms": [
+        "let off",
+        "excuse",
+        "exempt",
+        "discharge",
+        "deliver"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action or process of releasing or being released.",
+      "examples": [
+        "a campaign by the prisoner's mother resulted in his release"
+      ],
+      "synonyms": [
+        "freeing",
+        "liberation",
+        "deliverance",
+        "ransom",
+        "emancipation"
+      ]
+    },
+    {
+      "description": "The action of making a movie, recording, or other product available for general viewing or purchase.",
+      "examples": [
+        "the film was withheld for two years before its release"
+      ],
+      "synonyms": [
+        "cd",
+        "disc",
+        "record",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "description": "The action of releasing property, money, or a right to another."
+    }
+  ],
+  "origin": "Middle English: from Old French reles (noun), relesser (verb), from Latin relaxare stretch out again, slacken (see relax).",
+  "pronounciation": "/rəˈlēs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/release_us_1.mp3"
+}
