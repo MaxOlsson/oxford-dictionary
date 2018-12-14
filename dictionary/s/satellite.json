@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "An artificial body placed in orbit around the earth or moon or another planet in order to collect information or for communication.",
+      "synonyms": [
+        "space station",
+        "space capsule",
+        "spacecraft"
+      ]
+    },
+    {
+      "description": "A celestial body orbiting the earth or another planet.",
+      "synonyms": [
+        "moon",
+        "secondary planet"
+      ]
+    },
+    {
+      "description": "Something that is separated from or on the periphery of something else but is nevertheless dependent on or controlled by it.",
+      "examples": [
+        "satellite offices in London and New York"
+      ],
+      "synonyms": [
+        "dependent",
+        "subordinate",
+        "subsidiary",
+        "ancillary"
+      ]
+    },
+    {
+      "description": "A portion of the DNA of a genome with repeating base sequences and of different density from the main sequence."
+    }
+  ],
+  "origin": "Mid 16th century (in the sense follower, obsequious underling): from French satellite or Latin satelles, satellit- attendant.",
+  "pronounciation": "/ˈsadlˌīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/satellite_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A tavern or bar.",
+      "examples": [
+        "let's go to the pub",
+        "a country pub"
+      ],
+      "synonyms": [
+        "tavern",
+        "bar",
+        "hostelry",
+        "taproom"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Spend time in pubs."
+    }
+  ],
+  "origin": "Mid 19th century: abbreviation of public house.",
+  "pronounciation": "/pəb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pub_us_1.mp3"
+}

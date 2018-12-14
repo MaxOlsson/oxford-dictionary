@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A disease caused by a deficiency of vitamin C, characterized by swollen bleeding gums and the opening of previously healed wounds, which particularly affected poorly nourished sailors until the end of the 18th century."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Worthless or contemptible.",
+      "examples": [
+        "that was a scurvy trick"
+      ],
+      "synonyms": [
+        "foul",
+        "nasty",
+        "unpleasant",
+        "bad",
+        "disagreeable",
+        "horrid",
+        "horrible",
+        "dreadful",
+        "abominable",
+        "atrocious",
+        "offensive",
+        "obnoxious",
+        "odious",
+        "unsavoury",
+        "repulsive",
+        "off-putting",
+        "repellent",
+        "revolting",
+        "repugnant",
+        "disgusting",
+        "distasteful",
+        "loathsome",
+        "hateful",
+        "nauseating",
+        "sickening"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as an adjective meaning scurfy): from scurf + -y. The noun use (mid 16th century) is by association with French scorbut (see scorbutic).",
+  "pronounciation": "/ˈskərvi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scurvy_us_1.mp3"
+}

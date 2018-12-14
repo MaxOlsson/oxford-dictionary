@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A metal container with a sloping hinged lid and a handle, used to fetch and store coal for a domestic fire."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Run hurriedly or furtively with short quick steps.",
+      "examples": [
+        "a mouse scuttled across the floor"
+      ],
+      "synonyms": [
+        "scamper",
+        "scurry",
+        "scramble",
+        "bustle",
+        "skip",
+        "trot",
+        "hurry",
+        "hasten",
+        "make haste",
+        "rush",
+        "race",
+        "dash",
+        "run",
+        "sprint"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a noun): perhaps from Old French escoutille, from the Spanish diminutive escotilla hatchway. The verb dates from the mid 17th century.",
+  "pronounciation": "/ˈskədl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scuttle_us_1.mp3"
+}

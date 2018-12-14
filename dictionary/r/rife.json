@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of something undesirable or harmful) of common occurrence; widespread.",
+      "examples": [
+        "male chauvinism was rife in medicine in those days"
+      ],
+      "synonyms": [
+        "widespread",
+        "general",
+        "common",
+        "universal",
+        "extensive",
+        "ubiquitous",
+        "global",
+        "omnipresent",
+        "everywhere",
+        "present everywhere",
+        "pandemic",
+        "epidemic",
+        "endemic",
+        "inescapable",
+        "insidious",
+        "prevalent",
+        "penetrating",
+        "pervading",
+        "pervasive",
+        "permeating",
+        "immanent"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In an unchecked or widespread manner.",
+      "examples": [
+        "speculation ran rife that he was an arms dealer"
+      ]
+    }
+  ],
+  "origin": "Late Old English rȳfe, probably from Old Norse rīfr acceptable.",
+  "pronounciation": "/raɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rife_us_1.mp3"
+}

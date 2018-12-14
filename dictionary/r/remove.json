@@ -1,0 +1,68 @@
+{
+  "verb": [
+    {
+      "description": "Take (something) away or off from the position occupied.",
+      "examples": [
+        "Customs officials removed documents from the premises",
+        "she sat down to remove her make-up"
+      ],
+      "synonyms": [
+        "detach",
+        "unfasten",
+        "separate"
+      ]
+    },
+    {
+      "description": "Eliminate or get rid of.",
+      "examples": [
+        "they removed thousands of needy youngsters from the system",
+        "the iron can be removed by filtration"
+      ],
+      "synonyms": [
+        "withdraw",
+        "abolish",
+        "eliminate",
+        "get rid of",
+        "do away with",
+        "take away",
+        "stop",
+        "put an end to",
+        "cut"
+      ]
+    },
+    {
+      "description": "Be distant from.",
+      "examples": [
+        "it is an isolated place, far removed from the London art world"
+      ],
+      "synonyms": [
+        "distant",
+        "remote",
+        "disconnected",
+        "different"
+      ]
+    },
+    {
+      "description": "Separated by a particular number of steps of descent.",
+      "examples": [
+        "his second cousin once removed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A degree of remoteness or separation.",
+      "examples": [
+        "at this remove, the whole incident seems insane"
+      ],
+      "synonyms": [
+        "distance",
+        "space of time",
+        "interval"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): from the Old French stem remov-, from Latin removere, from re- back + movere to move.",
+  "pronounciation": "/rəˈmuv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/remove_us_1.mp3"
+}

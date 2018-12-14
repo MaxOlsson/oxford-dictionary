@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Strongly reminiscent or suggestive of (something)",
+      "examples": [
+        "names redolent of history and tradition"
+      ],
+      "synonyms": [
+        "evocative",
+        "suggestive",
+        "reminiscent",
+        "remindful"
+      ]
+    },
+    {
+      "description": "Fragrant or sweet-smelling.",
+      "examples": [
+        "a rich, inky, redolent wine"
+      ],
+      "synonyms": [
+        "smelling of",
+        "reeking of"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense fragrant): from Old French, or from Latin redolent- giving out a strong smell, from re(d)- back, again + olere to smell.",
+  "pronounciation": "/ˈredlənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/redolent_us_1.mp3"
+}

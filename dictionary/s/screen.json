@@ -1,0 +1,120 @@
+{
+  "noun": [
+    {
+      "description": "A fixed or movable upright partition used to divide a room, give shelter from drafts, heat, or light, or to provide concealment or privacy.",
+      "synonyms": [
+        "partition",
+        "divider",
+        "room divider",
+        "dividing wall",
+        "separator",
+        "curtain",
+        "arras",
+        "blind",
+        "awning",
+        "shade",
+        "shutter",
+        "canopy",
+        "windbreak"
+      ]
+    },
+    {
+      "description": "A flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed.",
+      "examples": [
+        "a television screen"
+      ],
+      "synonyms": [
+        "display",
+        "monitor",
+        "visual display unit",
+        "vdu",
+        "cathode-ray tube",
+        "crt"
+      ]
+    },
+    {
+      "description": "A transparent, finely ruled plate or film used in halftone reproduction."
+    },
+    {
+      "description": "A detachment of troops or ships detailed to cover the movements of the main body."
+    },
+    {
+      "description": "A large sieve or riddle, especially one for sorting substances such as grain or coal into different sizes.",
+      "synonyms": [
+        "sieve",
+        "riddle",
+        "sifter",
+        "strainer",
+        "colander",
+        "filter",
+        "winnow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Conceal, protect, or shelter (someone or something) with a screen or something forming a screen.",
+      "examples": [
+        "her hair swung across to screen her face",
+        "a high hedge screened all of the front from passersby"
+      ],
+      "synonyms": [
+        "conceal",
+        "hide",
+        "mask",
+        "shield",
+        "shelter",
+        "shade",
+        "protect",
+        "guard",
+        "safeguard",
+        "veil",
+        "cloak",
+        "camouflage",
+        "disguise"
+      ]
+    },
+    {
+      "description": "Show (a movie or video) or broadcast (a television program)",
+      "examples": [
+        "the show is to be screened by HBO later this year"
+      ],
+      "synonyms": [
+        "show",
+        "present",
+        "air",
+        "broadcast",
+        "transmit",
+        "televise",
+        "put out",
+        "put on the air",
+        "telecast",
+        "relay"
+      ]
+    },
+    {
+      "description": "Test (a person or substance) for the presence or absence of a disease or contaminant.",
+      "examples": [
+        "outpatients were screened for cervical cancer"
+      ]
+    },
+    {
+      "description": "Pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes.",
+      "synonyms": [
+        "sieve",
+        "riddle",
+        "sift",
+        "strain",
+        "filter",
+        "sort",
+        "winnow"
+      ]
+    },
+    {
+      "description": "Project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a halftone."
+    }
+  ],
+  "origin": "Middle English: shortening of Old Northern French escren, of Germanic origin.",
+  "pronounciation": "/skrēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/screen_us_1.mp3"
+}

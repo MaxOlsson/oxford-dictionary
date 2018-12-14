@@ -1,0 +1,64 @@
+{
+  "verb": [
+    {
+      "description": "Return to a normal state of health, mind, or strength.",
+      "examples": [
+        "Neil is still recovering from shock",
+        "the economy has begun to recover"
+      ],
+      "synonyms": [
+        "recuperate",
+        "get better",
+        "get well",
+        "convalesce",
+        "regain one's strength",
+        "regain one's health",
+        "get stronger",
+        "get back on one's feet",
+        "feel oneself again",
+        "get back to normal",
+        "return to health"
+      ]
+    },
+    {
+      "description": "Find or regain possession of (something stolen or lost)",
+      "examples": [
+        "police recovered a stolen video"
+      ],
+      "synonyms": [
+        "retrieve",
+        "regain",
+        "regain possession of",
+        "get back",
+        "win back",
+        "take back",
+        "recoup",
+        "reclaim",
+        "repossess",
+        "recapture",
+        "retake",
+        "redeem"
+      ]
+    },
+    {
+      "description": "Remove or extract (an energy source or industrial chemical) for use, reuse, or waste treatment.",
+      "synonyms": [
+        "reuse",
+        "reprocess",
+        "convert into something",
+        "reclaim"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A defined position of a firearm forming part of a military drill.",
+      "examples": [
+        "bring the firelock to the recover"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally with reference to health): from Anglo-Norman French recoverer, from Latin recuperare get again.",
+  "pronounciation": "/rɪˈkəvər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recover_us_1.mp3"
+}

@@ -1,0 +1,127 @@
+{
+  "adjective": [
+    {
+      "description": "Arranged in or constituting a constant or definite pattern, especially with the same space between individual instances.",
+      "examples": [
+        "place the flags at regular intervals",
+        "a regular arrangement"
+      ],
+      "synonyms": [
+        "methodical",
+        "systematic",
+        "structured",
+        "well ordered",
+        "well organized",
+        "orderly",
+        "efficient",
+        "smooth-running",
+        "streamlined",
+        "well regulated",
+        "disciplined",
+        "planned",
+        "well planned",
+        "businesslike",
+        "meticulous",
+        "punctilious"
+      ]
+    },
+    {
+      "description": "Recurring at uniform intervals.",
+      "examples": [
+        "a regular monthly check",
+        "her breathing became deeper, more regular"
+      ],
+      "synonyms": [
+        "uniform",
+        "even",
+        "consistent",
+        "constant",
+        "unchanging",
+        "unvarying",
+        "orderly",
+        "systematic",
+        "fixed"
+      ]
+    },
+    {
+      "description": "Conforming to or governed by an accepted standard of procedure or convention.",
+      "examples": [
+        "policies carried on by his deputies through regular channels"
+      ],
+      "synonyms": [
+        "established",
+        "conventional",
+        "orthodox",
+        "proper",
+        "formal",
+        "official",
+        "fixed",
+        "stated",
+        "approved",
+        "sanctioned",
+        "bona fide",
+        "standard",
+        "usual",
+        "traditional",
+        "classic",
+        "time-honoured",
+        "tried and tested",
+        "tried and trusted"
+      ]
+    },
+    {
+      "description": "Used, done, or happening on a habitual basis; usual; customary.",
+      "examples": [
+        "I couldn't get an appointment with my regular barber",
+        "our regular suppliers"
+      ],
+      "synonyms": [
+        "usual",
+        "normal",
+        "customary",
+        "habitual",
+        "routine",
+        "typical",
+        "everyday",
+        "accustomed",
+        "established",
+        "expected",
+        "wonted",
+        "ordinary",
+        "daily",
+        "common"
+      ]
+    },
+    {
+      "description": "(of a word) following the normal pattern of inflection.",
+      "examples": [
+        "a regular verb"
+      ]
+    },
+    {
+      "description": "(of a figure) having all sides and all angles equal.",
+      "examples": [
+        "a regular polygon"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A regular customer or member, for example of a bar, store, or team.",
+      "examples": [
+        "attracting a richer clientele as its regulars"
+      ],
+      "synonyms": [
+        "customer",
+        "buyer",
+        "purchaser",
+        "shopper",
+        "consumer",
+        "user"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French reguler, from Latin regularis, from regula rule.",
+  "pronounciation": "/ˈrɛɡjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regular_us_1.mp3"
+}

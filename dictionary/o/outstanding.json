@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Exceptionally good.",
+      "examples": [
+        "the team's outstanding performance"
+      ],
+      "synonyms": [
+        "excellent",
+        "marvellous",
+        "magnificent",
+        "superb",
+        "fine",
+        "wonderful",
+        "superlative",
+        "exceptional",
+        "formidable",
+        "first-class",
+        "first-rate",
+        "virtuoso",
+        "skilful",
+        "masterful",
+        "masterly"
+      ]
+    },
+    {
+      "description": "Remaining to be paid, done, or dealt with.",
+      "examples": [
+        "how much work is still outstanding?",
+        "there was a small charge outstanding"
+      ],
+      "synonyms": [
+        "to be done",
+        "undone",
+        "not done",
+        "neglected",
+        "omitted",
+        "unattended to",
+        "unfinished",
+        "incomplete",
+        "left",
+        "remaining",
+        "pending",
+        "ongoing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoutˈstandiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/outstanding_us_1.mp3"
+}

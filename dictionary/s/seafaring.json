@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) traveling by sea, especially regularly.",
+      "examples": [
+        "the Danes are an ancient seafaring people",
+        "most Latvians now are urban or seafaring"
+      ],
+      "synonyms": [
+        "maritime",
+        "nautical",
+        "naval",
+        "seagoing",
+        "pelagic",
+        "sea"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The practice of traveling by sea, especially regularly.",
+      "examples": [
+        "Canadian seafaring is a fraction of what it once was"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsēˌferiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seafaring_us_1.mp3"
+}

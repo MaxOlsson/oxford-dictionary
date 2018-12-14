@@ -1,0 +1,95 @@
+{
+  "adjective": [
+    {
+      "description": "Identical; not different.",
+      "examples": [
+        "she was saying the same thing over and over",
+        "I have never made the same mistake since",
+        "I'm the same age as you are",
+        "he put on the same costume that he had worn in Ottawa"
+      ],
+      "synonyms": [
+        "the identical",
+        "the very same",
+        "selfsame",
+        "one and the same",
+        "the very"
+      ]
+    },
+    {
+      "description": "Of an identical type; exactly similar.",
+      "examples": [
+        "they all wore the same clothes"
+      ],
+      "synonyms": [
+        "matching",
+        "identical",
+        "alike",
+        "duplicate",
+        "carbon-copy",
+        "twin",
+        "paired",
+        "coupled",
+        "double",
+        "indistinguishable",
+        "interchangeable",
+        "corresponding",
+        "equivalent",
+        "parallel",
+        "of a piece",
+        "all of a piece",
+        "like",
+        "like peas in a pod",
+        "like two peas in a pod",
+        "comparable",
+        "similar",
+        "correlative",
+        "congruent",
+        "tallying",
+        "agreeing",
+        "concordant",
+        "consonant"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "The same thing as something previously mentioned.",
+      "examples": [
+        "I'll resign and encourage everyone else to do the same"
+      ],
+      "synonyms": [
+        "the same thing",
+        "the aforementioned",
+        "the aforesaid",
+        "the above-mentioned"
+      ]
+    },
+    {
+      "description": "(chiefly in formal or legal use) the person or thing just mentioned.",
+      "examples": [
+        "sighted sub, sank same"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Similarly; in the same way.",
+      "examples": [
+        "treating women the same as men",
+        "he gave me five dollars, same as usual"
+      ]
+    }
+  ],
+  "plural noun": [],
+  "phrases": [
+    "she knew they had meant it kindly, but it had hurt all the same",
+    "All the same, I wouldn't necessarily wish that kind of \"miracle cure\" on anybody. The transformation of my emotions and consciousness was so radical that I couldn't really handle it.",
+    "Xander was certain that she was just doing this to spite him, but it rankled all the same.",
+    "Just the same, I wouldn't mind if at least one of this duo returned a phone message I left on an answering machine last week.",
+    "I can manage alone, thanks all the same"
+  ],
+  "origin": "Middle English: from Old Norse sami, from an Indo-European root shared by Sanskrit sama, Greek homos.",
+  "pronounciation": "/ˈsāmē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/same_1_us_1.mp3"
+}

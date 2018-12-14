@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "A distinctive smell, especially one that is pleasant.",
+      "examples": [
+        "the scent of freshly cut hay"
+      ],
+      "synonyms": [
+        "smell",
+        "fragrance",
+        "aroma",
+        "perfume",
+        "redolence",
+        "savour",
+        "odour",
+        "whiff"
+      ]
+    },
+    {
+      "description": "A trail indicated by the characteristic smell of an animal and perceptible to hounds or other animals.",
+      "examples": [
+        "the hound followed the scent"
+      ],
+      "synonyms": [
+        "spoor",
+        "trail",
+        "track"
+      ]
+    },
+    {
+      "description": "The faculty or sense of smell."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Impart a pleasant scent to.",
+      "examples": [
+        "a glass of tea scented with lemon balm"
+      ],
+      "synonyms": [
+        "perfumed",
+        "fragranced",
+        "perfumy"
+      ]
+    },
+    {
+      "description": "Discern by the sense of smell.",
+      "examples": [
+        "a shark can scent blood from well over half a mile away"
+      ],
+      "synonyms": [
+        "smell",
+        "detect the smell of",
+        "pick up the smell of",
+        "get a whiff of"
+      ]
+    }
+  ],
+  "phrases": [
+    "For some time now, the unit has been on the scent of something that's been, well, dogging the world of consulting.",
+    "While he still enjoyed his work when he was on the scent, he clearly felt much of the joy and challenge of his cases was gone.",
+    "He claims to offer a service to shield celebrities from the baying media pack on the scent of scandal.",
+    "But it takes more than that to deter a tabloid hound on the scent of fast-breaking international news.",
+    "They think that this provides an avenue to destroy her, and they are like hounds on the scent."
+  ],
+  "origin": "Late Middle English (denoting the sense of smell): from Old French sentir perceive, smell, from Latin sentire. The addition of -c- (in the 17th century) is unexplained.",
+  "pronounciation": "/sent/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scent_us_1.mp3"
+}

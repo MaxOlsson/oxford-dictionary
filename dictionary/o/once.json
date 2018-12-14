@@ -1,0 +1,69 @@
+{
+  "adverb": [
+    {
+      "description": "On one occasion or for one time only.",
+      "examples": [
+        "they deliver once a week"
+      ],
+      "synonyms": [
+        "on one occasion",
+        "one time",
+        "one single time"
+      ]
+    },
+    {
+      "description": "At some time in the past; formerly.",
+      "examples": [
+        "He had once been an Army officer"
+      ],
+      "synonyms": [
+        "formerly",
+        "previously",
+        "in the past",
+        "at one time",
+        "at one point",
+        "once upon a time",
+        "on a former occasion",
+        "on one occasion",
+        "one time",
+        "in one case",
+        "time was when",
+        "in days gone by",
+        "in times gone by",
+        "back in the day",
+        "in times past",
+        "in the old days",
+        "in the good old days",
+        "long ago"
+      ]
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "As soon as; when.",
+      "examples": [
+        "once the grapes were pressed, the juice was put into barrels"
+      ],
+      "synonyms": [
+        "as soon as",
+        "when",
+        "after",
+        "immediately after",
+        "the instant",
+        "the minute",
+        "the moment",
+        "the second"
+      ]
+    }
+  ],
+  "phrases": [
+    "all at once the noise stopped",
+    "The experienced safari guides seem to have an innate empathy with the nature all around, and all at once you feel at ease.",
+    "Through it all, he is optimistic that he can succeed, not all at once, but over time.",
+    "The problem with most smokers is that they try giving up all at once.",
+    "We were in the process of writing a new song and I knew all at once that these words would fit it perfectly."
+  ],
+  "origin": "Middle English ones, genitive of one. The spelling change in the 16th century was in order to retain the unvoiced sound of the final consonant.",
+  "pronounciation": "/wəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/once_us_1.mp3"
+}

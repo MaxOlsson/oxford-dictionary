@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A repeated passage in music."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Repeat (a piece of music or a performance).",
+      "synonyms": [
+        "repeat",
+        "say again",
+        "restate",
+        "reiterate",
+        "copy",
+        "imitate",
+        "parrot",
+        "parody",
+        "mimic"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: French, literally taken up again, feminine past participle of reprendre (see reprieve).",
+  "pronounciation": "/rəˈprēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reprise_us_1.mp3"
+}

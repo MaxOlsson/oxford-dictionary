@@ -1,0 +1,17 @@
+{
+  "verb": [
+    {
+      "description": "Compile (a program) again or differently.",
+      "examples": [
+        "an interface which allows applications to run without being recompiled"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A recompilation of a computer program."
+    }
+  ],
+  "pronounciation": "/ˌrēkəmˈpīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recompile_us_2.mp3"
+}

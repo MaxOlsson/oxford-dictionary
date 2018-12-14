@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Voluntarily leave a job or other position.",
+      "examples": [
+        "he resigned from the government in protest at the policy"
+      ],
+      "synonyms": [
+        "leave",
+        "go",
+        "hand in one's notice",
+        "give in one's notice",
+        "give notice",
+        "stand down",
+        "step down",
+        "bow out",
+        "walk out"
+      ]
+    },
+    {
+      "description": "Accept that something undesirable cannot be avoided.",
+      "examples": [
+        "she resigned herself to a lengthy session",
+        "he seems resigned to a shortened career"
+      ],
+      "synonyms": [
+        "reconcile oneself to",
+        "become resigned to",
+        "become reconciled to",
+        "have no choice but to accept",
+        "come to terms with",
+        "learn to live with",
+        "get used to the idea of"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French resigner, from Latin resignare unseal, cancel, from re- back + signare sign, seal.",
+  "pronounciation": "/rəˈzīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resign_us_1.mp3"
+}

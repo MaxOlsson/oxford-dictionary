@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Liable to change."
+    },
+    {
+      "description": "Able to be changed or exchanged.",
+      "synonyms": [
+        "alterable",
+        "adjustable",
+        "modifiable",
+        "variable",
+        "convertible",
+        "mutable",
+        "exchangeable",
+        "interchangeable",
+        "replaceable",
+        "transposable"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from late Latin permutabilis liable to change, changeable, from permutare (see permute) + -able.",
+  "pronounciation": "/pəˈmjuːtəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/permutable_gb_1.mp3"
+}

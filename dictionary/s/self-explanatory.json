@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Easily understood; not needing explanation.",
+      "examples": [
+        "the film's title is fairly self-explanatory"
+      ],
+      "synonyms": [
+        "easily understood",
+        "readily comprehensible",
+        "intelligible",
+        "straightforward",
+        "unambiguous",
+        "unproblematic",
+        "accessible",
+        "clearly expressed",
+        "user-friendly",
+        "simple",
+        "self-evident",
+        "obvious",
+        "clear",
+        "crystal clear"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌsɛlf ɛkˈsplænəˌtɔri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/self_explanatory_1_us_1.mp3"
+}

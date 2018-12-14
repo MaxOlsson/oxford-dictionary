@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A small piece or amount of something, especially one that is left over after the greater part has been used.",
+      "examples": [
+        "I scribbled her address on a scrap of paper",
+        "scraps of information"
+      ],
+      "synonyms": [
+        "fragment",
+        "piece",
+        "bit",
+        "offcut",
+        "oddment",
+        "snippet",
+        "snip",
+        "tatter",
+        "wisp",
+        "shred",
+        "remnant"
+      ]
+    },
+    {
+      "description": "Discarded metal for reprocessing.",
+      "examples": [
+        "the steamer was eventually sold for scrap"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Discard or remove from service (a retired, old, or inoperative vehicle, vessel, or machine), especially so as to convert it to scrap metal.",
+      "examples": [
+        "the decision was made to scrap the entire fleet"
+      ],
+      "synonyms": [
+        "throw away",
+        "throw out",
+        "dispose of",
+        "get rid of",
+        "do away with",
+        "toss out",
+        "throw on the scrapheap",
+        "clear out",
+        "discard",
+        "remove",
+        "dispense with",
+        "lose",
+        "eliminate",
+        "dump",
+        "bin",
+        "jettison",
+        "shed",
+        "dismiss",
+        "expel",
+        "eject",
+        "weed out",
+        "root out"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (as a noun in the sense sinister plot, scheme): perhaps from the noun scrape.",
+  "pronounciation": "/skrap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scrap_us_1.mp3"
+}

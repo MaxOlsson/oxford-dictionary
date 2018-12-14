@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
+      "examples": [
+        "babies are generally far more resilient than new parents realize",
+        "the fish are resilient to most infections"
+      ],
+      "synonyms": [
+        "strong",
+        "tough",
+        "hardy"
+      ]
+    },
+    {
+      "description": "(of a substance or object) able to recoil or spring back into shape after bending, stretching, or being compressed.",
+      "examples": [
+        "a shoe with resilient cushioning"
+      ],
+      "synonyms": [
+        "flexible",
+        "pliable",
+        "pliant",
+        "supple",
+        "plastic",
+        "elastic",
+        "springy",
+        "rubbery"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin resilient- leaping back, from the verb resilire (see resile).",
+  "pronounciation": "/rəˈzilyənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resilient_us_1.mp3"
+}

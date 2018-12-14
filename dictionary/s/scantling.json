@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A piece of lumber of small cross section.",
+      "synonyms": [
+        "joist",
+        "purlin",
+        "girder",
+        "spar",
+        "support",
+        "strut",
+        "stay",
+        "brace",
+        "batten",
+        "transom",
+        "lintel",
+        "stringer",
+        "baulk",
+        "board",
+        "timber",
+        "plank",
+        "lath",
+        "rafter"
+      ]
+    },
+    {
+      "description": "A set of standard dimensions for parts of a structure, especially in shipbuilding."
+    },
+    {
+      "description": "A specimen, sample, or small amount of something.",
+      "synonyms": [
+        "sample",
+        "example",
+        "bit",
+        "snippet",
+        "illustration",
+        "demonstration",
+        "exemplification",
+        "instance",
+        "selection",
+        "representative piece"
+      ]
+    }
+  ],
+  "origin": "Early 16th century (denoting prescribed size, or a set of standard dimensions): alteration of obsolete scantillon (from Old French escantillon sample), by association with the suffix -ling.",
+  "pronounciation": "/ˈskan(t)liNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scantling_us_1.mp3"
+}

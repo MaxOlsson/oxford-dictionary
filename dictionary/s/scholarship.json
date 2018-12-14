@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "Academic study or achievement; learning of a high level.",
+      "examples": [
+        "the intellectual dishonesty has nothing to do with lack of scholarship"
+      ],
+      "synonyms": [
+        "learning",
+        "book learning",
+        "knowledge",
+        "erudition",
+        "education",
+        "letters",
+        "culture",
+        "academic study",
+        "academic achievement",
+        "intellectual attainment"
+      ]
+    },
+    {
+      "description": "A grant or payment made to support a student's education, awarded on the basis of academic or other achievement.",
+      "examples": [
+        "Tim held a Humboldt scholarship",
+        "he went on a state-sponsored scholarship to study engineering"
+      ],
+      "synonyms": [
+        "grant",
+        "award",
+        "endowment",
+        "payment"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskɑlərˌʃɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scholarship_us_1.mp3"
+}

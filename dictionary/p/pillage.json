@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Rob a (place) using violence, especially in wartime.",
+      "synonyms": [
+        "plunder",
+        "rob",
+        "ravage",
+        "harry",
+        "maraud",
+        "ravish",
+        "rape",
+        "raid",
+        "ransack",
+        "loot",
+        "sack",
+        "rifle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of pillaging a place or property, especially in wartime.",
+      "synonyms": [
+        "robbery",
+        "robbing",
+        "raiding",
+        "pillaging",
+        "plunder",
+        "plundering",
+        "looting",
+        "sacking",
+        "sack",
+        "ransacking",
+        "ravaging",
+        "laying waste",
+        "devastation",
+        "depredation",
+        "rape",
+        "harrying",
+        "marauding"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Old French, from piller to plunder.",
+  "pronounciation": "/ˈpɪlɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pillage_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "(of water) flow in a tumbling or rippling way.",
+      "examples": [
+        "we could hear the sound of the water poppling, splashing, trickling"
+      ],
+      "synonyms": [
+        "form ripples",
+        "form ripples on",
+        "flow in wavelets",
+        "undulate",
+        "lap",
+        "purl",
+        "babble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rolling or rippling of water.",
+      "examples": [
+        "the short, confused popple that exists outside the entrance to the marina"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: apparently from Latin populus poplar.",
+  "pronounciation": "/ˈpäpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/popple_us_1.mp3"
+}

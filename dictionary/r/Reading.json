@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "The action or skill of reading written or printed matter silently or aloud.",
+      "examples": [
+        "the reading of a will",
+        "suggestions for further reading",
+        "reading skills",
+        "a cursory reading of the minutes"
+      ],
+      "synonyms": [
+        "perusal",
+        "study",
+        "scan",
+        "scanning",
+        "scrutiny"
+      ]
+    },
+    {
+      "description": "An occasion at which poetry or other pieces of literature are read aloud to an audience."
+    },
+    {
+      "description": "An interpretation.",
+      "examples": [
+        "feminist readings of Goethe",
+        "his reading of the situation was justified"
+      ],
+      "synonyms": [
+        "interpretation",
+        "construal",
+        "understanding",
+        "account",
+        "explanation",
+        "analysis",
+        "construction"
+      ]
+    },
+    {
+      "description": "A figure or amount shown by a meter or other measuring instrument.",
+      "examples": [
+        "radiation readings were taken every hour"
+      ],
+      "synonyms": [
+        "record",
+        "figure",
+        "indication",
+        "read-out",
+        "display",
+        "measurement"
+      ]
+    },
+    {
+      "description": "A stage of debate in parliament through which a Bill must pass before it can become law.",
+      "examples": [
+        "the Bill returns to the House for its final reading next week"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A town in southern England, on the Kennet River near its junction with the River Thames; population 142,300 (est. 2009)."
+    },
+    {
+      "description": "An industrial and commercial city in southeastern Pennsylvania, on the Schuylkill River; population 80,506 (est. 2008)."
+    }
+  ],
+  "pronounciation": "/ˈrɛdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reading_1_us_2.mp3"
+}

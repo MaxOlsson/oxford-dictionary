@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Repeat aloud or declaim (a poem or passage) from memory before an audience.",
+      "examples": [
+        "we provided our own entertainment by singing and reciting poetry"
+      ],
+      "synonyms": [
+        "repeat from memory",
+        "say aloud",
+        "read aloud",
+        "declaim",
+        "quote",
+        "speak",
+        "deliver",
+        "render"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a legal term in the sense state (a fact) in a document): from Old French reciter or Latin recitare read out, from re- (expressing intensive force) + citare cite.",
+  "pronounciation": "/rəˈsīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recite_us_1.mp3"
+}

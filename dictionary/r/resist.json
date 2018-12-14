@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Withstand the action or effect of.",
+      "examples": [
+        "antibodies help us to resist infection"
+      ],
+      "synonyms": [
+        "withstand",
+        "be proof against",
+        "hold out against",
+        "combat",
+        "counter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A resistant substance applied as a coating to protect a surface during some process, for example to prevent dye or glaze adhering."
+    }
+  ],
+  "origin": "Late Middle English: from Old French resister or Latin resistere, from re- (expressing opposition) + sistere stop (reduplication of stare to stand). The current sense of the noun dates from the mid 19th century.",
+  "pronounciation": "/rəˈzɪst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_resist_1_us_2.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A rough and uncouth person.",
+      "synonyms": [
+        "ruffian",
+        "thug",
+        "lout",
+        "hooligan",
+        "hoodlum",
+        "rowdy",
+        "bully boy",
+        "brawler"
+      ]
+    },
+    {
+      "description": "An oil rig worker."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work on an oil rig.",
+      "examples": [
+        "his savings from roughnecking are gone"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrəfˌnek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roughneck_us_1.mp3"
+}

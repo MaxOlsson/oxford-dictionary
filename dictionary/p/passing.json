@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "Going past.",
+      "examples": [
+        "passing cars"
+      ]
+    },
+    {
+      "description": "(of a period of time) going by.",
+      "examples": [
+        "she detested him more with every passing second"
+      ]
+    },
+    {
+      "description": "Meeting or surpassing the requirements of a course or examination.",
+      "examples": [
+        "a passing grade"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The passage of something, especially time.",
+      "examples": [
+        "with the passing of the years she had become a little eccentric"
+      ],
+      "synonyms": [
+        "passage",
+        "course",
+        "progress",
+        "advance",
+        "process",
+        "flow"
+      ]
+    },
+    {
+      "description": "The action of throwing, kicking, or hitting a ball or puck to another team member during a sports match.",
+      "examples": [
+        "his play showed good passing and good control",
+        "a good passing movement"
+      ]
+    },
+    {
+      "description": "The end of something.",
+      "examples": [
+        "the passing of the Cold War and the rise of a new Europe"
+      ]
+    }
+  ],
+  "phrases": [
+    "the research was mentioned only in passing",
+    "Apparently it was mentioned in passing the other night, and the pentagon is being very close-lipped about it.",
+    "A couple of months back, I mentioned this blog in passing to someone I know.",
+    "It was mentioned in passing that computers used binary, and programmers would often use octal.",
+    "You make mention in passing of nuclear power, but doesn't the logic of your argument mean you should be a strong supporter of it?"
+  ],
+  "pronounciation": "/ˈpasiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/passing_us_1.mp3"
+}

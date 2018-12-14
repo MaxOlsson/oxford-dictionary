@@ -1,0 +1,112 @@
+{
+  "noun": [
+    {
+      "description": "A formal assessment or examination of something with the possibility or intention of instituting change if necessary.",
+      "examples": [
+        "a comprehensive review of defense policy",
+        "all areas of the company will come under review"
+      ],
+      "synonyms": [
+        "analysis",
+        "evaluation",
+        "assessment",
+        "appraisal",
+        "examination",
+        "investigation",
+        "scrutiny",
+        "enquiry",
+        "exploration",
+        "probe",
+        "inspection",
+        "study",
+        "audit"
+      ]
+    },
+    {
+      "description": "A critical appraisal of a book, play, movie, exhibition, etc., published in a newspaper or magazine.",
+      "synonyms": [
+        "criticism",
+        "critique",
+        "write-up",
+        "notice",
+        "assessment",
+        "evaluation",
+        "judgement",
+        "rating",
+        "commentary"
+      ]
+    },
+    {
+      "description": "A ceremonial display and formal inspection of military or naval forces, typically by a sovereign, commander in chief, or high-ranking visitor.",
+      "synonyms": [
+        "inspection",
+        "parade",
+        "display",
+        "demonstration",
+        "field day",
+        "tattoo",
+        "array",
+        "muster",
+        "procession"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Examine or assess (something) formally with the possibility or intention of instituting change if necessary.",
+      "examples": [
+        "the company's safety procedures are being reviewed"
+      ]
+    },
+    {
+      "description": "Write a critical appraisal of (a book, play, movie, etc.) for publication in a newspaper or magazine.",
+      "examples": [
+        "I reviewed his first novel"
+      ],
+      "synonyms": [
+        "comment on",
+        "discuss",
+        "evaluate",
+        "assess",
+        "appraise",
+        "judge",
+        "weigh up",
+        "rate",
+        "write up",
+        "critique",
+        "criticize"
+      ]
+    },
+    {
+      "description": "(of a sovereign, commander in chief, or high-ranking visitor) make a ceremonial and formal inspection of (military or naval forces).",
+      "synonyms": [
+        "inspect",
+        "view",
+        "scrutinize"
+      ]
+    },
+    {
+      "description": "View or inspect for a second time or again.",
+      "examples": [
+        "all slides were then reviewed by one pathologist"
+      ],
+      "synonyms": [
+        "reconsider",
+        "re-examine",
+        "reassess",
+        "re-evaluate",
+        "reappraise",
+        "moderate",
+        "rethink",
+        "think over",
+        "take another look at",
+        "take a fresh look at",
+        "look at in a different light",
+        "have another think about"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting a formal inspection of military or naval forces): from obsolete French reveue, from revoir see again.",
+  "pronounciation": "/rəˈvju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/review_us_1.mp3"
+}

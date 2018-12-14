@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Search unsystematically and untidily through a mass or receptacle.",
+      "examples": [
+        "he rummaged in his pocket for a handkerchief",
+        "he rummaged the drawer for his false teeth"
+      ],
+      "synonyms": [
+        "search",
+        "search through",
+        "hunt through",
+        "scrabble about in",
+        "scrabble around in",
+        "root about in",
+        "root around in",
+        "ferret in",
+        "ferret about in",
+        "ferret around in",
+        "fish about in",
+        "fish around in",
+        "poke around in",
+        "dig in",
+        "grub about in",
+        "delve in",
+        "go through",
+        "explore",
+        "sift through",
+        "rifle through",
+        "scour",
+        "ransack",
+        "turn over"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unsystematic and untidy search through a mass or receptacle."
+    }
+  ],
+  "origin": "Late 15th century: from Old French arrumage, from arrumer stow (in a hold), from Middle Dutch ruim room. In early use the word referred to the arranging of items such as casks in the hold of a ship, giving rise (early 17th century) to the verb sense make a search of (a vessel).",
+  "pronounciation": "/ˈrəmɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rummage_us_1.mp3"
+}

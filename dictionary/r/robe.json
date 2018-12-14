@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A long, loose outer garment.",
+      "synonyms": [
+        "cloak",
+        "wrap",
+        "mantle",
+        "cape",
+        "kaftan"
+      ]
+    },
+    {
+      "description": "A small blanket; lap robe."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Clothe in a long, loose outer garment.",
+      "examples": [
+        "a circle of robed figures",
+        "a white-robed Bedouin"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from the Germanic base (in the sense booty) of rob (because clothing was an important component of booty).",
+  "pronounciation": "/roʊb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/robe_us_1.mp3"
+}

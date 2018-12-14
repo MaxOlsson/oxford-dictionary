@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A bag filled with sand, typically used for defensive purposes or for protection from flooding."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Barricade using sandbags.",
+      "examples": [
+        "boarded-up shopfronts and sandbagged doorways"
+      ]
+    },
+    {
+      "description": "Hit or fell with or as if with a blow from a sandbag."
+    },
+    {
+      "description": "Deliberately underperform in a race or competition to gain an unfair advantage."
+    }
+  ],
+  "pronounciation": "/ˈsæn(d)ˌbæɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sandbag_us_1.mp3"
+}

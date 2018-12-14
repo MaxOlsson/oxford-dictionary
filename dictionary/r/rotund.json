@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) plump.",
+      "synonyms": [
+        "plump",
+        "chubby",
+        "fat",
+        "stout",
+        "roly-poly",
+        "fattish",
+        "portly",
+        "dumpy",
+        "chunky",
+        "broad in the beam",
+        "overweight",
+        "heavy",
+        "pot-bellied",
+        "beer-bellied",
+        "paunchy",
+        "falstaffian"
+      ]
+    },
+    {
+      "description": "(of speech or literary style) indulging in grandiloquent expression.",
+      "synonyms": [
+        "sonorous",
+        "full-toned",
+        "full-bodied",
+        "round",
+        "rich",
+        "deep",
+        "mellow",
+        "resonant",
+        "reverberant"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Latin rotundus, from rotare rotate.",
+  "pronounciation": "/rōˈtənd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rotund_us_1.mp3"
+}

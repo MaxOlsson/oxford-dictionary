@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "An official order laying claim to the use of property or materials.",
+      "examples": [
+        "I had to make various requisitions for staff and accommodations"
+      ],
+      "synonyms": [
+        "order",
+        "purchase order",
+        "request",
+        "call",
+        "application"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Demand the use or supply of, especially by official order and for military or public use.",
+      "examples": [
+        "the government had assumed powers to requisition cereal products at fixed prices"
+      ],
+      "synonyms": [
+        "commandeer",
+        "appropriate",
+        "take",
+        "take over",
+        "take possession of",
+        "occupy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun in the sense request, demand): from Old French, or from Latin requisitio(n-), from requirere search for (see require). The verb dates from the mid 19th century.",
+  "pronounciation": "/ˌrekwəˈziSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/requisition_us_1.mp3"
+}

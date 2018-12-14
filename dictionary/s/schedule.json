@@ -1,0 +1,54 @@
+{
+  "noun": [
+    {
+      "description": "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+      "examples": [
+        "we have drawn up an engineering schedule"
+      ],
+      "synonyms": [
+        "plan",
+        "programme",
+        "timetable",
+        "scheme"
+      ]
+    },
+    {
+      "description": "An appendix to a formal document or statute, especially as a list, table, or inventory."
+    },
+    {
+      "description": "(with reference to an income tax system) any of the forms (named “A,” “B,” etc.) issued for completion and relating to the various classes into which taxable income is divided."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange or plan (an event) to take place at a particular time.",
+      "examples": [
+        "the release of the single is scheduled for April"
+      ],
+      "synonyms": [
+        "arrange",
+        "organize",
+        "plan",
+        "programme",
+        "timetable",
+        "fix a time for",
+        "make arrangements for",
+        "book",
+        "set up",
+        "line up",
+        "slot in",
+        "time"
+      ]
+    }
+  ],
+  "phrases": [
+    "The remaining two levels of the parking garage are expected to open ahead of schedule later this month.",
+    "The flight to Chongqing took off four hours behind schedule.",
+    "The plans to link our cities with motorways are behind schedule.",
+    "Almost half of the children's centres planned for Bradford will be built behind schedule, it has been revealed.",
+    "I am terribly behind schedule - I plan to finish my report during this week."
+  ],
+  "origin": "Late Middle English (in the sense scroll, explanatory note, appendix): from Old French cedule, from late Latin schedula slip of paper, diminutive of scheda, from Greek skhedē papyrus leaf. The verb dates from the mid 19th century.",
+  "pronounciation": "/ˈskejəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/schedule_us_4.mp3"
+}

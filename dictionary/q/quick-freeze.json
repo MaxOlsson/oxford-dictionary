@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Freeze (food) rapidly so as to preserve its nutritional value.",
+      "examples": [
+        "food is quick-frozen at 10 degrees below zero"
+      ],
+      "synonyms": [
+        "conserve",
+        "bottle",
+        "tin",
+        "can",
+        "pot",
+        "chill",
+        "freeze",
+        "freeze-dry",
+        "dry",
+        "desiccate",
+        "dehydrate"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈkwikˌfrēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quick_freeze_1_us_1.mp3"
+}

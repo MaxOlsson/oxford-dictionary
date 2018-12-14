@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "A short sound as of a small, solid object dropping into water without a splash.",
+      "synonyms": [
+        "drop",
+        "dribble",
+        "bead",
+        "spot",
+        "trickle",
+        "splash",
+        "plop"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fall or cause to fall with a plop.",
+      "examples": [
+        "the stone plopped into the pond",
+        "she plopped a sugar cube into the cup"
+      ],
+      "synonyms": [
+        "drop",
+        "dribble",
+        "trickle",
+        "drizzle",
+        "run",
+        "splash",
+        "sprinkle",
+        "plop",
+        "fall in drops"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: imitative.",
+  "pronounciation": "/plɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plop_us_1.mp3"
+}

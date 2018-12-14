@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or believing in a religion.",
+      "examples": [
+        "both men were deeply religious, intelligent, and moralistic",
+        "religious music"
+      ],
+      "synonyms": [
+        "devout",
+        "pious",
+        "reverent",
+        "believing",
+        "godly",
+        "god-fearing",
+        "dutiful",
+        "saintly",
+        "holy",
+        "prayerful",
+        "churchgoing",
+        "practising",
+        "faithful",
+        "devoted",
+        "committed"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person bound by monastic vows."
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin religiosus, from religio reverence, obligation (see religion).",
+  "pronounciation": "/rəˈlɪdʒəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/religious_us_1.mp3"
+}

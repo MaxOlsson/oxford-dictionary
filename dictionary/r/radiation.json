@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.",
+      "synonyms": [
+        "discharge",
+        "release",
+        "outpouring",
+        "outflow",
+        "outrush",
+        "leak",
+        "excretion",
+        "secretion",
+        "ejection"
+      ]
+    },
+    {
+      "description": "Divergence out from a central point, in particular evolution from an ancestral animal or plant group into a variety of new forms.",
+      "examples": [
+        "evolution is a process of radiation not progression"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the action of sending out rays of light): from Latin radiatio(n-), from radiare emit rays (see radiate).",
+  "pronounciation": "/ˌrādēˈāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/radiation_us_1.mp3"
+}

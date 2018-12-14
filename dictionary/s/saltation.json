@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "Abrupt evolutionary change; sudden large-scale mutation.",
+      "examples": [
+        "new genetic characters appear suddenly by saltation",
+        "a new concept of evolution by saltations or sudden transitions"
+      ]
+    },
+    {
+      "description": "The movement of hard particles such as sand over an uneven surface in a turbulent flow of air or water.",
+      "examples": [
+        "the distance traveled by each grain during saltation"
+      ]
+    },
+    {
+      "description": "The action of leaping or dancing.",
+      "synonyms": [
+        "leap",
+        "jump",
+        "bound",
+        "vault",
+        "hop"
+      ]
+    }
+  ],
+  "origin": "Early 17th century (in saltation (sense 3)): from Latin saltatio(n-), from saltare to dance, frequentative of salire to leap.",
+  "pronounciation": "/ˌsɔlˈteɪʃən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saltation_us_1.mp3"
+}

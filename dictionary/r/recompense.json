@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Make amends to (someone) for loss or harm suffered; compensate.",
+      "examples": [
+        "offenders should recompense their victims",
+        "he was recompensed for the wasted time"
+      ],
+      "synonyms": [
+        "compensate",
+        "indemnify",
+        "repay",
+        "reimburse",
+        "pay money to",
+        "make reparation to",
+        "make restitution to",
+        "make amends to"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Compensation or reward given for loss or harm suffered or effort made.",
+      "examples": [
+        "substantial damages were paid in recompense"
+      ],
+      "synonyms": [
+        "compensation",
+        "reparation",
+        "restitution",
+        "indemnification",
+        "indemnity"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from the verb recompenser do a favor to requite a loss, from late Latin recompensare, from Latin re- again (also expressing intensive force) + compensare weigh one thing against another.",
+  "pronounciation": "/ˈrɛkəmˌpɛns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recompense_us_1.mp3"
+}

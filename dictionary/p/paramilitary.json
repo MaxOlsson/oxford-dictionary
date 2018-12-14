@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "(of an unofficial force) organized similarly to a military force.",
+      "examples": [
+        "soldiers and police have been killed in conflicts with the drug cartels and their paramilitary allies"
+      ],
+      "synonyms": [
+        "guerrilla",
+        "underground"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A member of a paramilitary organization.",
+      "synonyms": [
+        "guerrilla",
+        "underground fighter"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌpɛrəˈmɪləˌtɛri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paramilitary_us_1.mp3"
+}

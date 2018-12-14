@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Consistently good in quality or performance; able to be trusted.",
+      "examples": [
+        "a reliable source of information"
+      ],
+      "synonyms": [
+        "dependable",
+        "good",
+        "well founded",
+        "well grounded",
+        "authentic",
+        "definitive",
+        "attested",
+        "valid",
+        "genuine",
+        "from the horse's mouth",
+        "sound",
+        "true"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing with trustworthy qualities.",
+      "examples": [
+        "the supporting cast includes old reliables like Mitchell"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈlaɪəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reliable_us_1.mp3"
+}

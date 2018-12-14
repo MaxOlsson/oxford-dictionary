@@ -1,0 +1,58 @@
+{
+  "verb": [
+    {
+      "description": "Cause to feel happy and satisfied.",
+      "examples": [
+        "he arranged a fishing trip to please his son",
+        "it pleased him to be seen with someone in the news"
+      ],
+      "synonyms": [
+        "nice",
+        "agreeable",
+        "pleasant",
+        "pleasurable",
+        "satisfying",
+        "gratifying",
+        "welcome",
+        "good",
+        "acceptable",
+        "to one's liking",
+        "enjoyable",
+        "entertaining",
+        "amusing",
+        "delightful",
+        "fine"
+      ]
+    },
+    {
+      "description": "Take only one's own wishes into consideration in deciding how to act or proceed.",
+      "examples": [
+        "this is the first time in ages that I can just please myself"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used in polite requests or questions.",
+      "examples": [
+        "please address letters to the Editor",
+        "what type of fish is this, please?"
+      ],
+      "synonyms": [
+        "if you please",
+        "if you wouldn't mind",
+        "if you would be so good"
+      ]
+    }
+  ],
+  "phrases": [
+    "she walked forward as calm as you please",
+    "They're gone and he's sneaking up on the place and jerking doors open and windows as quick as you please.",
+    "Once you've got the material, you can be as creative as you please with sewing or painting on patterns.",
+    "The staff are friendly without being saccharine and are quite willing to let you linger for as long as you please over a cup of coffee.",
+    "Stay as long as you please then, Mr. Benito, Mr. Kane."
+  ],
+  "origin": "Middle English: from Old French plaisir to please, from Latin placere.",
+  "pronounciation": "/plēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/please_us_1.mp3"
+}

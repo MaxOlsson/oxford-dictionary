@@ -1,0 +1,161 @@
+{
+  "verb": [
+    {
+      "description": "Lift or move to a higher position or level.",
+      "examples": [
+        "she raised both arms above her head",
+        "his flag was raised over the city"
+      ],
+      "synonyms": [
+        "lift",
+        "lift up",
+        "raise aloft",
+        "elevate"
+      ]
+    },
+    {
+      "description": "Increase the amount, level, or strength of.",
+      "examples": [
+        "the bank raised interest rates",
+        "the aim was to raise awareness of the plight of the homeless"
+      ],
+      "synonyms": [
+        "increase",
+        "put up",
+        "push up",
+        "up",
+        "mark up",
+        "step up",
+        "lift",
+        "augment",
+        "escalate",
+        "inflate",
+        "swell",
+        "add to"
+      ]
+    },
+    {
+      "description": "Cause to occur or to be considered.",
+      "examples": [
+        "the alarm was raised when he failed to return home",
+        "doubts have been raised about the future of the reprocessing plant"
+      ],
+      "synonyms": [
+        "bring up",
+        "introduce",
+        "advance",
+        "broach",
+        "mention",
+        "allude to",
+        "touch on",
+        "suggest",
+        "moot",
+        "put forward",
+        "bring forward",
+        "pose",
+        "present",
+        "table",
+        "propose",
+        "submit"
+      ]
+    },
+    {
+      "description": "Collect, levy, or bring together (money or resources)",
+      "examples": [
+        "she was attempting to raise $20,000"
+      ],
+      "synonyms": [
+        "get",
+        "obtain",
+        "acquire"
+      ]
+    },
+    {
+      "description": "Bring up (a child)",
+      "examples": [
+        "he was born and raised in San Francisco"
+      ],
+      "synonyms": [
+        "bring up",
+        "rear",
+        "nurture",
+        "look after",
+        "care for",
+        "take care of",
+        "provide for",
+        "mother",
+        "parent",
+        "tend",
+        "protect",
+        "cherish"
+      ]
+    },
+    {
+      "description": "Bring (someone) back from death.",
+      "examples": [
+        "God raised Jesus from the dead"
+      ]
+    },
+    {
+      "description": "Abandon or force an enemy to abandon (a siege, blockade, or embargo).",
+      "synonyms": [
+        "end",
+        "stop",
+        "bring to an end",
+        "put an end to",
+        "terminate",
+        "abandon",
+        "lift"
+      ]
+    },
+    {
+      "description": "Drive (an animal) from its lair.",
+      "examples": [
+        "the jack rabbit was only 250 yards from where he first raised it"
+      ]
+    },
+    {
+      "description": "(of someone at sea) come in sight of (land or another ship)",
+      "examples": [
+        "they raised the low coast by evening"
+      ]
+    },
+    {
+      "description": "Stimulate production of (an antiserum, antibody, or other biologically active substance) against the appropriate target cell or substance."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An increase in salary.",
+      "examples": [
+        "he wants a raise and some perks"
+      ],
+      "synonyms": [
+        "rise",
+        "pay increase",
+        "salary increase",
+        "wage increase",
+        "increment"
+      ]
+    },
+    {
+      "description": "(in poker or brag) an increase in a stake."
+    },
+    {
+      "description": "An act of lifting or raising a part of the body while holding a weight.",
+      "examples": [
+        "bent-over raises"
+      ]
+    }
+  ],
+  "phrases": [
+    "There are twenty-four tracks where she'll scream and shout and raise the devil.",
+    "I raised my glass to Susan",
+    "He glances at the portrait of Heinrich, and raises his glass.",
+    "Congratulations, he said, raising his glass.",
+    "We raise our glasses and sing victory songs to Paul."
+  ],
+  "origin": "Middle English: from Old Norse reisa; related to the verb rear.",
+  "pronounciation": "/rāz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/raise_us_1.mp3"
+}

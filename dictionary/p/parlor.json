@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "A sitting room in a private house.",
+      "synonyms": [
+        "sitting room",
+        "living room",
+        "lounge",
+        "front room",
+        "best room",
+        "drawing room",
+        "morning room",
+        "salon"
+      ]
+    },
+    {
+      "description": "A room in a public building for receiving guests.",
+      "examples": [
+        "the mayor's parlor"
+      ]
+    },
+    {
+      "description": "A shop or business providing specified goods or services.",
+      "examples": [
+        "a funeral parlor",
+        "an ice cream parlor"
+      ],
+      "synonyms": [
+        "salon",
+        "shop",
+        "establishment",
+        "store"
+      ]
+    },
+    {
+      "description": "A room or building equipped for milking cows."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Denoting a person who professes but does not actively give support to a specified (especially radical) political view.",
+      "examples": [
+        "parlor libertarians"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French parlur place for speaking, from Latin parlare speak.",
+  "pronounciation": "/ˈpärlər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parlor_us_1.mp3"
+}

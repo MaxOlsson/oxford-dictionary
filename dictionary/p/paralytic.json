@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to paralysis.",
+      "examples": [
+        "the incidence of paralytic disease"
+      ],
+      "synonyms": [
+        "paralysed",
+        "crippled",
+        "disabled",
+        "incapacitated",
+        "dead",
+        "numb",
+        "benumbed",
+        "powerless",
+        "immobilized"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person affected by paralysis."
+    }
+  ],
+  "origin": "Late Middle English: from Old French paralytique, via Latin from Greek paralutikos relating to paralysis (see paralysis).",
+  "pronounciation": "/ˌperəˈlidik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/paralytic_us_1.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "adjective": [
+    {
+      "description": "Looking back on or dealing with past events or situations.",
+      "examples": [
+        "our survey was retrospective"
+      ],
+      "synonyms": [
+        "backdated",
+        "retroactive",
+        "ex post facto",
+        "backward-looking"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An exhibition or compilation showing the development of the work of a particular artist over a period of time.",
+      "examples": [
+        "a Georgia O'Keeffe retrospective"
+      ],
+      "synonyms": [
+        "display",
+        "public display",
+        "show",
+        "showing",
+        "presentation",
+        "demonstration",
+        "showcase",
+        "mounting",
+        "spectacle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌretrəˈspektiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retrospective_us_1.mp3"
+}

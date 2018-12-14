@@ -1,0 +1,87 @@
+{
+  "adjective": [
+    {
+      "description": "Important; famous.",
+      "examples": [
+        "she was a prominent member of the city council"
+      ],
+      "synonyms": [
+        "important",
+        "well known",
+        "leading",
+        "eminent",
+        "pre-eminent",
+        "distinguished",
+        "notable",
+        "noteworthy",
+        "noted",
+        "public",
+        "outstanding",
+        "foremost",
+        "of mark",
+        "illustrious",
+        "celebrated",
+        "famous",
+        "renowned",
+        "acclaimed",
+        "famed",
+        "honoured",
+        "esteemed",
+        "respected",
+        "well thought of",
+        "influential",
+        "prestigious",
+        "big",
+        "top",
+        "great",
+        "chief",
+        "main"
+      ]
+    },
+    {
+      "description": "Projecting from something; protuberant.",
+      "examples": [
+        "a man with big, prominent eyes like a lobster's"
+      ],
+      "synonyms": [
+        "protuberant",
+        "protruding",
+        "projecting",
+        "jutting",
+        "jutting out",
+        "standing out",
+        "sticking out",
+        "proud",
+        "bulging",
+        "bulbous"
+      ]
+    },
+    {
+      "description": "Situated so as to catch the attention; noticeable.",
+      "examples": [
+        "the new housing developments are prominent landmarks"
+      ],
+      "synonyms": [
+        "conspicuous",
+        "noticeable",
+        "easily seen",
+        "obvious",
+        "evident",
+        "discernible",
+        "recognizable",
+        "distinguishable",
+        "unmistakable",
+        "eye-catching",
+        "pronounced",
+        "salient",
+        "striking",
+        "outstanding",
+        "dominant",
+        "predominant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense projecting): from Latin prominent- jutting out, from the verb prominere. Compare with eminent.",
+  "pronounciation": "/ˈprɑmənənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prominent_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A tower roof which has two opposite gables connected by a pitched section."
+    },
+    {
+      "description": "A hill with a ridge along the top that dips in the middle.",
+      "synonyms": [
+        "high ground",
+        "rising ground",
+        "prominence",
+        "eminence",
+        "elevation",
+        "rise",
+        "hillock",
+        "mound",
+        "mount",
+        "knoll",
+        "hummock",
+        "tor",
+        "tump",
+        "fell",
+        "pike",
+        "mesa"
+      ]
+    },
+    {
+      "description": "A pig of a black breed with a white stripe across the back."
+    },
+    {
+      "description": "A New Zealand wattlebird with mainly black plumage, a reddish-brown back, and two small red wattles under the bill."
+    }
+  ],
+  "pronounciation": "/ˈsadlˌbak/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saddleback_us_1.mp3"
+}

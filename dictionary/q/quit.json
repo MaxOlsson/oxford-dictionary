@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Leave (a place), usually permanently.",
+      "examples": [
+        "he was ordered to quit the cabin immediately"
+      ],
+      "synonyms": [
+        "leave",
+        "go away from",
+        "depart from",
+        "vacate",
+        "evacuate",
+        "move out of",
+        "exit from",
+        "withdraw from",
+        "abandon",
+        "desert"
+      ]
+    },
+    {
+      "description": "Behave in a specified way.",
+      "examples": [
+        "quit yourselves like men, and fight"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Rid of.",
+      "examples": [
+        "I want to be quit of him"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Used in names of various small songbirds found in the Caribbean area, e.g. bananaquit, grassquit."
+    }
+  ],
+  "origin": "Mid 19th century: probably imitative.",
+  "pronounciation": "/kwit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quit_us_1.mp3"
+}

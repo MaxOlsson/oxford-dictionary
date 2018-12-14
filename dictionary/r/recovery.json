@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A return to a normal state of health, mind, or strength.",
+      "examples": [
+        "signs of recovery in the housing market",
+        "he's back at home now and he looks all set to make a full recovery"
+      ],
+      "synonyms": [
+        "recuperation",
+        "convalescence",
+        "return to health",
+        "process of getting better",
+        "rehabilitation",
+        "healing",
+        "rallying"
+      ]
+    },
+    {
+      "description": "The action or process of regaining possession or control of something stolen or lost.",
+      "examples": [
+        "a team of salvage experts to ensure the recovery of family possessions",
+        "the recovery of his sight"
+      ],
+      "synonyms": [
+        "retrieval",
+        "regaining",
+        "repossession",
+        "getting back",
+        "recapture",
+        "reclamation",
+        "recouping",
+        "retaking",
+        "redemption"
+      ]
+    },
+    {
+      "description": "The process of removing or extracting an energy source or industrial chemical for use, reuse, or waste treatment."
+    }
+  ],
+  "phrases": [
+    "support groups for parents whose children are in recovery",
+    "He admitted the festive season can often lead to depression for those currently using drugs or in recovery, but he believes the New Year can offer renewed hope, too.",
+    "My closest friends are my friends in recovery, because we can talk to each other about what we feel today and help each other through it.",
+    "Many patients in recovery are concerned about taking antidepressants.",
+    "His own daughter is in recovery after five years of struggling with an eating disorder."
+  ],
+  "origin": "Late Middle English (denoting a means of restoration): from Anglo-Norman French recoverie, from recovrer get back.",
+  "pronounciation": "/rəˈkəv(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recovery_us_1.mp3"
+}

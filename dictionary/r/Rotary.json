@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "(of motion) revolving around a center or axis; rotational.",
+      "examples": [
+        "a rotary motion"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A rotary machine, engine, or device."
+    },
+    {
+      "description": "A traffic circle.",
+      "synonyms": [
+        "rotary",
+        "traffic circle"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "A worldwide charitable society of businessmen, businesswomen, and professional people, formed in 1905."
+    }
+  ],
+  "origin": "So named because members hosted events in rotation.",
+  "pronounciation": "/ˈrōdərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rotary_us_1.mp3"
+}

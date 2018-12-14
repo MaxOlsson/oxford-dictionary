@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A tool used for cutting crops such as grass or wheat, with a long curved blade at the end of a long pole attached to which are one or two short handles.",
+      "synonyms": [
+        "billhook",
+        "sickle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut with a scythe.",
+      "synonyms": [
+        "cut",
+        "cut down",
+        "shear",
+        "trim"
+      ]
+    }
+  ],
+  "origin": "Old English sīthe, of Germanic origin; related to Dutch zeis and German Sense.",
+  "pronounciation": "/sīT͟H/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scythe_us_1.mp3"
+}

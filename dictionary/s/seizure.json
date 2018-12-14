@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "The action of capturing someone or something using force.",
+      "examples": [
+        "the seizure of the Assembly building",
+        "another seizure of power by the military"
+      ],
+      "synonyms": [
+        "capture",
+        "occupation",
+        "takeover",
+        "overrunning",
+        "annexation",
+        "annexing",
+        "invasion",
+        "conquering",
+        "subjugation",
+        "subjection",
+        "colonization"
+      ]
+    },
+    {
+      "description": "A sudden attack of illness, especially a stroke or an epileptic fit.",
+      "examples": [
+        "the patient had a seizure"
+      ],
+      "synonyms": [
+        "convulsion",
+        "spasm",
+        "paroxysm",
+        "collapse",
+        "sudden illness",
+        "attack",
+        "fit",
+        "bout"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsēZHər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seizure_us_1.mp3"
+}

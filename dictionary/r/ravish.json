@@ -1,0 +1,45 @@
+{
+  "verb": [
+    {
+      "description": "Seize and carry off (someone) by force.",
+      "synonyms": [
+        "kidnap",
+        "carry off",
+        "seize",
+        "capture",
+        "run away with",
+        "run off with",
+        "make off with",
+        "spirit away",
+        "hold hostage",
+        "hold to ransom",
+        "hijack"
+      ]
+    },
+    {
+      "description": "Fill (someone) with intense delight; enrapture.",
+      "examples": [
+        "ravished by a sunny afternoon, she had agreed without even thinking"
+      ],
+      "synonyms": [
+        "enrapture",
+        "send into raptures",
+        "enchant",
+        "fill with delight",
+        "delight",
+        "charm",
+        "entrance",
+        "enthral",
+        "captivate",
+        "bewitch",
+        "spellbind",
+        "fascinate",
+        "transport",
+        "overjoy"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French raviss-, lengthened stem of ravir, from an alteration of Latin rapere seize.",
+  "pronounciation": "/ˈrævɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ravish_us_1.mp3"
+}

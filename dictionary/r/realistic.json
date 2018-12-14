@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing a sensible and practical idea of what can be achieved or expected.",
+      "examples": [
+        "jobs are scarce at the moment, so you've got to be realistic",
+        "a more realistic figure was 20 percent"
+      ],
+      "synonyms": [
+        "practical",
+        "pragmatic",
+        "matter-of-fact",
+        "down-to-earth",
+        "sensible",
+        "commonsensical"
+      ]
+    },
+    {
+      "description": "Representing familiar things in a way that is accurate or true to life.",
+      "examples": [
+        "a realistic human drama"
+      ],
+      "synonyms": [
+        "true to life",
+        "lifelike",
+        "true",
+        "truthful",
+        "faithful",
+        "real-life",
+        "close",
+        "naturalistic",
+        "authentic",
+        "genuine",
+        "representational",
+        "graphic",
+        "convincing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrēəˈlistik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/realistic_us_1.mp3"
+}

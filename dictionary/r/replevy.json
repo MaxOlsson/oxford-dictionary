@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Recover (seized goods) by replevin.",
+      "examples": [
+        "he could not replevy the entrusted goods"
+      ],
+      "synonyms": [
+        "retrieve",
+        "regain",
+        "regain possession of",
+        "get back",
+        "win back",
+        "take back",
+        "recoup",
+        "reclaim",
+        "repossess",
+        "recapture",
+        "retake",
+        "redeem"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Old French replevir recover; apparently related to pledge.",
+  "pronounciation": "/rəˈplɛvi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/replevy_us_1.mp3"
+}

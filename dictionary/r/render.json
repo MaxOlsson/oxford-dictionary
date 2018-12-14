@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Provide or give (a service, help, etc.)",
+      "examples": [
+        "money serves as a reward for services rendered",
+        "Mrs. Evans would render assistance to those she thought were in real need"
+      ],
+      "synonyms": [
+        "give",
+        "provide",
+        "supply",
+        "furnish",
+        "make available",
+        "contribute"
+      ]
+    },
+    {
+      "description": "Cause to be or become; make.",
+      "examples": [
+        "the rains rendered his escape impossible"
+      ],
+      "synonyms": [
+        "make",
+        "cause to be",
+        "cause to become",
+        "leave"
+      ]
+    },
+    {
+      "description": "Represent or depict artistically.",
+      "examples": [
+        "the eyes and the cheeks are exceptionally well rendered"
+      ],
+      "synonyms": [
+        "paint",
+        "draw",
+        "depict",
+        "portray",
+        "represent",
+        "reproduce",
+        "execute"
+      ]
+    },
+    {
+      "description": "Covertly send (a foreign criminal or terrorist suspect) for interrogation abroad; subject to extraordinary rendition."
+    },
+    {
+      "description": "Melt down (fat)",
+      "examples": [
+        "the fat was being cut up and rendered for lard"
+      ],
+      "synonyms": [
+        "melt down",
+        "clarify",
+        "purify"
+      ]
+    },
+    {
+      "description": "Cover (stone or brick) with a coat of plaster.",
+      "examples": [
+        "external walls will be rendered and tiled"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A first coat of plaster applied to a brick or stone surface."
+    }
+  ],
+  "origin": "Late Middle English: from Old French rendre, from an alteration of Latin reddere give back, from re- back + dare give. The earliest senses were recite, translate, and give back (hence represent and perform); hand over (hence give help and submit for consideration); cause to be; and melt down.",
+  "pronounciation": "/ˈrɛndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/render_us_1.mp3"
+}

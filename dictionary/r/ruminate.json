@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Think deeply about something.",
+      "examples": [
+        "we sat ruminating on the nature of existence"
+      ],
+      "synonyms": [
+        "think about",
+        "contemplate",
+        "consider",
+        "give thought to",
+        "give consideration to",
+        "mull over",
+        "meditate on",
+        "muse on",
+        "ponder on",
+        "ponder over",
+        "deliberate about",
+        "deliberate on",
+        "cogitate about",
+        "cogitate on",
+        "dwell on",
+        "brood on",
+        "brood over",
+        "agonize over",
+        "worry about",
+        "chew over",
+        "puzzle over"
+      ]
+    },
+    {
+      "description": "(of a ruminant) chew the cud.",
+      "synonyms": [
+        "chew the cud"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin ruminat- chewed over, from the verb ruminari.",
+  "pronounciation": "/ˈro͞oməˌnāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ruminate_us_1.mp3"
+}

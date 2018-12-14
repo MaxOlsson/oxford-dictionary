@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Turn into bone or bony tissue.",
+      "examples": [
+        "these tracheal cartilages may ossify"
+      ],
+      "synonyms": [
+        "turn into bone",
+        "become bony",
+        "harden",
+        "solidify",
+        "stiffen",
+        "rigidify",
+        "petrify",
+        "fossilize"
+      ]
+    },
+    {
+      "description": "Cease developing; be stagnant or rigid.",
+      "examples": [
+        "ossified political institutions"
+      ],
+      "synonyms": [
+        "become inflexible",
+        "become rigid",
+        "fossilize",
+        "harden",
+        "rigidify",
+        "stagnate",
+        "become obdurate",
+        "become unyielding",
+        "become unprogressive",
+        "cease developing"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from French ossifier, from Latin os, oss- bone.",
+  "pronounciation": "/ˈäsəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ossify_us_1.mp3"
+}

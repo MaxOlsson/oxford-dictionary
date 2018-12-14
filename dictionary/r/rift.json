@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A crack, split, or break in something.",
+      "examples": [
+        "the wind had torn open a rift in the clouds"
+      ],
+      "synonyms": [
+        "crack",
+        "fault",
+        "flaw",
+        "split",
+        "break",
+        "breach",
+        "fissure",
+        "fracture",
+        "cleft",
+        "crevice",
+        "gap",
+        "cranny",
+        "slit",
+        "chink",
+        "interstice",
+        "cavity",
+        "opening",
+        "space",
+        "hole",
+        "aperture"
+      ]
+    },
+    {
+      "description": "A serious break in friendly relations.",
+      "examples": [
+        "their demise caused a rift between the city's town and gown"
+      ],
+      "synonyms": [
+        "breach",
+        "division",
+        "split"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Form fissures, cracks, or breaks, especially through large-scale faulting; move apart.",
+      "examples": [
+        "a fragment of continental crust that rifted away from eastern Australia",
+        "active rifting in southwestern Mexico"
+      ]
+    }
+  ],
+  "origin": "Middle English: of Scandinavian origin; compare with Norwegian and Danish rift cleft, chink.",
+  "pronounciation": "/rift/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rift_us_1.mp3"
+}

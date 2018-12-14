@@ -1,0 +1,163 @@
+{
+  "verb": [
+    {
+      "description": "Cease work or movement in order to relax, refresh oneself, or recover strength.",
+      "examples": [
+        "he needed to rest after the feverish activity",
+        "I'm going to rest up before traveling to England"
+      ],
+      "synonyms": [
+        "relax",
+        "take a rest",
+        "ease off",
+        "ease up",
+        "let up",
+        "slow down",
+        "pause",
+        "have a break",
+        "take a break",
+        "unbend",
+        "repose",
+        "laze",
+        "idle",
+        "loaf",
+        "do nothing",
+        "take time off",
+        "slack off",
+        "unwind",
+        "recharge one's batteries",
+        "be at leisure",
+        "take it easy",
+        "sit back",
+        "sit down",
+        "stand down",
+        "lounge",
+        "luxuriate",
+        "loll",
+        "slump",
+        "flop",
+        "put one's feet up",
+        "lie down",
+        "go to bed",
+        "have a nap",
+        "take a nap",
+        "nap",
+        "catnap",
+        "doze",
+        "have a siesta",
+        "take a siesta",
+        "drowse",
+        "sleep"
+      ]
+    },
+    {
+      "description": "Be placed or supported so as to stay in a specified position.",
+      "examples": [
+        "her elbow was resting on the arm of the sofa"
+      ],
+      "synonyms": [
+        "lie",
+        "be laid",
+        "recline",
+        "repose",
+        "be",
+        "be placed",
+        "be positioned"
+      ]
+    },
+    {
+      "description": "Be based on or grounded in; depend on.",
+      "examples": [
+        "the country's security rested on its alliances"
+      ],
+      "synonyms": [
+        "be based on",
+        "be grounded in",
+        "be founded on",
+        "depend on",
+        "be dependent on",
+        "rely on",
+        "hinge on",
+        "turn on",
+        "hang on",
+        "pivot on",
+        "be contingent on",
+        "revolve around",
+        "centre on"
+      ]
+    },
+    {
+      "description": "Conclude the case for the prosecution or the defense in a law case.",
+      "examples": [
+        "the prosecution rests"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance or period of relaxing or ceasing to engage in strenuous or stressful activity.",
+      "examples": [
+        "you look as though you need a rest",
+        "a couple of days of complete rest"
+      ],
+      "synonyms": [
+        "repose",
+        "relaxation",
+        "leisure",
+        "ease",
+        "inactivity",
+        "respite",
+        "time off",
+        "time out",
+        "breathing space"
+      ]
+    },
+    {
+      "description": "An interval of silence of a specified duration."
+    },
+    {
+      "description": "An object that is used to support something.",
+      "examples": [
+        "a chin-rest",
+        "a shoulder-rest"
+      ],
+      "synonyms": [
+        "stand",
+        "base",
+        "holder",
+        "support",
+        "stay",
+        "prop",
+        "brace",
+        "rack",
+        "hook",
+        "frame",
+        "shelf",
+        "bracket",
+        "trestle",
+        "tripod",
+        "plinth",
+        "pedestal",
+        "foundation",
+        "bed",
+        "foot",
+        "substructure"
+      ]
+    }
+  ],
+  "phrases": [
+    "The definition later attracted criticism from Newton on the ground that it implied, incorrectly, that particles inside a moving body were at rest while those on the surface were not.",
+    "Consider Aristotle's own riddle about motion: At the instant when an object stops moving, is it in motion or is it at rest?",
+    "A reference frame specifies all the trajectories that are regarded as stationary, or at rest in space.",
+    "After the first venous blood sample was obtained at rest, strength was evaluated in each leg and a baseline muscle biopsy was performed on the nondominant leg.",
+    "Ultrasound scans will then produce moving pictures of the heart both at rest and during stimulation, which doctors believe will enable them to make an improved, more accurate diagnosis.",
+    "social security and pension and the rest of it",
+    "And you find it in the health service, you find it in education and the rest of it.",
+    "If you believe in transubstantiation, parthenogenesis and the rest of it, you're deemed fit to run the country.",
+    "Of course we need something called a job, money, cars, TVs, computers, gourmet gadgets and the rest of it.",
+    "If this makes it worse what is going to happen in terms of our house insurance and the rest of it?"
+  ],
+  "origin": "Late Middle English: from Old French reste (noun), rester (verb), from Latin restare remain, from re- back + stare to stand.",
+  "pronounciation": "/rɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rest_us_1.mp3"
+}

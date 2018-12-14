@@ -1,0 +1,94 @@
+{
+  "adjective": [
+    {
+      "description": "Protected from or not exposed to danger or risk; not likely to be harmed or lost.",
+      "examples": [
+        "eggs remain in the damp sand, safe from marine predators",
+        "she felt safer with them than alone"
+      ],
+      "synonyms": [
+        "protected from danger",
+        "protected from harm",
+        "shielded",
+        "sheltered",
+        "guarded",
+        "defended",
+        "secure",
+        "safe and sound",
+        "out of harm's way",
+        "all right"
+      ]
+    },
+    {
+      "description": "Cautious and unenterprising.",
+      "examples": [
+        "MacGregor would be a compromise, the safe choice"
+      ],
+      "synonyms": [
+        "cautious",
+        "circumspect",
+        "prudent",
+        "chary",
+        "attentive"
+      ]
+    },
+    {
+      "description": "Based on good reasons or evidence and not likely to be proved wrong.",
+      "examples": [
+        "the verdict is safe and satisfactory",
+        "his world, it's safe to say, will not fall apart"
+      ]
+    },
+    {
+      "description": "Uninjured; with no harm done.",
+      "examples": [
+        "they had returned safe and sound",
+        "hopes of her safe return later faded"
+      ],
+      "synonyms": [
+        "unharmed",
+        "all right",
+        "alive and well",
+        "well",
+        "unhurt",
+        "uninjured",
+        "unscathed",
+        "in one piece",
+        "undamaged",
+        "out of danger",
+        "out of the wood",
+        "out of the woods"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A strong fireproof cabinet with a complex lock, used for the storage of valuables.",
+      "synonyms": [
+        "strongbox",
+        "safety-deposit box",
+        "safe-deposit box",
+        "coffer",
+        "casket",
+        "money chest",
+        "cash box",
+        "repository",
+        "depository",
+        "locker"
+      ]
+    },
+    {
+      "description": "A condom."
+    }
+  ],
+  "phrases": [
+    "they used to recruit hundreds a year, safe in the knowledge that many would leave",
+    "They were prepared to sign up to a framework agreement safe in the knowledge that there will be plenty of chances over the coming weeks, months and probably years to carry on haggling.",
+    "They continue to bombard us with electrical appliances, safe in the knowledge that, when we see them on the shelves, we'll realise that we just cannot do without.",
+    "I leave Black Rock Desert safe in the knowledge that there is still a place where, for one week at least, you can escape mundanity and soar into the world of your own imagination.",
+    "The store keeps a record of your measurements so if you like your togs you can order from the comfort of your living room, safe in the knowledge that there will be no problem size-wise."
+  ],
+  "origin": "Middle English (as an adjective): from Old French sauf, from Latin salvus uninjured. The noun is from the verb save, later assimilated to the adjectival form.",
+  "pronounciation": "/sāf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/safe_us_1.mp3"
+}

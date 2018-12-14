@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or a set of views) opposing political or social liberalization or reform.",
+      "examples": [
+        "reactionary attitudes toward women's rights"
+      ],
+      "synonyms": [
+        "right-wing",
+        "conservative",
+        "rightist",
+        "ultra-conservative",
+        "alt-right"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reactionary person.",
+      "synonyms": [
+        "right-winger",
+        "conservative",
+        "rightist",
+        "diehard",
+        "colonel blimp"
+      ]
+    }
+  ],
+  "pronounciation": "/rēˈakSHəˌnerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reactionary_us_1.mp3"
+}

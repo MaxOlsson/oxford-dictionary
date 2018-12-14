@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "The action or process of paying someone or something or of being paid.",
+      "examples": [
+        "ask for a discount for payment by cash",
+        "three interest-free monthly payments"
+      ],
+      "synonyms": [
+        "remittance",
+        "remission",
+        "settlement",
+        "discharge",
+        "clearance",
+        "liquidation",
+        "reckoning"
+      ]
+    },
+    {
+      "description": "An amount paid or payable.",
+      "examples": [
+        "an interim compensation payment of $2500"
+      ],
+      "synonyms": [
+        "instalment",
+        "premium",
+        "amount",
+        "remittance"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French paiement, from payer to pay.",
+  "pronounciation": "/ˈpāmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/payment_us_1.mp3"
+}

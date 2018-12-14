@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "An unprincipled person (often used humorously or affectionately).",
+      "synonyms": [
+        "rogue",
+        "rascal",
+        "scoundrel",
+        "good-for-nothing",
+        "villain",
+        "wretch",
+        "unprincipled person",
+        "rake",
+        "profligate",
+        "degenerate",
+        "debauchee",
+        "libertine"
+      ]
+    },
+    {
+      "description": "(in Calvinism) a sinner who is not of the elect and is predestined to damnation."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Unprincipled (often used as a humorous or affectionate reproach)",
+      "examples": [
+        "a long-missed old reprobate drinking comrade"
+      ],
+      "synonyms": [
+        "unprincipled",
+        "roguish",
+        "bad",
+        "wicked",
+        "rakish",
+        "shameless",
+        "immoral",
+        "profligate",
+        "degenerate",
+        "dissipated",
+        "debauched",
+        "depraved",
+        "corrupt"
+      ]
+    },
+    {
+      "description": "(in Calvinism) predestined to damnation."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Express or feel disapproval of.",
+      "examples": [
+        "his neighbors reprobated his method of proceeding"
+      ],
+      "synonyms": [
+        "criticize",
+        "condemn",
+        "censure",
+        "denounce",
+        "express strong disapproval of"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Latin reprobat- disapproved, from the verb reprobare, from re- (expressing reversal) + probare approve.",
+  "pronounciation": "/ˈrɛprəˌbeɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reprobate_us_1.mp3"
+}

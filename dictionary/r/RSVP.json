@@ -1,0 +1,19 @@
+{
+  "abbreviation": [
+    {
+      "description": "Répondez s'il vous plaît; please reply (used at the end of invitations to request a response)."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reply to an invitation indicating whether one plans to attend.",
+      "examples": [
+        "Are you coming? If you haven't RSVP'd make sure to do so",
+        "the event is free and open to the public; you just have to RSVP"
+      ]
+    }
+  ],
+  "origin": "French.",
+  "pronounciation": "/ˌä ˌres ˌvē ˈpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rsvp_us_1.mp3"
+}

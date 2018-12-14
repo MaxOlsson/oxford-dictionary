@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Put (something) right; correct.",
+      "examples": [
+        "mistakes made now cannot be rectified later",
+        "efforts to rectify the situation"
+      ],
+      "synonyms": [
+        "correct",
+        "make right",
+        "put right",
+        "set right",
+        "right",
+        "put to rights",
+        "sort out",
+        "deal with",
+        "amend",
+        "revise",
+        "remedy",
+        "repair",
+        "fix",
+        "cure",
+        "heal",
+        "make good",
+        "reform",
+        "harmonize",
+        "retrieve",
+        "improve",
+        "better",
+        "ameliorate",
+        "adjust",
+        "resolve",
+        "settle",
+        "redress",
+        "square"
+      ]
+    },
+    {
+      "description": "Convert (alternating current) to direct current.",
+      "examples": [
+        "rectified AC power systems"
+      ]
+    },
+    {
+      "description": "Find a straight line equal in length to (a curve)."
+    }
+  ],
+  "origin": "Late Middle English: from Old French rectifier, from medieval Latin rectificare, from Latin rectus right.",
+  "pronounciation": "/ˈrektəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rectify_us_1.mp3"
+}

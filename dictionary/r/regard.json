@@ -1,0 +1,94 @@
+{
+  "verb": [
+    {
+      "description": "Consider or think of (someone or something) in a specified way.",
+      "examples": [
+        "she regarded Omaha as her base",
+        "he was highly regarded by senators of both parties"
+      ],
+      "synonyms": [
+        "consider",
+        "look on",
+        "view",
+        "see",
+        "hold",
+        "think",
+        "think of",
+        "contemplate",
+        "count",
+        "judge",
+        "deem",
+        "estimate",
+        "evaluate",
+        "interpret",
+        "appraise",
+        "assess",
+        "make of",
+        "find",
+        "put down as",
+        "take for",
+        "account",
+        "reckon",
+        "treat",
+        "adjudge",
+        "size up",
+        "value",
+        "rate",
+        "gauge",
+        "sum up",
+        "weigh up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Attention to or concern for something.",
+      "examples": [
+        "the court must have regard to the principle of welfare",
+        "she rescued him without regard for herself"
+      ],
+      "synonyms": [
+        "consideration",
+        "care",
+        "concern",
+        "sympathy",
+        "thought",
+        "mind",
+        "notice",
+        "heed",
+        "attention",
+        "interest"
+      ]
+    },
+    {
+      "description": "Best wishes (used to express friendliness in greetings, especially at the end of letters)",
+      "examples": [
+        "give her my regards",
+        "Warm regards, Helen"
+      ],
+      "synonyms": [
+        "best wishes",
+        "good wishes",
+        "greetings",
+        "kind regards",
+        "kindest regards",
+        "felicitations",
+        "salutations",
+        "respects",
+        "compliments",
+        "best",
+        "love"
+      ]
+    }
+  ],
+  "phrases": [
+    "as regards content, the program will cover important current issues",
+    "She notes that not a lot has changed in 30 years as regards the ratio of women in politics in Carlow.",
+    "Now as regards access and control, this doesn't really leave students with very much control.",
+    "But as regards the insurgency, they're evidently not particularly relevant at all.",
+    "I am willing to meet Mr Fagan to discuss any proposals he has for the park and I am sure he has a lot to offer as regards ideas for the park."
+  ],
+  "origin": "Middle English: from Old French regarder to watch, from re- back (also expressing intensive force) + garder to guard.",
+  "pronounciation": "/rəˈɡärd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regard_us_1.mp3"
+}

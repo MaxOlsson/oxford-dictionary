@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A small stream.",
+      "synonyms": [
+        "brook",
+        "rivulet",
+        "runnel",
+        "streamlet",
+        "freshet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of water) flow in or as in a rill.",
+      "examples": [
+        "the springwater rilled over our cold hands"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: probably of Low German origin.",
+  "pronounciation": "/ril/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rill_us_1.mp3"
+}

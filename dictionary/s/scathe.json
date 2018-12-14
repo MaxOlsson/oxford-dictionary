@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Harm; injure.",
+      "examples": [
+        "he was barely scathed"
+      ],
+      "synonyms": [
+        "hurt",
+        "wound",
+        "harm",
+        "damage",
+        "disable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Harm; injury."
+    }
+  ],
+  "origin": "Middle English: from Old Norse skathi (noun), skatha (verb); related to Dutch and German schaden (verb).",
+  "pronounciation": "/skeɪð/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scathe_us_1.mp3"
+}

@@ -1,0 +1,99 @@
+{
+  "adjective": [
+    {
+      "description": "Actually existing as a thing or occurring in fact; not imagined or supposed.",
+      "examples": [
+        "Julius Caesar was a real person",
+        "her many illnesses, real and imaginary",
+        "a story drawing on real events"
+      ],
+      "synonyms": [
+        "actual",
+        "existent",
+        "non-fictional",
+        "non-fictitious",
+        "factual"
+      ]
+    },
+    {
+      "description": "(of a substance or thing) not imitation or artificial; genuine.",
+      "examples": [
+        "the earring was presumably real gold"
+      ],
+      "synonyms": [
+        "genuine",
+        "authentic",
+        "bona fide",
+        "pukka"
+      ]
+    },
+    {
+      "description": "Complete; utter (used for emphasis)",
+      "examples": [
+        "the tour turned out to be a real disaster"
+      ],
+      "synonyms": [
+        "complete",
+        "utter",
+        "thorough",
+        "absolute",
+        "total",
+        "prize",
+        "perfect",
+        "veritable"
+      ]
+    },
+    {
+      "description": "Adjusted for changes in the value of money; assessed by purchasing power.",
+      "examples": [
+        "real incomes had fallen by 30 percent",
+        "an increase in real terms of 11.6 percent"
+      ]
+    },
+    {
+      "description": "(of a number or quantity) having no imaginary part."
+    },
+    {
+      "description": "(of an image) of a kind in which the light that forms it actually passes through it; not virtual."
+    },
+    {
+      "description": "Of fixed property (i.e., land and buildings), as distinct from personal property.",
+      "examples": [
+        "he lost nearly all of his real holdings"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Really; very.",
+      "examples": [
+        "my head hurts real bad"
+      ],
+      "synonyms": [
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "vastly",
+        "hugely"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The basic monetary unit of Brazil since 1994, equal to 100 centavos."
+    }
+  ],
+  "phrases": [
+    "I'm not playing games—this is for real!",
+    "You get so used to seeing them on the news, I suppose, that seeing them for real doesn't come as a surprise.",
+    "Well, I have understood it partly, but one thing I knew for sure, this guy is for real and he is world class.",
+    "Do you want this guy for real, or are you just looking for great taste, less filling?",
+    "It didn't work until I saw it for real, then hearing it worked."
+  ],
+  "origin": "Spanish, literally royal (adjective used as a noun).",
+  "pronounciation": "/rāˈäl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/real_us_2.mp3"
+}

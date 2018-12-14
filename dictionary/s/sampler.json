@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A piece of embroidery worked in various stitches as a specimen of skill, typically containing the alphabet and some mottoes.",
+      "synonyms": [
+        "needlework",
+        "needlepoint",
+        "needlecraft",
+        "sewing",
+        "cross stitch",
+        "tatting",
+        "crochet",
+        "crewel work"
+      ]
+    },
+    {
+      "description": "A representative collection or example of something.",
+      "examples": [
+        "a few superb samplers of West Indian dishes"
+      ]
+    },
+    {
+      "description": "A person or device that takes and analyzes samples."
+    },
+    {
+      "description": "An electronic device for sampling music and sound."
+    }
+  ],
+  "origin": "Middle English (denoting an example to be imitated): from Old French essamplaire exemplar.",
+  "pronounciation": "/ˈsæmp(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sampler_us_1.mp3"
+}

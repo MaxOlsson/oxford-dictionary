@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "A showing of a movie, video, or television program.",
+      "synonyms": [
+        "broadcast",
+        "transmission",
+        "televising",
+        "showing",
+        "relaying",
+        "telecast",
+        "dissemination"
+      ]
+    },
+    {
+      "description": "The evaluation or investigation of something as part of a methodical survey, to assess suitability for a particular role or purpose.",
+      "synonyms": [
+        "trial",
+        "experiment",
+        "pilot study",
+        "try-out"
+      ]
+    },
+    {
+      "description": "Refuse separated by sieving grain."
+    }
+  ],
+  "pronounciation": "/ˈskrēniNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/screening_us_1.mp3"
+}

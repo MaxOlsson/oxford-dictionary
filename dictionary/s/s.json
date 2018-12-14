@@ -1,0 +1,49 @@
+{
+  "abbreviation": [
+    {
+      "description": "Second(s)."
+    },
+    {
+      "description": "Section (of an act)."
+    },
+    {
+      "description": "Shilling(s)."
+    },
+    {
+      "description": "Singular."
+    },
+    {
+      "description": "Solid."
+    },
+    {
+      "description": "(in genealogies) son(s)."
+    },
+    {
+      "description": "Succeeded."
+    },
+    {
+      "description": "Denoting electrons and orbitals possessing zero angular momentum and total symmetry.",
+      "examples": [
+        "s-electrons"
+      ]
+    }
+  ],
+  "": [
+    {
+      "description": "(in mathematical formulae) distance."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The nineteenth letter of the alphabet."
+    },
+    {
+      "description": "A shape like that of a capital S.",
+      "examples": [
+        "an S-bend"
+      ]
+    }
+  ],
+  "pronounciation": "/es/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/s_us_1.mp3"
+}

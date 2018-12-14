@@ -1,0 +1,37 @@
+{
+  "adverb": [
+    {
+      "description": "To some extent; not completely.",
+      "examples": [
+        "the result is partly a matter of skill and partly of chance",
+        "you're only partly right"
+      ],
+      "synonyms": [
+        "to a certain degree",
+        "to a certain extent",
+        "to some degree",
+        "to some extent",
+        "to a limited degree",
+        "to a limited extent",
+        "in part",
+        "partially",
+        "a little",
+        "somewhat",
+        "not totally",
+        "not wholly",
+        "not entirely",
+        "not fully",
+        "relatively",
+        "moderately",
+        "to a point",
+        "up to a point",
+        "half",
+        "in some measure",
+        "comparatively",
+        "slightly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpärtlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/partly_us_1.mp3"
+}

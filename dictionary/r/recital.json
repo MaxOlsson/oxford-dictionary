@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "The performance of a program of music by a solo instrumentalist or singer or by a small group.",
+      "examples": [
+        "a piano recital"
+      ],
+      "synonyms": [
+        "concert",
+        "performance",
+        "musical performance",
+        "public performance",
+        "solo performance",
+        "solo",
+        "show"
+      ]
+    },
+    {
+      "description": "An enumeration or listing of connected names, facts, or elements.",
+      "examples": [
+        "a recital of their misfortunes"
+      ],
+      "synonyms": [
+        "enumeration",
+        "list",
+        "litany",
+        "catalogue",
+        "listing",
+        "detailing",
+        "itemizing",
+        "specification"
+      ]
+    },
+    {
+      "description": "The part of a legal document that explains the purpose of the deed and gives factual information."
+    }
+  ],
+  "pronounciation": "/rəˈsīdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recital_us_1.mp3"
+}

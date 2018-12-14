@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Frightening; causing fear.",
+      "examples": [
+        "a scary movie"
+      ],
+      "synonyms": [
+        "frightening",
+        "scaring",
+        "hair-raising",
+        "terrifying",
+        "petrifying",
+        "spine-chilling",
+        "blood-curdling",
+        "chilling",
+        "horrifying",
+        "alarming",
+        "appalling",
+        "daunting",
+        "formidable",
+        "fearsome",
+        "nerve-racking",
+        "unnerving"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskerē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scary_us_1.mp3"
+}

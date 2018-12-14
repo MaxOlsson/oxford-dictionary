@@ -1,0 +1,23 @@
+{
+  "verb": [
+    {
+      "description": "Try (a defendant or case) again."
+    },
+    {
+      "description": "Re-enter a command, especially differently because one has made an error the first time.",
+      "examples": [
+        "please retry with a valid module name"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of re-entering a command or retransmitting data.",
+      "examples": [
+        "the need for retries slows things down"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈtraɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retry_us_1.mp3"
+}

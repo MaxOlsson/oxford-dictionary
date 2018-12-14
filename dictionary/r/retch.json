@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Make the sound and movement of vomiting.",
+      "examples": [
+        "the sour taste in her mouth made her retch"
+      ],
+      "synonyms": [
+        "gag",
+        "heave",
+        "dry-heave",
+        "reach",
+        "convulse",
+        "almost vomit",
+        "have nausea",
+        "feel nauseous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A movement or sound of vomiting.",
+      "examples": [
+        "with a sudden retch he vomited all over the floor"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: variant of dialect reach, from a Germanic base meaning spittle.",
+  "pronounciation": "/rɛtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retch_us_1.mp3"
+}

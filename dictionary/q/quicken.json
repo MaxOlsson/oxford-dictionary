@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Make or become faster or quicker.",
+      "examples": [
+        "she quickened her pace, desperate to escape",
+        "I felt my pulse quicken"
+      ],
+      "synonyms": [
+        "speed up",
+        "accelerate",
+        "step up",
+        "hasten",
+        "hurry",
+        "hurry up"
+      ]
+    },
+    {
+      "description": "Stimulate or become stimulated.",
+      "examples": [
+        "her interest quickened",
+        "the coroner's words suddenly quickened his own memories"
+      ],
+      "synonyms": [
+        "stimulate",
+        "excite",
+        "stir up",
+        "arouse",
+        "rouse",
+        "waken",
+        "animate",
+        "activate",
+        "incite",
+        "galvanize",
+        "instigate",
+        "whet",
+        "inspire",
+        "kindle",
+        "fan",
+        "refresh",
+        "strengthen",
+        "invigorate",
+        "reanimate",
+        "reactivate",
+        "revive",
+        "revitalize",
+        "resuscitate",
+        "revivify"
+      ]
+    },
+    {
+      "description": "(of a woman) reach a stage in pregnancy when movements of the fetus can be felt."
+    }
+  ],
+  "pronounciation": "/ˈkwɪkən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quicken_us_1.mp3"
+}

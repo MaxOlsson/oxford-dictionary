@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Appearing to be real or true, but not necessarily being so; apparent.",
+      "examples": [
+        "Ellen's seeming indifference to the woman's fate"
+      ],
+      "synonyms": [
+        "apparent",
+        "outward",
+        "surface"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The outward appearance or aspect of someone or something, especially when considered as deceptive or as distinguished from reality.",
+      "examples": [
+        "that dissidence between inward reality and outward seeming"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsēmiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seeming_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Having a pointed tip or end.",
+      "examples": [
+        "a pointy goatee"
+      ],
+      "synonyms": [
+        "sharp",
+        "spear-like",
+        "needle-like",
+        "spear-shaped",
+        "v-shaped",
+        "tapering",
+        "tapered",
+        "cone-shaped",
+        "conic",
+        "conical",
+        "acute",
+        "sharp-cornered",
+        "wedge-shaped",
+        "sharp-edged",
+        "edged",
+        "jagged",
+        "spiky",
+        "spiked",
+        "barbed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpoin(t)ē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pointy_us_1.mp3"
+}

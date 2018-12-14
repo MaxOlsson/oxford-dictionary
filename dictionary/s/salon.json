@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An establishment where a hairdresser, beautician, or couturier conducts business.",
+      "examples": [
+        "have your hair cut in a professional salon",
+        "a hairdressing salon"
+      ],
+      "synonyms": [
+        "shop",
+        "parlour",
+        "establishment",
+        "place",
+        "premises",
+        "building",
+        "place of business",
+        "boutique",
+        "store"
+      ]
+    },
+    {
+      "description": "A reception room in a large house.",
+      "synonyms": [
+        "reception room",
+        "drawing room",
+        "morning room",
+        "sitting room",
+        "living room",
+        "lounge",
+        "front room",
+        "best room",
+        "parlour"
+      ]
+    },
+    {
+      "description": "An annual exhibition of the work of living artists held by the Royal Academy of Painting and Sculpture in Paris, originally in the Salon d'Apollon in the Louvre in 1667."
+    }
+  ],
+  "origin": "Late 17th century: from French (see saloon).",
+  "pronounciation": "/səˈlän/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/salon_us_1.mp3"
+}

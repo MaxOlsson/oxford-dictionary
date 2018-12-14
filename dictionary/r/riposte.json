@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A quick, clever reply to an insult or criticism.",
+      "synonyms": [
+        "retort",
+        "counter",
+        "rejoinder",
+        "sally",
+        "return",
+        "retaliation",
+        "answer",
+        "reply",
+        "response"
+      ]
+    },
+    {
+      "description": "A quick return thrust following a parry."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a quick, clever reply to an insult or criticism.",
+      "examples": [
+        "“I'd have made lamb chops had I known you're a vegetarian,” Kris riposted"
+      ],
+      "synonyms": [
+        "retort",
+        "counter",
+        "rejoin",
+        "return",
+        "retaliate",
+        "hurl back",
+        "fling back",
+        "snap back",
+        "answer",
+        "reply",
+        "respond",
+        "say in response"
+      ]
+    },
+    {
+      "description": "Make a quick return thrust in fencing."
+    }
+  ],
+  "origin": "Early 18th century: from French risposte (noun), risposter (verb), from Italian risposta response.",
+  "pronounciation": "/rəˈpōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/riposte_us_1.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent.",
+      "examples": [
+        "he scoured the bathtub"
+      ],
+      "synonyms": [
+        "scrub",
+        "rub",
+        "clean",
+        "wash",
+        "cleanse",
+        "wipe"
+      ]
+    },
+    {
+      "description": "Administer a strong purgative to."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of scouring or the state of being scoured, especially by swift-flowing water."
+    },
+    {
+      "description": "Diarrhea in livestock, especially cattle and pigs."
+    }
+  ],
+  "origin": "Late Middle English: related to obsolete scour moving hastily, of unknown origin.",
+  "pronounciation": "/ˈskou(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scour_us_1.mp3"
+}

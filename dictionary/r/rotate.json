@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Move or cause to move in a circle around an axis or center.",
+      "examples": [
+        "the wheel continued to rotate",
+        "the small directional side rockets rotated the craft"
+      ],
+      "synonyms": [
+        "revolve",
+        "go round",
+        "turn",
+        "turn round",
+        "move round",
+        "spin",
+        "gyrate",
+        "wheel",
+        "whirl",
+        "twirl",
+        "swivel",
+        "circle",
+        "pirouette",
+        "pivot",
+        "reel"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: from Latin rotat- turned in a circle, from the verb rotare, from rota wheel.",
+  "pronounciation": "/ˈrōˌtāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rotate_us_1.mp3"
+}

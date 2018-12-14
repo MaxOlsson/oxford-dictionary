@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "At the lowest possible level.",
+      "examples": [
+        "rock-bottom prices"
+      ],
+      "synonyms": [
+        "cheap",
+        "inexpensive",
+        "low-priced",
+        "low-cost",
+        "economical",
+        "moderate",
+        "reasonable",
+        "modest",
+        "bargain",
+        "cut-price",
+        "bargain-basement"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The lowest possible level.",
+      "examples": [
+        "morale is at rock bottom",
+        "their relationship hit rock bottom"
+      ],
+      "synonyms": [
+        "lowest level",
+        "lower limit",
+        "bottom level",
+        "bottom",
+        "base",
+        "least",
+        "lowest",
+        "rock bottom",
+        "slightest",
+        "depth",
+        "nadir"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌrɑk ˈbɑdəm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rock_bottom_1_us_1.mp3"
+}

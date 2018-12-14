@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "(of a person or small animal) move hurriedly with short quick steps.",
+      "examples": [
+        "pedestrians scurried for cover"
+      ],
+      "synonyms": [
+        "scamper",
+        "scuttle",
+        "bustle",
+        "skip",
+        "trot",
+        "hurry",
+        "hasten",
+        "make haste",
+        "rush",
+        "race",
+        "dash",
+        "run",
+        "sprint"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A situation of hurried and confused movement.",
+      "examples": [
+        "I was in such a scurry"
+      ],
+      "synonyms": [
+        "rush",
+        "race",
+        "dash",
+        "run",
+        "sprint"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: abbreviation of hurry-scurry, reduplication of hurry.",
+  "pronounciation": "/ˈskərē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scurry_us_1.mp3"
+}

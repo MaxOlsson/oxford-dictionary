@@ -1,0 +1,65 @@
+{
+  "adjective": [
+    {
+      "description": "Of or concerning a province of a country or empire.",
+      "examples": [
+        "provincial elections"
+      ],
+      "synonyms": [
+        "non-metropolitan",
+        "small-town",
+        "non-urban",
+        "outlying",
+        "rural",
+        "country",
+        "rustic",
+        "backwoods",
+        "backwater"
+      ]
+    },
+    {
+      "description": "Of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded.",
+      "examples": [
+        "the whole exhibition struck one as being very provincial",
+        "scenes of violence were reported in provincial towns"
+      ],
+      "synonyms": [
+        "regional",
+        "state",
+        "territorial",
+        "district",
+        "local"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inhabitant of a province of a country or empire."
+    },
+    {
+      "description": "An inhabitant of the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded.",
+      "synonyms": [
+        "bumpkin",
+        "country bumpkin",
+        "country cousin",
+        "rustic",
+        "yokel",
+        "village idiot",
+        "peasant",
+        "churl",
+        "lout",
+        "boor",
+        "oaf",
+        "clown",
+        "barbarian",
+        "yahoo"
+      ]
+    },
+    {
+      "description": "The head or chief of a province or of a religious order in a province."
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from Latin provincialis belonging to a province (see province).",
+  "pronounciation": "/prəˈvin(t)SH(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/provincial_us_1.mp3"
+}

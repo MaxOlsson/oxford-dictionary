@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A loud, fast-moving, and aggressive form of rock music, popular in the late 1970s and early 1980s."
+    },
+    {
+      "description": "A worthless person (often used as a general term of abuse)."
+    },
+    {
+      "description": "Soft, crumbly wood that has been attacked by fungus, sometimes used as tinder."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to punk rock and its associated subculture.",
+      "examples": [
+        "a punk band",
+        "a punk haircut"
+      ]
+    },
+    {
+      "description": "In poor or bad condition.",
+      "examples": [
+        "I felt too punk to eat"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Trick or deceive.",
+      "examples": [
+        "the Associated Press got punked with a fake tweet",
+        "his friends punked him and told him that she was having a party, which is why he showed up unannounced"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (in punk (sense 3 of the noun)): perhaps, in some senses, related to archaic punk prostitute, also to spunk.",
+  "pronounciation": "/pəŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/punk_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of language or style) concise and forcefully expressive.",
+      "synonyms": [
+        "concise",
+        "short",
+        "brief",
+        "compact",
+        "condensed",
+        "crisp",
+        "laconic",
+        "terse",
+        "tight",
+        "to the point",
+        "economic",
+        "thumbnail",
+        "summary",
+        "short and sweet",
+        "in a few well-chosen words",
+        "compendious",
+        "epigrammatic",
+        "synoptic",
+        "aphoristic",
+        "gnomic"
+      ]
+    },
+    {
+      "description": "(of a fruit or plant) containing much pith."
+    }
+  ],
+  "pronounciation": "/ˈpiTHē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pithy_us_1.mp3"
+}

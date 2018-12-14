@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Scotland or its people.",
+      "examples": [
+        "the Scottish Highlands",
+        "Scottish dancing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The people of Scotland."
+    }
+  ],
+  "pronounciation": "/ˈskädiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scottish_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "adverb": [
+    {
+      "description": "With a constant or definite pattern, especially with the same space between individual items.",
+      "examples": [
+        "regularly spaced buildings",
+        "leaves arranged regularly along the stem"
+      ]
+    },
+    {
+      "description": "At uniform intervals of time.",
+      "examples": [
+        "the reunion has taken place regularly every two years"
+      ]
+    },
+    {
+      "description": "On a habitual basis; usually.",
+      "examples": [
+        "the person who regularly cuts your hair"
+      ]
+    },
+    {
+      "description": "In a way that follows the normal pattern of inflection.",
+      "examples": [
+        "a regularly inflected plural noun"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈreɡyələrlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regularly_us_1.mp3"
+}

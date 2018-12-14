@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or connected with a profession.",
+      "examples": [
+        "young professional people",
+        "the professional schools of Yale and Harvard"
+      ],
+      "synonyms": [
+        "white-collar",
+        "executive",
+        "non-manual"
+      ]
+    },
+    {
+      "description": "Engaged in a specified activity as one's main paid occupation rather than as a pastime.",
+      "examples": [
+        "a professional boxer"
+      ],
+      "synonyms": [
+        "paid",
+        "salaried",
+        "non-amateur",
+        "full-time"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person engaged or qualified in a profession.",
+      "examples": [
+        "professionals such as lawyers and surveyors"
+      ],
+      "synonyms": [
+        "white-collar worker",
+        "professional worker",
+        "office worker"
+      ]
+    }
+  ],
+  "pronounciation": "/prəˈfeSH(ə)n(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/professional_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "adverb": [
+    {
+      "description": "Correctly.",
+      "examples": [
+        "if I remember rightly, she never gives interviews"
+      ],
+      "synonyms": [
+        "correctly",
+        "accurately",
+        "properly",
+        "exactly",
+        "precisely",
+        "aright",
+        "rightly",
+        "perfectly",
+        "unerringly",
+        "faultlessly",
+        "truly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈraɪtli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rightly_us_1.mp3"
+}

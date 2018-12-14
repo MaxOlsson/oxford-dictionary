@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A device consisting of a bar or wheel with a set of angled teeth in which a pawl, cog, or tooth engages, allowing motion in one direction only.",
+      "synonyms": [
+        "prong",
+        "point",
+        "tine",
+        "cog",
+        "sprocket"
+      ]
+    },
+    {
+      "description": "A situation or process that is perceived to be deteriorating or changing steadily in a series of irreversible steps.",
+      "examples": [
+        "a one-way ratchet of expanding entitlements"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Operate by means of a ratchet."
+    },
+    {
+      "description": "Cause something to rise (or fall) as a step in what is perceived as a steady and irreversible process.",
+      "examples": [
+        "the Bank of Japan ratcheted up interest rates again"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French rochet, originally denoting a blunt lance head, later in the sense bobbin, ratchet; related to the base of archaic rock quantity of wool on a distaff for spinning.",
+  "pronounciation": "/ˈrætʃət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ratchet_us_1.mp3"
+}

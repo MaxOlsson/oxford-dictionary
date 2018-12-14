@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A plant of the teasel family, with pink, white, or (most commonly) blue pincushion-shaped flowers."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Affected with mange; scabby.",
+      "synonyms": [
+        "dry",
+        "flaky",
+        "flaking",
+        "peeling",
+        "scurfy",
+        "rough",
+        "scabrous",
+        "mangy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: based on Latin scabiosus rough, scabby; the noun is from medieval Latin scabiosa (herba) rough, scabby (plant), formerly regarded as a cure for skin disease (see scabies).",
+  "pronounciation": "/ˈskeɪbiəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scabious_us_1.mp3"
+}

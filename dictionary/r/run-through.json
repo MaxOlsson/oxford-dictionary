@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A rehearsal.",
+      "examples": [
+        "a run-through of the whole show"
+      ],
+      "synonyms": [
+        "practice",
+        "practice session",
+        "try-out",
+        "trial performance",
+        "read-through",
+        "sing-through",
+        "walk-through",
+        "going-over",
+        "drill"
+      ]
+    },
+    {
+      "description": "A brief outline or summary.",
+      "examples": [
+        "the textbooks provide a run-through of research findings"
+      ],
+      "synonyms": [
+        "analysis",
+        "review",
+        "overview",
+        "briefing",
+        "brief",
+        "sketch",
+        "thumbnail sketch",
+        "outline",
+        "rough idea"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrənTHro͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/run_through_1_us_1.mp3"
+}

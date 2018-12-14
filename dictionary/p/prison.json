@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+      "examples": [
+        "he died in prison",
+        "both men were sent to prison"
+      ],
+      "synonyms": [
+        "jail",
+        "penal institution",
+        "place of detention",
+        "lock-up",
+        "place of confinement",
+        "guardhouse",
+        "detention centre"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Imprison.",
+      "examples": [
+        "the young man prisoned behind the doors"
+      ]
+    }
+  ],
+  "origin": "Late Old English, from Old French prisun, from Latin prensio(n-), variant of prehensio(n-) laying hold of, from the verb prehendere.",
+  "pronounciation": "/ˈprizən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prison_us_1.mp3"
+}

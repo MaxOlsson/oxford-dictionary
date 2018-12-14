@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to ancient Rome or its empire or people.",
+      "examples": [
+        "an old Roman settlement"
+      ]
+    },
+    {
+      "examples": [
+        "the Roman Church's instructions to its clergy"
+      ]
+    },
+    {
+      "description": "Denoting the alphabet (or any of the letters in it) used for writing Latin, English, and most European languages, developed in ancient Rome."
+    },
+    {
+      "description": "(of type) of a plain upright kind used in ordinary print, especially as distinguished from italic."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A citizen or soldier of the ancient Roman Republic or Empire."
+    },
+    {
+      "description": "A Roman Catholic."
+    },
+    {
+      "description": "Roman type."
+    }
+  ],
+  "origin": "Middle English: from Old French Romain, from Latin Romanus, from Roma Rome.",
+  "pronounciation": "/ˈrōmən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roman_us_2.mp3"
+}

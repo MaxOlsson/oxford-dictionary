@@ -1,0 +1,78 @@
+{
+  "verb": [
+    {
+      "description": "Take hold of (something) and quickly remove it from its place.",
+      "examples": [
+        "she plucked a blade of grass",
+        "he plucked a tape from the shelf"
+      ],
+      "synonyms": [
+        "remove",
+        "pick off",
+        "pick",
+        "pull",
+        "pull off",
+        "pull out",
+        "extract",
+        "take",
+        "take off"
+      ]
+    },
+    {
+      "description": "Quickly or suddenly remove someone from a dangerous or unpleasant situation.",
+      "examples": [
+        "the baby was plucked from a grim foster home"
+      ]
+    },
+    {
+      "description": "Sound (a musical instrument or its strings) with one's finger or a plectrum.",
+      "synonyms": [
+        "strum",
+        "pick",
+        "thrum",
+        "twang",
+        "plunk",
+        "finger"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Spirited and determined courage.",
+      "synonyms": [
+        "courage",
+        "bravery",
+        "nerve",
+        "pluckiness",
+        "boldness",
+        "courageousness",
+        "braveness",
+        "backbone",
+        "spine",
+        "daring",
+        "spirit",
+        "intrepidness",
+        "intrepidity",
+        "fearlessness",
+        "mettle",
+        "determination",
+        "fortitude",
+        "resolve",
+        "resolution",
+        "stout-heartedness",
+        "hardihood",
+        "dauntlessness",
+        "valour",
+        "doughtiness",
+        "heroism",
+        "audacity"
+      ]
+    },
+    {
+      "description": "The heart, liver, and lungs of an animal as food."
+    }
+  ],
+  "origin": "Late Old English ploccian, pluccian, of Germanic origin; related to Flemish plokken; probably from the base of Old French ( es)peluchier to pluck. Sense 1 of the noun is originally boxers' slang.",
+  "pronounciation": "/plək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pluck_us_1.mp3"
+}

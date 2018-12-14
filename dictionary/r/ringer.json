@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A person or thing that looks exactly like another.",
+      "examples": [
+        "he's a ringer for the French actor Fernandel"
+      ],
+      "synonyms": [
+        "lookalike",
+        "twin",
+        "clone",
+        "duplicate",
+        "perfect likeness",
+        "exact likeness",
+        "replica",
+        "copy",
+        "facsimile",
+        "imitation",
+        "picture",
+        "image",
+        "living image",
+        "mirror image",
+        "counterpart",
+        "match",
+        "mate",
+        "fellow"
+      ]
+    },
+    {
+      "description": "A person or device that rings something."
+    }
+  ],
+  "pronounciation": "/ˈriNGər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ringer_1_us_1.mp3"
+}

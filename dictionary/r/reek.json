@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Smell strongly and unpleasantly; stink.",
+      "examples": [
+        "the yard reeked of wet straw and stale horse manure",
+        "the reeking lavatories"
+      ],
+      "synonyms": [
+        "stink",
+        "smell",
+        "smell bad",
+        "smell disgusting",
+        "give off a bad smell",
+        "smell to high heaven",
+        "stink to high heaven"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A foul smell.",
+      "examples": [
+        "the reek of cattle dung"
+      ],
+      "synonyms": [
+        "stink",
+        "bad smell",
+        "foul smell",
+        "stench",
+        "taint",
+        "effluvium"
+      ]
+    },
+    {
+      "description": "Smoke."
+    }
+  ],
+  "origin": "Old English rēocan give out smoke or vapor, rēc (noun) smoke, of Germanic origin; related to Dutch rieken to smell, rook smoke, German riechen to smell, Rauch smoke.",
+  "pronounciation": "/rēk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reek_us_1.mp3"
+}

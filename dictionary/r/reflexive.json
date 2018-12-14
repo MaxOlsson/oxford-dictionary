@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Denoting a pronoun that refers back to the subject of the clause in which it is used, e.g. myself, themselves."
+    },
+    {
+      "description": "(of a relation) always holding between a term and itself."
+    },
+    {
+      "description": "(of a method or theory in the social sciences) taking account of itself or of the effect of the personality or presence of the researcher on what is being investigated."
+    },
+    {
+      "description": "(of an action) performed as a reflex, without conscious thought.",
+      "examples": [
+        "at concerts like this one standing ovations have become reflexive"
+      ],
+      "synonyms": [
+        "instinctive",
+        "automatic",
+        "mechanical",
+        "involuntary",
+        "knee-jerk",
+        "impulsive",
+        "intuitive",
+        "spontaneous",
+        "unconscious",
+        "subliminal",
+        "unthinking",
+        "unpremeditated",
+        "unconditioned",
+        "untaught",
+        "unlearned",
+        "unintentional",
+        "unwitting",
+        "inadvertent",
+        "accidental"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reflexive word or form, especially a pronoun."
+    }
+  ],
+  "pronounciation": "/rəˈflɛksɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reflexive_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of something unwelcome or unpleasant) flourishing or spreading unchecked.",
+      "examples": [
+        "political violence was rampant",
+        "rampant inflation"
+      ],
+      "synonyms": [
+        "uncontrolled",
+        "unrestrained",
+        "unchecked",
+        "unbridled",
+        "widespread",
+        "pandemic",
+        "epidemic",
+        "pervasive"
+      ]
+    },
+    {
+      "description": "(of an animal) represented standing on one hind foot with its forefeet in the air (typically in profile, facing the dexter (left) side, with right hind foot and tail raised, unless otherwise specified)",
+      "examples": [
+        "two gold lions rampant"
+      ],
+      "synonyms": [
+        "upright",
+        "standing",
+        "standing up",
+        "erect",
+        "rearing",
+        "vertical",
+        "perpendicular",
+        "upended",
+        "on end"
+      ]
+    },
+    {
+      "description": "(of an arch) springing from a level of support at one height and resting on the other support at a higher level."
+    }
+  ],
+  "origin": "Middle English (as a heraldic term): from Old French, literally crawling, present participle of ramper (see ramp). From the original use describing a wild animal arose the sense fierce, whence the current notion of unrestrained.",
+  "pronounciation": "/ˈrampənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rampant_us_1.mp3"
+}

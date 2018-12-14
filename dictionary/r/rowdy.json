@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Noisy and disorderly.",
+      "examples": [
+        "it was a rowdy but good-natured crowd"
+      ],
+      "synonyms": [
+        "unruly",
+        "disorderly",
+        "badly behaved",
+        "obstreperous",
+        "riotous",
+        "unrestrained",
+        "undisciplined",
+        "ill-disciplined",
+        "unmanageable",
+        "uncontrollable",
+        "ungovernable",
+        "uncontrolled",
+        "disruptive",
+        "out of hand",
+        "out of control",
+        "rough",
+        "wild",
+        "turbulent",
+        "lawless"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A noisy and disorderly person.",
+      "synonyms": [
+        "ruffian",
+        "troublemaker",
+        "lout",
+        "thug",
+        "hooligan",
+        "bully boy",
+        "hoodlum",
+        "brawler"
+      ]
+    }
+  ],
+  "origin": "Early 19th century (originally US in the sense lawless backwoodsman): of unknown origin.",
+  "pronounciation": "/ˈraʊdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rowdy_us_1.mp3"
+}

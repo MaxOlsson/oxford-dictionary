@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A sticky flammable organic substance, insoluble in water, exuded by some trees and other plants (notably fir and pine)."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rub or treat with resin.",
+      "examples": [
+        "resined canvas"
+      ],
+      "synonyms": [
+        "lacquer",
+        "shellac",
+        "japan",
+        "enamel",
+        "glaze",
+        "polish",
+        "oil",
+        "resin",
+        "wax"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin resina; related to Greek rhētinē pine resin. Compare with rosin.",
+  "pronounciation": "/ˈrɛzən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resin_us_1.mp3"
+}

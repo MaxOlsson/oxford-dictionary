@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "A plot of land.",
+      "examples": [
+        "they looked out over the plats of dark ground"
+      ],
+      "synonyms": [
+        "piece of ground",
+        "patch",
+        "area",
+        "location",
+        "parcel",
+        "tract",
+        "allotment",
+        "acreage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Plan out or make a map of (an area of land, especially a proposed site for construction)",
+      "examples": [
+        "he bought back the site, platted it, and named it after his realtor"
+      ],
+      "synonyms": [
+        "design",
+        "draw up a plan of",
+        "make a drawing of",
+        "draw up a layout of",
+        "sketch out",
+        "make a map of",
+        "map out",
+        "make a representation of"
+      ]
+    }
+  ],
+  "noun &amp; verb": [],
+  "origin": "Late Middle English: variant of the noun plot in the sense piece of ground. The current verb sense dates from the early 18th century.",
+  "pronounciation": "/plat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/plat_us_1.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "The physical destruction or disintegration of something or the state of disintegrating or being destroyed.",
+      "examples": [
+        "a large white house falling into gentle ruin"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reduce (a building or place) to a state of decay, collapse, or disintegration.",
+      "examples": [
+        "the castle was ruined when dynamite was used to demolish one of the corner towers"
+      ],
+      "synonyms": [
+        "derelict",
+        "in ruins",
+        "gone to rack and ruin",
+        "dilapidated",
+        "ruinous",
+        "tumbledown",
+        "ramshackle",
+        "broken-down",
+        "decrepit",
+        "in disrepair",
+        "falling to pieces",
+        "falling apart",
+        "crumbling",
+        "decaying",
+        "disintegrating"
+      ]
+    },
+    {
+      "description": "Fall headlong or with a crash.",
+      "examples": [
+        "carriages go ruining over the brink from time to time"
+      ]
+    }
+  ],
+  "phrases": [
+    "the economy was in ruins",
+    "A York academic and pillar of the community was today starting a prison sentence with his career in ruins.",
+    "Plans to create a £23m showpiece military museum alongside a huge Army base in Yorkshire are in ruins.",
+    "As of early June, the town was still in ruins, and no economy activity had resumed.",
+    "All our hopes and ambitions, our life's work, were in ruins."
+  ],
+  "origin": "Middle English (in the sense collapse of a building): from Old French ruine, from Latin ruina, from ruere to fall.",
+  "pronounciation": "/ˈro͞oin/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ruin_us_1.mp3"
+}

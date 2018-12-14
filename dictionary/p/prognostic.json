@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Serving to predict the likely outcome of a disease or ailment; relating to a medical prognosis."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An advance indication or portent of a future event.",
+      "examples": [
+        "a one-banded caterpillar is considered a prognostic of a mild winter"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin prognosticus from Greek prognōstikos, from prognōsis (see prognosis).",
+  "pronounciation": "/präɡˈnästik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prognostic_us_3.mp3"
+}

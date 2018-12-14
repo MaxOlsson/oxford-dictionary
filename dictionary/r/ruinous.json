@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Disastrous or destructive.",
+      "examples": [
+        "a ruinous effect on the environment"
+      ],
+      "synonyms": [
+        "disastrous",
+        "devastating",
+        "catastrophic",
+        "calamitous",
+        "cataclysmic",
+        "crippling",
+        "crushing",
+        "dire",
+        "injurious",
+        "damaging",
+        "destructive",
+        "harmful"
+      ]
+    },
+    {
+      "description": "In ruins; dilapidated.",
+      "examples": [
+        "the castle is ruinous"
+      ],
+      "synonyms": [
+        "derelict",
+        "in ruins",
+        "ruined",
+        "gone to rack and ruin",
+        "dilapidated",
+        "tumbledown",
+        "ramshackle",
+        "broken-down",
+        "decrepit",
+        "in disrepair",
+        "falling to pieces",
+        "falling apart",
+        "crumbling",
+        "decaying",
+        "disintegrating"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (also in the sense falling down): from Latin ruinosus, from ruina (see ruin).",
+  "pronounciation": "/ˈruənəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ruinous_us_1.mp3"
+}

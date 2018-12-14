@@ -1,0 +1,59 @@
+{
+  "noun": [
+    {
+      "description": "A rodent that resembles a large mouse, typically having a pointed snout and a long, sparsely haired tail. Some kinds have become cosmopolitan and are sometimes responsible for transmitting diseases."
+    },
+    {
+      "description": "A person regarded as despicable, especially a man who has been deceitful or disloyal.",
+      "synonyms": [
+        "scoundrel",
+        "wretch",
+        "rogue"
+      ]
+    },
+    {
+      "description": "A person who is associated with or frequents a specified place.",
+      "examples": [
+        "LA mall rats",
+        "you and the rest of the tavern rats will have to find a new hangout"
+      ]
+    },
+    {
+      "description": "A pad used to give shape and fullness to a woman's hair."
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express mild annoyance or irritation.",
+      "synonyms": [
+        "damn",
+        "damnation",
+        "blast",
+        "hell",
+        "heck",
+        "gordon bennett"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person, dog, or cat) hunt or kill rats."
+    },
+    {
+      "description": "Desert one's party, side, or cause."
+    },
+    {
+      "description": "Give (hair) shape or fullness with a rat."
+    }
+  ],
+  "phrases": [
+    "I never thought Stash would rat on me",
+    "men will literally choose death over ratting out another prisoner",
+    "Thanks, I said once we were out of the office, for not ratting me out.",
+    "It would perhaps be different if the only two alternatives were ratting him out or deceiving her employer.",
+    "Words and titles are about to become very important as people figure out which one of Cheney's goons ratted her out."
+  ],
+  "origin": "Old English ræt, probably of Romance origin; reinforced in Middle English by Old French rat. The verb dates from the early 19th century.",
+  "pronounciation": "/rat/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rat_us_1.mp3"
+}

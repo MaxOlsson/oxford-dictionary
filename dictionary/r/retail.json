@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "The sale of goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "examples": [
+        "the product's retail price"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Being sold by retail or at a retail price.",
+      "examples": [
+        "it is not yet available retail"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sell (goods) to the public by retail.",
+      "examples": [
+        "the difficulties in retailing the new products"
+      ],
+      "synonyms": [
+        "sell",
+        "stock",
+        "keep",
+        "keep in stock",
+        "offer",
+        "have for sale",
+        "have",
+        "market",
+        "supply",
+        "trade in",
+        "deal in",
+        "traffic in",
+        "peddle",
+        "hawk"
+      ]
+    },
+    {
+      "description": "Relate or repeat (a story) in detail.",
+      "examples": [
+        "his inimitable way of retailing a diverting anecdote"
+      ],
+      "synonyms": [
+        "tell",
+        "recount",
+        "narrate",
+        "give an account of",
+        "describe"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from an Anglo-Norman French use of Old French retaille a piece cut off, from retaillier, from re- (expressing intensive force) + tailler to cut.",
+  "pronounciation": "/ˈrēˌtāl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retail_us_1_rr.mp3"
+}

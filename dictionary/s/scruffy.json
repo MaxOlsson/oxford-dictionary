@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Shabby and untidy or dirty.",
+      "examples": [
+        "a teenager in scruffy jeans and a baggy T-shirt"
+      ],
+      "synonyms": [
+        "shabby",
+        "worn",
+        "down at heel",
+        "shoddy",
+        "ragged",
+        "tattered",
+        "mangy",
+        "sorry",
+        "run down",
+        "disreputable"
+      ]
+    },
+    {
+      "description": "(of a man's face) having short, bristly hairs as a result of not having been shaved for a while.",
+      "examples": [
+        "his employer has gotten used to seeing his face becoming scruffier each spring"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (in the sense covered with scurf): from scruff scurf, variant of scurf, + -y. The sense shabby dates from the late 19th century.",
+  "pronounciation": "/ˈskrəfē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scruffy_us_1.mp3"
+}

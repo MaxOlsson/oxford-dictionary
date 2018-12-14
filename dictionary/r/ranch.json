@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A large farm, especially in the western US and Canada, where cattle or other animals are bred and raised.",
+      "synonyms": [
+        "smallholding",
+        "holding",
+        "farmstead",
+        "steading",
+        "grange",
+        "plantation",
+        "estate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Run a ranch.",
+      "examples": [
+        "cattle ranching"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: from Spanish rancho group of persons eating together.",
+  "pronounciation": "/ræn(t)ʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ranch_us_1.mp3"
+}

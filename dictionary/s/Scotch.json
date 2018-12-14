@@ -1,0 +1,35 @@
+{
+  "adjective": [],
+  "noun": [
+    {
+      "description": "The people of Scotland."
+    },
+    {
+      "description": "The form of English spoken in Scotland."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Decisively put an end to.",
+      "examples": [
+        "a spokesman has scotched the rumors"
+      ],
+      "synonyms": [
+        "put an end to",
+        "put a stop to",
+        "bring to an end",
+        "nip in the bud",
+        "put the lid on"
+      ]
+    },
+    {
+      "description": "Wedge (someone or something) somewhere.",
+      "examples": [
+        "he soon scotched himself against a wall"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/skɑtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scotch_us_1.mp3"
+}

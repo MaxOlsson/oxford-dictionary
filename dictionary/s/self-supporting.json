@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Having the resources to be able to survive without outside assistance.",
+      "synonyms": [
+        "self-sufficient",
+        "self-sustaining",
+        "self-reliant",
+        "self-standing",
+        "able to stand on one's own two feet",
+        "living on one's hump"
+      ]
+    },
+    {
+      "description": "Staying up or upright without being supported by something else.",
+      "examples": [
+        "arches were originally self-supporting structures"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌself səˈpôrdiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/self_supporting_1_us_1.mp3"
+}

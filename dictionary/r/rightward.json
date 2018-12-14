@@ -1,0 +1,33 @@
+{
+  "adverb": [
+    {
+      "description": "Toward the right.",
+      "examples": [
+        "the little stream curves rightward"
+      ]
+    },
+    {
+      "description": "Toward support of conservative views and capitalist principles.",
+      "examples": [
+        "the electorate is moving rightward",
+        "panic set in and the party lurched rightwards"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Going toward or situated on the right.",
+      "examples": [
+        "the rock face is climbed via a rightward curving crack"
+      ]
+    },
+    {
+      "description": "Tending to support conservative views and capitalist principles.",
+      "examples": [
+        "a sharp rightward shift in national politics"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈraɪtwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rightward_us_1.mp3"
+}

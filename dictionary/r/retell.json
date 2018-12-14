@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Tell (a story) again or differently.",
+      "examples": [
+        "Walker retells the history of the world from the black perspective"
+      ],
+      "synonyms": [
+        "recite",
+        "repeat",
+        "say again",
+        "reproduce",
+        "restate",
+        "echo",
+        "iterate",
+        "parrot"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrēˈtel/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/retell_us_1.mp3"
+}

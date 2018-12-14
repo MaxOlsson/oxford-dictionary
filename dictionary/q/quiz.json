@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A test of knowledge, especially a brief, informal test given to students."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Ask (someone) questions.",
+      "examples": [
+        "four men have been quizzed about the murder"
+      ],
+      "synonyms": [
+        "question",
+        "interrogate",
+        "put questions to",
+        "probe",
+        "sound out",
+        "interview",
+        "examine",
+        "cross-examine",
+        "catechize"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: sometimes said to have been invented by a Dublin theater proprietor who, having made a bet that a nonsense word could be made known within 48 hours throughout the city, and that the public would give it a meaning, had the word written up on walls all over the city. There is no evidence to support this theory.",
+  "pronounciation": "/kwɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quiz_us_1.mp3"
+}

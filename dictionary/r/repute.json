@@ -1,0 +1,39 @@
+{
+  "noun": [
+    {
+      "description": "The opinion generally held of someone or something; the state of being generally regarded in a particular way.",
+      "examples": [
+        "pollution could bring the authority's name into bad repute"
+      ],
+      "synonyms": [
+        "reputation",
+        "name",
+        "character"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be generally said or believed to do something or to have particular characteristics.",
+      "examples": [
+        "he was reputed to have a fabulous house"
+      ],
+      "synonyms": [
+        "thought",
+        "said",
+        "reported",
+        "rumoured",
+        "believed",
+        "held",
+        "considered",
+        "regarded",
+        "deemed",
+        "judged",
+        "estimated"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French reputer or Latin reputare think over, from re- (expressing intensive force) + putare think.",
+  "pronounciation": "/rəˈpjut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repute_us_1.mp3"
+}

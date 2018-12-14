@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "Advice or counsel given by one person to another.",
+      "examples": [
+        "what is your rede?"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Advise (someone)",
+      "examples": [
+        "therefore, my son, I rede thee stay at home"
+      ]
+    },
+    {
+      "description": "Interpret (a riddle or dream)."
+    }
+  ],
+  "origin": "Old English rǣd, of Germanic origin; related to Dutch raad, German Rat. The verb is a variant of read, of the same origin.",
+  "pronounciation": "/rēd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rede_us_1.mp3"
+}

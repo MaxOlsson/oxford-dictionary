@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A roll of parchment or paper for writing or painting on.",
+      "synonyms": [
+        "cylinder",
+        "tube"
+      ]
+    },
+    {
+      "description": "The facility which moves a display on a computer screen in order to view new material."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move displayed text or graphics in a particular direction on a computer screen in order to view different parts of them.",
+      "examples": [
+        "she scrolled through her file"
+      ]
+    },
+    {
+      "description": "Cause to move like paper rolling or unrolling.",
+      "examples": [
+        "the wind scrolled back the uppermost layer of loose dust"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: alteration of obsolete scrow roll, shortening of escrow.",
+  "pronounciation": "/skrōl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scroll_us_1.mp3"
+}

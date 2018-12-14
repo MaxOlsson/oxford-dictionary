@@ -1,0 +1,17 @@
+{
+  "verb": [
+    {
+      "description": "Import (goods processed or made from exported materials)",
+      "examples": [
+        "we supply European farmers with calves which we reimport as veal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of reimporting something."
+    }
+  ],
+  "pronounciation": "/ˌrēimˈpôrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reimport_us_1.mp3"
+}

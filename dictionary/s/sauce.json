@@ -1,0 +1,72 @@
+{
+  "noun": [
+    {
+      "description": "Thick liquid served with food, usually savory dishes, to add moistness and flavor.",
+      "examples": [
+        "tomato sauce",
+        "the cubes can be added to soups and sauces"
+      ],
+      "synonyms": [
+        "relish",
+        "dressing",
+        "condiment",
+        "ketchup",
+        "flavouring"
+      ]
+    },
+    {
+      "description": "Alcoholic drink.",
+      "examples": [
+        "she's been on the sauce for years"
+      ],
+      "synonyms": [
+        "alcohol",
+        "liquor",
+        "alcoholic drink",
+        "strong drink",
+        "intoxicating drink",
+        "spirits"
+      ]
+    },
+    {
+      "description": "Impertinence.",
+      "synonyms": [
+        "impudence",
+        "impertinence",
+        "cheek",
+        "cheekiness",
+        "effrontery",
+        "irreverence",
+        "sauciness",
+        "pertness",
+        "freshness",
+        "flippancy",
+        "insolence",
+        "rudeness",
+        "disrespect",
+        "disrespectfulness",
+        "familiarity",
+        "presumption",
+        "presumptuousness",
+        "audacity",
+        "audaciousness",
+        "boldness",
+        "brazenness",
+        "forwardness",
+        "cockiness",
+        "shamelessness"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide a sauce for (something); season with a sauce."
+    },
+    {
+      "description": "Be rude or impudent to (someone)."
+    }
+  ],
+  "origin": "Middle English: from Old French, based on Latin salsus salted, past participle of salere to salt, from sal salt. Compare with salad.",
+  "pronounciation": "/sɔs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sauce_us_1.mp3"
+}

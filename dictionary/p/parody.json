@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.",
+      "examples": [
+        "the movie is a parody of the horror genre",
+        "his provocative use of parody"
+      ],
+      "synonyms": [
+        "satire",
+        "burlesque",
+        "lampoon",
+        "pastiche",
+        "caricature",
+        "take-off",
+        "skit",
+        "imitation",
+        "mockery"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Produce a humorously exaggerated imitation of (a writer, artist, or genre)",
+      "examples": [
+        "his specialty was parodying schoolgirl fiction"
+      ],
+      "synonyms": [
+        "satirize",
+        "ridicule",
+        "make fun of",
+        "parody",
+        "lampoon",
+        "mock",
+        "caricature",
+        "imitate",
+        "ape"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: via late Latin from Greek parōidia burlesque poem, from para- beside (expressing alteration) + ōidē ode.",
+  "pronounciation": "/ˈperədē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/parody_us_1.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person) tall and slim with long, slender limbs.",
+      "examples": [
+        "a pale, rangy boy in his late teens"
+      ],
+      "synonyms": [
+        "long-legged",
+        "long-limbed",
+        "leggy",
+        "tall",
+        "slender",
+        "slim",
+        "lean"
+      ]
+    },
+    {
+      "description": "(of a place) having room for ranging; expansive or spacious.",
+      "examples": [
+        "rangy pasture filled with horses and cattle"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrānjē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rangy_us_1.mp3"
+}

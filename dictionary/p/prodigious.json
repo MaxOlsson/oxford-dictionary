@@ -1,0 +1,45 @@
+{
+  "adjective": [
+    {
+      "description": "Remarkably or impressively great in extent, size, or degree.",
+      "examples": [
+        "the stove consumed a prodigious amount of fuel"
+      ],
+      "synonyms": [
+        "enormous",
+        "huge",
+        "colossal",
+        "immense",
+        "vast",
+        "great",
+        "massive",
+        "gigantic",
+        "mammoth",
+        "tremendous",
+        "considerable",
+        "substantial",
+        "large",
+        "sizeable",
+        "inordinate",
+        "monumental",
+        "mighty",
+        "gargantuan"
+      ]
+    },
+    {
+      "description": "Unnatural or abnormal.",
+      "examples": [
+        "rumors of prodigious happenings, such as monstrous births"
+      ],
+      "synonyms": [
+        "unnatural",
+        "monstrous",
+        "grotesque",
+        "abnormal"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense portentous): from Latin prodigiosus, from prodigium portent (see prodigy).",
+  "pronounciation": "/prəˈdijəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/prodigious_us_1.mp3"
+}

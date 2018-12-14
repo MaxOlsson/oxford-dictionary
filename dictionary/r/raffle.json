@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A means of raising money by selling numbered tickets, one or some of which are subsequently drawn at random, the holder or holders of such tickets winning a prize.",
+      "synonyms": [
+        "lottery",
+        "draw",
+        "prize draw",
+        "sweepstake",
+        "sweep",
+        "tombola",
+        "ballot"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Offer (something) as a prize in a raffle.",
+      "examples": [
+        "a work that will be raffled off for a fine arts scholarship"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense rabble, riffraff): perhaps from Old French ne rifle ne rafle nothing at all.",
+  "pronounciation": "/ˈrafəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/raffle_us_1.mp3"
+}

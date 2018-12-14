@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Samoa, its people, or their language."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Samoa."
+    },
+    {
+      "description": "The Polynesian language of Samoa, spoken in Samoa, New Zealand, the US, and elsewhere."
+    }
+  ],
+  "pronounciation": "/səˈmōən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/samoan_1_us_3.mp3"
+}

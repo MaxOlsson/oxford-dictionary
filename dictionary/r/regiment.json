@@ -1,0 +1,55 @@
+{
+  "noun": [
+    {
+      "description": "A permanent unit of an army typically commanded by a colonel and divided into several companies, squadrons, or batteries and often into two battalions.",
+      "examples": [
+        "two or three miles inland a highly experienced artillery regiment had established a defensive position"
+      ],
+      "synonyms": [
+        "unit",
+        "outfit",
+        "force"
+      ]
+    },
+    {
+      "description": "Rule or government over a person, people, or country.",
+      "examples": [
+        "the powers of ecclesiastical regiment which none but the Church should wield"
+      ],
+      "synonyms": [
+        "control",
+        "jurisdiction",
+        "command",
+        "power",
+        "sway",
+        "dominion",
+        "government",
+        "administration",
+        "sovereignty",
+        "leadership",
+        "ascendancy",
+        "supremacy",
+        "authority",
+        "direction",
+        "mastery",
+        "hegemony",
+        "regime",
+        "influence"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Organize according to a strict, sometimes oppressive system or pattern.",
+      "examples": [
+        "every aspect of their life is strictly regimented"
+      ]
+    },
+    {
+      "description": "Form (troops) into a regiment or regiments."
+    }
+  ],
+  "origin": "Late Middle English (in the sense rule or government): via Old French from late Latin regimentum rule, from regere to rule.",
+  "pronounciation": "/ˈrɛdʒəmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regiment_us_1.mp3"
+}

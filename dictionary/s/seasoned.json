@@ -1,0 +1,41 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) having had salt, pepper, herbs, or spices added.",
+      "examples": [
+        "seasoned flour"
+      ]
+    },
+    {
+      "description": "(of wood) made suitable for use as timber by adjusting its moisture content.",
+      "examples": [
+        "it was made from seasoned, untreated oak"
+      ]
+    },
+    {
+      "description": "Accustomed to particular conditions; experienced.",
+      "examples": [
+        "she is a seasoned traveler"
+      ],
+      "synonyms": [
+        "experienced",
+        "practised",
+        "well versed",
+        "expert",
+        "knowledgeable",
+        "sophisticated",
+        "established",
+        "habituated",
+        "long-serving",
+        "time-served",
+        "veteran",
+        "hardened",
+        "battle-scarred",
+        "consummate",
+        "well trained"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsiz(ə)nd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seasoned_us_1.mp3"
+}

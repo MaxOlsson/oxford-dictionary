@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Feel sad, repentant, or disappointed over (something that has happened or been done, especially a loss or missed opportunity)",
+      "examples": [
+        "she immediately regretted her words",
+        "I regretted that he did not see you"
+      ],
+      "synonyms": [
+        "be sorry about",
+        "feel contrite about",
+        "feel apologetic about",
+        "feel remorse about",
+        "feel remorse for",
+        "be remorseful about",
+        "rue",
+        "repent",
+        "repent of",
+        "feel repentant about",
+        "be regretful about",
+        "be regretful at",
+        "have a conscience about",
+        "blame oneself for"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A feeling of sadness, repentance, or disappointment over something that has happened or been done.",
+      "examples": [
+        "she expressed her regret at Virginia's death",
+        "he had to decline, to his regret"
+      ],
+      "synonyms": [
+        "sadness",
+        "sorrow",
+        "disappointment",
+        "dismay",
+        "unhappiness",
+        "dejection",
+        "lamentation",
+        "grief",
+        "mourning",
+        "mournfulness"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French regreter bewail (the dead), perhaps from the Germanic base of greet.",
+  "pronounciation": "/rəˈɡret/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/regret_us_1.mp3"
+}

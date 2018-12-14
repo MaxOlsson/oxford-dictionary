@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "An official who watches a game or match closely to ensure that the rules are adhered to and (in some sports) to arbitrate on matters arising from the play.",
+      "synonyms": [
+        "umpire",
+        "judge",
+        "referee's assistant",
+        "assistant referee",
+        "linesman",
+        "line judge",
+        "adjudicator",
+        "arbitrator",
+        "arbiter",
+        "mediator"
+      ]
+    },
+    {
+      "description": "A person willing to testify in writing about the character or ability of someone, especially an applicant for a job.",
+      "synonyms": [
+        "supporter",
+        "character witness",
+        "backer",
+        "advocate"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Act as referee for.",
+      "examples": [
+        "the man who refereed the World Cup final"
+      ],
+      "synonyms": [
+        "umpire",
+        "judge",
+        "adjudicate",
+        "run",
+        "be in control of"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrɛfəˈri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/referee_us_1.mp3"
+}

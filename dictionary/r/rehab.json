@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A course of treatment for drug or alcohol dependence, typically at a residential facility.",
+      "examples": [
+        "the star has been in rehab for a week",
+        "the success of rehab is entirely dependent on the patient's commitment to the process"
+      ]
+    },
+    {
+      "description": "A thing, especially a building, that has been rehabilitated or restored.",
+      "synonyms": [
+        "repair",
+        "repairing",
+        "fixing",
+        "mending",
+        "refurbishment",
+        "reconditioning",
+        "rehabilitation",
+        "rebuilding",
+        "reconstruction",
+        "remodelling",
+        "redecoration",
+        "revamping",
+        "revamp",
+        "makeover",
+        "overhaul"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Rehabilitate or restore.",
+      "examples": [
+        "they don't rehab you at all in jail"
+      ],
+      "synonyms": [
+        "restore to health",
+        "restore to normality",
+        "reintegrate",
+        "readapt",
+        "retrain"
+      ]
+    }
+  ],
+  "origin": "1940s: abbreviation of rehabilitate and rehabilitation.",
+  "pronounciation": "/ˈrēˌhab/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rehab_us_1.mp3"
+}

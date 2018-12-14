@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Excessively sentimental; mawkish.",
+      "examples": [
+        "sappy old love songs"
+      ],
+      "synonyms": [
+        "banal",
+        "trite",
+        "hackneyed",
+        "commonplace",
+        "clichéd",
+        "predictable",
+        "stereotyped",
+        "platitudinous",
+        "inane",
+        "fatuous",
+        "vapid",
+        "jejune",
+        "weak",
+        "feeble",
+        "tired",
+        "stale",
+        "overworked",
+        "overused",
+        "well worn"
+      ]
+    },
+    {
+      "description": "(of a plant) containing a lot of sap."
+    }
+  ],
+  "pronounciation": "/ˈsæpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sappy_us_1.mp3"
+}

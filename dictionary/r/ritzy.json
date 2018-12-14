@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Expensively stylish.",
+      "examples": [
+        "the ritzy Plaza Hotel"
+      ],
+      "synonyms": [
+        "luxurious",
+        "luxury",
+        "deluxe",
+        "plush",
+        "sumptuous",
+        "palatial",
+        "lavish",
+        "lavishly appointed",
+        "gorgeous",
+        "opulent",
+        "splendid",
+        "magnificent",
+        "lush",
+        "glamorous",
+        "glittering",
+        "rich",
+        "costly",
+        "expensive",
+        "upmarket",
+        "fancy",
+        "stylish",
+        "grandiose"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrɪtsi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ritzy_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Express or measure the quantity of.",
+      "examples": [
+        "it's very hard to quantify the cost"
+      ],
+      "synonyms": [
+        "quantification",
+        "quantifying",
+        "computation",
+        "calculation",
+        "mensuration"
+      ]
+    },
+    {
+      "description": "Define the application of (a term or proposition) by the use of all, some, etc., e.g., “for all x if x is A then x is B.”.",
+      "synonyms": [
+        "fixed",
+        "settled",
+        "specified",
+        "quantified",
+        "established",
+        "defined",
+        "explicit",
+        "known",
+        "determined",
+        "definitive",
+        "conclusive",
+        "express",
+        "precise",
+        "final",
+        "ultimate",
+        "absolute",
+        "categorical",
+        "positive",
+        "definite"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from medieval Latin quantificare, from Latin quantus how much.",
+  "pronounciation": "/ˈkwɑn(t)əˌfaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quantify_us_1.mp3"
+}

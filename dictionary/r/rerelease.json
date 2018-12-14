@@ -1,0 +1,20 @@
+{
+  "verb": [
+    {
+      "description": "Release (a recording or movie) again.",
+      "examples": [
+        "he is rereleasing his 1983 hit single"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of releasing a recording or movie again.",
+      "examples": [
+        "the rerelease of Disney's 1937 classic"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrirɪˈlis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rerelease_us_1.mp3"
+}

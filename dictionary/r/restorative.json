@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Having the ability to restore health, strength, or a feeling of well-being.",
+      "examples": [
+        "the restorative power of long walks"
+      ],
+      "synonyms": [
+        "invigorating",
+        "refreshing",
+        "stimulating",
+        "energizing",
+        "exhilarating",
+        "enlivening",
+        "reviving",
+        "rejuvenating",
+        "revitalizing",
+        "vitalizing",
+        "rousing",
+        "fortifying",
+        "strengthening",
+        "healthy",
+        "healthful",
+        "health-giving",
+        "salubrious",
+        "beneficial",
+        "tonic",
+        "salutary"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Something, especially a medicine or drink, that restores health, strength, or well-being.",
+      "synonyms": [
+        "remedy",
+        "curative",
+        "medicine",
+        "medication",
+        "medicament",
+        "corrective",
+        "antidote",
+        "antiserum"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from an Old French variant of restauratif, -ive, from restorer (see restore).",
+  "pronounciation": "/rəˈstôrədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/restorative_us_1.mp3"
+}

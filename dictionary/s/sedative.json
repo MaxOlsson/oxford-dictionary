@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Promoting calm or inducing sleep.",
+      "examples": [
+        "the seeds have a sedative effect"
+      ],
+      "synonyms": [
+        "tranquillizing",
+        "calming",
+        "depressant",
+        "soothing",
+        "calmative",
+        "relaxing",
+        "soporific"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A drug taken for its calming or sleep-inducing effect.",
+      "synonyms": [
+        "tranquillizer",
+        "calmative",
+        "depressant",
+        "sleeping pill",
+        "soporific",
+        "narcotic",
+        "opiate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French sedatif or medieval Latin sedativus, from Latin sedat- settled, from the verb sedare (see sedate).",
+  "pronounciation": "/ˈsedədiv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sedative_us_2.mp3"
+}

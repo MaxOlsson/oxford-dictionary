@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Of or like a lizard.",
+      "examples": [
+        "a table with saurian legs"
+      ],
+      "synonyms": [
+        "reptile"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Any large reptile, especially a dinosaur or other extinct form."
+    }
+  ],
+  "origin": "Early 19th century: from modern Latin Sauria (see Sauria) + -an.",
+  "pronounciation": "/ˈsôrēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saurian_us_1.mp3"
+}

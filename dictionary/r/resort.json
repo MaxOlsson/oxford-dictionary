@@ -1,0 +1,64 @@
+{
+  "noun": [
+    {
+      "description": "A place that is a popular destination for vacations or recreation, or which is frequented for a particular purpose.",
+      "examples": [
+        "a seaside resort",
+        "a health resort"
+      ],
+      "synonyms": [
+        "holiday destination",
+        "holiday centre",
+        "tourist centre",
+        "centre",
+        "spot",
+        "retreat",
+        "haunt"
+      ]
+    },
+    {
+      "description": "The action of turning to and adopting a strategy or course of action, especially a disagreeable or undesirable one, so as to resolve a difficult situation.",
+      "examples": [
+        "territorial questions must not be settled by resort to violence"
+      ],
+      "synonyms": [
+        "recourse to",
+        "turning to",
+        "the use of",
+        "utilizing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Turn to and adopt (a strategy or course of action, especially a disagreeable or undesirable one) so as to resolve a difficult situation.",
+      "examples": [
+        "the duke was prepared to resort to force if negotiation failed"
+      ],
+      "synonyms": [
+        "have recourse to",
+        "fall back on",
+        "turn to",
+        "look to",
+        "make use of",
+        "use",
+        "utilize",
+        "avail oneself of",
+        "employ",
+        "bring into play",
+        "bring into service",
+        "press into service",
+        "call on"
+      ]
+    },
+    {
+      "description": "Go often or in large numbers to.",
+      "examples": [
+        "local authorities have a duty to provide adequate sites for gypsies “residing in or resorting to” their areas"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting something one can turn to for assistance): from Old French resortir, from re- again + sortir come or go out. The sense place frequently visited dates from the mid 18th century.",
+  "pronounciation": "/rəˈzôrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resort_us_1.mp3"
+}

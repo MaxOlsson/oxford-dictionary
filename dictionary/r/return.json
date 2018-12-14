@@ -1,0 +1,147 @@
+{
+  "verb": [
+    {
+      "description": "Come or go back to a place or person.",
+      "examples": [
+        "he returned to Canada in the fall"
+      ],
+      "synonyms": [
+        "go back",
+        "come back",
+        "get back",
+        "arrive back",
+        "arrive home",
+        "come home",
+        "come again"
+      ]
+    },
+    {
+      "description": "Give, put, or send (something) back to a place or person.",
+      "examples": [
+        "complete the application form and return it to this address"
+      ],
+      "synonyms": [
+        "give back",
+        "send back",
+        "hand back",
+        "take back",
+        "carry back"
+      ]
+    },
+    {
+      "description": "Yield or make (a profit)",
+      "examples": [
+        "the company returned a profit of 4.3 million dollars"
+      ],
+      "synonyms": [
+        "yield",
+        "bring in",
+        "earn",
+        "make",
+        "realize",
+        "secure",
+        "net",
+        "gross",
+        "clear",
+        "pay out",
+        "fetch",
+        "pocket"
+      ]
+    },
+    {
+      "description": "(of an electorate) elect (a person or party) to office.",
+      "examples": [
+        "the Democrat was returned in the third district"
+      ],
+      "synonyms": [
+        "elect",
+        "vote in",
+        "put in power",
+        "choose",
+        "opt for",
+        "select",
+        "pick",
+        "adopt"
+      ]
+    },
+    {
+      "description": "Continue (a wall) in a changed direction, especially at right angles."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of coming or going back to a place or activity.",
+      "examples": [
+        "he celebrated his safe return from the war",
+        "a return flight"
+      ],
+      "synonyms": [
+        "homecoming",
+        "travel back"
+      ]
+    },
+    {
+      "description": "A profit from an investment.",
+      "examples": [
+        "product areas are being developed to produce maximum returns"
+      ],
+      "synonyms": [
+        "yield",
+        "profit",
+        "returns",
+        "gain",
+        "income",
+        "revenue",
+        "interest",
+        "dividend",
+        "percentage"
+      ]
+    },
+    {
+      "description": "An official report or statement submitted in response to a formal demand.",
+      "examples": [
+        "census returns"
+      ],
+      "synonyms": [
+        "statement",
+        "report",
+        "submission",
+        "account",
+        "paper",
+        "record",
+        "file",
+        "dossier",
+        "write-up",
+        "data",
+        "information",
+        "log",
+        "journal",
+        "diary",
+        "register",
+        "summary"
+      ]
+    },
+    {
+      "description": "Election to office.",
+      "examples": [
+        "we campaigned for the return of Young and Elkins"
+      ]
+    },
+    {
+      "description": "A key pressed to move the carriage of an electric typewriter back to a fixed position."
+    },
+    {
+      "description": "A part receding from the line of the front, for example the side of a house or of a window opening."
+    }
+  ],
+  "phrases": [
+    "he leaves the house to his sister in return for her kindness",
+    "Charles relinquished his claim to Burgundy in return for an indemnity of two million gold ecus from Francis.",
+    "If you're not being paid much for the job you're doing, make sure you get something out of it in return at the time.",
+    "He says he gives a lot of himself teaching, but gets a lot in return.",
+    "Sponsors are shelling out to keep its City-to-City tour going and not even asking for anything in return."
+  ],
+  "origin": "Middle English: the verb from Old French returner, from Latin re- back + tornare to turn; the noun via Anglo-Norman French.",
+  "pronounciation": "/rəˈtərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/return_us_1.mp3"
+}

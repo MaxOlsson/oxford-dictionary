@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A minute opening in a surface, especially the skin or integument of an organism, through which gases, liquids, or microscopic particles can pass.",
+      "synonyms": [
+        "opening",
+        "orifice",
+        "aperture",
+        "hole",
+        "outlet",
+        "inlet",
+        "vent"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Be absorbed in the reading or study of.",
+      "examples": [
+        "Heather spent hours poring over cookbooks"
+      ],
+      "synonyms": [
+        "study",
+        "read intently",
+        "peruse",
+        "be absorbed in",
+        "scrutinize",
+        "scan",
+        "examine",
+        "go over",
+        "go through"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps related to peer.",
+  "pronounciation": "/pɔr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pore_us_1.mp3"
+}

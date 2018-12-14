@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Small or insufficient in quantity or amount.",
+      "examples": [
+        "scanty wages"
+      ],
+      "synonyms": [
+        "meagre",
+        "scant",
+        "minimal",
+        "limited",
+        "modest",
+        "restricted",
+        "sparse"
+      ]
+    }
+  ],
+  "plural noun": [
+    {
+      "description": "Brief underpants."
+    }
+  ],
+  "origin": "Late 16th century: from scant + -y.",
+  "pronounciation": "/ˈskæn(t)i/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scanty_us_1.mp3"
+}

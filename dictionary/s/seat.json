@@ -1,0 +1,90 @@
+{
+  "noun": [
+    {
+      "description": "A thing made or used for sitting on, such as a chair or stool.",
+      "synonyms": [
+        "chair",
+        "place",
+        "space"
+      ]
+    },
+    {
+      "description": "A person's buttocks.",
+      "synonyms": [
+        "buttocks",
+        "behind",
+        "backside",
+        "rear",
+        "rear end",
+        "rump",
+        "haunches",
+        "hindquarters",
+        "cheeks"
+      ]
+    },
+    {
+      "description": "A place in an elected legislative or other body.",
+      "examples": [
+        "he lost his seat in the 1998 election"
+      ],
+      "synonyms": [
+        "residence",
+        "ancestral home",
+        "mansion",
+        "stately home",
+        "abode"
+      ]
+    },
+    {
+      "description": "A principal site or location.",
+      "examples": [
+        "Washington, the seat of the federal government"
+      ],
+      "synonyms": [
+        "headquarters",
+        "location",
+        "site",
+        "whereabouts",
+        "place",
+        "base",
+        "centre",
+        "nerve centre",
+        "nucleus",
+        "centre of activity",
+        "centre of operations",
+        "hub",
+        "focus",
+        "focal point",
+        "heart"
+      ]
+    },
+    {
+      "description": "A part of a machine that supports or guides another part."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange for (someone) to sit somewhere.",
+      "examples": [
+        "he seated her next to her husband"
+      ],
+      "synonyms": [
+        "position",
+        "put",
+        "place",
+        "stand",
+        "station"
+      ]
+    }
+  ],
+  "phrases": [
+    "She will take her seat in the assembly from May 1.",
+    "Perhaps if elected she plans to do a Gerry Adams and not take her seat in Parliament on principle.",
+    "She was elected to the Dail in 1923 but did not take her seat.",
+    "Election of replacement MLCs occurs at a Joint Sitting, but the MLC cannot take their seat for two days.",
+    "When Mr Chamberlain entered the Chamber at noon and took his seat on the Treasury bench he was greeted with an enthusiastic cheering from all sides."
+  ],
+  "origin": "Middle English (as a noun): from Old Norse sæti, from the Germanic base of sit. The verb dates from the late 16th century.",
+  "pronounciation": "/sēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seat_us_1.mp3"
+}

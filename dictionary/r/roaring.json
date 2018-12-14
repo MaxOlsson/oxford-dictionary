@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Making or uttering a loud, deep, or harsh prolonged sound.",
+      "examples": [
+        "he was greeted everywhere with roaring crowds",
+        "a swollen, roaring river"
+      ]
+    },
+    {
+      "description": "Obviously or unequivocally the thing mentioned (used for emphasis)",
+      "examples": [
+        "two roaring drunk firemen",
+        "the final week of Hamlet was a roaring success"
+      ],
+      "synonyms": [
+        "enormous",
+        "huge",
+        "massive",
+        "great",
+        "very great",
+        "tremendous",
+        "terrific"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrɔrɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roaring_us_1.mp3"
+}

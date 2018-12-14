@@ -1,0 +1,20 @@
+{
+  "noun": [
+    {
+      "description": "A light two-wheeled open motor vehicle on which the driver sits over an enclosed engine with legs together and feet resting on a floorboard."
+    },
+    {
+      "description": "A vehicle typically ridden as a recreation, consisting of a footboard mounted on two wheels and a long steering handle, propelled by resting one foot on the footboard and pushing the other against the ground."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Travel or ride on a scooter.",
+      "examples": [
+        "scootering is the most economical and practical form of transportation"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskudər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scooter_us_1.mp3"
+}

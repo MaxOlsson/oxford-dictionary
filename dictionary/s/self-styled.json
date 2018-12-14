@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Using a description or title that one has given oneself.",
+      "examples": [
+        "self-styled experts",
+        "the self-styled President of Bougainville"
+      ],
+      "synonyms": [
+        "would-be",
+        "self-appointed",
+        "so-called",
+        "self-titled",
+        "professed",
+        "self-confessed",
+        "confessed",
+        "sworn",
+        "avowed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌsɛlf ˈstaɪld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/self_styled_1_us_1.mp3"
+}

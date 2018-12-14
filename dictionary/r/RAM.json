@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "An uncastrated male sheep."
+    },
+    {
+      "description": "The falling weight of a pile-driving machine."
+    },
+    {
+      "description": "A hydraulic water-raising or lifting machine."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Roughly force (something) into place.",
+      "examples": [
+        "he rammed his stick into the ground"
+      ],
+      "synonyms": [
+        "force",
+        "thrust",
+        "plunge",
+        "stab",
+        "push",
+        "sink",
+        "dig",
+        "stick",
+        "cram",
+        "jam",
+        "stuff",
+        "pack",
+        "compress",
+        "squeeze",
+        "wedge",
+        "press",
+        "tamp",
+        "pound",
+        "drive",
+        "hammer",
+        "bang"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Random-access memory.",
+      "synonyms": [
+        "memory bank",
+        "store",
+        "cache",
+        "disk",
+        "ram",
+        "rom"
+      ]
+    },
+    {
+      "description": "(in the UK) Royal Academy of Music."
+    }
+  ],
+  "origin": "Old English ram(m), of Germanic origin; related to Dutch ram.",
+  "pronounciation": "/ram/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ram_us_1.mp3"
+}

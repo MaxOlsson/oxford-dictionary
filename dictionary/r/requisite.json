@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "Made necessary by particular circumstances or regulations.",
+      "examples": [
+        "the application will not be processed until the requisite fee is paid"
+      ],
+      "synonyms": [
+        "necessary",
+        "required",
+        "prerequisite",
+        "essential",
+        "indispensable",
+        "vital",
+        "needed",
+        "needful"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A thing that is necessary for the achievement of a specified end.",
+      "examples": [
+        "she believed privacy to be a requisite for a peaceful life"
+      ],
+      "synonyms": [
+        "necessity",
+        "essential requirement",
+        "prerequisite",
+        "essential",
+        "precondition",
+        "specification",
+        "stipulation"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin requisitus searched for, deemed necessary, past participle of requirere (see require).",
+  "pronounciation": "/ˈrekwəzət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/requisite_us_1.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "(of something lost) able to be regained or retrieved.",
+      "examples": [
+        "even unreadable disks may contain information that is recoverable"
+      ],
+      "synonyms": [
+        "rectifiable",
+        "remediable",
+        "able to be put right",
+        "able to be set right",
+        "curable",
+        "restorable",
+        "retrievable",
+        "salvageable"
+      ]
+    },
+    {
+      "description": "(of an energy source or a supply of it) able to be economically extracted from the ground or sea.",
+      "examples": [
+        "the target increase in recoverable oil and gas reserves"
+      ]
+    }
+  ],
+  "pronounciation": "/rəˈkəv(ə)rəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recoverable_us_1.mp3"
+}

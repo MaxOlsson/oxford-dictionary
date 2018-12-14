@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Produce or be filled with a deep, full, reverberating sound.",
+      "examples": [
+        "the sound of the siren resonated across the harbor"
+      ],
+      "synonyms": [
+        "go",
+        "go off",
+        "resound",
+        "reverberate",
+        "blow",
+        "blare"
+      ]
+    },
+    {
+      "description": "Produce electrical or mechanical resonance.",
+      "examples": [
+        "the crystal resonates at 16 MHz"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: from Latin resonat- resounded, from the verb resonare (see resound).",
+  "pronounciation": "/ˈreznˌāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/resonate_us_1.mp3"
+}

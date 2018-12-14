@@ -1,0 +1,43 @@
+{
+  "adjective": [
+    {
+      "description": "Bigger than the usual size.",
+      "examples": [
+        "an oversized T-shirt"
+      ],
+      "synonyms": [
+        "large",
+        "sizeable",
+        "of considerable size",
+        "substantial",
+        "considerable",
+        "great",
+        "huge",
+        "immense",
+        "enormous",
+        "extensive",
+        "colossal",
+        "massive",
+        "mammoth",
+        "vast",
+        "prodigious",
+        "tremendous",
+        "gigantic",
+        "giant",
+        "monumental",
+        "mighty",
+        "stupendous",
+        "gargantuan",
+        "elephantine",
+        "titanic",
+        "epic",
+        "mountainous",
+        "megalithic",
+        "monstrous",
+        "brobdingnagian"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌoʊvərˈsaɪzd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/oversized_us_2.mp3"
+}

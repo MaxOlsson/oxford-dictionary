@@ -1,0 +1,63 @@
+{
+  "adjective": [
+    {
+      "description": "Strange or odd; unusual.",
+      "examples": [
+        "his accent was a peculiar mixture of Cockney and Irish"
+      ],
+      "synonyms": [
+        "strange",
+        "unusual",
+        "odd",
+        "funny",
+        "curious",
+        "bizarre",
+        "weird",
+        "uncanny",
+        "queer",
+        "unexpected",
+        "unfamiliar",
+        "abnormal",
+        "atypical",
+        "anomalous",
+        "untypical",
+        "different",
+        "out of the ordinary",
+        "out of the way"
+      ]
+    },
+    {
+      "description": "Particular; special.",
+      "examples": [
+        "any attempt to explicate the theme is bound to run into peculiar difficulties"
+      ],
+      "synonyms": [
+        "distinctive",
+        "characteristic",
+        "distinct",
+        "different",
+        "individual",
+        "individualistic",
+        "distinguishing",
+        "typical",
+        "special",
+        "specific",
+        "representative",
+        "unique",
+        "idiosyncratic",
+        "personal",
+        "private",
+        "essential",
+        "natural"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A parish or church exempt from the jurisdiction of the diocese in which it lies, through being subject to the jurisdiction of the monarch or an archbishop."
+    }
+  ],
+  "origin": "Late Middle English (in the sense particular): from Latin peculiaris of private property, from peculium property, from pecu cattle (cattle being private property). The sense strange dates from the early 17th century.",
+  "pronounciation": "/pəˈkyo͞olyər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/peculiar_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Stop oneself from doing something.",
+      "examples": [
+        "she refrained from comment"
+      ],
+      "synonyms": [
+        "abstain",
+        "desist",
+        "hold back",
+        "stop oneself",
+        "withhold"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A repeated line or number of lines in a poem or song, typically at the end of each verse."
+    }
+  ],
+  "origin": "Late Middle English: from Old French, from refraindre break, based on Latin refringere break up (because the refrain broke the sequence).",
+  "pronounciation": "/rəˈfreɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/refrain_us_1.mp3"
+}

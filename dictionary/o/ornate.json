@@ -1,0 +1,31 @@
+{
+  "adjective": [
+    {
+      "description": "Made in an intricate shape or decorated with complex patterns.",
+      "examples": [
+        "an ornate wrought-iron railing"
+      ],
+      "synonyms": [
+        "elaborate",
+        "decorated",
+        "embellished",
+        "adorned",
+        "ornamented",
+        "fancy",
+        "over-elaborate",
+        "fussy",
+        "busy",
+        "ostentatious",
+        "showy",
+        "baroque",
+        "rococo",
+        "florid",
+        "wedding-cake",
+        "gingerbread"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Latin ornatus adorned, past participle of ornare.",
+  "pronounciation": "/ɔrˈneɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ornate_us_1.mp3"
+}

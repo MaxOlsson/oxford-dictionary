@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Claim or prove that (evidence or an accusation) is false.",
+      "examples": [
+        "he had to rebut charges of acting for the convenience of his political friends"
+      ],
+      "synonyms": [
+        "refute",
+        "deny",
+        "disprove",
+        "prove wrong",
+        "prove false"
+      ]
+    },
+    {
+      "description": "Drive back or repel (a person or attack).",
+      "synonyms": [
+        "repel",
+        "drive back",
+        "drive away",
+        "fight back",
+        "fight off",
+        "put to flight",
+        "force back",
+        "beat off",
+        "beat back",
+        "push back",
+        "thrust back"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the senses rebuke and repulse): from Anglo-Norman French rebuter, from Old French re- (expressing opposition) + boter to butt. Sense 1 (originally a legal use) dates from the early 19th century.",
+  "pronounciation": "/rəˈbət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rebut_us_1.mp3"
+}

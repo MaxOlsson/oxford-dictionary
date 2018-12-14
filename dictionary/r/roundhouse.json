@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A locomotive maintenance shed built around a turntable."
+    },
+    {
+      "description": "A blow given with a wide sweep of the arm.",
+      "examples": [
+        "he caught Dad on the head with a roundhouse",
+        "he'd taken a roundhouse punch"
+      ]
+    },
+    {
+      "description": "A cabin or cabins on the after part of the quarterdeck of a sailing ship.",
+      "synonyms": [
+        "berth",
+        "stateroom",
+        "compartment",
+        "room",
+        "deckhouse",
+        "sleeping quarters"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈraʊndˌhaʊs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roundhouse_us_1.mp3"
+}

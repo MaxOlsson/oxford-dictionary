@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Populate (an area) in too large numbers.",
+      "examples": [
+        "the country was overpopulated"
+      ],
+      "synonyms": [
+        "packed",
+        "congested",
+        "crushed",
+        "cramped",
+        "overcrowded",
+        "full",
+        "filled to capacity",
+        "full to bursting",
+        "overfull",
+        "overflowing",
+        "teeming",
+        "swarming",
+        "thronged",
+        "populous",
+        "overpopulated",
+        "overpeopled",
+        "busy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌōvərˈpäpyəlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/overpopulate_us_1.mp3"
+}

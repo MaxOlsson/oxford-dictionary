@@ -1,0 +1,57 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of disorganized, untidy, or incomplete parts.",
+      "examples": [
+        "scrappy lecture notes piled up unread"
+      ],
+      "synonyms": [
+        "disorganized",
+        "untidy",
+        "disjointed",
+        "unsystematic",
+        "thrown together",
+        "uneven",
+        "bitty",
+        "sketchy",
+        "superficial",
+        "perfunctory",
+        "slipshod",
+        "inadequate",
+        "imperfect",
+        "incoherent",
+        "piecemeal"
+      ]
+    },
+    {
+      "description": "Determined, argumentative, or pugnacious.",
+      "examples": [
+        "he played the part of a scrappy detective"
+      ],
+      "synonyms": [
+        "argumentative",
+        "disputatious",
+        "disputative",
+        "contentious",
+        "confrontational",
+        "captious",
+        "factious",
+        "cavilling",
+        "pugnacious",
+        "combative",
+        "ready for a fight",
+        "defiant",
+        "hostile",
+        "antagonistic",
+        "bellicose",
+        "belligerent",
+        "militant",
+        "warring",
+        "fighting",
+        "battling"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskrapē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scrappy_us_1.mp3"
+}

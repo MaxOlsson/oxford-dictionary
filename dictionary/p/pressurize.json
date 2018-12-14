@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Produce or maintain raised pressure artificially in (a gas or its container)",
+      "examples": [
+        "the mixture was pressurized to 1,900 atmospheres",
+        "a pressurized can"
+      ]
+    },
+    {
+      "description": "Attempt to persuade or coerce (someone) into doing something.",
+      "examples": [
+        "people had been pressurized to vote",
+        "the protests were an attempt to pressurize the government into bringing an end to the violence"
+      ],
+      "synonyms": [
+        "coerce",
+        "pressure",
+        "press",
+        "push",
+        "persuade",
+        "influence",
+        "force",
+        "squeeze",
+        "bulldoze",
+        "hound",
+        "harass",
+        "nag",
+        "harry",
+        "badger",
+        "goad",
+        "prod",
+        "pester",
+        "browbeat",
+        "brainwash",
+        "bully",
+        "bludgeon",
+        "intimidate",
+        "dragoon",
+        "twist someone's arm",
+        "strong-arm"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈprɛʃəˌraɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pressurize_us_1.mp3"
+}

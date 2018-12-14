@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Rescue (a wrecked or disabled ship or its cargo) from loss at sea.",
+      "examples": [
+        "an emerald and gold cross was salvaged from the wreck"
+      ],
+      "synonyms": [
+        "rescue",
+        "save",
+        "recover",
+        "retrieve",
+        "raise",
+        "reclaim",
+        "get back",
+        "restore",
+        "reinstate"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The rescue of a wrecked or disabled ship or its cargo from loss at sea.",
+      "examples": [
+        "a salvage operation was under way"
+      ],
+      "synonyms": [
+        "rescue",
+        "saving",
+        "recovery",
+        "raising",
+        "reclamation",
+        "restoration",
+        "salvation"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century (as a noun denoting payment for saving a ship or its cargo): from French, from medieval Latin salvagium, from Latin salvare to save. The verb dates from the late 19th century.",
+  "pronounciation": "/ˈsælvɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/salvage_us_1.mp3"
+}

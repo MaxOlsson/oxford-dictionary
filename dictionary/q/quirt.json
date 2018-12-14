@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A short-handled riding whip with a braided leather lash.",
+      "synonyms": [
+        "whip",
+        "horsewhip",
+        "lash",
+        "strap",
+        "birch",
+        "switch",
+        "flail"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hit with a quirt.",
+      "examples": [
+        "Claggart quirted her again and again"
+      ],
+      "synonyms": [
+        "hit",
+        "beat",
+        "flog",
+        "whip",
+        "horsewhip",
+        "scourge",
+        "lash",
+        "flagellate",
+        "flail",
+        "strap",
+        "birch",
+        "cane",
+        "belt",
+        "leather"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century (originally US): from Spanish cuerda cord (from Latin chorda cord) or from Mexican Spanish cuarta whip.",
+  "pronounciation": "/kwərt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quirt_us_1.mp3"
+}

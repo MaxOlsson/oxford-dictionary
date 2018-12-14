@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "The action of copying or reproducing something.",
+      "synonyms": [
+        "copying",
+        "duplication",
+        "duplicating",
+        "replicating"
+      ]
+    },
+    {
+      "description": "A plaintiff's reply to the defendant's plea.",
+      "synonyms": [
+        "defence",
+        "plea",
+        "refutation",
+        "rebuttal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French replicacion, from Latin replicatio(n-), from replicare fold back, repeat, later make a reply (see replicate).",
+  "pronounciation": "/ˌrɛpləˈkeɪʃ(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/replication_us_1.mp3"
+}

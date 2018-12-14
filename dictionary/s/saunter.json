@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Walk in a slow, relaxed manner, without hurry or effort.",
+      "examples": [
+        "Adam sauntered into the room"
+      ],
+      "synonyms": [
+        "stroll",
+        "amble",
+        "wander",
+        "meander",
+        "drift",
+        "maunder",
+        "potter",
+        "walk",
+        "promenade",
+        "ramble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A leisurely stroll.",
+      "examples": [
+        "a quiet saunter down the road"
+      ],
+      "synonyms": [
+        "stroll",
+        "amble",
+        "wander",
+        "meander",
+        "walk",
+        "turn",
+        "constitutional",
+        "ramble",
+        "airing",
+        "promenade",
+        "breather"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense to muse, wonder): of unknown origin. The current sense dates from the mid 17th century.",
+  "pronounciation": "/ˈsôn(t)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/saunter_us_1.mp3"
+}

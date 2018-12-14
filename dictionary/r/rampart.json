@@ -1,0 +1,37 @@
+{
+  "noun": [
+    {
+      "description": "A defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet.",
+      "synonyms": [
+        "defensive wall",
+        "embankment",
+        "earthwork",
+        "parapet",
+        "breastwork",
+        "battlement",
+        "stockade",
+        "palisade",
+        "bulwark",
+        "bastion",
+        "barbican",
+        "outwork",
+        "fortification"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fortify or surround with or as if with a rampart.",
+      "synonyms": [
+        "build defences round",
+        "strengthen with defensive works",
+        "secure",
+        "protect",
+        "surround"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from French rempart, from remparer fortify, take possession of again, based on Latin ante before + parare prepare.",
+  "pronounciation": "/ˈræmˌpɑrt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rampart_us_1.mp3"
+}

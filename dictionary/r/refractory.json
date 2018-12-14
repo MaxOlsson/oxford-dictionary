@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Stubborn or unmanageable.",
+      "examples": [
+        "his refractory pony"
+      ],
+      "synonyms": [
+        "obstinate",
+        "stubborn",
+        "stubborn as a mule",
+        "mulish",
+        "bull-headed",
+        "pig-headed",
+        "obdurate",
+        "headstrong",
+        "self-willed",
+        "wayward",
+        "wilful",
+        "perverse",
+        "contrary",
+        "recalcitrant",
+        "obstreperous",
+        "disobedient",
+        "insubordinate",
+        "rebellious",
+        "mutinous",
+        "defiant",
+        "stiff-necked",
+        "intractable",
+        "intransigent",
+        "unyielding",
+        "unmalleable",
+        "unmanageable",
+        "ungovernable",
+        "unpersuadable"
+      ]
+    },
+    {
+      "description": "Resistant to a process or stimulus.",
+      "examples": [
+        "some granules are refractory to secretory stimuli"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A substance that is resistant to heat."
+    }
+  ],
+  "origin": "Early 17th century: alteration of obsolete refractary, from Latin refractarius stubborn (see also refract).",
+  "pronounciation": "/rəˈfrakt(ə)rē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/refractory_us_1.mp3"
+}

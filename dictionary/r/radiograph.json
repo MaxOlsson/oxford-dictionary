@@ -1,0 +1,21 @@
+{
+  "noun": [
+    {
+      "description": "An image produced on a sensitive plate or film by X-rays, gamma rays, or similar radiation, and typically used in medical examination.",
+      "synonyms": [
+        "radiogram",
+        "x-ray image"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Produce an image of (something) on a sensitive plate or film by X-rays, gamma rays, or similar radiation.",
+      "examples": [
+        "the samples were stored at -20 degrees before being radiographed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈrādēōˌɡraf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/radiograph_us_4.mp3"
+}

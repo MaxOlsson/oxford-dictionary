@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "A line along which two pieces of fabric are sewn together in a garment or other article.",
+      "synonyms": [
+        "join",
+        "stitching",
+        "joint",
+        "junction",
+        "closure",
+        "line"
+      ]
+    },
+    {
+      "description": "An underground layer, as of ore or coal.",
+      "synonyms": [
+        "layer",
+        "stratum",
+        "vein",
+        "lode",
+        "deposit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Join with a seam.",
+      "examples": [
+        "it can be used for seaming garments"
+      ]
+    },
+    {
+      "description": "Make a long, narrow indentation in.",
+      "examples": [
+        "men in middle age have seamed faces"
+      ]
+    }
+  ],
+  "phrases": [
+    "The movie as a whole feels rushed, bursting at the seams with seemingly unnecessary subplots and tangential characters.",
+    "The death of his father and the birth of his son are the framing events for a canvas bursting at the seams with drama and allegory, visual detail and theatrical elaboration.",
+    "The dot-com frenzy was at its peak and the capital markets were so flush with cash that they were practically bursting at the seams.",
+    "Here was a gritty, kinetic world opening before them - a complex verbal jazz of messy humanity, boogying in a justice system bursting at the seams.",
+    "The film opens with screeching modem noise, and the frame skitters out of space early on, suggesting that the movie is bursting at the seams with electric energy."
+  ],
+  "origin": "Old English sēam, of Germanic origin; related to Dutch zoom and German Saum.",
+  "pronounciation": "/sēm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seam_us_2.mp3"
+}

@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or caused by rheumatism.",
+      "examples": [
+        "rheumatic pains"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person suffering from rheumatism."
+    }
+  ],
+  "origin": "Late Middle English (originally referring to infection characterized by rheum): from Old French reumatique, or via Latin from Greek rheumatikos, from rheuma bodily humor, flow (see rheum).",
+  "pronounciation": "/ruˈmædɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rheumatic_us_1.mp3"
+}

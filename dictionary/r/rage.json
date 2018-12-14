@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "Violent, uncontrollable anger.",
+      "examples": [
+        "her face was distorted with rage",
+        "she flew into a rage"
+      ],
+      "synonyms": [
+        "temper",
+        "fit of anger",
+        "fit of fury",
+        "fit of rage",
+        "fit of temper",
+        "fit of bad temper",
+        "fit of ill temper",
+        "towering rage",
+        "bad temper",
+        "pet",
+        "fit of pique",
+        "tantrum",
+        "fury",
+        "frenzy of anger",
+        "frenzy of rage",
+        "rampage",
+        "paroxysm of anger",
+        "paroxysm of rage",
+        "passion",
+        "bad mood",
+        "mood"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Feel or express violent uncontrollable anger.",
+      "examples": [
+        "he raged at the futility of it all",
+        "“That's unfair!” Maggie raged"
+      ],
+      "synonyms": [
+        "be angry",
+        "be furious",
+        "be enraged",
+        "be incensed",
+        "be infuriated",
+        "seethe",
+        "be beside oneself",
+        "have a fit",
+        "boil",
+        "be boiling over",
+        "rant",
+        "rave",
+        "rant and rave",
+        "storm",
+        "fume",
+        "spit",
+        "breathe fire",
+        "burn"
+      ]
+    }
+  ],
+  "origin": "Middle English (also in the sense madness): from Old French rage (noun), rager (verb), from a variant of Latin rabies (see rabies).",
+  "pronounciation": "/rāj/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rage_us_1.mp3"
+}

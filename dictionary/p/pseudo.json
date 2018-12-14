@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not genuine; spurious or sham.",
+      "examples": [
+        "we are talking about real journalists and not the pseudo kind"
+      ],
+      "synonyms": [
+        "artificial",
+        "synthetic",
+        "simulated",
+        "man-made",
+        "manufactured",
+        "ersatz",
+        "substitute"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pretentious or insincere person."
+    }
+  ],
+  "origin": "Late Middle English (as a noun in the sense false apostle or teacher): independent use of pseudo-.",
+  "pronounciation": "/ˈsudoʊ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pseudo_1_us_1.mp3"
+}

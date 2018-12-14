@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Echo again or repeatedly.",
+      "examples": [
+        "Dawn's words re-echoed in her mind"
+      ],
+      "synonyms": [
+        "throb",
+        "reverberate",
+        "pulsate",
+        "pulse",
+        "palpitate",
+        "resonate",
+        "resound",
+        "ring",
+        "echo",
+        "boom",
+        "thunder",
+        "thump",
+        "pound",
+        "beat",
+        "drum",
+        "thud",
+        "thrum",
+        "hammer"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A re-echoed word or sound."
+    }
+  ],
+  "pronounciation": "/ˌrēˈekō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reecho_us_1.mp3"
+}

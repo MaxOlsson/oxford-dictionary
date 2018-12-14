@@ -1,0 +1,21 @@
+{
+  "verb": [
+    {
+      "description": "Drive with (a car engine) at or above its rated maximum rpm.",
+      "examples": [
+        "both his engines were redlined now"
+      ]
+    },
+    {
+      "description": "Refuse (a loan or insurance) to someone because they live in an area deemed to be a poor financial risk."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The maximum number of revolutions per minute for a car engine."
+    }
+  ],
+  "origin": "From the use of red as a limit marker, in redline (sense 2 of the verb) a limit marked out by ringing a section of a map.",
+  "pronounciation": "/ˈredˌlīn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/redline_us_1.mp3"
+}

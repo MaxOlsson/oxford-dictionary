@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to or denoting amphibians belonging to the family Salmandridae or the suborder Salamandroidea.",
+      "examples": [
+        "absence of the cloacal glands that function in salamandroid fertilization strongly suggests external fertilization"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An amphibian of the family Salmandridae or the suborder Salamandroidea, comprising the largest group of salamanders.",
+      "examples": [
+        "the recent description of this specimen seems to confirm the predicted presence of salamandroids in the Jurassic"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Latin salamandroides, or Salamandridae + -oid (sense 1).",
+  "pronounciation": "/ˌsaləˈmanˌdroid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/salamandroid_us_1.mp3"
+}

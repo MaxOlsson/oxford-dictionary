@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    {
+      "description": "Having great power or strength.",
+      "examples": [
+        "a fast, powerful car",
+        "computers are now more compact and powerful"
+      ],
+      "synonyms": [
+        "strong",
+        "muscular",
+        "muscly",
+        "sturdy",
+        "strapping",
+        "robust",
+        "mighty",
+        "hefty",
+        "brawny",
+        "burly",
+        "husky",
+        "athletic",
+        "manly",
+        "well built",
+        "herculean",
+        "tough",
+        "solid",
+        "substantial",
+        "lusty"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Very.",
+      "examples": [
+        "walking in this weather is powerful hot work"
+      ],
+      "synonyms": [
+        "very",
+        "extremely",
+        "exceedingly",
+        "exceptionally",
+        "especially",
+        "tremendously",
+        "immensely",
+        "vastly",
+        "hugely"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈpou(ə)rfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/powerful_us_1.mp3"
+}

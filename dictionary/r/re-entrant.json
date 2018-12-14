@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "(of an angle) pointing inward."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A re-entrant angle.",
+      "examples": [
+        "a sharp re-entrant in a material causes a local increase in stress"
+      ]
+    },
+    {
+      "description": "A person who has re-entered something, especially the labor force.",
+      "examples": [
+        "re-entrants who left to raise a family and are now seeking to get back in"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrēˈentrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reentrant_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "verb": [
+    {
+      "description": "Re-examine and make alterations to (written or printed matter)",
+      "examples": [
+        "the book was published in 1960 and revised in 1968"
+      ],
+      "synonyms": [
+        "amend",
+        "emend",
+        "correct",
+        "alter",
+        "change",
+        "adapt",
+        "edit",
+        "copy-edit",
+        "rewrite",
+        "redraft",
+        "rescript",
+        "recast",
+        "rephrase",
+        "rework",
+        "update",
+        "revamp"
+      ]
+    },
+    {
+      "description": "Reread work done previously to improve one's knowledge of a subject, typically to prepare for an examination.",
+      "examples": [
+        "students frantically revising for exams",
+        "revise your lecture notes on the topic"
+      ],
+      "synonyms": [
+        "go over",
+        "reread",
+        "run through",
+        "study",
+        "memorize"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A proof including corrections made in an earlier proof.",
+      "synonyms": [
+        "page proof",
+        "galley proof",
+        "galley",
+        "pull",
+        "slip",
+        "trial print"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense look again or repeatedly (at)): from French réviser look at, or Latin revisere look at again, from re- again + visere (intensive form of videre to see).",
+  "pronounciation": "/rəˈvaɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/revise_us_1.mp3"
+}

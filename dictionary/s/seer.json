@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A person who is supposed to be able, through supernatural insight, to see what the future holds.",
+      "synonyms": [
+        "prophet",
+        "prophetess",
+        "sibyl",
+        "augur",
+        "soothsayer",
+        "wise man",
+        "wise woman",
+        "sage",
+        "oracle",
+        "prognosticator",
+        "prophesier",
+        "forecaster of the future",
+        "diviner",
+        "fortune teller",
+        "crystal gazer",
+        "clairvoyant",
+        "psychic",
+        "spiritualist",
+        "medium"
+      ]
+    },
+    {
+      "description": "A person who sees something specified.",
+      "examples": [
+        "a seer of the future",
+        "ghost-seers"
+      ]
+    }
+  ],
+  "origin": "From Hindi ser.",
+  "pronounciation": "/sɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/seer_us_1.mp3"
+}

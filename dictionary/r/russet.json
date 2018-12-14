@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Reddish brown in color.",
+      "examples": [
+        "gardens of russet and gold chrysanthemums"
+      ],
+      "synonyms": [
+        "hazel",
+        "chocolate-coloured",
+        "coffee-coloured",
+        "cocoa-coloured",
+        "nut-brown"
+      ]
+    },
+    {
+      "description": "Rustic; homely."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A reddish-brown color.",
+      "examples": [
+        "the woods in autumn are a riot of russet and gold"
+      ]
+    },
+    {
+      "description": "A dessert apple of a variety with a slightly rough greenish-brown skin."
+    },
+    {
+      "description": "A coarse homespun reddish-brown or gray cloth used for simple clothing."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make or become russet in color."
+    }
+  ],
+  "origin": "Middle English: from an Anglo-Norman French variant of Old French rousset, diminutive of rous red, from Provençal ros, from Latin russus red.",
+  "pronounciation": "/ˈrəsət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/russet_us_1.mp3"
+}

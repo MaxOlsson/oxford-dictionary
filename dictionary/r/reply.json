@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Say something in response to something someone has said.",
+      "examples": [
+        "he was gone before we could reply to his last remark",
+        "she replied that she had been sound asleep",
+        "“I'm OK—just leave me alone,” he replied"
+      ],
+      "synonyms": [
+        "respond",
+        "answer",
+        "say in response",
+        "rejoin",
+        "return"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A verbal or written answer.",
+      "examples": [
+        "I received a reply from the firm's managing director",
+        "“No,” was the curt reply"
+      ],
+      "synonyms": [
+        "answer",
+        "response",
+        "acknowledgement",
+        "rejoinder",
+        "return",
+        "reaction"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): from Old French replier, from Latin replicare repeat, later make a reply (see replicate).",
+  "pronounciation": "/rəˈplaɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reply_us_1.mp3"
+}

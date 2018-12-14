@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to sight, especially in relation to the physical action of light.",
+      "examples": [
+        "optical illusions"
+      ],
+      "synonyms": [
+        "seeing",
+        "optic",
+        "ocular",
+        "eye"
+      ]
+    },
+    {
+      "description": "Operating in or employing the visible part of the electromagnetic spectrum.",
+      "examples": [
+        "optical telescopes"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈɑptək(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/optical_us_1.mp3"
+}

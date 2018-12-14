@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "(of a book or greeting card) containing folded cut-out pictures that rise up to form a three-dimensional scene or figure when the page is turned.",
+      "synonyms": [
+        "solid",
+        "concrete",
+        "having depth",
+        "sculptural",
+        "rounded"
+      ]
+    },
+    {
+      "description": "Denoting a store or other business that opens quickly in a temporary location and is intended to operate for only a short period of time.",
+      "examples": [
+        "fashion brands have been especially keen on pop-up stores in recent months"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pop-up picture in a book."
+    },
+    {
+      "description": "A pop-up menu or other utility."
+    },
+    {
+      "description": "A pop-up store."
+    }
+  ],
+  "pronounciation": "/ˈpäp ˌəp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pop_up_1_us_1.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "adjective": [
+    {
+      "description": "(of a gun) having a specially shortened barrel to make handling easier and to give a wider field of fire.",
+      "synonyms": [
+        "miniature",
+        "small",
+        "little",
+        "tiny",
+        "minute",
+        "toy",
+        "pocket",
+        "diminutive",
+        "baby",
+        "pygmy",
+        "stunted",
+        "undersized",
+        "undersize",
+        "small-scale",
+        "scaled-down",
+        "fun-size"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sawed-off shotgun.",
+      "examples": [
+        "he was hauling a sawed-off over his shoulder"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsɔdˈɔf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sawed_off_1_us_1.mp3"
+}

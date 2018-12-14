@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "A whip used as an instrument of punishment.",
+      "synonyms": [
+        "whip",
+        "horsewhip",
+        "lash",
+        "strap",
+        "birch",
+        "switch",
+        "flail"
+      ]
+    },
+    {
+      "description": "A person or thing that causes great trouble or suffering.",
+      "examples": [
+        "the scourge of mass unemployment"
+      ],
+      "synonyms": [
+        "affliction",
+        "bane",
+        "curse",
+        "plague",
+        "menace",
+        "evil",
+        "misfortune",
+        "burden",
+        "cross to bear",
+        "thorn in one's flesh",
+        "thorn in one's side",
+        "bitter pill",
+        "trial",
+        "nuisance",
+        "pest"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Whip (someone) as a punishment.",
+      "synonyms": [
+        "flog",
+        "whip",
+        "beat",
+        "horsewhip",
+        "lash",
+        "flagellate",
+        "flail",
+        "strap",
+        "birch",
+        "cane",
+        "thrash",
+        "belt",
+        "leather"
+      ]
+    },
+    {
+      "description": "Cause great suffering to.",
+      "examples": [
+        "political methods used to scourge and oppress workers"
+      ],
+      "synonyms": [
+        "afflict",
+        "plague",
+        "torment",
+        "torture",
+        "curse",
+        "cause suffering to",
+        "oppress",
+        "burden",
+        "bedevil",
+        "beset"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old French escorge (noun), escorgier (verb), from Latin ex- thoroughly + corrigia thong, whip.",
+  "pronounciation": "/skərdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scourge_us_1.mp3"
+}

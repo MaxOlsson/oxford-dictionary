@@ -1,0 +1,30 @@
+{
+  "verb": [
+    {
+      "description": "Hold royal office; rule as king or queen.",
+      "examples": [
+        "Queen Elizabeth reigns over the UK"
+      ],
+      "synonyms": [
+        "ruling",
+        "regnant"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The period during which a sovereign rules.",
+      "examples": [
+        "the original chapel was built in the reign of Charles I"
+      ],
+      "synonyms": [
+        "rule",
+        "sovereignty",
+        "monarchy"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French reignier to reign, reigne kingdom, from Latin regnum, related to rex, reg- king.",
+  "pronounciation": "/reɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/reign_us_1.mp3"
+}

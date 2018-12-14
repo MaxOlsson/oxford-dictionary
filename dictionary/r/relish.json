@@ -1,0 +1,60 @@
+{
+  "noun": [
+    {
+      "description": "Great enjoyment.",
+      "examples": [
+        "she swigged a mouthful of wine with relish"
+      ]
+    },
+    {
+      "description": "A condiment eaten with plain food to add flavor.",
+      "examples": [
+        "use salsa as a relish with grilled meat or fish"
+      ],
+      "synonyms": [
+        "condiment",
+        "accompaniment",
+        "sauce",
+        "dressing",
+        "flavouring",
+        "seasoning",
+        "dip"
+      ]
+    },
+    {
+      "description": "An appetizing flavor."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Enjoy greatly.",
+      "examples": [
+        "he was relishing his moment of glory"
+      ],
+      "synonyms": [
+        "enjoy",
+        "delight in",
+        "love",
+        "like",
+        "adore",
+        "be pleased by",
+        "take pleasure in",
+        "rejoice in",
+        "appreciate",
+        "savour",
+        "revel in",
+        "luxuriate in",
+        "glory in"
+      ]
+    },
+    {
+      "description": "Make pleasant to the taste; add relish to.",
+      "examples": [
+        "I have also a novel to relish my wine"
+      ]
+    }
+  ],
+  "origin": "Middle English: alteration of obsolete reles, from Old French reles remainder, from relaisser to release. The early noun sense was odor, taste giving rise to appetizing flavor, piquant taste (mid 17th century), and hence relish (sense 2 of the noun) (late 18th century).",
+  "pronounciation": "/ˈreliSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/relish_us_1.mp3"
+}

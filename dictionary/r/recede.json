@@ -1,0 +1,22 @@
+{
+  "verb": [
+    {
+      "description": "Go or move back or further away from a previous position.",
+      "examples": [
+        "the flood waters had receded",
+        "his footsteps receded down the corridor"
+      ],
+      "synonyms": [
+        "retreat",
+        "go back",
+        "move back",
+        "move further off",
+        "move away",
+        "withdraw"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (in the sense depart from a usual state or standard): from Latin recedere, from re- back + cedere go.",
+  "pronounciation": "/rəˈsid/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recede_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A fence of wooden stakes or iron railings fixed in the ground, forming an enclosure or defense.",
+      "synonyms": [
+        "fence",
+        "paling",
+        "enclosure",
+        "defence",
+        "barricade",
+        "stockade",
+        "fortification",
+        "bulwark"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Enclose or provide (a building or place) with a palisade."
+    }
+  ],
+  "origin": "Early 17th century: from French palissade, from Provençal palissada, from palissa paling, based on Latin palus stake.",
+  "pronounciation": "/ˌpæləˈseɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/palisade_us_1.mp3"
+}

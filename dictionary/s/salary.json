@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
+      "examples": [
+        "he received a salary of $29,000",
+        "a 15 percent salary increase"
+      ],
+      "synonyms": [
+        "pay",
+        "earnings",
+        "remuneration",
+        "fee",
+        "fees",
+        "emolument",
+        "emoluments",
+        "stipend",
+        "honorarium",
+        "hire",
+        "wages",
+        "wage",
+        "gross pay",
+        "payment",
+        "earned income"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pay a salary to."
+    }
+  ],
+  "origin": "Middle English: from Anglo-Norman French salarie, from Latin salarium, originally denoting a Roman soldier's allowance to buy salt, from sal salt.",
+  "pronounciation": "/ˈsæl(ə)ri/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/salary_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adjective": [
+    {
+      "description": "Showing violent uncontrollable anger.",
+      "examples": [
+        "a raging bull"
+      ],
+      "synonyms": [
+        "angry",
+        "furious",
+        "enraged",
+        "incensed",
+        "infuriated",
+        "irate",
+        "wrathful",
+        "seething",
+        "fuming",
+        "blazing",
+        "flaming mad",
+        "blazing mad",
+        "mad",
+        "ranting",
+        "raving",
+        "beside oneself"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈreɪdʒɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/raging_us_1.mp3"
+}

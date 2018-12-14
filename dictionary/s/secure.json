@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Fixed or fastened so as not to give way, become loose, or be lost.",
+      "examples": [
+        "check to ensure that all nuts and bolts are secure"
+      ],
+      "synonyms": [
+        "tight",
+        "firm",
+        "taut",
+        "fixed",
+        "secured",
+        "done up"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fix or attach (something) firmly so that it cannot be moved or lost.",
+      "examples": [
+        "pins secure the handle to the main body"
+      ],
+      "synonyms": [
+        "fix",
+        "attach",
+        "fasten",
+        "affix",
+        "link",
+        "hitch",
+        "join",
+        "connect",
+        "couple",
+        "bond",
+        "append",
+        "annex",
+        "stick",
+        "pin",
+        "tack",
+        "nail",
+        "staple",
+        "clip"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense feeling no apprehension): from Latin securus, from se- without + cura care.",
+  "pronounciation": "/səˈkyo͝or/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/secure_us_1.mp3"
+}

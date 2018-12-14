@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A sacred place, especially a shrine within a temple or church.",
+      "examples": [
+        "an icon installed within the sanctum of the temple"
+      ],
+      "synonyms": [
+        "holy place",
+        "shrine",
+        "sanctuary",
+        "altar",
+        "inner sanctum",
+        "holy of holies"
+      ]
+    },
+    {
+      "description": "A private place from which most people are excluded.",
+      "examples": [
+        "he ushered her into his sanctum and gave her something to drink"
+      ],
+      "synonyms": [
+        "refuge",
+        "retreat",
+        "bolt-hole",
+        "foxhole",
+        "hideout",
+        "hiding place",
+        "hideaway",
+        "study",
+        "den"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: from Latin, neuter of sanctus holy, from sancire consecrate.",
+  "pronounciation": "/ˈsaNG(k)təm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sanctum_us_1.mp3"
+}

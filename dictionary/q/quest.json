@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "A long or arduous search for something.",
+      "examples": [
+        "the quest for a reliable vaccine has intensified"
+      ],
+      "synonyms": [
+        "search",
+        "hunt",
+        "pursuit"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Search for something.",
+      "examples": [
+        "he was a real scientist, questing after truth"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French queste (noun), quester (verb), based on Latin quaerere ask, seek. See also inquest.",
+  "pronounciation": "/kwɛst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/quest_us_1.mp3"
+}

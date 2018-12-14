@@ -1,0 +1,22 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to a course of study undertaken after completing an undergraduate degree.",
+      "examples": [
+        "a postgraduate degree"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A student engaged in a postgraduate course of study.",
+      "synonyms": [
+        "undergraduate",
+        "scholar",
+        "tutee"
+      ]
+    }
+  ],
+  "pronounciation": "/pōstˈɡrajo͞oət/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/postgraduate_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Set or adjust (a value that controls the operation of a device) in advance of its use.",
+      "examples": [
+        "the water is heated quickly to a preset temperature"
+      ],
+      "synonyms": [
+        "prearranged",
+        "arranged in advance",
+        "established in advance",
+        "set",
+        "fixed",
+        "preset",
+        "pre-agreed",
+        "pre-established",
+        "pre-planned",
+        "pre-decided",
+        "agreed",
+        "settled"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A control on electronic equipment or on software that is set or adjusted beforehand to facilitate use."
+    }
+  ],
+  "pronounciation": "/priˈsɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/preset_us_1.mp3"
+}

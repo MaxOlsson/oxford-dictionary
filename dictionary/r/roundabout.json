@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A road junction at which traffic moves in one direction around a central island to reach one of the roads converging on it; a traffic circle.",
+      "synonyms": [
+        "rotary",
+        "traffic circle"
+      ]
+    },
+    {
+      "description": "A large revolving device in a playground, for children to ride on; a merry-go-round."
+    },
+    {
+      "description": "A close-fitting, waist-length jacket worn by men and boys."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Not following a short direct route; circuitous.",
+      "examples": [
+        "we need to take a roundabout route to throw off any pursuit"
+      ],
+      "synonyms": [
+        "circuitous",
+        "indirect",
+        "meandering",
+        "winding",
+        "serpentine",
+        "tortuous"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈraʊndəˌbaʊt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/roundabout_us_1.mp3"
+}

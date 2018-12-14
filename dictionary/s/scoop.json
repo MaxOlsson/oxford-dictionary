@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "A utensil resembling a spoon, with a long handle and a deep bowl, used for removing powdered, granulated, or semisolid substances (such as ice cream) from a container.",
+      "synonyms": [
+        "spoon",
+        "ladle",
+        "dipper"
+      ]
+    },
+    {
+      "description": "A piece of news published by a newspaper or broadcast by a television or radio station in advance of its rivals.",
+      "synonyms": [
+        "exclusive",
+        "exclusive story",
+        "inside story",
+        "exposé",
+        "revelation"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Pick up and move (something) with a scoop.",
+      "examples": [
+        "Philip began to scoop grain into his bag"
+      ]
+    },
+    {
+      "description": "Publish a news story before (a rival reporter, newspaper, or radio or television station)."
+    }
+  ],
+  "origin": "Middle English (originally denoting a utensil for pouring liquids): from Middle Dutch, Middle Low German schōpe waterwheel bucket; from a West Germanic base meaning draw water; related to the verb shape.",
+  "pronounciation": "/sko͞op/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/scoop_us_1.mp3"
+}

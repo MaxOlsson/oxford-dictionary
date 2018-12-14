@@ -1,0 +1,59 @@
+{
+  "verb": [
+    {
+      "description": "Say again something one has already said.",
+      "examples": [
+        "“Are you hurt?” he repeated",
+        "Billy repeated his question",
+        "the landlady repeated that she was being very lenient with him"
+      ],
+      "synonyms": [
+        "say again",
+        "restate",
+        "reiterate",
+        "go through again",
+        "go over again",
+        "run through again",
+        "iterate",
+        "rehearse",
+        "recapitulate"
+      ]
+    },
+    {
+      "description": "Do (something) again, either once or a number of times.",
+      "examples": [
+        "earlier experiments were to be repeated on a far larger scale"
+      ],
+      "synonyms": [
+        "do again",
+        "redo",
+        "replicate",
+        "duplicate",
+        "perform again"
+      ]
+    },
+    {
+      "description": "(of food) be tasted intermittently for some time after being swallowed as a result of belching or indigestion.",
+      "examples": [
+        "it sat rather uncomfortably on my stomach and repeated on me for hours"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An action, event, or other thing that occurs or is done again.",
+      "examples": [
+        "the final will be a repeat of last year"
+      ],
+      "synonyms": [
+        "repetition",
+        "duplication",
+        "replication",
+        "rerun"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French repeter, from Latin repetere, from re- back + petere seek.",
+  "pronounciation": "/rəˈpēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repeat_us_1.mp3"
+}

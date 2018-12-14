@@ -1,0 +1,103 @@
+{
+  "adjective": [
+    {
+      "description": "(of food) uncooked.",
+      "examples": [
+        "raw eggs",
+        "salsify can be eaten raw in salads or cooked"
+      ],
+      "synonyms": [
+        "uncooked",
+        "fresh"
+      ]
+    },
+    {
+      "description": "(of a part of the body) red and painful, especially as the result of skin abrasion.",
+      "examples": [
+        "he scrubbed his hands until they were raw",
+        "Fran's nerves were raw"
+      ],
+      "synonyms": [
+        "sore",
+        "red",
+        "inflamed",
+        "painful",
+        "sensitive",
+        "tender"
+      ]
+    },
+    {
+      "description": "(of an emotion or quality) strong and undisguised.",
+      "examples": [
+        "he exuded an air of raw, vibrant masculinity"
+      ],
+      "synonyms": [
+        "strong",
+        "intense",
+        "passionate",
+        "fervent",
+        "vehement",
+        "powerful",
+        "violent",
+        "acute"
+      ]
+    },
+    {
+      "description": "(of the weather) bleak, cold, and damp.",
+      "examples": [
+        "a raw February night"
+      ],
+      "synonyms": [
+        "bleak",
+        "cold",
+        "chilly",
+        "chilling",
+        "chill",
+        "freezing",
+        "icy",
+        "icy-cold",
+        "wintry",
+        "bitter",
+        "biting",
+        "piercing",
+        "penetrating",
+        "sharp",
+        "keen",
+        "damp",
+        "wet"
+      ]
+    },
+    {
+      "description": "(of a person) new to an activity or job and therefore lacking experience or skill.",
+      "examples": [
+        "they were replaced by raw recruits"
+      ],
+      "synonyms": [
+        "inexperienced",
+        "new",
+        "lacking experience",
+        "untrained",
+        "unskilled",
+        "unpractised",
+        "untried",
+        "untested",
+        "unseasoned",
+        "untutored",
+        "unschooled"
+      ]
+    },
+    {
+      "description": "(of the edge of a piece of cloth) not having a hem or selvage."
+    }
+  ],
+  "phrases": [
+    "he didn't much care for nature in the raw",
+    "Experiencing nature in the raw can gave us all a better sense of perspective.",
+    "Nothing is staged, nothing is acted, life is shown in the raw, like it really is.",
+    "Like mud, diamonds - which look like dull pebbles in the raw state, and only reveal their beauty when cut and polished - attracted very little attention when first discovered by early man.",
+    "Those of us who can't or won't brave nature in the raw should never underestimate the power of the local swimming pool, in providing that vital link with our ancestral past."
+  ],
+  "origin": "Old English hrēaw, of Germanic origin; related to Dutch rauw and German roh, from an Indo-European root shared by Greek kreas raw flesh.",
+  "pronounciation": "/rô/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/raw_us_1.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "": [
+    {
+      "description": "The chemical element promethium."
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "Past Master."
+    },
+    {
+      "description": "Paymaster."
+    },
+    {
+      "description": "Police Magistrate."
+    },
+    {
+      "description": "Postmaster."
+    },
+    {
+      "description": "Postmortem.",
+      "synonyms": [
+        "autopsy",
+        "post-mortem examination",
+        "pm",
+        "dissection",
+        "necropsy"
+      ]
+    },
+    {
+      "description": "Prime minister.",
+      "synonyms": [
+        "head of government",
+        "prime minister",
+        "pm",
+        "president",
+        "chief minister",
+        "chancellor"
+      ]
+    },
+    {
+      "description": "Provost Marshal."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A private message sent on social media, an online forum, etc.",
+      "examples": [
+        "drop me a PM if you want more details"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Send (someone) a private message on social media, an online forum, etc.",
+      "examples": [
+        "I'll PM you when I'm back online",
+        "you said you'd PM'd me his number but I haven't received it"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈˌpi ˈɛm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/pm_us_1.mp3"
+}

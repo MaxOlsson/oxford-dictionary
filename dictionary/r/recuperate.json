@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Recover from illness or exertion.",
+      "examples": [
+        "she has been recuperating from a shoulder wound",
+        "Christmas is a time to recuperate"
+      ],
+      "synonyms": [
+        "get better",
+        "recover",
+        "convalesce",
+        "get back to normal",
+        "get well",
+        "regain one's health",
+        "regain one's strength",
+        "get back on one's feet",
+        "get over something"
+      ]
+    },
+    {
+      "description": "Recover or regain (something lost or taken)",
+      "examples": [
+        "they will seek to recuperate the returns that go with investment"
+      ],
+      "synonyms": [
+        "get back",
+        "regain",
+        "recover",
+        "win back",
+        "recoup",
+        "retrieve",
+        "reclaim",
+        "repossess",
+        "have something returned",
+        "be reunited with",
+        "find",
+        "redeem",
+        "rescue"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century: from Latin recuperat- regained, from the verb recuperare, from re- back + capere take.",
+  "pronounciation": "/rəˈkupəˌreɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recuperate_us_1.mp3"
+}

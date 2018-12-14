@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Buy (something) back.",
+      "examples": [
+        "firms have been able to repurchase their shares since 1981"
+      ],
+      "synonyms": [
+        "retrieve",
+        "regain",
+        "recover",
+        "get back",
+        "reclaim",
+        "repossess",
+        "have something returned",
+        "rescue"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of buying something back.",
+      "examples": [
+        "the repurchase price",
+        "a phased repurchase of properties"
+      ],
+      "synonyms": [
+        "retrieval",
+        "recovery",
+        "reclamation",
+        "repossession",
+        "recoupment",
+        "return",
+        "rescue"
+      ]
+    }
+  ],
+  "pronounciation": "/rēˈpərCHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/repurchase_us_1.mp3"
+}

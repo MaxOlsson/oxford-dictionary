@@ -1,0 +1,57 @@
+{
+  "verb": [
+    {
+      "description": "Make a soft, muffled crackling sound like that caused by the movement of dry leaves or paper.",
+      "examples": [
+        "she came closer, her skirt swaying and rustling"
+      ],
+      "synonyms": [
+        "swish",
+        "whisper",
+        "sigh",
+        "whoosh"
+      ]
+    },
+    {
+      "description": "Round up and steal (cattle, horses, or sheep).",
+      "synonyms": [
+        "steal",
+        "thieve",
+        "take",
+        "abduct",
+        "kidnap"
+      ]
+    },
+    {
+      "description": "Move or act quickly or energetically; hustle.",
+      "examples": [
+        "rustle around the kitchen, see what there is"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft, muffled crackling sound like that made by the movement of dry leaves or paper.",
+      "examples": [
+        "there was a rustle in the undergrowth behind her"
+      ],
+      "synonyms": [
+        "swish",
+        "swishing",
+        "whisper",
+        "whispering",
+        "rustling"
+      ]
+    }
+  ],
+  "phrases": [
+    "see if you can rustle up a cup of coffee for Paula and me, please",
+    "While you're listening to The Jane Austen Music Compact Disc, you can rustle something up from The Jane Austen Cookbook , and so on.",
+    "This dish is rustled up in a moment, and is really great at the end of a hard day in the kitchen or in a TV studio.",
+    "When I asked if I could have dessert, she said the chef had gone home, but she could rustle something up if we wanted.",
+    "But the match went ahead - until rain stopped play - after substitutes were rustled up."
+  ],
+  "origin": "Late Middle English (as a verb): imitative; compare with Flemish rijsselen and Dutch ritselen. The noun dates from the mid 18th century.",
+  "pronounciation": "/ˈrəsəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rustle_us_1.mp3"
+}

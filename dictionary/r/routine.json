@@ -1,0 +1,52 @@
+{
+  "noun": [
+    {
+      "description": "A sequence of actions regularly followed; a fixed program.",
+      "examples": [
+        "I settled down into a routine of work and sleep",
+        "as a matter of routine a report will be sent to the director"
+      ],
+      "synonyms": [
+        "procedure",
+        "practice",
+        "pattern",
+        "drill",
+        "regime",
+        "regimen",
+        "groove"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Performed as part of a regular procedure rather than for a special reason.",
+      "examples": [
+        "the principal insisted that this was just a routine annual drill"
+      ],
+      "synonyms": [
+        "standard",
+        "regular",
+        "customary",
+        "accustomed",
+        "normal",
+        "usual",
+        "ordinary",
+        "established",
+        "natural",
+        "unexceptional",
+        "typical"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Organize according to a routine.",
+      "examples": [
+        "all had been routined with smoothness"
+      ]
+    }
+  ],
+  "origin": "Late 17th century (denoting a regular course or procedure): from French, from route road (see route).",
+  "pronounciation": "/ro͞oˈtēn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/routine_us_1.mp3"
+}

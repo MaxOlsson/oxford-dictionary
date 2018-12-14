@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Indicate or show that one is not willing to do something.",
+      "examples": [
+        "I refused to answer",
+        "he was severely beaten when he refused"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Matter thrown away or rejected as worthless; trash.",
+      "examples": [
+        "heaps of refuse",
+        "refuse collection"
+      ],
+      "synonyms": [
+        "rubbish",
+        "waste",
+        "debris",
+        "litter",
+        "garbage",
+        "discarded matter",
+        "detritus",
+        "dross",
+        "landfill",
+        "scrap",
+        "rubble",
+        "slag",
+        "spoilage",
+        "sullage",
+        "sewage",
+        "slop"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: perhaps from Old French refusé refused, past participle of refuser (see refuse).",
+  "pronounciation": "/ˈrɛfˌjus/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/refuse_us_2.mp3"
+}

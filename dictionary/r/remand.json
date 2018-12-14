@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Place (a defendant) on bail or in custody, especially when a trial is adjourned.",
+      "examples": [
+        "I had a seventeen-year-old son remanded to a drug-addiction program"
+      ],
+      "synonyms": [
+        "imprison",
+        "jail",
+        "incarcerate",
+        "send to prison",
+        "put behind bars",
+        "put under lock and key",
+        "put in chains",
+        "put into irons",
+        "throw into irons",
+        "clap in irons",
+        "hold captive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A committal to custody.",
+      "synonyms": [
+        "custody",
+        "imprisonment",
+        "confinement",
+        "incarceration",
+        "internment",
+        "captivity",
+        "restraint",
+        "arrest",
+        "house arrest",
+        "committal"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb in the sense send back again): from late Latin remandare, from re- back + mandare commit. The noun dates from the late 18th century.",
+  "pronounciation": "/rəˈmand/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/remand_us_1.mp3"
+}

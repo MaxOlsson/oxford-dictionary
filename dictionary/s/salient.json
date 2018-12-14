@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Most noticeable or important.",
+      "examples": [
+        "it succinctly covered all the salient points of the case"
+      ],
+      "synonyms": [
+        "important",
+        "main",
+        "principal",
+        "major",
+        "chief",
+        "primary",
+        "notable",
+        "noteworthy",
+        "outstanding",
+        "arresting",
+        "conspicuous",
+        "striking",
+        "noticeable",
+        "obvious",
+        "remarkable",
+        "signal",
+        "prominent",
+        "pronounced",
+        "predominant",
+        "dominant",
+        "key",
+        "crucial",
+        "vital",
+        "essential",
+        "basic",
+        "staple",
+        "critical",
+        "pivotal",
+        "prime",
+        "central",
+        "focal",
+        "paramount"
+      ]
+    },
+    {
+      "description": "(of an angle) pointing outward."
+    },
+    {
+      "description": "(of an animal) standing on its hind legs with the forepaws raised, as if leaping."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A piece of land or section of fortification that juts out to form an angle."
+    }
+  ],
+  "origin": "Mid 16th century (as a heraldic term): from Latin salient- leaping, from the verb salire. The noun dates from the early 19th century.",
+  "pronounciation": "/ˈsālyənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/salient_us_2.mp3"
+}

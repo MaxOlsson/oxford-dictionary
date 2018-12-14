@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Sending out light; shining or glowing brightly.",
+      "examples": [
+        "a bird with radiant green and red plumage"
+      ],
+      "synonyms": [
+        "shining",
+        "bright",
+        "illuminated",
+        "lit",
+        "lighted",
+        "brilliant",
+        "gleaming",
+        "glowing",
+        "ablaze",
+        "luminous",
+        "luminescent",
+        "lustrous",
+        "incandescent",
+        "glittering",
+        "sparkling",
+        "coruscating",
+        "dazzling",
+        "flashing",
+        "shimmering"
+      ]
+    },
+    {
+      "description": "(of heat) transmitted by radiation, rather than conduction or convection."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A point or object from which light or heat radiates, especially a heating element in an electric or gas heater."
+    }
+  ],
+  "origin": "Late Middle English: from Latin radiant- emitting rays, from the verb radiare (see radiate).",
+  "pronounciation": "/ˈreɪdiənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/radiant_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Broadcast or relay (a program or signal) again.",
+      "examples": [
+        "the documentary will be rebroadcast on Saturday",
+        "the radio dial is jammed with signals caught and rebroadcast by repeater antennas"
+      ],
+      "synonyms": [
+        "rebroadcast",
+        "rerun",
+        "reshow",
+        "replay"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A repeated or relayed broadcast.",
+      "examples": [
+        "unless it is a rebroadcast, the teacher will only have a very general idea of what the program is about"
+      ],
+      "synonyms": [
+        "rerun",
+        "replay",
+        "rebroadcast",
+        "reshowing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌrēˈbrôdkast/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/rebroadcast_us_1.mp3"
+}

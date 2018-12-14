@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Capture (a person or animal that has escaped)",
+      "examples": [
+        "armed police have recaptured a prisoner who's been on the run for five days"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of recapturing someone or something.",
+      "synonyms": [
+        "retrieval",
+        "regaining",
+        "repossession",
+        "getting back",
+        "reclamation",
+        "recouping",
+        "retaking",
+        "redemption"
+      ]
+    }
+  ],
+  "pronounciation": "/riˈkæptʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/recapture_us_1.mp3"
+}
