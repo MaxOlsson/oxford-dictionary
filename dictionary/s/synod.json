@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "An assembly of the clergy and sometimes also the laity in a diocese or other division of a particular Church.",
+      "examples": [
+        "the deanery synod"
+      ],
+      "synonyms": [
+        "legislative assembly",
+        "legislature",
+        "parliament",
+        "congress",
+        "senate",
+        "council"
+      ]
+    },
+    {
+      "description": "A Presbyterian ecclesiastical court above the presbyteries and subject to the General Assembly."
+    }
+  ],
+  "origin": "Late Middle English: via late Latin from Greek sunodos meeting, from sun- together + hodos way.",
+  "pronounciation": "/ˈsɪnəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/synod_us_1.mp3"
+}

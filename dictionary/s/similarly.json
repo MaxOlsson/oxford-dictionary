@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "In a similar way.",
+      "examples": [
+        "a similarly priced property"
+      ],
+      "synonyms": [
+        "likewise",
+        "in similar fashion",
+        "in like manner",
+        "comparably",
+        "correspondingly",
+        "uniformly",
+        "indistinguishably",
+        "closely",
+        "analogously",
+        "homogeneously",
+        "in parallel",
+        "equivalently",
+        "in the same way",
+        "the same",
+        "identically",
+        "by the same token"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɪm(ə)lərli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/similarly_us_1.mp3"
+}

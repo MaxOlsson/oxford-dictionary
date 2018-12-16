@@ -1,0 +1,111 @@
+{
+  "adjective": [
+    {
+      "description": "Nothing other than; unmitigated (used for emphasis)",
+      "examples": [
+        "she giggled with sheer delight",
+        "marriage is sheer hard work"
+      ],
+      "synonyms": [
+        "utter",
+        "complete",
+        "absolute",
+        "total",
+        "pure",
+        "perfect",
+        "downright",
+        "out-and-out",
+        "thorough",
+        "thoroughgoing",
+        "through and through",
+        "consummate",
+        "patent",
+        "surpassing",
+        "veritable",
+        "unqualified",
+        "unmitigated",
+        "unalloyed",
+        "unadulterated",
+        "unmixed"
+      ]
+    },
+    {
+      "description": "(especially of a cliff or wall) perpendicular or nearly so.",
+      "examples": [
+        "the sheer ice walls"
+      ],
+      "synonyms": [
+        "precipitous",
+        "very steep",
+        "perpendicular",
+        "vertical",
+        "abrupt",
+        "bluff",
+        "sharp",
+        "vertiginous"
+      ]
+    },
+    {
+      "description": "(of a fabric) very thin; diaphanous.",
+      "examples": [
+        "sheer white silk chiffon"
+      ],
+      "synonyms": [
+        "diaphanous",
+        "gauzy",
+        "filmy",
+        "floaty",
+        "very thin",
+        "translucent",
+        "transparent",
+        "see-through",
+        "gossamer",
+        "gossamer-like",
+        "chiffony",
+        "insubstantial",
+        "ultra-fine",
+        "fine"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Perpendicularly.",
+      "examples": [
+        "the ridge fell sheer, in steep crags"
+      ]
+    },
+    {
+      "description": "Completely; right.",
+      "examples": [
+        "she went sheer forward when the door was open"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A very fine or diaphanous fabric or article."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(typically of a boat or ship) swerve or change course quickly.",
+      "examples": [
+        "the boat sheered off to beach further up the coast"
+      ],
+      "synonyms": [
+        "swerve",
+        "swing",
+        "veer",
+        "slew",
+        "skew",
+        "change course",
+        "drift",
+        "yaw"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: probably from the noun shear.",
+  "pronounciation": "/ʃɪr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sheer_us_1.mp3"
+}

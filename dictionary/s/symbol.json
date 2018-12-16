@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "A mark or character used as a conventional representation of an object, function, or process, e.g. the letter or letters standing for a chemical element or a character in musical notation.",
+      "synonyms": [
+        "sign",
+        "character",
+        "mark",
+        "letter",
+        "hieroglyph",
+        "ideogram"
+      ]
+    },
+    {
+      "description": "A thing that represents or stands for something else, especially a material object representing something abstract.",
+      "examples": [
+        "the limousine was another symbol of his wealth and authority"
+      ],
+      "synonyms": [
+        "emblem",
+        "token",
+        "sign",
+        "representation",
+        "figure",
+        "image",
+        "type"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Symbolize.",
+      "synonyms": [
+        "represent",
+        "be a symbol of",
+        "stand for",
+        "be a sign of",
+        "exemplify"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (denoting the Apostles' Creed): from Latin symbolum symbol, Creed (as the mark of a Christian), from Greek sumbolon mark, token, from sun- with + ballein to throw.",
+  "pronounciation": "/ˈsɪmbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/symbol_us_1.mp3"
+}

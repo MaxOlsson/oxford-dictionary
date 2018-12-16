@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Exciting and energetic.",
+      "examples": [
+        "a slam-bang action cartoon"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Suddenly and forcefully or violently.",
+      "examples": [
+        "I walked slam-bang into this character"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslæmˌbæŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slam_bang_1_us_1.mp3"
+}

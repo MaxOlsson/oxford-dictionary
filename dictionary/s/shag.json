@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A carpet or rug with a long, rough pile.",
+      "examples": [
+        "wall-to-wall shag carpet"
+      ],
+      "synonyms": [
+        "pile",
+        "fibres",
+        "threads",
+        "weave",
+        "texture",
+        "feel",
+        "surface",
+        "grain"
+      ]
+    },
+    {
+      "description": "A thick, tangled hairstyle or mass of hair.",
+      "examples": [
+        "her hair was cut short in a boyish shag",
+        "a shag cut"
+      ]
+    },
+    {
+      "description": "A coarse kind of cut tobacco."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Chase or catch (fly balls) for practice.",
+      "examples": [
+        "you run down to the field and hit a few baseballs and shag a few fly balls"
+      ]
+    }
+  ],
+  "origin": "Late 18th century: of unknown origin.",
+  "pronounciation": "/ʃæɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shag_us_1.mp3"
+}

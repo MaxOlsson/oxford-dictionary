@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Burn slowly with smoke but no flame.",
+      "examples": [
+        "the bonfire still smouldered, the smoke drifting over the paddock"
+      ],
+      "synonyms": [
+        "burn slowly",
+        "smoke",
+        "glow"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Smoke coming from a smouldering fire.",
+      "examples": [
+        "the last acrid smoulder of his cigarette"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: related to Dutch smeulen.",
+  "pronounciation": "/ˈsməʊldə/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smoulder_gb_1.mp3"
+}

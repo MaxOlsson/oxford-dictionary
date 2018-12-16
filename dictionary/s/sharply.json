@@ -1,0 +1,42 @@
+{
+  "adverb": [
+    {
+      "description": "With a sharp or steeply tapering edge or point.",
+      "examples": [
+        "a sharply pointed tail",
+        "sharply toothed jaws",
+        "sharply angular buildings"
+      ]
+    },
+    {
+      "description": "With a sudden, piercing physical sensation or effect; intensely.",
+      "examples": [
+        "my mouth stings sharply",
+        "champagne can be sharply acidic"
+      ]
+    },
+    {
+      "description": "In a way that is distinct in outline or detail; clearly.",
+      "examples": [
+        "the waitress had a sharply defined jaw",
+        "sharply delineated images"
+      ]
+    },
+    {
+      "description": "With a sudden and marked change; dramatically.",
+      "examples": [
+        "housing values have risen sharply",
+        "a sharply deteriorating economy"
+      ]
+    },
+    {
+      "description": "With speed of perception, comprehension, or response.",
+      "examples": [
+        "a sharply observed account",
+        "he had to react sharply to repel a shot at his near post"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃɑrpli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sharply_us_1.mp3"
+}

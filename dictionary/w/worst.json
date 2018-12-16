@@ -1,0 +1,60 @@
+{
+  "adverb": [
+    {
+      "description": "Most severely or seriously.",
+      "examples": [
+        "manufacturing and mining are the industries worst affected by falling employment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The most serious or unpleasant thing that could happen.",
+      "examples": [
+        "when I saw the ambulance outside her front door, I began to fear the worst"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Get the better of; defeat.",
+      "examples": [
+        "this was not the time for a deep discussion—she was tired and she would be worsted"
+      ],
+      "synonyms": [
+        "defeat",
+        "beat",
+        "best",
+        "get the better of",
+        "gain the advantage over",
+        "prevail over",
+        "triumph over",
+        "gain a victory over",
+        "trounce",
+        "rout",
+        "thrash",
+        "drub",
+        "vanquish",
+        "conquer",
+        "master",
+        "overcome",
+        "overwhelm",
+        "overpower",
+        "overthrow",
+        "crush",
+        "subdue",
+        "subjugate"
+      ]
+    }
+  ],
+  "phrases": [
+    "nothing's working at the moment, so I suppose you've seen us at our worst",
+    "With temperatures falling below zero in many parts and sleet and rain forecast for the next few days, road conditions were reported to be at their worst in a decade, particularly in parts of the midlands and southeast.",
+    "It's a very weird thing to look into the eyes of the person you know best, when you are at your worst, and discover they are happy to see it.",
+    "I've always been a big believer that if people like me at my worst then I can start to trust them, just a little.",
+    "When conditions were at their worst on Saturday, North Yorkshire Police dealt with 601 emergency calls, more than twice their average number."
+  ],
+  "origin": "Old English wierresta, wyrresta (adjective), wierst, wyrst (adverb), of Germanic origin; related to worse.",
+  "pronounciation": "/wərst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/worst_us_1.mp3"
+}

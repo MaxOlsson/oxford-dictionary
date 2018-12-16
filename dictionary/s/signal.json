@@ -1,0 +1,66 @@
+{
+  "noun": [
+    {
+      "description": "A gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned.",
+      "examples": [
+        "the firing of the gun was the signal for a chain of beacons to be lit",
+        "the policeman raised his hand as a signal to stop"
+      ],
+      "synonyms": [
+        "gesture",
+        "sign",
+        "wave",
+        "gesticulation",
+        "cue",
+        "prompt",
+        "indicator",
+        "indication",
+        "communication",
+        "message"
+      ]
+    },
+    {
+      "description": "An electrical impulse or radio wave transmitted or received.",
+      "examples": [
+        "equipment for receiving TV signals"
+      ]
+    },
+    {
+      "description": "An apparatus on a railroad, typically a colored light or a semaphore, giving indications to train engineers of whether or not the line is clear."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Transmit information or instructions by means of a gesture, action, or sound.",
+      "examples": [
+        "hold your fire until I signal"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Striking in extent, seriousness, or importance; outstanding.",
+      "examples": [
+        "he attacked the administration for its signal failure of leadership"
+      ],
+      "synonyms": [
+        "notable",
+        "noteworthy",
+        "remarkable",
+        "striking",
+        "glaring",
+        "outstanding",
+        "significant",
+        "momentous",
+        "memorable",
+        "unforgettable",
+        "pronounced",
+        "marked",
+        "obvious"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: from French signalé, from the Italian past participle segnalato distinguished, made illustrious, from segnale a signal.",
+  "pronounciation": "/ˈsiɡnəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/signal_us_1.mp3"
+}

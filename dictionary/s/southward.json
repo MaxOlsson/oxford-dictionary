@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "In a southerly direction.",
+      "examples": [
+        "employment and people began a southward drift"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the south.",
+      "examples": [
+        "he took a train that carried him southward"
+      ],
+      "synonyms": [
+        "to the south",
+        "southward",
+        "southwards",
+        "southwardly"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The direction or region to the south.",
+      "examples": [
+        "cool air from the ocean to the southward"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsouTHwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/southward_us_1.mp3"
+}

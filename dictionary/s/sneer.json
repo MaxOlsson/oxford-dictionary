@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "A contemptuous or mocking smile, remark, or tone.",
+      "examples": [
+        "he acknowledged their presence with a condescending sneer"
+      ],
+      "synonyms": [
+        "curl of one's lip",
+        "curl of the lip",
+        "disparaging smile",
+        "contemptuous smile",
+        "smug smile",
+        "conceited smile",
+        "cruel smile",
+        "mirthless smile",
+        "smirk",
+        "snicker",
+        "snigger"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Smile or speak in a contemptuous or mocking manner.",
+      "examples": [
+        "she had sneered at their bad taste",
+        "“I see you're conservative in your ways,” David sneered"
+      ],
+      "synonyms": [
+        "curl one's lip",
+        "smile disparagingly",
+        "smile contemptuously",
+        "smile smugly",
+        "smile conceitedly",
+        "smile cruelly",
+        "smile mirthlessly",
+        "smirk",
+        "snicker",
+        "snigger"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably of imitative origin.",
+  "pronounciation": "/snir/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sneer_us_1.mp3"
+}

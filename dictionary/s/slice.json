@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A thin, broad piece of food, such as bread, meat, or cake, cut from a larger portion.",
+      "examples": [
+        "four slices of bread",
+        "potato slices"
+      ],
+      "synonyms": [
+        "piece",
+        "portion",
+        "wedge",
+        "chunk",
+        "hunk",
+        "lump",
+        "slab",
+        "segment"
+      ]
+    },
+    {
+      "description": "A utensil with a broad, flat blade for lifting foods such as cake and fish."
+    },
+    {
+      "description": "A stroke that makes the ball curve away to the right (for a left-handed player, the left), typically inadvertently."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut (something, especially food) into slices.",
+      "examples": [
+        "slice the onion into rings"
+      ],
+      "synonyms": [
+        "cut",
+        "cut up",
+        "carve",
+        "divide",
+        "segment",
+        "section"
+      ]
+    },
+    {
+      "description": "Strike (the ball) or play (a stroke) so that the ball curves away to the right (for a left-handed player, the left), typically inadvertently."
+    }
+  ],
+  "phrases": [
+    "each network has analysis teams that slice and dice the exit poll information to find a conclusion",
+    "But this way of slicing and dicing the numbers seems inherently misleading.",
+    "Late today, Senate Democrats announced plans to slice and dice the president's budget, which is his top priority.",
+    "It should also be able to generate serial numbers, perform revision control, and slice and dice the captured data every which way you chose - on demand.",
+    "Once the assembled reporters and pundits had finished slicing and dicing the speech, I thought, I would have my cartoon for the night."
+  ],
+  "origin": "Middle English (in the sense fragment, splinter): shortening of Old French esclice splinter, from the verb esclicier, of Germanic origin; related to German schleissen to slice, also to slit.",
+  "pronounciation": "/slaɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slice_us_1.mp3"
+}

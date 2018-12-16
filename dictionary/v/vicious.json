@@ -1,0 +1,85 @@
+{
+  "adjective": [
+    {
+      "description": "Deliberately cruel or violent.",
+      "examples": [
+        "a vicious assault"
+      ],
+      "synonyms": [
+        "brutal",
+        "ferocious",
+        "savage",
+        "violent",
+        "dangerous",
+        "ruthless",
+        "remorseless",
+        "merciless",
+        "heartless",
+        "callous",
+        "cruel",
+        "harsh",
+        "cold-blooded",
+        "inhuman",
+        "fierce",
+        "barbarous",
+        "barbaric",
+        "brutish",
+        "bestial",
+        "bloodthirsty",
+        "bloody",
+        "fiendish",
+        "sadistic",
+        "monstrous",
+        "villainous",
+        "murderous",
+        "homicidal",
+        "heinous",
+        "atrocious",
+        "diabolical",
+        "terrible",
+        "dreadful",
+        "awful",
+        "grim"
+      ]
+    },
+    {
+      "description": "Immoral.",
+      "examples": [
+        "every soul on earth, virtuous or vicious, shall perish"
+      ],
+      "synonyms": [
+        "immoral",
+        "debauched",
+        "dissolute",
+        "abandoned",
+        "perverted",
+        "degenerate",
+        "profligate",
+        "degraded",
+        "wicked",
+        "sinful",
+        "vile",
+        "base",
+        "iniquitous",
+        "corrupt",
+        "corrupted",
+        "criminal",
+        "brutal",
+        "lewd",
+        "licentious",
+        "lascivious",
+        "lecherous",
+        "prurient",
+        "obscene",
+        "indecent",
+        "libertine"
+      ]
+    },
+    {
+      "description": "(of language or a line of reasoning) imperfect; defective."
+    }
+  ],
+  "origin": "Middle English (in the sense characterized by immorality): from Old French vicious or Latin vitiosus, from vitium vise.",
+  "pronounciation": "/ˈviSHəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vicious_us_1.mp3"
+}

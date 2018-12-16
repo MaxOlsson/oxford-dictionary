@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a spoken statement) false and malicious.",
+      "examples": [
+        "slanderous allegations"
+      ],
+      "synonyms": [
+        "defamatory",
+        "denigratory",
+        "disparaging",
+        "derogatory",
+        "libellous",
+        "pejorative",
+        "false",
+        "untrue",
+        "lying",
+        "misrepresentative",
+        "damaging",
+        "injurious",
+        "scurrilous",
+        "scandalous",
+        "poisonous",
+        "vicious",
+        "opprobrious",
+        "malicious",
+        "abusive",
+        "insulting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslændərəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slanderous_us_1.mp3"
+}

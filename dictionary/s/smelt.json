@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Extract (metal) from its ore by a process involving heating and melting.",
+      "examples": [
+        "tin smelting"
+      ],
+      "synonyms": [
+        "melting",
+        "smelting",
+        "dissolving",
+        "dissolution",
+        "liquefaction"
+      ]
+    }
+  ],
+  "": [],
+  "noun": [
+    {
+      "description": "A small silvery fish which lives in both marine and fresh water and is sometimes fished commercially."
+    }
+  ],
+  "origin": "Old English; obscurely related to various European names of fish; compare with smolt.",
+  "pronounciation": "/smɛlt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smelt_us_1.mp3"
+}

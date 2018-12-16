@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Intended to make someone feel mortified or humiliated.",
+      "examples": [
+        "a withering look"
+      ],
+      "synonyms": [
+        "scornful",
+        "contemptuous",
+        "full of contempt",
+        "mocking",
+        "sneering"
+      ]
+    },
+    {
+      "description": "(of heat) intense; scorching.",
+      "synonyms": [
+        "intense",
+        "extreme",
+        "ferocious",
+        "fierce",
+        "acute",
+        "strong",
+        "very great"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The action of becoming dry and shriveled."
+    }
+  ],
+  "pronounciation": "/ˈwiT͟HəriNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/withering_us_1.mp3"
+}

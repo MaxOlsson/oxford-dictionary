@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "In a sufficiently great or important way as to be worthy of attention.",
+      "examples": [
+        "energy bills have increased significantly this year",
+        "their situation is significantly different from ours"
+      ],
+      "synonyms": [
+        "notably",
+        "remarkably",
+        "outstandingly",
+        "importantly",
+        "seriously",
+        "crucially",
+        "materially",
+        "appreciably"
+      ]
+    },
+    {
+      "description": "In a way that has a particular meaning.",
+      "examples": [
+        "significantly, he has refused to give a straight answer to this question"
+      ]
+    }
+  ],
+  "pronounciation": "/səɡˈnifəkəntlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/significantly_us_1.mp3"
+}

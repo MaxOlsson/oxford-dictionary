@@ -1,0 +1,76 @@
+{
+  "noun": [
+    {
+      "description": "A tough-skinned terrestrial mollusk which typically lacks a shell and secretes a film of mucus for protection. It can be a serious plant pest."
+    },
+    {
+      "description": "A slow, lazy person; a sluggard."
+    },
+    {
+      "description": "An amount of an alcoholic drink, typically liquor, that is gulped or poured.",
+      "examples": [
+        "he took a slug of whiskey"
+      ],
+      "synonyms": [
+        "alcoholic drink",
+        "strong drink",
+        "drink",
+        "liquor",
+        "intoxicant"
+      ]
+    },
+    {
+      "description": "An elongated, typically rounded piece of metal.",
+      "examples": [
+        "the reactor uses embedded slugs of uranium"
+      ]
+    },
+    {
+      "description": "A line of type in Linotype printing."
+    },
+    {
+      "description": "A part of a URL which identifies a particular page on a website in a form readable by users.",
+      "examples": [
+        "writers can edit the slug that will become an article or page URL"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Drink (something, typically alcohol) in a large draft; swig.",
+      "examples": [
+        "she picked up her drink and slugged it straight back"
+      ],
+      "synonyms": [
+        "drink",
+        "swallow",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "slurp",
+        "attack",
+        "down",
+        "drink down",
+        "drink up",
+        "force down",
+        "get down",
+        "finish off",
+        "polish off",
+        "drain",
+        "empty",
+        "imbibe",
+        "have",
+        "take",
+        "partake of",
+        "ingest",
+        "consume",
+        "sup",
+        "sip",
+        "lap"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: of unknown origin; compare with the verb slog.",
+  "pronounciation": "/sləɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slug_us_1.mp3"
+}

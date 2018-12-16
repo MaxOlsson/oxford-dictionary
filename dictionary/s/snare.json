@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A trap for catching birds or animals, typically one having a noose of wire or cord.",
+      "synonyms": [
+        "trap",
+        "gin",
+        "net",
+        "noose"
+      ]
+    },
+    {
+      "description": "A length of wire, gut, or hide stretched across a drumhead to produce a rattling sound."
+    },
+    {
+      "description": "A wire loop for severing polyps or other growths."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Catch (a bird or mammal) in a snare.",
+      "synonyms": [
+        "trap",
+        "catch",
+        "net",
+        "bag",
+        "ensnare",
+        "entrap"
+      ]
+    }
+  ],
+  "origin": "Late Old English sneare, from Old Norse snara. snare (sense 2 of the noun) is probably from Middle Low German, Middle Dutch snare harp string.",
+  "pronounciation": "/snɛr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snare_us_1.mp3"
+}

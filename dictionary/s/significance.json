@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "The quality of being worthy of attention; importance.",
+      "examples": [
+        "adolescent education was felt to be a social issue of some significance"
+      ],
+      "synonyms": [
+        "importance",
+        "import",
+        "noteworthiness",
+        "consequence",
+        "substance",
+        "seriousness",
+        "gravity",
+        "weight",
+        "weightiness",
+        "magnitude",
+        "moment",
+        "momentousness"
+      ]
+    },
+    {
+      "description": "The meaning to be found in words or events.",
+      "examples": [
+        "the significance of what was happening was clearer to me than to her"
+      ],
+      "synonyms": [
+        "meaning",
+        "sense",
+        "signification",
+        "import",
+        "thrust",
+        "drift",
+        "gist",
+        "burden",
+        "theme",
+        "implication",
+        "tenor",
+        "message",
+        "essence",
+        "substance",
+        "relevance",
+        "purport",
+        "intention",
+        "spirit",
+        "point"
+      ]
+    },
+    {
+      "description": "The extent to which a result deviates from that expected to arise simply from random variation or errors in sampling."
+    }
+  ],
+  "origin": "Late Middle English (denoting unstated meaning): from Old French, or from Latin significantia, from significare indicate, portend.",
+  "pronounciation": "/siɡˈnifikəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/significance_us_1.mp3"
+}

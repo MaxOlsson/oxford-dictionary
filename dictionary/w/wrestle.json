@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Take part in a fight, either as sport or in earnest, that involves grappling with one's opponent and trying to throw or force them to the ground.",
+      "examples": [
+        "as the policeman wrestled with the gunman a shot rang out"
+      ]
+    },
+    {
+      "description": "Struggle with a difficulty or problem.",
+      "examples": [
+        "for over a year David wrestled with a guilty conscience"
+      ],
+      "synonyms": [
+        "grapple",
+        "fight",
+        "struggle",
+        "wrangle",
+        "contend",
+        "vie",
+        "battle",
+        "combat"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A wrestling bout or contest.",
+      "examples": [
+        "a wrestle to the death"
+      ]
+    },
+    {
+      "description": "A hard struggle.",
+      "examples": [
+        "a lifelong wrestle with depression"
+      ]
+    }
+  ],
+  "origin": "Old English, frequentative of wrǣstan wrest.",
+  "pronounciation": "/ˈresəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wrestle_us_1.mp3"
+}

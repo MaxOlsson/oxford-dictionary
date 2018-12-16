@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Having, revealing, or proceeding from a great deal of worldly experience and knowledge of fashion and culture.",
+      "examples": [
+        "a chic, sophisticated woman",
+        "a young man with sophisticated tastes"
+      ],
+      "synonyms": [
+        "worldly",
+        "worldly-wise",
+        "experienced",
+        "enlightened",
+        "cosmopolitan",
+        "knowledgeable"
+      ]
+    },
+    {
+      "description": "(of a machine, system, or technique) developed to a high degree of complexity.",
+      "examples": [
+        "highly sophisticated computer systems"
+      ],
+      "synonyms": [
+        "advanced",
+        "highly developed",
+        "innovatory",
+        "trailblazing",
+        "revolutionary"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈfistəˌkādəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sophisticated_us_1.mp3"
+}

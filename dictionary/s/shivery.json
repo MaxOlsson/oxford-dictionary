@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Shaking or trembling as a result of cold, illness, fear, or excitement.",
+      "examples": [
+        "he felt cold and shivery"
+      ],
+      "synonyms": [
+        "trembling",
+        "trembly",
+        "quivering",
+        "quivery",
+        "shaking",
+        "shaky",
+        "shuddering",
+        "shuddery",
+        "quavering",
+        "quavery",
+        "quaking"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHiv(ə)rē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shivery_us_1.mp3"
+}

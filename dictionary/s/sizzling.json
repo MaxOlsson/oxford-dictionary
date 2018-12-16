@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Very hot.",
+      "examples": [
+        "the sizzling summer temperatures"
+      ],
+      "synonyms": [
+        "extremely hot",
+        "red-hot",
+        "unbearably hot",
+        "baking",
+        "baking hot",
+        "blazing",
+        "flaming",
+        "fiery",
+        "burning",
+        "scorching",
+        "blistering",
+        "searing",
+        "sweltering",
+        "torrid",
+        "tropical",
+        "like an oven",
+        "like a furnace",
+        "like a blowtorch"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsiz(ə)liNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sizzling_us_3.mp3"
+}

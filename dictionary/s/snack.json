@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A small amount of food eaten between meals."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Eat a snack.",
+      "examples": [
+        "she likes to snack on yogurt"
+      ],
+      "synonyms": [
+        "eat between meals",
+        "nibble",
+        "munch"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense snap, bite): from Middle Dutch snac(k), from snacken to bite, variant of snappen. Senses relating to food date from the late 17th century.",
+  "pronounciation": "/snæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snack_us_1.mp3"
+}

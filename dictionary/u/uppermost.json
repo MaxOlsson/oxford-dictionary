@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Highest in place, rank, or importance.",
+      "examples": [
+        "the uppermost windows",
+        "her father was uppermost in her mind"
+      ],
+      "synonyms": [
+        "highest",
+        "furthest up",
+        "loftiest",
+        "top",
+        "topmost",
+        "most elevated"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At or to the highest or most important position.",
+      "examples": [
+        "investors put environmental concerns uppermost on their list"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəpərˌmōst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uppermost_us_1.mp3"
+}

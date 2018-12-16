@@ -1,0 +1,40 @@
+{
+  "prefix": [
+    {
+      "description": "At, to, or from a lower level or position.",
+      "examples": [
+        "subalpine",
+        "sub-basement"
+      ]
+    },
+    {
+      "description": "Somewhat; nearly; more or less.",
+      "examples": [
+        "subantarctic"
+      ]
+    },
+    {
+      "description": "Denoting a later or secondary action of the same kind.",
+      "examples": [
+        "sublet",
+        "subdivision",
+        "subsequent"
+      ]
+    },
+    {
+      "description": "Denoting support.",
+      "examples": [
+        "subvention"
+      ]
+    },
+    {
+      "description": "In names of compounds containing a relatively small proportion of a component.",
+      "examples": [
+        "suboxide"
+      ]
+    }
+  ],
+  "origin": "From Latin sub under, close to.",
+  "pronounciation": "/səb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sub_1_us_1.mp3"
+}

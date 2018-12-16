@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Speak (words or speech) indistinctly so that the sounds run into one another.",
+      "examples": [
+        "he was slurring his words like a drunk"
+      ],
+      "synonyms": [
+        "mumble",
+        "speak unclearly",
+        "garble",
+        "stumble over",
+        "stammer"
+      ]
+    },
+    {
+      "description": "Perform (a group of two or more notes) legato.",
+      "examples": [
+        "I can play it if I don't slur the notes"
+      ]
+    },
+    {
+      "description": "Make damaging or insulting insinuations or allegations about.",
+      "examples": [
+        "I was not trying to slur the integrity of the committee"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An insinuation or allegation about someone that is likely to insult them or damage their reputation.",
+      "examples": [
+        "the comments were a slur on the staff"
+      ],
+      "synonyms": [
+        "insult",
+        "slight",
+        "slander",
+        "slanderous statement",
+        "libel",
+        "libellous statement",
+        "misrepresentation",
+        "defamation",
+        "aspersion",
+        "calumny",
+        "smear"
+      ]
+    },
+    {
+      "description": "An act of speaking indistinctly so that sounds or words run into one another or a tendency to speak in such a way.",
+      "examples": [
+        "there was a mean slur in his voice"
+      ]
+    },
+    {
+      "description": "A curved line used to show that a group of two or more notes is to be sung to one syllable or played or sung legato."
+    }
+  ],
+  "origin": "Middle English: originally as noun in sense thin, fluid mud, later as verb meaning smear, smirch, disparage (a person), gloss over (a fault).",
+  "pronounciation": "/slər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slur_us_1.mp3"
+}

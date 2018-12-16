@@ -1,0 +1,47 @@
+{
+  "verb": [
+    {
+      "description": "Kill (a person or animal) in a violent way.",
+      "examples": [
+        "St. George slew the dragon"
+      ],
+      "synonyms": [
+        "murder",
+        "killing",
+        "homicide",
+        "putting to death",
+        "execution",
+        "butchery",
+        "slaughter",
+        "massacre",
+        "assassination",
+        "dispatch",
+        "destruction",
+        "extermination"
+      ]
+    },
+    {
+      "description": "Greatly impress or amuse (someone)",
+      "examples": [
+        "you slay me, you really do"
+      ],
+      "synonyms": [
+        "make an impression on",
+        "have an impact on",
+        "influence",
+        "affect",
+        "leave a mark on",
+        "move",
+        "stir",
+        "rouse",
+        "excite",
+        "inspire",
+        "galvanize"
+      ]
+    }
+  ],
+  "noun": [],
+  "origin": "Old English slēan strike, kill, of Germanic origin; related to Dutch slaan and German schlagen.",
+  "pronounciation": "/sleɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slay_us_1.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Not having recently shaved or been shaved.",
+      "examples": [
+        "Mark was unshaven and looked exhausted",
+        "his pale, unshaven face"
+      ],
+      "synonyms": [
+        "hairy",
+        "shaggy",
+        "bushy",
+        "hair-covered",
+        "long-haired",
+        "woolly",
+        "furry",
+        "fleecy",
+        "fuzzy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈSHāvən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unshaven_us_1.mp3"
+}

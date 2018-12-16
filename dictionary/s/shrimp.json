@@ -1,0 +1,19 @@
+{
+  "noun": [
+    {
+      "description": "A small free-swimming crustacean with an elongated body, typically marine and frequently harvested for food."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fish for shrimp.",
+      "examples": [
+        "some families still go shrimping off the coast at Lytham",
+        "at Trebetherick you paddle on Daymer Bay or shrimp off Gully"
+      ]
+    }
+  ],
+  "origin": "Middle English: probably related to Middle Low German schrempen to wrinkle, Middle High German schrimpfen to contract, also to scrimp.",
+  "pronounciation": "/ʃrɪmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shrimp_us_1.mp3"
+}

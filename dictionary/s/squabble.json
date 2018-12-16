@@ -1,0 +1,65 @@
+{
+  "noun": [
+    {
+      "description": "A noisy quarrel about something petty or trivial.",
+      "examples": [
+        "family squabbles"
+      ],
+      "synonyms": [
+        "quarrel",
+        "row",
+        "argument",
+        "fight",
+        "contretemps",
+        "disagreement",
+        "difference of opinion",
+        "dissension",
+        "falling-out",
+        "dispute",
+        "disputation",
+        "contention",
+        "clash",
+        "altercation",
+        "shouting match",
+        "exchange",
+        "war of words"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Quarrel noisily over a trivial matter.",
+      "examples": [
+        "the boys were squabbling over a ball"
+      ],
+      "synonyms": [
+        "quarrel",
+        "row",
+        "argue",
+        "bicker",
+        "have a fight",
+        "have a row",
+        "fight",
+        "fall out",
+        "disagree",
+        "fail to agree",
+        "differ",
+        "be at odds",
+        "have a misunderstanding",
+        "be at variance",
+        "have words",
+        "dispute",
+        "spar",
+        "wrangle",
+        "bandy words",
+        "cross swords",
+        "lock horns",
+        "be at each other's throats",
+        "be at loggerheads"
+      ]
+    }
+  ],
+  "origin": "Early 17th century: probably imitative; compare with Swedish dialect skvabbel a dispute.",
+  "pronounciation": "/ˈskwɑbəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squabble_us_1.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling without being identical.",
+      "examples": [
+        "a soft cheese similar to Brie",
+        "northern India and similar areas"
+      ],
+      "synonyms": [
+        "alike",
+        "the same",
+        "much the same",
+        "indistinguishable",
+        "close",
+        "near",
+        "almost identical",
+        "homogeneous",
+        "interchangeable"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person or thing similar to another."
+    },
+    {
+      "description": "A substance that produces effects resembling the symptoms of particular diseases (the basis of homeopathic treatment)",
+      "examples": [
+        "the principle of treatment by similars"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (also as a term in anatomy meaning homogeneous): from French similaire or medieval Latin similaris, from Latin similis like.",
+  "pronounciation": "/ˈsɪm(ə)lər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/similar_us_1.mp3"
+}

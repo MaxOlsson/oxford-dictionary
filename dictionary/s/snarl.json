@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "(of an animal such as a dog) make an aggressive growl with bared teeth.",
+      "examples": [
+        "the dog snarled at the boy"
+      ],
+      "synonyms": [
+        "growl",
+        "show its teeth"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of snarling.",
+      "examples": [
+        "the cat drew its mouth back in a snarl"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the senses snare, noose and catch in a snare): from snare.",
+  "pronounciation": "/snɑrl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snarl_us_1.mp3"
+}

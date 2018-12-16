@@ -1,0 +1,28 @@
+{
+  "verb": [
+    {
+      "description": "Cover with drops or spots of something.",
+      "examples": [
+        "passing vehicles spattered his shoes and pants with mud"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A spray or splash of something.",
+      "synonyms": [
+        "mark",
+        "spot",
+        "spatter",
+        "splatter",
+        "blotch",
+        "blemish",
+        "smudge",
+        "smear"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense splutter while speaking): frequentative, from a base shared by Dutch, Low German spatten burst, spout.",
+  "pronounciation": "/ˈspædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spatter_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Utter with a hissing sound.",
+      "examples": [
+        "two gentlemen turned round to me and sibilated the word “Poet”",
+        "“Do you think it's worthwhile,” sibilated Miss Miranda"
+      ],
+      "synonyms": [
+        "hum",
+        "drone",
+        "bumble",
+        "whir",
+        "fizz",
+        "fuzz",
+        "hiss",
+        "sing",
+        "murmur",
+        "whisper"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Latin sibilat- hissed, whistled, from the verb sibilare.",
+  "pronounciation": "/ˈsibəˌlāt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sibilate_us_1.mp3"
+}

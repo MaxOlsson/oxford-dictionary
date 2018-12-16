@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A glass case used for displaying articles in a store or museum.",
+      "synonyms": [
+        "display",
+        "public display",
+        "show",
+        "showing",
+        "presentation",
+        "demonstration",
+        "mounting",
+        "spectacle"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Exhibit; display.",
+      "examples": [
+        "the albums showcase his production skills"
+      ],
+      "synonyms": [
+        "put on display",
+        "put on show",
+        "display",
+        "show",
+        "show to the public",
+        "put on public view",
+        "present",
+        "unveil",
+        "model",
+        "parade",
+        "showcase"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃoʊˌkeɪs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/showcase_us_3.mp3"
+}

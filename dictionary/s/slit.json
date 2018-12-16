@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A long, narrow cut or opening.",
+      "examples": [
+        "make a slit in the stem under a bud",
+        "arrow slits"
+      ],
+      "synonyms": [
+        "cut",
+        "incision",
+        "split",
+        "slash",
+        "gash",
+        "laceration"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a long, narrow cut in (something)",
+      "examples": [
+        "give me the truth or I will slit your throat",
+        "he slit open the envelope"
+      ],
+      "synonyms": [
+        "cut",
+        "slash",
+        "split open",
+        "slice open",
+        "gash",
+        "lacerate",
+        "make an incision in"
+      ]
+    }
+  ],
+  "origin": "Late Old English slite (noun); related to Old English slītan split, rend (of Germanic origin).",
+  "pronounciation": "/slit/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slit_us_1.mp3"
+}

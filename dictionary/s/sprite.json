@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "An elf or fairy.",
+      "synonyms": [
+        "fairy",
+        "elf",
+        "pixie",
+        "imp",
+        "brownie",
+        "puck",
+        "peri",
+        "goblin",
+        "hobgoblin",
+        "kelpie",
+        "leprechaun"
+      ]
+    },
+    {
+      "description": "A computer graphic which may be moved on-screen and otherwise manipulated as a single entity."
+    },
+    {
+      "description": "A faint flash, typically red, sometimes emitted in the upper atmosphere over a thunderstorm owing to the collision of high-energy electrons with air molecules."
+    }
+  ],
+  "origin": "Middle English: alteration of sprit, a contraction of spirit.",
+  "pronounciation": "/spraɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sprite_us_1.mp3"
+}

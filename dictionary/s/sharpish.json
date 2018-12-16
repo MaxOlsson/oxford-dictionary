@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "Fairly sharp.",
+      "examples": [
+        "the sauce has a processed flavour with a sharpish finish"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Quickly; soon.",
+      "examples": [
+        "I'd slip away sharpish if I were you"
+      ],
+      "synonyms": [
+        "soon",
+        "very soon",
+        "in a second",
+        "in a minute",
+        "in a moment",
+        "in a trice",
+        "in a flash",
+        "in an instant",
+        "in the twinkling of an eye",
+        "in no time",
+        "in less than no time",
+        "in no time at all",
+        "before you know it",
+        "before long",
+        "shortly",
+        "in a very short time",
+        "any second",
+        "any second now",
+        "any minute",
+        "any minute now"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃɑːpɪʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sharpish_gb_1.mp3"
+}

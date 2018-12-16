@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Below the usual or required standard.",
+      "examples": [
+        "substandard housing"
+      ],
+      "synonyms": [
+        "inferior",
+        "second-rate",
+        "low-quality",
+        "low-grade",
+        "poor",
+        "poor-quality",
+        "inadequate",
+        "imperfect",
+        "faulty",
+        "defective",
+        "jerry-built",
+        "shoddy",
+        "shabby",
+        "crude",
+        "unsound",
+        "unacceptable",
+        "unsatisfactory",
+        "unworthy",
+        "disappointing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsəbˈstandərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/substandard_us_1.mp3"
+}

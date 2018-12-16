@@ -1,0 +1,57 @@
+{
+  "noun": [
+    {
+      "description": "A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.",
+      "examples": [
+        "she was hot with shame",
+        "he felt a pang of shame at telling Alice a lie"
+      ],
+      "synonyms": [
+        "humiliation",
+        "mortification",
+        "chagrin",
+        "ignominy",
+        "loss of face",
+        "shamefacedness",
+        "embarrassment",
+        "indignity",
+        "abashment",
+        "discomfort",
+        "discomfiture",
+        "discomposure"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person, action, or situation) make (someone) feel ashamed.",
+      "examples": [
+        "I tried to shame him into giving some away"
+      ],
+      "synonyms": [
+        "humiliate",
+        "mortify",
+        "make someone feel ashamed",
+        "chagrin",
+        "embarrass",
+        "abash",
+        "chasten",
+        "humble",
+        "put someone in their place",
+        "take down a peg or two",
+        "cut down to size",
+        "show up"
+      ]
+    }
+  ],
+  "phrases": [
+    "she puts me to shame, she's so capable",
+    "Prague has a public transport system that puts London to shame.",
+    "I tend to think of myself as a fairly well-read and knowledgeable fellow, but Lex puts me to shame, with his vast library and conversational skills.",
+    "He is putting Hitler to shame by his cold-blooded savagery.",
+    "But she certainly puts us to shame at dinner times."
+  ],
+  "origin": "Old English sc(e)amu (noun), sc(e)amian feel shame, of Germanic origin; related to Dutch schamen (verb) and German Scham (noun), schämen (verb).",
+  "pronounciation": "/SHām/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shame_us_1.mp3"
+}

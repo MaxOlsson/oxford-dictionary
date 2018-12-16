@@ -1,0 +1,18 @@
+{
+  "noun": [
+    {
+      "description": "A closure of a factory or system, typically a temporary closure due to a malfunction or for maintenance.",
+      "examples": [
+        "engines should be allowed to cool down between a shutdown and the next start",
+        "the build-up was pushing the reactor towards shutdown"
+      ],
+      "synonyms": [
+        "closing down",
+        "shutting down",
+        "winding up"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃətˌdaʊn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shutdown_us_1.mp3"
+}

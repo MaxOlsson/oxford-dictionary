@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Resembling, consisting of, or covered with slush.",
+      "examples": [
+        "slushy snow"
+      ],
+      "synonyms": [
+        "muddy",
+        "oozy",
+        "slimy",
+        "swampy",
+        "marshy",
+        "boggy",
+        "fenny",
+        "watery",
+        "sodden",
+        "sopping",
+        "saturated",
+        "squelchy",
+        "waterlogged",
+        "soggy",
+        "soft",
+        "heavy"
+      ]
+    },
+    {
+      "description": "Excessively sentimental.",
+      "examples": [
+        "slushy novels"
+      ],
+      "synonyms": [
+        "mawkish",
+        "over-sentimental",
+        "overemotional",
+        "cloying",
+        "sickly",
+        "saccharine",
+        "sugary",
+        "sugar-coated",
+        "syrupy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsləʃi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slushy_us_2.mp3"
+}

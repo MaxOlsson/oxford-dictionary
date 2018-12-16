@@ -1,0 +1,42 @@
+{
+  "noun": [
+    {
+      "description": "An area of ground on which a town, building, or monument is constructed.",
+      "examples": [
+        "the proposed site of a hydroelectric dam"
+      ],
+      "synonyms": [
+        "plot",
+        "lot",
+        "area"
+      ]
+    },
+    {
+      "description": "A website.",
+      "examples": [
+        "the site has no ads and is not being promoted with banners",
+        "some servers use cookies to track users from site to site"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fix or build (something) in a particular place.",
+      "examples": [
+        "the rectory is sited behind the church"
+      ],
+      "synonyms": [
+        "place",
+        "put",
+        "position",
+        "situate",
+        "locate",
+        "set",
+        "install"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun): from Anglo-Norman French, or from Latin situs local position. The verb dates from the late 16th century.",
+  "pronounciation": "/sīt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/site_us_1.mp3"
+}

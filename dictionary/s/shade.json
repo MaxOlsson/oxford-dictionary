@@ -1,0 +1,86 @@
+{
+  "noun": [
+    {
+      "description": "Comparative darkness and coolness caused by shelter from direct sunlight.",
+      "examples": [
+        "sitting in the shade",
+        "this area will be in shade for much of the day"
+      ],
+      "synonyms": [
+        "shadow",
+        "shadiness",
+        "shadows"
+      ]
+    },
+    {
+      "description": "A color, especially with regard to how light or dark it is or as distinguished from one nearly like it.",
+      "examples": [
+        "various shades of blue",
+        "Maria's eyes darkened in shade"
+      ],
+      "synonyms": [
+        "colour",
+        "hue"
+      ]
+    },
+    {
+      "description": "A lampshade."
+    },
+    {
+      "description": "A ghost.",
+      "synonyms": [
+        "ghost",
+        "spectre",
+        "phantom",
+        "apparition",
+        "spirit",
+        "wraith",
+        "phantasm",
+        "shadow"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Screen from direct light.",
+      "examples": [
+        "she shaded her eyes against the sun"
+      ],
+      "synonyms": [
+        "cast a shadow over",
+        "shadow",
+        "shut out the light from",
+        "block off the light to"
+      ]
+    },
+    {
+      "description": "Darken or color (an illustration or diagram) with parallel pencil lines or a block of color.",
+      "examples": [
+        "she shaded in the outline of a chimney"
+      ],
+      "synonyms": [
+        "darken",
+        "colour in",
+        "pencil in",
+        "block in",
+        "fill in"
+      ]
+    },
+    {
+      "description": "Make a slight reduction in the amount, rate, or price of.",
+      "examples": [
+        "banks may shade the margin over base rate they charge customers"
+      ]
+    }
+  ],
+  "phrases": [
+    "he was a shade hung over",
+    "My only big complaint was that something must have gone wrong with the timing, as while my friends' dishes were piping hot, mine was a shade lukewarm.",
+    "With the game getting a shade tetchy in spots, it was perhaps no great surprise that referee Monaghan decided to impose the ultimate sanction on the unfortunate Ryan with all of 19 minutes left on the clock.",
+    "In that regard, the visitors were clearly superior and were a shade unlucky not to have hauled themselves back into contention after falling in arrears.",
+    "The Holland group's taut interlocks and quick, nervous counterpoint become a shade tiresome."
+  ],
+  "origin": "Old English sc(e)adu, of Germanic origin. Compare with shadow.",
+  "pronounciation": "/ʃeɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shade_us_1.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "noun": [
+    {
+      "description": "An agile tree-dwelling rodent with a bushy tail, typically feeding on nuts and seeds."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Hide money or something of value in a safe place.",
+      "examples": [
+        "the money was squirreled away in foreign bank accounts"
+      ],
+      "synonyms": [
+        "save",
+        "put aside",
+        "put by",
+        "lay by",
+        "set aside",
+        "lay aside",
+        "put to one side",
+        "reserve",
+        "keep in reserve",
+        "preserve",
+        "deposit",
+        "keep",
+        "store",
+        "stockpile",
+        "accumulate",
+        "collect",
+        "stock up on",
+        "stock up with",
+        "heap up",
+        "hoard",
+        "stow away",
+        "cache",
+        "garner"
+      ]
+    },
+    {
+      "description": "Move in an inquisitive and restless manner.",
+      "examples": [
+        "they were squirreling around in the woods in search of something"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old French esquireul, from a diminutive of Latin sciurus, from Greek skiouros, from skia shade + oura tail. Current verb senses date from the early 20th century.",
+  "pronounciation": "/ˈskwər(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squirrel_us_1.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "verb": [
+    {
+      "description": "Quench or satisfy (one's thirst)",
+      "examples": [
+        "slake your thirst with some lemonade"
+      ],
+      "synonyms": [
+        "quench",
+        "satisfy",
+        "take the edge off",
+        "sate",
+        "satiate",
+        "relieve",
+        "assuage",
+        "gratify"
+      ]
+    },
+    {
+      "description": "Combine (quicklime) with water to produce calcium hydroxide."
+    }
+  ],
+  "origin": "Old English slacian become less eager, also slacken, from the adjective slæc slack; compare with Dutch slaken diminish, relax.",
+  "pronounciation": "/slāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slake_us_1.mp3"
+}

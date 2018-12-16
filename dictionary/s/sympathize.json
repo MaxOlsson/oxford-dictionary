@@ -1,0 +1,49 @@
+{
+  "verb": [
+    {
+      "description": "Feel or express sympathy.",
+      "examples": [
+        "it is easy to understand and sympathize with his predicament"
+      ],
+      "synonyms": [
+        "pity",
+        "be sorry for",
+        "feel sorry for",
+        "show sympathy for",
+        "be sympathetic towards",
+        "show compassion for",
+        "be compassionate towards",
+        "commiserate",
+        "offer condolences to",
+        "feel for",
+        "show concern",
+        "show interest"
+      ]
+    },
+    {
+      "description": "Agree with a sentiment or opinion.",
+      "examples": [
+        "they sympathize with critiques of traditional theory"
+      ],
+      "synonyms": [
+        "agree",
+        "support",
+        "be in sympathy",
+        "be sympathetic towards",
+        "be in favour of",
+        "go along",
+        "favour",
+        "be well disposed to",
+        "approve of",
+        "commend",
+        "back",
+        "side with",
+        "align",
+        "encourage"
+      ]
+    }
+  ],
+  "origin": "Late 16th century (in the sense suffer with another person): from French sympathiser, from sympathie sympathy, friendly understanding (see sympathy).",
+  "pronounciation": "/ˈsimpəˌTHīz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sympathize_us_1.mp3"
+}

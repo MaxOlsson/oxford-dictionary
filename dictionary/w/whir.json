@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "(especially of a machine or a bird's wings) make a low, continuous, regular sound.",
+      "examples": [
+        "the ceiling fans whirred in the smoky air"
+      ],
+      "synonyms": [
+        "hum",
+        "humming",
+        "buzzing",
+        "murmur",
+        "drone",
+        "whir",
+        "whirring",
+        "fizz",
+        "fizzing",
+        "fuzz",
+        "hiss",
+        "singing",
+        "whisper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A low, continuous, regular sound.",
+      "examples": [
+        "the whir of the projector"
+      ],
+      "synonyms": [
+        "hum",
+        "humming",
+        "buzzing",
+        "murmur",
+        "drone",
+        "whir",
+        "whirring",
+        "fizz",
+        "fizzing",
+        "fuzz",
+        "hiss",
+        "singing",
+        "whisper"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense move with a whirring sound): probably of Scandinavian origin; compare with whirl.",
+  "pronounciation": "/(h)wər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whir_us_2.mp3"
+}

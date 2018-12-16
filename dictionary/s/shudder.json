@@ -1,0 +1,60 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) tremble convulsively, typically as a result of fear or revulsion.",
+      "examples": [
+        "I shuddered with horror"
+      ],
+      "synonyms": [
+        "shake",
+        "shiver",
+        "tremble",
+        "quiver",
+        "quaver",
+        "vibrate",
+        "palpitate",
+        "flutter",
+        "quake",
+        "heave",
+        "convulse"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of shuddering.",
+      "examples": [
+        "the elevator rose with a shudder",
+        "the peso's devaluation sent shudders through the market"
+      ],
+      "synonyms": [
+        "shake",
+        "shiver",
+        "tremor",
+        "tremble",
+        "trembling",
+        "quiver",
+        "quivering",
+        "quaver",
+        "start",
+        "vibration",
+        "palpitation",
+        "flutter",
+        "convulsion",
+        "spasm",
+        "twitch",
+        "jerk"
+      ]
+    }
+  ],
+  "phrases": [
+    "this place gives me the shudders",
+    "it gives me the shudders to hear you use words like that",
+    "It gave him the shudders thinking about people changing like that.",
+    "I had heard her say things to people that gave me the shudders: This is the worst book I've read in a year, or things like that.",
+    "Twenty years later that image still gives me the shudders."
+  ],
+  "origin": "Middle English (as a verb): from Middle Dutch schūderen, from a Germanic base meaning shake.",
+  "pronounciation": "/ˈʃədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shudder_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A small, thin, narrow piece of something cut or split off a larger piece.",
+      "examples": [
+        "a sliver of cheese",
+        "there was a sliver of light under his door"
+      ],
+      "synonyms": [
+        "splinter",
+        "shard",
+        "shiver",
+        "chip",
+        "flake",
+        "shred",
+        "scrap",
+        "slither",
+        "shaving",
+        "paring"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cut or break (something) into small, thin, narrow pieces.",
+      "examples": [
+        "slivered almonds"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from dialect slive cleave.",
+  "pronounciation": "/ˈslivər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sliver_us_1.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or part of their body) very thin.",
+      "examples": [
+        "his skinny arms"
+      ],
+      "synonyms": [
+        "thin",
+        "scrawny",
+        "scraggy",
+        "bony",
+        "angular",
+        "raw-boned",
+        "hollow-cheeked",
+        "gaunt",
+        "as thin as a rake",
+        "skin-and-bones",
+        "stick-like",
+        "size-zero",
+        "emaciated",
+        "skeletal",
+        "pinched",
+        "undernourished",
+        "underfed"
+      ]
+    },
+    {
+      "description": "(of an article of clothing) tight-fitting.",
+      "examples": [
+        "a skinny black dress"
+      ]
+    },
+    {
+      "description": "(of coffee) made with skimmed or semi-skimmed milk.",
+      "examples": [
+        "one skinny latte to go, please"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A skinny person."
+    },
+    {
+      "description": "A pair of skinny pants, especially jeans.",
+      "examples": [
+        "if you're tired of squeezing into your skinnies, bell-bottoms and flares are back in fashion"
+      ]
+    },
+    {
+      "description": "Confidential information on a particular person or topic.",
+      "examples": [
+        "the inside skinny is that he didn't know the deal was in the works"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskɪni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skinny_us_1.mp3"
+}

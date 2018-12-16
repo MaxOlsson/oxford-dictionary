@@ -1,0 +1,44 @@
+{
+  "adjective": [
+    {
+      "description": "Bad-tempered; spiteful.",
+      "examples": [
+        "a splenetic outburst"
+      ],
+      "synonyms": [
+        "bad-tempered",
+        "ill-tempered",
+        "ill-humoured",
+        "angry",
+        "wrathful",
+        "cross",
+        "peevish",
+        "petulant",
+        "pettish",
+        "irritable",
+        "irascible",
+        "cantankerous",
+        "choleric",
+        "dyspeptic",
+        "testy",
+        "tetchy",
+        "snappish",
+        "waspish",
+        "crotchety",
+        "crabby",
+        "crabbed",
+        "querulous",
+        "resentful",
+        "rancorous",
+        "bilious",
+        "sour",
+        "bitter",
+        "acid",
+        "liverish"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a noun denoting a person with a diseased spleen): from late Latin spleneticus, from Greek splēn (see spleen).",
+  "pronounciation": "/spləˈnedik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splenetic_us_1.mp3"
+}

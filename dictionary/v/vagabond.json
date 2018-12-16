@@ -1,0 +1,87 @@
+{
+  "noun": [
+    {
+      "description": "A person who wanders from place to place without a home or job.",
+      "synonyms": [
+        "itinerant",
+        "wanderer",
+        "nomad",
+        "wayfarer",
+        "traveller",
+        "gypsy",
+        "rover",
+        "tramp",
+        "vagrant",
+        "drifter",
+        "transient",
+        "migrant",
+        "homeless person",
+        "derelict",
+        "beachcomber",
+        "down-and-out",
+        "beggar",
+        "person of no fixed abode",
+        "person of no fixed address",
+        "knight of the road",
+        "bird of passage",
+        "rolling stone"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having no settled home.",
+      "examples": [
+        "a vagabond poacher"
+      ],
+      "synonyms": [
+        "itinerant",
+        "wandering",
+        "nomadic",
+        "travelling",
+        "ambulatory",
+        "mobile",
+        "on the move",
+        "journeying",
+        "roving",
+        "roaming",
+        "vagrant",
+        "transient",
+        "floating",
+        "migrant",
+        "migrating",
+        "migratory"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wander about as or like a vagabond.",
+      "examples": [
+        "he went vagabonding about the world"
+      ],
+      "synonyms": [
+        "wander",
+        "roam",
+        "rove",
+        "range",
+        "travel",
+        "travel idly",
+        "journey",
+        "voyage",
+        "globetrot",
+        "drift",
+        "coast",
+        "meander",
+        "gad about",
+        "gallivant",
+        "jaunt",
+        "take a trip",
+        "go on a trip"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally denoting a criminal): from Old French, or from Latin vagabundus, from vagari wander.",
+  "pronounciation": "/ˈvaɡəˌbänd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vagabond_us_1.mp3"
+}

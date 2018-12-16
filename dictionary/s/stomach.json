@@ -1,0 +1,50 @@
+{
+  "noun": [
+    {
+      "description": "The internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine.",
+      "synonyms": [
+        "abdomen",
+        "belly",
+        "gut",
+        "middle"
+      ]
+    },
+    {
+      "description": "An appetite for food or drink.",
+      "examples": [
+        "she doesn't have the stomach to eat anything"
+      ],
+      "synonyms": [
+        "appetite",
+        "taste",
+        "hunger"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Consume (food or drink) without feeling or being sick.",
+      "examples": [
+        "if you cannot stomach orange juice, try apple juice"
+      ],
+      "synonyms": [
+        "digest",
+        "keep down",
+        "find palatable",
+        "manage to consume",
+        "manage to eat",
+        "swallow"
+      ]
+    }
+  ],
+  "phrases": [
+    "Napoleon recognised that an army marches on its stomach but, today, a more pertinent question for all farmers and tax payers is: Should British soldiers be stuffing themselves with foreign meat in their rations?",
+    "If an army marches on its stomach, software product development at every large corporation marches on the Zee cabinet.",
+    "Emperor Napoleon had said an army marches on its stomach.",
+    "As Napoleon once said, an army marches on its stomach - hence the importance of getting tucker to the troops.",
+    "Napoleon said that an army marches on its stomach, and I fed these guys, says the Fannie Mae leader who spearheaded the move last summer."
+  ],
+  "origin": "Middle English: from Old French estomac, stomaque, via Latin from Greek stomakhos gullet, from stoma mouth. The early sense of the verb was be offended at, resent (early 16th century).",
+  "pronounciation": "/ˈstəmək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stomach_us_1.mp3"
+}

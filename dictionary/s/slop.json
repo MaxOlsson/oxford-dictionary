@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "(of a liquid) spill or flow over the edge of a container, typically as a result of careless handling.",
+      "examples": [
+        "water slopped over the edge of the sink"
+      ],
+      "synonyms": [
+        "spill",
+        "flow",
+        "overflow",
+        "run",
+        "slosh",
+        "splash",
+        "splatter",
+        "spatter"
+      ]
+    },
+    {
+      "description": "Feed slops to (an animal, especially a pig)."
+    },
+    {
+      "description": "Speak or write in a sentimentally effusive manner; gush.",
+      "examples": [
+        "she slopped over her dog"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Waste water from a kitchen, bathroom, or chamber pot that has to be emptied by hand.",
+      "examples": [
+        "sink slops"
+      ]
+    },
+    {
+      "description": "Sentimental language or material.",
+      "examples": [
+        "country music is not all commercial slop"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in slop (sense 1)): from the second element of Old English oferslop surplice, of Germanic origin.",
+  "pronounciation": "/slɑp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slop_us_1.mp3"
+}

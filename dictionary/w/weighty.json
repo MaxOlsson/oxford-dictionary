@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Weighing a great deal; heavy.",
+      "examples": [
+        "a weighty candelabra"
+      ],
+      "synonyms": [
+        "heavy",
+        "massive",
+        "thick",
+        "bulky",
+        "hefty",
+        "cumbersome",
+        "clumsy",
+        "ponderous",
+        "overweight"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈweɪdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/weighty_us_2.mp3"
+}

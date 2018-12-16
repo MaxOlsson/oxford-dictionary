@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Twist and turn with quick writhing movements.",
+      "examples": [
+        "the puppy wriggled in his arms",
+        "she wriggled her bare, brown toes"
+      ],
+      "synonyms": [
+        "squirm",
+        "writhe",
+        "wiggle",
+        "jiggle",
+        "jerk",
+        "thresh",
+        "flounder",
+        "flail",
+        "twitch",
+        "turn",
+        "twist",
+        "twist and turn",
+        "zigzag"
+      ]
+    },
+    {
+      "description": "Avoid (something) by devious means.",
+      "examples": [
+        "don't try and wriggle out of your contract"
+      ],
+      "synonyms": [
+        "avoid",
+        "shirk",
+        "dodge",
+        "evade",
+        "elude",
+        "sidestep",
+        "circumvent",
+        "eschew"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A wriggling movement.",
+      "examples": [
+        "she gave an impatient little wriggle"
+      ],
+      "synonyms": [
+        "squirm",
+        "jiggle",
+        "wiggle",
+        "jerk",
+        "twist",
+        "turn"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: from Middle Low German wriggelen, frequentative of wriggen twist, turn.",
+  "pronounciation": "/ˈriɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wriggle_us_1.mp3"
+}

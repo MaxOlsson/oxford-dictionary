@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to society or its organization.",
+      "examples": [
+        "alcoholism is recognized as a major social problem",
+        "a traditional Japanese social structure"
+      ],
+      "synonyms": [
+        "communal",
+        "community",
+        "community-based",
+        "collective",
+        "group",
+        "general",
+        "popular",
+        "civil",
+        "civic",
+        "public",
+        "societal"
+      ]
+    },
+    {
+      "description": "Needing companionship and therefore best suited to living in communities.",
+      "examples": [
+        "we are social beings as well as individuals"
+      ]
+    },
+    {
+      "description": "(of a bird) gregarious; breeding or nesting in colonies.",
+      "synonyms": [
+        "gregarious",
+        "organized",
+        "civilized",
+        "interactional"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An informal social gathering, especially one organized by the members of a particular club or group.",
+      "examples": [
+        "a church social"
+      ],
+      "synonyms": [
+        "party",
+        "gathering",
+        "social gathering",
+        "social occasion",
+        "social event",
+        "social function",
+        "function",
+        "get-together",
+        "celebration",
+        "reunion",
+        "festivity",
+        "jamboree",
+        "reception",
+        "at-home",
+        "soirée"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin socialis allied, from socius friend.",
+  "pronounciation": "/ˈsōSHəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/social_us_1.mp3"
+}

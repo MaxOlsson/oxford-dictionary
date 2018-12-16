@@ -1,0 +1,32 @@
+{
+  "adverb": [
+    {
+      "description": "To a small degree; not considerably.",
+      "examples": [
+        "he lowered his voice slightly",
+        "they are all slightly different"
+      ],
+      "synonyms": [
+        "a little",
+        "a bit",
+        "somewhat",
+        "rather",
+        "moderately",
+        "to some degree",
+        "to a certain extent",
+        "to a slight extent",
+        "faintly",
+        "vaguely",
+        "obscurely"
+      ]
+    },
+    {
+      "description": "(with reference to a person's build) in a slender way.",
+      "examples": [
+        "a slightly built girl"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslītlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slightly_us_1.mp3"
+}

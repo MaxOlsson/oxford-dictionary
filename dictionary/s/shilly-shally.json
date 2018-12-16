@@ -1,0 +1,35 @@
+{
+  "verb": [
+    {
+      "description": "Fail to act resolutely or decisively.",
+      "examples": [
+        "the government shilly-shallied about the matter"
+      ],
+      "synonyms": [
+        "dither",
+        "be indecisive",
+        "be irresolute",
+        "be undecided",
+        "be uncertain",
+        "be unsure",
+        "be doubtful",
+        "vacillate",
+        "waver",
+        "teeter",
+        "hesitate",
+        "oscillate",
+        "fluctuate",
+        "falter",
+        "drag one's feet"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Indecisive behavior."
+    }
+  ],
+  "origin": "Mid 18th century: originally as shill I, shall I, reduplication of shall I?.",
+  "pronounciation": "/ˈSHilēˌSHalē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shilly_shally_1_us_1.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "The faculty or power of seeing.",
+      "examples": [
+        "Joseph lost his sight as a baby",
+        "a sight test"
+      ],
+      "synonyms": [
+        "eyesight",
+        "vision",
+        "eyes",
+        "faculty of sight",
+        "power of sight",
+        "ability to see",
+        "visual perception",
+        "observation"
+      ]
+    },
+    {
+      "description": "A thing that one sees or that can be seen.",
+      "examples": [
+        "John was a familiar sight in the bar for many years",
+        "he was getting used to seeing unpleasant sights"
+      ]
+    },
+    {
+      "description": "A device on a gun or optical instrument used for assisting a person's precise aim or observation."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Manage to see or observe (someone or something); catch an initial glimpse of.",
+      "examples": [
+        "tell me when you sight London Bridge",
+        "the unseasonal sighting of a cuckoo"
+      ],
+      "synonyms": [
+        "glimpse",
+        "catch a glimpse of",
+        "get a glimpse of",
+        "catch sight of",
+        "see",
+        "spot",
+        "spy",
+        "notice",
+        "observe",
+        "make out",
+        "pick out",
+        "detect",
+        "have sight of"
+      ]
+    },
+    {
+      "description": "Take aim by looking through the sights of a gun.",
+      "examples": [
+        "she sighted down the barrel"
+      ]
+    }
+  ],
+  "phrases": [
+    "it was love at first sight",
+    "But Cora confesses that it was love at first sight, when the couple met by chance as teenagers, nine years ago.",
+    "It was love at first sight - a cosy, comfortable intoxication.",
+    "Cupid's arrow stuck at a party five months ago and it was love at first sight.",
+    "Although our encounter was brief, it was love at first sight, and before long Travis moved to Seattle to be with me."
+  ],
+  "origin": "Old English (ge)sihth something seen, of West Germanic origin; related to Dutch zicht and German Gesicht sight, face, appearance. The verb dates from the mid 16th century (in sight (sense 2 of the verb)).",
+  "pronounciation": "/saɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sight_us_1.mp3"
+}

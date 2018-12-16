@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension. Some snakes have a venomous bite.",
+      "synonyms": [
+        "serpent"
+      ]
+    },
+    {
+      "description": "A treacherous or deceitful person.",
+      "examples": [
+        "that man is a cold-blooded snake"
+      ],
+      "synonyms": [
+        "traitor",
+        "turncoat",
+        "betrayer",
+        "informer",
+        "back-stabber",
+        "double-crosser",
+        "double-dealer",
+        "quisling",
+        "judas"
+      ]
+    },
+    {
+      "description": "A former system of interconnected exchange rates for the currencies of EC countries."
+    },
+    {
+      "description": "A long flexible wire for clearing obstacles in piping."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move or extend with the twisting motion of a snake.",
+      "examples": [
+        "a rope snaked down"
+      ],
+      "synonyms": [
+        "twist",
+        "wind",
+        "twist and turn",
+        "meander",
+        "zigzag"
+      ]
+    }
+  ],
+  "origin": "Old English snaca, of Germanic origin.",
+  "pronounciation": "/snāk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snake_us_1.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Gather (an area of fabric or part of a garment) by means of drawn or elasticized threads in parallel rows.",
+      "examples": [
+        "I shirred the waist and the back panel",
+        "shirring is flattering to all figure types"
+      ],
+      "synonyms": [
+        "pleat",
+        "pucker",
+        "tuck",
+        "fold",
+        "corrugate",
+        "ruffle",
+        "crimp",
+        "crease",
+        "scrunch up"
+      ]
+    },
+    {
+      "description": "Bake (an egg without its shell)",
+      "examples": [
+        "the eggs were gently shirred with creme fraiche"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: of unknown origin.",
+  "pronounciation": "/ʃər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shirr_us_1.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "verb": [
+    {
+      "description": "Isolate or hide away.",
+      "examples": [
+        "Tiberius was sequestered on an island",
+        "the jurors had been sequestered since Monday",
+        "the artist sequestered himself in his studio for two years"
+      ],
+      "synonyms": [
+        "isolate oneself",
+        "hide oneself away",
+        "shut oneself away",
+        "seclude oneself",
+        "cut oneself off",
+        "shut oneself off",
+        "set oneself apart",
+        "segregate oneself"
+      ]
+    },
+    {
+      "description": "Take legal possession of (assets) until a debt has been paid or other claims have been met.",
+      "examples": [
+        "the power of courts to sequester the assets of unions"
+      ]
+    },
+    {
+      "description": "Form a chelate or other stable compound with (an ion, atom, or molecule) so that it is no longer available for reactions.",
+      "examples": [
+        "non-precipitating water softeners use complex phosphates to sequester calcium and magnesium ions",
+        "the organic sequestering agent EDTA"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A general cut in government spending.",
+      "examples": [
+        "if the budget deal hadn't gone through, there would have been a sequester of at least $100 billion"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French sequestrer or late Latin sequestrare commit for safekeeping, from Latin sequester trustee.",
+  "pronounciation": "/səˈkwɛstər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sequester_us_1.mp3"
+}

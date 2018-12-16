@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "Utter a high-pitched piercing sound or words, especially as an expression of terror, pain, or excitement.",
+      "examples": [
+        "the audience shrieked with laughter",
+        "“There it is!” she shrieked",
+        "she was shrieking abuse at a taxi driver"
+      ],
+      "synonyms": [
+        "scream",
+        "screech",
+        "squeal",
+        "squawk",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "shout",
+        "yell",
+        "cry",
+        "cry out",
+        "call",
+        "call out",
+        "call at the top of one's voice",
+        "clamour",
+        "bay",
+        "cheer",
+        "yawp",
+        "yelp",
+        "squall",
+        "caterwaul",
+        "whoop",
+        "wail"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A high-pitched piercing cry or sound; a scream.",
+      "examples": [
+        "shrieks of laughter"
+      ],
+      "synonyms": [
+        "scream",
+        "screech",
+        "squeal",
+        "squawk",
+        "roar",
+        "howl",
+        "bellow",
+        "bawl",
+        "shout",
+        "yell",
+        "cry",
+        "call",
+        "clamour",
+        "bay",
+        "cheer",
+        "yawp",
+        "yelp",
+        "squall",
+        "caterwaul",
+        "whoop",
+        "wail"
+      ]
+    }
+  ],
+  "origin": "Late 15th century (as a verb): imitative; compare with dialect screak, Old Norse skrækja, also with screech.",
+  "pronounciation": "/ʃrik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shriek_us_1.mp3"
+}

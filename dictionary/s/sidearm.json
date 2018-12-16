@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A weapon worn at a person's side, such as a pistol or other small firearm (or, formerly, a sword or bayonet)."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "(of a throw, pitch, or cast) performed or delivered with a sweeping motion of the arm at or below shoulder level."
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a sidearm manner.",
+      "examples": [
+        "I could throw sidearm"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Throw or pitch a ball to (someone) with a sidearm motion."
+    }
+  ],
+  "pronounciation": "/ˈsīdärm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sidearm_us_1.mp3"
+}

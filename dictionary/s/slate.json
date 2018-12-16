@@ -1,0 +1,80 @@
+{
+  "noun": [
+    {
+      "description": "A fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces."
+    },
+    {
+      "description": "A flat piece of slate used for writing on, typically framed in wood, formerly used in schools."
+    },
+    {
+      "description": "A bluish-gray color.",
+      "examples": [
+        "suits of slate gray"
+      ]
+    },
+    {
+      "description": "A list of candidates for election to a post or office, typically a group sharing a set of political views.",
+      "examples": [
+        "another slate of candidates will be picked for the state convention"
+      ]
+    },
+    {
+      "description": "A board showing the identifying details of a take of a motion picture, which is held in front of the camera at its beginning and end."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover (something, especially a roof) with slates."
+    },
+    {
+      "description": "Criticize severely.",
+      "examples": [
+        "his work was slated by the critics"
+      ],
+      "synonyms": [
+        "criticize harshly",
+        "attack",
+        "pillory",
+        "lambaste",
+        "condemn",
+        "flay",
+        "savage",
+        "shoot down",
+        "revile",
+        "vilify"
+      ]
+    },
+    {
+      "description": "Schedule; plan.",
+      "examples": [
+        "renovations are slated for late June",
+        "construction is slated to begin late next year"
+      ],
+      "synonyms": [
+        "schedule",
+        "set",
+        "set up",
+        "arrange",
+        "organize",
+        "sort out",
+        "fix",
+        "fix up",
+        "fix a time for",
+        "time",
+        "book",
+        "line up",
+        "slot in",
+        "prearrange",
+        "bill",
+        "programme",
+        "plan"
+      ]
+    },
+    {
+      "description": "Identify (a movie take) using a slate."
+    }
+  ],
+  "origin": "Middle English sclate, sklate, shortening of Old French esclate, feminine synonymous with esclat piece broken off (see slat).",
+  "pronounciation": "/sleɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slate_us_1.mp3"
+}

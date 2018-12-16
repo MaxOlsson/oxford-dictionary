@@ -1,0 +1,27 @@
+{
+  "noun": [
+    {
+      "description": "A forked stick, to which an elastic strap (or a pair of elastic bands connected by a small sling) is fastened to the two prongs, typically used for shooting small stones.",
+      "synonyms": [
+        "catapult"
+      ]
+    },
+    {
+      "description": "The effect of the gravitational pull of a celestial object in accelerating and changing the course of another object or a spacecraft.",
+      "examples": [
+        "stars passing near a black hole might be ejected by a gravitational slingshot effect"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Forcefully accelerate through the effect of gravity.",
+      "examples": [
+        "the car would hit the first dip, then slingshot off the second rise",
+        "Jupiter's gravity slingshots the fragments toward Earth"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsliNGˌSHät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slingshot_us_1.mp3"
+}

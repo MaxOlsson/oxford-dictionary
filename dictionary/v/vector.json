@@ -1,0 +1,35 @@
+{
+  "noun": [
+    {
+      "description": "A quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.",
+      "synonyms": [
+        "value",
+        "index",
+        "indicator",
+        "measure",
+        "norm",
+        "order",
+        "quantity",
+        "number",
+        "figure"
+      ]
+    },
+    {
+      "description": "An organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another."
+    },
+    {
+      "description": "A course to be taken by an aircraft."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Direct (an aircraft in flight) to a desired point.",
+      "examples": [
+        "two Hurricanes were vectored towards the Stukas"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from Latin, literally carrier, from vehere convey.",
+  "pronounciation": "/ˈvɛktər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/vector_us_1.mp3"
+}

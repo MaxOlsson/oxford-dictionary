@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Having a strong or unpleasant smell.",
+      "examples": [
+        "smelly feet"
+      ],
+      "synonyms": [
+        "foul-smelling",
+        "evil-smelling",
+        "stinking",
+        "stinking to high heaven",
+        "reeking",
+        "fetid",
+        "malodorous",
+        "pungent",
+        "acrid",
+        "rank",
+        "putrid",
+        "noxious"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsmɛli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smelly_us_1.mp3"
+}

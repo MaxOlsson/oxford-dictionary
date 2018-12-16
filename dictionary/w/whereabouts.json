@@ -1,0 +1,34 @@
+{
+  "adverb": [
+    {
+      "description": "Where or approximately where.",
+      "examples": [
+        "whereabouts do you come from?"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "The place where someone or something is.",
+      "examples": [
+        "his whereabouts remain secret"
+      ],
+      "synonyms": [
+        "location",
+        "position",
+        "site",
+        "place",
+        "situation",
+        "locality",
+        "spot",
+        "point",
+        "placement",
+        "locale",
+        "neighbourhood",
+        "vicinity"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈ(h)werəˌbouts/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whereabouts_us_1.mp3"
+}

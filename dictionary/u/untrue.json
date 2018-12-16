@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Not in accordance with fact or reality; false or incorrect.",
+      "examples": [
+        "these suggestions are totally untrue",
+        "a malicious and untrue story"
+      ],
+      "synonyms": [
+        "false",
+        "untruthful",
+        "fabricated",
+        "made up",
+        "invented",
+        "concocted",
+        "trumped up"
+      ]
+    },
+    {
+      "description": "Not faithful or loyal.",
+      "synonyms": [
+        "unfaithful",
+        "disloyal",
+        "faithless",
+        "false",
+        "false-hearted",
+        "treacherous",
+        "traitorous",
+        "perfidious",
+        "deceitful",
+        "deceiving",
+        "untrustworthy",
+        "duplicitous",
+        "double-dealing",
+        "two-faced",
+        "janus-faced",
+        "insincere",
+        "unreliable",
+        "undependable",
+        "inconstant"
+      ]
+    },
+    {
+      "description": "Incorrectly positioned or balanced; not upright or level."
+    }
+  ],
+  "origin": "Old English untrēowe unfaithful (see un-, true).",
+  "pronounciation": "/ˌənˈtru/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/untrue_us_1.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "An episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets.",
+      "synonyms": [
+        "fight",
+        "battle",
+        "clash",
+        "conflict",
+        "encounter",
+        "confrontation",
+        "engagement",
+        "fray",
+        "contest",
+        "combat",
+        "tussle",
+        "scrimmage",
+        "fracas",
+        "affray",
+        "melee"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Engage in a skirmish.",
+      "examples": [
+        "reports of skirmishing along the border"
+      ],
+      "synonyms": [
+        "fight",
+        "do battle with",
+        "battle with",
+        "engage with",
+        "close with",
+        "combat",
+        "clash with",
+        "come to blows with",
+        "exchange blows with",
+        "struggle with",
+        "tussle with"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): from Old French eskirmiss-, lengthened stem of eskirmir, from a Germanic verb meaning defend.",
+  "pronounciation": "/ˈskərmiSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skirmish_us_1.mp3"
+}

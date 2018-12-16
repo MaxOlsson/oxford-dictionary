@@ -1,0 +1,82 @@
+{
+  "adjective": [
+    {
+      "description": "Irritable and inclined to speak sharply; snappish.",
+      "examples": [
+        "anything unusual made her snappy and nervous"
+      ],
+      "synonyms": [
+        "irritable",
+        "irascible",
+        "short-tempered",
+        "hot-tempered",
+        "quick-tempered",
+        "fiery",
+        "peevish",
+        "cross",
+        "crabbed",
+        "crabby",
+        "crotchety",
+        "cantankerous",
+        "impatient",
+        "grumpy",
+        "huffy",
+        "brusque",
+        "ill-tempered",
+        "bad-tempered",
+        "ill-natured",
+        "ill-humoured",
+        "touchy",
+        "volatile",
+        "testy",
+        "tetchy",
+        "snarling",
+        "waspish",
+        "prickly",
+        "crusty",
+        "peppery",
+        "bilious",
+        "liverish",
+        "dyspeptic",
+        "splenetic",
+        "choleric"
+      ]
+    },
+    {
+      "description": "Cleverly concise; neat.",
+      "examples": [
+        "snappy catchphrases"
+      ],
+      "synonyms": [
+        "concise",
+        "succinct",
+        "memorable",
+        "catchy",
+        "neat",
+        "clever",
+        "crisp",
+        "pithy",
+        "witty",
+        "incisive",
+        "brief",
+        "short",
+        "short and sweet",
+        "sharp",
+        "terse",
+        "curt",
+        "laconic",
+        "aphoristic",
+        "epigrammatic"
+      ]
+    }
+  ],
+  "phrases": [
+    "into bed and make it snappy!",
+    "Well, make it snappy, because I'm not standing around here all night.",
+    "And make it snappy so the rest of us can go Aww and be done with it.",
+    "But we're closing in fifteen minutes, so make it snappy.",
+    "Good now make me some of your famous Hot cocoa and make it snappy i gotta go soon"
+  ],
+  "pronounciation": "/ˈsnæpi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snappy_us_1.mp3"
+}

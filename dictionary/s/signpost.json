@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A sign giving information such as the direction and distance to a nearby town, typically found at a crossroads.",
+      "synonyms": [
+        "notice",
+        "signboard",
+        "warning sign",
+        "road sign",
+        "traffic sign"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (an area) with a signpost or signposts.",
+      "examples": [
+        "most of the walks were well signposted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsaɪnˌpoʊst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/signpost_us_1.mp3"
+}

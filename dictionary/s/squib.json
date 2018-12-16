@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "A small firework that burns with a hissing sound before exploding.",
+      "synonyms": [
+        "slapstick comedy",
+        "broad comedy",
+        "slapstick",
+        "burlesque",
+        "vaudeville",
+        "travesty",
+        "buffoonery"
+      ]
+    },
+    {
+      "description": "A short piece of satirical writing.",
+      "synonyms": [
+        "satire",
+        "burlesque",
+        "lampoon",
+        "pastiche",
+        "caricature",
+        "take-off",
+        "skit",
+        "imitation",
+        "impression",
+        "impersonation",
+        "mockery",
+        "mimicry",
+        "travesty"
+      ]
+    },
+    {
+      "description": "A small, slight, or weak person, especially a child."
+    },
+    {
+      "description": "A short kick on a kickoff."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Kick (the ball) a comparatively short distance on a kickoff; execute (a kick) in this way."
+    },
+    {
+      "description": "Utter, write, or publish a satirical or sarcastic attack."
+    }
+  ],
+  "origin": "Early 16th century (in squib (sense 1 of the noun)): of unknown origin; perhaps imitative of a small explosion. The verb was first recorded in squib (sense 2 of the verb) (late 16th century).",
+  "pronounciation": "/skwɪb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/squib_us_1.mp3"
+}

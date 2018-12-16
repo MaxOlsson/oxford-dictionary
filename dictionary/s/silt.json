@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "Fine sand, clay, or other material carried by running water and deposited as a sediment, especially in a channel or harbor.",
+      "synonyms": [
+        "sediment",
+        "deposit",
+        "alluvium",
+        "mud",
+        "slime",
+        "ooze",
+        "sludge"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Become filled or blocked with silt.",
+      "examples": [
+        "the river's mouth had silted up"
+      ],
+      "synonyms": [
+        "become blocked",
+        "become choked",
+        "become clogged",
+        "fill up",
+        "fill up with silt",
+        "become filled",
+        "become dammed"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably originally denoting a salty deposit and of Scandinavian origin, related to Danish and Norwegian sylt salt marsh, also to salt.",
+  "pronounciation": "/silt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/silt_us_1.mp3"
+}

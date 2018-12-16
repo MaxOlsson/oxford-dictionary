@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "Each of a pair of hinged panels, often louvered, fixed inside or outside a window that can be closed for security or privacy or to keep out light.",
+      "synonyms": [
+        "screen",
+        "louvre",
+        "blind",
+        "roller blind",
+        "venetian blind",
+        "curtain",
+        "shade",
+        "awning",
+        "canopy"
+      ]
+    },
+    {
+      "description": "A device that opens and closes to expose the film in a camera."
+    },
+    {
+      "description": "The blind enclosing the swell box in an organ, used for controlling the volume of sound."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Close the shutters of (a window or building)",
+      "examples": [
+        "the windows were shuttered against the afternoon heat"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHədər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shutter_us_1.mp3"
+}

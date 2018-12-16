@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having a specified level of determination.",
+      "examples": [
+        "a free-willed female",
+        "she is good-willed, not selfish",
+        "they proved themselves to be steely-willed"
+      ]
+    },
+    {
+      "description": "Bequeathed in a will.",
+      "examples": [
+        "willed property"
+      ]
+    }
+  ],
+  "pronounciation": "/wild/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/willed_us_2.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "Eat or drink (something) with a loud sloppy sucking noise.",
+      "examples": [
+        "she slurped her coffee",
+        "he slurped noisily from a wine cup"
+      ],
+      "synonyms": [
+        "drink",
+        "swallow",
+        "gulp",
+        "gulp down",
+        "guzzle",
+        "attack",
+        "down",
+        "drink down",
+        "drink up",
+        "force down",
+        "get down",
+        "finish off",
+        "polish off",
+        "drain",
+        "empty",
+        "imbibe",
+        "have",
+        "take",
+        "partake of",
+        "ingest",
+        "consume",
+        "sup",
+        "sip",
+        "lap"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A loud sucking sound made while eating or drinking.",
+      "examples": [
+        "she drank it down with a loud slurp"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Dutch slurpen.",
+  "pronounciation": "/slərp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slurp_us_1.mp3"
+}

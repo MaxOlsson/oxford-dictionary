@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "An underlying feeling or influence, especially one that is contrary to the prevailing atmosphere and is not expressed openly.",
+      "examples": [
+        "an undercurrent of anger and discontent"
+      ],
+      "synonyms": [
+        "undertone",
+        "overtone",
+        "suggestion",
+        "connotation",
+        "implication",
+        "intimation",
+        "hint",
+        "nuance",
+        "trace",
+        "suspicion",
+        "whisper",
+        "murmur",
+        "touch",
+        "tinge"
+      ]
+    },
+    {
+      "description": "A current of water below the surface and moving in a different direction from any surface current.",
+      "synonyms": [
+        "undertow",
+        "underflow",
+        "underswell",
+        "underdrift",
+        "understream",
+        "undertide",
+        "underrun"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəndərˌkərənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/undercurrent_us_1.mp3"
+}

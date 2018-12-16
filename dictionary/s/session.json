@@ -1,0 +1,40 @@
+{
+  "noun": [
+    {
+      "description": "A meeting of a deliberative or judicial body to conduct its business.",
+      "synonyms": [
+        "meeting",
+        "sitting",
+        "assembly",
+        "conclave",
+        "plenary"
+      ]
+    },
+    {
+      "description": "A period devoted to a particular activity.",
+      "examples": [
+        "gym is followed by a training session"
+      ],
+      "synonyms": [
+        "period",
+        "time",
+        "spell",
+        "stretch",
+        "bout"
+      ]
+    },
+    {
+      "description": "The governing body of a Presbyterian Church."
+    }
+  ],
+  "phrases": [
+    "Staff in the parliament work to impossible deadlines, can't take holidays when the parliament is in session and work excessive hours.",
+    "Judge Alex is rounding up the usual suspects and court is now in session.",
+    "Now when I got over to the Capitol five minutes later, the House, which had been in session, went into recess.",
+    "Opponents claimed it was unconstitutional since it was issued when parliament was not in session.",
+    "This was made up of magnates who enjoyed freedom of speech while the assembly was in session."
+  ],
+  "origin": "Late Middle English: from Old French, or from Latin sessio(n-), from sess- seated (see sessile).",
+  "pronounciation": "/ˈseSHən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/session_us_2.mp3"
+}

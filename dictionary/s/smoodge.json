@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Behave in an ingratiating manner.",
+      "examples": [
+        "he used to hang around here smoodging to Mum"
+      ],
+      "synonyms": [
+        "blandishments",
+        "honeyed words",
+        "smooth talk",
+        "soft words",
+        "flattery",
+        "cajolery",
+        "coaxing",
+        "wheedling",
+        "compliments"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Affectionate flattery.",
+      "examples": [
+        "what's wrong with a bit of smoodge between friends?"
+      ],
+      "synonyms": [
+        "homage",
+        "deference",
+        "obedience",
+        "suit",
+        "courtship",
+        "blandishments",
+        "respects",
+        "attention",
+        "addresses"
+      ]
+    }
+  ],
+  "origin": "Early 20th century: probably an alteration of dialect smouch kiss, sidle up to.",
+  "pronounciation": "/smuːdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smoodge_gb_1.mp3"
+}

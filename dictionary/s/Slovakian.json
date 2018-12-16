@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Relating to Slovakia or its people or language.",
+      "examples": [
+        "a display of traditional Slovakian folk dancing"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A native or inhabitant of Slovakia.",
+      "examples": [
+        "the Slovakians put on a great match"
+      ]
+    },
+    {
+      "description": "The West Slavonic language spoken by Slovakians.",
+      "examples": [
+        "the natural rhythms of Slovakian"
+      ]
+    }
+  ],
+  "pronounciation": "/slōˈväkēən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slovakian_1_us_2.mp3"
+}

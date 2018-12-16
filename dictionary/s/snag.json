@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "An unexpected or hidden obstacle or drawback.",
+      "examples": [
+        "the picture's US release hit a snag"
+      ],
+      "synonyms": [
+        "obstacle",
+        "difficulty",
+        "complication",
+        "catch",
+        "hitch",
+        "stumbling block",
+        "pitfall",
+        "unseen problem",
+        "problem",
+        "issue",
+        "barrier",
+        "impediment",
+        "hindrance",
+        "inconvenience",
+        "setback",
+        "hurdle",
+        "disadvantage",
+        "downside",
+        "drawback",
+        "minus"
+      ]
+    },
+    {
+      "description": "A sharp, angular, or jagged projection.",
+      "examples": [
+        "keep an emery board handy in case of nail snags"
+      ],
+      "synonyms": [
+        "sharp projection",
+        "jag",
+        "jagged bit"
+      ]
+    },
+    {
+      "description": "A dead tree."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Catch or tear (something) on a projection.",
+      "examples": [
+        "thorns snagged his sweater"
+      ],
+      "synonyms": [
+        "tear",
+        "rip",
+        "ladder",
+        "gash"
+      ]
+    }
+  ],
+  "origin": "1940s: of unknown origin.",
+  "pronounciation": "/snaɡ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snag_us_1.mp3"
+}

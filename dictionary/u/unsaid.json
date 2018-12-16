@@ -1,0 +1,29 @@
+{
+  "": [],
+  "adjective": [
+    {
+      "description": "Not said or uttered.",
+      "examples": [
+        "the rest of the remark he left unsaid"
+      ],
+      "synonyms": [
+        "unspoken",
+        "unuttered",
+        "unstated",
+        "unmentioned",
+        "untold",
+        "unarticulated",
+        "unexpressed",
+        "unvoiced",
+        "unpronounced",
+        "untalked-of",
+        "suppressed",
+        "unrevealed",
+        "undeclared",
+        "unavowed"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈsed/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsaid_us_1.mp3"
+}

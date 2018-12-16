@@ -1,0 +1,24 @@
+{
+  "noun": [
+    {
+      "description": "A detective.",
+      "synonyms": [
+        "private detective",
+        "detective",
+        "private investigator",
+        "investigator"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Carry out a search or investigation in the manner of a detective.",
+      "examples": [
+        "scientists began their genetic sleuthing for honey mushrooms four years ago"
+      ]
+    }
+  ],
+  "origin": "Middle English (originally in the sense track, in sleuth-hound): from Old Norse slóth; compare with slot. Current senses date from the late 19th century.",
+  "pronounciation": "/sluθ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sleuth_us_1.mp3"
+}

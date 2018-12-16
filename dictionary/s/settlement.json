@@ -1,0 +1,58 @@
+{
+  "noun": [
+    {
+      "description": "An official agreement intended to resolve a dispute or conflict.",
+      "examples": [
+        "unions succeeded in reaching a pay settlement",
+        "the settlement of the Sino-Japanese war"
+      ],
+      "synonyms": [
+        "agreement",
+        "deal",
+        "arrangement",
+        "resolution",
+        "accommodation",
+        "bargain",
+        "understanding",
+        "pact"
+      ]
+    },
+    {
+      "description": "A place, typically one that has hitherto been uninhabited, where people establish a community.",
+      "examples": [
+        "the little settlement of Buttermere"
+      ],
+      "synonyms": [
+        "community",
+        "colony",
+        "outpost",
+        "encampment"
+      ]
+    },
+    {
+      "description": "An arrangement whereby property passes to a succession of people as dictated by the settlor."
+    },
+    {
+      "description": "The action or process of settling an account.",
+      "synonyms": [
+        "payment",
+        "discharge",
+        "defrayal",
+        "liquidation",
+        "settling",
+        "settling up",
+        "clearance",
+        "clearing",
+        "satisfaction"
+      ]
+    },
+    {
+      "description": "Subsidence of the ground or a structure built on it.",
+      "examples": [
+        "a boundary wall, which has cracked due to settlement, is to be replaced"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɛdlmənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/settlement_us_1.mp3"
+}

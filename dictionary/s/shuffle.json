@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Walk by dragging one's feet along or without lifting them fully from the ground.",
+      "examples": [
+        "I stepped into my skis and shuffled to the edge of the steep slope"
+      ],
+      "synonyms": [
+        "shamble",
+        "drag one's feet",
+        "stumble",
+        "lumber"
+      ]
+    },
+    {
+      "description": "Rearrange (a deck of cards) by sliding the cards over each other quickly.",
+      "synonyms": [
+        "mix",
+        "mix up",
+        "mingle",
+        "intermix"
+      ]
+    },
+    {
+      "description": "Get out of or avoid a responsibility or obligation.",
+      "examples": [
+        "some hospitals can shuffle off their responsibilities by claiming to have no suitable facilities"
+      ],
+      "synonyms": [
+        "evade",
+        "dodge",
+        "avoid",
+        "get out of",
+        "sidestep",
+        "shuffle off",
+        "run away from",
+        "shrink from",
+        "shun",
+        "slide out of",
+        "play truant from",
+        "skip",
+        "miss",
+        "not attend"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shuffling movement, walk, or sound.",
+      "examples": [
+        "there was a shuffle of approaching feet"
+      ]
+    },
+    {
+      "description": "An act of shuffling a deck of cards."
+    },
+    {
+      "description": "A piece of equivocation or subterfuge."
+    }
+  ],
+  "phrases": [
+    "Being technical in today's market, especially a middle-aged man, I'll be lost in the shuffle with 400 other resumes at least for every job I apply for, John said.",
+    "Somehow that point is getting lost in the shuffle.",
+    "When people who are supposed to be reporting the news have an agenda, something gets lost in the shuffle.",
+    "Jesus came with a message of love and forgiveness and we can't let that get lost in the shuffle.",
+    "There is the potential to really learn, to not get lost in the shuffle."
+  ],
+  "origin": "Mid 16th century: perhaps from Low German schuffeln walk clumsily, also deal dishonestly, shuffle (cards), of Germanic origin; related to shove and scuffle.",
+  "pronounciation": "/ˈSHəfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shuffle_us_1.mp3"
+}

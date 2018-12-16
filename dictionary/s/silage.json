@@ -1,0 +1,26 @@
+{
+  "noun": [
+    {
+      "description": "Grass or other green fodder compacted and stored in airtight conditions, typically in a silo, without first being dried, and used as animal feed in the winter.",
+      "synonyms": [
+        "fodder",
+        "food",
+        "foodstuff",
+        "forage",
+        "pasturage",
+        "herbage"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make silage.",
+      "examples": [
+        "they do 1500 acres of contract silaging each year"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: alteration of ensilage, influenced by silo.",
+  "pronounciation": "/ˈsaɪlɪdʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/silage_us_1.mp3"
+}

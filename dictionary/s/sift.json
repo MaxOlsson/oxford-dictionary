@@ -1,0 +1,69 @@
+{
+  "verb": [
+    {
+      "description": "Put (a fine, loose, or powdery substance) through a sieve so as to remove lumps or large particles.",
+      "examples": [
+        "sift the flour into a large bowl"
+      ],
+      "synonyms": [
+        "sieve",
+        "strain",
+        "screen",
+        "filter",
+        "riddle",
+        "purify",
+        "refine",
+        "winnow"
+      ]
+    },
+    {
+      "description": "Examine (something) thoroughly so as to isolate that which is most important or useful.",
+      "examples": [
+        "until we sift the evidence ourselves, we can't comment objectively",
+        "the fourth stage involves sifting through the data and evaluating it"
+      ],
+      "synonyms": [
+        "search through",
+        "look through",
+        "rummage through",
+        "root about in",
+        "root around in",
+        "ferret in",
+        "ferret about in",
+        "ferret around in",
+        "poke around in",
+        "go through",
+        "turn over",
+        "explore",
+        "examine",
+        "inspect",
+        "scrutinize",
+        "pore over",
+        "investigate",
+        "conduct investigations into",
+        "enquire into",
+        "conduct an enquiry into",
+        "delve into",
+        "go into",
+        "analyse",
+        "screen",
+        "sieve",
+        "probe",
+        "dissect",
+        "review",
+        "assess"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of sifting something, especially so as to isolate that which is most important or useful.",
+      "examples": [
+        "a careful archaeological sift must be made through the debris"
+      ]
+    }
+  ],
+  "origin": "Old English siftan, of West Germanic origin; related to Dutch ziften, also to sieve.",
+  "pronounciation": "/sɪft/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sift_us_1.mp3"
+}

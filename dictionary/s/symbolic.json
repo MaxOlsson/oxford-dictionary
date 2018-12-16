@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Serving as a symbol.",
+      "examples": [
+        "a repeating design symbolic of eternity"
+      ],
+      "synonyms": [
+        "figurative",
+        "representative",
+        "illustrative",
+        "emblematic",
+        "allegorical",
+        "parabolic",
+        "non-literal",
+        "allusive",
+        "denotative",
+        "connotative",
+        "suggestive",
+        "mnemonic"
+      ]
+    },
+    {
+      "description": "Involving the use of symbols or symbolism.",
+      "examples": [
+        "the symbolic meaning of motifs and designs"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from French symbolique or late Latin symbolicus, from Greek sumbolikos. The adjective symbolical dates from the early 17th century.",
+  "pronounciation": "/simˈbälik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/symbolic_us_1.mp3"
+}

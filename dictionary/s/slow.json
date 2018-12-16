@@ -1,0 +1,128 @@
+{
+  "adjective": [
+    {
+      "description": "Moving or operating, or designed to do so, only at a low speed; not quick or fast.",
+      "examples": [
+        "a time when diesel cars were slow and noisy",
+        "a slow dot-matrix printer"
+      ],
+      "synonyms": [
+        "unhurried",
+        "leisurely",
+        "measured",
+        "moderate",
+        "deliberate",
+        "steady",
+        "sedate",
+        "slow-moving",
+        "slow-going",
+        "easy",
+        "relaxed",
+        "unrushed",
+        "gentle",
+        "undemanding",
+        "comfortable"
+      ]
+    },
+    {
+      "description": "(of a clock or watch) showing a time earlier than the correct time.",
+      "examples": [
+        "the clock was five minutes slow"
+      ]
+    },
+    {
+      "description": "Not prompt to understand, think, or learn.",
+      "examples": [
+        "he's so slow, so unimaginative"
+      ],
+      "synonyms": [
+        "obtuse",
+        "stupid",
+        "unperceptive",
+        "imperceptive",
+        "blind",
+        "uncomprehending",
+        "unimaginative",
+        "insensitive",
+        "bovine",
+        "stolid",
+        "slow-witted",
+        "dull-witted",
+        "unintelligent",
+        "doltish",
+        "witless",
+        "blockish"
+      ]
+    },
+    {
+      "description": "Uneventful and rather dull.",
+      "examples": [
+        "a slow and mostly aimless narrative"
+      ],
+      "synonyms": [
+        "dull",
+        "boring",
+        "uninteresting",
+        "unexciting",
+        "uneventful",
+        "tedious",
+        "tiresome",
+        "wearisome",
+        "dry",
+        "as dry as dust",
+        "monotonous",
+        "plodding",
+        "tame",
+        "dreary",
+        "lacklustre"
+      ]
+    },
+    {
+      "description": "(of a film) needing long exposure."
+    },
+    {
+      "description": "(of a fire or oven) burning or giving off heat gently.",
+      "examples": [
+        "bake the dish in a preheated slow oven"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "At a slow pace; slowly.",
+      "examples": [
+        "the train went slower and slower",
+        "a slow-moving river"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Reduce one's speed or the speed of a vehicle or process.",
+      "examples": [
+        "the train slowed to a halt",
+        "investment has slowed down",
+        "he slowed the car"
+      ],
+      "synonyms": [
+        "reduce speed",
+        "go slower",
+        "decelerate",
+        "lessen one's speed",
+        "brake",
+        "put the brakes on",
+        "slack off"
+      ]
+    }
+  ],
+  "phrases": [
+    "a slow but sure increase in the price of gold",
+    "I chose a stately breaststroke, slow but sure, that meant I could keep an eye on our target.",
+    "This drug started to run its course slow but sure.",
+    "Brian took the animal home and the recovery has been slow but sure.",
+    "Hearing nothing they continued on, their steps slow and sure, not making a sound."
+  ],
+  "origin": "Old English slāw slow-witted, sluggish, of Germanic origin.",
+  "pronounciation": "/slō/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slow_us_1.mp3"
+}

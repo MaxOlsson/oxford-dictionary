@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "The way in which something, especially an organization or equipment, is organized, planned, or arranged.",
+      "examples": [
+        "would you feel comfortable in a team-teaching set-up?"
+      ],
+      "synonyms": [
+        "system",
+        "structure",
+        "organization",
+        "arrangement",
+        "framework",
+        "format",
+        "layout",
+        "configuration",
+        "composition"
+      ]
+    },
+    {
+      "description": "A scheme or trick intended to incriminate or deceive someone.",
+      "examples": [
+        "Listen. He didn't die. It was a set-up"
+      ],
+      "synonyms": [
+        "trick",
+        "trap"
+      ]
+    },
+    {
+      "description": "(in a ball game) a pass or play intended to provide an opportunity for another player to score."
+    }
+  ],
+  "pronounciation": "/ˈsɛtʌp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/set_up_1_gb_1.mp3"
+}

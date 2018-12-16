@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "A tube used to convey liquid upwards from a reservoir and then down to a lower level of its own accord. Once the liquid has been forced into the tube, typically by suction or immersion, flow continues unaided.",
+      "synonyms": [
+        "tube",
+        "conduit",
+        "hose",
+        "main",
+        "duct",
+        "line",
+        "channel",
+        "canal",
+        "conveyor",
+        "pipeline",
+        "drain",
+        "tubing",
+        "piping",
+        "siphon",
+        "cylinder"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Draw off or convey (liquid) by means of a siphon.",
+      "synonyms": [
+        "convey",
+        "channel",
+        "siphon",
+        "run",
+        "feed",
+        "lead",
+        "bring"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from French, or via Latin from Greek siphōn pipe. The verb dates from the mid 19th century.",
+  "pronounciation": "/ˈsaɪfən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/siphon_us_1.mp3"
+}

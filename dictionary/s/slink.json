@@ -1,0 +1,27 @@
+{
+  "verb": [
+    {
+      "description": "Move smoothly and quietly with gliding steps, in a stealthy or sensuous manner.",
+      "examples": [
+        "the fox came slinking through the woods"
+      ],
+      "synonyms": [
+        "slip",
+        "move lightly",
+        "move quietly",
+        "steal"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slinking movement or walk.",
+      "examples": [
+        "she moved with a sensuous slink"
+      ]
+    }
+  ],
+  "origin": "Old English slincan crawl, creep; compare with Middle Dutch and Middle Low German slinken subside, sink.",
+  "pronounciation": "/sliNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slink_us_1.mp3"
+}

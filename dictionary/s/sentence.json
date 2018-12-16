@@ -1,0 +1,48 @@
+{
+  "noun": [
+    {
+      "description": "A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses."
+    },
+    {
+      "description": "The punishment assigned to a defendant found guilty by a court, or fixed by law for a particular offense.",
+      "examples": [
+        "her husband is serving a three-year sentence for fraud",
+        "slander of an official carried an eight-year prison sentence"
+      ],
+      "synonyms": [
+        "judgement",
+        "ruling",
+        "pronouncement",
+        "decision",
+        "determination",
+        "decree"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Declare the punishment decided for (an offender)",
+      "examples": [
+        "ten army officers were sentenced to death"
+      ],
+      "synonyms": [
+        "pass judgement on",
+        "impose a sentence on",
+        "pronounce sentence on",
+        "mete out punishment to",
+        "punish",
+        "convict"
+      ]
+    }
+  ],
+  "phrases": [
+    "he was under sentence of death",
+    "They do not think it would be fair to deprive anyone presently under sentence of death of the benefit of the Roodal decision.",
+    "An Ethiopian woman remained under sentence of death.",
+    "Article 40.4.50 deals with the special situation of where a person under sentence of death applies to the High Court for an inquiry under Article 40.4 as to the legality of his or her detention.",
+    "Unlike so many Bresson characters, Fontaine is convinced that he has free will, even in the unlikely situation of prison, under sentence of death."
+  ],
+  "origin": "Middle English (in the senses way of thinking, opinion, court's declaration of punishment, and gist (of a piece of writing)): via Old French from Latin sententia opinion, from sentire feel, be of the opinion.",
+  "pronounciation": "/ˈsen(t)əns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sentence_us_1.mp3"
+}

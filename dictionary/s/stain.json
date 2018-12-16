@@ -1,0 +1,73 @@
+{
+  "verb": [
+    {
+      "description": "Mark (something) with colored patches or dirty marks that are not easily removed.",
+      "examples": [
+        "her clothing was stained with blood",
+        "red ink can stain"
+      ],
+      "synonyms": [
+        "discolour",
+        "blemish",
+        "soil",
+        "mark",
+        "muddy",
+        "spot",
+        "spatter",
+        "splatter",
+        "smear",
+        "splash",
+        "smudge",
+        "blotch",
+        "blacken"
+      ]
+    },
+    {
+      "description": "Color (a material or object) by applying a penetrative dye or chemical.",
+      "examples": [
+        "wood can always be stained to a darker shade"
+      ],
+      "synonyms": [
+        "colour",
+        "tint",
+        "dye",
+        "tinge",
+        "shade",
+        "pigment"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A colored patch or dirty mark that is difficult to remove.",
+      "examples": [
+        "there were mud stains on my shoes"
+      ],
+      "synonyms": [
+        "mark",
+        "spot",
+        "spatter",
+        "splatter",
+        "blotch",
+        "blemish",
+        "smudge",
+        "smear"
+      ]
+    },
+    {
+      "description": "A penetrative dye or chemical used in coloring a material or object.",
+      "synonyms": [
+        "tint",
+        "colour",
+        "dye",
+        "tinge",
+        "shade",
+        "pigment",
+        "colourant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb): shortening of archaic distain, from Old French desteindre tinge with a color different from the natural one. The noun was first recorded (mid 16th century) in the sense defilement, disgrace.",
+  "pronounciation": "/steɪn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stain_us_1.mp3"
+}

@@ -1,0 +1,20 @@
+{
+  "adjective": [
+    {
+      "description": "Having a protective outer case or covering.",
+      "examples": [
+        "crabs and other shelled creatures",
+        "hard-shelled pistachios"
+      ]
+    },
+    {
+      "description": "Having the outer case or covering removed.",
+      "examples": [
+        "shelled peas",
+        "shelled prawns"
+      ]
+    }
+  ],
+  "pronounciation": "/SHeld/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shelled_us_2.mp3"
+}

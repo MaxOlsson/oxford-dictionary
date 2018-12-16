@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A twisting movement or course.",
+      "examples": [
+        "the windings of the stream"
+      ],
+      "synonyms": [
+        "twist",
+        "turn",
+        "turning",
+        "bend",
+        "loop",
+        "curve",
+        "zigzag",
+        "convolution",
+        "meander",
+        "meandering"
+      ]
+    },
+    {
+      "description": "A thing that winds or is wound around something."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Following a twisting or spiral course.",
+      "examples": [
+        "our bedroom was at the top of a winding staircase"
+      ],
+      "synonyms": [
+        "twisting and turning",
+        "full of twists and turns",
+        "meandering",
+        "windy",
+        "twisty",
+        "bending",
+        "curving",
+        "looping",
+        "zigzag",
+        "zigzagging",
+        "serpentine",
+        "sinuous",
+        "snaking",
+        "snaky",
+        "tortuous",
+        "convoluted"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwīndiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/winding_us_6.mp3"
+}

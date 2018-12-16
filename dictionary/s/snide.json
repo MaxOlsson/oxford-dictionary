@@ -1,0 +1,67 @@
+{
+  "adjective": [
+    {
+      "description": "Derogatory or mocking in an indirect way.",
+      "examples": [
+        "snide remarks about my mother"
+      ],
+      "synonyms": [
+        "disparaging",
+        "derogatory",
+        "deprecating",
+        "deprecatory",
+        "denigratory",
+        "insulting",
+        "vituperative",
+        "disapproving",
+        "contemptuous"
+      ]
+    },
+    {
+      "description": "(of a person) devious and underhanded.",
+      "examples": [
+        "a snide divorce lawyer"
+      ],
+      "synonyms": [
+        "underhand",
+        "underhanded",
+        "deceitful",
+        "dishonest",
+        "dishonourable",
+        "disreputable",
+        "unethical",
+        "unprincipled",
+        "immoral",
+        "unscrupulous",
+        "fraudulent",
+        "cheating",
+        "dubious",
+        "dirty",
+        "unfair",
+        "treacherous",
+        "duplicitous",
+        "double-dealing",
+        "janus-faced",
+        "below the belt",
+        "two-timing",
+        "two-faced",
+        "unsporting",
+        "unsportsmanlike"
+      ]
+    },
+    {
+      "description": "Counterfeit; inferior.",
+      "examples": [
+        "snide Rolex watches"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An unpleasant or underhanded person or remark."
+    }
+  ],
+  "origin": "Mid 19th century (in snide (sense 3 of the adjective)): of unknown origin.",
+  "pronounciation": "/snaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snide_us_1.mp3"
+}

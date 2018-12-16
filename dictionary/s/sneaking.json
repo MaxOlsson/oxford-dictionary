@@ -1,0 +1,55 @@
+{
+  "adjective": [
+    {
+      "description": "(of a feeling) persistent in one's mind but reluctantly held or not fully recognized; nagging.",
+      "examples": [
+        "I've a sneaking suspicion they'll do well"
+      ],
+      "synonyms": [
+        "secret",
+        "private",
+        "hidden",
+        "concealed",
+        "innermost",
+        "inward",
+        "unexpressed",
+        "unvoiced",
+        "undisclosed",
+        "undeclared",
+        "undivulged",
+        "unconfessed",
+        "unavowed"
+      ]
+    },
+    {
+      "description": "Furtive and contemptible.",
+      "examples": [
+        "an unpleasant, sneaking habit"
+      ],
+      "synonyms": [
+        "sly",
+        "crafty",
+        "cunning",
+        "wily",
+        "clever",
+        "artful",
+        "scheming",
+        "devious",
+        "guileful",
+        "tricky",
+        "conniving",
+        "designing",
+        "deceitful",
+        "duplicitous",
+        "dishonest",
+        "disingenuous",
+        "underhand",
+        "untrustworthy",
+        "unscrupulous",
+        "double-dealing"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsnēkiNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sneaking_us_1.mp3"
+}

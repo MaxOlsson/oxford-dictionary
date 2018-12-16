@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "A brief and usually light fall of rain, hail, sleet, or snow.",
+      "synonyms": [
+        "fall",
+        "light fall",
+        "drizzle",
+        "flurry",
+        "sprinkling",
+        "mizzle"
+      ]
+    },
+    {
+      "description": "An enclosure in which a person stands under a spray of water to wash."
+    },
+    {
+      "description": "A party at which presents are given to someone, typically a woman who is about to get married or have a baby.",
+      "examples": [
+        "she loved going to baby showers"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a mass of small things) fall or be thrown in a shower.",
+      "examples": [
+        "bits of broken glass showered over me"
+      ],
+      "synonyms": [
+        "rain",
+        "fall",
+        "drizzle",
+        "spray",
+        "mizzle",
+        "hail"
+      ]
+    },
+    {
+      "description": "Wash oneself in a shower."
+    }
+  ],
+  "phrases": [
+    "Plate umpire Bill Miller and second base umpire Joe West noticed what they were doing and sent Day to the showers for violating rule 8.02 that prohibits a pitcher from putting a foreign substance on his fingers.",
+    "He works the team for an hour or so, then sends them to the showers.",
+    "Wayne Bremser - he of the Matthew Barney vs Donkey Kong fame - sends me to the showers thus.",
+    "More likely than not, they will be sent to the showers early and rise up again - that survivalist-at-all-costs strain of thinking always rises after a fall - at some other point in the near future.",
+    "A loud chorus of boos rained down on Guinn in rounds 8,9 and 10 for his inability send Banks to the showers early."
+  ],
+  "origin": "Old English scūr light fall of rain, hail, etc., of Germanic origin; related to Dutch schoer and German Schauer.",
+  "pronounciation": "/ˈSHou(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shower_us_3.mp3"
+}

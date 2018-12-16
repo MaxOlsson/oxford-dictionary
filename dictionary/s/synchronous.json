@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Existing or occurring at the same time.",
+      "examples": [
+        "glaciations were approximately synchronous in both hemispheres"
+      ],
+      "synonyms": [
+        "concurrent",
+        "happening at the same time",
+        "done at the same time",
+        "contemporaneous",
+        "concomitant",
+        "coinciding",
+        "coincident",
+        "synchronized",
+        "synchronic"
+      ]
+    },
+    {
+      "description": "(of a satellite or its orbit) making or denoting an orbit around the earth or another celestial body in which one revolution is completed in the period taken for the body to rotate about its axis."
+    }
+  ],
+  "origin": "Mid 17th century: from late Latin synchronus (from Greek sunkhronos, from sun- together + khronos time) + -ous.",
+  "pronounciation": "/ˈsiNGkrənəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/synchronous_us_1.mp3"
+}

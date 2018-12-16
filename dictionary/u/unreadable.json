@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Not clear enough to read; illegible.",
+      "synonyms": [
+        "illegible",
+        "hard to read",
+        "indecipherable",
+        "unintelligible"
+      ]
+    },
+    {
+      "description": "(of data or a storage medium or device) not capable of being processed or interpreted by a computer or other electronic device."
+    }
+  ],
+  "pronounciation": "/ˌənˈrēdəb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unreadable_us_1.mp3"
+}

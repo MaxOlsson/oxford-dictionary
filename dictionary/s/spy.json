@@ -1,0 +1,46 @@
+{
+  "noun": [
+    {
+      "description": "A person who secretly collects and reports information on the activities, movements, and plans of an enemy or competitor.",
+      "synonyms": [
+        "secret agent",
+        "undercover agent",
+        "enemy agent",
+        "foreign agent",
+        "secret service agent",
+        "intelligence agent",
+        "double agent",
+        "counterspy",
+        "industrial spy",
+        "fifth columnist",
+        "mole",
+        "plant",
+        "scout"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Work for a government or other organization by secretly collecting information about enemies or competitors.",
+      "examples": [
+        "he agreed to spy for the West"
+      ],
+      "synonyms": [
+        "espionage",
+        "undercover work",
+        "cloak-and-dagger activities",
+        "surveillance",
+        "reconnaissance",
+        "intelligence",
+        "eavesdropping",
+        "cyberespionage",
+        "infiltration",
+        "counter-espionage",
+        "counter-intelligence"
+      ]
+    }
+  ],
+  "origin": "Middle English: shortening of Old French espie espying, espier espy, of Germanic origin, from an Indo-European root shared by Latin specere behold, look.",
+  "pronounciation": "/spī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spy_us_1.mp3"
+}

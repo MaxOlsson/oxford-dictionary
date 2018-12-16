@@ -1,0 +1,38 @@
+{
+  "verb": [
+    {
+      "description": "Stand, move, or sit in a lazy, drooping way.",
+      "examples": [
+        "he slouched against the wall",
+        "he was slouched in his chair"
+      ],
+      "synonyms": [
+        "slump",
+        "hunch"
+      ]
+    },
+    {
+      "description": "Bend one side of the brim of (a hat) downward."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A lazy, drooping posture or movement.",
+      "examples": [
+        "his stance was a round-shouldered slouch"
+      ]
+    },
+    {
+      "description": "An incompetent person.",
+      "examples": [
+        "my brother was no slouch at making a buck"
+      ]
+    },
+    {
+      "description": "A downward bend of a hat brim."
+    }
+  ],
+  "origin": "Early 16th century (in the sense lazy, slovenly person): of unknown origin. Slouching was used to mean hanging down, drooping (specifically describing a hat with a brim hanging over the face), and having an awkward posture from the 17th century.",
+  "pronounciation": "/slaʊtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slouch_us_1.mp3"
+}

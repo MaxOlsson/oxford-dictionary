@@ -1,0 +1,34 @@
+{
+  "verb": [
+    {
+      "description": "Give a half-suppressed, typically scornful laugh.",
+      "examples": [
+        "he could imagine them snickering as he passed",
+        "she is a woman they all love to snicker at"
+      ],
+      "synonyms": [
+        "snigger",
+        "sneer",
+        "smirk",
+        "simper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A half-suppressed, typically scornful laugh.",
+      "examples": [
+        "he could not evoke a snicker with his jokes"
+      ],
+      "synonyms": [
+        "snigger",
+        "sneer",
+        "smirk",
+        "simper"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: imitative.",
+  "pronounciation": "/ˈsnikər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snicker_us_1.mp3"
+}

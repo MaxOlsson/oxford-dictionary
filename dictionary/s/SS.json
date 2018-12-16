@@ -1,0 +1,36 @@
+{
+  "abbreviation": [
+    {
+      "description": "Saints.",
+      "examples": [
+        "the Church of SS Peter and Paul"
+      ]
+    },
+    {
+      "description": "Shortstop."
+    },
+    {
+      "description": "Social security."
+    },
+    {
+      "description": "Steamship.",
+      "examples": [
+        "the SS Canberra"
+      ]
+    },
+    {
+      "description": "(in prescriptions) in the strict sense."
+    },
+    {
+      "description": "Sunday School."
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "The Nazi special police force. Founded in 1925 by Hitler as a personal bodyguard, the SS provided security forces (including the Gestapo) and administered the concentration camps."
+    }
+  ],
+  "origin": "Abbreviation of German Schutzstaffel defense squadron.",
+  "pronounciation": "/ˌɛs ˈɛs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ss_us_1.mp3"
+}

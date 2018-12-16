@@ -1,0 +1,28 @@
+{
+  "adjective": [
+    {
+      "description": "Exhausted.",
+      "examples": [
+        "they were too shagged to do any cleaning"
+      ],
+      "synonyms": [
+        "tired out",
+        "worn out",
+        "weary",
+        "dog-tired",
+        "bone-tired",
+        "bone-weary",
+        "ready to drop",
+        "on one's last legs",
+        "asleep on one's feet",
+        "drained",
+        "fatigued",
+        "enervated",
+        "debilitated",
+        "spent"
+      ]
+    }
+  ],
+  "pronounciation": "/ʃæɡd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shagged_us_1.mp3"
+}

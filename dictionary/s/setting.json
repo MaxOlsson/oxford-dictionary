@@ -1,0 +1,45 @@
+{
+  "noun": [
+    {
+      "description": "The place or type of surroundings where something is positioned or where an event takes place.",
+      "examples": [
+        "cozy waterfront cottage in a peaceful country setting"
+      ],
+      "synonyms": [
+        "surroundings",
+        "position",
+        "situation",
+        "environment",
+        "background",
+        "backdrop",
+        "milieu",
+        "environs"
+      ]
+    },
+    {
+      "description": "A piece of metal in which a precious stone or gem is fixed to form a piece of jewelry.",
+      "synonyms": [
+        "mounting",
+        "mount",
+        "fixture",
+        "surround"
+      ]
+    },
+    {
+      "description": "A piece of vocal or choral music composed for particular words.",
+      "examples": [
+        "a setting of Yevtushenko's bleak poem"
+      ]
+    },
+    {
+      "description": "A speed, height, or temperature at which a machine or device can be adjusted to operate."
+    },
+    {
+      "examples": [
+        "if you find the room getting too hot, check the thermostat setting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɛdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/setting_us_1.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Reject with disdain or contempt.",
+      "examples": [
+        "he spoke gruffly, as if afraid that his invitation would be spurned"
+      ],
+      "synonyms": [
+        "refuse",
+        "decline",
+        "say no to",
+        "reject",
+        "rebuff",
+        "scorn",
+        "turn down",
+        "turn away",
+        "repudiate",
+        "treat with contempt",
+        "disdain",
+        "look down one's nose at",
+        "despise"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of spurning."
+    }
+  ],
+  "origin": "Old English spurnan, spornan; related to Latin spernere to scorn; compare with spur.",
+  "pronounciation": "/spərn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/spurn_us_1.mp3"
+}

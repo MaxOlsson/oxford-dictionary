@@ -1,0 +1,41 @@
+{
+  "noun": [
+    {
+      "description": "The destruction of a ship at sea by sinking or breaking up, e.g., in a storm or after running aground.",
+      "synonyms": [
+        "wreck",
+        "ruin",
+        "shell",
+        "skeleton",
+        "hull",
+        "frame",
+        "framework",
+        "derelict"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "(of a person or ship) suffer a shipwreck.",
+      "examples": [
+        "he was shipwrecked off the coast of Sardinia and nearly drowned",
+        "her right to a fair trial might be shipwrecked by prosecutorial misconduct"
+      ],
+      "synonyms": [
+        "foundered",
+        "ashore",
+        "beached",
+        "grounded",
+        "stuck",
+        "shipwrecked",
+        "wrecked",
+        "high and dry",
+        "on the rocks",
+        "on the bottom",
+        "on the ground"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHipˌrek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shipwreck_us_1.mp3"
+}

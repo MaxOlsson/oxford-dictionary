@@ -1,0 +1,24 @@
+{
+  "adjective": [
+    {
+      "description": "Needing or ready for sleep.",
+      "examples": [
+        "the wine had made her sleepy"
+      ],
+      "synonyms": [
+        "drowsy",
+        "tired",
+        "somnolent",
+        "languid",
+        "languorous",
+        "heavy-eyed",
+        "dozy",
+        "nodding",
+        "asleep on one's feet",
+        "yawning"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslēpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sleepy_us_1.mp3"
+}

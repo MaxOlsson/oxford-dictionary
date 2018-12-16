@@ -1,0 +1,29 @@
+{
+  "adverb": [
+    {
+      "description": "At a slow speed; not quickly.",
+      "examples": [
+        "they moved forward slowly"
+      ],
+      "synonyms": [
+        "unhurriedly",
+        "without hurrying",
+        "at a leisurely pace",
+        "at a slow pace",
+        "leisurely",
+        "steadily",
+        "taking one's time",
+        "in one's own good time"
+      ]
+    }
+  ],
+  "phrases": [
+    "the new church began, slowly but surely, to grow",
+    "Then, slowly but surely, they started to claw their way back into the game.",
+    "The flat, slowly but surely, had been filling with gas (with me in it) for getting on for fourteen hours.",
+    "I'll be patient, tackle the job slowly but surely, and I'll get there.",
+    "Well, slowly but surely, the race for the White House is nearing the finish line."
+  ],
+  "pronounciation": "/ˈsloʊli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slowly_us_1.mp3"
+}

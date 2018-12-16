@@ -1,0 +1,62 @@
+{
+  "noun": [
+    {
+      "description": "A document issued by a legal or government official authorizing the police or some other body to make an arrest, search premises, or carry out some other action relating to the administration of justice.",
+      "examples": [
+        "magistrates issued a warrant for his arrest",
+        "an extradition warrant"
+      ],
+      "synonyms": [
+        "authorization",
+        "written order",
+        "licence",
+        "permit",
+        "official document"
+      ]
+    },
+    {
+      "description": "Justification or authority for an action, belief, or feeling.",
+      "examples": [
+        "there is no warrant for this assumption"
+      ],
+      "synonyms": [
+        "justification",
+        "grounds",
+        "cause",
+        "rationale",
+        "basis",
+        "assurance"
+      ]
+    },
+    {
+      "description": "An official certificate of appointment issued to an officer of lower rank than a commissioned officer."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Justify or necessitate (a certain course of action)",
+      "examples": [
+        "that offense is serious enough to warrant a court martial"
+      ],
+      "synonyms": [
+        "justify",
+        "vindicate",
+        "call for",
+        "sanction",
+        "validate",
+        "be a justification for",
+        "be a reason for"
+      ]
+    }
+  ],
+  "phrases": [
+    "I'll warrant you'll thank me for it in years to come",
+    "But as it stands, the people who are running this business are doing it for all of the wrong reasons and, I'll warrant, in all the wrong ways.",
+    "No; that garden is cultivated by the own hands of Signor Giacomo Rappaccini, the famous doctor, who, I warrant, has been heard of as far as Naples.",
+    "I'll warrant that the usual suspect behind modern urban malaise - the breakdown of the fabric of traditional communities - has something to do with it.",
+    "On the pitch two gallant teams went at it hammer and tongs while off it, their passionate supporters kept up an incessant cacophony, which will not, I'll warrant, be equalled at the county final."
+  ],
+  "origin": "Middle English (in the senses protector and safeguard, also, as a verb, keep safe from danger): from variants of Old French guarant (noun), guarantir (verb), of Germanic origin; compare with guarantee.",
+  "pronounciation": "/ˈwɔrənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/warrant_us_1_rr.mp3"
+}
