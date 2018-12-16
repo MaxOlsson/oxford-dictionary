@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Cut the hair off one's face with a razor.",
+      "examples": [
+        "he washed, shaved, and had breakfast"
+      ],
+      "synonyms": [
+        "cut off",
+        "snip off"
+      ]
+    },
+    {
+      "description": "Cut (a thin slice or slices) from the surface of something.",
+      "examples": [
+        "scrape a large sharp knife across the surface, shaving off rolls of very fine chocolate"
+      ],
+      "synonyms": [
+        "plane off",
+        "pare off",
+        "shear off",
+        "whittle off",
+        "scrape off"
+      ]
+    },
+    {
+      "description": "Pass or send something close to (something else), missing it narrowly.",
+      "examples": [
+        "Scott shaved the post in the 29th minute"
+      ],
+      "synonyms": [
+        "touch lightly",
+        "brush",
+        "brush against",
+        "graze",
+        "glance off",
+        "kiss"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of shaving hair from the face or a part of the body.",
+      "examples": [
+        "you need a shave"
+      ]
+    }
+  ],
+  "origin": "Old English sc(e)afan scrape away the surface of (something) by paring, of Germanic origin; related to Dutch schaven and German schaben.",
+  "pronounciation": "/ʃeɪv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shave_us_1.mp3"
+}

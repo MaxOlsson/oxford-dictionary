@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Cry noisily, making loud, convulsive gasps.",
+      "examples": [
+        "he broke down and sobbed like a child",
+        "he sobbed himself to sleep"
+      ],
+      "synonyms": [
+        "weep",
+        "cry",
+        "shed tears",
+        "snivel",
+        "whimper",
+        "whine",
+        "howl",
+        "mewl",
+        "bawl"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of sobbing.",
+      "examples": [
+        "with a sob of despair she threw herself onto the bed"
+      ],
+      "synonyms": [
+        "howl",
+        "bawl",
+        "yowl",
+        "keening"
+      ]
+    }
+  ],
+  "origin": "Middle English: perhaps of Dutch or Low German origin; compare with Dutch dialect sabben to suck.",
+  "pronounciation": "/ˌesˌōˈbē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/s_o_b_1_us_1_abbr.mp3"
+}

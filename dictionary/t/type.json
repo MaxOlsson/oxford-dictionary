@@ -1,0 +1,93 @@
+{
+  "noun": [
+    {
+      "description": "A category of people or things having common characteristics.",
+      "examples": [
+        "this type of heather grows better in a drier habitat",
+        "blood types"
+      ],
+      "synonyms": [
+        "kind",
+        "sort",
+        "variety",
+        "class",
+        "category",
+        "classification",
+        "group",
+        "set",
+        "bracket",
+        "genre",
+        "genus",
+        "species",
+        "family",
+        "order",
+        "breed",
+        "race",
+        "strain"
+      ]
+    },
+    {
+      "description": "A person or thing symbolizing or exemplifying the ideal or defining characteristics of something.",
+      "examples": [
+        "she characterized his witty sayings as the type of modern wisdom"
+      ],
+      "synonyms": [
+        "epitome",
+        "quintessence",
+        "essence",
+        "perfect example",
+        "archetype",
+        "model",
+        "pattern",
+        "paradigm",
+        "exemplar",
+        "embodiment",
+        "personification",
+        "avatar"
+      ]
+    },
+    {
+      "description": "Printed characters or letters.",
+      "examples": [
+        "bold or italic type"
+      ],
+      "synonyms": [
+        "print",
+        "typeface",
+        "face",
+        "characters",
+        "lettering",
+        "letters"
+      ]
+    },
+    {
+      "description": "A design on either side of a medal or coin."
+    },
+    {
+      "description": "An abstract category or class of linguistic item or unit, as distinct from actual occurrences in speech or writing."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Write (something) on a typewriter or computer by pressing the keys.",
+      "examples": [
+        "he typed out the second draft",
+        "I am learning how to type"
+      ]
+    },
+    {
+      "description": "Determine the type to which (a person or their blood or tissue) belongs.",
+      "examples": [
+        "the kidney was typed"
+      ]
+    }
+  ],
+  "phrases": [
+    "At this point in history, it was the often uneducated printer who would decide which words were set in type and which were not, since he could be prosecuted by the authorities.",
+    "No printer would risk his skin by setting the words in type.",
+    "He unfortunately died in February 1897 and it soon transpired that the manuscript was not in the hands of the Club and so nothing could be set in type."
+  ],
+  "origin": "Late 15th century (in the sense symbol, emblem): from French, or from Latin typus, from Greek tupos impression, figure, type, from tuptein to strike. The use in printing dates from the early 18th century; the general sense category with common characteristics arose in the mid 19th century.",
+  "pronounciation": "/taɪp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/type_us_1.mp3"
+}

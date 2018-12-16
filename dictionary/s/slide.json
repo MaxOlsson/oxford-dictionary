@@ -1,0 +1,72 @@
+{
+  "verb": [
+    {
+      "description": "Move along a smooth surface while maintaining continuous contact with it.",
+      "examples": [
+        "she slid down the bank into the water"
+      ],
+      "synonyms": [
+        "glide",
+        "move smoothly",
+        "slip",
+        "slither",
+        "skim",
+        "skate",
+        "glissade",
+        "coast",
+        "plane"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A structure with a smooth sloping surface for children to slide down.",
+      "synonyms": [
+        "water slide",
+        "flume",
+        "log flume",
+        "hydroslide"
+      ]
+    },
+    {
+      "description": "An act of moving along a smooth surface while maintaining continuous contact with it.",
+      "examples": [
+        "use an ice ax to halt a slide on ice and snow"
+      ]
+    },
+    {
+      "description": "A decline in value or quality.",
+      "examples": [
+        "the current slide in house prices"
+      ],
+      "synonyms": [
+        "fall",
+        "decline",
+        "drop",
+        "slump",
+        "tumble",
+        "downturn",
+        "downswing"
+      ]
+    },
+    {
+      "description": "A part of a machine or musical instrument that slides."
+    },
+    {
+      "description": "A rectangular piece of glass on which an object is mounted or placed for examination under a microscope."
+    },
+    {
+      "description": "A sandal or light shoe without a back."
+    }
+  ],
+  "phrases": [
+    "Papa had let the business slide after Mama's death",
+    "I have to find/make friends and maintain relationships, not letting them slide because we won't be here for long.",
+    "At times, it might seem easier to just let things slide but, if you make that a pattern, you're denying your own feelings - not a good thing.",
+    "Keith, who could get a chimpanzee to hit a flawless shot, noticed I had let my grip slide.",
+    "Once they've enjoyed their neighborhoods in this way, it's almost cruel to let things slide back to the way they were."
+  ],
+  "origin": "Old English slīdan (verb); related to sled and sledge. The noun, first in the sense act of sliding, is recorded from the late 16th century.",
+  "pronounciation": "/slaɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slide_us_1.mp3"
+}

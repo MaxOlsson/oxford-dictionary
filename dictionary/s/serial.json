@@ -1,0 +1,47 @@
+{
+  "adjective": [
+    {
+      "description": "Consisting of, forming part of, or taking place in a series.",
+      "examples": [
+        "a serial publication"
+      ]
+    },
+    {
+      "description": "(of a criminal) repeatedly committing the same offense and typically following a characteristic, predictable behavior pattern.",
+      "examples": [
+        "a suspected serial rapist"
+      ]
+    },
+    {
+      "description": "Using transformations of a fixed series of notes."
+    },
+    {
+      "description": "(of a device) involving the transfer of data as a single sequence of bits.",
+      "synonyms": [
+        "sequential",
+        "consecutive",
+        "in sequence",
+        "in order of time",
+        "in order",
+        "ordered",
+        "progressive"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A story or play appearing in regular installments on television or radio or in a periodical.",
+      "examples": [
+        "a new three-part drama serial"
+      ],
+      "synonyms": [
+        "set of programmes",
+        "programme",
+        "production"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: from series + -al, perhaps suggested by French sérial.",
+  "pronounciation": "/ˈsɪriəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/serial_us_1.mp3"
+}

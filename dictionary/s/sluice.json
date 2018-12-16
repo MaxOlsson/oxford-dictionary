@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A sliding gate or other device for controlling the flow of water, especially one in a lock gate."
+    },
+    {
+      "description": "An act of rinsing or showering with water.",
+      "examples": [
+        "a sluice with cold water"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wash or rinse freely with a stream or shower of water.",
+      "examples": [
+        "she sluiced her face in cold water",
+        "crews sluiced down the decks of their ship"
+      ],
+      "synonyms": [
+        "wash",
+        "wash down",
+        "rinse",
+        "swill down",
+        "clean",
+        "cleanse",
+        "flush"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a noun): from Old French escluse sluice gate, based on Latin excludere exclude. The verb dates from the late 16th century.",
+  "pronounciation": "/slus/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sluice_us_1.mp3"
+}

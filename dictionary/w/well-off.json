@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Wealthy.",
+      "examples": [
+        "her family is quite well-off"
+      ],
+      "synonyms": [
+        "wealthy",
+        "rich",
+        "affluent",
+        "moneyed",
+        "cash rich",
+        "with deep pockets",
+        "well off",
+        "prosperous",
+        "opulent",
+        "substantial",
+        "comfortable",
+        "propertied"
+      ]
+    }
+  ],
+  "pronounciation": "/wɛl ɔf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/well_off_1_us_1.mp3"
+}

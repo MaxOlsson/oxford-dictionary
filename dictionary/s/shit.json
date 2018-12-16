@@ -1,0 +1,117 @@
+{
+  "noun": [
+    {
+      "description": "Feces.",
+      "synonyms": [
+        "excrement",
+        "bodily waste",
+        "waste matter",
+        "ordure",
+        "dung",
+        "manure",
+        "scat"
+      ]
+    },
+    {
+      "description": "A contemptible or worthless person.",
+      "synonyms": [
+        "scoundrel",
+        "villain",
+        "rogue",
+        "rascal",
+        "brute",
+        "animal",
+        "weasel",
+        "snake",
+        "monster",
+        "ogre",
+        "wretch",
+        "devil",
+        "good-for-nothing",
+        "reprobate",
+        "wrongdoer",
+        "evil-doer"
+      ]
+    },
+    {
+      "description": "Something worthless; garbage; nonsense.",
+      "examples": [
+        "this book is shit"
+      ],
+      "synonyms": [
+        "nonsense",
+        "balderdash",
+        "gibberish",
+        "claptrap",
+        "blarney",
+        "blather",
+        "blether",
+        "moonshine"
+      ]
+    },
+    {
+      "description": "Things or stuff, especially personal belongings.",
+      "examples": [
+        "he left his shit at my apartment"
+      ],
+      "synonyms": [
+        "belongings",
+        "possessions",
+        "stuff",
+        "property",
+        "worldly goods",
+        "goods",
+        "personal effects",
+        "effects",
+        "paraphernalia",
+        "impedimenta",
+        "bits and pieces",
+        "bits and bobs"
+      ]
+    },
+    {
+      "description": "Any psychoactive drug, especially marijuana.",
+      "synonyms": [
+        "narcotic",
+        "stimulant",
+        "hallucinogen",
+        "addictive drug",
+        "recreational drug",
+        "illegal drug",
+        "substance"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Expel feces from the body.",
+      "synonyms": [
+        "excrete",
+        "discharge faeces",
+        "excrete faeces",
+        "pass faeces",
+        "have a bowel movement",
+        "have a bm",
+        "evacuate one's bowels",
+        "open one's bowels",
+        "void excrement",
+        "relieve oneself",
+        "go to the lavatory"
+      ]
+    },
+    {
+      "description": "Tease or try to deceive (someone)",
+      "examples": [
+        "I shit you not"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "An exclamation of disgust, anger, or annoyance."
+    }
+  ],
+  "origin": "Old English scitte diarrhea, of Germanic origin; related to Dutch schijten, German scheissen (verb). The term was originally neutral and used without vulgar connotation.",
+  "pronounciation": "/ʃɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shit_us_1.mp3"
+}

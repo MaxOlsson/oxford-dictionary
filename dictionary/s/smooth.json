@@ -1,0 +1,120 @@
+{
+  "adjective": [
+    {
+      "description": "Having an even and regular surface or consistency; free from perceptible projections, lumps, or indentations.",
+      "examples": [
+        "smooth flat rocks",
+        "a smooth skin tans more easily"
+      ],
+      "synonyms": [
+        "even",
+        "level",
+        "flat",
+        "as flat as a pancake",
+        "plane",
+        "flush",
+        "unwrinkled",
+        "featureless"
+      ]
+    },
+    {
+      "description": "(of movement) without jerks.",
+      "examples": [
+        "the trucks gave a smooth ride",
+        "graphics are excellent, with fast, smooth scrolling"
+      ]
+    },
+    {
+      "description": "(of an action, event, or process) without problems or difficulties.",
+      "examples": [
+        "the group's expansion into the U.S. market was not quite so smooth"
+      ],
+      "synonyms": [
+        "straightforward",
+        "easy",
+        "effortless",
+        "trouble-free",
+        "untroubled",
+        "well ordered",
+        "simple"
+      ]
+    },
+    {
+      "description": "(of a person or their manner, actions, or words) suavely charming in a way considered to be unctuous.",
+      "examples": [
+        "his voice was infuriatingly smooth"
+      ],
+      "synonyms": [
+        "suave",
+        "urbane",
+        "sophisticated",
+        "polished",
+        "debonair",
+        "courteous",
+        "gracious",
+        "smooth-tongued",
+        "glib",
+        "media-savvy",
+        "persuasive",
+        "slick",
+        "oily",
+        "ingratiating",
+        "unctuous"
+      ]
+    },
+    {
+      "description": "(of food or drink) without harshness or bitterness.",
+      "examples": [
+        "a lovely, smooth, very fruity wine"
+      ],
+      "synonyms": [
+        "mellow",
+        "mild",
+        "agreeable",
+        "pleasant",
+        "bland",
+        "soft",
+        "soothing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Give (something) a flat, regular surface or appearance by running one's hand over it.",
+      "examples": [
+        "she smoothed out the newspaper"
+      ],
+      "synonyms": [
+        "flatten",
+        "make flat",
+        "level",
+        "make level",
+        "level out",
+        "level off",
+        "make even",
+        "even off",
+        "even out",
+        "press",
+        "press down",
+        "roll",
+        "steamroll",
+        "iron",
+        "plane",
+        "make uniform",
+        "make regular",
+        "regularize"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a way that is without difficulties.",
+      "examples": [
+        "the course of true love never did run smooth"
+      ]
+    }
+  ],
+  "origin": "Old English smōth, probably of Germanic origin, though no cognates are known. The verb dates from Middle English.",
+  "pronounciation": "/smo͞oT͟H/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smooth_us_1.mp3"
+}

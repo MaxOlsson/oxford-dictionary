@@ -1,0 +1,62 @@
+{
+  "verb": [
+    {
+      "description": "Become or make smaller in size or amount; contract or cause to contract.",
+      "examples": [
+        "the summer sun had shrunk and dried the wood",
+        "the workforce has shrunk to less than a thousand"
+      ],
+      "synonyms": [
+        "get smaller",
+        "become smaller",
+        "grow smaller",
+        "contract",
+        "diminish",
+        "lessen",
+        "reduce",
+        "decrease",
+        "dwindle",
+        "narrow",
+        "shorten",
+        "slim",
+        "decline",
+        "fall off",
+        "drop off",
+        "condense",
+        "deflate",
+        "shrivel",
+        "wither"
+      ]
+    },
+    {
+      "description": "Move back or away, especially because of fear or disgust.",
+      "examples": [
+        "she shrank away from him, covering her face",
+        "he shrank back against the wall"
+      ],
+      "synonyms": [
+        "draw back",
+        "recoil",
+        "jump back",
+        "spring back",
+        "jerk back",
+        "pull back",
+        "start back",
+        "back away",
+        "retreat",
+        "withdraw"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A clinical psychologist, psychiatrist, or psychotherapist.",
+      "examples": [
+        "you should see a shrink"
+      ]
+    }
+  ],
+  "origin": "Old English scrincan, of Germanic origin; related to Swedish skrynka to wrinkle.",
+  "pronounciation": "/ʃrɪŋk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shrink_us_1.mp3"
+}

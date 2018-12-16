@@ -1,0 +1,40 @@
+{
+  "adjective": [
+    {
+      "description": "(of a building) dilapidated or ramshackle.",
+      "examples": [
+        "little shacky farms"
+      ],
+      "synonyms": [
+        "dirty",
+        "filthy",
+        "grubby",
+        "grimy",
+        "mucky",
+        "slummy",
+        "slum-like",
+        "foul",
+        "vile",
+        "low",
+        "poor",
+        "sorry",
+        "wretched",
+        "dismal",
+        "dingy",
+        "miserable",
+        "mean",
+        "nasty",
+        "seedy",
+        "shabby",
+        "sordid",
+        "sleazy",
+        "insalubrious",
+        "slovenly",
+        "repulsive",
+        "disgusting"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHakē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shacky_us_1.mp3"
+}

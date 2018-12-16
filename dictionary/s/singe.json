@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Burn (something) superficially or lightly.",
+      "examples": [
+        "the fire had singed his eyebrows"
+      ],
+      "synonyms": [
+        "scorch",
+        "burn",
+        "sear",
+        "char",
+        "blacken"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A superficial burn."
+    }
+  ],
+  "origin": "Old English sencgan, of West Germanic origin; related to Dutch zengen.",
+  "pronounciation": "/sɪndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/singe_us_1.mp3"
+}

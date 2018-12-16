@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "Having or showing skill.",
+      "examples": [
+        "a skillful infielder",
+        "his skillful use of propaganda"
+      ],
+      "synonyms": [
+        "expert",
+        "accomplished",
+        "skilled",
+        "masterly",
+        "virtuoso",
+        "master",
+        "consummate",
+        "proficient",
+        "talented",
+        "gifted",
+        "adept",
+        "adroit",
+        "deft",
+        "dexterous",
+        "able",
+        "good",
+        "competent",
+        "capable",
+        "efficient",
+        "experienced",
+        "trained",
+        "practised",
+        "professional",
+        "polished",
+        "well versed",
+        "versed",
+        "smart",
+        "clever",
+        "ingenious",
+        "brilliant",
+        "ready",
+        "apt",
+        "handy",
+        "artful"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskilfəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skillful_us_2.mp3"
+}

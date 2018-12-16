@@ -1,0 +1,17 @@
+{
+  "noun": [
+    {
+      "description": "A communications link to a satellite."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Provide (someone) with or send (something) by satellite link.",
+      "examples": [
+        "I can uplink fax transmissions to a satellite"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈəpˌliNGk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/uplink_us_1.mp3"
+}

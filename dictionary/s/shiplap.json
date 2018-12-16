@@ -1,0 +1,17 @@
+{
+  "verb": [
+    {
+      "description": "Fit (boards) together so that each overlaps the one below.",
+      "examples": [
+        "I shiplapped the boards and then glued and screwed them to the braces"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Boards which have been shiplapped, typically used for cladding."
+    }
+  ],
+  "pronounciation": "/ˈSHipˌlap/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shiplap_us_1.mp3"
+}

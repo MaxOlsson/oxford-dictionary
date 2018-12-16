@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A type of language that consists of words and phrases that are regarded as very informal, are more common in speech than writing, and are typically restricted to a particular context or group of people.",
+      "examples": [
+        "grass is slang for marijuana",
+        "army slang"
+      ],
+      "synonyms": [
+        "informal language",
+        "colloquialisms",
+        "idioms",
+        "patois",
+        "argot",
+        "cant",
+        "dialect"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Attack (someone) using abusive language.",
+      "examples": [
+        "he watched ideological groups slanging one another"
+      ]
+    }
+  ],
+  "origin": "Mid 18th century: of unknown origin.",
+  "pronounciation": "/slaNG/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slang_us_1.mp3"
+}

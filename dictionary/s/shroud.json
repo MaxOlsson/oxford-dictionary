@@ -1,0 +1,81 @@
+{
+  "noun": [
+    {
+      "description": "A length of cloth or an enveloping garment in which a dead person is wrapped for burial.",
+      "examples": [
+        "he was buried in a linen shroud"
+      ],
+      "synonyms": [
+        "winding sheet",
+        "grave clothes",
+        "burial clothes",
+        "cerements",
+        "chrisom"
+      ]
+    },
+    {
+      "description": "A thing that envelops or obscures something.",
+      "examples": [
+        "a shroud of mist",
+        "they operate behind a shroud of secrecy"
+      ],
+      "synonyms": [
+        "covering",
+        "cover",
+        "pall",
+        "cloak",
+        "mask",
+        "mantle",
+        "blanket",
+        "sheet",
+        "layer",
+        "overlay",
+        "envelope",
+        "cloud",
+        "veil",
+        "screen",
+        "curtain",
+        "canopy"
+      ]
+    },
+    {
+      "description": "A set of ropes forming part of the standing rigging of a sailing vessel and supporting the mast from the sides."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wrap or dress (a body) in a shroud for burial."
+    },
+    {
+      "description": "Cover or envelop so as to conceal from view.",
+      "examples": [
+        "mountains shrouded by cloud",
+        "the mystery that shrouds the origins of the universe"
+      ],
+      "synonyms": [
+        "cover",
+        "envelop",
+        "veil",
+        "cloak",
+        "curtain",
+        "swathe",
+        "wrap",
+        "blanket",
+        "screen",
+        "cloud",
+        "mantle",
+        "conceal",
+        "hide",
+        "disguise",
+        "mask",
+        "obscure",
+        "surround",
+        "overlay",
+        "clothe"
+      ]
+    }
+  ],
+  "origin": "Late Old English scrūd garment, clothing, of Germanic origin, from a base meaning cut; related to shred. An early sense of the verb ( Middle English) was cover so as to protect.",
+  "pronounciation": "/SHroud/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shroud_us_1.mp3"
+}

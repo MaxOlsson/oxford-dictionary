@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) move with a slow, shuffling, awkward gait.",
+      "examples": [
+        "he shambled off down the corridor"
+      ],
+      "synonyms": [
+        "shuffle",
+        "lumber",
+        "totter",
+        "dodder",
+        "stumble"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slow, shuffling, awkward gait."
+    }
+  ],
+  "origin": "Late 16th century: probably from dialect shamble ungainly, perhaps from the phrase shamble legs, with reference to the legs of trestle tables (such as would be used in a meat market: see shambles).",
+  "pronounciation": "/ˈSHambəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shamble_us_1.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "adjective": [
+    {
+      "description": "Neither parallel nor at right angles to a specified or implied line; askew; crooked.",
+      "examples": [
+        "his hat looked slightly skew",
+        "a skew angle"
+      ],
+      "synonyms": [
+        "crooked",
+        "awry",
+        "askew",
+        "lopsided",
+        "uneven",
+        "asymmetrical",
+        "to one side",
+        "off-centre",
+        "skewed",
+        "misaligned"
+      ]
+    },
+    {
+      "description": "(of a pair of lines) neither parallel nor intersecting."
+    },
+    {
+      "description": "(of a statistical distribution) not symmetrical."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An oblique angle; a slant.",
+      "synonyms": [
+        "slope",
+        "incline",
+        "tilt",
+        "ramp",
+        "gradient",
+        "pitch",
+        "angle",
+        "rake",
+        "cant",
+        "camber",
+        "skew",
+        "leaning",
+        "inclination",
+        "shelving",
+        "listing"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Suddenly change direction or position.",
+      "examples": [
+        "the car had skewed across the track"
+      ],
+      "synonyms": [
+        "distort",
+        "misrepresent",
+        "change",
+        "alter",
+        "pervert",
+        "falsify",
+        "warp",
+        "put the wrong slant on",
+        "misinterpret",
+        "misconstrue",
+        "misstate",
+        "misquote",
+        "quote out of context",
+        "take out of context",
+        "misreport"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (as a verb in the sense move obliquely): shortening of Old Northern French eskiuwer, variant of Old French eschiver eschew. The adjective and noun (early 17th century) are from the verb.",
+  "pronounciation": "/skju/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skew_us_1.mp3"
+}

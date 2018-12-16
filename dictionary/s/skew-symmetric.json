@@ -1,0 +1,9 @@
+{
+  "adjective": [
+    {
+      "description": "(of a matrix) having all the elements of the principal diagonal equal to zero, and each of the remaining elements equal to the negative of the element in the corresponding position on the other side of the diagonal."
+    }
+  ],
+  "pronounciation": "/ˌskyo͞osəˈmetrik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skew_symmetric_1_us_1.mp3"
+}

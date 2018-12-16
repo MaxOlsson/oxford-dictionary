@@ -1,0 +1,82 @@
+{
+  "noun": [
+    {
+      "description": "A sharp slap or blow, typically one given with the palm of the hand.",
+      "examples": [
+        "she gave Mark a smack across the face"
+      ],
+      "synonyms": [
+        "slap",
+        "blow",
+        "spank",
+        "cuff",
+        "clout",
+        "thump",
+        "punch",
+        "rap",
+        "swat",
+        "thwack",
+        "crack"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Strike (someone or something), typically with the palm of the hand and as a punishment.",
+      "examples": [
+        "Jessica smacked his face quite hard"
+      ],
+      "synonyms": [
+        "slap",
+        "hit",
+        "strike",
+        "spank",
+        "cuff",
+        "clout",
+        "thump",
+        "punch",
+        "rap",
+        "swat",
+        "thwack",
+        "crack"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "In a sudden and violent way.",
+      "examples": [
+        "I ran smack into the back of a parked truck"
+      ],
+      "synonyms": [
+        "straight",
+        "right",
+        "directly",
+        "squarely",
+        "headlong",
+        "dead",
+        "plumb",
+        "point-blank"
+      ]
+    },
+    {
+      "description": "Exactly; precisely.",
+      "examples": [
+        "our mother's house was smack in the middle of the city"
+      ],
+      "synonyms": [
+        "straight",
+        "right",
+        "directly",
+        "squarely",
+        "headlong",
+        "dead",
+        "plumb",
+        "point-blank"
+      ]
+    }
+  ],
+  "origin": "1940s: probably an alteration of Yiddish schmeck a sniff.",
+  "pronounciation": "/smæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smack_us_1.mp3"
+}

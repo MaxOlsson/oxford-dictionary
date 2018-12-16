@@ -1,0 +1,71 @@
+{
+  "verb": [
+    {
+      "description": "Cut (something) with scissors or shears, typically with small quick strokes.",
+      "examples": [
+        "she inspected the embroidery, snipping at loose threads",
+        "she snipped layers into the hair around her face"
+      ],
+      "synonyms": [
+        "cut",
+        "clip",
+        "cut into",
+        "slit",
+        "nick",
+        "gash",
+        "notch",
+        "incise",
+        "snick"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of cutting something with small quick strokes.",
+      "examples": [
+        "he took a snip at a dandelion on the grass"
+      ],
+      "synonyms": [
+        "cut",
+        "clip",
+        "trim"
+      ]
+    },
+    {
+      "description": "A surprisingly cheap item; a bargain.",
+      "examples": [
+        "the wine is a snip at £2.65"
+      ],
+      "synonyms": [
+        "bargain",
+        "good buy",
+        "cheap buy"
+      ]
+    },
+    {
+      "description": "Hand shears, especially for cutting metal.",
+      "examples": [
+        "use tin snips"
+      ]
+    },
+    {
+      "description": "A small or insignificant person.",
+      "examples": [
+        "imagine that little snip telling me I was wrong!"
+      ],
+      "synonyms": [
+        "insignificant person",
+        "nobody",
+        "nonentity",
+        "non-person",
+        "gnat",
+        "insect",
+        "cipher",
+        "pygmy"
+      ]
+    }
+  ],
+  "origin": "Mid 16th century (in the sense a shred): from Low German snip small piece, of imitative origin.",
+  "pronounciation": "/snip/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snip_us_1.mp3"
+}

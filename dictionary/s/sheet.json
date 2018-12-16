@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "description": "A large rectangular piece of cotton or other fabric, used on a bed to cover the mattress and as a layer beneath blankets when these are used.",
+      "synonyms": [
+        "bed linen",
+        "linen",
+        "bedclothes"
+      ]
+    },
+    {
+      "description": "A rectangular piece of paper, especially one of a standard size produced commercially and used for writing and printing on.",
+      "examples": [
+        "a sheet of unmarked paper"
+      ],
+      "synonyms": [
+        "piece of paper",
+        "leaf",
+        "page",
+        "folio"
+      ]
+    },
+    {
+      "description": "A broad flat piece of material such as metal or glass.",
+      "examples": [
+        "the small pipe has been formed from a flat sheet of bronze"
+      ],
+      "synonyms": [
+        "pane",
+        "panel",
+        "piece",
+        "plate"
+      ]
+    },
+    {
+      "description": "An extensive unbroken surface area of something.",
+      "examples": [
+        "a sheet of ice"
+      ],
+      "synonyms": [
+        "layer",
+        "stratum"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with or wrap in a sheet or sheets.",
+      "examples": [
+        "we sheeted a narrow bed"
+      ]
+    },
+    {
+      "description": "(of rain) fall in large quantities.",
+      "examples": [
+        "rain sheeted down"
+      ]
+    }
+  ],
+  "origin": "Old English scēata lower corner of a sail, of Germanic origin; related to Old Norse skauti kerchief (see also sheet).",
+  "phrases": [
+    "he reclined, two sheets to the wind, his back propped against the wall",
+    "I hadn't seen much of him at the party, but as we talked I realized that he was maybe not three, but at least two sheets to the wind.",
+    "We were three sheets to the wind on The Cutty.",
+    "No, I mean, that kiss, way back when you were three sheets to the wind, when you kissed me, that was your first kiss, ever?",
+    "Once the Times identifies some emerging trend, that trend is already three sheets to the wind."
+  ],
+  "pronounciation": "/SHēt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sheet_us_1.mp3"
+}

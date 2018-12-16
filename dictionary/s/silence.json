@@ -1,0 +1,51 @@
+{
+  "noun": [
+    {
+      "description": "Complete absence of sound.",
+      "examples": [
+        "sirens pierce the silence of the night",
+        "an eerie silence descended over the house"
+      ],
+      "synonyms": [
+        "quietness",
+        "quiet",
+        "quietude",
+        "still",
+        "stillness",
+        "hush",
+        "tranquillity",
+        "noiselessness",
+        "soundlessness",
+        "peace",
+        "peacefulness",
+        "peace and quiet"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause to become silent; prohibit or prevent from speaking.",
+      "examples": [
+        "the team's performance silenced their critics",
+        "freedom of the press cannot be silenced by tanks"
+      ],
+      "synonyms": [
+        "quieten",
+        "quiet",
+        "hush",
+        "shush",
+        "still"
+      ]
+    }
+  ],
+  "phrases": [
+    "we finished our meal in silence",
+    "Pupils unable to sit still in a classroom for more than five minutes will work in silence on the computers.",
+    "So I turned back to the window, and watched in silence as the drama continued to unfold.",
+    "Shops on the route were advised to close while the throng walked in silence or softly sang for peace.",
+    "He would think in silence, at meals or in bed or during a walk, sometimes jotting an idea down on a piece of paper."
+  ],
+  "origin": "Middle English: from Old French, from Latin silentium, from silere be silent.",
+  "pronounciation": "/ˈsaɪləns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/silence_us_1.mp3"
+}

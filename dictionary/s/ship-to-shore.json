@@ -1,0 +1,17 @@
+{
+  "adjective": [
+    {
+      "description": "From a ship to land.",
+      "examples": [
+        "ship-to-shore phone calls"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A radiotelephone connecting a ship to land, or connecting a train or other vehicle to a control center."
+    }
+  ],
+  "pronounciation": "/ˈˌSHip tə ˈSHô(ə)r/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/ship_to_shore_1_us_1.mp3"
+}

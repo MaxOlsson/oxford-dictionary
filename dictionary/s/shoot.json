@@ -1,0 +1,180 @@
+{
+  "verb": [
+    {
+      "description": "Kill or wound (a person or animal) with a bullet or arrow.",
+      "examples": [
+        "he was shot in the leg during an armed robbery",
+        "troops shot dead 29 people"
+      ],
+      "synonyms": [
+        "gun down",
+        "shoot down",
+        "mow down",
+        "hit",
+        "wound",
+        "injure",
+        "cut down",
+        "bring down"
+      ]
+    },
+    {
+      "description": "Move suddenly and rapidly in a particular direction.",
+      "examples": [
+        "the car shot forward",
+        "Ward's hand shot out, grabbing his arm"
+      ],
+      "synonyms": [
+        "race",
+        "hurry",
+        "hasten",
+        "flash",
+        "dash",
+        "dart",
+        "rush",
+        "speed",
+        "hurtle",
+        "streak",
+        "really move",
+        "spank along",
+        "whirl",
+        "whizz",
+        "go like lightning",
+        "go hell for leather",
+        "whoosh",
+        "buzz",
+        "zoom",
+        "swoop",
+        "blast",
+        "charge"
+      ]
+    },
+    {
+      "description": "(in soccer, hockey, basketball, etc.) kick, hit, or throw the ball or puck in an attempt to score a goal.",
+      "examples": [
+        "Williams twice shot wide",
+        "after school, we'd go straight out in the alley to shoot baskets"
+      ]
+    },
+    {
+      "description": "Film or photograph (a scene, film, etc.)",
+      "examples": [
+        "she has just been commissioned to shoot a video",
+        "point the camera and just shoot—nothing could be easier"
+      ],
+      "synonyms": [
+        "film",
+        "photograph",
+        "get a photo of",
+        "get a photograph of",
+        "take a photo of",
+        "take a photograph of",
+        "get photographs of",
+        "take photographs of",
+        "get a picture of",
+        "take a picture of",
+        "get pictures of",
+        "take pictures of",
+        "take someone's photo",
+        "take someone's picture",
+        "get a snap of",
+        "get a snapshot of",
+        "take a snap of",
+        "take a snapshot of",
+        "take",
+        "snap",
+        "capture on celluloid",
+        "capture on film",
+        "record on celluloid",
+        "record on film"
+      ]
+    },
+    {
+      "description": "(of a plant or seed) send out buds or shoots; germinate."
+    },
+    {
+      "description": "Inject oneself or another person with (a narcotic drug)",
+      "examples": [
+        "he shot dope into his arm"
+      ],
+      "synonyms": [
+        "administer",
+        "introduce"
+      ]
+    },
+    {
+      "description": "Plane (the edge of a board) accurately."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A young branch or sucker springing from the main stock of a tree or other plant.",
+      "examples": [
+        "he nipped off the new shoots that grew where the leaves joined the stems"
+      ],
+      "synonyms": [
+        "sprout",
+        "offshoot",
+        "scion",
+        "sucker",
+        "bud",
+        "spear",
+        "runner",
+        "tendril",
+        "sprig",
+        "cutting"
+      ]
+    },
+    {
+      "description": "An occasion when a group of people hunt and shoot game for sport.",
+      "examples": [
+        "a grouse shoot"
+      ]
+    },
+    {
+      "description": "An occasion when a professional photographer takes photographs or when a film or video is being made.",
+      "examples": [
+        "a photo shoot",
+        "a fashion shoot"
+      ]
+    },
+    {
+      "description": "A rapid in a stream."
+    },
+    {
+      "examples": [
+        "follow the portages that skirt all nine shoots of whitewater"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used as a euphemism for shit",
+      "examples": [
+        "shoot, it was a great day to be alive"
+      ],
+      "synonyms": [
+        "damn",
+        "damnation",
+        "blast",
+        "hell",
+        "heck",
+        "gordon bennett"
+      ]
+    }
+  ],
+  "phrases": [
+    "Firstly, these kids were attending Sandringham Church, not shooting the breeze in some Internet chat room or hanging round a bus-stop and smoking.",
+    "Jon and I would just sit in the tent with the microphone between us and start shooting the breeze, says Liesl Clark.",
+    "We were just two unemployed guys who once worked together - shooting the breeze, telling war stories.",
+    "Last I heard, Bellows was heading out to New York to help start a new magazine, while still shooting the bull about creating a newspaper in Los Angeles.",
+    "Above the thunderous whir of the aircraft rotors, Nelson and his buddies yelled back and forth, shooting the bull as the copter lifted off.",
+    "their helicopter was shot down by an air-to-air missile",
+    "As often happens at critical moments, unanticipated circumstances interfered with shooting the aircraft down during the Central Asian leg of its overflight of the USSR.",
+    "During one attack a Scud missile was shot down overhead and the wreckage was left in his camp for three days.",
+    "As the summer progresses and multiple German attacks arrive every day, many German planes are shot down, but British losses of planes and particularly pilots become critical.",
+    "I know probably how these individuals felt to some extent before they were shot down and lost their lives."
+  ],
+  "origin": "Old English scēotan, of Germanic origin; related to Dutch schieten and German schiessen, also to sheet, shot, and shut.",
+  "pronounciation": "/ʃut/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shoot_us_1.mp3"
+}

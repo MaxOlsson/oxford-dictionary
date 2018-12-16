@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Not able to be sold.",
+      "examples": [
+        "the house proved unsalable"
+      ],
+      "synonyms": [
+        "faulty",
+        "flawed",
+        "defective",
+        "shoddy",
+        "unsound",
+        "unsaleable",
+        "unsellable",
+        "unfit",
+        "inferior",
+        "second-rate",
+        "below par",
+        "below standard",
+        "substandard"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈseɪləb(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsalable_us_1.mp3"
+}

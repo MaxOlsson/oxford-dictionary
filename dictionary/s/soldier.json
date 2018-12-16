@@ -1,0 +1,75 @@
+{
+  "noun": [
+    {
+      "description": "A person who serves in an army.",
+      "synonyms": [
+        "fighter",
+        "serviceman",
+        "servicewoman",
+        "fighting man",
+        "fighting woman",
+        "comrade-in-arms",
+        "warrior",
+        "trooper"
+      ]
+    },
+    {
+      "description": "A wingless caste of ant or termite with a large specially modified head and jaws, involved chiefly in defense."
+    },
+    {
+      "description": "A strip of bread or toast, used for dipping into a soft-boiled egg."
+    },
+    {
+      "description": "An upright brick, timber, or other building element."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Serve as a soldier.",
+      "examples": [
+        "I soldiered with your father on his last four campaigns"
+      ]
+    },
+    {
+      "description": "Carry on doggedly; persevere.",
+      "examples": [
+        "Graham wasn't enjoying this, but he soldiered on"
+      ],
+      "synonyms": [
+        "persevere",
+        "persist",
+        "carry on doggedly",
+        "keep on",
+        "keep going",
+        "not give up",
+        "struggle on",
+        "hammer away",
+        "be persistent",
+        "be determined",
+        "follow something through",
+        "see something through",
+        "keep at it",
+        "show determination",
+        "press ahead",
+        "press on",
+        "stay with something",
+        "not take no for an answer",
+        "be tenacious",
+        "be pertinacious",
+        "stand one's ground",
+        "stand fast",
+        "stand firm",
+        "hold on",
+        "hold out",
+        "go the distance",
+        "stay the course",
+        "plod on",
+        "plough on",
+        "grind away"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French soldier, from soulde (soldier's) pay, from Latin solidus (see solidus). The verb dates from the early 17th century.",
+  "pronounciation": "/ˈsōljər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soldier_us_1.mp3"
+}

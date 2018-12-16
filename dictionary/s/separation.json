@@ -1,0 +1,44 @@
+{
+  "noun": [
+    {
+      "description": "The action or state of moving or being moved apart.",
+      "examples": [
+        "the damage that might arise from the separation of parents and children"
+      ],
+      "synonyms": [
+        "disconnection",
+        "detachment",
+        "severance",
+        "uncoupling",
+        "dissociation",
+        "disassociation",
+        "disjunction",
+        "disunion",
+        "disaffiliation",
+        "segregation"
+      ]
+    },
+    {
+      "description": "The division of something into constituent or distinct elements.",
+      "examples": [
+        "prose structured into short sentences with meaningful separation into paragraphs"
+      ]
+    },
+    {
+      "description": "Distinction or difference between the signals carried by the two channels of a stereophonic system."
+    },
+    {
+      "description": "The generation of a turbulent boundary layer between the surface of a body and a moving fluid, or between two fluids moving at different speeds."
+    }
+  ],
+  "phrases": [
+    "Voluntarily appearing in front of a congressional committee in public does not violate separation of powers.",
+    "He said it also violates the government's separation of powers.",
+    "The Australian Constitution, with its more rigorous separation of powers, prevents our common law changing in the same direction.",
+    "There can be nothing more activist than members of congress violating the separation of powers as they did this past week-end.",
+    "And getting the court involved in this to me was a great mistake, because it violates the separation of powers."
+  ],
+  "origin": "Late Middle English: via Old French from Latin separatio(n-), from separare disjoin, divide (see separate).",
+  "pronounciation": "/ˌsepəˈrāSH(ə)n/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/separation_us_1.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "verb": [
+    {
+      "description": "Make musical sounds with the voice, especially words with a set tune.",
+      "examples": [
+        "Bella sang to the baby"
+      ],
+      "synonyms": [
+        "chant",
+        "intone",
+        "croon",
+        "carol",
+        "chorus",
+        "warble",
+        "trill",
+        "pipe",
+        "quaver"
+      ]
+    },
+    {
+      "description": "Make a high-pitched whistling or buzzing sound.",
+      "examples": [
+        "the kettle was beginning to sing"
+      ]
+    },
+    {
+      "description": "Act as an informer to the police.",
+      "examples": [
+        "as soon as he got put under pressure, he sang like a canary"
+      ],
+      "synonyms": [
+        "inform",
+        "inform on someone",
+        "tell tales",
+        "tell tales on someone"
+      ]
+    },
+    {
+      "description": "Recount or celebrate in a work of literature, especially poetry.",
+      "examples": [
+        "poetry should sing the strangeness and variety of the human race",
+        "these poets sing of the North American experience"
+      ],
+      "synonyms": [
+        "praise",
+        "laud",
+        "extol",
+        "glorify",
+        "eulogize",
+        "reverence",
+        "honour",
+        "pay tribute to",
+        "pay homage to",
+        "salute",
+        "hymn"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or spell of singing."
+    }
+  ],
+  "phrases": [
+    "As one who's been at the battlefront, angrily detailing Hollywood's outrages against women for these many years, it's a relief to be singing a different tune and hoping the music lasts.",
+    "Just wait until you and Tyler are married, replied John, then you'll sing a different tune.",
+    "Less than two years ago he was singing a different tune.",
+    "But these days, the businessman mayor is singing a different tune.",
+    "On Friday, workers sang a different tune from the previous sounds of confrontation."
+  ],
+  "origin": "Old English singan (verb), of Germanic origin; related to Dutch zingen and German singen.",
+  "pronounciation": "/sɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sing_us_1.mp3"
+}

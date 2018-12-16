@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A North American Indian of the northern Pacific coast."
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Relating to North American Indians of the northern Pacific coast."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Camp without a tent.",
+      "examples": [
+        "no more siwashing under trees for me"
+      ]
+    }
+  ],
+  "origin": "Chinook Jargon, from Canadian French sauvage wild.",
+  "pronounciation": "/-wôSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/siwash_1_us_1.mp3"
+}

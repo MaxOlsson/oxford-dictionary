@@ -1,0 +1,38 @@
+{
+  "noun": [
+    {
+      "description": "A latch on a door or window.",
+      "examples": [
+        "she quietly lifted the sneck and slipped out"
+      ],
+      "synonyms": [
+        "fastening",
+        "catch",
+        "fastener"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Close or fasten (a door or window) with a latch.",
+      "examples": [
+        "sneck the door and hide under the bed when they come"
+      ],
+      "synonyms": [
+        "bolt",
+        "lock",
+        "fasten",
+        "padlock",
+        "secure",
+        "latch",
+        "deadlock",
+        "block",
+        "barricade",
+        "obstruct"
+      ]
+    }
+  ],
+  "origin": "Middle English: obscurely related to snatch.",
+  "pronounciation": "/snek/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sneck_us_1.mp3"
+}

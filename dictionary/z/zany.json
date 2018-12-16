@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Amusingly unconventional and idiosyncratic.",
+      "examples": [
+        "zany humor"
+      ],
+      "synonyms": [
+        "eccentric",
+        "bizarre",
+        "weird",
+        "peculiar",
+        "odd",
+        "quirky",
+        "avant-garde",
+        "unconventional",
+        "off-centre",
+        "strange",
+        "outlandish",
+        "ridiculous",
+        "ludicrous"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An erratic or eccentric person."
+    }
+  ],
+  "origin": "Late 16th century: from French zani or Italian zan(n)i, Venetian form of Gianni, Giovanni John, stock name of the servants acting as clowns in the commedia dell'arte.",
+  "pronounciation": "/ˈzeɪni/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/zany_us_1.mp3"
+}

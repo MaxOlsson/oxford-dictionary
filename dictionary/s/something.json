@@ -1,0 +1,44 @@
+{
+  "pronoun": [
+    {
+      "description": "A thing that is unspecified or unknown.",
+      "examples": [
+        "we stopped for something to eat",
+        "I knew something terrible had happened",
+        "something about her frightened me"
+      ]
+    },
+    {
+      "description": "Used in various expressions indicating that a description or amount being stated is not exact.",
+      "examples": [
+        "a wry look, something between amusement and regret",
+        "grassland totaling something over three hundred acres",
+        "there were something like fifty applications"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Used for emphasis with a following adjective functioning as an adverb.",
+      "examples": [
+        "my back hurts something terrible"
+      ]
+    },
+    {
+      "description": "To some extent; somewhat.",
+      "examples": [
+        "the people were something scared"
+      ]
+    }
+  ],
+  "phrases": [
+    "you look like you just climbed a mountain or something",
+    "They laugh because they think she wants them to do dance routines or something.",
+    "On the front, it says something about Jesus, with a picture of a candle, or something.",
+    "Man alive, somebody could write a blog or something about the train service around here.",
+    "I mean, being praised by him is like being force fed chocolate creams or something."
+  ],
+  "origin": "Old English sum thing (see some, thing).",
+  "pronounciation": "/ˈsəmˌθɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/something_us_1.mp3"
+}

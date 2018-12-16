@@ -1,0 +1,89 @@
+{
+  "adjective": [
+    {
+      "description": "Only one; not one of several.",
+      "examples": [
+        "a single red rose",
+        "the kingdom was ruled over by a single family"
+      ],
+      "synonyms": [
+        "one",
+        "one only",
+        "sole",
+        "lone",
+        "solitary",
+        "isolated",
+        "by itself"
+      ]
+    },
+    {
+      "description": "Unmarried or not involved in a stable sexual relationship.",
+      "examples": [
+        "a single mother"
+      ],
+      "synonyms": [
+        "unmarried",
+        "unwed",
+        "unwedded",
+        "unattached",
+        "free",
+        "without a husband",
+        "without a partner",
+        "without a wife",
+        "wifeless",
+        "husbandless",
+        "spouseless",
+        "partnerless",
+        "a bachelor",
+        "a spinster"
+      ]
+    },
+    {
+      "description": "Consisting of one part.",
+      "examples": [
+        "the studio was a single large room"
+      ]
+    },
+    {
+      "description": "Free from duplicity or deceit; ingenuous.",
+      "examples": [
+        "a pure and single heart"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An individual person or thing rather than part of a pair or a group."
+    },
+    {
+      "description": "A hit that allows the batter to reach first base safely."
+    },
+    {
+      "description": "(especially in tennis and badminton) a game or competition for individual players, not pairs or teams."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Choose someone or something from a group for special treatment.",
+      "examples": [
+        "one newspaper was singled out for criticism"
+      ],
+      "synonyms": [
+        "select",
+        "pick out",
+        "fix on",
+        "choose",
+        "decide on"
+      ]
+    },
+    {
+      "description": "Hit a single.",
+      "examples": [
+        "Aaron singled to center"
+      ]
+    }
+  ],
+  "origin": "Middle English: via Old French from Latin singulus, related to simplus simple.",
+  "pronounciation": "/ˈsɪŋɡəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/single_us_1.mp3"
+}

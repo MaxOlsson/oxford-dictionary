@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "An outer covering such as a husk or pod, especially the husk of an ear of corn.",
+      "synonyms": [
+        "skin",
+        "peel",
+        "covering",
+        "zest"
+      ]
+    },
+    {
+      "description": "A person or thing regarded as worthless or contemptible.",
+      "examples": [
+        "William didn't dig the idea at all and said it was a shuck"
+      ],
+      "synonyms": [
+        "damn",
+        "damnation",
+        "blast",
+        "hell",
+        "heck",
+        "gordon bennett"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express surprise, regret, irritation, or, in response to praise, self-deprecation.",
+      "examples": [
+        "“Thank you for getting it.” “Oh, shucks, it was nothing.”"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Remove the shucks from corn or shellfish.",
+      "examples": [
+        "shuck and drain the oysters"
+      ],
+      "synonyms": [
+        "shell",
+        "husk",
+        "peel",
+        "pare",
+        "skin"
+      ]
+    },
+    {
+      "description": "Cause (someone) to believe something that is not true; fool or tease.",
+      "synonyms": [
+        "make fun of",
+        "poke fun at",
+        "chaff",
+        "make jokes about",
+        "rag",
+        "mock",
+        "laugh at",
+        "guy",
+        "satirize",
+        "be sarcastic about"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: of unknown origin.",
+  "pronounciation": "/ʃək/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shuck_us_1.mp3"
+}

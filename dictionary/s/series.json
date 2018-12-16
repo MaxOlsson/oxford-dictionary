@@ -1,0 +1,69 @@
+{
+  "noun": [
+    {
+      "description": "A number of things, events, or people of a similar kind or related nature coming one after another.",
+      "examples": [
+        "the explosion was the latest in a series of accidents",
+        "he gave a series of lectures on modern art"
+      ],
+      "synonyms": [
+        "sequence",
+        "succession",
+        "string",
+        "chain",
+        "concatenation",
+        "train",
+        "run",
+        "chapter",
+        "round",
+        "progression",
+        "procession"
+      ]
+    },
+    {
+      "description": "A set of related television or radio programs, especially of a specified kind.",
+      "examples": [
+        "a new drama series"
+      ],
+      "synonyms": [
+        "set of programmes",
+        "programme",
+        "production",
+        "serial"
+      ]
+    },
+    {
+      "description": "Denoting electrical circuits or components arranged so that the current passes through each successively."
+    },
+    {
+      "description": "(in chronostratigraphy) a range of strata corresponding to an epoch in time, being a subdivision of a system and itself subdivided into stages."
+    },
+    {
+      "examples": [
+        "the Pliocene series"
+      ]
+    },
+    {
+      "description": "A set of elements with common properties or of compounds related in composition or structure.",
+      "examples": [
+        "the metals of the lanthanide series"
+      ]
+    },
+    {
+      "description": "A set of quantities constituting a progression or having the several values determined by a common relation."
+    },
+    {
+      "description": "A group of speech sounds having at least one phonetic feature in common but distinguished in other respects."
+    }
+  ],
+  "phrases": [
+    "The panels themselves can be wired together in parallel or in series to produce a variety of currents suitable for almost any use.",
+    "If you hook two batteries in series to get 3 volts, what does that do to the strength of the magnet?",
+    "It is connected in series between the utility power supply and the load.",
+    "There are a few laws of physics and other parameters that must be considered before adding an amplifier in series with a coaxial cable line.",
+    "Change your luck by wiring two 12V car batteries in series to get your engine started."
+  ],
+  "origin": "Early 17th century: from Latin, literally row, chain, from serere join, connect.",
+  "pronounciation": "/ˈsɪriz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/series_us_1.mp3"
+}

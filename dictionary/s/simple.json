@@ -1,0 +1,97 @@
+{
+  "adjective": [
+    {
+      "description": "Easily understood or done; presenting no difficulty.",
+      "examples": [
+        "a simple solution",
+        "camcorders are now so simple to operate"
+      ],
+      "synonyms": [
+        "straightforward",
+        "easy",
+        "uncomplicated",
+        "uninvolved",
+        "effortless",
+        "painless",
+        "manageable",
+        "undemanding",
+        "unexacting",
+        "elementary",
+        "child's play",
+        "plain sailing",
+        "a five-finger exercise",
+        "nothing"
+      ]
+    },
+    {
+      "description": "Plain, basic, or uncomplicated in form, nature, or design; without much decoration or ornamentation.",
+      "examples": [
+        "a simple white blouse",
+        "the house is furnished in a simple country style"
+      ],
+      "synonyms": [
+        "plain",
+        "unadorned",
+        "undecorated",
+        "unembellished",
+        "unornamented",
+        "without ornament",
+        "without ornamentation",
+        "unelaborate",
+        "unpretentious",
+        "unostentatious",
+        "unfussy",
+        "no-nonsense",
+        "basic",
+        "modest",
+        "unsophisticated",
+        "penny plain",
+        "without frills",
+        "honest",
+        "homely",
+        "homespun",
+        "everyday",
+        "workaday"
+      ]
+    },
+    {
+      "description": "Composed of a single element; not compound.",
+      "synonyms": [
+        "non-compound",
+        "non-complex",
+        "uncompounded",
+        "uncombined",
+        "unmixed",
+        "unblended",
+        "unalloyed",
+        "pure",
+        "basic",
+        "single",
+        "elementary",
+        "fundamental"
+      ]
+    },
+    {
+      "description": "Of low or abnormally low intelligence."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A medicinal herb, or a medicine made from one.",
+      "examples": [
+        "the gatherers of simples"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to convey that something is very straightforward.",
+      "examples": [
+        "I don't overanalyze. I listen, I like, I buy. Simple!"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French, from Latin simplus. The noun sense (mid 16th century) originally referred to a medicine made from one constituent, especially from one plant.",
+  "pronounciation": "/ˈsimpəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/simple_us_1.mp3"
+}

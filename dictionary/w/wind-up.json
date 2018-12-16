@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "An attempt to tease or irritate someone.",
+      "examples": [
+        "surely this was a wind-up"
+      ]
+    },
+    {
+      "description": "An act of concluding or finishing something.",
+      "examples": [
+        "a company wind-up"
+      ],
+      "synonyms": [
+        "end",
+        "ending",
+        "finish",
+        "close",
+        "closure",
+        "termination",
+        "cessation"
+      ]
+    },
+    {
+      "description": "The motions of a pitcher preparing to pitch the ball."
+    }
+  ],
+  "pronounciation": "/ˈwʌɪndʌp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wind_up_1_gb_1.mp3"
+}

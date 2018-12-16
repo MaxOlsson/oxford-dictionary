@@ -1,0 +1,68 @@
+{
+  "noun": [
+    {
+      "description": "A strip of some material, such as paper, cloth, or food, that has been torn, cut, or scraped from something larger.",
+      "examples": [
+        "her beautiful dress was torn to shreds"
+      ],
+      "synonyms": [
+        "tatter",
+        "scrap",
+        "strip",
+        "ribbon",
+        "rag",
+        "snippet",
+        "snip",
+        "remnant",
+        "fragment",
+        "sliver",
+        "splinter",
+        "chip",
+        "bit",
+        "tiny bit",
+        "piece",
+        "tiny piece",
+        "wisp"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Tear or cut into shreds.",
+      "examples": [
+        "shredded cabbage"
+      ],
+      "synonyms": [
+        "chop finely",
+        "cut up",
+        "tear up",
+        "rip up",
+        "grate",
+        "rub into pieces",
+        "mince",
+        "mangle",
+        "chew",
+        "macerate",
+        "grind",
+        "granulate",
+        "pulverize"
+      ]
+    },
+    {
+      "description": "Play a very fast, intricate style of rock lead guitar.",
+      "examples": [
+        "we want to hear everything from country and western to blisteringly fast guitar shredding"
+      ]
+    }
+  ],
+  "phrases": [
+    "my reputation will be in shreds",
+    "Political posters were torn in shreds, property damaged.",
+    "With the French president's ambitious plans for a cohesive, more centralised European Union in shreds, Ireland can take a bow.",
+    "A French cabinet minister once branded him a \" personality in shreds \".",
+    "Smoked duck breast from Ilan County is cut in shreds."
+  ],
+  "origin": "Late Old English scrēad piece cut off, scrēadian trim, prune, of West Germanic origin; related to shroud.",
+  "pronounciation": "/SHred/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shred_us_1.mp3"
+}

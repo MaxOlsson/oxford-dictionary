@@ -1,0 +1,78 @@
+{
+  "adjective": [
+    {
+      "description": "(of a subject, state, or activity) demanding careful consideration or application.",
+      "examples": [
+        "marriage is a serious matter"
+      ],
+      "synonyms": [
+        "important",
+        "significant",
+        "consequential",
+        "of consequence",
+        "momentous",
+        "of moment",
+        "key",
+        "grave",
+        "weighty",
+        "far-reaching",
+        "major"
+      ]
+    },
+    {
+      "description": "Acting or speaking sincerely and in earnest, rather than in a joking or halfhearted manner.",
+      "examples": [
+        "actors who are serious about their work",
+        "suddenly he wasn't teasing any more—he was deadly serious"
+      ],
+      "synonyms": [
+        "in earnest",
+        "earnest",
+        "sincere",
+        "wholehearted",
+        "genuine",
+        "meaning what one says"
+      ]
+    },
+    {
+      "description": "Significant or worrying because of possible danger or risk; not slight or negligible.",
+      "examples": [
+        "she escaped serious injury",
+        "Haydn was Mozart's only serious rival"
+      ],
+      "synonyms": [
+        "severe",
+        "grave",
+        "bad",
+        "critical",
+        "acute",
+        "alarming",
+        "worrying",
+        "grievous",
+        "dreadful",
+        "terrible",
+        "dire",
+        "extreme",
+        "dangerous",
+        "perilous",
+        "precarious"
+      ]
+    },
+    {
+      "description": "Substantial in terms of size, number, or quality.",
+      "examples": [
+        "he suddenly had serious money to spend",
+        "a serious chocolate cheesecake"
+      ],
+      "synonyms": [
+        "sizeable",
+        "substantial",
+        "appreciable",
+        "significant"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Old French serieux or late Latin seriosus, from Latin serius earnest, serious.",
+  "pronounciation": "/ˈsɪriəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/serious_us_1.mp3"
+}

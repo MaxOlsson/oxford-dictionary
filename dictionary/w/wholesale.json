@@ -1,0 +1,47 @@
+{
+  "noun": [
+    {
+      "description": "The selling of goods in large quantities to be retailed by others."
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Being sold in large quantities to be retailed by others.",
+      "examples": [
+        "bottles from this region sell wholesale at about $72 a case"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Done on a large scale; extensive.",
+      "examples": [
+        "the wholesale destruction of the natural order"
+      ],
+      "synonyms": [
+        "extensive",
+        "widespread",
+        "large-scale",
+        "wide-ranging",
+        "far-reaching",
+        "comprehensive",
+        "all-inclusive",
+        "total",
+        "outright",
+        "thorough",
+        "sweeping",
+        "blanket",
+        "broad",
+        "mass"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Sell (goods) in large quantities at low prices to be retailed by others."
+    }
+  ],
+  "origin": "Late Middle English: originally as by whole sale in large quantities.",
+  "pronounciation": "/ˈhoʊlˌseɪl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wholesale_us_1.mp3"
+}

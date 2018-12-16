@@ -1,0 +1,23 @@
+{
+  "adjective": [
+    {
+      "description": "Using or denoting slang.",
+      "examples": [
+        "the style is so slangy as to be incomprehensible",
+        "a slangy, stand-up comedian"
+      ],
+      "synonyms": [
+        "colloquial",
+        "vernacular",
+        "idiomatic",
+        "demotic",
+        "non-standard",
+        "popular",
+        "dialectal",
+        "non-literary"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslæŋi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slangy_us_3.mp3"
+}

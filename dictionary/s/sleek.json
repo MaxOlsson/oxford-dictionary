@@ -1,0 +1,39 @@
+{
+  "adjective": [
+    {
+      "description": "(of hair, fur, or skin) smooth and glossy.",
+      "examples": [
+        "he was tall, with sleek, dark hair"
+      ],
+      "synonyms": [
+        "smooth",
+        "glossy",
+        "shiny",
+        "shining",
+        "gleaming",
+        "lustrous",
+        "silken",
+        "silky",
+        "satiny",
+        "velvety",
+        "sheeny"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (the hair) smooth and glossy, typically by applying pressure or moisture to it.",
+      "examples": [
+        "her black hair was sleeked down"
+      ],
+      "synonyms": [
+        "smooth",
+        "sleek",
+        "flatten"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: a later variant of slick (adjective and verb).",
+  "pronounciation": "/slik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sleek_us_1.mp3"
+}

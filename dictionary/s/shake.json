@@ -1,0 +1,115 @@
+{
+  "verb": [
+    {
+      "description": "(of a structure or area of land) tremble or vibrate.",
+      "examples": [
+        "buildings shook in Sacramento and tremors were felt in Reno"
+      ],
+      "synonyms": [
+        "vibrate",
+        "tremble",
+        "quiver",
+        "quake",
+        "shiver",
+        "shudder",
+        "judder",
+        "jiggle",
+        "wobble",
+        "rock",
+        "sway",
+        "swing",
+        "roll",
+        "oscillate"
+      ]
+    },
+    {
+      "description": "Move (an object) up and down or from side to side with rapid, forceful, jerky movements.",
+      "examples": [
+        "she stood in the hall and shook her umbrella"
+      ],
+      "synonyms": [
+        "jiggle",
+        "joggle",
+        "wave from side to side"
+      ]
+    },
+    {
+      "description": "Upset the composure of; shock or astonish.",
+      "examples": [
+        "rumors of a further loss shook the market",
+        "the fall shook him up quite badly",
+        "she was visibly shaken and upset when she returned"
+      ],
+      "synonyms": [
+        "upset",
+        "distress",
+        "disturb",
+        "unsettle",
+        "perturb",
+        "disconcert",
+        "discompose",
+        "disquiet",
+        "unnerve",
+        "trouble",
+        "take aback",
+        "throw off balance",
+        "agitate",
+        "fluster"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of shaking.",
+      "examples": [
+        "with a shake of its magnificent antlers the stag charged down the slope",
+        "camera shake causes the image to become blurred"
+      ],
+      "synonyms": [
+        "jiggle",
+        "joggle",
+        "jerk"
+      ]
+    },
+    {
+      "description": "A fit of trembling or shivering.",
+      "examples": [
+        "I wouldn't go in there, it gives me the shakes"
+      ],
+      "synonyms": [
+        "a fit of trembling",
+        "delirium tremens",
+        "tremors"
+      ]
+    },
+    {
+      "description": "An earth tremor."
+    },
+    {
+      "synonyms": [
+        "earthquake",
+        "earth tremor",
+        "aftershock",
+        "convulsion"
+      ]
+    },
+    {
+      "description": "A trill."
+    }
+  ],
+  "phrases": [
+    "I do not believe he gave the industry a fair shake",
+    "I only bring this up to make the point that I really did give them a fair shake - hell, I own four of their albums.",
+    "So, if we want the Yanks to keep coming over here, we should give them a fair shake - not a shakedown.",
+    "They are not getting a fair shake, are they?",
+    "I mean, a lot of money, time and effort go into these new shows, so I want to give them a fair shake before I start putting my journalistic weight behind them or pushing them off the air with a sharp barb.",
+    "it was disruptive to the industry as it was shaking down after deregulation",
+    "How that sentiment will shake down Monday, not even Cummins pretends to know.",
+    "Stay tuned because something has to shake down, and soon.",
+    "The Usher Hall, normally so Edwardian, upright and slightly stuffy, slips off its tiara and shakes down to something a bit more comfortable.",
+    "It will be instructive to see how the piece shapes up as it shakes down."
+  ],
+  "origin": "Old English sc(e)acan (verb), of Germanic origin.",
+  "pronounciation": "/ʃeɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shake_us_1.mp3"
+}

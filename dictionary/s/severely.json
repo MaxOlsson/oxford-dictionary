@@ -1,0 +1,35 @@
+{
+  "adverb": [
+    {
+      "description": "To an undesirably great or intense degree.",
+      "examples": [
+        "our business has been severely affected by the slowdown",
+        "severely injured patients"
+      ],
+      "synonyms": [
+        "very badly",
+        "extremely badly",
+        "seriously",
+        "gravely",
+        "critically",
+        "grievously",
+        "acutely",
+        "sorely"
+      ]
+    },
+    {
+      "description": "Strictly or harshly.",
+      "examples": [
+        "the culprits will be severely punished"
+      ]
+    },
+    {
+      "description": "In a very plain style.",
+      "examples": [
+        "her hair was severely pulled back into a bun"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈvirlē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/severely_us_1.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Turn or slide violently or uncontrollably in a particular direction.",
+      "examples": [
+        "the Chevy slewed from side to side in the snow",
+        "he managed to slew the aircraft around before it settled on the runway"
+      ],
+      "synonyms": [
+        "glide",
+        "move smoothly",
+        "slip",
+        "slither",
+        "skim",
+        "skate",
+        "glissade",
+        "coast",
+        "plane"
+      ]
+    },
+    {
+      "description": "(of an electronic device) undergo slewing."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A violent or uncontrollable sliding movement.",
+      "examples": [
+        "I was assaulted by the thump and slew of the van"
+      ],
+      "synonyms": [
+        "turning aside",
+        "turning away",
+        "turning",
+        "diversion",
+        "drawing away"
+      ]
+    }
+  ],
+  "": [],
+  "origin": "Mid 19th century: from Irish sluagh.",
+  "pronounciation": "/slo͞o/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slew_us_2.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "noun": [
+    {
+      "description": "A pile of objects, typically one that is neatly arranged.",
+      "examples": [
+        "a stack of boxes"
+      ],
+      "synonyms": [
+        "heap",
+        "pile",
+        "mound",
+        "mountain",
+        "pyramid",
+        "mass",
+        "store",
+        "stockpile",
+        "hoard",
+        "load",
+        "tower",
+        "drift",
+        "clamp",
+        "hack"
+      ]
+    },
+    {
+      "description": "A chimney, especially one on a factory, or a vertical exhaust pipe on a vehicle.",
+      "synonyms": [
+        "chimney",
+        "factory chimney",
+        "chimney stack",
+        "smokestack",
+        "funnel",
+        "exhaust pipe"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange (a number of things) in a pile, typically a neat one.",
+      "examples": [
+        "the books had been stacked up in three piles",
+        "she stood up, beginning to stack the plates"
+      ],
+      "synonyms": [
+        "heap",
+        "heap up",
+        "pile",
+        "pile up",
+        "make a heap of",
+        "make a pile of",
+        "make a stack of"
+      ]
+    },
+    {
+      "description": "Shuffle or arrange (a deck of cards) dishonestly so as to gain an unfair advantage."
+    },
+    {
+      "description": "(in snowboarding) fall over."
+    }
+  ],
+  "phrases": [
+    "Insert the muzzle of the other two rifles in there and stack arms.",
+    "Several times in the night orders were given to fall into line and the boys, expecting to advance, would examine their guns, see that everything was in shape for action, then be ordered to stack arms and lie down again.",
+    "About 2 a. m., after passing through a valley amid darkness which was greatly increased by a dense wood, the troops were allowed to file off, stack arms, and bivouac on a slope, and around a knoll upon which some of our cavalrymen had been stationed on picket duty.",
+    "cars stack up behind every bus, while passengers stand in line to pay fares",
+    "In times of extreme deadline crisis, when deadlines are stacked up all around the office like unexploded ordinance, lack of attention to personal hygiene is a professional survival mechanism.",
+    "Straight away, after a cup of tea and an initial unpacking operation, stacking the washer up with a week's linen, he was off out to cut the grass.",
+    "So I guess it counts for something then; it may not help stack the funds up in the bank account but at least the pressure can come off.",
+    "Most of these devices have large amounts of system memory, so multiple tasks can be stacked up at once, and their big hard disks (usually around the 20GB mark) make storing contact information a simple business."
+  ],
+  "origin": "Middle English: from Old Norse stakkr haystack, of Germanic origin.",
+  "pronounciation": "/stæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stack_us_1.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Form one's features into a pleased, kind, or amused expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+      "examples": [
+        "she was smiling",
+        "he smiled at Shelley"
+      ],
+      "synonyms": [
+        "grin",
+        "beam",
+        "grin like a cheshire cat",
+        "grin from ear to ear",
+        "twinkle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A pleased, kind, or amused facial expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+      "examples": [
+        "he flashed his most winning smile",
+        "she greeted us all with a smile"
+      ],
+      "synonyms": [
+        "grin",
+        "beam"
+      ]
+    }
+  ],
+  "phrases": [
+    "For his part, Khan, who was all smiles, expressed his confidence in Imbert's ability to get the job done.",
+    "Nadine George was all smiles as she accepted this trophy from Sports Minister Mario Michel",
+    "Lydia Cross was all smiles again this week after being rushed to hospital with laryngitis.",
+    "In contrast, Harrington was all smiles, perfectly at ease with himself and the situation.",
+    "But it was all smiles at a parents' evening within two months."
+  ],
+  "origin": "Middle English: perhaps of Scandinavian origin; related to smirk.",
+  "pronounciation": "/smīl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smile_us_1.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "The lair or burrow of a badger.",
+      "synonyms": [
+        "burrow",
+        "lair",
+        "den",
+        "covert",
+        "earth",
+        "drey",
+        "retreat",
+        "shelter",
+        "cave"
+      ]
+    },
+    {
+      "description": "The particular pattern of stripes in a tartan.",
+      "synonyms": [
+        "kind",
+        "sort",
+        "variety",
+        "class",
+        "category",
+        "classification",
+        "group",
+        "set",
+        "bracket",
+        "genre",
+        "genus",
+        "species",
+        "family",
+        "order",
+        "breed",
+        "race",
+        "strain"
+      ]
+    }
+  ],
+  "origin": "Middle English: variant of set, the spelling with -tt prevailing in technical senses.",
+  "pronounciation": "/sɛt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sett_us_1.mp3"
+}

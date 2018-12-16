@@ -1,0 +1,51 @@
+{
+  "verb": [
+    {
+      "description": "Make (something) dirty; soil.",
+      "examples": [
+        "the window was smirched by heat and smoke"
+      ],
+      "synonyms": [
+        "make muddy",
+        "cake with dirt",
+        "cake with mud",
+        "dirty",
+        "soil",
+        "begrime",
+        "grime",
+        "mire",
+        "spatter",
+        "bespatter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A dirty mark or stain.",
+      "synonyms": [
+        "blemish",
+        "streak",
+        "spot",
+        "fleck",
+        "dot",
+        "blot",
+        "stain",
+        "smear",
+        "trace",
+        "speck",
+        "speckle",
+        "blotch",
+        "smudge",
+        "smut",
+        "smirch",
+        "fingermark",
+        "fingerprint",
+        "impression",
+        "imprint"
+      ]
+    }
+  ],
+  "origin": "Late 15th century: probably symbolic.",
+  "pronounciation": "/smərtʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smirch_us_1.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "noun": [
+    {
+      "description": "A person's sister (often used as a form of address)",
+      "examples": [
+        "where are you going, sis?"
+      ],
+      "synonyms": [
+        "female sibling"
+      ]
+    }
+  ],
+  "exclamation": [
+    {
+      "description": "Used to express disappointment, disgust, or contempt.",
+      "examples": [
+        "sis—the floor is dirty!"
+      ]
+    }
+  ],
+  "abbreviation": [
+    {
+      "description": "(in the UK) Secret Intelligence Service."
+    }
+  ],
+  "origin": "From Afrikaans sies.",
+  "pronounciation": "/sis/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sis_us_1.mp3"
+}

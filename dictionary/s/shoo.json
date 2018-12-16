@@ -1,0 +1,26 @@
+{
+  "exclamation": [
+    {
+      "description": "A word said to frighten or drive away a person or animal."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a person or animal) go away by waving one's arms at them, saying “shoo,” or otherwise acting in a discouraging manner.",
+      "examples": [
+        "I went to comfort her but she shooed me away"
+      ],
+      "synonyms": [
+        "go away",
+        "depart",
+        "leave",
+        "take off",
+        "get out",
+        "get out of my sight"
+      ]
+    }
+  ],
+  "origin": "A natural exclamation: first recorded in late Middle English. The verb use dates from the early 17th century.",
+  "pronounciation": "/ʃu/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shoo_us_1.mp3"
+}

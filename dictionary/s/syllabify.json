@@ -1,0 +1,12 @@
+{
+  "verb": [
+    {
+      "description": "Divide (a word or words) into syllables, either in speech or writing.",
+      "examples": [
+        "the program automatically syllabifies phonetic transcriptions"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈlabəˌfī/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/syllabify_us_1.mp3"
+}

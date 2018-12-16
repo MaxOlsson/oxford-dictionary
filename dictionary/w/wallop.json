@@ -1,0 +1,55 @@
+{
+  "verb": [
+    {
+      "description": "Strike or hit (someone or something) very hard.",
+      "examples": [
+        "they walloped the back of his head with a stick",
+        "they were tired of getting walloped with income taxes"
+      ],
+      "synonyms": [
+        "strike",
+        "slap",
+        "smack",
+        "cuff",
+        "punch",
+        "beat",
+        "thrash",
+        "thump",
+        "batter",
+        "belabour",
+        "drub",
+        "hook",
+        "pound",
+        "smash",
+        "slam",
+        "welt",
+        "pummel",
+        "hammer",
+        "bang",
+        "knock",
+        "swat",
+        "whip",
+        "flog",
+        "cane",
+        "sucker-punch",
+        "rain blows on",
+        "give someone a beating",
+        "give someone a drubbing",
+        "give someone a good beating",
+        "give someone a good drubbing",
+        "box someone's ears"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heavy blow or punch."
+    },
+    {
+      "description": "Alcoholic drink, especially beer."
+    }
+  ],
+  "origin": "Middle English (as a noun denoting a horse's gallop): from Old Northern French walop (noun), waloper (verb), perhaps from a Germanic phrase meaning run well, from the bases of well and leap. Compare with gallop. From gallop the senses bubbling noise of a boiling liquid and then sound of a clumsy movement arose, leading to the current senses.",
+  "pronounciation": "/ˈwɑləp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wallop_us_1.mp3"
+}

@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Directed or moving toward the shore of a sea, lake, or other large body of water.",
+      "examples": [
+        "the shoreward migration of fish"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "Toward the shore of a sea, lake, or other large body of water.",
+      "examples": [
+        "the boats turned shoreward",
+        "some men were looking shorewards"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃɔrwərd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shoreward_us_1.mp3"
+}

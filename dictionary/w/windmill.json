@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A building with sails or vanes that turn in the wind and generate power to grind grain into flour."
+    }
+  ],
+  "verb": [
+    {
+      "description": "(with reference to a person's arms) move or be moved around in a circle in a manner suggestive of the rotating sails or vanes of a windmill.",
+      "examples": [
+        "Penny slipped, windmilled her arms, and somehow kept her balance"
+      ],
+      "synonyms": [
+        "wave",
+        "swing",
+        "thrash about",
+        "flap about",
+        "beat about",
+        "move erratically"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈwɪn(d)mil/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/windmill_us_1.mp3"
+}

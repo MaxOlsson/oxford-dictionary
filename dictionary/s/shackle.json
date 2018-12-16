@@ -1,0 +1,31 @@
+{
+  "noun": [
+    {
+      "description": "A pair of fetters connected together by a chain, used to fasten a prisoner's wrists or ankles together.",
+      "synonyms": [
+        "chains",
+        "fetters",
+        "irons",
+        "leg irons",
+        "manacles",
+        "handcuffs"
+      ]
+    },
+    {
+      "description": "A metal link, typically U-shaped, closed by a bolt, used to secure a chain or rope to something."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Chain with shackles.",
+      "synonyms": [
+        "chain",
+        "fetter",
+        "manacle"
+      ]
+    }
+  ],
+  "origin": "Old English sc(e)acul fetter, of Germanic origin; related to Dutch schakel link, coupling.",
+  "pronounciation": "/ˈʃæk(ə)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shackle_us_1.mp3"
+}

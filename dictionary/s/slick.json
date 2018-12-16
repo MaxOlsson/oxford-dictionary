@@ -1,0 +1,74 @@
+{
+  "adjective": [
+    {
+      "description": "(of an action or thing) done or operating in an impressively smooth, efficient, and apparently effortless way.",
+      "examples": [
+        "a slick piece of software"
+      ],
+      "synonyms": [
+        "efficient",
+        "smooth",
+        "smooth-running",
+        "polished",
+        "well organized",
+        "well run",
+        "streamlined"
+      ]
+    },
+    {
+      "description": "(of skin or hair) smooth and glossy.",
+      "examples": [
+        "a dandy-looking dude with a slick black ponytail"
+      ],
+      "synonyms": [
+        "shiny",
+        "glossy",
+        "shining",
+        "sleek",
+        "smooth",
+        "silky",
+        "silken"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An oil slick."
+    },
+    {
+      "description": "A small smear or patch of a glossy or wet substance, especially a cosmetic.",
+      "examples": [
+        "a slick of lip balm"
+      ]
+    },
+    {
+      "description": "A race car or bicycle tire without a tread, for use in dry weather conditions."
+    },
+    {
+      "description": "A glossy magazine."
+    },
+    {
+      "description": "A person who is smooth and persuasive but untrustworthy."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (one's hair) flat, smooth, and glossy by applying water, oil, or cream to it.",
+      "examples": [
+        "his damp hair was slicked back",
+        "his slicked-down hair"
+      ],
+      "synonyms": [
+        "smooth",
+        "sleek",
+        "flatten"
+      ]
+    },
+    {
+      "description": "Make someone or something smart, tidy, or stylish."
+    }
+  ],
+  "origin": "Middle English (in the senses glossy and make smooth or glossy): probably from Old English and related to Old Norse slíkr smooth; compare with sleek.",
+  "pronounciation": "/slik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slick_us_1.mp3"
+}

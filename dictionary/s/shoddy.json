@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Badly made or done.",
+      "examples": [
+        "we're not paying good money for shoddy goods"
+      ],
+      "synonyms": [
+        "poor-quality",
+        "inferior",
+        "second-rate",
+        "third-rate",
+        "low-grade",
+        "cheap",
+        "cheapjack",
+        "tawdry",
+        "rubbishy",
+        "trashy",
+        "gimcrack",
+        "jerry-built",
+        "crude",
+        "tinny"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An inferior quality yarn or fabric made from the shredded fiber of waste woolen cloth or clippings."
+    }
+  ],
+  "origin": "Mid 19th century: of unknown origin.",
+  "pronounciation": "/ˈʃɑdi/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shoddy_us_1.mp3"
+}

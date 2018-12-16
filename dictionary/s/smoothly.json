@@ -1,0 +1,27 @@
+{
+  "adverb": [
+    {
+      "description": "In a smooth way.",
+      "examples": [
+        "the bust is smoothly carved in white marble",
+        "traffic was soon flowing smoothly again"
+      ],
+      "synonyms": [
+        "evenly",
+        "level",
+        "flat",
+        "flush",
+        "as flat as a pancake",
+        "horizontally"
+      ]
+    },
+    {
+      "description": "Without problems or difficulties.",
+      "examples": [
+        "everything seemed to be going smoothly"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsmuðli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smoothly_us_1.mp3"
+}

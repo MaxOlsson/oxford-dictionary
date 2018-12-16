@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Not thorough or detailed.",
+      "examples": [
+        "the information they had was sketchy"
+      ],
+      "synonyms": [
+        "incomplete",
+        "inadequate",
+        "limited",
+        "patchy",
+        "scrappy",
+        "bitty",
+        "fragmentary",
+        "rudimentary"
+      ]
+    },
+    {
+      "description": "Dishonest or disreputable.",
+      "examples": [
+        "once the story does come out, the fact that you tried to hide it will seem sketchy",
+        "a sketchy neighborhood"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈskeCHē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sketchy_us_1.mp3"
+}

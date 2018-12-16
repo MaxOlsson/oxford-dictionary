@@ -1,0 +1,18 @@
+{
+  "adjective": [
+    {
+      "description": "Not spoken with or characterized by a particular accent.",
+      "examples": [
+        "his English is fluent and unaccented"
+      ]
+    },
+    {
+      "description": "(of a word, syllable, or musical note or chord) not stressed or emphasized.",
+      "examples": [
+        "there may be any number of weak or unaccented syllables in a foot"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˈakˌsen(t)əd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unaccented_us_3.mp3"
+}

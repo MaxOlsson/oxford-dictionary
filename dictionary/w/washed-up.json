@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Deposited by the tide on a shore.",
+      "examples": [
+        "washed-up jellyfish"
+      ],
+      "synonyms": [
+        "ruined",
+        "finished",
+        "destroyed",
+        "broken",
+        "wrecked",
+        "undone",
+        "doomed",
+        "lost",
+        "defeated",
+        "beaten",
+        "foiled",
+        "frustrated",
+        "thwarted"
+      ]
+    }
+  ],
+  "pronounciation": "/wɑʃt əp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/washed_up_1_us_2.mp3"
+}

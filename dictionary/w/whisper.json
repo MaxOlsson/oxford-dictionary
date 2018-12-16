@@ -1,0 +1,44 @@
+{
+  "verb": [
+    {
+      "description": "Speak very softly using one's breath without one's vocal cords, especially for the sake of privacy.",
+      "examples": [
+        "Alison was whispering in his ear",
+        "he managed to whisper a faint goodbye",
+        "“Are you all right?” he whispered"
+      ],
+      "synonyms": [
+        "murmur",
+        "mutter",
+        "mumble",
+        "say softly",
+        "speak softly",
+        "say in muted tones",
+        "speak in muted tones",
+        "say in hushed tones",
+        "speak in hushed tones",
+        "say sotto voce",
+        "speak sotto voce"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft or confidential tone of voice; a whispered word or phrase.",
+      "examples": [
+        "she spoke in a whisper"
+      ],
+      "synonyms": [
+        "murmur",
+        "mutter",
+        "mumble",
+        "low voice",
+        "hushed tone",
+        "undertone"
+      ]
+    }
+  ],
+  "origin": "Old English hwisprian, of Germanic origin; related to German wispeln, from the imitative base of whistle.",
+  "pronounciation": "/ˈ(h)wɪspər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whisper_us_1.mp3"
+}

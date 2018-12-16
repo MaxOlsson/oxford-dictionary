@@ -1,0 +1,50 @@
+{
+  "adjective": [
+    {
+      "description": "Of or forming a general summary or synopsis.",
+      "examples": [
+        "a synoptic outline of the contents"
+      ],
+      "synonyms": [
+        "concise",
+        "short",
+        "brief",
+        "succinct",
+        "to the point",
+        "compact",
+        "terse",
+        "curt",
+        "summary",
+        "outline",
+        "crisp",
+        "short and sweet",
+        "quick",
+        "rapid",
+        "pithy",
+        "epigrammatic",
+        "laconic",
+        "pointed",
+        "abridged",
+        "abbreviated",
+        "condensed",
+        "compendious",
+        "summarized",
+        "contracted",
+        "curtailed",
+        "truncated",
+        "potted"
+      ]
+    },
+    {
+      "description": "Relating to the Synoptic Gospels."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The Synoptic Gospels."
+    }
+  ],
+  "origin": "Early 17th century: from Greek sunoptikos, from sunopsis (see synopsis).",
+  "pronounciation": "/səˈnɑptɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/synoptic_us_1.mp3"
+}

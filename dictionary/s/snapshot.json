@@ -1,0 +1,36 @@
+{
+  "noun": [
+    {
+      "description": "An informal photograph taken quickly, typically with a small handheld camera.",
+      "synonyms": [
+        "photograph",
+        "picture",
+        "photo",
+        "shot",
+        "likeness",
+        "image",
+        "portrait",
+        "study",
+        "print",
+        "slide",
+        "transparency",
+        "negative",
+        "positive",
+        "plate",
+        "film",
+        "bromide",
+        "frame",
+        "exposure",
+        "still",
+        "proof",
+        "enprint",
+        "enlargement"
+      ]
+    },
+    {
+      "description": "A shot taken quickly by a hunter."
+    }
+  ],
+  "pronounciation": "/ˈsnapˌSHät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snapshot_us_1.mp3"
+}

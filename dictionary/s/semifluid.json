@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "Having a thick consistency between solid and liquid.",
+      "examples": [
+        "the Earth's semifluid lower mantle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A semifluid substance.",
+      "synonyms": [
+        "mash",
+        "mush",
+        "purée",
+        "cream",
+        "pressé",
+        "pap",
+        "slop",
+        "paste",
+        "slush",
+        "mulch",
+        "swill",
+        "slurry",
+        "semi-liquid",
+        "semi-fluid",
+        "mess"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsɛmiˈfluɪd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/semifluid_us_1.mp3"
+}

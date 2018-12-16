@@ -1,0 +1,46 @@
+{
+  "adjective": [
+    {
+      "description": "(of a word or form) denoting or referring to just one person or thing."
+    },
+    {
+      "description": "Exceptionally good or great; remarkable.",
+      "examples": [
+        "the singular beauty of the desert"
+      ],
+      "synonyms": [
+        "remarkable",
+        "extraordinary",
+        "exceptional",
+        "outstanding",
+        "striking",
+        "signal",
+        "eminent",
+        "especial",
+        "particular",
+        "notable",
+        "noteworthy",
+        "conspicuous",
+        "distinctive",
+        "impressive"
+      ]
+    },
+    {
+      "description": "(of a square matrix) having a zero determinant."
+    },
+    {
+      "description": "Denoting a point that is a singularity."
+    }
+  ],
+  "noun": [
+    {
+      "description": "The singular form of a word.",
+      "examples": [
+        "the first person singular"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense solitary, single, also beyond the average): from Old French singuler, from Latin singularis, from singulus (see single).",
+  "pronounciation": "/ˈsɪŋɡjələr/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/singular_us_1.mp3"
+}

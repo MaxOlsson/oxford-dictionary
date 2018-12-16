@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "Emit a long, deep, audible breath expressing sadness, relief, tiredness, or a similar feeling.",
+      "examples": [
+        "Harry sank into a chair and sighed with relief",
+        "“I'm in a bit of a mess,” Elaine sighed"
+      ],
+      "synonyms": [
+        "breathe out",
+        "exhale"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A long, deep, audible exhalation expressing sadness, relief, tiredness, or a similar feeling.",
+      "examples": [
+        "she let out a long sigh of despair",
+        "when the aircraft touched down I breathed a sigh of relief"
+      ],
+      "synonyms": [
+        "breath",
+        "breathing out"
+      ]
+    }
+  ],
+  "origin": "Middle English (as a verb): probably a back-formation from sighte, past tense of siche, sike, from Old English sīcan.",
+  "pronounciation": "/saɪ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sigh_us_3.mp3"
+}

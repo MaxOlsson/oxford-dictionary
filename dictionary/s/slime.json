@@ -1,0 +1,28 @@
+{
+  "noun": [
+    {
+      "description": "A moist, soft, and slippery substance, typically regarded as repulsive.",
+      "examples": [
+        "the cold stone was wet with slime"
+      ],
+      "synonyms": [
+        "ooze",
+        "sludge",
+        "muck",
+        "mud",
+        "mire"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cover with slime.",
+      "examples": [
+        "what grass remained was slimed over with pale brown mud"
+      ]
+    }
+  ],
+  "origin": "Old English slīm, of Germanic origin; related to Dutch slijm and German Schleim mucus, slime, Latin limus mud, and Greek limnē marsh.",
+  "pronounciation": "/slaɪm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slime_us_1.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "pronoun": [
+    {
+      "description": "Used by a speaker to refer to himself or herself and one or more other people considered together.",
+      "examples": [
+        "shall we have a drink?"
+      ]
+    },
+    {
+      "description": "Used in formal contexts for or by a royal person, or by a writer or editor, to refer to himself or herself.",
+      "examples": [
+        "in this section we discuss the reasons"
+      ]
+    },
+    {
+      "description": "Used condescendingly to refer to the person being addressed.",
+      "examples": [
+        "how are we today?"
+      ]
+    }
+  ],
+  "origin": "Old English, of Germanic origin; related to Dutch wij and German wir.",
+  "pronounciation": "/wē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/we_us_1.mp3"
+}

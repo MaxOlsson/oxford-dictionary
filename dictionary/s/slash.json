@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Cut (something) with a violent sweeping movement, typically using a knife or sword.",
+      "examples": [
+        "a tire was slashed on my car",
+        "they cut and slashed their way to the river",
+        "the man slashed at him with a sword"
+      ],
+      "synonyms": [
+        "cut",
+        "cut open",
+        "gash",
+        "slit",
+        "split open",
+        "lacerate",
+        "knife",
+        "hack",
+        "make an incision in",
+        "score"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A cut made with a wide, sweeping stroke.",
+      "examples": [
+        "the man took a mighty slash at his head with a large sword"
+      ],
+      "synonyms": [
+        "blow",
+        "stroke"
+      ]
+    },
+    {
+      "description": "An oblique stroke (/) in print or writing, used between alternatives (e.g. and/or), in fractions (e.g. 3/4), in ratios (e.g. miles/day), or between separate elements of a text.",
+      "synonyms": [
+        "solidus",
+        "oblique",
+        "backslash",
+        "diagonal",
+        "virgule",
+        "slant"
+      ]
+    },
+    {
+      "description": "Debris resulting from the felling or destruction of trees."
+    }
+  ],
+  "conjunction": [
+    {
+      "description": "Used to link alternatives or words describing or denoting a dual (or multiple) function or nature.",
+      "examples": [
+        "a model slash actress",
+        "the most insane-slash-brilliant maneuver in the show's history",
+        "a fashionable movie theater-slash-bar-slash-restaurant"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: of uncertain origin.",
+  "pronounciation": "/slæʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slash_us_1.mp3"
+}

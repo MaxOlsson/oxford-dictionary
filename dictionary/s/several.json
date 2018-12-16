@@ -1,0 +1,43 @@
+{
+  "determiner &amp; pronoun": [
+    {
+      "description": "More than two but not many.",
+      "examples": [
+        "the author of several books",
+        "several of his friends attended",
+        "Van Gogh was just one of several artists who gathered at Auvers"
+      ],
+      "synonyms": [
+        "some",
+        "a number of",
+        "a few",
+        "not very many",
+        "a handful of",
+        "a small group of",
+        "various",
+        "a variety of",
+        "assorted",
+        "sundry",
+        "diverse"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Separate or respective.",
+      "examples": [
+        "the two levels of government sort out their several responsibilities"
+      ],
+      "synonyms": [
+        "respective",
+        "individual",
+        "own",
+        "particular",
+        "specific"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French, from medieval Latin separalis, from Latin separ separate, different.",
+  "pronounciation": "/ˈsɛv(ə)rəl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/several_us_1.mp3"
+}

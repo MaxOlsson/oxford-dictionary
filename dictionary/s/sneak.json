@@ -1,0 +1,53 @@
+{
+  "verb": [
+    {
+      "description": "Move or go in a furtive or stealthy manner.",
+      "examples": [
+        "I sneaked out by the back exit"
+      ],
+      "synonyms": [
+        "creep",
+        "slink",
+        "steal",
+        "slip",
+        "slide",
+        "sidle",
+        "edge",
+        "move furtively",
+        "tiptoe",
+        "pussyfoot",
+        "pad",
+        "prowl"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A furtive and contemptible person.",
+      "examples": [
+        "he was branded a prying sneak for eavesdropping on intimate conversation"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Acting or done surreptitiously, unofficially, or without warning.",
+      "examples": [
+        "a sneak thief",
+        "a sneak preview"
+      ],
+      "synonyms": [
+        "furtive",
+        "secret",
+        "stealthy",
+        "sly",
+        "surreptitious",
+        "clandestine",
+        "covert"
+      ]
+    }
+  ],
+  "origin": "Late 16th century: probably dialect; perhaps related to obsolete snike to creep.",
+  "pronounciation": "/snik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sneak_us_1.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "verb": [
+    {
+      "description": "Make a soft splashing sound as one moves.",
+      "examples": [
+        "he sploshed across the road"
+      ],
+      "synonyms": [
+        "spot",
+        "mark",
+        "stain",
+        "dot",
+        "speckle",
+        "bespeckle",
+        "freckle",
+        "stipple",
+        "stud",
+        "bestud",
+        "blotch",
+        "mottle",
+        "smudge",
+        "streak",
+        "splash",
+        "spatter",
+        "bespatter",
+        "scatter",
+        "sprinkle"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft splashing sound.",
+      "examples": [
+        "a quiet splosh"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century: imitative.",
+  "pronounciation": "/splɑʃ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/splosh_us_1.mp3"
+}

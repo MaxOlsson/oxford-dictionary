@@ -1,0 +1,42 @@
+{
+  "adjective": [
+    {
+      "description": "(especially of shoes or clothes) having no (or few) fasteners and therefore able to be put on and taken off quickly.",
+      "examples": [
+        "slip-on shoes",
+        "a one-piece slip-on dress"
+      ],
+      "synonyms": [
+        "put on",
+        "get dressed in",
+        "dress in",
+        "dress oneself in",
+        "pull on",
+        "climb into",
+        "get into",
+        "fling on",
+        "throw on",
+        "slip into",
+        "slip on",
+        "change into",
+        "rig oneself out in",
+        "clothe oneself in",
+        "array oneself in",
+        "deck oneself out in",
+        "accoutre oneself in",
+        "put round one's shoulders",
+        "put on one's head"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A shoe or garment that can be easily slipped on and off.",
+      "examples": [
+        "black suede slip-ons"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslɪp ˌɑn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slip_on_1_us_1.mp3"
+}

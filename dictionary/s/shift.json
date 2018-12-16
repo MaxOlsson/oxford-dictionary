@@ -1,0 +1,102 @@
+{
+  "verb": [
+    {
+      "description": "Move or cause to move from one place to another, especially over a small distance.",
+      "examples": [
+        "I shift the weight back to the other leg",
+        "the roof cracked and shifted"
+      ],
+      "synonyms": [
+        "move",
+        "carry",
+        "transfer",
+        "transport",
+        "convey",
+        "take",
+        "bring",
+        "bear",
+        "lug",
+        "cart",
+        "haul",
+        "fetch",
+        "switch",
+        "move around",
+        "transpose",
+        "relocate",
+        "reposition",
+        "rearrange",
+        "displace"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slight change in position, direction, or tendency.",
+      "examples": [
+        "a shift in public opinion",
+        "a shift of wind took us by surprise"
+      ],
+      "synonyms": [
+        "movement",
+        "move",
+        "shifting",
+        "transference",
+        "transport",
+        "conveyance",
+        "switch",
+        "transposition"
+      ]
+    },
+    {
+      "description": "One of two or more recurring periods in which different groups of workers do the same jobs in relay.",
+      "examples": [
+        "the night shift"
+      ],
+      "synonyms": [
+        "work period",
+        "stint",
+        "spell of work",
+        "stretch"
+      ]
+    },
+    {
+      "description": "A woman's straight unwaisted dress.",
+      "synonyms": [
+        "dress",
+        "gown",
+        "robe"
+      ]
+    },
+    {
+      "description": "An ingenious or devious device or stratagem.",
+      "examples": [
+        "the thousand shifts and devices of which Hannibal was a master"
+      ],
+      "synonyms": [
+        "stratagem",
+        "scheme",
+        "subterfuge",
+        "expedient",
+        "dodge",
+        "trick",
+        "ruse",
+        "wile",
+        "artifice",
+        "deception",
+        "strategy",
+        "device",
+        "plan"
+      ]
+    }
+  ],
+  "phrases": [
+    "If this is what we have to do, make an effort - if we have to make shift with things as they are and not as we wish they were - then I hope I am up to that effort.",
+    "In that absence one makes do - makes shift - with what is to hand and with the hands one has.",
+    "As You Like It is the precursor of King Lear in a number of respects; the Forest of Arden is a harsh place and people who dwell there must make shift to survive.",
+    "If this principle of noninterference is practiced resolutely, the minority - presumably less resourceful - groups must be left alone to shift for themselves.",
+    "Pea-Jacket left Sarah Curley and her two sons to shift for themselves."
+  ],
+  "origin": "Old English sciftan arrange, divide, apportion, of Germanic origin; related to German schichten to layer, stratify. A common Middle English sense change, replace gave rise to shift (sense 3 of the noun) (via the notion of changing one's clothes) and shift (sense 2 of the noun) (via the concept of relays of workers).",
+  "pronounciation": "/SHift/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shift_us_1.mp3"
+}

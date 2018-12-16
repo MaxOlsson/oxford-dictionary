@@ -1,0 +1,41 @@
+{
+  "verb": [
+    {
+      "description": "Break or cause to break suddenly and violently into pieces.",
+      "examples": [
+        "bullets riddled the bar top, glasses shattered, bottles exploded",
+        "the window was shattered by a stone"
+      ],
+      "synonyms": [
+        "smash",
+        "smash to smithereens",
+        "break",
+        "break into pieces",
+        "burst",
+        "blow out"
+      ]
+    },
+    {
+      "description": "Upset (someone) greatly.",
+      "examples": [
+        "everyone was shattered by the news"
+      ],
+      "synonyms": [
+        "devastating",
+        "crushing",
+        "staggering",
+        "severe",
+        "savage",
+        "overwhelming",
+        "traumatic",
+        "very great",
+        "dreadful",
+        "terrible",
+        "awful"
+      ]
+    }
+  ],
+  "origin": "Middle English (in the sense scatter, disperse): perhaps imitative; compare with scatter.",
+  "pronounciation": "/ˈʃædər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shatter_us_1.mp3"
+}

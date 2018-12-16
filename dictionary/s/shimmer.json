@@ -1,0 +1,58 @@
+{
+  "verb": [
+    {
+      "description": "Shine with a soft tremulous light.",
+      "examples": [
+        "the sea shimmered in the sunlight"
+      ],
+      "synonyms": [
+        "glint",
+        "glisten",
+        "flicker",
+        "twinkle",
+        "sparkle",
+        "flash",
+        "scintillate",
+        "flare",
+        "glare",
+        "gleam",
+        "glow",
+        "glimmer",
+        "glitter",
+        "dance",
+        "blink",
+        "wink"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A soft, slightly wavering light.",
+      "examples": [
+        "a pale shimmer of moonlight"
+      ],
+      "synonyms": [
+        "glint",
+        "glistening",
+        "flicker",
+        "twinkle",
+        "sparkle",
+        "flash",
+        "scintillation",
+        "flare",
+        "glare",
+        "gleam",
+        "glow",
+        "glimmer",
+        "lustre",
+        "glitter",
+        "dancing",
+        "blinking",
+        "winking"
+      ]
+    }
+  ],
+  "origin": "Late Old English scymrian, of Germanic origin; related to German schimmern, also to shine. The noun dates from the early 19th century.",
+  "pronounciation": "/ˈʃɪmər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shimmer_us_1.mp3"
+}

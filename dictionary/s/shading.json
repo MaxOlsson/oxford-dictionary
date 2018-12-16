@@ -1,0 +1,30 @@
+{
+  "noun": [
+    {
+      "description": "The darkening or coloring of an illustration or diagram with parallel lines or a block of color."
+    },
+    {
+      "description": "A very slight variation.",
+      "examples": [
+        "the shadings of opinion even among those who are in broad agreement"
+      ],
+      "synonyms": [
+        "nuance",
+        "gradation",
+        "modulation",
+        "degree",
+        "difference",
+        "variation",
+        "variety"
+      ]
+    },
+    {
+      "description": "A layer of paint or material used to provide shade, especially for plants.",
+      "examples": [
+        "liquid greenhouse shading"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃeɪdɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shading_us_1.mp3"
+}

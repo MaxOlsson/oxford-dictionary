@@ -1,0 +1,26 @@
+{
+  "adjective": [
+    {
+      "description": "Graceful and sinuous in movement, line, or figure.",
+      "examples": [
+        "a slinky black evening dress"
+      ],
+      "synonyms": [
+        "tight",
+        "clinging",
+        "tight-fitting",
+        "close-fitting",
+        "figure-hugging",
+        "skintight",
+        "sheath-like"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A toy consisting of a flexible helical spring that can be made to somersault down steps."
+    }
+  ],
+  "pronounciation": "/ˈsliNGkē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slinky_us_1.mp3"
+}

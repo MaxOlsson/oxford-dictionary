@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Make (someone) feel disgusted or appalled.",
+      "examples": [
+        "she was sickened by the bomb attack"
+      ],
+      "synonyms": [
+        "nauseate",
+        "make someone feel nauseous",
+        "make someone sick",
+        "turn someone's stomach",
+        "make someone's gorge rise",
+        "make someone's stomach rise",
+        "revolt",
+        "disgust",
+        "appal",
+        "repel",
+        "repulse",
+        "be repugnant to",
+        "offend"
+      ]
+    },
+    {
+      "description": "Become ill.",
+      "examples": [
+        "Dawson sickened unexpectedly and died in 1916"
+      ],
+      "synonyms": [
+        "become ill",
+        "fall ill",
+        "be taken ill",
+        "be taken sick",
+        "catch something"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsikən/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sicken_us_1.mp3"
+}

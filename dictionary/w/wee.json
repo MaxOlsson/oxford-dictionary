@@ -1,0 +1,54 @@
+{
+  "adjective": [
+    {
+      "description": "Little.",
+      "examples": [
+        "when I was just a wee bairn"
+      ],
+      "synonyms": [
+        "little",
+        "small",
+        "tiny",
+        "minute",
+        "miniature",
+        "small-scale",
+        "compact",
+        "mini",
+        "undersized",
+        "diminutive",
+        "dwarf",
+        "midget",
+        "lilliputian",
+        "infinitesimal",
+        "microscopic",
+        "nanoscopic",
+        "minuscule",
+        "bijou",
+        "toy"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Urine.",
+      "examples": [
+        "there was wee all over the floor"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Urinate."
+    }
+  ],
+  "phrases": [
+    "nights of dining and dancing until the wee hours",
+    "Nothing is better than staying up until the wee hours of the morning with a movie, a bag of chips and a few friends.",
+    "Both mother and daughter talked about each other's lives until the wee hours of the morning.",
+    "They hold ridiculous rehearsal times and keep us up until the wee hours of the morning.",
+    "Mitchell drummed his fingers anxiously, as the wee hours of the morning approached."
+  ],
+  "origin": "1930s: imitative.",
+  "pronounciation": "/wē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wee_us_1.mp3"
+}

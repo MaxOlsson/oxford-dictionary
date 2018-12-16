@@ -1,0 +1,49 @@
+{
+  "adjective": [
+    {
+      "description": "(of a person or part of the body) gracefully thin.",
+      "examples": [
+        "her slender neck"
+      ],
+      "synonyms": [
+        "slim",
+        "lean",
+        "willowy",
+        "sylphlike",
+        "svelte",
+        "lissom",
+        "graceful",
+        "snake-hipped",
+        "rangy"
+      ]
+    },
+    {
+      "description": "(of something abstract) barely sufficient in amount or basis.",
+      "examples": [
+        "a slender majority of four"
+      ],
+      "synonyms": [
+        "meagre",
+        "limited",
+        "slight",
+        "modest",
+        "scanty",
+        "scant",
+        "sparse",
+        "small",
+        "little",
+        "paltry",
+        "inconsiderable",
+        "insubstantial",
+        "inadequate",
+        "insufficient",
+        "deficient",
+        "negligible",
+        "trifling"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/ˈslɛndər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slender_us_1.mp3"
+}

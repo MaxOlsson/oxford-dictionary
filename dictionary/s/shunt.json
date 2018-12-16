@@ -1,0 +1,24 @@
+{
+  "verb": [
+    {
+      "description": "Push or pull (a train or part of a train) from the main line to a siding or from one track to another.",
+      "examples": [
+        "their train had been shunted into a siding"
+      ]
+    },
+    {
+      "description": "Provide (an electrical current) with a conductor joining two points of a circuit, through which more or less of the current may be diverted."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act of pushing or shoving something."
+    },
+    {
+      "description": "An electrical conductor joining two points of a circuit, through which more or less of a current may be diverted."
+    }
+  ],
+  "origin": "Middle English (in the sense move suddenly aside): perhaps from shun.",
+  "pronounciation": "/ʃənt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shunt_us_1.mp3"
+}

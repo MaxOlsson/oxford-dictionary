@@ -1,0 +1,71 @@
+{
+  "noun": [
+    {
+      "description": "A sudden upsetting or surprising event or experience.",
+      "examples": [
+        "it was a shock to face such hostile attitudes when I arrived"
+      ],
+      "synonyms": [
+        "blow",
+        "upset",
+        "disturbance",
+        "source of distress",
+        "source of amazement",
+        "source of consternation"
+      ]
+    },
+    {
+      "description": "An acute medical condition associated with a fall in blood pressure, caused by such events as loss of blood, severe burns, bacterial infection, allergic reaction, or sudden emotional stress, and marked by cold, pallid skin, irregular breathing, rapid pulse, and dilated pupils.",
+      "examples": [
+        "he died of shock due to massive abdominal hemorrhage"
+      ],
+      "synonyms": [
+        "trauma",
+        "a state of shock",
+        "traumatism",
+        "prostration",
+        "stupor",
+        "stupefaction",
+        "collapse",
+        "breakdown"
+      ]
+    },
+    {
+      "description": "A violent shaking movement caused by an impact, explosion, or tremor.",
+      "examples": [
+        "earthquake shocks",
+        "rackets today don't bend or absorb shock the way wooden rackets do"
+      ],
+      "synonyms": [
+        "vibration",
+        "shaking movement",
+        "reverberation",
+        "shake",
+        "jolt",
+        "jar",
+        "jarring",
+        "jerk"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Cause (someone) to feel surprised and upset.",
+      "examples": [
+        "she was shocked at the state of his injuries"
+      ]
+    },
+    {
+      "description": "Affect with physiological shock, or with an electric shock."
+    },
+    {
+      "description": "Collide violently.",
+      "examples": [
+        "carriage after carriage shocked fiercely against the engine"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: origin uncertain; compare with obsolete shough, denoting a breed of lapdog. The word originally denoted a dog with long shaggy hair, and was then used as an adjective meaning unkempt, shaggy. The current sense dates from the early 19th century.",
+  "pronounciation": "/SHäk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shock_us_1.mp3"
+}

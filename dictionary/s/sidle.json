@@ -1,0 +1,36 @@
+{
+  "verb": [
+    {
+      "description": "Walk in a furtive, unobtrusive, or timid manner, especially sideways or obliquely.",
+      "examples": [
+        "I sidled up to her"
+      ],
+      "synonyms": [
+        "creep",
+        "sneak",
+        "slink",
+        "slip",
+        "slide",
+        "skulk",
+        "prowl",
+        "steal",
+        "edge",
+        "inch",
+        "ease",
+        "worm",
+        "nose",
+        "move furtively",
+        "move with stealth",
+        "tread warily"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of sidling."
+    }
+  ],
+  "origin": "Late 17th century: back-formation from sideling (see sidelong).",
+  "pronounciation": "/ˈsaɪdl/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sidle_us_1.mp3"
+}

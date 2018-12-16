@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A flat-topped piece of furniture with cupboards and drawers, placed along a wall and used for storing dishes, glasses, and table linen.",
+      "synonyms": [
+        "cabinet",
+        "cupboard",
+        "chiffonier",
+        "bureau"
+      ]
+    },
+    {
+      "description": "Sideburns.",
+      "examples": [
+        "bushy sideboards and a moustache"
+      ],
+      "synonyms": [
+        "facial hair",
+        "whiskers",
+        "stubble",
+        "designer stubble",
+        "five o'clock shadow",
+        "bristles"
+      ]
+    },
+    {
+      "description": "A board forming the side, or a part of the side, of a structure, especially a removable board at the side of a truck or trailer."
+    }
+  ],
+  "pronounciation": "/ˈsīdbôrd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sideboard_us_1.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "noun": [
+    {
+      "description": "A vehicle on runners for conveying loads or passengers over snow or ice, often pulled by draft animals.",
+      "synonyms": [
+        "toboggan",
+        "bobsleigh",
+        "sleigh"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Carry (a load or passengers) on a sledge.",
+      "examples": [
+        "the task of sledging lifeboats across tundra"
+      ]
+    }
+  ],
+  "origin": "Old English slecg (noun), from a Germanic base meaning to strike, related to slay.",
+  "pronounciation": "/slej/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sledge_us_1.mp3"
+}

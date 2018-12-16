@@ -1,0 +1,37 @@
+{
+  "verb": [
+    {
+      "description": "Make or become shorter.",
+      "examples": [
+        "he shortened his stride",
+        "around mid-September, days shorten and temperatures dip"
+      ],
+      "synonyms": [
+        "make shorter",
+        "abbreviate",
+        "abridge",
+        "condense",
+        "precis",
+        "synopsize",
+        "contract",
+        "compress",
+        "reduce",
+        "lessen",
+        "shrink",
+        "decrease",
+        "diminish",
+        "cut",
+        "cut down",
+        "cut short",
+        "dock",
+        "trim",
+        "clip",
+        "crop",
+        "pare down",
+        "prune"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈSHôrtn/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shorten_us_1.mp3"
+}

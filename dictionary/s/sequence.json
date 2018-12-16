@@ -1,0 +1,83 @@
+{
+  "noun": [
+    {
+      "description": "A particular order in which related events, movements, or things follow each other.",
+      "examples": [
+        "the content of the program should follow a logical sequence"
+      ],
+      "synonyms": [
+        "succession",
+        "order",
+        "course",
+        "series",
+        "chain",
+        "concatenation",
+        "train",
+        "string",
+        "cycle",
+        "progression"
+      ]
+    },
+    {
+      "description": "A set of related events, movements, or things that follow each other in a particular order.",
+      "examples": [
+        "a grueling sequence of exercises",
+        "a sonnet sequence"
+      ],
+      "synonyms": [
+        "series",
+        "succession",
+        "string",
+        "train",
+        "trail",
+        "run",
+        "pattern",
+        "progression",
+        "course",
+        "set",
+        "line",
+        "row",
+        "concatenation"
+      ]
+    },
+    {
+      "description": "A part of a film dealing with one particular event or topic.",
+      "examples": [
+        "the famous underwater sequence"
+      ],
+      "synonyms": [
+        "excerpt",
+        "clip",
+        "scene",
+        "extract",
+        "episode",
+        "section",
+        "segment"
+      ]
+    },
+    {
+      "description": "(in the Eucharist) a hymn said or sung after the Gradual or Alleluia that precedes the Gospel."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Arrange in a particular order.",
+      "examples": [
+        "trainee librarians decide how a set of misfiled cards could be sequenced"
+      ]
+    },
+    {
+      "description": "Play or record (music) with a sequencer."
+    }
+  ],
+  "phrases": [
+    "I can still continue to win bets naming all the Soviet leaders in sequence.",
+    "You set forth several of the recommendations, but they were in sequence, as you know, in the report.",
+    "Most schemes require works to be carried out in sequence.",
+    "So the right way to order the elements in sequence is by atomic number, which progresses by one from each element to the next.",
+    "At some point, they'll probably have at least one marathon with all the episodes to date aired in sequence."
+  ],
+  "origin": "Late Middle English (in sequence (sense 4 of the noun)): from late Latin sequentia, from Latin sequent- following, from the verb sequi follow.",
+  "pronounciation": "/ˈsikwəns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sequence_us_1.mp3"
+}

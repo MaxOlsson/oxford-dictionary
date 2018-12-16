@@ -1,0 +1,33 @@
+{
+  "adjective": [
+    {
+      "description": "Often ill; in poor health.",
+      "examples": [
+        "she was a thin, sickly child"
+      ],
+      "synonyms": [
+        "unhealthy",
+        "in poor health",
+        "chronically ill",
+        "often ill",
+        "always ill"
+      ]
+    },
+    {
+      "description": "(of a flavor, smell, color, or light) so unpleasant as to induce discomfort or nausea.",
+      "examples": [
+        "the walls were painted a sickly green",
+        "she liked her coffee sweet and sickly"
+      ],
+      "synonyms": [
+        "bilious",
+        "nauseating",
+        "distasteful",
+        "unattractive"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably suggested by Old Norse sjúkligr.",
+  "pronounciation": "/ˈsiklē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sickly_us_1.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "conjunction, adverb, &amp; preposition": [
+    {
+      "description": "In the intervening period between (the time mentioned) and the time under consideration, typically the present.",
+      "examples": [
+        "she has suffered from depression since she was sixteen",
+        "the worst property slump since the war",
+        "I've felt better since I've been here",
+        "she ran away on Friday and we haven't seen her since"
+      ],
+      "synonyms": [
+        "because",
+        "since",
+        "seeing that",
+        "seeing as",
+        "considering that",
+        "on account of the fact that",
+        "in view of the fact that",
+        "owing to the fact that"
+      ]
+    },
+    {
+      "description": "For the reason that; because.",
+      "examples": [
+        "delegates were delighted, since better protection of rhino reserves will help protect other rare species"
+      ],
+      "synonyms": [
+        "since",
+        "as",
+        "for the reason that",
+        "in view of the fact that",
+        "owing to the fact that",
+        "seeing as",
+        "seeing that"
+      ]
+    },
+    {
+      "description": "Ago.",
+      "examples": [
+        "the settlement had vanished long since"
+      ],
+      "synonyms": [
+        "in the past",
+        "before the present",
+        "before",
+        "earlier",
+        "back",
+        "in time gone by",
+        "since",
+        "formerly",
+        "previously"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: contraction of obsolete sithence, or from dialect sin (both from dialect sithen thereupon, afterward, ever since).",
+  "pronounciation": "/sɪns/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/since_us_1.mp3"
+}

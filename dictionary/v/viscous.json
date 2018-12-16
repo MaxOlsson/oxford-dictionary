@@ -1,0 +1,27 @@
+{
+  "adjective": [
+    {
+      "description": "Having a thick, sticky consistency between solid and liquid; having a high viscosity.",
+      "examples": [
+        "viscous lava"
+      ],
+      "synonyms": [
+        "sticky",
+        "gummy",
+        "glue-like",
+        "gluey",
+        "adhesive",
+        "tacky",
+        "adhering",
+        "adherent",
+        "sticking",
+        "clinging",
+        "treacly",
+        "syrupy"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: from Anglo-Norman French viscous or late Latin viscosus, from Latin viscum birdlime.",
+  "pronounciation": "/ˈvɪskəs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/viscous_us_1.mp3"
+}

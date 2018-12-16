@@ -1,0 +1,25 @@
+{
+  "adjective": [
+    {
+      "description": "Tending to induce sleep; soporific.",
+      "examples": [
+        "somnific medicines"
+      ],
+      "synonyms": [
+        "sleep-inducing",
+        "somnolent",
+        "sedative",
+        "calmative",
+        "tranquillizing",
+        "narcotic",
+        "opiate",
+        "drowsy",
+        "sleepy",
+        "somniferous"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: from Latin somnificus, from somnus sleep.",
+  "pronounciation": "/sɒmˈnɪfɪk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/somnific_gb_1.mp3"
+}

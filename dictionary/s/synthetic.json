@@ -1,0 +1,34 @@
+{
+  "adjective": [
+    {
+      "description": "(of a substance) made by chemical synthesis, especially to imitate a natural product.",
+      "examples": [
+        "synthetic rubber"
+      ],
+      "synonyms": [
+        "fake",
+        "false",
+        "imitation",
+        "mock",
+        "simulated",
+        "faux",
+        "ersatz",
+        "substitute"
+      ]
+    },
+    {
+      "description": "(of a proposition) having truth or falsity determinable by recourse to experience."
+    },
+    {
+      "description": "(of a language) characterized by the use of inflections rather than word order to express grammatical structure."
+    }
+  ],
+  "noun": [
+    {
+      "description": "A synthetic material or chemical, especially a textile fiber."
+    }
+  ],
+  "origin": "Late 17th century: from French synthétique or modern Latin syntheticus, from Greek sunthetikos, based on suntithenai place together.",
+  "pronounciation": "/sinˈTHedik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/synthetic_us_1.mp3"
+}

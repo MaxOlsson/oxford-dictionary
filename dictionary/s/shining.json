@@ -1,0 +1,71 @@
+{
+  "adjective": [
+    {
+      "description": "Giving out or reflecting bright light.",
+      "examples": [
+        "a shining expanse of water"
+      ],
+      "synonyms": [
+        "gleaming",
+        "bright",
+        "illuminated",
+        "lit",
+        "lighted",
+        "ablaze",
+        "brilliant",
+        "lustrous",
+        "glowing",
+        "glinting",
+        "sparkling",
+        "coruscating",
+        "twinkling",
+        "flickering",
+        "glittering",
+        "glistening",
+        "shimmering",
+        "flashing",
+        "dazzling",
+        "glaring",
+        "luminous",
+        "luminescent",
+        "incandescent",
+        "phosphorescent",
+        "fluorescent"
+      ]
+    },
+    {
+      "description": "Brilliant or excellent at something.",
+      "examples": [
+        "he has set a shining example with his model behavior"
+      ],
+      "synonyms": [
+        "paragon",
+        "model",
+        "epitome",
+        "archetype",
+        "ideal",
+        "exemplar",
+        "nonpareil",
+        "paradigm",
+        "embodiment",
+        "personification",
+        "quintessence",
+        "standard",
+        "prototype",
+        "apotheosis",
+        "the crème de la crème",
+        "the beau idéal",
+        "acme",
+        "jewel",
+        "gem",
+        "flower",
+        "angel",
+        "treasure",
+        "an outstanding example",
+        "a perfect example of its kind"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈʃaɪnɪŋ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shining_us_1.mp3"
+}

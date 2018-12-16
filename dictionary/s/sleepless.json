@@ -1,0 +1,19 @@
+{
+  "adjective": [
+    {
+      "description": "Characterized by or experiencing lack of sleep.",
+      "examples": [
+        "another sleepless night",
+        "Lisa lay sleepless"
+      ],
+      "synonyms": [
+        "wakeful",
+        "restless",
+        "disturbed",
+        "without sleep"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈslipləs/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sleepless_us_1.mp3"
+}

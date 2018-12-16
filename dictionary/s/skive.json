@@ -1,0 +1,25 @@
+{
+  "verb": [
+    {
+      "description": "Avoid work or a duty by staying away or leaving early; shirk.",
+      "examples": [
+        "I skived off school",
+        "she used to skive lessons"
+      ],
+      "synonyms": [
+        "malinger",
+        "pretend to be ill",
+        "fake illness",
+        "feign illness"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instance of avoiding work or a duty."
+    }
+  ],
+  "origin": "Early 19th century: from Old Norse skífa; related to shive.",
+  "pronounciation": "/skīv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skive_us_1.mp3"
+}

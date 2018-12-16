@@ -1,0 +1,88 @@
+{
+  "verb": [
+    {
+      "description": "Strike with a firm blow.",
+      "examples": [
+        "he smites the water with his sword"
+      ],
+      "synonyms": [
+        "strike",
+        "slap",
+        "smack",
+        "cuff",
+        "punch",
+        "beat",
+        "thrash",
+        "thump",
+        "batter",
+        "belabour",
+        "drub",
+        "hook",
+        "pound",
+        "smash",
+        "slam",
+        "welt",
+        "pummel",
+        "hammer",
+        "bang",
+        "knock",
+        "swat",
+        "whip",
+        "flog",
+        "cane",
+        "sucker-punch",
+        "rain blows on",
+        "give someone a beating",
+        "give someone a drubbing",
+        "give someone a good beating",
+        "give someone a good drubbing",
+        "box someone's ears"
+      ]
+    },
+    {
+      "description": "Be strongly attracted to someone or something.",
+      "examples": [
+        "she was so smitten with the boy"
+      ],
+      "synonyms": [
+        "fond of",
+        "taken with",
+        "attracted to",
+        "charmed by",
+        "captivated by",
+        "enchanted by",
+        "in love with",
+        "enamoured of",
+        "infatuated with",
+        "love-struck by",
+        "keen on",
+        "devoted to",
+        "smitten with",
+        "head over heels in love with"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A heavy blow or stroke with a weapon or the hand.",
+      "synonyms": [
+        "blow",
+        "hit",
+        "thump",
+        "thwack",
+        "punch",
+        "slap",
+        "smack",
+        "welt",
+        "cuff",
+        "box",
+        "knock",
+        "rap",
+        "buffet"
+      ]
+    }
+  ],
+  "origin": "Old English smītan to smear, blemish, of Germanic origin; related to Dutch smijten and German schmeissen to fling.",
+  "pronounciation": "/smaɪt/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smite_us_1.mp3"
+}

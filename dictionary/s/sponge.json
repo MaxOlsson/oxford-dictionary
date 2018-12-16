@@ -1,0 +1,67 @@
+{
+  "noun": [
+    {
+      "description": "A primitive sedentary aquatic invertebrate with a soft porous body that is typically supported by a framework of fibers or calcareous or glassy spicules. Sponges draw in a current of water to extract nutrients and oxygen."
+    },
+    {
+      "description": "A piece of a soft, light, porous substance originally consisting of the fibrous skeleton of an invertebrate but now usually made of synthetic material. Sponges absorb liquid and are used for washing and cleaning."
+    },
+    {
+      "description": "A person who lives at someone else's expense."
+    },
+    {
+      "synonyms": [
+        "parasite",
+        "hanger-on",
+        "leech",
+        "scrounger",
+        "passenger",
+        "drone",
+        "beggar"
+      ]
+    },
+    {
+      "description": "A heavy drinker.",
+      "synonyms": [
+        "drinker",
+        "serious drinker",
+        "hard drinker",
+        "problem drinker",
+        "alcoholic"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Wipe, rub, or clean with a wet sponge or cloth.",
+      "examples": [
+        "she sponged him down in an attempt to cool his fever"
+      ],
+      "synonyms": [
+        "wash",
+        "clean",
+        "wipe",
+        "swab"
+      ]
+    },
+    {
+      "description": "Obtain or accept money or food from other people without doing or intending to do anything in return.",
+      "examples": [
+        "they found they could earn a perfectly good living by sponging off others"
+      ],
+      "synonyms": [
+        "scrounge from",
+        "scrounge off",
+        "live off",
+        "be a parasite on",
+        "impose on",
+        "beg from",
+        "borrow from",
+        "be dependent on"
+      ]
+    }
+  ],
+  "origin": "Old English (in sponge (sense 2 of the noun)), via Latin from Greek spongia, later form of spongos, reinforced in Middle English by Old French esponge.",
+  "pronounciation": "/spəndʒ/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sponge_us_1.mp3"
+}

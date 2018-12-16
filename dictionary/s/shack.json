@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A roughly built hut or cabin.",
+      "synonyms": [
+        "hut",
+        "shanty",
+        "cabin",
+        "log cabin",
+        "lean-to",
+        "shed"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Move in or live with someone as a lover.",
+      "examples": [
+        "they won't believe I've shacked up with someone so good-looking"
+      ],
+      "synonyms": [
+        "cohabit",
+        "live with",
+        "live together",
+        "share a house"
+      ]
+    }
+  ],
+  "origin": "Late 19th century: perhaps from Mexican jacal, Nahuatl xacatli wooden hut. The early sense of the verb was live in a shack (originally a US usage).",
+  "pronounciation": "/ʃæk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shack_us_1.mp3"
+}

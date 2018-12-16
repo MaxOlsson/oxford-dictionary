@@ -1,0 +1,25 @@
+{
+  "noun": [
+    {
+      "description": "A hard siliceous or calcareous deposit precipitated from mineral springs."
+    },
+    {
+      "description": "Solid material which has been sintered, especially a mixture of iron ore and other materials prepared for smelting.",
+      "examples": [
+        "typical blast-furnace burdens are 80% sinter, 20% ore"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make (a powdered material) coalesce into a solid or porous mass by heating it (and usually also compressing it) without liquefaction.",
+      "examples": [
+        "when the moisture is removed from the slurry the powder compact is sintered",
+        "metal powders sinter together under pressure"
+      ]
+    }
+  ],
+  "origin": "Late 18th century (as a noun): from German Sinter; compare with cinder.",
+  "pronounciation": "/ˈsɪn(t)ər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sinter_us_1.mp3"
+}

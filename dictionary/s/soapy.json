@@ -1,0 +1,59 @@
+{
+  "adjective": [
+    {
+      "description": "Containing or covered with soap.",
+      "examples": [
+        "hot soapy water"
+      ]
+    },
+    {
+      "description": "Characteristic of a soap opera.",
+      "examples": [
+        "soapy little turns of plot"
+      ]
+    },
+    {
+      "description": "(of a person or behavior) unpleasantly flattering and ingratiating.",
+      "examples": [
+        "a soapy, fawning look"
+      ],
+      "synonyms": [
+        "sycophantic",
+        "ingratiating",
+        "obsequious",
+        "fawning",
+        "servile",
+        "self-abasing",
+        "grovelling",
+        "subservient",
+        "wheedling",
+        "cajoling",
+        "crawling",
+        "cringing",
+        "uriah heepish",
+        "humble",
+        "toadying",
+        "hypocritical",
+        "insincere",
+        "flattering",
+        "adulatory",
+        "honey-tongued",
+        "silver-tongued",
+        "gushing",
+        "effusive",
+        "suave",
+        "urbane",
+        "glib",
+        "smooth",
+        "smooth-tongued",
+        "smooth-spoken",
+        "smooth-talking",
+        "slick",
+        "slippery",
+        "saccharine"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsōpē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/soapy_us_1.mp3"
+}

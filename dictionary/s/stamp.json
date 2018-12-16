@@ -1,0 +1,79 @@
+{
+  "verb": [
+    {
+      "description": "Bring down (one's foot) heavily on the ground or on something on the ground.",
+      "examples": [
+        "he stamped his foot in frustration",
+        "he threw his cigarette down and stamped on it",
+        "Robertson stamped on all these suggestions"
+      ]
+    },
+    {
+      "description": "Impress a pattern or mark, especially an official one, on (a surface, object, or document) using an engraved or inked block or die or other instrument.",
+      "examples": [
+        "the woman stamped my passport"
+      ],
+      "synonyms": [
+        "imprint",
+        "print",
+        "impress",
+        "punch",
+        "inscribe",
+        "engrave",
+        "chase",
+        "etch",
+        "carve",
+        "emboss",
+        "deboss",
+        "brand",
+        "frank",
+        "mark",
+        "label"
+      ]
+    },
+    {
+      "description": "Affix a postage stamp or stamps onto (a letter or package)",
+      "examples": [
+        "Annie stamped the envelope for her"
+      ]
+    },
+    {
+      "description": "Crush or pulverize (ore)."
+    }
+  ],
+  "noun": [
+    {
+      "description": "An instrument for stamping a pattern or mark, in particular an engraved or inked block or die."
+    },
+    {
+      "description": "A small adhesive piece of paper stuck to something to show that an amount of money has been paid, in particular a postage stamp.",
+      "examples": [
+        "a first-class stamp"
+      ]
+    },
+    {
+      "description": "An act or sound of stamping with the foot.",
+      "examples": [
+        "the stamp of boots on the bare floor"
+      ]
+    },
+    {
+      "description": "A block for crushing ore in a stamp mill."
+    }
+  ],
+  "phrases": [
+    "he must be able to stamp his authority on the team",
+    "In the second round, Pickering began to stamp his authority on the contest.",
+    "The prime minister, has moved swiftly to attempt to stamp his authority on Somalia's 10 million citizens.",
+    "Despite a move to his favoured central position the England captain failed to stamp his authority on the game.",
+    "Passes were sent astray on a continuous basis with the result neither side could stamp their authority on proceedings.",
+    "he stamped out the flames before they could grow",
+    "urgent action is required to stamp out corruption",
+    "Dr Barry wants increased police patrols in the village to help stamp the problem out.",
+    "The Romans did not succeed in stamping out any aspect of Egyptian religious magic.",
+    "New by-laws are set to be introduced in the town to stamp out anti-social behaviour."
+  ],
+  "origin": "Middle English (in the sense crush to a powder): of Germanic origin; related to German stampfen stamp with the foot; reinforced by Old French estamper to stamp. Compare with stomp.",
+  "pronounciation": "/stamp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/stamp_us_1.mp3"
+}

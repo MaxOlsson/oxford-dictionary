@@ -1,0 +1,118 @@
+{
+  "determiner": [
+    {
+      "description": "An unspecified amount or number of.",
+      "examples": [
+        "I made some money running errands",
+        "he played some records for me"
+      ],
+      "synonyms": [
+        "some",
+        "a piece of",
+        "a part of",
+        "a bit of"
+      ]
+    },
+    {
+      "description": "Used to refer to someone or something that is unknown or unspecified.",
+      "examples": [
+        "I was talking to some journalist the other day",
+        "there must be some mistake",
+        "he's in some kind of trouble"
+      ],
+      "synonyms": [
+        "some",
+        "any",
+        "a certain"
+      ]
+    },
+    {
+      "description": "(used with a number) approximately.",
+      "examples": [
+        "some thirty different languages are spoken"
+      ]
+    },
+    {
+      "description": "A considerable amount or number of.",
+      "examples": [
+        "he went to some trouble",
+        "I've known you for some years now"
+      ],
+      "synonyms": [
+        "moderate",
+        "reasonable",
+        "a fair degree of",
+        "considerable",
+        "some"
+      ]
+    },
+    {
+      "description": "At least a small amount or number of.",
+      "examples": [
+        "he liked some music but generally wasn't musical"
+      ]
+    },
+    {
+      "description": "Expressing admiration of something notable.",
+      "examples": [
+        "that was some goal"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "description": "An unspecified number or amount of people or things.",
+      "examples": [
+        "here are some of our suggestions",
+        "if you want whiskey I'll give you some"
+      ]
+    },
+    {
+      "description": "At least a small amount or number of people or things.",
+      "examples": [
+        "surely some have noticed"
+      ],
+      "synonyms": [
+        "position",
+        "place",
+        "niche",
+        "slot",
+        "space"
+      ]
+    }
+  ],
+  "adverb": [
+    {
+      "description": "To some extent; somewhat.",
+      "examples": [
+        "when you get to the majors, the rules change some"
+      ],
+      "synonyms": [
+        "a little",
+        "a bit",
+        "a little bit",
+        "to a limited degree",
+        "to a limited extent",
+        "to a certain degree",
+        "to some extent",
+        "to some degree",
+        "to a point",
+        "up to a point",
+        "in some measure",
+        "rather",
+        "quite",
+        "within limits"
+      ]
+    }
+  ],
+  "phrases": [
+    "we got our money's worth and then some",
+    "I've put on all the weight I lost during last year's diet, and then some.",
+    "Although I have enough offprints to meet the requests I've had, and then some, it will take me a while to process them all.",
+    "As far as the fair share statement goes, Minnesota has gotten its fair share and then some.",
+    "Now the sun will supply enough light to illuminate half the world at one sitting, so there's plenty of power and then some."
+  ],
+  "origin": "Old English sum, of Germanic origin, from an Indo-European root shared by Greek hamōs somehow and Sanskrit sama any, every.",
+  "pronounciation": "/səm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/some_us_1.mp3"
+}

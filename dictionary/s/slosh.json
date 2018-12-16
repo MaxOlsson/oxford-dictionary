@@ -1,0 +1,31 @@
+{
+  "verb": [
+    {
+      "description": "(of liquid in a container) move irregularly with a splashing sound.",
+      "examples": [
+        "water in the boat sloshed around under our feet",
+        "there is so much money now sloshing around in professional tennis"
+      ],
+      "synonyms": [
+        "spill",
+        "slop",
+        "splash",
+        "flow",
+        "overflow",
+        "splatter",
+        "spatter"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of splashing.",
+      "examples": [
+        "the distant slosh of the washing machine in the basement"
+      ]
+    }
+  ],
+  "origin": "Early 19th century: variant of the noun slush.",
+  "pronounciation": "/släSH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slosh_us_1.mp3"
+}

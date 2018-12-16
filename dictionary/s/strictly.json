@@ -1,0 +1,34 @@
+{
+  "adverb": [
+    {
+      "description": "In a way that involves rigid enforcement or that demands obedience.",
+      "examples": [
+        "he's been brought up strictly"
+      ],
+      "synonyms": [
+        "harshly",
+        "strictly",
+        "sternly",
+        "rigorously",
+        "relentlessly",
+        "mercilessly",
+        "pitilessly",
+        "oppressively",
+        "repressively",
+        "roughly",
+        "sharply",
+        "with an iron hand",
+        "with a rod of iron"
+      ]
+    },
+    {
+      "description": "Used to indicate that one is applying words or rules exactly or rigidly.",
+      "examples": [
+        "strictly speaking, ham is a cured, cooked leg of pork",
+        "to be strictly accurate, there are two Wolvertons"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈstrɪk(t)li/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/strictly_us_1.mp3"
+}

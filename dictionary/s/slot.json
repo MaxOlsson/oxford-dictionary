@@ -1,0 +1,56 @@
+{
+  "noun": [
+    {
+      "description": "A long, narrow aperture or slit in a machine for something to be inserted.",
+      "examples": [
+        "he slid a coin into the slot of the jukebox"
+      ],
+      "synonyms": [
+        "aperture",
+        "slit",
+        "crack",
+        "hole",
+        "opening",
+        "groove",
+        "notch"
+      ]
+    },
+    {
+      "description": "An allotted place in an arrangement or plan such as a broadcasting schedule.",
+      "examples": [
+        "a late-night television slot",
+        "landing slots at O'Hare"
+      ],
+      "synonyms": [
+        "spot",
+        "time",
+        "period"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Place (something) into a long, narrow aperture.",
+      "examples": [
+        "he slotted a cassette into the tape machine",
+        "the plates come in sections that can be slotted together"
+      ],
+      "synonyms": [
+        "insert",
+        "put",
+        "place",
+        "fit",
+        "slide",
+        "slip"
+      ]
+    }
+  ],
+  "proper noun": [
+    {
+      "description": "Name given in World War II by US forces to New Georgia Sound, in the central Solomon Islands. Japanese forces trying to defend Guadalcanal were seen as coming consistently down this passage from the northwest."
+    }
+  ],
+  "origin": "Late 16th century: from Old French esclot hoof print of a horse, probably from Old Norse slóth trail; compare with sleuth.",
+  "pronounciation": "/slät/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slot_us_1.mp3"
+}

@@ -1,0 +1,13 @@
+{
+  "adverb": [
+    {
+      "description": "By forming or following a logical order or sequence.",
+      "examples": [
+        "the receipts were numbered sequentially as 46 and 47",
+        "the audio stream must be processed sequentially"
+      ]
+    }
+  ],
+  "pronounciation": "/səˈkwɛn(t)ʃəli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sequentially_us_1.mp3"
+}

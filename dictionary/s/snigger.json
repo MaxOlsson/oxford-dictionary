@@ -1,0 +1,33 @@
+{
+  "verb": [
+    {
+      "description": "Laugh in a half-suppressed, typically scornful way.",
+      "examples": [
+        "the boys at school were sure to snigger at him behind his back",
+        "“Doesn't he look like a fool?” they sniggered"
+      ],
+      "synonyms": [
+        "give a suppressed laugh",
+        "snicker",
+        "sneer",
+        "smirk",
+        "simper"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A half-suppressed, typically scornful laugh.",
+      "synonyms": [
+        "suppressed laugh",
+        "snicker",
+        "sneer",
+        "smirk",
+        "simper"
+      ]
+    }
+  ],
+  "origin": "Early 18th century: later variant of snicker.",
+  "pronounciation": "/ˈsniɡər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snigger_us_1.mp3"
+}

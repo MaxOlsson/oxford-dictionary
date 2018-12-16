@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Draw in air audibly through the nose to detect a smell, to stop it from running, or to express contempt.",
+      "examples": [
+        "his dog sniffed at my trousers",
+        "“You're behaving in an unladylike fashion,” sniffed Mother"
+      ],
+      "synonyms": [
+        "inhale",
+        "snuffle",
+        "breathe in",
+        "snuff",
+        "snuff up"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or sound of drawing air through the nose.",
+      "examples": [
+        "he gave a sniff of disapproval"
+      ],
+      "synonyms": [
+        "snuffle"
+      ]
+    }
+  ],
+  "origin": "Middle English: imitative.",
+  "pronounciation": "/snɪf/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sniff_us_1.mp3"
+}

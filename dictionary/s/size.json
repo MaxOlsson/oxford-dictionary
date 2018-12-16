@@ -1,0 +1,63 @@
+{
+  "noun": [
+    {
+      "description": "The relative extent of something; a thing's overall dimensions or magnitude; how big something is.",
+      "examples": [
+        "the schools varied in size",
+        "a forest the size of Connecticut",
+        "houses of all sizes"
+      ],
+      "synonyms": [
+        "dimensions",
+        "measurements",
+        "proportions",
+        "magnitude",
+        "largeness",
+        "bigness",
+        "bulk",
+        "area",
+        "expanse",
+        "square footage",
+        "footage",
+        "acreage"
+      ]
+    },
+    {
+      "description": "Each of the classes, typically numbered, into which garments or other articles are divided according to how large they are.",
+      "examples": [
+        "I can never find anything in my size"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Alter or sort in terms of size or according to size.",
+      "examples": [
+        "some drills are sized in millimeters"
+      ],
+      "synonyms": [
+        "sort",
+        "categorize",
+        "classify"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Having a specified size; sized.",
+      "examples": [
+        "marble-size chunks of hail"
+      ]
+    }
+  ],
+  "phrases": [
+    "Underneath the house is a cellar of some size, which is useful for storage.",
+    "So it would have taken an operation of some size, if the stuff was still there, to get it out of there.",
+    "The probability of running into someone 200 miles tall is definitely zero; because you have to have a mother of some size, there are physical limitations.",
+    "Every hospital has a data center of some size or shape.",
+    "Other than at the region's two famous castles, most estates of some size have vineyard holdings in a number of villages."
+  ],
+  "origin": "Middle English: perhaps the same word as size.",
+  "pronounciation": "/saɪz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/size_us_1.mp3"
+}

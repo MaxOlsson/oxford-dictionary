@@ -1,0 +1,39 @@
+{
+  "verb": [
+    {
+      "description": "Move smoothly over a surface with a twisting or oscillating motion.",
+      "examples": [
+        "I spied a baby adder slithering away"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A slithering movement.",
+      "examples": [
+        "a snake-like slither across the grass"
+      ]
+    },
+    {
+      "description": "A sliver.",
+      "examples": [
+        "a slither of bacon"
+      ],
+      "synonyms": [
+        "splinter",
+        "shard",
+        "shiver",
+        "chip",
+        "flake",
+        "shred",
+        "scrap",
+        "slither",
+        "shaving",
+        "paring"
+      ]
+    }
+  ],
+  "origin": "Middle English: alteration of the dialect verb slidder, frequentative from the base of slide.",
+  "pronounciation": "/ˈslɪðər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slither_us_1.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "verb": [
+    {
+      "description": "Beat or sound with a strong, regular rhythm; pulsate steadily.",
+      "examples": [
+        "the war drums throbbed",
+        "the crowded streets throbbed with life"
+      ],
+      "synonyms": [
+        "pulsate",
+        "beat",
+        "pulse",
+        "palpitate",
+        "pound",
+        "thud",
+        "thump",
+        "hammer",
+        "drum",
+        "thrum",
+        "reverberate",
+        "vibrate",
+        "pitter-patter",
+        "go pit-a-pat",
+        "quiver"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A strong, regular beat or sound; a steady pulsation.",
+      "examples": [
+        "the throb of the ship's engines"
+      ],
+      "synonyms": [
+        "pulsation",
+        "beat",
+        "beating",
+        "pulse",
+        "pulsating",
+        "palpitation",
+        "pounding",
+        "thud",
+        "thudding",
+        "thump",
+        "thumping",
+        "hammering",
+        "drumming",
+        "thrum",
+        "thrumming",
+        "reverberation",
+        "vibration",
+        "pit-a-pat",
+        "pitter-patter",
+        "quivering"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably imitative.",
+  "pronounciation": "/θrɑb/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/throb_us_1.mp3"
+}

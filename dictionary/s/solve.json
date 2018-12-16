@@ -1,0 +1,43 @@
+{
+  "verb": [
+    {
+      "description": "Find an answer to, explanation for, or means of effectively dealing with (a problem or mystery)",
+      "examples": [
+        "the policy could solve the town's housing crisis",
+        "a murder investigation that has never been solved"
+      ],
+      "synonyms": [
+        "find an answer to",
+        "find the answer to",
+        "find a solution to",
+        "find the solution to",
+        "answer",
+        "resolve",
+        "work out",
+        "puzzle out",
+        "fathom",
+        "find the key to",
+        "decipher",
+        "decode",
+        "break",
+        "clear up",
+        "interpret",
+        "translate",
+        "straighten out",
+        "get to the bottom of",
+        "make head or tail of",
+        "unravel",
+        "disentangle",
+        "untangle",
+        "unfold",
+        "piece together",
+        "explain",
+        "expound",
+        "elucidate"
+      ]
+    }
+  ],
+  "origin": "Late Middle English (in the sense loosen, dissolve, untie): from Latin solvere loosen, unfasten.",
+  "pronounciation": "/sälv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/solve_us_1_rr.mp3"
+}

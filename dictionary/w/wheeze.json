@@ -1,0 +1,48 @@
+{
+  "verb": [
+    {
+      "description": "(of a person) breathe with a whistling or rattling sound in the chest, as a result of obstruction in the air passages.",
+      "examples": [
+        "the illness often leaves her wheezing"
+      ],
+      "synonyms": [
+        "breathe audibly",
+        "breathe noisily",
+        "gasp",
+        "whistle",
+        "hiss",
+        "rasp",
+        "croak",
+        "pant",
+        "cough"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A sound of or as of a person wheezing.",
+      "examples": [
+        "I talk with a wheeze"
+      ],
+      "synonyms": [
+        "constricted breathing",
+        "gasp",
+        "whistle",
+        "hiss",
+        "rasp",
+        "croak",
+        "pant",
+        "cough"
+      ]
+    },
+    {
+      "description": "An old joke, story, aphorism, act, or routine.",
+      "examples": [
+        "the old wheeze about the diner complaining about the fly in his soup"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: probably from Old Norse hvæsa to hiss.",
+  "pronounciation": "/(h)wēz/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wheeze_us_1.mp3"
+}

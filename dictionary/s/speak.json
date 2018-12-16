@@ -1,0 +1,92 @@
+{
+  "verb": [
+    {
+      "description": "Say something in order to convey information, an opinion, or a feeling.",
+      "examples": [
+        "in his agitation he was unable to speak",
+        "she refused to speak about the incident"
+      ],
+      "synonyms": [
+        "talk",
+        "say",
+        "say anything",
+        "say something"
+      ]
+    },
+    {
+      "description": "Talk to in order to reprove or advise.",
+      "examples": [
+        "she tried to speak to Seth about his drinking"
+      ],
+      "synonyms": [
+        "reprimand",
+        "rebuke",
+        "admonish",
+        "chastise",
+        "chide",
+        "upbraid",
+        "reprove",
+        "reproach",
+        "scold",
+        "remonstrate with",
+        "berate",
+        "take to task",
+        "pull up",
+        "castigate",
+        "lambaste",
+        "read someone the riot act",
+        "give someone a piece of one's mind",
+        "haul over the coals",
+        "lecture",
+        "criticize",
+        "censure"
+      ]
+    },
+    {
+      "description": "(of behavior, a quality, an event, etc.) serve as evidence for something.",
+      "examples": [
+        "his frame spoke tiredness",
+        "her harping on him spoke strongly of a crush"
+      ],
+      "synonyms": [
+        "indicate",
+        "mean",
+        "suggest",
+        "show",
+        "denote",
+        "display",
+        "demonstrate",
+        "be evidence of",
+        "register",
+        "reflect",
+        "reveal",
+        "betray",
+        "evince",
+        "disclose",
+        "exhibit",
+        "manifest"
+      ]
+    },
+    {
+      "description": "(of a musical instrument or other object) make a sound when functioning.",
+      "examples": [
+        "the gun spoke again"
+      ]
+    }
+  ],
+  "phrases": [
+    "Her mother had always taught her to speak her mind, have solid opinions, and never lose her head.",
+    "I spoke my mind to George, a few too many times, he recalls.",
+    "Many who spoke their mind out on the subject live in hostels.",
+    "They have wild opinions and they speak their mind.",
+    "And it makes me feel proud that I've actually inspired these people to speak their minds.",
+    "the administration will be forthright in speaking out against human rights abuses",
+    "The vast majority of artists, mind you, don't speak out publicly at all.",
+    "As first lady, did you ever speak out publicly about policy issues specific to gays and lesbians?",
+    "I think people need to be able to speak out freely on public issues.",
+    "I just don't know what companies are doing because they're not willing to speak out publicly."
+  ],
+  "origin": "Old English sprecan, later specan, of West Germanic origin; related to Dutch spreken and German sprechen.",
+  "pronounciation": "/spēk/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/_speak_1_us_3.mp3"
+}

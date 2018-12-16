@@ -1,0 +1,31 @@
+{
+  "adjective &amp; adverb": [
+    {
+      "description": "Done without help from anyone else.",
+      "examples": [
+        "sailing single-handed around the world",
+        "a single-handed crusade"
+      ],
+      "synonyms": [
+        "by oneself",
+        "alone",
+        "on one's own",
+        "solo",
+        "unaided",
+        "unassisted",
+        "without help",
+        "by one's own efforts",
+        "independently"
+      ]
+    },
+    {
+      "description": "Done or designed to be used with one hand.",
+      "examples": [
+        "the tool is easy to use single-handed",
+        "a single-handed ax"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌsɪŋɡəlˈhændəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/single_handed_1_us_1.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "adverb": [
+    {
+      "description": "In a straightforward or plain manner.",
+      "examples": [
+        "speaking simply and from the heart"
+      ],
+      "synonyms": [
+        "straightforwardly",
+        "directly"
+      ]
+    },
+    {
+      "description": "Merely; just.",
+      "examples": [
+        "simply complete the application form"
+      ],
+      "synonyms": [
+        "merely",
+        "just",
+        "purely",
+        "solely",
+        "only",
+        "for no other reason"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsɪmpli/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/simply_us_1.mp3"
+}

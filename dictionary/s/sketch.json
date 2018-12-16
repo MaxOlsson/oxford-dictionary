@@ -1,0 +1,64 @@
+{
+  "noun": [
+    {
+      "description": "A rough or unfinished drawing or painting, often made to assist in making a more finished picture.",
+      "examples": [
+        "a charcoal sketch"
+      ],
+      "synonyms": [
+        "drawing",
+        "preliminary drawing",
+        "outline"
+      ]
+    },
+    {
+      "description": "A short humorous play or performance, consisting typically of one scene in a comedy program.",
+      "synonyms": [
+        "skit",
+        "scene",
+        "piece",
+        "performance",
+        "act",
+        "item",
+        "turn",
+        "routine",
+        "number"
+      ]
+    },
+    {
+      "description": "A comical or amusing person or thing.",
+      "synonyms": [
+        "joker",
+        "jester",
+        "wit",
+        "wag",
+        "comic",
+        "wisecracker",
+        "punner",
+        "jokester"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make a rough drawing of.",
+      "examples": [
+        "as they talked, Modigliani began to sketch her",
+        "Jeanne sketched and painted whenever she had the time"
+      ],
+      "synonyms": [
+        "draw",
+        "make a drawing of",
+        "draw a picture of",
+        "depict",
+        "portray",
+        "represent",
+        "delineate",
+        "pencil"
+      ]
+    }
+  ],
+  "origin": "Mid 17th century: from Dutch schets or German Skizze, from Italian schizzo, from schizzare make a sketch, based on Greek skhedios done extempore.",
+  "pronounciation": "/skeCH/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sketch_us_1.mp3"
+}

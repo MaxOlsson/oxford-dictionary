@@ -1,0 +1,94 @@
+{
+  "noun": [
+    {
+      "description": "A building or part of a building where goods or services are sold; a store.",
+      "examples": [
+        "a card shop",
+        "a barber shop"
+      ],
+      "synonyms": [
+        "store",
+        "retail store",
+        "outlet",
+        "retail outlet",
+        "reseller",
+        "cash and carry"
+      ]
+    },
+    {
+      "description": "A place where things are manufactured or repaired; a workshop.",
+      "examples": [
+        "an auto repair shop"
+      ],
+      "synonyms": [
+        "workshop",
+        "workroom",
+        "plant",
+        "factory",
+        "works",
+        "manufacturing complex",
+        "industrial unit",
+        "business unit",
+        "mill",
+        "foundry",
+        "yard",
+        "garage",
+        "atelier",
+        "studio"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Visit one or more stores or websites to buy goods.",
+      "examples": [
+        "she shopped for groceries twice a week",
+        "don't buy a plastic carrier bag every time you go shopping",
+        "sometimes it's more convenient to shop online",
+        "take a trip to downtown San Diego to shop the upscale stores of Horton Plaza"
+      ],
+      "synonyms": [
+        "go shopping",
+        "do the shopping",
+        "buy what one needs",
+        "buy what one wants",
+        "buy things",
+        "go to the shops"
+      ]
+    },
+    {
+      "description": "Inform on (someone)",
+      "examples": [
+        "a concerned member of the public had shopped him—wrongly—for accepting monetary reward"
+      ],
+      "synonyms": [
+        "inform against",
+        "inform on",
+        "betray",
+        "sell out",
+        "tell tales on",
+        "be disloyal to",
+        "be unfaithful to",
+        "break one's promise to",
+        "break faith with",
+        "stab in the back"
+      ]
+    },
+    {
+      "description": "Alter (a photographic image) digitally using Photoshop image-editing software.",
+      "examples": [
+        "saying this picture was shopped was the way her lawyers attempted damage control"
+      ]
+    }
+  ],
+  "phrases": [
+    "the government has set about building new roads all over the shop",
+    "market estimates for the second quarter were all over the shop",
+    "he set up shop as a hairdresser in Soho",
+    "There's also been some talk about Chicago multi-instrumentalist Peven Everett setting up shop here with his trio sometime early in the new year.",
+    "If big companies are swooping down on the main roads, smaller ones are setting up shop in the by-lanes."
+  ],
+  "origin": "Middle English: shortening of Old French eschoppe lean-to booth, of West Germanic origin; related to German Schopf porch and English dialect shippon cattle shed. The verb is first recorded (mid 16th century) in the sense imprison (from an obsolete slang use of the noun for prison), hence shop (sense 2 of the verb).",
+  "pronounciation": "/SHäp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shop_us_1.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "noun": [
+    {
+      "description": "A weak and cowardly or unadventurous person.",
+      "synonyms": [
+        "coward",
+        "namby-pamby",
+        "milksop",
+        "milquetoast",
+        "mouse",
+        "weakling"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fail to do or complete something as a result of fear or lack of confidence.",
+      "examples": [
+        "anyone who wimped out because of the weather missed the experience of a lifetime"
+      ],
+      "synonyms": [
+        "back out",
+        "pull out",
+        "cancel",
+        "withdraw",
+        "beg off",
+        "excuse oneself"
+      ]
+    }
+  ],
+  "origin": "1980s: acronym from weakly interacting massive particle.",
+  "pronounciation": "/wɪmp/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/wimp_1_us_1.mp3"
+}

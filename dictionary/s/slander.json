@@ -1,0 +1,53 @@
+{
+  "noun": [
+    {
+      "description": "The action or crime of making a false spoken statement damaging to a person's reputation.",
+      "examples": [
+        "he is suing the TV network for slander"
+      ],
+      "synonyms": [
+        "defamation",
+        "defamation of character",
+        "character assassination",
+        "misrepresentation of character",
+        "calumny",
+        "libel"
+      ]
+    }
+  ],
+  "verb": [
+    {
+      "description": "Make false and damaging statements about (someone)",
+      "examples": [
+        "they were accused of slandering the head of state"
+      ],
+      "synonyms": [
+        "defame",
+        "defame someone's character",
+        "blacken someone's name",
+        "give someone a bad name",
+        "tell lies about",
+        "speak evil of",
+        "speak ill of",
+        "drag through the mire",
+        "drag through the mud",
+        "fling mud at",
+        "sling mud at",
+        "throw mud at",
+        "sully someone's reputation",
+        "libel",
+        "smear",
+        "run a smear campaign against",
+        "cast aspersions on",
+        "spread scandal about",
+        "besmirch",
+        "tarnish",
+        "taint",
+        "misrepresent"
+      ]
+    }
+  ],
+  "origin": "Middle English: from Old French esclandre, alteration of escandle, from late Latin scandalum (see scandal).",
+  "pronounciation": "/ˈslandər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/slander_us_1.mp3"
+}

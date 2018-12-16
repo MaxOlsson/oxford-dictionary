@@ -1,0 +1,29 @@
+{
+  "adjective": [
+    {
+      "description": "Wet and sticky; slushy.",
+      "examples": [
+        "the hoofprints are sloshy depressions"
+      ]
+    },
+    {
+      "description": "Excessively sentimental; sloppy.",
+      "examples": [
+        "the program is a sloshy and patronizing affair"
+      ],
+      "synonyms": [
+        "mawkish",
+        "over-sentimental",
+        "overemotional",
+        "cloying",
+        "sickly",
+        "saccharine",
+        "sugary",
+        "sugar-coated",
+        "syrupy"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈsläSHē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/sloshy_us_1.mp3"
+}

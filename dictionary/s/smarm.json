@@ -1,0 +1,63 @@
+{
+  "verb": [
+    {
+      "description": "Behave in an ingratiating way in order to gain favor.",
+      "examples": [
+        "I smarmed my way into the air force"
+      ],
+      "synonyms": [
+        "be obsequious to",
+        "be sycophantic to",
+        "be servile to",
+        "curry favour with",
+        "pay court to",
+        "play up to",
+        "crawl to",
+        "creep to",
+        "ingratiate oneself with",
+        "dance attendance on",
+        "fall over oneself for",
+        "kowtow to",
+        "toady to",
+        "truckle to",
+        "bow and scrape before",
+        "grovel before",
+        "cringe before",
+        "abase oneself before"
+      ]
+    },
+    {
+      "description": "Smooth down (one's hair) with water, oil, or gel.",
+      "examples": [
+        "he had smarmed his hair down"
+      ],
+      "synonyms": [
+        "smooth",
+        "sleek",
+        "flatten"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "Ingratiating behavior.",
+      "examples": [
+        "it takes a combination of smarm and confidence to persuade them"
+      ],
+      "synonyms": [
+        "blandishments",
+        "honeyed words",
+        "smooth talk",
+        "soft words",
+        "flattery",
+        "cajolery",
+        "coaxing",
+        "wheedling",
+        "compliments"
+      ]
+    }
+  ],
+  "origin": "Mid 19th century (originally dialect in the sense smear, bedaub): of unknown origin.",
+  "pronounciation": "/smärm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/smarm_us_1.mp3"
+}

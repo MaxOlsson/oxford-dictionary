@@ -1,0 +1,32 @@
+{
+  "noun": [
+    {
+      "description": "A person who concentrates primarily on a particular subject or activity; a person highly skilled in a specific and restricted field.",
+      "synonyms": [
+        "expert",
+        "authority",
+        "pundit",
+        "professional",
+        "consultant",
+        "connoisseur",
+        "fancier",
+        "master",
+        "maestro",
+        "adept",
+        "virtuoso",
+        "old hand",
+        "skilled person"
+      ]
+    }
+  ],
+  "adjective": [
+    {
+      "description": "Possessing or involving detailed knowledge or study of a restricted topic.",
+      "examples": [
+        "the project may involve people with specialist knowledge"
+      ]
+    }
+  ],
+  "pronounciation": "/ˈspɛʃ(ə)ləst/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/specialist_us_1.mp3"
+}

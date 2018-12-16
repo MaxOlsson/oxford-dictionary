@@ -1,0 +1,52 @@
+{
+  "verb": [
+    {
+      "description": "Push (someone or something) roughly.",
+      "examples": [
+        "they started pushing and shoving people out of the way",
+        "kids pushed, kicked, and shoved"
+      ],
+      "synonyms": [
+        "push",
+        "thrust",
+        "propel",
+        "impel"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A strong push.",
+      "examples": [
+        "she gave him a hefty shove and he nearly fell"
+      ],
+      "synonyms": [
+        "push",
+        "thrust",
+        "barge",
+        "ram",
+        "bump",
+        "bang",
+        "jolt",
+        "butt",
+        "knock",
+        "prod",
+        "poke",
+        "nudge",
+        "elbow",
+        "shoulder",
+        "jostle"
+      ]
+    }
+  ],
+  "phrases": [
+    "shove off—you're bothering the customers",
+    "I suddenly made up my mind, and with a few quick steps I was beside the boat, tossing in my buckets and shoving off.",
+    "Huck shoves off for a little island, hides the raft, and sleeps.",
+    "Laughing angrily at herself, she jumped into the rough boat and shoved off.",
+    "Feeling at a loss, we get into our canoe and shove off, and then any thoughts of the Dunns' welfare vanishes as we think of our own."
+  ],
+  "origin": "Old English scūfan (verb), of Germanic origin; related to Dutch schuiven and German schieben, also to shuffle.",
+  "pronounciation": "/ʃəv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shove_us_1.mp3"
+}

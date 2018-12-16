@@ -1,0 +1,32 @@
+{
+  "adjective": [
+    {
+      "description": "Very fashionable or up to date in style or influence.",
+      "examples": [
+        "I enjoyed being able to go out and buy trendy clothes"
+      ],
+      "synonyms": [
+        "fashionable",
+        "in fashion",
+        "in vogue",
+        "stylish",
+        "modish",
+        "chic",
+        "designer",
+        "up to date",
+        "up to the minute",
+        "latest",
+        "contemporary",
+        "popular",
+        "all the rage"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A person who is very fashionable or up to date."
+    }
+  ],
+  "pronounciation": "/ˈtrendē/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/trendy_us_1.mp3"
+}

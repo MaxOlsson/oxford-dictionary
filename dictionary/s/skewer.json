@@ -1,0 +1,43 @@
+{
+  "noun": [
+    {
+      "description": "A long piece of wood or metal used for holding pieces of food, typically meat, together during cooking."
+    }
+  ],
+  "verb": [
+    {
+      "description": "Fasten together or pierce with a pin or skewer.",
+      "examples": [
+        "skewer the cubes of beef, using six to eight per skewer"
+      ],
+      "synonyms": [
+        "pierce",
+        "puncture",
+        "make a hole in",
+        "put a hole in",
+        "stab",
+        "perforate",
+        "rupture",
+        "riddle",
+        "penetrate",
+        "nick",
+        "spear",
+        "slit",
+        "incise",
+        "knife",
+        "bore",
+        "spike",
+        "spit",
+        "stick",
+        "punch",
+        "pin",
+        "needle",
+        "jag",
+        "jab"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: of unknown origin.",
+  "pronounciation": "/ˈskyo͞oər/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/skewer_us_1.mp3"
+}

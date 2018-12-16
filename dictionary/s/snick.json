@@ -1,0 +1,75 @@
+{
+  "verb": [
+    {
+      "description": "Cut a small notch or incision in (something)",
+      "examples": [
+        "the stem can be carefully snicked to allow the bud to swell"
+      ],
+      "synonyms": [
+        "notch",
+        "nick",
+        "make an indentation in",
+        "make nicks in",
+        "make notches in",
+        "scallop",
+        "serrate",
+        "pink",
+        "cut",
+        "scratch",
+        "gash",
+        "slit",
+        "gouge",
+        "groove",
+        "furrow",
+        "dent"
+      ]
+    },
+    {
+      "description": "Cause (something) to make a sharp clicking sound.",
+      "examples": [
+        "he placed the pen in the briefcase and snicked it shut"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "A small notch or cut.",
+      "examples": [
+        "he had several shaving snicks"
+      ],
+      "synonyms": [
+        "cut",
+        "scratch",
+        "abrasion",
+        "incision",
+        "snick",
+        "scrape"
+      ]
+    },
+    {
+      "description": "A sharp click.",
+      "examples": [
+        "he heard the snick of the latch"
+      ],
+      "synonyms": [
+        "clicking",
+        "click",
+        "clack",
+        "clacking",
+        "click-clack",
+        "ticking",
+        "tick-tock",
+        "snick",
+        "snicking",
+        "plock",
+        "plocking",
+        "beat",
+        "tap",
+        "tapping"
+      ]
+    }
+  ],
+  "origin": "Late 17th century: probably from obsolete snick or snee fight with knives.",
+  "pronounciation": "/snik/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/snick_us_1.mp3"
+}

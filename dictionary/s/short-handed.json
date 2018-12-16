@@ -1,0 +1,21 @@
+{
+  "adjective": [
+    {
+      "description": "Not having enough or the usual number of staff or crew.",
+      "examples": [
+        "the kitchen was a bit short-handed",
+        "because two cashiers were out with the flu, we worked short-handed"
+      ],
+      "synonyms": [
+        "understaffed",
+        "undermanned",
+        "below strength"
+      ]
+    },
+    {
+      "description": "(of a goal) scored by a team playing with fewer players on the ice than their opponent."
+    }
+  ],
+  "pronounciation": "/ˌSHôrtˈhandəd/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/short_handed_1_us_2.mp3"
+}

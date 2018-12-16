@@ -1,0 +1,32 @@
+{
+  "verb": [
+    {
+      "description": "Place or arrange (items, especially books) on a shelf."
+    },
+    {
+      "description": "Decide not to proceed with (a project or plan), either temporarily or permanently.",
+      "examples": [
+        "plans to reopen the school have been shelved"
+      ],
+      "synonyms": [
+        "put to one side",
+        "lay aside",
+        "pigeonhole",
+        "stay",
+        "stand over",
+        "keep in abeyance",
+        "suspend",
+        "mothball"
+      ]
+    },
+    {
+      "description": "Fit with shelves.",
+      "examples": [
+        "one whole long wall was shelved"
+      ]
+    }
+  ],
+  "origin": "Late Middle English: origin uncertain; perhaps from shelf.",
+  "pronounciation": "/ʃɛlv/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/shelve_us_1.mp3"
+}

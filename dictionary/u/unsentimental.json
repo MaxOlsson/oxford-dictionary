@@ -1,0 +1,58 @@
+{
+  "adjective": [
+    {
+      "description": "Not displaying or influenced by sentimental feelings.",
+      "examples": [
+        "the speeches were short and unsentimental"
+      ],
+      "synonyms": [
+        "reserved",
+        "controlled",
+        "undemonstrative",
+        "restrained",
+        "self-controlled",
+        "impersonal",
+        "clinical",
+        "passionless",
+        "emotionless",
+        "cold",
+        "frigid",
+        "cool",
+        "calm",
+        "composed",
+        "collected",
+        "cool",
+        "calm",
+        "and collected",
+        "cool-headed",
+        "level-headed",
+        "hard-headed",
+        "businesslike",
+        "rational",
+        "sober",
+        "unfeeling",
+        "unresponsive",
+        "unexcitable",
+        "unmoved",
+        "unagitated",
+        "unruffled",
+        "serene",
+        "impassive",
+        "tranquil",
+        "indifferent",
+        "apathetic",
+        "phlegmatic",
+        "stoical",
+        "equable",
+        "detached",
+        "distant",
+        "remote",
+        "aloof",
+        "disinterested",
+        "unconcerned"
+      ]
+    }
+  ],
+  "pronounciation": "/ˌənˌsen(t)əˈmen(t)l/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/unsentimental_us_1.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "verb": [
+    {
+      "description": "Engulf, submerge, or bury (someone or something)",
+      "examples": [
+        "a swimmer whelmed in a raging storm"
+      ],
+      "synonyms": [
+        "befall",
+        "happen to",
+        "come upon",
+        "hit",
+        "strike",
+        "fall on",
+        "overwhelm",
+        "overpower",
+        "overcome",
+        "be visited on",
+        "engulf",
+        "sweep over",
+        "take by surprise",
+        "surprise",
+        "catch unawares",
+        "catch unprepared",
+        "catch off guard"
+      ]
+    }
+  ],
+  "noun": [
+    {
+      "description": "An act or instance of flowing or heaping up abundantly; a surge.",
+      "examples": [
+        "the whelm of the tide"
+      ]
+    }
+  ],
+  "origin": "Middle English: representing an Old English form parallel to hwelfan overturn (a vessel).",
+  "pronounciation": "/(h)wɛlm/",
+  "audio": "https://s3.amazonaws.com/audio.oxforddictionaries.com/en/mp3/whelm_us_1.mp3"
+}
